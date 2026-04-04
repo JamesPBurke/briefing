@@ -1,12 +1,21 @@
 # James Daily Briefing
 
-Generated: 2026-04-04T13:15:10.771079Z
+Generated: 2026-04-04T14:05:53.040571Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution, Manchester City v Liverpool: FA Cup quarter-final – live, and ‘Feels like history is being made’: will young Hungarian voters oust Orbán?.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Anker’s Nebula P1 projector is the portable sound king, Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution, and #MilitaryTok reactions to Iran war stray from White House messaging: ‘Now I’m regretting everything’.
 
 ## Briefing
 
-### 1. Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution [10/10]
+### 1. Anker’s Nebula P1 projector is the portable sound king [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The Soundcore Nebula P1 from Anker isn't the most portable Google TV projector I've ever reviewed, nor is it the brightest. It doesn't even have a built-in battery. Instead it's a decent video device that focuses on sound.
+
+Link: https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ
+
+### 2. Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution [10/10]
 **Source:** 404 Media  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -15,16 +24,34 @@ Native Americans were playing dice and other games of chance many millennia befo
 
 Link: https://www.404media.co/gambling-is-thousands-of-years-older-than-we-thought-rewriting-human-evolution/
 
-### 2. Manchester City v Liverpool: FA Cup quarter-final – live [10/10]
+### 3. #MilitaryTok reactions to Iran war stray from White House messaging: ‘Now I’m regretting everything’ [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-⚽️ FA Cup updates from 12.
+As Trump’s administration aims to bring ‘warrior culture’ back to the military, young service members express anxiety and snark online over potential deployment If posts coming from the White House were to be believed, the US-Israel war on…
 
-Link: https://www.theguardian.com/football/live/2026/apr/04/manchester-city-v-liverpool-fa-cup-quarter-final-live
+Link: https://www.theguardian.com/us-news/2026/apr/04/military-tiktok-iran-war-trump-hegseth
 
-### 3. ‘Feels like history is being made’: will young Hungarian voters oust Orbán? [10/10]
+### 4. A Fox host says ‘many people’ think women shouldn’t be president. Thank goodness we’ve got a man in charge | Arwa Mahdawi [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Jesse Watters gave a litany of reasons why women shouldn’t lead before denying he agreed. But peddling these ideas normalizes them Oh dear, it looks like Jesse Watters’ mother needs to give him a good talking to again.
+
+Link: https://www.theguardian.com/commentisfree/2026/apr/04/jesse-watters-fox-pam-bondi-darfur-lebanon-senegal
+
+### 5. ‘Unconstrained’ Trump seems to be on a quest to name most everything after himself [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+President has affixed his name to institutions and edifices, and his visage now glowers from several federal buildings The US has a history of naming things after its presidents.
+
+Link: https://www.theguardian.com/us-news/2026/apr/04/trump-naming-spree-presidents
+
+### 6. ‘Feels like history is being made’: will young Hungarian voters oust Orbán? [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -33,7 +60,7 @@ The rightwing populist has been in power for 16 years but a new generation of vo
 
 Link: https://www.theguardian.com/world/2026/apr/04/young-people-hungary-general-election-polls-viktor-orban
 
-### 4. Inside Los Angeles Unified’s Hidden World of Art, Archives and Artifacts [10/10]
+### 7. Inside Los Angeles Unified’s Hidden World of Art, Archives and Artifacts [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -41,33 +68,6 @@ Link: https://www.theguardian.com/world/2026/apr/04/young-people-hungary-general
 Embarking on a treasure hunt for the art and artifacts held by the Los Angeles Unified School District is no small feat.
 
 Link: https://www.the74million.org/article/inside-los-angeles-unifieds-hidden-world-of-art-archives-and-artifacts/
-
-### 5. ‘Racist ideology lodges itself amid austerity politics’: newly elected French mayor on tackling far right [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Bally Bagayoko, who was targeted by racist abuse after winning Saint-Denis mayorship, vows to tackle inequality to stem deepening divisions A French mayor who faced a barrage of racist insults that are being investigated by police has…
-
-Link: https://www.theguardian.com/world/2026/apr/04/bally-bagayoko-austerity-politics-french-mayor-tackling-far-right
-
-### 6. As Team Trump wage unceasing war on Iran, evangelical nationalists are destroying any moral world order we once had | Simon Tisdall [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The brutalisation of global norms by figures like Pete Hegseth must be seen as an ethical issue.
-
-Link: https://www.theguardian.com/commentisfree/2026/apr/04/donald-trump-iran-war-evangelical-nationalists-moral-world-order-pete-hegseth
-
-### 7. Trump news at a glance: president enlists JD Vance as his ‘fraud czar’, targeting Democratic states [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Trump said Vance would focus on blue states and, without providing evidence, accused Democrat leaders of rampant ‘theft’ – key US politics stories from Friday 3 April at a glance Donald Trump has given his vice-president, JD Vance, a new…
-
-Link: https://www.theguardian.com/us-news/2026/apr/03/trump-news-at-a-glance-jd-vance
 
 ### 8. What we've been playing - "like a seagull by a bin, I decided to have a peck" [9/10]
 **Source:** Eurogamer  
@@ -134,6 +134,15 @@ This week on Dev Heads, Tina, JM8, and Mikee chat about the weight that's curren
 
 Link: https://www.youtube.com/watch?v=OBIqjaNTPqE
 
+### Trump ousts Pam Bondi as attorney general [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+President Trump announced Thursday that Attorney General Pam Bondi is out from the top job at the Justice Department.
+
+Link: https://www.youtube.com/watch?v=tZ7PQlQN9rw
+
 ### Marathon, Player Counts, and Industry Anxiety | Unpacked [9/10]
 **Creator:** Second Wind  
 **Verdict:** Watch it  
@@ -152,14 +161,21 @@ Link: https://www.youtube.com/watch?v=5QpzpGOh6aM
 
 Link: https://www.youtube.com/watch?v=3QSdOptc5FA
 
-### Marathon, Crimson Desert, and Super Mario Wonder Have a Hold on Us | Firelink Podcast [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+## Entertainment Recommendations
 
-This week on Firelink, Nick, KC, and Marty are back together to chat about the news, as well as their continued time spent with Marathon, Crimson Desert, and Super Mario Bros. Wonder on Switch 2.
+### Newer shows that look like a fit
 
-Link: https://www.youtube.com/watch?v=IPxTeriXXes
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Dark Matter (2024)** — Multiverse thriller with a more human, identity-centered angle than generic concept TV.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+
+### Older shows you may have missed
+
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Fringe** — Monster-of-the-week procedural that grows into ambitious, emotionally committed science fiction.
+- **Babylon 5** — If you want more long-form science fiction with political and philosophical ambitions, it is an obvious candidate.
+- **Person of Interest** — Surveillance, AI, procedural structure, and moral seriousness — surprisingly on-brand for your interests.
 
 ## Trailers / Previews
 
@@ -180,21 +196,3 @@ Link: https://www.youtube.com/watch?v=qPiAZGQHylY
 https://store.playstation.com/concept/10012270 The Bunny Graveyard comes to PlayStation 5! Dive into a pixel-art horror adventure where you play as a cursor pulled into a mysterious digital world.
 
 Link: https://www.youtube.com/watch?v=L4uqsjCckR4
-
-### Xbox Games Showcase Returns & More | This Week on Xbox [9/10]
-**Source:** Xbox  
-**Verdict:** Looks promising  
-**Why it matters:** Worth flagging when it looks meaningfully aligned with your game/horror/design interests.
-
-Time to mark your calendars! The Xbox Games Showcase returns this summer! And, we have a recap of what you missed during our Partner Preview...plus even more game releases and updates on the way! Let’s jump in.
-
-Link: https://www.youtube.com/watch?v=K4910O2od6Q
-
-### Starfield - Features Trailer | PS5 Games [9/10]
-**Source:** PlayStation  
-**Verdict:** Looks promising  
-**Why it matters:** Worth flagging when it looks meaningfully aligned with your game/horror/design interests.
-
-A new group of explorers is about to chart its course among the stars when Starfield lands on PlayStation 5 on April 7.
-
-Link: https://www.youtube.com/watch?v=CROPDgbichs

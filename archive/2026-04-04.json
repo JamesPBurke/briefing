@@ -1,9 +1,19 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-04T13:15:10.771079Z",
+  "generatedAt": "2026-04-04T14:05:53.040571Z",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution, Manchester City v Liverpool: FA Cup quarter-final – live, and ‘Feels like history is being made’: will young Hungarian voters oust Orbán?.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Anker’s Nebula P1 projector is the portable sound king, Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution, and #MilitaryTok reactions to Iran war stray from White House messaging: ‘Now I’m regretting everything’.",
   "mainItems": [
+    {
+      "title": "Anker’s Nebula P1 projector is the portable sound king",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ",
+      "published": "2026-04-04T13:29:04+00:00",
+      "summary": "The Soundcore Nebula P1 from Anker isn't the most portable Google TV projector I've ever reviewed, nor is it the brightest. It doesn't even have a built-in battery. Instead it's a decent video device that focuses on sound.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution",
       "source": "404 Media",
@@ -15,12 +25,32 @@
       "score": 10
     },
     {
-      "title": "Manchester City v Liverpool: FA Cup quarter-final – live",
+      "title": "#MilitaryTok reactions to Iran war stray from White House messaging: ‘Now I’m regretting everything’",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/football/live/2026/apr/04/manchester-city-v-liverpool-fa-cup-quarter-final-live",
-      "published": "2026-04-04T12:58:47+00:00",
-      "summary": "⚽️ FA Cup updates from 12.",
+      "url": "https://www.theguardian.com/us-news/2026/apr/04/military-tiktok-iran-war-trump-hegseth",
+      "published": "2026-04-04T13:00:22+00:00",
+      "summary": "As Trump’s administration aims to bring ‘warrior culture’ back to the military, young service members express anxiety and snark online over potential deployment If posts coming from the White House were to be believed, the US-Israel war on…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "A Fox host says ‘many people’ think women shouldn’t be president. Thank goodness we’ve got a man in charge | Arwa Mahdawi",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/04/jesse-watters-fox-pam-bondi-darfur-lebanon-senegal",
+      "published": "2026-04-04T13:00:21+00:00",
+      "summary": "Jesse Watters gave a litany of reasons why women shouldn’t lead before denying he agreed. But peddling these ideas normalizes them Oh dear, it looks like Jesse Watters’ mother needs to give him a good talking to again.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Unconstrained’ Trump seems to be on a quest to name most everything after himself",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/04/trump-naming-spree-presidents",
+      "published": "2026-04-04T12:00:21+00:00",
+      "summary": "President has affixed his name to institutions and edifices, and his visage now glowers from several federal buildings The US has a history of naming things after its presidents.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -42,36 +72,6 @@
       "published": "2026-04-04T10:30:00+00:00",
       "summary": "Embarking on a treasure hunt for the art and artifacts held by the Los Angeles Unified School District is no small feat.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "‘Racist ideology lodges itself amid austerity politics’: newly elected French mayor on tackling far right",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/apr/04/bally-bagayoko-austerity-politics-french-mayor-tackling-far-right",
-      "published": "2026-04-04T07:47:48+00:00",
-      "summary": "Bally Bagayoko, who was targeted by racist abuse after winning Saint-Denis mayorship, vows to tackle inequality to stem deepening divisions A French mayor who faced a barrage of racist insults that are being investigated by police has…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "As Team Trump wage unceasing war on Iran, evangelical nationalists are destroying any moral world order we once had | Simon Tisdall",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/04/donald-trump-iran-war-evangelical-nationalists-moral-world-order-pete-hegseth",
-      "published": "2026-04-04T05:00:13+00:00",
-      "summary": "The brutalisation of global norms by figures like Pete Hegseth must be seen as an ethical issue.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump news at a glance: president enlists JD Vance as his ‘fraud czar’, targeting Democratic states",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/03/trump-news-at-a-glance-jd-vance",
-      "published": "2026-04-04T01:00:07+00:00",
-      "summary": "Trump said Vance would focus on blue states and, without providing evidence, accused Democrat leaders of rampant ‘theft’ – key US politics stories from Friday 3 April at a glance Donald Trump has given his vice-president, JD Vance, a new…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -148,6 +148,17 @@
       "verdict": "Watch it"
     },
     {
+      "title": "Trump ousts Pam Bondi as attorney general",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=tZ7PQlQN9rw",
+      "published": "2026-04-03T15:01:35+00:00",
+      "summary": "President Trump announced Thursday that Attorney General Pam Bondi is out from the top job at the Justice Department.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
       "title": "Marathon, Player Counts, and Industry Anxiety | Unpacked",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -166,17 +177,6 @@
       "published": "2026-04-03T16:00:05+00:00",
       "summary": "► Content sponsored by MSI - click here to learn more about the MPG 341CQR QD-OLED X36: https://msi.gm/S5946AA5I ► Watch the FULL Video Here: https://youtu.be/hwJyTquSo80 ► Support us on Patreon! https://bit.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Marathon, Crimson Desert, and Super Mario Wonder Have a Hold on Us | Firelink Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=IPxTeriXXes",
-      "published": "2026-04-03T01:40:45+00:00",
-      "summary": "This week on Firelink, Nick, KC, and Marty are back together to chat about the news, as well as their continued time spent with Marathon, Crimson Desert, and Super Mario Bros. Wonder on Switch 2.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
     }
@@ -203,34 +203,50 @@
       "whyItMatters": "Worth flagging when it looks meaningfully aligned with your game/horror/design interests.",
       "score": 9,
       "verdict": "Looks promising"
-    },
-    {
-      "title": "Xbox Games Showcase Returns & More | This Week on Xbox",
-      "source": "Xbox",
-      "category": "Game / trailer",
-      "url": "https://www.youtube.com/watch?v=K4910O2od6Q",
-      "published": "2026-04-03T16:00:36+00:00",
-      "summary": "Time to mark your calendars! The Xbox Games Showcase returns this summer! And, we have a recap of what you missed during our Partner Preview...plus even more game releases and updates on the way! Let’s jump in.",
-      "whyItMatters": "Worth flagging when it looks meaningfully aligned with your game/horror/design interests.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Starfield - Features Trailer | PS5 Games",
-      "source": "PlayStation",
-      "category": "Game / trailer",
-      "url": "https://www.youtube.com/watch?v=CROPDgbichs",
-      "published": "2026-04-03T15:00:00+00:00",
-      "summary": "A new group of explorers is about to chart its course among the stars when Starfield lands on PlayStation 5 on April 7.",
-      "whyItMatters": "Worth flagging when it looks meaningfully aligned with your game/horror/design interests.",
-      "score": 9,
-      "verdict": "Looks promising"
     }
   ],
+  "recommendations": {
+    "new": [
+      {
+        "title": "Scavengers Reign",
+        "why": "Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF."
+      },
+      {
+        "title": "Dark Matter (2024)",
+        "why": "Multiverse thriller with a more human, identity-centered angle than generic concept TV."
+      },
+      {
+        "title": "Sugar",
+        "why": "Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap."
+      },
+      {
+        "title": "The Lazarus Project",
+        "why": "Time-loop espionage, moral pressure, and speculative plotting — very plausible fit."
+      }
+    ],
+    "older": [
+      {
+        "title": "Patriot",
+        "why": "Dry, strange, melancholy spy storytelling with a very distinct voice."
+      },
+      {
+        "title": "Fringe",
+        "why": "Monster-of-the-week procedural that grows into ambitious, emotionally committed science fiction."
+      },
+      {
+        "title": "Babylon 5",
+        "why": "If you want more long-form science fiction with political and philosophical ambitions, it is an obvious candidate."
+      },
+      {
+        "title": "Person of Interest",
+        "why": "Surveillance, AI, procedural structure, and moral seriousness — surprisingly on-brand for your interests."
+      }
+    ]
+  },
   "stats": {
     "mainCount": 13,
     "youtubeCount": 4,
-    "trailerCount": 4,
+    "trailerCount": 2,
     "sourceCount": 11
   }
 }
