@@ -136,7 +136,7 @@
     }
     .compact-card h4 { margin: 0 0 8px; font-size: .98rem; line-height: 1.35; }
     .compact-card p { margin: 0; color: var(--muted); line-height: 1.55; }
-    .rec-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+    .rec-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
     .rec-card { border: 1px solid var(--line); border-radius: 18px; padding: 14px; background: rgba(255,255,255,.03); }
     .rec-card h4 { margin: 0 0 10px; font-size: .95rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
     .rec-item { padding: 10px 0; border-top: 1px solid rgba(255,255,255,.06); }
@@ -247,6 +247,10 @@
             <div class="rec-card">
               <h4>Older possible misses</h4>
               <div id="rec-older"><div class="empty">No recommendations loaded.</div></div>
+            </div>
+            <div class="rec-card">
+              <h4>Maggie + James</h4>
+              <div id="rec-shared"><div class="empty">No shared-watch recommendations loaded.</div></div>
             </div>
           </div>
         </section>
@@ -368,6 +372,7 @@
         }
         if (data.recommendations?.new?.length) renderRecs(data.recommendations.new, document.getElementById('rec-new'));
         if (data.recommendations?.older?.length) renderRecs(data.recommendations.older, document.getElementById('rec-older'));
+        if (data.recommendations?.shared?.length) renderRecs(data.recommendations.shared, document.getElementById('rec-shared'));
       })
       .catch(err => console.error(err));
 

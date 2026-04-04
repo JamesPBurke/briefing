@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-04T14:05:53.040571Z
+Generated: 2026-04-04T14:15:59.712127Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Anker’s Nebula P1 projector is the portable sound king, Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution, and #MilitaryTok reactions to Iran war stray from White House messaging: ‘Now I’m regretting everything’.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Anker’s Nebula P1 projector is the portable sound king, Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution, and A Fox host says ‘many people’ think women shouldn’t be president. Thank goodness we’ve got a man in charge | Arwa Mahdawi.
 
 ## Briefing
 
@@ -24,16 +24,7 @@ Native Americans were playing dice and other games of chance many millennia befo
 
 Link: https://www.404media.co/gambling-is-thousands-of-years-older-than-we-thought-rewriting-human-evolution/
 
-### 3. #MilitaryTok reactions to Iran war stray from White House messaging: ‘Now I’m regretting everything’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-As Trump’s administration aims to bring ‘warrior culture’ back to the military, young service members express anxiety and snark online over potential deployment If posts coming from the White House were to be believed, the US-Israel war on…
-
-Link: https://www.theguardian.com/us-news/2026/apr/04/military-tiktok-iran-war-trump-hegseth
-
-### 4. A Fox host says ‘many people’ think women shouldn’t be president. Thank goodness we’ve got a man in charge | Arwa Mahdawi [10/10]
+### 3. A Fox host says ‘many people’ think women shouldn’t be president. Thank goodness we’ve got a man in charge | Arwa Mahdawi [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,16 +33,7 @@ Jesse Watters gave a litany of reasons why women shouldn’t lead before denying
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/04/jesse-watters-fox-pam-bondi-darfur-lebanon-senegal
 
-### 5. ‘Unconstrained’ Trump seems to be on a quest to name most everything after himself [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-President has affixed his name to institutions and edifices, and his visage now glowers from several federal buildings The US has a history of naming things after its presidents.
-
-Link: https://www.theguardian.com/us-news/2026/apr/04/trump-naming-spree-presidents
-
-### 6. ‘Feels like history is being made’: will young Hungarian voters oust Orbán? [10/10]
+### 4. ‘Feels like history is being made’: will young Hungarian voters oust Orbán? [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -60,7 +42,7 @@ The rightwing populist has been in power for 16 years but a new generation of vo
 
 Link: https://www.theguardian.com/world/2026/apr/04/young-people-hungary-general-election-polls-viktor-orban
 
-### 7. Inside Los Angeles Unified’s Hidden World of Art, Archives and Artifacts [10/10]
+### 5. Inside Los Angeles Unified’s Hidden World of Art, Archives and Artifacts [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -68,6 +50,24 @@ Link: https://www.theguardian.com/world/2026/apr/04/young-people-hungary-general
 Embarking on a treasure hunt for the art and artifacts held by the Los Angeles Unified School District is no small feat.
 
 Link: https://www.the74million.org/article/inside-los-angeles-unifieds-hidden-world-of-art-archives-and-artifacts/
+
+### 6. ‘Racist ideology lodges itself amid austerity politics’: newly elected French mayor on tackling far right [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Bally Bagayoko, who was targeted by racist abuse after winning Saint-Denis mayorship, vows to tackle inequality to stem deepening divisions A French mayor who faced a barrage of racist insults that are being investigated by police has…
+
+Link: https://www.theguardian.com/world/2026/apr/04/bally-bagayoko-austerity-politics-french-mayor-tackling-far-right
+
+### 7. Trump news at a glance: president enlists JD Vance as his ‘fraud czar’, targeting Democratic states [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Trump said Vance would focus on blue states and, without providing evidence, accused Democrat leaders of rampant ‘theft’ – key US politics stories from Friday 3 April at a glance Donald Trump has given his vice-president, JD Vance, a new…
+
+Link: https://www.theguardian.com/us-news/2026/apr/03/trump-news-at-a-glance-jd-vance
 
 ### 8. What we've been playing - "like a seagull by a bin, I decided to have a peck" [9/10]
 **Source:** Eurogamer  
@@ -87,14 +87,14 @@ OpenAI is undergoing another round of C-suite changes, according to an internal 
 
 Link: https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence
 
-### 10. Dr. Sanjay Gupta explains what we do — and still don't — know about pain [8/10]
+### 10. Congress gave money for global HIV work. The Trump administration isn't spending it [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-"Pain is a mysterious thing," says neurosurgeon Dr. Sanjay Gupta. But understanding how it works in the body and different kinds of treatment can help you find the right pain relief when you need it.
+U.S. work combatting HIV/AIDS has saved millions of lives globally. Under the Trump administration, funding has been slow in coming and unpredictable, wreaking havoc on people trying to do the work.
 
-Link: https://www.npr.org/2026/04/04/nx-s1-5699477/pain-science-sanjay-gupta
+Link: https://www.npr.org/2026/04/04/nx-s1-5763938/hiv-aids-pepfar-funding-delays-may-shut-down-lifesaving-aid
 
 ### 11. Behind the Blog: Systems As Designed [8/10]
 **Source:** 404 Media  
@@ -173,20 +173,18 @@ Link: https://www.youtube.com/watch?v=3QSdOptc5FA
 ### Older shows you may have missed
 
 - **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
-- **Fringe** — Monster-of-the-week procedural that grows into ambitious, emotionally committed science fiction.
-- **Babylon 5** — If you want more long-form science fiction with political and philosophical ambitions, it is an obvious candidate.
-- **Person of Interest** — Surveillance, AI, procedural structure, and moral seriousness — surprisingly on-brand for your interests.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Deadwood** — If you want language, moral complexity, and character density more than genre comfort, this is a strong older miss possibility.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Ludwig** — A strong Maggie-and-James candidate if you want a clever British procedural with warmth rather than pure gloom.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
 
 ## Trailers / Previews
-
-### MLB The Show 26 - Accolades Trailer | PS5 Games [9/10]
-**Source:** PlayStation  
-**Verdict:** Looks promising  
-**Why it matters:** Worth flagging when it looks meaningfully aligned with your game/horror/design interests.
-
-Available Now: https://www.playstation.com/en-us/gam... MLB The Show 26 is now available, and this year it's all about the journey.
-
-Link: https://www.youtube.com/watch?v=qPiAZGQHylY
 
 ### The Bunny Graveyard - Announcement Trailer | PS5 Games [9/10]
 **Source:** PlayStation  
@@ -196,3 +194,12 @@ Link: https://www.youtube.com/watch?v=qPiAZGQHylY
 https://store.playstation.com/concept/10012270 The Bunny Graveyard comes to PlayStation 5! Dive into a pixel-art horror adventure where you play as a cursor pulled into a mysterious digital world.
 
 Link: https://www.youtube.com/watch?v=L4uqsjCckR4
+
+### Starfield - Features Trailer | PS5 Games [9/10]
+**Source:** PlayStation  
+**Verdict:** Looks promising  
+**Why it matters:** Worth flagging when it looks meaningfully aligned with your game/horror/design interests.
+
+A new group of explorers is about to chart its course among the stars when Starfield lands on PlayStation 5 on April 7.
+
+Link: https://www.youtube.com/watch?v=CROPDgbichs
