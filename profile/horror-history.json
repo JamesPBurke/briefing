@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T18:56:22Z",
+  "updatedAt": "2026-04-04T19:50:28Z",
   "entries": [
     {
       "title": "Hannibal",
@@ -110,6 +110,14 @@
       "mediaType": "film",
       "createdAt": "2026-04-04T18:56:22Z",
       "updatedAt": "2026-04-04T18:56:22Z",
+      "liked": true,
+      "notes": "Letterboxd export; liked."
+    },
+    {
+      "title": "I Saw the TV Glow",
+      "mediaType": "film",
+      "createdAt": "2026-04-04T19:50:28Z",
+      "updatedAt": "2026-04-04T19:50:28Z",
       "liked": true,
       "notes": "Letterboxd export; liked."
     }
