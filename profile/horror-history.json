@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T18:30:27Z",
+  "updatedAt": "2026-04-04T18:35:28Z",
   "entries": [
     {
       "title": "Hannibal",
@@ -8,6 +8,22 @@
       "updatedAt": "2026-04-04T18:30:27Z",
       "liked": true,
       "notes": "All-time favorite horror TV; Bryan Fuller lane."
+    },
+    {
+      "title": "The Substance",
+      "mediaType": "film",
+      "createdAt": "2026-04-04T18:35:28Z",
+      "updatedAt": "2026-04-04T18:35:28Z",
+      "liked": true,
+      "notes": "Found in Letterboxd RSS feed; 4.5★ and liked."
+    },
+    {
+      "title": "Prometheus",
+      "mediaType": "film",
+      "createdAt": "2026-04-04T18:35:28Z",
+      "updatedAt": "2026-04-04T18:35:28Z",
+      "liked": true,
+      "notes": "Found in Letterboxd RSS feed; 4★ and liked."
     }
   ]
 }
