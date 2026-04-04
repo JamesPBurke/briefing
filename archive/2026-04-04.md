@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-04T14:15:59.712127Z
+Generated: 2026-04-04T14:17:55.651369Z
 
 Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Anker’s Nebula P1 projector is the portable sound king, Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution, and A Fox host says ‘many people’ think women shouldn’t be president. Thank goodness we’ve got a man in charge | Arwa Mahdawi.
 
@@ -166,23 +166,23 @@ Link: https://www.youtube.com/watch?v=3QSdOptc5FA
 ### Newer shows that look like a fit
 
 - **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
-- **Dark Matter (2024)** — Multiverse thriller with a more human, identity-centered angle than generic concept TV.
 - **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
 - **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Black Doves** — Spy thriller territory with relationship drama and high-concept intrigue.
 
 ### Older shows you may have missed
 
 - **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
-- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
 - **Deadwood** — If you want language, moral complexity, and character density more than genre comfort, this is a strong older miss possibility.
 - **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
 
 ### Maggie + James overlap
 
 - **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
-- **Ludwig** — A strong Maggie-and-James candidate if you want a clever British procedural with warmth rather than pure gloom.
 - **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
 - **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
 
 ## Trailers / Previews
 
