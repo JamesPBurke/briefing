@@ -1,0 +1,340 @@
+{
+  "updatedAt": "2026-04-04T21:48:17Z",
+  "source": "direct user message + normalization from speech-to-text",
+  "watched": [
+    {
+      "title": "Game of Thrones"
+    },
+    {
+      "title": "Murderbot"
+    },
+    {
+      "title": "Silo"
+    },
+    {
+      "title": "Resident Alien"
+    },
+    {
+      "title": "Bosch"
+    },
+    {
+      "title": "Dark Winds"
+    },
+    {
+      "title": "Department Q",
+      "aliases": [
+        "Dept. Q"
+      ]
+    },
+    {
+      "title": "Broadchurch"
+    },
+    {
+      "title": "Deadloch",
+      "aliases": [
+        "deadlock"
+      ]
+    },
+    {
+      "title": "Jury Duty"
+    },
+    {
+      "title": "Justified"
+    },
+    {
+      "title": "Shetland"
+    },
+    {
+      "title": "Sherwood"
+    },
+    {
+      "title": "Slow Horses"
+    },
+    {
+      "title": "The Americans"
+    },
+    {
+      "title": "Strike"
+    },
+    {
+      "title": "The Diplomat"
+    },
+    {
+      "title": "Unforgotten"
+    },
+    {
+      "title": "True Detective"
+    },
+    {
+      "title": "Vera"
+    },
+    {
+      "title": "3 Body Problem",
+      "aliases": [
+        "three body problem"
+      ]
+    },
+    {
+      "title": "24"
+    },
+    {
+      "title": "A Man on the Inside"
+    },
+    {
+      "title": "Absolutely Fabulous"
+    },
+    {
+      "title": "Agatha All Along"
+    },
+    {
+      "title": "After the Flood"
+    },
+    {
+      "title": "Andor",
+      "aliases": [
+        "and or",
+        "a n d o r"
+      ]
+    },
+    {
+      "title": "Breaking Bad"
+    },
+    {
+      "title": "Brooklyn Nine-Nine"
+    },
+    {
+      "title": "Dalgliesh",
+      "aliases": [
+        "dog leash"
+      ]
+    },
+    {
+      "title": "Down Cemetery Road"
+    },
+    {
+      "title": "English Teacher"
+    },
+    {
+      "title": "Fargo"
+    },
+    {
+      "title": "Goliath"
+    },
+    {
+      "title": "Good Omens"
+    },
+    {
+      "title": "Great Expectations"
+    },
+    {
+      "title": "High Town"
+    },
+    {
+      "title": "House"
+    },
+    {
+      "title": "Inside Man"
+    },
+    {
+      "title": "Karen Pirie",
+      "aliases": [
+        "Karen Perry"
+      ]
+    },
+    {
+      "title": "Letterkenny"
+    },
+    {
+      "title": "Loki"
+    },
+    {
+      "title": "Lost"
+    },
+    {
+      "title": "Lost in Space"
+    },
+    {
+      "title": "Lucky Hank"
+    },
+    {
+      "title": "Marcella"
+    },
+    {
+      "title": "Matlock"
+    },
+    {
+      "title": "Mayor of Kingstown"
+    },
+    {
+      "title": "Midnight Mass"
+    },
+    {
+      "title": "Motherland"
+    },
+    {
+      "title": "Narcos"
+    },
+    {
+      "title": "Narcos: Mexico"
+    },
+    {
+      "title": "Nine Perfect Strangers"
+    },
+    {
+      "title": "Obi-Wan Kenobi"
+    },
+    {
+      "title": "Only Murders in the Building"
+    },
+    {
+      "title": "Our Flag Means Death"
+    },
+    {
+      "title": "Ozark"
+    },
+    {
+      "title": "Pluribus"
+    },
+    {
+      "title": "Presumed Innocent"
+    },
+    {
+      "title": "Poker Face"
+    },
+    {
+      "title": "Reservation Dogs"
+    },
+    {
+      "title": "Schitt's Creek"
+    },
+    {
+      "title": "Severance"
+    },
+    {
+      "title": "Shōgun"
+    },
+    {
+      "title": "Star Wars Rebels"
+    },
+    {
+      "title": "Star Wars: The Clone Wars"
+    },
+    {
+      "title": "Star Wars: The Bad Batch"
+    },
+    {
+      "title": "Star Wars: Skeleton Crew"
+    },
+    {
+      "title": "Stath Lets Flats",
+      "aliases": [
+        "staff lets flats"
+      ]
+    },
+    {
+      "title": "Stranger Things"
+    },
+    {
+      "title": "Task"
+    },
+    {
+      "title": "Ted Lasso"
+    },
+    {
+      "title": "The Acolyte"
+    },
+    {
+      "title": "The Book of Boba Fett"
+    },
+    {
+      "title": "The Cleaner"
+    },
+    {
+      "title": "The Decameron"
+    },
+    {
+      "title": "The Mandalorian"
+    },
+    {
+      "title": "The OA"
+    },
+    {
+      "title": "The Office (US)"
+    },
+    {
+      "title": "The Pitt",
+      "aliases": [
+        "The Pit"
+      ]
+    },
+    {
+      "title": "The White Lotus"
+    },
+    {
+      "title": "The Wire"
+    },
+    {
+      "title": "Under the Dome"
+    },
+    {
+      "title": "Vice Principals"
+    },
+    {
+      "title": "Westworld"
+    },
+    {
+      "title": "Derry Girls"
+    },
+    {
+      "title": "The Last of Us"
+    },
+    {
+      "title": "Yellowjackets"
+    },
+    {
+      "title": "The Terror"
+    },
+    {
+      "title": "Teacup"
+    },
+    {
+      "title": "Buffy the Vampire Slayer"
+    },
+    {
+      "title": "True Blood"
+    },
+    {
+      "title": "Ash vs Evil Dead"
+    },
+    {
+      "title": "Fear the Walking Dead"
+    },
+    {
+      "title": "What We Do in the Shadows"
+    },
+    {
+      "title": "Twin Peaks"
+    },
+    {
+      "title": "American Horror Story"
+    },
+    {
+      "title": "American Horror Stories"
+    },
+    {
+      "title": "Servant"
+    },
+    {
+      "title": "IT: Welcome to Derry"
+    },
+    {
+      "title": "Dark"
+    },
+    {
+      "title": "Resident Evil: Infinite Darkness"
+    },
+    {
+      "title": "Feria: The Darkest Light"
+    }
+  ]
+}

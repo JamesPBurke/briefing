@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-04T19:48:54.811651Z",
+  "generatedAt": "2026-04-04T21:48:18.000834Z",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Halting $400m White House ballroom project is national security risk, Trump officials say, Comedy games are alive and well in Horse Magnifier, a game where you do just that, and Federal judge halts White House effort to collect university data on applicants’ race.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Halting $400m White House ballroom project is national security risk, Trump officials say, Comedy games are alive and well in Horse Magnifier, a game where you do just that, and ‘Horror movie’: officials investigate after 21 dead dogs wash up on Washington state shore.",
   "mainItems": [
     {
       "title": "Halting $400m White House ballroom project is national security risk, Trump officials say",
@@ -22,16 +22,6 @@
       "published": "2026-04-04T18:07:18+00:00",
       "summary": "I am not going to drudge up the half decomposed discourse around whether games are art or not. They most certainly offer up a huge range of experiences that other mediums do not.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Federal judge halts White House effort to collect university data on applicants’ race",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/apr/04/judge-halts-trump-administration-demand-university-applicants-race",
-      "published": "2026-04-04T17:02:14+00:00",
-      "summary": "Trump ordered data collection after raising concern about race being used as factor in college admissions A federal judge on Friday halted efforts by the Trump administration to collect data that proves higher education institutions aren’t…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
@@ -85,16 +75,6 @@
       "score": 10
     },
     {
-      "title": "Second suspect arrested in Brooklyn stray-bullet killing of seven-month-old baby",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/04/second-suspect-arrested-brooklyn-baby-killing",
-      "published": "2026-04-04T15:09:40+00:00",
-      "summary": "Matthew Rodriguez, 18, was apprehended in Pennsylvania in connection to shooting that killed Kaori Patterson-Moore A second suspect in the stray-bullet killing of a seven-month-old baby on a Brooklyn street was arrested on Friday,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution",
       "source": "404 Media",
       "category": "Democracy / press freedom",
@@ -103,6 +83,36 @@
       "summary": "Native Americans were playing dice and other games of chance many millennia before any known cultures elsewhere.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "‘The good old days are gone’: how will US prices stand as war in Iran surges on?",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/05/prices-iran-war-gas-flights-economy",
+      "published": "2026-04-04T13:00:22+00:00",
+      "summary": "Beyond rising costs of gas and air travel, experts say this is likely just beginning of higher prices amid global volatility Sign up for the Breaking News US email to get newsletter alerts in your inbox As consumers watch the price of…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Inside Los Angeles Unified’s Hidden World of Art, Archives and Artifacts",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/inside-los-angeles-unifieds-hidden-world-of-art-archives-and-artifacts/",
+      "published": "2026-04-04T10:30:00+00:00",
+      "summary": "Embarking on a treasure hunt for the art and artifacts held by the Los Angeles Unified School District is no small feat.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
+      "published": "2026-04-04T20:36:49+00:00",
+      "summary": "A state bill is a glimpse of how corporations are limiting people's ability to make their own fixes and upgrades.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
     },
     {
       "title": "Melissa Gilbert defends husband Timothy Busfield as actor faces child sexual abuse charges",
@@ -115,22 +125,12 @@
       "score": 9
     },
     {
-      "title": "OpenAI’s AGI boss is taking a leave of absence",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
-      "published": "2026-04-03T22:55:16+00:00",
-      "summary": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Congress gave money for global HIV work. The Trump administration isn't spending it",
+      "title": "Covering global health as billions of dollars of aid are cut from programs",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/04/nx-s1-5763938/hiv-aids-pepfar-funding-delays-may-shut-down-lifesaving-aid",
-      "published": "2026-04-04T09:00:00+00:00",
-      "summary": "U.S. work combatting HIV/AIDS has saved millions of lives globally. Under the Trump administration, funding has been slow in coming and unpredictable, wreaking havoc on people trying to do the work.",
+      "url": "https://www.npr.org/2026/04/04/nx-s1-5752198/covering-global-health-as-billions-of-dollars-of-aid-are-cut-from-programs",
+      "published": "2026-04-04T21:34:29+00:00",
+      "summary": "NPR Global Health and Development Correspondent Fatma Tanis talks about digging into the impact of billions of dollars of US aid being cut from programs around the world.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
@@ -265,6 +265,6 @@
     "mainCount": 13,
     "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 10
+    "sourceCount": 11
   }
 }

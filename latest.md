@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-04T19:48:54.811651Z
+Generated: 2026-04-04T21:48:18.000834Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Halting $400m White House ballroom project is national security risk, Trump officials say, Comedy games are alive and well in Horse Magnifier, a game where you do just that, and Federal judge halts White House effort to collect university data on applicants’ race.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Halting $400m White House ballroom project is national security risk, Trump officials say, Comedy games are alive and well in Horse Magnifier, a game where you do just that, and ‘Horror movie’: officials investigate after 21 dead dogs wash up on Washington state shore.
 
 ## Briefing
 
@@ -24,16 +24,7 @@ I am not going to drudge up the half decomposed discourse around whether games a
 
 Link: https://www.rockpapershotgun.com/comedy-games-are-alive-and-well-in-horse-magnifier-a-game-where-you-do-just-that
 
-### 3. Federal judge halts White House effort to collect university data on applicants’ race [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Trump ordered data collection after raising concern about race being used as factor in college admissions A federal judge on Friday halted efforts by the Trump administration to collect data that proves higher education institutions aren’t…
-
-Link: https://www.theguardian.com/us-news/2026/apr/04/judge-halts-trump-administration-demand-university-applicants-race
-
-### 4. ‘Horror movie’: officials investigate after 21 dead dogs wash up on Washington state shore [10/10]
+### 3. ‘Horror movie’: officials investigate after 21 dead dogs wash up on Washington state shore [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,7 +33,7 @@ Carasses wash ashore Guemes Island in ‘creepy mystery’, with authorities say
 
 Link: https://www.theguardian.com/us-news/2026/apr/04/dead-canines-washington-state
 
-### 5. Anker’s Nebula P1 projector is the portable sound king [10/10]
+### 4. Anker’s Nebula P1 projector is the portable sound king [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,7 +42,7 @@ The Soundcore Nebula P1 from Anker isn't the most portable Google TV projector I
 
 Link: https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ
 
-### 6. How This Indiana Teacher Makes Her AP Personal Finance Class Click for Students [10/10]
+### 5. How This Indiana Teacher Makes Her AP Personal Finance Class Click for Students [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -60,7 +51,7 @@ In Kristin Lidstrom’s business classes at Hamilton Southeastern High School in
 
 Link: https://www.the74million.org/article/how-this-indiana-teacher-makes-her-ap-personal-finance-class-click-for-students/
 
-### 7. US authorities arrest relatives of late Iranian military commander who were living in Los Angeles [10/10]
+### 6. US authorities arrest relatives of late Iranian military commander who were living in Los Angeles [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,7 +60,7 @@ State department said niece and grandniece of Qassem Soleimani, killed in 2020 U
 
 Link: https://www.theguardian.com/us-news/2026/apr/04/soleimani-family-arrested-us-federal-authorities
 
-### 8. Take-Two lays off AI team [10/10]
+### 7. Take-Two lays off AI team [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -78,16 +69,7 @@ Take-Two Interactive , the parent company of GTA developer Rockstar Games , has 
 
 Link: https://www.eurogamer.net/take-two-lays-off-ai-team
 
-### 9. Second suspect arrested in Brooklyn stray-bullet killing of seven-month-old baby [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Matthew Rodriguez, 18, was apprehended in Pennsylvania in connection to shooting that killed Kaori Patterson-Moore A second suspect in the stray-bullet killing of a seven-month-old baby on a Brooklyn street was arrested on Friday,…
-
-Link: https://www.theguardian.com/us-news/2026/apr/04/second-suspect-arrested-brooklyn-baby-killing
-
-### 10. Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution [10/10]
+### 8. Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution [10/10]
 **Source:** 404 Media  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -96,7 +78,34 @@ Native Americans were playing dice and other games of chance many millennia befo
 
 Link: https://www.404media.co/gambling-is-thousands-of-years-older-than-we-thought-rewriting-human-evolution/
 
-### 11. Melissa Gilbert defends husband Timothy Busfield as actor faces child sexual abuse charges [9/10]
+### 9. ‘The good old days are gone’: how will US prices stand as war in Iran surges on? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Beyond rising costs of gas and air travel, experts say this is likely just beginning of higher prices amid global volatility Sign up for the Breaking News US email to get newsletter alerts in your inbox As consumers watch the price of…
+
+Link: https://www.theguardian.com/us-news/2026/apr/05/prices-iran-war-gas-flights-economy
+
+### 10. Inside Los Angeles Unified’s Hidden World of Art, Archives and Artifacts [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Embarking on a treasure hunt for the art and artifacts held by the Los Angeles Unified School District is no small feat.
+
+Link: https://www.the74million.org/article/inside-los-angeles-unifieds-hidden-world-of-art-archives-and-artifacts/
+
+### 11. Tech companies are trying to neuter Colorado’s landmark right-to-repair law [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+A state bill is a glimpse of how corporations are limiting people's ability to make their own fixes and upgrades.
+
+Link: https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/
+
+### 12. Melissa Gilbert defends husband Timothy Busfield as actor faces child sexual abuse charges [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -105,23 +114,14 @@ The former Little House on the Prairie star said husband was ‘last person in w
 
 Link: https://www.theguardian.com/us-news/2026/apr/04/melissa-gilbert-timothy-busfield-child-sexual-abuse-charges
 
-### 12. OpenAI’s AGI boss is taking a leave of absence [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence
-
-### 13. Congress gave money for global HIV work. The Trump administration isn't spending it [8/10]
+### 13. Covering global health as billions of dollars of aid are cut from programs [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-U.S. work combatting HIV/AIDS has saved millions of lives globally. Under the Trump administration, funding has been slow in coming and unpredictable, wreaking havoc on people trying to do the work.
+NPR Global Health and Development Correspondent Fatma Tanis talks about digging into the impact of billions of dollars of US aid being cut from programs around the world.
 
-Link: https://www.npr.org/2026/04/04/nx-s1-5763938/hiv-aids-pepfar-funding-delays-may-shut-down-lifesaving-aid
+Link: https://www.npr.org/2026/04/04/nx-s1-5752198/covering-global-health-as-billions-of-dollars-of-aid-are-cut-from-programs
 
 ## YouTube
 
