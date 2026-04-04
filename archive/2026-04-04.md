@@ -1,12 +1,48 @@
 # James Daily Briefing
 
-Generated: 2026-04-04T14:17:55.651369Z
+Generated: 2026-04-04T19:24:24.896793Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Anker’s Nebula P1 projector is the portable sound king, Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution, and A Fox host says ‘many people’ think women shouldn’t be president. Thank goodness we’ve got a man in charge | Arwa Mahdawi.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Halting $400m White House ballroom project is national security risk, Trump officials say, Comedy games are alive and well in Horse Magnifier, a game where you do just that, and Federal judge halts White House effort to collect university data on applicants’ race.
 
 ## Briefing
 
-### 1. Anker’s Nebula P1 projector is the portable sound king [10/10]
+### 1. Halting $400m White House ballroom project is national security risk, Trump officials say [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+US National Park Service lawyers cite materials that will be installed to make ‘heavily fortified’ facility Donald Trump’s administration is arguing that a judge’s order to halt construction of a $400m White House ballroom creates a…
+
+Link: https://www.theguardian.com/us-news/2026/apr/04/trump-white-house-ballroom-project
+
+### 2. Comedy games are alive and well in Horse Magnifier, a game where you do just that [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+I am not going to drudge up the half decomposed discourse around whether games are art or not. They most certainly offer up a huge range of experiences that other mediums do not.
+
+Link: https://www.rockpapershotgun.com/comedy-games-are-alive-and-well-in-horse-magnifier-a-game-where-you-do-just-that
+
+### 3. Federal judge halts White House effort to collect university data on applicants’ race [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Trump ordered data collection after raising concern about race being used as factor in college admissions A federal judge on Friday halted efforts by the Trump administration to collect data that proves higher education institutions aren’t…
+
+Link: https://www.theguardian.com/us-news/2026/apr/04/judge-halts-trump-administration-demand-university-applicants-race
+
+### 4. ‘Horror movie’: officials investigate after 21 dead dogs wash up on Washington state shore [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Carasses wash ashore Guemes Island in ‘creepy mystery’, with authorities saying canines appear to be the same size Officials are investigating after nearly two dozen dead canines washed ashore on a Washington state island, in what one…
+
+Link: https://www.theguardian.com/us-news/2026/apr/04/dead-canines-washington-state
+
+### 5. Anker’s Nebula P1 projector is the portable sound king [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -15,7 +51,43 @@ The Soundcore Nebula P1 from Anker isn't the most portable Google TV projector I
 
 Link: https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ
 
-### 2. Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution [10/10]
+### 6. How This Indiana Teacher Makes Her AP Personal Finance Class Click for Students [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+In Kristin Lidstrom’s business classes at Hamilton Southeastern High School in Fishers, the finance lessons quickly become personal.
+
+Link: https://www.the74million.org/article/how-this-indiana-teacher-makes-her-ap-personal-finance-class-click-for-students/
+
+### 7. US authorities arrest relatives of late Iranian military commander who were living in Los Angeles [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+State department said niece and grandniece of Qassem Soleimani, killed in 2020 US drone strike, celebrated attacks against US soldiers US federal agents have arrested the niece and grandniece of the late Iranian military commander Qassem…
+
+Link: https://www.theguardian.com/us-news/2026/apr/04/soleimani-family-arrested-us-federal-authorities
+
+### 8. Take-Two lays off AI team [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Take-Two Interactive , the parent company of GTA developer Rockstar Games , has reportedly laid off its AI team, including its head of AI. Read more
+
+Link: https://www.eurogamer.net/take-two-lays-off-ai-team
+
+### 9. Second suspect arrested in Brooklyn stray-bullet killing of seven-month-old baby [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Matthew Rodriguez, 18, was apprehended in Pennsylvania in connection to shooting that killed Kaori Patterson-Moore A second suspect in the stray-bullet killing of a seven-month-old baby on a Brooklyn street was arrested on Friday,…
+
+Link: https://www.theguardian.com/us-news/2026/apr/04/second-suspect-arrested-brooklyn-baby-killing
+
+### 10. Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution [10/10]
 **Source:** 404 Media  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -24,61 +96,16 @@ Native Americans were playing dice and other games of chance many millennia befo
 
 Link: https://www.404media.co/gambling-is-thousands-of-years-older-than-we-thought-rewriting-human-evolution/
 
-### 3. A Fox host says ‘many people’ think women shouldn’t be president. Thank goodness we’ve got a man in charge | Arwa Mahdawi [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Jesse Watters gave a litany of reasons why women shouldn’t lead before denying he agreed. But peddling these ideas normalizes them Oh dear, it looks like Jesse Watters’ mother needs to give him a good talking to again.
-
-Link: https://www.theguardian.com/commentisfree/2026/apr/04/jesse-watters-fox-pam-bondi-darfur-lebanon-senegal
-
-### 4. ‘Feels like history is being made’: will young Hungarian voters oust Orbán? [10/10]
+### 11. Melissa Gilbert defends husband Timothy Busfield as actor faces child sexual abuse charges [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-The rightwing populist has been in power for 16 years but a new generation of voters are preparing to vote for his opponent, polls suggest As he rushed to finish off his cigarette before heading to class, Ákos, 20, confessed that he has…
+The former Little House on the Prairie star said husband was ‘last person in world who would hurt a child’ Melissa Gilbert has staunchly defended her husband and fellow actor Timothy Busfield in her first interview since New Mexico…
 
-Link: https://www.theguardian.com/world/2026/apr/04/young-people-hungary-general-election-polls-viktor-orban
+Link: https://www.theguardian.com/us-news/2026/apr/04/melissa-gilbert-timothy-busfield-child-sexual-abuse-charges
 
-### 5. Inside Los Angeles Unified’s Hidden World of Art, Archives and Artifacts [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Embarking on a treasure hunt for the art and artifacts held by the Los Angeles Unified School District is no small feat.
-
-Link: https://www.the74million.org/article/inside-los-angeles-unifieds-hidden-world-of-art-archives-and-artifacts/
-
-### 6. ‘Racist ideology lodges itself amid austerity politics’: newly elected French mayor on tackling far right [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Bally Bagayoko, who was targeted by racist abuse after winning Saint-Denis mayorship, vows to tackle inequality to stem deepening divisions A French mayor who faced a barrage of racist insults that are being investigated by police has…
-
-Link: https://www.theguardian.com/world/2026/apr/04/bally-bagayoko-austerity-politics-french-mayor-tackling-far-right
-
-### 7. Trump news at a glance: president enlists JD Vance as his ‘fraud czar’, targeting Democratic states [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Trump said Vance would focus on blue states and, without providing evidence, accused Democrat leaders of rampant ‘theft’ – key US politics stories from Friday 3 April at a glance Donald Trump has given his vice-president, JD Vance, a new…
-
-Link: https://www.theguardian.com/us-news/2026/apr/03/trump-news-at-a-glance-jd-vance
-
-### 8. What we've been playing - "like a seagull by a bin, I decided to have a peck" [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Hello and welcome back to our regular feature where we write a little about the games we've been playing.
-
-Link: https://www.eurogamer.net/what-weve-been-playing-esoteric-ebb
-
-### 9. OpenAI’s AGI boss is taking a leave of absence [9/10]
+### 12. OpenAI’s AGI boss is taking a leave of absence [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -87,7 +114,7 @@ OpenAI is undergoing another round of C-suite changes, according to an internal 
 
 Link: https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence
 
-### 10. Congress gave money for global HIV work. The Trump administration isn't spending it [8/10]
+### 13. Congress gave money for global HIV work. The Trump administration isn't spending it [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -96,70 +123,43 @@ U.S. work combatting HIV/AIDS has saved millions of lives globally. Under the Tr
 
 Link: https://www.npr.org/2026/04/04/nx-s1-5763938/hiv-aids-pepfar-funding-delays-may-shut-down-lifesaving-aid
 
-### 11. Behind the Blog: Systems As Designed [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-This week, we discuss crypto, journalists using AI, and a cool photo of Earth.
-
-Link: https://www.404media.co/behind-the-blog-systems-as-designed/
-
-### 12. Funds for Signature Pre-K Endowment in Peril as Surplus Dwindles [7/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-For Emily Knox and her wife, Forever Young Child Care Learning Center in Manchester was a dependable cornerstone of their daily routine for more than two years.
-
-Link: https://www.the74million.org/zero2eight/funds-for-signature-pre-k-endowment-in-peril-as-surplus-dwindles/
-
-### 13. Aragorn’s Hunt for Gollum Recasting Raises Questions About the Movie’s Timeline [7/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-When does this movie take place, exactly? The post Aragorn’s Hunt for Gollum Recasting Raises Questions About the Movie’s Timeline appeared first on Reactor .
-
-Link: https://reactormag.com/the-lord-of-the-rings-the-hunt-for-gollum-aragorn-recasting-timeline/
-
 ## YouTube
 
-### If GTA 6 Fails, Is the Games Industry Doomed? | Dev Heads Podcast [9/10]
-**Creator:** Second Wind  
+### Nintendo Says That Digital Game Prices Will Be Cheaper Than Physical - Reaction [9/10]
+**Creator:** Digital Foundry  
 **Verdict:** Watch it  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
-This week on Dev Heads, Tina, JM8, and Mikee chat about the weight that's currently on the shoulders of Grand Theft Auto 6's success. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/otRnMhwMvg8 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
-Link: https://www.youtube.com/watch?v=OBIqjaNTPqE
+Link: https://www.youtube.com/watch?v=TkF3fZZsSWU
 
-### Trump ousts Pam Bondi as attorney general [9/10]
+### FDA approves Eli Lilly's new obesity pill [9/10]
 **Creator:** NPR  
 **Verdict:** Watch it  
 **Why it matters:** Relevant to your current interest graph.
 
-President Trump announced Thursday that Attorney General Pam Bondi is out from the top job at the Justice Department.
+The FDA has approved another obesity pill, called Foundayo, from pharmaceutical maker Eli Lilly.
 
-Link: https://www.youtube.com/watch?v=tZ7PQlQN9rw
+Link: https://www.youtube.com/watch?v=VAutt8lg0H4
 
-### Marathon, Player Counts, and Industry Anxiety | Unpacked [9/10]
-**Creator:** Second Wind  
-**Verdict:** Watch it  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The focus on player counts has been a big focus of games coverage for the past few years, but there's a deeper reason for that beyond those just doing it for clickbait. Support us on Patreon: https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=5QpzpGOh6aM
-
-### MSI MPG 341CQR QD-OLED X36 Monitor - How OLED Care Aims To Prevent Burn-In [Sponsored] [8/10]
-**Creator:** Digital Foundry  
+### Developers demolish Lagos waterfront, destroying homes and killing residents [8/10]
+**Creator:** NPR  
 **Verdict:** Worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+**Why it matters:** Relevant to your current interest graph.
 
-► Content sponsored by MSI - click here to learn more about the MPG 341CQR QD-OLED X36: https://msi.gm/S5946AA5I ► Watch the FULL Video Here: https://youtu.be/hwJyTquSo80 ► Support us on Patreon! https://bit.
+It has often been called Africa's Venice, Makoko, a sprawling stilt community on Lagos' waterfront.
 
-Link: https://www.youtube.com/watch?v=3QSdOptc5FA
+Link: https://www.youtube.com/watch?v=8sKo-sMgX4M
+
+### Has the U.S. achieved strategic success in its wars in the Middle East? [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+National Security Correspondent Greg Myre tells Sources & Methods Host Mary Louise Kelly that the U.S. has repeatedly achieved quick military success in its wars in the Middle East. Strategic success? That's another story.
+
+Link: https://www.youtube.com/watch?v=dmJJUYtWbT4
 
 ## Entertainment Recommendations
 
@@ -186,7 +186,7 @@ Link: https://www.youtube.com/watch?v=3QSdOptc5FA
 
 ## Trailers / Previews
 
-### The Bunny Graveyard - Announcement Trailer | PS5 Games [9/10]
+### The Bunny Graveyard - Announcement Trailer | PS5 Games [8/10]
 **Source:** PlayStation  
 **Verdict:** Looks promising  
 **Why it matters:** Worth flagging when it looks meaningfully aligned with your game/horror/design interests.
@@ -195,7 +195,7 @@ https://store.playstation.com/concept/10012270 The Bunny Graveyard comes to Play
 
 Link: https://www.youtube.com/watch?v=L4uqsjCckR4
 
-### Starfield - Features Trailer | PS5 Games [9/10]
+### Starfield - Features Trailer | PS5 Games [8/10]
 **Source:** PlayStation  
 **Verdict:** Looks promising  
 **Why it matters:** Worth flagging when it looks meaningfully aligned with your game/horror/design interests.

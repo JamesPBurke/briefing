@@ -1,16 +1,96 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-04T14:17:55.651369Z",
+  "generatedAt": "2026-04-04T19:24:24.896793Z",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Anker’s Nebula P1 projector is the portable sound king, Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution, and A Fox host says ‘many people’ think women shouldn’t be president. Thank goodness we’ve got a man in charge | Arwa Mahdawi.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Halting $400m White House ballroom project is national security risk, Trump officials say, Comedy games are alive and well in Horse Magnifier, a game where you do just that, and Federal judge halts White House effort to collect university data on applicants’ race.",
   "mainItems": [
+    {
+      "title": "Halting $400m White House ballroom project is national security risk, Trump officials say",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/04/trump-white-house-ballroom-project",
+      "published": "2026-04-04T18:38:51+00:00",
+      "summary": "US National Park Service lawyers cite materials that will be installed to make ‘heavily fortified’ facility Donald Trump’s administration is arguing that a judge’s order to halt construction of a $400m White House ballroom creates a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Comedy games are alive and well in Horse Magnifier, a game where you do just that",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/comedy-games-are-alive-and-well-in-horse-magnifier-a-game-where-you-do-just-that",
+      "published": "2026-04-04T18:07:18+00:00",
+      "summary": "I am not going to drudge up the half decomposed discourse around whether games are art or not. They most certainly offer up a huge range of experiences that other mediums do not.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Federal judge halts White House effort to collect university data on applicants’ race",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/apr/04/judge-halts-trump-administration-demand-university-applicants-race",
+      "published": "2026-04-04T17:02:14+00:00",
+      "summary": "Trump ordered data collection after raising concern about race being used as factor in college admissions A federal judge on Friday halted efforts by the Trump administration to collect data that proves higher education institutions aren’t…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "‘Horror movie’: officials investigate after 21 dead dogs wash up on Washington state shore",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/04/dead-canines-washington-state",
+      "published": "2026-04-04T16:59:36+00:00",
+      "summary": "Carasses wash ashore Guemes Island in ‘creepy mystery’, with authorities saying canines appear to be the same size Officials are investigating after nearly two dozen dead canines washed ashore on a Washington state island, in what one…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Anker’s Nebula P1 projector is the portable sound king",
       "source": "The Verge",
       "category": "Democracy / press freedom",
       "url": "https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ",
-      "published": "2026-04-04T13:29:04+00:00",
+      "published": "2026-04-04T16:44:43+00:00",
       "summary": "The Soundcore Nebula P1 from Anker isn't the most portable Google TV projector I've ever reviewed, nor is it the brightest. It doesn't even have a built-in battery. Instead it's a decent video device that focuses on sound.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "How This Indiana Teacher Makes Her AP Personal Finance Class Click for Students",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/how-this-indiana-teacher-makes-her-ap-personal-finance-class-click-for-students/",
+      "published": "2026-04-04T16:30:00+00:00",
+      "summary": "In Kristin Lidstrom’s business classes at Hamilton Southeastern High School in Fishers, the finance lessons quickly become personal.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "US authorities arrest relatives of late Iranian military commander who were living in Los Angeles",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/04/soleimani-family-arrested-us-federal-authorities",
+      "published": "2026-04-04T16:25:25+00:00",
+      "summary": "State department said niece and grandniece of Qassem Soleimani, killed in 2020 US drone strike, celebrated attacks against US soldiers US federal agents have arrested the niece and grandniece of the late Iranian military commander Qassem…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Take-Two lays off AI team",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/take-two-lays-off-ai-team",
+      "published": "2026-04-04T15:45:05+00:00",
+      "summary": "Take-Two Interactive , the parent company of GTA developer Rockstar Games , has reportedly laid off its AI team, including its head of AI. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Second suspect arrested in Brooklyn stray-bullet killing of seven-month-old baby",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/04/second-suspect-arrested-brooklyn-baby-killing",
+      "published": "2026-04-04T15:09:40+00:00",
+      "summary": "Matthew Rodriguez, 18, was apprehended in Pennsylvania in connection to shooting that killed Kaori Patterson-Moore A second suspect in the stray-bullet killing of a seven-month-old baby on a Brooklyn street was arrested on Friday,…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -25,63 +105,13 @@
       "score": 10
     },
     {
-      "title": "A Fox host says ‘many people’ think women shouldn’t be president. Thank goodness we’ve got a man in charge | Arwa Mahdawi",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/04/jesse-watters-fox-pam-bondi-darfur-lebanon-senegal",
-      "published": "2026-04-04T13:00:21+00:00",
-      "summary": "Jesse Watters gave a litany of reasons why women shouldn’t lead before denying he agreed. But peddling these ideas normalizes them Oh dear, it looks like Jesse Watters’ mother needs to give him a good talking to again.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘Feels like history is being made’: will young Hungarian voters oust Orbán?",
+      "title": "Melissa Gilbert defends husband Timothy Busfield as actor faces child sexual abuse charges",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/apr/04/young-people-hungary-general-election-polls-viktor-orban",
-      "published": "2026-04-04T11:00:21+00:00",
-      "summary": "The rightwing populist has been in power for 16 years but a new generation of voters are preparing to vote for his opponent, polls suggest As he rushed to finish off his cigarette before heading to class, Ákos, 20, confessed that he has…",
+      "url": "https://www.theguardian.com/us-news/2026/apr/04/melissa-gilbert-timothy-busfield-child-sexual-abuse-charges",
+      "published": "2026-04-04T14:15:19+00:00",
+      "summary": "The former Little House on the Prairie star said husband was ‘last person in world who would hurt a child’ Melissa Gilbert has staunchly defended her husband and fellow actor Timothy Busfield in her first interview since New Mexico…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Inside Los Angeles Unified’s Hidden World of Art, Archives and Artifacts",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/inside-los-angeles-unifieds-hidden-world-of-art-archives-and-artifacts/",
-      "published": "2026-04-04T10:30:00+00:00",
-      "summary": "Embarking on a treasure hunt for the art and artifacts held by the Los Angeles Unified School District is no small feat.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "‘Racist ideology lodges itself amid austerity politics’: newly elected French mayor on tackling far right",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/apr/04/bally-bagayoko-austerity-politics-french-mayor-tackling-far-right",
-      "published": "2026-04-04T07:47:48+00:00",
-      "summary": "Bally Bagayoko, who was targeted by racist abuse after winning Saint-Denis mayorship, vows to tackle inequality to stem deepening divisions A French mayor who faced a barrage of racist insults that are being investigated by police has…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump news at a glance: president enlists JD Vance as his ‘fraud czar’, targeting Democratic states",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/03/trump-news-at-a-glance-jd-vance",
-      "published": "2026-04-04T01:00:07+00:00",
-      "summary": "Trump said Vance would focus on blue states and, without providing evidence, accused Democrat leaders of rampant ‘theft’ – key US politics stories from Friday 3 April at a glance Donald Trump has given his vice-president, JD Vance, a new…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "What we've been playing - \"like a seagull by a bin, I decided to have a peck\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-esoteric-ebb",
-      "published": "2026-04-04T07:00:00+00:00",
-      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -103,80 +133,50 @@
       "summary": "U.S. work combatting HIV/AIDS has saved millions of lives globally. Under the Trump administration, funding has been slow in coming and unpredictable, wreaking havoc on people trying to do the work.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "Behind the Blog: Systems As Designed",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/behind-the-blog-systems-as-designed/",
-      "published": "2026-04-03T16:55:57+00:00",
-      "summary": "This week, we discuss crypto, journalists using AI, and a cool photo of Earth.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Funds for Signature Pre-K Endowment in Peril as Surplus Dwindles",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/zero2eight/funds-for-signature-pre-k-endowment-in-peril-as-surplus-dwindles/",
-      "published": "2026-04-03T16:30:00+00:00",
-      "summary": "For Emily Knox and her wife, Forever Young Child Care Learning Center in Manchester was a dependable cornerstone of their daily routine for more than two years.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 7
-    },
-    {
-      "title": "Aragorn’s Hunt for Gollum Recasting Raises Questions About the Movie’s Timeline",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/the-lord-of-the-rings-the-hunt-for-gollum-aragorn-recasting-timeline/",
-      "published": "2026-04-03T15:25:21+00:00",
-      "summary": "When does this movie take place, exactly? The post Aragorn’s Hunt for Gollum Recasting Raises Questions About the Movie’s Timeline appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 7
     }
   ],
   "youtube": [
     {
-      "title": "If GTA 6 Fails, Is the Games Industry Doomed? | Dev Heads Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=OBIqjaNTPqE",
-      "published": "2026-04-03T19:10:01+00:00",
-      "summary": "This week on Dev Heads, Tina, JM8, and Mikee chat about the weight that's currently on the shoulders of Grand Theft Auto 6's success. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Nintendo Says That Digital Game Prices Will Be Cheaper Than Physical - Reaction",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=TkF3fZZsSWU",
+      "published": "2026-04-04T16:00:42+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/otRnMhwMvg8 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 9,
       "verdict": "Watch it"
     },
     {
-      "title": "Trump ousts Pam Bondi as attorney general",
+      "title": "FDA approves Eli Lilly's new obesity pill",
       "source": "NPR",
       "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=tZ7PQlQN9rw",
-      "published": "2026-04-03T15:01:35+00:00",
-      "summary": "President Trump announced Thursday that Attorney General Pam Bondi is out from the top job at the Justice Department.",
+      "url": "https://www.youtube.com/watch?v=VAutt8lg0H4",
+      "published": "2026-04-04T14:45:03+00:00",
+      "summary": "The FDA has approved another obesity pill, called Foundayo, from pharmaceutical maker Eli Lilly.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Watch it"
     },
     {
-      "title": "Marathon, Player Counts, and Industry Anxiety | Unpacked",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=5QpzpGOh6aM",
-      "published": "2026-04-03T15:00:17+00:00",
-      "summary": "The focus on player counts has been a big focus of games coverage for the past few years, but there's a deeper reason for that beyond those just doing it for clickbait. Support us on Patreon: https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "title": "Developers demolish Lagos waterfront, destroying homes and killing residents",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=8sKo-sMgX4M",
+      "published": "2026-04-04T16:00:22+00:00",
+      "summary": "It has often been called Africa's Venice, Makoko, a sprawling stilt community on Lagos' waterfront.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
-      "title": "MSI MPG 341CQR QD-OLED X36 Monitor - How OLED Care Aims To Prevent Burn-In [Sponsored]",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=3QSdOptc5FA",
-      "published": "2026-04-03T16:00:05+00:00",
-      "summary": "► Content sponsored by MSI - click here to learn more about the MPG 341CQR QD-OLED X36: https://msi.gm/S5946AA5I ► Watch the FULL Video Here: https://youtu.be/hwJyTquSo80 ► Support us on Patreon! https://bit.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "title": "Has the U.S. achieved strategic success in its wars in the Middle East?",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=dmJJUYtWbT4",
+      "published": "2026-04-04T15:30:33+00:00",
+      "summary": "National Security Correspondent Greg Myre tells Sources & Methods Host Mary Louise Kelly that the U.S. has repeatedly achieved quick military success in its wars in the Middle East. Strategic success? That's another story.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
     }
@@ -190,7 +190,7 @@
       "published": "2026-04-03T17:00:00+00:00",
       "summary": "https://store.playstation.com/concept/10012270 The Bunny Graveyard comes to PlayStation 5! Dive into a pixel-art horror adventure where you play as a cursor pulled into a mysterious digital world.",
       "whyItMatters": "Worth flagging when it looks meaningfully aligned with your game/horror/design interests.",
-      "score": 9,
+      "score": 8,
       "verdict": "Looks promising"
     },
     {
@@ -201,7 +201,7 @@
       "published": "2026-04-03T15:00:00+00:00",
       "summary": "A new group of explorers is about to chart its course among the stars when Starfield lands on PlayStation 5 on April 7.",
       "whyItMatters": "Worth flagging when it looks meaningfully aligned with your game/horror/design interests.",
-      "score": 9,
+      "score": 8,
       "verdict": "Looks promising"
     }
   ],
@@ -265,6 +265,6 @@
     "mainCount": 13,
     "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 11
+    "sourceCount": 10
   }
 }
