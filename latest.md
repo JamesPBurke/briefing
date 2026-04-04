@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-04T19:24:24.896793Z
+Generated: 2026-04-04T19:48:54.811651Z
 
 Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Halting $400m White House ballroom project is national security risk, Trump officials say, Comedy games are alive and well in Horse Magnifier, a game where you do just that, and Federal judge halts White House effort to collect university data on applicants’ race.
 
