@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T14:44:34Z",
+  "updatedAt": "2026-04-04T19:20:13Z",
   "entries": [
     {
       "title": "House of the Dragon",
@@ -8,6 +8,14 @@
       "updatedAt": "2026-04-04T14:44:34Z",
       "withMaggie": true,
       "verdict": "loved"
+    },
+    {
+      "title": "Deadwood",
+      "loggedAt": "2026-04-04T19:20:13Z",
+      "source": "telegram watchlog",
+      "updatedAt": "2026-04-04T19:20:13Z",
+      "verdict": "watched",
+      "notes": "Seen it."
     }
   ]
 }
