@@ -1,27 +1,67 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-04T05:00:01.416892Z",
+  "generatedAt": "2026-04-04T13:15:10.771079Z",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are Middle East crisis live: US and Iranian forces race to recover missing pilot from downed jet; Israel bombards Beirut, Geno Auriemma and Dawn Staley have tense postgame exchange after South Carolina shock UConn in Final Four, and Trump news at a glance: president enlists JD Vance as his ‘fraud czar’, targeting Democratic states.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution, Manchester City v Liverpool: FA Cup quarter-final – live, and ‘Feels like history is being made’: will young Hungarian voters oust Orbán?.",
   "mainItems": [
     {
-      "title": "Middle East crisis live: US and Iranian forces race to recover missing pilot from downed jet; Israel bombards Beirut",
-      "source": "The Guardian US",
+      "title": "Gambling Is Thousands of Years Older Than We Thought, Rewriting Human Evolution",
+      "source": "404 Media",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut",
-      "published": "2026-04-04T04:24:53+00:00",
-      "summary": "Iran’s Revolutionary Guard Corps said it was combing an area near where plane came down in south-western Iran; Israeli military strikes ‘Hezbollah infrastructure’ in Lebanon capital US F-15E jet confirmed shot down over Iran as Tehran…",
+      "url": "https://www.404media.co/gambling-is-thousands-of-years-older-than-we-thought-rewriting-human-evolution/",
+      "published": "2026-04-04T13:00:42+00:00",
+      "summary": "Native Americans were playing dice and other games of chance many millennia before any known cultures elsewhere.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Geno Auriemma and Dawn Staley have tense postgame exchange after South Carolina shock UConn in Final Four",
+      "title": "Manchester City v Liverpool: FA Cup quarter-final – live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/football/live/2026/apr/04/manchester-city-v-liverpool-fa-cup-quarter-final-live",
+      "published": "2026-04-04T12:58:47+00:00",
+      "summary": "⚽️ FA Cup updates from 12.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Feels like history is being made’: will young Hungarian voters oust Orbán?",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/sport/2026/apr/03/uconn-south-carolina-geno-auriemma-dawn-staley-ucla-texas",
-      "published": "2026-04-04T01:25:40+00:00",
-      "summary": "Gamecocks end Huskies’ winning streak at 54 games Auriemma: ‘I said what I had to say.",
+      "url": "https://www.theguardian.com/world/2026/apr/04/young-people-hungary-general-election-polls-viktor-orban",
+      "published": "2026-04-04T11:00:21+00:00",
+      "summary": "The rightwing populist has been in power for 16 years but a new generation of voters are preparing to vote for his opponent, polls suggest As he rushed to finish off his cigarette before heading to class, Ákos, 20, confessed that he has…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Inside Los Angeles Unified’s Hidden World of Art, Archives and Artifacts",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/inside-los-angeles-unifieds-hidden-world-of-art-archives-and-artifacts/",
+      "published": "2026-04-04T10:30:00+00:00",
+      "summary": "Embarking on a treasure hunt for the art and artifacts held by the Los Angeles Unified School District is no small feat.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "‘Racist ideology lodges itself amid austerity politics’: newly elected French mayor on tackling far right",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/apr/04/bally-bagayoko-austerity-politics-french-mayor-tackling-far-right",
+      "published": "2026-04-04T07:47:48+00:00",
+      "summary": "Bally Bagayoko, who was targeted by racist abuse after winning Saint-Denis mayorship, vows to tackle inequality to stem deepening divisions A French mayor who faced a barrage of racist insults that are being investigated by police has…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "As Team Trump wage unceasing war on Iran, evangelical nationalists are destroying any moral world order we once had | Simon Tisdall",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/04/donald-trump-iran-war-evangelical-nationalists-moral-world-order-pete-hegseth",
+      "published": "2026-04-04T05:00:13+00:00",
+      "summary": "The brutalisation of global norms by figures like Pete Hegseth must be seen as an ethical issue.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -35,24 +75,14 @@
       "score": 10
     },
     {
-      "title": "Democratic attorneys general sue Trump over order to restrict mail voting",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/apr/03/attorneys-general-trump-mail-in-voting-lawsuit",
-      "published": "2026-04-03T21:40:18+00:00",
-      "summary": "Over 20 attorneys general challenge the executive order and say it’s an unconstitutional move to disenfranchise voters More than 20 Democratic attorneys general filed a lawsuit Friday challenging Donald Trump’s Tuesday executive order to…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "I saved a doomed Windows laptop by embracing Linux",
-      "source": "The Verge",
-      "category": "Linux / anti-obsolescence",
-      "url": "https://www.theverge.com/tech/905946/windows-11-forced-obsolescence-linux-thinkpad",
-      "published": "2026-04-03T15:08:09+00:00",
-      "summary": "Two weeks ago I set aside my M4 MacBook Air and picked up a nine-year-old ThinkPad. It's one of an estimated 200 to 400 million Windows 10 PCs that don't meet Microsoft's requirements for Windows 11.",
-      "whyItMatters": "Relevant to humane computing, open-source practice, and repairability.",
-      "score": 10
+      "title": "What we've been playing - \"like a seagull by a bin, I decided to have a peck\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-esoteric-ebb",
+      "published": "2026-04-04T07:00:00+00:00",
+      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "OpenAI’s AGI boss is taking a leave of absence",
@@ -65,14 +95,14 @@
       "score": 9
     },
     {
-      "title": "Opinion: When It Comes to Developing AI Rules, Who Asked the Students?",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/when-it-comes-to-developing-ai-rules-who-asked-the-students/",
-      "published": "2026-04-03T10:30:00+00:00",
-      "summary": "Three years ago, schools took a side. Within weeks of ChatGPT’s release, hard rules appeared almost overnight. AI tools were banned throughout departments.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
+      "title": "Dr. Sanjay Gupta explains what we do — and still don't — know about pain",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/04/04/nx-s1-5699477/pain-science-sanjay-gupta",
+      "published": "2026-04-04T09:00:00+00:00",
+      "summary": "\"Pain is a mysterious thing,\" says neurosurgeon Dr. Sanjay Gupta. But understanding how it works in the body and different kinds of treatment can help you find the right pain relief when you need it.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "Behind the Blog: Systems As Designed",
@@ -82,26 +112,6 @@
       "published": "2026-04-03T16:55:57+00:00",
       "summary": "This week, we discuss crypto, journalists using AI, and a cool photo of Earth.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Marathon isn't deathmatch gone wide, it's multiplayer Alien: Isolation and every other player is a xenomorph",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/marathon-isnt-deathmatch-gone-wide-its-multiplayer-alien-isolation-and-every-other-player-is-a-xenomorph",
-      "published": "2026-04-03T13:00:00+00:00",
-      "summary": "The human colony on Tau Ceti IV has been abandoned for half a century, as far as anyone can tell. The only exports leaving the planet are those nabbed by Runners in mechanical bodies, like fruit pickers at the end of the universe.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8
-    },
-    {
-      "title": "Verdicts against Meta and Google may bring a new era of big tech accountability",
-      "source": "NPR Tech",
-      "category": "Tech / democracy",
-      "url": "https://www.npr.org/2026/04/03/nx-s1-5764306/big-tech-lawsuits-verdicts-accountability-social-media-harms",
-      "published": "2026-04-03T10:00:00+00:00",
-      "summary": "Advocates hope recent verdicts against social media platforms will build momentum for bigger changes in Silicon Valley.",
-      "whyItMatters": "Relevant to platform accountability, governance, and public life.",
       "score": 8
     },
     {
@@ -123,19 +133,54 @@
       "summary": "When does this movie take place, exactly? The post Aragorn’s Hunt for Gollum Recasting Raises Questions About the Movie’s Timeline appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 7
-    },
-    {
-      "title": "Big tech's next move is to put data centers in space. Can it work?",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/04/03/nx-s1-5718416/ai-data-centers-in-space-spacex-elon-musk",
-      "published": "2026-04-03T09:00:00+00:00",
-      "summary": "In orbit, power is free. But everything else is expensive.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "If GTA 6 Fails, Is the Games Industry Doomed? | Dev Heads Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=OBIqjaNTPqE",
+      "published": "2026-04-03T19:10:01+00:00",
+      "summary": "This week on Dev Heads, Tina, JM8, and Mikee chat about the weight that's currently on the shoulders of Grand Theft Auto 6's success. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Marathon, Player Counts, and Industry Anxiety | Unpacked",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=5QpzpGOh6aM",
+      "published": "2026-04-03T15:00:17+00:00",
+      "summary": "The focus on player counts has been a big focus of games coverage for the past few years, but there's a deeper reason for that beyond those just doing it for clickbait. Support us on Patreon: https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "MSI MPG 341CQR QD-OLED X36 Monitor - How OLED Care Aims To Prevent Burn-In [Sponsored]",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=3QSdOptc5FA",
+      "published": "2026-04-03T16:00:05+00:00",
+      "summary": "► Content sponsored by MSI - click here to learn more about the MPG 341CQR QD-OLED X36: https://msi.gm/S5946AA5I ► Watch the FULL Video Here: https://youtu.be/hwJyTquSo80 ► Support us on Patreon! https://bit.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Marathon, Crimson Desert, and Super Mario Wonder Have a Hold on Us | Firelink Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=IPxTeriXXes",
+      "published": "2026-04-03T01:40:45+00:00",
+      "summary": "This week on Firelink, Nick, KC, and Marty are back together to chat about the news, as well as their continued time spent with Marathon, Crimson Desert, and Super Mario Bros. Wonder on Switch 2.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    }
+  ],
   "trailers": [
     {
       "title": "MLB The Show 26 - Accolades Trailer | PS5 Games",
@@ -160,6 +205,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Xbox Games Showcase Returns & More | This Week on Xbox",
+      "source": "Xbox",
+      "category": "Game / trailer",
+      "url": "https://www.youtube.com/watch?v=K4910O2od6Q",
+      "published": "2026-04-03T16:00:36+00:00",
+      "summary": "Time to mark your calendars! The Xbox Games Showcase returns this summer! And, we have a recap of what you missed during our Partner Preview...plus even more game releases and updates on the way! Let’s jump in.",
+      "whyItMatters": "Worth flagging when it looks meaningfully aligned with your game/horror/design interests.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Starfield - Features Trailer | PS5 Games",
       "source": "PlayStation",
       "category": "Game / trailer",
@@ -169,23 +225,12 @@
       "whyItMatters": "Worth flagging when it looks meaningfully aligned with your game/horror/design interests.",
       "score": 9,
       "verdict": "Looks promising"
-    },
-    {
-      "title": "Street Fighter 6 - Ingrid Teaser Trailer | PS5 & PS4 Games",
-      "source": "PlayStation",
-      "category": "Game / trailer",
-      "url": "https://www.youtube.com/watch?v=QKuYLp3saTQ",
-      "published": "2026-04-02T23:00:00+00:00",
-      "summary": "https://www.playstation.com/en-us/games/street-fighter-6/ Your fate shall soon be linked.",
-      "whyItMatters": "Worth flagging when it looks meaningfully aligned with your game/horror/design interests.",
-      "score": 8,
-      "verdict": "Looks promising"
     }
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
+    "youtubeCount": 4,
     "trailerCount": 4,
-    "sourceCount": 8
+    "sourceCount": 11
   }
 }
