@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-04T21:48:18.000834Z
+Generated: 2026-04-04T21:59:04.804806Z
 
 Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Halting $400m White House ballroom project is national security risk, Trump officials say, Comedy games are alive and well in Horse Magnifier, a game where you do just that, and ‘Horror movie’: officials investigate after 21 dead dogs wash up on Washington state shore.
 
@@ -114,14 +114,14 @@ The former Little House on the Prairie star said husband was ‘last person in w
 
 Link: https://www.theguardian.com/us-news/2026/apr/04/melissa-gilbert-timothy-busfield-child-sexual-abuse-charges
 
-### 13. Covering global health as billions of dollars of aid are cut from programs [8/10]
+### 13. Dr. Sanjay Gupta explains what we do — and still don't — know about pain [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-NPR Global Health and Development Correspondent Fatma Tanis talks about digging into the impact of billions of dollars of US aid being cut from programs around the world.
+"Pain is a mysterious thing," says neurosurgeon Dr. Sanjay Gupta. But understanding how it works in the body and different kinds of treatment can help you find the right pain relief when you need it.
 
-Link: https://www.npr.org/2026/04/04/nx-s1-5752198/covering-global-health-as-billions-of-dollars-of-aid-are-cut-from-programs
+Link: https://www.npr.org/2026/04/04/nx-s1-5699477/pain-science-sanjay-gupta
 
 ## YouTube
 
@@ -168,7 +168,7 @@ Link: https://www.youtube.com/watch?v=dmJJUYtWbT4
 - **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
 - **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
 - **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
-- **Black Doves** — Spy thriller territory with relationship drama and high-concept intrigue.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
 
 ### Older shows you may have missed
 

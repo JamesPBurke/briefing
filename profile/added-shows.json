@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T19:20:13Z",
+  "updatedAt": "2026-04-04T21:59:04Z",
   "entries": [
     {
       "title": "House of the Dragon",
@@ -16,6 +16,15 @@
       "updatedAt": "2026-04-04T19:20:13Z",
       "verdict": "watched",
       "notes": "Seen it."
+    },
+    {
+      "title": "Black Doves",
+      "loggedAt": "2026-04-04T21:59:04Z",
+      "source": "telegram watchlog",
+      "updatedAt": "2026-04-04T21:59:04Z",
+      "withMaggie": true,
+      "verdict": "watched",
+      "notes": "Watched together."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-04T21:48:18.000834Z",
+  "generatedAt": "2026-04-04T21:59:04.804806Z",
   "coverageWindow": "Last 24 hours",
   "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Halting $400m White House ballroom project is national security risk, Trump officials say, Comedy games are alive and well in Horse Magnifier, a game where you do just that, and ‘Horror movie’: officials investigate after 21 dead dogs wash up on Washington state shore.",
   "mainItems": [
@@ -125,12 +125,12 @@
       "score": 9
     },
     {
-      "title": "Covering global health as billions of dollars of aid are cut from programs",
+      "title": "Dr. Sanjay Gupta explains what we do — and still don't — know about pain",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/04/nx-s1-5752198/covering-global-health-as-billions-of-dollars-of-aid-are-cut-from-programs",
-      "published": "2026-04-04T21:34:29+00:00",
-      "summary": "NPR Global Health and Development Correspondent Fatma Tanis talks about digging into the impact of billions of dollars of US aid being cut from programs around the world.",
+      "url": "https://www.npr.org/2026/04/04/nx-s1-5699477/pain-science-sanjay-gupta",
+      "published": "2026-04-04T09:00:00+00:00",
+      "summary": "\"Pain is a mysterious thing,\" says neurosurgeon Dr. Sanjay Gupta. But understanding how it works in the body and different kinds of treatment can help you find the right pain relief when you need it.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
@@ -220,8 +220,8 @@
         "why": "Time-loop espionage, moral pressure, and speculative plotting — very plausible fit."
       },
       {
-        "title": "Black Doves",
-        "why": "Spy thriller territory with relationship drama and high-concept intrigue."
+        "title": "Bodies",
+        "why": "Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling."
       }
     ],
     "older": [
