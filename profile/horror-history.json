@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T18:35:28Z",
+  "updatedAt": "2026-04-04T18:56:22Z",
   "entries": [
     {
       "title": "Hannibal",
@@ -13,17 +13,105 @@
       "title": "The Substance",
       "mediaType": "film",
       "createdAt": "2026-04-04T18:35:28Z",
-      "updatedAt": "2026-04-04T18:35:28Z",
+      "updatedAt": "2026-04-04T18:56:22Z",
       "liked": true,
-      "notes": "Found in Letterboxd RSS feed; 4.5★ and liked."
+      "notes": "Letterboxd export; liked."
     },
     {
       "title": "Prometheus",
       "mediaType": "film",
       "createdAt": "2026-04-04T18:35:28Z",
-      "updatedAt": "2026-04-04T18:35:28Z",
+      "updatedAt": "2026-04-04T18:56:21Z",
       "liked": true,
-      "notes": "Found in Letterboxd RSS feed; 4★ and liked."
+      "notes": "Letterboxd export; liked."
+    },
+    {
+      "title": "Alien",
+      "mediaType": "film",
+      "createdAt": "2026-04-04T18:56:21Z",
+      "updatedAt": "2026-04-04T18:56:21Z",
+      "liked": true,
+      "notes": "Letterboxd export; liked."
+    },
+    {
+      "title": "Aliens",
+      "mediaType": "film",
+      "createdAt": "2026-04-04T18:56:21Z",
+      "updatedAt": "2026-04-04T18:56:21Z",
+      "liked": true,
+      "notes": "Letterboxd export; liked."
+    },
+    {
+      "title": "Jaws",
+      "mediaType": "film",
+      "createdAt": "2026-04-04T18:56:21Z",
+      "updatedAt": "2026-04-04T18:56:21Z",
+      "liked": true,
+      "notes": "Letterboxd export; liked."
+    },
+    {
+      "title": "Annihilation",
+      "mediaType": "film",
+      "createdAt": "2026-04-04T18:56:21Z",
+      "updatedAt": "2026-04-04T18:56:21Z",
+      "liked": true,
+      "notes": "Letterboxd export; liked."
+    },
+    {
+      "title": "The Thing",
+      "mediaType": "film",
+      "createdAt": "2026-04-04T18:56:22Z",
+      "updatedAt": "2026-04-04T18:56:22Z",
+      "liked": true,
+      "notes": "Letterboxd export; liked."
+    },
+    {
+      "title": "The Fly",
+      "mediaType": "film",
+      "createdAt": "2026-04-04T18:56:22Z",
+      "updatedAt": "2026-04-04T18:56:22Z",
+      "liked": true,
+      "notes": "Letterboxd export; liked."
+    },
+    {
+      "title": "Alien: Covenant",
+      "mediaType": "film",
+      "createdAt": "2026-04-04T18:56:22Z",
+      "updatedAt": "2026-04-04T18:56:22Z",
+      "liked": true,
+      "notes": "Letterboxd export; liked."
+    },
+    {
+      "title": "The Vast of Night",
+      "mediaType": "film",
+      "createdAt": "2026-04-04T18:56:22Z",
+      "updatedAt": "2026-04-04T18:56:22Z",
+      "liked": true,
+      "notes": "Letterboxd export; liked."
+    },
+    {
+      "title": "The Dead Zone",
+      "mediaType": "film",
+      "createdAt": "2026-04-04T18:56:22Z",
+      "updatedAt": "2026-04-04T18:56:22Z",
+      "liked": true,
+      "notes": "Letterboxd export; liked."
+    },
+    {
+      "title": "Slither",
+      "mediaType": "film",
+      "createdAt": "2026-04-04T18:56:22Z",
+      "updatedAt": "2026-04-04T18:56:22Z",
+      "liked": true,
+      "notes": "Letterboxd export; liked."
+    },
+    {
+      "title": "Pitch Black",
+      "mediaType": "film",
+      "createdAt": "2026-04-04T18:56:22Z",
+      "updatedAt": "2026-04-04T18:56:22Z",
+      "liked": true,
+      "notes": "Letterboxd export; liked."
     }
   ]
 }
