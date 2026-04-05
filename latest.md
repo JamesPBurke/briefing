@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-05T12:31:06.447228Z
+Generated: 2026-04-05T12:34:55.782131Z
 
 Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Security / computing. The strongest items in this run are Uproar in Germany over law requiring men get military approval for long stays abroad, How to use procrastination to your advantage, and Worker for US defense contractor killed in Iraq as colleagues say they are pressured to stay.
 
@@ -186,20 +186,20 @@ Link: https://www.youtube.com/watch?v=tZ7PQlQN9rw
 
 ## Trailers / Previews
 
-### The Bunny Graveyard - Announcement Trailer | PS5 Games [8/10]
-**Source:** PlayStation  
+### Everyone knows Reef Hawk. #Outcome — Streaming April 10 [9/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
-**Why it matters:** Worth flagging when it looks meaningfully aligned with your game/horror/design interests.
+**Why it matters:** Relevant to your current interest graph.
 
-https://store.playstation.com/concept/10012270 The Bunny Graveyard comes to PlayStation 5! Dive into a pixel-art horror adventure where you play as a cursor pulled into a mysterious digital world.
+Keanu Reeves is Hollywood’s biggest star, Reef Hawk. Outcome — A new film by Jonah Hill, starring Keanu Reeves, Cameron Diaz, Matt Bomer and Hill. Coming April 10 to Apple TV https://apple.
 
-Link: https://www.youtube.com/watch?v=L4uqsjCckR4
+Link: https://www.youtube.com/watch?v=EGVFocX4-z8
 
-### Starfield - Features Trailer | PS5 Games [8/10]
-**Source:** PlayStation  
+### Shrinking — Gaby Loves Lord Of The Rings | Compilation | Apple TV [9/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
-**Why it matters:** Worth flagging when it looks meaningfully aligned with your game/horror/design interests.
+**Why it matters:** Relevant to your current interest graph.
 
-A new group of explorers is about to chart its course among the stars when Starfield lands on PlayStation 5 on April 7.
+One rang to rule them all. Shrinking Season 3 is now streaming on Apple TV https://apple.co/_Shrinking Shrinking follows a grieving therapist (Jason Segel) who starts to break the rules and tell his clients exactly what he thinks.
 
-Link: https://www.youtube.com/watch?v=CROPDgbichs
+Link: https://www.youtube.com/watch?v=EQKkrkHc-9g
