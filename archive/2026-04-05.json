@@ -1,11 +1,31 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-05T12:34:55.782131Z",
-  "generatedAtDisplay": "2026-04-05 08:34 AM EDT",
+  "generatedAt": "2026-04-05T14:00:01.407278Z",
+  "generatedAtDisplay": "2026-04-05 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Security / computing. The strongest items in this run are Uproar in Germany over law requiring men get military approval for long stays abroad, How to use procrastination to your advantage, and Worker for US defense contractor killed in Iraq as colleagues say they are pressured to stay.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are US rescues second crew member of downed F-15E fighter jet from Iran, Secret Service investigates reports of gunfire near White House, and Uproar in Germany over law requiring men get military approval for long stays abroad.",
   "mainItems": [
+    {
+      "title": "US rescues second crew member of downed F-15E fighter jet from Iran",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/apr/04/iran-search-missing-us-crew-member-downed-fighter-jet-second-day",
+      "published": "2026-04-05T13:13:53+00:00",
+      "summary": "Trump gives further details on rescue and threatens to bomb infrastructure if strait of Hormuz is not reopened Middle East crisis – live updates The second crew member of a downed F-15E fighter jet has been rescued by US commandos…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Secret Service investigates reports of gunfire near White House",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/05/secret-service-investigates-gunfire-near-white-house",
+      "published": "2026-04-05T12:51:39+00:00",
+      "summary": "No injuries reported and no suspect found after a search of park and surrounding area, agency says The US Secret Service said on Sunday it was investigating reports of overnight gunfire near Lafayette Park, which is across the street from…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Uproar in Germany over law requiring men get military approval for long stays abroad",
       "source": "The Guardian US",
@@ -13,26 +33,6 @@
       "url": "https://www.theguardian.com/world/2026/apr/05/uproar-germany-law-men-up-to-45-military-permission-long-stays-abroad",
       "published": "2026-04-05T11:45:51+00:00",
       "summary": "Ministry clarifies clause affecting those up to age 45 that is part of legislation that came into effect in January A little-noticed clause in sweeping changes to Germany’s military service policy has caused uproar after it emerged that…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "How to use procrastination to your advantage",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/books/2026/apr/05/how-to-use-procrastination-to-your-advantage",
-      "published": "2026-04-05T11:00:50+00:00",
-      "summary": "As medieval sages understood, putting things off – done well – can open the doors to creativity and purpose A soft rain hammers at the window.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Worker for US defense contractor killed in Iraq as colleagues say they are pressured to stay",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/05/us-defense-contractor-v2x-worker-killed-iraq",
-      "published": "2026-04-05T11:00:49+00:00",
-      "summary": "Man working for V2X died in night attack as five sources say they are being placed in harm’s way A man employed by the US defense contractor V2X has been killed in a drone attack on Erbil airbase, amid concerns from colleagues that they…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -67,16 +67,6 @@
       "score": 10
     },
     {
-      "title": "US rescues second crew member of downed F-15E fighter jet from Iran",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/apr/04/iran-search-missing-us-crew-member-downed-fighter-jet-second-day",
-      "published": "2026-04-05T09:56:36+00:00",
-      "summary": "The rescue of the air man from the F-15E fighter jet was announced by Donald Trump in a late night social media post Middle East crisis – live updates The second crew member of a downed F-15E fighter jet has been rescued by US commandos…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "Anker’s Nebula P1 projector is the portable sound king",
       "source": "The Verge",
       "category": "Democracy / press freedom",
@@ -85,6 +75,36 @@
       "summary": "The Soundcore Nebula P1 from Anker isn't the most portable Google TV projector I've ever reviewed, nor is it the brightest. It doesn't even have a built-in battery. Instead it's a decent video device that focuses on sound.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "I’m back in London after almost a decade in the US – and I’m feeling homesick | Bim Adewunmi",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/05/back-in-london-after-decade-in-us-miss-friendly-new-yorkers",
+      "published": "2026-04-05T13:00:53+00:00",
+      "summary": "I’d forgotten how reticent Brits can be. Try to connect with strangers and they just recoil I don’t know how accurate it is that the children of immigrants are themselves well suited to leaving home.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "‘We’re home’: Even in a draw, Inter Miami’s stadium opener was a win for David Beckham",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/football/2026/apr/05/inter-miami-lionel-messi-david-beckham-nu-stadium-opener",
+      "published": "2026-04-05T12:52:45+00:00",
+      "summary": "Nu Stadium’s first game of any kind saw the South Florida club accomplish a long-held goal barely under the deadline Lionel Messi may have scored, captained the side and had a quarter of the new building named in his honor, but this was…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "CBP facility codes sure seem to have leaked via online flashcards",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
+      "published": "2026-04-05T11:07:27+00:00",
+      "summary": "Quizlet flashcards seem to include sensitive information about gate security at CBP locations.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
     },
     {
       "title": "Priest accused of coercing congregants for sex in Texas could have single trial for charges from three separate accusers",
@@ -97,16 +117,6 @@
       "score": 9
     },
     {
-      "title": "The hill I will die on: Order be damned – a house full of clutter is a happy house | Robin Craig",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/05/the-hill-i-will-die-on-clutter-house-is-good",
-      "published": "2026-04-05T09:00:46+00:00",
-      "summary": "Forget bare walls and clean lines. Give me curiosity and obsession. Give me evidence of a life well lived I have a friend whose flat when I visit feels like stepping into someone else’s mind.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
       "title": "The Sunday Papers",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
@@ -115,16 +125,6 @@
       "summary": "Assuming I haven't gotten torn apart by wild boars, Sundays are for navigating the wooded valleys around Cadair Idris.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
-    },
-    {
-      "title": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
-      "published": "2026-04-04T20:36:49+00:00",
-      "summary": "A state bill is a glimpse of how corporations are limiting people's ability to make their own fixes and upgrades.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
     },
     {
       "title": "New AHA guidelines on healthy eating emphasize plants, olive oil; limit saturated fat",

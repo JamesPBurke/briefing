@@ -1,12 +1,30 @@
 # James Daily Briefing
 
-Generated: 2026-04-05T12:34:55.782131Z
+Generated: 2026-04-05T14:00:01.407278Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Security / computing. The strongest items in this run are Uproar in Germany over law requiring men get military approval for long stays abroad, How to use procrastination to your advantage, and Worker for US defense contractor killed in Iraq as colleagues say they are pressured to stay.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are US rescues second crew member of downed F-15E fighter jet from Iran, Secret Service investigates reports of gunfire near White House, and Uproar in Germany over law requiring men get military approval for long stays abroad.
 
 ## Briefing
 
-### 1. Uproar in Germany over law requiring men get military approval for long stays abroad [10/10]
+### 1. US rescues second crew member of downed F-15E fighter jet from Iran [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Trump gives further details on rescue and threatens to bomb infrastructure if strait of Hormuz is not reopened Middle East crisis – live updates The second crew member of a downed F-15E fighter jet has been rescued by US commandos…
+
+Link: https://www.theguardian.com/world/2026/apr/04/iran-search-missing-us-crew-member-downed-fighter-jet-second-day
+
+### 2. Secret Service investigates reports of gunfire near White House [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+No injuries reported and no suspect found after a search of park and surrounding area, agency says The US Secret Service said on Sunday it was investigating reports of overnight gunfire near Lafayette Park, which is across the street from…
+
+Link: https://www.theguardian.com/us-news/2026/apr/05/secret-service-investigates-gunfire-near-white-house
+
+### 3. Uproar in Germany over law requiring men get military approval for long stays abroad [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -14,24 +32,6 @@ Today's sweep leans toward Democracy / press freedom, CS education / AI policy, 
 Ministry clarifies clause affecting those up to age 45 that is part of legislation that came into effect in January A little-noticed clause in sweeping changes to Germany’s military service policy has caused uproar after it emerged that…
 
 Link: https://www.theguardian.com/world/2026/apr/05/uproar-germany-law-men-up-to-45-military-permission-long-stays-abroad
-
-### 2. How to use procrastination to your advantage [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-As medieval sages understood, putting things off – done well – can open the doors to creativity and purpose A soft rain hammers at the window.
-
-Link: https://www.theguardian.com/books/2026/apr/05/how-to-use-procrastination-to-your-advantage
-
-### 3. Worker for US defense contractor killed in Iraq as colleagues say they are pressured to stay [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Man working for V2X died in night attack as five sources say they are being placed in harm’s way A man employed by the US defense contractor V2X has been killed in a drone attack on Erbil airbase, amid concerns from colleagues that they…
-
-Link: https://www.theguardian.com/us-news/2026/apr/05/us-defense-contractor-v2x-worker-killed-iraq
 
 ### 4. Rice’s whales predate modern humans. Now Trump could make them extinct [10/10]
 **Source:** The Guardian US  
@@ -60,16 +60,7 @@ Nicole Daedone, who promised spiritual wellbeing through her OneTaste enterprise
 
 Link: https://www.theguardian.com/us-news/2026/apr/05/orgasmic-cult-onetaste-nicole-daedone
 
-### 7. US rescues second crew member of downed F-15E fighter jet from Iran [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The rescue of the air man from the F-15E fighter jet was announced by Donald Trump in a late night social media post Middle East crisis – live updates The second crew member of a downed F-15E fighter jet has been rescued by US commandos…
-
-Link: https://www.theguardian.com/world/2026/apr/04/iran-search-missing-us-crew-member-downed-fighter-jet-second-day
-
-### 8. Anker’s Nebula P1 projector is the portable sound king [10/10]
+### 7. Anker’s Nebula P1 projector is the portable sound king [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -78,7 +69,34 @@ The Soundcore Nebula P1 from Anker isn't the most portable Google TV projector I
 
 Link: https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ
 
-### 9. Priest accused of coercing congregants for sex in Texas could have single trial for charges from three separate accusers [9/10]
+### 8. I’m back in London after almost a decade in the US – and I’m feeling homesick | Bim Adewunmi [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+I’d forgotten how reticent Brits can be. Try to connect with strangers and they just recoil I don’t know how accurate it is that the children of immigrants are themselves well suited to leaving home.
+
+Link: https://www.theguardian.com/commentisfree/2026/apr/05/back-in-london-after-decade-in-us-miss-friendly-new-yorkers
+
+### 9. ‘We’re home’: Even in a draw, Inter Miami’s stadium opener was a win for David Beckham [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Nu Stadium’s first game of any kind saw the South Florida club accomplish a long-held goal barely under the deadline Lionel Messi may have scored, captained the side and had a quarter of the new building named in his honor, but this was…
+
+Link: https://www.theguardian.com/football/2026/apr/05/inter-miami-lionel-messi-david-beckham-nu-stadium-opener
+
+### 10. CBP facility codes sure seem to have leaked via online flashcards [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Quizlet flashcards seem to include sensitive information about gate security at CBP locations.
+
+Link: https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/
+
+### 11. Priest accused of coercing congregants for sex in Texas could have single trial for charges from three separate accusers [9/10]
 **Source:** The Guardian US  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -87,16 +105,7 @@ Prosecutors say Anthony Odiong exploited his parishioners’ emotional dependenc
 
 Link: https://www.theguardian.com/us-news/2026/apr/05/priest-anthony-odiong-trial-sex-offenses
 
-### 10. The hill I will die on: Order be damned – a house full of clutter is a happy house | Robin Craig [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Forget bare walls and clean lines. Give me curiosity and obsession. Give me evidence of a life well lived I have a friend whose flat when I visit feels like stepping into someone else’s mind.
-
-Link: https://www.theguardian.com/commentisfree/2026/apr/05/the-hill-i-will-die-on-clutter-house-is-good
-
-### 11. The Sunday Papers [9/10]
+### 12. The Sunday Papers [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -104,15 +113,6 @@ Link: https://www.theguardian.com/commentisfree/2026/apr/05/the-hill-i-will-die-
 Assuming I haven't gotten torn apart by wild boars, Sundays are for navigating the wooded valleys around Cadair Idris.
 
 Link: https://www.rockpapershotgun.com/the-sunday-papers-804
-
-### 12. Tech companies are trying to neuter Colorado’s landmark right-to-repair law [8/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-A state bill is a glimpse of how corporations are limiting people's ability to make their own fixes and upgrades.
-
-Link: https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/
 
 ### 13. New AHA guidelines on healthy eating emphasize plants, olive oil; limit saturated fat [7/10]
 **Source:** NPR Health  
