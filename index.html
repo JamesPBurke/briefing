@@ -231,7 +231,7 @@
             </div>
           </div>
           <div class="mini-stack" id="youtube-items">
-            <div class="empty">No YouTube picks in the current issue.</div>
+            <div class="empty">No YouTube picks in this briefing.</div>
           </div>
         </section>
 
@@ -267,7 +267,7 @@
           </div>
         </div>
         <div class="mini-stack" id="trailer-items">
-          <div class="empty">No trailers in the current issue.</div>
+          <div class="empty">No trailer picks in this briefing.</div>
         </div>
       </section>
 
@@ -360,7 +360,7 @@
         document.getElementById('stat-main').textContent = data.stats?.mainCount ?? data.mainItems?.length ?? 0;
         document.getElementById('stat-youtube').textContent = data.stats?.youtubeCount ?? data.youtube?.length ?? 0;
         document.getElementById('stat-trailers').textContent = data.stats?.trailerCount ?? data.trailers?.length ?? 0;
-        document.getElementById('stat-updated').textContent = data.generatedAt ? new Date(data.generatedAt).toLocaleString() : '—';
+        document.getElementById('stat-updated').textContent = data.generatedAtDisplay || (data.generatedAt ? new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', dateStyle: 'medium', timeStyle: 'short', timeZoneName: 'short' }).format(new Date(data.generatedAt)) : '—');
         document.getElementById('nav-main-count').textContent = data.mainItems?.length ?? 0;
         document.getElementById('nav-youtube-count').textContent = data.youtube?.length ?? 0;
         document.getElementById('nav-trailer-count').textContent = data.trailers?.length ?? 0;

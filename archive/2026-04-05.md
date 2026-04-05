@@ -1,30 +1,75 @@
 # James Daily Briefing
 
-Generated: 2026-04-05T05:00:01.343035Z
+Generated: 2026-04-05T12:31:06.447228Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Man charged with impaired driving after after hitting Louisiana crowd celebrating Lao New Year, ‘Horror movie’: officials investigate after 21 dead dogs wash up on Washington state shore, and Anker’s Nebula P1 projector is the portable sound king.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Security / computing. The strongest items in this run are Uproar in Germany over law requiring men get military approval for long stays abroad, How to use procrastination to your advantage, and Worker for US defense contractor killed in Iraq as colleagues say they are pressured to stay.
 
 ## Briefing
 
-### 1. Man charged with impaired driving after after hitting Louisiana crowd celebrating Lao New Year [10/10]
+### 1. Uproar in Germany over law requiring men get military approval for long stays abroad [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-At least 15 people injured in incident with authorities saying some of the injuries believed to be serious At least 15 people were injured on Saturday after an alleged drunk driver ploughed into pedestrians at a Louisiana parade…
+Ministry clarifies clause affecting those up to age 45 that is part of legislation that came into effect in January A little-noticed clause in sweeping changes to Germany’s military service policy has caused uproar after it emerged that…
 
-Link: https://www.theguardian.com/us-news/2026/apr/04/louisiana-parade-car-crash
+Link: https://www.theguardian.com/world/2026/apr/05/uproar-germany-law-men-up-to-45-military-permission-long-stays-abroad
 
-### 2. ‘Horror movie’: officials investigate after 21 dead dogs wash up on Washington state shore [10/10]
+### 2. How to use procrastination to your advantage [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+As medieval sages understood, putting things off – done well – can open the doors to creativity and purpose A soft rain hammers at the window.
+
+Link: https://www.theguardian.com/books/2026/apr/05/how-to-use-procrastination-to-your-advantage
+
+### 3. Worker for US defense contractor killed in Iraq as colleagues say they are pressured to stay [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Carcasses wash ashore Guemes Island in ‘creepy mystery’, with authorities saying canines appear to be the same size Officials are investigating after nearly two dozen dead canines washed ashore on a Washington state island, in what one…
+Man working for V2X died in night attack as five sources say they are being placed in harm’s way A man employed by the US defense contractor V2X has been killed in a drone attack on Erbil airbase, amid concerns from colleagues that they…
 
-Link: https://www.theguardian.com/us-news/2026/apr/04/dead-canines-washington-state
+Link: https://www.theguardian.com/us-news/2026/apr/05/us-defense-contractor-v2x-worker-killed-iraq
 
-### 3. Anker’s Nebula P1 projector is the portable sound king [10/10]
+### 4. Rice’s whales predate modern humans. Now Trump could make them extinct [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The US has invoked national security to remove protections for the endangered cetacean, of which only about 50 are left Since before modern humans existed Rice’s whales have been diving to the depths of the ocean to gorge on fat-rich fish…
+
+Link: https://www.theguardian.com/environment/2026/apr/05/rice-whales-extinction-trump-gulf-mexico
+
+### 5. Opinion: Good Riddance to Regents Exams? Or Will Ending Them Leave a Void for N.Y. Grads? [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Starting in September 2027, New York state public school students will no longer be required to pass five Regents exams in order to graduate.
+
+Link: https://www.the74million.org/article/good-riddance-to-regents-exams-or-will-ending-them-leave-a-void-for-ny-grads/
+
+### 6. Comeuppance: how an orgasmic ‘cult’ ended in a prison term for its founder [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Nicole Daedone, who promised spiritual wellbeing through her OneTaste enterprise, received a nine-year sentence but some question if freedom of thought is being criminalized Clitoral stimulation as a path to spiritual connection, mental…
+
+Link: https://www.theguardian.com/us-news/2026/apr/05/orgasmic-cult-onetaste-nicole-daedone
+
+### 7. US rescues second crew member of downed F-15E fighter jet from Iran [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The rescue of the air man from the F-15E fighter jet was announced by Donald Trump in a late night social media post Middle East crisis – live updates The second crew member of a downed F-15E fighter jet has been rescued by US commandos…
+
+Link: https://www.theguardian.com/world/2026/apr/04/iran-search-missing-us-crew-member-downed-fighter-jet-second-day
+
+### 8. Anker’s Nebula P1 projector is the portable sound king [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -33,97 +78,88 @@ The Soundcore Nebula P1 from Anker isn't the most portable Google TV projector I
 
 Link: https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ
 
-### 4. ‘The good old days are gone’: how will US prices stand as war in Iran surges on? [10/10]
+### 9. Priest accused of coercing congregants for sex in Texas could have single trial for charges from three separate accusers [9/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-Beyond rising costs of gas and air travel, experts say this is likely just beginning of higher prices amid global volatility Sign up for the Breaking News US email to get newsletter alerts in your inbox As consumers watch the price of…
+Prosecutors say Anthony Odiong exploited his parishioners’ emotional dependency to engage in sexual conduct with them A Roman Catholic priest with ties to Texas and south-east Louisiana and criminally charged with abusing his position as a…
 
-Link: https://www.theguardian.com/us-news/2026/apr/05/prices-iran-war-gas-flights-economy
+Link: https://www.theguardian.com/us-news/2026/apr/05/priest-anthony-odiong-trial-sex-offenses
 
-### 5. Halting $400m White House ballroom project is national security risk, Trump officials say [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-US National Park Service lawyers cite materials that will be installed to make ‘heavily fortified’ facility Donald Trump’s administration is arguing that a judge’s order to halt construction of a $400m White House ballroom creates a…
-
-Link: https://www.theguardian.com/us-news/2026/apr/04/trump-white-house-ballroom-project
-
-### 6. Comedy games are alive and well in Horse Magnifier, a game where you do just that [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-I am not going to drudge up the half decomposed discourse around whether games are art or not. They most certainly offer up a huge range of experiences that other mediums do not.
-
-Link: https://www.rockpapershotgun.com/comedy-games-are-alive-and-well-in-horse-magnifier-a-game-where-you-do-just-that
-
-### 7. Grand Theft Auto 6 publisher Take-Two have seemingly laid off their head of AI and several of the department's staffers [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Grand Theft Auto publisher Take-Two have seemingly held some layoffs this week.
-
-Link: https://www.rockpapershotgun.com/grand-theft-auto-6-publisher-take-two-have-seemingly-laid-off-their-head-of-ai-and-several-of-the-departments-staffers
-
-### 8. How This Indiana Teacher Makes Her AP Personal Finance Class Click for Students [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-In Kristin Lidstrom’s business classes at Hamilton Southeastern High School in Fishers, the finance lessons quickly become personal.
-
-Link: https://www.the74million.org/article/how-this-indiana-teacher-makes-her-ap-personal-finance-class-click-for-students/
-
-### 9. US authorities arrest relatives of late Iranian military commander who were living in Los Angeles [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-State department said niece and grandniece of Qassem Soleimani, killed in 2020 US drone strike, celebrated attacks against US soldiers Middle East crisis – live updates US federal agents have arrested the niece and grandniece of the late…
-
-Link: https://www.theguardian.com/us-news/2026/apr/04/soleimani-family-arrested-us-federal-authorities
-
-### 10. Take-Two lays off AI team [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Take-Two Interactive , the parent company of GTA developer Rockstar Games , has reportedly laid off its AI team, including its head of AI. Read more
-
-Link: https://www.eurogamer.net/take-two-lays-off-ai-team
-
-### 11. Middle East crisis live: Trump says F-15 crew member missing in Iran is ‘safe’ after ‘dozens of aircraft’ sent to recover him [8/10]
+### 10. The hill I will die on: Order be damned – a house full of clutter is a happy house | Robin Craig [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-US president says crew member of fighter jet sustained some injuries after his aircraft was downed over Iran Second US crew member of downed fighter jet rescued from Iran US President Donald Trump has confirmed on Truth Social that the US…
+Forget bare walls and clean lines. Give me curiosity and obsession. Give me evidence of a life well lived I have a friend whose flat when I visit feels like stepping into someone else’s mind.
 
-Link: https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed
+Link: https://www.theguardian.com/commentisfree/2026/apr/05/the-hill-i-will-die-on-clutter-house-is-good
 
-### 12. Artemis II is going so well that we're left to talk about frozen urine [8/10]
+### 11. The Sunday Papers [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Assuming I haven't gotten torn apart by wild boars, Sundays are for navigating the wooded valleys around Cadair Idris.
+
+Link: https://www.rockpapershotgun.com/the-sunday-papers-804
+
+### 12. Tech companies are trying to neuter Colorado’s landmark right-to-repair law [8/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-"I think the fixation on the toilet is kind of human nature."
+A state bill is a glimpse of how corporations are limiting people's ability to make their own fixes and upgrades.
 
-Link: https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/
+Link: https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/
 
-### 13. Dr. Sanjay Gupta explains what we do — and still don't — know about pain [8/10]
+### 13. New AHA guidelines on healthy eating emphasize plants, olive oil; limit saturated fat [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-"Pain is a mysterious thing," says neurosurgeon Dr. Sanjay Gupta. But understanding how it works in the body and different kinds of treatment can help you find the right pain relief when you need it.
+The American Heart Association is releasing dietary guidelines on the heels of confusing guidelines announced by the federal government.
 
-Link: https://www.npr.org/2026/04/04/nx-s1-5699477/pain-science-sanjay-gupta
+Link: https://www.npr.org/2026/04/05/nx-s1-5770641/new-aha-guidelines-on-healthy-eating-emphasize-plants-olive-oil-limit-saturated-fat
 
 ## YouTube
+
+### Nintendo Says That Digital Game Prices Will Be Cheaper Than Physical - Reaction [9/10]
+**Creator:** Digital Foundry  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/otRnMhwMvg8 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=TkF3fZZsSWU
+
+### FDA approves Eli Lilly's new obesity pill [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The FDA has approved another obesity pill, called Foundayo, from pharmaceutical maker Eli Lilly.
+
+Link: https://www.youtube.com/watch?v=VAutt8lg0H4
+
+### If GTA 6 Fails, Is the Games Industry Doomed? | Dev Heads Podcast [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Dev Heads, Tina, JM8, and Mikee chat about the weight that's currently on the shoulders of Grand Theft Auto 6's success. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=OBIqjaNTPqE
+
+### Trump ousts Pam Bondi as attorney general [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+President Trump announced Thursday that Attorney General Pam Bondi is out from the top job at the Justice Department.
+
+Link: https://www.youtube.com/watch?v=tZ7PQlQN9rw
 
 ## Entertainment Recommendations
 
@@ -149,3 +185,21 @@ Link: https://www.npr.org/2026/04/04/nx-s1-5699477/pain-science-sanjay-gupta
 - **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
 
 ## Trailers / Previews
+
+### The Bunny Graveyard - Announcement Trailer | PS5 Games [8/10]
+**Source:** PlayStation  
+**Verdict:** Looks promising  
+**Why it matters:** Worth flagging when it looks meaningfully aligned with your game/horror/design interests.
+
+https://store.playstation.com/concept/10012270 The Bunny Graveyard comes to PlayStation 5! Dive into a pixel-art horror adventure where you play as a cursor pulled into a mysterious digital world.
+
+Link: https://www.youtube.com/watch?v=L4uqsjCckR4
+
+### Starfield - Features Trailer | PS5 Games [8/10]
+**Source:** PlayStation  
+**Verdict:** Looks promising  
+**Why it matters:** Worth flagging when it looks meaningfully aligned with your game/horror/design interests.
+
+A new group of explorers is about to chart its course among the stars when Starfield lands on PlayStation 5 on April 7.
+
+Link: https://www.youtube.com/watch?v=CROPDgbichs
