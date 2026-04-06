@@ -1,11 +1,41 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-06T05:00:01.750835Z",
-  "generatedAtDisplay": "2026-04-06 01:00 AM EDT",
+  "generatedAt": "2026-04-06T10:44:36.705279Z",
+  "generatedAtDisplay": "2026-04-06 06:44 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are We've gone mad for puzzles. This makes sense – it’s reassuring to have answers in these perplexing times | Joseph de Weck, Sony's battle against shovelware publishers persists as it purges another load of crap games from the PlayStation Store, and Worker for US defense contractor killed in Iraq as colleagues say they are pressured to stay.",
+  "summary": "Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, Games / criticism. The strongest items in this run are Inside 5 Rural Texas Districts That Together Set Students on Path to the Future, These blind students say their college blocked their education. A new rule could help, and A new start after 60: I jacked in my job in tech to become a professional poker player.",
   "mainItems": [
+    {
+      "title": "Inside 5 Rural Texas Districts That Together Set Students on Path to the Future",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/inside-5-rural-texas-districts-that-together-set-students-on-path-to-the-future/",
+      "published": "2026-04-06T10:30:00+00:00",
+      "summary": "Each day, hundreds of rural south Texas high schoolers wake before sunrise to board vans that bump for miles over back roads, crossing ranch land and thickets of brush.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "These blind students say their college blocked their education. A new rule could help",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/04/06/nx-s1-5720191/digital-accessibility-college-education-disability",
+      "published": "2026-04-06T09:00:00+00:00",
+      "summary": "Higher education is especially reliant on computers and phones, but accessibility for people with disabilities has often been forgotten. A new federal rule could change that.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10
+    },
+    {
+      "title": "A new start after 60: I jacked in my job in tech to become a professional poker player",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/06/a-new-start-after-60-i-jacked-in-my-job-in-tech-to-become-a-professional-poker-player",
+      "published": "2026-04-06T06:00:13+00:00",
+      "summary": "As a child, Gary Fisher was terrible at card games. How did he end up making his living from one? Gary Fisher has always enjoyed a game of poker, but after he turned 60, his partner suggested he take it seriously.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
     {
       "title": "We've gone mad for puzzles. This makes sense – it’s reassuring to have answers in these perplexing times | Joseph de Weck",
       "source": "The Guardian US",
@@ -17,33 +47,23 @@
       "score": 10
     },
     {
-      "title": "Sony's battle against shovelware publishers persists as it purges another load of crap games from the PlayStation Store",
-      "source": "Eurogamer",
+      "title": "The best videogame characters who came back from the dead",
+      "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/sonys-battle-against-shovelware-publishers-persists-as-it-purges-another-load-of-crap-games-from-the-playstation-store",
-      "published": "2026-04-05T18:09:52+00:00",
-      "summary": "Sony has once again delisted a number of games from its storefronts, including the catalogues of alleged shovelware publishers like GoGame Console Publisher, VRCForge Studios, and Welding Byte. Read more",
+      "url": "https://www.rockpapershotgun.com/the-best-videogame-characters-who-came-back-from-the-dead",
+      "published": "2026-04-06T09:00:00+00:00",
+      "summary": "Greetings, loyal Treehouse tenders and Horace huggers! Today is a bank holiday in the UK, which means we are probably asleep, but we've scraped together a little themed conversation piece article to comfort you in our absence.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "Worker for US defense contractor killed in Iraq as colleagues say they are pressured to stay",
+      "title": "‘It started with a tipoff’: how a Guardian investigation exposed child sex trafficking on Facebook and Instagram",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/05/us-defense-contractor-v2x-worker-killed-iraq",
-      "published": "2026-04-05T11:00:49+00:00",
-      "summary": "Man working for V2X died in night attack as five sources say they are being placed in harm’s way A man employed by the US defense contractor V2X has been killed in a drone attack on Erbil airbase, amid concerns from colleagues that they…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Middle East crisis live: Tehran warns Trump over strait of Hormuz threat; Netanyahu suggests Israel helped rescue downed US crew member",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel",
-      "published": "2026-04-06T04:30:48+00:00",
-      "summary": "Iran’s parliamentary speaker decries US president’s ‘reckless moves’ after expletive-ridden threat; Israeli PM says Trump ‘expressed his appreciation for Israel’s help’ Trump warns Iran to reopen strait of Hormuz by Tuesday or face ‘hell’…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "category": "Security / computing",
+      "url": "https://www.theguardian.com/global-development/2026/apr/06/investigation-exposed-child-sex-trafficking-on-facebook-and-instagram-meta",
+      "published": "2026-04-06T06:00:12+00:00",
+      "summary": "Meta has just lost a multimillion-dollar legal battle over its failure to prevent children being sold on its platforms. Here’s how we uncovered evidence that became part of the case against it It started with a tipoff.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 9
     },
     {
@@ -57,13 +77,13 @@
       "score": 9
     },
     {
-      "title": "McDonald's new 'Archie' device stops you going AFK while you eat a Big Mac",
+      "title": "Sony's battle against shovelware publishers persists as it purges another load of crap games from the PlayStation Store",
       "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/mcdonalds-new-archie-device-stops-you-going-afk-while-you-eat-a-big-mac",
-      "published": "2026-04-05T17:28:24+00:00",
-      "summary": "Gamers in Türkiye will be the first in the world to grab a McDonald's 'Archie' device – a controller peripheral that keeps your controller active while you step away, presumably to eat a McDonald's meal. Read more",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/sonys-battle-against-shovelware-publishers-persists-as-it-purges-another-load-of-crap-games-from-the-playstation-store",
+      "published": "2026-04-05T18:09:52+00:00",
+      "summary": "Sony has once again delisted a number of games from its storefronts, including the catalogues of alleged shovelware publishers like GoGame Console Publisher, VRCForge Studios, and Welding Byte. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -77,24 +97,14 @@
       "score": 9
     },
     {
-      "title": "I’m back in London after almost a decade in the US – and I’m feeling homesick | Bim Adewunmi",
+      "title": "Middle East crisis live: Iran warns of ‘devastating’ retaliation after Trump’s expletive-laden threats over strait of Hormuz",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/05/back-in-london-after-decade-in-us-miss-friendly-new-yorkers",
-      "published": "2026-04-05T13:00:53+00:00",
-      "summary": "I’d forgotten how reticent Brits can be. Try to connect with strangers and they just recoil I don’t know how accurate it is that the children of immigrants are themselves well suited to leaving home.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: Good Riddance to Regents Exams? Or Will Ending Them Leave a Void for N.Y. Grads?",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/good-riddance-to-regents-exams-or-will-ending-them-leave-a-void-for-ny-grads/",
-      "published": "2026-04-05T10:30:00+00:00",
-      "summary": "Starting in September 2027, New York state public school students will no longer be required to pass five Regents exams in order to graduate.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel",
+      "published": "2026-04-06T10:09:50+00:00",
+      "summary": "US and Iran reportedly receive proposal for a potential 45-day ceasefire; IRGC says Majid Khademi was killed early on Monday Trump warns Iran to reopen strait of Hormuz by Tuesday or face ‘hell’ ‘Unhinged madman’: US politicians react to…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
     },
     {
       "title": "Los Thuthanaka’s Wak’a is a mellower follow-up to last year’s surprise Pitchfork favorite",
@@ -125,19 +135,20 @@
       "summary": "Congress passed the Take It Down Act in 2024, protecting victims of deepfake revenge pornography. Now, Germany is considering punishing the creators of deepfake porn, not just the distributors, for up to 2 years.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 7
-    },
-    {
-      "title": "New AHA guidelines on healthy eating emphasize plants, olive oil; limit saturated fat",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/05/nx-s1-5770641/new-aha-guidelines-on-healthy-eating-emphasize-plants-olive-oil-limit-saturated-fat",
-      "published": "2026-04-05T12:07:27+00:00",
-      "summary": "The American Heart Association is releasing dietary guidelines on the heels of confusing guidelines announced by the federal government.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     }
   ],
   "youtube": [
+    {
+      "title": "Rubato, Retro Rewind, Legacy of Kain: Ascendance... and Candy? | Yahtzee Tries",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=XwQF4JllhxY",
+      "published": "2026-04-05T16:00:45+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
     {
       "title": "Nintendo Says That Digital Game Prices Will Be Cheaper Than Physical - Reaction",
       "source": "Digital Foundry",
@@ -150,37 +161,26 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "Assassin's Creed Unity 60fps Upgrade For PS5/Pro/Xbox Series X|S - What You Need To Know",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=OwJUdnHWPyM",
-      "published": "2026-04-05T16:00:42+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/GbbTiXeiR9w ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "title": "FDA approves Eli Lilly's new obesity pill",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=VAutt8lg0H4",
+      "published": "2026-04-04T14:45:03+00:00",
+      "summary": "The FDA has approved another obesity pill, called Foundayo, from pharmaceutical maker Eli Lilly.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
-      "title": "Is AMD X3D V-Cache A Must For Next-Gen Console CPUs?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=eM4Z5C3JgpY",
-      "published": "2026-04-05T15:00:54+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/T-yqMN_gqb4 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "MSI MPG 341CQR QD-OLED X36 Monitor - How OLED Care Aims To Prevent Burn-In [Sponsored]",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=3QSdOptc5FA",
-      "published": "2026-04-03T16:00:05+00:00",
-      "summary": "► Content sponsored by MSI - click here to learn more about the MPG 341CQR QD-OLED X36: https://msi.gm/S5946AA5I ► Watch the FULL Video Here: https://youtu.be/hwJyTquSo80 ► Support us on Patreon! https://bit.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "title": "If GTA 6 Fails, Is the Games Industry Doomed? | Dev Heads Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=OBIqjaNTPqE",
+      "published": "2026-04-03T19:10:01+00:00",
+      "summary": "This week on Dev Heads, Tina, JM8, and Mikee chat about the weight that's currently on the shoulders of Grand Theft Auto 6's success. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
     }
   ],
   "trailers": [
@@ -267,6 +267,6 @@
     "mainCount": 13,
     "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 8
+    "sourceCount": 11
   }
 }

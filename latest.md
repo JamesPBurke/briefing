@@ -1,12 +1,39 @@
 # James Daily Briefing
 
-Generated: 2026-04-06T05:00:01.750835Z
+Generated: 2026-04-06T10:44:36.705279Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are We've gone mad for puzzles. This makes sense – it’s reassuring to have answers in these perplexing times | Joseph de Weck, Sony's battle against shovelware publishers persists as it purges another load of crap games from the PlayStation Store, and Worker for US defense contractor killed in Iraq as colleagues say they are pressured to stay.
+Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, Games / criticism. The strongest items in this run are Inside 5 Rural Texas Districts That Together Set Students on Path to the Future, These blind students say their college blocked their education. A new rule could help, and A new start after 60: I jacked in my job in tech to become a professional poker player.
 
 ## Briefing
 
-### 1. We've gone mad for puzzles. This makes sense – it’s reassuring to have answers in these perplexing times | Joseph de Weck [10/10]
+### 1. Inside 5 Rural Texas Districts That Together Set Students on Path to the Future [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Each day, hundreds of rural south Texas high schoolers wake before sunrise to board vans that bump for miles over back roads, crossing ranch land and thickets of brush.
+
+Link: https://www.the74million.org/article/inside-5-rural-texas-districts-that-together-set-students-on-path-to-the-future/
+
+### 2. These blind students say their college blocked their education. A new rule could help [10/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Higher education is especially reliant on computers and phones, but accessibility for people with disabilities has often been forgotten. A new federal rule could change that.
+
+Link: https://www.npr.org/2026/04/06/nx-s1-5720191/digital-accessibility-college-education-disability
+
+### 3. A new start after 60: I jacked in my job in tech to become a professional poker player [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+As a child, Gary Fisher was terrible at card games. How did he end up making his living from one? Gary Fisher has always enjoyed a game of poker, but after he turned 60, his partner suggested he take it seriously.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/apr/06/a-new-start-after-60-i-jacked-in-my-job-in-tech-to-become-a-professional-poker-player
+
+### 4. We've gone mad for puzzles. This makes sense – it’s reassuring to have answers in these perplexing times | Joseph de Weck [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -15,34 +42,25 @@ Our world feels chaotic, confusing and unfair, but puzzles offer clear rules, so
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/06/puzzles-reassuring-answers-perplexing-times
 
-### 2. Sony's battle against shovelware publishers persists as it purges another load of crap games from the PlayStation Store [10/10]
-**Source:** Eurogamer  
+### 5. The best videogame characters who came back from the dead [9/10]
+**Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Sony has once again delisted a number of games from its storefronts, including the catalogues of alleged shovelware publishers like GoGame Console Publisher, VRCForge Studios, and Welding Byte. Read more
+Greetings, loyal Treehouse tenders and Horace huggers! Today is a bank holiday in the UK, which means we are probably asleep, but we've scraped together a little themed conversation piece article to comfort you in our absence.
 
-Link: https://www.eurogamer.net/sonys-battle-against-shovelware-publishers-persists-as-it-purges-another-load-of-crap-games-from-the-playstation-store
+Link: https://www.rockpapershotgun.com/the-best-videogame-characters-who-came-back-from-the-dead
 
-### 3. Worker for US defense contractor killed in Iraq as colleagues say they are pressured to stay [10/10]
+### 6. ‘It started with a tipoff’: how a Guardian investigation exposed child sex trafficking on Facebook and Instagram [9/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-Man working for V2X died in night attack as five sources say they are being placed in harm’s way A man employed by the US defense contractor V2X has been killed in a drone attack on Erbil airbase, amid concerns from colleagues that they…
+Meta has just lost a multimillion-dollar legal battle over its failure to prevent children being sold on its platforms. Here’s how we uncovered evidence that became part of the case against it It started with a tipoff.
 
-Link: https://www.theguardian.com/us-news/2026/apr/05/us-defense-contractor-v2x-worker-killed-iraq
+Link: https://www.theguardian.com/global-development/2026/apr/06/investigation-exposed-child-sex-trafficking-on-facebook-and-instagram-meta
 
-### 4. Middle East crisis live: Tehran warns Trump over strait of Hormuz threat; Netanyahu suggests Israel helped rescue downed US crew member [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Iran’s parliamentary speaker decries US president’s ‘reckless moves’ after expletive-ridden threat; Israeli PM says Trump ‘expressed his appreciation for Israel’s help’ Trump warns Iran to reopen strait of Hormuz by Tuesday or face ‘hell’…
-
-Link: https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel
-
-### 5. My mother, Audrey Hepburn: the star’s son Sean on her movies, marriages, good works and fascist parents [9/10]
+### 7. My mother, Audrey Hepburn: the star’s son Sean on her movies, marriages, good works and fascist parents [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -51,16 +69,16 @@ The heroine of Roman Holiday and Breakfast at Tiffany’s knew war and poverty, 
 
 Link: https://www.theguardian.com/lifeandstyle/2026/apr/06/audrey-hepburn-sean-hepburn-ferrer-biography
 
-### 6. McDonald's new 'Archie' device stops you going AFK while you eat a Big Mac [9/10]
+### 8. Sony's battle against shovelware publishers persists as it purges another load of crap games from the PlayStation Store [9/10]
 **Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Gamers in Türkiye will be the first in the world to grab a McDonald's 'Archie' device – a controller peripheral that keeps your controller active while you step away, presumably to eat a McDonald's meal. Read more
+Sony has once again delisted a number of games from its storefronts, including the catalogues of alleged shovelware publishers like GoGame Console Publisher, VRCForge Studios, and Welding Byte. Read more
 
-Link: https://www.eurogamer.net/mcdonalds-new-archie-device-stops-you-going-afk-while-you-eat-a-big-mac
+Link: https://www.eurogamer.net/sonys-battle-against-shovelware-publishers-persists-as-it-purges-another-load-of-crap-games-from-the-playstation-store
 
-### 7. Pencil Running for Oregon Governor Hopes to Make Its Mark on Education Issues [9/10]
+### 9. Pencil Running for Oregon Governor Hopes to Make Its Mark on Education Issues [9/10]
 **Source:** The 74  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,25 +87,16 @@ Oregon’s low youth literacy rates spurred a new candidate to announce a write-
 
 Link: https://www.the74million.org/article/pencil-running-for-oregon-governor-hopes-to-make-its-mark-on-education-issues/
 
-### 8. I’m back in London after almost a decade in the US – and I’m feeling homesick | Bim Adewunmi [9/10]
+### 10. Middle East crisis live: Iran warns of ‘devastating’ retaliation after Trump’s expletive-laden threats over strait of Hormuz [8/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-I’d forgotten how reticent Brits can be. Try to connect with strangers and they just recoil I don’t know how accurate it is that the children of immigrants are themselves well suited to leaving home.
+US and Iran reportedly receive proposal for a potential 45-day ceasefire; IRGC says Majid Khademi was killed early on Monday Trump warns Iran to reopen strait of Hormuz by Tuesday or face ‘hell’ ‘Unhinged madman’: US politicians react to…
 
-Link: https://www.theguardian.com/commentisfree/2026/apr/05/back-in-london-after-decade-in-us-miss-friendly-new-yorkers
+Link: https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel
 
-### 9. Opinion: Good Riddance to Regents Exams? Or Will Ending Them Leave a Void for N.Y. Grads? [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Starting in September 2027, New York state public school students will no longer be required to pass five Regents exams in order to graduate.
-
-Link: https://www.the74million.org/article/good-riddance-to-regents-exams-or-will-ending-them-leave-a-void-for-ny-grads/
-
-### 10. Los Thuthanaka’s Wak’a is a mellower follow-up to last year’s surprise Pitchfork favorite [8/10]
+### 11. Los Thuthanaka’s Wak’a is a mellower follow-up to last year’s surprise Pitchfork favorite [8/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -96,7 +105,7 @@ Los Thuthanaka basically came out of nowhere last year to capture Pitchfork's al
 
 Link: https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review
 
-### 11. Slay the Spire 2 beats Crimson Desert and Resident Evil Requiem as March's biggest-selling game on Steam [8/10]
+### 12. Slay the Spire 2 beats Crimson Desert and Resident Evil Requiem as March's biggest-selling game on Steam [8/10]
 **Source:** Eurogamer  
 **Category:** Games / design  
 **Why it matters:** Useful if you care about how games actually work as designed experiences.
@@ -105,7 +114,7 @@ Slay the Spire 2 was allegedly March's biggest-selling game on Steam, shifting m
 
 Link: https://www.eurogamer.net/slay-the-spire-2-beats-crimson-desert-and-resident-evil-requiem-as-marchs-biggest-selling-game-on-steam
 
-### 12. Amid a high-profile scandal, Germany considers deepfake porn punishments [7/10]
+### 13. Amid a high-profile scandal, Germany considers deepfake porn punishments [7/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -114,16 +123,16 @@ Congress passed the Take It Down Act in 2024, protecting victims of deepfake rev
 
 Link: https://www.npr.org/2026/04/05/nx-s1-5770462/amid-a-high-profile-scandal-germany-considers-deepfake-porn-punishments
 
-### 13. New AHA guidelines on healthy eating emphasize plants, olive oil; limit saturated fat [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The American Heart Association is releasing dietary guidelines on the heels of confusing guidelines announced by the federal government.
-
-Link: https://www.npr.org/2026/04/05/nx-s1-5770641/new-aha-guidelines-on-healthy-eating-emphasize-plants-olive-oil-limit-saturated-fat
-
 ## YouTube
+
+### Rubato, Retro Rewind, Legacy of Kain: Ascendance... and Candy? | Yahtzee Tries [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
+
+Link: https://www.youtube.com/watch?v=XwQF4JllhxY
 
 ### Nintendo Says That Digital Game Prices Will Be Cheaper Than Physical - Reaction [8/10]
 **Creator:** Digital Foundry  
@@ -134,32 +143,23 @@ Link: https://www.npr.org/2026/04/05/nx-s1-5770641/new-aha-guidelines-on-healthy
 
 Link: https://www.youtube.com/watch?v=TkF3fZZsSWU
 
-### Assassin's Creed Unity 60fps Upgrade For PS5/Pro/Xbox Series X|S - What You Need To Know [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### FDA approves Eli Lilly's new obesity pill [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
 
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/GbbTiXeiR9w ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+The FDA has approved another obesity pill, called Foundayo, from pharmaceutical maker Eli Lilly.
 
-Link: https://www.youtube.com/watch?v=OwJUdnHWPyM
+Link: https://www.youtube.com/watch?v=VAutt8lg0H4
 
-### Is AMD X3D V-Cache A Must For Next-Gen Console CPUs? [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### If GTA 6 Fails, Is the Games Industry Doomed? | Dev Heads Podcast [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/T-yqMN_gqb4 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+This week on Dev Heads, Tina, JM8, and Mikee chat about the weight that's currently on the shoulders of Grand Theft Auto 6's success. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.
 
-Link: https://www.youtube.com/watch?v=eM4Z5C3JgpY
-
-### MSI MPG 341CQR QD-OLED X36 Monitor - How OLED Care Aims To Prevent Burn-In [Sponsored] [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Content sponsored by MSI - click here to learn more about the MPG 341CQR QD-OLED X36: https://msi.gm/S5946AA5I ► Watch the FULL Video Here: https://youtu.be/hwJyTquSo80 ► Support us on Patreon! https://bit.
-
-Link: https://www.youtube.com/watch?v=3QSdOptc5FA
+Link: https://www.youtube.com/watch?v=OBIqjaNTPqE
 
 ## Entertainment Recommendations
 
