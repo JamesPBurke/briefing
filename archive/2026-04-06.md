@@ -1,12 +1,21 @@
 # James Daily Briefing
 
-Generated: 2026-04-06T12:38:53.010957Z
+Generated: 2026-04-06T14:00:01.163511Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are US states propose domestic violence registries – but could they harm women?, ‘Creepy surveillance’: why some cities are shutting down Flock cameras amid privacy concerns, and David Ellison says 70% of Americans are centrist. Surveys tell a different story.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are "Keeping teams together doesn't seem to matter to people, but for us it did": Star Wars Zero Company's director on what the industry can learn from XCOM 2, US states propose domestic violence registries – but could they harm women?, and ‘Creepy surveillance’: why some cities are shutting down Flock cameras amid privacy concerns.
 
 ## Briefing
 
-### 1. US states propose domestic violence registries – but could they harm women? [10/10]
+### 1. "Keeping teams together doesn't seem to matter to people, but for us it did": Star Wars Zero Company's director on what the industry can learn from XCOM 2 [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+It seems that every week we're reporting on news of another wave of layoffs at a big game studio. In March alone, we saw 1000 staff let go at Epic Games , 124 at Eidos Montreal , and over 100 at Ubisoft's Red Storm Entertainment .
+
+Link: https://www.rockpapershotgun.com/keeping-teams-together-doesnt-seem-to-matter-to-people-but-for-us-it-did-star-wars-zero-companys-director-on-what-the-industry-can-learn-from-xcom-2
+
+### 2. US states propose domestic violence registries – but could they harm women? [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -15,7 +24,7 @@ Tennessee leads way but experts say offender registry could provide a false sens
 
 Link: https://www.theguardian.com/us-news/2026/apr/06/domestic-violence-offender-registry
 
-### 2. ‘Creepy surveillance’: why some cities are shutting down Flock cameras amid privacy concerns [10/10]
+### 3. ‘Creepy surveillance’: why some cities are shutting down Flock cameras amid privacy concerns [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -24,7 +33,7 @@ Some cities are cutting ties with firm that provides license plate reader camera
 
 Link: https://www.theguardian.com/us-news/ng-interactive/2026/apr/06/flock-cameras-privacy-concerns
 
-### 3. David Ellison says 70% of Americans are centrist. Surveys tell a different story [10/10]
+### 4. David Ellison says 70% of Americans are centrist. Surveys tell a different story [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -33,7 +42,7 @@ Paramount Skydance CEO has repeatedly cited the statistic when laying out the ap
 
 Link: https://www.theguardian.com/media/2026/apr/06/paramount-ceo-david-ellison-american-centrist-survey
 
-### 4. AI is changing how small online sellers decide what to make [10/10]
+### 5. AI is changing how small online sellers decide what to make [10/10]
 **Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -42,7 +51,7 @@ For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black mode
 
 Link: https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/
 
-### 5. Reframing CS with CSTA IMPACT Fellow Karen Stoll [10/10]
+### 6. Reframing CS with CSTA IMPACT Fellow Karen Stoll [10/10]
 **Source:** CSTA  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -51,7 +60,7 @@ Karen Stoll has taught computer science at Blacksburg High School in Virginia fo
 
 Link: https://csteachers.org/reframing-cs-with-csta-impact-fellow-karen-stoll/
 
-### 6. Inside 5 Rural Texas Districts That Together Set Students on Path to the Future [10/10]
+### 7. Inside 5 Rural Texas Districts That Together Set Students on Path to the Future [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -60,7 +69,7 @@ Each day, hundreds of rural south Texas high schoolers wake before sunrise to bo
 
 Link: https://www.the74million.org/article/inside-5-rural-texas-districts-that-together-set-students-on-path-to-the-future/
 
-### 7. Trailblazers, trumpets and the theremin: 10 soundtracks that changed the way we listen to movies [10/10]
+### 8. Trailblazers, trumpets and the theremin: 10 soundtracks that changed the way we listen to movies [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,7 +78,7 @@ From soundtracking the silent era, via 50s rock’n’roll and the ‘symphonic 
 
 Link: https://www.theguardian.com/music/2026/apr/06/10-soundtracks-that-changed-the-way-we-listen-to-movies-star-wars-space-odyssey
 
-### 8. These blind students say their college blocked their education. A new rule could help [10/10]
+### 9. These blind students say their college blocked their education. A new rule could help [10/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -78,7 +87,7 @@ Higher education is especially reliant on computers and phones, but accessibilit
 
 Link: https://www.npr.org/2026/04/06/nx-s1-5720191/digital-accessibility-college-education-disability
 
-### 9. ‘The events still haunt’: New York stage production examines aftermath of Finnish school shooting [9/10]
+### 10. ‘The events still haunt’: New York stage production examines aftermath of Finnish school shooting [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -86,15 +95,6 @@ Link: https://www.npr.org/2026/04/06/nx-s1-5720191/digital-accessibility-college
 Kaija Saariaho’s Innocence delves into guilt, grief and anger over a phenomenon largely thought of as distinctly American Gun violence, particularly the high-profile incidents that take place on school campuses, are often seen as a…
 
 Link: https://www.theguardian.com/us-news/2026/apr/06/new-york-opera-innocence-finland-school-shooting
-
-### 10. The best videogame characters who came back from the dead [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Greetings, loyal Treehouse tenders and Horace huggers! Today is a bank holiday in the UK, which means we are probably asleep, but we've scraped together a little themed conversation piece article to comfort you in our absence.
-
-Link: https://www.rockpapershotgun.com/the-best-videogame-characters-who-came-back-from-the-dead
 
 ### 11. ‘It started with a tipoff’: how a Guardian investigation exposed child sex trafficking on Facebook and Instagram [9/10]
 **Source:** The Guardian US  

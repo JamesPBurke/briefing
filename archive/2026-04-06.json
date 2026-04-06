@@ -1,11 +1,21 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-06T12:38:53.010957Z",
-  "generatedAtDisplay": "2026-04-06 08:38 AM EDT",
+  "generatedAt": "2026-04-06T14:00:01.163511Z",
+  "generatedAtDisplay": "2026-04-06 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are US states propose domestic violence registries – but could they harm women?, ‘Creepy surveillance’: why some cities are shutting down Flock cameras amid privacy concerns, and David Ellison says 70% of Americans are centrist. Surveys tell a different story.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are \"Keeping teams together doesn't seem to matter to people, but for us it did\": Star Wars Zero Company's director on what the industry can learn from XCOM 2, US states propose domestic violence registries – but could they harm women?, and ‘Creepy surveillance’: why some cities are shutting down Flock cameras amid privacy concerns.",
   "mainItems": [
+    {
+      "title": "\"Keeping teams together doesn't seem to matter to people, but for us it did\": Star Wars Zero Company's director on what the industry can learn from XCOM 2",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/keeping-teams-together-doesnt-seem-to-matter-to-people-but-for-us-it-did-star-wars-zero-companys-director-on-what-the-industry-can-learn-from-xcom-2",
+      "published": "2026-04-06T13:00:00+00:00",
+      "summary": "It seems that every week we're reporting on news of another wave of layoffs at a big game studio. In March alone, we saw 1000 staff let go at Epic Games , 124 at Eidos Montreal , and over 100 at Ubisoft's Red Storm Entertainment .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
     {
       "title": "US states propose domestic violence registries – but could they harm women?",
       "source": "The Guardian US",
@@ -94,16 +104,6 @@
       "published": "2026-04-06T12:00:18+00:00",
       "summary": "Kaija Saariaho’s Innocence delves into guilt, grief and anger over a phenomenon largely thought of as distinctly American Gun violence, particularly the high-profile incidents that take place on school campuses, are often seen as a…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "The best videogame characters who came back from the dead",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/the-best-videogame-characters-who-came-back-from-the-dead",
-      "published": "2026-04-06T09:00:00+00:00",
-      "summary": "Greetings, loyal Treehouse tenders and Horace huggers! Today is a bank holiday in the UK, which means we are probably asleep, but we've scraped together a little themed conversation piece article to comfort you in our absence.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
