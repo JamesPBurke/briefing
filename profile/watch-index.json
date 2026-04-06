@@ -1,0 +1,9413 @@
+{
+  "updatedAt": "2026-04-06T12:36:58Z",
+  "source": "normalized union of shows, added-shows, maggie watched, horror history, and letterboxd exports",
+  "items": [
+    {
+      "title": "10 Cloverfield Lane",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "11.22.63",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "12 Monkeys",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 12/47"
+      ]
+    },
+    {
+      "title": "1899",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "2001: A Space Odyssey",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "2012",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "2046",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "24",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 204/204"
+      ]
+    },
+    {
+      "title": "28 Days Later",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "28 Weeks Later",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "3 Body Problem",
+      "aliases": [
+        "three body problem"
+      ],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "30 Coins",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 10/16"
+      ]
+    },
+    {
+      "title": "A Clockwork Orange",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "A Grand Day Out",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "A Man on the Inside",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 2/16"
+      ]
+    },
+    {
+      "title": "A Quiet Place",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "A Quiet Place Part II",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "A Trip to the Moon",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "A.I. Artificial Intelligence",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Abbott Elementary",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 52/93"
+      ]
+    },
+    {
+      "title": "Absolutely Fabulous",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 9/34"
+      ]
+    },
+    {
+      "title": "Ad Astra",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Adult Swim Infomercials",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 2/47"
+      ]
+    },
+    {
+      "title": "After Earth",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "After The Flood",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 6/12"
+      ]
+    },
+    {
+      "title": "Agatha All Along",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 9/9"
+      ]
+    },
+    {
+      "title": "Ahsoka",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Akira",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Alias",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 105/105"
+      ]
+    },
+    {
+      "title": "Alice in Borderland (2020)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 2/22"
+      ]
+    },
+    {
+      "title": "Alien",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "Alien Resurrection",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "Alien: Covenant",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "Alien: Earth",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Aliens",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "Aliens vs Predator: Requiem",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "Alien³",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "Alita: Battle Angel",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Almost Human",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 13/13"
+      ]
+    },
+    {
+      "title": "Altered States",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "American Gods",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/26"
+      ]
+    },
+    {
+      "title": "American Horror Stories",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 3/24",
+        "Shows export; watched 3/24."
+      ]
+    },
+    {
+      "title": "American Horror Story",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 103/132",
+        "Shows export; watched 103/132."
+      ]
+    },
+    {
+      "title": "American Hustle",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Amphibia",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 71/106"
+      ]
+    },
+    {
+      "title": "Andor",
+      "aliases": [
+        "and or",
+        "a n d o r"
+      ],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 24/24"
+      ]
+    },
+    {
+      "title": "Angelyne",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/5"
+      ]
+    },
+    {
+      "title": "Anne Rice's Mayfair Witches",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/16"
+      ]
+    },
+    {
+      "title": "Annihilation",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "Another Earth",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Another Life",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 10/20"
+      ]
+    },
+    {
+      "title": "Ant-Man",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Ant-Man and the Wasp",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Arcane",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 18/18"
+      ]
+    },
+    {
+      "title": "Archive 81",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Armageddon",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Arrival",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Ash vs Evil Dead",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 3/30",
+        "Shows export; watched 3/30."
+      ]
+    },
+    {
+      "title": "Atlantis: The Lost Empire",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Attack on Titan",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 25/89"
+      ]
+    },
+    {
+      "title": "Attack the Block",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Austin Powers in Goldmember",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Austin Powers: International Man of Mystery",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Austin Powers: The Spy Who Shagged Me",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Avatar",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Avengers: Age of Ultron",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Avengers: Endgame",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Avenue 5",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 2/17"
+      ]
+    },
+    {
+      "title": "AVP: Alien vs. Predator",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "Back to the Future",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Back to the Future Part II",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Back to the Future Part III",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Barbarella",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Batman & Robin",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Batman: Under the Red Hood",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Battle: Los Angeles",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Battlestar Galactica (2003)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 73/73"
+      ]
+    },
+    {
+      "title": "Battlestar Galactica: Blood & Chrome",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 10/10"
+      ]
+    },
+    {
+      "title": "Batwoman",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 13/51"
+      ]
+    },
+    {
+      "title": "Better Call Saul",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 63/63"
+      ]
+    },
+    {
+      "title": "Beyond the Black Rainbow",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Bicentennial Man",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Bill & Ted's Excellent Adventure",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Bird Box",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Black Bird",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 6/6"
+      ]
+    },
+    {
+      "title": "Black Doves",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "added-shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "Watched together."
+      ]
+    },
+    {
+      "title": "Black Mirror",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 14/32"
+      ]
+    },
+    {
+      "title": "Black Mirror: Bandersnatch",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Black Mirror: Nosedive",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Black Mirror: San Junipero",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Black Mirror: The Waldo Moment",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Black Mirror: White Christmas",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Black Panther",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Black Rabbit",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Black Snow",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 6/12"
+      ]
+    },
+    {
+      "title": "Black Widow",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Blade Runner",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Blade Runner 2049",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Blue Lights",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 12/18"
+      ]
+    },
+    {
+      "title": "Bodkin",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 7/7"
+      ]
+    },
+    {
+      "title": "Bosch",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 68/68"
+      ]
+    },
+    {
+      "title": "Boy Swallows Universe",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/7"
+      ]
+    },
+    {
+      "title": "Brazil",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Breaking Bad",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 62/62"
+      ]
+    },
+    {
+      "title": "Brightburn",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Broadchurch",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 24/24"
+      ]
+    },
+    {
+      "title": "Brooklyn Nine-Nine",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 51/153"
+      ]
+    },
+    {
+      "title": "Buffy the Vampire Slayer",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 144/144",
+        "Shows export; watched 144/144."
+      ]
+    },
+    {
+      "title": "Butterfly (2025)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/6"
+      ]
+    },
+    {
+      "title": "Caprica",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 18/18"
+      ]
+    },
+    {
+      "title": "Captain America: Civil War",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Captain America: The First Avenger",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Captain America: The Winter Soldier",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Captain Marvel",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Castlevania",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 32/32"
+      ]
+    },
+    {
+      "title": "Castlevania: Nocturne",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/16"
+      ]
+    },
+    {
+      "title": "Charlie's Angels",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Chernobyl",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 5/5"
+      ]
+    },
+    {
+      "title": "Children of Men",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Chosen (2022)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/6"
+      ]
+    },
+    {
+      "title": "Chronicle",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Citadel",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 2/6"
+      ]
+    },
+    {
+      "title": "Clarice",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 13/13"
+      ]
+    },
+    {
+      "title": "Clickbait",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Close Encounters of the Third Kind",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Cloud Atlas",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Cloverfield",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Coco",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Color Out of Space",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Contact",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Contagion",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Cowboy Bebop",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 26/26"
+      ]
+    },
+    {
+      "title": "Cowboy Bebop: The Movie",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Creature from the Black Lagoon",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Crime Scene",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 4/13"
+      ]
+    },
+    {
+      "title": "Criminal: United Kingdom",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 7/7"
+      ]
+    },
+    {
+      "title": "Cube",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Cunk on Earth",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/5"
+      ]
+    },
+    {
+      "title": "Cyberpunk: Edgerunners",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 3/20"
+      ]
+    },
+    {
+      "title": "Dalgliesh (2021)",
+      "aliases": [
+        "dog leash"
+      ],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 12/18"
+      ]
+    },
+    {
+      "title": "Dark",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 26/26",
+        "Shows export; watched 26/26."
+      ]
+    },
+    {
+      "title": "Dark Angel",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 42/42"
+      ]
+    },
+    {
+      "title": "Dark City",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "Dark Matter",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 39/39"
+      ]
+    },
+    {
+      "title": "Dark Winds",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 20/28"
+      ]
+    },
+    {
+      "title": "Darkman",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "Dawn of the Planet of the Apes",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Daybreakers",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Deadloch",
+      "aliases": [
+        "deadlock"
+      ],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 8/14"
+      ]
+    },
+    {
+      "title": "Deadpool",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Deadpool 2",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Deadwind",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 28/28"
+      ]
+    },
+    {
+      "title": "Deadwood",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "added-shows.json"
+      ],
+      "notes": [
+        "Seen it."
+      ]
+    },
+    {
+      "title": "Deep Impact",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Demolition Man",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Department Q",
+      "aliases": [
+        "Dept. Q"
+      ],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "maggie-watched.json"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Dept. Q",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 9/9"
+      ]
+    },
+    {
+      "title": "Derry Girls",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 13/19"
+      ]
+    },
+    {
+      "title": "Devil in Ohio",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/8"
+      ]
+    },
+    {
+      "title": "Devs",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Dexter",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 96/96"
+      ]
+    },
+    {
+      "title": "Dexter: New Blood",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 10/10"
+      ]
+    },
+    {
+      "title": "Disclaimer",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 7/7"
+      ]
+    },
+    {
+      "title": "District 9",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Divergent",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Doctor Strange",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Doctor Who (2005)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 153/153",
+        "watched 16/16"
+      ]
+    },
+    {
+      "title": "Don't Look Up",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Doom Patrol",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 41/46"
+      ]
+    },
+    {
+      "title": "Down Cemetery Road",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Dredd",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Dune",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Dune: Prophecy",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 6/6"
+      ]
+    },
+    {
+      "title": "E.T. the Extra-Terrestrial",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Echo",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 5/5"
+      ]
+    },
+    {
+      "title": "Echoes (2022)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 2/7"
+      ]
+    },
+    {
+      "title": "Edge of Tomorrow",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Elektra",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Elementary",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 48/154"
+      ]
+    },
+    {
+      "title": "Elize Matsunaga: Once Upon a Crime",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/4"
+      ]
+    },
+    {
+      "title": "Elysium",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Endeavour",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 35/35"
+      ]
+    },
+    {
+      "title": "Ender's Game",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "English Teacher",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 3/18"
+      ]
+    },
+    {
+      "title": "Equilibrium",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Equinox (2020)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 6/6"
+      ]
+    },
+    {
+      "title": "Escape from L.A.",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Escape from New York",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Eternals",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Event Horizon",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Evolution",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Ex Machina",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "eXistenZ",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Face/Off",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Fahrenheit 451",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Fall River",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/4"
+      ]
+    },
+    {
+      "title": "Fallout",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 9/16"
+      ]
+    },
+    {
+      "title": "Fantastic Four",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Fargo",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 51/51"
+      ]
+    },
+    {
+      "title": "Farscape",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 90/90"
+      ]
+    },
+    {
+      "title": "Fear the Walking Dead",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 86/113",
+        "Shows export; watched 86/113."
+      ]
+    },
+    {
+      "title": "Feria: The Darkest Light",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 8/8",
+        "Shows export; watched 8/8."
+      ]
+    },
+    {
+      "title": "Final Space",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 10/36"
+      ]
+    },
+    {
+      "title": "Firefly",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 14/14"
+      ]
+    },
+    {
+      "title": "Flatliners",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Fleabag",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 2/12"
+      ]
+    },
+    {
+      "title": "For All Mankind",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 40/50"
+      ]
+    },
+    {
+      "title": "Forbidden Planet",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Foundation (2021)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 30/30"
+      ]
+    },
+    {
+      "title": "FROM",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 30/40"
+      ]
+    },
+    {
+      "title": "From Beyond",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Frozen",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Galaxy Quest",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Game of Thrones",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 73/73"
+      ]
+    },
+    {
+      "title": "GAMERA -Rebirth-",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/6"
+      ]
+    },
+    {
+      "title": "Gattaca",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Ghost in the Shell",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Ghost in the Shell: Stand Alone Complex",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 76/76"
+      ]
+    },
+    {
+      "title": "Ghosts of Mars",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "Glass",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Godzilla",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "Godzilla vs. Kong",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "Godzilla: King of the Monsters",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "Goliath",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 27/32"
+      ]
+    },
+    {
+      "title": "Gone for Good",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 2/5"
+      ]
+    },
+    {
+      "title": "Good Omens",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 12/13"
+      ]
+    },
+    {
+      "title": "Gravity",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Great Expectations (2023)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 6/6"
+      ]
+    },
+    {
+      "title": "Green Lantern",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Guardians of the Galaxy",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Guardians of the Galaxy Vol. 2",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Guillermo del Toro's Cabinet of Curiosities",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Hacks (2021)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 37/47"
+      ]
+    },
+    {
+      "title": "Halt and Catch Fire",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 40/40"
+      ]
+    },
+    {
+      "title": "Hanna",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 9/22"
+      ]
+    },
+    {
+      "title": "Hannibal",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "shows.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 39/39",
+        "Shows export; watched 39/39."
+      ]
+    },
+    {
+      "title": "Happy Death Day 2U",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Happy Valley",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 18/18"
+      ]
+    },
+    {
+      "title": "Hardcore Henry",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Harley Quinn",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 52/57"
+      ]
+    },
+    {
+      "title": "Hawkeye (2021)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 6/6"
+      ]
+    },
+    {
+      "title": "Hazbin Hotel",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 16/16"
+      ]
+    },
+    {
+      "title": "Heavy Metal",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Hellboy",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "High Town",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "maggie-watched.json"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Hightown",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 18/25"
+      ]
+    },
+    {
+      "title": "Hijack",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 4/15"
+      ]
+    },
+    {
+      "title": "His Dark Materials",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 15/23"
+      ]
+    },
+    {
+      "title": "Hollow Man",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Homecoming (2018)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 10/17"
+      ]
+    },
+    {
+      "title": "Homeland",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 96/96"
+      ]
+    },
+    {
+      "title": "Honey, I Shrunk the Kids",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Horrible Histories (2009)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/155"
+      ]
+    },
+    {
+      "title": "House",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 176/176"
+      ]
+    },
+    {
+      "title": "House of Cards (US)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 67/73"
+      ]
+    },
+    {
+      "title": "House of the Dragon",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "shows.json",
+        "added-shows.json"
+      ],
+      "notes": [
+        "watched 18/18"
+      ]
+    },
+    {
+      "title": "Howard the Duck",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Hulk",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "I Am Groot",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/10"
+      ]
+    },
+    {
+      "title": "I Am Legend",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "I Am Mother",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "I Saw the TV Glow",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "I Think You Should Leave with Tim Robinson",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 18/18"
+      ]
+    },
+    {
+      "title": "I, Robot",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Idiocracy",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Inception",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Independence Day",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Inside Man (2022)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 4/4"
+      ]
+    },
+    {
+      "title": "Inside No. 9",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 4/53"
+      ]
+    },
+    {
+      "title": "Interstellar",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Interview With The Vampire",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 7/22"
+      ]
+    },
+    {
+      "title": "Into the Night",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 7/12"
+      ]
+    },
+    {
+      "title": "Invasion (2021)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 30/30"
+      ]
+    },
+    {
+      "title": "Invasion of the Body Snatchers",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "Invincible (2021)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 24/32"
+      ]
+    },
+    {
+      "title": "Iron Man",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Iron Man 2",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Iron Man 3",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "IT: Welcome to Derry",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 8/8",
+        "Shows export; watched 8/8."
+      ]
+    },
+    {
+      "title": "Jaws",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "John Carter",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Johnny Mnemonic",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Jumper",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Juno",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Jupiter Ascending",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Jupiter's Legacy",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Jurassic Park",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Jurassic Park III",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Jurassic World",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Jury Duty",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 5/16"
+      ]
+    },
+    {
+      "title": "Justice League",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Justice League: The Flashpoint Paradox",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Justified",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 78/78"
+      ]
+    },
+    {
+      "title": "Karen Pirie",
+      "aliases": [
+        "Karen Perry"
+      ],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 6/6"
+      ]
+    },
+    {
+      "title": "Katla",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Kevin Can F**k Himself",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 9/16"
+      ]
+    },
+    {
+      "title": "Killing Eve",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/32"
+      ]
+    },
+    {
+      "title": "Kindred",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Kung Fury",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "La Brea",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/30"
+      ]
+    },
+    {
+      "title": "Legion",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 27/27"
+      ]
+    },
+    {
+      "title": "Let the Right One In",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/10"
+      ]
+    },
+    {
+      "title": "Letterkenny",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 2/74"
+      ]
+    },
+    {
+      "title": "Life",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Lifeforce",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Limitless",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Line of Duty",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 36/36"
+      ]
+    },
+    {
+      "title": "Lisey's Story",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Logan",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Logan Lucky",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Logan's Run",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Loki",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 12/12"
+      ]
+    },
+    {
+      "title": "Longmire",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/63"
+      ]
+    },
+    {
+      "title": "Looper",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Lost",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 120/120"
+      ]
+    },
+    {
+      "title": "Lost in Space (2018)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 28/28"
+      ]
+    },
+    {
+      "title": "Love, Death & Robots",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 21/45"
+      ]
+    },
+    {
+      "title": "Lovecraft Country",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 10/10"
+      ]
+    },
+    {
+      "title": "Lucky Hank",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Lucy",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Ludwig (2024)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 6/7"
+      ]
+    },
+    {
+      "title": "Mad Max",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Mad Max 2",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Mad Max Beyond Thunderdome",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Made For Love",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/16"
+      ]
+    },
+    {
+      "title": "Man of Steel",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Maniac (2018)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/10"
+      ]
+    },
+    {
+      "title": "Marcella",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 16/24"
+      ]
+    },
+    {
+      "title": "Mare of Easttown",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 7/7"
+      ]
+    },
+    {
+      "title": "Marianne",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/8"
+      ]
+    },
+    {
+      "title": "Mars Attacks!",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Marvel's Agent Carter",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 18/18"
+      ]
+    },
+    {
+      "title": "Marvel's Agents of S.H.I.E.L.D.",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 110/136"
+      ]
+    },
+    {
+      "title": "Marvel's Cloak & Dagger",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 20/20"
+      ]
+    },
+    {
+      "title": "Marvel's Daredevil",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 39/39"
+      ]
+    },
+    {
+      "title": "Marvel's Iron Fist",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 23/23"
+      ]
+    },
+    {
+      "title": "Marvel's Jessica Jones",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 39/39"
+      ]
+    },
+    {
+      "title": "Marvel's The Defenders",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Marvel's The Punisher",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 26/26"
+      ]
+    },
+    {
+      "title": "Matlock (2024)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 19/35"
+      ]
+    },
+    {
+      "title": "Mayor of Kingstown",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 1/40"
+      ]
+    },
+    {
+      "title": "Meet the Fockers",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Megamind",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Melancholia",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Men in Black",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Men in Black 3",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Men in Black II",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Metropolis",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Midnight Mass",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 7/7"
+      ]
+    },
+    {
+      "title": "Midnight Special",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": [
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "Mimic",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Minority Report",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Monarch: Legacy of Monsters",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 10/20"
+      ]
+    },
+    {
+      "title": "Money Heist",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 9/41"
+      ]
+    },
+    {
+      "title": "Monsters",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "Monsters vs Aliens",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "Moon",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Moon Knight",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 6/6"
+      ]
+    },
+    {
+      "title": "Moonraker",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Motherland",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 12/17"
+      ]
+    },
+    {
+      "title": "Motherland: Fort Salem",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 30/30"
+      ]
+    },
+    {
+      "title": "Mr. & Mrs. Smith (2024)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Mr. Mercedes",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 21/30"
+      ]
+    },
+    {
+      "title": "Mr. Robot",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 22/45"
+      ]
+    },
+    {
+      "title": "Ms. Marvel",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 6/6"
+      ]
+    },
+    {
+      "title": "Murderbot",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 10/10"
+      ]
+    },
+    {
+      "title": "Murderville",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 6/6"
+      ]
+    },
+    {
+      "title": "Mystery Road",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 6/12"
+      ]
+    },
+    {
+      "title": "Narcos",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 30/30"
+      ]
+    },
+    {
+      "title": "Narcos: Mexico",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 20/30"
+      ]
+    },
+    {
+      "title": "Nathan for You",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/31"
+      ]
+    },
+    {
+      "title": "Neon Genesis Evangelion: The End of Evangelion",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Night Sky",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Nightflyers",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 10/10"
+      ]
+    },
+    {
+      "title": "Nine Perfect Strangers",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 8/16"
+      ]
+    },
+    {
+      "title": "Nineteen Eighty-Four",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "NOS4A2",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 20/20"
+      ]
+    },
+    {
+      "title": "Oats Studios",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 19/19"
+      ]
+    },
+    {
+      "title": "Obi-Wan Kenobi",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 6/6"
+      ]
+    },
+    {
+      "title": "Oblivion",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "ONE PIECE (2023)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 16/16"
+      ]
+    },
+    {
+      "title": "Only Murders in the Building",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 22/50"
+      ]
+    },
+    {
+      "title": "Open Your Eyes",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Orphan Black",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 50/50"
+      ]
+    },
+    {
+      "title": "Our Flag Means Death",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 11/18"
+      ]
+    },
+    {
+      "title": "Outbreak",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Outer Range",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 15/15"
+      ]
+    },
+    {
+      "title": "Overlord",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Ozark",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 44/44"
+      ]
+    },
+    {
+      "title": "Pacific Rim",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Pandorum",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Paprika",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Party Down",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 20/26"
+      ]
+    },
+    {
+      "title": "Passengers",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Paul",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Peacemaker",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 16/16"
+      ]
+    },
+    {
+      "title": "Penny Dreadful",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 27/27"
+      ]
+    },
+    {
+      "title": "Perry Mason (2020)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 16/16"
+      ]
+    },
+    {
+      "title": "Phantasm",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Pieces of Her",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Pitch Black",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "Planet of the Apes",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "PLUR1BUS",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 9/9"
+      ]
+    },
+    {
+      "title": "Pluribus",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "maggie-watched.json"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Poker Face (2023)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 16/22"
+      ]
+    },
+    {
+      "title": "Pontypool",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Predator",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "Predator 2",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "Predators",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "Presumed Innocent",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Prime Suspect 1973",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 6/6"
+      ]
+    },
+    {
+      "title": "Primer",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Princess Mononoke",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Prometheus",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv",
+        "letterboxd/diary.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "Pulse",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Raiders of the Lost Ark",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Raised by Wolves (2020)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 18/18"
+      ]
+    },
+    {
+      "title": "Re-Animator",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Reacher",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 24/24"
+      ]
+    },
+    {
+      "title": "Ready Player One",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Rear Window",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Reservation Dogs",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 28/28"
+      ]
+    },
+    {
+      "title": "Resident Alien",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 44/44",
+        "Shows export; watched 44/44."
+      ]
+    },
+    {
+      "title": "Resident Evil",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "horror-history.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "watched 8/8",
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "Resident Evil: Afterlife",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "Resident Evil: Apocalypse",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "Resident Evil: Extinction",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "Resident Evil: Infinite Darkness",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 4/4",
+        "Shows export; watched 4/4."
+      ]
+    },
+    {
+      "title": "Resident Evil: Retribution",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "Return of the Jedi",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Rick and Morty",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 53/81"
+      ]
+    },
+    {
+      "title": "Rise of the Planet of the Apes",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "RoboCop",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "RoboCop 2",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Robots",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Rogue One: A Star Wars Story",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Russian Doll",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 15/15"
+      ]
+    },
+    {
+      "title": "Safe (2018)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Say Nothing",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 9/9"
+      ]
+    },
+    {
+      "title": "Scanners",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Schitt's Creek",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 45/79"
+      ]
+    },
+    {
+      "title": "School of Rock",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Scott & Bailey",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 33/33"
+      ]
+    },
+    {
+      "title": "Secret City",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 12/12"
+      ]
+    },
+    {
+      "title": "Secret Invasion",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 6/6"
+      ]
+    },
+    {
+      "title": "Sense8",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 24/24"
+      ]
+    },
+    {
+      "title": "Serenity",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Servant",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 40/40",
+        "Shows export; watched 40/40."
+      ]
+    },
+    {
+      "title": "Severance",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 19/19"
+      ]
+    },
+    {
+      "title": "Shadow and Bone",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 2/16"
+      ]
+    },
+    {
+      "title": "Shameless (US)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 36/134"
+      ]
+    },
+    {
+      "title": "Sharp Objects",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "She-Hulk: Attorney at Law",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 9/9"
+      ]
+    },
+    {
+      "title": "Sherlock",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 12/12"
+      ]
+    },
+    {
+      "title": "Sherwood (2022)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 12/12"
+      ]
+    },
+    {
+      "title": "Shetland",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 50/56"
+      ]
+    },
+    {
+      "title": "Shin Godzilla",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "Shining Girls",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/8"
+      ]
+    },
+    {
+      "title": "Shōgun",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 10/10"
+      ]
+    },
+    {
+      "title": "Signs",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Silo",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 20/23"
+      ]
+    },
+    {
+      "title": "Slither",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "Slow Horses",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 30/30"
+      ]
+    },
+    {
+      "title": "Snowpiercer",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Solar Opposites",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 16/59"
+      ]
+    },
+    {
+      "title": "Solaris",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Solo: A Star Wars Story",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Sophie: A Murder in West Cork",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 3/3"
+      ]
+    },
+    {
+      "title": "Sorry to Bother You",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Source Code",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Soylent Green",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Space Battleship Yamato 2199",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Spaceballs",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Spawn",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Spider-Man 2",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Spider-Man: Far From Home",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Spider-Man: Homecoming",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Splice",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Squid Game",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 16/22"
+      ]
+    },
+    {
+      "title": "Star Blazers 2199",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 52/78"
+      ]
+    },
+    {
+      "title": "Star Trek",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "shows.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "watched 79/79"
+      ]
+    },
+    {
+      "title": "Star Trek Beyond",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Star Trek II: The Wrath of Khan",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Star Trek III: The Search for Spock",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Star Trek Into Darkness",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Star Trek IV: The Voyage Home",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Star Trek VI: The Undiscovered Country",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Star Trek: Deep Space Nine",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 176/176"
+      ]
+    },
+    {
+      "title": "Star Trek: Discovery",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 65/65"
+      ]
+    },
+    {
+      "title": "Star Trek: Enterprise",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 98/98"
+      ]
+    },
+    {
+      "title": "Star Trek: First Contact",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Star Trek: Lower Decks",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 50/50"
+      ]
+    },
+    {
+      "title": "Star Trek: Picard",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 30/30"
+      ]
+    },
+    {
+      "title": "Star Trek: Prodigy",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 40/40"
+      ]
+    },
+    {
+      "title": "Star Trek: Short Treks",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 10/10"
+      ]
+    },
+    {
+      "title": "Star Trek: Strange New Worlds",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 30/30"
+      ]
+    },
+    {
+      "title": "Star Trek: The Animated Series",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 22/22"
+      ]
+    },
+    {
+      "title": "Star Trek: The Motion Picture",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Star Trek: The Next Generation",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 178/178"
+      ]
+    },
+    {
+      "title": "Star Trek: Voyager",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 172/172"
+      ]
+    },
+    {
+      "title": "Star Wars",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Star Wars Rebels",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 70/70"
+      ]
+    },
+    {
+      "title": "Star Wars: Clone Wars",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 25/25"
+      ]
+    },
+    {
+      "title": "Star Wars: Episode I – The Phantom Menace",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Star Wars: Episode II – Attack of the Clones",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Star Wars: Episode III – Revenge of the Sith",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Star Wars: Skeleton Crew",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Star Wars: The Bad Batch",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 47/47"
+      ]
+    },
+    {
+      "title": "Star Wars: The Clone Wars",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "watched 133/133"
+      ]
+    },
+    {
+      "title": "Star Wars: The Force Awakens",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Star Wars: The Last Jedi",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Star Wars: The Rise of Skywalker",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Star Wars: Visions",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 5/27"
+      ]
+    },
+    {
+      "title": "Stargate",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Starman",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Starship Troopers",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Stath Lets Flats",
+      "aliases": [
+        "staff lets flats"
+      ],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 18/18"
+      ]
+    },
+    {
+      "title": "Station Eleven",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 10/10"
+      ]
+    },
+    {
+      "title": "Stay Close",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Strange Days",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Stranger Things",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 38/42"
+      ]
+    },
+    {
+      "title": "Strike",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 19/19"
+      ]
+    },
+    {
+      "title": "Sunshine",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Super 8",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Superman",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Superman & Lois",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 53/53"
+      ]
+    },
+    {
+      "title": "Superman II",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Superman III",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Superman Returns",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Swamp Thing (2019)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 10/10"
+      ]
+    },
+    {
+      "title": "Tales from the Loop",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 3/8"
+      ]
+    },
+    {
+      "title": "Tales of the Walking Dead",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 2/6",
+        "Shows export; watched 2/6."
+      ]
+    },
+    {
+      "title": "Tangled",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Task",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 7/7"
+      ]
+    },
+    {
+      "title": "Teacup",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 8/8",
+        "Shows export; watched 8/8."
+      ]
+    },
+    {
+      "title": "Ted Lasso",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 34/34"
+      ]
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Terminator 2: Judgment Day",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Terminator 3: Rise of the Machines",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Terminator Genisys",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Terminator Salvation",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Terminator: Dark Fate",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Terminator: The Sarah Connor Chronicles",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 31/31"
+      ]
+    },
+    {
+      "title": "Tetsuo: The Iron Man",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Abyss",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Acolyte",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "The Afterparty",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 2/18"
+      ]
+    },
+    {
+      "title": "The Americans (2013)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 75/75"
+      ]
+    },
+    {
+      "title": "The Animatrix",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Avengers",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Babadook",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json"
+      ],
+      "notes": [
+        "Letterboxd RSS feed; 5★ and liked."
+      ]
+    },
+    {
+      "title": "The Baby",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "The Batman",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Bay (2019)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 18/30"
+      ]
+    },
+    {
+      "title": "The Bear",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 38/38"
+      ]
+    },
+    {
+      "title": "The Beast in Me",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "The Blob",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Book of Boba Fett",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 7/7"
+      ]
+    },
+    {
+      "title": "The Book of Eli",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Boys",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 32/40"
+      ]
+    },
+    {
+      "title": "The Boys Presents: Diabolical",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/8"
+      ]
+    },
+    {
+      "title": "The Bridge (2013)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 26/26"
+      ]
+    },
+    {
+      "title": "The Brood",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Butterfly Effect",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "The Cell",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Chair Company",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "The Changeling",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "The Chronicles of Riddick",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Cleaner (2021)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 1/18"
+      ]
+    },
+    {
+      "title": "The Cleaning Lady",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/46"
+      ]
+    },
+    {
+      "title": "The Cloverfield Paradox",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Dark Tower",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "The Day After Tomorrow",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Day the Earth Stood Still",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Dead Zone",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "The Decameron",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 3/8"
+      ]
+    },
+    {
+      "title": "The Devil's Hour",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/11"
+      ]
+    },
+    {
+      "title": "The Diplomat",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 22/23"
+      ]
+    },
+    {
+      "title": "The Empire Strikes Back",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The End of the F***ing World",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 16/16"
+      ]
+    },
+    {
+      "title": "The Endless",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Envoys",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/16"
+      ]
+    },
+    {
+      "title": "The Expanse",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 62/62"
+      ]
+    },
+    {
+      "title": "The Faculty",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Falcon and The Winter Soldier",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 6/6"
+      ]
+    },
+    {
+      "title": "The Fall",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 17/17"
+      ]
+    },
+    {
+      "title": "The Fall of the House of Usher",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "The Fifth Element",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Flash (2014)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 69/184"
+      ]
+    },
+    {
+      "title": "The Fly",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "The Girl with All the Gifts",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "The Giver",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Good Place",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 50/50"
+      ]
+    },
+    {
+      "title": "The Happening",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Haunting",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 19/19"
+      ]
+    },
+    {
+      "title": "The Haunting of Hill House",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json"
+      ],
+      "notes": [
+        "Letterboxd RSS feed; 5★ and liked."
+      ]
+    },
+    {
+      "title": "The Head (2020)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 13/18"
+      ]
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Host",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Hunger Games",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Hunger Games: Catching Fire",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Imperfects",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/10"
+      ]
+    },
+    {
+      "title": "The Incredible Hulk",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Invisible Man",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "The Iron Giant",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Island",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Killing (US)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 44/44"
+      ]
+    },
+    {
+      "title": "The Last of Us",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 16/16",
+        "Shows export; watched 16/16."
+      ]
+    },
+    {
+      "title": "The League of Extraordinary Gentlemen",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Leftovers",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 28/28"
+      ]
+    },
+    {
+      "title": "The Lego Batman Movie",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Lord of the Rings: The Rings of Power",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 16/16"
+      ]
+    },
+    {
+      "title": "The Man in the High Castle",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 9/40"
+      ]
+    },
+    {
+      "title": "The Mandalorian",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 24/24"
+      ]
+    },
+    {
+      "title": "The Martian",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Matrix",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Matrix Reloaded",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Matrix Resurrections",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Matrix Revolutions",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Maze Runner",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Midnight Club",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 10/10"
+      ]
+    },
+    {
+      "title": "The Mist",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "shows.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "watched 10/10"
+      ]
+    },
+    {
+      "title": "The Nevers",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 6/12"
+      ]
+    },
+    {
+      "title": "The New Mutants",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Night Of",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "The OA",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 16/16"
+      ]
+    },
+    {
+      "title": "The Office (US)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 195/195"
+      ]
+    },
+    {
+      "title": "The Outlaws",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 12/17"
+      ]
+    },
+    {
+      "title": "The Outsider (2020)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 10/10"
+      ]
+    },
+    {
+      "title": "The Owl House",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 43/43"
+      ]
+    },
+    {
+      "title": "The Penguin",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "The Peripheral",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "The Pitt",
+      "aliases": [
+        "The Pit"
+      ],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 27/30"
+      ]
+    },
+    {
+      "title": "The Predator",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Prestige",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Rain",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/20"
+      ]
+    },
+    {
+      "title": "The Residence",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 3/8"
+      ]
+    },
+    {
+      "title": "The Rig (2023)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 6/12"
+      ]
+    },
+    {
+      "title": "The Rocketeer",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Rocky Horror Picture Show",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "The Running Man",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Sandman",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 11/23"
+      ]
+    },
+    {
+      "title": "The Silent Sea",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "The Sinner",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 32/32"
+      ]
+    },
+    {
+      "title": "The Sopranos",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 86/86"
+      ]
+    },
+    {
+      "title": "The Staircase (2022)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/8"
+      ]
+    },
+    {
+      "title": "The Star Wars Holiday Special",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Stepford Wives",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Strain",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 46/46"
+      ]
+    },
+    {
+      "title": "The Stranger (2020)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "The Stuff",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Substance",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv",
+        "letterboxd/diary.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "The Terminator",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Terror",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 20/26",
+        "Shows export; watched 20/26."
+      ]
+    },
+    {
+      "title": "The Thing",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "The Thing from Another World",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "Letterboxd export; watched, not liked."
+      ]
+    },
+    {
+      "title": "The Tomorrow War",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Umbrella Academy",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 30/36"
+      ]
+    },
+    {
+      "title": "The Vast of Night",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "horror-history.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "Letterboxd export; liked."
+      ]
+    },
+    {
+      "title": "The Walking Dead",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 177/177",
+        "Shows export; watched 177/177."
+      ]
+    },
+    {
+      "title": "The Walking Dead: Daryl Dixon",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 1/27",
+        "Shows export; watched 1/27."
+      ]
+    },
+    {
+      "title": "The Walking Dead: The Ones Who Live",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 3/6",
+        "Shows export; watched 3/6."
+      ]
+    },
+    {
+      "title": "The Walking Dead: World Beyond",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 12/20",
+        "Shows export; watched 12/20."
+      ]
+    },
+    {
+      "title": "The Watcher (2022)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 7/7"
+      ]
+    },
+    {
+      "title": "The Wheel of Time",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 16/24"
+      ]
+    },
+    {
+      "title": "The White Lotus",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 21/21"
+      ]
+    },
+    {
+      "title": "The Wire",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 60/60"
+      ]
+    },
+    {
+      "title": "The Witcher",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 24/32"
+      ]
+    },
+    {
+      "title": "The Wolverine",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The Woods",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 3/6"
+      ]
+    },
+    {
+      "title": "The World's End",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "The X-Files",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "watched 218/220"
+      ]
+    },
+    {
+      "title": "Them",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 10/18"
+      ]
+    },
+    {
+      "title": "They Live",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Thor: Ragnarok",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Three Pines",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "THX 1138",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Tiger King",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/13"
+      ]
+    },
+    {
+      "title": "Tim and Eric's Bedtime Stories",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 15/15"
+      ]
+    },
+    {
+      "title": "Time Bandits",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Titans (2018)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 49/49"
+      ]
+    },
+    {
+      "title": "Tom Clancy's Jack Ryan",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/30"
+      ]
+    },
+    {
+      "title": "Tomorrowland",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Too Old to Die Young",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 10/10"
+      ]
+    },
+    {
+      "title": "Top of the Lake",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 12/12"
+      ]
+    },
+    {
+      "title": "Total Recall",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Toy Story",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Transcendence",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Transformers",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Transformers: Age of Extinction",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Transformers: Dark of the Moon",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Treasure Planet",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Tron",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "TRON: Legacy",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "True Blood",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 80/80",
+        "Shows export; watched 80/80."
+      ]
+    },
+    {
+      "title": "True Detective",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 30/30"
+      ]
+    },
+    {
+      "title": "Twelve Monkeys",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Twin Peaks",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 48/48",
+        "Shows export; watched 48/48."
+      ]
+    },
+    {
+      "title": "Under the Dome",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 39/39"
+      ]
+    },
+    {
+      "title": "Under the Skin",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Underwater",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Unforgotten",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 36/42"
+      ]
+    },
+    {
+      "title": "Unsolved Mysteries",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 586/600"
+      ]
+    },
+    {
+      "title": "Valerian and the City of a Thousand Planets",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Vanilla Sky",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Venom",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Vera",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 4/55"
+      ]
+    },
+    {
+      "title": "Veronica Mars",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 65/72"
+      ]
+    },
+    {
+      "title": "Vertigo",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv",
+        "letterboxd/ratings.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Vice Principals",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json"
+      ],
+      "notes": [
+        "watched 9/18"
+      ]
+    },
+    {
+      "title": "Videodrome",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Vigil",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 12/12"
+      ]
+    },
+    {
+      "title": "Village of the Damned",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Vivarium",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "WALL·E",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "WandaVision",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 9/9"
+      ]
+    },
+    {
+      "title": "War for the Planet of the Apes",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "War of the Worlds (2019)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "letterboxd/watched.csv"
+      ],
+      "notes": [
+        "watched 24/24"
+      ]
+    },
+    {
+      "title": "Watchmen",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "shows.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "watched 9/9"
+      ]
+    },
+    {
+      "title": "Waterworld",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Wayward",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/8"
+      ]
+    },
+    {
+      "title": "Wednesday",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 8/16"
+      ]
+    },
+    {
+      "title": "Weird Science",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Westworld",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json",
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": [
+        "watched 36/36"
+      ]
+    },
+    {
+      "title": "What If…?",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 26/26"
+      ]
+    },
+    {
+      "title": "What We Do in the Shadows",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 61/61",
+        "Shows export; watched 61/61."
+      ]
+    },
+    {
+      "title": "Wild Wild West",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "World War Z",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Wormwood (2017)",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/6"
+      ]
+    },
+    {
+      "title": "X-Men",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "X-Men Origins: Wolverine",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "X-Men: Apocalypse",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "X-Men: Days of Future Past",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "X-Men: First Class",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": true,
+      "sources": [
+        "letterboxd/watched.csv",
+        "letterboxd/likes/films.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "X-Men: The Last Stand",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "X2",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Years and Years",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 6/6"
+      ]
+    },
+    {
+      "title": "Yellowjackets",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json",
+        "maggie-watched.json",
+        "horror-history.json"
+      ],
+      "notes": [
+        "watched 20/29",
+        "Shows export; watched 20/29."
+      ]
+    },
+    {
+      "title": "Your Friends & Neighbors",
+      "aliases": [],
+      "mediaType": "tv",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "shows.json"
+      ],
+      "notes": [
+        "watched 1/19"
+      ]
+    },
+    {
+      "title": "Zack Snyder's Justice League",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    },
+    {
+      "title": "Zathura: A Space Adventure",
+      "aliases": [],
+      "mediaType": "film",
+      "watched": true,
+      "liked": false,
+      "sources": [
+        "letterboxd/watched.csv"
+      ],
+      "notes": []
+    }
+  ],
+  "counts": {
+    "items": 745,
+    "tv": 374,
+    "film": 371,
+    "liked": 141
+  }
+}

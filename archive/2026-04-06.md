@@ -1,12 +1,57 @@
 # James Daily Briefing
 
-Generated: 2026-04-06T10:44:36.705279Z
+Generated: 2026-04-06T12:38:53.010957Z
 
-Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, Games / criticism. The strongest items in this run are Inside 5 Rural Texas Districts That Together Set Students on Path to the Future, These blind students say their college blocked their education. A new rule could help, and A new start after 60: I jacked in my job in tech to become a professional poker player.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are US states propose domestic violence registries – but could they harm women?, ‘Creepy surveillance’: why some cities are shutting down Flock cameras amid privacy concerns, and David Ellison says 70% of Americans are centrist. Surveys tell a different story.
 
 ## Briefing
 
-### 1. Inside 5 Rural Texas Districts That Together Set Students on Path to the Future [10/10]
+### 1. US states propose domestic violence registries – but could they harm women? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Tennessee leads way but experts say offender registry could provide a false sense of security – and identify victims When Amanda Martin started dating Christopher Cendroski, whose family has described him as “big-hearted”, she had no idea…
+
+Link: https://www.theguardian.com/us-news/2026/apr/06/domestic-violence-offender-registry
+
+### 2. ‘Creepy surveillance’: why some cities are shutting down Flock cameras amid privacy concerns [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Some cities are cutting ties with firm that provides license plate reader cameras, others are signing new contracts and many are still looking for their footing In recent city council meetings in Dunwoody, Georgia, a spokesman for Flock…
+
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/apr/06/flock-cameras-privacy-concerns
+
+### 3. David Ellison says 70% of Americans are centrist. Surveys tell a different story [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Paramount Skydance CEO has repeatedly cited the statistic when laying out the approach that CBS News and potentially CNN would take During an early March appearance on CNBC, the Paramount Skydance chief executive, David Ellison, cited a…
+
+Link: https://www.theguardian.com/media/2026/apr/06/paramount-ceo-david-ellison-american-centrist-survey
+
+### 4. AI is changing how small online sellers decide what to make [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever.
+
+Link: https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/
+
+### 5. Reframing CS with CSTA IMPACT Fellow Karen Stoll [10/10]
+**Source:** CSTA  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Karen Stoll has taught computer science at Blacksburg High School in Virginia for the last eight years. As co–head coach... The post Reframing CS with CSTA IMPACT Fellow Karen Stoll appeared first on Computer Science Teachers Association .
+
+Link: https://csteachers.org/reframing-cs-with-csta-impact-fellow-karen-stoll/
+
+### 6. Inside 5 Rural Texas Districts That Together Set Students on Path to the Future [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -15,7 +60,16 @@ Each day, hundreds of rural south Texas high schoolers wake before sunrise to bo
 
 Link: https://www.the74million.org/article/inside-5-rural-texas-districts-that-together-set-students-on-path-to-the-future/
 
-### 2. These blind students say their college blocked their education. A new rule could help [10/10]
+### 7. Trailblazers, trumpets and the theremin: 10 soundtracks that changed the way we listen to movies [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+From soundtracking the silent era, via 50s rock’n’roll and the ‘symphonic pop’ of Henry Mancini to iconic works by John Williams and Hans Zimmer, movies are unimaginable without music.
+
+Link: https://www.theguardian.com/music/2026/apr/06/10-soundtracks-that-changed-the-way-we-listen-to-movies-star-wars-space-odyssey
+
+### 8. These blind students say their college blocked their education. A new rule could help [10/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -24,25 +78,16 @@ Higher education is especially reliant on computers and phones, but accessibilit
 
 Link: https://www.npr.org/2026/04/06/nx-s1-5720191/digital-accessibility-college-education-disability
 
-### 3. A new start after 60: I jacked in my job in tech to become a professional poker player [10/10]
+### 9. ‘The events still haunt’: New York stage production examines aftermath of Finnish school shooting [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-As a child, Gary Fisher was terrible at card games. How did he end up making his living from one? Gary Fisher has always enjoyed a game of poker, but after he turned 60, his partner suggested he take it seriously.
+Kaija Saariaho’s Innocence delves into guilt, grief and anger over a phenomenon largely thought of as distinctly American Gun violence, particularly the high-profile incidents that take place on school campuses, are often seen as a…
 
-Link: https://www.theguardian.com/lifeandstyle/2026/apr/06/a-new-start-after-60-i-jacked-in-my-job-in-tech-to-become-a-professional-poker-player
+Link: https://www.theguardian.com/us-news/2026/apr/06/new-york-opera-innocence-finland-school-shooting
 
-### 4. We've gone mad for puzzles. This makes sense – it’s reassuring to have answers in these perplexing times | Joseph de Weck [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Our world feels chaotic, confusing and unfair, but puzzles offer clear rules, solvable problems and reward for effort expended Maybe you’ve noticed it too. Everyone seems to have become fixated on puzzle games.
-
-Link: https://www.theguardian.com/commentisfree/2026/apr/06/puzzles-reassuring-answers-perplexing-times
-
-### 5. The best videogame characters who came back from the dead [9/10]
+### 10. The best videogame characters who came back from the dead [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -51,7 +96,7 @@ Greetings, loyal Treehouse tenders and Horace huggers! Today is a bank holiday i
 
 Link: https://www.rockpapershotgun.com/the-best-videogame-characters-who-came-back-from-the-dead
 
-### 6. ‘It started with a tipoff’: how a Guardian investigation exposed child sex trafficking on Facebook and Instagram [9/10]
+### 11. ‘It started with a tipoff’: how a Guardian investigation exposed child sex trafficking on Facebook and Instagram [9/10]
 **Source:** The Guardian US  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -59,51 +104,6 @@ Link: https://www.rockpapershotgun.com/the-best-videogame-characters-who-came-ba
 Meta has just lost a multimillion-dollar legal battle over its failure to prevent children being sold on its platforms. Here’s how we uncovered evidence that became part of the case against it It started with a tipoff.
 
 Link: https://www.theguardian.com/global-development/2026/apr/06/investigation-exposed-child-sex-trafficking-on-facebook-and-instagram-meta
-
-### 7. My mother, Audrey Hepburn: the star’s son Sean on her movies, marriages, good works and fascist parents [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The heroine of Roman Holiday and Breakfast at Tiffany’s knew war and poverty, riches and fame, love and betrayal – yet claimed to have lived a ‘terribly boring’ life.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/apr/06/audrey-hepburn-sean-hepburn-ferrer-biography
-
-### 8. Sony's battle against shovelware publishers persists as it purges another load of crap games from the PlayStation Store [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Sony has once again delisted a number of games from its storefronts, including the catalogues of alleged shovelware publishers like GoGame Console Publisher, VRCForge Studios, and Welding Byte. Read more
-
-Link: https://www.eurogamer.net/sonys-battle-against-shovelware-publishers-persists-as-it-purges-another-load-of-crap-games-from-the-playstation-store
-
-### 9. Pencil Running for Oregon Governor Hopes to Make Its Mark on Education Issues [9/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Oregon’s low youth literacy rates spurred a new candidate to announce a write-in campaign for governor on Monday. Most Oregonians have at least some experience with the candidate, but it’s never held elected office before.
-
-Link: https://www.the74million.org/article/pencil-running-for-oregon-governor-hopes-to-make-its-mark-on-education-issues/
-
-### 10. Middle East crisis live: Iran warns of ‘devastating’ retaliation after Trump’s expletive-laden threats over strait of Hormuz [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-US and Iran reportedly receive proposal for a potential 45-day ceasefire; IRGC says Majid Khademi was killed early on Monday Trump warns Iran to reopen strait of Hormuz by Tuesday or face ‘hell’ ‘Unhinged madman’: US politicians react to…
-
-Link: https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel
-
-### 11. Los Thuthanaka’s Wak’a is a mellower follow-up to last year’s surprise Pitchfork favorite [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Los Thuthanaka basically came out of nowhere last year to capture Pitchfork's album of the year with their self-titled debut. Because it wasn't available on streaming, it largely flew under the radar.
-
-Link: https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review
 
 ### 12. Slay the Spire 2 beats Crimson Desert and Resident Evil Requiem as March's biggest-selling game on Steam [8/10]
 **Source:** Eurogamer  
@@ -124,6 +124,15 @@ Congress passed the Take It Down Act in 2024, protecting victims of deepfake rev
 Link: https://www.npr.org/2026/04/05/nx-s1-5770462/amid-a-high-profile-scandal-germany-considers-deepfake-porn-punishments
 
 ## YouTube
+
+### BTS (방탄소년단) Answer The Web's Most Searched Questions | WIRED [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Jin, Suga, J-Hope, RM, Jimin, V, and Jung Kook of BTS (방탄소년단) visit WIRED to answer their most searched for questions! Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.
+
+Link: https://www.youtube.com/watch?v=5lfnT1HdmuM
 
 ### Rubato, Retro Rewind, Legacy of Kain: Ascendance... and Candy? | Yahtzee Tries [8/10]
 **Creator:** Second Wind  
@@ -152,15 +161,6 @@ The FDA has approved another obesity pill, called Foundayo, from pharmaceutical 
 
 Link: https://www.youtube.com/watch?v=VAutt8lg0H4
 
-### If GTA 6 Fails, Is the Games Industry Doomed? | Dev Heads Podcast [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Dev Heads, Tina, JM8, and Mikee chat about the weight that's currently on the shoulders of Grand Theft Auto 6's success. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=OBIqjaNTPqE
-
 ## Entertainment Recommendations
 
 ### Newer shows that look like a fit
@@ -172,10 +172,10 @@ Link: https://www.youtube.com/watch?v=OBIqjaNTPqE
 
 ### Older shows you may have missed
 
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
 - **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
-- **Deadwood** — If you want language, moral complexity, and character density more than genre comfort, this is a strong older miss possibility.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
 - **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
-- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
 
 ### Maggie + James overlap
 

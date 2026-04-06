@@ -1,11 +1,61 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-06T10:44:36.705279Z",
-  "generatedAtDisplay": "2026-04-06 06:44 AM EDT",
+  "generatedAt": "2026-04-06T12:38:53.010957Z",
+  "generatedAtDisplay": "2026-04-06 08:38 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, Games / criticism. The strongest items in this run are Inside 5 Rural Texas Districts That Together Set Students on Path to the Future, These blind students say their college blocked their education. A new rule could help, and A new start after 60: I jacked in my job in tech to become a professional poker player.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are US states propose domestic violence registries – but could they harm women?, ‘Creepy surveillance’: why some cities are shutting down Flock cameras amid privacy concerns, and David Ellison says 70% of Americans are centrist. Surveys tell a different story.",
   "mainItems": [
+    {
+      "title": "US states propose domestic violence registries – but could they harm women?",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/06/domestic-violence-offender-registry",
+      "published": "2026-04-06T12:00:19+00:00",
+      "summary": "Tennessee leads way but experts say offender registry could provide a false sense of security – and identify victims When Amanda Martin started dating Christopher Cendroski, whose family has described him as “big-hearted”, she had no idea…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Creepy surveillance’: why some cities are shutting down Flock cameras amid privacy concerns",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/06/flock-cameras-privacy-concerns",
+      "published": "2026-04-06T11:00:18+00:00",
+      "summary": "Some cities are cutting ties with firm that provides license plate reader cameras, others are signing new contracts and many are still looking for their footing In recent city council meetings in Dunwoody, Georgia, a spokesman for Flock…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "David Ellison says 70% of Americans are centrist. Surveys tell a different story",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/media/2026/apr/06/paramount-ceo-david-ellison-american-centrist-survey",
+      "published": "2026-04-06T11:00:17+00:00",
+      "summary": "Paramount Skydance CEO has repeatedly cited the statistic when laying out the approach that CBS News and potentially CNN would take During an early March appearance on CNBC, the Paramount Skydance chief executive, David Ellison, cited a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "AI is changing how small online sellers decide what to make",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+      "published": "2026-04-06T11:00:00+00:00",
+      "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Reframing CS with CSTA IMPACT Fellow Karen Stoll",
+      "source": "CSTA",
+      "category": "Education / pedagogy",
+      "url": "https://csteachers.org/reframing-cs-with-csta-impact-fellow-karen-stoll/",
+      "published": "2026-04-06T11:00:00+00:00",
+      "summary": "Karen Stoll has taught computer science at Blacksburg High School in Virginia for the last eight years. As co–head coach... The post Reframing CS with CSTA IMPACT Fellow Karen Stoll appeared first on Computer Science Teachers Association .",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
     {
       "title": "Inside 5 Rural Texas Districts That Together Set Students on Path to the Future",
       "source": "The 74",
@@ -14,6 +64,16 @@
       "published": "2026-04-06T10:30:00+00:00",
       "summary": "Each day, hundreds of rural south Texas high schoolers wake before sunrise to board vans that bump for miles over back roads, crossing ranch land and thickets of brush.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Trailblazers, trumpets and the theremin: 10 soundtracks that changed the way we listen to movies",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/music/2026/apr/06/10-soundtracks-that-changed-the-way-we-listen-to-movies-star-wars-space-odyssey",
+      "published": "2026-04-06T10:23:38+00:00",
+      "summary": "From soundtracking the silent era, via 50s rock’n’roll and the ‘symphonic pop’ of Henry Mancini to iconic works by John Williams and Hans Zimmer, movies are unimaginable without music.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -27,24 +87,14 @@
       "score": 10
     },
     {
-      "title": "A new start after 60: I jacked in my job in tech to become a professional poker player",
+      "title": "‘The events still haunt’: New York stage production examines aftermath of Finnish school shooting",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/06/a-new-start-after-60-i-jacked-in-my-job-in-tech-to-become-a-professional-poker-player",
-      "published": "2026-04-06T06:00:13+00:00",
-      "summary": "As a child, Gary Fisher was terrible at card games. How did he end up making his living from one? Gary Fisher has always enjoyed a game of poker, but after he turned 60, his partner suggested he take it seriously.",
+      "url": "https://www.theguardian.com/us-news/2026/apr/06/new-york-opera-innocence-finland-school-shooting",
+      "published": "2026-04-06T12:00:18+00:00",
+      "summary": "Kaija Saariaho’s Innocence delves into guilt, grief and anger over a phenomenon largely thought of as distinctly American Gun violence, particularly the high-profile incidents that take place on school campuses, are often seen as a…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "We've gone mad for puzzles. This makes sense – it’s reassuring to have answers in these perplexing times | Joseph de Weck",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/06/puzzles-reassuring-answers-perplexing-times",
-      "published": "2026-04-06T04:00:09+00:00",
-      "summary": "Our world feels chaotic, confusing and unfair, but puzzles offer clear rules, solvable problems and reward for effort expended Maybe you’ve noticed it too. Everyone seems to have become fixated on puzzle games.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "The best videogame characters who came back from the dead",
@@ -65,56 +115,6 @@
       "summary": "Meta has just lost a multimillion-dollar legal battle over its failure to prevent children being sold on its platforms. Here’s how we uncovered evidence that became part of the case against it It started with a tipoff.",
       "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 9
-    },
-    {
-      "title": "My mother, Audrey Hepburn: the star’s son Sean on her movies, marriages, good works and fascist parents",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/06/audrey-hepburn-sean-hepburn-ferrer-biography",
-      "published": "2026-04-06T04:00:09+00:00",
-      "summary": "The heroine of Roman Holiday and Breakfast at Tiffany’s knew war and poverty, riches and fame, love and betrayal – yet claimed to have lived a ‘terribly boring’ life.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Sony's battle against shovelware publishers persists as it purges another load of crap games from the PlayStation Store",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/sonys-battle-against-shovelware-publishers-persists-as-it-purges-another-load-of-crap-games-from-the-playstation-store",
-      "published": "2026-04-05T18:09:52+00:00",
-      "summary": "Sony has once again delisted a number of games from its storefronts, including the catalogues of alleged shovelware publishers like GoGame Console Publisher, VRCForge Studios, and Welding Byte. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Pencil Running for Oregon Governor Hopes to Make Its Mark on Education Issues",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/pencil-running-for-oregon-governor-hopes-to-make-its-mark-on-education-issues/",
-      "published": "2026-04-05T16:30:00+00:00",
-      "summary": "Oregon’s low youth literacy rates spurred a new candidate to announce a write-in campaign for governor on Monday. Most Oregonians have at least some experience with the candidate, but it’s never held elected office before.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Middle East crisis live: Iran warns of ‘devastating’ retaliation after Trump’s expletive-laden threats over strait of Hormuz",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel",
-      "published": "2026-04-06T10:09:50+00:00",
-      "summary": "US and Iran reportedly receive proposal for a potential 45-day ceasefire; IRGC says Majid Khademi was killed early on Monday Trump warns Iran to reopen strait of Hormuz by Tuesday or face ‘hell’ ‘Unhinged madman’: US politicians react to…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
-      "title": "Los Thuthanaka’s Wak’a is a mellower follow-up to last year’s surprise Pitchfork favorite",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review",
-      "published": "2026-04-05T18:26:06+00:00",
-      "summary": "Los Thuthanaka basically came out of nowhere last year to capture Pitchfork's album of the year with their self-titled debut. Because it wasn't available on streaming, it largely flew under the radar.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
     },
     {
       "title": "Slay the Spire 2 beats Crimson Desert and Resident Evil Requiem as March's biggest-selling game on Steam",
@@ -138,6 +138,17 @@
     }
   ],
   "youtube": [
+    {
+      "title": "BTS (방탄소년단) Answer The Web's Most Searched Questions | WIRED",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=5lfnT1HdmuM",
+      "published": "2026-04-06T11:00:03+00:00",
+      "summary": "Jin, Suga, J-Hope, RM, Jimin, V, and Jung Kook of BTS (방탄소년단) visit WIRED to answer their most searched for questions! Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
     {
       "title": "Rubato, Retro Rewind, Legacy of Kain: Ascendance... and Candy? | Yahtzee Tries",
       "source": "Second Wind",
@@ -168,17 +179,6 @@
       "published": "2026-04-04T14:45:03+00:00",
       "summary": "The FDA has approved another obesity pill, called Foundayo, from pharmaceutical maker Eli Lilly.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "If GTA 6 Fails, Is the Games Industry Doomed? | Dev Heads Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=OBIqjaNTPqE",
-      "published": "2026-04-03T19:10:01+00:00",
-      "summary": "This week on Dev Heads, Tina, JM8, and Mikee chat about the weight that's currently on the shoulders of Grand Theft Auto 6's success. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
     }
@@ -228,20 +228,20 @@
     ],
     "older": [
       {
+        "title": "Counterpart",
+        "why": "Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence."
+      },
+      {
         "title": "Patriot",
         "why": "Dry, strange, melancholy spy storytelling with a very distinct voice."
       },
       {
-        "title": "Deadwood",
-        "why": "If you want language, moral complexity, and character density more than genre comfort, this is a strong older miss possibility."
+        "title": "Utopia",
+        "why": "Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly."
       },
       {
         "title": "Rubicon",
         "why": "A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere."
-      },
-      {
-        "title": "Continuum",
-        "why": "A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics."
       }
     ],
     "shared": [
@@ -267,6 +267,6 @@
     "mainCount": 13,
     "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 11
+    "sourceCount": 13
   }
 }
