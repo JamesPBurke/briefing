@@ -1,11 +1,51 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-06T14:00:01.163511Z",
-  "generatedAtDisplay": "2026-04-06 10:00 AM EDT",
+  "generatedAt": "2026-04-06T17:16:51.256799Z",
+  "generatedAtDisplay": "2026-04-06 01:16 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are \"Keeping teams together doesn't seem to matter to people, but for us it did\": Star Wars Zero Company's director on what the industry can learn from XCOM 2, US states propose domestic violence registries – but could they harm women?, and ‘Creepy surveillance’: why some cities are shutting down Flock cameras amid privacy concerns.",
+  "summary": "Today's sweep leans toward AI / computing, AI / privacy, Democracy / press freedom. The strongest items in this run are Netflix is launching a new app for kids games, Schools Are Paying for Ed Tech That Students Never Use — Could A New Contract Model Change That?, and Scientists identify ‘neural fingerprint’ of psychedelic drugs in the brain.",
   "mainItems": [
+    {
+      "title": "Netflix is launching a new app for kids games",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/entertainment/907293/netflix-playground-kids-games-app",
+      "published": "2026-04-06T17:01:51+00:00",
+      "summary": "Netflix has made family-friendly titles a key part of its current games strategy, and now it's pushing a little harder with the launch of a new app.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Schools Are Paying for Ed Tech That Students Never Use — Could A New Contract Model Change That?",
+      "source": "The 74",
+      "category": "Democracy / press freedom",
+      "url": "https://www.the74million.org/article/schools-are-paying-for-ed-tech-that-students-never-use-could-a-new-contract-model-change-that/",
+      "published": "2026-04-06T16:30:00+00:00",
+      "summary": "When school districts sign contracts for educational technology, they typically buy a set number of licenses. The software company delivers the product and the district cuts a check.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Scientists identify ‘neural fingerprint’ of psychedelic drugs in the brain",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/science/2026/apr/06/scientists-identify-neural-fingerprint-of-psychedelic-drugs-in-the-brain",
+      "published": "2026-04-06T16:18:47+00:00",
+      "summary": "Analysis of more than 500 brain scans finds LSD, psilocybin and other psychedelics increase cross-talk between brain systems Scientists have identified a hallmark signature produced by psychedelic drugs in the human brain when users…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Samsung’s Galaxy S27 ‘Pro’ could squeeze in between the Ultra and Plus phones",
+      "source": "The Verge",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor",
+      "published": "2026-04-06T16:03:14+00:00",
+      "summary": "Samsung's S27 lineup, expected next year, might include a new member, the Galaxy S27 Pro, which would be a second premium option between Samsung's Ultra and Plus models, as first reported by ETNews.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
     {
       "title": "\"Keeping teams together doesn't seem to matter to people, but for us it did\": Star Wars Zero Company's director on what the industry can learn from XCOM 2",
       "source": "Rock Paper Shotgun",
@@ -17,16 +57,6 @@
       "score": 10
     },
     {
-      "title": "US states propose domestic violence registries – but could they harm women?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/06/domestic-violence-offender-registry",
-      "published": "2026-04-06T12:00:19+00:00",
-      "summary": "Tennessee leads way but experts say offender registry could provide a false sense of security – and identify victims When Amanda Martin started dating Christopher Cendroski, whose family has described him as “big-hearted”, she had no idea…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "‘Creepy surveillance’: why some cities are shutting down Flock cameras amid privacy concerns",
       "source": "The Guardian US",
       "category": "AI / privacy",
@@ -34,26 +64,6 @@
       "published": "2026-04-06T11:00:18+00:00",
       "summary": "Some cities are cutting ties with firm that provides license plate reader cameras, others are signing new contracts and many are still looking for their footing In recent city council meetings in Dunwoody, Georgia, a spokesman for Flock…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "David Ellison says 70% of Americans are centrist. Surveys tell a different story",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/media/2026/apr/06/paramount-ceo-david-ellison-american-centrist-survey",
-      "published": "2026-04-06T11:00:17+00:00",
-      "summary": "Paramount Skydance CEO has repeatedly cited the statistic when laying out the approach that CBS News and potentially CNN would take During an early March appearance on CNBC, the Paramount Skydance chief executive, David Ellison, cited a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "AI is changing how small online sellers decide what to make",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
-      "published": "2026-04-06T11:00:00+00:00",
-      "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
@@ -77,16 +87,6 @@
       "score": 10
     },
     {
-      "title": "Trailblazers, trumpets and the theremin: 10 soundtracks that changed the way we listen to movies",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/music/2026/apr/06/10-soundtracks-that-changed-the-way-we-listen-to-movies-star-wars-space-odyssey",
-      "published": "2026-04-06T10:23:38+00:00",
-      "summary": "From soundtracking the silent era, via 50s rock’n’roll and the ‘symphonic pop’ of Henry Mancini to iconic works by John Williams and Hans Zimmer, movies are unimaginable without music.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "These blind students say their college blocked their education. A new rule could help",
       "source": "NPR Health",
       "category": "Science / health",
@@ -97,13 +97,13 @@
       "score": 10
     },
     {
-      "title": "‘The events still haunt’: New York stage production examines aftermath of Finnish school shooting",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/apr/06/new-york-opera-innocence-finland-school-shooting",
-      "published": "2026-04-06T12:00:18+00:00",
-      "summary": "Kaija Saariaho’s Innocence delves into guilt, grief and anger over a phenomenon largely thought of as distinctly American Gun violence, particularly the high-profile incidents that take place on school campuses, are often seen as a…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "The one piece of data that could actually shed light on your job and AI",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+      "published": "2026-04-06T16:33:35+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
@@ -117,13 +117,13 @@
       "score": 9
     },
     {
-      "title": "Slay the Spire 2 beats Crimson Desert and Resident Evil Requiem as March's biggest-selling game on Steam",
-      "source": "Eurogamer",
-      "category": "Games / design",
-      "url": "https://www.eurogamer.net/slay-the-spire-2-beats-crimson-desert-and-resident-evil-requiem-as-marchs-biggest-selling-game-on-steam",
-      "published": "2026-04-05T15:13:58+00:00",
-      "summary": "Slay the Spire 2 was allegedly March's biggest-selling game on Steam, shifting more units than other new releases like Crimson Desert and Resident Evil Requiem, bringing an estimated revenue of around $108 million (£81.7 million). Read more",
-      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
+      "title": "Wisconsinites Can Keep Watching Porn After Governor Vetoes Age Verification Bill",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/wisconsin-age-verification-bill-vetoed/",
+      "published": "2026-04-06T15:30:47+00:00",
+      "summary": "“I am vetoing this bill in its entirety because I object to this bill's intrusion into the personal privacy of Wisconsin residents,” Governor Tony Evers wrote.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -267,6 +267,6 @@
     "mainCount": 13,
     "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 13
+    "sourceCount": 14
   }
 }

@@ -1,12 +1,48 @@
 # James Daily Briefing
 
-Generated: 2026-04-06T14:00:01.163511Z
+Generated: 2026-04-06T17:16:51.256799Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are "Keeping teams together doesn't seem to matter to people, but for us it did": Star Wars Zero Company's director on what the industry can learn from XCOM 2, US states propose domestic violence registries – but could they harm women?, and ‘Creepy surveillance’: why some cities are shutting down Flock cameras amid privacy concerns.
+Today's sweep leans toward AI / computing, AI / privacy, Democracy / press freedom. The strongest items in this run are Netflix is launching a new app for kids games, Schools Are Paying for Ed Tech That Students Never Use — Could A New Contract Model Change That?, and Scientists identify ‘neural fingerprint’ of psychedelic drugs in the brain.
 
 ## Briefing
 
-### 1. "Keeping teams together doesn't seem to matter to people, but for us it did": Star Wars Zero Company's director on what the industry can learn from XCOM 2 [10/10]
+### 1. Netflix is launching a new app for kids games [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Netflix has made family-friendly titles a key part of its current games strategy, and now it's pushing a little harder with the launch of a new app.
+
+Link: https://www.theverge.com/entertainment/907293/netflix-playground-kids-games-app
+
+### 2. Schools Are Paying for Ed Tech That Students Never Use — Could A New Contract Model Change That? [10/10]
+**Source:** The 74  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+When school districts sign contracts for educational technology, they typically buy a set number of licenses. The software company delivers the product and the district cuts a check.
+
+Link: https://www.the74million.org/article/schools-are-paying-for-ed-tech-that-students-never-use-could-a-new-contract-model-change-that/
+
+### 3. Scientists identify ‘neural fingerprint’ of psychedelic drugs in the brain [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Analysis of more than 500 brain scans finds LSD, psilocybin and other psychedelics increase cross-talk between brain systems Scientists have identified a hallmark signature produced by psychedelic drugs in the human brain when users…
+
+Link: https://www.theguardian.com/science/2026/apr/06/scientists-identify-neural-fingerprint-of-psychedelic-drugs-in-the-brain
+
+### 4. Samsung’s Galaxy S27 ‘Pro’ could squeeze in between the Ultra and Plus phones [10/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Samsung's S27 lineup, expected next year, might include a new member, the Galaxy S27 Pro, which would be a second premium option between Samsung's Ultra and Plus models, as first reported by ETNews.
+
+Link: https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor
+
+### 5. "Keeping teams together doesn't seem to matter to people, but for us it did": Star Wars Zero Company's director on what the industry can learn from XCOM 2 [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -15,16 +51,7 @@ It seems that every week we're reporting on news of another wave of layoffs at a
 
 Link: https://www.rockpapershotgun.com/keeping-teams-together-doesnt-seem-to-matter-to-people-but-for-us-it-did-star-wars-zero-companys-director-on-what-the-industry-can-learn-from-xcom-2
 
-### 2. US states propose domestic violence registries – but could they harm women? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Tennessee leads way but experts say offender registry could provide a false sense of security – and identify victims When Amanda Martin started dating Christopher Cendroski, whose family has described him as “big-hearted”, she had no idea…
-
-Link: https://www.theguardian.com/us-news/2026/apr/06/domestic-violence-offender-registry
-
-### 3. ‘Creepy surveillance’: why some cities are shutting down Flock cameras amid privacy concerns [10/10]
+### 6. ‘Creepy surveillance’: why some cities are shutting down Flock cameras amid privacy concerns [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -33,25 +60,7 @@ Some cities are cutting ties with firm that provides license plate reader camera
 
 Link: https://www.theguardian.com/us-news/ng-interactive/2026/apr/06/flock-cameras-privacy-concerns
 
-### 4. David Ellison says 70% of Americans are centrist. Surveys tell a different story [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Paramount Skydance CEO has repeatedly cited the statistic when laying out the approach that CBS News and potentially CNN would take During an early March appearance on CNBC, the Paramount Skydance chief executive, David Ellison, cited a…
-
-Link: https://www.theguardian.com/media/2026/apr/06/paramount-ceo-david-ellison-american-centrist-survey
-
-### 5. AI is changing how small online sellers decide what to make [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever.
-
-Link: https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/
-
-### 6. Reframing CS with CSTA IMPACT Fellow Karen Stoll [10/10]
+### 7. Reframing CS with CSTA IMPACT Fellow Karen Stoll [10/10]
 **Source:** CSTA  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -60,7 +69,7 @@ Karen Stoll has taught computer science at Blacksburg High School in Virginia fo
 
 Link: https://csteachers.org/reframing-cs-with-csta-impact-fellow-karen-stoll/
 
-### 7. Inside 5 Rural Texas Districts That Together Set Students on Path to the Future [10/10]
+### 8. Inside 5 Rural Texas Districts That Together Set Students on Path to the Future [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -68,15 +77,6 @@ Link: https://csteachers.org/reframing-cs-with-csta-impact-fellow-karen-stoll/
 Each day, hundreds of rural south Texas high schoolers wake before sunrise to board vans that bump for miles over back roads, crossing ranch land and thickets of brush.
 
 Link: https://www.the74million.org/article/inside-5-rural-texas-districts-that-together-set-students-on-path-to-the-future/
-
-### 8. Trailblazers, trumpets and the theremin: 10 soundtracks that changed the way we listen to movies [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-From soundtracking the silent era, via 50s rock’n’roll and the ‘symphonic pop’ of Henry Mancini to iconic works by John Williams and Hans Zimmer, movies are unimaginable without music.
-
-Link: https://www.theguardian.com/music/2026/apr/06/10-soundtracks-that-changed-the-way-we-listen-to-movies-star-wars-space-odyssey
 
 ### 9. These blind students say their college blocked their education. A new rule could help [10/10]
 **Source:** NPR Health  
@@ -87,14 +87,14 @@ Higher education is especially reliant on computers and phones, but accessibilit
 
 Link: https://www.npr.org/2026/04/06/nx-s1-5720191/digital-accessibility-college-education-disability
 
-### 10. ‘The events still haunt’: New York stage production examines aftermath of Finnish school shooting [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 10. The one piece of data that could actually shed light on your job and AI [9/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Kaija Saariaho’s Innocence delves into guilt, grief and anger over a phenomenon largely thought of as distinctly American Gun violence, particularly the high-profile incidents that take place on school campuses, are often seen as a…
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given.
 
-Link: https://www.theguardian.com/us-news/2026/apr/06/new-york-opera-innocence-finland-school-shooting
+Link: https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/
 
 ### 11. ‘It started with a tipoff’: how a Guardian investigation exposed child sex trafficking on Facebook and Instagram [9/10]
 **Source:** The Guardian US  
@@ -105,14 +105,14 @@ Meta has just lost a multimillion-dollar legal battle over its failure to preven
 
 Link: https://www.theguardian.com/global-development/2026/apr/06/investigation-exposed-child-sex-trafficking-on-facebook-and-instagram-meta
 
-### 12. Slay the Spire 2 beats Crimson Desert and Resident Evil Requiem as March's biggest-selling game on Steam [8/10]
-**Source:** Eurogamer  
-**Category:** Games / design  
-**Why it matters:** Useful if you care about how games actually work as designed experiences.
+### 12. Wisconsinites Can Keep Watching Porn After Governor Vetoes Age Verification Bill [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-Slay the Spire 2 was allegedly March's biggest-selling game on Steam, shifting more units than other new releases like Crimson Desert and Resident Evil Requiem, bringing an estimated revenue of around $108 million (£81.7 million). Read more
+“I am vetoing this bill in its entirety because I object to this bill's intrusion into the personal privacy of Wisconsin residents,” Governor Tony Evers wrote.
 
-Link: https://www.eurogamer.net/slay-the-spire-2-beats-crimson-desert-and-resident-evil-requiem-as-marchs-biggest-selling-game-on-steam
+Link: https://www.404media.co/wisconsin-age-verification-bill-vetoed/
 
 ### 13. Amid a high-profile scandal, Germany considers deepfake porn punishments [7/10]
 **Source:** NPR Tech  
