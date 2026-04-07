@@ -1,30 +1,57 @@
 # James Daily Briefing
 
-Generated: 2026-04-07T11:23:25.919670Z
+Generated: 2026-04-07T14:00:01.699981Z
 
-Today's sweep leans toward Games / criticism, Democracy / press freedom, Democracy / anti-fascism. The strongest items in this run are Middle East crisis live: Trump says he is ‘not at all’ worried about possible war crimes as his deadline for Iran nears, Members of neo-Nazi ‘active clubs’ join combat events at secretive Virginia compound, and Beyond Race: What Really Drives Wisconsin’s Achievement Gaps.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Vance accuses EU of ‘foreign interference’ in upcoming Hungarian election while endorsing Orbán – Europe live, Trump says ‘a whole civilisation will die tonight’ if Iran does not make a deal – Middle East crisis live, and Democrats accuse ICE of creating ‘disappearances’ on US soil.
 
 ## Briefing
 
-### 1. Middle East crisis live: Trump says he is ‘not at all’ worried about possible war crimes as his deadline for Iran nears [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Israel warns Iranians to immediately stop using trains or being near railway lines, saying it would ‘endanger’ their lives Here are some of the latest images coming in from the Middle East as the war continues in week six.
-
-Link: https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict
-
-### 2. Members of neo-Nazi ‘active clubs’ join combat events at secretive Virginia compound [10/10]
+### 1. Vance accuses EU of ‘foreign interference’ in upcoming Hungarian election while endorsing Orbán – Europe live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Licensed school teacher and one-time police officer among those participating in riot-style gatherings as experts warn of threat to public safety A network of militant neo-Nazi active clubs from around the US has been participating in…
+US vice-president claims ‘the bureaucrats in Brussels have tried to destroy the economy of Hungary’ … and here they are! JD Vance and Usha Vance off the Air Force Two, welcomed by Hungarian foreign minister Péter Szijjártó as they begin…
 
-Link: https://www.theguardian.com/us-news/ng-interactive/2026/apr/07/neo-nazi-virginia-combat-event
+Link: https://www.theguardian.com/world/live/2026/apr/07/jd-vance-budapest-viktor-orban-hungary-election-france-nicolas-sarkozy-denmark-coalition-russia-ukraine-europe-latest-updates-news
 
-### 3. Beyond Race: What Really Drives Wisconsin’s Achievement Gaps [10/10]
+### 2. Trump says ‘a whole civilisation will die tonight’ if Iran does not make a deal – Middle East crisis live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The US president once again warned Iran to make a deal to avert threat of massive attacks Here are some of the latest images coming in from the Middle East as the war continues in week six.
+
+Link: https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict
+
+### 3. Democrats accuse ICE of creating ‘disappearances’ on US soil [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Lawmakers led by Elizabeth Warren in scathing letter say system used to track detainees ‘increasingly unreliable’ A group of 36 lawmakers says the Department of Homeland Security (DHS) has created “disappearances” on US soil, due to the…
+
+Link: https://www.theguardian.com/us-news/2026/apr/07/democrats-letter-ice-disappearances
+
+### 4. Marathon players are fiercely debating how to best change one of the game's most "present and dominant" weapon attachments [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Marathon players are busy suggesting tweaks and changes to the game's thermal gun optics, which remain a powerful tool in the hands of good players invested in the extraction shooter. Read more
+
+Link: https://www.eurogamer.net/marathon-thermal-sights-nerfs-changes
+
+### 5. Blizzard reveals Overwatch hero Anran's new "fiery and fierce" look, following player backlash over 'same-face syndrome' [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Overwatch's big 2026 revamp has largely been seen as a success , yet many players weren't happy with the design of new hero Anran's face.
+
+Link: https://www.eurogamer.net/blizzard-reveals-overwatch-hero-anran-reworked-look
+
+### 6. Beyond Race: What Really Drives Wisconsin’s Achievement Gaps [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -33,7 +60,7 @@ For years, Wisconsin has held a troubling distinction in American education: the
 
 Link: https://www.the74million.org/article/beyond-race-what-really-drives-wisconsins-achievement-gaps/
 
-### 4. Gemini is making it faster for distressed users to reach mental health resources [10/10]
+### 7. Gemini is making it faster for distressed users to reach mental health resources [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -42,59 +69,32 @@ Google says it has updated Gemini to better direct users to get mental health re
 
 Link: https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update
 
-### 5. "We're not doing zombie animals", says State of Decay 3 studio head, but you can turn a tea kettle into an undead-attracting bomb [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-If you have been keeping a candle lit for State Of Decay 3 since its 2020 reveal trailer purely for the prospect of fighting a zombie deer then, I'm afraid, it's time to blow that candle out.
-
-Link: https://www.rockpapershotgun.com/were-not-doing-zombie-animals-says-state-of-decay-3-studio-head-but-you-can-turn-a-tea-kettle-into-an-undead-attracting-bomb
-
-### 6. Wisconsin votes in supreme court race amid threat of midterm election attacks [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Liberals see chance to strengthen majority in state where Trump and allies could try to overturn election results Wisconsin voters on Tuesday will select a state supreme court judge to replace an outgoing conservative in a race that could…
-
-Link: https://www.theguardian.com/us-news/2026/apr/07/wisconsin-supreme-court-election
-
-### 7. Quantic Dream's cinematic Star Wars game Eclipse is reportedly still "years off from completion" [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-It's been over four years since Quantic Dream's Star Wars Eclipse was announced with a striking CGI trailer , which told us very little other than it was set in the High Republic era of George Lucas' galaxy far, far away.
-
-Link: https://www.eurogamer.net/star-wars-eclipse-development-worries-quantic-dream
-
-### 8. State of Decay 3 reveal trailer wasn't reflective of the actual game, says studio head [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Studio head of State of Decay 3 developer Philip Holt has confirmed the 2020 reveal trailer was based entirely on "a concept" for the game, and a major inclusion in said trailer won't actually make it into the game: zombie animals.
-
-Link: https://www.eurogamer.net/state-of-decay-3-reveal-trailer-wasnt-reflective-of-actual-game-says-studio-head
-
-### 9. Trump administration ends some civil rights settlements backing trans students [10/10]
+### 8. ‘I see it as trafficking’: the brutal reality of life as a foreign student in the UK [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Education department will no longer enforce schools from California to Delaware to comply with US civil rights law The US education department said on Monday it had terminated agreements that previous administrations reached with five…
+Universities in Britain rely on overseas applicants paying full fees, which has given rise to some unscrupulous recruiters and left many hopefuls and their families deep in debt When Sam started looking into studying abroad, it didn’t take…
 
-Link: https://www.theguardian.com/us-news/2026/apr/06/trump-administration-ends-civil-rights-settlements-trans-students
+Link: https://www.theguardian.com/education/ng-interactive/2026/apr/07/brutal-reality-of-life-as-a-foreign-student-in-the-uk
 
-### 10. Intel is going all-in on advanced chip packaging [9/10]
-**Source:** Ars Technica  
+### 9. The Download: AI’s impact on jobs, and data centres in space [9/10]
+**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Intel is hoping to cash in on the AI boom.
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
 
-Link: https://arstechnica.com/gadgets/2026/04/intel-is-going-all-in-on-advanced-chip-packaging/
+Link: https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/
+
+### 10. Data Center Tech Lobbyists Fearmonger in Attempt to Retroactively Roll Back Right to Repair Law [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Cisco, IBM, and major lobbying groups are trying to exempt "critical infrastructure" from an existing Colorado law.
+
+Link: https://www.404media.co/data-center-tech-lobbyists-fearmonger-in-attempt-to-retroactively-roll-back-right-to-repair-law/
 
 ### 11. AI in the mental health care workforce is met with fear, pushback — and enthusiasm [8/10]
 **Source:** NPR Health  
@@ -114,14 +114,14 @@ A fascination with AI bots, made with a program called OpenClaw, is sweeping Chi
 
 Link: https://www.npr.org/2026/04/07/nx-s1-5763826/building-ai-bots-becomes-the-latest-viral-craze-in-china
 
-### 13. Multiple Hackers Warned Anti-Porn App Quittr About Security Issue for Months [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
+### 13. Revealing The Minute Givers by Christine Smonk [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-At least three different people notified the popular app that wants to help men stop watching porn that it was jeopardizing user data.
+A thrilling mystery arriving January 2027 The post Revealing The Minute Givers by Christine Smonk appeared first on Reactor .
 
-Link: https://www.404media.co/multiple-hackers-warned-anti-porn-app-quittr-about-security-issue-for-months/
+Link: https://reactormag.com/cover-reveal-the-minute-givers-by-christine-smonk/
 
 ## YouTube
 
