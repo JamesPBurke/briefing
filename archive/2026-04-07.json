@@ -1,59 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-07T14:00:01.699981Z",
-  "generatedAtDisplay": "2026-04-07 10:00 AM EDT",
+  "generatedAt": "2026-04-07T17:26:03.809382Z",
+  "generatedAtDisplay": "2026-04-07 01:26 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Vance accuses EU of ‘foreign interference’ in upcoming Hungarian election while endorsing Orbán – Europe live, Trump says ‘a whole civilisation will die tonight’ if Iran does not make a deal – Middle East crisis live, and Democrats accuse ICE of creating ‘disappearances’ on US soil.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are The Moto Pad is Motorola’s first US-bound tablet in over a decade, Suno and major music labels reportedly clash over AI music sharing, and Return of the Obra Dinn developer Lucas Pope doesn't feel comfortable talking about new projects because maybe they'll be \"slurped up by AI\".",
   "mainItems": [
     {
-      "title": "Vance accuses EU of ‘foreign interference’ in upcoming Hungarian election while endorsing Orbán – Europe live",
-      "source": "The Guardian US",
+      "title": "The Moto Pad is Motorola’s first US-bound tablet in over a decade",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/apr/07/jd-vance-budapest-viktor-orban-hungary-election-france-nicolas-sarkozy-denmark-coalition-russia-ukraine-europe-latest-updates-news",
-      "published": "2026-04-07T13:41:26+00:00",
-      "summary": "US vice-president claims ‘the bureaucrats in Brussels have tried to destroy the economy of Hungary’ … and here they are! JD Vance and Usha Vance off the Air Force Two, welcomed by Hungarian foreign minister Péter Szijjártó as they begin…",
+      "url": "https://www.theverge.com/tech/908068/motorola-moto-pad-2026-tablet-g-stylus-smartphone-pricing-availability",
+      "published": "2026-04-07T16:28:22+00:00",
+      "summary": "Motorola announced two new devices today, including one of its first tablets to be available from a US carrier since Verizon's Xyboard tablets in 2011.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Trump says ‘a whole civilisation will die tonight’ if Iran does not make a deal – Middle East crisis live",
+      "title": "Suno and major music labels reportedly clash over AI music sharing",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement",
+      "published": "2026-04-07T16:23:43+00:00",
+      "summary": "The AI-powered musicmaker Suno is struggling to reach licensing deals with Universal Music Group and Sony Music Entertainment.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Return of the Obra Dinn developer Lucas Pope doesn't feel comfortable talking about new projects because maybe they'll be \"slurped up by AI\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/return-of-the-obra-dinn-developer-lucas-pope-secretive",
+      "published": "2026-04-07T15:57:26+00:00",
+      "summary": "Papers, Please and Return of the Obra Dinn are two of the most celebrated indie games around, even to this day, and Lucas Pope, the developer behind them, isn't stopping any time soon, but he's hesitant about revealing anything too early.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "JD Vance accuses EU of ‘interference’ as he visits Hungary to help Orbán win election",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/apr/07/jd-vance-eu-interference-hungary-election-viktor-orban",
+      "published": "2026-04-07T15:43:19+00:00",
+      "summary": "US vice-president rails against ‘bureaucrats in Brussels’ interfering in Sunday’s vote as he arrives in Budapest JD Vance has railed against the EU, accusing it of blatantly interfering in Hungary’s upcoming elections, even as the US…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Beyond Words is Scrabble meets Balatro, and it's left me feeling like I've gone ten rounds with a dictionary",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/beyond-words-is-scrabble-meets-balatro-and-its-left-me-feeling-like-ive-gone-ten-rounds-with-a-dictionary",
+      "published": "2026-04-07T15:17:46+00:00",
+      "summary": "Aiming to do for Scrabble what Balatro did for poker, Beyond Words gives you the same framework of a rack of tiles and a board upon which to make words, and also a set of ridiculous power cards that see your scores explode with each…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "‘For leftist Jews, the Bund is a model’: the radical history behind one of Europe’s biggest socialist movements",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict",
-      "published": "2026-04-07T13:39:56+00:00",
-      "summary": "The US president once again warned Iran to make a deal to avert threat of massive attacks Here are some of the latest images coming in from the Middle East as the war continues in week six.",
+      "url": "https://www.theguardian.com/world/2026/apr/07/molly-crabapple-new-book-jewish-socialism",
+      "published": "2026-04-07T15:00:01+00:00",
+      "summary": "A new book by Molly Crabapple documents the rise and fall of a revolutionary Jewish party that fought against Zionism and for ‘solidarity across difference’ There is perhaps no more vivid illustration of the moral nadir Israel has reached…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Democrats accuse ICE of creating ‘disappearances’ on US soil",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/07/democrats-letter-ice-disappearances",
-      "published": "2026-04-07T13:00:48+00:00",
-      "summary": "Lawmakers led by Elizabeth Warren in scathing letter say system used to track detainees ‘increasingly unreliable’ A group of 36 lawmakers says the Department of Homeland Security (DHS) has created “disappearances” on US soil, due to the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Marathon players are fiercely debating how to best change one of the game's most \"present and dominant\" weapon attachments",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/marathon-thermal-sights-nerfs-changes",
-      "published": "2026-04-07T12:32:46+00:00",
-      "summary": "Marathon players are busy suggesting tweaks and changes to the game's thermal gun optics, which remain a powerful tool in the hands of good players invested in the extraction shooter. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Blizzard reveals Overwatch hero Anran's new \"fiery and fierce\" look, following player backlash over 'same-face syndrome'",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/blizzard-reveals-overwatch-hero-anran-reworked-look",
-      "published": "2026-04-07T11:55:16+00:00",
-      "summary": "Overwatch's big 2026 revamp has largely been seen as a success , yet many players weren't happy with the design of new hero Anran's face.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Behind the Reinvention of Summit Public Schools With AI",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/behind-the-reinvention-of-summit-public-schools-with-ai/",
+      "published": "2026-04-07T14:30:00+00:00",
+      "summary": "Class Disrupted is an education podcast featuring author Michael Horn and Futre’s Diane Tavenner in conversation with educators, school leaders, students and other members of school communities as they investigate the challenges facing the…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -67,42 +87,32 @@
       "score": 10
     },
     {
-      "title": "Gemini is making it faster for distressed users to reach mental health resources",
+      "title": "Asus’ lightweight 16-inch laptop is a formidable MacBook Air alternative",
       "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
-      "published": "2026-04-07T10:09:57+00:00",
-      "summary": "Google says it has updated Gemini to better direct users to get mental health resources during moments of crisis.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "‘I see it as trafficking’: the brutal reality of life as a foreign student in the UK",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/education/ng-interactive/2026/apr/07/brutal-reality-of-life-as-a-foreign-student-in-the-uk",
-      "published": "2026-04-07T04:00:39+00:00",
-      "summary": "Universities in Britain rely on overseas applicants paying full fees, which has given rise to some unscrupulous recruiters and left many hopefuls and their families deep in debt When Sam started looking into studying abroad, it didn’t take…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "The Download: AI’s impact on jobs, and data centres in space",
-      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/",
-      "published": "2026-04-07T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "url": "https://www.theverge.com/tech/907864/asus-zenbook-a16-snapdragon-x2-elite-extreme-review",
+      "published": "2026-04-07T16:24:59+00:00",
+      "summary": "I already put Asus' new Zenbook A16 through the wringer when I brought a pre-production unit with me to CES. I loved it for its ample power in an impressively light 16-inch chassis.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "Data Center Tech Lobbyists Fearmonger in Attempt to Retroactively Roll Back Right to Repair Law",
+      "title": "The Tech Billionaires Who Want to Pave Over the Universe: Adam Becker’s More Everything Forever",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/the-tech-billionaires-who-want-to-pave-over-the-universe-adam-beckers-more-everything-forever/",
+      "published": "2026-04-07T17:00:00+00:00",
+      "summary": "Let's take a long, hard look at the cultish ideologies threatening our future (and present). The post The Tech Billionaires Who Want to Pave Over the Universe: Adam Becker’s More Everything Forever appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
+    },
+    {
+      "title": "Maine Is Close to Passing a Moratorium on New Datacenters",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/data-center-tech-lobbyists-fearmonger-in-attempt-to-retroactively-roll-back-right-to-repair-law/",
-      "published": "2026-04-07T13:56:41+00:00",
-      "summary": "Cisco, IBM, and major lobbying groups are trying to exempt \"critical infrastructure\" from an existing Colorado law.",
+      "url": "https://www.404media.co/maine-datacenter-construction-bill-ld-307/",
+      "published": "2026-04-07T15:56:48+00:00",
+      "summary": "The proposed legislation would be the first of its kind passed in the country, but there are similar bills popping up everywhere this year.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -125,85 +135,75 @@
       "summary": "A fascination with AI bots, made with a program called OpenClaw, is sweeping China.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
-    },
-    {
-      "title": "Revealing The Minute Givers by Christine Smonk",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/cover-reveal-the-minute-givers-by-christine-smonk/",
-      "published": "2026-04-07T13:30:00+00:00",
-      "summary": "A thrilling mystery arriving January 2027 The post Revealing The Minute Givers by Christine Smonk appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 7
     }
   ],
   "youtube": [
     {
-      "title": "Tombwater Is a Soulslike Western w/ Eldritch Horrors | Hot Monday Energy",
+      "title": "Harry Potter and the Culture of AI | The Backdrop",
       "source": "Second Wind",
       "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=vbZ5hoSK_I0",
-      "published": "2026-04-07T01:14:34+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
+      "url": "https://www.youtube.com/watch?v=0TEvK09XVvY",
+      "published": "2026-04-07T15:00:01+00:00",
+      "summary": "OpenAI has announced the end of Sora, its AI video generation tool, after hemorrhaging money and users. The same week, Warner Bros.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 10,
+      "verdict": "Watch it"
     },
     {
-      "title": "Let’s Talk About Resurrection | Windbreaker Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=6kzgbOZU9mk",
-      "published": "2026-04-06T19:02:52+00:00",
-      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty dig into the act of coming back to life in video games. Twists on the mechanic that have worked, ones that haven’t, and ideas that we haven’t seen tried out yet.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Iran responds to Trump's curse-filled threats",
+      "title": "Jamie Dimon on the economic risks of the Iran war",
       "source": "NPR",
       "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=Z3wsa-H87SA",
-      "published": "2026-04-06T17:00:48+00:00",
-      "summary": "Iran and the U.S. traded heated rhetoric on social media after President Trump used vulgar language while threatening to target more of Iran's infrastructure if the country's leaders don't reopen the Strait of Hormuz by Tuesday.",
+      "url": "https://www.youtube.com/watch?v=i-38jmNs9dw",
+      "published": "2026-04-07T17:01:01+00:00",
+      "summary": "JPMorgan Chase CEO Jamie Dimon releases a highly anticipated letter to shareholders every year that covers everything from the firm’s performance to the impact of emerging technology to geopolitical risks.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
     },
     {
-      "title": "Crimson Desert on PS5: Why Balanced Mode Is The Best Choice - Even At 30FPS",
+      "title": "Nvidia Auto Shader Compilation - What Does It Actually Do?",
       "source": "Digital Foundry",
       "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=RiMhXou2cPI",
-      "published": "2026-04-06T15:00:50+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/IFSwmZz1ZUA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "url": "https://www.youtube.com/watch?v=H1_kA3P7Ir0",
+      "published": "2026-04-07T17:00:31+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Nk1nIC2Wuec ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Trump warns 'a whole civilization will die tonight' if Iran fails to meet deadline",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=uXmE4iLa65M",
+      "published": "2026-04-07T16:45:06+00:00",
+      "summary": "President Trump issued new threats to Iran Tuesday morning, writing online that \"A whole civilization will die tonight, never to be brought back again.\" He added, \"I don't want that to happen, but it probably will.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
     }
   ],
   "trailers": [
     {
-      "title": "Love is Blind: Poland | Official Trailer | Netflix",
+      "title": "Funny AF with Kevin Hart | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=po0689csVmI",
-      "published": "2026-04-07T07:00:00+00:00",
-      "summary": "Is love truly blind? The pods of 'Love Is Blind: Poland' open on May 6th. Watch on Netflix: https://www.netflix.",
+      "url": "https://www.youtube.com/watch?v=D4JPjVN4gcg",
+      "published": "2026-04-07T17:00:00+00:00",
+      "summary": "The next ultimate comedy competition is here! Join Kevin Hart and some of comedy's biggest legends in a three-week event as they search for the next comedy star. The competition is brutal. The stakes are real. The talent is undeniable.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
     },
     {
-      "title": "Salish & Jordan Matter | Official Trailer | Netflix",
-      "source": "Netflix",
+      "title": "Shrinking — The Cast of Shrinking Guesses Each Other's Firsts | Apple TV",
+      "source": "Apple TV",
       "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=ypPWAObvh1k",
-      "published": "2026-04-06T19:00:00+00:00",
-      "summary": "Follow daughter-and-dad duo Salish and Jordan through a series of wild setups and extreme challenges in this remix of classic Matter family moments. Coming to Netflix April 11. Watch on Netflix: https://www.netflix.",
+      "url": "https://www.youtube.com/watch?v=JHBwMstT9JQ",
+      "published": "2026-04-07T16:59:49+00:00",
+      "summary": "A guessing game leads to unexpected answers. Shrinking Season 3 is now streaming on Apple TV https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
+      "score": 10,
       "verdict": "Looks promising"
     }
   ],
@@ -267,6 +267,6 @@
     "mainCount": 13,
     "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 13
+    "sourceCount": 14
   }
 }
