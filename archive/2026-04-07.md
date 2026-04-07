@@ -1,21 +1,39 @@
 # James Daily Briefing
 
-Generated: 2026-04-07T05:00:01.293933Z
+Generated: 2026-04-07T09:00:25.626288Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are Accused Pinochet agent turned Bondi nanny Adriana Rivas to be extradited to Chile, Moka pot coffee: unlock cafe-quality iced lattes at home with this $50 Italian staple, and Netflix is launching a new app for kids games.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are JD Vance due in Budapest to back Viktor Orbán’s election campaign – Europe live, Middle East crisis live: Trump says he is ‘not at all’ worried about possible war crimes as his deadline for Iran nears, and As Iran war exposes global dependence on fossil fuels, the biggest emitters are reaping the rewards.
 
 ## Briefing
 
-### 1. Accused Pinochet agent turned Bondi nanny Adriana Rivas to be extradited to Chile [10/10]
+### 1. JD Vance due in Budapest to back Viktor Orbán’s election campaign – Europe live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Woman denies allegations of aggravated kidnapping during Augusto Pinochet’s 1970s military dictatorship Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A former Sydney…
+Hungary’s opposition leader Péter Magyar responds to JD Vance’s visit by saying ‘no foreign country may interfere in Hungarian elections’ Hungary’s Viktor Orbán reportedly told Russia’s Vladimir Putin he was “at his service” as part of…
 
-Link: https://www.theguardian.com/australia-news/2026/apr/07/bondi-nanny-adriana-rivas-accused-pinochet-agent-extradited
+Link: https://www.theguardian.com/world/live/2026/apr/07/jd-vance-budapest-viktor-orban-hungary-election-france-nicolas-sarkozy-denmark-coalition-russia-ukraine-europe-latest-updates-news
 
-### 2. Moka pot coffee: unlock cafe-quality iced lattes at home with this $50 Italian staple [10/10]
+### 2. Middle East crisis live: Trump says he is ‘not at all’ worried about possible war crimes as his deadline for Iran nears [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Israel warns Iranians to immediately stop using trains or being near railway lines, saying it would ‘endanger’ their lives Here are some of the latest images coming in from the Middle East as the war continues in week six.
+
+Link: https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict
+
+### 3. As Iran war exposes global dependence on fossil fuels, the biggest emitters are reaping the rewards [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Worst polluters hold world’s future in their hands as they benefit from higher fossil fuel prices, but global trends favour renewables Oil stands at about $110 a barrel and some forecasts have predicted it could reach $150 .
+
+Link: https://www.theguardian.com/environment/2026/apr/07/iran-war-global-dependence-fossil-fuels-biggest-emitters-reaping-rewards
+
+### 4. Moka pot coffee: unlock cafe-quality iced lattes at home with this $50 Italian staple [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -24,16 +42,7 @@ Long beloved in Italy, this humble stovetop brewer makes cafe-quality drinks for
 
 Link: https://www.theguardian.com/thefilter-us/2026/apr/06/moka-pot-iced-coffee
 
-### 3. Netflix is launching a new app for kids games [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Netflix has made family-friendly titles a key part of its current games strategy, and now it's pushing a little harder with the launch of a new app.
-
-Link: https://www.theverge.com/entertainment/907293/netflix-playground-kids-games-app
-
-### 4. Samsung’s Galaxy S27 ‘Pro’ could squeeze in between the Ultra and Plus phones [10/10]
+### 5. Samsung’s Galaxy S27 ‘Pro’ could squeeze in between the Ultra and Plus phones [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -42,52 +51,25 @@ Samsung's S27 lineup, expected next year, might include a new member, the Galaxy
 
 Link: https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor
 
-### 5. The Drama: sex, secrets and that gobsmacking twist – discuss with spoilers [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 6. From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Zendaya and Robert Pattinson’s dark dramedy is a stylish acting showcase, but does it do justice to its weighty themes? Ever since its first trailer dropped – and, on certain corners of Reddit, even before that – the internet has been…
+New model can respond to disruptions and figure out moves it wasn't trained for.
 
-Link: https://www.theguardian.com/film/2026/apr/06/the-drama-movie-spoilers-zendaya-robert-pattinson
+Link: https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/
 
-### 6. Private jets, deserted shores and an unbuilt resort: alleged links to sanctioned ‘scam’ empire revealed in Timor-Leste [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 7. ‘Buffet Infinity’ Trailer – Unique Horror-Comedy Told Through Fake TV Commercials [9/10]
+**Source:** Bloody Disgusting  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Exclusive: Investigation finds alleged Prince Group associates were involved in unusual development in tiny nation on Australia’s doorstep, raising concerns about global spread of online fraud industry Follow our Australia news live blog…
+Buffet Infinity has an unconventional trailer to prepare you for the film, which takes a retro-screenlife approach to tell a story through a series of faux TV commercials.
 
-Link: https://www.theguardian.com/world/ng-interactive/2026/apr/06/prince-group-timor-leste-links-to-alleged-scam-empire
+Link: https://bloody-disgusting.com/movie/3944612/buffet-infinity-trailer-unique-horror-comedy-told-through-fake-tv-commercials/
 
-### 7. ‘Creepy surveillance’: why some cities are shutting down Flock cameras amid privacy concerns [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Some cities are cutting ties with firm that provides license plate reader cameras, others are signing new contracts and many are still looking for their footing In recent city council meetings in Dunwoody, Georgia, a spokesman for Flock…
-
-Link: https://www.theguardian.com/us-news/ng-interactive/2026/apr/06/flock-cameras-privacy-concerns
-
-### 8. These blind students say their college blocked their education. A new rule could help [10/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Higher education is especially reliant on computers and phones, but accessibility for people with disabilities has often been forgotten. A new federal rule could change that.
-
-Link: https://www.npr.org/2026/04/06/nx-s1-5720191/digital-accessibility-college-education-disability
-
-### 9. Trump news at a glance: president’s deadline for Iran and threats against civilian targets loom [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Trump claims Iranians welcome US strikes and lower court judges challenge Trump’s ‘war on rule of law’ – key US politics stories from Monday 6 April at a glance Middle East crisis live – latest updates Donald Trump was asked at a press…
-
-Link: https://www.theguardian.com/us-news/2026/apr/06/trump-administration-news-updates-today
-
-### 10. "Keeping teams together doesn't seem to matter to people, but for us it did": Star Wars Zero Company's director on what the industry can learn from XCOM 2 [9/10]
+### 8. "Keeping teams together doesn't seem to matter to people, but for us it did": Star Wars Zero Company's director on what the industry can learn from XCOM 2 [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -96,7 +78,7 @@ It seems that every week we're reporting on news of another wave of layoffs at a
 
 Link: https://www.rockpapershotgun.com/keeping-teams-together-doesnt-seem-to-matter-to-people-but-for-us-it-did-star-wars-zero-companys-director-on-what-the-industry-can-learn-from-xcom-2
 
-### 11. Reframing CS with CSTA IMPACT Fellow Karen Stoll [9/10]
+### 9. Reframing CS with CSTA IMPACT Fellow Karen Stoll [9/10]
 **Source:** CSTA  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -105,7 +87,7 @@ Karen Stoll has taught computer science at Blacksburg High School in Virginia fo
 
 Link: https://csteachers.org/reframing-cs-with-csta-impact-fellow-karen-stoll/
 
-### 12. Inside 5 Rural Texas Districts That Together Set Students on Path to the Future [9/10]
+### 10. Inside 5 Rural Texas Districts That Together Set Students on Path to the Future [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -113,6 +95,24 @@ Link: https://csteachers.org/reframing-cs-with-csta-impact-fellow-karen-stoll/
 Each day, hundreds of rural south Texas high schoolers wake before sunrise to board vans that bump for miles over back roads, crossing ranch land and thickets of brush.
 
 Link: https://www.the74million.org/article/inside-5-rural-texas-districts-that-together-set-students-on-path-to-the-future/
+
+### 11. Building AI bots becomes the latest viral craze in China [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+A fascination with AI bots, made with a program called OpenClaw, is sweeping China.
+
+Link: https://www.npr.org/2026/04/07/nx-s1-5763826/building-ai-bots-becomes-the-latest-viral-craze-in-china
+
+### 12. Shingles can hit younger than you think. The vaccine can prevent excruciating pain [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Shingles can be a really painful disease that's preventable with a vaccine. Research shows the vaccine may also play a part in slowing the aging process.
+
+Link: https://www.npr.org/2026/04/06/nx-s1-5745209-e1/shingles-can-hit-younger-than-you-think-the-vaccine-can-prevent-excruciating-pain
 
 ### 13. Multiple Hackers Warned Anti-Porn App Quittr About Security Issue for Months [8/10]
 **Source:** 404 Media  
@@ -125,7 +125,41 @@ Link: https://www.404media.co/multiple-hackers-warned-anti-porn-app-quittr-about
 
 ## YouTube
 
-_No YouTube picks in this briefing._
+### Tombwater Is a Soulslike Western w/ Eldritch Horrors | Hot Monday Energy [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
+
+Link: https://www.youtube.com/watch?v=vbZ5hoSK_I0
+
+### Let’s Talk About Resurrection | Windbreaker Podcast [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty dig into the act of coming back to life in video games. Twists on the mechanic that have worked, ones that haven’t, and ideas that we haven’t seen tried out yet.
+
+Link: https://www.youtube.com/watch?v=6kzgbOZU9mk
+
+### Iran responds to Trump's curse-filled threats [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Iran and the U.S. traded heated rhetoric on social media after President Trump used vulgar language while threatening to target more of Iran's infrastructure if the country's leaders don't reopen the Strait of Hormuz by Tuesday.
+
+Link: https://www.youtube.com/watch?v=Z3wsa-H87SA
+
+### Crimson Desert on PS5: Why Balanced Mode Is The Best Choice - Even At 30FPS [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/IFSwmZz1ZUA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=RiMhXou2cPI
 
 ## Entertainment Recommendations
 
@@ -152,4 +186,20 @@ _No YouTube picks in this briefing._
 
 ## Trailers / Previews
 
-_No trailer picks in this briefing._
+### Love is Blind: Poland | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Is love truly blind? The pods of 'Love Is Blind: Poland' open on May 6th. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=po0689csVmI
+
+### Salish & Jordan Matter | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Follow daughter-and-dad duo Salish and Jordan through a series of wild setups and extreme challenges in this remix of classic Matter family moments. Coming to Netflix April 11. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=ypPWAObvh1k
