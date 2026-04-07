@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-07T19:13:06.572806Z",
-  "generatedAtDisplay": "2026-04-07 03:13 PM EDT",
+  "generatedAt": "2026-04-07T19:15:05.088788Z",
+  "generatedAtDisplay": "2026-04-07 03:15 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
   "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are I wish this selfie phone case was better for selfies, JD Vance accuses EU of ‘interference’ as he visits Hungary to help Orbán win election, and Maga movement splinters as Trump threatens to eradicate a ‘whole civilization’ if Iran doesn’t make deal – live.",
@@ -263,7 +263,14 @@
       }
     ]
   },
-  "highlights": [],
+  "highlights": [
+    {
+      "title": "Building AI bots becomes the latest viral craze in China",
+      "source": "NPR Tech",
+      "url": "https://www.npr.org/2026/04/07/nx-s1-5763826/building-ai-bots-becomes-the-latest-viral-craze-in-china",
+      "notes": "Highlight this story for later listening."
+    }
+  ],
   "stats": {
     "mainCount": 13,
     "youtubeCount": 4,
