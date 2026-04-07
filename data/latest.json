@@ -1,10 +1,10 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-07T18:00:14.749970Z",
-  "generatedAtDisplay": "2026-04-07 02:00 PM EDT",
+  "generatedAt": "2026-04-07T18:01:10.338149Z",
+  "generatedAtDisplay": "2026-04-07 02:01 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are The Myst lifts over Call of the Elder Gods, granting it a May release date, Anthropic is launching a new AI model for cybersecurity, and Linux kernel maintainers are following through on removing Intel 486 support.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are The Myst lifts over Call of the Elder Gods, granting it a May release date, Linux kernel maintainers are following through on removing Intel 486 support, and The Moto Pad is Motorola’s first US-bound tablet in over a decade.",
   "mainItems": [
     {
       "title": "The Myst lifts over Call of the Elder Gods, granting it a May release date",
@@ -14,16 +14,6 @@
       "published": "2026-04-07T17:05:37+00:00",
       "summary": "Adventure puzzle games inevitably always come back to Myst , and 2020's Call of the Sea was no different.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Anthropic is launching a new AI model for cybersecurity",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
-      "published": "2026-04-07T16:41:21+00:00",
-      "summary": "Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -64,6 +54,16 @@
       "published": "2026-04-07T15:57:26+00:00",
       "summary": "Papers, Please and Return of the Obra Dinn are two of the most celebrated indie games around, even to this day, and Lucas Pope, the developer behind them, isn't stopping any time soon, but he's hesitant about revealing anything too early.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "JD Vance accuses EU of ‘interference’ as he visits Hungary to help Orbán win election",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/apr/07/jd-vance-eu-interference-hungary-election-viktor-orban",
+      "published": "2026-04-07T15:43:19+00:00",
+      "summary": "US vice-president rails against ‘bureaucrats in Brussels’ interfering in Sunday’s vote as he arrives in Budapest JD Vance has railed against the EU, accusing it of blatantly interfering in Hungary’s upcoming elections, even as the US…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -137,136 +137,17 @@
       "score": 8
     }
   ],
-  "youtube": [
-    {
-      "title": "Harry Potter and the Culture of AI | The Backdrop",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=0TEvK09XVvY",
-      "published": "2026-04-07T15:00:01+00:00",
-      "summary": "OpenAI has announced the end of Sora, its AI video generation tool, after hemorrhaging money and users. The same week, Warner Bros.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Jamie Dimon on the economic risks of the Iran war",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=i-38jmNs9dw",
-      "published": "2026-04-07T17:01:01+00:00",
-      "summary": "JPMorgan Chase CEO Jamie Dimon releases a highly anticipated letter to shareholders every year that covers everything from the firm’s performance to the impact of emerging technology to geopolitical risks.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Nvidia Auto Shader Compilation - What Does It Actually Do?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=H1_kA3P7Ir0",
-      "published": "2026-04-07T17:00:31+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Nk1nIC2Wuec ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Trump warns 'a whole civilization will die tonight' if Iran fails to meet deadline",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=uXmE4iLa65M",
-      "published": "2026-04-07T16:45:06+00:00",
-      "summary": "President Trump issued new threats to Iran Tuesday morning, writing online that \"A whole civilization will die tonight, never to be brought back again.\" He added, \"I don't want that to happen, but it probably will.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "Funny AF with Kevin Hart | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=D4JPjVN4gcg",
-      "published": "2026-04-07T17:00:00+00:00",
-      "summary": "The next ultimate comedy competition is here! Join Kevin Hart and some of comedy's biggest legends in a three-week event as they search for the next comedy star. The competition is brutal. The stakes are real. The talent is undeniable.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Shrinking — The Cast of Shrinking Guesses Each Other's Firsts | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=JHBwMstT9JQ",
-      "published": "2026-04-07T16:59:49+00:00",
-      "summary": "A guessing game leads to unexpected answers. Shrinking Season 3 is now streaming on Apple TV https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
-    "new": [
-      {
-        "title": "Scavengers Reign",
-        "why": "Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF."
-      },
-      {
-        "title": "Sugar",
-        "why": "Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap."
-      },
-      {
-        "title": "The Lazarus Project",
-        "why": "Time-loop espionage, moral pressure, and speculative plotting — very plausible fit."
-      },
-      {
-        "title": "Bodies",
-        "why": "Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling."
-      }
-    ],
-    "older": [
-      {
-        "title": "Counterpart",
-        "why": "Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence."
-      },
-      {
-        "title": "Patriot",
-        "why": "Dry, strange, melancholy spy storytelling with a very distinct voice."
-      },
-      {
-        "title": "Utopia",
-        "why": "Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly."
-      },
-      {
-        "title": "Rubicon",
-        "why": "A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere."
-      }
-    ],
-    "shared": [
-      {
-        "title": "Bad Sisters",
-        "why": "Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy."
-      },
-      {
-        "title": "Detectorists",
-        "why": "Gentle, funny, humane, and specific — a softer shared-watch possibility."
-      },
-      {
-        "title": "Astrid et Raphaëlle",
-        "why": "French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you."
-      },
-      {
-        "title": "Somebody Somewhere",
-        "why": "A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work."
-      }
-    ]
+    "new": [],
+    "older": [],
+    "shared": []
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 4,
-    "trailerCount": 2,
-    "sourceCount": 15
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 10
   }
 }

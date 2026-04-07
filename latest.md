@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-07T18:00:14.749970Z
+Generated: 2026-04-07T18:01:10.338149Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are The Myst lifts over Call of the Elder Gods, granting it a May release date, Anthropic is launching a new AI model for cybersecurity, and Linux kernel maintainers are following through on removing Intel 486 support.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are The Myst lifts over Call of the Elder Gods, granting it a May release date, Linux kernel maintainers are following through on removing Intel 486 support, and The Moto Pad is Motorola’s first US-bound tablet in over a decade.
 
 ## Briefing
 
@@ -15,16 +15,7 @@ Adventure puzzle games inevitably always come back to Myst , and 2020's Call of 
 
 Link: https://www.rockpapershotgun.com/the-myst-lifts-over-call-of-the-elder-gods-granting-it-a-may-release-date
 
-### 2. Anthropic is launching a new AI model for cybersecurity [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity
-
-### 3. Linux kernel maintainers are following through on removing Intel 486 support [10/10]
+### 2. Linux kernel maintainers are following through on removing Intel 486 support [10/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -33,7 +24,7 @@ Linux devs think even one second spent on 486 support is a second too many.
 
 Link: https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/
 
-### 4. The Moto Pad is Motorola’s first US-bound tablet in over a decade [10/10]
+### 3. The Moto Pad is Motorola’s first US-bound tablet in over a decade [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,7 +33,7 @@ Motorola announced two new devices today, including one of its first tablets to 
 
 Link: https://www.theverge.com/tech/908068/motorola-moto-pad-2026-tablet-g-stylus-smartphone-pricing-availability
 
-### 5. Suno and major music labels reportedly clash over AI music sharing [10/10]
+### 4. Suno and major music labels reportedly clash over AI music sharing [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,7 +42,7 @@ The AI-powered musicmaker Suno is struggling to reach licensing deals with Unive
 
 Link: https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement
 
-### 6. Return of the Obra Dinn developer Lucas Pope doesn't feel comfortable talking about new projects because maybe they'll be "slurped up by AI" [10/10]
+### 5. Return of the Obra Dinn developer Lucas Pope doesn't feel comfortable talking about new projects because maybe they'll be "slurped up by AI" [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -59,6 +50,15 @@ Link: https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-unive
 Papers, Please and Return of the Obra Dinn are two of the most celebrated indie games around, even to this day, and Lucas Pope, the developer behind them, isn't stopping any time soon, but he's hesitant about revealing anything too early.
 
 Link: https://www.eurogamer.net/return-of-the-obra-dinn-developer-lucas-pope-secretive
+
+### 6. JD Vance accuses EU of ‘interference’ as he visits Hungary to help Orbán win election [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+US vice-president rails against ‘bureaucrats in Brussels’ interfering in Sunday’s vote as he arrives in Budapest JD Vance has railed against the EU, accusing it of blatantly interfering in Hungary’s upcoming elections, even as the US…
+
+Link: https://www.theguardian.com/world/2026/apr/07/jd-vance-eu-interference-hungary-election-viktor-orban
 
 ### 7. ‘For leftist Jews, the Bund is a model’: the radical history behind one of Europe’s biggest socialist movements [10/10]
 **Source:** The Guardian US  
@@ -122,84 +122,3 @@ Link: https://www.npr.org/2026/04/07/nx-s1-5771707/mental-health-care-workforce-
 A fascination with AI bots, made with a program called OpenClaw, is sweeping China.
 
 Link: https://www.npr.org/2026/04/07/nx-s1-5763826/building-ai-bots-becomes-the-latest-viral-craze-in-china
-
-## YouTube
-
-### Harry Potter and the Culture of AI | The Backdrop [10/10]
-**Creator:** Second Wind  
-**Verdict:** Watch it  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-OpenAI has announced the end of Sora, its AI video generation tool, after hemorrhaging money and users. The same week, Warner Bros.
-
-Link: https://www.youtube.com/watch?v=0TEvK09XVvY
-
-### Jamie Dimon on the economic risks of the Iran war [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-JPMorgan Chase CEO Jamie Dimon releases a highly anticipated letter to shareholders every year that covers everything from the firm’s performance to the impact of emerging technology to geopolitical risks.
-
-Link: https://www.youtube.com/watch?v=i-38jmNs9dw
-
-### Nvidia Auto Shader Compilation - What Does It Actually Do? [8/10]
-**Creator:** Digital Foundry  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Nk1nIC2Wuec ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=H1_kA3P7Ir0
-
-### Trump warns 'a whole civilization will die tonight' if Iran fails to meet deadline [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-President Trump issued new threats to Iran Tuesday morning, writing online that "A whole civilization will die tonight, never to be brought back again." He added, "I don't want that to happen, but it probably will.
-
-Link: https://www.youtube.com/watch?v=uXmE4iLa65M
-
-## Entertainment Recommendations
-
-### Newer shows that look like a fit
-
-- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
-- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
-- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
-- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
-
-### Older shows you may have missed
-
-- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
-- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
-- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
-- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
-
-### Maggie + James overlap
-
-- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
-- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
-- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
-- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
-
-## Trailers / Previews
-
-### Funny AF with Kevin Hart | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-The next ultimate comedy competition is here! Join Kevin Hart and some of comedy's biggest legends in a three-week event as they search for the next comedy star. The competition is brutal. The stakes are real. The talent is undeniable.
-
-Link: https://www.youtube.com/watch?v=D4JPjVN4gcg
-
-### Shrinking — The Cast of Shrinking Guesses Each Other's Firsts | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-A guessing game leads to unexpected answers. Shrinking Season 3 is now streaming on Apple TV https://apple.
-
-Link: https://www.youtube.com/watch?v=JHBwMstT9JQ
