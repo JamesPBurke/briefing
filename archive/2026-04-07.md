@@ -1,21 +1,12 @@
 # James Daily Briefing
 
-Generated: 2026-04-07T09:00:25.626288Z
+Generated: 2026-04-07T11:23:25.919670Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are JD Vance due in Budapest to back Viktor Orbán’s election campaign – Europe live, Middle East crisis live: Trump says he is ‘not at all’ worried about possible war crimes as his deadline for Iran nears, and As Iran war exposes global dependence on fossil fuels, the biggest emitters are reaping the rewards.
+Today's sweep leans toward Games / criticism, Democracy / press freedom, Democracy / anti-fascism. The strongest items in this run are Middle East crisis live: Trump says he is ‘not at all’ worried about possible war crimes as his deadline for Iran nears, Members of neo-Nazi ‘active clubs’ join combat events at secretive Virginia compound, and Beyond Race: What Really Drives Wisconsin’s Achievement Gaps.
 
 ## Briefing
 
-### 1. JD Vance due in Budapest to back Viktor Orbán’s election campaign – Europe live [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Hungary’s opposition leader Péter Magyar responds to JD Vance’s visit by saying ‘no foreign country may interfere in Hungarian elections’ Hungary’s Viktor Orbán reportedly told Russia’s Vladimir Putin he was “at his service” as part of…
-
-Link: https://www.theguardian.com/world/live/2026/apr/07/jd-vance-budapest-viktor-orban-hungary-election-france-nicolas-sarkozy-denmark-coalition-russia-ukraine-europe-latest-updates-news
-
-### 2. Middle East crisis live: Trump says he is ‘not at all’ worried about possible war crimes as his deadline for Iran nears [10/10]
+### 1. Middle East crisis live: Trump says he is ‘not at all’ worried about possible war crimes as his deadline for Iran nears [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -24,79 +15,97 @@ Israel warns Iranians to immediately stop using trains or being near railway lin
 
 Link: https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict
 
-### 3. As Iran war exposes global dependence on fossil fuels, the biggest emitters are reaping the rewards [10/10]
+### 2. Members of neo-Nazi ‘active clubs’ join combat events at secretive Virginia compound [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Worst polluters hold world’s future in their hands as they benefit from higher fossil fuel prices, but global trends favour renewables Oil stands at about $110 a barrel and some forecasts have predicted it could reach $150 .
+Licensed school teacher and one-time police officer among those participating in riot-style gatherings as experts warn of threat to public safety A network of militant neo-Nazi active clubs from around the US has been participating in…
 
-Link: https://www.theguardian.com/environment/2026/apr/07/iran-war-global-dependence-fossil-fuels-biggest-emitters-reaping-rewards
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/apr/07/neo-nazi-virginia-combat-event
 
-### 4. Moka pot coffee: unlock cafe-quality iced lattes at home with this $50 Italian staple [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 3. Beyond Race: What Really Drives Wisconsin’s Achievement Gaps [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Long beloved in Italy, this humble stovetop brewer makes cafe-quality drinks for a fraction of the price Sign up for the weekly Filter US newsletter, your guide to buying fewer, better things Despite my Italian heritage, it took a…
+For years, Wisconsin has held a troubling distinction in American education: the largest racial achievement gap in the nation.
 
-Link: https://www.theguardian.com/thefilter-us/2026/apr/06/moka-pot-iced-coffee
+Link: https://www.the74million.org/article/beyond-race-what-really-drives-wisconsins-achievement-gaps/
 
-### 5. Samsung’s Galaxy S27 ‘Pro’ could squeeze in between the Ultra and Plus phones [10/10]
+### 4. Gemini is making it faster for distressed users to reach mental health resources [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Samsung's S27 lineup, expected next year, might include a new member, the Galaxy S27 Pro, which would be a second premium option between Samsung's Ultra and Plus models, as first reported by ETNews.
+Google says it has updated Gemini to better direct users to get mental health resources during moments of crisis.
 
-Link: https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor
+Link: https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update
 
-### 6. From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-New model can respond to disruptions and figure out moves it wasn't trained for.
-
-Link: https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/
-
-### 7. ‘Buffet Infinity’ Trailer – Unique Horror-Comedy Told Through Fake TV Commercials [9/10]
-**Source:** Bloody Disgusting  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Buffet Infinity has an unconventional trailer to prepare you for the film, which takes a retro-screenlife approach to tell a story through a series of faux TV commercials.
-
-Link: https://bloody-disgusting.com/movie/3944612/buffet-infinity-trailer-unique-horror-comedy-told-through-fake-tv-commercials/
-
-### 8. "Keeping teams together doesn't seem to matter to people, but for us it did": Star Wars Zero Company's director on what the industry can learn from XCOM 2 [9/10]
+### 5. "We're not doing zombie animals", says State of Decay 3 studio head, but you can turn a tea kettle into an undead-attracting bomb [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-It seems that every week we're reporting on news of another wave of layoffs at a big game studio. In March alone, we saw 1000 staff let go at Epic Games , 124 at Eidos Montreal , and over 100 at Ubisoft's Red Storm Entertainment .
+If you have been keeping a candle lit for State Of Decay 3 since its 2020 reveal trailer purely for the prospect of fighting a zombie deer then, I'm afraid, it's time to blow that candle out.
 
-Link: https://www.rockpapershotgun.com/keeping-teams-together-doesnt-seem-to-matter-to-people-but-for-us-it-did-star-wars-zero-companys-director-on-what-the-industry-can-learn-from-xcom-2
+Link: https://www.rockpapershotgun.com/were-not-doing-zombie-animals-says-state-of-decay-3-studio-head-but-you-can-turn-a-tea-kettle-into-an-undead-attracting-bomb
 
-### 9. Reframing CS with CSTA IMPACT Fellow Karen Stoll [9/10]
-**Source:** CSTA  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 6. Wisconsin votes in supreme court race amid threat of midterm election attacks [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Karen Stoll has taught computer science at Blacksburg High School in Virginia for the last eight years. As co–head coach... The post Reframing CS with CSTA IMPACT Fellow Karen Stoll appeared first on Computer Science Teachers Association .
+Liberals see chance to strengthen majority in state where Trump and allies could try to overturn election results Wisconsin voters on Tuesday will select a state supreme court judge to replace an outgoing conservative in a race that could…
 
-Link: https://csteachers.org/reframing-cs-with-csta-impact-fellow-karen-stoll/
+Link: https://www.theguardian.com/us-news/2026/apr/07/wisconsin-supreme-court-election
 
-### 10. Inside 5 Rural Texas Districts That Together Set Students on Path to the Future [9/10]
-**Source:** The 74  
+### 7. Quantic Dream's cinematic Star Wars game Eclipse is reportedly still "years off from completion" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+It's been over four years since Quantic Dream's Star Wars Eclipse was announced with a striking CGI trailer , which told us very little other than it was set in the High Republic era of George Lucas' galaxy far, far away.
+
+Link: https://www.eurogamer.net/star-wars-eclipse-development-worries-quantic-dream
+
+### 8. State of Decay 3 reveal trailer wasn't reflective of the actual game, says studio head [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Studio head of State of Decay 3 developer Philip Holt has confirmed the 2020 reveal trailer was based entirely on "a concept" for the game, and a major inclusion in said trailer won't actually make it into the game: zombie animals.
+
+Link: https://www.eurogamer.net/state-of-decay-3-reveal-trailer-wasnt-reflective-of-actual-game-says-studio-head
+
+### 9. Trump administration ends some civil rights settlements backing trans students [10/10]
+**Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Each day, hundreds of rural south Texas high schoolers wake before sunrise to board vans that bump for miles over back roads, crossing ranch land and thickets of brush.
+Education department will no longer enforce schools from California to Delaware to comply with US civil rights law The US education department said on Monday it had terminated agreements that previous administrations reached with five…
 
-Link: https://www.the74million.org/article/inside-5-rural-texas-districts-that-together-set-students-on-path-to-the-future/
+Link: https://www.theguardian.com/us-news/2026/apr/06/trump-administration-ends-civil-rights-settlements-trans-students
 
-### 11. Building AI bots becomes the latest viral craze in China [8/10]
+### 10. Intel is going all-in on advanced chip packaging [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Intel is hoping to cash in on the AI boom.
+
+Link: https://arstechnica.com/gadgets/2026/04/intel-is-going-all-in-on-advanced-chip-packaging/
+
+### 11. AI in the mental health care workforce is met with fear, pushback — and enthusiasm [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Artificial intelligence tools that help mental health therapists take notes and keep records are quickly entering the marketplace. But some question the safety of AI in mental health care delivery.
+
+Link: https://www.npr.org/2026/04/07/nx-s1-5771707/mental-health-care-workforce-artificial-intelligence-ai
+
+### 12. Building AI bots becomes the latest viral craze in China [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -104,15 +113,6 @@ Link: https://www.the74million.org/article/inside-5-rural-texas-districts-that-t
 A fascination with AI bots, made with a program called OpenClaw, is sweeping China.
 
 Link: https://www.npr.org/2026/04/07/nx-s1-5763826/building-ai-bots-becomes-the-latest-viral-craze-in-china
-
-### 12. Shingles can hit younger than you think. The vaccine can prevent excruciating pain [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Shingles can be a really painful disease that's preventable with a vaccine. Research shows the vaccine may also play a part in slowing the aging process.
-
-Link: https://www.npr.org/2026/04/06/nx-s1-5745209-e1/shingles-can-hit-younger-than-you-think-the-vaccine-can-prevent-excruciating-pain
 
 ### 13. Multiple Hackers Warned Anti-Porn App Quittr About Security Issue for Months [8/10]
 **Source:** 404 Media  

@@ -1,110 +1,120 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-07T09:00:25.626288Z",
-  "generatedAtDisplay": "2026-04-07 05:00 AM EDT",
+  "generatedAt": "2026-04-07T11:23:25.919670Z",
+  "generatedAtDisplay": "2026-04-07 07:23 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are JD Vance due in Budapest to back Viktor Orbán’s election campaign – Europe live, Middle East crisis live: Trump says he is ‘not at all’ worried about possible war crimes as his deadline for Iran nears, and As Iran war exposes global dependence on fossil fuels, the biggest emitters are reaping the rewards.",
+  "summary": "Today's sweep leans toward Games / criticism, Democracy / press freedom, Democracy / anti-fascism. The strongest items in this run are Middle East crisis live: Trump says he is ‘not at all’ worried about possible war crimes as his deadline for Iran nears, Members of neo-Nazi ‘active clubs’ join combat events at secretive Virginia compound, and Beyond Race: What Really Drives Wisconsin’s Achievement Gaps.",
   "mainItems": [
-    {
-      "title": "JD Vance due in Budapest to back Viktor Orbán’s election campaign – Europe live",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/apr/07/jd-vance-budapest-viktor-orban-hungary-election-france-nicolas-sarkozy-denmark-coalition-russia-ukraine-europe-latest-updates-news",
-      "published": "2026-04-07T08:42:27+00:00",
-      "summary": "Hungary’s opposition leader Péter Magyar responds to JD Vance’s visit by saying ‘no foreign country may interfere in Hungarian elections’ Hungary’s Viktor Orbán reportedly told Russia’s Vladimir Putin he was “at his service” as part of…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
     {
       "title": "Middle East crisis live: Trump says he is ‘not at all’ worried about possible war crimes as his deadline for Iran nears",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
       "url": "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict",
-      "published": "2026-04-07T08:29:26+00:00",
+      "published": "2026-04-07T11:11:31+00:00",
       "summary": "Israel warns Iranians to immediately stop using trains or being near railway lines, saying it would ‘endanger’ their lives Here are some of the latest images coming in from the Middle East as the war continues in week six.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "As Iran war exposes global dependence on fossil fuels, the biggest emitters are reaping the rewards",
+      "title": "Members of neo-Nazi ‘active clubs’ join combat events at secretive Virginia compound",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/environment/2026/apr/07/iran-war-global-dependence-fossil-fuels-biggest-emitters-reaping-rewards",
-      "published": "2026-04-07T05:00:40+00:00",
-      "summary": "Worst polluters hold world’s future in their hands as they benefit from higher fossil fuel prices, but global trends favour renewables Oil stands at about $110 a barrel and some forecasts have predicted it could reach $150 .",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/07/neo-nazi-virginia-combat-event",
+      "published": "2026-04-07T11:00:45+00:00",
+      "summary": "Licensed school teacher and one-time police officer among those participating in riot-style gatherings as experts warn of threat to public safety A network of militant neo-Nazi active clubs from around the US has been participating in…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Moka pot coffee: unlock cafe-quality iced lattes at home with this $50 Italian staple",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/thefilter-us/2026/apr/06/moka-pot-iced-coffee",
-      "published": "2026-04-06T19:15:27+00:00",
-      "summary": "Long beloved in Italy, this humble stovetop brewer makes cafe-quality drinks for a fraction of the price Sign up for the weekly Filter US newsletter, your guide to buying fewer, better things Despite my Italian heritage, it took a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Beyond Race: What Really Drives Wisconsin’s Achievement Gaps",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/beyond-race-what-really-drives-wisconsins-achievement-gaps/",
+      "published": "2026-04-07T10:30:00+00:00",
+      "summary": "For years, Wisconsin has held a troubling distinction in American education: the largest racial achievement gap in the nation.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
-      "title": "Samsung’s Galaxy S27 ‘Pro’ could squeeze in between the Ultra and Plus phones",
+      "title": "Gemini is making it faster for distressed users to reach mental health resources",
       "source": "The Verge",
       "category": "AI / privacy",
-      "url": "https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor",
-      "published": "2026-04-06T18:22:07+00:00",
-      "summary": "Samsung's S27 lineup, expected next year, might include a new member, the Galaxy S27 Pro, which would be a second premium option between Samsung's Ultra and Plus models, as first reported by ETNews.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
+      "published": "2026-04-07T10:09:57+00:00",
+      "summary": "Google says it has updated Gemini to better direct users to get mental health resources during moments of crisis.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
+      "title": "\"We're not doing zombie animals\", says State of Decay 3 studio head, but you can turn a tea kettle into an undead-attracting bomb",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/were-not-doing-zombie-animals-says-state-of-decay-3-studio-head-but-you-can-turn-a-tea-kettle-into-an-undead-attracting-bomb",
+      "published": "2026-04-07T10:04:30+00:00",
+      "summary": "If you have been keeping a candle lit for State Of Decay 3 since its 2020 reveal trailer purely for the prospect of fighting a zombie deer then, I'm afraid, it's time to blow that candle out.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Wisconsin votes in supreme court race amid threat of midterm election attacks",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/07/wisconsin-supreme-court-election",
+      "published": "2026-04-07T10:00:44+00:00",
+      "summary": "Liberals see chance to strengthen majority in state where Trump and allies could try to overturn election results Wisconsin voters on Tuesday will select a state supreme court judge to replace an outgoing conservative in a race that could…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Quantic Dream's cinematic Star Wars game Eclipse is reportedly still \"years off from completion\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/star-wars-eclipse-development-worries-quantic-dream",
+      "published": "2026-04-07T09:48:01+00:00",
+      "summary": "It's been over four years since Quantic Dream's Star Wars Eclipse was announced with a striking CGI trailer , which told us very little other than it was set in the High Republic era of George Lucas' galaxy far, far away.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "State of Decay 3 reveal trailer wasn't reflective of the actual game, says studio head",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/state-of-decay-3-reveal-trailer-wasnt-reflective-of-actual-game-says-studio-head",
+      "published": "2026-04-07T09:17:26+00:00",
+      "summary": "Studio head of State of Decay 3 developer Philip Holt has confirmed the 2020 reveal trailer was based entirely on \"a concept\" for the game, and a major inclusion in said trailer won't actually make it into the game: zombie animals.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Trump administration ends some civil rights settlements backing trans students",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/apr/06/trump-administration-ends-civil-rights-settlements-trans-students",
+      "published": "2026-04-06T22:25:27+00:00",
+      "summary": "Education department will no longer enforce schools from California to Delaware to comply with US civil rights law The US education department said on Monday it had terminated agreements that previous administrations reached with five…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Intel is going all-in on advanced chip packaging",
       "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
-      "published": "2026-04-06T22:18:33+00:00",
-      "summary": "New model can respond to disruptions and figure out moves it wasn't trained for.",
+      "url": "https://arstechnica.com/gadgets/2026/04/intel-is-going-all-in-on-advanced-chip-packaging/",
+      "published": "2026-04-07T09:00:03+00:00",
+      "summary": "Intel is hoping to cash in on the AI boom.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "‘Buffet Infinity’ Trailer – Unique Horror-Comedy Told Through Fake TV Commercials",
-      "source": "Bloody Disgusting",
-      "category": "Sci-fi / horror",
-      "url": "https://bloody-disgusting.com/movie/3944612/buffet-infinity-trailer-unique-horror-comedy-told-through-fake-tv-commercials/",
-      "published": "2026-04-06T15:57:30+00:00",
-      "summary": "Buffet Infinity has an unconventional trailer to prepare you for the film, which takes a retro-screenlife approach to tell a story through a series of faux TV commercials.",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 9
-    },
-    {
-      "title": "\"Keeping teams together doesn't seem to matter to people, but for us it did\": Star Wars Zero Company's director on what the industry can learn from XCOM 2",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/keeping-teams-together-doesnt-seem-to-matter-to-people-but-for-us-it-did-star-wars-zero-companys-director-on-what-the-industry-can-learn-from-xcom-2",
-      "published": "2026-04-06T13:00:00+00:00",
-      "summary": "It seems that every week we're reporting on news of another wave of layoffs at a big game studio. In March alone, we saw 1000 staff let go at Epic Games , 124 at Eidos Montreal , and over 100 at Ubisoft's Red Storm Entertainment .",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Reframing CS with CSTA IMPACT Fellow Karen Stoll",
-      "source": "CSTA",
-      "category": "Education / pedagogy",
-      "url": "https://csteachers.org/reframing-cs-with-csta-impact-fellow-karen-stoll/",
-      "published": "2026-04-06T11:00:00+00:00",
-      "summary": "Karen Stoll has taught computer science at Blacksburg High School in Virginia for the last eight years. As co–head coach... The post Reframing CS with CSTA IMPACT Fellow Karen Stoll appeared first on Computer Science Teachers Association .",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Inside 5 Rural Texas Districts That Together Set Students on Path to the Future",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/inside-5-rural-texas-districts-that-together-set-students-on-path-to-the-future/",
-      "published": "2026-04-06T10:30:00+00:00",
-      "summary": "Each day, hundreds of rural south Texas high schoolers wake before sunrise to board vans that bump for miles over back roads, crossing ranch land and thickets of brush.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
+      "title": "AI in the mental health care workforce is met with fear, pushback — and enthusiasm",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/04/07/nx-s1-5771707/mental-health-care-workforce-artificial-intelligence-ai",
+      "published": "2026-04-07T09:00:00+00:00",
+      "summary": "Artificial intelligence tools that help mental health therapists take notes and keep records are quickly entering the marketplace. But some question the safety of AI in mental health care delivery.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "Building AI bots becomes the latest viral craze in China",
@@ -114,16 +124,6 @@
       "published": "2026-04-07T08:42:29+00:00",
       "summary": "A fascination with AI bots, made with a program called OpenClaw, is sweeping China.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "Shingles can hit younger than you think. The vaccine can prevent excruciating pain",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/06/nx-s1-5745209-e1/shingles-can-hit-younger-than-you-think-the-vaccine-can-prevent-excruciating-pain",
-      "published": "2026-04-06T19:55:07+00:00",
-      "summary": "Shingles can be a really painful disease that's preventable with a vaccine. Research shows the vaccine may also play a part in slowing the aging process.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -267,6 +267,6 @@
     "mainCount": 13,
     "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 14
+    "sourceCount": 13
   }
 }
