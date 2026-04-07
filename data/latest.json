@@ -1,11 +1,51 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-07T18:01:10.338149Z",
-  "generatedAtDisplay": "2026-04-07 02:01 PM EDT",
+  "generatedAt": "2026-04-07T19:10:27.956587Z",
+  "generatedAtDisplay": "2026-04-07 03:10 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are The Myst lifts over Call of the Elder Gods, granting it a May release date, Linux kernel maintainers are following through on removing Intel 486 support, and The Moto Pad is Motorola’s first US-bound tablet in over a decade.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are I wish this selfie phone case was better for selfies, JD Vance accuses EU of ‘interference’ as he visits Hungary to help Orbán win election, and Maga movement splinters as Trump threatens to eradicate a ‘whole civilization’ if Iran doesn’t make deal – live.",
   "mainItems": [
+    {
+      "title": "I wish this selfie phone case was better for selfies",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/908251/dockcase-selfix-selfie-phone-case-hands-on",
+      "published": "2026-04-07T19:05:05+00:00",
+      "summary": "The Selfix phone case is a classic example of a great idea in theory that falls apart in practice. It's a case for the iPhone 17 Pro with a circular screen on the back.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "JD Vance accuses EU of ‘interference’ as he visits Hungary to help Orbán win election",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/apr/07/jd-vance-eu-interference-hungary-election-viktor-orban",
+      "published": "2026-04-07T18:59:57+00:00",
+      "summary": "US vice-president rails against ‘bureaucrats in Brussels’ interfering in Sunday’s vote during Budapest visit JD Vance has railed against the EU, accusing it of blatantly interfering in Hungary’s upcoming elections, even as the US…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Maga movement splinters as Trump threatens to eradicate a ‘whole civilization’ if Iran doesn’t make deal – live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/07/government-shutdown-congress-house-of-representatives-donald-trump-republicans-democrats-ice-us-politics-latest-updates-news",
+      "published": "2026-04-07T18:49:42+00:00",
+      "summary": "Tucker Carlson calls Trump strategy ‘vile on every level’ and Marjorie Taylor Greene joins Democrats’ calls to remove president using 25th amendment Sign up for Breaking News US email alerts During a press conference in Budapest with…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "White Families Make up Bulk of Texas Voucher Applicants",
+      "source": "The 74",
+      "category": "Democracy / press freedom",
+      "url": "https://www.the74million.org/article/white-families-make-up-bulk-of-texas-voucher-applicants/",
+      "published": "2026-04-07T18:30:00+00:00",
+      "summary": "Most of Texas’ school voucher applications came from white families and children who previously attended a private school or home-school.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "The Myst lifts over Call of the Elder Gods, granting it a May release date",
       "source": "Rock Paper Shotgun",
@@ -27,56 +67,6 @@
       "score": 10
     },
     {
-      "title": "The Moto Pad is Motorola’s first US-bound tablet in over a decade",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/908068/motorola-moto-pad-2026-tablet-g-stylus-smartphone-pricing-availability",
-      "published": "2026-04-07T16:28:22+00:00",
-      "summary": "Motorola announced two new devices today, including one of its first tablets to be available from a US carrier since Verizon's Xyboard tablets in 2011.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Suno and major music labels reportedly clash over AI music sharing",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement",
-      "published": "2026-04-07T16:23:43+00:00",
-      "summary": "The AI-powered musicmaker Suno is struggling to reach licensing deals with Universal Music Group and Sony Music Entertainment.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Return of the Obra Dinn developer Lucas Pope doesn't feel comfortable talking about new projects because maybe they'll be \"slurped up by AI\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/return-of-the-obra-dinn-developer-lucas-pope-secretive",
-      "published": "2026-04-07T15:57:26+00:00",
-      "summary": "Papers, Please and Return of the Obra Dinn are two of the most celebrated indie games around, even to this day, and Lucas Pope, the developer behind them, isn't stopping any time soon, but he's hesitant about revealing anything too early.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "JD Vance accuses EU of ‘interference’ as he visits Hungary to help Orbán win election",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/apr/07/jd-vance-eu-interference-hungary-election-viktor-orban",
-      "published": "2026-04-07T15:43:19+00:00",
-      "summary": "US vice-president rails against ‘bureaucrats in Brussels’ interfering in Sunday’s vote as he arrives in Budapest JD Vance has railed against the EU, accusing it of blatantly interfering in Hungary’s upcoming elections, even as the US…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘For leftist Jews, the Bund is a model’: the radical history behind one of Europe’s biggest socialist movements",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/apr/07/molly-crabapple-new-book-jewish-socialism",
-      "published": "2026-04-07T15:00:01+00:00",
-      "summary": "A new book by Molly Crabapple documents the rise and fall of a revolutionary Jewish party that fought against Zionism and for ‘solidarity across difference’ There is perhaps no more vivid illustration of the moral nadir Israel has reached…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
       "title": "Behind the Reinvention of Summit Public Schools With AI",
       "source": "The 74",
       "category": "CS education / AI policy",
@@ -95,6 +85,16 @@
       "summary": "For years, Wisconsin has held a troubling distinction in American education: the largest racial achievement gap in the nation.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
+    },
+    {
+      "title": "American journalist released a week after being kidnapped in Iraq",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/apr/07/us-journalist-kidnapped-iraq-released",
+      "published": "2026-04-07T18:15:59+00:00",
+      "summary": "Freelancer Shelly Kittleson was reportedly held by Iran-backed militia which says she must now leave country The US journalist Shelly Kittleson, who was kidnapped from a Baghdad street corner last week, has been released, according to an…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
       "title": "The Tech Billionaires Who Want to Pave Over the Universe: Adam Becker’s More Everything Forever",
@@ -137,17 +137,136 @@
       "score": 8
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "Harry Potter and the Culture of AI | The Backdrop",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=0TEvK09XVvY",
+      "published": "2026-04-07T15:00:01+00:00",
+      "summary": "OpenAI has announced the end of Sora, its AI video generation tool, after hemorrhaging money and users. The same week, Warner Bros.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "NVIDIA’s New AI Just Changed Everything",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=ZQAz_HrUq68",
+      "published": "2026-04-07T17:38:09+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The #NVIDIA paper on Nemotron 3 Super is available here: https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Super-Technical-Report.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Jamie Dimon on the economic risks of the Iran war",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=i-38jmNs9dw",
+      "published": "2026-04-07T17:01:01+00:00",
+      "summary": "JPMorgan Chase CEO Jamie Dimon releases a highly anticipated letter to shareholders every year that covers everything from the firm’s performance to the impact of emerging technology to geopolitical risks.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Nvidia Auto Shader Compilation - What Does It Actually Do?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=H1_kA3P7Ir0",
+      "published": "2026-04-07T17:00:31+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Nk1nIC2Wuec ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "Funny AF with Kevin Hart | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=D4JPjVN4gcg",
+      "published": "2026-04-07T17:00:00+00:00",
+      "summary": "The next ultimate comedy competition is here! Join Kevin Hart and some of comedy's biggest legends in a three-week event as they search for the next comedy star. The competition is brutal. The stakes are real. The talent is undeniable.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Shrinking — The Cast of Shrinking Guesses Each Other's Firsts | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=JHBwMstT9JQ",
+      "published": "2026-04-07T16:59:49+00:00",
+      "summary": "A guessing game leads to unexpected answers. Shrinking Season 3 is now streaming on Apple TV https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
-    "new": [],
-    "older": [],
-    "shared": []
+    "new": [
+      {
+        "title": "Scavengers Reign",
+        "why": "Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF."
+      },
+      {
+        "title": "Sugar",
+        "why": "Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap."
+      },
+      {
+        "title": "The Lazarus Project",
+        "why": "Time-loop espionage, moral pressure, and speculative plotting — very plausible fit."
+      },
+      {
+        "title": "Bodies",
+        "why": "Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling."
+      }
+    ],
+    "older": [
+      {
+        "title": "Counterpart",
+        "why": "Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence."
+      },
+      {
+        "title": "Patriot",
+        "why": "Dry, strange, melancholy spy storytelling with a very distinct voice."
+      },
+      {
+        "title": "Utopia",
+        "why": "Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly."
+      },
+      {
+        "title": "Rubicon",
+        "why": "A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere."
+      }
+    ],
+    "shared": [
+      {
+        "title": "Bad Sisters",
+        "why": "Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy."
+      },
+      {
+        "title": "Detectorists",
+        "why": "Gentle, funny, humane, and specific — a softer shared-watch possibility."
+      },
+      {
+        "title": "Astrid et Raphaëlle",
+        "why": "French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you."
+      },
+      {
+        "title": "Somebody Somewhere",
+        "why": "A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work."
+      }
+    ]
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 10
+    "youtubeCount": 4,
+    "trailerCount": 2,
+    "sourceCount": 15
   }
 }
