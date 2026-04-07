@@ -1,12 +1,39 @@
 # James Daily Briefing
 
-Generated: 2026-04-07T17:26:03.809382Z
+Generated: 2026-04-07T18:00:14.749970Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are The Moto Pad is Motorola’s first US-bound tablet in over a decade, Suno and major music labels reportedly clash over AI music sharing, and Return of the Obra Dinn developer Lucas Pope doesn't feel comfortable talking about new projects because maybe they'll be "slurped up by AI".
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are The Myst lifts over Call of the Elder Gods, granting it a May release date, Anthropic is launching a new AI model for cybersecurity, and Linux kernel maintainers are following through on removing Intel 486 support.
 
 ## Briefing
 
-### 1. The Moto Pad is Motorola’s first US-bound tablet in over a decade [10/10]
+### 1. The Myst lifts over Call of the Elder Gods, granting it a May release date [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Adventure puzzle games inevitably always come back to Myst , and 2020's Call of the Sea was no different.
+
+Link: https://www.rockpapershotgun.com/the-myst-lifts-over-call-of-the-elder-gods-granting-it-a-may-release-date
+
+### 2. Anthropic is launching a new AI model for cybersecurity [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity
+
+### 3. Linux kernel maintainers are following through on removing Intel 486 support [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Linux devs think even one second spent on 486 support is a second too many.
+
+Link: https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/
+
+### 4. The Moto Pad is Motorola’s first US-bound tablet in over a decade [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -15,7 +42,7 @@ Motorola announced two new devices today, including one of its first tablets to 
 
 Link: https://www.theverge.com/tech/908068/motorola-moto-pad-2026-tablet-g-stylus-smartphone-pricing-availability
 
-### 2. Suno and major music labels reportedly clash over AI music sharing [10/10]
+### 5. Suno and major music labels reportedly clash over AI music sharing [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -24,7 +51,7 @@ The AI-powered musicmaker Suno is struggling to reach licensing deals with Unive
 
 Link: https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement
 
-### 3. Return of the Obra Dinn developer Lucas Pope doesn't feel comfortable talking about new projects because maybe they'll be "slurped up by AI" [10/10]
+### 6. Return of the Obra Dinn developer Lucas Pope doesn't feel comfortable talking about new projects because maybe they'll be "slurped up by AI" [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -33,25 +60,7 @@ Papers, Please and Return of the Obra Dinn are two of the most celebrated indie 
 
 Link: https://www.eurogamer.net/return-of-the-obra-dinn-developer-lucas-pope-secretive
 
-### 4. JD Vance accuses EU of ‘interference’ as he visits Hungary to help Orbán win election [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-US vice-president rails against ‘bureaucrats in Brussels’ interfering in Sunday’s vote as he arrives in Budapest JD Vance has railed against the EU, accusing it of blatantly interfering in Hungary’s upcoming elections, even as the US…
-
-Link: https://www.theguardian.com/world/2026/apr/07/jd-vance-eu-interference-hungary-election-viktor-orban
-
-### 5. Beyond Words is Scrabble meets Balatro, and it's left me feeling like I've gone ten rounds with a dictionary [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Aiming to do for Scrabble what Balatro did for poker, Beyond Words gives you the same framework of a rack of tiles and a board upon which to make words, and also a set of ridiculous power cards that see your scores explode with each…
-
-Link: https://www.rockpapershotgun.com/beyond-words-is-scrabble-meets-balatro-and-its-left-me-feeling-like-ive-gone-ten-rounds-with-a-dictionary
-
-### 6. ‘For leftist Jews, the Bund is a model’: the radical history behind one of Europe’s biggest socialist movements [10/10]
+### 7. ‘For leftist Jews, the Bund is a model’: the radical history behind one of Europe’s biggest socialist movements [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -60,7 +69,7 @@ A new book by Molly Crabapple documents the rise and fall of a revolutionary Jew
 
 Link: https://www.theguardian.com/world/2026/apr/07/molly-crabapple-new-book-jewish-socialism
 
-### 7. Behind the Reinvention of Summit Public Schools With AI [10/10]
+### 8. Behind the Reinvention of Summit Public Schools With AI [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -69,7 +78,7 @@ Class Disrupted is an education podcast featuring author Michael Horn and Futre�
 
 Link: https://www.the74million.org/article/behind-the-reinvention-of-summit-public-schools-with-ai/
 
-### 8. Beyond Race: What Really Drives Wisconsin’s Achievement Gaps [10/10]
+### 9. Beyond Race: What Really Drives Wisconsin’s Achievement Gaps [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -77,15 +86,6 @@ Link: https://www.the74million.org/article/behind-the-reinvention-of-summit-publ
 For years, Wisconsin has held a troubling distinction in American education: the largest racial achievement gap in the nation.
 
 Link: https://www.the74million.org/article/beyond-race-what-really-drives-wisconsins-achievement-gaps/
-
-### 9. Asus’ lightweight 16-inch laptop is a formidable MacBook Air alternative [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-I already put Asus' new Zenbook A16 through the wringer when I brought a pre-production unit with me to CES. I loved it for its ample power in an impressively light 16-inch chassis.
-
-Link: https://www.theverge.com/tech/907864/asus-zenbook-a16-snapdragon-x2-elite-extreme-review
 
 ### 10. The Tech Billionaires Who Want to Pave Over the Universe: Adam Becker’s More Everything Forever [8/10]
 **Source:** Reactor  

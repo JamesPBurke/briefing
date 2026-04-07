@@ -1,11 +1,41 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-07T17:26:03.809382Z",
-  "generatedAtDisplay": "2026-04-07 01:26 PM EDT",
+  "generatedAt": "2026-04-07T18:00:14.749970Z",
+  "generatedAtDisplay": "2026-04-07 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are The Moto Pad is Motorola’s first US-bound tablet in over a decade, Suno and major music labels reportedly clash over AI music sharing, and Return of the Obra Dinn developer Lucas Pope doesn't feel comfortable talking about new projects because maybe they'll be \"slurped up by AI\".",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are The Myst lifts over Call of the Elder Gods, granting it a May release date, Anthropic is launching a new AI model for cybersecurity, and Linux kernel maintainers are following through on removing Intel 486 support.",
   "mainItems": [
+    {
+      "title": "The Myst lifts over Call of the Elder Gods, granting it a May release date",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/the-myst-lifts-over-call-of-the-elder-gods-granting-it-a-may-release-date",
+      "published": "2026-04-07T17:05:37+00:00",
+      "summary": "Adventure puzzle games inevitably always come back to Myst , and 2020's Call of the Sea was no different.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Anthropic is launching a new AI model for cybersecurity",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
+      "published": "2026-04-07T16:41:21+00:00",
+      "summary": "Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Linux kernel maintainers are following through on removing Intel 486 support",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/",
+      "published": "2026-04-07T16:39:12+00:00",
+      "summary": "Linux devs think even one second spent on 486 support is a second too many.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
     {
       "title": "The Moto Pad is Motorola’s first US-bound tablet in over a decade",
       "source": "The Verge",
@@ -33,26 +63,6 @@
       "url": "https://www.eurogamer.net/return-of-the-obra-dinn-developer-lucas-pope-secretive",
       "published": "2026-04-07T15:57:26+00:00",
       "summary": "Papers, Please and Return of the Obra Dinn are two of the most celebrated indie games around, even to this day, and Lucas Pope, the developer behind them, isn't stopping any time soon, but he's hesitant about revealing anything too early.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "JD Vance accuses EU of ‘interference’ as he visits Hungary to help Orbán win election",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/apr/07/jd-vance-eu-interference-hungary-election-viktor-orban",
-      "published": "2026-04-07T15:43:19+00:00",
-      "summary": "US vice-president rails against ‘bureaucrats in Brussels’ interfering in Sunday’s vote as he arrives in Budapest JD Vance has railed against the EU, accusing it of blatantly interfering in Hungary’s upcoming elections, even as the US…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Beyond Words is Scrabble meets Balatro, and it's left me feeling like I've gone ten rounds with a dictionary",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/beyond-words-is-scrabble-meets-balatro-and-its-left-me-feeling-like-ive-gone-ten-rounds-with-a-dictionary",
-      "published": "2026-04-07T15:17:46+00:00",
-      "summary": "Aiming to do for Scrabble what Balatro did for poker, Beyond Words gives you the same framework of a rack of tiles and a board upon which to make words, and also a set of ridiculous power cards that see your scores explode with each…",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
@@ -85,16 +95,6 @@
       "summary": "For years, Wisconsin has held a troubling distinction in American education: the largest racial achievement gap in the nation.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
-    },
-    {
-      "title": "Asus’ lightweight 16-inch laptop is a formidable MacBook Air alternative",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/907864/asus-zenbook-a16-snapdragon-x2-elite-extreme-review",
-      "published": "2026-04-07T16:24:59+00:00",
-      "summary": "I already put Asus' new Zenbook A16 through the wringer when I brought a pre-production unit with me to CES. I loved it for its ample power in an impressively light 16-inch chassis.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
     },
     {
       "title": "The Tech Billionaires Who Want to Pave Over the Universe: Adam Becker’s More Everything Forever",
@@ -267,6 +267,6 @@
     "mainCount": 13,
     "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 14
+    "sourceCount": 15
   }
 }
