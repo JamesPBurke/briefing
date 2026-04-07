@@ -70,13 +70,12 @@
       border: 1px solid var(--line); background: rgba(255,255,255,.03); font-size: .92rem;
     }
     .pill small { color: var(--muted); }
-    .archive-list { display: grid; gap: 8px; max-height: 260px; overflow: auto; padding-right: 4px; }
-    .archive-link {
-      display: flex; align-items: center; justify-content: space-between;
-      padding: 10px 12px; border-radius: 12px; border: 1px solid var(--line); background: rgba(255,255,255,.025);
-      color: var(--muted); font-size: .9rem;
+    .archive-select { display: grid; gap: 8px; }
+    .archive-select select {
+      width: 100%; padding: 10px 12px; border-radius: 14px; border: 1px solid var(--line);
+      background: rgba(255,255,255,.04); color: var(--text); font-size: .92rem;
     }
-    .archive-link.active { color: var(--text); border-color: rgba(139,216,255,.28); background: rgba(139,216,255,.08); }
+    .archive-select .hint { color: var(--muted); font-size: .84rem; line-height: 1.45; }
     .main { display: grid; gap: 20px; }
     .hero {
       background: linear-gradient(135deg, rgba(139,216,255,.1), rgba(184,156,255,.08)), var(--panel-2);
@@ -182,8 +181,11 @@
       </div>
 
       <div class="rail-title">Archive</div>
-      <div class="archive-list" id="archive-list">
-        <div class="empty">Archive loading…</div>
+      <div class="archive-select">
+        <select id="archive-select" aria-label="Select an archive date">
+          <option value="">Loading archives…</option>
+        </select>
+        <div class="hint">Jump to a past issue without growing the sidebar forever.</div>
       </div>
     </aside>
 
@@ -208,6 +210,16 @@
           <div class="stat"><div class="label">Trailers</div><div class="value" id="stat-trailers">0</div></div>
           <div class="stat"><div class="label">Updated</div><div class="value" id="stat-updated" style="font-size:1rem; line-height:1.35;">—</div></div>
         </div>
+      </section>
+
+      <section class="section" id="highlights-section" style="display:none;">
+        <div class="section-head">
+          <div>
+            <h3>Highlighted stories</h3>
+            <div class="section-sub">Stories you explicitly asked me to spotlight until you clear them.</div>
+          </div>
+        </div>
+        <div class="story-stack" id="highlight-items"></div>
       </section>
 
       <section class="section" id="briefing">
@@ -342,6 +354,26 @@
         </details>
       `;
     }
+    function highlightCard(item) {
+      return `
+        <details class="story" open>
+          <summary>
+            <div class="story-row">
+              <div class="score good">★</div>
+              <div>
+                <div class="headline">${esc(item.title || 'Untitled')}</div>
+                <div class="meta"><span class="tag">highlighted</span>${item.source ? `<span class="tag">${esc(item.source)}</span>` : ''}</div>
+              </div>
+              <div class="chev">pinned</div>
+            </div>
+          </summary>
+          <div class="story-body">
+            <p>${esc(item.notes || 'Highlighted story')}</p>
+            ${item.url ? `<a href="${esc(item.url)}" target="_blank" rel="noreferrer">Open source ↗</a>` : ''}
+          </div>
+        </details>
+      `;
+    }
     function renderRecs(items, el) {
       if (!items || !items.length) return;
       el.innerHTML = items.map(item => `
@@ -367,6 +399,11 @@
         if (data.mainItems?.length) {
           document.getElementById('main-items').innerHTML = data.mainItems.map((item, idx) => detailsCard(item, idx)).join('');
         }
+        if (data.highlights?.length) {
+          const section = document.getElementById('highlights-section');
+          section.style.display = 'block';
+          document.getElementById('highlight-items').innerHTML = data.highlights.map(item => highlightCard(item)).join('');
+        }
         if (data.youtube?.length) {
           document.getElementById('youtube-items').innerHTML = data.youtube.map(item => compactCard(item)).join('');
         }
@@ -379,20 +416,18 @@
       })
       .catch(err => console.error(err));
 
+    const archiveSelect = document.getElementById('archive-select');
     fetch(`data/archive.json?ts=${Date.now()}`)
       .then(r => r.json())
       .then(entries => {
-        const archive = document.getElementById('archive-list');
         if (!entries.length) {
-          archive.innerHTML = '<div class="empty">No archived issues yet.</div>';
+          archiveSelect.innerHTML = '<option value="">No archived issues yet.</option>';
           return;
         }
-        archive.innerHTML = entries.map(entry => `
-          <a class="archive-link ${dateParam === entry.date ? 'active' : ''}" href="${esc(entry.url)}">
-            <span>${esc(entry.date)}</span>
-            <small>view</small>
-          </a>
-        `).join('');
+        archiveSelect.innerHTML = ['<option value="">Select an archive…</option>', ...entries.map(entry => `<option value="${esc(entry.url)}" ${dateParam === entry.date ? 'selected' : ''}>${esc(entry.date)}</option>`)].join('');
+        archiveSelect.addEventListener('change', () => {
+          if (archiveSelect.value) window.location.href = archiveSelect.value;
+        });
       })
       .catch(err => console.error(err));
   </script>

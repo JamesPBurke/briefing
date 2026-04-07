@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-07T19:10:27.956587Z
+Generated: 2026-04-07T19:13:06.572806Z
 
 Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are I wish this selfie phone case was better for selfies, JD Vance accuses EU of ‘interference’ as he visits Hungary to help Orbán win election, and Maga movement splinters as Trump threatens to eradicate a ‘whole civilization’ if Iran doesn’t make deal – live.
 
