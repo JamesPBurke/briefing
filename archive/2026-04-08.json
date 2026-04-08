@@ -1,48 +1,58 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-08T09:36:20.498009Z",
-  "generatedAtDisplay": "2026-04-08 05:36 AM EDT",
+  "generatedAt": "2026-04-08T14:00:01.471335Z",
+  "generatedAtDisplay": "2026-04-08 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are JD Vance continues Hungary visit after accusing EU of election interference – Europe live, Just Cause studio's canned dragon-riding fantasy romp AionGuard \"would have been Crimson Desert\", reckons former Avalanche creative head, and The Black Death by Thomas Asbridge review – a medieval horror story.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Anthropic limits access to Mythos, its new cybersecurity AI model, Roughly half of New Yorkers approve of Zohran Mamdani as he approaches 100 days as mayor – poll, and Opinion: School Districts Can’t Stand Still: 2 Strategies Can Help Them Survive and Thrive.",
   "mainItems": [
     {
-      "title": "JD Vance continues Hungary visit after accusing EU of election interference – Europe live",
+      "title": "Anthropic limits access to Mythos, its new cybersecurity AI model",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/",
+      "published": "2026-04-08T13:34:17+00:00",
+      "summary": "A select group of customers is testing the Claude Mythos Preview.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Roughly half of New Yorkers approve of Zohran Mamdani as he approaches 100 days as mayor – poll",
       "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/08/new-york-mayor-zohran-mamdani-poll",
+      "published": "2026-04-08T13:24:59+00:00",
+      "summary": "Marist poll shows that 48% of city residents approve of Mamdani’s performance while 55% view him favorably Sign up for the Breaking News US email to get newsletter alerts in your inbox As New York City’s mayor, Zohran Mamdani, approaches…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: School Districts Can’t Stand Still: 2 Strategies Can Help Them Survive and Thrive",
+      "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/world/live/2026/apr/08/jd-vance-hungary-viktor-orban-election-nato-europe-latest-news-updates",
-      "published": "2026-04-08T09:32:33+00:00",
-      "summary": "US vice-president has repeatedly endorsed Viktor Orbán ahead of key election on Sunday The event begins with JD Vance praising the MCC, as he says he is here after a personal request from Viktor Orbán to come and speak to its students.",
+      "url": "https://www.the74million.org/article/school-districts-cant-stand-still-2-strategies-can-help-them-survive-and-thrive/",
+      "published": "2026-04-08T12:30:00+00:00",
+      "summary": "America’s school districts are operating in a very different reality than they were even a decade ago. Student demographics are shifting so that in just six years, districts have lost nearly 2 million students nationwide.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "Just Cause studio's canned dragon-riding fantasy romp AionGuard \"would have been Crimson Desert\", reckons former Avalanche creative head",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/just-cause-studios-canned-dragon-riding-fantasy-romp-aionguard-would-have-been-crimson-desert-reckons-former-avalanche-creative-head",
-      "published": "2026-04-08T09:32:30+00:00",
-      "summary": "Back in the late 2000s, Just Cause developers Avalanche ended up in a publishing pickle with a fantasy open-worlder they were working on.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The Black Death by Thomas Asbridge review – a medieval horror story",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/books/2026/apr/08/the-black-death-a-global-history-thomas-asbridge-review-pandemic-history-covid",
-      "published": "2026-04-08T06:00:18+00:00",
-      "summary": "A magisterial history of one of the worst ever pandemics focuses on the individuals caught up in the chaos In Venice, authorities tried to enforce social distancing by closing all the bars, and banning the sale of wine by merchant boats…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "A moment that changed me: I saw a big cat on Dartmoor – and no one believed me",
+      "title": "Family of man killed in shooting at Florida State University to sue ChatGPT and OpenAI",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/08/a-moment-that-changed-me-i-saw-a-big-cat-on-dartmoor-and-no-one-believed-me",
-      "published": "2026-04-08T05:45:17+00:00",
-      "summary": "Larger than any dog, let alone a house cat, the beast swaggered through the Dartmoor mist.",
+      "url": "https://www.theguardian.com/us-news/2026/apr/08/florida-state-university-shooting-robert-morales-family-sue-chatgpt-openai",
+      "published": "2026-04-08T12:00:32+00:00",
+      "summary": "Lawyers for Robert Morales’s family said chatbot ‘may have advised the shooter’ on how to carry out shooting The family of a man who was killed at Florida State University last year plans to sue ChatGPT and its parent organization, OpenAI,…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Rightwing group PragerU thinks ‘western civilization is in danger’. Their plan? Infiltrate US schools",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/education/ng-interactive/2026/apr/08/prageru-university-conservatism",
+      "published": "2026-04-08T12:00:31+00:00",
+      "summary": "As teachers eagerly adopt its free lesson plans and the White House boosts its videos, the non-profit’s leaders are intent on one goal: attracting young people to conservatism In the fall of 2013, a silver-haired conservative radio host…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
@@ -51,39 +61,49 @@
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/world/2026/apr/08/oil-prices-stock-today-futures-crude-donald-trump-iran-ceasefire",
-      "published": "2026-04-08T05:03:09+00:00",
-      "summary": "Brent crude oil dropped to $93 a barrel after Trump ceasefire announcement and Iran’s pledge to reopen strait of Hormuz under its management Middle East crisis – live updates Full report: US and Iran agree to provisional ceasefire with…",
+      "published": "2026-04-08T11:37:37+00:00",
+      "summary": "Oil poised for biggest daily fall since pandemic as Iran says it will reopen strait of Hormuz under its management Middle East crisis – live updates US and Iran agree to provisional ceasefire as Tehran says it will reopen strait of Hormuz…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Europe cannot bet on a post-Trump US turning back to sanity | Rafael Behr",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/08/europe-lesson-donald-trump-era-us-sanity",
-      "published": "2026-04-08T05:00:17+00:00",
-      "summary": "If the president’s first term didn’t inoculate the American body politic against tyranny, there is no guarantee that a second dose will work Donald Trump is a despot and the US is a democracy.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Forza Horizon 6's full map has finally been revealed, and while Tokyo doesn't engulf half of it, I'm still seeing plenty of appealing asphalt spaghetti",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/forza-horizon-6s-full-map-has-finally-been-revealed-and-while-tokyo-doesnt-engulf-half-of-it-im-still-seeing-plenty-of-appealing-asphalt-spaghetti",
+      "published": "2026-04-08T11:32:22+00:00",
+      "summary": "Forza Horizon 6 's full map has broken cover, giving folks a chance to stare, gawp, and declare 'damn, those be some roads'.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "The Boys season five review – it’s the final outing for this gory splatterfest",
+      "title": "\"Framerate Estimator\" evidence in Steam's new update points to more detailed performance tests than Valve's Verified programmes",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/framerate-estimator-evidence-in-steams-new-update-points-to-more-detailed-performance-tests-than-valves-verified-programmes",
+      "published": "2026-04-08T11:15:43+00:00",
+      "summary": "Steam is, most likely, going to get a lot more prophetic about how its thousands of games might run on your PC.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "He was sentenced to death despite not pulling the trigger. An unlikely coalition saved his life",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/08/the-boys-season-five-review-prime-video",
-      "published": "2026-04-08T04:00:15+00:00",
-      "summary": "As the extraordinary superhero satires comes to an end, a mighty showdown has terrifying parallels with modern America. What a horrifying pleasure it has been to watch The Boys is back in town, for its fifth and final season.",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/08/charles-sonny-burton-alabama",
+      "published": "2026-04-08T11:00:29+00:00",
+      "summary": "In an act transcending politics, tens of thousands successfully banded together to make the case against executing Charles ‘Sonny’ Burton in Alabama With all of his appeals exhausted, Charles “Sonny” Burton had already chosen the last meal…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "We have a zero-tolerance policy around cheating\" - Bungie targets Marathon cheaters as it unveils new plans to combat them",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/marathon-cheaters-statement-anti-cheat-reporting",
-      "published": "2026-04-08T09:22:48+00:00",
-      "summary": "Marathon's development team has issued a statement about cheating in the game, pledging to improve detection and add better player reporting tools to the game. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Microsoft Abruptly Terminates VeraCrypt Account, Halting Windows Updates",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/",
+      "published": "2026-04-08T13:59:46+00:00",
+      "summary": "Updates to VeraCrypt, a popular and long-running piece of encryption, are now thrown into doubt because of a seemingly unexplained Microsoft decision.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 9
     },
     {
@@ -104,17 +124,7 @@
       "published": "2026-04-08T01:52:15+00:00",
       "summary": "The abortion pill mifepristone must undergo a safety review by the FDA, the judge said. Louisiana's case seeking to ban its use through telemedicine will proceed after that review.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "Linux kernel maintainers are following through on removing Intel 486 support",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/",
-      "published": "2026-04-07T16:39:12+00:00",
-      "summary": "Linux devs think even one second spent on 486 support is a second too many.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
+      "score": 8
     },
     {
       "title": "The Buffet Infinity Trailer Defies Explanation",
@@ -124,16 +134,6 @@
       "published": "2026-04-07T19:57:29+00:00",
       "summary": "You’ll never look at retro low-budget commercials and/or buffets the same way again The post The Buffet Infinity Trailer Defies Explanation appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
-      "title": "Maine Is Close to Passing a Moratorium on New Datacenters",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/maine-datacenter-construction-bill-ld-307/",
-      "published": "2026-04-07T15:56:48+00:00",
-      "summary": "The proposed legislation would be the first of its kind passed in the country, but there are similar bills popping up everywhere this year.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
   ],

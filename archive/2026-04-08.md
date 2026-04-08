@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-08T09:36:20.498009Z
+Generated: 2026-04-08T14:00:01.471335Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are JD Vance continues Hungary visit after accusing EU of election interference – Europe live, Just Cause studio's canned dragon-riding fantasy romp AionGuard "would have been Crimson Desert", reckons former Avalanche creative head, and The Black Death by Thomas Asbridge review – a medieval horror story.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Anthropic limits access to Mythos, its new cybersecurity AI model, Roughly half of New Yorkers approve of Zohran Mamdani as he approaches 100 days as mayor – poll, and Opinion: School Districts Can’t Stand Still: 2 Strategies Can Help Them Survive and Thrive.
 
 ## Briefing
 
@@ -18,79 +18,97 @@ Upcoming On Point topic James flagged. Add to Highlights and keep framing carefu
 
 Link: https://www.npr.org/2026/04/03/nx-s1-5770202/lebanon-christians-trapped
 
-### 1. JD Vance continues Hungary visit after accusing EU of election interference – Europe live [10/10]
+### 1. Anthropic limits access to Mythos, its new cybersecurity AI model [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+A select group of customers is testing the Claude Mythos Preview.
+
+Link: https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/
+
+### 2. Roughly half of New Yorkers approve of Zohran Mamdani as he approaches 100 days as mayor – poll [10/10]
 **Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Marist poll shows that 48% of city residents approve of Mamdani’s performance while 55% view him favorably Sign up for the Breaking News US email to get newsletter alerts in your inbox As New York City’s mayor, Zohran Mamdani, approaches…
+
+Link: https://www.theguardian.com/us-news/2026/apr/08/new-york-mayor-zohran-mamdani-poll
+
+### 3. Opinion: School Districts Can’t Stand Still: 2 Strategies Can Help Them Survive and Thrive [10/10]
+**Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-US vice-president has repeatedly endorsed Viktor Orbán ahead of key election on Sunday The event begins with JD Vance praising the MCC, as he says he is here after a personal request from Viktor Orbán to come and speak to its students.
+America’s school districts are operating in a very different reality than they were even a decade ago. Student demographics are shifting so that in just six years, districts have lost nearly 2 million students nationwide.
 
-Link: https://www.theguardian.com/world/live/2026/apr/08/jd-vance-hungary-viktor-orban-election-nato-europe-latest-news-updates
+Link: https://www.the74million.org/article/school-districts-cant-stand-still-2-strategies-can-help-them-survive-and-thrive/
 
-### 2. Just Cause studio's canned dragon-riding fantasy romp AionGuard "would have been Crimson Desert", reckons former Avalanche creative head [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Back in the late 2000s, Just Cause developers Avalanche ended up in a publishing pickle with a fantasy open-worlder they were working on.
-
-Link: https://www.rockpapershotgun.com/just-cause-studios-canned-dragon-riding-fantasy-romp-aionguard-would-have-been-crimson-desert-reckons-former-avalanche-creative-head
-
-### 3. The Black Death by Thomas Asbridge review – a medieval horror story [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-A magisterial history of one of the worst ever pandemics focuses on the individuals caught up in the chaos In Venice, authorities tried to enforce social distancing by closing all the bars, and banning the sale of wine by merchant boats…
-
-Link: https://www.theguardian.com/books/2026/apr/08/the-black-death-a-global-history-thomas-asbridge-review-pandemic-history-covid
-
-### 4. A moment that changed me: I saw a big cat on Dartmoor – and no one believed me [10/10]
+### 4. Family of man killed in shooting at Florida State University to sue ChatGPT and OpenAI [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Larger than any dog, let alone a house cat, the beast swaggered through the Dartmoor mist.
+Lawyers for Robert Morales’s family said chatbot ‘may have advised the shooter’ on how to carry out shooting The family of a man who was killed at Florida State University last year plans to sue ChatGPT and its parent organization, OpenAI,…
 
-Link: https://www.theguardian.com/lifeandstyle/2026/apr/08/a-moment-that-changed-me-i-saw-a-big-cat-on-dartmoor-and-no-one-believed-me
+Link: https://www.theguardian.com/us-news/2026/apr/08/florida-state-university-shooting-robert-morales-family-sue-chatgpt-openai
 
-### 5. Oil prices plunge and stocks jump after Trump announces conditional ceasefire with Iran [10/10]
+### 5. Rightwing group PragerU thinks ‘western civilization is in danger’. Their plan? Infiltrate US schools [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+As teachers eagerly adopt its free lesson plans and the White House boosts its videos, the non-profit’s leaders are intent on one goal: attracting young people to conservatism In the fall of 2013, a silver-haired conservative radio host…
+
+Link: https://www.theguardian.com/education/ng-interactive/2026/apr/08/prageru-university-conservatism
+
+### 6. Oil prices plunge and stocks jump after Trump announces conditional ceasefire with Iran [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Brent crude oil dropped to $93 a barrel after Trump ceasefire announcement and Iran’s pledge to reopen strait of Hormuz under its management Middle East crisis – live updates Full report: US and Iran agree to provisional ceasefire with…
+Oil poised for biggest daily fall since pandemic as Iran says it will reopen strait of Hormuz under its management Middle East crisis – live updates US and Iran agree to provisional ceasefire as Tehran says it will reopen strait of Hormuz…
 
 Link: https://www.theguardian.com/world/2026/apr/08/oil-prices-stock-today-futures-crude-donald-trump-iran-ceasefire
 
-### 6. Europe cannot bet on a post-Trump US turning back to sanity | Rafael Behr [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 7. Forza Horizon 6's full map has finally been revealed, and while Tokyo doesn't engulf half of it, I'm still seeing plenty of appealing asphalt spaghetti [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-If the president’s first term didn’t inoculate the American body politic against tyranny, there is no guarantee that a second dose will work Donald Trump is a despot and the US is a democracy.
+Forza Horizon 6 's full map has broken cover, giving folks a chance to stare, gawp, and declare 'damn, those be some roads'.
 
-Link: https://www.theguardian.com/commentisfree/2026/apr/08/europe-lesson-donald-trump-era-us-sanity
+Link: https://www.rockpapershotgun.com/forza-horizon-6s-full-map-has-finally-been-revealed-and-while-tokyo-doesnt-engulf-half-of-it-im-still-seeing-plenty-of-appealing-asphalt-spaghetti
 
-### 7. The Boys season five review – it’s the final outing for this gory splatterfest [10/10]
+### 8. "Framerate Estimator" evidence in Steam's new update points to more detailed performance tests than Valve's Verified programmes [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Steam is, most likely, going to get a lot more prophetic about how its thousands of games might run on your PC.
+
+Link: https://www.rockpapershotgun.com/framerate-estimator-evidence-in-steams-new-update-points-to-more-detailed-performance-tests-than-valves-verified-programmes
+
+### 9. He was sentenced to death despite not pulling the trigger. An unlikely coalition saved his life [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-As the extraordinary superhero satires comes to an end, a mighty showdown has terrifying parallels with modern America. What a horrifying pleasure it has been to watch The Boys is back in town, for its fifth and final season.
+In an act transcending politics, tens of thousands successfully banded together to make the case against executing Charles ‘Sonny’ Burton in Alabama With all of his appeals exhausted, Charles “Sonny” Burton had already chosen the last meal…
 
-Link: https://www.theguardian.com/tv-and-radio/2026/apr/08/the-boys-season-five-review-prime-video
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/apr/08/charles-sonny-burton-alabama
 
-### 8. We have a zero-tolerance policy around cheating" - Bungie targets Marathon cheaters as it unveils new plans to combat them [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 10. Microsoft Abruptly Terminates VeraCrypt Account, Halting Windows Updates [9/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-Marathon's development team has issued a statement about cheating in the game, pledging to improve detection and add better player reporting tools to the game. Read more
+Updates to VeraCrypt, a popular and long-running piece of encryption, are now thrown into doubt because of a seemingly unexplained Microsoft decision.
 
-Link: https://www.eurogamer.net/marathon-cheaters-statement-anti-cheat-reporting
+Link: https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/
 
-### 9. Colleges are trying to boost student voting. A Trump probe freezes data for that work [9/10]
+### 11. Colleges are trying to boost student voting. A Trump probe freezes data for that work [9/10]
 **Source:** NPR Education  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -99,7 +117,7 @@ To figure out how to boost student voting, colleges have relied on a study about
 
 Link: https://www.npr.org/2026/04/08/nx-s1-5725279/college-trump-voting-data-probe-voting-registration
 
-### 10. Telehealth abortion will remain available for now, after a federal judge's ruling [9/10]
+### 12. Telehealth abortion will remain available for now, after a federal judge's ruling [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -108,16 +126,7 @@ The abortion pill mifepristone must undergo a safety review by the FDA, the judg
 
 Link: https://www.npr.org/2026/04/07/nx-s1-5776946/telehealth-abortion-louisiana-federal-court-mifepristone
 
-### 11. Linux kernel maintainers are following through on removing Intel 486 support [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Linux devs think even one second spent on 486 support is a second too many.
-
-Link: https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/
-
-### 12. The Buffet Infinity Trailer Defies Explanation [8/10]
+### 13. The Buffet Infinity Trailer Defies Explanation [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -125,15 +134,6 @@ Link: https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-follo
 You’ll never look at retro low-budget commercials and/or buffets the same way again The post The Buffet Infinity Trailer Defies Explanation appeared first on Reactor .
 
 Link: https://reactormag.com/buffet-infinity-trailer/
-
-### 13. Maine Is Close to Passing a Moratorium on New Datacenters [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-The proposed legislation would be the first of its kind passed in the country, but there are similar bills popping up everywhere this year.
-
-Link: https://www.404media.co/maine-datacenter-construction-bill-ld-307/
 
 ## YouTube
 
