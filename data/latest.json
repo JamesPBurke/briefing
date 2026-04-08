@@ -1,48 +1,68 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-08T05:00:01.514952Z",
-  "generatedAtDisplay": "2026-04-08 01:00 AM EDT",
+  "generatedAt": "2026-04-08T09:00:13.852752Z",
+  "generatedAtDisplay": "2026-04-08 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Science / health, Democracy / anti-fascism. The strongest items in this run are Oil prices plunge and stocks jump after Trump announces conditional ceasefire with Iran, ICE agents shoot man in car in northern California, and Dyson v Bissell: I compared their latest lightweight stick vacs head to head.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Science / health. The strongest items in this run are JD Vance continues Hungary visit after accusing EU of election interference – Europe live, The Black Death by Thomas Asbridge review – a medieval horror story, and A moment that changed me: I saw a big cat on Dartmoor – and no one believed me.",
   "mainItems": [
+    {
+      "title": "JD Vance continues Hungary visit after accusing EU of election interference – Europe live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/live/2026/apr/08/jd-vance-hungary-viktor-orban-election-nato-europe-latest-news-updates",
+      "published": "2026-04-08T08:42:12+00:00",
+      "summary": "US vice-president has repeatedly endorsed Viktor Orbán ahead of key election on Sunday Meanwhile, Ukraine’s Volodymyr Zelenskyy has responded to the Iran ceasefire news by saying that he remains keen to end the Russian invasion on his…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The Black Death by Thomas Asbridge review – a medieval horror story",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/books/2026/apr/08/the-black-death-a-global-history-thomas-asbridge-review-pandemic-history-covid",
+      "published": "2026-04-08T06:00:18+00:00",
+      "summary": "A magisterial history of one of the worst ever pandemics focuses on the individuals caught up in the chaos In Venice, authorities tried to enforce social distancing by closing all the bars, and banning the sale of wine by merchant boats…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "A moment that changed me: I saw a big cat on Dartmoor – and no one believed me",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/08/a-moment-that-changed-me-i-saw-a-big-cat-on-dartmoor-and-no-one-believed-me",
+      "published": "2026-04-08T05:45:17+00:00",
+      "summary": "Larger than any dog, let alone a house cat, the beast swaggered through the Dartmoor mist.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
     {
       "title": "Oil prices plunge and stocks jump after Trump announces conditional ceasefire with Iran",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/world/2026/apr/08/oil-prices-stock-today-futures-crude-donald-trump-iran-ceasefire",
-      "published": "2026-04-08T01:29:16+00:00",
-      "summary": "Brent crude oil dropped to $93 a barrel after US president’s announcement and Iran’s pledge to reopen strait of Hormuz under its management Middle East crisis – live updates Full report: US and Iran agree to provisional ceasefire with…",
+      "published": "2026-04-08T05:03:09+00:00",
+      "summary": "Brent crude oil dropped to $93 a barrel after Trump ceasefire announcement and Iran’s pledge to reopen strait of Hormuz under its management Middle East crisis – live updates Full report: US and Iran agree to provisional ceasefire with…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "ICE agents shoot man in car in northern California",
+      "title": "Europe cannot bet on a post-Trump US turning back to sanity | Rafael Behr",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/08/europe-lesson-donald-trump-era-us-sanity",
+      "published": "2026-04-08T05:00:17+00:00",
+      "summary": "If the president’s first term didn’t inoculate the American body politic against tyranny, there is no guarantee that a second dose will work Donald Trump is a despot and the US is a democracy.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "The Boys season five review – it’s the final outing for this gory splatterfest",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/07/ice-agents-shooting-california",
-      "published": "2026-04-08T01:16:37+00:00",
-      "summary": "Carlos Ivan Mendoza Hernandez hospitalized after shooting in rural Patterson as officials say investigation under way Immigration and Customs Enforcement agents shot a man in a vehicle in northern California on Tuesday.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Dyson v Bissell: I compared their latest lightweight stick vacs head to head",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/thefilter-us/2026/apr/07/dyson-bissell-cordless-vacuum",
-      "published": "2026-04-07T19:15:04+00:00",
-      "summary": "I pitted the Dyson PencilVac Fluffycones against the Bissell PowerClean Dualbrush – which one cleaned up rice, dirt and flour the best? Make spring cleaning easier with these 13 editor favorites for scrubbing, cleaning and tidying Sign up…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "White Families Make up Bulk of Texas Voucher Applicants",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/white-families-make-up-bulk-of-texas-voucher-applicants/",
-      "published": "2026-04-07T18:30:00+00:00",
-      "summary": "Most of Texas’ school voucher applications came from white families and children who previously attended a private school or home-school.",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/08/the-boys-season-five-review-prime-video",
+      "published": "2026-04-08T04:00:15+00:00",
+      "summary": "As the extraordinary superhero satires comes to an end, a mighty showdown has terrifying parallels with modern America. What a horrifying pleasure it has been to watch The Boys is back in town, for its fifth and final season.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -57,16 +77,6 @@
       "score": 9
     },
     {
-      "title": "Republican wins Georgia runoff election to replace Marjorie Taylor Greene",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/apr/07/georgia-house-election-runoff",
-      "published": "2026-04-08T00:42:52+00:00",
-      "summary": "Voters pick Clay Fuller, deciding Iran war was not enough to propel a Democrat into a conservative-leaning House seat US politics live – latest updates Sign up for the Breaking News US newsletter email Clay Fuller supports the war in Iran .",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
       "title": "I want to live in Nippets' charming, silly hidden objects world",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
@@ -77,12 +87,12 @@
       "score": 9
     },
     {
-      "title": "Samsung’s Galaxy S26 Ultra is $200 off for the first time",
-      "source": "The Verge",
+      "title": "Linux kernel maintainers are following through on removing Intel 486 support",
+      "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/gadgets/908196/samsung-galaxy-s26-ultra-privacy-display-deal-sale-unlocked",
-      "published": "2026-04-07T18:16:52+00:00",
-      "summary": "My colleague Allison Johnson loved the Privacy Display in her review of the Samsung Galaxy S26 Ultra.",
+      "url": "https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/",
+      "published": "2026-04-07T16:39:12+00:00",
+      "summary": "Linux devs think even one second spent on 486 support is a second too many.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
@@ -125,54 +135,78 @@
       "summary": "The proposed legislation would be the first of its kind passed in the country, but there are similar bills popping up everywhere this year.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "Building AI bots becomes the latest viral craze in China",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/04/07/nx-s1-5763826/building-ai-bots-becomes-the-latest-viral-craze-in-china",
-      "published": "2026-04-07T08:42:29+00:00",
-      "summary": "A fascination with AI bots, made with a program called OpenClaw, is sweeping China.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
     }
   ],
   "youtube": [
     {
-      "title": "Self Defense Expert Answers Self Defense Questions | WIRED",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=BsE1RyxuLFo",
-      "published": "2026-04-07T16:00:11+00:00",
-      "summary": "Self defense instructor, author, and motivational speaker Avital Zeisler joins WIRED to answer the internet's questions about self defense.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "title": "Harry Potter and the Culture of AI | The Backdrop",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=0TEvK09XVvY",
+      "published": "2026-04-07T15:00:01+00:00",
+      "summary": "OpenAI has announced the end of Sora, its AI video generation tool, after hemorrhaging money and users. The same week, Warner Bros.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
-      "title": "BTS Do The WIRED Autocomplete Interview",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=MHr_YayM6wU",
-      "published": "2026-04-07T15:00:05+00:00",
-      "summary": "Jin, Suga, J-Hope, RM, Jimin, V, and Jung Kook of BTS (방탄소년단) visit WIRED to answer their most searched for questions! Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "title": "Extracting Even More Joy Out of Marathon w/ Nick and Jenna",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=tkZ5ECyQT34",
+      "published": "2026-04-07T22:17:48+00:00",
+      "summary": "Nick is obsessed with Marathon, so him and Jenna are going to show off some more of it. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
-      "title": "BTS (방탄소년단) Answer The Web's Most Searched Questions | WIRED",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=5lfnT1HdmuM",
-      "published": "2026-04-06T11:00:03+00:00",
-      "summary": "Jin, Suga, J-Hope, RM, Jimin, V, and Jung Kook of BTS (방탄소년단) visit WIRED to answer their most searched for questions! Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.",
+      "title": "Thousands are still detained in the last remaining detention camp in Syria under Kurdish control",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=3eP_H4d1CfU",
+      "published": "2026-04-07T21:30:01+00:00",
+      "summary": "Roj is the last remaining detention camp in Syria under Kurdish control for the wives and children of ISIS fighters. There are about 3,000 detainees in the camp. Aid groups say more than 60% are children.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Jamie Dimon says AI could create a shorter workweek",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=TnT1Lc1KGxc",
+      "published": "2026-04-07T21:00:35+00:00",
+      "summary": "JPMorgan Chase CEO Jamie Dimon believes artificial intelligence, on balance, will help the workforce and society.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
     }
   ],
-  "trailers": [],
+  "trailers": [
+    {
+      "title": "There's something on Nancy's mind. A new episode of #ImperfectWomen is now streaming.",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=AC25P4RDJk0",
+      "published": "2026-04-08T01:30:14+00:00",
+      "summary": "Elisabeth Moss, Kerry Washington & Kate Mara are your Imperfect Women, now streaming on Apple TV https://apple.co/_ImperfectWomen A new series starring Elisabeth Moss, Kerry Washington, and Kate Mara.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Shrinking season finale is here. #Shrinking — All Episodes Now Streaming",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=wGVU79kiWmU",
+      "published": "2026-04-08T00:59:59+00:00",
+      "summary": "Shrinking Season 3 is now streaming on Apple TV https://apple.co/_Shrinking Shrinking follows a grieving therapist (Jason Segel) who starts to break the rules and tell his clients exactly what he thinks.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -239,8 +273,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 3,
-    "trailerCount": 0,
-    "sourceCount": 9
+    "youtubeCount": 4,
+    "trailerCount": 2,
+    "sourceCount": 10
   }
 }
