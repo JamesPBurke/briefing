@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-08T09:35:51.685837Z
+Generated: 2026-04-08T09:36:20.498009Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Just Cause studio's canned dragon-riding fantasy romp AionGuard "would have been Crimson Desert", reckons former Avalanche creative head, JD Vance continues Hungary visit after accusing EU of election interference – Europe live, and The Black Death by Thomas Asbridge review – a medieval horror story.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are JD Vance continues Hungary visit after accusing EU of election interference – Europe live, Just Cause studio's canned dragon-riding fantasy romp AionGuard "would have been Crimson Desert", reckons former Avalanche creative head, and The Black Death by Thomas Asbridge review – a medieval horror story.
 
 ## Briefing
 
@@ -13,7 +13,21 @@ Highlight this story for later listening.
 
 Link: https://www.npr.org/2026/04/07/nx-s1-5763826/building-ai-bots-becomes-the-latest-viral-craze-in-china
 
-### 1. Just Cause studio's canned dragon-riding fantasy romp AionGuard "would have been Crimson Desert", reckons former Avalanche creative head [10/10]
+### 'Not our war' say Christians under siege this Easter, as Israel invades south Lebanon
+Upcoming On Point topic James flagged. Add to Highlights and keep framing careful around Israeli pressure on Christian and Druze communities and the displacement of Shiite residents.
+
+Link: https://www.npr.org/2026/04/03/nx-s1-5770202/lebanon-christians-trapped
+
+### 1. JD Vance continues Hungary visit after accusing EU of election interference – Europe live [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+US vice-president has repeatedly endorsed Viktor Orbán ahead of key election on Sunday The event begins with JD Vance praising the MCC, as he says he is here after a personal request from Viktor Orbán to come and speak to its students.
+
+Link: https://www.theguardian.com/world/live/2026/apr/08/jd-vance-hungary-viktor-orban-election-nato-europe-latest-news-updates
+
+### 2. Just Cause studio's canned dragon-riding fantasy romp AionGuard "would have been Crimson Desert", reckons former Avalanche creative head [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -21,15 +35,6 @@ Link: https://www.npr.org/2026/04/07/nx-s1-5763826/building-ai-bots-becomes-the-
 Back in the late 2000s, Just Cause developers Avalanche ended up in a publishing pickle with a fantasy open-worlder they were working on.
 
 Link: https://www.rockpapershotgun.com/just-cause-studios-canned-dragon-riding-fantasy-romp-aionguard-would-have-been-crimson-desert-reckons-former-avalanche-creative-head
-
-### 2. JD Vance continues Hungary visit after accusing EU of election interference – Europe live [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-US vice-president has repeatedly endorsed Viktor Orbán ahead of key election on Sunday For his speech in Budapest – about to start any moment now – JD Vance will be welcomed at the Mathias Corvinus Collegium by its chair, Balázs Orbán, who…
-
-Link: https://www.theguardian.com/world/live/2026/apr/08/jd-vance-hungary-viktor-orban-election-nato-europe-latest-news-updates
 
 ### 3. The Black Death by Thomas Asbridge review – a medieval horror story [10/10]
 **Source:** The Guardian US  
@@ -67,7 +72,16 @@ If the president’s first term didn’t inoculate the American body politic aga
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/08/europe-lesson-donald-trump-era-us-sanity
 
-### 7. We have a zero-tolerance policy around cheating" - Bungie targets Marathon cheaters as it unveils new plans to combat them [9/10]
+### 7. The Boys season five review – it’s the final outing for this gory splatterfest [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+As the extraordinary superhero satires comes to an end, a mighty showdown has terrifying parallels with modern America. What a horrifying pleasure it has been to watch The Boys is back in town, for its fifth and final season.
+
+Link: https://www.theguardian.com/tv-and-radio/2026/apr/08/the-boys-season-five-review-prime-video
+
+### 8. We have a zero-tolerance policy around cheating" - Bungie targets Marathon cheaters as it unveils new plans to combat them [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -76,7 +90,7 @@ Marathon's development team has issued a statement about cheating in the game, p
 
 Link: https://www.eurogamer.net/marathon-cheaters-statement-anti-cheat-reporting
 
-### 8. Colleges are trying to boost student voting. A Trump probe freezes data for that work [9/10]
+### 9. Colleges are trying to boost student voting. A Trump probe freezes data for that work [9/10]
 **Source:** NPR Education  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -85,7 +99,7 @@ To figure out how to boost student voting, colleges have relied on a study about
 
 Link: https://www.npr.org/2026/04/08/nx-s1-5725279/college-trump-voting-data-probe-voting-registration
 
-### 9. Telehealth abortion will remain available for now, after a federal judge's ruling [9/10]
+### 10. Telehealth abortion will remain available for now, after a federal judge's ruling [9/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -94,7 +108,7 @@ The abortion pill mifepristone must undergo a safety review by the FDA, the judg
 
 Link: https://www.npr.org/2026/04/07/nx-s1-5776946/telehealth-abortion-louisiana-federal-court-mifepristone
 
-### 10. Linux kernel maintainers are following through on removing Intel 486 support [9/10]
+### 11. Linux kernel maintainers are following through on removing Intel 486 support [9/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -102,15 +116,6 @@ Link: https://www.npr.org/2026/04/07/nx-s1-5776946/telehealth-abortion-louisiana
 Linux devs think even one second spent on 486 support is a second too many.
 
 Link: https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/
-
-### 11. Behind the Reinvention of Summit Public Schools With AI [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Class Disrupted is an education podcast featuring author Michael Horn and Futre’s Diane Tavenner in conversation with educators, school leaders, students and other members of school communities as they investigate the challenges facing the…
-
-Link: https://www.the74million.org/article/behind-the-reinvention-of-summit-public-schools-with-ai/
 
 ### 12. The Buffet Infinity Trailer Defies Explanation [8/10]
 **Source:** Reactor  
