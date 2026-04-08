@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-08T09:00:13.852752Z
+Generated: 2026-04-08T09:35:51.685837Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Science / health. The strongest items in this run are JD Vance continues Hungary visit after accusing EU of election interference – Europe live, The Black Death by Thomas Asbridge review – a medieval horror story, and A moment that changed me: I saw a big cat on Dartmoor – and no one believed me.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Just Cause studio's canned dragon-riding fantasy romp AionGuard "would have been Crimson Desert", reckons former Avalanche creative head, JD Vance continues Hungary visit after accusing EU of election interference – Europe live, and The Black Death by Thomas Asbridge review – a medieval horror story.
 
 ## Briefing
 
@@ -13,16 +13,25 @@ Highlight this story for later listening.
 
 Link: https://www.npr.org/2026/04/07/nx-s1-5763826/building-ai-bots-becomes-the-latest-viral-craze-in-china
 
-### 1. JD Vance continues Hungary visit after accusing EU of election interference – Europe live [10/10]
+### 1. Just Cause studio's canned dragon-riding fantasy romp AionGuard "would have been Crimson Desert", reckons former Avalanche creative head [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Back in the late 2000s, Just Cause developers Avalanche ended up in a publishing pickle with a fantasy open-worlder they were working on.
+
+Link: https://www.rockpapershotgun.com/just-cause-studios-canned-dragon-riding-fantasy-romp-aionguard-would-have-been-crimson-desert-reckons-former-avalanche-creative-head
+
+### 2. JD Vance continues Hungary visit after accusing EU of election interference – Europe live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-US vice-president has repeatedly endorsed Viktor Orbán ahead of key election on Sunday Meanwhile, Ukraine’s Volodymyr Zelenskyy has responded to the Iran ceasefire news by saying that he remains keen to end the Russian invasion on his…
+US vice-president has repeatedly endorsed Viktor Orbán ahead of key election on Sunday For his speech in Budapest – about to start any moment now – JD Vance will be welcomed at the Mathias Corvinus Collegium by its chair, Balázs Orbán, who…
 
 Link: https://www.theguardian.com/world/live/2026/apr/08/jd-vance-hungary-viktor-orban-election-nato-europe-latest-news-updates
 
-### 2. The Black Death by Thomas Asbridge review – a medieval horror story [10/10]
+### 3. The Black Death by Thomas Asbridge review – a medieval horror story [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -31,7 +40,7 @@ A magisterial history of one of the worst ever pandemics focuses on the individu
 
 Link: https://www.theguardian.com/books/2026/apr/08/the-black-death-a-global-history-thomas-asbridge-review-pandemic-history-covid
 
-### 3. A moment that changed me: I saw a big cat on Dartmoor – and no one believed me [10/10]
+### 4. A moment that changed me: I saw a big cat on Dartmoor – and no one believed me [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -40,7 +49,7 @@ Larger than any dog, let alone a house cat, the beast swaggered through the Dart
 
 Link: https://www.theguardian.com/lifeandstyle/2026/apr/08/a-moment-that-changed-me-i-saw-a-big-cat-on-dartmoor-and-no-one-believed-me
 
-### 4. Oil prices plunge and stocks jump after Trump announces conditional ceasefire with Iran [10/10]
+### 5. Oil prices plunge and stocks jump after Trump announces conditional ceasefire with Iran [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -49,7 +58,7 @@ Brent crude oil dropped to $93 a barrel after Trump ceasefire announcement and I
 
 Link: https://www.theguardian.com/world/2026/apr/08/oil-prices-stock-today-futures-crude-donald-trump-iran-ceasefire
 
-### 5. Europe cannot bet on a post-Trump US turning back to sanity | Rafael Behr [10/10]
+### 6. Europe cannot bet on a post-Trump US turning back to sanity | Rafael Behr [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -58,16 +67,25 @@ If the president’s first term didn’t inoculate the American body politic aga
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/08/europe-lesson-donald-trump-era-us-sanity
 
-### 6. The Boys season five review – it’s the final outing for this gory splatterfest [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 7. We have a zero-tolerance policy around cheating" - Bungie targets Marathon cheaters as it unveils new plans to combat them [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-As the extraordinary superhero satires comes to an end, a mighty showdown has terrifying parallels with modern America. What a horrifying pleasure it has been to watch The Boys is back in town, for its fifth and final season.
+Marathon's development team has issued a statement about cheating in the game, pledging to improve detection and add better player reporting tools to the game. Read more
 
-Link: https://www.theguardian.com/tv-and-radio/2026/apr/08/the-boys-season-five-review-prime-video
+Link: https://www.eurogamer.net/marathon-cheaters-statement-anti-cheat-reporting
 
-### 7. Telehealth abortion will remain available for now, after a federal judge's ruling [9/10]
+### 8. Colleges are trying to boost student voting. A Trump probe freezes data for that work [9/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+To figure out how to boost student voting, colleges have relied on a study about campus voter registration and turnout rates. A Trump administration investigation has cut schools off from new data.
+
+Link: https://www.npr.org/2026/04/08/nx-s1-5725279/college-trump-voting-data-probe-voting-registration
+
+### 9. Telehealth abortion will remain available for now, after a federal judge's ruling [9/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -76,16 +94,7 @@ The abortion pill mifepristone must undergo a safety review by the FDA, the judg
 
 Link: https://www.npr.org/2026/04/07/nx-s1-5776946/telehealth-abortion-louisiana-federal-court-mifepristone
 
-### 8. I want to live in Nippets' charming, silly hidden objects world [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Hidden object games always amuse me conceptually, as there's this sort of unspoken implication that we act as some sort of god-like figure from on high, discovering secrets that maybe weren't meant to be found.
-
-Link: https://www.rockpapershotgun.com/i-want-to-live-in-nippets-charming-silly-hidden-objects-world
-
-### 9. Linux kernel maintainers are following through on removing Intel 486 support [9/10]
+### 10. Linux kernel maintainers are following through on removing Intel 486 support [9/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -94,7 +103,7 @@ Linux devs think even one second spent on 486 support is a second too many.
 
 Link: https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/
 
-### 10. Behind the Reinvention of Summit Public Schools With AI [9/10]
+### 11. Behind the Reinvention of Summit Public Schools With AI [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -102,15 +111,6 @@ Link: https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-follo
 Class Disrupted is an education podcast featuring author Michael Horn and Futre’s Diane Tavenner in conversation with educators, school leaders, students and other members of school communities as they investigate the challenges facing the…
 
 Link: https://www.the74million.org/article/behind-the-reinvention-of-summit-public-schools-with-ai/
-
-### 11. Beyond Race: What Really Drives Wisconsin’s Achievement Gaps [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-For years, Wisconsin has held a troubling distinction in American education: the largest racial achievement gap in the nation.
-
-Link: https://www.the74million.org/article/beyond-race-what-really-drives-wisconsins-achievement-gaps/
 
 ### 12. The Buffet Infinity Trailer Defies Explanation [8/10]
 **Source:** Reactor  
@@ -150,23 +150,23 @@ Nick is obsessed with Marathon, so him and Jenna are going to show off some more
 
 Link: https://www.youtube.com/watch?v=tkZ5ECyQT34
 
-### Thousands are still detained in the last remaining detention camp in Syria under Kurdish control [8/10]
-**Creator:** NPR  
+### NVIDIA’s New AI Just Changed Everything [8/10]
+**Creator:** Two Minute Papers  
 **Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-Roj is the last remaining detention camp in Syria under Kurdish control for the wives and children of ISIS fighters. There are about 3,000 detainees in the camp. Aid groups say more than 60% are children.
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The #NVIDIA paper on Nemotron 3 Super is available here: https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Super-Technical-Report.
 
-Link: https://www.youtube.com/watch?v=3eP_H4d1CfU
+Link: https://www.youtube.com/watch?v=ZQAz_HrUq68
 
-### Jamie Dimon says AI could create a shorter workweek [8/10]
-**Creator:** NPR  
+### Rubato, Retro Rewind, Legacy of Kain: Ascendance... and Candy? | Yahtzee Tries [8/10]
+**Creator:** Second Wind  
 **Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-JPMorgan Chase CEO Jamie Dimon believes artificial intelligence, on balance, will help the workforce and society.
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
 
-Link: https://www.youtube.com/watch?v=TnT1Lc1KGxc
+Link: https://www.youtube.com/watch?v=XwQF4JllhxY
 
 ## Entertainment Recommendations
 
