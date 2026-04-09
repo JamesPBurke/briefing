@@ -1,18 +1,18 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-09T05:00:01.993383Z",
-  "generatedAtDisplay": "2026-04-09 01:00 AM EDT",
+  "generatedAt": "2026-04-09T09:00:23.121096Z",
+  "generatedAtDisplay": "2026-04-09 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Middle East crisis live: Red Cross ‘outraged’ as Israeli strikes on Lebanon kill at least 254; strait of Hormuz impasse continues, Hundreds search for wolf that escaped from zoo in South Korea, and George Clooney calls Donald Trump’s ‘a whole civilization will die tonight’ threat to Iran a war crime.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are ‘I’ve not had proper food for days’: migrant workers leave India’s cities as Iran war fuel crisis deepens, Hundreds search for wolf that escaped from zoo in South Korea, and George Clooney calls Donald Trump’s ‘a whole civilization will die tonight’ threat to Iran a war crime.",
   "mainItems": [
     {
-      "title": "Middle East crisis live: Red Cross ‘outraged’ as Israeli strikes on Lebanon kill at least 254; strait of Hormuz impasse continues",
+      "title": "‘I’ve not had proper food for days’: migrant workers leave India’s cities as Iran war fuel crisis deepens",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/apr/09/iran-war-ceasefire-live-strait-of-hormuz-israel-strikes-middle-east-crisis-latest-news",
-      "published": "2026-04-09T04:27:41+00:00",
-      "summary": "As Israel attacks on Lebanon continue, Abbas Araghchi points to announcement that says ceasefire includes Lebanon while JD Vance says US never promised that Middle East ceasefire in serious doubt as Israel assaults Lebanon and Iran blocks…",
+      "url": "https://www.theguardian.com/global-development/2026/apr/09/delhi-india-gas-energy-crisis-migrant-workers-leave",
+      "published": "2026-04-09T08:00:26+00:00",
+      "summary": "Gas shortages and rising food prices mean many who came to the capital for work cannot afford to eat.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -32,7 +32,7 @@
       "category": "CS education / AI policy",
       "url": "https://www.theguardian.com/film/2026/apr/09/george-clooney-trump-civilisation-will-die-tonight-war-crime-comments",
       "published": "2026-04-09T04:12:43+00:00",
-      "summary": "White House says only person committing war crimes is actor ‘for his awful movies and terrible acting ability’ The long-running war of words between the George Clooney and the White House has ignited again after the Oscar-winning actor…",
+      "summary": "White House says only person committing war crimes is actor ‘for his awful movies and terrible acting ability’ The long-running war of words between George Clooney and the White House has ignited again after the Oscar-winning actor…",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
@@ -57,6 +57,16 @@
       "score": 10
     },
     {
+      "title": "LA teen loses eye after being shot by US agent at No Kings march, lawyer says",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/apr/08/los-angeles-teen-eye-no-kings-march",
+      "published": "2026-04-08T23:21:04+00:00",
+      "summary": "USC student Tucker Collins’s attorney accuses homeland security of ‘overt act of repression’ at Los Angeles protest A freshman at the University of Southern California has lost an eye after he was shot last month with a “less-lethal”…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
       "title": "How our digital devices are putting our right to privacy at risk",
       "source": "Ars Technica",
       "category": "AI / privacy",
@@ -64,16 +74,6 @@
       "published": "2026-04-08T19:17:30+00:00",
       "summary": "Law professor Andrew Guthrie Ferguson chats with Ars about his new book, Your Data Will Be Used Against You .",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "The Impact Science of Reading Has in Ohio Classrooms, College Campuses",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/the-impact-science-of-reading-has-in-ohio-classrooms-college-campuses/",
-      "published": "2026-04-08T18:30:00+00:00",
-      "summary": "The science of reading is being taught in classrooms across Ohio, but the state’s education department stresses it will likely take time to track students’ progress.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
@@ -85,6 +85,16 @@
       "summary": "As teachers eagerly adopt its free lesson plans and the White House boosts its videos, PragerU is intent on one goal: attracting young people to conservatism In the fall of 2013, a silver-haired conservative radio host named Dennis Prager…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
+    },
+    {
+      "title": "Public university professors in Texas say a new law restricts their academic freedom",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/04/08/nx-s1-5561690/public-university-professors-in-texas-say-a-new-law-restricts-their-academic-freedom",
+      "published": "2026-04-08T22:16:48+00:00",
+      "summary": "Public universities across Texas have instituted sweeping changes in recent months, from canceling gender studies programs to directing faculty to sign a pledge not to indoctrinate students.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
     },
     {
       "title": "From the C: to the /Mnt/s, Linux is better than ever for PC gaming – and easier to switch to from Windows",
@@ -107,16 +117,6 @@
       "score": 9
     },
     {
-      "title": "Daredevil: Born Again Is Getting Lazy in “Gloves Off”",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/tv-review-daredevil-born-again-season-2-episode-4/",
-      "published": "2026-04-08T19:19:55+00:00",
-      "summary": "Wilson Fisk keeps coming to Matt Murdoch's (metaphorical) house and peeing on the rug. The post Daredevil: Born Again Is Getting Lazy in “Gloves Off” appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
       "title": "I Wish I Didn’t Care About 'Marathon' Player Numbers, But I Do",
       "source": "404 Media",
       "category": "Tech / media",
@@ -127,17 +127,28 @@
       "score": 8
     },
     {
-      "title": "Teen birth rates hit another historical low in 2025, CDC says",
+      "title": "How to make a high-deductible health plan and HSA work for you",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/09/nx-s1-5777587/teen-birth-rates-hit-another-historical-low-2025-cdc",
-      "published": "2026-04-09T04:01:00+00:00",
-      "summary": "The teen birth rate continues its decades-long downward trend. Researchers say many factors are at play, including less sexual activity and more access to contraception and abortion.",
+      "url": "https://www.npr.org/2026/04/09/nx-s1-5745203/how-to-make-a-high-deductible-health-plan-and-hsa-work-for-you",
+      "published": "2026-04-09T08:46:23+00:00",
+      "summary": "To keep their monthly costs down, many people bought health plans with high deductibles this year. Here are tips for using them.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
   ],
   "youtube": [
+    {
+      "title": "These blind students say their college blocked their education, but a new rule could help",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=LjXdI_H_duY",
+      "published": "2026-04-08T19:00:16+00:00",
+      "summary": "These blind students say their college blocked their education. A new rule could help. Miranda Lacy and Harold Rogers became fast friends during their undergraduate years.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
     {
       "title": "Building Up Those Saros Muscles in Returnal w/ KC and Marty -- Part 7",
       "source": "Second Wind",
@@ -146,8 +157,8 @@
       "published": "2026-04-09T01:14:38+00:00",
       "summary": "KC has not played Returnal, so him and Marty are going to remedy that in preparation for the release of Saros later this month. https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Yahtzee Tries... I Am Jesus Christ and Cursed Words",
@@ -161,29 +172,29 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "Harry Potter and the Culture of AI | The Backdrop",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=0TEvK09XVvY",
-      "published": "2026-04-07T15:00:01+00:00",
-      "summary": "OpenAI has announced the end of Sora, its AI video generation tool, after hemorrhaging money and users. The same week, Warner Bros.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "The good and bad science in the sci-fi blockbuster \"Project Hail Mary\"",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=DEnZX9i7eEo",
+      "published": "2026-04-08T18:00:10+00:00",
+      "summary": "NPR's resident astrophysicist Regina Barber loves sci-fi. And she has thoughts about the good and bad science in the sci-fi blockbuster \"Project Hail Mary.\"",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Esoteric Ebb | Fully Ramblomatic",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=FdoqnDju-hw",
-      "published": "2026-04-08T16:00:24+00:00",
-      "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Esoteric Ebb. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     }
   ],
   "trailers": [
+    {
+      "title": "The Chestnut Man: Hide and Seek | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=e_YztPF304Y",
+      "published": "2026-04-09T07:00:00+00:00",
+      "summary": "When a missing woman is found murdered, Mark Hess and Naia Thulin are reunited once more. Their investigation uncovers a stalker who plays hide and seek with the victims, watching them and taunting them with a nursery rhyme.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
     {
       "title": "Outcome — Keanu Reeves, Cameron Diaz & Matt Bomer Talk First Times | Apple TV",
       "source": "Apple TV",
@@ -191,17 +202,6 @@
       "url": "https://www.youtube.com/watch?v=XNtH5tje51g",
       "published": "2026-04-09T01:59:52+00:00",
       "summary": "Keanu Reeves, Cameron Diaz and Matt Bomer are going back to the beginning. Outcome premieres April 10 on Apple TV https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "David speaking. #ImperfectWomen — Chapter Two Now Streaming",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=l2C1agdjWMY",
-      "published": "2026-04-08T23:59:48+00:00",
-      "summary": "Elisabeth Moss, Kerry Washington & Kate Mara are your Imperfect Women, now streaming on Apple TV https://apple.co/_ImperfectWomen A new series starring Elisabeth Moss, Kerry Washington, and Kate Mara.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
@@ -281,6 +281,6 @@
     "mainCount": 13,
     "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 10
+    "sourceCount": 11
   }
 }

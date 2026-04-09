@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-09T05:00:01.993383Z
+Generated: 2026-04-09T09:00:23.121096Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Middle East crisis live: Red Cross ‘outraged’ as Israeli strikes on Lebanon kill at least 254; strait of Hormuz impasse continues, Hundreds search for wolf that escaped from zoo in South Korea, and George Clooney calls Donald Trump’s ‘a whole civilization will die tonight’ threat to Iran a war crime.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are ‘I’ve not had proper food for days’: migrant workers leave India’s cities as Iran war fuel crisis deepens, Hundreds search for wolf that escaped from zoo in South Korea, and George Clooney calls Donald Trump’s ‘a whole civilization will die tonight’ threat to Iran a war crime.
 
 ## Briefing
 
@@ -18,14 +18,14 @@ Upcoming On Point topic James flagged. Add to Highlights and keep framing carefu
 
 Link: https://www.npr.org/2026/04/03/nx-s1-5770202/lebanon-christians-trapped
 
-### 1. Middle East crisis live: Red Cross ‘outraged’ as Israeli strikes on Lebanon kill at least 254; strait of Hormuz impasse continues [10/10]
+### 1. ‘I’ve not had proper food for days’: migrant workers leave India’s cities as Iran war fuel crisis deepens [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-As Israel attacks on Lebanon continue, Abbas Araghchi points to announcement that says ceasefire includes Lebanon while JD Vance says US never promised that Middle East ceasefire in serious doubt as Israel assaults Lebanon and Iran blocks…
+Gas shortages and rising food prices mean many who came to the capital for work cannot afford to eat.
 
-Link: https://www.theguardian.com/world/live/2026/apr/09/iran-war-ceasefire-live-strait-of-hormuz-israel-strikes-middle-east-crisis-latest-news
+Link: https://www.theguardian.com/global-development/2026/apr/09/delhi-india-gas-energy-crisis-migrant-workers-leave
 
 ### 2. Hundreds search for wolf that escaped from zoo in South Korea [10/10]
 **Source:** The Guardian US  
@@ -41,7 +41,7 @@ Link: https://www.theguardian.com/world/2026/apr/09/wolf-escaped-zoo-daejeon-sou
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-White House says only person committing war crimes is actor ‘for his awful movies and terrible acting ability’ The long-running war of words between the George Clooney and the White House has ignited again after the Oscar-winning actor…
+White House says only person committing war crimes is actor ‘for his awful movies and terrible acting ability’ The long-running war of words between George Clooney and the White House has ignited again after the Oscar-winning actor…
 
 Link: https://www.theguardian.com/film/2026/apr/09/george-clooney-trump-civilisation-will-die-tonight-war-crime-comments
 
@@ -63,7 +63,16 @@ Google's Gemini is getting a feature called "notebooks" to help you organize thi
 
 Link: https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm
 
-### 6. How our digital devices are putting our right to privacy at risk [10/10]
+### 6. LA teen loses eye after being shot by US agent at No Kings march, lawyer says [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+USC student Tucker Collins’s attorney accuses homeland security of ‘overt act of repression’ at Los Angeles protest A freshman at the University of Southern California has lost an eye after he was shot last month with a “less-lethal”…
+
+Link: https://www.theguardian.com/us-news/2026/apr/08/los-angeles-teen-eye-no-kings-march
+
+### 7. How our digital devices are putting our right to privacy at risk [10/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -71,15 +80,6 @@ Link: https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm
 Law professor Andrew Guthrie Ferguson chats with Ars about his new book, Your Data Will Be Used Against You .
 
 Link: https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/
-
-### 7. The Impact Science of Reading Has in Ohio Classrooms, College Campuses [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-The science of reading is being taught in classrooms across Ohio, but the state’s education department stresses it will likely take time to track students’ progress.
-
-Link: https://www.the74million.org/article/the-impact-science-of-reading-has-in-ohio-classrooms-college-campuses/
 
 ### 8. ‘Masquerading as a university’: inside the brazen rightwing plan to conquer American schools [10/10]
 **Source:** The Guardian US  
@@ -90,7 +90,16 @@ As teachers eagerly adopt its free lesson plans and the White House boosts its v
 
 Link: https://www.theguardian.com/education/ng-interactive/2026/apr/08/prageru-university-conservatism
 
-### 9. From the C: to the /Mnt/s, Linux is better than ever for PC gaming – and easier to switch to from Windows [9/10]
+### 9. Public university professors in Texas say a new law restricts their academic freedom [9/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Public universities across Texas have instituted sweeping changes in recent months, from canceling gender studies programs to directing faculty to sign a pledge not to indoctrinate students.
+
+Link: https://www.npr.org/2026/04/08/nx-s1-5561690/public-university-professors-in-texas-say-a-new-law-restricts-their-academic-freedom
+
+### 10. From the C: to the /Mnt/s, Linux is better than ever for PC gaming – and easier to switch to from Windows [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Linux / anti-obsolescence  
 **Why it matters:** Relevant to humane computing, open-source practice, and repairability.
@@ -99,7 +108,7 @@ A few months ago, I did something radical. For radical, picture me skateboarding
 
 Link: https://www.rockpapershotgun.com/from-the-c-to-the-mnts-linux-is-better-than-ever-for-pc-gaming-and-easier-to-switch-to-from-windows
 
-### 10. Forza Horizon 6's full map has finally been revealed, and while Tokyo doesn't engulf half of it, I'm still seeing plenty of appealing asphalt spaghetti [9/10]
+### 11. Forza Horizon 6's full map has finally been revealed, and while Tokyo doesn't engulf half of it, I'm still seeing plenty of appealing asphalt spaghetti [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -107,15 +116,6 @@ Link: https://www.rockpapershotgun.com/from-the-c-to-the-mnts-linux-is-better-th
 Forza Horizon 6 's full map has broken cover, giving folks a chance to stare, gawp, and declare 'damn, those be some roads'.
 
 Link: https://www.rockpapershotgun.com/forza-horizon-6s-full-map-has-finally-been-revealed-and-while-tokyo-doesnt-engulf-half-of-it-im-still-seeing-plenty-of-appealing-asphalt-spaghetti
-
-### 11. Daredevil: Born Again Is Getting Lazy in “Gloves Off” [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Wilson Fisk keeps coming to Matt Murdoch's (metaphorical) house and peeing on the rug. The post Daredevil: Born Again Is Getting Lazy in “Gloves Off” appeared first on Reactor .
-
-Link: https://reactormag.com/tv-review-daredevil-born-again-season-2-episode-4/
 
 ### 12. I Wish I Didn’t Care About 'Marathon' Player Numbers, But I Do [8/10]
 **Source:** 404 Media  
@@ -126,20 +126,29 @@ Marathon is a great game for uncs. As signs of a crash change the video game ind
 
 Link: https://www.404media.co/i-wish-i-didnt-care-about-marathon-player-numbers-but-i-do/
 
-### 13. Teen birth rates hit another historical low in 2025, CDC says [7/10]
+### 13. How to make a high-deductible health plan and HSA work for you [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-The teen birth rate continues its decades-long downward trend. Researchers say many factors are at play, including less sexual activity and more access to contraception and abortion.
+To keep their monthly costs down, many people bought health plans with high deductibles this year. Here are tips for using them.
 
-Link: https://www.npr.org/2026/04/09/nx-s1-5777587/teen-birth-rates-hit-another-historical-low-2025-cdc
+Link: https://www.npr.org/2026/04/09/nx-s1-5745203/how-to-make-a-high-deductible-health-plan-and-hsa-work-for-you
 
 ## YouTube
 
-### Building Up Those Saros Muscles in Returnal w/ KC and Marty -- Part 7 [9/10]
-**Creator:** Second Wind  
+### These blind students say their college blocked their education, but a new rule could help [9/10]
+**Creator:** NPR  
 **Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+These blind students say their college blocked their education. A new rule could help. Miranda Lacy and Harold Rogers became fast friends during their undergraduate years.
+
+Link: https://www.youtube.com/watch?v=LjXdI_H_duY
+
+### Building Up Those Saros Muscles in Returnal w/ KC and Marty -- Part 7 [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 KC has not played Returnal, so him and Marty are going to remedy that in preparation for the release of Saros later this month. https://store.steampowered.
@@ -155,23 +164,14 @@ This week on Yahtzee Tries... Yahtzee and Marty try out I Am Jesus Christ and Cu
 
 Link: https://www.youtube.com/watch?v=sYUxtoF3y3w
 
-### Harry Potter and the Culture of AI | The Backdrop [8/10]
-**Creator:** Second Wind  
+### The good and bad science in the sci-fi blockbuster "Project Hail Mary" [8/10]
+**Creator:** NPR  
 **Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+**Why it matters:** Relevant to your current interest graph.
 
-OpenAI has announced the end of Sora, its AI video generation tool, after hemorrhaging money and users. The same week, Warner Bros.
+NPR's resident astrophysicist Regina Barber loves sci-fi. And she has thoughts about the good and bad science in the sci-fi blockbuster "Project Hail Mary."
 
-Link: https://www.youtube.com/watch?v=0TEvK09XVvY
-
-### Esoteric Ebb | Fully Ramblomatic [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Fully Ramblomatic, Yahtzee reviewed Esoteric Ebb. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
-
-Link: https://www.youtube.com/watch?v=FdoqnDju-hw
+Link: https://www.youtube.com/watch?v=DEnZX9i7eEo
 
 ## Entertainment Recommendations
 
@@ -198,6 +198,15 @@ Link: https://www.youtube.com/watch?v=FdoqnDju-hw
 
 ## Trailers / Previews
 
+### The Chestnut Man: Hide and Seek | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+When a missing woman is found murdered, Mark Hess and Naia Thulin are reunited once more. Their investigation uncovers a stalker who plays hide and seek with the victims, watching them and taunting them with a nursery rhyme.
+
+Link: https://www.youtube.com/watch?v=e_YztPF304Y
+
 ### Outcome — Keanu Reeves, Cameron Diaz & Matt Bomer Talk First Times | Apple TV [9/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
@@ -206,12 +215,3 @@ Link: https://www.youtube.com/watch?v=FdoqnDju-hw
 Keanu Reeves, Cameron Diaz and Matt Bomer are going back to the beginning. Outcome premieres April 10 on Apple TV https://apple.
 
 Link: https://www.youtube.com/watch?v=XNtH5tje51g
-
-### David speaking. #ImperfectWomen — Chapter Two Now Streaming [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Elisabeth Moss, Kerry Washington & Kate Mara are your Imperfect Women, now streaming on Apple TV https://apple.co/_ImperfectWomen A new series starring Elisabeth Moss, Kerry Washington, and Kate Mara.
-
-Link: https://www.youtube.com/watch?v=l2C1agdjWMY
