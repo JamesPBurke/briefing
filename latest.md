@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-09T09:00:23.121096Z
+Generated: 2026-04-09T14:00:01.910504Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are ‘I’ve not had proper food for days’: migrant workers leave India’s cities as Iran war fuel crisis deepens, Hundreds search for wolf that escaped from zoo in South Korea, and George Clooney calls Donald Trump’s ‘a whole civilization will die tonight’ threat to Iran a war crime.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Amazon’s Starlink competitor Leo gets a new date, ‘Am I going to die?’: more women join challenge to Arkansas abortion ban, and Baldur's Gate 3's second act should get a playable new region this year, assuming this custom campaign mod doesn't hit any more roadblocks.
 
 ## Briefing
 
@@ -18,25 +18,61 @@ Upcoming On Point topic James flagged. Add to Highlights and keep framing carefu
 
 Link: https://www.npr.org/2026/04/03/nx-s1-5770202/lebanon-christians-trapped
 
-### 1. ‘I’ve not had proper food for days’: migrant workers leave India’s cities as Iran war fuel crisis deepens [10/10]
-**Source:** The Guardian US  
+### 1. Amazon’s Starlink competitor Leo gets a new date [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Gas shortages and rising food prices mean many who came to the capital for work cannot afford to eat.
+Amazon CEO Andy Jassy says the company's space-internet service Leo (formerly known as Project Kuiper) will "launch in mid-2026.
 
-Link: https://www.theguardian.com/global-development/2026/apr/09/delhi-india-gas-energy-crisis-migrant-workers-leave
+Link: https://www.theverge.com/tech/909122/amazons-starlink-competitor-leo-gets-a-new-date
 
-### 2. Hundreds search for wolf that escaped from zoo in South Korea [10/10]
+### 2. ‘Am I going to die?’: more women join challenge to Arkansas abortion ban [10/10]
 **Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Case argues law violates state constitution’s guarantee to life, liberty, equality and the pursuit of happiness Leitaea Lowrimore had hallmark symptoms of a dangerous ectopic pregnancy in February: vaginal bleeding, sharp pain, low hormone…
+
+Link: https://www.theguardian.com/world/2026/apr/09/arkansas-abortion-ban-challenge
+
+### 3. Baldur's Gate 3's second act should get a playable new region this year, assuming this custom campaign mod doesn't hit any more roadblocks [10/10]
+**Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Local school closes in Daejeon city as hundreds of emergency service and military personnel scour area around O-World theme park where the wolf escaped from Authorities are hunting for a wolf after it escaped from a zoo in Daejeon, a South…
+The world certainly isn't short of ambitious Baldur's Gate 3 custom campaign mods to keep track of, and one looking to substantially expand the base game's second act has shared another progress update.
 
-Link: https://www.theguardian.com/world/2026/apr/09/wolf-escaped-zoo-daejeon-south-korea
+Link: https://www.rockpapershotgun.com/baldurs-gate-3s-second-act-should-get-a-playable-new-region-this-year-assuming-this-custom-campaign-mod-doesnt-hit-any-more-roadblocks
 
-### 3. George Clooney calls Donald Trump’s ‘a whole civilization will die tonight’ threat to Iran a war crime [10/10]
+### 4. Isaac Asimov’s “The Fun They Had”… and the Insight Students Brought to It [10/10]
+**Source:** CSTA  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Isaac Asimov—science fiction pioneer and the writer credited with coining the word “robotics”—first published “The Fun They Had” in 1951....
+
+Link: https://csteachers.org/isaac-asimovs-the-fun-they-had-and-the-insight-students-brought-to-it/
+
+### 5. Ukraine ceasefire back in focus as US security guarantees fade and casualties mount [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Divisions between Washington and European capitals over Iran fuel concerns about US commitment to peace deal As a ceasefire was declared in the Middle East, Volodymyr Zelenskyy sought to draw attention to the war in his own country,…
+
+Link: https://www.theguardian.com/world/2026/apr/09/ukraine-ceasefire-us-security-guarantees-fade-casualties-russia
+
+### 6. Xbox Achievements are getting some major changes, including the option to hide embarrassing games that you don't want to show off [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Xbox is making some major changes to its Achievements, for Xbox Insiders to test out ahead of a wider release.
+
+Link: https://www.eurogamer.net/xbox-is-overhauling-achievements-hide-embarrassing-games
+
+### 7. George Clooney calls Donald Trump’s ‘a whole civilization will die tonight’ threat to Iran a war crime [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -45,34 +81,7 @@ White House says only person committing war crimes is actor ‘for his awful mov
 
 Link: https://www.theguardian.com/film/2026/apr/09/george-clooney-trump-civilisation-will-die-tonight-war-crime-comments
 
-### 4. FBI arrests ex-Fort Bragg employee over alleged classified leak to journalist [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Courtney Williams accused of sharing material with reporter examining deaths and drugs at US military base The FBI has arrested a former military special operations employee accused of providing classified information to the media, the…
-
-Link: https://www.theguardian.com/us-news/2026/apr/08/fbi-arrests-ex-military-employee
-
-### 5. Gemini gets notebooks to help you organize projects [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Google's Gemini is getting a feature called "notebooks" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday.
-
-Link: https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm
-
-### 6. LA teen loses eye after being shot by US agent at No Kings march, lawyer says [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-USC student Tucker Collins’s attorney accuses homeland security of ‘overt act of repression’ at Los Angeles protest A freshman at the University of Southern California has lost an eye after he was shot last month with a “less-lethal”…
-
-Link: https://www.theguardian.com/us-news/2026/apr/08/los-angeles-teen-eye-no-kings-march
-
-### 7. How our digital devices are putting our right to privacy at risk [10/10]
+### 8. How our digital devices are putting our right to privacy at risk [10/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -81,23 +90,14 @@ Law professor Andrew Guthrie Ferguson chats with Ars about his new book, Your Da
 
 Link: https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/
 
-### 8. ‘Masquerading as a university’: inside the brazen rightwing plan to conquer American schools [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 9. OpenAI made economic proposals — here’s what DC thinks of them [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-As teachers eagerly adopt its free lesson plans and the White House boosts its videos, PragerU is intent on one goal: attracting young people to conservatism In the fall of 2013, a silver-haired conservative radio host named Dennis Prager…
+Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics.
 
-Link: https://www.theguardian.com/education/ng-interactive/2026/apr/08/prageru-university-conservatism
-
-### 9. Public university professors in Texas say a new law restricts their academic freedom [9/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Public universities across Texas have instituted sweeping changes in recent months, from canceling gender studies programs to directing faculty to sign a pledge not to indoctrinate students.
-
-Link: https://www.npr.org/2026/04/08/nx-s1-5561690/public-university-professors-in-texas-say-a-new-law-restricts-their-academic-freedom
+Link: https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them
 
 ### 10. From the C: to the /Mnt/s, Linux is better than ever for PC gaming – and easier to switch to from Windows [9/10]
 **Source:** Rock Paper Shotgun  
@@ -108,16 +108,7 @@ A few months ago, I did something radical. For radical, picture me skateboarding
 
 Link: https://www.rockpapershotgun.com/from-the-c-to-the-mnts-linux-is-better-than-ever-for-pc-gaming-and-easier-to-switch-to-from-windows
 
-### 11. Forza Horizon 6's full map has finally been revealed, and while Tokyo doesn't engulf half of it, I'm still seeing plenty of appealing asphalt spaghetti [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Forza Horizon 6 's full map has broken cover, giving folks a chance to stare, gawp, and declare 'damn, those be some roads'.
-
-Link: https://www.rockpapershotgun.com/forza-horizon-6s-full-map-has-finally-been-revealed-and-while-tokyo-doesnt-engulf-half-of-it-im-still-seeing-plenty-of-appealing-asphalt-spaghetti
-
-### 12. I Wish I Didn’t Care About 'Marathon' Player Numbers, But I Do [8/10]
+### 11. I Wish I Didn’t Care About 'Marathon' Player Numbers, But I Do [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -126,14 +117,23 @@ Marathon is a great game for uncs. As signs of a crash change the video game ind
 
 Link: https://www.404media.co/i-wish-i-didnt-care-about-marathon-player-numbers-but-i-do/
 
-### 13. How to make a high-deductible health plan and HSA work for you [7/10]
+### 12. How to make a high-deductible health plan and HSA work for you [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-To keep their monthly costs down, many people bought health plans with high deductibles this year. Here are tips for using them.
+If you chose a cheaper health plan, you may be stuck with some hefty medical bills until you meet your deductible. Here's how to get the most out of your plan and health savings account.
 
-Link: https://www.npr.org/2026/04/09/nx-s1-5745203/how-to-make-a-high-deductible-health-plan-and-hsa-work-for-you
+Link: https://www.npr.org/2026/04/09/nx-s1-5745203/high-deductible-health-plans-hsa-advice
+
+### 13. Daredevil: Born Again Is Getting Lazy in “Gloves Off” [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Wilson Fisk keeps coming to Matt Murdoch's (metaphorical) house and peeing on the rug. The post Daredevil: Born Again Is Getting Lazy in “Gloves Off” appeared first on Reactor .
+
+Link: https://reactormag.com/tv-review-daredevil-born-again-season-2-episode-4/
 
 ## YouTube
 

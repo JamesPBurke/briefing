@@ -1,29 +1,69 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-09T09:00:23.121096Z",
-  "generatedAtDisplay": "2026-04-09 05:00 AM EDT",
+  "generatedAt": "2026-04-09T14:00:01.910504Z",
+  "generatedAtDisplay": "2026-04-09 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are ‘I’ve not had proper food for days’: migrant workers leave India’s cities as Iran war fuel crisis deepens, Hundreds search for wolf that escaped from zoo in South Korea, and George Clooney calls Donald Trump’s ‘a whole civilization will die tonight’ threat to Iran a war crime.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Amazon’s Starlink competitor Leo gets a new date, ‘Am I going to die?’: more women join challenge to Arkansas abortion ban, and Baldur's Gate 3's second act should get a playable new region this year, assuming this custom campaign mod doesn't hit any more roadblocks.",
   "mainItems": [
     {
-      "title": "‘I’ve not had proper food for days’: migrant workers leave India’s cities as Iran war fuel crisis deepens",
-      "source": "The Guardian US",
+      "title": "Amazon’s Starlink competitor Leo gets a new date",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/global-development/2026/apr/09/delhi-india-gas-energy-crisis-migrant-workers-leave",
-      "published": "2026-04-09T08:00:26+00:00",
-      "summary": "Gas shortages and rising food prices mean many who came to the capital for work cannot afford to eat.",
+      "url": "https://www.theverge.com/tech/909122/amazons-starlink-competitor-leo-gets-a-new-date",
+      "published": "2026-04-09T13:55:47+00:00",
+      "summary": "Amazon CEO Andy Jassy says the company's space-internet service Leo (formerly known as Project Kuiper) will \"launch in mid-2026.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Hundreds search for wolf that escaped from zoo in South Korea",
+      "title": "‘Am I going to die?’: more women join challenge to Arkansas abortion ban",
       "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/apr/09/arkansas-abortion-ban-challenge",
+      "published": "2026-04-09T13:00:50+00:00",
+      "summary": "Case argues law violates state constitution’s guarantee to life, liberty, equality and the pursuit of happiness Leitaea Lowrimore had hallmark symptoms of a dangerous ectopic pregnancy in February: vaginal bleeding, sharp pain, low hormone…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Baldur's Gate 3's second act should get a playable new region this year, assuming this custom campaign mod doesn't hit any more roadblocks",
+      "source": "Rock Paper Shotgun",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/apr/09/wolf-escaped-zoo-daejeon-south-korea",
-      "published": "2026-04-09T04:26:07+00:00",
-      "summary": "Local school closes in Daejeon city as hundreds of emergency service and military personnel scour area around O-World theme park where the wolf escaped from Authorities are hunting for a wolf after it escaped from a zoo in Daejeon, a South…",
+      "url": "https://www.rockpapershotgun.com/baldurs-gate-3s-second-act-should-get-a-playable-new-region-this-year-assuming-this-custom-campaign-mod-doesnt-hit-any-more-roadblocks",
+      "published": "2026-04-09T11:34:48+00:00",
+      "summary": "The world certainly isn't short of ambitious Baldur's Gate 3 custom campaign mods to keep track of, and one looking to substantially expand the base game's second act has shared another progress update.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Isaac Asimov’s “The Fun They Had”… and the Insight Students Brought to It",
+      "source": "CSTA",
+      "category": "Education / pedagogy",
+      "url": "https://csteachers.org/isaac-asimovs-the-fun-they-had-and-the-insight-students-brought-to-it/",
+      "published": "2026-04-09T11:00:00+00:00",
+      "summary": "Isaac Asimov—science fiction pioneer and the writer credited with coining the word “robotics”—first published “The Fun They Had” in 1951....",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Ukraine ceasefire back in focus as US security guarantees fade and casualties mount",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/apr/09/ukraine-ceasefire-us-security-guarantees-fade-casualties-russia",
+      "published": "2026-04-09T10:55:45+00:00",
+      "summary": "Divisions between Washington and European capitals over Iran fuel concerns about US commitment to peace deal As a ceasefire was declared in the Middle East, Volodymyr Zelenskyy sought to draw attention to the war in his own country,…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Xbox Achievements are getting some major changes, including the option to hide embarrassing games that you don't want to show off",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/xbox-is-overhauling-achievements-hide-embarrassing-games",
+      "published": "2026-04-09T10:05:33+00:00",
+      "summary": "Xbox is making some major changes to its Achievements, for Xbox Insiders to test out ahead of a wider release.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -33,36 +73,6 @@
       "url": "https://www.theguardian.com/film/2026/apr/09/george-clooney-trump-civilisation-will-die-tonight-war-crime-comments",
       "published": "2026-04-09T04:12:43+00:00",
       "summary": "White House says only person committing war crimes is actor ‘for his awful movies and terrible acting ability’ The long-running war of words between George Clooney and the White House has ignited again after the Oscar-winning actor…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "FBI arrests ex-Fort Bragg employee over alleged classified leak to journalist",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/08/fbi-arrests-ex-military-employee",
-      "published": "2026-04-09T02:02:14+00:00",
-      "summary": "Courtney Williams accused of sharing material with reporter examining deaths and drugs at US military base The FBI has arrested a former military special operations employee accused of providing classified information to the media, the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Gemini gets notebooks to help you organize projects",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
-      "published": "2026-04-09T00:06:12+00:00",
-      "summary": "Google's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "LA teen loses eye after being shot by US agent at No Kings march, lawyer says",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/apr/08/los-angeles-teen-eye-no-kings-march",
-      "published": "2026-04-08T23:21:04+00:00",
-      "summary": "USC student Tucker Collins’s attorney accuses homeland security of ‘overt act of repression’ at Los Angeles protest A freshman at the University of Southern California has lost an eye after he was shot last month with a “less-lethal”…",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
@@ -77,23 +87,13 @@
       "score": 10
     },
     {
-      "title": "‘Masquerading as a university’: inside the brazen rightwing plan to conquer American schools",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/education/ng-interactive/2026/apr/08/prageru-university-conservatism",
-      "published": "2026-04-08T12:00:31+00:00",
-      "summary": "As teachers eagerly adopt its free lesson plans and the White House boosts its videos, PragerU is intent on one goal: attracting young people to conservatism In the fall of 2013, a silver-haired conservative radio host named Dennis Prager…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Public university professors in Texas say a new law restricts their academic freedom",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/04/08/nx-s1-5561690/public-university-professors-in-texas-say-a-new-law-restricts-their-academic-freedom",
-      "published": "2026-04-08T22:16:48+00:00",
-      "summary": "Public universities across Texas have instituted sweeping changes in recent months, from canceling gender studies programs to directing faculty to sign a pledge not to indoctrinate students.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "OpenAI made economic proposals — here’s what DC thinks of them",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+      "published": "2026-04-09T12:44:09+00:00",
+      "summary": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
@@ -104,16 +104,6 @@
       "published": "2026-04-08T16:17:15+00:00",
       "summary": "A few months ago, I did something radical. For radical, picture me skateboarding ungainly while installing Linux - or, to be more precise CachyOS - on my PC. Windows 11 had just been bugging me too much.",
       "whyItMatters": "Relevant to humane computing, open-source practice, and repairability.",
-      "score": 9
-    },
-    {
-      "title": "Forza Horizon 6's full map has finally been revealed, and while Tokyo doesn't engulf half of it, I'm still seeing plenty of appealing asphalt spaghetti",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/forza-horizon-6s-full-map-has-finally-been-revealed-and-while-tokyo-doesnt-engulf-half-of-it-im-still-seeing-plenty-of-appealing-asphalt-spaghetti",
-      "published": "2026-04-08T11:32:22+00:00",
-      "summary": "Forza Horizon 6 's full map has broken cover, giving folks a chance to stare, gawp, and declare 'damn, those be some roads'.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -130,10 +120,20 @@
       "title": "How to make a high-deductible health plan and HSA work for you",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/09/nx-s1-5745203/how-to-make-a-high-deductible-health-plan-and-hsa-work-for-you",
-      "published": "2026-04-09T08:46:23+00:00",
-      "summary": "To keep their monthly costs down, many people bought health plans with high deductibles this year. Here are tips for using them.",
+      "url": "https://www.npr.org/2026/04/09/nx-s1-5745203/high-deductible-health-plans-hsa-advice",
+      "published": "2026-04-09T09:00:00+00:00",
+      "summary": "If you chose a cheaper health plan, you may be stuck with some hefty medical bills until you meet your deductible. Here's how to get the most out of your plan and health savings account.",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
+    },
+    {
+      "title": "Daredevil: Born Again Is Getting Lazy in “Gloves Off”",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/tv-review-daredevil-born-again-season-2-episode-4/",
+      "published": "2026-04-08T19:19:55+00:00",
+      "summary": "Wilson Fisk keeps coming to Matt Murdoch's (metaphorical) house and peeing on the rug. The post Daredevil: Born Again Is Getting Lazy in “Gloves Off” appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 7
     }
   ],
@@ -281,6 +281,6 @@
     "mainCount": 13,
     "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 11
+    "sourceCount": 13
   }
 }
