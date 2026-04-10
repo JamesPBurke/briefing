@@ -1,19 +1,69 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-10T14:00:01.531675Z",
-  "generatedAtDisplay": "2026-04-10 10:00 AM EDT",
+  "generatedAt": "2026-04-10T18:00:20.482774Z",
+  "generatedAtDisplay": "2026-04-10 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Science / health. The strongest items in this run are Epstein survivors criticise Melania Trump after surprise statement – US politics live, 'How are you using AI?' Your therapist should ask you that question, experts argue, and Trump Administration Rescinds Agreements to Protect Transgender Students.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, CS education / AI policy. The strongest items in this run are Amazon Luna axes third-party game purchases, Kamala Harris says she’s ‘thinking about’ running for president again in 2028, and OpenAI CEO Sam Altman’s home targeted with molotov cocktail.",
   "mainItems": [
     {
-      "title": "Epstein survivors criticise Melania Trump after surprise statement – US politics live",
+      "title": "Amazon Luna axes third-party game purchases",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions",
+      "published": "2026-04-10T17:36:07+00:00",
+      "summary": "Amazon Luna announced a big change on Friday that will prevent players from purchasing third-party games and subscriptions.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Kamala Harris says she’s ‘thinking about’ running for president again in 2028",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/live/2026/apr/10/donald-trump-melania-jeffrey-epstein-iran-inflation-latest-news-updates",
-      "published": "2026-04-10T13:49:05+00:00",
-      "summary": "First lady had called for a public hearing for survivors but a group of those affected say they have ‘done their part’ and reiterate calls for Pam Bondi to be questioned Sign up for the Breaking News US email to get newsletter alerts in…",
+      "url": "https://www.theguardian.com/us-news/2026/apr/10/kamala-harris-run-president-2028-election",
+      "published": "2026-04-10T17:21:46+00:00",
+      "summary": "Former vice-president spoke before a crowd at Al Sharpton’s National Action Network gathering in New York US politics live – latest updates Sign up for the Breaking News US newsletter email Kamala Harris said she is “thinking about”…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI CEO Sam Altman’s home targeted with molotov cocktail",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/technology/2026/apr/10/sam-altman-home-molotov-cocktail",
+      "published": "2026-04-10T17:15:51+00:00",
+      "summary": "Suspect arrested but not identified and has allegedly made similar threats to OpenAI’s San Francisco headquarters A person tossed a molotov cocktail at the home of Sam Altman , OpenAI ’s CEO, before the sun rose on Friday, according to…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Trump’s war and Melania’s Epstein statement, with US editor Betsy Reed – The Latest",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/news/video/2026/apr/10/trumps-war-melania-and-epstein-with-us-editor-betsy-reed-the-latest",
+      "published": "2026-04-10T16:51:55+00:00",
+      "summary": "Melania Trump made a surprise appearance at the White House on Thursday to announce that she ‘never had a relationship’ with the late child sex offender Jeffrey Epstein and his accomplice Ghislaine Maxwell.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Pilot Program Provides Early Childhood Educators with Rent-Free Business Spaces",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/zero2eight/pilot-program-provides-early-childhood-educators-with-rent-free-business-spaces/",
+      "published": "2026-04-10T16:30:00+00:00",
+      "summary": "After struggling for months to sustain her child care business at home, Minerva Caba Toribio thought she would have to close due to rent increases and high costs.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "These Texans Disagree on Vouchers’ Ability to Help Black Students",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/these-texans-disagree-on-vouchers-ability-to-help-black-students/",
+      "published": "2026-04-10T14:30:00+00:00",
+      "summary": "Editor’s note: This post contains an image that includes a racial effigy.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -27,16 +77,6 @@
       "score": 10
     },
     {
-      "title": "Trump Administration Rescinds Agreements to Protect Transgender Students",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/trump-administration-rescinds-agreements-to-protect-transgender-students/",
-      "published": "2026-04-10T12:30:00+00:00",
-      "summary": "Sacramento City Unified and La Mesa-Spring Valley school districts and Taft College in California are among six educational institutions in the U.S. that had civil rights settlements terminated by the U.S.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
       "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
       "source": "MIT Technology Review",
       "category": "AI / computing",
@@ -44,36 +84,6 @@
       "published": "2026-04-10T12:10:00+00:00",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Pete Hegseth’s holy war: the militant Christian theology animating the US attack on Iran",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/10/pete-hegseth-christianity-iran-war-crusade",
-      "published": "2026-04-10T12:00:18+00:00",
-      "summary": "The Bible-thumping US defense secretary is overseeing another strategic disaster in the Middle East.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Canadian mother held by ICE with daughter, 7, speaks out on families ‘suffering greatly’ in detention",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/10/ice-canadian-mother-daughter-texas",
-      "published": "2026-04-10T11:00:17+00:00",
-      "summary": "Tania Warner and her daughter were detained in Texas facilities deemed ‘unsafe and degrading’ When Tania Warner and her seven-year-old daughter, Ayla, were released after nearly three weeks of detention by US Immigration and Customs…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Opinion: What a Hallway Sprint Taught Me About Chronic Absenteeism",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/what-a-hallway-sprint-taught-me-about-chronic-absenteeism/",
-      "published": "2026-04-10T10:30:00+00:00",
-      "summary": "There’s a rule every elementary school principal enforces without a second thought: no running in the halls. Once a month at Impact Puget Sound Elementary, I break it on purpose. We call it Hallway Holler.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
@@ -87,37 +97,37 @@
       "score": 10
     },
     {
-      "title": "‘Illegal’ forest service overhaul risks causing ‘chaos’ across US public lands, union claims",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/10/us-forest-service-restructure-union",
-      "published": "2026-04-10T10:00:16+00:00",
-      "summary": "The restructuring will close all regional offices, which manages 193m acres of land, roughly the size of Texas Sign up for the Breaking News US email to get newsletter alerts in your inbox US public lands will “pay the price” of a drive by…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Pete Hegseth is a disaster of a defense secretary. It’s no surprise | Margaret Sullivan",
-      "source": "The Guardian US",
+      "title": "Yale’s Summer Storage Wars",
+      "source": "The Nation",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/10/pete-hegseth-defense-secretary",
-      "published": "2026-04-10T10:00:15+00:00",
-      "summary": "The former Fox host has misled the public, prayed for violence and clashed with the press. This is not a serious military leader With his jawline firm and his hair coiffed, Pete Hegseth was a good fit as a Fox News personality.",
+      "url": "https://www.thenation.com/article/society/yale-storage-first-gen-low-income-reimbursement/",
+      "published": "2026-04-10T09:00:00+00:00",
+      "summary": "Zachary Clifton Yale just cut summer storage reimbursements for first-gen and low-income students. The university has a $44 billion endowment. What it chooses to budget for says everything.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "The Punisher: One Last Kill Trailer Shows Frank Castle Having a Pretty Bad Time",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/the-punisher-one-last-kill-trailer/",
-      "published": "2026-04-09T17:04:46+00:00",
-      "summary": "THIS one's the last one. No, THIS one's the last one. No ... The post The Punisher: One Last Kill Trailer Shows Frank Castle Having a Pretty Bad Time appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "title": "Behind the Blog: Smoking the Whole Carton",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/behind-the-blog-smoking-the-whole-carton/",
+      "published": "2026-04-10T16:07:51+00:00",
+      "summary": "This week, we discuss gun violence and chatbots and acceptance of depravity.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Nations tried to impose a digital fog of war in Iran. The results are mixed",
+      "title": "Apple TV’s The Husbands Casts Some Great Husbands for Juno Temple",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/apple-tv-adaptation-the-husbands-cast/",
+      "published": "2026-04-10T16:29:20+00:00",
+      "summary": "Apple TV's adaptation of the Holly Gramazio book has found its supporting men The post Apple TV’s The Husbands Casts Some Great Husbands for Juno Temple appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 7
+    },
+    {
+      "title": "How governments have tried to hide information about the Iran war online",
       "source": "NPR Tech",
       "category": "Science / computing",
       "url": "https://www.npr.org/2026/04/10/nx-s1-5775780/us-iran-war-israel-satellite-imagery-planet-vantor-censorship",
@@ -125,143 +135,14 @@
       "summary": "Governments are blocking the internet, banning social media posts and cutting access to commercial satellite images. But experts say that efforts to censor information have had mixed results.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 7
-    },
-    {
-      "title": "World’s Largest Group of Chimps Waging Deadly ‘Civil War,’ Scientists Discover",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/worlds-largest-group-of-chimps-waging-deadly-civil-war-scientists-discover/",
-      "published": "2026-04-09T18:00:46+00:00",
-      "summary": "At least 24 chimpanzees have been killed in a war that has split the Ngogo group of wild chimpanzees in two, turning former kin into enemies.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     }
   ],
-  "youtube": [
-    {
-      "title": "What’s next after Iran truce / Hormuz status / Israel and Lebanon",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=_ZT43tyWK84",
-      "published": "2026-04-09T21:23:00+00:00",
-      "summary": "At the 11th-hour, with President Trump’s self-imposed deadline looming, the United States and Iran entered into a truce.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "The Triple-i Initiative Indie Showcase Watchalong",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=brgKOLiUxfw",
-      "published": "2026-04-09T17:13:50+00:00",
-      "summary": "Come hang out as we watch 45 minutes of game trailers and reveals during the Triple-i Initiative Indie Showcase. If you like watching us spoof and goof through games, considering supporting us on Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Which Home Coffee Machines Earn Their Price Tags? | Focus Group | WIRED",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=DwHcc-cfGq8",
-      "published": "2026-04-09T16:00:06+00:00",
-      "summary": "The Fellow Aiden Precision Coffee Maker, the Zojirushi Zutto 5-Cup Drip Coffeemaker, the OXO Brew 9-Cup Coffee Maker, the Moccamaster KBGV Select Coffee Maker and the Mr. Coffee Perfect Brew.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "The High (and Low) Points of Nintendo, PlayStation, and Xbox | Firelink Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=xwyI2PrKoL8",
-      "published": "2026-04-10T01:36:42+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "Widow's Bay — Official Teaser Trailer (The Sea Hag) | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=VcpYPxKeGAc",
-      "published": "2026-04-09T19:59:47+00:00",
-      "summary": "Have you heard the story of the Sea Hag? Widow's Bay premieres April 29 on Apple TV https://apple.co/_WidowsBay A new series starring Matthew Rhys from creator Katie Dippold and director Hiro Murai.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tyson Fury and Arslanbek Makhmudov FACE OFF",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=6-mMkVBIMQE",
-      "published": "2026-04-09T19:38:23+00:00",
-      "summary": "Tyson Fury and Arslanbek Makhmudov FACE OFF. TYSON FURY vs.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
-    "new": [
-      {
-        "title": "Scavengers Reign",
-        "why": "Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF."
-      },
-      {
-        "title": "Sugar",
-        "why": "Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap."
-      },
-      {
-        "title": "The Lazarus Project",
-        "why": "Time-loop espionage, moral pressure, and speculative plotting — very plausible fit."
-      },
-      {
-        "title": "Bodies",
-        "why": "Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling."
-      }
-    ],
-    "older": [
-      {
-        "title": "Counterpart",
-        "why": "Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence."
-      },
-      {
-        "title": "Patriot",
-        "why": "Dry, strange, melancholy spy storytelling with a very distinct voice."
-      },
-      {
-        "title": "Utopia",
-        "why": "Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly."
-      },
-      {
-        "title": "Rubicon",
-        "why": "A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere."
-      }
-    ],
-    "shared": [
-      {
-        "title": "Bad Sisters",
-        "why": "Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy."
-      },
-      {
-        "title": "Detectorists",
-        "why": "Gentle, funny, humane, and specific — a softer shared-watch possibility."
-      },
-      {
-        "title": "Astrid et Raphaëlle",
-        "why": "French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you."
-      },
-      {
-        "title": "Somebody Somewhere",
-        "why": "A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work."
-      }
-    ]
+    "new": [],
+    "older": [],
+    "shared": []
   },
   "highlights": [
     {
@@ -279,8 +160,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 4,
-    "trailerCount": 2,
-    "sourceCount": 13
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 10
   }
 }
