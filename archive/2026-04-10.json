@@ -1,29 +1,29 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-10T05:00:02.250167Z",
-  "generatedAtDisplay": "2026-04-10 01:00 AM EDT",
+  "generatedAt": "2026-04-10T09:00:26.160656Z",
+  "generatedAtDisplay": "2026-04-10 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Trump news at a glance: Melania Trump’s weird disavowal of Epstein is getting weirder, ‘We can’t lose’: all eyes on potential 2028 Democratic contenders at big party gathering for this year’s midterms, and Florida launches investigation into OpenAI.",
+  "summary": "Today's sweep leans toward Democracy / anti-fascism, AI / computing, Democracy / press freedom. The strongest items in this run are US summoned bank bosses to discuss cyber risks posed by Anthropic’s latest AI model, Trump posts graphic video of woman’s killing in Florida, and Florida launches investigation into OpenAI.",
   "mainItems": [
     {
-      "title": "Trump news at a glance: Melania Trump’s weird disavowal of Epstein is getting weirder",
+      "title": "US summoned bank bosses to discuss cyber risks posed by Anthropic’s latest AI model",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/trump-news-at-a-glance-latest-updates-today",
-      "published": "2026-04-10T00:53:38+00:00",
-      "summary": "It was unclear which specific accusations spurred the first lady to respond publicly – key US politics stories from Thursday 9 April at a glance Melania Trump stood at a podium in the same room Donald Trump used to address the nation on…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model",
+      "published": "2026-04-10T08:16:02+00:00",
+      "summary": "Reports say Fed chair Jerome Powell among attenders at meeting in Washington The US Treasury secretary, Scott Bessent, summoned major American bank chiefs to a meeting in Washington this week amid concerns over the cyber risks posed by…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "‘We can’t lose’: all eyes on potential 2028 Democratic contenders at big party gathering for this year’s midterms",
+      "title": "Trump posts graphic video of woman’s killing in Florida",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/democrats-national-action-cetwork-convention-2026-midterms",
-      "published": "2026-04-09T23:02:20+00:00",
-      "summary": "Leading party figures gather at the National Action Network convention in New York to strategize for midterm elections Sign up for the Breaking News US email to get newsletter alerts in your inbox Some of the Democratic party ’s most…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/apr/10/trump-graphic-video-florida-woman-killing",
+      "published": "2026-04-10T04:51:50+00:00",
+      "summary": "President’s post on Truth Social is in keeping with a pattern of using shocking video to sow fear about immigration and justify mass deportation Besieged by questions about his war on Iran and his wife’s statement on Jeffrey Epstein,…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
@@ -37,26 +37,6 @@
       "score": 10
     },
     {
-      "title": "California files felony charges against 21 people in alleged $267m hospice fraud scheme",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/california-felony-charges-hospice-scheme",
-      "published": "2026-04-09T21:51:23+00:00",
-      "summary": "Suspects allegedly bought 14 hospice companies and used stolen identities to fraudulently bill state health plan Sign up for the Breaking News US email to get newsletter alerts in your inbox California authorities have filed felony charges…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Netflix’s TV games get a big boost with Jackbox collection",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/streaming/909415/netflix-games-jackbox-party-essentials",
-      "published": "2026-04-09T18:25:22+00:00",
-      "summary": "Netflix's party-focused lineup of TV games just got three excellent new additions: Jackbox's Drawful 2, Fibbage 4, and Quiplash 3, available as the Jackbox Party Essentials pack on the platform.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
       "title": "Malcolm in the Middle: Life’s Still Unfair review – the TV magic they’ve created here is absolutely miraculous",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
@@ -64,6 +44,26 @@
       "published": "2026-04-10T04:00:08+00:00",
       "summary": "This revival does the impossible: it’s effortlessly funny and refreshing, and Bryan Cranston’s performance is unmissable. They have to make more At this point, Bryan Cranston is firmly entrenched as one of the world’s finest actors.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Cuban president tells NBC he won’t resign under US pressure, as Russia backs old ally",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/apr/10/cuban-president-tells-nbc-he-wont-resign-under-us-pressure-as-russia-backs-old-ally",
+      "published": "2026-04-10T02:47:23+00:00",
+      "summary": "In his first television interview with an American broadcaster, Miguel Diaz-Canel says revolutionaries don’t give up and step down The Cuban president, Miguel Diaz-Canel, said he would not resign under US pressure in his first television…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Trump news at a glance: Melania Trump’s weird disavowal of Epstein is getting weirder",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/09/trump-news-at-a-glance-latest-updates-today",
+      "published": "2026-04-10T00:53:38+00:00",
+      "summary": "It was unclear which specific accusations spurred the first lady to respond publicly – key US politics stories from Thursday 9 April at a glance Melania Trump stood at a podium in the same room Donald Trump used to address the nation on…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
@@ -97,12 +97,12 @@
       "score": 9
     },
     {
-      "title": "Read an Excerpt From Make Me Better by Sarah Gailey",
+      "title": "The Punisher: One Last Kill Trailer Shows Frank Castle Having a Pretty Bad Time",
       "source": "Reactor",
       "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/excerpts-make-me-better-by-sarah-gailey/",
-      "published": "2026-04-09T19:00:00+00:00",
-      "summary": "An eerily seductive look at the desire for community connection and self-improvement—and the darkest places inside us all… The post Read an Excerpt From Make Me Better by Sarah Gailey appeared first on Reactor .",
+      "url": "https://reactormag.com/the-punisher-one-last-kill-trailer/",
+      "published": "2026-04-09T17:04:46+00:00",
+      "summary": "THIS one's the last one. No, THIS one's the last one. No ... The post The Punisher: One Last Kill Trailer Shows Frank Castle Having a Pretty Bad Time appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     },
@@ -137,8 +137,64 @@
       "score": 7
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "What’s next after Iran truce / Hormuz status / Israel and Lebanon",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=_ZT43tyWK84",
+      "published": "2026-04-09T21:23:00+00:00",
+      "summary": "At the 11th-hour, with President Trump’s self-imposed deadline looming, the United States and Iran entered into a truce.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "The Triple-i Initiative Indie Showcase Watchalong",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=brgKOLiUxfw",
+      "published": "2026-04-09T17:13:50+00:00",
+      "summary": "Come hang out as we watch 45 minutes of game trailers and reveals during the Triple-i Initiative Indie Showcase. If you like watching us spoof and goof through games, considering supporting us on Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Which Home Coffee Machines Earn Their Price Tags? | Focus Group | WIRED",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=DwHcc-cfGq8",
+      "published": "2026-04-09T16:00:06+00:00",
+      "summary": "The Fellow Aiden Precision Coffee Maker, the Zojirushi Zutto 5-Cup Drip Coffeemaker, the OXO Brew 9-Cup Coffee Maker, the Moccamaster KBGV Select Coffee Maker and the Mr. Coffee Perfect Brew.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "The High (and Low) Points of Nintendo, PlayStation, and Xbox | Firelink Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=xwyI2PrKoL8",
+      "published": "2026-04-10T01:36:42+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    }
+  ],
   "trailers": [
+    {
+      "title": "Widow's Bay — Official Teaser Trailer (The Sea Hag) | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=VcpYPxKeGAc",
+      "published": "2026-04-09T19:59:47+00:00",
+      "summary": "Have you heard the story of the Sea Hag? Widow's Bay premieres April 29 on Apple TV https://apple.co/_WidowsBay A new series starring Matthew Rhys from creator Katie Dippold and director Hiro Murai.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
     {
       "title": "Tyson Fury and Arslanbek Makhmudov FACE OFF",
       "source": "Netflix",
@@ -146,17 +202,6 @@
       "url": "https://www.youtube.com/watch?v=6-mMkVBIMQE",
       "published": "2026-04-09T19:38:23+00:00",
       "summary": "Tyson Fury and Arslanbek Makhmudov FACE OFF. TYSON FURY vs.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Legends | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=VL1wuCh8IV4",
-      "published": "2026-04-09T13:00:00+00:00",
-      "summary": "To win the war on drugs, a group of everyday customs officers, untrained in espionage, were sent undercover into some of Britain’s most dangerous gangs. Inspired by an incredible true story.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
@@ -234,8 +279,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
+    "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 9
+    "sourceCount": 13
   }
 }

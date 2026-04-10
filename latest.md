@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-10T05:00:02.250167Z
+Generated: 2026-04-10T09:00:26.160656Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Trump news at a glance: Melania Trump’s weird disavowal of Epstein is getting weirder, ‘We can’t lose’: all eyes on potential 2028 Democratic contenders at big party gathering for this year’s midterms, and Florida launches investigation into OpenAI.
+Today's sweep leans toward Democracy / anti-fascism, AI / computing, Democracy / press freedom. The strongest items in this run are US summoned bank bosses to discuss cyber risks posed by Anthropic’s latest AI model, Trump posts graphic video of woman’s killing in Florida, and Florida launches investigation into OpenAI.
 
 ## Briefing
 
@@ -18,23 +18,23 @@ Upcoming On Point topic James flagged. Add to Highlights and keep framing carefu
 
 Link: https://www.npr.org/2026/04/03/nx-s1-5770202/lebanon-christians-trapped
 
-### 1. Trump news at a glance: Melania Trump’s weird disavowal of Epstein is getting weirder [10/10]
+### 1. US summoned bank bosses to discuss cyber risks posed by Anthropic’s latest AI model [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-It was unclear which specific accusations spurred the first lady to respond publicly – key US politics stories from Thursday 9 April at a glance Melania Trump stood at a podium in the same room Donald Trump used to address the nation on…
+Reports say Fed chair Jerome Powell among attenders at meeting in Washington The US Treasury secretary, Scott Bessent, summoned major American bank chiefs to a meeting in Washington this week amid concerns over the cyber risks posed by…
 
-Link: https://www.theguardian.com/us-news/2026/apr/09/trump-news-at-a-glance-latest-updates-today
+Link: https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model
 
-### 2. ‘We can’t lose’: all eyes on potential 2028 Democratic contenders at big party gathering for this year’s midterms [10/10]
+### 2. Trump posts graphic video of woman’s killing in Florida [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Leading party figures gather at the National Action Network convention in New York to strategize for midterm elections Sign up for the Breaking News US email to get newsletter alerts in your inbox Some of the Democratic party ’s most…
+President’s post on Truth Social is in keeping with a pattern of using shocking video to sow fear about immigration and justify mass deportation Besieged by questions about his war on Iran and his wife’s statement on Jeffrey Epstein,…
 
-Link: https://www.theguardian.com/us-news/2026/apr/09/democrats-national-action-cetwork-convention-2026-midterms
+Link: https://www.theguardian.com/us-news/2026/apr/10/trump-graphic-video-florida-woman-killing
 
 ### 3. Florida launches investigation into OpenAI [10/10]
 **Source:** The Verge  
@@ -45,25 +45,7 @@ Florida Attorney General James Uthmeier is launching an investigation into OpenA
 
 Link: https://www.theverge.com/policy/909557/openai-florida-investigation
 
-### 4. California files felony charges against 21 people in alleged $267m hospice fraud scheme [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Suspects allegedly bought 14 hospice companies and used stolen identities to fraudulently bill state health plan Sign up for the Breaking News US email to get newsletter alerts in your inbox California authorities have filed felony charges…
-
-Link: https://www.theguardian.com/us-news/2026/apr/09/california-felony-charges-hospice-scheme
-
-### 5. Netflix’s TV games get a big boost with Jackbox collection [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Netflix's party-focused lineup of TV games just got three excellent new additions: Jackbox's Drawful 2, Fibbage 4, and Quiplash 3, available as the Jackbox Party Essentials pack on the platform.
-
-Link: https://www.theverge.com/streaming/909415/netflix-games-jackbox-party-essentials
-
-### 6. Malcolm in the Middle: Life’s Still Unfair review – the TV magic they’ve created here is absolutely miraculous [9/10]
+### 4. Malcolm in the Middle: Life’s Still Unfair review – the TV magic they’ve created here is absolutely miraculous [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -71,6 +53,24 @@ Link: https://www.theverge.com/streaming/909415/netflix-games-jackbox-party-esse
 This revival does the impossible: it’s effortlessly funny and refreshing, and Bryan Cranston’s performance is unmissable. They have to make more At this point, Bryan Cranston is firmly entrenched as one of the world’s finest actors.
 
 Link: https://www.theguardian.com/tv-and-radio/2026/apr/10/malcolm-in-the-middle-lifes-still-unfair-review-disney-plus
+
+### 5. Cuban president tells NBC he won’t resign under US pressure, as Russia backs old ally [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+In his first television interview with an American broadcaster, Miguel Diaz-Canel says revolutionaries don’t give up and step down The Cuban president, Miguel Diaz-Canel, said he would not resign under US pressure in his first television…
+
+Link: https://www.theguardian.com/world/2026/apr/10/cuban-president-tells-nbc-he-wont-resign-under-us-pressure-as-russia-backs-old-ally
+
+### 6. Trump news at a glance: Melania Trump’s weird disavowal of Epstein is getting weirder [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+It was unclear which specific accusations spurred the first lady to respond publicly – key US politics stories from Thursday 9 April at a glance Melania Trump stood at a podium in the same room Donald Trump used to address the nation on…
+
+Link: https://www.theguardian.com/us-news/2026/apr/09/trump-news-at-a-glance-latest-updates-today
 
 ### 7. The EFF is quitting X [9/10]
 **Source:** The Verge  
@@ -99,14 +99,14 @@ I've really dug Funselektor's minimalistic and relaxed vibe-heavy arcade racers 
 
 Link: https://www.rockpapershotgun.com/over-the-hill-looks-like-snowrunners-cosy-off-roading-cousin-and-its-new-trailer-shows-off-muddy-motoring-in-algeria-ahead-of-release-later-this-year
 
-### 10. Read an Excerpt From Make Me Better by Sarah Gailey [8/10]
+### 10. The Punisher: One Last Kill Trailer Shows Frank Castle Having a Pretty Bad Time [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-An eerily seductive look at the desire for community connection and self-improvement—and the darkest places inside us all… The post Read an Excerpt From Make Me Better by Sarah Gailey appeared first on Reactor .
+THIS one's the last one. No, THIS one's the last one. No ... The post The Punisher: One Last Kill Trailer Shows Frank Castle Having a Pretty Bad Time appeared first on Reactor .
 
-Link: https://reactormag.com/excerpts-make-me-better-by-sarah-gailey/
+Link: https://reactormag.com/the-punisher-one-last-kill-trailer/
 
 ### 11. This doctor turned a 31-foot RV into one of the country's only mobile OB-GYN clinics [8/10]
 **Source:** NPR Health  
@@ -137,7 +137,41 @@ Link: https://www.kingarthurbaking.com/blog/2026/04/09/open-crumb-focaccia
 
 ## YouTube
 
-_No YouTube picks in this briefing._
+### What’s next after Iran truce / Hormuz status / Israel and Lebanon [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+At the 11th-hour, with President Trump’s self-imposed deadline looming, the United States and Iran entered into a truce.
+
+Link: https://www.youtube.com/watch?v=_ZT43tyWK84
+
+### The Triple-i Initiative Indie Showcase Watchalong [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Come hang out as we watch 45 minutes of game trailers and reveals during the Triple-i Initiative Indie Showcase. If you like watching us spoof and goof through games, considering supporting us on Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=brgKOLiUxfw
+
+### Which Home Coffee Machines Earn Their Price Tags? | Focus Group | WIRED [9/10]
+**Creator:** WIRED  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+The Fellow Aiden Precision Coffee Maker, the Zojirushi Zutto 5-Cup Drip Coffeemaker, the OXO Brew 9-Cup Coffee Maker, the Moccamaster KBGV Select Coffee Maker and the Mr. Coffee Perfect Brew.
+
+Link: https://www.youtube.com/watch?v=DwHcc-cfGq8
+
+### The High (and Low) Points of Nintendo, PlayStation, and Xbox | Firelink Podcast [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
+
+Link: https://www.youtube.com/watch?v=xwyI2PrKoL8
 
 ## Entertainment Recommendations
 
@@ -164,6 +198,15 @@ _No YouTube picks in this briefing._
 
 ## Trailers / Previews
 
+### Widow's Bay — Official Teaser Trailer (The Sea Hag) | Apple TV [9/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Have you heard the story of the Sea Hag? Widow's Bay premieres April 29 on Apple TV https://apple.co/_WidowsBay A new series starring Matthew Rhys from creator Katie Dippold and director Hiro Murai.
+
+Link: https://www.youtube.com/watch?v=VcpYPxKeGAc
+
 ### Tyson Fury and Arslanbek Makhmudov FACE OFF [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -172,12 +215,3 @@ _No YouTube picks in this briefing._
 Tyson Fury and Arslanbek Makhmudov FACE OFF. TYSON FURY vs.
 
 Link: https://www.youtube.com/watch?v=6-mMkVBIMQE
-
-### Legends | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-To win the war on drugs, a group of everyday customs officers, untrained in espionage, were sent undercover into some of Britain’s most dangerous gangs. Inspired by an incredible true story.
-
-Link: https://www.youtube.com/watch?v=VL1wuCh8IV4
