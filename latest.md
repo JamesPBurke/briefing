@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-11T05:00:01.727969Z
+Generated: 2026-04-11T09:00:26.894538Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are American Classic review – I defy you not to fall in love with Kevin Kline and Laura Linney’s tender comedy, Survivors of Epstein’s abuse accuse Melania Trump of ‘shifting burden’ on to victims, and Now the FAA says gamers are the answer to its air traffic controller shortage.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are I swapped England for Seoul after watching a Korean teen drama – and found myself cast in a K-pop video, Blind date: ‘She claimed she was usually shy. I wouldn’t have guessed’, and ‘I got everything I dreamed of - when I had no ability to handle it’: Lena Dunham on toxic fame, broken friendships and her ‘lost decade’.
 
 ## Briefing
 
@@ -18,25 +18,34 @@ Upcoming On Point topic James flagged. Add to Highlights and keep framing carefu
 
 Link: https://www.npr.org/2026/04/03/nx-s1-5770202/lebanon-christians-trapped
 
-### 1. American Classic review – I defy you not to fall in love with Kevin Kline and Laura Linney’s tender comedy [10/10]
+### 1. I swapped England for Seoul after watching a Korean teen drama – and found myself cast in a K-pop video [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-There are hints of Ted Lasso and Schitt’s Creek in this delightful series in which an unexpected death triggers all manner of fun and games.
+I was on the verge of failing Mandarin, when a last-second pivot caused me to utterly fall in love with Korean culture, and send me in a totally new direction The first time I discovered South Korea was during a Mandarin homework mishap in…
 
-Link: https://www.theguardian.com/tv-and-radio/2026/apr/11/american-classic-review-kevin-kline-laura-linney-comedy
+Link: https://www.theguardian.com/culture/2026/apr/11/a-teen-k-drama-led-to-a-new-life-in-seoul-south-korea
 
-### 2. Survivors of Epstein’s abuse accuse Melania Trump of ‘shifting burden’ on to victims [10/10]
+### 2. Blind date: ‘She claimed she was usually shy. I wouldn’t have guessed’ [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Outrage from survivors follows first lady’s statement calling on Congress to hold public hearings with victims of Epstein’s abuse Sign up for the Breaking News US email to get newsletter alerts in your inbox More than a dozen survivors of…
+Jack, 31, a nature consultant, meets Heather, 23, who works in marketing for a homelessness charity What were you hoping for? A nice evening, to meet someone new and see what type of person I would be matched up with. Continue reading...
 
-Link: https://www.theguardian.com/us-news/2026/apr/10/epstein-survivors-melania-trump-reaction
+Link: https://www.theguardian.com/lifeandstyle/2026/apr/11/blind-date-jack-heather
 
-### 3. Now the FAA says gamers are the answer to its air traffic controller shortage [10/10]
+### 3. ‘I got everything I dreamed of - when I had no ability to handle it’: Lena Dunham on toxic fame, broken friendships and her ‘lost decade’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Stardom came fast and hard for the wunderkind who created the hit HBO series Girls aged just 23.
+
+Link: https://www.theguardian.com/culture/2026/apr/11/lena-dunham-interview-memoir-famesick-rehab-fame-broken-friendships
+
+### 4. Now the FAA says gamers are the answer to its air traffic controller shortage [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -45,7 +54,7 @@ The Federal Aviation Administration (FAA) has struggled for years to have enough
 
 Link: https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage
 
-### 4. 20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house [10/10]
+### 5. 20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -54,7 +63,7 @@ San Francisco police have arrested a 20-year-old man suspected of throwing a Mol
 
 Link: https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail
 
-### 5. Amazon Luna axes third-party game purchases [10/10]
+### 6. Amazon Luna axes third-party game purchases [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -63,16 +72,25 @@ Amazon Luna announced a big change on Friday that will prevent players from purc
 
 Link: https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions
 
-### 6. Microsoft's "commitment to Windows quality" starts with overhaul of beta program [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 7. What we've been playing - "I do not have three thumbs, Nintendo" [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Windows Insider builds remain confusing, but they should be more predictable.
+Hello and welcome back to our regular feature where we write a little about the games we've been playing.
 
-Link: https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features/
+Link: https://www.eurogamer.net/what-weve-been-playing-three-thumbs-nintendo
 
-### 7. Pilot Program Provides Early Childhood Educators with Rent-Free Business Spaces [9/10]
+### 8. Netflix Quietly Debuts India’s Remake of Thai Killer Croc Horror Movie ‘The Pool’ [9/10]
+**Source:** Bloody Disgusting  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Shark thriller Thrash isn’t the only aquatic creature feature arriving on Netflix today; the streamer has also unleashed India’s remake of the Thai killer croc movie The Pool.
+
+Link: https://bloody-disgusting.com/movie/3945671/netflix-quietly-debuts-remake-of-killer-croc-horror-movie-the-pool/
+
+### 9. Pilot Program Provides Early Childhood Educators with Rent-Free Business Spaces [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -81,7 +99,7 @@ After struggling for months to sustain her child care business at home, Minerva 
 
 Link: https://www.the74million.org/zero2eight/pilot-program-provides-early-childhood-educators-with-rent-free-business-spaces/
 
-### 8. These Texans Disagree on Vouchers’ Ability to Help Black Students [9/10]
+### 10. These Texans Disagree on Vouchers’ Ability to Help Black Students [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -90,7 +108,7 @@ Editor’s note: This post contains an image that includes a racial effigy.
 
 Link: https://www.the74million.org/article/these-texans-disagree-on-vouchers-ability-to-help-black-students/
 
-### 9. 'How are you using AI?' Your therapist should ask you that question, experts argue [9/10]
+### 11. 'How are you using AI?' Your therapist should ask you that question, experts argue [9/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -99,16 +117,16 @@ A paper in JAMA Psychiatry says mental health providers should ask if patients a
 
 Link: https://www.npr.org/2026/04/10/nx-s1-5780796/artificial-intelligence-ai-mental-health-chatgpt-jama-psychiatry
 
-### 10. "This is not a game that is about to face some sort of imminent shutdown" - Marathon reportedly had a budget of $200m, and while player numbers are dipping, team morale remains good [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 12. The Download: an exclusive Jeff VanderMeer story and AI models too scary to release [9/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Marathon reportedly had a development budget of over $200m, and likely over $250m, not including ongoing development costs post-launch on game maintenance and new updates. Read more
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
 
-Link: https://www.eurogamer.net/marathon-budget-over-200-million-dollars-likely-250-million
+Link: https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/
 
-### 11. Behind the Blog: Smoking the Whole Carton [8/10]
+### 13. Behind the Blog: Smoking the Whole Carton [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -117,34 +135,7 @@ This week, we discuss gun violence and chatbots and acceptance of depravity.
 
 Link: https://www.404media.co/behind-the-blog-smoking-the-whole-carton/
 
-### 12. Tales From the Crypt Will Finally Start Streaming on Shudder in May [7/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-It's not clear how they did it, but Shudder has finally revived the long-lost piece of horror history The post Tales From the Crypt Will Finally Start Streaming on Shudder in May appeared first on Reactor .
-
-Link: https://reactormag.com/shudder-episodes-tales-from-the-crypt-streaming/
-
-### 13. How governments have tried to hide information about the Iran war online [7/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Governments are blocking the internet, banning social media posts and cutting access to commercial satellite images. But experts say that efforts to censor information have had mixed results.
-
-Link: https://www.npr.org/2026/04/10/nx-s1-5775780/us-iran-war-israel-satellite-imagery-planet-vantor-censorship
-
 ## YouTube
-
-### Pam Bondi's testimony over the DOJ's handling of the Epstein files postponed [9/10]
-**Creator:** NPR  
-**Verdict:** Watch it  
-**Why it matters:** Relevant to your current interest graph.
-
-The House Oversight Committee says the deposition of former U.S. Attorney General Pam Bondi has been postponed. The panel planned to discuss her role in overseeing the release of the Epstein files.
-
-Link: https://www.youtube.com/watch?v=EygZ8RXlfAU
 
 ### Melania Trump denies close ties to Jeffrey Epstein [8/10]
 **Creator:** NPR  
@@ -164,14 +155,23 @@ The Committee to Protect Journalists says Israeli airstrikes have killed three j
 
 Link: https://www.youtube.com/watch?v=plSOXlMkOk4
 
-### RM Can Drive... [8/10]
-**Creator:** WIRED  
+### Pam Bondi's testimony over the DOJ's handling of the Epstein files postponed [8/10]
+**Creator:** NPR  
 **Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-...but he can't park 🙈 Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.com/wired-ytc-desc Want more WIRED? Get the magazine ►► https://subscribe.wired.
+The House Oversight Committee says the deposition of former U.S. Attorney General Pam Bondi has been postponed. The panel planned to discuss her role in overseeing the release of the Epstein files.
 
-Link: https://www.youtube.com/watch?v=K3iEz0zW5io
+Link: https://www.youtube.com/watch?v=EygZ8RXlfAU
+
+### Crimson Desert Highlights How Weird It Is to Review Games Now | Unpacked [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Games criticism in 2026 is in a weird spot when reviews can be out of date within a few weeks of a game releasing because of how quickly updates arrive. Support us on Patreon: https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=dQ6jhBGxX78
 
 ## Entertainment Recommendations
 

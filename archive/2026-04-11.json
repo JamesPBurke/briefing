@@ -1,28 +1,38 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-11T05:00:01.727969Z",
-  "generatedAtDisplay": "2026-04-11 01:00 AM EDT",
+  "generatedAt": "2026-04-11T09:00:26.894538Z",
+  "generatedAtDisplay": "2026-04-11 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are American Classic review – I defy you not to fall in love with Kevin Kline and Laura Linney’s tender comedy, Survivors of Epstein’s abuse accuse Melania Trump of ‘shifting burden’ on to victims, and Now the FAA says gamers are the answer to its air traffic controller shortage.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are I swapped England for Seoul after watching a Korean teen drama – and found myself cast in a K-pop video, Blind date: ‘She claimed she was usually shy. I wouldn’t have guessed’, and ‘I got everything I dreamed of - when I had no ability to handle it’: Lena Dunham on toxic fame, broken friendships and her ‘lost decade’.",
   "mainItems": [
     {
-      "title": "American Classic review – I defy you not to fall in love with Kevin Kline and Laura Linney’s tender comedy",
+      "title": "I swapped England for Seoul after watching a Korean teen drama – and found myself cast in a K-pop video",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/11/american-classic-review-kevin-kline-laura-linney-comedy",
-      "published": "2026-04-11T04:00:38+00:00",
-      "summary": "There are hints of Ted Lasso and Schitt’s Creek in this delightful series in which an unexpected death triggers all manner of fun and games.",
+      "url": "https://www.theguardian.com/culture/2026/apr/11/a-teen-k-drama-led-to-a-new-life-in-seoul-south-korea",
+      "published": "2026-04-11T06:00:40+00:00",
+      "summary": "I was on the verge of failing Mandarin, when a last-second pivot caused me to utterly fall in love with Korean culture, and send me in a totally new direction The first time I discovered South Korea was during a Mandarin homework mishap in…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Survivors of Epstein’s abuse accuse Melania Trump of ‘shifting burden’ on to victims",
+      "title": "Blind date: ‘She claimed she was usually shy. I wouldn’t have guessed’",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/10/epstein-survivors-melania-trump-reaction",
-      "published": "2026-04-10T23:01:03+00:00",
-      "summary": "Outrage from survivors follows first lady’s statement calling on Congress to hold public hearings with victims of Epstein’s abuse Sign up for the Breaking News US email to get newsletter alerts in your inbox More than a dozen survivors of…",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/11/blind-date-jack-heather",
+      "published": "2026-04-11T05:00:40+00:00",
+      "summary": "Jack, 31, a nature consultant, meets Heather, 23, who works in marketing for a homelessness charity What were you hoping for? A nice evening, to meet someone new and see what type of person I would be matched up with. Continue reading...",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘I got everything I dreamed of - when I had no ability to handle it’: Lena Dunham on toxic fame, broken friendships and her ‘lost decade’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/culture/2026/apr/11/lena-dunham-interview-memoir-famesick-rehab-fame-broken-friendships",
+      "published": "2026-04-11T05:00:39+00:00",
+      "summary": "Stardom came fast and hard for the wunderkind who created the hit HBO series Girls aged just 23.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -57,13 +67,23 @@
       "score": 10
     },
     {
-      "title": "Microsoft's \"commitment to Windows quality\" starts with overhaul of beta program",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features/",
-      "published": "2026-04-10T18:00:44+00:00",
-      "summary": "Windows Insider builds remain confusing, but they should be more predictable.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "What we've been playing - \"I do not have three thumbs, Nintendo\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-three-thumbs-nintendo",
+      "published": "2026-04-11T07:00:00+00:00",
+      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Netflix Quietly Debuts India’s Remake of Thai Killer Croc Horror Movie ‘The Pool’",
+      "source": "Bloody Disgusting",
+      "category": "Sci-fi / horror",
+      "url": "https://bloody-disgusting.com/movie/3945671/netflix-quietly-debuts-remake-of-killer-croc-horror-movie-the-pool/",
+      "published": "2026-04-10T21:28:48+00:00",
+      "summary": "Shark thriller Thrash isn’t the only aquatic creature feature arriving on Netflix today; the streamer has also unleashed India’s remake of the Thai killer croc movie The Pool.",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 9
     },
     {
@@ -97,13 +117,13 @@
       "score": 9
     },
     {
-      "title": "\"This is not a game that is about to face some sort of imminent shutdown\" - Marathon reportedly had a budget of $200m, and while player numbers are dipping, team morale remains good",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/marathon-budget-over-200-million-dollars-likely-250-million",
-      "published": "2026-04-10T10:00:35+00:00",
-      "summary": "Marathon reportedly had a development budget of over $200m, and likely over $250m, not including ongoing development costs post-launch on game maintenance and new updates. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
+      "published": "2026-04-10T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
@@ -115,40 +135,9 @@
       "summary": "This week, we discuss gun violence and chatbots and acceptance of depravity.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "Tales From the Crypt Will Finally Start Streaming on Shudder in May",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/shudder-episodes-tales-from-the-crypt-streaming/",
-      "published": "2026-04-10T19:26:55+00:00",
-      "summary": "It's not clear how they did it, but Shudder has finally revived the long-lost piece of horror history The post Tales From the Crypt Will Finally Start Streaming on Shudder in May appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 7
-    },
-    {
-      "title": "How governments have tried to hide information about the Iran war online",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/04/10/nx-s1-5775780/us-iran-war-israel-satellite-imagery-planet-vantor-censorship",
-      "published": "2026-04-10T09:00:00+00:00",
-      "summary": "Governments are blocking the internet, banning social media posts and cutting access to commercial satellite images. But experts say that efforts to censor information have had mixed results.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7
     }
   ],
   "youtube": [
-    {
-      "title": "Pam Bondi's testimony over the DOJ's handling of the Epstein files postponed",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=EygZ8RXlfAU",
-      "published": "2026-04-10T19:30:06+00:00",
-      "summary": "The House Oversight Committee says the deposition of former U.S. Attorney General Pam Bondi has been postponed. The panel planned to discuss her role in overseeing the release of the Epstein files.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
     {
       "title": "Melania Trump denies close ties to Jeffrey Epstein",
       "source": "NPR",
@@ -172,13 +161,24 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "RM Can Drive...",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=K3iEz0zW5io",
-      "published": "2026-04-10T18:30:02+00:00",
-      "summary": "...but he can't park 🙈 Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.com/wired-ytc-desc Want more WIRED? Get the magazine ►► https://subscribe.wired.",
+      "title": "Pam Bondi's testimony over the DOJ's handling of the Epstein files postponed",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=EygZ8RXlfAU",
+      "published": "2026-04-10T19:30:06+00:00",
+      "summary": "The House Oversight Committee says the deposition of former U.S. Attorney General Pam Bondi has been postponed. The panel planned to discuss her role in overseeing the release of the Epstein files.",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Crimson Desert Highlights How Weird It Is to Review Games Now | Unpacked",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=dQ6jhBGxX78",
+      "published": "2026-04-10T15:01:14+00:00",
+      "summary": "Games criticism in 2026 is in a weird spot when reviews can be out of date within a few weeks of a game releasing because of how quickly updates arrive. Support us on Patreon: https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
     }
@@ -281,6 +281,6 @@
     "mainCount": 13,
     "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 13
+    "sourceCount": 12
   }
 }
