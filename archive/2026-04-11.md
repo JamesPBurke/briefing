@@ -1,217 +1,124 @@
 # James Daily Briefing
 
-Generated: 2026-04-11T09:00:26.894538Z
+Generated: 2026-04-11T18:00:35.068229Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are I swapped England for Seoul after watching a Korean teen drama – and found myself cast in a K-pop video, Blind date: ‘She claimed she was usually shy. I wouldn’t have guessed’, and ‘I got everything I dreamed of - when I had no ability to handle it’: Lena Dunham on toxic fame, broken friendships and her ‘lost decade’.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are GTA 6 dev Rockstar have seemingly been hacked again, but they don't seem all that worried, Epic set to release Arc Raiders-like extraction shooter with Disney characters by the end of the year, and Your article about AI doesn’t need AI art.
 
 ## Briefing
 
-## Highlighted stories
+### 1. GTA 6 dev Rockstar have seemingly been hacked again, but they don't seem all that worried [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-### Building AI bots becomes the latest viral craze in China
-Highlight this story for later listening.
+It appears that GTA 6 developer Rockstar have been subjected to yet another hack. Earlier today, The Cybersec Guru shared a report that a hacker group by the name of ShinyHunters had added Rockstar Games to its dark web leak site.
 
-Link: https://www.npr.org/2026/04/07/nx-s1-5763826/building-ai-bots-becomes-the-latest-viral-craze-in-china
+Link: https://www.rockpapershotgun.com/gta-6-dev-rockstar-have-seemingly-been-hacked-again-but-they-dont-seem-all-that-worried
 
-### 'Not our war' say Christians under siege this Easter, as Israel invades south Lebanon
-Upcoming On Point topic James flagged. Add to Highlights and keep framing careful around Israeli pressure on Christian and Druze communities and the displacement of Shiite residents.
-
-Link: https://www.npr.org/2026/04/03/nx-s1-5770202/lebanon-christians-trapped
-
-### 1. I swapped England for Seoul after watching a Korean teen drama – and found myself cast in a K-pop video [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-I was on the verge of failing Mandarin, when a last-second pivot caused me to utterly fall in love with Korean culture, and send me in a totally new direction The first time I discovered South Korea was during a Mandarin homework mishap in…
-
-Link: https://www.theguardian.com/culture/2026/apr/11/a-teen-k-drama-led-to-a-new-life-in-seoul-south-korea
-
-### 2. Blind date: ‘She claimed she was usually shy. I wouldn’t have guessed’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Jack, 31, a nature consultant, meets Heather, 23, who works in marketing for a homelessness charity What were you hoping for? A nice evening, to meet someone new and see what type of person I would be matched up with. Continue reading...
-
-Link: https://www.theguardian.com/lifeandstyle/2026/apr/11/blind-date-jack-heather
-
-### 3. ‘I got everything I dreamed of - when I had no ability to handle it’: Lena Dunham on toxic fame, broken friendships and her ‘lost decade’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Stardom came fast and hard for the wunderkind who created the hit HBO series Girls aged just 23.
-
-Link: https://www.theguardian.com/culture/2026/apr/11/lena-dunham-interview-memoir-famesick-rehab-fame-broken-friendships
-
-### 4. Now the FAA says gamers are the answer to its air traffic controller shortage [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The Federal Aviation Administration (FAA) has struggled for years to have enough air traffic controllers to address shortages, with the US Government Accountability Office (GAO) saying in January that the number of people in the job in the…
-
-Link: https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage
-
-### 5. 20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail
-
-### 6. Amazon Luna axes third-party game purchases [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Amazon Luna announced a big change on Friday that will prevent players from purchasing third-party games and subscriptions.
-
-Link: https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions
-
-### 7. What we've been playing - "I do not have three thumbs, Nintendo" [9/10]
+### 2. Epic set to release Arc Raiders-like extraction shooter with Disney characters by the end of the year [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Hello and welcome back to our regular feature where we write a little about the games we've been playing.
+Epic Games will allegedly release an Arc Raiders -like shooter later this year. Read more
 
-Link: https://www.eurogamer.net/what-weve-been-playing-three-thumbs-nintendo
+Link: https://www.eurogamer.net/epic-set-to-release-arc-raiders-like-extraction-shooter-with-disney-characters-by-the-end-of-the-year
 
-### 8. Netflix Quietly Debuts India’s Remake of Thai Killer Croc Horror Movie ‘The Pool’ [9/10]
-**Source:** Bloody Disgusting  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+### 3. Your article about AI doesn’t need AI art [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Shark thriller Thrash isn’t the only aquatic creature feature arriving on Netflix today; the streamer has also unleashed India’s remake of the Thai killer croc movie The Pool.
+The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression.
 
-Link: https://bloody-disgusting.com/movie/3945671/netflix-quietly-debuts-remake-of-killer-croc-horror-movie-the-pool/
+Link: https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai
 
-### 9. Pilot Program Provides Early Childhood Educators with Rent-Free Business Spaces [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 4. Louisiana Republicans move to eliminate court office won by exonerated man [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-After struggling for months to sustain her child care business at home, Minerva Caba Toribio thought she would have to close due to rent increases and high costs.
+After Calvin Duncan served 28 years for a murder he didn’t commit, he won an election to serve as criminal court clerk.
 
-Link: https://www.the74million.org/zero2eight/pilot-program-provides-early-childhood-educators-with-rent-free-business-spaces/
+Link: https://www.theguardian.com/us-news/2026/apr/11/calvin-duncan-new-orleans-criminal-court
 
-### 10. These Texans Disagree on Vouchers’ Ability to Help Black Students [9/10]
+### 5. Amazon shakes up Luna streaming service, removing access to individual games, third-party subscriptions, and its "Bring Your Own Library" feature [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Amazon has announced wholesale changes to its streaming cloud service Luna, giving just two months' notice that games and third-party subscriptions purchased before 10th April will be removed from players' libraries by 10th June, 2026.
+
+Link: https://www.eurogamer.net/amazon-shakes-up-luna-streaming-service-removing-access-to-individual-games-third-party-subscriptions-and-its-bring-your-own-library-feature
+
+### 6. ‘It has your name on it, but I don’t think it’s you’: how AI is impersonating musicians on Spotify [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Fraudulent music streams have long been a scourge for the industry, but experts say generative AI has supercharged it Jason Moran, a renowned jazz composer and pianist, got a strange call from a friend last month.
+
+Link: https://www.theguardian.com/technology/2026/apr/11/ai-impersonating-musicians-spotify
+
+### 7. US officials claim Iran unable to find mines it laid in strait of Hormuz, report says [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Iran dropped explosives in the waterway erratically and may not have marked where it put all of them, US suggests Middle East crisis – live updates Iran is unable to find the mines it laid in the strait of Hormuz and does not have the…
+
+Link: https://www.theguardian.com/world/2026/apr/11/iran-us-strait-of-hormuz-mines
+
+### 8. The Cost of ICE Raids: Fewer Students, Less Money, Missing Parents [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Editor’s note: This post contains an image that includes a racial effigy.
+School (in)Security is our biweekly briefing on the latest school safety news. Subscribe here. Two recent stories by reporters here at The 74 demonstrate the ongoing ripple effects of the Trump administration’s massive deportation campaign.
 
-Link: https://www.the74million.org/article/these-texans-disagree-on-vouchers-ability-to-help-black-students/
+Link: https://www.the74million.org/article/the-cost-of-ice-raids-fewer-students-less-money-missing-parents/
 
-### 11. 'How are you using AI?' Your therapist should ask you that question, experts argue [9/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
+### 9. How AI is getting better at finding security holes [10/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-A paper in JAMA Psychiatry says mental health providers should ask if patients are using artificial intelligence chatbots, just as they would ask patients about sleep habits and substance use.
+Anthropic announced this week that its new model found security flaws in "every major operating system and web browser." Even before the news, AI models had gotten dramatically better at finding bugs.
 
-Link: https://www.npr.org/2026/04/10/nx-s1-5780796/artificial-intelligence-ai-mental-health-chatgpt-jama-psychiatry
+Link: https://www.npr.org/2026/04/11/nx-s1-5778508/anthropic-project-glasswing-ai-cybersecurity-mythos-preview
 
-### 12. The Download: an exclusive Jeff VanderMeer story and AI models too scary to release [9/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 10. ‘Casual without being sloppy’: why flannel shirts are making a comeback [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+From catwalk versions to online vintage finds, the workwear staple is being recast as a marker of laidback cool In many wardrobes, the thick, checked shirt is usually found among the gardening clothes, or it might be worn as an extra layer…
 
-Link: https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/
+Link: https://www.theguardian.com/fashion/2026/apr/11/casual-without-being-sloppy-why-flannel-shirts-are-making-a-comeback
 
-### 13. Behind the Blog: Smoking the Whole Carton [8/10]
+### 11. Missouri Child Care Subsidy Cuts Could Hit Foster Kids, Low-Income Families Hardest [7/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Every child who starts at Lemay Child and Family Center in St. Louis County receives a developmental screening during their first month of attendance.
+
+Link: https://www.the74million.org/zero2eight/missouri-child-care-subsidy-cuts-could-hit-foster-kids-low-income-families-hardest/
+
+### 12. The Oldest Octopus Fossil Ever Isn’t An Octopus At All, Scientists Discover [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-This week, we discuss gun violence and chatbots and acceptance of depravity.
+A re-examination of a 300-million-year-old fossil that was long thought to be the earliest octopus revealed that the animal was actually part of the nautilus family.
 
-Link: https://www.404media.co/behind-the-blog-smoking-the-whole-carton/
+Link: https://www.404media.co/the-oldest-octopus-fossil-ever-isnt-an-octopus-at-all-scientists-discover/
 
-## YouTube
+### 13. Tales From the Crypt Will Finally Start Streaming on Shudder in May [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-### Melania Trump denies close ties to Jeffrey Epstein [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
+It's not clear how they did it, but Shudder has finally revived the long-lost piece of horror history The post Tales From the Crypt Will Finally Start Streaming on Shudder in May appeared first on Reactor .
 
-First lady Melania Trump gave a surprise statement Thursday denying any connection to Jeffrey Epstein.
-
-Link: https://www.youtube.com/watch?v=W3pCW8UU8cc
-
-### Israeli airstrikes kill 3 more journalists in Lebanon and Gaza [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The Committee to Protect Journalists says Israeli airstrikes have killed three journalists in Lebanon and Gaza. One of the journalists in Lebanon worked for a Hezbollah-affiliated news outlet, while another reported for Al Jazeera in Gaza.
-
-Link: https://www.youtube.com/watch?v=plSOXlMkOk4
-
-### Pam Bondi's testimony over the DOJ's handling of the Epstein files postponed [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The House Oversight Committee says the deposition of former U.S. Attorney General Pam Bondi has been postponed. The panel planned to discuss her role in overseeing the release of the Epstein files.
-
-Link: https://www.youtube.com/watch?v=EygZ8RXlfAU
-
-### Crimson Desert Highlights How Weird It Is to Review Games Now | Unpacked [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Games criticism in 2026 is in a weird spot when reviews can be out of date within a few weeks of a game releasing because of how quickly updates arrive. Support us on Patreon: https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=dQ6jhBGxX78
-
-## Entertainment Recommendations
-
-### Newer shows that look like a fit
-
-- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
-- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
-- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
-- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
-
-### Older shows you may have missed
-
-- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
-- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
-- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
-- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
-
-### Maggie + James overlap
-
-- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
-- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
-- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
-- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
-
-## Trailers / Previews
-
-### Widow's Bay — Official Teaser Trailer (The Sea Hag) | Apple TV [8/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Have you heard the story of the Sea Hag? Widow's Bay premieres April 29 on Apple TV https://apple.co/_WidowsBay A new series starring Matthew Rhys from creator Katie Dippold and director Hiro Murai.
-
-Link: https://www.youtube.com/watch?v=VcpYPxKeGAc
-
-### Tyson Fury and Arslanbek Makhmudov FACE OFF [8/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Tyson Fury and Arslanbek Makhmudov FACE OFF. TYSON FURY vs.
-
-Link: https://www.youtube.com/watch?v=6-mMkVBIMQE
+Link: https://reactormag.com/shudder-episodes-tales-from-the-crypt-streaming/

@@ -1,286 +1,154 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-11T09:00:26.894538Z",
-  "generatedAtDisplay": "2026-04-11 05:00 AM EDT",
+  "generatedAt": "2026-04-11T18:00:35.068229Z",
+  "generatedAtDisplay": "2026-04-11 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are I swapped England for Seoul after watching a Korean teen drama – and found myself cast in a K-pop video, Blind date: ‘She claimed she was usually shy. I wouldn’t have guessed’, and ‘I got everything I dreamed of - when I had no ability to handle it’: Lena Dunham on toxic fame, broken friendships and her ‘lost decade’.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are GTA 6 dev Rockstar have seemingly been hacked again, but they don't seem all that worried, Epic set to release Arc Raiders-like extraction shooter with Disney characters by the end of the year, and Your article about AI doesn’t need AI art.",
   "mainItems": [
     {
-      "title": "I swapped England for Seoul after watching a Korean teen drama – and found myself cast in a K-pop video",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/culture/2026/apr/11/a-teen-k-drama-led-to-a-new-life-in-seoul-south-korea",
-      "published": "2026-04-11T06:00:40+00:00",
-      "summary": "I was on the verge of failing Mandarin, when a last-second pivot caused me to utterly fall in love with Korean culture, and send me in a totally new direction The first time I discovered South Korea was during a Mandarin homework mishap in…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "GTA 6 dev Rockstar have seemingly been hacked again, but they don't seem all that worried",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/gta-6-dev-rockstar-have-seemingly-been-hacked-again-but-they-dont-seem-all-that-worried",
+      "published": "2026-04-11T17:57:43+00:00",
+      "summary": "It appears that GTA 6 developer Rockstar have been subjected to yet another hack. Earlier today, The Cybersec Guru shared a report that a hacker group by the name of ShinyHunters had added Rockstar Games to its dark web leak site.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Blind date: ‘She claimed she was usually shy. I wouldn’t have guessed’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/11/blind-date-jack-heather",
-      "published": "2026-04-11T05:00:40+00:00",
-      "summary": "Jack, 31, a nature consultant, meets Heather, 23, who works in marketing for a homelessness charity What were you hoping for? A nice evening, to meet someone new and see what type of person I would be matched up with. Continue reading...",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘I got everything I dreamed of - when I had no ability to handle it’: Lena Dunham on toxic fame, broken friendships and her ‘lost decade’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/culture/2026/apr/11/lena-dunham-interview-memoir-famesick-rehab-fame-broken-friendships",
-      "published": "2026-04-11T05:00:39+00:00",
-      "summary": "Stardom came fast and hard for the wunderkind who created the hit HBO series Girls aged just 23.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Now the FAA says gamers are the answer to its air traffic controller shortage",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage",
-      "published": "2026-04-10T20:50:51+00:00",
-      "summary": "The Federal Aviation Administration (FAA) has struggled for years to have enough air traffic controllers to address shortages, with the US Government Accountability Office (GAO) saying in January that the number of people in the job in the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
-      "published": "2026-04-10T20:16:57+00:00",
-      "summary": "San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Amazon Luna axes third-party game purchases",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions",
-      "published": "2026-04-10T18:39:59+00:00",
-      "summary": "Amazon Luna announced a big change on Friday that will prevent players from purchasing third-party games and subscriptions.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "What we've been playing - \"I do not have three thumbs, Nintendo\"",
+      "title": "Epic set to release Arc Raiders-like extraction shooter with Disney characters by the end of the year",
       "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-three-thumbs-nintendo",
-      "published": "2026-04-11T07:00:00+00:00",
-      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing.",
+      "url": "https://www.eurogamer.net/epic-set-to-release-arc-raiders-like-extraction-shooter-with-disney-characters-by-the-end-of-the-year",
+      "published": "2026-04-11T17:24:37+00:00",
+      "summary": "Epic Games will allegedly release an Arc Raiders -like shooter later this year. Read more",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
+      "score": 10
     },
     {
-      "title": "Netflix Quietly Debuts India’s Remake of Thai Killer Croc Horror Movie ‘The Pool’",
-      "source": "Bloody Disgusting",
-      "category": "Sci-fi / horror",
-      "url": "https://bloody-disgusting.com/movie/3945671/netflix-quietly-debuts-remake-of-killer-croc-horror-movie-the-pool/",
-      "published": "2026-04-10T21:28:48+00:00",
-      "summary": "Shark thriller Thrash isn’t the only aquatic creature feature arriving on Netflix today; the streamer has also unleashed India’s remake of the Thai killer croc movie The Pool.",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 9
+      "title": "Your article about AI doesn’t need AI art",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+      "published": "2026-04-11T16:09:21+00:00",
+      "summary": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
     },
     {
-      "title": "Pilot Program Provides Early Childhood Educators with Rent-Free Business Spaces",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/zero2eight/pilot-program-provides-early-childhood-educators-with-rent-free-business-spaces/",
-      "published": "2026-04-10T16:30:00+00:00",
-      "summary": "After struggling for months to sustain her child care business at home, Minerva Caba Toribio thought she would have to close due to rent increases and high costs.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
+      "title": "Louisiana Republicans move to eliminate court office won by exonerated man",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/11/calvin-duncan-new-orleans-criminal-court",
+      "published": "2026-04-11T15:42:29+00:00",
+      "summary": "After Calvin Duncan served 28 years for a murder he didn’t commit, he won an election to serve as criminal court clerk.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
     },
     {
-      "title": "These Texans Disagree on Vouchers’ Ability to Help Black Students",
+      "title": "Amazon shakes up Luna streaming service, removing access to individual games, third-party subscriptions, and its \"Bring Your Own Library\" feature",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/amazon-shakes-up-luna-streaming-service-removing-access-to-individual-games-third-party-subscriptions-and-its-bring-your-own-library-feature",
+      "published": "2026-04-11T15:01:20+00:00",
+      "summary": "Amazon has announced wholesale changes to its streaming cloud service Luna, giving just two months' notice that games and third-party subscriptions purchased before 10th April will be removed from players' libraries by 10th June, 2026.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘It has your name on it, but I don’t think it’s you’: how AI is impersonating musicians on Spotify",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/technology/2026/apr/11/ai-impersonating-musicians-spotify",
+      "published": "2026-04-11T12:00:48+00:00",
+      "summary": "Fraudulent music streams have long been a scourge for the industry, but experts say generative AI has supercharged it Jason Moran, a renowned jazz composer and pianist, got a strange call from a friend last month.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "US officials claim Iran unable to find mines it laid in strait of Hormuz, report says",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/apr/11/iran-us-strait-of-hormuz-mines",
+      "published": "2026-04-11T11:54:10+00:00",
+      "summary": "Iran dropped explosives in the waterway erratically and may not have marked where it put all of them, US suggests Middle East crisis – live updates Iran is unable to find the mines it laid in the strait of Hormuz and does not have the…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The Cost of ICE Raids: Fewer Students, Less Money, Missing Parents",
       "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/these-texans-disagree-on-vouchers-ability-to-help-black-students/",
-      "published": "2026-04-10T14:30:00+00:00",
-      "summary": "Editor’s note: This post contains an image that includes a racial effigy.",
+      "url": "https://www.the74million.org/article/the-cost-of-ice-raids-fewer-students-less-money-missing-parents/",
+      "published": "2026-04-11T10:30:00+00:00",
+      "summary": "School (in)Security is our biweekly briefing on the latest school safety news. Subscribe here. Two recent stories by reporters here at The 74 demonstrate the ongoing ripple effects of the Trump administration’s massive deportation campaign.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "How AI is getting better at finding security holes",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/04/11/nx-s1-5778508/anthropic-project-glasswing-ai-cybersecurity-mythos-preview",
+      "published": "2026-04-11T09:00:00+00:00",
+      "summary": "Anthropic announced this week that its new model found security flaws in \"every major operating system and web browser.\" Even before the news, AI models had gotten dramatically better at finding bugs.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 10
+    },
+    {
+      "title": "‘Casual without being sloppy’: why flannel shirts are making a comeback",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/fashion/2026/apr/11/casual-without-being-sloppy-why-flannel-shirts-are-making-a-comeback",
+      "published": "2026-04-11T13:00:49+00:00",
+      "summary": "From catwalk versions to online vintage finds, the workwear staple is being recast as a marker of laidback cool In many wardrobes, the thick, checked shirt is usually found among the gardening clothes, or it might be worn as an extra layer…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "'How are you using AI?' Your therapist should ask you that question, experts argue",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/10/nx-s1-5780796/artificial-intelligence-ai-mental-health-chatgpt-jama-psychiatry",
-      "published": "2026-04-10T13:30:11+00:00",
-      "summary": "A paper in JAMA Psychiatry says mental health providers should ask if patients are using artificial intelligence chatbots, just as they would ask patients about sleep habits and substance use.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
+      "title": "Missouri Child Care Subsidy Cuts Could Hit Foster Kids, Low-Income Families Hardest",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/zero2eight/missouri-child-care-subsidy-cuts-could-hit-foster-kids-low-income-families-hardest/",
+      "published": "2026-04-11T16:30:00+00:00",
+      "summary": "Every child who starts at Lemay Child and Family Center in St. Louis County receives a developmental screening during their first month of attendance.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 7
     },
     {
-      "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
-      "published": "2026-04-10T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Behind the Blog: Smoking the Whole Carton",
+      "title": "The Oldest Octopus Fossil Ever Isn’t An Octopus At All, Scientists Discover",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/behind-the-blog-smoking-the-whole-carton/",
-      "published": "2026-04-10T16:07:51+00:00",
-      "summary": "This week, we discuss gun violence and chatbots and acceptance of depravity.",
+      "url": "https://www.404media.co/the-oldest-octopus-fossil-ever-isnt-an-octopus-at-all-scientists-discover/",
+      "published": "2026-04-11T13:00:06+00:00",
+      "summary": "A re-examination of a 300-million-year-old fossil that was long thought to be the earliest octopus revealed that the animal was actually part of the nautilus family.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
+    },
+    {
+      "title": "Tales From the Crypt Will Finally Start Streaming on Shudder in May",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/shudder-episodes-tales-from-the-crypt-streaming/",
+      "published": "2026-04-10T19:26:55+00:00",
+      "summary": "It's not clear how they did it, but Shudder has finally revived the long-lost piece of horror history The post Tales From the Crypt Will Finally Start Streaming on Shudder in May appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 7
     }
   ],
-  "youtube": [
-    {
-      "title": "Melania Trump denies close ties to Jeffrey Epstein",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=W3pCW8UU8cc",
-      "published": "2026-04-10T22:30:06+00:00",
-      "summary": "First lady Melania Trump gave a surprise statement Thursday denying any connection to Jeffrey Epstein.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Israeli airstrikes kill 3 more journalists in Lebanon and Gaza",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=plSOXlMkOk4",
-      "published": "2026-04-10T21:00:53+00:00",
-      "summary": "The Committee to Protect Journalists says Israeli airstrikes have killed three journalists in Lebanon and Gaza. One of the journalists in Lebanon worked for a Hezbollah-affiliated news outlet, while another reported for Al Jazeera in Gaza.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Pam Bondi's testimony over the DOJ's handling of the Epstein files postponed",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=EygZ8RXlfAU",
-      "published": "2026-04-10T19:30:06+00:00",
-      "summary": "The House Oversight Committee says the deposition of former U.S. Attorney General Pam Bondi has been postponed. The panel planned to discuss her role in overseeing the release of the Epstein files.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Crimson Desert Highlights How Weird It Is to Review Games Now | Unpacked",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=dQ6jhBGxX78",
-      "published": "2026-04-10T15:01:14+00:00",
-      "summary": "Games criticism in 2026 is in a weird spot when reviews can be out of date within a few weeks of a game releasing because of how quickly updates arrive. Support us on Patreon: https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "Widow's Bay — Official Teaser Trailer (The Sea Hag) | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=VcpYPxKeGAc",
-      "published": "2026-04-09T19:59:47+00:00",
-      "summary": "Have you heard the story of the Sea Hag? Widow's Bay premieres April 29 on Apple TV https://apple.co/_WidowsBay A new series starring Matthew Rhys from creator Katie Dippold and director Hiro Murai.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tyson Fury and Arslanbek Makhmudov FACE OFF",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=6-mMkVBIMQE",
-      "published": "2026-04-09T19:38:23+00:00",
-      "summary": "Tyson Fury and Arslanbek Makhmudov FACE OFF. TYSON FURY vs.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
-    "new": [
-      {
-        "title": "Scavengers Reign",
-        "why": "Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF."
-      },
-      {
-        "title": "Sugar",
-        "why": "Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap."
-      },
-      {
-        "title": "The Lazarus Project",
-        "why": "Time-loop espionage, moral pressure, and speculative plotting — very plausible fit."
-      },
-      {
-        "title": "Bodies",
-        "why": "Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling."
-      }
-    ],
-    "older": [
-      {
-        "title": "Counterpart",
-        "why": "Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence."
-      },
-      {
-        "title": "Patriot",
-        "why": "Dry, strange, melancholy spy storytelling with a very distinct voice."
-      },
-      {
-        "title": "Utopia",
-        "why": "Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly."
-      },
-      {
-        "title": "Rubicon",
-        "why": "A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere."
-      }
-    ],
-    "shared": [
-      {
-        "title": "Bad Sisters",
-        "why": "Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy."
-      },
-      {
-        "title": "Detectorists",
-        "why": "Gentle, funny, humane, and specific — a softer shared-watch possibility."
-      },
-      {
-        "title": "Astrid et Raphaëlle",
-        "why": "French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you."
-      },
-      {
-        "title": "Somebody Somewhere",
-        "why": "A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work."
-      }
-    ]
+    "new": [],
+    "older": [],
+    "shared": []
   },
-  "highlights": [
-    {
-      "title": "Building AI bots becomes the latest viral craze in China",
-      "source": "NPR Morning Edition",
-      "url": "https://www.npr.org/2026/04/07/nx-s1-5763826/building-ai-bots-becomes-the-latest-viral-craze-in-china",
-      "notes": "Highlight this story for later listening."
-    },
-    {
-      "title": "'Not our war' say Christians under siege this Easter, as Israel invades south Lebanon",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/04/03/nx-s1-5770202/lebanon-christians-trapped",
-      "notes": "Upcoming On Point topic James flagged. Add to Highlights and keep framing careful around Israeli pressure on Christian and Druze communities and the displacement of Shiite residents."
-    }
-  ],
+  "highlights": [],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 4,
-    "trailerCount": 2,
-    "sourceCount": 12
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 8
   }
 }
