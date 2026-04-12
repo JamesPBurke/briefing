@@ -1,39 +1,30 @@
 # James Daily Briefing
 
-Generated: 2026-04-12T05:00:01.449842Z
+Generated: 2026-04-12T09:00:23.099617Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Science / computing. The strongest items in this run are Manhattan DA’s office to investigate Eric Swalwell over sexual assault allegations, GTA 6 developer Rockstar Games hacked once again but insists this time only a "limited amount of non-material company information" was compromised, and Epic set to release Arc Raiders-like extraction shooter with Disney characters by the end of the year.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Middle East crisis live: US and Iran fail to reach a deal after marathon peace talks in Pakistan, From brutal occupation to brazen recruitment: Russia turns Bucha residents against their own, and Louisiana Republicans move to eliminate court office won by exonerated man.
 
 ## Briefing
 
-### 1. Manhattan DA’s office to investigate Eric Swalwell over sexual assault allegations [10/10]
+### 1. Middle East crisis live: US and Iran fail to reach a deal after marathon peace talks in Pakistan [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+US and Iranian delegations fail to reach common ground after 21 hours of negotiations, with both sides blaming the other for unreasonable demands JD Vance and US delegation leave Pakistan after failing to reach deal with Iran US officials…
+
+Link: https://www.theguardian.com/world/live/2026/apr/12/middle-east-crisis-live-us-iran-pakistan-peace-talks-jd-vance-delegation-leaves-without-a-deal
+
+### 2. From brutal occupation to brazen recruitment: Russia turns Bucha residents against their own [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Democratic representative has denied accusations from former staffer as he faces calls to drop bid for governor The Manhattan district attorney’s office said on Saturday that it is investigating a sexual assault allegation against Eric…
+Four years after the Ukrainian town experienced some of the war’s worst atrocities, a 21-year-old planted bombs outside his own apartment building On a recent evening in March, Bohdan Tymchenko, a quiet and unassuming man from Bucha,…
 
-Link: https://www.theguardian.com/us-news/2026/apr/11/eric-swalwell-manhattan-da-investigation
+Link: https://www.theguardian.com/world/2026/apr/12/russia-bucha-occupation-recruitment-bohdan-tymchenko-acts-of-sabotage-bucha
 
-### 2. GTA 6 developer Rockstar Games hacked once again but insists this time only a "limited amount of non-material company information" was compromised [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-GTA 6 developer Rockstar has confirmed it's been hacked by a third party after a hacking group issued a ransom demand. Read more
-
-Link: https://www.eurogamer.net/gta-6-developer-rockstar-games-hacked-once-again-but-insists-only-a-limited-amount-of-non-material-company-information-was-compromised
-
-### 3. Epic set to release Arc Raiders-like extraction shooter with Disney characters by the end of the year [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Epic Games will allegedly release an Arc Raiders -like shooter later this year. Read more
-
-Link: https://www.eurogamer.net/epic-set-to-release-arc-raiders-like-extraction-shooter-with-disney-characters-by-the-end-of-the-year
-
-### 4. Louisiana Republicans move to eliminate court office won by exonerated man [10/10]
+### 3. Louisiana Republicans move to eliminate court office won by exonerated man [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,7 +33,7 @@ After Calvin Duncan served 28 years for a murder he didn’t commit, he won an e
 
 Link: https://www.theguardian.com/us-news/2026/apr/11/calvin-duncan-new-orleans-criminal-court
 
-### 5. Sabrina Carpenter at Coachella review – madcap maximalism from pop savant [10/10]
+### 4. Sabrina Carpenter at Coachella review – madcap maximalism from pop savant [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,7 +42,7 @@ Empire Polo Club, Indio, California The pop star turned the desert into an ambit
 
 Link: https://www.theguardian.com/music/2026/apr/11/sabrina-carpenter-coachella-review-will-ferrell-susan-sarandon
 
-### 6. Video of an ICE shooting shattered the agency’s story. Will it usher in accountability? [10/10]
+### 5. Video of an ICE shooting shattered the agency’s story. Will it usher in accountability? [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -60,16 +51,7 @@ The case against two Venezuelan men in Minneapolis is the latest to fall apart.
 
 Link: https://www.theguardian.com/us-news/2026/apr/11/ice-shooting-dhs-accountability-minneapolis
 
-### 7. How AI is getting better at finding security holes [10/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Anthropic announced this week that its new model found security flaws in "every major operating system and web browser." Even before the news, AI models had gotten dramatically better at finding bugs.
-
-Link: https://www.npr.org/2026/04/11/nx-s1-5778508/anthropic-project-glasswing-ai-cybersecurity-mythos-preview
-
-### 8. ‘Everything is gone’: Israel destroys entire villages in Lebanon [9/10]
+### 6. ‘Everything is gone’: Israel destroys entire villages in Lebanon [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -78,7 +60,16 @@ Rights groups fear tactic of ‘domicide’ trialled in Gaza, where entire areas
 
 Link: https://www.theguardian.com/world/2026/apr/12/how-israeli-offensive-destroyed-entire-villages-in-lebanon
 
-### 9. Roblox is introducing a subscription service that encourages more shady practices, is it? Sounds about right [9/10]
+### 7. Manhattan DA’s office to investigate Eric Swalwell over sexual assault allegations [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Democratic representative has denied accusations from former staffer as he faces calls to drop bid for governor The Manhattan district attorney’s office said on Saturday that it is investigating a sexual assault allegation against Eric…
+
+Link: https://www.theguardian.com/us-news/2026/apr/11/eric-swalwell-manhattan-da-investigation
+
+### 8. Roblox is introducing a subscription service that encourages more shady practices, is it? Sounds about right [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -86,6 +77,15 @@ Link: https://www.theguardian.com/world/2026/apr/12/how-israeli-offensive-destro
 I truly wonder when enough will be enough for Roblox Corporation. We all know how much money Roblox is raking in, and yet yesterday it was announced that a shiny new subscription service called Roblox Plus is on the way.
 
 Link: https://www.rockpapershotgun.com/roblox-is-introducing-a-subscription-service-that-encourages-more-shady-practices-is-it-sounds-about-right
+
+### 9. GTA 6 developer Rockstar Games hacked once again but insists this time only a "limited amount of non-material company information" was compromised [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+GTA 6 developer Rockstar has confirmed it's been hacked by a third party after a hacking group issued a ransom demand. Read more
+
+Link: https://www.eurogamer.net/gta-6-developer-rockstar-games-hacked-once-again-but-insists-only-a-limited-amount-of-non-material-company-information-was-compromised
 
 ### 10. Your article about AI doesn’t need AI art [9/10]
 **Source:** The Verge  
@@ -134,15 +134,6 @@ Acting U.S. Attorney General Todd Blanche says the Justice Department is officia
 
 Link: https://www.youtube.com/watch?v=-2fbEfO2rvQ
 
-### Why the U.S. backed away from the brink in its war with Iran [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Nearly six weeks after the U.S. and Israel launched a war against Iran, there's a fragile ceasefire in place. NPR's Pentagon correspondent, Tom Bowman, tells host Mary Louise Kelly why his sources think the U.S. backed away from the brink.
-
-Link: https://www.youtube.com/watch?v=XBycWGLS9Lo
-
 ### NVIDIA’s New AI Shouldn’t Work…But It Does [8/10]
 **Creator:** Two Minute Papers  
 **Verdict:** Worth watching  
@@ -160,6 +151,15 @@ Link: https://www.youtube.com/watch?v=mFSFvKquXwI
 The Committee to Protect Journalists says Israeli airstrikes have killed three journalists in Lebanon and Gaza. One of the journalists in Lebanon worked for a Hezbollah-affiliated news outlet, while another reported for Al Jazeera in Gaza.
 
 Link: https://www.youtube.com/watch?v=plSOXlMkOk4
+
+### Pam Bondi's testimony over the DOJ's handling of the Epstein files postponed [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The House Oversight Committee says the deposition of former U.S. Attorney General Pam Bondi has been postponed. The panel planned to discuss her role in overseeing the release of the Epstein files.
+
+Link: https://www.youtube.com/watch?v=EygZ8RXlfAU
 
 ## Entertainment Recommendations
 

@@ -1,39 +1,29 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-12T05:00:01.449842Z",
-  "generatedAtDisplay": "2026-04-12 01:00 AM EDT",
+  "generatedAt": "2026-04-12T09:00:23.099617Z",
+  "generatedAtDisplay": "2026-04-12 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Science / computing. The strongest items in this run are Manhattan DA’s office to investigate Eric Swalwell over sexual assault allegations, GTA 6 developer Rockstar Games hacked once again but insists this time only a \"limited amount of non-material company information\" was compromised, and Epic set to release Arc Raiders-like extraction shooter with Disney characters by the end of the year.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Middle East crisis live: US and Iran fail to reach a deal after marathon peace talks in Pakistan, From brutal occupation to brazen recruitment: Russia turns Bucha residents against their own, and Louisiana Republicans move to eliminate court office won by exonerated man.",
   "mainItems": [
     {
-      "title": "Manhattan DA’s office to investigate Eric Swalwell over sexual assault allegations",
+      "title": "Middle East crisis live: US and Iran fail to reach a deal after marathon peace talks in Pakistan",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/live/2026/apr/12/middle-east-crisis-live-us-iran-pakistan-peace-talks-jd-vance-delegation-leaves-without-a-deal",
+      "published": "2026-04-12T08:37:49+00:00",
+      "summary": "US and Iranian delegations fail to reach common ground after 21 hours of negotiations, with both sides blaming the other for unreasonable demands JD Vance and US delegation leave Pakistan after failing to reach deal with Iran US officials…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "From brutal occupation to brazen recruitment: Russia turns Bucha residents against their own",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/11/eric-swalwell-manhattan-da-investigation",
-      "published": "2026-04-12T00:06:06+00:00",
-      "summary": "Democratic representative has denied accusations from former staffer as he faces calls to drop bid for governor The Manhattan district attorney’s office said on Saturday that it is investigating a sexual assault allegation against Eric…",
+      "url": "https://www.theguardian.com/world/2026/apr/12/russia-bucha-occupation-recruitment-bohdan-tymchenko-acts-of-sabotage-bucha",
+      "published": "2026-04-12T08:00:11+00:00",
+      "summary": "Four years after the Ukrainian town experienced some of the war’s worst atrocities, a 21-year-old planted bombs outside his own apartment building On a recent evening in March, Bohdan Tymchenko, a quiet and unassuming man from Bucha,…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "GTA 6 developer Rockstar Games hacked once again but insists this time only a \"limited amount of non-material company information\" was compromised",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/gta-6-developer-rockstar-games-hacked-once-again-but-insists-only-a-limited-amount-of-non-material-company-information-was-compromised",
-      "published": "2026-04-11T18:00:21+00:00",
-      "summary": "GTA 6 developer Rockstar has confirmed it's been hacked by a third party after a hacking group issued a ransom demand. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Epic set to release Arc Raiders-like extraction shooter with Disney characters by the end of the year",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/epic-set-to-release-arc-raiders-like-extraction-shooter-with-disney-characters-by-the-end-of-the-year",
-      "published": "2026-04-11T17:24:37+00:00",
-      "summary": "Epic Games will allegedly release an Arc Raiders -like shooter later this year. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -67,16 +57,6 @@
       "score": 10
     },
     {
-      "title": "How AI is getting better at finding security holes",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/04/11/nx-s1-5778508/anthropic-project-glasswing-ai-cybersecurity-mythos-preview",
-      "published": "2026-04-11T09:00:00+00:00",
-      "summary": "Anthropic announced this week that its new model found security flaws in \"every major operating system and web browser.\" Even before the news, AI models had gotten dramatically better at finding bugs.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 10
-    },
-    {
       "title": "‘Everything is gone’: Israel destroys entire villages in Lebanon",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
@@ -87,6 +67,16 @@
       "score": 9
     },
     {
+      "title": "Manhattan DA’s office to investigate Eric Swalwell over sexual assault allegations",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/11/eric-swalwell-manhattan-da-investigation",
+      "published": "2026-04-12T00:06:06+00:00",
+      "summary": "Democratic representative has denied accusations from former staffer as he faces calls to drop bid for governor The Manhattan district attorney’s office said on Saturday that it is investigating a sexual assault allegation against Eric…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
       "title": "Roblox is introducing a subscription service that encourages more shady practices, is it? Sounds about right",
       "source": "Rock Paper Shotgun",
       "category": "Democracy / press freedom",
@@ -94,6 +84,16 @@
       "published": "2026-04-11T21:54:53+00:00",
       "summary": "I truly wonder when enough will be enough for Roblox Corporation. We all know how much money Roblox is raking in, and yet yesterday it was announced that a shiny new subscription service called Roblox Plus is on the way.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "GTA 6 developer Rockstar Games hacked once again but insists this time only a \"limited amount of non-material company information\" was compromised",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/gta-6-developer-rockstar-games-hacked-once-again-but-insists-only-a-limited-amount-of-non-material-company-information-was-compromised",
+      "published": "2026-04-11T18:00:21+00:00",
+      "summary": "GTA 6 developer Rockstar has confirmed it's been hacked by a third party after a hacking group issued a ransom demand. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -150,17 +150,6 @@
       "verdict": "Watch it"
     },
     {
-      "title": "Why the U.S. backed away from the brink in its war with Iran",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=XBycWGLS9Lo",
-      "published": "2026-04-11T18:30:54+00:00",
-      "summary": "Nearly six weeks after the U.S. and Israel launched a war against Iran, there's a fragile ceasefire in place. NPR's Pentagon correspondent, Tom Bowman, tells host Mary Louise Kelly why his sources think the U.S. backed away from the brink.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
       "title": "NVIDIA’s New AI Shouldn’t Work…But It Does",
       "source": "Two Minute Papers",
       "category": "AI / YouTube",
@@ -178,6 +167,17 @@
       "url": "https://www.youtube.com/watch?v=plSOXlMkOk4",
       "published": "2026-04-10T21:00:53+00:00",
       "summary": "The Committee to Protect Journalists says Israeli airstrikes have killed three journalists in Lebanon and Gaza. One of the journalists in Lebanon worked for a Hezbollah-affiliated news outlet, while another reported for Al Jazeera in Gaza.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Pam Bondi's testimony over the DOJ's handling of the Epstein files postponed",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=EygZ8RXlfAU",
+      "published": "2026-04-10T19:30:06+00:00",
+      "summary": "The House Oversight Committee says the deposition of former U.S. Attorney General Pam Bondi has been postponed. The panel planned to discuss her role in overseeing the release of the Epstein files.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
@@ -268,6 +268,6 @@
     "mainCount": 13,
     "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 10
+    "sourceCount": 9
   }
 }
