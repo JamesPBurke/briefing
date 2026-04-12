@@ -1,18 +1,28 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-12T14:00:01.225074Z",
-  "generatedAtDisplay": "2026-04-12 10:00 AM EDT",
+  "generatedAt": "2026-04-12T18:00:21.350746Z",
+  "generatedAtDisplay": "2026-04-12 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are Planeloads of negotiators and too little time: US and Iran’s 21 hours of talks, Shock from Iran war has Trump's vision for US energy dominance flailing, and Lifestyle blogger said to have inspired Devil Wears Prada character uses unpaid student interns.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Rockstar Games says hack will have ‘no impact’, Planeloads of negotiators and too little time: US and Iran’s 21 hours of talks, and Shock from Iran war has Trump's vision for US energy dominance flailing.",
   "mainItems": [
+    {
+      "title": "Rockstar Games says hack will have ‘no impact’",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact",
+      "published": "2026-04-12T17:02:24+00:00",
+      "summary": "Rockstar confirmed on Saturday that some of its data was compromised in a breach of a third-party provider.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Planeloads of negotiators and too little time: US and Iran’s 21 hours of talks",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
       "url": "https://www.theguardian.com/world/2026/apr/12/us-iran-21-hours-talks-war-vance-pakistan",
       "published": "2026-04-12T13:47:21+00:00",
-      "summary": "Two sides tested one another’s resolve but timeframe meant it was probably unrealistic to expect deal Middle East crisis – live updates It was if the two delegations in the Iran-US peace talks in Islamabad hoped that the sheer number of…",
+      "summary": "The two sides turned up to test one another’s resolve.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
@@ -24,16 +34,6 @@
       "published": "2026-04-12T11:17:26+00:00",
       "summary": "Record domestic oil and gas production hasn't saved US drivers from price spikes.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Lifestyle blogger said to have inspired Devil Wears Prada character uses unpaid student interns",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/12/lifestyle-blogger-devil-wears-prada-anna-wintour-assistant-pay-interns",
-      "published": "2026-04-12T11:00:17+00:00",
-      "summary": "Use of interns by Plum Sykes, an ex-assistant of Anna Wintour whose family owns a Yorkshire estate, reignites debate about creative industries She is said to have been the inspiration for a character in The Devil Wears Prada and was a…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -57,22 +57,62 @@
       "score": 10
     },
     {
-      "title": "From brutal occupation to brazen recruitment: Russia turns Bucha residents against their own",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/apr/12/russia-bucha-occupation-recruitment-bohdan-tymchenko-acts-of-sabotage-bucha",
-      "published": "2026-04-12T08:00:11+00:00",
-      "summary": "Four years after the Ukrainian town experienced some of the war’s worst atrocities, a 21-year-old planted bombs outside his own apartment building On a recent evening in March, Bohdan Tymchenko, a quiet and unassuming man from Bucha,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "Starfield PS5 players demand refunds, reporting widespread bugs and glitches that leave the game \"unplayable\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/starfield-ps5-players-demand-refunds-reporting-widespread-bugs-and-glitches-that-leave-the-game-unplayable",
+      "published": "2026-04-12T17:35:31+00:00",
+      "summary": "Within days of Starfield 's much-anticipated launch on PS5, fans are complaining of \" totally unsurprising \" crashes , freezes , and save issues , with some calling the game \" unplayable \" in its current state. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
-      "title": "Busting common myths about head lice — and why they're here to stay",
-      "source": "NPR Health",
+      "title": "You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale",
+      "published": "2026-04-12T15:52:31+00:00",
+      "summary": "In celebration of The Super Mario Galaxy Movie coming to theaters, Nintendo is making it a little cheaper to get both Super Mario Galaxy games when you buy a $449.99 Nintendo Switch 2 console.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "New report claims Microsoft is considering changing Day One access to Call of Duty on Game Pass",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/new-report-claims-microsoft-is-considering-changing-day-one-access-to-call-of-duty-on-game-pass",
+      "published": "2026-04-12T15:25:45+00:00",
+      "summary": "Microsoft is reportedly considering dropping Call of Duty from its Game Pass Day One offering. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Can the Punk Rock flea market save the soul of Seattle?",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/04/12/nx-s1-5771782/busting-common-myths-about-head-lice-and-why-theyre-here-to-stay",
-      "published": "2026-04-12T12:09:48+00:00",
-      "summary": "Humanity's itchy little nuisance resists common pesticides and drives parents crazy. Will we ever be rid of head lice? Doctors say it's unlikely.",
+      "url": "https://www.theguardian.com/us-news/2026/apr/12/seattle-punk-rock-flea-market",
+      "published": "2026-04-12T15:00:20+00:00",
+      "summary": "In 20 years, the institution has seen the city change from a low-stakes, overachieving cultural incubator to the US’s hub of neoliberal corporate capitalism Strolling the commercial corridor atop Seattle’s Capitol Hill neighborhood on a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "You can grab a refurbished 2021 Kindle Paperwhite starting at just $49.99",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/910482/2021-amazon-kindle-paperwhite-signature-edition-refurbished-woot-deal-sale",
+      "published": "2026-04-12T14:32:11+00:00",
+      "summary": "We spend a lot of time at The Verge waxing poetic about the latest gadgets, but sometimes it’s the last-gen devices from several years ago that offer the better value.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Ex-CIA director calls for ousting Trump: ‘25th amendment was written with him in mind’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/12/ex-cia-director-oust-trump-25th-amendment",
+      "published": "2026-04-12T14:26:39+00:00",
+      "summary": "John Brennan says president who made volatile remarks about destroying Iranian civilization ‘is clearly unhinged’ The former Central Intelligence Agency director John Brennan has added his name to growing calls for the president to be…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
@@ -87,36 +127,6 @@
       "score": 9
     },
     {
-      "title": "Trump’s new budget ignores dying Americans and gives away record sums to the US military",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/12/trump-budget-healthcare-military",
-      "published": "2026-04-12T11:00:16+00:00",
-      "summary": "President’s proposed budget slashes health department by 12% while throwing $1.5tn – a 42% increase – to the military Americans are dying in droves.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Black & White at 25: how Lionhead's hairbrained, stoner-powered game design became the harbinger of modern AI",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/black-and-white-lionhead-peter-moylneux-retrospective-google-deepmind-gemini-ai",
-      "published": "2026-04-12T11:00:00+00:00",
-      "summary": "Your disembodied hand trembles with raw power.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Your article about AI doesn’t need AI art",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
-      "published": "2026-04-11T16:09:21+00:00",
-      "summary": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
       "title": "The real space science behind 'Project Hail Mary'",
       "source": "NPR Health",
       "category": "Science / health",
@@ -125,149 +135,20 @@
       "summary": "The science fiction blockbuster wowed audiences with its depiction of space travel and more. Here's what NASA staff and other scientists say about the basis for the amazing events of the film.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "Missouri Child Care Subsidy Cuts Could Hit Foster Kids, Low-Income Families Hardest",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/zero2eight/missouri-child-care-subsidy-cuts-could-hit-foster-kids-low-income-families-hardest/",
-      "published": "2026-04-11T16:30:00+00:00",
-      "summary": "Every child who starts at Lemay Child and Family Center in St. Louis County receives a developmental screening during their first month of attendance.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 6
     }
   ],
-  "youtube": [
-    {
-      "title": "Justice Department launches its new fraud enforcement division",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=-2fbEfO2rvQ",
-      "published": "2026-04-11T16:15:00+00:00",
-      "summary": "Acting U.S. Attorney General Todd Blanche says the Justice Department is officially launching its new National Fraud Enforcement Division.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "NVIDIA’s New AI Shouldn’t Work…But It Does",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=mFSFvKquXwI",
-      "published": "2026-04-11T16:23:48+00:00",
-      "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://dreamdojo-world.github.io/ Our Patreon if you wish to support us: https://www.patreon.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Israeli airstrikes kill 3 more journalists in Lebanon and Gaza",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=plSOXlMkOk4",
-      "published": "2026-04-10T21:00:53+00:00",
-      "summary": "The Committee to Protect Journalists says Israeli airstrikes have killed three journalists in Lebanon and Gaza. One of the journalists in Lebanon worked for a Hezbollah-affiliated news outlet, while another reported for Al Jazeera in Gaza.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Pam Bondi's testimony over the DOJ's handling of the Epstein files postponed",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=EygZ8RXlfAU",
-      "published": "2026-04-10T19:30:06+00:00",
-      "summary": "The House Oversight Committee says the deposition of former U.S. Attorney General Pam Bondi has been postponed. The panel planned to discuss her role in overseeing the release of the Epstein files.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "This slow-mo 🫣 #FuryMakhmudov",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=_gKR_uHvb_s",
-      "published": "2026-04-11T21:40:48+00:00",
-      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tyson Fury Walks out to Face Arslanbek Makhmudov #furymakhmudov",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=uo-9m79ZKag",
-      "published": "2026-04-11T21:16:18+00:00",
-      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
-    "new": [
-      {
-        "title": "Scavengers Reign",
-        "why": "Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF."
-      },
-      {
-        "title": "Sugar",
-        "why": "Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap."
-      },
-      {
-        "title": "The Lazarus Project",
-        "why": "Time-loop espionage, moral pressure, and speculative plotting — very plausible fit."
-      },
-      {
-        "title": "Bodies",
-        "why": "Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling."
-      }
-    ],
-    "older": [
-      {
-        "title": "Counterpart",
-        "why": "Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence."
-      },
-      {
-        "title": "Patriot",
-        "why": "Dry, strange, melancholy spy storytelling with a very distinct voice."
-      },
-      {
-        "title": "Utopia",
-        "why": "Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly."
-      },
-      {
-        "title": "Rubicon",
-        "why": "A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere."
-      }
-    ],
-    "shared": [
-      {
-        "title": "Bad Sisters",
-        "why": "Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy."
-      },
-      {
-        "title": "Detectorists",
-        "why": "Gentle, funny, humane, and specific — a softer shared-watch possibility."
-      },
-      {
-        "title": "Astrid et Raphaëlle",
-        "why": "French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you."
-      },
-      {
-        "title": "Somebody Somewhere",
-        "why": "A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work."
-      }
-    ]
+    "new": [],
+    "older": [],
+    "shared": []
   },
   "highlights": [],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 4,
-    "trailerCount": 2,
-    "sourceCount": 9
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 6
   }
 }
