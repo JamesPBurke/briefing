@@ -1,19 +1,59 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-12T09:00:23.099617Z",
-  "generatedAtDisplay": "2026-04-12 05:00 AM EDT",
+  "generatedAt": "2026-04-12T14:00:01.225074Z",
+  "generatedAtDisplay": "2026-04-12 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Middle East crisis live: US and Iran fail to reach a deal after marathon peace talks in Pakistan, From brutal occupation to brazen recruitment: Russia turns Bucha residents against their own, and Louisiana Republicans move to eliminate court office won by exonerated man.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are Planeloads of negotiators and too little time: US and Iran’s 21 hours of talks, Shock from Iran war has Trump's vision for US energy dominance flailing, and Lifestyle blogger said to have inspired Devil Wears Prada character uses unpaid student interns.",
   "mainItems": [
     {
-      "title": "Middle East crisis live: US and Iran fail to reach a deal after marathon peace talks in Pakistan",
+      "title": "Planeloads of negotiators and too little time: US and Iran’s 21 hours of talks",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/live/2026/apr/12/middle-east-crisis-live-us-iran-pakistan-peace-talks-jd-vance-delegation-leaves-without-a-deal",
-      "published": "2026-04-12T08:37:49+00:00",
-      "summary": "US and Iranian delegations fail to reach common ground after 21 hours of negotiations, with both sides blaming the other for unreasonable demands JD Vance and US delegation leave Pakistan after failing to reach deal with Iran US officials…",
+      "url": "https://www.theguardian.com/world/2026/apr/12/us-iran-21-hours-talks-war-vance-pakistan",
+      "published": "2026-04-12T13:47:21+00:00",
+      "summary": "Two sides tested one another’s resolve but timeframe meant it was probably unrealistic to expect deal Middle East crisis – live updates It was if the two delegations in the Iran-US peace talks in Islamabad hoped that the sheer number of…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Shock from Iran war has Trump's vision for US energy dominance flailing",
+      "source": "Ars Technica",
+      "category": "Democracy / press freedom",
+      "url": "https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/",
+      "published": "2026-04-12T11:17:26+00:00",
+      "summary": "Record domestic oil and gas production hasn't saved US drivers from price spikes.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Lifestyle blogger said to have inspired Devil Wears Prada character uses unpaid student interns",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/12/lifestyle-blogger-devil-wears-prada-anna-wintour-assistant-pay-interns",
+      "published": "2026-04-12T11:00:17+00:00",
+      "summary": "Use of interns by Plum Sykes, an ex-assistant of Anna Wintour whose family owns a Yorkshire estate, reignites debate about creative industries She is said to have been the inspiration for a character in The Devil Wears Prada and was a…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Why Some Students Don’t Raise Their Hands. How Early Education Can Change That",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/why-some-students-dont-raise-their-hands-how-early-education-can-change-that/",
+      "published": "2026-04-12T10:30:00+00:00",
+      "summary": "By the time children reach elementary school, teachers can usually predict which students will volunteer answers, speak easily in front of the class and move comfortably through discussion — and which will hesitate, look down or remain…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "The United States is destroying itself | Rebecca Solnit",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction",
+      "published": "2026-04-12T10:00:14+00:00",
+      "summary": "The daily news can’t adequately convey the administration’s sabotaging of our government, economy, alliances and environment The United States is being murdered, and it’s an inside job.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -27,72 +67,42 @@
       "score": 10
     },
     {
-      "title": "Louisiana Republicans move to eliminate court office won by exonerated man",
-      "source": "The Guardian US",
+      "title": "Busting common myths about head lice — and why they're here to stay",
+      "source": "NPR Health",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/11/calvin-duncan-new-orleans-criminal-court",
-      "published": "2026-04-11T15:42:29+00:00",
-      "summary": "After Calvin Duncan served 28 years for a murder he didn’t commit, he won an election to serve as criminal court clerk.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Sabrina Carpenter at Coachella review – madcap maximalism from pop savant",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/music/2026/apr/11/sabrina-carpenter-coachella-review-will-ferrell-susan-sarandon",
-      "published": "2026-04-11T13:56:46+00:00",
-      "summary": "Empire Polo Club, Indio, California The pop star turned the desert into an ambitious theatrical revue with elaborate sets and celebrity cameos Way back in the good old days of spring 2024, the pop singer Sabrina Carpenter ended her first…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Video of an ICE shooting shattered the agency’s story. Will it usher in accountability?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/11/ice-shooting-dhs-accountability-minneapolis",
-      "published": "2026-04-11T11:00:46+00:00",
-      "summary": "The case against two Venezuelan men in Minneapolis is the latest to fall apart.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘Everything is gone’: Israel destroys entire villages in Lebanon",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/apr/12/how-israeli-offensive-destroyed-entire-villages-in-lebanon",
-      "published": "2026-04-12T04:00:07+00:00",
-      "summary": "Rights groups fear tactic of ‘domicide’ trialled in Gaza, where entire areas are made uninhabitable, is being used again The Israeli military has demolished entire villages as part of its invasion of south Lebanon, rigging homes with…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Manhattan DA’s office to investigate Eric Swalwell over sexual assault allegations",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/11/eric-swalwell-manhattan-da-investigation",
-      "published": "2026-04-12T00:06:06+00:00",
-      "summary": "Democratic representative has denied accusations from former staffer as he faces calls to drop bid for governor The Manhattan district attorney’s office said on Saturday that it is investigating a sexual assault allegation against Eric…",
+      "url": "https://www.npr.org/2026/04/12/nx-s1-5771782/busting-common-myths-about-head-lice-and-why-theyre-here-to-stay",
+      "published": "2026-04-12T12:09:48+00:00",
+      "summary": "Humanity's itchy little nuisance resists common pesticides and drives parents crazy. Will we ever be rid of head lice? Doctors say it's unlikely.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
-      "title": "Roblox is introducing a subscription service that encourages more shady practices, is it? Sounds about right",
-      "source": "Rock Paper Shotgun",
+      "title": "Too hot to handle? Why it’s time for straight male authors to rediscover sex",
+      "source": "The Guardian US",
+      "category": "Security / computing",
+      "url": "https://www.theguardian.com/books/2026/apr/12/too-hot-to-handle-why-its-time-for-straight-male-authors-to-rediscover-sex",
+      "published": "2026-04-12T11:00:17+00:00",
+      "summary": "It’s a high-wire act and the risk of an embarrassing failure can weigh heavily – but that’s no reason to avoid writing about sex, argues Black Bag author Luke Kennard Are straight male writers scared of writing about sex? If you read…",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 9
+    },
+    {
+      "title": "Trump’s new budget ignores dying Americans and gives away record sums to the US military",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/roblox-is-introducing-a-subscription-service-that-encourages-more-shady-practices-is-it-sounds-about-right",
-      "published": "2026-04-11T21:54:53+00:00",
-      "summary": "I truly wonder when enough will be enough for Roblox Corporation. We all know how much money Roblox is raking in, and yet yesterday it was announced that a shiny new subscription service called Roblox Plus is on the way.",
+      "url": "https://www.theguardian.com/us-news/2026/apr/12/trump-budget-healthcare-military",
+      "published": "2026-04-12T11:00:16+00:00",
+      "summary": "President’s proposed budget slashes health department by 12% while throwing $1.5tn – a 42% increase – to the military Americans are dying in droves.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
-      "title": "GTA 6 developer Rockstar Games hacked once again but insists this time only a \"limited amount of non-material company information\" was compromised",
+      "title": "Black & White at 25: how Lionhead's hairbrained, stoner-powered game design became the harbinger of modern AI",
       "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/gta-6-developer-rockstar-games-hacked-once-again-but-insists-only-a-limited-amount-of-non-material-company-information-was-compromised",
-      "published": "2026-04-11T18:00:21+00:00",
-      "summary": "GTA 6 developer Rockstar has confirmed it's been hacked by a third party after a hacking group issued a ransom demand. Read more",
+      "url": "https://www.eurogamer.net/black-and-white-lionhead-peter-moylneux-retrospective-google-deepmind-gemini-ai",
+      "published": "2026-04-12T11:00:00+00:00",
+      "summary": "Your disembodied hand trembles with raw power.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
@@ -107,24 +117,14 @@
       "score": 9
     },
     {
-      "title": "The Cost of ICE Raids: Fewer Students, Less Money, Missing Parents",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/the-cost-of-ice-raids-fewer-students-less-money-missing-parents/",
-      "published": "2026-04-11T10:30:00+00:00",
-      "summary": "School (in)Security is our biweekly briefing on the latest school safety news. Subscribe here. Two recent stories by reporters here at The 74 demonstrate the ongoing ripple effects of the Trump administration’s massive deportation campaign.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "The Oldest Octopus Fossil Ever Isn’t An Octopus At All, Scientists Discover",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/the-oldest-octopus-fossil-ever-isnt-an-octopus-at-all-scientists-discover/",
-      "published": "2026-04-11T13:00:06+00:00",
-      "summary": "A re-examination of a 300-million-year-old fossil that was long thought to be the earliest octopus revealed that the animal was actually part of the nautilus family.",
+      "title": "The real space science behind 'Project Hail Mary'",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/04/12/nx-s1-5782074/project-hail-mary-nasa-space-science",
+      "published": "2026-04-12T09:00:00+00:00",
+      "summary": "The science fiction blockbuster wowed audiences with its depiction of space travel and more. Here's what NASA staff and other scientists say about the basis for the amazing events of the film.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
+      "score": 8
     },
     {
       "title": "Missouri Child Care Subsidy Cuts Could Hit Foster Kids, Low-Income Families Hardest",
