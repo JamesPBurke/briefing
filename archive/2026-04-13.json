@@ -1,11 +1,81 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-13T14:00:01.938151Z",
-  "generatedAtDisplay": "2026-04-13 10:00 AM EDT",
+  "generatedAt": "2026-04-13T18:01:17.303776Z",
+  "generatedAtDisplay": "2026-04-13 02:01 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Mark Zuckerberg is reportedly building an AI clone to replace him in meetings, To Fill Teacher Vacancies, SC Could Accept Certificates From Other States, and The Download: how humans make decisions, and Moderna’s “vaccine” word games.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / privacy. The strongest items in this run are Microsoft is testing OpenClaw-like AI bots for Copilot, Trump media company drops lawsuit against the Guardian, and Read OpenAI’s latest internal memo about beating the competition — including Anthropic.",
   "mainItems": [
+    {
+      "title": "Microsoft is testing OpenClaw-like AI bots for Copilot",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
+      "published": "2026-04-13T17:59:09+00:00",
+      "summary": "Microsoft is looking into ways it can integrate OpenClaw-style features into its Copilot AI assistant, according to a report from The Information.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Trump media company drops lawsuit against the Guardian",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/apr/13/trump-media-guardian-lawsuit",
+      "published": "2026-04-13T16:43:30+00:00",
+      "summary": "TMTG drops defamation claim over report that prosecutors were investigating payments received as possible money laundering Donald Trump ’s media corporation has dropped a defamation claim against the Guardian and two other defendants over…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Read OpenAI’s latest internal memo about beating the competition — including Anthropic",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+      "published": "2026-04-13T16:39:42+00:00",
+      "summary": "OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "LAUSD Career Tech Programs Offer Head Start for High School Students",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/lausd-career-tech-programs-offer-head-start-for-high-school-students/",
+      "published": "2026-04-13T16:30:00+00:00",
+      "summary": "Sergio Garcia is quick to the scene. He puts on a scuffed firefighter jacket, grabs an oxygen mask and crouches down on hot concrete to start chest compressions on a dummy body.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Will Orbán’s defeat in Hungary be a turning point for Europe? – The Latest",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/video/2026/apr/13/will-orbans-defeat-in-hungary-be-a-turning-point-for-europe-the-latest",
+      "published": "2026-04-13T16:11:19+00:00",
+      "summary": "Viktor Orbán’s 16-year rule has come to an end after the opposition Tisza party, led by Péter Magyar, won the Hungary election by a landslide. Orbán quickly conceded after what he described as a 'painful but unambiguous' result.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Dangerous super typhoon barreling toward group of remote US islands",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/13/super-typhoon-sinlaku-mariana-islands-guam",
+      "published": "2026-04-13T16:03:10+00:00",
+      "summary": "Typhoon expected to make landfall Tuesday in Northern Mariana Islands and bring heavy winds, rain and flooding A dangerous super typhoon in the Pacific Ocean is barreling toward a group of remote US islands.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Why opinion on AI is so divided",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
+      "published": "2026-04-13T15:48:28+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
     {
       "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
       "source": "The Verge",
@@ -13,6 +83,16 @@
       "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
       "published": "2026-04-13T13:40:03+00:00",
       "summary": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Gettin’ Goopy with James Gunn’s ‘Slither’ [Horror Queers Podcast]",
+      "source": "Bloody Disgusting",
+      "category": "Democracy / press freedom",
+      "url": "https://bloody-disgusting.com/podcasts/3944829/slither-horror-queers-podcast/",
+      "published": "2026-04-13T13:30:53+00:00",
+      "summary": "Marriage is a sacred bond… After concluding March discussing of the classic folk horror film The Wicker Man (listen) and observing the Easter holiday in Critters 2: The Main Course (listen), we’re gonna shine up our boots at the local Deer…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -27,247 +107,48 @@
       "score": 10
     },
     {
-      "title": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
-      "source": "MIT Technology Review",
-      "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/",
-      "published": "2026-04-13T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Sticker shock: LA residents alarmed by price of 2028 Olympics presale tickets",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/sport/2026/apr/13/los-angeles-olympics-2028-ticket-prices-residents",
-      "published": "2026-04-13T11:00:39+00:00",
-      "summary": "LA28 set aside tickets for LA and Oklahoma City residents, but some say they faced exorbitant prices and high fees Since tickets for the 2028 Olympics in Los Angeles went on sale for local residents on 2 April, excitement for the Games has…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "To teach in the time of ChatGPT is to know pain",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/",
-      "published": "2026-04-13T11:00:32+00:00",
-      "summary": "LLM use is the most demoralizing problem I’ve faced as a college instructor.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Teacher Empowerment with CSTA Responsible AI Fellow Matt Alonzo",
-      "source": "CSTA",
-      "category": "Education / pedagogy",
-      "url": "https://csteachers.org/teacher-empowerment-with-csta-responsible-ai-fellow-matt-alonzo/",
-      "published": "2026-04-13T11:00:00+00:00",
-      "summary": "Matt Alonzo is a veteran mathematics teacher and has been teaching computer science at Parkway North High School in St....",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "\"Mads Mikkelsen in Hannibal but with flair\" - Casting calls for Hideo Kojima's new PlayStation-published spy game Physint give new clues about what to expect",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/new-hideo-kojima-game-physint-casting-details",
-      "published": "2026-04-13T10:56:39+00:00",
-      "summary": "With Death Stranding 2 now behind us, Kojima Productions' future includes horror game OD and the new espionage game Physint , which will be published on PlayStation by Sony.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "New Switch 2 games Splatoon Raiders and Fire Emblem: Fortune's Weave age-rated in Europe",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/switch-2-splatoon-raiders-and-fire-emblem-fortunes-weave-pegi-age-ratings",
-      "published": "2026-04-13T10:21:46+00:00",
-      "summary": "Once Tomodachi Life: Living the Dream and Yoshi and the Mysterious Book are out later this week and next month, Nintendo's first-party roadmap is a bit of a mystery.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "You have no choice in reading this article—maybe",
-      "source": "MIT Technology Review",
-      "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
-      "published": "2026-04-13T10:00:00+00:00",
-      "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Roblox has games again",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/910699/roblox-games-experiences-switch-friends-connections",
-      "published": "2026-04-13T09:24:42+00:00",
-      "summary": "Roblox is making a subtle but notable change. After swapping the word \"game\" for \"experience\" all over its website and mobile apps in 2021 while the Epic Games v.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "TikTok psychic seeks relief from $10m verdict for false claims in Idaho student murders",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/apr/13/university-of-idaho-murders-tiktok-psychic",
-      "published": "2026-04-13T09:00:41+00:00",
-      "summary": "Tarot card reader Ashley Guillard, who falsely accused history professor Rebecca Scofield, plans to appeal Sign up for the Breaking News US email to get newsletter alerts in your inbox A self-proclaimed psychic who in TikTok videos falsely…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Euphoria season three review – grubby, desperate and absolutely not worth the wait",
+      "title": "Middle East crisis live: Donald Trump claims Iran ‘wants to work a deal’ and confirms blockade of strait of Hormuz",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/13/euphoria-season-three-review-sydney-sweeney-zendaya-hbo",
-      "published": "2026-04-13T02:00:33+00:00",
-      "summary": "What a relief that this is the end for Sam Levison’s grim drama. A show which was once blackly funny is now humourless torture porn To say that season three of Euphoria is long-awaited would be something of an understatement.",
+      "url": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
+      "published": "2026-04-13T17:55:27+00:00",
+      "summary": "US president claims Iran ‘called this morning’ and says blockade of ships transiting the strait has begun Circling back to Donald Trump’s coming naval blockade, the US military said it would block all Iranian Gulf ports on Monday at 10am…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "WebinarTV Secretly Scraped Zoom Meetings of Anonymous Recovery Programs",
+      "title": "The glossy, golden frosting you probably haven't made yet: Courtesy of the French.",
+      "source": "King Arthur Baking",
+      "category": "Bread / food craft",
+      "url": "https://www.kingarthurbaking.com/blog/2026/04/13/french-buttercream",
+      "published": "2026-04-13T17:00:00+00:00",
+      "summary": "The country of France has provided the baking canon with no shortage of classics. But outside of croissants, éclairs, madeleines, and macarons, there’s still one classic recipe that flies under the radar.",
+      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
+      "score": 9
+    },
+    {
+      "title": "How the Internet Became Hell (with Whitney Phillips)",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/webinartv-secretly-scraped-zoom-meetings-of-anonymous-recovery-programs/",
-      "published": "2026-04-13T13:15:01+00:00",
-      "summary": "WebinarTV scraped and shared 12 steps-based anonymous meetings for people recovering from addiction and other private support groups.",
+      "url": "https://www.404media.co/how-the-internet-became-hell-with-whitney-phillips/",
+      "published": "2026-04-13T14:48:19+00:00",
+      "summary": "‘The Ambivalent Internet’ and ‘The Shadow Gospel’ author Whitney Phillips on how online got so bad.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
   ],
-  "youtube": [
-    {
-      "title": "Will Sony Offer Any Way To Play Physical Games On Digital Devices?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=Nt9yfYQfcl0",
-      "published": "2026-04-12T16:00:35+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CeSzzupGe60 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "California bald eagles welcome new eaglets over Easter weekend",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=abBGDjaXhKg",
-      "published": "2026-04-12T16:15:00+00:00",
-      "summary": "Two long-awaited baby eaglets have hatched in a nest east of Los Angeles. Tens of thousands of fans from around the world watched on a livestream.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "NVIDIA’s New AI Shouldn’t Work…But It Does",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=mFSFvKquXwI",
-      "published": "2026-04-11T16:23:48+00:00",
-      "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://dreamdojo-world.github.io/ Our Patreon if you wish to support us: https://www.patreon.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Justice Department launches its new fraud enforcement division",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=-2fbEfO2rvQ",
-      "published": "2026-04-11T16:15:00+00:00",
-      "summary": "Acting U.S. Attorney General Todd Blanche says the Justice Department is officially launching its new National Fraud Enforcement Division.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "Well, you get what you settle for. #ImperfectWomen — Chapter Two Now Streaming",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=9li5BIu6uEI",
-      "published": "2026-04-12T16:59:51+00:00",
-      "summary": "Elisabeth Moss, Kerry Washington & Kate Mara are your Imperfect Women, now streaming on Apple TV https://apple.co/_ImperfectWomen A new series starring Elisabeth Moss, Kerry Washington, and Kate Mara.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "This slow-mo 🫣 #FuryMakhmudov",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=_gKR_uHvb_s",
-      "published": "2026-04-11T21:40:48+00:00",
-      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
-    "new": [
-      {
-        "title": "Scavengers Reign",
-        "why": "Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF."
-      },
-      {
-        "title": "Sugar",
-        "why": "Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap."
-      },
-      {
-        "title": "The Lazarus Project",
-        "why": "Time-loop espionage, moral pressure, and speculative plotting — very plausible fit."
-      },
-      {
-        "title": "Bodies",
-        "why": "Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling."
-      }
-    ],
-    "older": [
-      {
-        "title": "Counterpart",
-        "why": "Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence."
-      },
-      {
-        "title": "Patriot",
-        "why": "Dry, strange, melancholy spy storytelling with a very distinct voice."
-      },
-      {
-        "title": "Utopia",
-        "why": "Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly."
-      },
-      {
-        "title": "Rubicon",
-        "why": "A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere."
-      }
-    ],
-    "shared": [
-      {
-        "title": "Bad Sisters",
-        "why": "Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy."
-      },
-      {
-        "title": "Detectorists",
-        "why": "Gentle, funny, humane, and specific — a softer shared-watch possibility."
-      },
-      {
-        "title": "Astrid et Raphaëlle",
-        "why": "French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you."
-      },
-      {
-        "title": "Somebody Somewhere",
-        "why": "A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work."
-      }
-    ]
+    "new": [],
+    "older": [],
+    "shared": []
   },
   "highlights": [],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 4,
-    "trailerCount": 2,
-    "sourceCount": 13
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 7
   }
 }
