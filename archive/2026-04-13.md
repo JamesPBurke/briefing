@@ -1,12 +1,21 @@
 # James Daily Briefing
 
-Generated: 2026-04-13T03:27:42.592895Z
+Generated: 2026-04-13T03:41:42.342787Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Ukraine war briefing: Easter truce expires as both sides accuse the other of violations, Eric Swalwell quits California governor race after sexual assault allegations, and Texas Students Call for Inclusion in Social Studies Overhaul.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Middle East crisis live: Iran warns US blockade of strait of Hormuz would violate ceasefire, Ukraine war briefing: Easter truce expires as both sides accuse the other of violations, and Eric Swalwell quits California governor race after sexual assault allegations.
 
 ## Briefing
 
-### 1. Ukraine war briefing: Easter truce expires as both sides accuse the other of violations [10/10]
+### 1. Middle East crisis live: Iran warns US blockade of strait of Hormuz would violate ceasefire [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Centcom says blockade of Iranian ports to begin at 10am ET; Iran’s negotiator says ‘we will not bow to threats’; oil prices rise.
+
+Link: https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates
+
+### 2. Ukraine war briefing: Easter truce expires as both sides accuse the other of violations [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -15,7 +24,7 @@ Ukraine records more than 2,000 violations, Russia claims 1,900. Zelenskyy congr
 
 Link: https://www.theguardian.com/world/2026/apr/13/ukraine-war-briefing-easter-truce-expires-as-both-sides-accuse-the-other-of-violations
 
-### 2. Eric Swalwell quits California governor race after sexual assault allegations [10/10]
+### 3. Eric Swalwell quits California governor race after sexual assault allegations [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -24,7 +33,7 @@ Democratic congressman, running to replace Gavin Newsom, has faced multiple accu
 
 Link: https://www.theguardian.com/us-news/2026/apr/12/eric-swalwell-quits-california-governor
 
-### 3. Texas Students Call for Inclusion in Social Studies Overhaul [10/10]
+### 4. Texas Students Call for Inclusion in Social Studies Overhaul [10/10]
 **Source:** The 74  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -33,7 +42,7 @@ State officials, activists and educators have largely shaped public dialogue abo
 
 Link: https://www.the74million.org/article/texas-students-call-for-inclusion-in-social-studies-overhaul/
 
-### 4. Cult horror game Doki Doki Literature Club pulled from Google Play Store for its "depiction of sensitive themes" and content that "violates" its TOS [10/10]
+### 5. Cult horror game Doki Doki Literature Club pulled from Google Play Store for its "depiction of sensitive themes" and content that "violates" its TOS [10/10]
 **Source:** Eurogamer  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,7 +51,7 @@ Visual novel horror Doki Doki Literature Club has been pulled from Google Play S
 
 Link: https://www.eurogamer.net/cult-horror-game-doki-doki-literature-club-pulled-from-google-play-store-for-its-depiction-of-sensitive-themes-and-content-that-violates-its-tos
 
-### 5. Rockstar Games says hack will have ‘no impact’ [10/10]
+### 6. Rockstar Games says hack will have ‘no impact’ [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,7 +60,7 @@ Rockstar confirmed on Saturday that some of its data was compromised in a breach
 
 Link: https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact
 
-### 6. Planeloads of negotiators and too little time: US and Iran’s 21 hours of talks [10/10]
+### 7. Planeloads of negotiators and too little time: US and Iran’s 21 hours of talks [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -60,7 +69,7 @@ The two sides turned up to test one another’s resolve.
 
 Link: https://www.theguardian.com/world/2026/apr/12/us-iran-21-hours-talks-war-vance-pakistan
 
-### 7. The United States is destroying itself | Rebecca Solnit [10/10]
+### 8. The United States is destroying itself | Rebecca Solnit [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,7 +78,7 @@ The daily news can’t adequately convey the administration’s sabotaging of ou
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction
 
-### 8. Starfield PS5 players demand refunds, reporting widespread bugs and glitches that leave the game "unplayable" [9/10]
+### 9. Starfield PS5 players demand refunds, reporting widespread bugs and glitches that leave the game "unplayable" [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -78,7 +87,7 @@ Within days of Starfield 's much-anticipated launch on PS5, fans are complaining
 
 Link: https://www.eurogamer.net/starfield-ps5-players-demand-refunds-reporting-widespread-bugs-and-glitches-that-leave-the-game-unplayable
 
-### 9. You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2 [9/10]
+### 10. You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2 [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -87,7 +96,7 @@ In celebration of The Super Mario Galaxy Movie coming to theaters, Nintendo is m
 
 Link: https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale
 
-### 10. ‘Disbelief and disappointment’: how Javier Milei’s bribery scandal may have derailed Argentina’s crypto investment [9/10]
+### 11. ‘Disbelief and disappointment’: how Javier Milei’s bribery scandal may have derailed Argentina’s crypto investment [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -95,15 +104,6 @@ Link: https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-gala
 Just as the industry is set to capitalize on country’s political and economic instability, president accused in $5m scheme The Argentinian president, Javier Milei , is facing his lowest approval ratings since taking office in 2023 as newly…
 
 Link: https://www.theguardian.com/world/2026/apr/12/crypto-javier-milei-bribery-argentina
-
-### 11. Shock from Iran war has Trump's vision for US energy dominance flailing [9/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Record domestic oil and gas production hasn't saved US drivers from price spikes.
-
-Link: https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/
 
 ### 12. Opinion: Why Some Students Don’t Raise Their Hands. How Early Education Can Change That [9/10]
 **Source:** The 74  

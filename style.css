@@ -501,6 +501,14 @@ select { font: inherit; color: inherit; }
   font-size: 1.01rem;
 }
 .widget-link:hover { color: var(--color-accent); }
+.widget-link-block { margin-top: 0.25rem; }
+.widget-detail {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.5;
+}
+.widget-group .widget-item .widget-link { margin-top: 0.1rem; }
+.widget-group .widget-item + .widget-item .widget-link { margin-top: 0.35rem; }
 .widget-meta {
   display: inline-flex;
   align-items: center;
