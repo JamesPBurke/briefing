@@ -315,6 +315,7 @@ select { font: inherit; color: inherit; }
   padding: var(--space-8) var(--space-6);
   display: grid;
   grid-template-columns: 1fr 280px;
+  grid-template-areas: 'main sidebar';
   gap: var(--space-10);
   align-items: start;
 }
