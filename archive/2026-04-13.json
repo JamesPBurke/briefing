@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-13T18:01:17.303776Z",
+  "generatedAt": "2026-04-13T18:01:35.003348Z",
   "generatedAtDisplay": "2026-04-13 02:01 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
@@ -87,16 +87,6 @@
       "score": 10
     },
     {
-      "title": "Gettin’ Goopy with James Gunn’s ‘Slither’ [Horror Queers Podcast]",
-      "source": "Bloody Disgusting",
-      "category": "Democracy / press freedom",
-      "url": "https://bloody-disgusting.com/podcasts/3944829/slither-horror-queers-podcast/",
-      "published": "2026-04-13T13:30:53+00:00",
-      "summary": "Marriage is a sacred bond… After concluding March discussing of the classic folk horror film The Wicker Man (listen) and observing the Easter holiday in Critters 2: The Main Course (listen), we’re gonna shine up our boots at the local Deer…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "To Fill Teacher Vacancies, SC Could Accept Certificates From Other States",
       "source": "The 74",
       "category": "Education / pedagogy",
@@ -104,6 +94,16 @@
       "published": "2026-04-13T12:30:00+00:00",
       "summary": "Teachers from certain other states could start working in South Carolina classrooms more quickly under a bill a House committee advanced Thursday.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
+      "source": "MIT Technology Review",
+      "category": "Democracy / press freedom",
+      "url": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/",
+      "published": "2026-04-13T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -149,6 +149,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 7
+    "sourceCount": 6
   }
 }

@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-13T18:01:17.303776Z
+Generated: 2026-04-13T18:01:35.003348Z
 
 Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / privacy. The strongest items in this run are Microsoft is testing OpenClaw-like AI bots for Copilot, Trump media company drops lawsuit against the Guardian, and Read OpenAI’s latest internal memo about beating the competition — including Anthropic.
 
@@ -78,16 +78,7 @@ Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with
 
 Link: https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone
 
-### 9. Gettin’ Goopy with James Gunn’s ‘Slither’ [Horror Queers Podcast] [10/10]
-**Source:** Bloody Disgusting  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Marriage is a sacred bond… After concluding March discussing of the classic folk horror film The Wicker Man (listen) and observing the Easter holiday in Critters 2: The Main Course (listen), we’re gonna shine up our boots at the local Deer…
-
-Link: https://bloody-disgusting.com/podcasts/3944829/slither-horror-queers-podcast/
-
-### 10. To Fill Teacher Vacancies, SC Could Accept Certificates From Other States [10/10]
+### 9. To Fill Teacher Vacancies, SC Could Accept Certificates From Other States [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -95,6 +86,15 @@ Link: https://bloody-disgusting.com/podcasts/3944829/slither-horror-queers-podca
 Teachers from certain other states could start working in South Carolina classrooms more quickly under a bill a House committee advanced Thursday.
 
 Link: https://www.the74million.org/article/to-fill-teacher-vacancies-sc-could-accept-certificates-from-other-states/
+
+### 10. The Download: how humans make decisions, and Moderna’s “vaccine” word games [10/10]
+**Source:** MIT Technology Review  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/
 
 ### 11. Middle East crisis live: Donald Trump claims Iran ‘wants to work a deal’ and confirms blockade of strait of Hormuz [9/10]
 **Source:** The Guardian US  
