@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-13T02:28:15.609155Z
+Generated: 2026-04-13T02:32:34.000360Z
 
 Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Ukraine war briefing: Easter truce expires as both sides accuse the other of violations, Eric Swalwell quits California governor race after sexual assault allegations, and Texas Students Call for Inclusion in Social Studies Overhaul.
 
@@ -152,14 +152,14 @@ Link: https://www.youtube.com/watch?v=abBGDjaXhKg
 
 Link: https://www.youtube.com/watch?v=S3qaozFuPKg
 
-### Jean Smart and Hannah Einbinder on how they evolved with their characters on 'Hacks' [8/10]
-**Creator:** NPR  
+### NVIDIA’s New AI Shouldn’t Work…But It Does [8/10]
+**Creator:** Two Minute Papers  
 **Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-Hannah Einbinder and Jean Smart have spent five seasons getting to know each other as co-stars on HBO Max's "Hacks." Their characters have evolved — and so have they.
+❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://dreamdojo-world.github.io/ Our Patreon if you wish to support us: https://www.patreon.
 
-Link: https://www.youtube.com/watch?v=mavNmZdyh2E
+Link: https://www.youtube.com/watch?v=mFSFvKquXwI
 
 ## Entertainment Recommendations
 
