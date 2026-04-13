@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-13T03:49:28.642570Z
+Generated: 2026-04-13T03:57:57.337058Z
 
 Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Middle East crisis live: Iran warns US blockade of strait of Hormuz would violate ceasefire, Ukraine war briefing: Easter truce expires as both sides accuse the other of violations, and Eric Swalwell quits California governor race after sexual assault allegations.
 
@@ -87,16 +87,7 @@ Within days of Starfield 's much-anticipated launch on PS5, fans are complaining
 
 Link: https://www.eurogamer.net/starfield-ps5-players-demand-refunds-reporting-widespread-bugs-and-glitches-that-leave-the-game-unplayable
 
-### 10. You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2 [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-In celebration of The Super Mario Galaxy Movie coming to theaters, Nintendo is making it a little cheaper to get both Super Mario Galaxy games when you buy a $449.99 Nintendo Switch 2 console.
-
-Link: https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale
-
-### 11. ‘Disbelief and disappointment’: how Javier Milei’s bribery scandal may have derailed Argentina’s crypto investment [9/10]
+### 10. ‘Disbelief and disappointment’: how Javier Milei’s bribery scandal may have derailed Argentina’s crypto investment [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -105,7 +96,7 @@ Just as the industry is set to capitalize on country’s political and economic 
 
 Link: https://www.theguardian.com/world/2026/apr/12/crypto-javier-milei-bribery-argentina
 
-### 12. Opinion: Why Some Students Don’t Raise Their Hands. How Early Education Can Change That [9/10]
+### 11. Opinion: Why Some Students Don’t Raise Their Hands. How Early Education Can Change That [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -113,6 +104,15 @@ Link: https://www.theguardian.com/world/2026/apr/12/crypto-javier-milei-bribery-
 By the time children reach elementary school, teachers can usually predict which students will volunteer answers, speak easily in front of the class and move comfortably through discussion — and which will hesitate, look down or remain…
 
 Link: https://www.the74million.org/article/why-some-students-dont-raise-their-hands-how-early-education-can-change-that/
+
+### 12. You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2 [8/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+In celebration of The Super Mario Galaxy Movie coming to theaters, Nintendo is making it a little cheaper to get both Super Mario Galaxy games when you buy a $449.99 Nintendo Switch 2 console.
+
+Link: https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale
 
 ### 13. The real space science behind 'Project Hail Mary' [8/10]
 **Source:** NPR Health  

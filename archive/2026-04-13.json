@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-13T03:49:28.642570Z",
-  "generatedAtDisplay": "2026-04-12 11:49 PM EDT",
+  "generatedAt": "2026-04-13T03:57:57.337058Z",
+  "generatedAtDisplay": "2026-04-12 11:57 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
   "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Middle East crisis live: Iran warns US blockade of strait of Hormuz would violate ceasefire, Ukraine war briefing: Easter truce expires as both sides accuse the other of violations, and Eric Swalwell quits California governor race after sexual assault allegations.",
@@ -97,16 +97,6 @@
       "score": 9
     },
     {
-      "title": "You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale",
-      "published": "2026-04-12T15:52:31+00:00",
-      "summary": "In celebration of The Super Mario Galaxy Movie coming to theaters, Nintendo is making it a little cheaper to get both Super Mario Galaxy games when you buy a $449.99 Nintendo Switch 2 console.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
       "title": "‘Disbelief and disappointment’: how Javier Milei’s bribery scandal may have derailed Argentina’s crypto investment",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
@@ -125,6 +115,16 @@
       "summary": "By the time children reach elementary school, teachers can usually predict which students will volunteer answers, speak easily in front of the class and move comfortably through discussion — and which will hesitate, look down or remain…",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 9
+    },
+    {
+      "title": "You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale",
+      "published": "2026-04-12T15:52:31+00:00",
+      "summary": "In celebration of The Super Mario Galaxy Movie coming to theaters, Nintendo is making it a little cheaper to get both Super Mario Galaxy games when you buy a $449.99 Nintendo Switch 2 console.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 8
     },
     {
       "title": "The real space science behind 'Project Hail Mary'",
