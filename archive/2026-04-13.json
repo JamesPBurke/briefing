@@ -1,10 +1,10 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-13T03:23:41.978330Z",
-  "generatedAtDisplay": "2026-04-12 11:23 PM EDT",
+  "generatedAt": "2026-04-13T03:27:42.592895Z",
+  "generatedAtDisplay": "2026-04-12 11:27 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Ukraine war briefing: Easter truce expires as both sides accuse the other of violations, Eric Swalwell quits California governor race after sexual assault allegations, and Texas Students Call for Inclusion in Social Studies Overhaul.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Ukraine war briefing: Easter truce expires as both sides accuse the other of violations, Eric Swalwell quits California governor race after sexual assault allegations, and Texas Students Call for Inclusion in Social Studies Overhaul.",
   "mainItems": [
     {
       "title": "Ukraine war briefing: Easter truce expires as both sides accuse the other of violations",
@@ -97,22 +97,22 @@
       "score": 9
     },
     {
-      "title": "New report claims Microsoft is considering changing Day One access to Call of Duty on Game Pass",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/new-report-claims-microsoft-is-considering-changing-day-one-access-to-call-of-duty-on-game-pass",
-      "published": "2026-04-12T15:25:45+00:00",
-      "summary": "Microsoft is reportedly considering dropping Call of Duty from its Game Pass Day One offering. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
       "title": "‘Disbelief and disappointment’: how Javier Milei’s bribery scandal may have derailed Argentina’s crypto investment",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/world/2026/apr/12/crypto-javier-milei-bribery-argentina",
       "published": "2026-04-12T13:00:18+00:00",
       "summary": "Just as the industry is set to capitalize on country’s political and economic instability, president accused in $5m scheme The Argentinian president, Javier Milei , is facing his lowest approval ratings since taking office in 2023 as newly…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Shock from Iran war has Trump's vision for US energy dominance flailing",
+      "source": "Ars Technica",
+      "category": "Democracy / press freedom",
+      "url": "https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/",
+      "published": "2026-04-12T11:17:26+00:00",
+      "summary": "Record domestic oil and gas production hasn't saved US drivers from price spikes.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
@@ -268,6 +268,6 @@
     "mainCount": 13,
     "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 10
+    "sourceCount": 11
   }
 }

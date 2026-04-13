@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-13T03:23:41.978330Z
+Generated: 2026-04-13T03:27:42.592895Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Ukraine war briefing: Easter truce expires as both sides accuse the other of violations, Eric Swalwell quits California governor race after sexual assault allegations, and Texas Students Call for Inclusion in Social Studies Overhaul.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Ukraine war briefing: Easter truce expires as both sides accuse the other of violations, Eric Swalwell quits California governor race after sexual assault allegations, and Texas Students Call for Inclusion in Social Studies Overhaul.
 
 ## Briefing
 
@@ -87,16 +87,7 @@ In celebration of The Super Mario Galaxy Movie coming to theaters, Nintendo is m
 
 Link: https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale
 
-### 10. New report claims Microsoft is considering changing Day One access to Call of Duty on Game Pass [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Microsoft is reportedly considering dropping Call of Duty from its Game Pass Day One offering. Read more
-
-Link: https://www.eurogamer.net/new-report-claims-microsoft-is-considering-changing-day-one-access-to-call-of-duty-on-game-pass
-
-### 11. ‘Disbelief and disappointment’: how Javier Milei’s bribery scandal may have derailed Argentina’s crypto investment [9/10]
+### 10. ‘Disbelief and disappointment’: how Javier Milei’s bribery scandal may have derailed Argentina’s crypto investment [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -104,6 +95,15 @@ Link: https://www.eurogamer.net/new-report-claims-microsoft-is-considering-chang
 Just as the industry is set to capitalize on country’s political and economic instability, president accused in $5m scheme The Argentinian president, Javier Milei , is facing his lowest approval ratings since taking office in 2023 as newly…
 
 Link: https://www.theguardian.com/world/2026/apr/12/crypto-javier-milei-bribery-argentina
+
+### 11. Shock from Iran war has Trump's vision for US energy dominance flailing [9/10]
+**Source:** Ars Technica  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Record domestic oil and gas production hasn't saved US drivers from price spikes.
+
+Link: https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/
 
 ### 12. Opinion: Why Some Students Don’t Raise Their Hands. How Early Education Can Change That [9/10]
 **Source:** The 74  
