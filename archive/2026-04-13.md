@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-13T03:41:42.342787Z
+Generated: 2026-04-13T03:47:55.386879Z
 
 Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Middle East crisis live: Iran warns US blockade of strait of Hormuz would violate ceasefire, Ukraine war briefing: Easter truce expires as both sides accuse the other of violations, and Eric Swalwell quits California governor race after sexual assault allegations.
 
