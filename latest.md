@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-13T03:14:21.910662Z
+Generated: 2026-04-13T03:23:41.978330Z
 
 Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Ukraine war briefing: Easter truce expires as both sides accuse the other of violations, Eric Swalwell quits California governor race after sexual assault allegations, and Texas Students Call for Inclusion in Social Studies Overhaul.
 
