@@ -1,11 +1,121 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-13T09:00:34.579682Z",
-  "generatedAtDisplay": "2026-04-13 05:00 AM EDT",
+  "generatedAt": "2026-04-13T14:00:01.938151Z",
+  "generatedAtDisplay": "2026-04-13 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Euphoria season three review – grubby, desperate and absolutely not worth the wait, Ukraine war briefing: Easter truce expires as both sides accuse the other of violations, and Rockstar Games says hack will have ‘no impact’.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Mark Zuckerberg is reportedly building an AI clone to replace him in meetings, To Fill Teacher Vacancies, SC Could Accept Certificates From Other States, and The Download: how humans make decisions, and Moderna’s “vaccine” word games.",
   "mainItems": [
+    {
+      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+      "published": "2026-04-13T13:40:03+00:00",
+      "summary": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "To Fill Teacher Vacancies, SC Could Accept Certificates From Other States",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/to-fill-teacher-vacancies-sc-could-accept-certificates-from-other-states/",
+      "published": "2026-04-13T12:30:00+00:00",
+      "summary": "Teachers from certain other states could start working in South Carolina classrooms more quickly under a bill a House committee advanced Thursday.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
+      "source": "MIT Technology Review",
+      "category": "Democracy / press freedom",
+      "url": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/",
+      "published": "2026-04-13T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Sticker shock: LA residents alarmed by price of 2028 Olympics presale tickets",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/sport/2026/apr/13/los-angeles-olympics-2028-ticket-prices-residents",
+      "published": "2026-04-13T11:00:39+00:00",
+      "summary": "LA28 set aside tickets for LA and Oklahoma City residents, but some say they faced exorbitant prices and high fees Since tickets for the 2028 Olympics in Los Angeles went on sale for local residents on 2 April, excitement for the Games has…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "To teach in the time of ChatGPT is to know pain",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/",
+      "published": "2026-04-13T11:00:32+00:00",
+      "summary": "LLM use is the most demoralizing problem I’ve faced as a college instructor.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Teacher Empowerment with CSTA Responsible AI Fellow Matt Alonzo",
+      "source": "CSTA",
+      "category": "Education / pedagogy",
+      "url": "https://csteachers.org/teacher-empowerment-with-csta-responsible-ai-fellow-matt-alonzo/",
+      "published": "2026-04-13T11:00:00+00:00",
+      "summary": "Matt Alonzo is a veteran mathematics teacher and has been teaching computer science at Parkway North High School in St....",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "\"Mads Mikkelsen in Hannibal but with flair\" - Casting calls for Hideo Kojima's new PlayStation-published spy game Physint give new clues about what to expect",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/new-hideo-kojima-game-physint-casting-details",
+      "published": "2026-04-13T10:56:39+00:00",
+      "summary": "With Death Stranding 2 now behind us, Kojima Productions' future includes horror game OD and the new espionage game Physint , which will be published on PlayStation by Sony.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "New Switch 2 games Splatoon Raiders and Fire Emblem: Fortune's Weave age-rated in Europe",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/switch-2-splatoon-raiders-and-fire-emblem-fortunes-weave-pegi-age-ratings",
+      "published": "2026-04-13T10:21:46+00:00",
+      "summary": "Once Tomodachi Life: Living the Dream and Yoshi and the Mysterious Book are out later this week and next month, Nintendo's first-party roadmap is a bit of a mystery.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "You have no choice in reading this article—maybe",
+      "source": "MIT Technology Review",
+      "category": "Democracy / press freedom",
+      "url": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
+      "published": "2026-04-13T10:00:00+00:00",
+      "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Roblox has games again",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/910699/roblox-games-experiences-switch-friends-connections",
+      "published": "2026-04-13T09:24:42+00:00",
+      "summary": "Roblox is making a subtle but notable change. After swapping the word \"game\" for \"experience\" all over its website and mobile apps in 2021 while the Epic Games v.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "TikTok psychic seeks relief from $10m verdict for false claims in Idaho student murders",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/apr/13/university-of-idaho-murders-tiktok-psychic",
+      "published": "2026-04-13T09:00:41+00:00",
+      "summary": "Tarot card reader Ashley Guillard, who falsely accused history professor Rebecca Scofield, plans to appeal Sign up for the Breaking News US email to get newsletter alerts in your inbox A self-proclaimed psychic who in TikTok videos falsely…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
     {
       "title": "Euphoria season three review – grubby, desperate and absolutely not worth the wait",
       "source": "The Guardian US",
@@ -17,124 +127,14 @@
       "score": 10
     },
     {
-      "title": "Ukraine war briefing: Easter truce expires as both sides accuse the other of violations",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/apr/13/ukraine-war-briefing-easter-truce-expires-as-both-sides-accuse-the-other-of-violations",
-      "published": "2026-04-13T01:22:03+00:00",
-      "summary": "Ukraine records more than 2,000 violations, Russia claims 1,900. Zelenskyy congratulates Hungary’s Péter Magyar.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Rockstar Games says hack will have ‘no impact’",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact",
-      "published": "2026-04-12T17:02:24+00:00",
-      "summary": "Rockstar confirmed on Saturday that some of its data was compromised in a breach of a third-party provider.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The United States is destroying itself | Rebecca Solnit",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction",
-      "published": "2026-04-12T10:00:14+00:00",
-      "summary": "The daily news can’t adequately convey the administration’s sabotaging of our government, economy, alliances and environment The United States is being murdered, and it’s an inside job.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Middle East crisis live: US blockade of Iran’s ports to begin later today as Trump says he doesn’t care about further talks",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
-      "published": "2026-04-13T08:44:42+00:00",
-      "summary": "Centcom says blockade to begin at 10am ET; US president says ‘I don’t care if they come back or not’ Full report: Trump says US will blockade strait of Hormuz after Iran peace talks fail Planeloads of negotiators and too little time: US…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Eric Swalwell quits California governor race after sexual assault allegations",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/12/eric-swalwell-quits-california-governor",
-      "published": "2026-04-13T01:08:44+00:00",
-      "summary": "Democratic congressman, running to replace Gavin Newsom, has faced multiple accusations Representative Eric Swalwell, the Democratic frontrunner in the fiercely contested race to be governor of California, has suspended his campaign amid a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Texas Students Call for Inclusion in Social Studies Overhaul",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/texas-students-call-for-inclusion-in-social-studies-overhaul/",
-      "published": "2026-04-12T18:30:00+00:00",
-      "summary": "State officials, activists and educators have largely shaped public dialogue about Texas’ social studies overhaul, but young people added their voices to the conversation Tuesday, calling for instruction that includes diverse perspectives…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Cult horror game Doki Doki Literature Club pulled from Google Play Store for its \"depiction of sensitive themes\" and content that \"violates\" its TOS",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/cult-horror-game-doki-doki-literature-club-pulled-from-google-play-store-for-its-depiction-of-sensitive-themes-and-content-that-violates-its-tos",
-      "published": "2026-04-12T18:07:34+00:00",
-      "summary": "Visual novel horror Doki Doki Literature Club has been pulled from Google Play Store for violating the Terms of Service and its \"depiction of sensitive themes\". Read more",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "‘Disbelief and disappointment’: how Javier Milei’s bribery scandal may have derailed Argentina’s crypto investment",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/apr/12/crypto-javier-milei-bribery-argentina",
-      "published": "2026-04-12T13:00:18+00:00",
-      "summary": "Just as the industry is set to capitalize on country’s political and economic instability, president accused in $5m scheme The Argentinian president, Javier Milei , is facing his lowest approval ratings since taking office in 2023 as newly…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Shock from Iran war has Trump's vision for US energy dominance flailing",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/",
-      "published": "2026-04-12T11:17:26+00:00",
-      "summary": "Record domestic oil and gas production hasn't saved US drivers from price spikes.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: Why Some Students Don’t Raise Their Hands. How Early Education Can Change That",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/why-some-students-dont-raise-their-hands-how-early-education-can-change-that/",
-      "published": "2026-04-12T10:30:00+00:00",
-      "summary": "By the time children reach elementary school, teachers can usually predict which students will volunteer answers, speak easily in front of the class and move comfortably through discussion — and which will hesitate, look down or remain…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Starfield PS5 players demand refunds, reporting widespread bugs and glitches that leave the game \"unplayable\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/starfield-ps5-players-demand-refunds-reporting-widespread-bugs-and-glitches-that-leave-the-game-unplayable",
-      "published": "2026-04-12T17:35:31+00:00",
-      "summary": "Within days of Starfield 's much-anticipated launch on PS5, fans are complaining of \" totally unsurprising \" crashes , freezes , and save issues , with some calling the game \" unplayable \" in its current state. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8
-    },
-    {
-      "title": "You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale",
-      "published": "2026-04-12T15:52:31+00:00",
-      "summary": "In celebration of The Super Mario Galaxy Movie coming to theaters, Nintendo is making it a little cheaper to get both Super Mario Galaxy games when you buy a $449.99 Nintendo Switch 2 console.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
+      "title": "WebinarTV Secretly Scraped Zoom Meetings of Anonymous Recovery Programs",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/webinartv-secretly-scraped-zoom-meetings-of-anonymous-recovery-programs/",
+      "published": "2026-04-13T13:15:01+00:00",
+      "summary": "WebinarTV scraped and shared 12 steps-based anonymous meetings for people recovering from addiction and other private support groups.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
     }
   ],
   "youtube": [
@@ -268,6 +268,6 @@
     "mainCount": 13,
     "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 10
+    "sourceCount": 13
   }
 }

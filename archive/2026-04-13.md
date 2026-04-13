@@ -1,12 +1,111 @@
 # James Daily Briefing
 
-Generated: 2026-04-13T09:00:34.579682Z
+Generated: 2026-04-13T14:00:01.938151Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Euphoria season three review – grubby, desperate and absolutely not worth the wait, Ukraine war briefing: Easter truce expires as both sides accuse the other of violations, and Rockstar Games says hack will have ‘no impact’.
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Mark Zuckerberg is reportedly building an AI clone to replace him in meetings, To Fill Teacher Vacancies, SC Could Accept Certificates From Other States, and The Download: how humans make decisions, and Moderna’s “vaccine” word games.
 
 ## Briefing
 
-### 1. Euphoria season three review – grubby, desperate and absolutely not worth the wait [10/10]
+### 1. Mark Zuckerberg is reportedly building an AI clone to replace him in meetings [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times.
+
+Link: https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone
+
+### 2. To Fill Teacher Vacancies, SC Could Accept Certificates From Other States [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Teachers from certain other states could start working in South Carolina classrooms more quickly under a bill a House committee advanced Thursday.
+
+Link: https://www.the74million.org/article/to-fill-teacher-vacancies-sc-could-accept-certificates-from-other-states/
+
+### 3. The Download: how humans make decisions, and Moderna’s “vaccine” word games [10/10]
+**Source:** MIT Technology Review  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/
+
+### 4. Sticker shock: LA residents alarmed by price of 2028 Olympics presale tickets [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+LA28 set aside tickets for LA and Oklahoma City residents, but some say they faced exorbitant prices and high fees Since tickets for the 2028 Olympics in Los Angeles went on sale for local residents on 2 April, excitement for the Games has…
+
+Link: https://www.theguardian.com/sport/2026/apr/13/los-angeles-olympics-2028-ticket-prices-residents
+
+### 5. To teach in the time of ChatGPT is to know pain [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+LLM use is the most demoralizing problem I’ve faced as a college instructor.
+
+Link: https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/
+
+### 6. Teacher Empowerment with CSTA Responsible AI Fellow Matt Alonzo [10/10]
+**Source:** CSTA  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Matt Alonzo is a veteran mathematics teacher and has been teaching computer science at Parkway North High School in St....
+
+Link: https://csteachers.org/teacher-empowerment-with-csta-responsible-ai-fellow-matt-alonzo/
+
+### 7. "Mads Mikkelsen in Hannibal but with flair" - Casting calls for Hideo Kojima's new PlayStation-published spy game Physint give new clues about what to expect [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+With Death Stranding 2 now behind us, Kojima Productions' future includes horror game OD and the new espionage game Physint , which will be published on PlayStation by Sony.
+
+Link: https://www.eurogamer.net/new-hideo-kojima-game-physint-casting-details
+
+### 8. New Switch 2 games Splatoon Raiders and Fire Emblem: Fortune's Weave age-rated in Europe [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Once Tomodachi Life: Living the Dream and Yoshi and the Mysterious Book are out later this week and next month, Nintendo's first-party roadmap is a bit of a mystery.
+
+Link: https://www.eurogamer.net/switch-2-splatoon-raiders-and-fire-emblem-fortunes-weave-pegi-age-ratings
+
+### 9. You have no choice in reading this article—maybe [10/10]
+**Source:** MIT Technology Review  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion.
+
+Link: https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/
+
+### 10. Roblox has games again [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Roblox is making a subtle but notable change. After swapping the word "game" for "experience" all over its website and mobile apps in 2021 while the Epic Games v.
+
+Link: https://www.theverge.com/games/910699/roblox-games-experiences-switch-friends-connections
+
+### 11. TikTok psychic seeks relief from $10m verdict for false claims in Idaho student murders [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Tarot card reader Ashley Guillard, who falsely accused history professor Rebecca Scofield, plans to appeal Sign up for the Breaking News US email to get newsletter alerts in your inbox A self-proclaimed psychic who in TikTok videos falsely…
+
+Link: https://www.theguardian.com/us-news/2026/apr/13/university-of-idaho-murders-tiktok-psychic
+
+### 12. Euphoria season three review – grubby, desperate and absolutely not worth the wait [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -15,113 +114,14 @@ What a relief that this is the end for Sam Levison’s grim drama. A show which 
 
 Link: https://www.theguardian.com/tv-and-radio/2026/apr/13/euphoria-season-three-review-sydney-sweeney-zendaya-hbo
 
-### 2. Ukraine war briefing: Easter truce expires as both sides accuse the other of violations [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 13. WebinarTV Secretly Scraped Zoom Meetings of Anonymous Recovery Programs [7/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-Ukraine records more than 2,000 violations, Russia claims 1,900. Zelenskyy congratulates Hungary’s Péter Magyar.
+WebinarTV scraped and shared 12 steps-based anonymous meetings for people recovering from addiction and other private support groups.
 
-Link: https://www.theguardian.com/world/2026/apr/13/ukraine-war-briefing-easter-truce-expires-as-both-sides-accuse-the-other-of-violations
-
-### 3. Rockstar Games says hack will have ‘no impact’ [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Rockstar confirmed on Saturday that some of its data was compromised in a breach of a third-party provider.
-
-Link: https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact
-
-### 4. The United States is destroying itself | Rebecca Solnit [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The daily news can’t adequately convey the administration’s sabotaging of our government, economy, alliances and environment The United States is being murdered, and it’s an inside job.
-
-Link: https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction
-
-### 5. Middle East crisis live: US blockade of Iran’s ports to begin later today as Trump says he doesn’t care about further talks [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Centcom says blockade to begin at 10am ET; US president says ‘I don’t care if they come back or not’ Full report: Trump says US will blockade strait of Hormuz after Iran peace talks fail Planeloads of negotiators and too little time: US…
-
-Link: https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates
-
-### 6. Eric Swalwell quits California governor race after sexual assault allegations [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Democratic congressman, running to replace Gavin Newsom, has faced multiple accusations Representative Eric Swalwell, the Democratic frontrunner in the fiercely contested race to be governor of California, has suspended his campaign amid a…
-
-Link: https://www.theguardian.com/us-news/2026/apr/12/eric-swalwell-quits-california-governor
-
-### 7. Texas Students Call for Inclusion in Social Studies Overhaul [9/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-State officials, activists and educators have largely shaped public dialogue about Texas’ social studies overhaul, but young people added their voices to the conversation Tuesday, calling for instruction that includes diverse perspectives…
-
-Link: https://www.the74million.org/article/texas-students-call-for-inclusion-in-social-studies-overhaul/
-
-### 8. Cult horror game Doki Doki Literature Club pulled from Google Play Store for its "depiction of sensitive themes" and content that "violates" its TOS [9/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Visual novel horror Doki Doki Literature Club has been pulled from Google Play Store for violating the Terms of Service and its "depiction of sensitive themes". Read more
-
-Link: https://www.eurogamer.net/cult-horror-game-doki-doki-literature-club-pulled-from-google-play-store-for-its-depiction-of-sensitive-themes-and-content-that-violates-its-tos
-
-### 9. ‘Disbelief and disappointment’: how Javier Milei’s bribery scandal may have derailed Argentina’s crypto investment [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Just as the industry is set to capitalize on country’s political and economic instability, president accused in $5m scheme The Argentinian president, Javier Milei , is facing his lowest approval ratings since taking office in 2023 as newly…
-
-Link: https://www.theguardian.com/world/2026/apr/12/crypto-javier-milei-bribery-argentina
-
-### 10. Shock from Iran war has Trump's vision for US energy dominance flailing [9/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Record domestic oil and gas production hasn't saved US drivers from price spikes.
-
-Link: https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/
-
-### 11. Opinion: Why Some Students Don’t Raise Their Hands. How Early Education Can Change That [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-By the time children reach elementary school, teachers can usually predict which students will volunteer answers, speak easily in front of the class and move comfortably through discussion — and which will hesitate, look down or remain…
-
-Link: https://www.the74million.org/article/why-some-students-dont-raise-their-hands-how-early-education-can-change-that/
-
-### 12. Starfield PS5 players demand refunds, reporting widespread bugs and glitches that leave the game "unplayable" [8/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Within days of Starfield 's much-anticipated launch on PS5, fans are complaining of " totally unsurprising " crashes , freezes , and save issues , with some calling the game " unplayable " in its current state. Read more
-
-Link: https://www.eurogamer.net/starfield-ps5-players-demand-refunds-reporting-widespread-bugs-and-glitches-that-leave-the-game-unplayable
-
-### 13. You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2 [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-In celebration of The Super Mario Galaxy Movie coming to theaters, Nintendo is making it a little cheaper to get both Super Mario Galaxy games when you buy a $449.99 Nintendo Switch 2 console.
-
-Link: https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale
+Link: https://www.404media.co/webinartv-secretly-scraped-zoom-meetings-of-anonymous-recovery-programs/
 
 ## YouTube
 
