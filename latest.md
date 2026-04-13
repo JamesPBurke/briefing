@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-13T02:32:34.000360Z
+Generated: 2026-04-13T03:14:21.910662Z
 
 Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Ukraine war briefing: Easter truce expires as both sides accuse the other of violations, Eric Swalwell quits California governor race after sexual assault allegations, and Texas Students Call for Inclusion in Social Studies Overhaul.
 
@@ -143,15 +143,6 @@ Two long-awaited baby eaglets have hatched in a nest east of Los Angeles. Tens o
 
 Link: https://www.youtube.com/watch?v=abBGDjaXhKg
 
-### Daytona USA/Sega Model 2 Runs Great on MAME - Finally! [8/10]
-**Creator:** Digital Foundry  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Nk1nIC2Wuec ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=S3qaozFuPKg
-
 ### NVIDIA’s New AI Shouldn’t Work…But It Does [8/10]
 **Creator:** Two Minute Papers  
 **Verdict:** Worth watching  
@@ -160,6 +151,15 @@ Link: https://www.youtube.com/watch?v=S3qaozFuPKg
 ❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://dreamdojo-world.github.io/ Our Patreon if you wish to support us: https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=mFSFvKquXwI
+
+### Justice Department launches its new fraud enforcement division [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Acting U.S. Attorney General Todd Blanche says the Justice Department is officially launching its new National Fraud Enforcement Division.
+
+Link: https://www.youtube.com/watch?v=-2fbEfO2rvQ
 
 ## Entertainment Recommendations
 
