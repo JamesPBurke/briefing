@@ -1,12 +1,21 @@
 # James Daily Briefing
 
-Generated: 2026-04-13T05:00:01.706225Z
+Generated: 2026-04-13T09:00:34.579682Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Ukraine war briefing: Easter truce expires as both sides accuse the other of violations, Eric Swalwell quits California governor race after sexual assault allegations, and Texas Students Call for Inclusion in Social Studies Overhaul.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Euphoria season three review – grubby, desperate and absolutely not worth the wait, Ukraine war briefing: Easter truce expires as both sides accuse the other of violations, and Rockstar Games says hack will have ‘no impact’.
 
 ## Briefing
 
-### 1. Ukraine war briefing: Easter truce expires as both sides accuse the other of violations [10/10]
+### 1. Euphoria season three review – grubby, desperate and absolutely not worth the wait [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+What a relief that this is the end for Sam Levison’s grim drama. A show which was once blackly funny is now humourless torture porn To say that season three of Euphoria is long-awaited would be something of an understatement.
+
+Link: https://www.theguardian.com/tv-and-radio/2026/apr/13/euphoria-season-three-review-sydney-sweeney-zendaya-hbo
+
+### 2. Ukraine war briefing: Easter truce expires as both sides accuse the other of violations [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -15,34 +24,7 @@ Ukraine records more than 2,000 violations, Russia claims 1,900. Zelenskyy congr
 
 Link: https://www.theguardian.com/world/2026/apr/13/ukraine-war-briefing-easter-truce-expires-as-both-sides-accuse-the-other-of-violations
 
-### 2. Eric Swalwell quits California governor race after sexual assault allegations [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Democratic congressman, running to replace Gavin Newsom, has faced multiple accusations Representative Eric Swalwell, the Democratic frontrunner in the fiercely contested race to be governor of California, has suspended his campaign amid a…
-
-Link: https://www.theguardian.com/us-news/2026/apr/12/eric-swalwell-quits-california-governor
-
-### 3. Texas Students Call for Inclusion in Social Studies Overhaul [10/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-State officials, activists and educators have largely shaped public dialogue about Texas’ social studies overhaul, but young people added their voices to the conversation Tuesday, calling for instruction that includes diverse perspectives…
-
-Link: https://www.the74million.org/article/texas-students-call-for-inclusion-in-social-studies-overhaul/
-
-### 4. Cult horror game Doki Doki Literature Club pulled from Google Play Store for its "depiction of sensitive themes" and content that "violates" its TOS [10/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Visual novel horror Doki Doki Literature Club has been pulled from Google Play Store for violating the Terms of Service and its "depiction of sensitive themes". Read more
-
-Link: https://www.eurogamer.net/cult-horror-game-doki-doki-literature-club-pulled-from-google-play-store-for-its-depiction-of-sensitive-themes-and-content-that-violates-its-tos
-
-### 5. Rockstar Games says hack will have ‘no impact’ [10/10]
+### 3. Rockstar Games says hack will have ‘no impact’ [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,16 +33,7 @@ Rockstar confirmed on Saturday that some of its data was compromised in a breach
 
 Link: https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact
 
-### 6. Planeloads of negotiators and too little time: US and Iran’s 21 hours of talks [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The two sides turned up to test one another’s resolve.
-
-Link: https://www.theguardian.com/world/2026/apr/12/us-iran-21-hours-talks-war-vance-pakistan
-
-### 7. The United States is destroying itself | Rebecca Solnit [10/10]
+### 4. The United States is destroying itself | Rebecca Solnit [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,14 +42,41 @@ The daily news can’t adequately convey the administration’s sabotaging of ou
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction
 
-### 8. Starfield PS5 players demand refunds, reporting widespread bugs and glitches that leave the game "unplayable" [9/10]
+### 5. Middle East crisis live: US blockade of Iran’s ports to begin later today as Trump says he doesn’t care about further talks [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Centcom says blockade to begin at 10am ET; US president says ‘I don’t care if they come back or not’ Full report: Trump says US will blockade strait of Hormuz after Iran peace talks fail Planeloads of negotiators and too little time: US…
+
+Link: https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates
+
+### 6. Eric Swalwell quits California governor race after sexual assault allegations [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Democratic congressman, running to replace Gavin Newsom, has faced multiple accusations Representative Eric Swalwell, the Democratic frontrunner in the fiercely contested race to be governor of California, has suspended his campaign amid a…
+
+Link: https://www.theguardian.com/us-news/2026/apr/12/eric-swalwell-quits-california-governor
+
+### 7. Texas Students Call for Inclusion in Social Studies Overhaul [9/10]
+**Source:** The 74  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+State officials, activists and educators have largely shaped public dialogue about Texas’ social studies overhaul, but young people added their voices to the conversation Tuesday, calling for instruction that includes diverse perspectives…
+
+Link: https://www.the74million.org/article/texas-students-call-for-inclusion-in-social-studies-overhaul/
+
+### 8. Cult horror game Doki Doki Literature Club pulled from Google Play Store for its "depiction of sensitive themes" and content that "violates" its TOS [9/10]
 **Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Within days of Starfield 's much-anticipated launch on PS5, fans are complaining of " totally unsurprising " crashes , freezes , and save issues , with some calling the game " unplayable " in its current state. Read more
+Visual novel horror Doki Doki Literature Club has been pulled from Google Play Store for violating the Terms of Service and its "depiction of sensitive themes". Read more
 
-Link: https://www.eurogamer.net/starfield-ps5-players-demand-refunds-reporting-widespread-bugs-and-glitches-that-leave-the-game-unplayable
+Link: https://www.eurogamer.net/cult-horror-game-doki-doki-literature-club-pulled-from-google-play-store-for-its-depiction-of-sensitive-themes-and-content-that-violates-its-tos
 
 ### 9. ‘Disbelief and disappointment’: how Javier Milei’s bribery scandal may have derailed Argentina’s crypto investment [9/10]
 **Source:** The Guardian US  
@@ -105,7 +105,16 @@ By the time children reach elementary school, teachers can usually predict which
 
 Link: https://www.the74million.org/article/why-some-students-dont-raise-their-hands-how-early-education-can-change-that/
 
-### 12. You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2 [8/10]
+### 12. Starfield PS5 players demand refunds, reporting widespread bugs and glitches that leave the game "unplayable" [8/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Within days of Starfield 's much-anticipated launch on PS5, fans are complaining of " totally unsurprising " crashes , freezes , and save issues , with some calling the game " unplayable " in its current state. Read more
+
+Link: https://www.eurogamer.net/starfield-ps5-players-demand-refunds-reporting-widespread-bugs-and-glitches-that-leave-the-game-unplayable
+
+### 13. You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2 [8/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -113,15 +122,6 @@ Link: https://www.the74million.org/article/why-some-students-dont-raise-their-ha
 In celebration of The Super Mario Galaxy Movie coming to theaters, Nintendo is making it a little cheaper to get both Super Mario Galaxy games when you buy a $449.99 Nintendo Switch 2 console.
 
 Link: https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale
-
-### 13. The real space science behind 'Project Hail Mary' [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The science fiction blockbuster wowed audiences with its depiction of space travel and more. Here's what NASA staff and other scientists say about the basis for the amazing events of the film.
-
-Link: https://www.npr.org/2026/04/12/nx-s1-5782074/project-hail-mary-nasa-space-science
 
 ## YouTube
 

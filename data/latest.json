@@ -1,11 +1,21 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-13T05:00:01.706225Z",
-  "generatedAtDisplay": "2026-04-13 01:00 AM EDT",
+  "generatedAt": "2026-04-13T09:00:34.579682Z",
+  "generatedAtDisplay": "2026-04-13 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Ukraine war briefing: Easter truce expires as both sides accuse the other of violations, Eric Swalwell quits California governor race after sexual assault allegations, and Texas Students Call for Inclusion in Social Studies Overhaul.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Euphoria season three review – grubby, desperate and absolutely not worth the wait, Ukraine war briefing: Easter truce expires as both sides accuse the other of violations, and Rockstar Games says hack will have ‘no impact’.",
   "mainItems": [
+    {
+      "title": "Euphoria season three review – grubby, desperate and absolutely not worth the wait",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/13/euphoria-season-three-review-sydney-sweeney-zendaya-hbo",
+      "published": "2026-04-13T02:00:33+00:00",
+      "summary": "What a relief that this is the end for Sam Levison’s grim drama. A show which was once blackly funny is now humourless torture porn To say that season three of Euphoria is long-awaited would be something of an understatement.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
     {
       "title": "Ukraine war briefing: Easter truce expires as both sides accuse the other of violations",
       "source": "The Guardian US",
@@ -13,36 +23,6 @@
       "url": "https://www.theguardian.com/world/2026/apr/13/ukraine-war-briefing-easter-truce-expires-as-both-sides-accuse-the-other-of-violations",
       "published": "2026-04-13T01:22:03+00:00",
       "summary": "Ukraine records more than 2,000 violations, Russia claims 1,900. Zelenskyy congratulates Hungary’s Péter Magyar.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Eric Swalwell quits California governor race after sexual assault allegations",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/12/eric-swalwell-quits-california-governor",
-      "published": "2026-04-13T01:08:44+00:00",
-      "summary": "Democratic congressman, running to replace Gavin Newsom, has faced multiple accusations Representative Eric Swalwell, the Democratic frontrunner in the fiercely contested race to be governor of California, has suspended his campaign amid a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Texas Students Call for Inclusion in Social Studies Overhaul",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/texas-students-call-for-inclusion-in-social-studies-overhaul/",
-      "published": "2026-04-12T18:30:00+00:00",
-      "summary": "State officials, activists and educators have largely shaped public dialogue about Texas’ social studies overhaul, but young people added their voices to the conversation Tuesday, calling for instruction that includes diverse perspectives…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Cult horror game Doki Doki Literature Club pulled from Google Play Store for its \"depiction of sensitive themes\" and content that \"violates\" its TOS",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/cult-horror-game-doki-doki-literature-club-pulled-from-google-play-store-for-its-depiction-of-sensitive-themes-and-content-that-violates-its-tos",
-      "published": "2026-04-12T18:07:34+00:00",
-      "summary": "Visual novel horror Doki Doki Literature Club has been pulled from Google Play Store for violating the Terms of Service and its \"depiction of sensitive themes\". Read more",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -57,16 +37,6 @@
       "score": 10
     },
     {
-      "title": "Planeloads of negotiators and too little time: US and Iran’s 21 hours of talks",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/apr/12/us-iran-21-hours-talks-war-vance-pakistan",
-      "published": "2026-04-12T13:47:21+00:00",
-      "summary": "The two sides turned up to test one another’s resolve.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
       "title": "The United States is destroying itself | Rebecca Solnit",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
@@ -77,13 +47,43 @@
       "score": 10
     },
     {
-      "title": "Starfield PS5 players demand refunds, reporting widespread bugs and glitches that leave the game \"unplayable\"",
+      "title": "Middle East crisis live: US blockade of Iran’s ports to begin later today as Trump says he doesn’t care about further talks",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
+      "published": "2026-04-13T08:44:42+00:00",
+      "summary": "Centcom says blockade to begin at 10am ET; US president says ‘I don’t care if they come back or not’ Full report: Trump says US will blockade strait of Hormuz after Iran peace talks fail Planeloads of negotiators and too little time: US…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Eric Swalwell quits California governor race after sexual assault allegations",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/12/eric-swalwell-quits-california-governor",
+      "published": "2026-04-13T01:08:44+00:00",
+      "summary": "Democratic congressman, running to replace Gavin Newsom, has faced multiple accusations Representative Eric Swalwell, the Democratic frontrunner in the fiercely contested race to be governor of California, has suspended his campaign amid a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Texas Students Call for Inclusion in Social Studies Overhaul",
+      "source": "The 74",
+      "category": "Democracy / press freedom",
+      "url": "https://www.the74million.org/article/texas-students-call-for-inclusion-in-social-studies-overhaul/",
+      "published": "2026-04-12T18:30:00+00:00",
+      "summary": "State officials, activists and educators have largely shaped public dialogue about Texas’ social studies overhaul, but young people added their voices to the conversation Tuesday, calling for instruction that includes diverse perspectives…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Cult horror game Doki Doki Literature Club pulled from Google Play Store for its \"depiction of sensitive themes\" and content that \"violates\" its TOS",
       "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/starfield-ps5-players-demand-refunds-reporting-widespread-bugs-and-glitches-that-leave-the-game-unplayable",
-      "published": "2026-04-12T17:35:31+00:00",
-      "summary": "Within days of Starfield 's much-anticipated launch on PS5, fans are complaining of \" totally unsurprising \" crashes , freezes , and save issues , with some calling the game \" unplayable \" in its current state. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/cult-horror-game-doki-doki-literature-club-pulled-from-google-play-store-for-its-depiction-of-sensitive-themes-and-content-that-violates-its-tos",
+      "published": "2026-04-12T18:07:34+00:00",
+      "summary": "Visual novel horror Doki Doki Literature Club has been pulled from Google Play Store for violating the Terms of Service and its \"depiction of sensitive themes\". Read more",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
@@ -117,6 +117,16 @@
       "score": 9
     },
     {
+      "title": "Starfield PS5 players demand refunds, reporting widespread bugs and glitches that leave the game \"unplayable\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/starfield-ps5-players-demand-refunds-reporting-widespread-bugs-and-glitches-that-leave-the-game-unplayable",
+      "published": "2026-04-12T17:35:31+00:00",
+      "summary": "Within days of Starfield 's much-anticipated launch on PS5, fans are complaining of \" totally unsurprising \" crashes , freezes , and save issues , with some calling the game \" unplayable \" in its current state. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8
+    },
+    {
       "title": "You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2",
       "source": "The Verge",
       "category": "AI / computing",
@@ -124,16 +134,6 @@
       "published": "2026-04-12T15:52:31+00:00",
       "summary": "In celebration of The Super Mario Galaxy Movie coming to theaters, Nintendo is making it a little cheaper to get both Super Mario Galaxy games when you buy a $449.99 Nintendo Switch 2 console.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
-    },
-    {
-      "title": "The real space science behind 'Project Hail Mary'",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/12/nx-s1-5782074/project-hail-mary-nasa-space-science",
-      "published": "2026-04-12T09:00:00+00:00",
-      "summary": "The science fiction blockbuster wowed audiences with its depiction of space travel and more. Here's what NASA staff and other scientists say about the basis for the amazing events of the film.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
   ],
@@ -268,6 +268,6 @@
     "mainCount": 13,
     "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 11
+    "sourceCount": 10
   }
 }
