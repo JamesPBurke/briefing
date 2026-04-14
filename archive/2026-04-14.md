@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-14T15:05:56.208984Z
+Generated: 2026-04-14T15:14:01.572192Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Games / criticism. The strongest items in this run are Opinion: Why Colleges, School Districts and Hospitals Are Closing On-Site Child Care, Silent Hill 2 remake studio Bloober Team announces leadership expansion and teases seven games in development, and White supremacist pleads guilty to Tennessee civil rights center arson.
+Today's sweep leans toward Games / criticism, Education / pedagogy, Democracy / press freedom. The strongest items in this run are GTA Online is still making Rockstar Games around $1.3 million per day on average, STALKER 2’s latest update adds an easily missed new questline, while dispersing accidental mutant crowds, and Opinion: Why Colleges, School Districts and Hospitals Are Closing On-Site Child Care.
 
 ## Briefing
 
@@ -13,7 +13,25 @@ Interesting piece on the current state of AI in software work.
 
 Link: https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html
 
-### 1. Opinion: Why Colleges, School Districts and Hospitals Are Closing On-Site Child Care [10/10]
+### 1. GTA Online is still making Rockstar Games around $1.3 million per day on average [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Grand Theft Auto 6 remains on track to arrive in November, but if the GTA Online revenue data that's been extracted by hackers is any indication, Rockstar Games could happily spend as much time as it needs to get its next sandbox game…
+
+Link: https://www.eurogamer.net/gta-online-daily-revenue-data-and-more-leaks
+
+### 2. STALKER 2’s latest update adds an easily missed new questline, while dispersing accidental mutant crowds [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Get in here, stalker. STALKER 2: Heart of Chornobyl just got its meatiest patch in months, the Sealed Truth update, which has added a spooky, story-based new questline along with various bug fixes.
+
+Link: https://www.rockpapershotgun.com/stalker-2s-latest-update-adds-an-easily-missed-new-questline-while-dispersing-accidental-mutant-crowds
+
+### 3. Opinion: Why Colleges, School Districts and Hospitals Are Closing On-Site Child Care [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -22,7 +40,7 @@ In February, the University of Nebraska at Omaha (UNO) announced it would shutte
 
 Link: https://www.the74million.org/zero2eight/why-colleges-school-districts-and-hospitals-are-closing-on-site-child-care/
 
-### 2. Silent Hill 2 remake studio Bloober Team announces leadership expansion and teases seven games in development [10/10]
+### 4. Silent Hill 2 remake studio Bloober Team announces leadership expansion and teases seven games in development [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -31,7 +49,7 @@ After some critical ups and downs, Silent Hill 2 (2024) and Cronos: The New Dawn
 
 Link: https://www.eurogamer.net/silent-hill-2-remake-developer-bloober-team-announces-leadership-expansion
 
-### 3. White supremacist pleads guilty to Tennessee civil rights center arson [10/10]
+### 5. White supremacist pleads guilty to Tennessee civil rights center arson [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -40,7 +58,7 @@ Regan Prater admits to setting blaze at Highlander center and bid to aid Hezboll
 
 Link: https://www.theguardian.com/us-news/2026/apr/14/white-supremacist-pleads-guilty-tennessee-arson
 
-### 4. Bosses say AI boosts productivity – workers say they’re drowning in ‘workslop’ [10/10]
+### 6. Bosses say AI boosts productivity – workers say they’re drowning in ‘workslop’ [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -49,34 +67,7 @@ Workslop refers to AI-generated work that seems polished but is flawed and in ne
 
 Link: https://www.theguardian.com/technology/2026/apr/14/ai-productivity-workplace-errors
 
-### 5. JD Vance defends Trump amid spat with Pope Leo: ‘Stick to matters of morality’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Catholic vice-president effectively tells Leo to stay in his lane after pope criticized the White House over the Iran war JD Vance has weighed in on Donald Trump’s feud with Pope Leo, effectively telling the pontiff to stay in his lane…
-
-Link: https://www.theguardian.com/us-news/2026/apr/14/jd-vance-defends-trump-pope-leo-spat
-
-### 6. Anbernic’s new handheld is a pocket-friendly Android device with a swiveling screen [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Anbernic, one of the most prolific makers of handheld consoles and emulators, isn't afraid to experiment with creative designs.
-
-Link: https://www.theverge.com/tech/911600/anbernic-rg-rotate-square-handheld-gaming-console-emulator
-
-### 7. Samsung is hiking the prices of its Galaxy phones and tablets [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Samsung is raising prices across Galaxy Z Flip 7, Galaxy S25 FE, and Galaxy S25 Edge phones, as spotted earlier by Phone Arena.
-
-Link: https://www.theverge.com/tech/911623/samsung-galaxy-phones-tablets-price-hike-ram
-
-### 8. Millions of people are pretending to be AI chatbots — for fun [10/10]
+### 7. Millions of people are pretending to be AI chatbots — for fun [10/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -84,6 +75,15 @@ Link: https://www.theverge.com/tech/911623/samsung-galaxy-phones-tablets-price-h
 Websites like youraislopbores.me have become playgrounds for people looking for light relief in a bot-heavy world.
 
 Link: https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt
+
+### 8. Bose’s noise-crushing QC Ultra Earbuds are nearly 20 percent off right now [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+When it comes to the best noise-canceling earbuds, the competition has gotten fierce.
+
+Link: https://www.theverge.com/gadgets/911188/bose-quietcomfort-ultra-earbuds-2nd-gen-turtle-beach-stealth-pivot-deal-sale
 
 ### 9. Airbnb Hosts Don't Want to Talk to Guests Anymore, Are Outsourcing Messages to AI [9/10]
 **Source:** 404 Media  
@@ -94,14 +94,14 @@ An entire industry of companies offers Airbnb hosts AI to speak to guests on the
 
 Link: https://www.404media.co/airbnb-hosts-dont-want-to-talk-to-guests-anymore-are-outsourcing-messages-to-ai/
 
-### 10. Has Google’s AI watermarking system been reverse-engineered? [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 10. You can order your own bloodwork now. Interpreting the results is another story [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim that, according to Google, isn't true.
+Firms like Function Health and Oura market regular blood tests to people wanting to take their health into their own hands. The process often raises more questions for patients than it can answer.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered
+Link: https://www.npr.org/2026/04/14/nx-s1-5780066/oura-function-wearables-blood-testing-bloodwork
 
 ### 11. How Silicon Valley Is Turning Scientists Into Exploited Gig Workers [8/10]
 **Source:** The Nation  

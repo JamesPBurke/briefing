@@ -1,11 +1,31 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-14T15:05:56.208984Z",
-  "generatedAtDisplay": "2026-04-14 11:05 AM EDT",
+  "generatedAt": "2026-04-14T15:14:01.572192Z",
+  "generatedAtDisplay": "2026-04-14 11:14 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Games / criticism. The strongest items in this run are Opinion: Why Colleges, School Districts and Hospitals Are Closing On-Site Child Care, Silent Hill 2 remake studio Bloober Team announces leadership expansion and teases seven games in development, and White supremacist pleads guilty to Tennessee civil rights center arson.",
+  "summary": "Today's sweep leans toward Games / criticism, Education / pedagogy, Democracy / press freedom. The strongest items in this run are GTA Online is still making Rockstar Games around $1.3 million per day on average, STALKER 2’s latest update adds an easily missed new questline, while dispersing accidental mutant crowds, and Opinion: Why Colleges, School Districts and Hospitals Are Closing On-Site Child Care.",
   "mainItems": [
+    {
+      "title": "GTA Online is still making Rockstar Games around $1.3 million per day on average",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/gta-online-daily-revenue-data-and-more-leaks",
+      "published": "2026-04-14T15:09:13+00:00",
+      "summary": "Grand Theft Auto 6 remains on track to arrive in November, but if the GTA Online revenue data that's been extracted by hackers is any indication, Rockstar Games could happily spend as much time as it needs to get its next sandbox game…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "STALKER 2’s latest update adds an easily missed new questline, while dispersing accidental mutant crowds",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/stalker-2s-latest-update-adds-an-easily-missed-new-questline-while-dispersing-accidental-mutant-crowds",
+      "published": "2026-04-14T15:06:51+00:00",
+      "summary": "Get in here, stalker. STALKER 2: Heart of Chornobyl just got its meatiest patch in months, the Sealed Truth update, which has added a spooky, story-based new questline along with various bug fixes.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
     {
       "title": "Opinion: Why Colleges, School Districts and Hospitals Are Closing On-Site Child Care",
       "source": "The 74",
@@ -47,36 +67,6 @@
       "score": 10
     },
     {
-      "title": "JD Vance defends Trump amid spat with Pope Leo: ‘Stick to matters of morality’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/jd-vance-defends-trump-pope-leo-spat",
-      "published": "2026-04-14T13:50:16+00:00",
-      "summary": "Catholic vice-president effectively tells Leo to stay in his lane after pope criticized the White House over the Iran war JD Vance has weighed in on Donald Trump’s feud with Pope Leo, effectively telling the pontiff to stay in his lane…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Anbernic’s new handheld is a pocket-friendly Android device with a swiveling screen",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/911600/anbernic-rg-rotate-square-handheld-gaming-console-emulator",
-      "published": "2026-04-14T13:43:15+00:00",
-      "summary": "Anbernic, one of the most prolific makers of handheld consoles and emulators, isn't afraid to experiment with creative designs.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Samsung is hiking the prices of its Galaxy phones and tablets",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/911623/samsung-galaxy-phones-tablets-price-hike-ram",
-      "published": "2026-04-14T13:34:06+00:00",
-      "summary": "Samsung is raising prices across Galaxy Z Flip 7, Galaxy S25 FE, and Galaxy S25 Edge phones, as spotted earlier by Phone Arena.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "Millions of people are pretending to be AI chatbots — for fun",
       "source": "NPR Tech",
       "category": "Science / computing",
@@ -85,6 +75,16 @@
       "summary": "Websites like youraislopbores.me have become playgrounds for people looking for light relief in a bot-heavy world.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 10
+    },
+    {
+      "title": "Bose’s noise-crushing QC Ultra Earbuds are nearly 20 percent off right now",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/gadgets/911188/bose-quietcomfort-ultra-earbuds-2nd-gen-turtle-beach-stealth-pivot-deal-sale",
+      "published": "2026-04-14T15:04:49+00:00",
+      "summary": "When it comes to the best noise-canceling earbuds, the competition has gotten fierce.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
     },
     {
       "title": "Airbnb Hosts Don't Want to Talk to Guests Anymore, Are Outsourcing Messages to AI",
@@ -97,14 +97,14 @@
       "score": 9
     },
     {
-      "title": "Has Google’s AI watermarking system been reverse-engineered?",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
-      "published": "2026-04-14T13:53:53+00:00",
-      "summary": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim that, according to Google, isn't true.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
+      "title": "You can order your own bloodwork now. Interpreting the results is another story",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/04/14/nx-s1-5780066/oura-function-wearables-blood-testing-bloodwork",
+      "published": "2026-04-14T14:58:24+00:00",
+      "summary": "Firms like Function Health and Oura market regular blood tests to people wanting to take their health into their own hands. The process often raises more questions for patients than it can answer.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "How Silicon Valley Is Turning Scientists Into Exploited Gig Workers",
@@ -276,6 +276,6 @@
     "mainCount": 13,
     "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 13
+    "sourceCount": 15
   }
 }
