@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-14T15:20:10.550594Z
+Generated: 2026-04-14T15:25:01.537083Z
 
 Today's sweep leans toward Games / criticism, Education / pedagogy, Democracy / press freedom. The strongest items in this run are GTA Online is still making Rockstar Games around $1.3 million per day on average, STALKER 2’s latest update adds an easily missed new questline, while dispersing accidental mutant crowds, and Opinion: Why Colleges, School Districts and Hospitals Are Closing On-Site Child Care.
 
@@ -12,6 +12,11 @@ Today's sweep leans toward Games / criticism, Education / pedagogy, Democracy / 
 Interesting piece on the current state of AI in software work.
 
 Link: https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html
+
+### The Workers Letting A.I. Do Their Jobs
+In an era of agents powered by artificial intelligence, many programmers are barely programming.
+
+Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
 ### 1. GTA Online is still making Rockstar Games around $1.3 million per day on average [10/10]
 **Source:** Eurogamer  
