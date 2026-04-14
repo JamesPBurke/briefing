@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-14T14:05:43.787906Z
+Generated: 2026-04-14T15:05:56.208984Z
 
-Today's sweep leans toward Democracy / press freedom, Science / computing, Education / pedagogy. The strongest items in this run are JD Vance defends Trump amid spat with Pope Leo: ‘Stick to matters of morality’, Anbernic’s new handheld is a pocket-friendly Android device with a swiveling screen, and Samsung is hiking the prices of its Galaxy phones and tablets.
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Games / criticism. The strongest items in this run are Opinion: Why Colleges, School Districts and Hospitals Are Closing On-Site Child Care, Silent Hill 2 remake studio Bloober Team announces leadership expansion and teases seven games in development, and White supremacist pleads guilty to Tennessee civil rights center arson.
 
 ## Briefing
 
@@ -13,16 +13,52 @@ Interesting piece on the current state of AI in software work.
 
 Link: https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html
 
-### 1. JD Vance defends Trump amid spat with Pope Leo: ‘Stick to matters of morality’ [10/10]
+### 1. Opinion: Why Colleges, School Districts and Hospitals Are Closing On-Site Child Care [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+In February, the University of Nebraska at Omaha (UNO) announced it would shutter its on-campus child care center, which has operated for nearly 40 years, at the end of the spring semester.
+
+Link: https://www.the74million.org/zero2eight/why-colleges-school-districts-and-hospitals-are-closing-on-site-child-care/
+
+### 2. Silent Hill 2 remake studio Bloober Team announces leadership expansion and teases seven games in development [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+After some critical ups and downs, Silent Hill 2 (2024) and Cronos: The New Dawn (2025) solidified Bloomer Team as a horror-focused developer to watch out for. As new projects pile up, the company has announced it's growing in size.
+
+Link: https://www.eurogamer.net/silent-hill-2-remake-developer-bloober-team-announces-leadership-expansion
+
+### 3. White supremacist pleads guilty to Tennessee civil rights center arson [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Vice-president effectively tells Leo to stay in his lane after the pope criticized the White House over the Iran war JD Vance has weighed into Donald Trump’s feud with Pope Leo, effectively telling the pontiff to stay in his lane after the…
+Regan Prater admits to setting blaze at Highlander center and bid to aid Hezbollah.
+
+Link: https://www.theguardian.com/us-news/2026/apr/14/white-supremacist-pleads-guilty-tennessee-arson
+
+### 4. Bosses say AI boosts productivity – workers say they’re drowning in ‘workslop’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Workslop refers to AI-generated work that seems polished but is flawed and in need of heavy corrections Ken, a copywriter for a large, Miami-based cybersecurity firm, used to enjoy his job. But then the “workslop” started piling up.
+
+Link: https://www.theguardian.com/technology/2026/apr/14/ai-productivity-workplace-errors
+
+### 5. JD Vance defends Trump amid spat with Pope Leo: ‘Stick to matters of morality’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Catholic vice-president effectively tells Leo to stay in his lane after pope criticized the White House over the Iran war JD Vance has weighed in on Donald Trump’s feud with Pope Leo, effectively telling the pontiff to stay in his lane…
 
 Link: https://www.theguardian.com/us-news/2026/apr/14/jd-vance-defends-trump-pope-leo-spat
 
-### 2. Anbernic’s new handheld is a pocket-friendly Android device with a swiveling screen [10/10]
+### 6. Anbernic’s new handheld is a pocket-friendly Android device with a swiveling screen [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -31,7 +67,7 @@ Anbernic, one of the most prolific makers of handheld consoles and emulators, is
 
 Link: https://www.theverge.com/tech/911600/anbernic-rg-rotate-square-handheld-gaming-console-emulator
 
-### 3. Samsung is hiking the prices of its Galaxy phones and tablets [10/10]
+### 7. Samsung is hiking the prices of its Galaxy phones and tablets [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -40,7 +76,7 @@ Samsung is raising prices across Galaxy Z Flip 7, Galaxy S25 FE, and Galaxy S25 
 
 Link: https://www.theverge.com/tech/911623/samsung-galaxy-phones-tablets-price-hike-ram
 
-### 4. Millions of people are pretending to be AI chatbots — for fun [10/10]
+### 8. Millions of people are pretending to be AI chatbots — for fun [10/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -49,50 +85,14 @@ Websites like youraislopbores.me have become playgrounds for people looking for 
 
 Link: https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt
 
-### 5. Bloodborne is being turned into an R-rated animated film [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 9. Airbnb Hosts Don't Want to Talk to Guests Anymore, Are Outsourcing Messages to AI [9/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-It's not a PC port or a remake, but Sony is returning to the Gothic world of Bloodborne.
+An entire industry of companies offers Airbnb hosts AI to speak to guests on their behalf. 404 Media poked around the industry after one AI tool offered a guest a recipe for French toast.
 
-Link: https://www.theverge.com/entertainment/911576/bloodborne-feature-film
-
-### 6. Idols Of Ash review - a terrific spelunking horror game that makes you choose between a rock and a giant centipede [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-When I think of Idols of Ash , I think of seven sounds, listed here in order of deepening dreadfulness. The first and nicest sound is the clink of my silvery grapple sinking its hook, interrupting the rush of air past my ears as I fall.
-
-Link: https://www.rockpapershotgun.com/idols-of-ash-review-a-terrific-spelunking-horror-game-that-makes-you-choose-between-a-rock-and-a-giant-centipede
-
-### 7. Opinion: America Has a Million Untapped Tutors. Here’s How to Activate Them [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-There are more than 12 million elementary and middle school students from low-income families who are below grade level in reading or math, our analysis shows.
-
-Link: https://www.the74million.org/article/america-has-a-million-untapped-tutors-heres-how-to-activate-them/
-
-### 8. AI companies make powerful tech – but they’re also savvy marketers [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Anthropic’s Claude Mythos AI is said to be frighteningly capable, but we shouldn’t get carried away by the hype Hello, and welcome to TechScape.
-
-Link: https://www.theguardian.com/technology/2026/apr/13/ai-tech-marketing
-
-### 9. Marathon will test out a new experimental game mode which forces players to use free sponsored kits [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-If you've been playing Marathon and have been bodied by geared-out players, packing fully upgraded guns and purple shields, a new experimental game mode coming this week may be exactly what you've been waiting for. Read more
-
-Link: https://www.eurogamer.net/marathon-sponsored-kit-queue-experiment
+Link: https://www.404media.co/airbnb-hosts-dont-want-to-talk-to-guests-anymore-are-outsourcing-messages-to-ai/
 
 ### 10. Has Google’s AI watermarking system been reverse-engineered? [9/10]
 **Source:** The Verge  
@@ -103,25 +103,16 @@ A software developer claims to have reverse-engineered Google DeepMind's SynthID
 
 Link: https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered
 
-### 11. Google, Microsoft, Meta All Tracking You Even When You Opt Out, According to an Independent Audit [9/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
+### 11. How Silicon Valley Is Turning Scientists Into Exploited Gig Workers [8/10]
+**Source:** The Nation  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-“This is the Strait of Hormuz in the data economy. If you want to make a change, this is where you cut it off. Anything short of that is theatrical political posture.”
+Hirsh Chitkara Tech elites are enriching themselves by plundering STEM institutions—and offering researchers scraps. The post How Silicon Valley Is Turning Scientists Into Exploited Gig Workers appeared first on The Nation .
 
-Link: https://www.404media.co/google-microsoft-meta-all-tracking-you-even-when-you-opt-out-according-to-an-independent-audit/
+Link: https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/
 
-### 12. The Hunger Games: Sunrise on the Reaping Trailer Welcomes You to the 50th Hunger Games [9/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-May the odds... yeah, you know the rest The post The Hunger Games: Sunrise on the Reaping Trailer Welcomes You to the 50th Hunger Games appeared first on Reactor .
-
-Link: https://reactormag.com/the-hunger-games-sunrise-on-the-reaping-trailer-2/
-
-### 13. The glossy, golden frosting you probably haven't made yet: Courtesy of the French. [8/10]
+### 12. The glossy, golden frosting you probably haven't made yet: Courtesy of the French. [8/10]
 **Source:** King Arthur Baking  
 **Category:** Bread / food craft  
 **Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
@@ -129,6 +120,15 @@ Link: https://reactormag.com/the-hunger-games-sunrise-on-the-reaping-trailer-2/
 The country of France has provided the baking canon with no shortage of classics. But outside of croissants, éclairs, madeleines, and macarons, there’s still one classic recipe that flies under the radar.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/13/french-buttercream
+
+### 13. Nothing’s Impossible in the Trailer for The Boroughs [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Can't their golden years get some golden lighting? The post Nothing’s Impossible in the Trailer for The Boroughs appeared first on Reactor .
+
+Link: https://reactormag.com/the-boroughs-trailer/
 
 ## YouTube
 

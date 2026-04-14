@@ -1,18 +1,58 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-14T14:05:43.787906Z",
-  "generatedAtDisplay": "2026-04-14 10:05 AM EDT",
+  "generatedAt": "2026-04-14T15:05:56.208984Z",
+  "generatedAtDisplay": "2026-04-14 11:05 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Science / computing, Education / pedagogy. The strongest items in this run are JD Vance defends Trump amid spat with Pope Leo: ‘Stick to matters of morality’, Anbernic’s new handheld is a pocket-friendly Android device with a swiveling screen, and Samsung is hiking the prices of its Galaxy phones and tablets.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Games / criticism. The strongest items in this run are Opinion: Why Colleges, School Districts and Hospitals Are Closing On-Site Child Care, Silent Hill 2 remake studio Bloober Team announces leadership expansion and teases seven games in development, and White supremacist pleads guilty to Tennessee civil rights center arson.",
   "mainItems": [
+    {
+      "title": "Opinion: Why Colleges, School Districts and Hospitals Are Closing On-Site Child Care",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/zero2eight/why-colleges-school-districts-and-hospitals-are-closing-on-site-child-care/",
+      "published": "2026-04-14T14:30:00+00:00",
+      "summary": "In February, the University of Nebraska at Omaha (UNO) announced it would shutter its on-campus child care center, which has operated for nearly 40 years, at the end of the spring semester.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Silent Hill 2 remake studio Bloober Team announces leadership expansion and teases seven games in development",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/silent-hill-2-remake-developer-bloober-team-announces-leadership-expansion",
+      "published": "2026-04-14T14:22:51+00:00",
+      "summary": "After some critical ups and downs, Silent Hill 2 (2024) and Cronos: The New Dawn (2025) solidified Bloomer Team as a horror-focused developer to watch out for. As new projects pile up, the company has announced it's growing in size.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "White supremacist pleads guilty to Tennessee civil rights center arson",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/14/white-supremacist-pleads-guilty-tennessee-arson",
+      "published": "2026-04-14T14:02:04+00:00",
+      "summary": "Regan Prater admits to setting blaze at Highlander center and bid to aid Hezbollah.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Bosses say AI boosts productivity – workers say they’re drowning in ‘workslop’",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/technology/2026/apr/14/ai-productivity-workplace-errors",
+      "published": "2026-04-14T14:00:58+00:00",
+      "summary": "Workslop refers to AI-generated work that seems polished but is flawed and in need of heavy corrections Ken, a copywriter for a large, Miami-based cybersecurity firm, used to enjoy his job. But then the “workslop” started piling up.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
     {
       "title": "JD Vance defends Trump amid spat with Pope Leo: ‘Stick to matters of morality’",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/us-news/2026/apr/14/jd-vance-defends-trump-pope-leo-spat",
       "published": "2026-04-14T13:50:16+00:00",
-      "summary": "Vice-president effectively tells Leo to stay in his lane after the pope criticized the White House over the Iran war JD Vance has weighed into Donald Trump’s feud with Pope Leo, effectively telling the pontiff to stay in his lane after the…",
+      "summary": "Catholic vice-president effectively tells Leo to stay in his lane after pope criticized the White House over the Iran war JD Vance has weighed in on Donald Trump’s feud with Pope Leo, effectively telling the pontiff to stay in his lane…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -47,54 +87,14 @@
       "score": 10
     },
     {
-      "title": "Bloodborne is being turned into an R-rated animated film",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/entertainment/911576/bloodborne-feature-film",
-      "published": "2026-04-14T13:02:39+00:00",
-      "summary": "It's not a PC port or a remake, but Sony is returning to the Gothic world of Bloodborne.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Idols Of Ash review - a terrific spelunking horror game that makes you choose between a rock and a giant centipede",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/idols-of-ash-review-a-terrific-spelunking-horror-game-that-makes-you-choose-between-a-rock-and-a-giant-centipede",
-      "published": "2026-04-14T13:00:00+00:00",
-      "summary": "When I think of Idols of Ash , I think of seven sounds, listed here in order of deepening dreadfulness. The first and nicest sound is the clink of my silvery grapple sinking its hook, interrupting the rush of air past my ears as I fall.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Opinion: America Has a Million Untapped Tutors. Here’s How to Activate Them",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/america-has-a-million-untapped-tutors-heres-how-to-activate-them/",
-      "published": "2026-04-14T12:30:00+00:00",
-      "summary": "There are more than 12 million elementary and middle school students from low-income families who are below grade level in reading or math, our analysis shows.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "AI companies make powerful tech – but they’re also savvy marketers",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/apr/13/ai-tech-marketing",
-      "published": "2026-04-14T12:04:48+00:00",
-      "summary": "Anthropic’s Claude Mythos AI is said to be frighteningly capable, but we shouldn’t get carried away by the hype Hello, and welcome to TechScape.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Marathon will test out a new experimental game mode which forces players to use free sponsored kits",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/marathon-sponsored-kit-queue-experiment",
-      "published": "2026-04-14T10:17:32+00:00",
-      "summary": "If you've been playing Marathon and have been bodied by geared-out players, packing fully upgraded guns and purple shields, a new experimental game mode coming this week may be exactly what you've been waiting for. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
+      "title": "Airbnb Hosts Don't Want to Talk to Guests Anymore, Are Outsourcing Messages to AI",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/airbnb-hosts-dont-want-to-talk-to-guests-anymore-are-outsourcing-messages-to-ai/",
+      "published": "2026-04-14T14:39:02+00:00",
+      "summary": "An entire industry of companies offers Airbnb hosts AI to speak to guests on their behalf. 404 Media poked around the industry after one AI tool offered a guest a recipe for French toast.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9
     },
     {
       "title": "Has Google’s AI watermarking system been reverse-engineered?",
@@ -107,24 +107,14 @@
       "score": 9
     },
     {
-      "title": "Google, Microsoft, Meta All Tracking You Even When You Opt Out, According to an Independent Audit",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/google-microsoft-meta-all-tracking-you-even-when-you-opt-out-according-to-an-independent-audit/",
-      "published": "2026-04-14T13:13:34+00:00",
-      "summary": "“This is the Strait of Hormuz in the data economy. If you want to make a change, this is where you cut it off. Anything short of that is theatrical political posture.”",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "The Hunger Games: Sunrise on the Reaping Trailer Welcomes You to the 50th Hunger Games",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/the-hunger-games-sunrise-on-the-reaping-trailer-2/",
-      "published": "2026-04-13T14:36:21+00:00",
-      "summary": "May the odds... yeah, you know the rest The post The Hunger Games: Sunrise on the Reaping Trailer Welcomes You to the 50th Hunger Games appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 9
+      "title": "How Silicon Valley Is Turning Scientists Into Exploited Gig Workers",
+      "source": "The Nation",
+      "category": "Security / computing",
+      "url": "https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/",
+      "published": "2026-04-14T14:36:05+00:00",
+      "summary": "Hirsh Chitkara Tech elites are enriching themselves by plundering STEM institutions—and offering researchers scraps. The post How Silicon Valley Is Turning Scientists Into Exploited Gig Workers appeared first on The Nation .",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 8
     },
     {
       "title": "The glossy, golden frosting you probably haven't made yet: Courtesy of the French.",
@@ -134,6 +124,16 @@
       "published": "2026-04-13T17:00:00+00:00",
       "summary": "The country of France has provided the baking canon with no shortage of classics. But outside of croissants, éclairs, madeleines, and macarons, there’s still one classic recipe that flies under the radar.",
       "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
+      "score": 8
+    },
+    {
+      "title": "Nothing’s Impossible in the Trailer for The Boroughs",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/the-boroughs-trailer/",
+      "published": "2026-04-13T16:26:21+00:00",
+      "summary": "Can't their golden years get some golden lighting? The post Nothing’s Impossible in the Trailer for The Boroughs appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     }
   ],
