@@ -1,29 +1,39 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-14T15:25:01.537083Z",
-  "generatedAtDisplay": "2026-04-14 11:25 AM EDT",
+  "generatedAt": "2026-04-14T18:00:29.679772Z",
+  "generatedAtDisplay": "2026-04-14 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Games / criticism, Education / pedagogy, Democracy / press freedom. The strongest items in this run are GTA Online is still making Rockstar Games around $1.3 million per day on average, STALKER 2’s latest update adds an easily missed new questline, while dispersing accidental mutant crowds, and Opinion: Why Colleges, School Districts and Hospitals Are Closing On-Site Child Care.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Google’s Spotlight-like desktop search bar for Windows is available for everyone, Sony’s new 1440p OLED gaming monitor seems a lot better than its first, and L.A. District Reaches Tentative Agreements With 3 Unions, Avoids Historic Strike.",
   "mainItems": [
     {
-      "title": "GTA Online is still making Rockstar Games around $1.3 million per day on average",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/gta-online-daily-revenue-data-and-more-leaks",
-      "published": "2026-04-14T15:09:13+00:00",
-      "summary": "Grand Theft Auto 6 remains on track to arrive in November, but if the GTA Online revenue data that's been extracted by hackers is any indication, Rockstar Games could happily spend as much time as it needs to get its next sandbox game…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Google’s Spotlight-like desktop search bar for Windows is available for everyone",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/911741/google-windows-app-launch",
+      "published": "2026-04-14T17:12:03+00:00",
+      "summary": "Last year, Google announced that it was testing a Google desktop app for Windows that resembles macOS's Spotlight feature, and now the app is available globally in English.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "STALKER 2’s latest update adds an easily missed new questline, while dispersing accidental mutant crowds",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/stalker-2s-latest-update-adds-an-easily-missed-new-questline-while-dispersing-accidental-mutant-crowds",
-      "published": "2026-04-14T15:06:51+00:00",
-      "summary": "Get in here, stalker. STALKER 2: Heart of Chornobyl just got its meatiest patch in months, the Sealed Truth update, which has added a spooky, story-based new questline along with various bug fixes.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Sony’s new 1440p OLED gaming monitor seems a lot better than its first",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/news/907924/sony-inzone-m10s-ii-oled-tandem-gaming-monitor-specs-price-features",
+      "published": "2026-04-14T16:10:51+00:00",
+      "summary": "The original InZone M10S OLED gaming monitor stood out for a mix of reasons when I reviewed it for Polygon back in late 2024 - some good (impressively small stand, high 480Hz refresh rate) and some bad (high price, low on features versus…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "L.A. District Reaches Tentative Agreements With 3 Unions, Avoids Historic Strike",
+      "source": "The 74",
+      "category": "Democracy / press freedom",
+      "url": "https://www.the74million.org/article/l-a-district-reaches-tentative-agreements-with-3-unions-avoids-historic-strike/",
+      "published": "2026-04-14T16:09:40+00:00",
+      "summary": "Class is in session for roughly 400,000 Los Angeles Unified students after a historic three-union strike involving 70,000 teachers, administrators and school support staff was averted early Tuesday morning.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -34,16 +44,6 @@
       "published": "2026-04-14T14:30:00+00:00",
       "summary": "In February, the University of Nebraska at Omaha (UNO) announced it would shutter its on-campus child care center, which has operated for nearly 40 years, at the end of the spring semester.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Silent Hill 2 remake studio Bloober Team announces leadership expansion and teases seven games in development",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/silent-hill-2-remake-developer-bloober-team-announces-leadership-expansion",
-      "published": "2026-04-14T14:22:51+00:00",
-      "summary": "After some critical ups and downs, Silent Hill 2 (2024) and Cronos: The New Dawn (2025) solidified Bloomer Team as a horror-focused developer to watch out for. As new projects pile up, the company has announced it's growing in size.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -67,6 +67,16 @@
       "score": 10
     },
     {
+      "title": "JD Vance defends Trump amid spat with Pope Leo: ‘Stick to matters of morality’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/14/jd-vance-defends-trump-pope-leo-spat",
+      "published": "2026-04-14T13:50:16+00:00",
+      "summary": "Catholic vice-president effectively tells Leo to stay in his lane after pope criticized the White House over the Iran war JD Vance has weighed in on Donald Trump’s feud with Pope Leo, effectively telling the pontiff to stay in his lane…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
       "title": "Millions of people are pretending to be AI chatbots — for fun",
       "source": "NPR Tech",
       "category": "Science / computing",
@@ -77,14 +87,14 @@
       "score": 10
     },
     {
-      "title": "Bose’s noise-crushing QC Ultra Earbuds are nearly 20 percent off right now",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/gadgets/911188/bose-quietcomfort-ultra-earbuds-2nd-gen-turtle-beach-stealth-pivot-deal-sale",
-      "published": "2026-04-14T15:04:49+00:00",
-      "summary": "When it comes to the best noise-canceling earbuds, the competition has gotten fierce.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
+      "title": "Opinion: America Has a Million Untapped Tutors. Here’s How to Activate Them",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/america-has-a-million-untapped-tutors-heres-how-to-activate-them/",
+      "published": "2026-04-14T12:30:00+00:00",
+      "summary": "There are more than 12 million elementary and middle school students from low-income families who are below grade level in reading or math, our analysis shows.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
     },
     {
       "title": "Airbnb Hosts Don't Want to Talk to Guests Anymore, Are Outsourcing Messages to AI",
@@ -97,12 +107,12 @@
       "score": 9
     },
     {
-      "title": "You can order your own bloodwork now. Interpreting the results is another story",
+      "title": "Historic decline in U.S. overdose deaths threatened by changing street drug supply",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/14/nx-s1-5780066/oura-function-wearables-blood-testing-bloodwork",
-      "published": "2026-04-14T14:58:24+00:00",
-      "summary": "Firms like Function Health and Oura market regular blood tests to people wanting to take their health into their own hands. The process often raises more questions for patients than it can answer.",
+      "url": "https://www.npr.org/2026/04/14/nx-s1-5783750/overdose-fentanyl-medetomidine-xylazine",
+      "published": "2026-04-14T17:03:04+00:00",
+      "summary": "Drug overdose deaths are plummeting in the U.S. in ways never seen before. Experts worry new, toxic \"synthetic\" street drugs could derail the recovery.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -117,151 +127,22 @@
       "score": 8
     },
     {
-      "title": "The glossy, golden frosting you probably haven't made yet: Courtesy of the French.",
+      "title": "The world needed a pizza book. So we wrote one. : Introducing our newest cookbook, The Book of Pizza.",
       "source": "King Arthur Baking",
       "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/04/13/french-buttercream",
-      "published": "2026-04-13T17:00:00+00:00",
-      "summary": "The country of France has provided the baking canon with no shortage of classics. But outside of croissants, éclairs, madeleines, and macarons, there’s still one classic recipe that flies under the radar.",
+      "url": "https://www.kingarthurbaking.com/blog/2026/04/14/the-world-needed-a-pizza-book-so-we-wrote-one",
+      "published": "2026-04-14T14:00:00+00:00",
+      "summary": "Does anybody actually need this? That’s the question my colleagues and I ask ourselves whenever we embark on a new cookbook . We know we can make the book.",
       "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
-      "score": 8
-    },
-    {
-      "title": "Nothing’s Impossible in the Trailer for The Boroughs",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/the-boroughs-trailer/",
-      "published": "2026-04-13T16:26:21+00:00",
-      "summary": "Can't their golden years get some golden lighting? The post Nothing’s Impossible in the Trailer for The Boroughs appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
+      "score": 7
     }
   ],
-  "youtube": [
-    {
-      "title": "James Wolff was a spy. Now, he's writing about them",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=5J4QKLCdQhw",
-      "published": "2026-04-13T22:08:54+00:00",
-      "summary": "There’s keeping a low profile and then there’s author James Wolff. Not his real name. It's a pseudonym. James Wolff had a career as a British intelligence officer. Now, he writes about them.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Will Sony Offer Any Way To Play Physical Games On Digital Devices?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=Nt9yfYQfcl0",
-      "published": "2026-04-12T16:00:35+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CeSzzupGe60 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "The Problem With Trilogies | Windbreaker Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=xa1MUi3kZtg",
-      "published": "2026-04-13T19:10:31+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "California bald eagles welcome new eaglets over Easter weekend",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=abBGDjaXhKg",
-      "published": "2026-04-12T16:15:00+00:00",
-      "summary": "Two long-awaited baby eaglets have hatched in a nest east of Los Angeles. Tens of thousands of fans from around the world watched on a livestream.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "what could go wrong? BEEF S2 premieres April 16.",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=y3_CQtJHFBs",
-      "published": "2026-04-13T19:01:00+00:00",
-      "summary": "Starring Carey Mulligan, Oscar Isaac, Charles Melton, and Cailee Spaeny. And guest starring Youn Yuh-jung and Song Kang-ho. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "💥 CHOOSE YOUR FIGHTER 💥 #AvatarTheLastAirbender Season 2 premieres June 25, only on #Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=UazTQGcPSyU",
-      "published": "2026-04-13T18:00:23+00:00",
-      "summary": "💥 CHOOSE YOUR FIGHTER 💥 #AvatarTheLastAirbender Season 2 premieres June 25, only on #Netflix #Shorts #ATLA Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
-    "new": [
-      {
-        "title": "Scavengers Reign",
-        "why": "Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF."
-      },
-      {
-        "title": "Sugar",
-        "why": "Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap."
-      },
-      {
-        "title": "The Lazarus Project",
-        "why": "Time-loop espionage, moral pressure, and speculative plotting — very plausible fit."
-      },
-      {
-        "title": "Bodies",
-        "why": "Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling."
-      }
-    ],
-    "older": [
-      {
-        "title": "Counterpart",
-        "why": "Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence."
-      },
-      {
-        "title": "Patriot",
-        "why": "Dry, strange, melancholy spy storytelling with a very distinct voice."
-      },
-      {
-        "title": "Utopia",
-        "why": "Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly."
-      },
-      {
-        "title": "Rubicon",
-        "why": "A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere."
-      }
-    ],
-    "shared": [
-      {
-        "title": "Bad Sisters",
-        "why": "Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy."
-      },
-      {
-        "title": "Detectorists",
-        "why": "Gentle, funny, humane, and specific — a softer shared-watch possibility."
-      },
-      {
-        "title": "Astrid et Raphaëlle",
-        "why": "French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you."
-      },
-      {
-        "title": "Somebody Somewhere",
-        "why": "A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work."
-      }
-    ]
+    "new": [],
+    "older": [],
+    "shared": []
   },
   "highlights": [
     {
@@ -281,8 +162,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 4,
-    "trailerCount": 2,
-    "sourceCount": 15
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 8
   }
 }
