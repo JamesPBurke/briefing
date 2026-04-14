@@ -1,10 +1,17 @@
 # James Daily Briefing
 
-Generated: 2026-04-14T14:00:01.308064Z
+Generated: 2026-04-14T14:05:43.787906Z
 
 Today's sweep leans toward Democracy / press freedom, Science / computing, Education / pedagogy. The strongest items in this run are JD Vance defends Trump amid spat with Pope Leo: ‘Stick to matters of morality’, Anbernic’s new handheld is a pocket-friendly Android device with a swiveling screen, and Samsung is hiking the prices of its Galaxy phones and tablets.
 
 ## Briefing
+
+## Highlighted stories
+
+### A.I. Is Prompting an Evolution, Not Extinction, for Coders
+Interesting piece on the current state of AI in software work.
+
+Link: https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html
 
 ### 1. JD Vance defends Trump amid spat with Pope Leo: ‘Stick to matters of morality’ [10/10]
 **Source:** The Guardian US  

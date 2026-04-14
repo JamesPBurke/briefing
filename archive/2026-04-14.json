@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-14T14:00:01.308064Z",
-  "generatedAtDisplay": "2026-04-14 10:00 AM EDT",
+  "generatedAt": "2026-04-14T14:05:43.787906Z",
+  "generatedAtDisplay": "2026-04-14 10:05 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
   "summary": "Today's sweep leans toward Democracy / press freedom, Science / computing, Education / pedagogy. The strongest items in this run are JD Vance defends Trump amid spat with Pope Leo: ‘Stick to matters of morality’, Anbernic’s new handheld is a pocket-friendly Android device with a swiveling screen, and Samsung is hiking the prices of its Galaxy phones and tablets.",
@@ -263,7 +263,15 @@
       }
     ]
   },
-  "highlights": [],
+  "highlights": [
+    {
+      "title": "A.I. Is Prompting an Evolution, Not Extinction, for Coders",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html",
+      "notes": "Interesting piece on the current state of AI in software work.",
+      "addedAt": "2026-04-14T14:00:00Z"
+    }
+  ],
   "stats": {
     "mainCount": 13,
     "youtubeCount": 4,
