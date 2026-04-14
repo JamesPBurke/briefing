@@ -1,12 +1,39 @@
 # James Daily Briefing
 
-Generated: 2026-04-14T05:00:02.310009Z
+Generated: 2026-04-14T09:00:40.846336Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, CS education / AI policy. The strongest items in this run are Florida teenager charged with sexually assaulting and killing stepsister Anna Kepner on cruise ship, Man accused in Molotov cocktail attack of OpenAI CEO's home charged with attempted murder, and Republican Tony Gonzales to step down from Congress amid expulsion threat.
+Today's sweep leans toward Democracy / press freedom, Sci-fi / horror, CS education / AI policy. The strongest items in this run are Vance ‘sad Orbán lost’ but says US will work with new Magyar government in Hungary – Europe live, Viktor Orbán inspired rightwingers across the EU and in Britain. His defeat could represent a turning of the tide | Polly Toynbee, and R-Rated Animated ‘Bloodborne’ Adaptation Being Developed By Sony.
 
 ## Briefing
 
-### 1. Florida teenager charged with sexually assaulting and killing stepsister Anna Kepner on cruise ship [10/10]
+### 1. Vance ‘sad Orbán lost’ but says US will work with new Magyar government in Hungary – Europe live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+US vice-president defends pre-election visit to Hungary with fresh barbs against EU in first comments since Orbán’s loss Ashifa Kassam and Flora Garamvolgyi in Budapest In a small plaza facing Budapest’s Nyugati train station , Gabor, 40,…
+
+Link: https://www.theguardian.com/world/live/2026/apr/14/hungary-peter-magyar-viktor-orban-eu-ukraine-russia-europe-live-news-updates
+
+### 2. Viktor Orbán inspired rightwingers across the EU and in Britain. His defeat could represent a turning of the tide | Polly Toynbee [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+We must hope this vote will be the start of a wider backlash – and send hard-right populism back to the fringes where it belongs The forces of darkness rolled back on Sunday.
+
+Link: https://www.theguardian.com/commentisfree/2026/apr/14/viktor-orban-europe-britain-hard-right-populism
+
+### 3. R-Rated Animated ‘Bloodborne’ Adaptation Being Developed By Sony [10/10]
+**Source:** Bloody Disgusting  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+The critically acclaimed and award-winning Lovecraftian video game Bloodborne is getting an animated feature adaptation for Sony Pictures, Variety reports.
+
+Link: https://bloody-disgusting.com/video-games/3946011/r-rated-animated-bloodborne-adaptation-being-developed-by-sony/
+
+### 4. Florida teenager charged with sexually assaulting and killing stepsister Anna Kepner on cruise ship [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -15,7 +42,7 @@ Kepner’s body was found concealed under bed in a room she shared with two teen
 
 Link: https://www.theguardian.com/us-news/2026/apr/13/teenager-sexual-assault-anna-kepner-carnival-cruise
 
-### 2. Man accused in Molotov cocktail attack of OpenAI CEO's home charged with attempted murder [10/10]
+### 5. Man accused in Molotov cocktail attack of OpenAI CEO's home charged with attempted murder [10/10]
 **Source:** NPR Tech  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -23,33 +50,6 @@ Link: https://www.theguardian.com/us-news/2026/apr/13/teenager-sexual-assault-an
 No one was injured at Altman's home or the company offices, authorities said.
 
 Link: https://www.npr.org/2026/04/13/g-s1-117320/openai-sam-altman-molotov-cocktail
-
-### 3. Republican Tony Gonzales to step down from Congress amid expulsion threat [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Gonzales, who admitted affair with aide who later died by suicide, says he will file retirement from office on Tuesday US politics live – latest updates Representative Tony Gonzales, a Republican from Texas, announced on Monday he was…
-
-Link: https://www.theguardian.com/us-news/2026/apr/13/republican-tony-gonzales-congress
-
-### 4. RAMageddon has come for Microsoft’s Surface Pro and Surface Laptop [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Microsoft just raised the prices across its line of Surface devices amid the global RAM shortage. Now, the 13-inch Surface Pro 11 and the 13.
-
-Link: https://www.theverge.com/tech/911322/microsoft-surface-price-increase-ram
-
-### 5. Trump media company drops lawsuit against the Guardian [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-TMTG drops defamation claim over report that prosecutors were investigating payments received as possible money laundering Donald Trump ’s media corporation has dropped a defamation claim against the Guardian and two other defendants over…
-
-Link: https://www.theguardian.com/us-news/2026/apr/13/trump-media-guardian-lawsuit
 
 ### 6. Judges fired after blocking deportation of pro-Palestinian students [10/10]
 **Source:** The Guardian US  
@@ -60,7 +60,34 @@ Immigration judges Roopal Patel and Nina Froes among six judges terminated by De
 
 Link: https://www.theguardian.com/us-news/2026/apr/13/immigration-judges-fired-trump-administration
 
-### 7. Xbox Game Pass ‘has become too expensive,’ says Microsoft’s new gaming chief in leaked memo [9/10]
+### 7. NZXT to pay $3.45 million settlement over Flex PC rentals [10/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+NZXT and its business partner Fragile have agreed to pay $3.45 million to settle a class-action lawsuit that accused the companies of attempting to "scam" consumers through their Flex PC rental service.
+
+Link: https://www.theverge.com/tech/911297/nzxt-flex-pc-rental-settlement
+
+### 8. New Xbox CEO reportedly admits Game Pass "has become too expensive for players" in leaked memo [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+New Xbox CEO Asha Sharma has reportedly admitted that the company's Game Pass subscription model has become "too expensive for players", and Microsoft needs a "better value equation". Read more
+
+Link: https://www.eurogamer.net/xbox-game-pass-too-expensive-asha-sharma
+
+### 9. ‘My life has become a rollercoaster’: Francesca Albanese on death threats, danger and dread after accusing Israel of genocide [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+When the UN special rapporteur published her report Anatomy of a Genocide in March 2024, she was lionised by some and demonised by the Trump government.
+
+Link: https://www.theguardian.com/law/2026/apr/14/my-life-has-become-a-rollercoaster-francesca-albanese-death-threats-danger-dread-accusing-israel-genocide
+
+### 10. Xbox Game Pass ‘has become too expensive,’ says Microsoft’s new gaming chief in leaked memo [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -69,7 +96,7 @@ Microsoft's new Xbox chief, Asha Sharma, has signaled that Xbox Game Pass pricin
 
 Link: https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo
 
-### 8. LAUSD Career Tech Programs Offer Head Start for High School Students [9/10]
+### 11. LAUSD Career Tech Programs Offer Head Start for High School Students [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -77,33 +104,6 @@ Link: https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensiv
 Sergio Garcia is quick to the scene. He puts on a scuffed firefighter jacket, grabs an oxygen mask and crouches down on hot concrete to start chest compressions on a dummy body.
 
 Link: https://www.the74million.org/article/lausd-career-tech-programs-offer-head-start-for-high-school-students/
-
-### 9. Pragmata review [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The human brain is divided into two hemispheres; the left brain and the right brain.
-
-Link: https://www.eurogamer.net/pragmata-review
-
-### 10. The Hunger Games: Sunrise on the Reaping Trailer Welcomes You to the 50th Hunger Games [9/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-May the odds... yeah, you know the rest The post The Hunger Games: Sunrise on the Reaping Trailer Welcomes You to the 50th Hunger Games appeared first on Reactor .
-
-Link: https://reactormag.com/the-hunger-games-sunrise-on-the-reaping-trailer-2/
-
-### 11. US military says it killed two people in another boat strike in eastern Pacific [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Dispatch of vessel strike, like most of military’s statements on strikes conducted in area, did not provide evidence The US military said it killed two people in a strike on a vessel in the eastern Pacific Ocean on Monday, claiming the…
-
-Link: https://www.theguardian.com/us-news/2026/apr/13/us-military-vessel-strike
 
 ### 12. The glossy, golden frosting you probably haven't made yet: Courtesy of the French. [8/10]
 **Source:** King Arthur Baking  
@@ -143,15 +143,6 @@ Link: https://www.youtube.com/watch?v=5J4QKLCdQhw
 
 Link: https://www.youtube.com/watch?v=Nt9yfYQfcl0
 
-### Protesters march in Beirut ahead of ceasefire negotiations [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Israel and Lebanon’s ambassadors to the U.S. are set to meet in Washington to discuss a ceasefire, but at a Hezbollah rally in downtown Beirut Saturday, supporters filled the streets for blocks, waving flags chanting against negotiations.
-
-Link: https://www.youtube.com/watch?v=1UEfIvsAJ60
-
 ### The Problem With Trilogies | Windbreaker Podcast [8/10]
 **Creator:** Second Wind  
 **Verdict:** Worth watching  
@@ -160,6 +151,15 @@ Link: https://www.youtube.com/watch?v=1UEfIvsAJ60
 This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
 
 Link: https://www.youtube.com/watch?v=xa1MUi3kZtg
+
+### California bald eagles welcome new eaglets over Easter weekend [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Two long-awaited baby eaglets have hatched in a nest east of Los Angeles. Tens of thousands of fans from around the world watched on a livestream.
+
+Link: https://www.youtube.com/watch?v=abBGDjaXhKg
 
 ## Entertainment Recommendations
 

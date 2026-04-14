@@ -1,11 +1,41 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-14T05:00:02.310009Z",
-  "generatedAtDisplay": "2026-04-14 01:00 AM EDT",
+  "generatedAt": "2026-04-14T09:00:40.846336Z",
+  "generatedAtDisplay": "2026-04-14 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, CS education / AI policy. The strongest items in this run are Florida teenager charged with sexually assaulting and killing stepsister Anna Kepner on cruise ship, Man accused in Molotov cocktail attack of OpenAI CEO's home charged with attempted murder, and Republican Tony Gonzales to step down from Congress amid expulsion threat.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Sci-fi / horror, CS education / AI policy. The strongest items in this run are Vance ‘sad Orbán lost’ but says US will work with new Magyar government in Hungary – Europe live, Viktor Orbán inspired rightwingers across the EU and in Britain. His defeat could represent a turning of the tide | Polly Toynbee, and R-Rated Animated ‘Bloodborne’ Adaptation Being Developed By Sony.",
   "mainItems": [
+    {
+      "title": "Vance ‘sad Orbán lost’ but says US will work with new Magyar government in Hungary – Europe live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/live/2026/apr/14/hungary-peter-magyar-viktor-orban-eu-ukraine-russia-europe-live-news-updates",
+      "published": "2026-04-14T08:39:10+00:00",
+      "summary": "US vice-president defends pre-election visit to Hungary with fresh barbs against EU in first comments since Orbán’s loss Ashifa Kassam and Flora Garamvolgyi in Budapest In a small plaza facing Budapest’s Nyugati train station , Gabor, 40,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Viktor Orbán inspired rightwingers across the EU and in Britain. His defeat could represent a turning of the tide | Polly Toynbee",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/14/viktor-orban-europe-britain-hard-right-populism",
+      "published": "2026-04-14T05:00:00+00:00",
+      "summary": "We must hope this vote will be the start of a wider backlash – and send hard-right populism back to the fringes where it belongs The forces of darkness rolled back on Sunday.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "R-Rated Animated ‘Bloodborne’ Adaptation Being Developed By Sony",
+      "source": "Bloody Disgusting",
+      "category": "Sci-fi / horror",
+      "url": "https://bloody-disgusting.com/video-games/3946011/r-rated-animated-bloodborne-adaptation-being-developed-by-sony/",
+      "published": "2026-04-14T03:39:21+00:00",
+      "summary": "The critically acclaimed and award-winning Lovecraftian video game Bloodborne is getting an animated feature adaptation for Sony Pictures, Variety reports.",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 10
+    },
     {
       "title": "Florida teenager charged with sexually assaulting and killing stepsister Anna Kepner on cruise ship",
       "source": "The Guardian US",
@@ -27,36 +57,6 @@
       "score": 10
     },
     {
-      "title": "Republican Tony Gonzales to step down from Congress amid expulsion threat",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/13/republican-tony-gonzales-congress",
-      "published": "2026-04-13T23:41:01+00:00",
-      "summary": "Gonzales, who admitted affair with aide who later died by suicide, says he will file retirement from office on Tuesday US politics live – latest updates Representative Tony Gonzales, a Republican from Texas, announced on Monday he was…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "RAMageddon has come for Microsoft’s Surface Pro and Surface Laptop",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/911322/microsoft-surface-price-increase-ram",
-      "published": "2026-04-13T20:45:41+00:00",
-      "summary": "Microsoft just raised the prices across its line of Surface devices amid the global RAM shortage. Now, the 13-inch Surface Pro 11 and the 13.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump media company drops lawsuit against the Guardian",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/apr/13/trump-media-guardian-lawsuit",
-      "published": "2026-04-13T20:41:40+00:00",
-      "summary": "TMTG drops defamation claim over report that prosecutors were investigating payments received as possible money laundering Donald Trump ’s media corporation has dropped a defamation claim against the Guardian and two other defendants over…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
       "title": "Judges fired after blocking deportation of pro-Palestinian students",
       "source": "The Guardian US",
       "category": "CS education / AI policy",
@@ -65,6 +65,36 @@
       "summary": "Immigration judges Roopal Patel and Nina Froes among six judges terminated by Department of Justice Two immigration judges who ruled against the Trump administration in the deportation cases of pro-Palestinian university students have been…",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
+    },
+    {
+      "title": "NZXT to pay $3.45 million settlement over Flex PC rentals",
+      "source": "The Verge",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/tech/911297/nzxt-flex-pc-rental-settlement",
+      "published": "2026-04-13T20:00:58+00:00",
+      "summary": "NZXT and its business partner Fragile have agreed to pay $3.45 million to settle a class-action lawsuit that accused the companies of attempting to \"scam\" consumers through their Flex PC rental service.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "New Xbox CEO reportedly admits Game Pass \"has become too expensive for players\" in leaked memo",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/xbox-game-pass-too-expensive-asha-sharma",
+      "published": "2026-04-14T08:05:21+00:00",
+      "summary": "New Xbox CEO Asha Sharma has reportedly admitted that the company's Game Pass subscription model has become \"too expensive for players\", and Microsoft needs a \"better value equation\". Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "‘My life has become a rollercoaster’: Francesca Albanese on death threats, danger and dread after accusing Israel of genocide",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/law/2026/apr/14/my-life-has-become-a-rollercoaster-francesca-albanese-death-threats-danger-dread-accusing-israel-genocide",
+      "published": "2026-04-14T04:00:04+00:00",
+      "summary": "When the UN special rapporteur published her report Anatomy of a Genocide in March 2024, she was lionised by some and demonised by the Trump government.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
       "title": "Xbox Game Pass ‘has become too expensive,’ says Microsoft’s new gaming chief in leaked memo",
@@ -85,36 +115,6 @@
       "summary": "Sergio Garcia is quick to the scene. He puts on a scuffed firefighter jacket, grabs an oxygen mask and crouches down on hot concrete to start chest compressions on a dummy body.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
-    },
-    {
-      "title": "Pragmata review",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/pragmata-review",
-      "published": "2026-04-13T15:00:59+00:00",
-      "summary": "The human brain is divided into two hemispheres; the left brain and the right brain.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "The Hunger Games: Sunrise on the Reaping Trailer Welcomes You to the 50th Hunger Games",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/the-hunger-games-sunrise-on-the-reaping-trailer-2/",
-      "published": "2026-04-13T14:36:21+00:00",
-      "summary": "May the odds... yeah, you know the rest The post The Hunger Games: Sunrise on the Reaping Trailer Welcomes You to the 50th Hunger Games appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 9
-    },
-    {
-      "title": "US military says it killed two people in another boat strike in eastern Pacific",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/apr/13/us-military-vessel-strike",
-      "published": "2026-04-14T01:44:59+00:00",
-      "summary": "Dispatch of vessel strike, like most of military’s statements on strikes conducted in area, did not provide evidence The US military said it killed two people in a strike on a vessel in the eastern Pacific Ocean on Monday, claiming the…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
     },
     {
       "title": "The glossy, golden frosting you probably haven't made yet: Courtesy of the French.",
@@ -161,17 +161,6 @@
       "verdict": "Watch it"
     },
     {
-      "title": "Protesters march in Beirut ahead of ceasefire negotiations",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=1UEfIvsAJ60",
-      "published": "2026-04-13T21:00:03+00:00",
-      "summary": "Israel and Lebanon’s ambassadors to the U.S. are set to meet in Washington to discuss a ceasefire, but at a Hezbollah rally in downtown Beirut Saturday, supporters filled the streets for blocks, waving flags chanting against negotiations.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
       "title": "The Problem With Trilogies | Windbreaker Podcast",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -179,6 +168,17 @@
       "published": "2026-04-13T19:10:31+00:00",
       "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "California bald eagles welcome new eaglets over Easter weekend",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=abBGDjaXhKg",
+      "published": "2026-04-12T16:15:00+00:00",
+      "summary": "Two long-awaited baby eaglets have hatched in a nest east of Los Angeles. Tens of thousands of fans from around the world watched on a livestream.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
     }
