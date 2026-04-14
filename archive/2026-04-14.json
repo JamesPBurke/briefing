@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-14T19:18:12.133534Z",
-  "generatedAtDisplay": "2026-04-14 03:18 PM EDT",
+  "generatedAt": "2026-04-14T19:22:14.520681Z",
+  "generatedAtDisplay": "2026-04-14 03:22 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
   "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Google’s Spotlight-like desktop search bar for Windows is available for everyone, Sony’s new 1440p OLED gaming monitor seems a lot better than its first, and L.A. District Reaches Tentative Agreements With 3 Unions, Avoids Historic Strike.",
@@ -137,8 +137,76 @@
       "score": 7
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "James Wolff was a spy. Now, he's writing about them",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=5J4QKLCdQhw",
+      "published": "2026-04-13T22:08:54+00:00",
+      "summary": "There’s keeping a low profile and then there’s author James Wolff. Not his real name. It's a pseudonym. James Wolff had a career as a British intelligence officer. Now, he writes about them.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Will Sony Offer Any Way To Play Physical Games On Digital Devices?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=Nt9yfYQfcl0",
+      "published": "2026-04-12T16:00:35+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CeSzzupGe60 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "The Problem With Trilogies | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=xa1MUi3kZtg",
+      "published": "2026-04-13T19:10:31+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "California bald eagles welcome new eaglets over Easter weekend",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=abBGDjaXhKg",
+      "published": "2026-04-12T16:15:00+00:00",
+      "summary": "Two long-awaited baby eaglets have hatched in a nest east of Los Angeles. Tens of thousands of fans from around the world watched on a livestream.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "what could go wrong? BEEF S2 premieres April 16.",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=y3_CQtJHFBs",
+      "published": "2026-04-13T19:01:00+00:00",
+      "summary": "Starring Carey Mulligan, Oscar Isaac, Charles Melton, and Cailee Spaeny. And guest starring Youn Yuh-jung and Song Kang-ho. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "💥 CHOOSE YOUR FIGHTER 💥 #AvatarTheLastAirbender Season 2 premieres June 25, only on #Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=UazTQGcPSyU",
+      "published": "2026-04-13T18:00:23+00:00",
+      "summary": "💥 CHOOSE YOUR FIGHTER 💥 #AvatarTheLastAirbender Season 2 premieres June 25, only on #Netflix #Shorts #ATLA Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [],
     "older": [],
@@ -162,8 +230,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 8
+    "youtubeCount": 4,
+    "trailerCount": 2,
+    "sourceCount": 12
   }
 }
