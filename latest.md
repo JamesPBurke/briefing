@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-14T18:00:29.679772Z
+Generated: 2026-04-14T19:17:16.834530Z
 
 Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Google’s Spotlight-like desktop search bar for Windows is available for everyone, Sony’s new 1440p OLED gaming monitor seems a lot better than its first, and L.A. District Reaches Tentative Agreements With 3 Unions, Avoids Historic Strike.
 
@@ -134,3 +134,22 @@ Link: https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thie
 Does anybody actually need this? That’s the question my colleagues and I ask ourselves whenever we embark on a new cookbook . We know we can make the book.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/14/the-world-needed-a-pizza-book-so-we-wrote-one
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+
+### Older shows you may have missed
+
+
+### Maggie + James overlap
+
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._
