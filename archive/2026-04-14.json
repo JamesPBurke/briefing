@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-14T19:22:14.520681Z",
-  "generatedAtDisplay": "2026-04-14 03:22 PM EDT",
+  "generatedAt": "2026-04-14T19:25:40.515498Z",
+  "generatedAtDisplay": "2026-04-14 03:25 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
   "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Google’s Spotlight-like desktop search bar for Windows is available for everyone, Sony’s new 1440p OLED gaming monitor seems a lot better than its first, and L.A. District Reaches Tentative Agreements With 3 Unions, Avoids Historic Strike.",
@@ -208,9 +208,60 @@
     }
   ],
   "recommendations": {
-    "new": [],
-    "older": [],
-    "shared": []
+    "new": [
+      {
+        "title": "Scavengers Reign",
+        "why": "Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF."
+      },
+      {
+        "title": "Sugar",
+        "why": "Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap."
+      },
+      {
+        "title": "The Lazarus Project",
+        "why": "Time-loop espionage, moral pressure, and speculative plotting — very plausible fit."
+      },
+      {
+        "title": "Bodies",
+        "why": "Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling."
+      }
+    ],
+    "older": [
+      {
+        "title": "Counterpart",
+        "why": "Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence."
+      },
+      {
+        "title": "Patriot",
+        "why": "Dry, strange, melancholy spy storytelling with a very distinct voice."
+      },
+      {
+        "title": "Utopia",
+        "why": "Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly."
+      },
+      {
+        "title": "Rubicon",
+        "why": "A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere."
+      }
+    ],
+    "shared": [
+      {
+        "title": "Bad Sisters",
+        "why": "Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy."
+      },
+      {
+        "title": "Detectorists",
+        "why": "Gentle, funny, humane, and specific — a softer shared-watch possibility."
+      },
+      {
+        "title": "Astrid et Raphaëlle",
+        "why": "French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you."
+      },
+      {
+        "title": "Somebody Somewhere",
+        "why": "A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work."
+      }
+    ]
   },
   "highlights": [
     {
