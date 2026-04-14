@@ -1,111 +1,120 @@
 # James Daily Briefing
 
-Generated: 2026-04-14T09:00:40.846336Z
+Generated: 2026-04-14T14:00:01.308064Z
 
-Today's sweep leans toward Democracy / press freedom, Sci-fi / horror, CS education / AI policy. The strongest items in this run are Vance ‘sad Orbán lost’ but says US will work with new Magyar government in Hungary – Europe live, Viktor Orbán inspired rightwingers across the EU and in Britain. His defeat could represent a turning of the tide | Polly Toynbee, and R-Rated Animated ‘Bloodborne’ Adaptation Being Developed By Sony.
+Today's sweep leans toward Democracy / press freedom, Science / computing, Education / pedagogy. The strongest items in this run are JD Vance defends Trump amid spat with Pope Leo: ‘Stick to matters of morality’, Anbernic’s new handheld is a pocket-friendly Android device with a swiveling screen, and Samsung is hiking the prices of its Galaxy phones and tablets.
 
 ## Briefing
 
-### 1. Vance ‘sad Orbán lost’ but says US will work with new Magyar government in Hungary – Europe live [10/10]
+### 1. JD Vance defends Trump amid spat with Pope Leo: ‘Stick to matters of morality’ [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-US vice-president defends pre-election visit to Hungary with fresh barbs against EU in first comments since Orbán’s loss Ashifa Kassam and Flora Garamvolgyi in Budapest In a small plaza facing Budapest’s Nyugati train station , Gabor, 40,…
+Vice-president effectively tells Leo to stay in his lane after the pope criticized the White House over the Iran war JD Vance has weighed into Donald Trump’s feud with Pope Leo, effectively telling the pontiff to stay in his lane after the…
 
-Link: https://www.theguardian.com/world/live/2026/apr/14/hungary-peter-magyar-viktor-orban-eu-ukraine-russia-europe-live-news-updates
+Link: https://www.theguardian.com/us-news/2026/apr/14/jd-vance-defends-trump-pope-leo-spat
 
-### 2. Viktor Orbán inspired rightwingers across the EU and in Britain. His defeat could represent a turning of the tide | Polly Toynbee [10/10]
-**Source:** The Guardian US  
+### 2. Anbernic’s new handheld is a pocket-friendly Android device with a swiveling screen [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-We must hope this vote will be the start of a wider backlash – and send hard-right populism back to the fringes where it belongs The forces of darkness rolled back on Sunday.
+Anbernic, one of the most prolific makers of handheld consoles and emulators, isn't afraid to experiment with creative designs.
 
-Link: https://www.theguardian.com/commentisfree/2026/apr/14/viktor-orban-europe-britain-hard-right-populism
+Link: https://www.theverge.com/tech/911600/anbernic-rg-rotate-square-handheld-gaming-console-emulator
 
-### 3. R-Rated Animated ‘Bloodborne’ Adaptation Being Developed By Sony [10/10]
-**Source:** Bloody Disgusting  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-The critically acclaimed and award-winning Lovecraftian video game Bloodborne is getting an animated feature adaptation for Sony Pictures, Variety reports.
-
-Link: https://bloody-disgusting.com/video-games/3946011/r-rated-animated-bloodborne-adaptation-being-developed-by-sony/
-
-### 4. Florida teenager charged with sexually assaulting and killing stepsister Anna Kepner on cruise ship [10/10]
-**Source:** The Guardian US  
+### 3. Samsung is hiking the prices of its Galaxy phones and tablets [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Kepner’s body was found concealed under bed in a room she shared with two teens, including 16-year-old stepbrother Sign up for the Breaking News US newsletter email A 16-year-old boy has been charged with murder and aggravated sexual abuse…
+Samsung is raising prices across Galaxy Z Flip 7, Galaxy S25 FE, and Galaxy S25 Edge phones, as spotted earlier by Phone Arena.
 
-Link: https://www.theguardian.com/us-news/2026/apr/13/teenager-sexual-assault-anna-kepner-carnival-cruise
+Link: https://www.theverge.com/tech/911623/samsung-galaxy-phones-tablets-price-hike-ram
 
-### 5. Man accused in Molotov cocktail attack of OpenAI CEO's home charged with attempted murder [10/10]
+### 4. Millions of people are pretending to be AI chatbots — for fun [10/10]
 **Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Websites like youraislopbores.me have become playgrounds for people looking for light relief in a bot-heavy world.
+
+Link: https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt
+
+### 5. Bloodborne is being turned into an R-rated animated film [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-No one was injured at Altman's home or the company offices, authorities said.
+It's not a PC port or a remake, but Sony is returning to the Gothic world of Bloodborne.
 
-Link: https://www.npr.org/2026/04/13/g-s1-117320/openai-sam-altman-molotov-cocktail
+Link: https://www.theverge.com/entertainment/911576/bloodborne-feature-film
 
-### 6. Judges fired after blocking deportation of pro-Palestinian students [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 6. Idols Of Ash review - a terrific spelunking horror game that makes you choose between a rock and a giant centipede [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Immigration judges Roopal Patel and Nina Froes among six judges terminated by Department of Justice Two immigration judges who ruled against the Trump administration in the deportation cases of pro-Palestinian university students have been…
+When I think of Idols of Ash , I think of seven sounds, listed here in order of deepening dreadfulness. The first and nicest sound is the clink of my silvery grapple sinking its hook, interrupting the rush of air past my ears as I fall.
 
-Link: https://www.theguardian.com/us-news/2026/apr/13/immigration-judges-fired-trump-administration
+Link: https://www.rockpapershotgun.com/idols-of-ash-review-a-terrific-spelunking-horror-game-that-makes-you-choose-between-a-rock-and-a-giant-centipede
 
-### 7. NZXT to pay $3.45 million settlement over Flex PC rentals [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-NZXT and its business partner Fragile have agreed to pay $3.45 million to settle a class-action lawsuit that accused the companies of attempting to "scam" consumers through their Flex PC rental service.
-
-Link: https://www.theverge.com/tech/911297/nzxt-flex-pc-rental-settlement
-
-### 8. New Xbox CEO reportedly admits Game Pass "has become too expensive for players" in leaked memo [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-New Xbox CEO Asha Sharma has reportedly admitted that the company's Game Pass subscription model has become "too expensive for players", and Microsoft needs a "better value equation". Read more
-
-Link: https://www.eurogamer.net/xbox-game-pass-too-expensive-asha-sharma
-
-### 9. ‘My life has become a rollercoaster’: Francesca Albanese on death threats, danger and dread after accusing Israel of genocide [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-When the UN special rapporteur published her report Anatomy of a Genocide in March 2024, she was lionised by some and demonised by the Trump government.
-
-Link: https://www.theguardian.com/law/2026/apr/14/my-life-has-become-a-rollercoaster-francesca-albanese-death-threats-danger-dread-accusing-israel-genocide
-
-### 10. Xbox Game Pass ‘has become too expensive,’ says Microsoft’s new gaming chief in leaked memo [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Microsoft's new Xbox chief, Asha Sharma, has signaled that Xbox Game Pass pricing is about to change.
-
-Link: https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo
-
-### 11. LAUSD Career Tech Programs Offer Head Start for High School Students [9/10]
+### 7. Opinion: America Has a Million Untapped Tutors. Here’s How to Activate Them [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Sergio Garcia is quick to the scene. He puts on a scuffed firefighter jacket, grabs an oxygen mask and crouches down on hot concrete to start chest compressions on a dummy body.
+There are more than 12 million elementary and middle school students from low-income families who are below grade level in reading or math, our analysis shows.
 
-Link: https://www.the74million.org/article/lausd-career-tech-programs-offer-head-start-for-high-school-students/
+Link: https://www.the74million.org/article/america-has-a-million-untapped-tutors-heres-how-to-activate-them/
 
-### 12. The glossy, golden frosting you probably haven't made yet: Courtesy of the French. [8/10]
+### 8. AI companies make powerful tech – but they’re also savvy marketers [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Anthropic’s Claude Mythos AI is said to be frighteningly capable, but we shouldn’t get carried away by the hype Hello, and welcome to TechScape.
+
+Link: https://www.theguardian.com/technology/2026/apr/13/ai-tech-marketing
+
+### 9. Marathon will test out a new experimental game mode which forces players to use free sponsored kits [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+If you've been playing Marathon and have been bodied by geared-out players, packing fully upgraded guns and purple shields, a new experimental game mode coming this week may be exactly what you've been waiting for. Read more
+
+Link: https://www.eurogamer.net/marathon-sponsored-kit-queue-experiment
+
+### 10. Has Google’s AI watermarking system been reverse-engineered? [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim that, according to Google, isn't true.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered
+
+### 11. Google, Microsoft, Meta All Tracking You Even When You Opt Out, According to an Independent Audit [9/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+“This is the Strait of Hormuz in the data economy. If you want to make a change, this is where you cut it off. Anything short of that is theatrical political posture.”
+
+Link: https://www.404media.co/google-microsoft-meta-all-tracking-you-even-when-you-opt-out-according-to-an-independent-audit/
+
+### 12. The Hunger Games: Sunrise on the Reaping Trailer Welcomes You to the 50th Hunger Games [9/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+May the odds... yeah, you know the rest The post The Hunger Games: Sunrise on the Reaping Trailer Welcomes You to the 50th Hunger Games appeared first on Reactor .
+
+Link: https://reactormag.com/the-hunger-games-sunrise-on-the-reaping-trailer-2/
+
+### 13. The glossy, golden frosting you probably haven't made yet: Courtesy of the French. [8/10]
 **Source:** King Arthur Baking  
 **Category:** Bread / food craft  
 **Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
@@ -113,15 +122,6 @@ Link: https://www.the74million.org/article/lausd-career-tech-programs-offer-head
 The country of France has provided the baking canon with no shortage of classics. But outside of croissants, éclairs, madeleines, and macarons, there’s still one classic recipe that flies under the radar.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/13/french-buttercream
-
-### 13. How the Internet Became Hell (with Whitney Phillips) [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-‘The Ambivalent Internet’ and ‘The Shadow Gospel’ author Whitney Phillips on how online got so bad.
-
-Link: https://www.404media.co/how-the-internet-became-hell-with-whitney-phillips/
 
 ## YouTube
 
