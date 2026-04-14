@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-14T15:15:18.540299Z
+Generated: 2026-04-14T15:18:08.518293Z
 
 Today's sweep leans toward Games / criticism, Education / pedagogy, Democracy / press freedom. The strongest items in this run are GTA Online is still making Rockstar Games around $1.3 million per day on average, STALKER 2’s latest update adds an easily missed new questline, while dispersing accidental mutant crowds, and Opinion: Why Colleges, School Districts and Hospitals Are Closing On-Site Child Care.
 
