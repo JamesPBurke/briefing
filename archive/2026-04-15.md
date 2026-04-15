@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-15T05:00:01.641774Z
+Generated: 2026-04-15T09:00:42.310039Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Air New Zealand's economy Skynest bunk beds set for launch, US DoJ files for overturning January 6 convictions for far-right groups’ members, and ‘An incalculable loss’: Hampshire College to close doors after fall semester.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Building trust in the AI era with privacy-led UX, A moment that changed me: I was desperate to get off the mountain – and that gut instinct saved my life, and Justice denied: why families of apartheid victims are still searching for answers.
 
 ## Briefing
 
@@ -18,25 +18,34 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Air New Zealand's economy Skynest bunk beds set for launch [10/10]
-**Source:** The Guardian US  
+### 1. Building trust in the AI era with privacy-led UX [10/10]
+**Source:** MIT Technology Review  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Passengers can book a four-hour session in the bunk beds from May for Auckland-New York flights but airline cautions against smuggling in children Economy passengers on Air New Zealand’s ultra-long-haul flight between Auckland and New York…
+The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship.
 
-Link: https://www.theguardian.com/business/2026/apr/15/air-new-zealand-skynest-bunk-beds-sleep-pods-economy
+Link: https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/
 
-### 2. US DoJ files for overturning January 6 convictions for far-right groups’ members [10/10]
+### 2. A moment that changed me: I was desperate to get off the mountain – and that gut instinct saved my life [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Filing seeks to overturn seditious conspiracy charges of Proud Boys and Oath Keepers members who laid siege to US Capitol in 2021 The US Department of Justice has requested that a federal appeals judge overturn convictions for members of…
+From the moment I started climbing the 7,000-metre peaks of the Pamir mountains in Tajikistan, something felt off.
 
-Link: https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers
+Link: https://www.theguardian.com/lifeandstyle/2026/apr/15/moment-that-changed-me-desperate-get-off-mountain
 
-### 3. ‘An incalculable loss’: Hampshire College to close doors after fall semester [10/10]
+### 3. Justice denied: why families of apartheid victims are still searching for answers [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Struggle for justice symbolises limitations of Truth and Reconciliation Commission, whose hearings began 30 years ago Darkness had fallen on 27 June 1985 when Fort Calata, Matthew Goniwe, Sicelo Mhlauli and Sparrow Mkonto set off on the…
+
+Link: https://www.theguardian.com/world/2026/apr/15/justice-denied-apartheid-south-africa-truth-and-reconciliation
+
+### 4. ‘An incalculable loss’: Hampshire College to close doors after fall semester [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -44,15 +53,6 @@ Link: https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-over
 Massachusetts liberal arts college laments ‘heartbreaking reality’ and says financial pressures to blame A Massachusetts liberal arts college is set to close permanently due to low enrollment and financial problems.
 
 Link: https://www.theguardian.com/us-news/2026/apr/14/hampshire-college-massachusetts-closure
-
-### 4. Americans ask AI for health care. Hospitals think the answer is more chatbots. [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Do you trust AI chatbots for health advice? What about one in your patient portal?
-
-Link: https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/
 
 ### 5. UK gov's Mythos AI tests help separate cybersecurity threat from hype [10/10]
 **Source:** Ars Technica  
@@ -63,25 +63,16 @@ New model is the first AI system to complete a difficult multistep infiltration 
 
 Link: https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/
 
-### 6. Godzilla Minus Zero: First Trailer Sees the Statue of Liberty in Danger [9/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-And he’s barreling into New York in IMAX, no less The post Godzilla Minus Zero : First Trailer Sees the Statue of Liberty in Danger appeared first on Reactor .
-
-Link: https://reactormag.com/godzilla-minus-zero-first-trailer/
-
-### 7. Labyrinth.os is a dungeon crawling ode to late '90s and early 2000s uncanny CGI [9/10]
-**Source:** Rock Paper Shotgun  
+### 6. Next God of War game will explore multiple mythologies, report suggests [9/10]
+**Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Labyrinth.os is the kind of game where I'm not entirely sure I can tell you what it is exactly. It is, as the game's itch.io page says, a "new 3D Dungeon Crawling Dream for Windows Machines.
+A new report has shared more alleged details about the next God of War game, including which mythologies it could explore. Read more
 
-Link: https://www.rockpapershotgun.com/labyrinthos-is-a-dungeon-crawling-ode-to-late-90s-and-early-2000s-uncanny-cgi
+Link: https://www.eurogamer.net/god-of-war-mythologies-rumour
 
-### 8. Opinion: Why Colleges, School Districts and Hospitals Are Closing On-Site Child Care [9/10]
+### 7. Opinion: Why Colleges, School Districts and Hospitals Are Closing On-Site Child Care [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -90,7 +81,7 @@ In February, the University of Nebraska at Omaha (UNO) announced it would shutte
 
 Link: https://www.the74million.org/zero2eight/why-colleges-school-districts-and-hospitals-are-closing-on-site-child-care/
 
-### 9. Millions of people are pretending to be AI chatbots — for fun [9/10]
+### 8. Millions of people are pretending to be AI chatbots — for fun [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -98,6 +89,15 @@ Link: https://www.the74million.org/zero2eight/why-colleges-school-districts-and-
 Websites like youraislopbores.me have become playgrounds for people looking for light relief in a bot-heavy world.
 
 Link: https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt
+
+### 9. Godzilla Minus Zero: First Trailer Sees the Statue of Liberty in Danger [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+And he’s barreling into New York in IMAX, no less The post Godzilla Minus Zero : First Trailer Sees the Statue of Liberty in Danger appeared first on Reactor .
+
+Link: https://reactormag.com/godzilla-minus-zero-first-trailer/
 
 ### 10. Historic decline in U.S. overdose deaths threatened by changing street drug supply [8/10]
 **Source:** NPR Health  
@@ -137,6 +137,33 @@ Link: https://www.kingarthurbaking.com/blog/2026/04/14/the-world-needed-a-pizza-
 
 ## YouTube
 
+### Shipping traffic slows as the U.S., Iran blockade the Strait of Hormuz [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+The duel blockades have limited the number of ships passing through the strait to just two in the past day, according to ship-tracking firms and media reports.
+
+Link: https://www.youtube.com/watch?v=RpcmXXie49k
+
+### Will Sony Offer Any Way To Play Physical Games On Digital Devices? [9/10]
+**Creator:** Digital Foundry  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CeSzzupGe60 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=Nt9yfYQfcl0
+
+### Two members of Congress say they’ll resign, following allegations of sexual misconduct [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Two members of Congress say they’ll resign, following allegations of sexual misconduct: Texas Republican Tony Gonzales and California Democrat Eric Swalwell, who's also announced he’s suspending his campaign for governor of California.
+
+Link: https://www.youtube.com/watch?v=CIxxaUCCgbM
+
 ### Home Inspector Answers House Safety Questions | Tech Support | WIRED [8/10]
 **Creator:** WIRED  
 **Verdict:** Worth watching  
@@ -171,6 +198,15 @@ Link: https://www.youtube.com/watch?v=O3svEfSbsFQ
 
 ## Trailers / Previews
 
+### Roosters: Season 2 | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The men are back, more confused than ever. Season 2 of Roosters arrives May 13. Watch on Netflix: https://www.netflix.com/title/81698659 In season 2, Mike, Danny, Ivo, and Greg do everything they can to be less cocky.
+
+Link: https://www.youtube.com/watch?v=e_tw7pJ3JOM
+
 ### Get up. Chapter Three of #ImperfectWomen is now streaming. [9/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
@@ -179,12 +215,3 @@ Link: https://www.youtube.com/watch?v=O3svEfSbsFQ
 Elisabeth Moss, Kerry Washington & Kate Mara are your Imperfect Women, now streaming on Apple TV https://apple.co/_ImperfectWomen A new series starring Elisabeth Moss, Kerry Washington, and Kate Mara.
 
 Link: https://www.youtube.com/watch?v=DhIFYiFFMIA
-
-### Ready or not...the first three episodes of #MargosGotMoneyTroubles are now streaming [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Margo's Got Money Troubles – Coming April 15 to Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.
-
-Link: https://www.youtube.com/watch?v=lAL08M8FJFA

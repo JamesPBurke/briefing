@@ -1,28 +1,38 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-15T05:00:01.641774Z",
-  "generatedAtDisplay": "2026-04-15 01:00 AM EDT",
+  "generatedAt": "2026-04-15T09:00:42.310039Z",
+  "generatedAtDisplay": "2026-04-15 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Air New Zealand's economy Skynest bunk beds set for launch, US DoJ files for overturning January 6 convictions for far-right groups’ members, and ‘An incalculable loss’: Hampshire College to close doors after fall semester.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Building trust in the AI era with privacy-led UX, A moment that changed me: I was desperate to get off the mountain – and that gut instinct saved my life, and Justice denied: why families of apartheid victims are still searching for answers.",
   "mainItems": [
     {
-      "title": "Air New Zealand's economy Skynest bunk beds set for launch",
-      "source": "The Guardian US",
+      "title": "Building trust in the AI era with privacy-led UX",
+      "source": "MIT Technology Review",
       "category": "AI / privacy",
-      "url": "https://www.theguardian.com/business/2026/apr/15/air-new-zealand-skynest-bunk-beds-sleep-pods-economy",
-      "published": "2026-04-15T02:07:58+00:00",
-      "summary": "Passengers can book a four-hour session in the bunk beds from May for Auckland-New York flights but airline cautions against smuggling in children Economy passengers on Air New Zealand’s ultra-long-haul flight between Auckland and New York…",
+      "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
+      "published": "2026-04-15T06:00:00+00:00",
+      "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "US DoJ files for overturning January 6 convictions for far-right groups’ members",
+      "title": "A moment that changed me: I was desperate to get off the mountain – and that gut instinct saved my life",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
-      "published": "2026-04-15T01:33:24+00:00",
-      "summary": "Filing seeks to overturn seditious conspiracy charges of Proud Boys and Oath Keepers members who laid siege to US Capitol in 2021 The US Department of Justice has requested that a federal appeals judge overturn convictions for members of…",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/15/moment-that-changed-me-desperate-get-off-mountain",
+      "published": "2026-04-15T05:45:00+00:00",
+      "summary": "From the moment I started climbing the 7,000-metre peaks of the Pamir mountains in Tajikistan, something felt off.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Justice denied: why families of apartheid victims are still searching for answers",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/apr/15/justice-denied-apartheid-south-africa-truth-and-reconciliation",
+      "published": "2026-04-15T05:00:01+00:00",
+      "summary": "Struggle for justice symbolises limitations of Truth and Reconciliation Commission, whose hearings began 30 years ago Darkness had fallen on 27 June 1985 when Fort Calata, Matthew Goniwe, Sicelo Mhlauli and Sparrow Mkonto set off on the…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -37,16 +47,6 @@
       "score": 10
     },
     {
-      "title": "Americans ask AI for health care. Hospitals think the answer is more chatbots.",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/",
-      "published": "2026-04-14T20:30:20+00:00",
-      "summary": "Do you trust AI chatbots for health advice? What about one in your patient portal?",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "UK gov's Mythos AI tests help separate cybersecurity threat from hype",
       "source": "Ars Technica",
       "category": "AI / computing",
@@ -57,22 +57,12 @@
       "score": 10
     },
     {
-      "title": "Godzilla Minus Zero: First Trailer Sees the Statue of Liberty in Danger",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/godzilla-minus-zero-first-trailer/",
-      "published": "2026-04-14T23:33:14+00:00",
-      "summary": "And he’s barreling into New York in IMAX, no less The post Godzilla Minus Zero : First Trailer Sees the Statue of Liberty in Danger appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 9
-    },
-    {
-      "title": "Labyrinth.os is a dungeon crawling ode to late '90s and early 2000s uncanny CGI",
-      "source": "Rock Paper Shotgun",
+      "title": "Next God of War game will explore multiple mythologies, report suggests",
+      "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/labyrinthos-is-a-dungeon-crawling-ode-to-late-90s-and-early-2000s-uncanny-cgi",
-      "published": "2026-04-14T22:00:01+00:00",
-      "summary": "Labyrinth.os is the kind of game where I'm not entirely sure I can tell you what it is exactly. It is, as the game's itch.io page says, a \"new 3D Dungeon Crawling Dream for Windows Machines.",
+      "url": "https://www.eurogamer.net/god-of-war-mythologies-rumour",
+      "published": "2026-04-15T08:46:01+00:00",
+      "summary": "A new report has shared more alleged details about the next God of War game, including which mythologies it could explore. Read more",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
@@ -95,6 +85,16 @@
       "summary": "Websites like youraislopbores.me have become playgrounds for people looking for light relief in a bot-heavy world.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 9
+    },
+    {
+      "title": "Godzilla Minus Zero: First Trailer Sees the Statue of Liberty in Danger",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/godzilla-minus-zero-first-trailer/",
+      "published": "2026-04-14T23:33:14+00:00",
+      "summary": "And he’s barreling into New York in IMAX, no less The post Godzilla Minus Zero : First Trailer Sees the Statue of Liberty in Danger appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     },
     {
       "title": "Historic decline in U.S. overdose deaths threatened by changing street drug supply",
@@ -139,6 +139,39 @@
   ],
   "youtube": [
     {
+      "title": "Shipping traffic slows as the U.S., Iran blockade the Strait of Hormuz",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=RpcmXXie49k",
+      "published": "2026-04-14T18:30:41+00:00",
+      "summary": "The duel blockades have limited the number of ships passing through the strait to just two in the past day, according to ship-tracking firms and media reports.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Will Sony Offer Any Way To Play Physical Games On Digital Devices?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=Nt9yfYQfcl0",
+      "published": "2026-04-12T16:00:35+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CeSzzupGe60 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Two members of Congress say they’ll resign, following allegations of sexual misconduct",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=CIxxaUCCgbM",
+      "published": "2026-04-14T16:30:06+00:00",
+      "summary": "Two members of Congress say they’ll resign, following allegations of sexual misconduct: Texas Republican Tony Gonzales and California Democrat Eric Swalwell, who's also announced he’s suspending his campaign for governor of California.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "Home Inspector Answers House Safety Questions | Tech Support | WIRED",
       "source": "WIRED",
       "category": "Tech / media",
@@ -152,23 +185,23 @@
   ],
   "trailers": [
     {
+      "title": "Roosters: Season 2 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=e_tw7pJ3JOM",
+      "published": "2026-04-15T08:00:00+00:00",
+      "summary": "The men are back, more confused than ever. Season 2 of Roosters arrives May 13. Watch on Netflix: https://www.netflix.com/title/81698659 In season 2, Mike, Danny, Ivo, and Greg do everything they can to be less cocky.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Get up. Chapter Three of #ImperfectWomen is now streaming.",
       "source": "Apple TV",
       "category": "TV / trailer",
       "url": "https://www.youtube.com/watch?v=DhIFYiFFMIA",
       "published": "2026-04-15T01:29:48+00:00",
       "summary": "Elisabeth Moss, Kerry Washington & Kate Mara are your Imperfect Women, now streaming on Apple TV https://apple.co/_ImperfectWomen A new series starring Elisabeth Moss, Kerry Washington, and Kate Mara.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Ready or not...the first three episodes of #MargosGotMoneyTroubles are now streaming",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=lAL08M8FJFA",
-      "published": "2026-04-15T00:59:51+00:00",
-      "summary": "Margo's Got Money Troubles – Coming April 15 to Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
@@ -248,8 +281,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 1,
+    "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 12
+    "sourceCount": 16
   }
 }
