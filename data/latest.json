@@ -1,49 +1,69 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-15T09:00:42.310039Z",
-  "generatedAtDisplay": "2026-04-15 05:00 AM EDT",
+  "generatedAt": "2026-04-15T14:00:02.240940Z",
+  "generatedAtDisplay": "2026-04-15 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Building trust in the AI era with privacy-led UX, A moment that changed me: I was desperate to get off the mountain – and that gut instinct saved my life, and Justice denied: why families of apartheid victims are still searching for answers.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are ‘Uncharted territory’: uncertainty as US vaccine guidance falls apart under Trump, Hungary’s prime minister-elect vows to suspend ‘propaganda machine’ state media, and Oklahoma principal shot disarming ex-student with semi-automatic guns.",
   "mainItems": [
     {
-      "title": "Building trust in the AI era with privacy-led UX",
-      "source": "MIT Technology Review",
+      "title": "‘Uncharted territory’: uncertainty as US vaccine guidance falls apart under Trump",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/15/uncertainty-vaccine-guidance-trump-administration",
+      "published": "2026-04-15T13:38:11+00:00",
+      "summary": "Several shots – including flu and Covid – lost their CDC recommendations under overhauls from the White House Several shots lost their recommendation from the US Centers for Disease Control and Prevention (CDC) after a judge’s stay against…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Hungary’s prime minister-elect vows to suspend ‘propaganda machine’ state media",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/apr/15/hungary-prime-minister-elect-peter-magyar-suspend-state-media-propaganda",
+      "published": "2026-04-15T13:32:30+00:00",
+      "summary": "Péter Magyar compares media coverage to Nazi-era Germany and aims to ‘restore its public service character’ Europe live – latest updates Hungary’s prime minister-elect has vowed to suspend state media news coverage, describing it as a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Oklahoma principal shot disarming ex-student with semi-automatic guns",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/apr/15/oklahoma-principal-shot-disarming-ex-student",
+      "published": "2026-04-15T13:26:39+00:00",
+      "summary": "Kirk Moore was injured as he tackled a former pupil who opened fire at Pauls Valley high school Sign up for the Breaking News US email to get newsletter alerts in your inbox An Oklahoma principal has been praised for preventing a tragedy…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Leaked GTA Online revenue data boosts publisher Take-Two's stock",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/leaked-gta-online-revenue-data-boosts-take-two-stock",
+      "published": "2026-04-15T12:34:49+00:00",
+      "summary": "Even though the hacker group ShinyHunters successfully broke through (part of) Rockstar Games' security and extracted internal data, the developer and its huge publisher, Take-Two, haven't minded the unfortunate event much.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Microsoft faces fresh Windows Recall security concerns",
+      "source": "The Verge",
       "category": "AI / privacy",
-      "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
-      "published": "2026-04-15T06:00:00+00:00",
-      "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship.",
+      "url": "https://www.theverge.com/report/912101/microsoft-windows-recall-new-security-concerns-response",
+      "published": "2026-04-15T10:36:18+00:00",
+      "summary": "When Microsoft tried to launch Recall, an AI-powered Windows feature that screenshots most of what you do on your PC, it was labeled a \"disaster\" for cybersecurity and a \"privacy nightmare.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "A moment that changed me: I was desperate to get off the mountain – and that gut instinct saved my life",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/15/moment-that-changed-me-desperate-get-off-mountain",
-      "published": "2026-04-15T05:45:00+00:00",
-      "summary": "From the moment I started climbing the 7,000-metre peaks of the Pamir mountains in Tajikistan, something felt off.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Justice denied: why families of apartheid victims are still searching for answers",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/apr/15/justice-denied-apartheid-south-africa-truth-and-reconciliation",
-      "published": "2026-04-15T05:00:01+00:00",
-      "summary": "Struggle for justice symbolises limitations of Truth and Reconciliation Commission, whose hearings began 30 years ago Darkness had fallen on 27 June 1985 when Fort Calata, Matthew Goniwe, Sicelo Mhlauli and Sparrow Mkonto set off on the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘An incalculable loss’: Hampshire College to close doors after fall semester",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/hampshire-college-massachusetts-closure",
-      "published": "2026-04-14T22:59:05+00:00",
-      "summary": "Massachusetts liberal arts college laments ‘heartbreaking reality’ and says financial pressures to blame A Massachusetts liberal arts college is set to close permanently due to low enrollment and financial problems.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "With DLSS 5, Nvidia look to rewrite the truth before our eyes",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / design",
+      "url": "https://www.rockpapershotgun.com/with-dlss-5-nvidia-look-to-rewrite-the-truth-before-our-eyes",
+      "published": "2026-04-15T10:20:56+00:00",
+      "summary": "Earlier this year Nvidia announced DLSS 5 , a new version of their DLSS technology: a layer of graphical magic that uses their GPUs to do improbable things to the resolution and framerate of your favourite PC games (unless your favourite…",
+      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
       "score": 10
     },
     {
@@ -57,16 +77,6 @@
       "score": 10
     },
     {
-      "title": "Next God of War game will explore multiple mythologies, report suggests",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/god-of-war-mythologies-rumour",
-      "published": "2026-04-15T08:46:01+00:00",
-      "summary": "A new report has shared more alleged details about the next God of War game, including which mythologies it could explore. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
       "title": "Opinion: Why Colleges, School Districts and Hospitals Are Closing On-Site Child Care",
       "source": "The 74",
       "category": "Education / pedagogy",
@@ -77,14 +87,34 @@
       "score": 9
     },
     {
-      "title": "Millions of people are pretending to be AI chatbots — for fun",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt",
-      "published": "2026-04-14T13:30:19+00:00",
-      "summary": "Websites like youraislopbores.me have become playgrounds for people looking for light relief in a bot-heavy world.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
+      "title": "Emails Reveal Space Force’s Hardest Mission Is Writing a Song",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/emails-reveal-space-forces-hardest-mission-is-writing-a-song/",
+      "published": "2026-04-15T13:29:56+00:00",
+      "summary": "Internal Space Force emails obtained by 404 Media show the work it takes to have a government agency make a new theme song. A general even wanted to start the whole thing over again.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "How Toni Morrison blurred the lines between being an editor and a writer",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/books/2026/apr/15/toni-morrison-books-legacy-writer-editor",
+      "published": "2026-04-15T13:00:29+00:00",
+      "summary": "Two recent books about Morrison attempt to make sense of her legacy as a writer, editor and thinker on Black life When I think of Toni Morrison’s novels, I often think of the poet Lucille Clifton’s response to Gorilla, My Love, the debut…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
+    },
+    {
+      "title": "Quit a GLP-1? Plan to start again? It's not recommended, but plenty of people do it",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/04/15/nx-s1-5712532/glp-1-quit-begin-ozempic-wegovy-mounjaro-zepbound",
+      "published": "2026-04-15T09:00:00+00:00",
+      "summary": "A majority of people who start the obesity and diabetes medicines known as GLP-1s also quit them, and plan to restart again. Research hasn't yet shown the health impacts of cycling on and off the drugs.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "Godzilla Minus Zero: First Trailer Sees the Statue of Liberty in Danger",
@@ -97,26 +127,6 @@
       "score": 8
     },
     {
-      "title": "Historic decline in U.S. overdose deaths threatened by changing street drug supply",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/14/nx-s1-5783750/overdose-fentanyl-medetomidine-xylazine",
-      "published": "2026-04-14T17:03:04+00:00",
-      "summary": "Drug overdose deaths are plummeting in the U.S. in ways never seen before. Experts worry new, toxic \"synthetic\" street drugs could derail the recovery.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Airbnb Hosts Don't Want to Talk to Guests Anymore, Are Outsourcing Messages to AI",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/airbnb-hosts-dont-want-to-talk-to-guests-anymore-are-outsourcing-messages-to-ai/",
-      "published": "2026-04-14T14:39:02+00:00",
-      "summary": "An entire industry of companies offers Airbnb hosts AI to speak to guests on their behalf. 404 Media poked around the industry after one AI tool offered a guest a recipe for French toast.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
       "title": "How Silicon Valley Is Turning Scientists Into Exploited Gig Workers",
       "source": "The Nation",
       "category": "Security / computing",
@@ -125,16 +135,6 @@
       "summary": "Hirsh Chitkara Tech elites are enriching themselves by plundering STEM institutions—and offering researchers scraps. The post How Silicon Valley Is Turning Scientists Into Exploited Gig Workers appeared first on The Nation .",
       "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 7
-    },
-    {
-      "title": "The world needed a pizza book. So we wrote one. : Introducing our newest cookbook, The Book of Pizza.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/04/14/the-world-needed-a-pizza-book-so-we-wrote-one",
-      "published": "2026-04-14T14:00:00+00:00",
-      "summary": "Does anybody actually need this? That’s the question my colleagues and I ask ourselves whenever we embark on a new cookbook . We know we can make the book.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
-      "score": 6
     }
   ],
   "youtube": [
@@ -283,6 +283,6 @@
     "mainCount": 13,
     "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 16
+    "sourceCount": 15
   }
 }
