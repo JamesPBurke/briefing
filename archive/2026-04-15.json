@@ -1,11 +1,51 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-15T14:00:02.240940Z",
-  "generatedAtDisplay": "2026-04-15 10:00 AM EDT",
+  "generatedAt": "2026-04-15T18:00:48.633666Z",
+  "generatedAtDisplay": "2026-04-15 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are ‘Uncharted territory’: uncertainty as US vaccine guidance falls apart under Trump, Hungary’s prime minister-elect vows to suspend ‘propaganda machine’ state media, and Oklahoma principal shot disarming ex-student with semi-automatic guns.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, CS education / AI policy. The strongest items in this run are Prosecutors won’t file domestic abuse charges against Taylor Frankie Paul, Snap Inc blames AI as it lays off 1,000 workers, and Camp Mystic official says she still hasn’t reported flood deaths to Texas agency.",
   "mainItems": [
+    {
+      "title": "Prosecutors won’t file domestic abuse charges against Taylor Frankie Paul",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/15/taylor-frankie-paul-mormon-wives-star-not-charged",
+      "published": "2026-04-15T16:50:43+00:00",
+      "summary": "Mormon Wives star was accused of domestic violence by her former partner Dakota Mortensen Prosecutors in Utah have declined to press charges against Taylor Frankie Paul, star of the reality show The Secret Lives of Mormon Wives, after she…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Snap Inc blames AI as it lays off 1,000 workers",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/technology/2026/apr/15/snap-inc-blames-ai-worker-layoffs",
+      "published": "2026-04-15T15:23:00+00:00",
+      "summary": "Cuts by Snapchat’s parent company come in response to a declining stock price and pressure from an activist investor Snapchat ’s parent company plans to lay off 16% of its employees, around 1,000 people, citing “rapid advancements in…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Camp Mystic official says she still hasn’t reported flood deaths to Texas agency",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/apr/15/camp-mystic-official-reported-flood-deaths",
+      "published": "2026-04-15T14:41:46+00:00",
+      "summary": "Camp’s medical officer testified at a hearing as state health agency reviews camp’s application to reopen this summer Sign up for the Breaking News US email to get newsletter alerts in your inbox The medical officer for Camp Mystic, the…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "The 45 stylist-approved spring fashion essentials for women, all under $200",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/thefilter-us/2026/apr/15/spring-wardrobe-refresh",
+      "published": "2026-04-15T14:15:30+00:00",
+      "summary": "Linen pants, timeless tees and statement accessories can help give your wardrobe a refresh with warmer days ahead The 13 best women’s shoes for the office, vetted by stylish professionals Sign up for the Filter US newsletter, your weekly…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "‘Uncharted territory’: uncertainty as US vaccine guidance falls apart under Trump",
       "source": "The Guardian US",
@@ -37,33 +77,13 @@
       "score": 10
     },
     {
-      "title": "Leaked GTA Online revenue data boosts publisher Take-Two's stock",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/leaked-gta-online-revenue-data-boosts-take-two-stock",
-      "published": "2026-04-15T12:34:49+00:00",
-      "summary": "Even though the hacker group ShinyHunters successfully broke through (part of) Rockstar Games' security and extracted internal data, the developer and its huge publisher, Take-Two, haven't minded the unfortunate event much.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Microsoft faces fresh Windows Recall security concerns",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/report/912101/microsoft-windows-recall-new-security-concerns-response",
-      "published": "2026-04-15T10:36:18+00:00",
-      "summary": "When Microsoft tried to launch Recall, an AI-powered Windows feature that screenshots most of what you do on your PC, it was labeled a \"disaster\" for cybersecurity and a \"privacy nightmare.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "With DLSS 5, Nvidia look to rewrite the truth before our eyes",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / design",
-      "url": "https://www.rockpapershotgun.com/with-dlss-5-nvidia-look-to-rewrite-the-truth-before-our-eyes",
-      "published": "2026-04-15T10:20:56+00:00",
-      "summary": "Earlier this year Nvidia announced DLSS 5 , a new version of their DLSS technology: a layer of graphical magic that uses their GPUs to do improbable things to the resolution and framerate of your favourite PC games (unless your favourite…",
-      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
+      "title": "Opinion: Empowering Student Voice In New York City Starts With a Vote",
+      "source": "The 74",
+      "category": "Democracy / press freedom",
+      "url": "https://www.the74million.org/article/empowering-student-voice-in-new-york-city-starts-with-a-vote/",
+      "published": "2026-04-15T12:30:00+00:00",
+      "summary": "Lawmakers in the New York Senate and Assembly are considering a bill that would empower New York City high school students. It doesn’t have a catchy name, nor has it attracted much debate and attention surrounding it.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -77,33 +97,33 @@
       "score": 10
     },
     {
-      "title": "Opinion: Why Colleges, School Districts and Hospitals Are Closing On-Site Child Care",
+      "title": "NYC SantaCon charity fundraiser was more con than Claus, authorities say",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/apr/15/santacon-charity-new-york-fraud",
+      "published": "2026-04-15T17:32:13+00:00",
+      "summary": "Officials say charity fundraiser that flooded New York with drunk people in Santa costumes every Christmas was a con A SantaCon charity fundraiser that floods New York City with inebriated young people in red and white Santa costumes every…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Opinion: Threats over DEI Weaken Local School Leaders McMahon Says She Wants to Empower",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/zero2eight/why-colleges-school-districts-and-hospitals-are-closing-on-site-child-care/",
-      "published": "2026-04-14T14:30:00+00:00",
-      "summary": "In February, the University of Nebraska at Omaha (UNO) announced it would shutter its on-campus child care center, which has operated for nearly 40 years, at the end of the spring semester.",
+      "url": "https://www.the74million.org/article/threats-over-dei-weaken-local-school-leaders-mcmahon-says-she-wants-to-empower/",
+      "published": "2026-04-15T16:30:00+00:00",
+      "summary": "Late last month, Education Secretary Linda McMahon celebrated what she called the Trump administration’s “unprecedented progress in reducing the federal education footprint” and “giving education back to the states” as she announced that…",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
-      "title": "Emails Reveal Space Force’s Hardest Mission Is Writing a Song",
+      "title": "Ukraine Says Russians are Surrendering to Robots",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/emails-reveal-space-forces-hardest-mission-is-writing-a-song/",
-      "published": "2026-04-15T13:29:56+00:00",
-      "summary": "Internal Space Force emails obtained by 404 Media show the work it takes to have a government agency make a new theme song. A general even wanted to start the whole thing over again.",
+      "url": "https://www.404media.co/ukraine-says-russians-are-surrendering-to-robots/",
+      "published": "2026-04-15T17:43:17+00:00",
+      "summary": "Volodymyr Zelenskyy is pitching his country as a global leader in robots for war and defense. Will the world listen?",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "How Toni Morrison blurred the lines between being an editor and a writer",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/books/2026/apr/15/toni-morrison-books-legacy-writer-editor",
-      "published": "2026-04-15T13:00:29+00:00",
-      "summary": "Two recent books about Morrison attempt to make sense of her legacy as a writer, editor and thinker on Black life When I think of Toni Morrison’s novels, I often think of the poet Lucille Clifton’s response to Gorilla, My Love, the debut…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 8
     },
     {
@@ -115,98 +135,10 @@
       "summary": "A majority of people who start the obesity and diabetes medicines known as GLP-1s also quit them, and plan to restart again. Research hasn't yet shown the health impacts of cycling on and off the drugs.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "Godzilla Minus Zero: First Trailer Sees the Statue of Liberty in Danger",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/godzilla-minus-zero-first-trailer/",
-      "published": "2026-04-14T23:33:14+00:00",
-      "summary": "And he’s barreling into New York in IMAX, no less The post Godzilla Minus Zero : First Trailer Sees the Statue of Liberty in Danger appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
-      "title": "How Silicon Valley Is Turning Scientists Into Exploited Gig Workers",
-      "source": "The Nation",
-      "category": "Security / computing",
-      "url": "https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/",
-      "published": "2026-04-14T14:36:05+00:00",
-      "summary": "Hirsh Chitkara Tech elites are enriching themselves by plundering STEM institutions—and offering researchers scraps. The post How Silicon Valley Is Turning Scientists Into Exploited Gig Workers appeared first on The Nation .",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 7
     }
   ],
-  "youtube": [
-    {
-      "title": "Shipping traffic slows as the U.S., Iran blockade the Strait of Hormuz",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=RpcmXXie49k",
-      "published": "2026-04-14T18:30:41+00:00",
-      "summary": "The duel blockades have limited the number of ships passing through the strait to just two in the past day, according to ship-tracking firms and media reports.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Will Sony Offer Any Way To Play Physical Games On Digital Devices?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=Nt9yfYQfcl0",
-      "published": "2026-04-12T16:00:35+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CeSzzupGe60 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Two members of Congress say they’ll resign, following allegations of sexual misconduct",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=CIxxaUCCgbM",
-      "published": "2026-04-14T16:30:06+00:00",
-      "summary": "Two members of Congress say they’ll resign, following allegations of sexual misconduct: Texas Republican Tony Gonzales and California Democrat Eric Swalwell, who's also announced he’s suspending his campaign for governor of California.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Home Inspector Answers House Safety Questions | Tech Support | WIRED",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=O3svEfSbsFQ",
-      "published": "2026-04-14T16:00:19+00:00",
-      "summary": "Home inspector and certified builder Tobias Condill joins WIRED to answer the internet’s burning questions about house safety maintenance.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "Roosters: Season 2 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=e_tw7pJ3JOM",
-      "published": "2026-04-15T08:00:00+00:00",
-      "summary": "The men are back, more confused than ever. Season 2 of Roosters arrives May 13. Watch on Netflix: https://www.netflix.com/title/81698659 In season 2, Mike, Danny, Ivo, and Greg do everything they can to be less cocky.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Get up. Chapter Three of #ImperfectWomen is now streaming.",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=DhIFYiFFMIA",
-      "published": "2026-04-15T01:29:48+00:00",
-      "summary": "Elisabeth Moss, Kerry Washington & Kate Mara are your Imperfect Women, now streaming on Apple TV https://apple.co/_ImperfectWomen A new series starring Elisabeth Moss, Kerry Washington, and Kate Mara.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -281,8 +213,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 4,
-    "trailerCount": 2,
-    "sourceCount": 15
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 5
   }
 }
