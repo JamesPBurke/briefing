@@ -1,21 +1,11 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-15T18:00:48.633666Z",
-  "generatedAtDisplay": "2026-04-15 02:00 PM EDT",
+  "generatedAt": "2026-04-15T18:01:36.096319Z",
+  "generatedAtDisplay": "2026-04-15 02:01 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, CS education / AI policy. The strongest items in this run are Prosecutors won’t file domestic abuse charges against Taylor Frankie Paul, Snap Inc blames AI as it lays off 1,000 workers, and Camp Mystic official says she still hasn’t reported flood deaths to Texas agency.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, CS education / AI policy. The strongest items in this run are Snap Inc blames AI as it lays off 1,000 workers, Camp Mystic official says she still hasn’t reported flood deaths to Texas agency, and ‘Uncharted territory’: uncertainty as US vaccine guidance falls apart under Trump.",
   "mainItems": [
-    {
-      "title": "Prosecutors won’t file domestic abuse charges against Taylor Frankie Paul",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/15/taylor-frankie-paul-mormon-wives-star-not-charged",
-      "published": "2026-04-15T16:50:43+00:00",
-      "summary": "Mormon Wives star was accused of domestic violence by her former partner Dakota Mortensen Prosecutors in Utah have declined to press charges against Taylor Frankie Paul, star of the reality show The Secret Lives of Mormon Wives, after she…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
     {
       "title": "Snap Inc blames AI as it lays off 1,000 workers",
       "source": "The Guardian US",
@@ -34,16 +24,6 @@
       "published": "2026-04-15T14:41:46+00:00",
       "summary": "Camp’s medical officer testified at a hearing as state health agency reviews camp’s application to reopen this summer Sign up for the Breaking News US email to get newsletter alerts in your inbox The medical officer for Camp Mystic, the…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "The 45 stylist-approved spring fashion essentials for women, all under $200",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/thefilter-us/2026/apr/15/spring-wardrobe-refresh",
-      "published": "2026-04-15T14:15:30+00:00",
-      "summary": "Linen pants, timeless tees and statement accessories can help give your wardrobe a refresh with warmer days ahead The 13 best women’s shoes for the office, vetted by stylish professionals Sign up for the Filter US newsletter, your weekly…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -84,6 +64,26 @@
       "published": "2026-04-15T12:30:00+00:00",
       "summary": "Lawmakers in the New York Senate and Assembly are considering a bill that would empower New York City high school students. It doesn’t have a catchy name, nor has it attracted much debate and attention surrounding it.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The Graduation Gap: When Students Earn a High School Diploma But Still Can’t Do Math",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/the-graduation-gap-when-students-earn-a-high-school-diploma-but-still-cant-do-math/",
+      "published": "2026-04-15T10:30:00+00:00",
+      "summary": "Congratulations! High school graduation rates in your state are hitting all-time highs! But before you crack open the champagne, you should know that only a small fraction of those students can do high school-level math.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Building trust in the AI era with privacy-led UX",
+      "source": "MIT Technology Review",
+      "category": "AI / privacy",
+      "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
+      "published": "2026-04-15T06:00:00+00:00",
+      "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
@@ -215,6 +215,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 5
+    "sourceCount": 6
   }
 }

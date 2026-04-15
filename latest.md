@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-15T18:00:48.633666Z
+Generated: 2026-04-15T18:01:36.096319Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, CS education / AI policy. The strongest items in this run are Prosecutors won’t file domestic abuse charges against Taylor Frankie Paul, Snap Inc blames AI as it lays off 1,000 workers, and Camp Mystic official says she still hasn’t reported flood deaths to Texas agency.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, CS education / AI policy. The strongest items in this run are Snap Inc blames AI as it lays off 1,000 workers, Camp Mystic official says she still hasn’t reported flood deaths to Texas agency, and ‘Uncharted territory’: uncertainty as US vaccine guidance falls apart under Trump.
 
 ## Briefing
 
@@ -18,16 +18,7 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Prosecutors won’t file domestic abuse charges against Taylor Frankie Paul [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Mormon Wives star was accused of domestic violence by her former partner Dakota Mortensen Prosecutors in Utah have declined to press charges against Taylor Frankie Paul, star of the reality show The Secret Lives of Mormon Wives, after she…
-
-Link: https://www.theguardian.com/us-news/2026/apr/15/taylor-frankie-paul-mormon-wives-star-not-charged
-
-### 2. Snap Inc blames AI as it lays off 1,000 workers [10/10]
+### 1. Snap Inc blames AI as it lays off 1,000 workers [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -36,7 +27,7 @@ Cuts by Snapchat’s parent company come in response to a declining stock price 
 
 Link: https://www.theguardian.com/technology/2026/apr/15/snap-inc-blames-ai-worker-layoffs
 
-### 3. Camp Mystic official says she still hasn’t reported flood deaths to Texas agency [10/10]
+### 2. Camp Mystic official says she still hasn’t reported flood deaths to Texas agency [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -45,16 +36,7 @@ Camp’s medical officer testified at a hearing as state health agency reviews c
 
 Link: https://www.theguardian.com/us-news/2026/apr/15/camp-mystic-official-reported-flood-deaths
 
-### 4. The 45 stylist-approved spring fashion essentials for women, all under $200 [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Linen pants, timeless tees and statement accessories can help give your wardrobe a refresh with warmer days ahead The 13 best women’s shoes for the office, vetted by stylish professionals Sign up for the Filter US newsletter, your weekly…
-
-Link: https://www.theguardian.com/thefilter-us/2026/apr/15/spring-wardrobe-refresh
-
-### 5. ‘Uncharted territory’: uncertainty as US vaccine guidance falls apart under Trump [10/10]
+### 3. ‘Uncharted territory’: uncertainty as US vaccine guidance falls apart under Trump [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -63,7 +45,7 @@ Several shots – including flu and Covid – lost their CDC recommendations und
 
 Link: https://www.theguardian.com/us-news/2026/apr/15/uncertainty-vaccine-guidance-trump-administration
 
-### 6. Hungary’s prime minister-elect vows to suspend ‘propaganda machine’ state media [10/10]
+### 4. Hungary’s prime minister-elect vows to suspend ‘propaganda machine’ state media [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -72,7 +54,7 @@ Péter Magyar compares media coverage to Nazi-era Germany and aims to ‘restore
 
 Link: https://www.theguardian.com/world/2026/apr/15/hungary-prime-minister-elect-peter-magyar-suspend-state-media-propaganda
 
-### 7. Oklahoma principal shot disarming ex-student with semi-automatic guns [10/10]
+### 5. Oklahoma principal shot disarming ex-student with semi-automatic guns [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -81,7 +63,7 @@ Kirk Moore was injured as he tackled a former pupil who opened fire at Pauls Val
 
 Link: https://www.theguardian.com/us-news/2026/apr/15/oklahoma-principal-shot-disarming-ex-student
 
-### 8. Opinion: Empowering Student Voice In New York City Starts With a Vote [10/10]
+### 6. Opinion: Empowering Student Voice In New York City Starts With a Vote [10/10]
 **Source:** The 74  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -89,6 +71,24 @@ Link: https://www.theguardian.com/us-news/2026/apr/15/oklahoma-principal-shot-di
 Lawmakers in the New York Senate and Assembly are considering a bill that would empower New York City high school students. It doesn’t have a catchy name, nor has it attracted much debate and attention surrounding it.
 
 Link: https://www.the74million.org/article/empowering-student-voice-in-new-york-city-starts-with-a-vote/
+
+### 7. The Graduation Gap: When Students Earn a High School Diploma But Still Can’t Do Math [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Congratulations! High school graduation rates in your state are hitting all-time highs! But before you crack open the champagne, you should know that only a small fraction of those students can do high school-level math.
+
+Link: https://www.the74million.org/article/the-graduation-gap-when-students-earn-a-high-school-diploma-but-still-cant-do-math/
+
+### 8. Building trust in the AI era with privacy-led UX [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship.
+
+Link: https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/
 
 ### 9. UK gov's Mythos AI tests help separate cybersecurity threat from hype [10/10]
 **Source:** Ars Technica  
