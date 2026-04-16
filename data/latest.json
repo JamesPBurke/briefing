@@ -1,68 +1,78 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-16T14:00:02.272195Z",
-  "generatedAtDisplay": "2026-04-16 10:00 AM EDT",
+  "generatedAt": "2026-04-16T18:00:29.391000Z",
+  "generatedAtDisplay": "2026-04-16 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are Minos review - Theseus can have the minotaur, this roguelike tower defense gets just too punishing, Street Fighter film gets new trailer full of roundhouses and explosions, plus a spot of mournful karaoke, and Middle East crisis live: US to block Iranian ports for ‘as long as it takes’ and is ready to restart combat if talks fail, Hegseth warns.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are The nine best ways to protect, customize, and accessorize your MacBook Neo, Robert F Kennedy Jr grilled about Medicare fraud claims, vaccine rollbacks and health budget – US politics live, and Revealed: Mandelson failed vetting but Foreign Office overruled decision.",
   "mainItems": [
     {
-      "title": "Minos review - Theseus can have the minotaur, this roguelike tower defense gets just too punishing",
-      "source": "Rock Paper Shotgun",
+      "title": "The nine best ways to protect, customize, and accessorize your MacBook Neo",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/minos-review-theseus-can-have-the-minotaur-this-roguelike-tower-defense-gets-just-too-punishing",
-      "published": "2026-04-16T14:00:00+00:00",
-      "summary": "The mercenary I'm watching stalk the corridors of the dank labyrinth is right to be scared.",
+      "url": "https://www.theverge.com/gadgets/912767/best-macbook-neo-accessories",
+      "published": "2026-04-16T17:57:47+00:00",
+      "summary": "The MacBook Neo is poised to be a top-selling laptop in 2026, thanks in large part to its affordable $599 entry price.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Street Fighter film gets new trailer full of roundhouses and explosions, plus a spot of mournful karaoke",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/street-fighter-film-new-trailer",
-      "published": "2026-04-16T13:52:49+00:00",
-      "summary": "We are in a ripe age of video game to big (and small) screen adaptations, and now we have another look at the upcoming Street Fighter film, which stars the likes of Jason Momoa and wrestler Roman Reigns . Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Middle East crisis live: US to block Iranian ports for ‘as long as it takes’ and is ready to restart combat if talks fail, Hegseth warns",
+      "title": "Robert F Kennedy Jr grilled about Medicare fraud claims, vaccine rollbacks and health budget – US politics live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/apr/16/middle-east-crisis-live-iran-war-news-us-trump-ceasefire-deal-lebanon-israel-oil-sanctions-latest-updates",
-      "published": "2026-04-16T13:41:09+00:00",
-      "summary": "Pentagon chief said that the US is ‘reloading with more power than before’ and Iran has choice of ‘the easy way or the hard way’ US and Iran in indirect talks to extend two-week ceasefire Iran has stopped all petrochemical exports to…",
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/16/pete-hegseth-trump-democrats-iran-war-us-politics-latest-news-updates",
+      "published": "2026-04-16T17:41:04+00:00",
+      "summary": "Health secretary questioned in packed House Ways and Means committee hearing Sign up for the Breaking News US email Chairman of the joint chiefs of staff Dan Caine says the US military remains ready to re-engage in combat “at literally a…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Making AI operational in constrained public sector environments",
-      "source": "MIT Technology Review",
+      "title": "Revealed: Mandelson failed vetting but Foreign Office overruled decision",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/politics/2026/apr/16/revealed-mandelson-failed-vetting-but-foreign-office-overruled-decision",
+      "published": "2026-04-16T17:16:02+00:00",
+      "summary": "Guardian investigation uncovers decision by UK security officials to deny clearance before Mandelson took up role as US ambassador Officials debate withholding Mandelson vetting documents from parliament Five key questions: Who overruled…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Gemini can now pull from Google Photos to generate personalized images",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
-      "published": "2026-04-16T13:00:00+00:00",
-      "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption.",
+      "url": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana",
+      "published": "2026-04-16T15:48:00+00:00",
+      "summary": "Google's Personal Intelligence feature, which lets Gemini pull data from apps like Google Photos to offer responses tailored to you, can now use that data and its Nano Banana 2 image model to create images based on your personal context.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Treating enterprise AI as an operating layer",
-      "source": "MIT Technology Review",
+      "title": "It’s slushy season, and Ninja’s frozen drink machine is nearly half off",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
-      "published": "2026-04-16T13:00:00+00:00",
-      "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks — GPT versus Gemini, reasoning scores, and marginal capability gains.",
+      "url": "https://www.theverge.com/gadgets/913067/ninja-slushi-frozen-drink-machine-youtube-premium-deal-sale",
+      "published": "2026-04-16T15:22:59+00:00",
+      "summary": "Woot is making it more affordable to own a frozen drink machine. Ninja’s Slushi that has an 88-ounce container for storing your ice-cold creations is down to $184.99 at Woot, which is a whopping 47 percent off its list price.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Trump’s triumphal arch plan for US capital faces key federal review vote",
+      "title": "Opinion: Rebuilding the Black Teacher Pipeline, for the Benefit of All Students",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/rebuilding-the-black-teacher-pipeline-for-the-benefit-of-all-students/",
+      "published": "2026-04-16T14:30:00+00:00",
+      "summary": "Across Pennsylvania, districts are struggling to recruit, prepare and retain Black teachers, who make up just 3.7% of the commonwealth’s educator workforce.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Now you can break up with big tech at a bar: ‘cybersecurity disguised as a party’",
       "source": "The Guardian US",
       "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/apr/16/trumps-triumphal-arch-capitol-review",
-      "published": "2026-04-16T12:58:19+00:00",
-      "summary": "Design among projects before US Commission of Fine Arts as lawsuits challenge scale and impact Donald Trump ’s design for the triumphal arch he wants built at an entrance to the US capital comes up for a review and possible vote on…",
+      "url": "https://www.theguardian.com/us-news/2026/apr/16/big-tech-breakup-parties",
+      "published": "2026-04-16T14:00:03+00:00",
+      "summary": "These digital security organizers bring the fight for online privacy to dance parties, wine meetups and reading groups Imani Thompson shows up at Wonderville Bar in Brooklyn looking ready for a DJ set, or to drink, or to dance the night…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
@@ -77,14 +87,14 @@
       "score": 10
     },
     {
-      "title": "Teaching in the Age of AI: What Responsible Use Really Means",
-      "source": "CSTA",
-      "category": "CS education / AI policy",
-      "url": "https://csteachers.org/teaching-in-the-age-of-ai-what-responsible-use-really-means/",
-      "published": "2026-04-16T11:00:00+00:00",
-      "summary": "Artificial intelligence has rapidly entered our classrooms, our assignments, and our students’ daily lives. As a result, many educators are...",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "title": "App Stores Push Users Toward Nudify Apps, New Research Shows",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/app-stores-apple-google-nudify-undress-deepfakes/",
+      "published": "2026-04-16T16:34:12+00:00",
+      "summary": "Findings from the Tech Transparency Project claim that Google and Apple’s app stores not only host harmful apps that can undress images of women, but encourage users to find them.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9
     },
     {
       "title": "Parents, Schools Clash Over Movement to Abolish Screens",
@@ -94,37 +104,27 @@
       "published": "2026-04-16T10:30:00+00:00",
       "summary": "With more parents pushing for limits on screen time in the classroom, Vermont state Rep. Rob Hunter, a Democrat, wants to make it easier for them to opt their children out of using laptops and iPads.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "The Terror: Devil In Silver Trailer Almost Gives Us Enough Dan Stevens",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/the-terror-devil-in-silver-trailer/",
-      "published": "2026-04-15T18:19:40+00:00",
-      "summary": "The Terror: Devil in Silver will adapt the Victor LaValle novel of the same name The post The Terror: Devil In Silver Trailer Almost Gives Us Enough Dan Stevens appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "title": "The secret to mixing macarons: Macaronage is key.",
+      "source": "King Arthur Baking",
+      "category": "Bread / food craft",
+      "url": "https://www.kingarthurbaking.com/blog/2026/04/16/mixing-macarons-macaronage",
+      "published": "2026-04-16T14:00:00+00:00",
+      "summary": "For all their simplicity, macarons can be difficult to make at home. Their light-as-air texture, crisp outer shell, and signature foot rely on good technique. In short, it comes down to how you mix the macaron batter.",
+      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
       "score": 8
     },
     {
-      "title": "If you need more Shakespeare with your Slay the Spire, check out demon lawyer deckbuilder The Killing Stone",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / design",
-      "url": "https://www.rockpapershotgun.com/if-you-need-more-shakespeare-with-your-slay-the-spire-check-out-demon-lawyer-deckbuilder-the-killing-stone",
-      "published": "2026-04-15T18:00:00+00:00",
-      "summary": "Slay the Spire 2 may yet prove this year's best deckbuilder, but The Killing Stone is more intriguing. It's also heckin' Elizabethan, if you opt for the \"period\" dialogue option.",
-      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
-      "score": 8
-    },
-    {
-      "title": "Ukraine Says Russians are Surrendering to Robots",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/ukraine-says-russians-are-surrendering-to-robots/",
-      "published": "2026-04-15T17:43:17+00:00",
-      "summary": "Volodymyr Zelenskyy is pitching his country as a global leader in robots for war and defense. Will the world listen?",
+      "title": "Boiling milk and worrying about the Iran war: A New Year dawns in Sri Lanka",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/04/16/g-s1-117630/new-years-sri-lanka-buddhist-hindu-prosperity-iran-war",
+      "published": "2026-04-16T17:22:27+00:00",
+      "summary": "In Sri Lanka, Buddhists and Hindus marked their New Year on Tuesday while a war thousands of miles away is making itself felt.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
     },
     {
       "title": "A Polymarket trader made $300,000 betting on Biden's pardons, a new analysis shows",
@@ -137,76 +137,8 @@
       "score": 7
     }
   ],
-  "youtube": [
-    {
-      "title": "Returnal Strikes Back w/ KC and Marty -- Part 8",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=tnWfgKCfjA0",
-      "published": "2026-04-16T01:31:57+00:00",
-      "summary": "KC has not played Returnal, so him and Marty are going to remedy that in preparation for the release of Saros later this month. https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "President Trump says he thinks the war with Iran could soon come to an end",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=N1yvwTWjIkQ",
-      "published": "2026-04-15T16:15:02+00:00",
-      "summary": "President Trump says he thinks the war with Iran could soon come to an end. His comments come as there are reports that the U.S. and Iran could hold a second round of peace talks. This also comes as both the U.S.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Nvidia N1/N1X Leak - Gigantic Windows ARM Laptop Chip Revealed",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=H83sMJ1RbuQ",
-      "published": "2026-04-15T16:00:34+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/tDiIpyKXSjU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Nessa Barrett Answers The Web's Most Searched Questions | WIRED",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=ldGQSauiLgg",
-      "published": "2026-04-15T16:00:02+00:00",
-      "summary": "Nessa Barrett visits WIRED to answer her most searched questions on Google.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "Rousey vs. Carano | Diaz vs. Perry | Ngannou vs. Lins | NYC PRESS CONFERENCE | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=PsPHgLVeyWU",
-      "published": "2026-04-15T23:13:02+00:00",
-      "summary": "Ronda Rousey vs. Gina Carano. Nate Diaz vs. Mike Perry. Francis Ngannou vs. Philipe Lins. Watch as these legends come face-to-face ahead of the first-ever MMA event on Netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Widow's Bay — Official Teaser Trailer (The Boogeyman) | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=KSudA2evH-Q",
-      "published": "2026-04-15T19:59:51+00:00",
-      "summary": "Widow's Bay is calling. From creator Katie Dippold and director Hiro Murai, Matthew Rhys stars in Widow’s Bay, a new original series coming April 29 to Apple TV. https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -281,8 +213,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 4,
-    "trailerCount": 2,
-    "sourceCount": 15
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 7
   }
 }
