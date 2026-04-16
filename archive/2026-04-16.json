@@ -1,10 +1,10 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-16T18:00:29.391000Z",
-  "generatedAtDisplay": "2026-04-16 02:00 PM EDT",
+  "generatedAt": "2026-04-16T18:03:08.033206Z",
+  "generatedAtDisplay": "2026-04-16 02:03 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are The nine best ways to protect, customize, and accessorize your MacBook Neo, Robert F Kennedy Jr grilled about Medicare fraud claims, vaccine rollbacks and health budget – US politics live, and Revealed: Mandelson failed vetting but Foreign Office overruled decision.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are The nine best ways to protect, customize, and accessorize your MacBook Neo, Robert F Kennedy Jr grilled about Medicare fraud claims, vaccine rollbacks and health budget – US politics live, and Anthropic releases a new Opus model amid Mythos Preview buzz.",
   "mainItems": [
     {
       "title": "The nine best ways to protect, customize, and accessorize your MacBook Neo",
@@ -21,39 +21,29 @@
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/us-news/live/2026/apr/16/pete-hegseth-trump-democrats-iran-war-us-politics-latest-news-updates",
-      "published": "2026-04-16T17:41:04+00:00",
+      "published": "2026-04-16T17:56:37+00:00",
       "summary": "Health secretary questioned in packed House Ways and Means committee hearing Sign up for the Breaking News US email Chairman of the joint chiefs of staff Dan Caine says the US military remains ready to re-engage in combat “at literally a…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Revealed: Mandelson failed vetting but Foreign Office overruled decision",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/politics/2026/apr/16/revealed-mandelson-failed-vetting-but-foreign-office-overruled-decision",
-      "published": "2026-04-16T17:16:02+00:00",
-      "summary": "Guardian investigation uncovers decision by UK security officials to deny clearance before Mandelson took up role as US ambassador Officials debate withholding Mandelson vetting documents from parliament Five key questions: Who overruled…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Gemini can now pull from Google Photos to generate personalized images",
+      "title": "Anthropic releases a new Opus model amid Mythos Preview buzz",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana",
-      "published": "2026-04-16T15:48:00+00:00",
-      "summary": "Google's Personal Intelligence feature, which lets Gemini pull data from apps like Google Photos to offer responses tailored to you, can now use that data and its Nano Banana 2 image model to create images based on your personal context.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
+      "published": "2026-04-16T16:00:23+00:00",
+      "summary": "Anthropic has released its most powerful \"generally available\" model to date: Claude Opus 4.7. The company called it a step up from Opus 4.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "It’s slushy season, and Ninja’s frozen drink machine is nearly half off",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/913067/ninja-slushi-frozen-drink-machine-youtube-premium-deal-sale",
-      "published": "2026-04-16T15:22:59+00:00",
-      "summary": "Woot is making it more affordable to own a frozen drink machine. Ninja’s Slushi that has an 88-ounce container for storing your ice-cold creations is down to $184.99 at Woot, which is a whopping 47 percent off its list price.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "YouTuber who showcases \"adult-oriented\" Resident Evil Requiem and Stellar Blade mods claims Capcom's laywers asked him to take down over 1,000 videos",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/youtuber-who-showcases-adult-oriented-resident-evil-requiem-and-stellar-blade-mods-claims-capcoms-laywers-asked-him-to-take-down-over-1000-videos",
+      "published": "2026-04-16T15:57:50+00:00",
+      "summary": "A YouTuber who showcases mods which stick characters from games like Resident Evil Requiem and Stellar Blade into skimpier costumes claims Capcom's legal team have sent him an email asking him to to pull over 1000 videos featuring…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -107,6 +97,16 @@
       "score": 9
     },
     {
+      "title": "Five Horror Stories That Humanize Zombies",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/five-horror-stories-that-humanize-zombies/",
+      "published": "2026-04-16T16:00:00+00:00",
+      "summary": "If zombies aren't simply mindless killing machines, what are they? The post Five Horror Stories That Humanize Zombies appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
+    },
+    {
       "title": "The secret to mixing macarons: Macaronage is key.",
       "source": "King Arthur Baking",
       "category": "Bread / food craft",
@@ -137,8 +137,76 @@
       "score": 7
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "DeepMind’s New AI: A Gift To Humanity",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=Sk9tvyRSCgY",
+      "published": "2026-04-16T17:44:48+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Links: https://ai.google.dev/gemma/docs/core/model_card_4 Fine tuning with Matt Mireles: https://x.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Jury finds Live Nation acted as a monopoly, overcharged for tickets",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=9hCoMzXlMuM",
+      "published": "2026-04-16T17:45:01+00:00",
+      "summary": "A federal jury in New York has reached a verdict in the antitrust trial involving Live Nation and dozens of states: It finds the live entertainment company operated a monopoly over concert venues and overcharged ticket buyers.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Pragmata Rules, Rockstar's Been Hacked, and Bloodborne Is Getting Movie'd | Firelink Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=8LtHrgMz5qE",
+      "published": "2026-04-16T16:43:11+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Announcing the Second Wind Games Showcase - April 23, 2026",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=HuXMBrj9H0E",
+      "published": "2026-04-16T16:05:05+00:00",
+      "summary": "Today we're excited to announce the first ever Second Wind Games Showcase, premiering right here on our YouTube channel on April 23, 2026 at 4 PM ET / 1 PM PT. Support us on Patreon: https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "Man on Fire | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=YqpIKFUrLrk",
+      "published": "2026-04-16T17:00:00+00:00",
+      "summary": "To keep her safe, he’ll burn it all down. Emmy Winner Yahya Abdul-Mateen II is John Creasy in Man on Fire. The intense new series debuts April 30th, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Mating Season | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=aqCtC-ytN74",
+      "published": "2026-04-16T15:00:00+00:00",
+      "summary": "In the search for love, we're all animals. From the creators of Big Mouth comes Mating Season, a new adult animated comedy - set in the animal world - about love, sex, relationships, and the universal need to find a partner.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -213,8 +281,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 7
+    "youtubeCount": 4,
+    "trailerCount": 2,
+    "sourceCount": 13
   }
 }
