@@ -1,27 +1,17 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-16T18:06:48.251411Z",
-  "generatedAtDisplay": "2026-04-16 02:06 PM EDT",
+  "generatedAt": "2026-04-16T18:07:23.708204Z",
+  "generatedAtDisplay": "2026-04-16 02:07 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are The nine best ways to protect, customize, and accessorize your MacBook Neo, Robert F Kennedy Jr grilled about Medicare fraud claims, vaccine rollbacks and health budget – US politics live, and Revealed: Mandelson failed vetting but Foreign Office overruled decision.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are Robert F Kennedy Jr grilled about Medicare fraud claims, vaccine rollbacks and health budget – US politics live, Revealed: Mandelson failed vetting but Foreign Office overruled decision, and The nine best ways to protect, customize, and accessorize your MacBook Neo.",
   "mainItems": [
-    {
-      "title": "The nine best ways to protect, customize, and accessorize your MacBook Neo",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/912767/best-macbook-neo-accessories",
-      "published": "2026-04-16T17:57:47+00:00",
-      "summary": "The MacBook Neo is poised to be a top-selling laptop in 2026, thanks in large part to its affordable $599 entry price.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
     {
       "title": "Robert F Kennedy Jr grilled about Medicare fraud claims, vaccine rollbacks and health budget – US politics live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/us-news/live/2026/apr/16/pete-hegseth-trump-democrats-iran-war-us-politics-latest-news-updates",
-      "published": "2026-04-16T17:56:37+00:00",
+      "published": "2026-04-16T17:41:04+00:00",
       "summary": "Health secretary questioned in packed House Ways and Means committee hearing Sign up for the Breaking News US email Chairman of the joint chiefs of staff Dan Caine says the US military remains ready to re-engage in combat “at literally a…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
@@ -33,6 +23,16 @@
       "url": "https://www.theguardian.com/politics/2026/apr/16/revealed-mandelson-failed-vetting-but-foreign-office-overruled-decision",
       "published": "2026-04-16T17:16:02+00:00",
       "summary": "Guardian investigation uncovers decision by UK security officials to deny clearance before Mandelson took up role as US ambassador Officials debate withholding Mandelson vetting documents from parliament Five key questions: Who overruled…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The nine best ways to protect, customize, and accessorize your MacBook Neo",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/912767/best-macbook-neo-accessories",
+      "published": "2026-04-16T17:05:54+00:00",
+      "summary": "The MacBook Neo is poised to be a top-selling laptop in 2026, thanks in large part to its affordable $599 entry price.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -140,60 +140,9 @@
   "youtube": [],
   "trailers": [],
   "recommendations": {
-    "new": [
-      {
-        "title": "Scavengers Reign",
-        "why": "Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF."
-      },
-      {
-        "title": "Sugar",
-        "why": "Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap."
-      },
-      {
-        "title": "The Lazarus Project",
-        "why": "Time-loop espionage, moral pressure, and speculative plotting — very plausible fit."
-      },
-      {
-        "title": "Bodies",
-        "why": "Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling."
-      }
-    ],
-    "older": [
-      {
-        "title": "Counterpart",
-        "why": "Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence."
-      },
-      {
-        "title": "Patriot",
-        "why": "Dry, strange, melancholy spy storytelling with a very distinct voice."
-      },
-      {
-        "title": "Utopia",
-        "why": "Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly."
-      },
-      {
-        "title": "Rubicon",
-        "why": "A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere."
-      }
-    ],
-    "shared": [
-      {
-        "title": "Bad Sisters",
-        "why": "Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy."
-      },
-      {
-        "title": "Detectorists",
-        "why": "Gentle, funny, humane, and specific — a softer shared-watch possibility."
-      },
-      {
-        "title": "Astrid et Raphaëlle",
-        "why": "French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you."
-      },
-      {
-        "title": "Somebody Somewhere",
-        "why": "A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work."
-      }
-    ]
+    "new": [],
+    "older": [],
+    "shared": []
   },
   "highlights": [
     {

@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-16T18:06:48.251411Z
+Generated: 2026-04-16T18:07:23.708204Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are The nine best ways to protect, customize, and accessorize your MacBook Neo, Robert F Kennedy Jr grilled about Medicare fraud claims, vaccine rollbacks and health budget – US politics live, and Revealed: Mandelson failed vetting but Foreign Office overruled decision.
+Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are Robert F Kennedy Jr grilled about Medicare fraud claims, vaccine rollbacks and health budget – US politics live, Revealed: Mandelson failed vetting but Foreign Office overruled decision, and The nine best ways to protect, customize, and accessorize your MacBook Neo.
 
 ## Briefing
 
@@ -18,16 +18,7 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. The nine best ways to protect, customize, and accessorize your MacBook Neo [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The MacBook Neo is poised to be a top-selling laptop in 2026, thanks in large part to its affordable $599 entry price.
-
-Link: https://www.theverge.com/gadgets/912767/best-macbook-neo-accessories
-
-### 2. Robert F Kennedy Jr grilled about Medicare fraud claims, vaccine rollbacks and health budget – US politics live [10/10]
+### 1. Robert F Kennedy Jr grilled about Medicare fraud claims, vaccine rollbacks and health budget – US politics live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -36,7 +27,7 @@ Health secretary questioned in packed House Ways and Means committee hearing Sig
 
 Link: https://www.theguardian.com/us-news/live/2026/apr/16/pete-hegseth-trump-democrats-iran-war-us-politics-latest-news-updates
 
-### 3. Revealed: Mandelson failed vetting but Foreign Office overruled decision [10/10]
+### 2. Revealed: Mandelson failed vetting but Foreign Office overruled decision [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -44,6 +35,15 @@ Link: https://www.theguardian.com/us-news/live/2026/apr/16/pete-hegseth-trump-de
 Guardian investigation uncovers decision by UK security officials to deny clearance before Mandelson took up role as US ambassador Officials debate withholding Mandelson vetting documents from parliament Five key questions: Who overruled…
 
 Link: https://www.theguardian.com/politics/2026/apr/16/revealed-mandelson-failed-vetting-but-foreign-office-overruled-decision
+
+### 3. The nine best ways to protect, customize, and accessorize your MacBook Neo [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The MacBook Neo is poised to be a top-selling laptop in 2026, thanks in large part to its affordable $599 entry price.
+
+Link: https://www.theverge.com/gadgets/912767/best-macbook-neo-accessories
 
 ### 4. Gemini can now pull from Google Photos to generate personalized images [10/10]
 **Source:** The Verge  
