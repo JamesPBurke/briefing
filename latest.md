@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-16T05:00:01.822526Z
+Generated: 2026-04-16T09:00:26.493091Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are A Colorado hospital profits from resolving language barriers, Democrats file articles of impeachment against Hegseth for ‘high crimes and misdemeanors’, and Sonia Sotomayor apologizes to Brett Kavanaugh in US supreme court justice spat.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Middle East crisis live: Netanyahu ‘to speak to Lebanese leader leader today’ but Beirut reportedly unaware of plans, Colombia’s history-making VP blames racism for four years of frustration, and Northern Marianas brace for weeks without power after super typhoon Sinlaku.
 
 ## Briefing
 
@@ -18,7 +18,34 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. A Colorado hospital profits from resolving language barriers [10/10]
+### 1. Middle East crisis live: Netanyahu ‘to speak to Lebanese leader leader today’ but Beirut reportedly unaware of plans [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Israeli minister says pair to speak after ‘many years of total disconnect’ but reports say that Lebanese were not aware of plans first outlined by Trump US and Iran in indirect talks to extend two-week ceasefire A member of Israel’s…
+
+Link: https://www.theguardian.com/world/live/2026/apr/16/middle-east-crisis-live-iran-war-news-us-trump-ceasefire-deal-lebanon-israel-oil-sanctions-latest-updates
+
+### 2. Colombia’s history-making VP blames racism for four years of frustration [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Francia Márquez, the country’s first Black vice-president, opens up about the strains in her relationship with the president and the obstacles she has faced: ‘The Colombian state is a racist state’ In the historic centre of Colombia’s…
+
+Link: https://www.theguardian.com/world/2026/apr/16/colombia-francia-marquez-vice-president-racism
+
+### 3. Northern Marianas brace for weeks without power after super typhoon Sinlaku [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Officials report severe flooding in Saipan hospital, fierce winds and toppled utility poles in wake of Super Typhoon Sinlaku Some hard hit areas of the Northern Marianas could be without power and water for weeks after the Pacific Ocean…
+
+Link: https://www.theguardian.com/world/2026/apr/16/northern-marianas-super-typhoon-sinlaku-saipan-tinian-power-water
+
+### 4. A Colorado hospital profits from resolving language barriers [10/10]
 **Source:** NPR Health  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -27,34 +54,16 @@ Without qualified interpreters at doctors' offices, non-English speakers can fac
 
 Link: https://www.npr.org/2026/04/16/nx-s1-5780035/rural-hospital-colorado-medical-translators
 
-### 2. Democrats file articles of impeachment against Hegseth for ‘high crimes and misdemeanors’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Accusations refer to attack on Iran without congressional authorization and strikes on alleged drug smuggling boats House Democrats filed six articles of impeachment against Pete Hegseth on Wednesday, accusing the defense security of “high…
-
-Link: https://www.theguardian.com/us-news/2026/apr/15/democrats-pete-hegseth-impeachment
-
-### 3. Sonia Sotomayor apologizes to Brett Kavanaugh in US supreme court justice spat [10/10]
+### 5. France seeks release of 86-year-old French widow detained by ICE [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-In a spilling of the court’s divisions in public, Sotomayor had criticized Kavanaugh over a dissenting ruling on ICE raids Sonia Sotomayor, a US supreme court justice, issued an apology on Wednesday for her recent criticism of fellow…
+Agents detained Marie-Therese Ross in Alabama on 1 April after she overstayed her 90-day visa, according to DHS The French government is pressing the US Department of Homeland Security (DHS) to release the 86-year-old French widow of a…
 
-Link: https://www.theguardian.com/us-news/2026/apr/15/sonia-sotomayor-us-supreme-court-apology-brett-kavanaugh
+Link: https://www.theguardian.com/us-news/2026/apr/15/french-widow-detained-ice-marie-therese-ross
 
-### 4. Trump news at a glance: president renews threats against federal reserve chair, pushes his replacement [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Trump reiterated his claim that Powell is doing a ‘bad job’ as justice department continues with criminal investigation into Powell over renovations at the Fed’s headquarters – key US politics stories from 15 April at a glance Donald Trump…
-
-Link: https://www.theguardian.com/us-news/2026/apr/15/trump-news-at-a-glance-latest-updates-today
-
-### 5. CSTA 2026 Featured Sessions [10/10]
+### 6. CSTA 2026 Featured Sessions [9/10]
 **Source:** CSTA  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -63,7 +72,7 @@ CSTA 2026 has over 200 sessions dedicated to expanding knowledge in CS education
 
 Link: https://csteachers.org/csta-2026-featured-sessions/
 
-### 6. Microsoft counters the MacBook Neo with freebies for students [10/10]
+### 7. Microsoft counters the MacBook Neo with freebies for students [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -72,25 +81,7 @@ Apple's $599 MacBook Neo ($499 for students) has sent shockwaves through the PC 
 
 Link: https://www.theverge.com/news/912639/microsoft-counters-the-macbook-neo-with-freebies-for-students
 
-### 7. Building trust in the AI era with privacy-led UX [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship.
-
-Link: https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/
-
-### 8. If you need more Shakespeare with your Slay the Spire, check out demon lawyer deckbuilder The Killing Stone [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / design  
-**Why it matters:** Useful if you care about how games actually work as designed experiences.
-
-Slay the Spire 2 may yet prove this year's best deckbuilder, but The Killing Stone is more intriguing. It's also heckin' Elizabethan, if you opt for the "period" dialogue option.
-
-Link: https://www.rockpapershotgun.com/if-you-need-more-shakespeare-with-your-slay-the-spire-check-out-demon-lawyer-deckbuilder-the-killing-stone
-
-### 9. Old School RuneScape's latest League is out now, pushing thousands of players to cry at kids and get haircuts for the devil [9/10]
+### 8. Old School RuneScape's latest League is out now, pushing thousands of players to cry at kids and get haircuts for the devil [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -99,7 +90,7 @@ Old School RuneScape has just launched its sixth ever limited-time league event,
 
 Link: https://www.eurogamer.net/old-school-runescapes-demonic-pacts-out-now
 
-### 10. The Graduation Gap: When Students Earn a High School Diploma But Still Can’t Do Math [9/10]
+### 9. The Graduation Gap: When Students Earn a High School Diploma But Still Can’t Do Math [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -107,6 +98,15 @@ Link: https://www.eurogamer.net/old-school-runescapes-demonic-pacts-out-now
 Congratulations! High school graduation rates in your state are hitting all-time highs! But before you crack open the champagne, you should know that only a small fraction of those students can do high school-level math.
 
 Link: https://www.the74million.org/article/the-graduation-gap-when-students-earn-a-high-school-diploma-but-still-cant-do-math/
+
+### 10. With DLSS 5, Nvidia look to rewrite the truth before our eyes [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / design  
+**Why it matters:** Useful if you care about how games actually work as designed experiences.
+
+Earlier this year Nvidia announced DLSS 5 , a new version of their DLSS technology: a layer of graphical magic that uses their GPUs to do improbable things to the resolution and framerate of your favourite PC games (unless your favourite…
+
+Link: https://www.rockpapershotgun.com/with-dlss-5-nvidia-look-to-rewrite-the-truth-before-our-eyes
 
 ### 11. The Terror: Devil In Silver Trailer Almost Gives Us Enough Dan Stevens [8/10]
 **Source:** Reactor  
@@ -126,25 +126,43 @@ Volodymyr Zelenskyy is pitching his country as a global leader in robots for war
 
 Link: https://www.404media.co/ukraine-says-russians-are-surrendering-to-robots/
 
-### 13. Quit a GLP-1? Plan to start again? It's not recommended, but plenty of people do it [8/10]
+### 13. Fela Kuti is the first African artist to enter the Rock & Roll Hall of Fame [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-A majority of people who start the obesity and diabetes medicines known as GLP-1s also quit them, and plan to restart again. Research hasn't yet shown the health impacts of cycling on and off the drugs.
+In December, the late Nigerian superstar became the first African musician to get a Grammy lifetime achievement award. Now he's making history as well at the Rock & Roll Hall of Fame.
 
-Link: https://www.npr.org/2026/04/15/nx-s1-5712532/glp-1-quit-begin-ozempic-wegovy-mounjaro-zepbound
+Link: https://www.npr.org/2026/04/15/g-s1-117406/rock-roll-hall-of-fame-africa-fela-kuti
 
 ## YouTube
 
-### Returnal Strikes Back w/ KC and Marty -- Part 8 [9/10]
+### Returnal Strikes Back w/ KC and Marty -- Part 8 [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 KC has not played Returnal, so him and Marty are going to remedy that in preparation for the release of Saros later this month. https://store.steampowered.
 
 Link: https://www.youtube.com/watch?v=tnWfgKCfjA0
+
+### President Trump says he thinks the war with Iran could soon come to an end [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+President Trump says he thinks the war with Iran could soon come to an end. His comments come as there are reports that the U.S. and Iran could hold a second round of peace talks. This also comes as both the U.S.
+
+Link: https://www.youtube.com/watch?v=N1yvwTWjIkQ
+
+### Nvidia N1/N1X Leak - Gigantic Windows ARM Laptop Chip Revealed [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/tDiIpyKXSjU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=H83sMJ1RbuQ
 
 ### Nessa Barrett Answers The Web's Most Searched Questions | WIRED [8/10]
 **Creator:** WIRED  
@@ -154,24 +172,6 @@ Link: https://www.youtube.com/watch?v=tnWfgKCfjA0
 Nessa Barrett visits WIRED to answer her most searched questions on Google.
 
 Link: https://www.youtube.com/watch?v=ldGQSauiLgg
-
-### Pragmata | Fully Ramblomatic [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Fully Ramblomatic, Yahtzee reviews Capcom's Pragmata. Fully Ramblomatic is available on Blu-ray over at our Second Wind DFTBA store -- https://store.dftba.
-
-Link: https://www.youtube.com/watch?v=hua7d8v8Vww
-
-### Home Inspector Answers House Safety Questions | Tech Support | WIRED [8/10]
-**Creator:** WIRED  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Home inspector and certified builder Tobias Condill joins WIRED to answer the internet’s burning questions about house safety maintenance.
-
-Link: https://www.youtube.com/watch?v=O3svEfSbsFQ
 
 ## Entertainment Recommendations
 
@@ -198,7 +198,7 @@ Link: https://www.youtube.com/watch?v=O3svEfSbsFQ
 
 ## Trailers / Previews
 
-### Rousey vs. Carano | Diaz vs. Perry | Ngannou vs. Lins | NYC PRESS CONFERENCE | Netflix [10/10]
+### Rousey vs. Carano | Diaz vs. Perry | Ngannou vs. Lins | NYC PRESS CONFERENCE | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -207,11 +207,11 @@ Ronda Rousey vs. Gina Carano. Nate Diaz vs. Mike Perry. Francis Ngannou vs. Phil
 
 Link: https://www.youtube.com/watch?v=PsPHgLVeyWU
 
-### Ready to lock in. Beef Season 2, premieres April 16. [9/10]
-**Source:** Netflix  
+### Widow's Bay — Official Teaser Trailer (The Boogeyman) | Apple TV [9/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-Beef Season 2, premieres April 16. Watch on Netflix: https://www.netflix.
+Widow's Bay is calling. From creator Katie Dippold and director Hiro Murai, Matthew Rhys stars in Widow’s Bay, a new original series coming April 29 to Apple TV. https://apple.
 
-Link: https://www.youtube.com/watch?v=WbFM2gkUfOs
+Link: https://www.youtube.com/watch?v=KSudA2evH-Q

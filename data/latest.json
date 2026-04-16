@@ -1,11 +1,41 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-16T05:00:01.822526Z",
-  "generatedAtDisplay": "2026-04-16 01:00 AM EDT",
+  "generatedAt": "2026-04-16T09:00:26.493091Z",
+  "generatedAtDisplay": "2026-04-16 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are A Colorado hospital profits from resolving language barriers, Democrats file articles of impeachment against Hegseth for ‘high crimes and misdemeanors’, and Sonia Sotomayor apologizes to Brett Kavanaugh in US supreme court justice spat.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Middle East crisis live: Netanyahu ‘to speak to Lebanese leader leader today’ but Beirut reportedly unaware of plans, Colombia’s history-making VP blames racism for four years of frustration, and Northern Marianas brace for weeks without power after super typhoon Sinlaku.",
   "mainItems": [
+    {
+      "title": "Middle East crisis live: Netanyahu ‘to speak to Lebanese leader leader today’ but Beirut reportedly unaware of plans",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/live/2026/apr/16/middle-east-crisis-live-iran-war-news-us-trump-ceasefire-deal-lebanon-israel-oil-sanctions-latest-updates",
+      "published": "2026-04-16T08:22:16+00:00",
+      "summary": "Israeli minister says pair to speak after ‘many years of total disconnect’ but reports say that Lebanese were not aware of plans first outlined by Trump US and Iran in indirect talks to extend two-week ceasefire A member of Israel’s…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Colombia’s history-making VP blames racism for four years of frustration",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/apr/16/colombia-francia-marquez-vice-president-racism",
+      "published": "2026-04-16T06:00:50+00:00",
+      "summary": "Francia Márquez, the country’s first Black vice-president, opens up about the strains in her relationship with the president and the obstacles she has faced: ‘The Colombian state is a racist state’ In the historic centre of Colombia’s…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Northern Marianas brace for weeks without power after super typhoon Sinlaku",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/apr/16/northern-marianas-super-typhoon-sinlaku-saipan-tinian-power-water",
+      "published": "2026-04-16T05:18:33+00:00",
+      "summary": "Officials report severe flooding in Saipan hospital, fierce winds and toppled utility poles in wake of Super Typhoon Sinlaku Some hard hit areas of the Northern Marianas could be without power and water for weeks after the Pacific Ocean…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "A Colorado hospital profits from resolving language barriers",
       "source": "NPR Health",
@@ -17,32 +47,12 @@
       "score": 10
     },
     {
-      "title": "Democrats file articles of impeachment against Hegseth for ‘high crimes and misdemeanors’",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/apr/15/democrats-pete-hegseth-impeachment",
-      "published": "2026-04-16T02:07:39+00:00",
-      "summary": "Accusations refer to attack on Iran without congressional authorization and strikes on alleged drug smuggling boats House Democrats filed six articles of impeachment against Pete Hegseth on Wednesday, accusing the defense security of “high…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Sonia Sotomayor apologizes to Brett Kavanaugh in US supreme court justice spat",
+      "title": "France seeks release of 86-year-old French widow detained by ICE",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/15/sonia-sotomayor-us-supreme-court-apology-brett-kavanaugh",
-      "published": "2026-04-16T01:50:58+00:00",
-      "summary": "In a spilling of the court’s divisions in public, Sotomayor had criticized Kavanaugh over a dissenting ruling on ICE raids Sonia Sotomayor, a US supreme court justice, issued an apology on Wednesday for her recent criticism of fellow…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump news at a glance: president renews threats against federal reserve chair, pushes his replacement",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/15/trump-news-at-a-glance-latest-updates-today",
-      "published": "2026-04-16T01:00:43+00:00",
-      "summary": "Trump reiterated his claim that Powell is doing a ‘bad job’ as justice department continues with criminal investigation into Powell over renovations at the Fed’s headquarters – key US politics stories from 15 April at a glance Donald Trump…",
+      "url": "https://www.theguardian.com/us-news/2026/apr/15/french-widow-detained-ice-marie-therese-ross",
+      "published": "2026-04-15T21:42:39+00:00",
+      "summary": "Agents detained Marie-Therese Ross in Alabama on 1 April after she overstayed her 90-day visa, according to DHS The French government is pressing the US Department of Homeland Security (DHS) to release the 86-year-old French widow of a…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -54,7 +64,7 @@
       "published": "2026-04-15T19:24:31+00:00",
       "summary": "CSTA 2026 has over 200 sessions dedicated to expanding knowledge in CS education. Putting together your conference schedule can be... The post CSTA 2026 Featured Sessions appeared first on Computer Science Teachers Association .",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Microsoft counters the MacBook Neo with freebies for students",
@@ -64,26 +74,6 @@
       "published": "2026-04-15T18:11:01+00:00",
       "summary": "Apple's $599 MacBook Neo ($499 for students) has sent shockwaves through the PC ecosystem, and now Microsoft is responding with deals targeting students in the US.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Building trust in the AI era with privacy-led UX",
-      "source": "MIT Technology Review",
-      "category": "AI / privacy",
-      "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
-      "published": "2026-04-15T06:00:00+00:00",
-      "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "If you need more Shakespeare with your Slay the Spire, check out demon lawyer deckbuilder The Killing Stone",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / design",
-      "url": "https://www.rockpapershotgun.com/if-you-need-more-shakespeare-with-your-slay-the-spire-check-out-demon-lawyer-deckbuilder-the-killing-stone",
-      "published": "2026-04-15T18:00:00+00:00",
-      "summary": "Slay the Spire 2 may yet prove this year's best deckbuilder, but The Killing Stone is more intriguing. It's also heckin' Elizabethan, if you opt for the \"period\" dialogue option.",
-      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
       "score": 9
     },
     {
@@ -107,6 +97,16 @@
       "score": 9
     },
     {
+      "title": "With DLSS 5, Nvidia look to rewrite the truth before our eyes",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / design",
+      "url": "https://www.rockpapershotgun.com/with-dlss-5-nvidia-look-to-rewrite-the-truth-before-our-eyes",
+      "published": "2026-04-15T10:20:56+00:00",
+      "summary": "Earlier this year Nvidia announced DLSS 5 , a new version of their DLSS technology: a layer of graphical magic that uses their GPUs to do improbable things to the resolution and framerate of your favourite PC games (unless your favourite…",
+      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
+      "score": 9
+    },
+    {
       "title": "The Terror: Devil In Silver Trailer Almost Gives Us Enough Dan Stevens",
       "source": "Reactor",
       "category": "Sci-fi / horror",
@@ -127,14 +127,14 @@
       "score": 8
     },
     {
-      "title": "Quit a GLP-1? Plan to start again? It's not recommended, but plenty of people do it",
+      "title": "Fela Kuti is the first African artist to enter the Rock & Roll Hall of Fame",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/15/nx-s1-5712532/glp-1-quit-begin-ozempic-wegovy-mounjaro-zepbound",
-      "published": "2026-04-15T09:00:00+00:00",
-      "summary": "A majority of people who start the obesity and diabetes medicines known as GLP-1s also quit them, and plan to restart again. Research hasn't yet shown the health impacts of cycling on and off the drugs.",
+      "url": "https://www.npr.org/2026/04/15/g-s1-117406/rock-roll-hall-of-fame-africa-fela-kuti",
+      "published": "2026-04-15T10:38:51+00:00",
+      "summary": "In December, the late Nigerian superstar became the first African musician to get a Grammy lifetime achievement award. Now he's making history as well at the Rock & Roll Hall of Fame.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
     }
   ],
   "youtube": [
@@ -146,8 +146,30 @@
       "published": "2026-04-16T01:31:57+00:00",
       "summary": "KC has not played Returnal, so him and Marty are going to remedy that in preparation for the release of Saros later this month. https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "President Trump says he thinks the war with Iran could soon come to an end",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=N1yvwTWjIkQ",
+      "published": "2026-04-15T16:15:02+00:00",
+      "summary": "President Trump says he thinks the war with Iran could soon come to an end. His comments come as there are reports that the U.S. and Iran could hold a second round of peace talks. This also comes as both the U.S.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Nvidia N1/N1X Leak - Gigantic Windows ARM Laptop Chip Revealed",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=H83sMJ1RbuQ",
+      "published": "2026-04-15T16:00:34+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/tDiIpyKXSjU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Nessa Barrett Answers The Web's Most Searched Questions | WIRED",
@@ -156,28 +178,6 @@
       "url": "https://www.youtube.com/watch?v=ldGQSauiLgg",
       "published": "2026-04-15T16:00:02+00:00",
       "summary": "Nessa Barrett visits WIRED to answer her most searched questions on Google.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Pragmata | Fully Ramblomatic",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=hua7d8v8Vww",
-      "published": "2026-04-15T15:59:33+00:00",
-      "summary": "This week on Fully Ramblomatic, Yahtzee reviews Capcom's Pragmata. Fully Ramblomatic is available on Blu-ray over at our Second Wind DFTBA store -- https://store.dftba.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Home Inspector Answers House Safety Questions | Tech Support | WIRED",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=O3svEfSbsFQ",
-      "published": "2026-04-14T16:00:19+00:00",
-      "summary": "Home inspector and certified builder Tobias Condill joins WIRED to answer the internet’s burning questions about house safety maintenance.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
@@ -192,16 +192,16 @@
       "published": "2026-04-15T23:13:02+00:00",
       "summary": "Ronda Rousey vs. Gina Carano. Nate Diaz vs. Mike Perry. Francis Ngannou vs. Philipe Lins. Watch as these legends come face-to-face ahead of the first-ever MMA event on Netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
-      "title": "Ready to lock in. Beef Season 2, premieres April 16.",
-      "source": "Netflix",
+      "title": "Widow's Bay — Official Teaser Trailer (The Boogeyman) | Apple TV",
+      "source": "Apple TV",
       "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=WbFM2gkUfOs",
-      "published": "2026-04-15T17:00:43+00:00",
-      "summary": "Beef Season 2, premieres April 16. Watch on Netflix: https://www.netflix.",
+      "url": "https://www.youtube.com/watch?v=KSudA2evH-Q",
+      "published": "2026-04-15T19:59:51+00:00",
+      "summary": "Widow's Bay is calling. From creator Katie Dippold and director Hiro Murai, Matthew Rhys stars in Widow’s Bay, a new original series coming April 29 to Apple TV. https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
@@ -283,6 +283,6 @@
     "mainCount": 13,
     "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 13
+    "sourceCount": 15
   }
 }
