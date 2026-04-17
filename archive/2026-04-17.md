@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-17T09:00:38.143804Z
+Generated: 2026-04-17T14:00:02.047822Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Middle East crisis live: UN chief calls for Israel-Lebanon ceasefire to be ‘fully’ respected as it comes into effect, Minister defends Starmer amid Mandelson revelations, saying vetting decision ‘utterly unacceptable’ – UK politics live, and Pop star boyfriend posting from Coachella, celebrity statesman, global brand: Justin Trudeau’s offbeat political afterlife.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Sci-fi / horror. The strongest items in this run are Starmer says it is ‘staggering’ and ‘unforgivable’ he was not told Mandelson failed vetting – UK politics live, Middle East crisis live: Iran says strait of Hormuz to fully open during ceasefire but Trump says blockade will remain until deal, and House approves short-term extension of surveillance law in blow to Republicans’ long-term plan – US politics live.
 
 ## Briefing
 
@@ -18,43 +18,79 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Middle East crisis live: UN chief calls for Israel-Lebanon ceasefire to be ‘fully’ respected as it comes into effect [10/10]
+### 1. Starmer says it is ‘staggering’ and ‘unforgivable’ he was not told Mandelson failed vetting – UK politics live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+PM responds to Guardian revelations that Foreign Office overrode failed security vetting for former minister Olly Robbins forced out in Mandelson vetting row Jones repeatedly denied that the prime minister had given a misleading impression…
+
+Link: https://www.theguardian.com/politics/live/2026/apr/17/peter-mandelson-keir-starmer-olly-robbins-vetting-foreign-office-latest-news-updates
+
+### 2. Middle East crisis live: Iran says strait of Hormuz to fully open during ceasefire but Trump says blockade will remain until deal [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-António Guterres welcomes truce and says he hopes halt in fighting will ‘pave the way for negotiations’ In case you’re just joining us, here are the latest developments in the Middle East to bring you up to speed.
+Abbas Araqchi says passage for all commercial vessels is declared completely open for the remaining period of the ceasefire; Trump said the US blockade on Iran ‘will remain in full force’ In case you’re just joining us, here are the latest…
 
 Link: https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates
 
-### 2. Minister defends Starmer amid Mandelson revelations, saying vetting decision ‘utterly unacceptable’ – UK politics live [10/10]
+### 3. House approves short-term extension of surveillance law in blow to Republicans’ long-term plan – US politics live [10/10]
 **Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The decision to extend a warrantless security law until 30 April came after 20 Republicans worked with House Democrats to defeat attempts to pass five-year and 18-month renewals Sign up for the Breaking News US email In more CDC news,…
+
+Link: https://www.theguardian.com/us-news/live/2026/apr/17/house-congress-republicans-trump-administration-us-politics-news-live
+
+### 4. The ‘AI is inevitable’ trap [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Darren Jones says he has ordered an urgent review into news that the Foreign Office ignored security vetting advice Olly Robbins forced out in Mandelson vetting row Jones repeatedly denied that the prime minister had given a misleading…
+In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price.
 
-Link: https://www.theguardian.com/politics/live/2026/apr/17/peter-mandelson-keir-starmer-olly-robbins-vetting-foreign-office-latest-news-updates
+Link: https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast
 
-### 3. Pop star boyfriend posting from Coachella, celebrity statesman, global brand: Justin Trudeau’s offbeat political afterlife [10/10]
-**Source:** The Guardian US  
+### 5. The creative software industry has declared war on Adobe [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-While Canadian prime ministers have taken staid routes after leaving office, Trudeau has tread a different path The downfall of Hungary’s Viktor Orbán prompted a flurry of reaction from progressive leaders around the world celebrating the…
+All empires eventually fall, and it seems the creative software industry has collectively decided that Adobe's time has come.
 
-Link: https://www.theguardian.com/world/2026/apr/17/justin-trudeau-katy-perry-politics
+Link: https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates
 
-### 4. ‘The antidote to Brat’ – why pointelle is having a moment [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 6. Get up to Speed With Latest Trailer for ‘Directive 8020’ [Watch] [10/10]
+**Source:** Bloody Disgusting  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Once the preserve of childhood underwear, the patterned knit is now bringing nostalgia and comfort to adults in a fast-changing, unpredictable world In this very on-brand April, where sun and showers jostle for supremacy and a chill wind…
+We’re under a month to go ahead of Directive 8020 finally launching, and to get players up to speed, Supermassive Games has released a short but sweet trailer that “delivers a rapid-fire briefing” on the upcoming sci-fi survival horror…
 
-Link: https://www.theguardian.com/fashion/2026/apr/16/the-antidote-to-brat-why-childlike-pointelle-is-enjoying-a-moment-of-exposure
+Link: https://bloody-disgusting.com/video-games/3946827/get-up-to-speed-with-latest-trailer-for-directive-8020-watch/
 
-### 5. Proof review – Ayo Edebiri struggles but Kara Young soars in Broadway revival [10/10]
+### 7. Maryland District Sheds Remedial High School Math Courses, Sees Students Soar [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Administrators at Maryland’s Calvert County Public Schools believed the math classes they added to their course catalog years ago — pre-algebra and business math among them — helped students by giving them more time to master basic…
+
+Link: https://www.the74million.org/article/maryland-district-sheds-remedial-high-school-math-courses-sees-students-soar/
+
+### 8. After a month of haggling with players, Mega Crit make Slay the Spire 2's beta patches official, with big character reworks alongside new art and scoring systems [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / design  
+**Why it matters:** Useful if you care about how games actually work as designed experiences.
+
+Slay the Spire 2 has received a major update that rolls all of the additions, tweaks and fixes from recent beta updates into the main branch of the game - though developers Mega Crit are at pains to repeat that "this is still an Early…
+
+Link: https://www.rockpapershotgun.com/after-a-month-of-haggling-with-players-mega-crit-make-slay-the-spire-2s-beta-patches-official-with-big-character-reworks-alongside-new-art-and-scoring-systems
+
+### 9. Proof review – Ayo Edebiri struggles but Kara Young soars in Broadway revival [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -63,7 +99,7 @@ Booth Theatre, New York The Bear star and Don Cheadle are lost in a new take on 
 
 Link: https://www.theguardian.com/stage/2026/apr/16/proof-broadway-revival-review-ayo-edebiri-kara-young
 
-### 6. OpenAI starts offering a biology-tuned LLM [10/10]
+### 10. OpenAI starts offering a biology-tuned LLM [10/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -72,34 +108,25 @@ GPT-Rosalind is an LLM trained on biology workflows, available in closed access.
 
 Link: https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/
 
-### 7. Infamous Keepers is a reverse dungeon crawler where you have to survive after mass layoffs and oh no is this a games industry metaphor [9/10]
-**Source:** Rock Paper Shotgun  
+### 11. The release date for Ubisoft's Assassin's Creed: Black Flag remake, Resynced, seems to have leaked, and it's reportedly not very far away [9/10]
+**Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Infamous Keepers, I think, might be a game about the games industry. It's not about making games explicitly, not in the slightest.
+The release date for the upcoming Assassin's Creed: Black Flag remake seems to have leaked, and the game is reportedly setting sail this summer. Read more
 
-Link: https://www.rockpapershotgun.com/infamous-keepers-is-a-reverse-dungeon-crawler-where-you-have-to-survive-after-mass-layoffs-and-oh-no-is-this-a-games-industry-metaphor
+Link: https://www.eurogamer.net/assassins-creed-black-flag-resynced-remake-release-date-leak
 
-### 8. The Street Fighter Trailer Looks Amazing, and We’re as Surprised as You Are [9/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+### 12. Why scientists are nervous about fungi [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-The adaptation of the Capcom game looks fun, silly The post The Street Fighter Trailer Looks Amazing, and We’re as Surprised as You Are appeared first on Reactor .
+They can pose a threat to human health — yeast infections are but one example. Scientists say not enough attention is paid to their ability to develop resistance to medications that treat them.
 
-Link: https://reactormag.com/street-fighter-trailer/
+Link: https://www.npr.org/2026/04/17/g-s1-117632/fungi-drug-resistant-yeast-infection
 
-### 9. Parents, Schools Clash Over Movement to Abolish Screens [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-With more parents pushing for limits on screen time in the classroom, Vermont state Rep. Rob Hunter, a Democrat, wants to make it easier for them to opt their children out of using laptops and iPads.
-
-Link: https://www.the74million.org/article/parents-schools-clash-over-movement-to-abolish-screens/
-
-### 10. App Stores Push Users Toward Nudify Apps, New Research Shows [8/10]
+### 13. App Stores Push Users Toward Nudify Apps, New Research Shows [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -107,33 +134,6 @@ Link: https://www.the74million.org/article/parents-schools-clash-over-movement-t
 Findings from the Tech Transparency Project claim that Google and Apple’s app stores not only host harmful apps that can undress images of women, but encourage users to find them.
 
 Link: https://www.404media.co/app-stores-apple-google-nudify-undress-deepfakes/
-
-### 11. Trump nominates former Coast Guard doctor as CDC chief [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The nomination comes after months of interim leadership at the Centers for Disease Control and Prevention.
-
-Link: https://www.npr.org/2026/04/16/nx-s1-5787959/erica-schwartz-cdc-leadership-nomination
-
-### 12. The secret to mixing macarons: Macaronage is key. [7/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-For all their simplicity, macarons can be difficult to make at home. Their light-as-air texture, crisp outer shell, and signature foot rely on good technique. In short, it comes down to how you mix the macaron batter.
-
-Link: https://www.kingarthurbaking.com/blog/2026/04/16/mixing-macarons-macaronage
-
-### 13. A Polymarket trader made $300,000 betting on Biden's pardons, a new analysis shows [7/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-In the final hours of President Biden's term, an anonymous prediction market trader placed lucrative bets on who would be pardoned even as the odds were nearly zero.
-
-Link: https://www.npr.org/2026/04/16/nx-s1-5786580/a-polymarket-trader-made-300-000-betting-on-bidens-pardons
 
 ## YouTube
 

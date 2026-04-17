@@ -1,49 +1,89 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-17T09:00:38.143804Z",
-  "generatedAtDisplay": "2026-04-17 05:00 AM EDT",
+  "generatedAt": "2026-04-17T14:00:02.047822Z",
+  "generatedAtDisplay": "2026-04-17 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Middle East crisis live: UN chief calls for Israel-Lebanon ceasefire to be ‘fully’ respected as it comes into effect, Minister defends Starmer amid Mandelson revelations, saying vetting decision ‘utterly unacceptable’ – UK politics live, and Pop star boyfriend posting from Coachella, celebrity statesman, global brand: Justin Trudeau’s offbeat political afterlife.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Sci-fi / horror. The strongest items in this run are Starmer says it is ‘staggering’ and ‘unforgivable’ he was not told Mandelson failed vetting – UK politics live, Middle East crisis live: Iran says strait of Hormuz to fully open during ceasefire but Trump says blockade will remain until deal, and House approves short-term extension of surveillance law in blow to Republicans’ long-term plan – US politics live.",
   "mainItems": [
     {
-      "title": "Middle East crisis live: UN chief calls for Israel-Lebanon ceasefire to be ‘fully’ respected as it comes into effect",
+      "title": "Starmer says it is ‘staggering’ and ‘unforgivable’ he was not told Mandelson failed vetting – UK politics live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/politics/live/2026/apr/17/peter-mandelson-keir-starmer-olly-robbins-vetting-foreign-office-latest-news-updates",
+      "published": "2026-04-17T13:38:38+00:00",
+      "summary": "PM responds to Guardian revelations that Foreign Office overrode failed security vetting for former minister Olly Robbins forced out in Mandelson vetting row Jones repeatedly denied that the prime minister had given a misleading impression…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Middle East crisis live: Iran says strait of Hormuz to fully open during ceasefire but Trump says blockade will remain until deal",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
       "url": "https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates",
-      "published": "2026-04-17T08:40:56+00:00",
-      "summary": "António Guterres welcomes truce and says he hopes halt in fighting will ‘pave the way for negotiations’ In case you’re just joining us, here are the latest developments in the Middle East to bring you up to speed.",
+      "published": "2026-04-17T13:38:10+00:00",
+      "summary": "Abbas Araqchi says passage for all commercial vessels is declared completely open for the remaining period of the ceasefire; Trump said the US blockade on Iran ‘will remain in full force’ In case you’re just joining us, here are the latest…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Minister defends Starmer amid Mandelson revelations, saying vetting decision ‘utterly unacceptable’ – UK politics live",
+      "title": "House approves short-term extension of surveillance law in blow to Republicans’ long-term plan – US politics live",
       "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/17/house-congress-republicans-trump-administration-us-politics-news-live",
+      "published": "2026-04-17T13:28:15+00:00",
+      "summary": "The decision to extend a warrantless security law until 30 April came after 20 Republicans worked with House Democrats to defeat attempts to pass five-year and 18-month renewals Sign up for the Breaking News US email In more CDC news,…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "The ‘AI is inevitable’ trap",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/politics/live/2026/apr/17/peter-mandelson-keir-starmer-olly-robbins-vetting-foreign-office-latest-news-updates",
-      "published": "2026-04-17T08:32:02+00:00",
-      "summary": "Darren Jones says he has ordered an urgent review into news that the Foreign Office ignored security vetting advice Olly Robbins forced out in Mandelson vetting row Jones repeatedly denied that the prime minister had given a misleading…",
+      "url": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
+      "published": "2026-04-17T13:24:34+00:00",
+      "summary": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Pop star boyfriend posting from Coachella, celebrity statesman, global brand: Justin Trudeau’s offbeat political afterlife",
-      "source": "The Guardian US",
+      "title": "The creative software industry has declared war on Adobe",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/apr/17/justin-trudeau-katy-perry-politics",
-      "published": "2026-04-17T08:00:24+00:00",
-      "summary": "While Canadian prime ministers have taken staid routes after leaving office, Trudeau has tread a different path The downfall of Hungary’s Viktor Orbán prompted a flurry of reaction from progressive leaders around the world celebrating the…",
+      "url": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
+      "published": "2026-04-17T13:23:51+00:00",
+      "summary": "All empires eventually fall, and it seems the creative software industry has collectively decided that Adobe's time has come.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "‘The antidote to Brat’ – why pointelle is having a moment",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/fashion/2026/apr/16/the-antidote-to-brat-why-childlike-pointelle-is-enjoying-a-moment-of-exposure",
-      "published": "2026-04-17T06:00:23+00:00",
-      "summary": "Once the preserve of childhood underwear, the patterned knit is now bringing nostalgia and comfort to adults in a fast-changing, unpredictable world In this very on-brand April, where sun and showers jostle for supremacy and a chill wind…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Get up to Speed With Latest Trailer for ‘Directive 8020’ [Watch]",
+      "source": "Bloody Disgusting",
+      "category": "Sci-fi / horror",
+      "url": "https://bloody-disgusting.com/video-games/3946827/get-up-to-speed-with-latest-trailer-for-directive-8020-watch/",
+      "published": "2026-04-17T11:30:12+00:00",
+      "summary": "We’re under a month to go ahead of Directive 8020 finally launching, and to get players up to speed, Supermassive Games has released a short but sweet trailer that “delivers a rapid-fire briefing” on the upcoming sci-fi survival horror…",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 10
+    },
+    {
+      "title": "Maryland District Sheds Remedial High School Math Courses, Sees Students Soar",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/maryland-district-sheds-remedial-high-school-math-courses-sees-students-soar/",
+      "published": "2026-04-17T10:30:00+00:00",
+      "summary": "Administrators at Maryland’s Calvert County Public Schools believed the math classes they added to their course catalog years ago — pre-algebra and business math among them — helped students by giving them more time to master basic…",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "After a month of haggling with players, Mega Crit make Slay the Spire 2's beta patches official, with big character reworks alongside new art and scoring systems",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / design",
+      "url": "https://www.rockpapershotgun.com/after-a-month-of-haggling-with-players-mega-crit-make-slay-the-spire-2s-beta-patches-official-with-big-character-reworks-alongside-new-art-and-scoring-systems",
+      "published": "2026-04-17T09:29:18+00:00",
+      "summary": "Slay the Spire 2 has received a major update that rolls all of the additions, tweaks and fixes from recent beta updates into the main branch of the game - though developers Mega Crit are at pains to repeat that \"this is still an Early…",
+      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
       "score": 10
     },
     {
@@ -67,34 +107,24 @@
       "score": 10
     },
     {
-      "title": "Infamous Keepers is a reverse dungeon crawler where you have to survive after mass layoffs and oh no is this a games industry metaphor",
-      "source": "Rock Paper Shotgun",
+      "title": "The release date for Ubisoft's Assassin's Creed: Black Flag remake, Resynced, seems to have leaked, and it's reportedly not very far away",
+      "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/infamous-keepers-is-a-reverse-dungeon-crawler-where-you-have-to-survive-after-mass-layoffs-and-oh-no-is-this-a-games-industry-metaphor",
-      "published": "2026-04-16T20:29:41+00:00",
-      "summary": "Infamous Keepers, I think, might be a game about the games industry. It's not about making games explicitly, not in the slightest.",
+      "url": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-remake-release-date-leak",
+      "published": "2026-04-17T13:35:22+00:00",
+      "summary": "The release date for the upcoming Assassin's Creed: Black Flag remake seems to have leaked, and the game is reportedly setting sail this summer. Read more",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "The Street Fighter Trailer Looks Amazing, and We’re as Surprised as You Are",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/street-fighter-trailer/",
-      "published": "2026-04-16T18:37:10+00:00",
-      "summary": "The adaptation of the Capcom game looks fun, silly The post The Street Fighter Trailer Looks Amazing, and We’re as Surprised as You Are appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 9
-    },
-    {
-      "title": "Parents, Schools Clash Over Movement to Abolish Screens",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/parents-schools-clash-over-movement-to-abolish-screens/",
-      "published": "2026-04-16T10:30:00+00:00",
-      "summary": "With more parents pushing for limits on screen time in the classroom, Vermont state Rep. Rob Hunter, a Democrat, wants to make it easier for them to opt their children out of using laptops and iPads.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
+      "title": "Why scientists are nervous about fungi",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/04/17/g-s1-117632/fungi-drug-resistant-yeast-infection",
+      "published": "2026-04-17T13:14:18+00:00",
+      "summary": "They can pose a threat to human health — yeast infections are but one example. Scientists say not enough attention is paid to their ability to develop resistance to medications that treat them.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "App Stores Push Users Toward Nudify Apps, New Research Shows",
@@ -105,36 +135,6 @@
       "summary": "Findings from the Tech Transparency Project claim that Google and Apple’s app stores not only host harmful apps that can undress images of women, but encourage users to find them.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "Trump nominates former Coast Guard doctor as CDC chief",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/16/nx-s1-5787959/erica-schwartz-cdc-leadership-nomination",
-      "published": "2026-04-16T20:58:49+00:00",
-      "summary": "The nomination comes after months of interim leadership at the Centers for Disease Control and Prevention.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
-    },
-    {
-      "title": "The secret to mixing macarons: Macaronage is key.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/04/16/mixing-macarons-macaronage",
-      "published": "2026-04-16T14:00:00+00:00",
-      "summary": "For all their simplicity, macarons can be difficult to make at home. Their light-as-air texture, crisp outer shell, and signature foot rely on good technique. In short, it comes down to how you mix the macaron batter.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
-      "score": 7
-    },
-    {
-      "title": "A Polymarket trader made $300,000 betting on Biden's pardons, a new analysis shows",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/04/16/nx-s1-5786580/a-polymarket-trader-made-300-000-betting-on-bidens-pardons",
-      "published": "2026-04-16T12:00:00+00:00",
-      "summary": "In the final hours of President Biden's term, an anonymous prediction market trader placed lucrative bets on who would be pardoned even as the odds were nearly zero.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7
     }
   ],
   "youtube": [
