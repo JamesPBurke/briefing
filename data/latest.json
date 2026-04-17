@@ -1,99 +1,89 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-17T14:00:02.047822Z",
-  "generatedAtDisplay": "2026-04-17 10:00 AM EDT",
+  "generatedAt": "2026-04-17T18:00:24.448680Z",
+  "generatedAtDisplay": "2026-04-17 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Sci-fi / horror. The strongest items in this run are Starmer says it is ‘staggering’ and ‘unforgivable’ he was not told Mandelson failed vetting – UK politics live, Middle East crisis live: Iran says strait of Hormuz to fully open during ceasefire but Trump says blockade will remain until deal, and House approves short-term extension of surveillance law in blow to Republicans’ long-term plan – US politics live.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Middle East crisis live: Iran reopens strait of Hormuz but US blockade remains, Starmer was kept in dark about Mandelson’s vetting by two top civil servants, and Senate passes short-term extension of surveillance law – US politics live.",
   "mainItems": [
     {
-      "title": "Starmer says it is ‘staggering’ and ‘unforgivable’ he was not told Mandelson failed vetting – UK politics live",
+      "title": "Middle East crisis live: Iran reopens strait of Hormuz but US blockade remains",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/politics/live/2026/apr/17/peter-mandelson-keir-starmer-olly-robbins-vetting-foreign-office-latest-news-updates",
-      "published": "2026-04-17T13:38:38+00:00",
-      "summary": "PM responds to Guardian revelations that Foreign Office overrode failed security vetting for former minister Olly Robbins forced out in Mandelson vetting row Jones repeatedly denied that the prime minister had given a misleading impression…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Middle East crisis live: Iran says strait of Hormuz to fully open during ceasefire but Trump says blockade will remain until deal",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
       "url": "https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates",
-      "published": "2026-04-17T13:38:10+00:00",
-      "summary": "Abbas Araqchi says passage for all commercial vessels is declared completely open for the remaining period of the ceasefire; Trump said the US blockade on Iran ‘will remain in full force’ In case you’re just joining us, here are the latest…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "published": "2026-04-17T17:50:43+00:00",
+      "summary": "Iran reopens the strait of Hormuz during ceasefire negotiations, a move the US president praised on social media Oil and gas prices fall sharply after Iran says strait of Hormuz is open In case you’re just joining us, here are the latest…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "House approves short-term extension of surveillance law in blow to Republicans’ long-term plan – US politics live",
+      "title": "Starmer was kept in dark about Mandelson’s vetting by two top civil servants",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/politics/2026/apr/17/keir-starmer-kept-in-dark-peter-mandelson-vetting-two-top-civil-servants",
+      "published": "2026-04-17T17:40:30+00:00",
+      "summary": "Exclusive: Officials have spent weeks debating whether or not to release highly sensitive information about the affair Keir Starmer was kept in the dark about sensitive information relating to Peter Mandelson’s security vetting by two…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Senate passes short-term extension of surveillance law – US politics live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/us-news/live/2026/apr/17/house-congress-republicans-trump-administration-us-politics-news-live",
-      "published": "2026-04-17T13:28:15+00:00",
-      "summary": "The decision to extend a warrantless security law until 30 April came after 20 Republicans worked with House Democrats to defeat attempts to pass five-year and 18-month renewals Sign up for the Breaking News US email In more CDC news,…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "The ‘AI is inevitable’ trap",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
-      "published": "2026-04-17T13:24:34+00:00",
-      "summary": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price.",
+      "published": "2026-04-17T17:21:33+00:00",
+      "summary": "Senators pass 10-day extension by voice vote after House defeated attempts for five-year and 18-month extensions on Thursday night US Congress passes 10-day extension of surveillance law amid Republican infighting Sign up for the Breaking…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "The creative software industry has declared war on Adobe",
-      "source": "The Verge",
+      "title": "Meta's AI spending spree is helping make its Quest headsets more expensive",
+      "source": "Ars Technica",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
-      "published": "2026-04-17T13:23:51+00:00",
-      "summary": "All empires eventually fall, and it seems the creative software industry has collectively decided that Adobe's time has come.",
+      "url": "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
+      "published": "2026-04-17T16:23:20+00:00",
+      "summary": "Prices for \"critical components\" are surging because of massive data center investments.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Get up to Speed With Latest Trailer for ‘Directive 8020’ [Watch]",
-      "source": "Bloody Disgusting",
-      "category": "Sci-fi / horror",
-      "url": "https://bloody-disgusting.com/video-games/3946827/get-up-to-speed-with-latest-trailer-for-directive-8020-watch/",
-      "published": "2026-04-17T11:30:12+00:00",
-      "summary": "We’re under a month to go ahead of Directive 8020 finally launching, and to get players up to speed, Supermassive Games has released a short but sweet trailer that “delivers a rapid-fire briefing” on the upcoming sci-fi survival horror…",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "title": "The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/913857/apple-airpods-pro-3-blink-video-doorbell-deal-sale",
+      "published": "2026-04-17T16:18:59+00:00",
+      "summary": "From OLED TVs to smartphones, Best Buy’s Upgrade Sale has slashed prices on all kinds of tech, including a wide range of Apple devices.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Maryland District Sheds Remedial High School Math Courses, Sees Students Soar",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/maryland-district-sheds-remedial-high-school-math-courses-sees-students-soar/",
-      "published": "2026-04-17T10:30:00+00:00",
-      "summary": "Administrators at Maryland’s Calvert County Public Schools believed the math classes they added to their course catalog years ago — pre-algebra and business math among them — helped students by giving them more time to master basic…",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
+      "published": "2026-04-17T15:46:37+00:00",
+      "summary": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "After a month of haggling with players, Mega Crit make Slay the Spire 2's beta patches official, with big character reworks alongside new art and scoring systems",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / design",
-      "url": "https://www.rockpapershotgun.com/after-a-month-of-haggling-with-players-mega-crit-make-slay-the-spire-2s-beta-patches-official-with-big-character-reworks-alongside-new-art-and-scoring-systems",
-      "published": "2026-04-17T09:29:18+00:00",
-      "summary": "Slay the Spire 2 has received a major update that rolls all of the additions, tweaks and fixes from recent beta updates into the main branch of the game - though developers Mega Crit are at pains to repeat that \"this is still an Early…",
-      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
+      "title": "FAA Scraps Civil and Criminal Penalties for Flying Drones Near ICE Vehicles",
+      "source": "404 Media",
+      "category": "Democracy / press freedom",
+      "url": "https://www.404media.co/faa-scraps-civil-and-criminal-penalties-for-flying-drones-near-ice-vehicles/",
+      "published": "2026-04-17T15:44:59+00:00",
+      "summary": "You won’t go to jail for filming ICE with a drone, but the government may still shoot it down and it expanded the list of protected agencies to include the Department of Justice.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Proof review – Ayo Edebiri struggles but Kara Young soars in Broadway revival",
+      "title": "‘Maman is finally free!’: French widow, 86, flies home after ICE detention ordeal",
       "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/stage/2026/apr/16/proof-broadway-revival-review-ayo-edebiri-kara-young",
-      "published": "2026-04-17T02:00:17+00:00",
-      "summary": "Booth Theatre, New York The Bear star and Don Cheadle are lost in a new take on David Auburn’s family drama but a standout performance from the two-time Tony winner does some heavy lifting If one was a theater student in the early 2000s,…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/apr/17/french-widow-86-flies-home-after-ice-detention-centre-ordeal",
+      "published": "2026-04-17T14:50:51+00:00",
+      "summary": "Marie-Thérèse Ross-Mahé, who moved to the US to marry a GI she met in the 1950s, was arrested in her nightgown at their home An 86-year-old French widow arrested and detained by US immigration agents has been released and allowed to return…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -107,13 +97,23 @@
       "score": 10
     },
     {
-      "title": "The release date for Ubisoft's Assassin's Creed: Black Flag remake, Resynced, seems to have leaked, and it's reportedly not very far away",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-remake-release-date-leak",
-      "published": "2026-04-17T13:35:22+00:00",
-      "summary": "The release date for the upcoming Assassin's Creed: Black Flag remake seems to have leaked, and the game is reportedly setting sail this summer. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Maryland District Sheds Remedial High School Math Courses, Sees Students Soar",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/maryland-district-sheds-remedial-high-school-math-courses-sees-students-soar/",
+      "published": "2026-04-17T10:30:00+00:00",
+      "summary": "Administrators at Maryland’s Calvert County Public Schools believed the math classes they added to their course catalog years ago — pre-algebra and business math among them — helped students by giving them more time to master basic…",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "Inside the CDC’s leadership vacuum: work at a ‘standstill’ and low morale as 80% of top posts remain vacant",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/apr/17/cdc-rfk-jr-leadership-positions-empty",
+      "published": "2026-04-17T10:00:26+00:00",
+      "summary": "Current and ex-officials at the CDC warn Americans’ health security in danger under RFK Jr’s direction Fourteen months after Robert F Kennedy Jr was sworn in as US health secretary, the country’s prime public health agency over which he…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -127,141 +127,22 @@
       "score": 8
     },
     {
-      "title": "App Stores Push Users Toward Nudify Apps, New Research Shows",
+      "title": "The Destroyed Remnants of a Lost World Are Falling to Earth, Scientists Discover",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/app-stores-apple-google-nudify-undress-deepfakes/",
-      "published": "2026-04-16T16:34:12+00:00",
-      "summary": "Findings from the Tech Transparency Project claim that Google and Apple’s app stores not only host harmful apps that can undress images of women, but encourage users to find them.",
+      "url": "https://www.404media.co/the-destroyed-remnants-of-a-lost-world-are-falling-to-earth-scientists-discover/",
+      "published": "2026-04-17T13:00:36+00:00",
+      "summary": "A rare class of meteorites called angrites likely come from a strange protoplanet that was catastrophically destroyed in the early solar system, leaving only fragmentary remnants.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
     }
   ],
-  "youtube": [
-    {
-      "title": "Iran ‘ceasefire’ / Hungary election / U.S.-NATO tension",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=-XsbqWrNsCw",
-      "published": "2026-04-16T21:56:27+00:00",
-      "summary": "President Trump is threatening NATO — again. NATO — is bracing for divorce.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Why DeepMind’s New AI Broke The Internet",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=Sk9tvyRSCgY",
-      "published": "2026-04-16T17:44:48+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Links: https://deepmind.google/models/gemma/gemma-4/ https://ai.google.dev/gemma/docs/core/model_card_4 Fine tuning with Matt Mireles: https://x.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Pragmata Rules, Rockstar's Been Hacked, and Bloodborne Is Getting Movie'd | Firelink Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=8LtHrgMz5qE",
-      "published": "2026-04-17T01:06:49+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Jury finds Live Nation acted as a monopoly, overcharged for tickets",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=9hCoMzXlMuM",
-      "published": "2026-04-16T17:45:01+00:00",
-      "summary": "A federal jury in New York has reached a verdict in the antitrust trial involving Live Nation and dozens of states: It finds the live entertainment company operated a monopoly over concert venues and overcharged ticket buyers.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "Money can only get you so far. Chapter Three of #ImperfectWomen — Now Streaming",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=aH5448z_hg8",
-      "published": "2026-04-16T23:59:54+00:00",
-      "summary": "Elisabeth Moss, Kerry Washington & Kate Mara are your Imperfect Women, now streaming on Apple TV https://apple.co/_ImperfectWomen A new series starring Elisabeth Moss, Kerry Washington, and Kate Mara.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Man on Fire | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=YqpIKFUrLrk",
-      "published": "2026-04-16T17:00:00+00:00",
-      "summary": "To keep her safe, he’ll burn it all down. Emmy Winner Yahya Abdul-Mateen II is John Creasy in Man on Fire. The intense new series debuts April 30th, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
-    "new": [
-      {
-        "title": "Scavengers Reign",
-        "why": "Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF."
-      },
-      {
-        "title": "Sugar",
-        "why": "Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap."
-      },
-      {
-        "title": "The Lazarus Project",
-        "why": "Time-loop espionage, moral pressure, and speculative plotting — very plausible fit."
-      },
-      {
-        "title": "Bodies",
-        "why": "Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling."
-      }
-    ],
-    "older": [
-      {
-        "title": "Counterpart",
-        "why": "Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence."
-      },
-      {
-        "title": "Patriot",
-        "why": "Dry, strange, melancholy spy storytelling with a very distinct voice."
-      },
-      {
-        "title": "Utopia",
-        "why": "Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly."
-      },
-      {
-        "title": "Rubicon",
-        "why": "A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere."
-      }
-    ],
-    "shared": [
-      {
-        "title": "Bad Sisters",
-        "why": "Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy."
-      },
-      {
-        "title": "Detectorists",
-        "why": "Gentle, funny, humane, and specific — a softer shared-watch possibility."
-      },
-      {
-        "title": "Astrid et Raphaëlle",
-        "why": "French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you."
-      },
-      {
-        "title": "Somebody Somewhere",
-        "why": "A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work."
-      }
-    ]
+    "new": [],
+    "older": [],
+    "shared": []
   },
   "highlights": [
     {
@@ -281,8 +162,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 4,
-    "trailerCount": 2,
-    "sourceCount": 14
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 6
   }
 }
