@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-17T05:00:02.311171Z
+Generated: 2026-04-17T09:00:38.143804Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are D4vd arrested on suspicion of killing teen girl whose body was found in his Tesla, Acting ICE director Todd Lyons will step down at the end of May, says DHS, and OpenAI starts offering a biology-tuned LLM.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Middle East crisis live: UN chief calls for Israel-Lebanon ceasefire to be ‘fully’ respected as it comes into effect, Minister defends Starmer amid Mandelson revelations, saying vetting decision ‘utterly unacceptable’ – UK politics live, and Pop star boyfriend posting from Coachella, celebrity statesman, global brand: Justin Trudeau’s offbeat political afterlife.
 
 ## Briefing
 
@@ -18,25 +18,52 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. D4vd arrested on suspicion of killing teen girl whose body was found in his Tesla [10/10]
+### 1. Middle East crisis live: UN chief calls for Israel-Lebanon ceasefire to be ‘fully’ respected as it comes into effect [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+António Guterres welcomes truce and says he hopes halt in fighting will ‘pave the way for negotiations’ In case you’re just joining us, here are the latest developments in the Middle East to bring you up to speed.
+
+Link: https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates
+
+### 2. Minister defends Starmer amid Mandelson revelations, saying vetting decision ‘utterly unacceptable’ – UK politics live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Musician, born David Anthony Burke, arrested in Los Angeles over the death of Celeste Rivas Hernandez, who went missing in 2024 R&B singer D4vd has been arrested in connection with the killing of a teenage girl whose severely decomposed…
+Darren Jones says he has ordered an urgent review into news that the Foreign Office ignored security vetting advice Olly Robbins forced out in Mandelson vetting row Jones repeatedly denied that the prime minister had given a misleading…
 
-Link: https://www.theguardian.com/us-news/2026/apr/16/singer-d4vd-arrested-suspicion-murder
+Link: https://www.theguardian.com/politics/live/2026/apr/17/peter-mandelson-keir-starmer-olly-robbins-vetting-foreign-office-latest-news-updates
 
-### 2. Acting ICE director Todd Lyons will step down at the end of May, says DHS [10/10]
+### 3. Pop star boyfriend posting from Coachella, celebrity statesman, global brand: Justin Trudeau’s offbeat political afterlife [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Lyons, who led agency since March 2025, to resign after turbulent year carrying out Trump’s immigration agenda Todd Lyons, the acting director of US Immigration and Customs Enforcement (ICE), is stepping down after a turbulent year…
+While Canadian prime ministers have taken staid routes after leaving office, Trudeau has tread a different path The downfall of Hungary’s Viktor Orbán prompted a flurry of reaction from progressive leaders around the world celebrating the…
 
-Link: https://www.theguardian.com/us-news/2026/apr/16/todd-lyons-ice-director-resigns
+Link: https://www.theguardian.com/world/2026/apr/17/justin-trudeau-katy-perry-politics
 
-### 3. OpenAI starts offering a biology-tuned LLM [10/10]
+### 4. ‘The antidote to Brat’ – why pointelle is having a moment [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Once the preserve of childhood underwear, the patterned knit is now bringing nostalgia and comfort to adults in a fast-changing, unpredictable world In this very on-brand April, where sun and showers jostle for supremacy and a chill wind…
+
+Link: https://www.theguardian.com/fashion/2026/apr/16/the-antidote-to-brat-why-childlike-pointelle-is-enjoying-a-moment-of-exposure
+
+### 5. Proof review – Ayo Edebiri struggles but Kara Young soars in Broadway revival [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Booth Theatre, New York The Bear star and Don Cheadle are lost in a new take on David Auburn’s family drama but a standout performance from the two-time Tony winner does some heavy lifting If one was a theater student in the early 2000s,…
+
+Link: https://www.theguardian.com/stage/2026/apr/16/proof-broadway-revival-review-ayo-edebiri-kara-young
+
+### 6. OpenAI starts offering a biology-tuned LLM [10/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -45,25 +72,16 @@ GPT-Rosalind is an LLM trained on biology workflows, available in closed access.
 
 Link: https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/
 
-### 4. "I'd say mission achieved for this one": Stop Killing Games on the latest European Commission public hearing [10/10]
+### 7. Infamous Keepers is a reverse dungeon crawler where you have to survive after mass layoffs and oh no is this a games industry metaphor [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Right, how about a little Stop Killing Games progress update? Earlier today, a public hearing was held today that included three European parliament committees, IMCO, JURI and PETI, discussing the European Citizens Initiative Stop…
+Infamous Keepers, I think, might be a game about the games industry. It's not about making games explicitly, not in the slightest.
 
-Link: https://www.rockpapershotgun.com/id-say-mission-achieved-for-this-one-stop-killing-games-on-the-latest-european-commission-public-hearing
+Link: https://www.rockpapershotgun.com/infamous-keepers-is-a-reverse-dungeon-crawler-where-you-have-to-survive-after-mass-layoffs-and-oh-no-is-this-a-games-industry-metaphor
 
-### 5. Now you can break up with big tech at a bar: ‘cybersecurity disguised as a party’ [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-These digital security organizers bring the fight for online privacy to dance parties, wine meetups and reading groups Imani Thompson shows up at Wonderville Bar in Brooklyn looking ready for a DJ set, or to drink, or to dance the night…
-
-Link: https://www.theguardian.com/us-news/2026/apr/16/big-tech-breakup-parties
-
-### 6. The Street Fighter Trailer Looks Amazing, and We’re as Surprised as You Are [9/10]
+### 8. The Street Fighter Trailer Looks Amazing, and We’re as Surprised as You Are [9/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -71,24 +89,6 @@ Link: https://www.theguardian.com/us-news/2026/apr/16/big-tech-breakup-parties
 The adaptation of the Capcom game looks fun, silly The post The Street Fighter Trailer Looks Amazing, and We’re as Surprised as You Are appeared first on Reactor .
 
 Link: https://reactormag.com/street-fighter-trailer/
-
-### 7. Trump’s triumphal arch moves closer to approval after key agency meets [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-US Commission of Fine Arts reviews plan while judge lets below-ground work at White House ballroom site proceed Donald Trump’s design for the triumphal arch he wants built at an entrance to the nation’s capital moved a step forward on…
-
-Link: https://www.theguardian.com/us-news/2026/apr/16/trumps-triumphal-arch-capitol-review
-
-### 8. Opinion: Rebuilding the Black Teacher Pipeline, for the Benefit of All Students [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Across Pennsylvania, districts are struggling to recruit, prepare and retain Black teachers, who make up just 3.7% of the commonwealth’s educator workforce.
-
-Link: https://www.the74million.org/article/rebuilding-the-black-teacher-pipeline-for-the-benefit-of-all-students/
 
 ### 9. Parents, Schools Clash Over Movement to Abolish Screens [9/10]
 **Source:** The 74  
@@ -137,15 +137,6 @@ Link: https://www.npr.org/2026/04/16/nx-s1-5786580/a-polymarket-trader-made-300-
 
 ## YouTube
 
-### Pragmata Rules, Rockstar's Been Hacked, and Bloodborne Is Getting Movie'd | Firelink Podcast [9/10]
-**Creator:** Second Wind  
-**Verdict:** Watch it  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
-
-Link: https://www.youtube.com/watch?v=8LtHrgMz5qE
-
 ### Iran ‘ceasefire’ / Hungary election / U.S.-NATO tension [9/10]
 **Creator:** NPR  
 **Verdict:** Watch it  
@@ -155,15 +146,6 @@ President Trump is threatening NATO — again. NATO — is bracing for divorce.
 
 Link: https://www.youtube.com/watch?v=-XsbqWrNsCw
 
-### Jury finds Live Nation acted as a monopoly, overcharged for tickets [9/10]
-**Creator:** NPR  
-**Verdict:** Watch it  
-**Why it matters:** Relevant to your current interest graph.
-
-A federal jury in New York has reached a verdict in the antitrust trial involving Live Nation and dozens of states: It finds the live entertainment company operated a monopoly over concert venues and overcharged ticket buyers.
-
-Link: https://www.youtube.com/watch?v=9hCoMzXlMuM
-
 ### Why DeepMind’s New AI Broke The Internet [9/10]
 **Creator:** Two Minute Papers  
 **Verdict:** Watch it  
@@ -172,6 +154,24 @@ Link: https://www.youtube.com/watch?v=9hCoMzXlMuM
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Links: https://deepmind.google/models/gemma/gemma-4/ https://ai.google.dev/gemma/docs/core/model_card_4 Fine tuning with Matt Mireles: https://x.
 
 Link: https://www.youtube.com/watch?v=Sk9tvyRSCgY
+
+### Pragmata Rules, Rockstar's Been Hacked, and Bloodborne Is Getting Movie'd | Firelink Podcast [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
+
+Link: https://www.youtube.com/watch?v=8LtHrgMz5qE
+
+### Jury finds Live Nation acted as a monopoly, overcharged for tickets [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+A federal jury in New York has reached a verdict in the antitrust trial involving Live Nation and dozens of states: It finds the live entertainment company operated a monopoly over concert venues and overcharged ticket buyers.
+
+Link: https://www.youtube.com/watch?v=9hCoMzXlMuM
 
 ## Entertainment Recommendations
 
@@ -198,6 +198,15 @@ Link: https://www.youtube.com/watch?v=Sk9tvyRSCgY
 
 ## Trailers / Previews
 
+### Money can only get you so far. Chapter Three of #ImperfectWomen — Now Streaming [9/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Elisabeth Moss, Kerry Washington & Kate Mara are your Imperfect Women, now streaming on Apple TV https://apple.co/_ImperfectWomen A new series starring Elisabeth Moss, Kerry Washington, and Kate Mara.
+
+Link: https://www.youtube.com/watch?v=aH5448z_hg8
+
 ### Man on Fire | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -206,12 +215,3 @@ Link: https://www.youtube.com/watch?v=Sk9tvyRSCgY
 To keep her safe, he’ll burn it all down. Emmy Winner Yahya Abdul-Mateen II is John Creasy in Man on Fire. The intense new series debuts April 30th, only on Netflix. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=YqpIKFUrLrk
-
-### Mating Season | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-In the search for love, we're all animals. From the creators of Big Mouth comes Mating Season, a new adult animated comedy - set in the animal world - about love, sex, relationships, and the universal need to find a partner.
-
-Link: https://www.youtube.com/watch?v=aqCtC-ytN74
