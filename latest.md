@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-18T05:00:01.561806Z
+Generated: 2026-04-18T09:00:29.787468Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Iran says strait of Hormuz ‘completely open’ but sounds warning on US blockade, Lewd messages linked to University of Michigan regent who led campaign against pro-Palestinian students, and Anthropic’s new cybersecurity model could get it back in the government’s good graces.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Kae Tempest on creativity and his gender transition: ‘I’m just glad to be alive’, What are we all playing this weekend?, and Who’d have thought a fossil-fuel shill like Trump would be the one to spark a green revolution? | George Monbiot.
 
 ## Briefing
 
@@ -18,16 +18,52 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Iran says strait of Hormuz ‘completely open’ but sounds warning on US blockade [10/10]
+### 1. Kae Tempest on creativity and his gender transition: ‘I’m just glad to be alive’ [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Iran’s parliamentary speaker says strait could close again if US blockade continues, but Trump says it will remain in place until ‘transaction’ with Tehran is complete Iran’s foreign minister has said that the strait of Hormuz is now fully…
+Ten years after his debut novel, the poet and musician has written a follow-up exploring self-discovery and a life lived on the edge.
 
-Link: https://www.theguardian.com/world/2026/apr/17/strait-of-hormuz-now-open-to-commercial-vessels
+Link: https://www.theguardian.com/culture/2026/apr/18/kae-tempest-on-creativity-and-his-gender-transition-im-just-glad-to-be-alive
 
-### 2. Lewd messages linked to University of Michigan regent who led campaign against pro-Palestinian students [10/10]
+### 2. What are we all playing this weekend? [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+I don’t know about you, readers, but this past week’s gone by in a bit of a blur.
+
+Link: https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-378
+
+### 3. Who’d have thought a fossil-fuel shill like Trump would be the one to spark a green revolution? | George Monbiot [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The US attack on Iran has made the need for renewable energy inarguable. Environmentalists are now being seen for the pragmatists that they are Donald Trump has done more to accelerate the energy transition than anyone else alive.
+
+Link: https://www.theguardian.com/commentisfree/2026/apr/18/fossil-fuel-trump-green-revolution-us-iran-renewable-energy
+
+### 4. What we've been playing - "I started with maple trees behind the bank" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Hello and welcome back to our regular feature where we write a little about the games we've been playing.
+
+Link: https://www.eurogamer.net/what-weve-been-playing-maple-trees
+
+### 5. Family of US man who died after officer shoved knee into back sues police [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Charles Adair’s relatives urge video to be made public after Kansas officer charged with second-degree murder Relatives of a man whom investigators determined died after a Kansas sheriff’s deputy shoved his knee into the cuffed man’s back…
+
+Link: https://www.theguardian.com/us-news/2026/apr/17/kansas-man-death-charles-adair
+
+### 6. Lewd messages linked to University of Michigan regent who led campaign against pro-Palestinian students [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -36,34 +72,7 @@ Jordan Acker, who pushed legal action against protesters, is running for re-elec
 
 Link: https://www.theguardian.com/us-news/2026/apr/17/university-of-michigan-regent-sexual-messages
 
-### 3. Anthropic’s new cybersecurity model could get it back in the government’s good graces [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a "RADICAL LEFT, WOKE COMPANY" full of "Leftwing nut jobs" and a menace to national security.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview
-
-### 4. Lead prosecutor on investigation into former CIA director no longer on case [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Maria Medetis Long had expressed doubts over case of John Brennan, whose agency said Russia boosted Trump in 2016 Sign up for the Breaking News US email to get newsletter alerts in your inbox A federal prosecutor leading the investigation…
-
-Link: https://www.theguardian.com/us-news/2026/apr/17/cia-john-brennan-russia-trump-investigation
-
-### 5. Should you stare into Sam Altman’s orb before your next date? [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb
-
-### 6. OpenAI’s former Sora boss is leaving [9/10]
+### 7. OpenAI’s former Sora boss is leaving [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -72,23 +81,14 @@ Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the
 
 Link: https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing
 
-### 7. ‘Almost like a Bond villain’: why Labour MPs expect Starmer to cling on as PM [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 8. ‘Call of Duty: Mobile’ Gets ‘Godzilla x Kong’ Crossover for Season 4 Update [Trailer] [9/10]
+**Source:** Bloody Disgusting  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-While the Labour leader is deeply unpopular, several factors – including the Iran war – seem to be delaying his exit It still feels improbable that the UK prime minister, Keir Starmer, will face a formal challenge even if, as assumed, his…
+Call of Duty: Mobile is reaching high for their next crossover in the game’s impending Season 4 update.
 
-Link: https://www.theguardian.com/politics/2026/apr/17/labour-mps-keir-starmer-prime-minister
-
-### 8. "It's been an interesting year": the jailed creator of Fortune's Run has passed parole and is back working on her Deus Ex-style FPS [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Last January, the lead developer of very good immersive sim shooter Fortune's Run revealed that she was going to prison for three years , having been convicted of an unspecified violent crime several years prior.
-
-Link: https://www.rockpapershotgun.com/its-been-an-interesting-year-the-jailed-creator-of-fortunes-run-has-passed-parole-and-is-back-working-on-her-deus-ex-style-fps
+Link: https://bloody-disgusting.com/video-games/3946933/call-of-duty-mobile-gets-godzilla-x-kong-crossover-for-season-4-update-trailer/
 
 ### 9. Maryland District Sheds Remedial High School Math Courses, Sees Students Soar [9/10]
 **Source:** The 74  
@@ -108,7 +108,16 @@ Slay the Spire 2 has received a major update that rolls all of the additions, tw
 
 Link: https://www.rockpapershotgun.com/after-a-month-of-haggling-with-players-mega-crit-make-slay-the-spire-2s-beta-patches-official-with-big-character-reworks-alongside-new-art-and-scoring-systems
 
-### 11. Why scientists are nervous about fungi [8/10]
+### 11. Middle East crisis live: Iran says it has closed the strait of Hormuz again due to US blockade [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+In a statement carried by Iranian media, the Iranian military’s operational command said the strait had ‘reverted to its previous state’ Separate to the Pakistani army chief’s trip to Iran (see post at 07:53 ), the Pakistani prime…
+
+Link: https://www.theguardian.com/world/live/2026/apr/18/middle-east-crisis-live-iran-warns-it-will-close-strait-of-hormuz-if-us-blockade-continues
+
+### 12. Why scientists are nervous about fungi [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -116,15 +125,6 @@ Link: https://www.rockpapershotgun.com/after-a-month-of-haggling-with-players-me
 They can pose a threat to human health — yeast infections are but one example. Scientists say not enough attention is paid to their ability to develop resistance to medications that treat them.
 
 Link: https://www.npr.org/2026/04/17/g-s1-117632/fungi-drug-resistant-yeast-infection
-
-### 12. What to Watch and Read This Weekend: Details, Details, Details (and an Intriguing Hamlet) [7/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Though this be madness, yet there is method in't. The post What to Watch and Read This Weekend: Details, Details, Details (and an Intriguing Hamlet) appeared first on Reactor .
-
-Link: https://reactormag.com/what-to-watch-read-this-weekend-april-17-2026/
 
 ### 13. The Destroyed Remnants of a Lost World Are Falling to Earth, Scientists Discover [7/10]
 **Source:** 404 Media  
@@ -137,7 +137,41 @@ Link: https://www.404media.co/the-destroyed-remnants-of-a-lost-world-are-falling
 
 ## YouTube
 
-_No YouTube picks in this briefing._
+### “Any Update Is a Bonus, Not a Right” | Dev Heads Podcast [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Dev Heads, Tina, JM8, and Mikee chat about the state of ongoing updates to video games. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=sYEgStrizpg
+
+### New York City Mayor Zohran Mamdani explains his relationship with the President [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+New York City Mayor Zohran Mamdani recently marked his first 100 days in office. In that time, he's met and spoken with President Trump on a few different occasions.
+
+Link: https://www.youtube.com/watch?v=DSnNvYzykfk
+
+### Path Tracing Set To Get Faster - Nvidia GDC Presentation Explained [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/tDiIpyKXSjU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=J2TLPswBTYY
+
+### New York City Mayor Zohran Mamdani explains why he remains unbothered by critics [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+New York City Mayor Zohran Mamdani recently marked his first 100 days in office.
+
+Link: https://www.youtube.com/watch?v=7hUAIHHM00o
 
 ## Entertainment Recommendations
 
@@ -164,4 +198,20 @@ _No YouTube picks in this briefing._
 
 ## Trailers / Previews
 
-_No trailer picks in this briefing._
+### Sounds ominous. #WidowsBay — Premieres April 29 [9/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+From creator Katie Dippold and director Hiro Murai, Matthew Rhys stars in Widow’s Bay, a new original series coming April 29 to Apple TV. https://apple.
+
+Link: https://www.youtube.com/watch?v=lK4kdm0V5Sw
+
+### Singing along to Reba on the radio. No notes. #MargosGotMoneyTroubles — Now Streaming [9/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Margo's Got Money Troubles is now streaming on Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.
+
+Link: https://www.youtube.com/watch?v=j4JOZNlSWZM

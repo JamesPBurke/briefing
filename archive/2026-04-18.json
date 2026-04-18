@@ -1,19 +1,59 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-18T05:00:01.561806Z",
-  "generatedAtDisplay": "2026-04-18 01:00 AM EDT",
+  "generatedAt": "2026-04-18T09:00:29.787468Z",
+  "generatedAtDisplay": "2026-04-18 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Iran says strait of Hormuz ‘completely open’ but sounds warning on US blockade, Lewd messages linked to University of Michigan regent who led campaign against pro-Palestinian students, and Anthropic’s new cybersecurity model could get it back in the government’s good graces.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Kae Tempest on creativity and his gender transition: ‘I’m just glad to be alive’, What are we all playing this weekend?, and Who’d have thought a fossil-fuel shill like Trump would be the one to spark a green revolution? | George Monbiot.",
   "mainItems": [
     {
-      "title": "Iran says strait of Hormuz ‘completely open’ but sounds warning on US blockade",
+      "title": "Kae Tempest on creativity and his gender transition: ‘I’m just glad to be alive’",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/apr/17/strait-of-hormuz-now-open-to-commercial-vessels",
-      "published": "2026-04-18T03:52:14+00:00",
-      "summary": "Iran’s parliamentary speaker says strait could close again if US blockade continues, but Trump says it will remain in place until ‘transaction’ with Tehran is complete Iran’s foreign minister has said that the strait of Hormuz is now fully…",
+      "url": "https://www.theguardian.com/culture/2026/apr/18/kae-tempest-on-creativity-and-his-gender-transition-im-just-glad-to-be-alive",
+      "published": "2026-04-18T08:01:07+00:00",
+      "summary": "Ten years after his debut novel, the poet and musician has written a follow-up exploring self-discovery and a life lived on the edge.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "What are we all playing this weekend?",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-378",
+      "published": "2026-04-18T07:01:00+00:00",
+      "summary": "I don’t know about you, readers, but this past week’s gone by in a bit of a blur.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Who’d have thought a fossil-fuel shill like Trump would be the one to spark a green revolution? | George Monbiot",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/18/fossil-fuel-trump-green-revolution-us-iran-renewable-energy",
+      "published": "2026-04-18T07:00:07+00:00",
+      "summary": "The US attack on Iran has made the need for renewable energy inarguable. Environmentalists are now being seen for the pragmatists that they are Donald Trump has done more to accelerate the energy transition than anyone else alive.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "What we've been playing - \"I started with maple trees behind the bank\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-maple-trees",
+      "published": "2026-04-18T07:00:00+00:00",
+      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Family of US man who died after officer shoved knee into back sues police",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/apr/17/kansas-man-death-charles-adair",
+      "published": "2026-04-17T23:42:51+00:00",
+      "summary": "Charles Adair’s relatives urge video to be made public after Kansas officer charged with second-degree murder Relatives of a man whom investigators determined died after a Kansas sheriff’s deputy shoved his knee into the cuffed man’s back…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
@@ -27,36 +67,6 @@
       "score": 10
     },
     {
-      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
-      "published": "2026-04-17T23:16:10+00:00",
-      "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Lead prosecutor on investigation into former CIA director no longer on case",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/17/cia-john-brennan-russia-trump-investigation",
-      "published": "2026-04-17T21:01:41+00:00",
-      "summary": "Maria Medetis Long had expressed doubts over case of John Brennan, whose agency said Russia boosted Trump in 2016 Sign up for the Breaking News US email to get newsletter alerts in your inbox A federal prosecutor leading the investigation…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Should you stare into Sam Altman’s orb before your next date?",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
-      "published": "2026-04-17T20:42:47+00:00",
-      "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "OpenAI’s former Sora boss is leaving",
       "source": "The Verge",
       "category": "AI / computing",
@@ -67,23 +77,13 @@
       "score": 9
     },
     {
-      "title": "‘Almost like a Bond villain’: why Labour MPs expect Starmer to cling on as PM",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/politics/2026/apr/17/labour-mps-keir-starmer-prime-minister",
-      "published": "2026-04-17T16:11:29+00:00",
-      "summary": "While the Labour leader is deeply unpopular, several factors – including the Iran war – seem to be delaying his exit It still feels improbable that the UK prime minister, Keir Starmer, will face a formal challenge even if, as assumed, his…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "\"It's been an interesting year\": the jailed creator of Fortune's Run has passed parole and is back working on her Deus Ex-style FPS",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/its-been-an-interesting-year-the-jailed-creator-of-fortunes-run-has-passed-parole-and-is-back-working-on-her-deus-ex-style-fps",
-      "published": "2026-04-17T15:57:02+00:00",
-      "summary": "Last January, the lead developer of very good immersive sim shooter Fortune's Run revealed that she was going to prison for three years , having been convicted of an unspecified violent crime several years prior.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "‘Call of Duty: Mobile’ Gets ‘Godzilla x Kong’ Crossover for Season 4 Update [Trailer]",
+      "source": "Bloody Disgusting",
+      "category": "Sci-fi / horror",
+      "url": "https://bloody-disgusting.com/video-games/3946933/call-of-duty-mobile-gets-godzilla-x-kong-crossover-for-season-4-update-trailer/",
+      "published": "2026-04-17T19:03:36+00:00",
+      "summary": "Call of Duty: Mobile is reaching high for their next crossover in the game’s impending Season 4 update.",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 9
     },
     {
@@ -107,6 +107,16 @@
       "score": 9
     },
     {
+      "title": "Middle East crisis live: Iran says it has closed the strait of Hormuz again due to US blockade",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/live/2026/apr/18/middle-east-crisis-live-iran-warns-it-will-close-strait-of-hormuz-if-us-blockade-continues",
+      "published": "2026-04-18T08:43:37+00:00",
+      "summary": "In a statement carried by Iranian media, the Iranian military’s operational command said the strait had ‘reverted to its previous state’ Separate to the Pakistani army chief’s trip to Iran (see post at 07:53 ), the Pakistani prime…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
+    },
+    {
       "title": "Why scientists are nervous about fungi",
       "source": "NPR Health",
       "category": "Science / health",
@@ -115,16 +125,6 @@
       "summary": "They can pose a threat to human health — yeast infections are but one example. Scientists say not enough attention is paid to their ability to develop resistance to medications that treat them.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "What to Watch and Read This Weekend: Details, Details, Details (and an Intriguing Hamlet)",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/what-to-watch-read-this-weekend-april-17-2026/",
-      "published": "2026-04-17T15:00:00+00:00",
-      "summary": "Though this be madness, yet there is method in't. The post What to Watch and Read This Weekend: Details, Details, Details (and an Intriguing Hamlet) appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 7
     },
     {
       "title": "The Destroyed Remnants of a Lost World Are Falling to Earth, Scientists Discover",
@@ -137,8 +137,76 @@
       "score": 7
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "“Any Update Is a Bonus, Not a Right” | Dev Heads Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=sYEgStrizpg",
+      "published": "2026-04-17T20:07:12+00:00",
+      "summary": "This week on Dev Heads, Tina, JM8, and Mikee chat about the state of ongoing updates to video games. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "New York City Mayor Zohran Mamdani explains his relationship with the President",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=DSnNvYzykfk",
+      "published": "2026-04-17T17:00:30+00:00",
+      "summary": "New York City Mayor Zohran Mamdani recently marked his first 100 days in office. In that time, he's met and spoken with President Trump on a few different occasions.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Path Tracing Set To Get Faster - Nvidia GDC Presentation Explained",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=J2TLPswBTYY",
+      "published": "2026-04-17T15:00:30+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/tDiIpyKXSjU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "New York City Mayor Zohran Mamdani explains why he remains unbothered by critics",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=7hUAIHHM00o",
+      "published": "2026-04-17T09:00:11+00:00",
+      "summary": "New York City Mayor Zohran Mamdani recently marked his first 100 days in office.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "Sounds ominous. #WidowsBay — Premieres April 29",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=lK4kdm0V5Sw",
+      "published": "2026-04-17T21:59:55+00:00",
+      "summary": "From creator Katie Dippold and director Hiro Murai, Matthew Rhys stars in Widow’s Bay, a new original series coming April 29 to Apple TV. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Singing along to Reba on the radio. No notes. #MargosGotMoneyTroubles — Now Streaming",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=j4JOZNlSWZM",
+      "published": "2026-04-17T15:59:49+00:00",
+      "summary": "Margo's Got Money Troubles is now streaming on Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -213,8 +281,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 7
+    "youtubeCount": 4,
+    "trailerCount": 2,
+    "sourceCount": 12
   }
 }
