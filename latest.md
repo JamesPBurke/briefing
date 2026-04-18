@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-18T09:00:29.787468Z
+Generated: 2026-04-18T14:00:01.794379Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Kae Tempest on creativity and his gender transition: ‘I’m just glad to be alive’, What are we all playing this weekend?, and Who’d have thought a fossil-fuel shill like Trump would be the one to spark a green revolution? | George Monbiot.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are ‘We can’t wait’: Venice already seeking floods plan B five years after barriers’ launch, Help, there’s a cockroach in my coffee! 16 gross ingredients hidden in your favourite foods, and Traders placed over $1bn in perfectly timed bets on the Iran war. What is going on?.
 
 ## Briefing
 
@@ -18,34 +18,43 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Kae Tempest on creativity and his gender transition: ‘I’m just glad to be alive’ [10/10]
+### 1. ‘We can’t wait’: Venice already seeking floods plan B five years after barriers’ launch [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Ten years after his debut novel, the poet and musician has written a follow-up exploring self-discovery and a life lived on the edge.
+Rising sea levels and ecological damage caused by heavy use of flood defence system force city authorities to consider next move The Arsenale, the colossal shipyard that was the engine of the Venetian Republic’s domination for seven…
 
-Link: https://www.theguardian.com/culture/2026/apr/18/kae-tempest-on-creativity-and-his-gender-transition-im-just-glad-to-be-alive
+Link: https://www.theguardian.com/world/2026/apr/18/venice-flood-barrier-plan-b-rising-sea-level
 
-### 2. What are we all playing this weekend? [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-I don’t know about you, readers, but this past week’s gone by in a bit of a blur.
-
-Link: https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-378
-
-### 3. Who’d have thought a fossil-fuel shill like Trump would be the one to spark a green revolution? | George Monbiot [10/10]
+### 2. Help, there’s a cockroach in my coffee! 16 gross ingredients hidden in your favourite foods [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The US attack on Iran has made the need for renewable energy inarguable. Environmentalists are now being seen for the pragmatists that they are Donald Trump has done more to accelerate the energy transition than anyone else alive.
+From wood pulp in ice-cream to peat in portobellos, science has transformed how we dine.
 
-Link: https://www.theguardian.com/commentisfree/2026/apr/18/fossil-fuel-trump-green-revolution-us-iran-renewable-energy
+Link: https://www.theguardian.com/lifeandstyle/2026/apr/18/gross-ingredients-16-favourite-foods-cockroach-coffee
 
-### 4. What we've been playing - "I started with maple trees behind the bank" [10/10]
+### 3. Traders placed over $1bn in perfectly timed bets on the Iran war. What is going on? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Suspicious wagers on the US-Israel war in Iran are creating huge windfalls and raising concerns among lawmakers Sixteen bets made $100,000 accurately predicting the timing of the US airstrikes against Iran on 27 February.
+
+Link: https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns
+
+### 4. Why are Harvard’s slavery researchers quitting or being fired? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The school’s $100m project to examine its slave ownership in Antigua is mired with controversy as academics allege obstruction Christopher Newman remembers seeing campus police officers as he walked into a human resources office at Harvard…
+
+Link: https://www.theguardian.com/news/ng-interactive/2026/apr/18/harvard-university-antigua-slavery-history
+
+### 5. What we've been playing - "I started with maple trees behind the bank" [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -54,25 +63,25 @@ Hello and welcome back to our regular feature where we write a little about the 
 
 Link: https://www.eurogamer.net/what-weve-been-playing-maple-trees
 
-### 5. Family of US man who died after officer shoved knee into back sues police [10/10]
+### 6. Trump administration cleared to continue construction of White House ballroom, court rules [9/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Charles Adair’s relatives urge video to be made public after Kansas officer charged with second-degree murder Relatives of a man whom investigators determined died after a Kansas sheriff’s deputy shoved his knee into the cuffed man’s back…
+Construction was stopped after suit challenged president’s authority to raze East Wing without congressional approval The Trump administration can continue building a $400m White House ballroom at the site of the former East Wing, a US…
 
-Link: https://www.theguardian.com/us-news/2026/apr/17/kansas-man-death-charles-adair
+Link: https://www.theguardian.com/us-news/2026/apr/18/trump-administration-white-house-ballroom
 
-### 6. Lewd messages linked to University of Michigan regent who led campaign against pro-Palestinian students [10/10]
+### 7. Central bank bosses enlist for war game to gauge threat of Lehman-style bust [9/10]
 **Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Jordan Acker, who pushed legal action against protesters, is running for re-election in race reflecting tensions on Israel The University of Michigan regent Jordan Acker, who helped lead the university’s crackdown on pro-Palestinian…
+Finance chiefs to join exercise in Washington designed to assess how they would handle collapse of significant bank The bosses of the central banks and treasuries of the UK, US and EU are to take part in a war game in Washington on…
 
-Link: https://www.theguardian.com/us-news/2026/apr/17/university-of-michigan-regent-sexual-messages
+Link: https://www.theguardian.com/business/2026/apr/18/central-bank-bosses-enlist-for-war-game-to-gauge-threat-of-lehman-style-bust
 
-### 7. OpenAI’s former Sora boss is leaving [9/10]
+### 8. OpenAI’s former Sora boss is leaving [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -81,59 +90,50 @@ Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the
 
 Link: https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing
 
-### 8. ‘Call of Duty: Mobile’ Gets ‘Godzilla x Kong’ Crossover for Season 4 Update [Trailer] [9/10]
-**Source:** Bloody Disgusting  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Call of Duty: Mobile is reaching high for their next crossover in the game’s impending Season 4 update.
-
-Link: https://bloody-disgusting.com/video-games/3946933/call-of-duty-mobile-gets-godzilla-x-kong-crossover-for-season-4-update-trailer/
-
-### 9. Maryland District Sheds Remedial High School Math Courses, Sees Students Soar [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Administrators at Maryland’s Calvert County Public Schools believed the math classes they added to their course catalog years ago — pre-algebra and business math among them — helped students by giving them more time to master basic…
-
-Link: https://www.the74million.org/article/maryland-district-sheds-remedial-high-school-math-courses-sees-students-soar/
-
-### 10. After a month of haggling with players, Mega Crit make Slay the Spire 2's beta patches official, with big character reworks alongside new art and scoring systems [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / design  
-**Why it matters:** Useful if you care about how games actually work as designed experiences.
-
-Slay the Spire 2 has received a major update that rolls all of the additions, tweaks and fixes from recent beta updates into the main branch of the game - though developers Mega Crit are at pains to repeat that "this is still an Early…
-
-Link: https://www.rockpapershotgun.com/after-a-month-of-haggling-with-players-mega-crit-make-slay-the-spire-2s-beta-patches-official-with-big-character-reworks-alongside-new-art-and-scoring-systems
-
-### 11. Middle East crisis live: Iran says it has closed the strait of Hormuz again due to US blockade [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-In a statement carried by Iranian media, the Iranian military’s operational command said the strait had ‘reverted to its previous state’ Separate to the Pakistani army chief’s trip to Iran (see post at 07:53 ), the Pakistani prime…
-
-Link: https://www.theguardian.com/world/live/2026/apr/18/middle-east-crisis-live-iran-warns-it-will-close-strait-of-hormuz-if-us-blockade-continues
-
-### 12. Why scientists are nervous about fungi [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-They can pose a threat to human health — yeast infections are but one example. Scientists say not enough attention is paid to their ability to develop resistance to medications that treat them.
-
-Link: https://www.npr.org/2026/04/17/g-s1-117632/fungi-drug-resistant-yeast-infection
-
-### 13. The Destroyed Remnants of a Lost World Are Falling to Earth, Scientists Discover [7/10]
+### 9. Babies Born from Dead Parents Will Increase with New Tech. Are We Ready? [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-A rare class of meteorites called angrites likely come from a strange protoplanet that was catastrophically destroyed in the early solar system, leaving only fragmentary remnants.
+Reproductive technologies have enabled children to be posthumously conceived from the frozen eggs and sperm of deceased parents, raising legal, ethical, and practical questions.
 
-Link: https://www.404media.co/the-destroyed-remnants-of-a-lost-world-are-falling-to-earth-scientists-discover/
+Link: https://www.404media.co/babies-born-from-dead-parents-will-increase-with-new-tech-are-we-ready/
+
+### 10. Tired of waiting for your EV to charge up? One Chinese company has a novel solution [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Chinese car company NIO is putting up EV battery swapping stations all around the world. NPR took a ride in one car for the experience.
+
+Link: https://www.npr.org/2026/04/18/nx-s1-5788990/ev-battery-charge-long-china-nio
+
+### 11. She invited her friends to come together to make her casket [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Friends gathered at a weaver's studio in Massachusetts to help MaddyChristine Hope Brokopp make her casket.
+
+Link: https://www.npr.org/2026/04/18/nx-s1-5786831/dying-terminally-ill-casket-weaving
+
+### 12. What to Watch and Read This Weekend: Details, Details, Details (and an Intriguing Hamlet) [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Though this be madness, yet there is method in't. The post What to Watch and Read This Weekend: Details, Details, Details (and an Intriguing Hamlet) appeared first on Reactor .
+
+Link: https://reactormag.com/what-to-watch-read-this-weekend-april-17-2026/
+
+### 13. Dolly Parton’s Reading Initiative Hits Snag in California [6/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+This story was originally published by CalMatters. Sign up for their newsletters.
+
+Link: https://www.the74million.org/article/dolly-partons-reading-initiative-hits-snag-in-california/
 
 ## YouTube
 
