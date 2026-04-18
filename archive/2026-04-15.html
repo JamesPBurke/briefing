@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<!--
+  James Daily Briefing — Template Shell
+  ======================================
+  Replace every TEMPLATE marker with your generated content.
+  The CSS (style.css) is standalone — no changes needed there.
+
+  VARIABLES TO INJECT:
+    {{DATE_LONG}}       e.g. "Sunday, April 12, 2026"
+    {{EDITION}}         e.g. "Last 24 hours"
+    {{SWEEP_SUMMARY}}   The lede paragraph text
+    {{STORY_COUNT}}     e.g. "13"
+    {{YOUTUBE_COUNT}}   e.g. "0"
+    {{TRAILER_COUNT}}   e.g. "0"
+    {{UPDATED}}         e.g. "Apr 12, 2:00 PM EDT"
+    {{ARCHIVE_OPTIONS}} <option> elements for the archive dropdowns
+    {{STORY_CARDS}}     One <article class="story-card"> per story (see pattern below)
+    {{YOUTUBE_ITEMS}}   Inner content of the YouTube sidebar widget
+    {{ENTERTAIN_ITEMS}} Inner content of the Entertainment radar widget
+    {{TRAILER_ITEMS}}   Inner content of the Trailers widget
+-->
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>James Daily Briefing</title>
+  <meta name="description" content="A curated daily intelligence briefing — top stories, media, and culture." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,900;1,400;1,700&family=Source+Sans+3:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ═══════════════════════════════════════════════
+       MASTHEAD (sticky header)
+       ═══════════════════════════════════════════════ -->
+  <header class="masthead">
+    <div class="masthead-inner">
+
+      <!-- Left: date + edition label -->
+      <div class="masthead-meta">
+        <span class="masthead-date" id="current-date">Wednesday, April 15, 2026</span>
+        <span class="masthead-divider">·</span>
+        <span class="masthead-edition">Last 24 hours</span>
+      </div>
+
+      <!-- Center: logo + wordmark -->
+      <a href="https://jamespburke.com/briefing/" class="masthead-logo" aria-label="James Daily Briefing">
+        <svg width="34" height="34" viewBox="0 0 34 34" fill="none" aria-hidden="true">
+          <rect width="34" height="34" rx="2" fill="#f5f1eb"/>
+          <rect x="5" y="8" width="24" height="2" fill="#b5212a"/>
+          <rect x="5" y="13" width="24" height="1" fill="#b5212a" opacity="0.5"/>
+          <text x="17" y="28" font-family="Georgia,serif" font-size="10" font-weight="700" fill="#1a1714" text-anchor="middle">JB</text>
+        </svg>
+        <div class="masthead-wordmark">
+          <span class="masthead-title">James Daily Briefing</span>
+          <span class="masthead-tagline">compact · readable · expandable</span>
+        </div>
+      </a>
+
+      <!-- Right: action buttons + dark mode toggle -->
+      <div class="masthead-actions">
+        <a href="https://jamespburke.com/briefing/latest.md" class="btn-ghost">Raw text</a>
+        <a href="/briefing/profile/watch-history.html" class="btn-ghost">Watch history</a>
+        <a href="#recommendations" class="btn-ghost">Entertainment radar</a>
+        <button class="btn-theme" data-theme-toggle aria-label="Switch to dark mode">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- Section navigation strip -->
+    <nav class="section-nav" aria-label="Sections">
+      <div class="section-nav-inner">
+        <a href="#briefing" class="section-link active">
+          Top stories <span class="count">13</span>
+        </a>
+        <a href="#youtube" class="section-link">
+          YouTube <span class="count">0</span>
+        </a>
+        <a href="#recommendations" class="section-link">Entertainment radar</a>
+        <a href="#trailers" class="section-link">
+          Trailers <span class="count">0</span>
+        </a>
+        <a href="/briefing/profile/watch-history.html" class="section-link">Watch history</a>
+        <a href="/briefing/profile/horror.html" class="section-link">Horror memory</a>
+
+        <!-- Archive dropdown (nav bar) -->
+        <div class="section-archive">
+          <select aria-label="Select archive" onchange="if(this.value) window.location='/briefing/archive/'+this.value+'.html'">
+            <option value="">Archive</option>
+            <option value="2026-04-15">2026-04-15</option>
+<option value="2026-04-14">2026-04-14</option>
+<option value="2026-04-13">2026-04-13</option>
+<option value="2026-04-12">2026-04-12</option>
+<option value="2026-04-11">2026-04-11</option>
+<option value="2026-04-10">2026-04-10</option>
+<option value="2026-04-09">2026-04-09</option>
+<option value="2026-04-08">2026-04-08</option>
+<option value="2026-04-07">2026-04-07</option>
+<option value="2026-04-06">2026-04-06</option>
+<option value="2026-04-05">2026-04-05</option>
+<option value="2026-04-04">2026-04-04</option>
+<option value="2026-04-03">2026-04-03</option>
+          </select>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+
+  <main class="page-main">
+
+    <!-- ═══════════════════════════════════════════════
+         LEDE — editorial summary + stats panel
+         ═══════════════════════════════════════════════ -->
+    <section class="briefing-lede">
+      <div class="lede-inner">
+
+        <!-- Left: sweep summary paragraph -->
+        <div class="lede-text">
+          <div class="lede-kicker">Today's intelligence sweep</div>
+          <p class="lede-summary">
+            Today&#x27;s sweep leans toward Democracy / press freedom, AI / privacy, CS education / AI policy. The strongest items in this run are Snap Inc blames AI as it lays off 1,000 workers, Camp Mystic official says she still hasn’t reported flood deaths to Texas agency, and ‘Uncharted territory’: uncertainty as US vaccine guidance falls apart under Trump.
+          </p>
+        </div>
+
+        <!-- Right: stats panel -->
+        <div class="lede-stats">
+          <div class="stat-item">
+            <span class="stat-label">Stories</span>
+            <span class="stat-value">13</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-label">YouTube</span>
+            <span class="stat-value">0</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-label">Trailers</span>
+            <span class="stat-value">0</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-label">Updated</span>
+            <span class="stat-value updated">2026-04-15 02:01 PM EDT</span>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- ═══════════════════════════════════════════════
+         MAIN CONTENT GRID
+         Left: story list  |  Right: sidebar
+         ═══════════════════════════════════════════════ -->
+    <div class="content-wrapper">
+
+      <!-- ── STORY LIST ── -->
+      <section class="stories-main" id="briefing">
+
+        <section class="highlighted-stories" id="highlights"><header class="section-header"><h2 class="section-heading">Highlighted stories</h2><p class="section-sub">Pinned until you clear them.</p></header><div class="story-list"><article class="story-card highlight-card"><div class="story-body"><h3 class="story-headline"><a href="https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html" class="story-link" target="_blank" rel="noopener">A.I. Is Prompting an Evolution, Not Extinction, for Coders</a></h3><p class="story-summary">Interesting piece on the current state of AI in software work.</p><p class="story-relevance">The New York Times</p></div><a href="https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html" class="story-source-link" target="_blank" rel="noopener">Open source ↗</a></article>
+
+<article class="story-card highlight-card"><div class="story-body"><h3 class="story-headline"><a href="https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html" class="story-link" target="_blank" rel="noopener">The Workers Letting A.I. Do Their Jobs</a></h3><p class="story-summary">In an era of agents powered by artificial intelligence, many programmers are barely programming.</p><p class="story-relevance">The New York Times</p></div><a href="https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html" class="story-source-link" target="_blank" rel="noopener">Open source ↗</a></article></div></section>
+        <header class="section-header">
+          <h2 class="section-heading">Top stories</h2>
+          <p class="section-sub">Compact cards. Expand only what looks worth your time.</p>
+        </header>
+
+        <div class="story-list">
+
+          <article class="story-card">
+ <div class="story-meta">
+ <span class="story-score">10</span>
+ <div class="story-tags">
+ <span class="tag source">The Guardian US</span>
+ <span class="tag topic">Democracy / press freedom</span>
+ </div>
+ </div>
+ <div class="story-body">
+ <h3 class="story-headline">
+ <a href="https://www.theguardian.com/technology/2026/apr/15/snap-inc-blames-ai-worker-layoffs" class="story-link" target="_blank" rel="noopener">Snap Inc blames AI as it lays off 1,000 workers</a>
+ </h3>
+ <p class="story-summary">Cuts by Snapchat’s parent company come in response to a declining stock price and pressure from an activist investor Snapchat ’s parent company plans to lay off 16% of its employees, around 1,000 people, citing “rapid advancements in….</p>
+ <p class="story-relevance">Relevant to state power, civil liberties, and anti-authoritarian concerns..</p>
+ </div>
+ <a href="https://www.theguardian.com/technology/2026/apr/15/snap-inc-blames-ai-worker-layoffs" class="story-source-link" target="_blank" rel="noopener">Open source ↗</a>
+</article>
+
+<article class="story-card">
+ <div class="story-meta">
+ <span class="story-score">10</span>
+ <div class="story-tags">
+ <span class="tag source">The Guardian US</span>
+ <span class="tag topic">AI / privacy</span>
+ </div>
+ </div>
+ <div class="story-body">
+ <h3 class="story-headline">
+ <a href="https://www.theguardian.com/us-news/2026/apr/15/camp-mystic-official-reported-flood-deaths" class="story-link" target="_blank" rel="noopener">Camp Mystic official says she still hasn’t reported flood deaths to Texas agency</a>
+ </h3>
+ <p class="story-summary">Camp’s medical officer testified at a hearing as state health agency reviews camp’s application to reopen this summer Sign up for the Breaking News US email to get newsletter alerts in your inbox The medical officer for Camp Mystic, the….</p>
+ <p class="story-relevance">Touches trust, surveillance, and the private use of AI systems..</p>
+ </div>
+ <a href="https://www.theguardian.com/us-news/2026/apr/15/camp-mystic-official-reported-flood-deaths" class="story-source-link" target="_blank" rel="noopener">Open source ↗</a>
+</article>
+
+<article class="story-card">
+ <div class="story-meta">
+ <span class="story-score">10</span>
+ <div class="story-tags">
+ <span class="tag source">The Guardian US</span>
+ <span class="tag topic">Democracy / press freedom</span>
+ </div>
+ </div>
+ <div class="story-body">
+ <h3 class="story-headline">
+ <a href="https://www.theguardian.com/us-news/2026/apr/15/uncertainty-vaccine-guidance-trump-administration" class="story-link" target="_blank" rel="noopener">‘Uncharted territory’: uncertainty as US vaccine guidance falls apart under Trump</a>
+ </h3>
+ <p class="story-summary">Several shots – including flu and Covid – lost their CDC recommendations under overhauls from the White House Several shots lost their recommendation from the US Centers for Disease Control and Prevention (CDC) after a judge’s stay against….</p>
+ <p class="story-relevance">Relevant to state power, civil liberties, and anti-authoritarian concerns..</p>
+ </div>
+ <a href="https://www.theguardian.com/us-news/2026/apr/15/uncertainty-vaccine-guidance-trump-administration" class="story-source-link" target="_blank" rel="noopener">Open source ↗</a>
+</article>
+
+<article class="story-card">
+ <div class="story-meta">
+ <span class="story-score">10</span>
+ <div class="story-tags">
+ <span class="tag source">The Guardian US</span>
+ <span class="tag topic">Democracy / press freedom</span>
+ </div>
+ </div>
+ <div class="story-body">
+ <h3 class="story-headline">
+ <a href="https://www.theguardian.com/world/2026/apr/15/hungary-prime-minister-elect-peter-magyar-suspend-state-media-propaganda" class="story-link" target="_blank" rel="noopener">Hungary’s prime minister-elect vows to suspend ‘propaganda machine’ state media</a>
+ </h3>
+ <p class="story-summary">Péter Magyar compares media coverage to Nazi-era Germany and aims to ‘restore its public service character’ Europe live – latest updates Hungary’s prime minister-elect has vowed to suspend state media news coverage, describing it as a….</p>
+ <p class="story-relevance">Relevant to state power, civil liberties, and anti-authoritarian concerns..</p>
+ </div>
+ <a href="https://www.theguardian.com/world/2026/apr/15/hungary-prime-minister-elect-peter-magyar-suspend-state-media-propaganda" class="story-source-link" target="_blank" rel="noopener">Open source ↗</a>
+</article>
+
+<article class="story-card">
+ <div class="story-meta">
+ <span class="story-score">10</span>
+ <div class="story-tags">
+ <span class="tag source">The Guardian US</span>
+ <span class="tag topic">CS education / AI policy</span>
+ </div>
+ </div>
+ <div class="story-body">
+ <h3 class="story-headline">
+ <a href="https://www.theguardian.com/us-news/2026/apr/15/oklahoma-principal-shot-disarming-ex-student" class="story-link" target="_blank" rel="noopener">Oklahoma principal shot disarming ex-student with semi-automatic guns</a>
+ </h3>
+ <p class="story-summary">Kirk Moore was injured as he tackled a former pupil who opened fire at Pauls Valley high school Sign up for the Breaking News US email to get newsletter alerts in your inbox An Oklahoma principal has been praised for preventing a tragedy….</p>
+ <p class="story-relevance">Directly relevant to teaching, student agency, and school policy..</p>
+ </div>
+ <a href="https://www.theguardian.com/us-news/2026/apr/15/oklahoma-principal-shot-disarming-ex-student" class="story-source-link" target="_blank" rel="noopener">Open source ↗</a>
+</article>
+
+<article class="story-card">
+ <div class="story-meta">
+ <span class="story-score">10</span>
+ <div class="story-tags">
+ <span class="tag source">The 74</span>
+ <span class="tag topic">Democracy / press freedom</span>
+ </div>
+ </div>
+ <div class="story-body">
+ <h3 class="story-headline">
+ <a href="https://www.the74million.org/article/empowering-student-voice-in-new-york-city-starts-with-a-vote/" class="story-link" target="_blank" rel="noopener">Opinion: Empowering Student Voice In New York City Starts With a Vote</a>
+ </h3>
+ <p class="story-summary">Lawmakers in the New York Senate and Assembly are considering a bill that would empower New York City high school students. It doesn’t have a catchy name, nor has it attracted much debate and attention surrounding it..</p>
+ <p class="story-relevance">Relevant to state power, civil liberties, and anti-authoritarian concerns..</p>
+ </div>
+ <a href="https://www.the74million.org/article/empowering-student-voice-in-new-york-city-starts-with-a-vote/" class="story-source-link" target="_blank" rel="noopener">Open source ↗</a>
+</article>
+
+<article class="story-card">
+ <div class="story-meta">
+ <span class="story-score">10</span>
+ <div class="story-tags">
+ <span class="tag source">The 74</span>
+ <span class="tag topic">CS education / AI policy</span>
+ </div>
+ </div>
+ <div class="story-body">
+ <h3 class="story-headline">
+ <a href="https://www.the74million.org/article/the-graduation-gap-when-students-earn-a-high-school-diploma-but-still-cant-do-math/" class="story-link" target="_blank" rel="noopener">The Graduation Gap: When Students Earn a High School Diploma But Still Can’t Do Math</a>
+ </h3>
+ <p class="story-summary">Congratulations! High school graduation rates in your state are hitting all-time highs! But before you crack open the champagne, you should know that only a small fraction of those students can do high school-level math..</p>
+ <p class="story-relevance">Directly relevant to teaching, student agency, and school policy..</p>
+ </div>
+ <a href="https://www.the74million.org/article/the-graduation-gap-when-students-earn-a-high-school-diploma-but-still-cant-do-math/" class="story-source-link" target="_blank" rel="noopener">Open source ↗</a>
+</article>
+
+<article class="story-card">
+ <div class="story-meta">
+ <span class="story-score">10</span>
+ <div class="story-tags">
+ <span class="tag source">MIT Technology Review</span>
+ <span class="tag topic">AI / privacy</span>
+ </div>
+ </div>
+ <div class="story-body">
+ <h3 class="story-headline">
+ <a href="https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/" class="story-link" target="_blank" rel="noopener">Building trust in the AI era with privacy-led UX</a>
+ </h3>
+ <p class="story-summary">The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship..</p>
+ <p class="story-relevance">Touches trust, surveillance, and the private use of AI systems..</p>
+ </div>
+ <a href="https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/" class="story-source-link" target="_blank" rel="noopener">Open source ↗</a>
+</article>
+
+<article class="story-card">
+ <div class="story-meta">
+ <span class="story-score">10</span>
+ <div class="story-tags">
+ <span class="tag source">Ars Technica</span>
+ <span class="tag topic">AI / computing</span>
+ </div>
+ </div>
+ <div class="story-body">
+ <h3 class="story-headline">
+ <a href="https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/" class="story-link" target="_blank" rel="noopener">UK gov&#x27;s Mythos AI tests help separate cybersecurity threat from hype</a>
+ </h3>
+ <p class="story-summary">New model is the first AI system to complete a difficult multistep infiltration challenge..</p>
+ <p class="story-relevance">Relevant to the shape of current AI systems and where the tooling is moving..</p>
+ </div>
+ <a href="https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/" class="story-source-link" target="_blank" rel="noopener">Open source ↗</a>
+</article>
+
+<article class="story-card">
+ <div class="story-meta">
+ <span class="story-score">9</span>
+ <div class="story-tags">
+ <span class="tag source">The Guardian US</span>
+ <span class="tag topic">Democracy / anti-fascism</span>
+ </div>
+ </div>
+ <div class="story-body">
+ <h3 class="story-headline">
+ <a href="https://www.theguardian.com/us-news/2026/apr/15/santacon-charity-new-york-fraud" class="story-link" target="_blank" rel="noopener">NYC SantaCon charity fundraiser was more con than Claus, authorities say</a>
+ </h3>
+ <p class="story-summary">Officials say charity fundraiser that flooded New York with drunk people in Santa costumes every Christmas was a con A SantaCon charity fundraiser that floods New York City with inebriated young people in red and white Santa costumes every….</p>
+ <p class="story-relevance">Worth watching for authoritarian drift, selective enforcement, and democratic norms..</p>
+ </div>
+ <a href="https://www.theguardian.com/us-news/2026/apr/15/santacon-charity-new-york-fraud" class="story-source-link" target="_blank" rel="noopener">Open source ↗</a>
+</article>
+
+<article class="story-card">
+ <div class="story-meta">
+ <span class="story-score">9</span>
+ <div class="story-tags">
+ <span class="tag source">The 74</span>
+ <span class="tag topic">Education / pedagogy</span>
+ </div>
+ </div>
+ <div class="story-body">
+ <h3 class="story-headline">
+ <a href="https://www.the74million.org/article/threats-over-dei-weaken-local-school-leaders-mcmahon-says-she-wants-to-empower/" class="story-link" target="_blank" rel="noopener">Opinion: Threats over DEI Weaken Local School Leaders McMahon Says She Wants to Empower</a>
+ </h3>
+ <p class="story-summary">Late last month, Education Secretary Linda McMahon celebrated what she called the Trump administration’s “unprecedented progress in reducing the federal education footprint” and “giving education back to the states” as she announced that….</p>
+ <p class="story-relevance">Directly relevant to teaching, classroom practice, and educational judgment..</p>
+ </div>
+ <a href="https://www.the74million.org/article/threats-over-dei-weaken-local-school-leaders-mcmahon-says-she-wants-to-empower/" class="story-source-link" target="_blank" rel="noopener">Open source ↗</a>
+</article>
+
+<article class="story-card">
+ <div class="story-meta">
+ <span class="story-score">8</span>
+ <div class="story-tags">
+ <span class="tag source">404 Media</span>
+ <span class="tag topic">Tech / media</span>
+ </div>
+ </div>
+ <div class="story-body">
+ <h3 class="story-headline">
+ <a href="https://www.404media.co/ukraine-says-russians-are-surrendering-to-robots/" class="story-link" target="_blank" rel="noopener">Ukraine Says Russians are Surrendering to Robots</a>
+ </h3>
+ <p class="story-summary">Volodymyr Zelenskyy is pitching his country as a global leader in robots for war and defense. Will the world listen?.</p>
+ <p class="story-relevance">Relevant to your current interest graph..</p>
+ </div>
+ <a href="https://www.404media.co/ukraine-says-russians-are-surrendering-to-robots/" class="story-source-link" target="_blank" rel="noopener">Open source ↗</a>
+</article>
+
+<article class="story-card">
+ <div class="story-meta">
+ <span class="story-score">8</span>
+ <div class="story-tags">
+ <span class="tag source">NPR Health</span>
+ <span class="tag topic">Science / health</span>
+ </div>
+ </div>
+ <div class="story-body">
+ <h3 class="story-headline">
+ <a href="https://www.npr.org/2026/04/15/nx-s1-5712532/glp-1-quit-begin-ozempic-wegovy-mounjaro-zepbound" class="story-link" target="_blank" rel="noopener">Quit a GLP-1? Plan to start again? It&#x27;s not recommended, but plenty of people do it</a>
+ </h3>
+ <p class="story-summary">A majority of people who start the obesity and diabetes medicines known as GLP-1s also quit them, and plan to restart again. Research hasn&#x27;t yet shown the health impacts of cycling on and off the drugs..</p>
+ <p class="story-relevance">Relevant to your current interest graph..</p>
+ </div>
+ <a href="https://www.npr.org/2026/04/15/nx-s1-5712532/glp-1-quit-begin-ozempic-wegovy-mounjaro-zepbound" class="story-source-link" target="_blank" rel="noopener">Open source ↗</a>
+</article>
+
+        </div>
+      </section>
+
+
+      <!-- ── SIDEBAR ── -->
+      <aside class="sidebar">
+
+        <!-- YouTube widget -->
+        <div class="sidebar-widget" id="youtube">
+          <h3 class="widget-heading">
+            YouTube <span class="count">0</span>
+          </h3>
+          <p class="widget-empty">No picks today.</p>
+        </div>
+
+        <!-- Entertainment radar widget -->
+        <div class="sidebar-widget" id="recommendations">
+          <h3 class="widget-heading">Entertainment radar</h3>
+          <div class="widget-group"><h4 class="widget-subhead">Newer matches</h4><ul class="widget-list">
+<li class="widget-item featured">
+                 <span class="widget-meta"><span class="widget-badge">new</span></span>
+                 <a href="#" class="widget-link widget-link-block" target="_blank" rel="noopener">Scavengers Reign</a>
+                 <div class="widget-detail">&ndash; Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.</div>
+               </li>
+<li class="widget-item featured">
+                 <span class="widget-meta"><span class="widget-badge">new</span></span>
+                 <a href="#" class="widget-link widget-link-block" target="_blank" rel="noopener">Sugar</a>
+                 <div class="widget-detail">&ndash; Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.</div>
+               </li>
+<li class="widget-item">
+                 <span class="widget-meta"><span class="widget-badge">new</span></span>
+                 <a href="#" class="widget-link widget-link-block" target="_blank" rel="noopener">The Lazarus Project</a>
+                 <div class="widget-detail">&ndash; Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.</div>
+               </li>
+<li class="widget-item">
+                 <span class="widget-meta"><span class="widget-badge">new</span></span>
+                 <a href="#" class="widget-link widget-link-block" target="_blank" rel="noopener">Bodies</a>
+                 <div class="widget-detail">&ndash; Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.</div>
+               </li>
+</ul></div><div class="widget-group"><h4 class="widget-subhead">Older possible misses</h4><ul class="widget-list">
+<li class="widget-item">
+                 <span class="widget-meta"><span class="widget-badge">miss</span></span>
+                 <a href="#" class="widget-link widget-link-block" target="_blank" rel="noopener">Counterpart</a>
+                 <div class="widget-detail">&ndash; Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.</div>
+               </li>
+<li class="widget-item">
+                 <span class="widget-meta"><span class="widget-badge">miss</span></span>
+                 <a href="#" class="widget-link widget-link-block" target="_blank" rel="noopener">Patriot</a>
+                 <div class="widget-detail">&ndash; Dry, strange, melancholy spy storytelling with a very distinct voice.</div>
+               </li>
+<li class="widget-item">
+                 <span class="widget-meta"><span class="widget-badge">miss</span></span>
+                 <a href="#" class="widget-link widget-link-block" target="_blank" rel="noopener">Utopia</a>
+                 <div class="widget-detail">&ndash; Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.</div>
+               </li>
+<li class="widget-item">
+                 <span class="widget-meta"><span class="widget-badge">miss</span></span>
+                 <a href="#" class="widget-link widget-link-block" target="_blank" rel="noopener">Rubicon</a>
+                 <div class="widget-detail">&ndash; A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.</div>
+               </li>
+</ul></div><div class="widget-group"><h4 class="widget-subhead">Maggie + James overlap</h4><ul class="widget-list">
+<li class="widget-item">
+                 <span class="widget-meta"><span class="widget-badge">shared</span></span>
+                 <a href="#" class="widget-link widget-link-block" target="_blank" rel="noopener">Bad Sisters</a>
+                 <div class="widget-detail">&ndash; Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.</div>
+               </li>
+<li class="widget-item">
+                 <span class="widget-meta"><span class="widget-badge">shared</span></span>
+                 <a href="#" class="widget-link widget-link-block" target="_blank" rel="noopener">Detectorists</a>
+                 <div class="widget-detail">&ndash; Gentle, funny, humane, and specific — a softer shared-watch possibility.</div>
+               </li>
+<li class="widget-item">
+                 <span class="widget-meta"><span class="widget-badge">shared</span></span>
+                 <a href="#" class="widget-link widget-link-block" target="_blank" rel="noopener">Astrid et Raphaëlle</a>
+                 <div class="widget-detail">&ndash; French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.</div>
+               </li>
+<li class="widget-item">
+                 <span class="widget-meta"><span class="widget-badge">shared</span></span>
+                 <a href="#" class="widget-link widget-link-block" target="_blank" rel="noopener">Somebody Somewhere</a>
+                 <div class="widget-detail">&ndash; A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.</div>
+               </li>
+</ul></div>
+        </div>
+
+        <!-- Trailers widget -->
+        <div class="sidebar-widget" id="trailers">
+          <h3 class="widget-heading">
+            Trailers <span class="count">0</span>
+          </h3>
+          <p class="widget-empty">No picks today.</p>
+        </div>
+
+      </aside>
+    </div>
+
+  </main>
+
+
+  <!-- ═══════════════════════════════════════════════
+       FOOTER
+       ═══════════════════════════════════════════════ -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-logo">
+        <svg width="22" height="22" viewBox="0 0 34 34" fill="none" aria-hidden="true">
+          <rect width="34" height="34" rx="2" fill="currentColor" opacity="0.15"/>
+          <rect x="5" y="8" width="24" height="2" fill="currentColor"/>
+          <rect x="5" y="13" width="24" height="1" fill="currentColor" opacity="0.5"/>
+          <text x="17" y="28" font-family="Georgia,serif" font-size="10" font-weight="700" fill="currentColor" text-anchor="middle">JB</text>
+        </svg>
+        <span>James Daily Briefing</span>
+      </div>
+      <p class="footer-note">
+        Updated daily. Curated for signal over noise.
+        <a href="https://jamespburke.com/briefing/latest.md" style="color:inherit;text-decoration:underline;opacity:0.6">Raw text ↗</a>
+      </p>
+    </div>
+  </footer>
+
+
+  <script>
+    // ── Dark mode toggle ──────────────────────────────────────────
+    (function () {
+      const t = document.querySelector('[data-theme-toggle]'), r = document.documentElement;
+      let d = matchMedia('(prefers-color-scheme:dark)').matches ? 'dark' : 'light';
+      r.setAttribute('data-theme', d);
+      t && t.addEventListener('click', () => {
+        d = d === 'dark' ? 'light' : 'dark';
+        r.setAttribute('data-theme', d);
+        t.setAttribute('aria-label', 'Switch to ' + (d === 'dark' ? 'light' : 'dark') + ' mode');
+        t.innerHTML = d === 'dark'
+          ? '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>'
+          : '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
+      });
+    })();
+
+    // ── Live date (overwrites the static fallback above) ──────────
+    // Remove this block if your generator injects {{DATE_LONG}} server-side.
+    const dateEl = document.getElementById('current-date');
+    if (dateEl && !dateEl.textContent.trim()) {
+      dateEl.textContent = new Date().toLocaleDateString('en-US', {
+        weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
+      });
+    }
+  </script>
+
+</body>
+</html>
