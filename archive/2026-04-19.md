@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-19T01:36:12.964461Z
+Generated: 2026-04-19T01:36:40.444389Z
 
 Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are Police use gas and rubber bullets on activists at beagle facility in Wisconsin, Jon Ossoff calls out ‘Mar-a-Lago mafia’ amid presidential bid rumors, and Investigators examine whether Ukraine terrorist attack was directed by Russia.
 
@@ -137,7 +137,41 @@ Link: https://www.npr.org/2026/04/18/nx-s1-5786831/dying-terminally-ill-casket-w
 
 ## YouTube
 
-_No YouTube picks in this briefing._
+### James Wolff was a spy. Now, he's writing about them [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+There’s keeping a low profile and then there’s author James Wolff. Not his real name. It's a pseudonym. James Wolff had a career as a British intelligence officer. Now, he writes about them.
+
+Link: https://www.youtube.com/watch?v=5J4QKLCdQhw
+
+### Will Sony Offer Any Way To Play Physical Games On Digital Devices? [9/10]
+**Creator:** Digital Foundry  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CeSzzupGe60 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=Nt9yfYQfcl0
+
+### The Problem With Trilogies | Windbreaker Podcast [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
+
+Link: https://www.youtube.com/watch?v=xa1MUi3kZtg
+
+### California bald eagles welcome new eaglets over Easter weekend [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Two long-awaited baby eaglets have hatched in a nest east of Los Angeles. Tens of thousands of fans from around the world watched on a livestream.
+
+Link: https://www.youtube.com/watch?v=abBGDjaXhKg
 
 ## Entertainment Recommendations
 
@@ -164,4 +198,20 @@ _No YouTube picks in this briefing._
 
 ## Trailers / Previews
 
-_No trailer picks in this briefing._
+### what could go wrong? BEEF S2 premieres April 16. [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Starring Carey Mulligan, Oscar Isaac, Charles Melton, and Cailee Spaeny. And guest starring Youn Yuh-jung and Song Kang-ho. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=y3_CQtJHFBs
+
+### 💥 CHOOSE YOUR FIGHTER 💥 #AvatarTheLastAirbender Season 2 premieres June 25, only on #Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+💥 CHOOSE YOUR FIGHTER 💥 #AvatarTheLastAirbender Season 2 premieres June 25, only on #Netflix #Shorts #ATLA Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=UazTQGcPSyU
