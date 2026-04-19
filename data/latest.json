@@ -1,10 +1,10 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-19T05:00:01.536022Z",
-  "generatedAtDisplay": "2026-04-19 01:00 AM EDT",
+  "generatedAt": "2026-04-19T09:00:35.194203Z",
+  "generatedAtDisplay": "2026-04-19 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Science / health, Games / criticism. The strongest items in this run are Sincere dialogue needed to ease Cuba’s ‘grave humanitarian crisis’, say Mexico, Spain and Brazil, Police use gas and rubber bullets on activists at beagle facility in Wisconsin, and FBI’s Kash Patel denies excess drinking amid officials’ US security concerns.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Sincere dialogue needed to ease Cuba’s ‘grave humanitarian crisis’, say Mexico, Spain and Brazil, FBI’s Kash Patel denies excess drinking amid officials’ US security concerns, and Judge rules Trump administration violated the First Amendment in fight against ICE-tracking.",
   "mainItems": [
     {
       "title": "Sincere dialogue needed to ease Cuba’s ‘grave humanitarian crisis’, say Mexico, Spain and Brazil",
@@ -13,16 +13,6 @@
       "url": "https://www.theguardian.com/world/2026/apr/19/sincere-dialogue-needed-to-ease-cubas-grave-humanitarian-crisis-say-mexico-spain-and-brazil",
       "published": "2026-04-19T02:26:17+00:00",
       "summary": "In joint statement, the three countries call for lasting solution to crisis, without explicitly mentioning the US and its oil blockade Mexico, Spain and Brazil have voiced concern about the “dramatic situation” in Cuba, which has faced…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Police use gas and rubber bullets on activists at beagle facility in Wisconsin",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/18/wisconsin-animal-activists-beagles",
-      "published": "2026-04-18T23:59:52+00:00",
-      "summary": "Law enforcement rebuffs protesters at breeding and biomedical research farm amid attempt to remove dogs A chaotic scene unfolded Saturday at a beagle breeding and biomedical research facility in Wisconsin as about 1,000 animal rights…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -57,13 +47,23 @@
       "score": 10
     },
     {
-      "title": "Trump signs order fast tracking review of psychedelics for mental health disorders",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/18/nx-s1-5789859/psychedelic-treatments-mental-health",
-      "published": "2026-04-18T18:56:06+00:00",
-      "summary": "President endorses psilocybin and ibogaine: \"Can I have some, please?\"",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Why are Harvard’s slavery researchers quitting or being fired?",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/apr/18/harvard-university-antigua-slavery-history",
+      "published": "2026-04-18T10:00:11+00:00",
+      "summary": "The school’s $100m project to examine its slave ownership in Antigua is mired in controversy as academics allege obstruction Christopher Newman remembers seeing campus police officers as he walked into a human resources office at Harvard…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "More than 20 arrested over Queensland’s controversial ‘from the river to the sea’ laws during weekend of protests",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/18/multiple-protestors-charged-under-queenslands-from-the-river-to-the-sea-ban-ntwnfb",
+      "published": "2026-04-19T07:11:49+00:00",
+      "summary": "Activists vow to challenge laws in the high court after a weekend of mass protests across Brisbane Get our breaking news email , free app or daily news podcast Pro-Palestinan activists have vowed to challenge new Queensland laws banning…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -87,16 +87,6 @@
       "score": 9
     },
     {
-      "title": "Iran closes strait of Hormuz again ‘until US lifts blockade’",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/apr/18/iran-closes-strait-of-hormuz-again-until-us-lifts-blockade",
-      "published": "2026-04-19T04:29:09+00:00",
-      "summary": "IRGC reportedly fires on tanker as it tries to pass through strait during brief window when shipping lane had reopened Analysis: Trump and Tehran’s series of mismanaged posts stall progress towards peace Iranian officials say they have…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
       "title": "The RAM shortage could last years",
       "source": "The Verge",
       "category": "AI / computing",
@@ -104,6 +94,16 @@
       "published": "2026-04-18T21:08:45+00:00",
       "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 8
+    },
+    {
+      "title": "Trump signs order fast tracking review of psychedelics for mental health disorders",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/04/18/nx-s1-5789859/psychedelic-treatments-mental-health",
+      "published": "2026-04-18T18:56:06+00:00",
+      "summary": "President endorses psilocybin and ibogaine: \"Can I have some, please?\"",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -139,45 +139,45 @@
   ],
   "youtube": [
     {
-      "title": "James Wolff was a spy. Now, he's writing about them",
+      "title": "Meet Linh Mai, the National Zoo's first baby elephant in 25 years",
       "source": "NPR",
       "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=5J4QKLCdQhw",
-      "published": "2026-04-13T22:08:54+00:00",
-      "summary": "There’s keeping a low profile and then there’s author James Wolff. Not his real name. It's a pseudonym. James Wolff had a career as a British intelligence officer. Now, he writes about them.",
+      "url": "https://www.youtube.com/watch?v=cbJAN6-r4Mo",
+      "published": "2026-04-18T15:01:00+00:00",
+      "summary": "The Smithsonian Zoo in Washington, D.C., says it will introduce a baby asian elephant calf to the public next Wednesday, in honor of Earth Day. The baby female, named Linh Mai, was born on Feb. 2.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Will Sony Offer Any Way To Play Physical Games On Digital Devices?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=Nt9yfYQfcl0",
-      "published": "2026-04-12T16:00:35+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CeSzzupGe60 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "The Problem With Trilogies | Windbreaker Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=xa1MUi3kZtg",
-      "published": "2026-04-13T19:10:31+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
     },
     {
-      "title": "California bald eagles welcome new eaglets over Easter weekend",
+      "title": "New York City Mayor Zohran Mamdani explains his relationship with the President",
       "source": "NPR",
       "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=abBGDjaXhKg",
-      "published": "2026-04-12T16:15:00+00:00",
-      "summary": "Two long-awaited baby eaglets have hatched in a nest east of Los Angeles. Tens of thousands of fans from around the world watched on a livestream.",
+      "url": "https://www.youtube.com/watch?v=DSnNvYzykfk",
+      "published": "2026-04-17T17:00:30+00:00",
+      "summary": "New York City Mayor Zohran Mamdani recently marked his first 100 days in office. In that time, he's met and spoken with President Trump on a few different occasions.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Path Tracing Set To Get Faster - Nvidia GDC Presentation Explained",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=J2TLPswBTYY",
+      "published": "2026-04-17T15:00:30+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/tDiIpyKXSjU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "DeepMind’s New AI: A Gift To Humanity",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=Sk9tvyRSCgY",
+      "published": "2026-04-16T17:44:48+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Links: https://deepmind.google/models/gemma/gemma-4/ https://ai.google.dev/gemma/docs/core/model_card_4 Fine tuning with Matt Mireles: https://x.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
@@ -185,25 +185,25 @@
   ],
   "trailers": [
     {
-      "title": "what could go wrong? BEEF S2 premieres April 16.",
-      "source": "Netflix",
+      "title": "She knows better than to trust him, but she doesn't have a choice. #CriminalRecord — April 22",
+      "source": "Apple TV",
       "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=y3_CQtJHFBs",
-      "published": "2026-04-13T19:01:00+00:00",
-      "summary": "Starring Carey Mulligan, Oscar Isaac, Charles Melton, and Cailee Spaeny. And guest starring Youn Yuh-jung and Song Kang-ho. Watch on Netflix: https://www.netflix.",
+      "url": "https://www.youtube.com/watch?v=JjhIKytKxx0",
+      "published": "2026-04-18T16:59:47+00:00",
+      "summary": "Peter Capaldi and Cush Jumbo return for Criminal Record Season 2 on April 22. https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
     },
     {
-      "title": "💥 CHOOSE YOUR FIGHTER 💥 #AvatarTheLastAirbender Season 2 premieres June 25, only on #Netflix",
-      "source": "Netflix",
+      "title": "Sounds ominous. #WidowsBay — Premieres April 29",
+      "source": "Apple TV",
       "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=UazTQGcPSyU",
-      "published": "2026-04-13T18:00:23+00:00",
-      "summary": "💥 CHOOSE YOUR FIGHTER 💥 #AvatarTheLastAirbender Season 2 premieres June 25, only on #Netflix #Shorts #ATLA Watch on Netflix: https://www.netflix.",
+      "url": "https://www.youtube.com/watch?v=lK4kdm0V5Sw",
+      "published": "2026-04-17T21:59:55+00:00",
+      "summary": "From creator Katie Dippold and director Hiro Murai, Matthew Rhys stars in Widow’s Bay, a new original series coming April 29 to Apple TV. https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
+      "score": 8,
       "verdict": "Looks promising"
     }
   ],

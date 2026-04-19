@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-19T05:00:01.536022Z
+Generated: 2026-04-19T09:00:35.194203Z
 
-Today's sweep leans toward Democracy / press freedom, Science / health, Games / criticism. The strongest items in this run are Sincere dialogue needed to ease Cuba’s ‘grave humanitarian crisis’, say Mexico, Spain and Brazil, Police use gas and rubber bullets on activists at beagle facility in Wisconsin, and FBI’s Kash Patel denies excess drinking amid officials’ US security concerns.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Sincere dialogue needed to ease Cuba’s ‘grave humanitarian crisis’, say Mexico, Spain and Brazil, FBI’s Kash Patel denies excess drinking amid officials’ US security concerns, and Judge rules Trump administration violated the First Amendment in fight against ICE-tracking.
 
 ## Briefing
 
@@ -27,16 +27,7 @@ In joint statement, the three countries call for lasting solution to crisis, wit
 
 Link: https://www.theguardian.com/world/2026/apr/19/sincere-dialogue-needed-to-ease-cubas-grave-humanitarian-crisis-say-mexico-spain-and-brazil
 
-### 2. Police use gas and rubber bullets on activists at beagle facility in Wisconsin [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Law enforcement rebuffs protesters at breeding and biomedical research farm amid attempt to remove dogs A chaotic scene unfolded Saturday at a beagle breeding and biomedical research facility in Wisconsin as about 1,000 animal rights…
-
-Link: https://www.theguardian.com/us-news/2026/apr/18/wisconsin-animal-activists-beagles
-
-### 3. FBI’s Kash Patel denies excess drinking amid officials’ US security concerns [10/10]
+### 2. FBI’s Kash Patel denies excess drinking amid officials’ US security concerns [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -45,7 +36,7 @@ Agency director threatens to sue Atlantic for report citing allegations from two
 
 Link: https://www.theguardian.com/us-news/2026/apr/18/fbi-kash-patel-excess-drinking
 
-### 4. Judge rules Trump administration violated the First Amendment in fight against ICE-tracking [10/10]
+### 3. Judge rules Trump administration violated the First Amendment in fight against ICE-tracking [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -54,7 +45,7 @@ Jorge L. Alonso, a federal district court judge for the Northern District of Ill
 
 Link: https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking
 
-### 5. ICE deported 174 Daca recipients through most of last year, agency head says in letter [10/10]
+### 4. ICE deported 174 Daca recipients through most of last year, agency head says in letter [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -63,14 +54,23 @@ So-called Dreamers – undocumented immigrants who arrived as children – were 
 
 Link: https://www.theguardian.com/us-news/2026/apr/18/ice-deportations-dreamers-daca
 
-### 6. Trump signs order fast tracking review of psychedelics for mental health disorders [9/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
+### 5. Why are Harvard’s slavery researchers quitting or being fired? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-President endorses psilocybin and ibogaine: "Can I have some, please?"
+The school’s $100m project to examine its slave ownership in Antigua is mired in controversy as academics allege obstruction Christopher Newman remembers seeing campus police officers as he walked into a human resources office at Harvard…
 
-Link: https://www.npr.org/2026/04/18/nx-s1-5789859/psychedelic-treatments-mental-health
+Link: https://www.theguardian.com/news/ng-interactive/2026/apr/18/harvard-university-antigua-slavery-history
+
+### 6. More than 20 arrested over Queensland’s controversial ‘from the river to the sea’ laws during weekend of protests [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Activists vow to challenge laws in the high court after a weekend of mass protests across Brisbane Get our breaking news email , free app or daily news podcast Pro-Palestinan activists have vowed to challenge new Queensland laws banning…
+
+Link: https://www.theguardian.com/australia-news/2026/apr/18/multiple-protestors-charged-under-queenslands-from-the-river-to-the-sea-ban-ntwnfb
 
 ### 7. Clair Obscur: Expedition 33 takes Best Game award at 2026 BAFTA Games Awards but shares spotlight with Dispatch with 3 wins each [9/10]
 **Source:** Eurogamer  
@@ -90,16 +90,7 @@ Construction was stopped after suit challenged president’s authority to raze E
 
 Link: https://www.theguardian.com/us-news/2026/apr/18/trump-administration-white-house-ballroom
 
-### 9. Iran closes strait of Hormuz again ‘until US lifts blockade’ [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-IRGC reportedly fires on tanker as it tries to pass through strait during brief window when shipping lane had reopened Analysis: Trump and Tehran’s series of mismanaged posts stall progress towards peace Iranian officials say they have…
-
-Link: https://www.theguardian.com/world/2026/apr/18/iran-closes-strait-of-hormuz-again-until-us-lifts-blockade
-
-### 10. The RAM shortage could last years [8/10]
+### 9. The RAM shortage could last years [8/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -107,6 +98,15 @@ Link: https://www.theguardian.com/world/2026/apr/18/iran-closes-strait-of-hormuz
 According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030.
 
 Link: https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years
+
+### 10. Trump signs order fast tracking review of psychedelics for mental health disorders [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+President endorses psilocybin and ibogaine: "Can I have some, please?"
+
+Link: https://www.npr.org/2026/04/18/nx-s1-5789859/psychedelic-treatments-mental-health
 
 ### 11. Babies Born from Dead Parents Will Increase with New Tech. Are We Ready? [8/10]
 **Source:** 404 Media  
@@ -137,41 +137,41 @@ Link: https://www.eurogamer.net/slay-the-spire-2-roadmap-suggests-we-wont-get-ma
 
 ## YouTube
 
-### James Wolff was a spy. Now, he's writing about them [9/10]
+### Meet Linh Mai, the National Zoo's first baby elephant in 25 years [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-There’s keeping a low profile and then there’s author James Wolff. Not his real name. It's a pseudonym. James Wolff had a career as a British intelligence officer. Now, he writes about them.
+The Smithsonian Zoo in Washington, D.C., says it will introduce a baby asian elephant calf to the public next Wednesday, in honor of Earth Day. The baby female, named Linh Mai, was born on Feb. 2.
 
-Link: https://www.youtube.com/watch?v=5J4QKLCdQhw
+Link: https://www.youtube.com/watch?v=cbJAN6-r4Mo
 
-### Will Sony Offer Any Way To Play Physical Games On Digital Devices? [9/10]
+### New York City Mayor Zohran Mamdani explains his relationship with the President [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+New York City Mayor Zohran Mamdani recently marked his first 100 days in office. In that time, he's met and spoken with President Trump on a few different occasions.
+
+Link: https://www.youtube.com/watch?v=DSnNvYzykfk
+
+### Path Tracing Set To Get Faster - Nvidia GDC Presentation Explained [8/10]
 **Creator:** Digital Foundry  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CeSzzupGe60 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/tDiIpyKXSjU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
-Link: https://www.youtube.com/watch?v=Nt9yfYQfcl0
+Link: https://www.youtube.com/watch?v=J2TLPswBTYY
 
-### The Problem With Trilogies | Windbreaker Podcast [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
-
-Link: https://www.youtube.com/watch?v=xa1MUi3kZtg
-
-### California bald eagles welcome new eaglets over Easter weekend [8/10]
-**Creator:** NPR  
+### DeepMind’s New AI: A Gift To Humanity [8/10]
+**Creator:** Two Minute Papers  
 **Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-Two long-awaited baby eaglets have hatched in a nest east of Los Angeles. Tens of thousands of fans from around the world watched on a livestream.
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Links: https://deepmind.google/models/gemma/gemma-4/ https://ai.google.dev/gemma/docs/core/model_card_4 Fine tuning with Matt Mireles: https://x.
 
-Link: https://www.youtube.com/watch?v=abBGDjaXhKg
+Link: https://www.youtube.com/watch?v=Sk9tvyRSCgY
 
 ## Entertainment Recommendations
 
@@ -198,20 +198,20 @@ Link: https://www.youtube.com/watch?v=abBGDjaXhKg
 
 ## Trailers / Previews
 
-### what could go wrong? BEEF S2 premieres April 16. [9/10]
-**Source:** Netflix  
+### She knows better than to trust him, but she doesn't have a choice. #CriminalRecord — April 22 [9/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-Starring Carey Mulligan, Oscar Isaac, Charles Melton, and Cailee Spaeny. And guest starring Youn Yuh-jung and Song Kang-ho. Watch on Netflix: https://www.netflix.
+Peter Capaldi and Cush Jumbo return for Criminal Record Season 2 on April 22. https://apple.
 
-Link: https://www.youtube.com/watch?v=y3_CQtJHFBs
+Link: https://www.youtube.com/watch?v=JjhIKytKxx0
 
-### 💥 CHOOSE YOUR FIGHTER 💥 #AvatarTheLastAirbender Season 2 premieres June 25, only on #Netflix [9/10]
-**Source:** Netflix  
+### Sounds ominous. #WidowsBay — Premieres April 29 [8/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-💥 CHOOSE YOUR FIGHTER 💥 #AvatarTheLastAirbender Season 2 premieres June 25, only on #Netflix #Shorts #ATLA Watch on Netflix: https://www.netflix.
+From creator Katie Dippold and director Hiro Murai, Matthew Rhys stars in Widow’s Bay, a new original series coming April 29 to Apple TV. https://apple.
 
-Link: https://www.youtube.com/watch?v=UazTQGcPSyU
+Link: https://www.youtube.com/watch?v=lK4kdm0V5Sw
