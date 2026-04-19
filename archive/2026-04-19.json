@@ -1,11 +1,21 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-19T01:36:40.444389Z",
-  "generatedAtDisplay": "2026-04-18 09:36 PM EDT",
+  "generatedAt": "2026-04-19T05:00:01.536022Z",
+  "generatedAtDisplay": "2026-04-19 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are Police use gas and rubber bullets on activists at beagle facility in Wisconsin, Jon Ossoff calls out ‘Mar-a-Lago mafia’ amid presidential bid rumors, and Investigators examine whether Ukraine terrorist attack was directed by Russia.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Science / health, Games / criticism. The strongest items in this run are Sincere dialogue needed to ease Cuba’s ‘grave humanitarian crisis’, say Mexico, Spain and Brazil, Police use gas and rubber bullets on activists at beagle facility in Wisconsin, and FBI’s Kash Patel denies excess drinking amid officials’ US security concerns.",
   "mainItems": [
+    {
+      "title": "Sincere dialogue needed to ease Cuba’s ‘grave humanitarian crisis’, say Mexico, Spain and Brazil",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/apr/19/sincere-dialogue-needed-to-ease-cubas-grave-humanitarian-crisis-say-mexico-spain-and-brazil",
+      "published": "2026-04-19T02:26:17+00:00",
+      "summary": "In joint statement, the three countries call for lasting solution to crisis, without explicitly mentioning the US and its oil blockade Mexico, Spain and Brazil have voiced concern about the “dramatic situation” in Cuba, which has faced…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Police use gas and rubber bullets on activists at beagle facility in Wisconsin",
       "source": "The Guardian US",
@@ -13,26 +23,6 @@
       "url": "https://www.theguardian.com/us-news/2026/apr/18/wisconsin-animal-activists-beagles",
       "published": "2026-04-18T23:59:52+00:00",
       "summary": "Law enforcement rebuffs protesters at breeding and biomedical research farm amid attempt to remove dogs A chaotic scene unfolded Saturday at a beagle breeding and biomedical research facility in Wisconsin as about 1,000 animal rights…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Jon Ossoff calls out ‘Mar-a-Lago mafia’ amid presidential bid rumors",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/18/jon-ossoff-fiery-speech-presidential-rumors",
-      "published": "2026-04-18T22:13:23+00:00",
-      "summary": "Georgia senator says Americans will pay for Trump’s Iran war, and family’s corruption, with child and health care cuts At a campaign rally in Augusta, Georgia, on Saturday, the Democratic senator Jon Ossoff mocked Donald Trump ’s rosy…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Investigators examine whether Ukraine terrorist attack was directed by Russia",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/apr/18/terrorist-attack-kyiv-ukraine",
-      "published": "2026-04-18T20:19:53+00:00",
-      "summary": "The gunman, who killed six people in Kyiv before police shot him dead, was a Ukrainian citizen born in Moscow Ukrainian investigators are examining whether a terrorist attack in Kyiv was directed by Moscow after a man shot dead six people…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -67,14 +57,24 @@
       "score": 10
     },
     {
-      "title": "Why are Harvard’s slavery researchers quitting or being fired?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/apr/18/harvard-university-antigua-slavery-history",
-      "published": "2026-04-18T10:00:11+00:00",
-      "summary": "The school’s $100m project to examine its slave ownership in Antigua is mired in controversy as academics allege obstruction Christopher Newman remembers seeing campus police officers as he walked into a human resources office at Harvard…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "Trump signs order fast tracking review of psychedelics for mental health disorders",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/04/18/nx-s1-5789859/psychedelic-treatments-mental-health",
+      "published": "2026-04-18T18:56:06+00:00",
+      "summary": "President endorses psilocybin and ibogaine: \"Can I have some, please?\"",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9
+    },
+    {
+      "title": "Clair Obscur: Expedition 33 takes Best Game award at 2026 BAFTA Games Awards but shares spotlight with Dispatch with 3 wins each",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/clair-obscur-expedition-33-takes-best-game-award-at-2026-bafta-games-awards-but-shares-spotlight-with-dispatch-with-3-wins-each",
+      "published": "2026-04-18T16:09:34+00:00",
+      "summary": "Clair Obscur: Expedition 33 has added another trophy to its groaning cabinet of accolades – Best Game at 2026 BAFTA Games Awards. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "Trump administration cleared to continue construction of White House ballroom, court rules",
@@ -87,6 +87,16 @@
       "score": 9
     },
     {
+      "title": "Iran closes strait of Hormuz again ‘until US lifts blockade’",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/apr/18/iran-closes-strait-of-hormuz-again-until-us-lifts-blockade",
+      "published": "2026-04-19T04:29:09+00:00",
+      "summary": "IRGC reportedly fires on tanker as it tries to pass through strait during brief window when shipping lane had reopened Analysis: Trump and Tehran’s series of mismanaged posts stall progress towards peace Iranian officials say they have…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
+    },
+    {
       "title": "The RAM shortage could last years",
       "source": "The Verge",
       "category": "AI / computing",
@@ -94,16 +104,6 @@
       "published": "2026-04-18T21:08:45+00:00",
       "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
-    },
-    {
-      "title": "I adored Pokémon as a child. Now I collect critters of a different kind in a hobby I’m uniquely suited to – birdwatching | Jayce Carrano",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/19/birdwatching-hobby-pokemon-generation",
-      "published": "2026-04-18T20:00:22+00:00",
-      "summary": "Every player has experienced that fierce loyalty to one pocket monster or another.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 8
     },
     {
@@ -127,13 +127,13 @@
       "score": 8
     },
     {
-      "title": "She invited her friends to come together to make her casket",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/18/nx-s1-5786831/dying-terminally-ill-casket-weaving",
-      "published": "2026-04-18T10:00:00+00:00",
-      "summary": "Friends gathered at a weaver's studio in Massachusetts to help MaddyChristine Hope Brokopp make her casket.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Slay the Spire 2 roadmap suggests we won't get matchmaking but does promise \"whimsy\" – here's what's new",
+      "source": "Eurogamer",
+      "category": "Games / design",
+      "url": "https://www.eurogamer.net/slay-the-spire-2-roadmap-suggests-we-wont-get-matchmaking-but-does-promise-whimsy-heres-whats-new",
+      "published": "2026-04-18T14:39:24+00:00",
+      "summary": "It's been a little more than a month since Mega Crit's hugely anticipated sequel Slay the Spire 2 released in early access, but already the team is on the \"road to version 1.",
+      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
       "score": 7
     }
   ],
@@ -283,6 +283,6 @@
     "mainCount": 13,
     "youtubeCount": 4,
     "trailerCount": 2,
-    "sourceCount": 9
+    "sourceCount": 10
   }
 }

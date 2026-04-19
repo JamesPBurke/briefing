@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-19T01:36:40.444389Z
+Generated: 2026-04-19T05:00:01.536022Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are Police use gas and rubber bullets on activists at beagle facility in Wisconsin, Jon Ossoff calls out ‘Mar-a-Lago mafia’ amid presidential bid rumors, and Investigators examine whether Ukraine terrorist attack was directed by Russia.
+Today's sweep leans toward Democracy / press freedom, Science / health, Games / criticism. The strongest items in this run are Sincere dialogue needed to ease Cuba’s ‘grave humanitarian crisis’, say Mexico, Spain and Brazil, Police use gas and rubber bullets on activists at beagle facility in Wisconsin, and FBI’s Kash Patel denies excess drinking amid officials’ US security concerns.
 
 ## Briefing
 
@@ -18,7 +18,16 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Police use gas and rubber bullets on activists at beagle facility in Wisconsin [10/10]
+### 1. Sincere dialogue needed to ease Cuba’s ‘grave humanitarian crisis’, say Mexico, Spain and Brazil [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+In joint statement, the three countries call for lasting solution to crisis, without explicitly mentioning the US and its oil blockade Mexico, Spain and Brazil have voiced concern about the “dramatic situation” in Cuba, which has faced…
+
+Link: https://www.theguardian.com/world/2026/apr/19/sincere-dialogue-needed-to-ease-cubas-grave-humanitarian-crisis-say-mexico-spain-and-brazil
+
+### 2. Police use gas and rubber bullets on activists at beagle facility in Wisconsin [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -27,25 +36,7 @@ Law enforcement rebuffs protesters at breeding and biomedical research farm amid
 
 Link: https://www.theguardian.com/us-news/2026/apr/18/wisconsin-animal-activists-beagles
 
-### 2. Jon Ossoff calls out ‘Mar-a-Lago mafia’ amid presidential bid rumors [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Georgia senator says Americans will pay for Trump’s Iran war, and family’s corruption, with child and health care cuts At a campaign rally in Augusta, Georgia, on Saturday, the Democratic senator Jon Ossoff mocked Donald Trump ’s rosy…
-
-Link: https://www.theguardian.com/us-news/2026/apr/18/jon-ossoff-fiery-speech-presidential-rumors
-
-### 3. Investigators examine whether Ukraine terrorist attack was directed by Russia [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The gunman, who killed six people in Kyiv before police shot him dead, was a Ukrainian citizen born in Moscow Ukrainian investigators are examining whether a terrorist attack in Kyiv was directed by Moscow after a man shot dead six people…
-
-Link: https://www.theguardian.com/world/2026/apr/18/terrorist-attack-kyiv-ukraine
-
-### 4. FBI’s Kash Patel denies excess drinking amid officials’ US security concerns [10/10]
+### 3. FBI’s Kash Patel denies excess drinking amid officials’ US security concerns [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -54,7 +45,7 @@ Agency director threatens to sue Atlantic for report citing allegations from two
 
 Link: https://www.theguardian.com/us-news/2026/apr/18/fbi-kash-patel-excess-drinking
 
-### 5. Judge rules Trump administration violated the First Amendment in fight against ICE-tracking [10/10]
+### 4. Judge rules Trump administration violated the First Amendment in fight against ICE-tracking [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -63,7 +54,7 @@ Jorge L. Alonso, a federal district court judge for the Northern District of Ill
 
 Link: https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking
 
-### 6. ICE deported 174 Daca recipients through most of last year, agency head says in letter [10/10]
+### 5. ICE deported 174 Daca recipients through most of last year, agency head says in letter [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -72,14 +63,23 @@ So-called Dreamers – undocumented immigrants who arrived as children – were 
 
 Link: https://www.theguardian.com/us-news/2026/apr/18/ice-deportations-dreamers-daca
 
-### 7. Why are Harvard’s slavery researchers quitting or being fired? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 6. Trump signs order fast tracking review of psychedelics for mental health disorders [9/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-The school’s $100m project to examine its slave ownership in Antigua is mired in controversy as academics allege obstruction Christopher Newman remembers seeing campus police officers as he walked into a human resources office at Harvard…
+President endorses psilocybin and ibogaine: "Can I have some, please?"
 
-Link: https://www.theguardian.com/news/ng-interactive/2026/apr/18/harvard-university-antigua-slavery-history
+Link: https://www.npr.org/2026/04/18/nx-s1-5789859/psychedelic-treatments-mental-health
+
+### 7. Clair Obscur: Expedition 33 takes Best Game award at 2026 BAFTA Games Awards but shares spotlight with Dispatch with 3 wins each [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Clair Obscur: Expedition 33 has added another trophy to its groaning cabinet of accolades – Best Game at 2026 BAFTA Games Awards. Read more
+
+Link: https://www.eurogamer.net/clair-obscur-expedition-33-takes-best-game-award-at-2026-bafta-games-awards-but-shares-spotlight-with-dispatch-with-3-wins-each
 
 ### 8. Trump administration cleared to continue construction of White House ballroom, court rules [9/10]
 **Source:** The Guardian US  
@@ -90,7 +90,16 @@ Construction was stopped after suit challenged president’s authority to raze E
 
 Link: https://www.theguardian.com/us-news/2026/apr/18/trump-administration-white-house-ballroom
 
-### 9. The RAM shortage could last years [8/10]
+### 9. Iran closes strait of Hormuz again ‘until US lifts blockade’ [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+IRGC reportedly fires on tanker as it tries to pass through strait during brief window when shipping lane had reopened Analysis: Trump and Tehran’s series of mismanaged posts stall progress towards peace Iranian officials say they have…
+
+Link: https://www.theguardian.com/world/2026/apr/18/iran-closes-strait-of-hormuz-again-until-us-lifts-blockade
+
+### 10. The RAM shortage could last years [8/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -98,15 +107,6 @@ Link: https://www.theguardian.com/us-news/2026/apr/18/trump-administration-white
 According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030.
 
 Link: https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years
-
-### 10. I adored Pokémon as a child. Now I collect critters of a different kind in a hobby I’m uniquely suited to – birdwatching | Jayce Carrano [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Every player has experienced that fierce loyalty to one pocket monster or another.
-
-Link: https://www.theguardian.com/commentisfree/2026/apr/19/birdwatching-hobby-pokemon-generation
 
 ### 11. Babies Born from Dead Parents Will Increase with New Tech. Are We Ready? [8/10]
 **Source:** 404 Media  
@@ -126,14 +126,14 @@ Chinese car company NIO is putting up EV battery swapping stations all around th
 
 Link: https://www.npr.org/2026/04/18/nx-s1-5788990/ev-battery-charge-long-china-nio
 
-### 13. She invited her friends to come together to make her casket [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
+### 13. Slay the Spire 2 roadmap suggests we won't get matchmaking but does promise "whimsy" – here's what's new [7/10]
+**Source:** Eurogamer  
+**Category:** Games / design  
+**Why it matters:** Useful if you care about how games actually work as designed experiences.
 
-Friends gathered at a weaver's studio in Massachusetts to help MaddyChristine Hope Brokopp make her casket.
+It's been a little more than a month since Mega Crit's hugely anticipated sequel Slay the Spire 2 released in early access, but already the team is on the "road to version 1.
 
-Link: https://www.npr.org/2026/04/18/nx-s1-5786831/dying-terminally-ill-casket-weaving
+Link: https://www.eurogamer.net/slay-the-spire-2-roadmap-suggests-we-wont-get-matchmaking-but-does-promise-whimsy-heres-whats-new
 
 ## YouTube
 
