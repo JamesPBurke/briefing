@@ -1,11 +1,51 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-19T14:00:01.731129Z",
-  "generatedAtDisplay": "2026-04-19 10:00 AM EDT",
+  "generatedAt": "2026-04-19T18:01:23.305856Z",
+  "generatedAtDisplay": "2026-04-19 02:01 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Democracy / anti-fascism. The strongest items in this run are Harmeet Dhillon: DoJ lawyer a top contender for Trump’s retribution mission, ‘Beloved daughter, sister, cousin, friend’: will D4vd’s arrest for murder bring justice for Celeste Rivas Hernandez?, and Opinion: Accountability Is the Broccoli of Education Reform. States Must Eat More of It.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Mass shooting rampage in Louisiana leaves eight children dead and others wounded, Why Some NYC Schools Are Embracing International Baccalaureate, and Nothing’s modular CMF Headphone Pro are down to their lowest price to date.",
   "mainItems": [
+    {
+      "title": "Mass shooting rampage in Louisiana leaves eight children dead and others wounded",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/19/shreveport-louisiana-mass-shooting",
+      "published": "2026-04-19T16:59:09+00:00",
+      "summary": "Suspect was fatally shot, according to Shreveport police, who say victims included children ranging from 18 months to 14 years Sign up for the Breaking News US email to get newsletter alerts in your inbox At least eight people are dead and…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Why Some NYC Schools Are Embracing International Baccalaureate",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/why-some-nyc-schools-are-embracing-international-baccalaureate/",
+      "published": "2026-04-19T16:30:00+00:00",
+      "summary": "A few years back, a groundswell of Brooklyn parents in District 13 wanted to ditch gifted and talented classes, concerned about sorting and segregating children starting in kindergarten.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Nothing’s modular CMF Headphone Pro are down to their lowest price to date",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal",
+      "published": "2026-04-19T14:21:23+00:00",
+      "summary": "Over the past several years, Nothing’s budget-centric subsidiary, CMF, has built a reputation for producing attractive, inexpensive products with features often reserved for gadgets that cost twice the price.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Oklahoma principal who disarmed gun-wielding intruder crowned prom king",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/apr/19/oklahoma-principal-disarmed-intruder-prom-king",
+      "published": "2026-04-19T13:44:11+00:00",
+      "summary": "Kirk Moore, who was shot while disarming the attacker, received the honor at Pauls Valley high school on Friday Students at an Oklahoma high school crowned their principal prom king after he charged, disarmed and was shot by an armed…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
     {
       "title": "Harmeet Dhillon: DoJ lawyer a top contender for Trump’s retribution mission",
       "source": "The Guardian US",
@@ -37,17 +77,7 @@
       "score": 10
     },
     {
-      "title": "‘I don’t want to waste the gas’: Uber and Lyft drivers reeling as fuel prices soar",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/2026/apr/19/uber-lyft-drivers-gas-prices",
-      "published": "2026-04-19T10:00:39+00:00",
-      "summary": "Drivers face dilemma of driving more or cutting back – and support from ride-share giants decried as ‘slap in the face’ Drivers for Uber and Lyft across the US are spending hundreds more dollars on fuel each month after the US-Israel war…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Michigan gas station clerk saves teen from alleged kidnapper after she whispers ‘help’",
+      "title": "Michigan gas station clerk saves teen from alleged kidnapper after she mouths ‘help’",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/us-news/2026/apr/19/michigan-gas-station-clerk-saves-teen",
@@ -57,212 +87,59 @@
       "score": 10
     },
     {
-      "title": "School choice is booming in Iowa. Are students better off?",
-      "source": "NPR Health",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/04/19/nx-s1-5683199/education-school-choice-iowa-students-charter-school-cedar-rapids",
-      "published": "2026-04-19T09:00:00+00:00",
-      "summary": "With school choice programs ascendant not just in Iowa but across the U.S., Cedar Rapids offers a preview of who wins and who loses when education meets the free market.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "French director of Nazi collaborator film rejects ‘historical gaslighting’ claims",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/apr/19/xavier-giannoli-nazi-collaborator-film-les-rayons-et-les-ombres-historical-gaslighting-claims",
-      "published": "2026-04-19T04:00:31+00:00",
-      "summary": "Xavier Giannoli says criticism that Les Rayons et les Ombres invites sympathy for characters is ‘profoundly dishonest’ The director of a box office hit film about Nazi collaboration and its Oscar-winning star have described criticisms they…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Judge rules Trump administration violated the First Amendment in fight against ICE-tracking",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking",
-      "published": "2026-04-18T16:42:25+00:00",
-      "summary": "Jorge L. Alonso, a federal district court judge for the Northern District of Illinois, said that the Trump Administration violated the First Amendment when it pressured Facebook and Apple to remove ICE-tracking groups and apps.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Middle East crisis live: Trump says talks to resume, and warns US will ‘knock out’ every power plant if Iran doesn’t accept deal",
+      "title": "Middle East crisis live: US officials to travel to Pakistan for talks as Trump warns US will ‘knock out’ every power plant if Iran doesn’t accept deal",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
       "url": "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel",
-      "published": "2026-04-19T13:52:15+00:00",
+      "published": "2026-04-19T17:27:31+00:00",
       "summary": "The US president said negotiators would head to Pakistan as Iran pledged to keep the strait of Hormuz closed until the US naval blockade is lifted Full report: Iran closes strait of Hormuz again ‘until US lifts blockade’ UN…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Clair Obscur: Expedition 33 takes Best Game award at 2026 BAFTA Games Awards but shares spotlight with Dispatch with 3 wins each",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/clair-obscur-expedition-33-takes-best-game-award-at-2026-bafta-games-awards-but-shares-spotlight-with-dispatch-with-3-wins-each",
-      "published": "2026-04-18T16:09:34+00:00",
-      "summary": "Clair Obscur: Expedition 33 has added another trophy to its groaning cabinet of accolades – Best Game at 2026 BAFTA Games Awards. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Trump energy secretary says gas prices might not drop back under $3 a gallon until 2027",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/19/trump-energy-secretary-chris-wright-gas-prices",
+      "published": "2026-04-19T15:54:19+00:00",
+      "summary": "Chris Wright says ‘I don’t know’ when asked about lower cost of gas as average price soars to $4 a gallon in US Chris Wright, the Trump administration ’s energy secretary, acknowledged Sunday that it might not be until 2027 before US gas…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
-      "title": "I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like",
-      "source": "Ars Technica",
+      "title": "Falling fertility, debt and AI: is the US headed toward a population crisis?",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/business/2026/apr/19/us-population-fertility-rate",
+      "published": "2026-04-19T11:00:47+00:00",
+      "summary": "Americans having fewer kids plus an ageing population could be a recipe for disaster that further erodes social stability Remember environmentalist Paul Ehrlich’s 1960s-vintage prediction about how overpopulation would deplete the Earth’s…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "The RAM shortage could last years",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/science/2026/04/ive-fired-one-of-americas-most-powerful-lasers-heres-what-a-shot-day-looks-like/",
-      "published": "2026-04-19T11:17:28+00:00",
-      "summary": "The laser was used to study the physics of stellar interiors and fusion energy, among other things.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+      "published": "2026-04-18T21:08:45+00:00",
+      "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 8
     },
     {
-      "title": "Trump signs order fast tracking review of psychedelics for mental health disorders",
+      "title": "Why nearly every farmer who grows these chile peppers is a woman",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/18/nx-s1-5789859/psychedelic-treatments-mental-health",
-      "published": "2026-04-18T18:56:06+00:00",
-      "summary": "President endorses psilocybin and ibogaine: \"Can I have some, please?\"",
+      "url": "https://www.npr.org/2026/04/19/g-s1-116759/red-hot-peppers-women-farmers-india",
+      "published": "2026-04-19T11:16:30+00:00",
+      "summary": "Chile peppers are a traditional part of Indian cuisine — and a key crop for women farmers. They say it's too demanding for men. \"In spite of the challenges,\" says one, \"we've found freedom.\"",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Slay the Spire 2 roadmap suggests we won't get matchmaking but does promise \"whimsy\" – here's what's new",
-      "source": "Eurogamer",
-      "category": "Games / design",
-      "url": "https://www.eurogamer.net/slay-the-spire-2-roadmap-suggests-we-wont-get-matchmaking-but-does-promise-whimsy-heres-whats-new",
-      "published": "2026-04-18T14:39:24+00:00",
-      "summary": "It's been a little more than a month since Mega Crit's hugely anticipated sequel Slay the Spire 2 released in early access, but already the team is on the \"road to version 1.",
-      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
       "score": 7
     }
   ],
-  "youtube": [
-    {
-      "title": "Meet Linh Mai, the National Zoo's first baby elephant in 25 years",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=cbJAN6-r4Mo",
-      "published": "2026-04-18T15:01:00+00:00",
-      "summary": "The Smithsonian Zoo in Washington, D.C., says it will introduce a baby asian elephant calf to the public next Wednesday, in honor of Earth Day. The baby female, named Linh Mai, was born on Feb. 2.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "New York City Mayor Zohran Mamdani explains his relationship with the President",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=DSnNvYzykfk",
-      "published": "2026-04-17T17:00:30+00:00",
-      "summary": "New York City Mayor Zohran Mamdani recently marked his first 100 days in office. In that time, he's met and spoken with President Trump on a few different occasions.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Path Tracing Set To Get Faster - Nvidia GDC Presentation Explained",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=J2TLPswBTYY",
-      "published": "2026-04-17T15:00:30+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/tDiIpyKXSjU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "DeepMind’s New AI: A Gift To Humanity",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=Sk9tvyRSCgY",
-      "published": "2026-04-16T17:44:48+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Links: https://deepmind.google/models/gemma/gemma-4/ https://ai.google.dev/gemma/docs/core/model_card_4 Fine tuning with Matt Mireles: https://x.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "She knows better than to trust him, but she doesn't have a choice. #CriminalRecord — April 22",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=JjhIKytKxx0",
-      "published": "2026-04-18T16:59:47+00:00",
-      "summary": "Peter Capaldi and Cush Jumbo return for Criminal Record Season 2 on April 22. https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Sounds ominous. #WidowsBay — Premieres April 29",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=lK4kdm0V5Sw",
-      "published": "2026-04-17T21:59:55+00:00",
-      "summary": "From creator Katie Dippold and director Hiro Murai, Matthew Rhys stars in Widow’s Bay, a new original series coming April 29 to Apple TV. https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Looks promising"
-    }
-  ],
-  "recommendations": {
-    "new": [
-      {
-        "title": "Scavengers Reign",
-        "why": "Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF."
-      },
-      {
-        "title": "Sugar",
-        "why": "Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap."
-      },
-      {
-        "title": "The Lazarus Project",
-        "why": "Time-loop espionage, moral pressure, and speculative plotting — very plausible fit."
-      },
-      {
-        "title": "Bodies",
-        "why": "Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling."
-      }
-    ],
-    "older": [
-      {
-        "title": "Counterpart",
-        "why": "Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence."
-      },
-      {
-        "title": "Patriot",
-        "why": "Dry, strange, melancholy spy storytelling with a very distinct voice."
-      },
-      {
-        "title": "Utopia",
-        "why": "Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly."
-      },
-      {
-        "title": "Rubicon",
-        "why": "A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere."
-      }
-    ],
-    "shared": [
-      {
-        "title": "Bad Sisters",
-        "why": "Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy."
-      },
-      {
-        "title": "Detectorists",
-        "why": "Gentle, funny, humane, and specific — a softer shared-watch possibility."
-      },
-      {
-        "title": "Astrid et Raphaëlle",
-        "why": "French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you."
-      },
-      {
-        "title": "Somebody Somewhere",
-        "why": "A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work."
-      }
-    ]
-  },
+  "youtube": [],
+  "trailers": [],
+  "recommendations": {},
   "highlights": [
     {
       "title": "A.I. Is Prompting an Evolution, Not Extinction, for Coders",
@@ -281,8 +158,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 4,
-    "trailerCount": 2,
-    "sourceCount": 10
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 4
   }
 }
