@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-19T01:34:39.012815Z
+Generated: 2026-04-19T01:35:22.419151Z
 
 Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are Police use gas and rubber bullets on activists at beagle facility in Wisconsin, Jon Ossoff calls out ‘Mar-a-Lago mafia’ amid presidential bid rumors, and Investigators examine whether Ukraine terrorist attack was directed by Russia.
 
