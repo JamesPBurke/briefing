@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-19T09:00:35.194203Z
+Generated: 2026-04-19T14:00:01.731129Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Sincere dialogue needed to ease Cuba’s ‘grave humanitarian crisis’, say Mexico, Spain and Brazil, FBI’s Kash Patel denies excess drinking amid officials’ US security concerns, and Judge rules Trump administration violated the First Amendment in fight against ICE-tracking.
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Democracy / anti-fascism. The strongest items in this run are Harmeet Dhillon: DoJ lawyer a top contender for Trump’s retribution mission, ‘Beloved daughter, sister, cousin, friend’: will D4vd’s arrest for murder bring justice for Celeste Rivas Hernandez?, and Opinion: Accountability Is the Broccoli of Education Reform. States Must Eat More of It.
 
 ## Briefing
 
@@ -18,25 +18,70 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Sincere dialogue needed to ease Cuba’s ‘grave humanitarian crisis’, say Mexico, Spain and Brazil [10/10]
+### 1. Harmeet Dhillon: DoJ lawyer a top contender for Trump’s retribution mission [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-In joint statement, the three countries call for lasting solution to crisis, without explicitly mentioning the US and its oil blockade Mexico, Spain and Brazil have voiced concern about the “dramatic situation” in Cuba, which has faced…
+Pugilistic presence has laid waste to civil rights decision – her take-no-prisoners approach has alarmed legal experts but earned president’s plaudits When Donald Trump abruptly fired Pam Bondi earlier this month, he made it clear that an…
 
-Link: https://www.theguardian.com/world/2026/apr/19/sincere-dialogue-needed-to-ease-cubas-grave-humanitarian-crisis-say-mexico-spain-and-brazil
+Link: https://www.theguardian.com/us-news/2026/apr/19/harmeet-dhillon-trump
 
-### 2. FBI’s Kash Patel denies excess drinking amid officials’ US security concerns [10/10]
+### 2. ‘Beloved daughter, sister, cousin, friend’: will D4vd’s arrest for murder bring justice for Celeste Rivas Hernandez? [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Agency director threatens to sue Atlantic for report citing allegations from two dozen current and former colleagues The FBI director, Kash Patel, is denying allegations detailed in a new report that he drinks to excess and has been…
+After months of investigation, the singer was arrested on Thursday in a shocking case that has gripped Los Angeles The tragic case of Celeste Rivas Hernandez, the teenager found dead in the trunk of a Tesla belonging to the alt-pop singer…
 
-Link: https://www.theguardian.com/us-news/2026/apr/18/fbi-kash-patel-excess-drinking
+Link: https://www.theguardian.com/us-news/2026/apr/19/d4vd-arrest-celeste-rivas-hernandez
 
-### 3. Judge rules Trump administration violated the First Amendment in fight against ICE-tracking [10/10]
+### 3. Opinion: Accountability Is the Broccoli of Education Reform. States Must Eat More of It [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+In education, sometimes the most important things are the least glamorous. Student assessment and school accountability rarely make headlines the way new spending proposals or sweeping initiatives do. No fireworks. No standing ovations.
+
+Link: https://www.the74million.org/article/accountability-is-the-broccoli-of-education-reform-states-must-eat-more-of-it/
+
+### 4. ‘I don’t want to waste the gas’: Uber and Lyft drivers reeling as fuel prices soar [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Drivers face dilemma of driving more or cutting back – and support from ride-share giants decried as ‘slap in the face’ Drivers for Uber and Lyft across the US are spending hundreds more dollars on fuel each month after the US-Israel war…
+
+Link: https://www.theguardian.com/business/2026/apr/19/uber-lyft-drivers-gas-prices
+
+### 5. Michigan gas station clerk saves teen from alleged kidnapper after she whispers ‘help’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+In Hamtramck, Abdulrahman Abohatem placed himself between 16-year-old girl and man before police arrest A gasoline station clerk who came to a suburban Detroit girl’s defense when she entered his store and mouthed the word “help”…
+
+Link: https://www.theguardian.com/us-news/2026/apr/19/michigan-gas-station-clerk-saves-teen
+
+### 6. School choice is booming in Iowa. Are students better off? [10/10]
+**Source:** NPR Health  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+With school choice programs ascendant not just in Iowa but across the U.S., Cedar Rapids offers a preview of who wins and who loses when education meets the free market.
+
+Link: https://www.npr.org/2026/04/19/nx-s1-5683199/education-school-choice-iowa-students-charter-school-cedar-rapids
+
+### 7. French director of Nazi collaborator film rejects ‘historical gaslighting’ claims [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Xavier Giannoli says criticism that Les Rayons et les Ombres invites sympathy for characters is ‘profoundly dishonest’ The director of a box office hit film about Nazi collaboration and its Oscar-winning star have described criticisms they…
+
+Link: https://www.theguardian.com/film/2026/apr/19/xavier-giannoli-nazi-collaborator-film-les-rayons-et-les-ombres-historical-gaslighting-claims
+
+### 8. Judge rules Trump administration violated the First Amendment in fight against ICE-tracking [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -45,34 +90,16 @@ Jorge L. Alonso, a federal district court judge for the Northern District of Ill
 
 Link: https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking
 
-### 4. ICE deported 174 Daca recipients through most of last year, agency head says in letter [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-So-called Dreamers – undocumented immigrants who arrived as children – were allowed to stay in US under Obama-era program From January through September 2025, US Immigration and Customs Enforcement ( ICE ) deported 174 people who were…
-
-Link: https://www.theguardian.com/us-news/2026/apr/18/ice-deportations-dreamers-daca
-
-### 5. Why are Harvard’s slavery researchers quitting or being fired? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The school’s $100m project to examine its slave ownership in Antigua is mired in controversy as academics allege obstruction Christopher Newman remembers seeing campus police officers as he walked into a human resources office at Harvard…
-
-Link: https://www.theguardian.com/news/ng-interactive/2026/apr/18/harvard-university-antigua-slavery-history
-
-### 6. More than 20 arrested over Queensland’s controversial ‘from the river to the sea’ laws during weekend of protests [9/10]
+### 9. Middle East crisis live: Trump says talks to resume, and warns US will ‘knock out’ every power plant if Iran doesn’t accept deal [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Activists vow to challenge laws in the high court after a weekend of mass protests across Brisbane Get our breaking news email , free app or daily news podcast Pro-Palestinan activists have vowed to challenge new Queensland laws banning…
+The US president said negotiators would head to Pakistan as Iran pledged to keep the strait of Hormuz closed until the US naval blockade is lifted Full report: Iran closes strait of Hormuz again ‘until US lifts blockade’ UN…
 
-Link: https://www.theguardian.com/australia-news/2026/apr/18/multiple-protestors-charged-under-queenslands-from-the-river-to-the-sea-ban-ntwnfb
+Link: https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel
 
-### 7. Clair Obscur: Expedition 33 takes Best Game award at 2026 BAFTA Games Awards but shares spotlight with Dispatch with 3 wins each [9/10]
+### 10. Clair Obscur: Expedition 33 takes Best Game award at 2026 BAFTA Games Awards but shares spotlight with Dispatch with 3 wins each [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -81,25 +108,16 @@ Clair Obscur: Expedition 33 has added another trophy to its groaning cabinet of 
 
 Link: https://www.eurogamer.net/clair-obscur-expedition-33-takes-best-game-award-at-2026-bafta-games-awards-but-shares-spotlight-with-dispatch-with-3-wins-each
 
-### 8. Trump administration cleared to continue construction of White House ballroom, court rules [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Construction was stopped after suit challenged president’s authority to raze East Wing without congressional approval The Trump administration can continue building a $400m White House ballroom at the site of the former East Wing, a US…
-
-Link: https://www.theguardian.com/us-news/2026/apr/18/trump-administration-white-house-ballroom
-
-### 9. The RAM shortage could last years [8/10]
-**Source:** The Verge  
+### 11. I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like [8/10]
+**Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030.
+The laser was used to study the physics of stellar interiors and fusion energy, among other things.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years
+Link: https://arstechnica.com/science/2026/04/ive-fired-one-of-americas-most-powerful-lasers-heres-what-a-shot-day-looks-like/
 
-### 10. Trump signs order fast tracking review of psychedelics for mental health disorders [8/10]
+### 12. Trump signs order fast tracking review of psychedelics for mental health disorders [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -107,24 +125,6 @@ Link: https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortag
 President endorses psilocybin and ibogaine: "Can I have some, please?"
 
 Link: https://www.npr.org/2026/04/18/nx-s1-5789859/psychedelic-treatments-mental-health
-
-### 11. Babies Born from Dead Parents Will Increase with New Tech. Are We Ready? [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Reproductive technologies have enabled children to be posthumously conceived from the frozen eggs and sperm of deceased parents, raising legal, ethical, and practical questions.
-
-Link: https://www.404media.co/babies-born-from-dead-parents-will-increase-with-new-tech-are-we-ready/
-
-### 12. Tired of waiting for your EV to charge up? One Chinese company has a novel solution [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Chinese car company NIO is putting up EV battery swapping stations all around the world. NPR took a ride in one car for the experience.
-
-Link: https://www.npr.org/2026/04/18/nx-s1-5788990/ev-battery-charge-long-china-nio
 
 ### 13. Slay the Spire 2 roadmap suggests we won't get matchmaking but does promise "whimsy" – here's what's new [7/10]
 **Source:** Eurogamer  
