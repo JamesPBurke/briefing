@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-20T14:00:01.707031Z",
-  "generatedAtDisplay": "2026-04-20 10:00 AM EDT",
+  "generatedAt": "2026-04-20T15:00:35.096413Z",
+  "generatedAtDisplay": "2026-04-20 11:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
   "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Here's your next batch of Xbox Game Pass games for April, In Moves of the Diamond Hand, the vibes so far are transcendent, and If Windrose isn't quenching your sealord fantasies, maybe carving out your own Libertalia in pirate citybuilder Corsair Cove will.",
@@ -277,6 +277,13 @@
       "url": "https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html",
       "notes": "In an era of agents powered by artificial intelligence, many programmers are barely programming.",
       "addedAt": "2026-04-14T15:24:00Z"
+    },
+    {
+      "title": "Trump’s presidency is what evil looks like: absurd, frightening, cruel",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652",
+      "notes": "Particularly strong Guardian opinion piece, noted for future briefing highlights.",
+      "addedAt": "2026-04-20T15:00:00Z"
     }
   ],
   "stats": {

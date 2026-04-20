@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-20T14:00:01.707031Z
+Generated: 2026-04-20T15:00:35.096413Z
 
 Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Here's your next batch of Xbox Game Pass games for April, In Moves of the Diamond Hand, the vibes so far are transcendent, and If Windrose isn't quenching your sealord fantasies, maybe carving out your own Libertalia in pirate citybuilder Corsair Cove will.
 
@@ -17,6 +17,11 @@ Link: https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.h
 In an era of agents powered by artificial intelligence, many programmers are barely programming.
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
+
+### Trump’s presidency is what evil looks like: absurd, frightening, cruel
+Particularly strong Guardian opinion piece, noted for future briefing highlights.
+
+Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
 ### 1. Here's your next batch of Xbox Game Pass games for April [10/10]
 **Source:** Eurogamer  
