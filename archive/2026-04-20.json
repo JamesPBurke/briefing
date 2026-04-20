@@ -1,11 +1,21 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-20T00:22:34.790858Z",
-  "generatedAtDisplay": "2026-04-19 08:22 PM EDT",
+  "generatedAt": "2026-04-20T05:00:01.750195Z",
+  "generatedAtDisplay": "2026-04-20 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Mass shooting rampage in Louisiana leaves eight children dead and others wounded, Cloud development platform Vercel was hacked, and Harmeet Dhillon: DoJ lawyer a top contender for Trump’s retribution mission.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet, Mass shooting rampage in Louisiana leaves eight children dead and others wounded, and Cloud development platform Vercel was hacked.",
   "mainItems": [
+    {
+      "title": "Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review",
+      "published": "2026-04-20T03:01:29+00:00",
+      "summary": "Keychron's expansive keyboard catalog covers everything from basic full-size mechanical boards to niche layouts like southpaw Alice or a one-handed half-keyboard for gaming.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Mass shooting rampage in Louisiana leaves eight children dead and others wounded",
       "source": "The Guardian US",
@@ -47,16 +57,6 @@
       "score": 10
     },
     {
-      "title": "Michigan gas station clerk saves teen from alleged kidnapper after she mouths ‘help’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/19/michigan-gas-station-clerk-saves-teen",
-      "published": "2026-04-19T09:00:38+00:00",
-      "summary": "In Hamtramck, Abdulrahman Abohatem placed himself between 16-year-old girl and man before police arrest A gasoline station clerk who came to a suburban Detroit girl’s defense when she entered his store and mouthed the word “help”…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "Iowa went all-in on school choice. It's hurting this city's public schools",
       "source": "NPR Health",
       "category": "Democracy / press freedom",
@@ -87,16 +87,6 @@
       "score": 9
     },
     {
-      "title": "Maui residents are rebuilding Lahaina for locals, not tourists: ‘In Hawaii, we take care of one another’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/19/lahaina-maui-rebuild-locals-tourists",
-      "published": "2026-04-19T14:00:44+00:00",
-      "summary": "After deadly 2023 fires, recent storms and ICE raids, Lahaina residents are determined to rebuild the town for their community In March, Hawaii was hit with two back-to-back storms, bringing the worst flooding it’s seen in 20 years .",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
       "title": "Opinion: Accountability Is the Broccoli of Education Reform. States Must Eat More of It",
       "source": "The 74",
       "category": "Education / pedagogy",
@@ -107,12 +97,22 @@
       "score": 9
     },
     {
-      "title": "Iranian American woman arrested in Los Angeles for alleged arms trafficking",
+      "title": "‘I don’t want to waste the gas’: Uber and Lyft drivers reeling as fuel prices soar",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/business/2026/apr/19/uber-lyft-drivers-gas-prices",
+      "published": "2026-04-19T10:00:39+00:00",
+      "summary": "Drivers face dilemma of driving more or cutting back – and support from ride-share giants decried as ‘slap in the face’ Drivers for Uber and Lyft across the US are spending hundreds more dollars on fuel each month after the US-Israel war…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Fire destroys 1,000 ‘stilt’ homes in Malaysia’s Sabah, displacing thousands",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/apr/19/woman-arrested-la-arms-trafficking-iran-africa",
-      "published": "2026-04-19T21:56:30+00:00",
-      "summary": "Federal prosecutor says woman is suspected of dealing weapons to Africa on behalf of Iranian government A California woman was arrested at Los Angeles international airport after allegedly trafficking weapons on behalf of the Iranian…",
+      "url": "https://www.theguardian.com/world/2026/apr/20/fire-destroys-1000-stilt-homes-in-malaysias-sabah-displacing-thousands",
+      "published": "2026-04-20T01:59:16+00:00",
+      "summary": "Blaze struck a ‘water village’ that is home to some of Malaysia’s poorest residents A huge fire destroyed about 1,000 makeshift homes, many of them built on stilts over water, and displaced thousands of people in a coastal village in…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 8
     },

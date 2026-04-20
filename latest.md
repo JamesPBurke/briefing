@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-20T00:22:34.790858Z
+Generated: 2026-04-20T05:00:01.750195Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Mass shooting rampage in Louisiana leaves eight children dead and others wounded, Cloud development platform Vercel was hacked, and Harmeet Dhillon: DoJ lawyer a top contender for Trump’s retribution mission.
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet, Mass shooting rampage in Louisiana leaves eight children dead and others wounded, and Cloud development platform Vercel was hacked.
 
 ## Briefing
 
@@ -18,7 +18,16 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Mass shooting rampage in Louisiana leaves eight children dead and others wounded [10/10]
+### 1. Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Keychron's expansive keyboard catalog covers everything from basic full-size mechanical boards to niche layouts like southpaw Alice or a one-handed half-keyboard for gaming.
+
+Link: https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review
+
+### 2. Mass shooting rampage in Louisiana leaves eight children dead and others wounded [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -27,7 +36,7 @@ Shreveport police say suspect Shamar Elkins, who was fatally shot, killed seven 
 
 Link: https://www.theguardian.com/us-news/2026/apr/19/shreveport-louisiana-mass-shooting
 
-### 2. Cloud development platform Vercel was hacked [10/10]
+### 3. Cloud development platform Vercel was hacked [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -36,7 +45,7 @@ Vercel, a major development platform that hosts and deploys web apps, was compro
 
 Link: https://www.theverge.com/tech/914723/vercel-hacked
 
-### 3. Harmeet Dhillon: DoJ lawyer a top contender for Trump’s retribution mission [10/10]
+### 4. Harmeet Dhillon: DoJ lawyer a top contender for Trump’s retribution mission [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -45,7 +54,7 @@ Pugilistic presence has laid waste to civil rights decision – her take-no-pris
 
 Link: https://www.theguardian.com/us-news/2026/apr/19/harmeet-dhillon-trump
 
-### 4. ‘Beloved daughter, sister, cousin, friend’: will D4vd’s arrest for murder bring justice for Celeste Rivas Hernandez? [10/10]
+### 5. ‘Beloved daughter, sister, cousin, friend’: will D4vd’s arrest for murder bring justice for Celeste Rivas Hernandez? [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -53,15 +62,6 @@ Link: https://www.theguardian.com/us-news/2026/apr/19/harmeet-dhillon-trump
 After months of investigation, the singer was arrested on Thursday in a shocking case that has gripped Los Angeles The tragic case of Celeste Rivas Hernandez, the teenager found dead in the trunk of a Tesla belonging to the alt-pop singer…
 
 Link: https://www.theguardian.com/us-news/2026/apr/19/d4vd-arrest-celeste-rivas-hernandez
-
-### 5. Michigan gas station clerk saves teen from alleged kidnapper after she mouths ‘help’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-In Hamtramck, Abdulrahman Abohatem placed himself between 16-year-old girl and man before police arrest A gasoline station clerk who came to a suburban Detroit girl’s defense when she entered his store and mouthed the word “help”…
-
-Link: https://www.theguardian.com/us-news/2026/apr/19/michigan-gas-station-clerk-saves-teen
 
 ### 6. Iowa went all-in on school choice. It's hurting this city's public schools [10/10]
 **Source:** NPR Health  
@@ -90,16 +90,7 @@ Over the past several years, Nothing’s budget-centric subsidiary, CMF, has bui
 
 Link: https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal
 
-### 9. Maui residents are rebuilding Lahaina for locals, not tourists: ‘In Hawaii, we take care of one another’ [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-After deadly 2023 fires, recent storms and ICE raids, Lahaina residents are determined to rebuild the town for their community In March, Hawaii was hit with two back-to-back storms, bringing the worst flooding it’s seen in 20 years .
-
-Link: https://www.theguardian.com/us-news/2026/apr/19/lahaina-maui-rebuild-locals-tourists
-
-### 10. Opinion: Accountability Is the Broccoli of Education Reform. States Must Eat More of It [9/10]
+### 9. Opinion: Accountability Is the Broccoli of Education Reform. States Must Eat More of It [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -108,14 +99,23 @@ In education, sometimes the most important things are the least glamorous. Stude
 
 Link: https://www.the74million.org/article/accountability-is-the-broccoli-of-education-reform-states-must-eat-more-of-it/
 
-### 11. Iranian American woman arrested in Los Angeles for alleged arms trafficking [8/10]
+### 10. ‘I don’t want to waste the gas’: Uber and Lyft drivers reeling as fuel prices soar [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Drivers face dilemma of driving more or cutting back – and support from ride-share giants decried as ‘slap in the face’ Drivers for Uber and Lyft across the US are spending hundreds more dollars on fuel each month after the US-Israel war…
+
+Link: https://www.theguardian.com/business/2026/apr/19/uber-lyft-drivers-gas-prices
+
+### 11. Fire destroys 1,000 ‘stilt’ homes in Malaysia’s Sabah, displacing thousands [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Federal prosecutor says woman is suspected of dealing weapons to Africa on behalf of Iranian government A California woman was arrested at Los Angeles international airport after allegedly trafficking weapons on behalf of the Iranian…
+Blaze struck a ‘water village’ that is home to some of Malaysia’s poorest residents A huge fire destroyed about 1,000 makeshift homes, many of them built on stilts over water, and displaced thousands of people in a coastal village in…
 
-Link: https://www.theguardian.com/us-news/2026/apr/19/woman-arrested-la-arms-trafficking-iran-africa
+Link: https://www.theguardian.com/world/2026/apr/20/fire-destroys-1000-stilt-homes-in-malaysias-sabah-displacing-thousands
 
 ### 12. Ghost of Yōtei's Hell Mode boss battle difficulty is now live [8/10]
 **Source:** Eurogamer  
