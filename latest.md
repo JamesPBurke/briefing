@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-20T15:00:35.096413Z
+Generated: 2026-04-20T18:02:09.063505Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Here's your next batch of Xbox Game Pass games for April, In Moves of the Diamond Hand, the vibes so far are transcendent, and If Windrose isn't quenching your sealord fantasies, maybe carving out your own Libertalia in pirate citybuilder Corsair Cove will.
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are California Students Author New ‘Digital Wellness’ Bill, Say Phone Bans Fall Short, Humanoid ‘Lightning’ robot smashes the half-marathon record, and My family tried to eat fewer ultra-processed foods for five years. Here’s what we learned.
 
 ## Briefing
 
@@ -23,97 +23,106 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. Here's your next batch of Xbox Game Pass games for April [10/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Microsoft has revealed the next batch of games coming to its Xbox Game Pass subscription service this April, and into next month. Read more
-
-Link: https://www.eurogamer.net/xbox-game-pass-games-april-2026
-
-### 2. In Moves of the Diamond Hand, the vibes so far are transcendent [10/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Cosmo D's latest game Moves of the Diamond Hand is a direct sequel to Betrayal at Club Low, and while it's still in early access with a developing road map, the vibes so far are transcendent.
-
-Link: https://www.eurogamer.net/moves-of-the-diamond-hand-impressions-vibes-so-far-transcendent
-
-### 3. If Windrose isn't quenching your sealord fantasies, maybe carving out your own Libertalia in pirate citybuilder Corsair Cove will [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-As if catching the same briny breeze as early access darling Windrose , unannounced but blatantly obvious Assassin’s Creed: Black Flag Resynced , and, uh, Soulframe , there’s yet more pirates coming in yet more pirate games.
-
-Link: https://www.rockpapershotgun.com/if-windrose-isnt-quenching-your-sealord-fantasies-maybe-carving-out-your-own-libertalia-in-pirate-citybuilder-corsair-cove-will
-
-### 4. US and Mexican officials assigned to cartel case killed in car accident [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Director of state investigation agency among those killed in Chihuahua in operation to destroy clandestine drug labs Two United States officials and another two Mexican officials assigned to combat drug cartel operations died in a car…
-
-Link: https://www.theguardian.com/us-news/2026/apr/20/mexico-car-accident-drug-officials-killed
-
-### 5. Soulframe's latest major update is a broadside of pirate weapons, class abilities and outfits, plus falling alien skytowers [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Pensive and flamboyant action-RPG Soulframe has just received a new update that adds a pirate class, together with rapiers, cutlasses, and a flouncy sailor's outfit.
-
-Link: https://www.rockpapershotgun.com/soulframes-latest-major-update-is-a-broadside-of-pirate-weapons-class-abilities-and-outfits-plus-falling-alien-skytowers
-
-### 6. Sekiro Jet Set Radio Mod adds skateboarding and graffiti to FromSoft's stylish ninja classic [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The Dark Souls trilogy, Elden Ring , and Bloodborne remain the most celebrated and enduring FromSoftware games, yet the far more punishing and agile action of Sekiro shouldn't be forgotten, either.
-
-Link: https://www.eurogamer.net/jet-set-radio-sekiro-shadows-die-twice-mod
-
-### 7. Trump DoJ’s mixed messages bode ill for Epstein victims, experts fear [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Non-appearance of Pam Bondi and remarks from Todd Blanche suggest full accounting may never be revealed In the days since Pam Bondi ’s exit from Donald Trump ’s justice department, Jeffrey Epstein survivors and transparency advocates have…
-
-Link: https://www.theguardian.com/us-news/2026/apr/20/trump-doj-epstein-files-victims
-
-### 8. Preparing to Create with AI: Supporting Teachers at Scale through AI PD Weeks [10/10]
-**Source:** CSTA  
+### 1. California Students Author New ‘Digital Wellness’ Bill, Say Phone Bans Fall Short [10/10]
+**Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Written by Bryan Twarek Artificial intelligence is already reshaping work, civic life, and learning, and it is rapidly entering our...
+After taking a break from social media, Orange County student Elise Choi helped write a bill that would mandate California schools teach digital wellness — a response to growing concerns about how technology is affecting students’ mental…
 
-Link: https://csteachers.org/preparing-to-create-with-ai-supporting-teachers-at-scale-through-ai-pd-weeks/
+Link: https://www.the74million.org/article/california-students-author-new-digital-wellness-bill-say-phone-bans-fall-short/
 
-### 9. Cloud development platform Vercel was hacked [10/10]
+### 2. Humanoid ‘Lightning’ robot smashes the half-marathon record [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data.
+An autonomous scarlet robot named "Lightning" finished a 13-mile race in Beijing on Sunday in just 50 minutes and 26 seconds, less than half the time of last year's fastest robot, which took two hours and 40 minutes.
 
-Link: https://www.theverge.com/tech/914723/vercel-hacked
+Link: https://www.theverge.com/tech/914869/humanoid-robot-half-marathon-record
 
-### 10. Myanmar military regime widens sanitary towel ban, claiming rebels use them for first aid [10/10]
+### 3. My family tried to eat fewer ultra-processed foods for five years. Here’s what we learned [10/10]
 **Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Cutting UPFs from our grocery list was expensive, laborious and time-consuming Grocery shopping looks different these days.
+
+Link: https://www.theguardian.com/global/2026/apr/20/ultra-processed-foods-diet-healthy-eating
+
+### 4. Tesla launches robotaxis in Dallas and Houston, and oops, it’s already unavailable [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Tesla claims to have launched a robotaxi service in Dallas and Houston over the weekend, but so far, online crowdsourcing tools indicate that very few cars are actually available.
+
+Link: https://www.theverge.com/transportation/914823/tesla-robotaxi-houston-dallas-unavailable
+
+### 5. Kash Patel sues the Atlantic over article alleging excessive drinking [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Magazine has stood behind the story, which was written by veteran national security reporter Sarah Fitzpatrick Kash Patel has followed through on a threat to sue the Atlantic and the author of a story the magazine published that included…
+
+Link: https://www.theguardian.com/us-news/2026/apr/20/kash-patel-lawsuit-the-atlantic
+
+### 6. Mother and six children killed in explosion and fire at Pennsylvania home [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Firefighters confirmed that seven people were trapped, but they could not search the building engulfed in flames Sign up for the Breaking News US email to get newsletter alerts in your inbox A mother and six children ranging in age from…
+
+Link: https://www.theguardian.com/us-news/2026/apr/20/pennsylvania-home-explosion
+
+### 7. Assistant Teachers Key to Early Education, Yet State Policies Don’t Reflect That [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Early childhood classrooms are typically led by a pair of teachers. To a child in their care, their roles may be indistinguishable. Both teachers play with them, read to them, sing to them and guide them throughout the day.
+
+Link: https://www.the74million.org/zero2eight/assistant-teachers-key-to-early-education-yet-state-policies-dont-reflect-that/
+
+### 8. Anthropic's Mythos AI model sparks fears of turbocharged hacking [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Cyberdefenses could be exposed faster than fixes could be deployed.
+
+Link: https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/
+
+### 9. Louisiana authorities identify eight children killed in ‘domestic incident’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Gunman, identified as Shamar Elkins, fatally shot the children – including seven of his own – at two addresses Mass shooting rampage in Louisiana leaves eight children dead and others wounded Sign up for the Breaking News US newsletter…
+
+Link: https://www.theguardian.com/us-news/2026/apr/20/shreveport-louisiana-mass-shooting
+
+### 10. Deezer says AI song uploads have nearly overtaken human music [9/10]
+**Source:** The Verge  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Activists say clamp down on period products to target insurgents is gender-based violence and violates rights Myanmar’s military regime is expanding its ban on the distribution of period products, claiming they are being used to treat…
+Deezer says it receives nearly 75,000 AI-generated song submissions to its music streaming platform each day, accounting for about 44 percent of all daily uploads, as reported earlier by TechCrunch.
 
-Link: https://www.theguardian.com/global-development/2026/apr/20/myanmar-military-regime-widens-sanitary-towel-ban-claiming-rebels-use-them-for-first-aid
+Link: https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads
 
-### 11. A mine despoiled the beauty of the rainforest. This Goldman Prize winner took action [8/10]
+### 11. Forbes Prediction Market Gamefies Story About Mass Shooting of 8 Children [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Forbes launched ForbesPredict in January as part of an effort to reverse declining traffic from search engines and keep users on its website longer.
+
+Link: https://www.404media.co/forbes-prediction-market-gamefies-story-about-mass-shooting-of-8-children/
+
+### 12. A mine despoiled the beauty of the rainforest. This Goldman Prize winner took action [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -122,7 +131,7 @@ Link: https://www.theguardian.com/global-development/2026/apr/20/myanmar-militar
 
 Link: https://www.npr.org/2026/04/20/g-s1-117830/goldman-environmental-prize-papua-new-guinea-mining
 
-### 12. A humanoid robot sprints past the human half-marathon world record in Beijing race [8/10]
+### 13. A humanoid robot sprints past the human half-marathon world record in Beijing race [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -130,93 +139,3 @@ Link: https://www.npr.org/2026/04/20/g-s1-117830/goldman-environmental-prize-pap
 The winner from Honor, a Chinese smartphone maker, completed the race in 50 minutes and 26 seconds, running faster than the human world record in a show of China's technological leaps.
 
 Link: https://www.npr.org/2026/04/20/g-s1-118086/humanoid-robot-half-marathon
-
-### 13. Why Journalists Are Going Indie (with Maddy Myers) [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Maddy and Sam get into the launch of Mothership and the importance of owning one's own work.
-
-Link: https://www.404media.co/maddy-myers-mothership-interview/
-
-## YouTube
-
-### Meet Linh Mai, the National Zoo's first baby elephant in 25 years [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The Smithsonian Zoo in Washington, D.C., says it will introduce a baby asian elephant calf to the public next Wednesday, in honor of Earth Day. The baby female, named Linh Mai, was born on Feb. 2.
-
-Link: https://www.youtube.com/watch?v=cbJAN6-r4Mo
-
-### New York City Mayor Zohran Mamdani explains his relationship with the President [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-New York City Mayor Zohran Mamdani recently marked his first 100 days in office. In that time, he's met and spoken with President Trump on a few different occasions.
-
-Link: https://www.youtube.com/watch?v=DSnNvYzykfk
-
-### Path Tracing Set To Get Faster - Nvidia GDC Presentation Explained [8/10]
-**Creator:** Digital Foundry  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/tDiIpyKXSjU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=J2TLPswBTYY
-
-### Iranians seeking to punish the ruling elite are going after the next best thing — their kids [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Iranians seeking to punish the ruling elite are going after the next best thing — their kids.
-
-Link: https://www.youtube.com/watch?v=ruZ2ShdxMYw
-
-## Entertainment Recommendations
-
-### Newer shows that look like a fit
-
-- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
-- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
-- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
-- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
-
-### Older shows you may have missed
-
-- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
-- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
-- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
-- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
-
-### Maggie + James overlap
-
-- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
-- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
-- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
-- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
-
-## Trailers / Previews
-
-### Read between the lines. Chapter Three of #ImperfectWomen — Now Streaming [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Elisabeth Moss, Kerry Washington & Kate Mara are your Imperfect Women, now streaming on Apple TV https://apple.co/_ImperfectWomen A new series starring Elisabeth Moss, Kerry Washington, and Kate Mara.
-
-Link: https://www.youtube.com/watch?v=PfkEp_TJCSs
-
-### Leave the spring cleaning to Nick Offerman. #MargosGotMoneyTroubles is now streaming. [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Margo's Got Money Troubles is now streaming on Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.
-
-Link: https://www.youtube.com/watch?v=sexDW-AauAg

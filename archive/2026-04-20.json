@@ -1,110 +1,120 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-20T15:00:35.096413Z",
-  "generatedAtDisplay": "2026-04-20 11:00 AM EDT",
+  "generatedAt": "2026-04-20T18:02:09.063505Z",
+  "generatedAtDisplay": "2026-04-20 02:02 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Here's your next batch of Xbox Game Pass games for April, In Moves of the Diamond Hand, the vibes so far are transcendent, and If Windrose isn't quenching your sealord fantasies, maybe carving out your own Libertalia in pirate citybuilder Corsair Cove will.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are California Students Author New ‘Digital Wellness’ Bill, Say Phone Bans Fall Short, Humanoid ‘Lightning’ robot smashes the half-marathon record, and My family tried to eat fewer ultra-processed foods for five years. Here’s what we learned.",
   "mainItems": [
     {
-      "title": "Here's your next batch of Xbox Game Pass games for April",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/xbox-game-pass-games-april-2026",
-      "published": "2026-04-20T13:49:43+00:00",
-      "summary": "Microsoft has revealed the next batch of games coming to its Xbox Game Pass subscription service this April, and into next month. Read more",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "In Moves of the Diamond Hand, the vibes so far are transcendent",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/moves-of-the-diamond-hand-impressions-vibes-so-far-transcendent",
-      "published": "2026-04-20T13:22:48+00:00",
-      "summary": "Cosmo D's latest game Moves of the Diamond Hand is a direct sequel to Betrayal at Club Low, and while it's still in early access with a developing road map, the vibes so far are transcendent.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "If Windrose isn't quenching your sealord fantasies, maybe carving out your own Libertalia in pirate citybuilder Corsair Cove will",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/if-windrose-isnt-quenching-your-sealord-fantasies-maybe-carving-out-your-own-libertalia-in-pirate-citybuilder-corsair-cove-will",
-      "published": "2026-04-20T12:31:23+00:00",
-      "summary": "As if catching the same briny breeze as early access darling Windrose , unannounced but blatantly obvious Assassin’s Creed: Black Flag Resynced , and, uh, Soulframe , there’s yet more pirates coming in yet more pirate games.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "US and Mexican officials assigned to cartel case killed in car accident",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/20/mexico-car-accident-drug-officials-killed",
-      "published": "2026-04-20T12:11:25+00:00",
-      "summary": "Director of state investigation agency among those killed in Chihuahua in operation to destroy clandestine drug labs Two United States officials and another two Mexican officials assigned to combat drug cartel operations died in a car…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Soulframe's latest major update is a broadside of pirate weapons, class abilities and outfits, plus falling alien skytowers",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/soulframes-latest-major-update-is-a-broadside-of-pirate-weapons-class-abilities-and-outfits-plus-falling-alien-skytowers",
-      "published": "2026-04-20T11:38:32+00:00",
-      "summary": "Pensive and flamboyant action-RPG Soulframe has just received a new update that adds a pirate class, together with rapiers, cutlasses, and a flouncy sailor's outfit.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Sekiro Jet Set Radio Mod adds skateboarding and graffiti to FromSoft's stylish ninja classic",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/jet-set-radio-sekiro-shadows-die-twice-mod",
-      "published": "2026-04-20T11:19:51+00:00",
-      "summary": "The Dark Souls trilogy, Elden Ring , and Bloodborne remain the most celebrated and enduring FromSoftware games, yet the far more punishing and agile action of Sekiro shouldn't be forgotten, either.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Trump DoJ’s mixed messages bode ill for Epstein victims, experts fear",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/20/trump-doj-epstein-files-victims",
-      "published": "2026-04-20T11:00:54+00:00",
-      "summary": "Non-appearance of Pam Bondi and remarks from Todd Blanche suggest full accounting may never be revealed In the days since Pam Bondi ’s exit from Donald Trump ’s justice department, Jeffrey Epstein survivors and transparency advocates have…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Preparing to Create with AI: Supporting Teachers at Scale through AI PD Weeks",
-      "source": "CSTA",
+      "title": "California Students Author New ‘Digital Wellness’ Bill, Say Phone Bans Fall Short",
+      "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://csteachers.org/preparing-to-create-with-ai-supporting-teachers-at-scale-through-ai-pd-weeks/",
-      "published": "2026-04-20T11:00:00+00:00",
-      "summary": "Written by Bryan Twarek Artificial intelligence is already reshaping work, civic life, and learning, and it is rapidly entering our...",
+      "url": "https://www.the74million.org/article/california-students-author-new-digital-wellness-bill-say-phone-bans-fall-short/",
+      "published": "2026-04-20T16:30:00+00:00",
+      "summary": "After taking a break from social media, Orange County student Elise Choi helped write a bill that would mandate California schools teach digital wellness — a response to growing concerns about how technology is affecting students’ mental…",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
-      "title": "Cloud development platform Vercel was hacked",
+      "title": "Humanoid ‘Lightning’ robot smashes the half-marathon record",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/914723/vercel-hacked",
-      "published": "2026-04-20T09:41:50+00:00",
-      "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data.",
+      "url": "https://www.theverge.com/tech/914869/humanoid-robot-half-marathon-record",
+      "published": "2026-04-20T16:03:52+00:00",
+      "summary": "An autonomous scarlet robot named \"Lightning\" finished a 13-mile race in Beijing on Sunday in just 50 minutes and 26 seconds, less than half the time of last year's fastest robot, which took two hours and 40 minutes.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Myanmar military regime widens sanitary towel ban, claiming rebels use them for first aid",
+      "title": "My family tried to eat fewer ultra-processed foods for five years. Here’s what we learned",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/global-development/2026/apr/20/myanmar-military-regime-widens-sanitary-towel-ban-claiming-rebels-use-them-for-first-aid",
-      "published": "2026-04-20T09:00:07+00:00",
-      "summary": "Activists say clamp down on period products to target insurgents is gender-based violence and violates rights Myanmar’s military regime is expanding its ban on the distribution of period products, claiming they are being used to treat…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/global/2026/apr/20/ultra-processed-foods-diet-healthy-eating",
+      "published": "2026-04-20T16:00:00+00:00",
+      "summary": "Cutting UPFs from our grocery list was expensive, laborious and time-consuming Grocery shopping looks different these days.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "Tesla launches robotaxis in Dallas and Houston, and oops, it’s already unavailable",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/transportation/914823/tesla-robotaxi-houston-dallas-unavailable",
+      "published": "2026-04-20T15:06:55+00:00",
+      "summary": "Tesla claims to have launched a robotaxi service in Dallas and Houston over the weekend, but so far, online crowdsourcing tools indicate that very few cars are actually available.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Kash Patel sues the Atlantic over article alleging excessive drinking",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/apr/20/kash-patel-lawsuit-the-atlantic",
+      "published": "2026-04-20T14:42:14+00:00",
+      "summary": "Magazine has stood behind the story, which was written by veteran national security reporter Sarah Fitzpatrick Kash Patel has followed through on a threat to sue the Atlantic and the author of a story the magazine published that included…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Mother and six children killed in explosion and fire at Pennsylvania home",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/20/pennsylvania-home-explosion",
+      "published": "2026-04-20T14:31:11+00:00",
+      "summary": "Firefighters confirmed that seven people were trapped, but they could not search the building engulfed in flames Sign up for the Breaking News US email to get newsletter alerts in your inbox A mother and six children ranging in age from…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Assistant Teachers Key to Early Education, Yet State Policies Don’t Reflect That",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/zero2eight/assistant-teachers-key-to-early-education-yet-state-policies-dont-reflect-that/",
+      "published": "2026-04-20T14:30:00+00:00",
+      "summary": "Early childhood classrooms are typically led by a pair of teachers. To a child in their care, their roles may be indistinguishable. Both teachers play with them, read to them, sing to them and guide them throughout the day.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Anthropic's Mythos AI model sparks fears of turbocharged hacking",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/",
+      "published": "2026-04-20T14:21:40+00:00",
+      "summary": "Cyberdefenses could be exposed faster than fixes could be deployed.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Louisiana authorities identify eight children killed in ‘domestic incident’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/20/shreveport-louisiana-mass-shooting",
+      "published": "2026-04-20T14:20:26+00:00",
+      "summary": "Gunman, identified as Shamar Elkins, fatally shot the children – including seven of his own – at two addresses Mass shooting rampage in Louisiana leaves eight children dead and others wounded Sign up for the Breaking News US newsletter…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Deezer says AI song uploads have nearly overtaken human music",
+      "source": "The Verge",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads",
+      "published": "2026-04-20T17:56:26+00:00",
+      "summary": "Deezer says it receives nearly 75,000 AI-generated song submissions to its music streaming platform each day, accounting for about 44 percent of all daily uploads, as reported earlier by TechCrunch.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Forbes Prediction Market Gamefies Story About Mass Shooting of 8 Children",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/forbes-prediction-market-gamefies-story-about-mass-shooting-of-8-children/",
+      "published": "2026-04-20T16:18:26+00:00",
+      "summary": "Forbes launched ForbesPredict in January as part of an effort to reverse declining traffic from search engines and keep users on its website longer.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "A mine despoiled the beauty of the rainforest. This Goldman Prize winner took action",
@@ -125,144 +135,11 @@
       "summary": "The winner from Honor, a Chinese smartphone maker, completed the race in 50 minutes and 26 seconds, running faster than the human world record in a show of China's technological leaps.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
-    },
-    {
-      "title": "Why Journalists Are Going Indie (with Maddy Myers)",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/maddy-myers-mothership-interview/",
-      "published": "2026-04-20T13:00:27+00:00",
-      "summary": "Maddy and Sam get into the launch of Mothership and the importance of owning one's own work.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     }
   ],
-  "youtube": [
-    {
-      "title": "Meet Linh Mai, the National Zoo's first baby elephant in 25 years",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=cbJAN6-r4Mo",
-      "published": "2026-04-18T15:01:00+00:00",
-      "summary": "The Smithsonian Zoo in Washington, D.C., says it will introduce a baby asian elephant calf to the public next Wednesday, in honor of Earth Day. The baby female, named Linh Mai, was born on Feb. 2.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "New York City Mayor Zohran Mamdani explains his relationship with the President",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=DSnNvYzykfk",
-      "published": "2026-04-17T17:00:30+00:00",
-      "summary": "New York City Mayor Zohran Mamdani recently marked his first 100 days in office. In that time, he's met and spoken with President Trump on a few different occasions.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Path Tracing Set To Get Faster - Nvidia GDC Presentation Explained",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=J2TLPswBTYY",
-      "published": "2026-04-17T15:00:30+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/tDiIpyKXSjU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Iranians seeking to punish the ruling elite are going after the next best thing — their kids",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=ruZ2ShdxMYw",
-      "published": "2026-04-20T11:30:45+00:00",
-      "summary": "Iranians seeking to punish the ruling elite are going after the next best thing — their kids.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "Read between the lines. Chapter Three of #ImperfectWomen — Now Streaming",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=PfkEp_TJCSs",
-      "published": "2026-04-19T17:59:59+00:00",
-      "summary": "Elisabeth Moss, Kerry Washington & Kate Mara are your Imperfect Women, now streaming on Apple TV https://apple.co/_ImperfectWomen A new series starring Elisabeth Moss, Kerry Washington, and Kate Mara.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Leave the spring cleaning to Nick Offerman. #MargosGotMoneyTroubles is now streaming.",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=sexDW-AauAg",
-      "published": "2026-04-19T16:59:48+00:00",
-      "summary": "Margo's Got Money Troubles is now streaming on Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    }
-  ],
-  "recommendations": {
-    "new": [
-      {
-        "title": "Scavengers Reign",
-        "why": "Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF."
-      },
-      {
-        "title": "Sugar",
-        "why": "Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap."
-      },
-      {
-        "title": "The Lazarus Project",
-        "why": "Time-loop espionage, moral pressure, and speculative plotting — very plausible fit."
-      },
-      {
-        "title": "Bodies",
-        "why": "Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling."
-      }
-    ],
-    "older": [
-      {
-        "title": "Counterpart",
-        "why": "Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence."
-      },
-      {
-        "title": "Patriot",
-        "why": "Dry, strange, melancholy spy storytelling with a very distinct voice."
-      },
-      {
-        "title": "Utopia",
-        "why": "Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly."
-      },
-      {
-        "title": "Rubicon",
-        "why": "A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere."
-      }
-    ],
-    "shared": [
-      {
-        "title": "Bad Sisters",
-        "why": "Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy."
-      },
-      {
-        "title": "Detectorists",
-        "why": "Gentle, funny, humane, and specific — a softer shared-watch possibility."
-      },
-      {
-        "title": "Astrid et Raphaëlle",
-        "why": "French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you."
-      },
-      {
-        "title": "Somebody Somewhere",
-        "why": "A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work."
-      }
-    ]
-  },
+  "youtube": [],
+  "trailers": [],
+  "recommendations": {},
   "highlights": [
     {
       "title": "A.I. Is Prompting an Evolution, Not Extinction, for Coders",
@@ -288,8 +165,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 4,
-    "trailerCount": 2,
-    "sourceCount": 11
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 7
   }
 }
