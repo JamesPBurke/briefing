@@ -1,6 +1,6 @@
 # Recommendations
 
-18 current items, 20 preserved in archive
+18 current items, 12 preserved in archive
 
 ## TV / streaming movie recommendations
 
@@ -42,6 +42,10 @@
 
 ## YouTube videos of interest
 
+- [Is Hand-Holding Really a Gaming Sin? | Windbreaker Podcast](https://www.youtube.com/watch?v=4e7CsGQmBQg)
+  - On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty unpack the current state of hand-holding in games. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.
+  - Watch it
+
 - [Why Is There Screen-Tearing On Some Xbox Games - But Not On PlayStation?](https://www.youtube.com/watch?v=qeccSGOrJbE)
   - ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/y6YSbqhwcl4 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
   - Watch it
@@ -52,10 +56,6 @@
 
 - [U.S. seizes Iranian ship in the Strait of Hormuz](https://www.youtube.com/watch?v=GtejvxmG1cI)
   - Iran is vowing to retaliate after the U.S. seized an Iranian-flagged vessel over the weekend. In a grainy, edited video released by Central Command, U.S. Marines are shown rappelling onto an Iranian-flagged vessel after U.S.
-  - Worth watching
-
-- [Running the World's Best/Worst Bar in Tavern Keeper | Hot Monday Energy](https://www.youtube.com/watch?v=LkJGuW04LgY)
-  - This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
   - Worth watching
 
 ## Trailers for upcoming movies
