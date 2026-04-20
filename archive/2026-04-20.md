@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-20T09:01:09.319945Z
+Generated: 2026-04-20T14:00:01.707031Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Games / criticism. The strongest items in this run are Piratical survival game Windrose sails past 1m copies sold, as player counts continue to rise, Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet, and Harmeet Dhillon: DoJ lawyer a top contender for Trump’s retribution mission.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Here's your next batch of Xbox Game Pass games for April, In Moves of the Diamond Hand, the vibes so far are transcendent, and If Windrose isn't quenching your sealord fantasies, maybe carving out your own Libertalia in pirate citybuilder Corsair Cove will.
 
 ## Briefing
 
@@ -18,61 +18,79 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Piratical survival game Windrose sails past 1m copies sold, as player counts continue to rise [10/10]
+### 1. Here's your next batch of Xbox Game Pass games for April [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Microsoft has revealed the next batch of games coming to its Xbox Game Pass subscription service this April, and into next month. Read more
+
+Link: https://www.eurogamer.net/xbox-game-pass-games-april-2026
+
+### 2. In Moves of the Diamond Hand, the vibes so far are transcendent [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Cosmo D's latest game Moves of the Diamond Hand is a direct sequel to Betrayal at Club Low, and while it's still in early access with a developing road map, the vibes so far are transcendent.
+
+Link: https://www.eurogamer.net/moves-of-the-diamond-hand-impressions-vibes-so-far-transcendent
+
+### 3. If Windrose isn't quenching your sealord fantasies, maybe carving out your own Libertalia in pirate citybuilder Corsair Cove will [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+As if catching the same briny breeze as early access darling Windrose , unannounced but blatantly obvious Assassin’s Creed: Black Flag Resynced , and, uh, Soulframe , there’s yet more pirates coming in yet more pirate games.
+
+Link: https://www.rockpapershotgun.com/if-windrose-isnt-quenching-your-sealord-fantasies-maybe-carving-out-your-own-libertalia-in-pirate-citybuilder-corsair-cove-will
+
+### 4. US and Mexican officials assigned to cartel case killed in car accident [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Director of state investigation agency among those killed in Chihuahua in operation to destroy clandestine drug labs Two United States officials and another two Mexican officials assigned to combat drug cartel operations died in a car…
+
+Link: https://www.theguardian.com/us-news/2026/apr/20/mexico-car-accident-drug-officials-killed
+
+### 5. Soulframe's latest major update is a broadside of pirate weapons, class abilities and outfits, plus falling alien skytowers [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Pensive and flamboyant action-RPG Soulframe has just received a new update that adds a pirate class, together with rapiers, cutlasses, and a flouncy sailor's outfit.
+
+Link: https://www.rockpapershotgun.com/soulframes-latest-major-update-is-a-broadside-of-pirate-weapons-class-abilities-and-outfits-plus-falling-alien-skytowers
+
+### 6. Sekiro Jet Set Radio Mod adds skateboarding and graffiti to FromSoft's stylish ninja classic [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Windrose - the piratical survival game from Kraken Express - has shifted 1m copies in just six days. Read more
+The Dark Souls trilogy, Elden Ring , and Bloodborne remain the most celebrated and enduring FromSoftware games, yet the far more punishing and agile action of Sekiro shouldn't be forgotten, either.
 
-Link: https://www.eurogamer.net/windrose-1m-copies-celebration
+Link: https://www.eurogamer.net/jet-set-radio-sekiro-shadows-die-twice-mod
 
-### 2. Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Keychron's expansive keyboard catalog covers everything from basic full-size mechanical boards to niche layouts like southpaw Alice or a one-handed half-keyboard for gaming.
-
-Link: https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review
-
-### 3. Harmeet Dhillon: DoJ lawyer a top contender for Trump’s retribution mission [10/10]
+### 7. Trump DoJ’s mixed messages bode ill for Epstein victims, experts fear [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Pugilistic presence has laid waste to civil rights decision – her take-no-prisoners approach has alarmed legal experts but earned president’s plaudits When Donald Trump abruptly fired Pam Bondi earlier this month, he made it clear that an…
+Non-appearance of Pam Bondi and remarks from Todd Blanche suggest full accounting may never be revealed In the days since Pam Bondi ’s exit from Donald Trump ’s justice department, Jeffrey Epstein survivors and transparency advocates have…
 
-Link: https://www.theguardian.com/us-news/2026/apr/19/harmeet-dhillon-trump
+Link: https://www.theguardian.com/us-news/2026/apr/20/trump-doj-epstein-files-victims
 
-### 4. ‘Beloved daughter, sister, cousin, friend’: will D4vd’s arrest for murder bring justice for Celeste Rivas Hernandez? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 8. Preparing to Create with AI: Supporting Teachers at Scale through AI PD Weeks [10/10]
+**Source:** CSTA  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-After months of investigation, the singer was arrested on Thursday in a shocking case that has gripped Los Angeles The tragic case of Celeste Rivas Hernandez, the teenager found dead in the trunk of a Tesla belonging to the alt-pop singer…
+Written by Bryan Twarek Artificial intelligence is already reshaping work, civic life, and learning, and it is rapidly entering our...
 
-Link: https://www.theguardian.com/us-news/2026/apr/19/d4vd-arrest-celeste-rivas-hernandez
+Link: https://csteachers.org/preparing-to-create-with-ai-supporting-teachers-at-scale-through-ai-pd-weeks/
 
-### 5. Middle East crisis live: ceasefire under pressure as Iran says it has no plans for talks after US seizes ship [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Donald Trump said on Sunday that US marines had taken custody of a vessel that tried to get past the American blockade on Iranian ports Tehran has ‘no plans to participate’ in new talks, state media reports, as it accuses US of violating…
-
-Link: https://www.theguardian.com/world/live/2026/apr/20/iran-war-latest-news-updates-live-hormuz-trump-us-iranian-ship-ceasefire-doubt
-
-### 6. Mass shooting rampage in Louisiana leaves eight children dead and others wounded [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Shreveport police say suspect Shamar Elkins, who was fatally shot, killed seven of his children and injured their mother in a ‘domestic violence incident’ Sign up for the Breaking News US email to get newsletter alerts in your inbox At…
-
-Link: https://www.theguardian.com/us-news/2026/apr/19/shreveport-louisiana-mass-shooting
-
-### 7. Cloud development platform Vercel was hacked [9/10]
+### 9. Cloud development platform Vercel was hacked [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -81,52 +99,25 @@ Vercel, a major development platform that hosts and deploys web apps, was compro
 
 Link: https://www.theverge.com/tech/914723/vercel-hacked
 
-### 8. Why Some NYC Schools Are Embracing International Baccalaureate [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-A few years back, a groundswell of Brooklyn parents in District 13 wanted to ditch gifted and talented classes, concerned about sorting and segregating children starting in kindergarten.
-
-Link: https://www.the74million.org/article/why-some-nyc-schools-are-embracing-international-baccalaureate/
-
-### 9. Nothing’s modular CMF Headphone Pro are down to their lowest price to date [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Over the past several years, Nothing’s budget-centric subsidiary, CMF, has built a reputation for producing attractive, inexpensive products with features often reserved for gadgets that cost twice the price.
-
-Link: https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal
-
-### 10. Opinion: Accountability Is the Broccoli of Education Reform. States Must Eat More of It [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-In education, sometimes the most important things are the least glamorous. Student assessment and school accountability rarely make headlines the way new spending proposals or sweeping initiatives do. No fireworks. No standing ovations.
-
-Link: https://www.the74million.org/article/accountability-is-the-broccoli-of-education-reform-states-must-eat-more-of-it/
-
-### 11. ‘I don’t want to waste the gas’: Uber and Lyft drivers reeling as fuel prices soar [9/10]
+### 10. Myanmar military regime widens sanitary towel ban, claiming rebels use them for first aid [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Drivers face dilemma of driving more or cutting back – and support from ride-share giants decried as ‘slap in the face’ Drivers for Uber and Lyft across the US are spending hundreds more dollars on fuel each month after the US-Israel war…
+Activists say clamp down on period products to target insurgents is gender-based violence and violates rights Myanmar’s military regime is expanding its ban on the distribution of period products, claiming they are being used to treat…
 
-Link: https://www.theguardian.com/business/2026/apr/19/uber-lyft-drivers-gas-prices
+Link: https://www.theguardian.com/global-development/2026/apr/20/myanmar-military-regime-widens-sanitary-towel-ban-claiming-rebels-use-them-for-first-aid
 
-### 12. Got wearable data? Your doctor can help you connect the dots [8/10]
+### 11. A mine despoiled the beauty of the rainforest. This Goldman Prize winner took action [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-The American Academy of Nuerology issued guidance on the benefits and the potential downsides of using wearables, such as smart watches, Oura rings, or Whoop bands to track key health metrics that can help flag conditions ranging from…
+"We women are the land guardians and keepers," says Theonila Roka Matbob of Papua New Guinea, recognized for her efforts to repair the environmental and social harms caused by a copper and gold mine.
 
-Link: https://www.npr.org/2026/04/20/nx-s1-5746639/got-wearable-data-your-doctor-can-help-you-connect-the-dots
+Link: https://www.npr.org/2026/04/20/g-s1-117830/goldman-environmental-prize-papua-new-guinea-mining
 
-### 13. A humanoid robot sprints past the human half-marathon world record in Beijing race [8/10]
+### 12. A humanoid robot sprints past the human half-marathon world record in Beijing race [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -134,6 +125,15 @@ Link: https://www.npr.org/2026/04/20/nx-s1-5746639/got-wearable-data-your-doctor
 The winner from Honor, a Chinese smartphone maker, completed the race in 50 minutes and 26 seconds, running faster than the human world record in a show of China's technological leaps.
 
 Link: https://www.npr.org/2026/04/20/g-s1-118086/humanoid-robot-half-marathon
+
+### 13. Why Journalists Are Going Indie (with Maddy Myers) [7/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Maddy and Sam get into the launch of Mothership and the importance of owning one's own work.
+
+Link: https://www.404media.co/maddy-myers-mothership-interview/
 
 ## YouTube
 
@@ -164,14 +164,14 @@ Link: https://www.youtube.com/watch?v=DSnNvYzykfk
 
 Link: https://www.youtube.com/watch?v=J2TLPswBTYY
 
-### Super Mario Bros Demo on Sega Master System Looks Too Good To Be True [7/10]
-**Creator:** Digital Foundry  
+### Iranians seeking to punish the ruling elite are going after the next best thing — their kids [7/10]
+**Creator:** NPR  
 **Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+**Why it matters:** Relevant to your current interest graph.
 
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/tDiIpyKXSjU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+Iranians seeking to punish the ruling elite are going after the next best thing — their kids.
 
-Link: https://www.youtube.com/watch?v=yn8OmVdN3vo
+Link: https://www.youtube.com/watch?v=ruZ2ShdxMYw
 
 ## Entertainment Recommendations
 
