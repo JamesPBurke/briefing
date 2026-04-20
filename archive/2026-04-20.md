@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-20T18:51:26.023183Z
+Generated: 2026-04-20T18:53:02.233952Z
 
 Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Standard-Based Grading Offers a Different Model of Assessing Student Learning, Singer D4vd charged with murder of 14-year-old girl found in car, and Fortnite developers can make AI characters now — just don’t try to date them.
 
