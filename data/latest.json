@@ -1,11 +1,41 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-20T18:02:09.063505Z",
-  "generatedAtDisplay": "2026-04-20 02:02 PM EDT",
+  "generatedAt": "2026-04-20T18:34:30.023089Z",
+  "generatedAtDisplay": "2026-04-20 02:34 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are California Students Author New ‘Digital Wellness’ Bill, Say Phone Bans Fall Short, Humanoid ‘Lightning’ robot smashes the half-marathon record, and My family tried to eat fewer ultra-processed foods for five years. Here’s what we learned.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Standard-Based Grading Offers a Different Model of Assessing Student Learning, Singer D4vd charged with murder of 14-year-old girl found in car, and Fortnite developers can make AI characters now — just don’t try to date them.",
   "mainItems": [
+    {
+      "title": "Standard-Based Grading Offers a Different Model of Assessing Student Learning",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/standard-based-grading-offers-a-different-model-of-assessing-student-learning/",
+      "published": "2026-04-20T18:30:00+00:00",
+      "summary": "Some school districts, including ones in Maine, New Mexico, Iowa and Oregon, are shifting to standards-based grading, where students are graded on the skills and concepts they learn instead of points accumulated from assignments and tests…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Singer D4vd charged with murder of 14-year-old girl found in car",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/music/2026/apr/20/singer-d4vd-charged-murder",
+      "published": "2026-04-20T18:06:50+00:00",
+      "summary": "Musician has been charged after the dismembered and decomposing body of Celeste Rivas Hernandez was found in abandoned Tesla The singer D4vd has been charged with the murder of Celeste Rivas Hernandez , the teenage girl whose dismembered…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Fortnite developers can make AI characters now — just don’t try to date them",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
+      "published": "2026-04-20T17:39:32+00:00",
+      "summary": "Following last year's AI-powered Darth Vader in Fortnite that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool to create AI-powered characters that…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "California Students Author New ‘Digital Wellness’ Bill, Say Phone Bans Fall Short",
       "source": "The 74",
@@ -37,13 +67,23 @@
       "score": 10
     },
     {
-      "title": "Tesla launches robotaxis in Dallas and Houston, and oops, it’s already unavailable",
-      "source": "The Verge",
+      "title": "This week in PC games: the \"final\" Molyneux game, Game Boy horror, ski resort management, and a glamcore heist sim",
+      "source": "Rock Paper Shotgun",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/transportation/914823/tesla-robotaxi-houston-dallas-unavailable",
-      "published": "2026-04-20T15:06:55+00:00",
-      "summary": "Tesla claims to have launched a robotaxi service in Dallas and Houston over the weekend, but so far, online crowdsourcing tools indicate that very few cars are actually available.",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-the-final-molyneux-game-game-boy-horror-ski-resort-management-and-a-glamcore-heist-sim",
+      "published": "2026-04-20T15:40:41+00:00",
+      "summary": "Happy this week, all! I return from my holiday in the mountains with spirit restored, skin bronzed, and knees destroyed and reforged into coiled springs of purest Adventure.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "New ID@Xbox showcase in collaboration with IGN set for 23rd April",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/id-xbox-ign-showcase-april-2026-announced",
+      "published": "2026-04-20T15:05:46+00:00",
+      "summary": "IGN is partnering with ID@Xbox again to deliver a new showcase on 23rd April , and we've received the first details about the games coming to Xbox and PC that will be present. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -54,46 +94,6 @@
       "published": "2026-04-20T14:42:14+00:00",
       "summary": "Magazine has stood behind the story, which was written by veteran national security reporter Sarah Fitzpatrick Kash Patel has followed through on a threat to sue the Atlantic and the author of a story the magazine published that included…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Mother and six children killed in explosion and fire at Pennsylvania home",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/20/pennsylvania-home-explosion",
-      "published": "2026-04-20T14:31:11+00:00",
-      "summary": "Firefighters confirmed that seven people were trapped, but they could not search the building engulfed in flames Sign up for the Breaking News US email to get newsletter alerts in your inbox A mother and six children ranging in age from…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Assistant Teachers Key to Early Education, Yet State Policies Don’t Reflect That",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/zero2eight/assistant-teachers-key-to-early-education-yet-state-policies-dont-reflect-that/",
-      "published": "2026-04-20T14:30:00+00:00",
-      "summary": "Early childhood classrooms are typically led by a pair of teachers. To a child in their care, their roles may be indistinguishable. Both teachers play with them, read to them, sing to them and guide them throughout the day.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Anthropic's Mythos AI model sparks fears of turbocharged hacking",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/",
-      "published": "2026-04-20T14:21:40+00:00",
-      "summary": "Cyberdefenses could be exposed faster than fixes could be deployed.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Louisiana authorities identify eight children killed in ‘domestic incident’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/20/shreveport-louisiana-mass-shooting",
-      "published": "2026-04-20T14:20:26+00:00",
-      "summary": "Gunman, identified as Shamar Elkins, fatally shot the children – including seven of his own – at two addresses Mass shooting rampage in Louisiana leaves eight children dead and others wounded Sign up for the Breaking News US newsletter…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -137,9 +137,132 @@
       "score": 8
     }
   ],
-  "youtube": [],
-  "trailers": [],
-  "recommendations": {},
+  "youtube": [
+    {
+      "title": "Why Is There Screen-Tearing On Some Xbox Games - But Not On PlayStation?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=qeccSGOrJbE",
+      "published": "2026-04-20T16:01:21+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/y6YSbqhwcl4 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "26 Seconds That Changed Games Forever | Game Arcadia",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=eeGXBu72_EA",
+      "published": "2026-04-20T15:01:07+00:00",
+      "summary": "These 26 seconds would become one of the most iconic moments in video game history: Evo Moment #37. But was it really a superhuman feat of reflexes? Support us on Patreon: https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Running the World's Best/Worst Bar in Tavern Keeper | Hot Monday Energy",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=LkJGuW04LgY",
+      "published": "2026-04-20T18:14:57+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Harvard Professor Answers Iran War Questions | Tech Support | WIRED",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=HC47QcXrcfw",
+      "published": "2026-04-20T16:00:12+00:00",
+      "summary": "Professor Tarek Masoud joins WIRED to answer the internet's burning questions about the Iran War with Israel and the United States.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "There's something in the fog. #WidowsBay — April 29",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=paUArYFdLXU",
+      "published": "2026-04-20T15:05:12+00:00",
+      "summary": "From creator Katie Dippold and director Hiro Murai, Matthew Rhys stars in Widow’s Bay, a new original series coming April 29 to Apple TV. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "What is your worst fear? #CapeFear premieres June 5 on Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=7PNFtcgLjfw",
+      "published": "2026-04-20T14:00:18+00:00",
+      "summary": "Cape Fear premieres June 5 on Apple TV https://apple.co/_CapeFear A thrilling new series from executive producers Martin Scorsese and Steven Spielberg starring Javier Bardem, Amy Adams, and Patrick Wilson.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    }
+  ],
+  "recommendations": {
+    "new": [
+      {
+        "title": "Scavengers Reign",
+        "why": "Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF."
+      },
+      {
+        "title": "Sugar",
+        "why": "Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap."
+      },
+      {
+        "title": "The Lazarus Project",
+        "why": "Time-loop espionage, moral pressure, and speculative plotting — very plausible fit."
+      },
+      {
+        "title": "Bodies",
+        "why": "Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling."
+      }
+    ],
+    "older": [
+      {
+        "title": "Counterpart",
+        "why": "Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence."
+      },
+      {
+        "title": "Patriot",
+        "why": "Dry, strange, melancholy spy storytelling with a very distinct voice."
+      },
+      {
+        "title": "Utopia",
+        "why": "Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly."
+      },
+      {
+        "title": "Rubicon",
+        "why": "A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere."
+      }
+    ],
+    "shared": [
+      {
+        "title": "Bad Sisters",
+        "why": "Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy."
+      },
+      {
+        "title": "Detectorists",
+        "why": "Gentle, funny, humane, and specific — a softer shared-watch possibility."
+      },
+      {
+        "title": "Astrid et Raphaëlle",
+        "why": "French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you."
+      },
+      {
+        "title": "Somebody Somewhere",
+        "why": "A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work."
+      }
+    ]
+  },
   "highlights": [
     {
       "title": "A.I. Is Prompting an Evolution, Not Extinction, for Coders",
@@ -163,10 +286,35 @@
       "addedAt": "2026-04-20T15:00:00Z"
     }
   ],
+  "weather": {
+    "location": "02726 (Somerset, MA)",
+    "desc": "Patchy rain nearby",
+    "temp": "56",
+    "feels": "53",
+    "wind": "11",
+    "humidity": "44",
+    "days": [
+      {
+        "label": "Mon Apr 20",
+        "high": "54",
+        "low": "39"
+      },
+      {
+        "label": "Tue Apr 21",
+        "high": "55",
+        "low": "37"
+      },
+      {
+        "label": "Wed Apr 22",
+        "high": "57",
+        "low": "40"
+      }
+    ]
+  },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 7
+    "youtubeCount": 4,
+    "trailerCount": 2,
+    "sourceCount": 12
   }
 }
