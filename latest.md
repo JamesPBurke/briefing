@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-20T18:34:30.023089Z
+Generated: 2026-04-20T18:51:26.023183Z
 
 Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Standard-Based Grading Offers a Different Model of Assessing Student Learning, Singer D4vd charged with murder of 14-year-old girl found in car, and Fortnite developers can make AI characters now — just don’t try to date them.
 
@@ -86,7 +86,7 @@ Cutting UPFs from our grocery list was expensive, laborious and time-consuming G
 
 Link: https://www.theguardian.com/global/2026/apr/20/ultra-processed-foods-diet-healthy-eating
 
-### 7. This week in PC games: the "final" Molyneux game, Game Boy horror, ski resort management, and a glamcore heist sim [10/10]
+### 7. This week in PC games: the "final" Molyneux game, ski resort management, Game Boy horror and a glamcore heist sim [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -113,14 +113,14 @@ Magazine has stood behind the story, which was written by veteran national secur
 
 Link: https://www.theguardian.com/us-news/2026/apr/20/kash-patel-lawsuit-the-atlantic
 
-### 10. Deezer says AI song uploads have nearly overtaken human music [9/10]
-**Source:** The Verge  
+### 10. Middle East crisis live: Iran sends mixed signals on talks after US seizes ship [9/10]
+**Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Deezer says it receives nearly 75,000 AI-generated song submissions to its music streaming platform each day, accounting for about 44 percent of all daily uploads, as reported earlier by TechCrunch.
+Official tells Reuters it is ‘positively reviewing’ involvement in negotiations after earlier saying it had no plans for a new round of talks The US has just released some more footage of the encounter with the Iranian flagged vessel, the…
 
-Link: https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads
+Link: https://www.theguardian.com/world/live/2026/apr/20/iran-war-latest-news-updates-live-hormuz-trump-us-iranian-ship-ceasefire-doubt
 
 ### 11. Forbes Prediction Market Gamefies Story About Mass Shooting of 8 Children [8/10]
 **Source:** 404 Media  

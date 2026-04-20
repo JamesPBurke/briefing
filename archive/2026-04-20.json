@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-20T18:34:30.023089Z",
-  "generatedAtDisplay": "2026-04-20 02:34 PM EDT",
+  "generatedAt": "2026-04-20T18:51:26.023183Z",
+  "generatedAtDisplay": "2026-04-20 02:51 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
   "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Standard-Based Grading Offers a Different Model of Assessing Student Learning, Singer D4vd charged with murder of 14-year-old girl found in car, and Fortnite developers can make AI characters now — just don’t try to date them.",
@@ -67,7 +67,7 @@
       "score": 10
     },
     {
-      "title": "This week in PC games: the \"final\" Molyneux game, Game Boy horror, ski resort management, and a glamcore heist sim",
+      "title": "This week in PC games: the \"final\" Molyneux game, ski resort management, Game Boy horror and a glamcore heist sim",
       "source": "Rock Paper Shotgun",
       "category": "Democracy / press freedom",
       "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-the-final-molyneux-game-game-boy-horror-ski-resort-management-and-a-glamcore-heist-sim",
@@ -97,12 +97,12 @@
       "score": 10
     },
     {
-      "title": "Deezer says AI song uploads have nearly overtaken human music",
-      "source": "The Verge",
+      "title": "Middle East crisis live: Iran sends mixed signals on talks after US seizes ship",
+      "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads",
-      "published": "2026-04-20T17:56:26+00:00",
-      "summary": "Deezer says it receives nearly 75,000 AI-generated song submissions to its music streaming platform each day, accounting for about 44 percent of all daily uploads, as reported earlier by TechCrunch.",
+      "url": "https://www.theguardian.com/world/live/2026/apr/20/iran-war-latest-news-updates-live-hormuz-trump-us-iranian-ship-ceasefire-doubt",
+      "published": "2026-04-20T18:26:12+00:00",
+      "summary": "Official tells Reuters it is ‘positively reviewing’ involvement in negotiations after earlier saying it had no plans for a new round of talks The US has just released some more footage of the encounter with the Iranian flagged vessel, the…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
