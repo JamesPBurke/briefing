@@ -1,11 +1,21 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-20T18:53:02.233952Z",
-  "generatedAtDisplay": "2026-04-20 02:53 PM EDT",
+  "generatedAt": "2026-04-20T19:22:53.963906Z",
+  "generatedAtDisplay": "2026-04-20 03:22 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Standard-Based Grading Offers a Different Model of Assessing Student Learning, Singer D4vd charged with murder of 14-year-old girl found in car, and Fortnite developers can make AI characters now — just don’t try to date them.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Singer D4vd charged with murder of 14-year-old girl found in car, Standard-Based Grading Offers a Different Model of Assessing Student Learning, and Fortnite developers can make AI characters now — just don’t try to date them.",
   "mainItems": [
+    {
+      "title": "Singer D4vd charged with murder of 14-year-old girl found in car",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/music/2026/apr/20/singer-d4vd-charged-murder",
+      "published": "2026-04-20T19:05:05+00:00",
+      "summary": "Musician has been charged after the dismembered and decomposing body of Celeste Rivas Hernandez was found in abandoned Tesla The singer D4vd has been charged with the murder of Celeste Rivas Hernandez , the teenage girl whose dismembered…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Standard-Based Grading Offers a Different Model of Assessing Student Learning",
       "source": "The 74",
@@ -14,16 +24,6 @@
       "published": "2026-04-20T18:30:00+00:00",
       "summary": "Some school districts, including ones in Maine, New Mexico, Iowa and Oregon, are shifting to standards-based grading, where students are graded on the skills and concepts they learn instead of points accumulated from assignments and tests…",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Singer D4vd charged with murder of 14-year-old girl found in car",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/music/2026/apr/20/singer-d4vd-charged-murder",
-      "published": "2026-04-20T18:06:50+00:00",
-      "summary": "Musician has been charged after the dismembered and decomposing body of Celeste Rivas Hernandez was found in abandoned Tesla The singer D4vd has been charged with the murder of Celeste Rivas Hernandez , the teenage girl whose dismembered…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -67,16 +67,6 @@
       "score": 10
     },
     {
-      "title": "This week in PC games: the \"final\" Molyneux game, ski resort management, Game Boy horror and a glamcore heist sim",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-the-final-molyneux-game-game-boy-horror-ski-resort-management-and-a-glamcore-heist-sim",
-      "published": "2026-04-20T15:40:41+00:00",
-      "summary": "Happy this week, all! I return from my holiday in the mountains with spirit restored, skin bronzed, and knees destroyed and reforged into coiled springs of purest Adventure.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "New ID@Xbox showcase in collaboration with IGN set for 23rd April",
       "source": "Eurogamer",
       "category": "Games / criticism",
@@ -97,12 +87,22 @@
       "score": 10
     },
     {
-      "title": "Middle East crisis live: Iran sends mixed signals on talks after US seizes ship",
-      "source": "The Guardian US",
+      "title": "Hokum Trailer Sees Adam Scott Surrounded By Dead Goats and an Evil Witch",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/hokum-trailer-adam-scott/",
+      "published": "2026-04-20T19:07:40+00:00",
+      "summary": "A long time ago, there was a witch who scared the crap out of me in this trailer The post Hokum Trailer Sees Adam Scott Surrounded By Dead Goats and an Evil Witch appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 9
+    },
+    {
+      "title": "Deezer says AI song uploads have nearly overtaken human music",
+      "source": "The Verge",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/live/2026/apr/20/iran-war-latest-news-updates-live-hormuz-trump-us-iranian-ship-ceasefire-doubt",
-      "published": "2026-04-20T18:26:12+00:00",
-      "summary": "Official tells Reuters it is ‘positively reviewing’ involvement in negotiations after earlier saying it had no plans for a new round of talks The US has just released some more footage of the encounter with the Iranian flagged vessel, the…",
+      "url": "https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads",
+      "published": "2026-04-20T17:56:26+00:00",
+      "summary": "Deezer says it receives nearly 75,000 AI-generated song submissions to its music streaming platform each day, accounting for about 44 percent of all daily uploads, as reported earlier by TechCrunch.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
@@ -161,6 +161,17 @@
       "verdict": "Watch it"
     },
     {
+      "title": "U.S. seizes Iranian ship in the Strait of Hormuz",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=GtejvxmG1cI",
+      "published": "2026-04-20T19:00:13+00:00",
+      "summary": "Iran is vowing to retaliate after the U.S. seized an Iranian-flagged vessel over the weekend. In a grainy, edited video released by Central Command, U.S. Marines are shown rappelling onto an Iranian-flagged vessel after U.S.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "Running the World's Best/Worst Bar in Tavern Keeper | Hot Monday Energy",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -168,17 +179,6 @@
       "published": "2026-04-20T18:14:57+00:00",
       "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Harvard Professor Answers Iran War Questions | Tech Support | WIRED",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=HC47QcXrcfw",
-      "published": "2026-04-20T16:00:12+00:00",
-      "summary": "Professor Tarek Masoud joins WIRED to answer the internet's burning questions about the Iran War with Israel and the United States.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
     }

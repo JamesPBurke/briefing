@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-20T18:53:02.233952Z
+Generated: 2026-04-20T19:22:53.963906Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Standard-Based Grading Offers a Different Model of Assessing Student Learning, Singer D4vd charged with murder of 14-year-old girl found in car, and Fortnite developers can make AI characters now — just don’t try to date them.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Singer D4vd charged with murder of 14-year-old girl found in car, Standard-Based Grading Offers a Different Model of Assessing Student Learning, and Fortnite developers can make AI characters now — just don’t try to date them.
 
 ## Briefing
 
@@ -32,16 +32,7 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. Standard-Based Grading Offers a Different Model of Assessing Student Learning [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Some school districts, including ones in Maine, New Mexico, Iowa and Oregon, are shifting to standards-based grading, where students are graded on the skills and concepts they learn instead of points accumulated from assignments and tests…
-
-Link: https://www.the74million.org/article/standard-based-grading-offers-a-different-model-of-assessing-student-learning/
-
-### 2. Singer D4vd charged with murder of 14-year-old girl found in car [10/10]
+### 1. Singer D4vd charged with murder of 14-year-old girl found in car [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -49,6 +40,15 @@ Link: https://www.the74million.org/article/standard-based-grading-offers-a-diffe
 Musician has been charged after the dismembered and decomposing body of Celeste Rivas Hernandez was found in abandoned Tesla The singer D4vd has been charged with the murder of Celeste Rivas Hernandez , the teenage girl whose dismembered…
 
 Link: https://www.theguardian.com/music/2026/apr/20/singer-d4vd-charged-murder
+
+### 2. Standard-Based Grading Offers a Different Model of Assessing Student Learning [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Some school districts, including ones in Maine, New Mexico, Iowa and Oregon, are shifting to standards-based grading, where students are graded on the skills and concepts they learn instead of points accumulated from assignments and tests…
+
+Link: https://www.the74million.org/article/standard-based-grading-offers-a-different-model-of-assessing-student-learning/
 
 ### 3. Fortnite developers can make AI characters now — just don’t try to date them [10/10]
 **Source:** The Verge  
@@ -86,16 +86,7 @@ Cutting UPFs from our grocery list was expensive, laborious and time-consuming G
 
 Link: https://www.theguardian.com/global/2026/apr/20/ultra-processed-foods-diet-healthy-eating
 
-### 7. This week in PC games: the "final" Molyneux game, ski resort management, Game Boy horror and a glamcore heist sim [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Happy this week, all! I return from my holiday in the mountains with spirit restored, skin bronzed, and knees destroyed and reforged into coiled springs of purest Adventure.
-
-Link: https://www.rockpapershotgun.com/this-week-in-pc-games-the-final-molyneux-game-game-boy-horror-ski-resort-management-and-a-glamcore-heist-sim
-
-### 8. New ID@Xbox showcase in collaboration with IGN set for 23rd April [10/10]
+### 7. New ID@Xbox showcase in collaboration with IGN set for 23rd April [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -104,7 +95,7 @@ IGN is partnering with ID@Xbox again to deliver a new showcase on 23rd April , a
 
 Link: https://www.eurogamer.net/id-xbox-ign-showcase-april-2026-announced
 
-### 9. Kash Patel sues the Atlantic over article alleging excessive drinking [10/10]
+### 8. Kash Patel sues the Atlantic over article alleging excessive drinking [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -113,14 +104,23 @@ Magazine has stood behind the story, which was written by veteran national secur
 
 Link: https://www.theguardian.com/us-news/2026/apr/20/kash-patel-lawsuit-the-atlantic
 
-### 10. Middle East crisis live: Iran sends mixed signals on talks after US seizes ship [9/10]
-**Source:** The Guardian US  
+### 9. Hokum Trailer Sees Adam Scott Surrounded By Dead Goats and an Evil Witch [9/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+A long time ago, there was a witch who scared the crap out of me in this trailer The post Hokum Trailer Sees Adam Scott Surrounded By Dead Goats and an Evil Witch appeared first on Reactor .
+
+Link: https://reactormag.com/hokum-trailer-adam-scott/
+
+### 10. Deezer says AI song uploads have nearly overtaken human music [9/10]
+**Source:** The Verge  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Official tells Reuters it is ‘positively reviewing’ involvement in negotiations after earlier saying it had no plans for a new round of talks The US has just released some more footage of the encounter with the Iranian flagged vessel, the…
+Deezer says it receives nearly 75,000 AI-generated song submissions to its music streaming platform each day, accounting for about 44 percent of all daily uploads, as reported earlier by TechCrunch.
 
-Link: https://www.theguardian.com/world/live/2026/apr/20/iran-war-latest-news-updates-live-hormuz-trump-us-iranian-ship-ceasefire-doubt
+Link: https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads
 
 ### 11. Forbes Prediction Market Gamefies Story About Mass Shooting of 8 Children [8/10]
 **Source:** 404 Media  
@@ -148,84 +148,3 @@ Link: https://www.npr.org/2026/04/20/g-s1-117830/goldman-environmental-prize-pap
 The winner from Honor, a Chinese smartphone maker, completed the race in 50 minutes and 26 seconds, running faster than the human world record in a show of China's technological leaps.
 
 Link: https://www.npr.org/2026/04/20/g-s1-118086/humanoid-robot-half-marathon
-
-## YouTube
-
-### Why Is There Screen-Tearing On Some Xbox Games - But Not On PlayStation? [9/10]
-**Creator:** Digital Foundry  
-**Verdict:** Watch it  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/y6YSbqhwcl4 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=qeccSGOrJbE
-
-### 26 Seconds That Changed Games Forever | Game Arcadia [9/10]
-**Creator:** Second Wind  
-**Verdict:** Watch it  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-These 26 seconds would become one of the most iconic moments in video game history: Evo Moment #37. But was it really a superhuman feat of reflexes? Support us on Patreon: https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=eeGXBu72_EA
-
-### Running the World's Best/Worst Bar in Tavern Keeper | Hot Monday Energy [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
-
-Link: https://www.youtube.com/watch?v=LkJGuW04LgY
-
-### Harvard Professor Answers Iran War Questions | Tech Support | WIRED [8/10]
-**Creator:** WIRED  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Professor Tarek Masoud joins WIRED to answer the internet's burning questions about the Iran War with Israel and the United States.
-
-Link: https://www.youtube.com/watch?v=HC47QcXrcfw
-
-## Entertainment Recommendations
-
-### Newer shows that look like a fit
-
-- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
-- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
-- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
-- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
-
-### Older shows you may have missed
-
-- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
-- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
-- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
-- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
-
-### Maggie + James overlap
-
-- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
-- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
-- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
-- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
-
-## Trailers / Previews
-
-### There's something in the fog. #WidowsBay — April 29 [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-From creator Katie Dippold and director Hiro Murai, Matthew Rhys stars in Widow’s Bay, a new original series coming April 29 to Apple TV. https://apple.
-
-Link: https://www.youtube.com/watch?v=paUArYFdLXU
-
-### What is your worst fear? #CapeFear premieres June 5 on Apple TV [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Cape Fear premieres June 5 on Apple TV https://apple.co/_CapeFear A thrilling new series from executive producers Martin Scorsese and Steven Spielberg starring Javier Bardem, Amy Adams, and Patrick Wilson.
-
-Link: https://www.youtube.com/watch?v=7PNFtcgLjfw
