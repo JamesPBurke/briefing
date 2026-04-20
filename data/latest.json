@@ -1,11 +1,21 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-20T05:00:01.750195Z",
-  "generatedAtDisplay": "2026-04-20 01:00 AM EDT",
+  "generatedAt": "2026-04-20T09:01:09.319945Z",
+  "generatedAtDisplay": "2026-04-20 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet, Mass shooting rampage in Louisiana leaves eight children dead and others wounded, and Cloud development platform Vercel was hacked.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Games / criticism. The strongest items in this run are Piratical survival game Windrose sails past 1m copies sold, as player counts continue to rise, Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet, and Harmeet Dhillon: DoJ lawyer a top contender for Trump’s retribution mission.",
   "mainItems": [
+    {
+      "title": "Piratical survival game Windrose sails past 1m copies sold, as player counts continue to rise",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/windrose-1m-copies-celebration",
+      "published": "2026-04-20T08:30:50+00:00",
+      "summary": "Windrose - the piratical survival game from Kraken Express - has shifted 1m copies in just six days. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
     {
       "title": "Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet",
       "source": "The Verge",
@@ -14,26 +24,6 @@
       "published": "2026-04-20T03:01:29+00:00",
       "summary": "Keychron's expansive keyboard catalog covers everything from basic full-size mechanical boards to niche layouts like southpaw Alice or a one-handed half-keyboard for gaming.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Mass shooting rampage in Louisiana leaves eight children dead and others wounded",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/19/shreveport-louisiana-mass-shooting",
-      "published": "2026-04-19T23:13:52+00:00",
-      "summary": "Shreveport police say suspect Shamar Elkins, who was fatally shot, killed seven of his children and injured their mother in a ‘domestic violence incident’ Sign up for the Breaking News US email to get newsletter alerts in your inbox At…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Cloud development platform Vercel was hacked",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/914723/vercel-hacked",
-      "published": "2026-04-19T19:54:52+00:00",
-      "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
@@ -57,14 +47,34 @@
       "score": 10
     },
     {
-      "title": "Iowa went all-in on school choice. It's hurting this city's public schools",
-      "source": "NPR Health",
+      "title": "Middle East crisis live: ceasefire under pressure as Iran says it has no plans for talks after US seizes ship",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/live/2026/apr/20/iran-war-latest-news-updates-live-hormuz-trump-us-iranian-ship-ceasefire-doubt",
+      "published": "2026-04-20T08:45:21+00:00",
+      "summary": "Donald Trump said on Sunday that US marines had taken custody of a vessel that tried to get past the American blockade on Iranian ports Tehran has ‘no plans to participate’ in new talks, state media reports, as it accuses US of violating…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Mass shooting rampage in Louisiana leaves eight children dead and others wounded",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/04/19/nx-s1-5683199/education-school-choice-iowa-students-charter-school-cedar-rapids",
-      "published": "2026-04-19T09:00:00+00:00",
-      "summary": "With school choice programs ascendant not just in Iowa but across the U.S., Cedar Rapids offers a preview of who wins and who loses when education meets the free market.",
+      "url": "https://www.theguardian.com/us-news/2026/apr/19/shreveport-louisiana-mass-shooting",
+      "published": "2026-04-19T23:13:52+00:00",
+      "summary": "Shreveport police say suspect Shamar Elkins, who was fatally shot, killed seven of his children and injured their mother in a ‘domestic violence incident’ Sign up for the Breaking News US email to get newsletter alerts in your inbox At…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
+    },
+    {
+      "title": "Cloud development platform Vercel was hacked",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "published": "2026-04-19T19:54:52+00:00",
+      "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
     },
     {
       "title": "Why Some NYC Schools Are Embracing International Baccalaureate",
@@ -107,83 +117,96 @@
       "score": 9
     },
     {
-      "title": "Fire destroys 1,000 ‘stilt’ homes in Malaysia’s Sabah, displacing thousands",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/apr/20/fire-destroys-1000-stilt-homes-in-malaysias-sabah-displacing-thousands",
-      "published": "2026-04-20T01:59:16+00:00",
-      "summary": "Blaze struck a ‘water village’ that is home to some of Malaysia’s poorest residents A huge fire destroyed about 1,000 makeshift homes, many of them built on stilts over water, and displaced thousands of people in a coastal village in…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
-      "title": "Ghost of Yōtei's Hell Mode boss battle difficulty is now live",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/ghost-of-yoteis-hell-mode-boss-battle-difficulty-is-now-live",
-      "published": "2026-04-19T16:23:55+00:00",
-      "summary": "Ghost of Yōtei 's Hell Mode boss battle difficulty is now here, along with a load of QoL and performance fixes, plus Raid matchmaking. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8
-    },
-    {
-      "title": "Why nearly every farmer who grows these chile peppers is a woman",
+      "title": "Got wearable data? Your doctor can help you connect the dots",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/19/g-s1-116759/red-hot-peppers-women-farmers-india",
-      "published": "2026-04-19T11:16:30+00:00",
-      "summary": "Chile peppers are a traditional part of Indian cuisine — and a key crop for women farmers. They say it's too demanding for men. \"In spite of the challenges,\" says one, \"we've found freedom.\"",
+      "url": "https://www.npr.org/2026/04/20/nx-s1-5746639/got-wearable-data-your-doctor-can-help-you-connect-the-dots",
+      "published": "2026-04-20T08:42:09+00:00",
+      "summary": "The American Academy of Nuerology issued guidance on the benefits and the potential downsides of using wearables, such as smart watches, Oura rings, or Whoop bands to track key health metrics that can help flag conditions ranging from…",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
+      "score": 8
+    },
+    {
+      "title": "A humanoid robot sprints past the human half-marathon world record in Beijing race",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/04/20/g-s1-118086/humanoid-robot-half-marathon",
+      "published": "2026-04-20T06:10:00+00:00",
+      "summary": "The winner from Honor, a Chinese smartphone maker, completed the race in 50 minutes and 26 seconds, running faster than the human world record in a show of China's technological leaps.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     }
   ],
   "youtube": [
     {
-      "title": "I Am Jesus Christ, Cursed Words, Windrose, and Demon Tides | Yahtzee Tries",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=QRD09YOFdHQ",
-      "published": "2026-04-19T16:00:40+00:00",
-      "summary": "This week on Yahtzee Tries, Yahtzee checked out I Am Jesus Christ, Cursed Words, Windrose and Demon Tides. Stream 1: https://www.youtube.com/watch?v=sYUxtoF3y3w Stream 2: https://www.youtube.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "title": "Meet Linh Mai, the National Zoo's first baby elephant in 25 years",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=cbJAN6-r4Mo",
+      "published": "2026-04-18T15:01:00+00:00",
+      "summary": "The Smithsonian Zoo in Washington, D.C., says it will introduce a baby asian elephant calf to the public next Wednesday, in honor of Earth Day. The baby female, named Linh Mai, was born on Feb. 2.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
-      "title": "“Any Update Is a Bonus, Not a Right” | Dev Heads Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=sYEgStrizpg",
-      "published": "2026-04-17T20:07:12+00:00",
-      "summary": "This week on Dev Heads, Tina, JM8, and Mikee chat about the state of ongoing updates to video games. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "title": "New York City Mayor Zohran Mamdani explains his relationship with the President",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=DSnNvYzykfk",
+      "published": "2026-04-17T17:00:30+00:00",
+      "summary": "New York City Mayor Zohran Mamdani recently marked his first 100 days in office. In that time, he's met and spoken with President Trump on a few different occasions.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
-      "title": "I'll Take All the Friendslop, Thanks | Unpacked",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=hkwmnWtLbw8",
-      "published": "2026-04-17T15:01:17+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "title": "Path Tracing Set To Get Faster - Nvidia GDC Presentation Explained",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=J2TLPswBTYY",
+      "published": "2026-04-17T15:00:30+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/tDiIpyKXSjU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
-      "title": "Pragmata Rules, Rockstar's Been Hacked, and Bloodborne Is Getting Movie'd | Firelink Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=8LtHrgMz5qE",
-      "published": "2026-04-17T01:06:49+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Super Mario Bros Demo on Sega Master System Looks Too Good To Be True",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=yn8OmVdN3vo",
+      "published": "2026-04-19T15:01:35+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/tDiIpyKXSjU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
     }
   ],
-  "trailers": [],
+  "trailers": [
+    {
+      "title": "Read between the lines. Chapter Three of #ImperfectWomen — Now Streaming",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=PfkEp_TJCSs",
+      "published": "2026-04-19T17:59:59+00:00",
+      "summary": "Elisabeth Moss, Kerry Washington & Kate Mara are your Imperfect Women, now streaming on Apple TV https://apple.co/_ImperfectWomen A new series starring Elisabeth Moss, Kerry Washington, and Kate Mara.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Leave the spring cleaning to Nick Offerman. #MargosGotMoneyTroubles is now streaming.",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=sexDW-AauAg",
+      "published": "2026-04-19T16:59:48+00:00",
+      "summary": "Margo's Got Money Troubles is now streaming on Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -259,7 +282,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 4,
-    "trailerCount": 0,
-    "sourceCount": 6
+    "trailerCount": 2,
+    "sourceCount": 9
   }
 }
