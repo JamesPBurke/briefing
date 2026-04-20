@@ -1,18 +1,38 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-20T19:22:53.963906Z",
-  "generatedAtDisplay": "2026-04-20 03:22 PM EDT",
+  "generatedAt": "2026-04-20T20:06:02.619448Z",
+  "generatedAtDisplay": "2026-04-20 04:06 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Singer D4vd charged with murder of 14-year-old girl found in car, Standard-Based Grading Offers a Different Model of Assessing Student Learning, and Fortnite developers can make AI characters now — just don’t try to date them.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Japanese man sentenced to prison for posting spoilers, Emails show Amazon colluding with other firms to raise prices, California authorities allege, and Singer D4vd charged with murder of 14-year-old girl found in car.",
   "mainItems": [
+    {
+      "title": "Japanese man sentenced to prison for posting spoilers",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/entertainment/914984/godzilla-minus-one-overlord-coda-spoilers-lawsuit-toho-kadokawa-shoten",
+      "published": "2026-04-20T20:02:58+00:00",
+      "summary": "Though it's very common for entertainment writers to describe some narrative elements of the films and shows that they're covering, a Japanese court has determined that the practice can sometimes be tantamount to copyright infringement.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Emails show Amazon colluding with other firms to raise prices, California authorities allege",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/20/amazon-sellers-price-raises-california",
+      "published": "2026-04-20T19:34:07+00:00",
+      "summary": "The previously redacted messages were unveiled as part of an antitrust battle with California attorney general Rob Bonta Emails released on Monday by California ’s attorney general show Amazon allegedly colluding with other companies to…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Singer D4vd charged with murder of 14-year-old girl found in car",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/music/2026/apr/20/singer-d4vd-charged-murder",
       "published": "2026-04-20T19:05:05+00:00",
-      "summary": "Musician has been charged after the dismembered and decomposing body of Celeste Rivas Hernandez was found in abandoned Tesla The singer D4vd has been charged with the murder of Celeste Rivas Hernandez , the teenage girl whose dismembered…",
+      "summary": "Musician charged after the dismembered and decomposing body of Celeste Rivas Hernandez found in abandoned Tesla The singer D4vd has been charged with the murder of Celeste Rivas Hernandez , the teenage girl whose dismembered and decomposed…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -24,16 +44,6 @@
       "published": "2026-04-20T18:30:00+00:00",
       "summary": "Some school districts, including ones in Maine, New Mexico, Iowa and Oregon, are shifting to standards-based grading, where students are graded on the skills and concepts they learn instead of points accumulated from assignments and tests…",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Fortnite developers can make AI characters now — just don’t try to date them",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
-      "published": "2026-04-20T17:39:32+00:00",
-      "summary": "Following last year's AI-powered Darth Vader in Fortnite that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool to create AI-powered characters that…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -57,16 +67,6 @@
       "score": 10
     },
     {
-      "title": "My family tried to eat fewer ultra-processed foods for five years. Here’s what we learned",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/global/2026/apr/20/ultra-processed-foods-diet-healthy-eating",
-      "published": "2026-04-20T16:00:00+00:00",
-      "summary": "Cutting UPFs from our grocery list was expensive, laborious and time-consuming Grocery shopping looks different these days.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "New ID@Xbox showcase in collaboration with IGN set for 23rd April",
       "source": "Eurogamer",
       "category": "Games / criticism",
@@ -87,6 +87,16 @@
       "score": 10
     },
     {
+      "title": "Climate groups sue US government over approval of new BP project in Gulf of Mexico",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/apr/20/lawsuit-new-bp-oil-project-gulf-of-mexico",
+      "published": "2026-04-20T19:22:29+00:00",
+      "summary": "Advocates expressed alarm as new project drills deeper into ocean bed, pointing to company’s failures at Deepwater Horizon spill Sign up for the Breaking News US email to get newsletter alerts in your inbox Environmental groups have sued…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
       "title": "Hokum Trailer Sees Adam Scott Surrounded By Dead Goats and an Evil Witch",
       "source": "Reactor",
       "category": "Sci-fi / horror",
@@ -97,22 +107,12 @@
       "score": 9
     },
     {
-      "title": "Deezer says AI song uploads have nearly overtaken human music",
-      "source": "The Verge",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads",
-      "published": "2026-04-20T17:56:26+00:00",
-      "summary": "Deezer says it receives nearly 75,000 AI-generated song submissions to its music streaming platform each day, accounting for about 44 percent of all daily uploads, as reported earlier by TechCrunch.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Forbes Prediction Market Gamefies Story About Mass Shooting of 8 Children",
+      "title": "Scientists Gave a Bunch of Salmon Cocaine. This Is What Happened Next.",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/forbes-prediction-market-gamefies-story-about-mass-shooting-of-8-children/",
-      "published": "2026-04-20T16:18:26+00:00",
-      "summary": "Forbes launched ForbesPredict in January as part of an effort to reverse declining traffic from search engines and keep users on its website longer.",
+      "url": "https://www.404media.co/scientists-gave-a-bunch-of-salmon-cocaine-this-is-what-happened-next/",
+      "published": "2026-04-20T19:40:33+00:00",
+      "summary": "Salmon exposed to cocaine and its byproduct swam farther than unexposed fish, raising alarms about drug pollution in aquatic ecosystems.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -137,132 +137,9 @@
       "score": 8
     }
   ],
-  "youtube": [
-    {
-      "title": "Why Is There Screen-Tearing On Some Xbox Games - But Not On PlayStation?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=qeccSGOrJbE",
-      "published": "2026-04-20T16:01:21+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/y6YSbqhwcl4 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "26 Seconds That Changed Games Forever | Game Arcadia",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=eeGXBu72_EA",
-      "published": "2026-04-20T15:01:07+00:00",
-      "summary": "These 26 seconds would become one of the most iconic moments in video game history: Evo Moment #37. But was it really a superhuman feat of reflexes? Support us on Patreon: https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "U.S. seizes Iranian ship in the Strait of Hormuz",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=GtejvxmG1cI",
-      "published": "2026-04-20T19:00:13+00:00",
-      "summary": "Iran is vowing to retaliate after the U.S. seized an Iranian-flagged vessel over the weekend. In a grainy, edited video released by Central Command, U.S. Marines are shown rappelling onto an Iranian-flagged vessel after U.S.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Running the World's Best/Worst Bar in Tavern Keeper | Hot Monday Energy",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=LkJGuW04LgY",
-      "published": "2026-04-20T18:14:57+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "There's something in the fog. #WidowsBay — April 29",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=paUArYFdLXU",
-      "published": "2026-04-20T15:05:12+00:00",
-      "summary": "From creator Katie Dippold and director Hiro Murai, Matthew Rhys stars in Widow’s Bay, a new original series coming April 29 to Apple TV. https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "What is your worst fear? #CapeFear premieres June 5 on Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=7PNFtcgLjfw",
-      "published": "2026-04-20T14:00:18+00:00",
-      "summary": "Cape Fear premieres June 5 on Apple TV https://apple.co/_CapeFear A thrilling new series from executive producers Martin Scorsese and Steven Spielberg starring Javier Bardem, Amy Adams, and Patrick Wilson.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    }
-  ],
-  "recommendations": {
-    "new": [
-      {
-        "title": "Scavengers Reign",
-        "why": "Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF."
-      },
-      {
-        "title": "Sugar",
-        "why": "Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap."
-      },
-      {
-        "title": "The Lazarus Project",
-        "why": "Time-loop espionage, moral pressure, and speculative plotting — very plausible fit."
-      },
-      {
-        "title": "Bodies",
-        "why": "Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling."
-      }
-    ],
-    "older": [
-      {
-        "title": "Counterpart",
-        "why": "Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence."
-      },
-      {
-        "title": "Patriot",
-        "why": "Dry, strange, melancholy spy storytelling with a very distinct voice."
-      },
-      {
-        "title": "Utopia",
-        "why": "Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly."
-      },
-      {
-        "title": "Rubicon",
-        "why": "A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere."
-      }
-    ],
-    "shared": [
-      {
-        "title": "Bad Sisters",
-        "why": "Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy."
-      },
-      {
-        "title": "Detectorists",
-        "why": "Gentle, funny, humane, and specific — a softer shared-watch possibility."
-      },
-      {
-        "title": "Astrid et Raphaëlle",
-        "why": "French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you."
-      },
-      {
-        "title": "Somebody Somewhere",
-        "why": "A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work."
-      }
-    ]
-  },
+  "youtube": [],
+  "trailers": [],
+  "recommendations": {},
   "highlights": [
     {
       "title": "A.I. Is Prompting an Evolution, Not Extinction, for Coders",
@@ -288,11 +165,11 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Patchy rain nearby",
-    "temp": "56",
-    "feels": "53",
-    "wind": "11",
-    "humidity": "44",
+    "desc": "Clear",
+    "temp": "52",
+    "feels": "49",
+    "wind": "9",
+    "humidity": "62",
     "days": [
       {
         "label": "Mon Apr 20",
@@ -313,8 +190,8 @@
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 4,
-    "trailerCount": 2,
-    "sourceCount": 12
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 8
   }
 }

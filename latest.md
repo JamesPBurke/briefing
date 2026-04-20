@@ -1,14 +1,14 @@
 # James Daily Briefing
 
-Generated: 2026-04-20T19:22:53.963906Z
+Generated: 2026-04-20T20:06:02.619448Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Singer D4vd charged with murder of 14-year-old girl found in car, Standard-Based Grading Offers a Different Model of Assessing Student Learning, and Fortnite developers can make AI characters now — just don’t try to date them.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Japanese man sentenced to prison for posting spoilers, Emails show Amazon colluding with other firms to raise prices, California authorities allege, and Singer D4vd charged with murder of 14-year-old girl found in car.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Patchy rain nearby, 56°F (feels like 53°F), 11 mph wind, 44% humidity.
+02726 (Somerset, MA): Clear, 52°F (feels like 49°F), 9 mph wind, 62% humidity.
 
 Forecast:
 - Mon Apr 20: high 54° / low 39°
@@ -32,16 +32,34 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. Singer D4vd charged with murder of 14-year-old girl found in car [10/10]
+### 1. Japanese man sentenced to prison for posting spoilers [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Though it's very common for entertainment writers to describe some narrative elements of the films and shows that they're covering, a Japanese court has determined that the practice can sometimes be tantamount to copyright infringement.
+
+Link: https://www.theverge.com/entertainment/914984/godzilla-minus-one-overlord-coda-spoilers-lawsuit-toho-kadokawa-shoten
+
+### 2. Emails show Amazon colluding with other firms to raise prices, California authorities allege [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Musician has been charged after the dismembered and decomposing body of Celeste Rivas Hernandez was found in abandoned Tesla The singer D4vd has been charged with the murder of Celeste Rivas Hernandez , the teenage girl whose dismembered…
+The previously redacted messages were unveiled as part of an antitrust battle with California attorney general Rob Bonta Emails released on Monday by California ’s attorney general show Amazon allegedly colluding with other companies to…
+
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/apr/20/amazon-sellers-price-raises-california
+
+### 3. Singer D4vd charged with murder of 14-year-old girl found in car [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Musician charged after the dismembered and decomposing body of Celeste Rivas Hernandez found in abandoned Tesla The singer D4vd has been charged with the murder of Celeste Rivas Hernandez , the teenage girl whose dismembered and decomposed…
 
 Link: https://www.theguardian.com/music/2026/apr/20/singer-d4vd-charged-murder
 
-### 2. Standard-Based Grading Offers a Different Model of Assessing Student Learning [10/10]
+### 4. Standard-Based Grading Offers a Different Model of Assessing Student Learning [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -50,16 +68,7 @@ Some school districts, including ones in Maine, New Mexico, Iowa and Oregon, are
 
 Link: https://www.the74million.org/article/standard-based-grading-offers-a-different-model-of-assessing-student-learning/
 
-### 3. Fortnite developers can make AI characters now — just don’t try to date them [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Following last year's AI-powered Darth Vader in Fortnite that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new "conversations" tool to create AI-powered characters that…
-
-Link: https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations
-
-### 4. California Students Author New ‘Digital Wellness’ Bill, Say Phone Bans Fall Short [10/10]
+### 5. California Students Author New ‘Digital Wellness’ Bill, Say Phone Bans Fall Short [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -68,7 +77,7 @@ After taking a break from social media, Orange County student Elise Choi helped 
 
 Link: https://www.the74million.org/article/california-students-author-new-digital-wellness-bill-say-phone-bans-fall-short/
 
-### 5. Humanoid ‘Lightning’ robot smashes the half-marathon record [10/10]
+### 6. Humanoid ‘Lightning’ robot smashes the half-marathon record [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -76,15 +85,6 @@ Link: https://www.the74million.org/article/california-students-author-new-digita
 An autonomous scarlet robot named "Lightning" finished a 13-mile race in Beijing on Sunday in just 50 minutes and 26 seconds, less than half the time of last year's fastest robot, which took two hours and 40 minutes.
 
 Link: https://www.theverge.com/tech/914869/humanoid-robot-half-marathon-record
-
-### 6. My family tried to eat fewer ultra-processed foods for five years. Here’s what we learned [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Cutting UPFs from our grocery list was expensive, laborious and time-consuming Grocery shopping looks different these days.
-
-Link: https://www.theguardian.com/global/2026/apr/20/ultra-processed-foods-diet-healthy-eating
 
 ### 7. New ID@Xbox showcase in collaboration with IGN set for 23rd April [10/10]
 **Source:** Eurogamer  
@@ -104,7 +104,16 @@ Magazine has stood behind the story, which was written by veteran national secur
 
 Link: https://www.theguardian.com/us-news/2026/apr/20/kash-patel-lawsuit-the-atlantic
 
-### 9. Hokum Trailer Sees Adam Scott Surrounded By Dead Goats and an Evil Witch [9/10]
+### 9. Climate groups sue US government over approval of new BP project in Gulf of Mexico [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Advocates expressed alarm as new project drills deeper into ocean bed, pointing to company’s failures at Deepwater Horizon spill Sign up for the Breaking News US email to get newsletter alerts in your inbox Environmental groups have sued…
+
+Link: https://www.theguardian.com/us-news/2026/apr/20/lawsuit-new-bp-oil-project-gulf-of-mexico
+
+### 10. Hokum Trailer Sees Adam Scott Surrounded By Dead Goats and an Evil Witch [9/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -113,23 +122,14 @@ A long time ago, there was a witch who scared the crap out of me in this trailer
 
 Link: https://reactormag.com/hokum-trailer-adam-scott/
 
-### 10. Deezer says AI song uploads have nearly overtaken human music [9/10]
-**Source:** The Verge  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Deezer says it receives nearly 75,000 AI-generated song submissions to its music streaming platform each day, accounting for about 44 percent of all daily uploads, as reported earlier by TechCrunch.
-
-Link: https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads
-
-### 11. Forbes Prediction Market Gamefies Story About Mass Shooting of 8 Children [8/10]
+### 11. Scientists Gave a Bunch of Salmon Cocaine. This Is What Happened Next. [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-Forbes launched ForbesPredict in January as part of an effort to reverse declining traffic from search engines and keep users on its website longer.
+Salmon exposed to cocaine and its byproduct swam farther than unexposed fish, raising alarms about drug pollution in aquatic ecosystems.
 
-Link: https://www.404media.co/forbes-prediction-market-gamefies-story-about-mass-shooting-of-8-children/
+Link: https://www.404media.co/scientists-gave-a-bunch-of-salmon-cocaine-this-is-what-happened-next/
 
 ### 12. A mine despoiled the beauty of the rainforest. This Goldman Prize winner took action [8/10]
 **Source:** NPR Health  
