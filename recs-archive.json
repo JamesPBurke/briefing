@@ -1,23 +1,5 @@
 [
   {
-    "kind": "link",
-    "section": "links",
-    "sectionTitle": "Useful links",
-    "title": "Horror memory",
-    "url": "https://jamespburke.com/briefing/profile/horror.html",
-    "source": "Internal",
-    "notes": "Horror memory page."
-  },
-  {
-    "kind": "link",
-    "section": "links",
-    "sectionTitle": "Useful links",
-    "title": "TV / movie watch record",
-    "url": "https://jamespburke.com/briefing/profile/watch-history.html",
-    "source": "Internal",
-    "notes": "TV and movie watch record."
-  },
-  {
     "kind": "recommendation",
     "section": "new",
     "sectionTitle": "TV / streaming movie recommendations",
@@ -184,5 +166,23 @@
     "source": "Apple TV",
     "notes": "Cape Fear premieres June 5 on Apple TV https://apple.co/_CapeFear A thrilling new series from executive producers Martin Scorsese and Steven Spielberg starring Javier Bardem, Amy Adams, and Patrick Wilson.",
     "meta": "Looks promising"
+  },
+  {
+    "kind": "link",
+    "section": "links",
+    "sectionTitle": "Useful links",
+    "title": "Horror memory",
+    "url": "https://jamespburke.com/briefing/profile/horror.html",
+    "source": "Internal",
+    "notes": "Horror memory page."
+  },
+  {
+    "kind": "link",
+    "section": "links",
+    "sectionTitle": "Useful links",
+    "title": "TV / movie watch record",
+    "url": "https://jamespburke.com/briefing/profile/watch-history.html",
+    "source": "Internal",
+    "notes": "TV and movie watch record."
   }
 ]

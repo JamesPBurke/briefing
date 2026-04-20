@@ -2,14 +2,6 @@
 
 20 preserved items
 
-## Useful links
-
-- [Horror memory](https://jamespburke.com/briefing/profile/horror.html)
-  - Horror memory page.
-
-- [TV / movie watch record](https://jamespburke.com/briefing/profile/watch-history.html)
-  - TV and movie watch record.
-
 ## TV / streaming movie recommendations
 
 - Scavengers Reign
@@ -75,3 +67,11 @@
 - [What is your worst fear? #CapeFear premieres June 5 on Apple TV](https://www.youtube.com/watch?v=7PNFtcgLjfw)
   - Cape Fear premieres June 5 on Apple TV https://apple.co/_CapeFear A thrilling new series from executive producers Martin Scorsese and Steven Spielberg starring Javier Bardem, Amy Adams, and Patrick Wilson.
   - Looks promising
+
+## Useful links
+
+- [Horror memory](https://jamespburke.com/briefing/profile/horror.html)
+  - Horror memory page.
+
+- [TV / movie watch record](https://jamespburke.com/briefing/profile/watch-history.html)
+  - TV and movie watch record.

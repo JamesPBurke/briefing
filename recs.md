@@ -1,14 +1,6 @@
 # Recommendations
 
-20 current items, 20 preserved in archive
-
-## Useful links
-
-- [Horror memory](https://jamespburke.com/briefing/profile/horror.html)
-  - Horror memory page.
-
-- [TV / movie watch record](https://jamespburke.com/briefing/profile/watch-history.html)
-  - TV and movie watch record.
+18 current items, 20 preserved in archive
 
 ## TV / streaming movie recommendations
 
