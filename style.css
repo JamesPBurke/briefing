@@ -671,6 +671,7 @@ select { font: inherit; color: inherit; }
   }
   .masthead { position: sticky; top: 0; }
   .btn-ghost { display: none; }
+  .btn-ghost.archive-link { display: inline-flex; }
   .lede-inner { padding: var(--space-4); }
   .lede-stats { gap: var(--space-3); }
   .stat-item { min-width: 80px; }
