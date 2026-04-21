@@ -1,100 +1,120 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-21T05:00:02.616161Z",
-  "generatedAtDisplay": "2026-04-21 01:00 AM EDT",
+  "generatedAt": "2026-04-21T14:00:01.425101Z",
+  "generatedAtDisplay": "2026-04-21 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, AI / privacy. The strongest items in this run are Trump news at a glance: another Trump cabinet member out – but not Kash Patel, Here’s how Amazon’s price fixing allegedly drove up prices everywhere, and Standard-Based Grading Offers a Different Model of Assessing Student Learning.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Trump says he would be ‘disappointed’ if Fed chair nominee Kevin Warsh did not cut interest rates – US politics live, Purdue Pharma expected to forfeit $225m as sentence in criminal opioids case, and Off the Grid studio Gunzilla faced a forced shutdown petition over alleged unpaid bills, and are accused of owing one company over $100,000.",
   "mainItems": [
     {
-      "title": "Trump news at a glance: another Trump cabinet member out – but not Kash Patel",
+      "title": "Trump says he would be ‘disappointed’ if Fed chair nominee Kevin Warsh did not cut interest rates – US politics live",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/apr/20/trump-administration-news-updates-today-latest",
-      "published": "2026-04-21T01:00:11+00:00",
-      "summary": "Labor secretary Lori Chavez-DeRemer exits, while Patel sues over story citing sources that allege ‘conspicuous inebriation and unexplained absences’ by FBI director Donald Trump ’s labor secretary Lori Chavez-DeRemer is stepping down, the…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/21/us-politics-latest-news-kevin-warsh-federal-reserve-donald-trump",
+      "published": "2026-04-21T13:31:23+00:00",
+      "summary": "Warsh faces Congress confirmation hearing to succeed Jerome Powell when his term ends on 15 May Kevin Warsh: Trump’s ideal choice to push Fed to cut interest rates Sign up for the Breaking News US email Donald Trump said that he does not…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Here’s how Amazon’s price fixing allegedly drove up prices everywhere",
-      "source": "The Verge",
+      "title": "Purdue Pharma expected to forfeit $225m as sentence in criminal opioids case",
+      "source": "The Guardian US",
       "category": "AI / privacy",
-      "url": "https://www.theverge.com/policy/915209/amazon-price-fixing-california-lawsuit",
-      "published": "2026-04-20T20:39:51+00:00",
-      "summary": "On Monday, California Attorney General Rob Bonta revealed the evidence of alleged price-fixing by Amazon.",
+      "url": "https://www.theguardian.com/us-news/2026/apr/21/purdue-pharma-settlement-payments-opioids",
+      "published": "2026-04-21T12:40:18+00:00",
+      "summary": "Under settlement, Sackler family will pay state, local and Native American tribal governments, individual victims and others Sign up for the Breaking News US email to get newsletter alerts in your inbox A judge is expected to sentence…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Standard-Based Grading Offers a Different Model of Assessing Student Learning",
+      "title": "Off the Grid studio Gunzilla faced a forced shutdown petition over alleged unpaid bills, and are accused of owing one company over $100,000",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/off-the-grid-studio-gunzilla-faced-a-forced-shutdown-petition-over-alleged-unpaid-bills-and-are-accused-of-owing-one-company-over-100000",
+      "published": "2026-04-21T12:33:36+00:00",
+      "summary": "Gunzilla Games, the studio behind NFT-infected battle royale game Off The Grid , have been accused of owing a marketing company over $100,000 and is facing more allegations from workers that their pay has been delayed.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "California Schools Face Budget Cuts as Enrollment Drops by 74,961 Students",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/california-schools-face-budget-cuts-as-enrollment-drops-by-74961-students/",
+      "published": "2026-04-21T12:30:00+00:00",
+      "summary": "Enrollment in California K-12 schools, and in schools across the country, is declining rapidly as birth rates drop and immigration rates fall.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Trump’s latest border wall plans to slice through Big Bend national park: ‘Our lives are being upended’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/21/trump-border-wall-big-bend-texas",
+      "published": "2026-04-21T12:00:49+00:00",
+      "summary": "The rural Texas region, long spared, is being fast-tracked for the border wall amid bipartisan opposition Tractors suddenly appeared at the entrance to Chispa Road near the US-Mexico border in rural Big Bend, Texas, in late March.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Dragon Ball and Digimon producer Toei announces Toei Games, focusing on new IPs first",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/dragon-ball-and-digimon-anime-producer-toei-creates-toei-games-publisher",
+      "published": "2026-04-21T11:26:57+00:00",
+      "summary": "Anyone who even half-cares about anime knows about Toei Animation, but that's just one of the arms of Toei Company, a broader entertainment giant.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Yelp is making its AI chatbot way more useful",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade",
+      "published": "2026-04-21T10:42:54+00:00",
+      "summary": "Yelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Creating Communicators and Critical Thinkers: Soon There Will Be A Test For That",
       "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/standard-based-grading-offers-a-different-model-of-assessing-student-learning/",
-      "published": "2026-04-20T18:30:00+00:00",
-      "summary": "Some school districts, including ones in Maine, New Mexico, Iowa and Oregon, are shifting to standards-based grading, where students are graded on the skills and concepts they learn instead of points accumulated from assignments and tests…",
+      "url": "https://www.the74million.org/article/creating-communicators-and-critical-thinkers-soon-there-will-be-a-test-for-that/",
+      "published": "2026-04-21T10:30:00+00:00",
+      "summary": "Educators at the Making Waves Academy knew they wanted to teach high school students to be good communicators, problem solvers and critical thinkers to succeed in a rapidly changing world.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "My family tried to eat fewer ultra-processed foods for five years. Here’s what we learned",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/global/2026/apr/20/ultra-processed-foods-diet-healthy-eating",
-      "published": "2026-04-20T16:00:00+00:00",
-      "summary": "Cutting UPFs from our grocery list was expensive, laborious and time-consuming Tell us: do you use AI for fitness? Grocery shopping looks different these days.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The emotional security secret: how to get healthier, happier and have stronger relationships",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/20/the-emotional-security-secret-how-to-get-healthier-happier-and-have-stronger-relationships",
-      "published": "2026-04-20T09:00:08+00:00",
-      "summary": "Psychiatrist Amir Levine’s first book explored different types of attachment. In his follow up, he explains how anyone can become more secure Amir Levine has been quietly working towards a second book for 16 years.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Tim Cook will still be Apple’s Trump whisperer",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/policy/915422/tim-cook-apple-chairman-trump-policy",
-      "published": "2026-04-21T00:31:04+00:00",
-      "summary": "Though Tim Cook is shedding his CEO title for the role of Apple's executive chairman, it appears he'll keep one of his most important duties: that of the company's Trump whisperer.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Trump signs memos to boost US fossil-fuel production for ‘defense readiness’",
+      "title": "Tucker Carlson says he regrets backing Donald Trump and is ‘tormented’",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/apr/20/trump-memos-domestic-fossil-fuels-defense",
-      "published": "2026-04-20T22:26:24+00:00",
-      "summary": "President claims ‘inadequate’ supply presents security threat and orders expansion of oil, coal and gas production Donald Trump on Monday released a series of memos that doubled down on his support of increased domestic fossil fuel…",
+      "url": "https://www.theguardian.com/us-news/2026/apr/21/tucker-carlson-regrets-trump-support",
+      "published": "2026-04-21T13:12:15+00:00",
+      "summary": "The podcaster admits he ‘misled’ supporters as his rift with the US president deepens over the Iran war US politics live – latest updates Tucker Carlson , a conservative podcaster, has said he is “tormented” by his support of Donald Trump…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "California Students Author New ‘Digital Wellness’ Bill, Say Phone Bans Fall Short",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/california-students-author-new-digital-wellness-bill-say-phone-bans-fall-short/",
-      "published": "2026-04-20T16:30:00+00:00",
-      "summary": "After taking a break from social media, Orange County student Elise Choi helped write a bill that would mandate California schools teach digital wellness — a response to growing concerns about how technology is affecting students’ mental…",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "The surprising origin of 4 features that superglue kids — and adults — to screens",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/04/21/nx-s1-5776665/surprising-origin-features-superglue-kids-adults-to-screens",
+      "published": "2026-04-21T09:00:00+00:00",
+      "summary": "Taken together, these four features can create a trancelike state that can keep us stuck on social media apps or video games for hours. Children are particularly vulnerable.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 9
     },
     {
-      "title": "New ID@Xbox showcase in collaboration with IGN set for 23rd April",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/id-xbox-ign-showcase-april-2026-announced",
-      "published": "2026-04-20T15:05:46+00:00",
-      "summary": "IGN is partnering with ID@Xbox again to deliver a new showcase on 23rd April , and we've received the first details about the games coming to Xbox and PC that will be present. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
+      "title": "This AI Tool Rips Off Open Source Software Without Violating Copyright",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/this-ai-tool-rips-off-open-source-software-without-violating-copyright/",
+      "published": "2026-04-21T13:00:44+00:00",
+      "summary": "Malus, which is a piece of satire but also fully functional, performs a \"clean room\" clone of open source software, meaning users could then sell software without crediting the original developers.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "Tim Cook to step down as Apple CEO. In letter, describes 15 years of emails",
@@ -107,16 +127,6 @@
       "score": 8
     },
     {
-      "title": "Scientists Gave a Bunch of Salmon Cocaine. This Is What Happened Next.",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/scientists-gave-a-bunch-of-salmon-cocaine-this-is-what-happened-next/",
-      "published": "2026-04-20T19:40:33+00:00",
-      "summary": "Salmon exposed to cocaine and its byproduct swam farther than unexposed fish, raising alarms about drug pollution in aquatic ecosystems.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
       "title": "Hokum Trailer Sees Adam Scott Surrounded By Dead Goats and an Evil Witch",
       "source": "Reactor",
       "category": "Sci-fi / horror",
@@ -124,16 +134,6 @@
       "published": "2026-04-20T19:07:40+00:00",
       "summary": "A long time ago, there was a witch who scared the crap out of me in this trailer The post Hokum Trailer Sees Adam Scott Surrounded By Dead Goats and an Evil Witch appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
-      "title": "A mine despoiled the beauty of the rainforest. This Goldman Prize winner took action",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/20/g-s1-117830/goldman-environmental-prize-papua-new-guinea-mining",
-      "published": "2026-04-20T10:58:26+00:00",
-      "summary": "\"We women are the land guardians and keepers,\" says Theonila Roka Matbob of Papua New Guinea, recognized for her efforts to repair the environmental and social harms caused by a copper and gold mine.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
   ],
@@ -163,11 +163,35 @@
       "addedAt": "2026-04-20T15:00:00Z"
     }
   ],
-  "weather": {},
+  "weather": {
+    "location": "02726 (Somerset, MA)",
+    "desc": "Patchy rain nearby",
+    "temp": "55",
+    "feels": "51",
+    "wind": "18",
+    "humidity": "54",
+    "days": [
+      {
+        "label": "Tue Apr 21",
+        "high": "55",
+        "low": "37"
+      },
+      {
+        "label": "Wed Apr 22",
+        "high": "57",
+        "low": "40"
+      },
+      {
+        "label": "Thu Apr 23",
+        "high": "58",
+        "low": "37"
+      }
+    ]
+  },
   "stats": {
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 8
+    "sourceCount": 9
   }
 }
