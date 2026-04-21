@@ -1,19 +1,10 @@
 # James Daily Briefing
 
-Generated: 2026-04-20T20:06:02.619448Z
+Generated: 2026-04-21T05:00:02.616161Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Japanese man sentenced to prison for posting spoilers, Emails show Amazon colluding with other firms to raise prices, California authorities allege, and Singer D4vd charged with murder of 14-year-old girl found in car.
+Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, AI / privacy. The strongest items in this run are Trump news at a glance: another Trump cabinet member out – but not Kash Patel, Here’s how Amazon’s price fixing allegedly drove up prices everywhere, and Standard-Based Grading Offers a Different Model of Assessing Student Learning.
 
 ## Briefing
-
-## Weather (02726)
-
-02726 (Somerset, MA): Clear, 52°F (feels like 49°F), 9 mph wind, 62% humidity.
-
-Forecast:
-- Mon Apr 20: high 54° / low 39°
-- Tue Apr 21: high 55° / low 37°
-- Wed Apr 22: high 57° / low 40°
 
 ## Highlighted stories
 
@@ -32,34 +23,25 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. Japanese man sentenced to prison for posting spoilers [10/10]
+### 1. Trump news at a glance: another Trump cabinet member out – but not Kash Patel [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Labor secretary Lori Chavez-DeRemer exits, while Patel sues over story citing sources that allege ‘conspicuous inebriation and unexplained absences’ by FBI director Donald Trump ’s labor secretary Lori Chavez-DeRemer is stepping down, the…
+
+Link: https://www.theguardian.com/us-news/2026/apr/20/trump-administration-news-updates-today-latest
+
+### 2. Here’s how Amazon’s price fixing allegedly drove up prices everywhere [10/10]
 **Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Though it's very common for entertainment writers to describe some narrative elements of the films and shows that they're covering, a Japanese court has determined that the practice can sometimes be tantamount to copyright infringement.
+On Monday, California Attorney General Rob Bonta revealed the evidence of alleged price-fixing by Amazon.
 
-Link: https://www.theverge.com/entertainment/914984/godzilla-minus-one-overlord-coda-spoilers-lawsuit-toho-kadokawa-shoten
+Link: https://www.theverge.com/policy/915209/amazon-price-fixing-california-lawsuit
 
-### 2. Emails show Amazon colluding with other firms to raise prices, California authorities allege [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The previously redacted messages were unveiled as part of an antitrust battle with California attorney general Rob Bonta Emails released on Monday by California ’s attorney general show Amazon allegedly colluding with other companies to…
-
-Link: https://www.theguardian.com/us-news/ng-interactive/2026/apr/20/amazon-sellers-price-raises-california
-
-### 3. Singer D4vd charged with murder of 14-year-old girl found in car [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Musician charged after the dismembered and decomposing body of Celeste Rivas Hernandez found in abandoned Tesla The singer D4vd has been charged with the murder of Celeste Rivas Hernandez , the teenage girl whose dismembered and decomposed…
-
-Link: https://www.theguardian.com/music/2026/apr/20/singer-d4vd-charged-murder
-
-### 4. Standard-Based Grading Offers a Different Model of Assessing Student Learning [10/10]
+### 3. Standard-Based Grading Offers a Different Model of Assessing Student Learning [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -68,7 +50,43 @@ Some school districts, including ones in Maine, New Mexico, Iowa and Oregon, are
 
 Link: https://www.the74million.org/article/standard-based-grading-offers-a-different-model-of-assessing-student-learning/
 
-### 5. California Students Author New ‘Digital Wellness’ Bill, Say Phone Bans Fall Short [10/10]
+### 4. My family tried to eat fewer ultra-processed foods for five years. Here’s what we learned [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Cutting UPFs from our grocery list was expensive, laborious and time-consuming Tell us: do you use AI for fitness? Grocery shopping looks different these days.
+
+Link: https://www.theguardian.com/global/2026/apr/20/ultra-processed-foods-diet-healthy-eating
+
+### 5. The emotional security secret: how to get healthier, happier and have stronger relationships [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Psychiatrist Amir Levine’s first book explored different types of attachment. In his follow up, he explains how anyone can become more secure Amir Levine has been quietly working towards a second book for 16 years.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/apr/20/the-emotional-security-secret-how-to-get-healthier-happier-and-have-stronger-relationships
+
+### 6. Tim Cook will still be Apple’s Trump whisperer [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Though Tim Cook is shedding his CEO title for the role of Apple's executive chairman, it appears he'll keep one of his most important duties: that of the company's Trump whisperer.
+
+Link: https://www.theverge.com/policy/915422/tim-cook-apple-chairman-trump-policy
+
+### 7. Trump signs memos to boost US fossil-fuel production for ‘defense readiness’ [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+President claims ‘inadequate’ supply presents security threat and orders expansion of oil, coal and gas production Donald Trump on Monday released a series of memos that doubled down on his support of increased domestic fossil fuel…
+
+Link: https://www.theguardian.com/us-news/2026/apr/20/trump-memos-domestic-fossil-fuels-defense
+
+### 8. California Students Author New ‘Digital Wellness’ Bill, Say Phone Bans Fall Short [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -77,16 +95,7 @@ After taking a break from social media, Orange County student Elise Choi helped 
 
 Link: https://www.the74million.org/article/california-students-author-new-digital-wellness-bill-say-phone-bans-fall-short/
 
-### 6. Humanoid ‘Lightning’ robot smashes the half-marathon record [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-An autonomous scarlet robot named "Lightning" finished a 13-mile race in Beijing on Sunday in just 50 minutes and 26 seconds, less than half the time of last year's fastest robot, which took two hours and 40 minutes.
-
-Link: https://www.theverge.com/tech/914869/humanoid-robot-half-marathon-record
-
-### 7. New ID@Xbox showcase in collaboration with IGN set for 23rd April [10/10]
+### 9. New ID@Xbox showcase in collaboration with IGN set for 23rd April [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -95,32 +104,14 @@ IGN is partnering with ID@Xbox again to deliver a new showcase on 23rd April , a
 
 Link: https://www.eurogamer.net/id-xbox-ign-showcase-april-2026-announced
 
-### 8. Kash Patel sues the Atlantic over article alleging excessive drinking [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 10. Tim Cook to step down as Apple CEO. In letter, describes 15 years of emails [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Magazine has stood behind the story, which was written by veteran national security reporter Sarah Fitzpatrick Kash Patel has followed through on a threat to sue the Atlantic and the author of a story the magazine published that included…
+The 65-year-old Cook will turn over CEO duties to Apple's head of hardware products, John Ternus, in September. Cook will remain with the company as executive chairman.
 
-Link: https://www.theguardian.com/us-news/2026/apr/20/kash-patel-lawsuit-the-atlantic
-
-### 9. Climate groups sue US government over approval of new BP project in Gulf of Mexico [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Advocates expressed alarm as new project drills deeper into ocean bed, pointing to company’s failures at Deepwater Horizon spill Sign up for the Breaking News US email to get newsletter alerts in your inbox Environmental groups have sued…
-
-Link: https://www.theguardian.com/us-news/2026/apr/20/lawsuit-new-bp-oil-project-gulf-of-mexico
-
-### 10. Hokum Trailer Sees Adam Scott Surrounded By Dead Goats and an Evil Witch [9/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-A long time ago, there was a witch who scared the crap out of me in this trailer The post Hokum Trailer Sees Adam Scott Surrounded By Dead Goats and an Evil Witch appeared first on Reactor .
-
-Link: https://reactormag.com/hokum-trailer-adam-scott/
+Link: https://www.npr.org/2026/04/20/g-s1-118159/apple-ceo-tim-cook-stepping-down
 
 ### 11. Scientists Gave a Bunch of Salmon Cocaine. This Is What Happened Next. [8/10]
 **Source:** 404 Media  
@@ -131,7 +122,16 @@ Salmon exposed to cocaine and its byproduct swam farther than unexposed fish, ra
 
 Link: https://www.404media.co/scientists-gave-a-bunch-of-salmon-cocaine-this-is-what-happened-next/
 
-### 12. A mine despoiled the beauty of the rainforest. This Goldman Prize winner took action [8/10]
+### 12. Hokum Trailer Sees Adam Scott Surrounded By Dead Goats and an Evil Witch [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+A long time ago, there was a witch who scared the crap out of me in this trailer The post Hokum Trailer Sees Adam Scott Surrounded By Dead Goats and an Evil Witch appeared first on Reactor .
+
+Link: https://reactormag.com/hokum-trailer-adam-scott/
+
+### 13. A mine despoiled the beauty of the rainforest. This Goldman Prize winner took action [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -139,12 +139,3 @@ Link: https://www.404media.co/scientists-gave-a-bunch-of-salmon-cocaine-this-is-
 "We women are the land guardians and keepers," says Theonila Roka Matbob of Papua New Guinea, recognized for her efforts to repair the environmental and social harms caused by a copper and gold mine.
 
 Link: https://www.npr.org/2026/04/20/g-s1-117830/goldman-environmental-prize-papua-new-guinea-mining
-
-### 13. A humanoid robot sprints past the human half-marathon world record in Beijing race [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-The winner from Honor, a Chinese smartphone maker, completed the race in 50 minutes and 26 seconds, running faster than the human world record in a show of China's technological leaps.
-
-Link: https://www.npr.org/2026/04/20/g-s1-118086/humanoid-robot-half-marathon
