@@ -42,28 +42,28 @@
 
 ## YouTube videos of interest
 
-- [Running the World's Best/Worst Bar in Tavern Keeper | Hot Monday Energy](https://www.youtube.com/watch?v=LkJGuW04LgY)
-  - This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
+- [Consumers hope for tariff refunds that experts say may never come](https://www.youtube.com/watch?v=ZD-huXq9nm4)
+  - Businesses are officially able to request tariff refunds, but don’t expect consumers to get their tariff dollars back — the government refunds are only for importers.
+  - Watch it
+
+- [Exit 8 Is the Rare Video Game Movie That Understands Video Games | The Rewind Podcast](https://www.youtube.com/watch?v=kaCiZfWyShM)
+  - This week on The Rewind, Darren, Jack, and Marty chat about how Exit 8 fully embraces both of its mediums, reveals from CinemaCon, as well as everything else they've been watching.
   - Worth watching
 
-- [Is Hand-Holding Really a Gaming Sin? | Windbreaker Podcast](https://www.youtube.com/watch?v=4e7CsGQmBQg)
-  - On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty unpack the current state of hand-holding in games. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.
+- [Alex Jones vows to fight The Onion's new plan to take over Infowars](https://www.youtube.com/watch?v=dIyh1NyqMms)
+  - Conspiracy theorist Alex Jones is vowing to fight a new deal that would allow the satirical website, “The Onion,” to take over Jones’ far-right media company, Infowars.
   - Worth watching
 
-- [Why Is There Screen-Tearing On Some Xbox Games - But Not On PlayStation?](https://www.youtube.com/watch?v=qeccSGOrJbE)
-  - ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/y6YSbqhwcl4 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-  - Worth watching
-
-- [26 Seconds That Changed Games Forever | Game Arcadia](https://www.youtube.com/watch?v=eeGXBu72_EA)
-  - These 26 seconds would become one of the most iconic moments in video game history: Evo Moment #37. But was it really a superhuman feat of reflexes? Support us on Patreon: https://www.patreon.
+- [Exit 8 Thoughts About Liminal Horror | The Backdrop](https://www.youtube.com/watch?v=nk404rjV5OE)
+  - Note: This piece contains spoilers for Exit 8, the Japanese horror film that released in American theatres this weekend. I very much enjoyed it as a tight and efficient surrealist horror film - I’d go so far as to call it Exit Gr-8.
   - Worth watching
 
 ## Trailers for upcoming movies
 
-- [Margo's Got Money Troubles — I Will Not Be Judged | Scene | Apple TV](https://www.youtube.com/watch?v=S9EjVqPfVII)
-  - Not your average grandma. Michelle Pfeiffer stars as Shyanne in Margo's Got Money Troubles. Now streaming on Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.
+- [#HeartstopperForever launch date revealed!](https://www.youtube.com/watch?v=jowTfVqVw48)
+  - Get ready for the final chapter...Heartstopper Forever arrives on 17th July, only on Netflix. Watch on Netflix: https://www.netflix.
   - Looks promising
 
-- [There's something in the fog. #WidowsBay — April 29](https://www.youtube.com/watch?v=paUArYFdLXU)
-  - From creator Katie Dippold and director Hiro Murai, Matthew Rhys stars in Widow’s Bay, a new original series coming April 29 to Apple TV. https://apple.
+- [Mexico 86 | Official Trailer | Netflix](https://www.youtube.com/watch?v=BIVgPq4-mOM)
+  - Mexico has never won a World Cup… but someone decided that wasn’t a problem.
   - Looks promising
