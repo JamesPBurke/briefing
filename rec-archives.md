@@ -1,6 +1,6 @@
 # Recommendation archive
 
-12 preserved items
+16 preserved items
 
 ## TV / streaming movie recommendations
 
@@ -16,6 +16,12 @@
 - Bodies
   - Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
 
+- Constellation
+  - A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+
+- The Devil’s Hour
+  - Dark, twisty, and structurally ambitious without feeling like homework.
+
 - Counterpart
   - Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
 
@@ -27,6 +33,12 @@
 
 - Rubicon
   - A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+
+- Continuum
+  - A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+
+- Person of Interest
+  - Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
 
 - Bad Sisters
   - Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.

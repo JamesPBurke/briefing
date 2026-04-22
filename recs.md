@@ -1,6 +1,6 @@
 # Recommendations
 
-18 current items, 12 preserved in archive
+22 current items, 16 preserved in archive
 
 ## TV / streaming movie recommendations
 
@@ -16,6 +16,12 @@
 - Bodies
   - Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
 
+- Constellation
+  - A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+
+- The Devil’s Hour
+  - Dark, twisty, and structurally ambitious without feeling like homework.
+
 - Counterpart
   - Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
 
@@ -27,6 +33,12 @@
 
 - Rubicon
   - A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+
+- Continuum
+  - A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+
+- Person of Interest
+  - Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
 
 - Bad Sisters
   - Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
@@ -42,20 +54,20 @@
 
 ## YouTube videos of interest
 
+- [Texas can require displays of the Ten Commandments, in public schools, judges rules](https://www.youtube.com/watch?v=FLUa2i-dJ1c)
+  - A federal appeals court has upheld a Texas law requiring the display of the Ten Commandments in every public school classroom in the state.
+  - Watch it
+
+- [The Second Wind Games Showcase - Spring 2026 Edition](https://www.youtube.com/watch?v=p8b5hTeaE4o)
+  - This showcase is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join today and earn rewards for playing and wishlisting games from the showcase! – https://playtracker.
+  - Watch it
+
 - [Consumers hope for tariff refunds that experts say may never come](https://www.youtube.com/watch?v=ZD-huXq9nm4)
   - Businesses are officially able to request tariff refunds, but don’t expect consumers to get their tariff dollars back — the government refunds are only for importers.
   - Watch it
 
-- [Exit 8 Is the Rare Video Game Movie That Understands Video Games | The Rewind Podcast](https://www.youtube.com/watch?v=kaCiZfWyShM)
-  - This week on The Rewind, Darren, Jack, and Marty chat about how Exit 8 fully embraces both of its mediums, reveals from CinemaCon, as well as everything else they've been watching.
-  - Worth watching
-
-- [Alex Jones vows to fight The Onion's new plan to take over Infowars](https://www.youtube.com/watch?v=dIyh1NyqMms)
-  - Conspiracy theorist Alex Jones is vowing to fight a new deal that would allow the satirical website, “The Onion,” to take over Jones’ far-right media company, Infowars.
-  - Worth watching
-
-- [Exit 8 Thoughts About Liminal Horror | The Backdrop](https://www.youtube.com/watch?v=nk404rjV5OE)
-  - Note: This piece contains spoilers for Exit 8, the Japanese horror film that released in American theatres this weekend. I very much enjoyed it as a tight and efficient surrealist horror film - I’d go so far as to call it Exit Gr-8.
+- [Harvard Professor Answers Iranian Government Questions | Tech Support | WIRED](https://www.youtube.com/watch?v=NKdyuKXkrPU)
+  - Professor Tarek Masoud joins WIRED to answer the internet's burning questions about the Government of Iran.
   - Worth watching
 
 ## Trailers for upcoming movies

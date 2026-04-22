@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-22T18:01:39.502575Z
+Generated: 2026-04-22T18:02:20.050179Z
 
 Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire, Kids in State-Funded Preschools Hit Record High, but Program Quality Varies, and Anthropic’s Mythos rollout has missed America’s cybersecurity agency.
 
@@ -59,16 +59,7 @@ Several US federal agencies are taking up Anthropic's new cybersecurity model to
 
 Link: https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out
 
-### 4. Ecco the Dolphin: Complete announced, includes remasters of the first two entries and brand-new game [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-As a millennial, I've always had a soft spot for the original Ecco the Dolphin games (not so much for the latter entries), so it was great to learn a while back a brand-new project is in development .
-
-Link: https://www.eurogamer.net/ecco-the-dolphin-complete-announced
-
-### 5. Democrats demand FBI director, Kash Patel, take alcohol abuse test [10/10]
+### 4. Democrats demand FBI director, Kash Patel, take alcohol abuse test [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -77,7 +68,7 @@ Amid growing congressional scrutiny of his conduct, Patel has claimed he has ‘
 
 Link: https://www.theguardian.com/us-news/2026/apr/22/kash-patel-alcohol-abuse-democrats-fbi
 
-### 6. Indian med student rakes in thousands with AI-generated MAGA hottie [10/10]
+### 5. Indian med student rakes in thousands with AI-generated MAGA hottie [10/10]
 **Source:** Ars Technica  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -86,7 +77,7 @@ Link: https://www.theguardian.com/us-news/2026/apr/22/kash-patel-alcohol-abuse-d
 
 Link: https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/
 
-### 7. 12 unexpected sourdough bread recipes that aren't crusty loaves: From sourdough flatbread to sourdough milk bread — and even sourdough babka. [10/10]
+### 6. 12 unexpected sourdough bread recipes that aren't crusty loaves: From sourdough flatbread to sourdough milk bread — and even sourdough babka. [10/10]
 **Source:** King Arthur Baking  
 **Category:** Bread / food craft  
 **Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
@@ -95,7 +86,7 @@ While sourdough starter might conjure images of crusty artisan loaves , that onl
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 8. Internal emails show how Amazon raises prices across the Internet, lawsuit says [10/10]
+### 7. Internal emails show how Amazon raises prices across the Internet, lawsuit says [10/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -104,16 +95,7 @@ Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-reci
 
 Link: https://arstechnica.com/tech-policy/2026/04/internal-emails-show-how-amazon-raises-prices-across-the-internet-lawsuit-says/
 
-### 9. Lestat Would Like a Word in the Trailer for The Vampire Lestat [9/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-He is a golden god, goddammit The post Lestat Would Like a Word in the Trailer for The Vampire Lestat appeared first on Reactor .
-
-Link: https://reactormag.com/the-vampire-lestat-trailer-2/
-
-### 10. Framework's CEO on the RAM crisis and creating a "MacBook Pro for Linux users" [9/10]
+### 8. Framework's CEO on the RAM crisis and creating a "MacBook Pro for Linux users" [9/10]
 **Source:** Ars Technica  
 **Category:** Linux / anti-obsolescence  
 **Why it matters:** Relevant to humane computing, open-source practice, and repairability.
@@ -122,7 +104,7 @@ Link: https://reactormag.com/the-vampire-lestat-trailer-2/
 
 Link: https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/
 
-### 11. Startups Brag They Spend More Money on AI Than Human Employees [8/10]
+### 9. Startups Brag They Spend More Money on AI Than Human Employees [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -131,7 +113,7 @@ A new class of AI startups say they are taking money that would normally be used
 
 Link: https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/
 
-### 12. 'We can do better,' FAA head says of work to update U.S. analog air traffic system [8/10]
+### 10. 'We can do better,' FAA head says of work to update U.S. analog air traffic system [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -140,7 +122,7 @@ The U.S. aviation system is being modernized — but FAA Administrator Bryan Bed
 
 Link: https://www.npr.org/2026/04/22/nx-s1-5791744/faa-dot-air-traffic-control-system-revamp
 
-### 13. Trump's order is a milestone for proponents of using psychedelics as medicine [8/10]
+### 11. Trump's order is a milestone for proponents of using psychedelics as medicine [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.

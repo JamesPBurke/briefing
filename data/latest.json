@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-22T18:01:39.502575Z",
-  "generatedAtDisplay": "2026-04-22 02:01 PM EDT",
+  "generatedAt": "2026-04-22T18:02:20.050179Z",
+  "generatedAtDisplay": "2026-04-22 02:02 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
   "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire, Kids in State-Funded Preschools Hit Record High, but Program Quality Varies, and Anthropic’s Mythos rollout has missed America’s cybersecurity agency.",
@@ -34,16 +34,6 @@
       "published": "2026-04-22T17:12:21+00:00",
       "summary": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Ecco the Dolphin: Complete announced, includes remasters of the first two entries and brand-new game",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/ecco-the-dolphin-complete-announced",
-      "published": "2026-04-22T15:48:09+00:00",
-      "summary": "As a millennial, I've always had a soft spot for the original Ecco the Dolphin games (not so much for the latter entries), so it was great to learn a while back a brand-new project is in development .",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -85,16 +75,6 @@
       "summary": "“It’s working!“: Amazon emails with vendors show pattern of disappearing deals.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
-    },
-    {
-      "title": "Lestat Would Like a Word in the Trailer for The Vampire Lestat",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/the-vampire-lestat-trailer-2/",
-      "published": "2026-04-22T17:24:53+00:00",
-      "summary": "He is a golden god, goddammit The post Lestat Would Like a Word in the Trailer for The Vampire Lestat appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 9
     },
     {
       "title": "Framework's CEO on the RAM crisis and creating a \"MacBook Pro for Linux users\"",
@@ -189,9 +169,9 @@
     ]
   },
   "stats": {
-    "mainCount": 13,
+    "mainCount": 11,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 10
+    "sourceCount": 8
   }
 }

@@ -37,6 +37,24 @@
   },
   {
     "kind": "recommendation",
+    "section": "new",
+    "sectionTitle": "TV / streaming movie recommendations",
+    "subheading": "Newer matches",
+    "title": "Constellation",
+    "source": "Recommendation",
+    "notes": "A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch."
+  },
+  {
+    "kind": "recommendation",
+    "section": "new",
+    "sectionTitle": "TV / streaming movie recommendations",
+    "subheading": "Newer matches",
+    "title": "The Devil’s Hour",
+    "source": "Recommendation",
+    "notes": "Dark, twisty, and structurally ambitious without feeling like homework."
+  },
+  {
+    "kind": "recommendation",
     "section": "older",
     "sectionTitle": "TV / streaming movie recommendations",
     "subheading": "Older possible misses",
@@ -70,6 +88,24 @@
     "title": "Rubicon",
     "source": "Recommendation",
     "notes": "A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere."
+  },
+  {
+    "kind": "recommendation",
+    "section": "older",
+    "sectionTitle": "TV / streaming movie recommendations",
+    "subheading": "Older possible misses",
+    "title": "Continuum",
+    "source": "Recommendation",
+    "notes": "A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics."
+  },
+  {
+    "kind": "recommendation",
+    "section": "older",
+    "sectionTitle": "TV / streaming movie recommendations",
+    "subheading": "Older possible misses",
+    "title": "Person of Interest",
+    "source": "Recommendation",
+    "notes": "Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television."
   },
   {
     "kind": "recommendation",
