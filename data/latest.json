@@ -1,49 +1,59 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-22T05:00:02.140385Z",
-  "generatedAtDisplay": "2026-04-22 01:00 AM EDT",
+  "generatedAt": "2026-04-22T14:00:01.762485Z",
+  "generatedAtDisplay": "2026-04-22 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’, Southern Poverty Law Center indicted on federal fraud charges, and Texas can require public schools to display Ten Commandments, court rules.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire, How Bolivia’s cacao farmers took on the gold-mining industry – and won, and Adaptable AI Lessons with CSTA Responsible AI Fellow Tim Swick.",
   "mainItems": [
     {
-      "title": "Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’",
+      "title": "Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
+      "published": "2026-04-22T13:52:19+00:00",
+      "summary": "State media says the ships have been transferred to Iran’s coast Trump announces ceasefire extension Why Trump’s erratic commentary is the real block to an Iran deal If you’re just joining us, here’s the main news of the day. It is 9.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "How Bolivia’s cacao farmers took on the gold-mining industry – and won",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/global-development/2026/apr/22/mining-agriculture-cacao-farmers-resisting-bolivia-gold-rush",
+      "published": "2026-04-22T11:45:23+00:00",
+      "summary": "As rising gold prices fuel environmental destruction, communities in the country’s biodiverse heartland are passing laws against mining Mahogany trees tower above Herminio Mamani as he tends his cacao farm in Bolivia ’s biodiverse…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Adaptable AI Lessons with CSTA Responsible AI Fellow Tim Swick",
+      "source": "CSTA",
+      "category": "Education / pedagogy",
+      "url": "https://csteachers.org/adaptable-ai-lessons-with-csta-responsible-ai-fellow-tim-swick/",
+      "published": "2026-04-22T11:00:00+00:00",
+      "summary": "Tim Swick is a teacher for Lexington Richland School District 5 in South Carolina, where he is currently developing an...",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Nebraska Passes Special Ed Bill Without Proposed Protections for Students",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/nebraska-passes-special-ed-bill-without-proposed-protections-for-students/",
+      "published": "2026-04-22T10:01:00+00:00",
+      "summary": "This story was co-published with The Flatwater Free Press, Nebraska’s first independent, nonprofit newsroom focused on investigations and feature stories that matter. For Dave Murman, the issue was personal.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/gadgets/915508/framework-announces-laptop-13-pro-the-macbook-pro-for-linux-users",
-      "published": "2026-04-22T00:39:36+00:00",
-      "summary": "Every time we review a Framework laptop, we find familiar pros and cons. They're truly upgradable, incredibly repairable, but we always wish the battery lasted longer. We always wish the build quality were top notch.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+      "published": "2026-04-22T09:30:13+00:00",
+      "summary": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Southern Poverty Law Center indicted on federal fraud charges",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/doj-southern-poverty-law-center-investigation",
-      "published": "2026-04-22T00:25:05+00:00",
-      "summary": "Todd Blanche announces 11-count indictment over payments to informants in extremist groups including Ku Klux Klan Sign up for the Breaking News US email to get newsletter alerts in your inbox The Southern Poverty Law Center, the prominent…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Texas can require public schools to display Ten Commandments, court rules",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/texas-public-schools-ten-commandments",
-      "published": "2026-04-21T23:49:44+00:00",
-      "summary": "Appeals court ruling is a victory for conservatives who have long sought to incorporate more religion into schools Sign up for the Breaking News US email to get newsletter alerts in your inbox Texas can require the Ten Commandments to be…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Trump reads from Bible in Oval Office in taped message for Christian group",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/trump-bible-passage-oval-office",
-      "published": "2026-04-21T23:24:49+00:00",
-      "summary": "Reciting of Old Testament passage comes days after clash with pope and posting AI image of himself as Jesus Sign up for the Breaking News US email to get newsletter alerts in your inbox Donald Trump read a Bible passage from the Old…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -57,13 +67,23 @@
       "score": 10
     },
     {
-      "title": "Arcade roguelike KAZ will probably break my arrows keys, and yet here I am wanting to play another round",
+      "title": "The next Frostpunk game isn't a city builder, 11 Bit Studios reveal, alongside a modern \"reimagining\" of survival game This War Of Mine",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/arcade-roguelike-kaz-will-probably-break-my-arrows-keys-and-yet-here-i-am-wanting-to-play-another-round",
-      "published": "2026-04-21T21:55:59+00:00",
-      "summary": "The less buttons I have to press a game, the better. I am not doing a bit here, no japes to be found, a refined, paired down control scheme is like a cherub's smile to me.",
+      "url": "https://www.rockpapershotgun.com/the-next-frostpunk-game-isnt-a-city-builder-11-bit-studios-reveal-alongside-a-modern-reimagining-of-survival-game-this-war-of-mine",
+      "published": "2026-04-22T13:23:05+00:00",
+      "summary": "11 Bit Studios have confirmed that they're making a brand new Frostpunk , alongside a \"full\" reimagining of their 2014 survival story This War Of Mine , and two other \"completely new\" games codenamed P14 and P12.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "This Is a Gardening Show review – Zach Galifianakis’ charming new series feels like perfect TV",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/22/this-is-a-gardening-show-review-zach-galifianakis-netflix",
+      "published": "2026-04-22T11:06:04+00:00",
+      "summary": "Part lesson, part lark, these 15-minute episodes are a total joy.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -77,16 +97,6 @@
       "score": 9
     },
     {
-      "title": "Trump's order is a milestone for proponents of using psychedelics as medicine",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/21/nx-s1-5791755/trumps-order-is-a-milestone-for-proponents-of-using-psychedelics-as-medicine",
-      "published": "2026-04-21T20:10:47+00:00",
-      "summary": "President Trump has signed an executive order aimed at accelerating research and approval of psychedelics for treating mental health conditions, like depression, PTSD and addiction.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
       "title": "Opinion: School Vouchers Fail the Civil Rights Test. The Federal Program Is No Exception",
       "source": "The 74",
       "category": "CS education / AI policy",
@@ -97,44 +107,34 @@
       "score": 9
     },
     {
-      "title": "California Schools Face Budget Cuts as Enrollment Drops by 74,961 Students",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/california-schools-face-budget-cuts-as-enrollment-drops-by-74961-students/",
-      "published": "2026-04-21T12:30:00+00:00",
-      "summary": "Enrollment in California K-12 schools, and in schools across the country, is declining rapidly as birth rates drop and immigration rates fall.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "This AI Tool Rips Off Open Source Software Without Violating Copyright",
+      "title": "Startups Brag They Spend More Money on AI Than Human Employees",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/this-ai-tool-rips-off-open-source-software-without-violating-copyright/",
-      "published": "2026-04-21T13:00:44+00:00",
-      "summary": "Malus, which is a piece of satire but also fully functional, performs a \"clean room\" clone of open source software, meaning users could then sell software without crediting the original developers.",
+      "url": "https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/",
+      "published": "2026-04-22T13:11:08+00:00",
+      "summary": "A new class of AI startups say they are taking money that would normally be used to hire people and are spending it on AI compute instead.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "What having a product guy as Apple's CEO might mean for the company",
+      "title": "'We can do better,' FAA head says of work to update U.S. analog air traffic system",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/04/21/nx-s1-5793865/what-having-a-product-guy-as-apples-ceo-might-mean-for-the-company",
-      "published": "2026-04-21T20:10:51+00:00",
-      "summary": "Apple's next CEO has been responsible for developing the hardware for many products. NPR's Juana Summers talks to Jay Peters of The Verge about what the company could look like under his leadership.",
+      "url": "https://www.npr.org/2026/04/22/nx-s1-5791744/faa-dot-air-traffic-control-system-revamp",
+      "published": "2026-04-22T09:00:00+00:00",
+      "summary": "The U.S. aviation system is being modernized — but FAA Administrator Bryan Bedford and other leaders say it will take more money to make the system more efficient and flexible.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7
+      "score": 8
     },
     {
-      "title": "Some Silo Secrets May Finally Be Explained When Season 3 Premieres in July",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/silo-season-3-teaser-release-date/",
-      "published": "2026-04-21T16:34:30+00:00",
-      "summary": "We do not know why we are here. We do not know who built the silo. But we might, soon! The post Some Silo Secrets May Finally Be Explained When Season 3 Premieres in July appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 7
+      "title": "Trump's order is a milestone for proponents of using psychedelics as medicine",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/04/21/nx-s1-5791755/trumps-order-is-a-milestone-for-proponents-of-using-psychedelics-as-medicine",
+      "published": "2026-04-21T20:10:47+00:00",
+      "summary": "President Trump has signed an executive order aimed at accelerating research and approval of psychedelics for treating mental health conditions, like depression, PTSD and addiction.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     }
   ],
   "youtube": [],
@@ -163,7 +163,31 @@
       "addedAt": "2026-04-20T15:00:00Z"
     }
   ],
-  "weather": {},
+  "weather": {
+    "location": "02726 (Somerset, MA)",
+    "desc": "Overcast",
+    "temp": "59",
+    "feels": "59",
+    "wind": "19",
+    "humidity": "51",
+    "days": [
+      {
+        "label": "Wed Apr 22",
+        "high": "58",
+        "low": "41"
+      },
+      {
+        "label": "Thu Apr 23",
+        "high": "61",
+        "low": "38"
+      },
+      {
+        "label": "Fri Apr 24",
+        "high": "59",
+        "low": "35"
+      }
+    ]
+  },
   "stats": {
     "mainCount": 13,
     "youtubeCount": 0,

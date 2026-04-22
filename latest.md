@@ -1,10 +1,19 @@
 # James Daily Briefing
 
-Generated: 2026-04-22T05:00:02.140385Z
+Generated: 2026-04-22T14:00:01.762485Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’, Southern Poverty Law Center indicted on federal fraud charges, and Texas can require public schools to display Ten Commandments, court rules.
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire, How Bolivia’s cacao farmers took on the gold-mining industry – and won, and Adaptable AI Lessons with CSTA Responsible AI Fellow Tim Swick.
 
 ## Briefing
+
+## Weather (02726)
+
+02726 (Somerset, MA): Overcast, 59°F (feels like 59°F), 19 mph wind, 51% humidity.
+
+Forecast:
+- Wed Apr 22: high 58° / low 41°
+- Thu Apr 23: high 61° / low 38°
+- Fri Apr 24: high 59° / low 35°
 
 ## Highlighted stories
 
@@ -23,43 +32,52 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’ [10/10]
+### 1. Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+State media says the ships have been transferred to Iran’s coast Trump announces ceasefire extension Why Trump’s erratic commentary is the real block to an Iran deal If you’re just joining us, here’s the main news of the day. It is 9.
+
+Link: https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east
+
+### 2. How Bolivia’s cacao farmers took on the gold-mining industry – and won [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+As rising gold prices fuel environmental destruction, communities in the country’s biodiverse heartland are passing laws against mining Mahogany trees tower above Herminio Mamani as he tends his cacao farm in Bolivia ’s biodiverse…
+
+Link: https://www.theguardian.com/global-development/2026/apr/22/mining-agriculture-cacao-farmers-resisting-bolivia-gold-rush
+
+### 3. Adaptable AI Lessons with CSTA Responsible AI Fellow Tim Swick [10/10]
+**Source:** CSTA  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Tim Swick is a teacher for Lexington Richland School District 5 in South Carolina, where he is currently developing an...
+
+Link: https://csteachers.org/adaptable-ai-lessons-with-csta-responsible-ai-fellow-tim-swick/
+
+### 4. Nebraska Passes Special Ed Bill Without Proposed Protections for Students [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+This story was co-published with The Flatwater Free Press, Nebraska’s first independent, nonprofit newsroom focused on investigations and feature stories that matter. For Dave Murman, the issue was personal.
+
+Link: https://www.the74million.org/article/nebraska-passes-special-ed-bill-without-proposed-protections-for-students/
+
+### 5. Anthropic’s most dangerous AI model just fell into the wrong hands [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Every time we review a Framework laptop, we find familiar pros and cons. They're truly upgradable, incredibly repairable, but we always wish the battery lasted longer. We always wish the build quality were top notch.
+Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a "small group of unauthorized users," Bloomberg reports.
 
-Link: https://www.theverge.com/gadgets/915508/framework-announces-laptop-13-pro-the-macbook-pro-for-linux-users
+Link: https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security
 
-### 2. Southern Poverty Law Center indicted on federal fraud charges [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Todd Blanche announces 11-count indictment over payments to informants in extremist groups including Ku Klux Klan Sign up for the Breaking News US email to get newsletter alerts in your inbox The Southern Poverty Law Center, the prominent…
-
-Link: https://www.theguardian.com/us-news/2026/apr/21/doj-southern-poverty-law-center-investigation
-
-### 3. Texas can require public schools to display Ten Commandments, court rules [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Appeals court ruling is a victory for conservatives who have long sought to incorporate more religion into schools Sign up for the Breaking News US email to get newsletter alerts in your inbox Texas can require the Ten Commandments to be…
-
-Link: https://www.theguardian.com/us-news/2026/apr/21/texas-public-schools-ten-commandments
-
-### 4. Trump reads from Bible in Oval Office in taped message for Christian group [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Reciting of Old Testament passage comes days after clash with pope and posting AI image of himself as Jesus Sign up for the Breaking News US email to get newsletter alerts in your inbox Donald Trump read a Bible passage from the Old…
-
-Link: https://www.theguardian.com/us-news/2026/apr/21/trump-bible-passage-oval-office
-
-### 5. Internal emails show how Amazon raises prices across the Internet, lawsuit says [10/10]
+### 6. Internal emails show how Amazon raises prices across the Internet, lawsuit says [10/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -68,16 +86,25 @@ Link: https://www.theguardian.com/us-news/2026/apr/21/trump-bible-passage-oval-o
 
 Link: https://arstechnica.com/tech-policy/2026/04/internal-emails-show-how-amazon-raises-prices-across-the-internet-lawsuit-says/
 
-### 6. Arcade roguelike KAZ will probably break my arrows keys, and yet here I am wanting to play another round [9/10]
+### 7. The next Frostpunk game isn't a city builder, 11 Bit Studios reveal, alongside a modern "reimagining" of survival game This War Of Mine [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-The less buttons I have to press a game, the better. I am not doing a bit here, no japes to be found, a refined, paired down control scheme is like a cherub's smile to me.
+11 Bit Studios have confirmed that they're making a brand new Frostpunk , alongside a "full" reimagining of their 2014 survival story This War Of Mine , and two other "completely new" games codenamed P14 and P12.
 
-Link: https://www.rockpapershotgun.com/arcade-roguelike-kaz-will-probably-break-my-arrows-keys-and-yet-here-i-am-wanting-to-play-another-round
+Link: https://www.rockpapershotgun.com/the-next-frostpunk-game-isnt-a-city-builder-11-bit-studios-reveal-alongside-a-modern-reimagining-of-survival-game-this-war-of-mine
 
-### 7. Framework's CEO on the RAM crisis and creating a "MacBook Pro for Linux users" [9/10]
+### 8. This Is a Gardening Show review – Zach Galifianakis’ charming new series feels like perfect TV [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Part lesson, part lark, these 15-minute episodes are a total joy.
+
+Link: https://www.theguardian.com/tv-and-radio/2026/apr/22/this-is-a-gardening-show-review-zach-galifianakis-netflix
+
+### 9. Framework's CEO on the RAM crisis and creating a "MacBook Pro for Linux users" [9/10]
 **Source:** Ars Technica  
 **Category:** Linux / anti-obsolescence  
 **Why it matters:** Relevant to humane computing, open-source practice, and repairability.
@@ -86,16 +113,7 @@ Link: https://www.rockpapershotgun.com/arcade-roguelike-kaz-will-probably-break-
 
 Link: https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/
 
-### 8. Trump's order is a milestone for proponents of using psychedelics as medicine [9/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-President Trump has signed an executive order aimed at accelerating research and approval of psychedelics for treating mental health conditions, like depression, PTSD and addiction.
-
-Link: https://www.npr.org/2026/04/21/nx-s1-5791755/trumps-order-is-a-milestone-for-proponents-of-using-psychedelics-as-medicine
-
-### 9. Opinion: School Vouchers Fail the Civil Rights Test. The Federal Program Is No Exception [9/10]
+### 10. Opinion: School Vouchers Fail the Civil Rights Test. The Federal Program Is No Exception [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -104,38 +122,29 @@ Our public education system rests on a foundation of civil rights protections. P
 
 Link: https://www.the74million.org/article/school-vouchers-fail-the-civil-rights-test-the-federal-program-is-no-exception/
 
-### 10. California Schools Face Budget Cuts as Enrollment Drops by 74,961 Students [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Enrollment in California K-12 schools, and in schools across the country, is declining rapidly as birth rates drop and immigration rates fall.
-
-Link: https://www.the74million.org/article/california-schools-face-budget-cuts-as-enrollment-drops-by-74961-students/
-
-### 11. This AI Tool Rips Off Open Source Software Without Violating Copyright [8/10]
+### 11. Startups Brag They Spend More Money on AI Than Human Employees [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-Malus, which is a piece of satire but also fully functional, performs a "clean room" clone of open source software, meaning users could then sell software without crediting the original developers.
+A new class of AI startups say they are taking money that would normally be used to hire people and are spending it on AI compute instead.
 
-Link: https://www.404media.co/this-ai-tool-rips-off-open-source-software-without-violating-copyright/
+Link: https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/
 
-### 12. What having a product guy as Apple's CEO might mean for the company [7/10]
+### 12. 'We can do better,' FAA head says of work to update U.S. analog air traffic system [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Apple's next CEO has been responsible for developing the hardware for many products. NPR's Juana Summers talks to Jay Peters of The Verge about what the company could look like under his leadership.
+The U.S. aviation system is being modernized — but FAA Administrator Bryan Bedford and other leaders say it will take more money to make the system more efficient and flexible.
 
-Link: https://www.npr.org/2026/04/21/nx-s1-5793865/what-having-a-product-guy-as-apples-ceo-might-mean-for-the-company
+Link: https://www.npr.org/2026/04/22/nx-s1-5791744/faa-dot-air-traffic-control-system-revamp
 
-### 13. Some Silo Secrets May Finally Be Explained When Season 3 Premieres in July [7/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+### 13. Trump's order is a milestone for proponents of using psychedelics as medicine [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-We do not know why we are here. We do not know who built the silo. But we might, soon! The post Some Silo Secrets May Finally Be Explained When Season 3 Premieres in July appeared first on Reactor .
+President Trump has signed an executive order aimed at accelerating research and approval of psychedelics for treating mental health conditions, like depression, PTSD and addiction.
 
-Link: https://reactormag.com/silo-season-3-teaser-release-date/
+Link: https://www.npr.org/2026/04/21/nx-s1-5791755/trumps-order-is-a-milestone-for-proponents-of-using-psychedelics-as-medicine
