@@ -1,40 +1,100 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-21T14:00:01.425101Z",
-  "generatedAtDisplay": "2026-04-21 10:00 AM EDT",
+  "generatedAt": "2026-04-22T05:00:02.140385Z",
+  "generatedAtDisplay": "2026-04-22 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Trump says he would be ‘disappointed’ if Fed chair nominee Kevin Warsh did not cut interest rates – US politics live, Purdue Pharma expected to forfeit $225m as sentence in criminal opioids case, and Off the Grid studio Gunzilla faced a forced shutdown petition over alleged unpaid bills, and are accused of owing one company over $100,000.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’, Southern Poverty Law Center indicted on federal fraud charges, and Texas can require public schools to display Ten Commandments, court rules.",
   "mainItems": [
     {
-      "title": "Trump says he would be ‘disappointed’ if Fed chair nominee Kevin Warsh did not cut interest rates – US politics live",
+      "title": "Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/gadgets/915508/framework-announces-laptop-13-pro-the-macbook-pro-for-linux-users",
+      "published": "2026-04-22T00:39:36+00:00",
+      "summary": "Every time we review a Framework laptop, we find familiar pros and cons. They're truly upgradable, incredibly repairable, but we always wish the battery lasted longer. We always wish the build quality were top notch.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Southern Poverty Law Center indicted on federal fraud charges",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/live/2026/apr/21/us-politics-latest-news-kevin-warsh-federal-reserve-donald-trump",
-      "published": "2026-04-21T13:31:23+00:00",
-      "summary": "Warsh faces Congress confirmation hearing to succeed Jerome Powell when his term ends on 15 May Kevin Warsh: Trump’s ideal choice to push Fed to cut interest rates Sign up for the Breaking News US email Donald Trump said that he does not…",
+      "url": "https://www.theguardian.com/us-news/2026/apr/21/doj-southern-poverty-law-center-investigation",
+      "published": "2026-04-22T00:25:05+00:00",
+      "summary": "Todd Blanche announces 11-count indictment over payments to informants in extremist groups including Ku Klux Klan Sign up for the Breaking News US email to get newsletter alerts in your inbox The Southern Poverty Law Center, the prominent…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Purdue Pharma expected to forfeit $225m as sentence in criminal opioids case",
+      "title": "Texas can require public schools to display Ten Commandments, court rules",
       "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/apr/21/texas-public-schools-ten-commandments",
+      "published": "2026-04-21T23:49:44+00:00",
+      "summary": "Appeals court ruling is a victory for conservatives who have long sought to incorporate more religion into schools Sign up for the Breaking News US email to get newsletter alerts in your inbox Texas can require the Ten Commandments to be…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Trump reads from Bible in Oval Office in taped message for Christian group",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/21/trump-bible-passage-oval-office",
+      "published": "2026-04-21T23:24:49+00:00",
+      "summary": "Reciting of Old Testament passage comes days after clash with pope and posting AI image of himself as Jesus Sign up for the Breaking News US email to get newsletter alerts in your inbox Donald Trump read a Bible passage from the Old…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Internal emails show how Amazon raises prices across the Internet, lawsuit says",
+      "source": "Ars Technica",
       "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/purdue-pharma-settlement-payments-opioids",
-      "published": "2026-04-21T12:40:18+00:00",
-      "summary": "Under settlement, Sackler family will pay state, local and Native American tribal governments, individual victims and others Sign up for the Breaking News US email to get newsletter alerts in your inbox A judge is expected to sentence…",
+      "url": "https://arstechnica.com/tech-policy/2026/04/internal-emails-show-how-amazon-raises-prices-across-the-internet-lawsuit-says/",
+      "published": "2026-04-21T18:06:06+00:00",
+      "summary": "“It’s working!“: Amazon emails with vendors show pattern of disappearing deals.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Off the Grid studio Gunzilla faced a forced shutdown petition over alleged unpaid bills, and are accused of owing one company over $100,000",
+      "title": "Arcade roguelike KAZ will probably break my arrows keys, and yet here I am wanting to play another round",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/off-the-grid-studio-gunzilla-faced-a-forced-shutdown-petition-over-alleged-unpaid-bills-and-are-accused-of-owing-one-company-over-100000",
-      "published": "2026-04-21T12:33:36+00:00",
-      "summary": "Gunzilla Games, the studio behind NFT-infected battle royale game Off The Grid , have been accused of owing a marketing company over $100,000 and is facing more allegations from workers that their pay has been delayed.",
+      "url": "https://www.rockpapershotgun.com/arcade-roguelike-kaz-will-probably-break-my-arrows-keys-and-yet-here-i-am-wanting-to-play-another-round",
+      "published": "2026-04-21T21:55:59+00:00",
+      "summary": "The less buttons I have to press a game, the better. I am not doing a bit here, no japes to be found, a refined, paired down control scheme is like a cherub's smile to me.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
+      "score": 9
+    },
+    {
+      "title": "Framework's CEO on the RAM crisis and creating a \"MacBook Pro for Linux users\"",
+      "source": "Ars Technica",
+      "category": "Linux / anti-obsolescence",
+      "url": "https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/",
+      "published": "2026-04-21T20:22:20+00:00",
+      "summary": "\"We actually have slightly more Linux users than Windows users.\"",
+      "whyItMatters": "Relevant to humane computing, open-source practice, and repairability.",
+      "score": 9
+    },
+    {
+      "title": "Trump's order is a milestone for proponents of using psychedelics as medicine",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/04/21/nx-s1-5791755/trumps-order-is-a-milestone-for-proponents-of-using-psychedelics-as-medicine",
+      "published": "2026-04-21T20:10:47+00:00",
+      "summary": "President Trump has signed an executive order aimed at accelerating research and approval of psychedelics for treating mental health conditions, like depression, PTSD and addiction.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9
+    },
+    {
+      "title": "Opinion: School Vouchers Fail the Civil Rights Test. The Federal Program Is No Exception",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/school-vouchers-fail-the-civil-rights-test-the-federal-program-is-no-exception/",
+      "published": "2026-04-21T16:30:00+00:00",
+      "summary": "Our public education system rests on a foundation of civil rights protections. Public schools exist to serve every child.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 9
     },
     {
       "title": "California Schools Face Budget Cuts as Enrollment Drops by 74,961 Students",
@@ -44,66 +104,6 @@
       "published": "2026-04-21T12:30:00+00:00",
       "summary": "Enrollment in California K-12 schools, and in schools across the country, is declining rapidly as birth rates drop and immigration rates fall.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Trump’s latest border wall plans to slice through Big Bend national park: ‘Our lives are being upended’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/trump-border-wall-big-bend-texas",
-      "published": "2026-04-21T12:00:49+00:00",
-      "summary": "The rural Texas region, long spared, is being fast-tracked for the border wall amid bipartisan opposition Tractors suddenly appeared at the entrance to Chispa Road near the US-Mexico border in rural Big Bend, Texas, in late March.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Dragon Ball and Digimon producer Toei announces Toei Games, focusing on new IPs first",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/dragon-ball-and-digimon-anime-producer-toei-creates-toei-games-publisher",
-      "published": "2026-04-21T11:26:57+00:00",
-      "summary": "Anyone who even half-cares about anime knows about Toei Animation, but that's just one of the arms of Toei Company, a broader entertainment giant.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Yelp is making its AI chatbot way more useful",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade",
-      "published": "2026-04-21T10:42:54+00:00",
-      "summary": "Yelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Creating Communicators and Critical Thinkers: Soon There Will Be A Test For That",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/creating-communicators-and-critical-thinkers-soon-there-will-be-a-test-for-that/",
-      "published": "2026-04-21T10:30:00+00:00",
-      "summary": "Educators at the Making Waves Academy knew they wanted to teach high school students to be good communicators, problem solvers and critical thinkers to succeed in a rapidly changing world.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Tucker Carlson says he regrets backing Donald Trump and is ‘tormented’",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/tucker-carlson-regrets-trump-support",
-      "published": "2026-04-21T13:12:15+00:00",
-      "summary": "The podcaster admits he ‘misled’ supporters as his rift with the US president deepens over the Iran war US politics live – latest updates Tucker Carlson , a conservative podcaster, has said he is “tormented” by his support of Donald Trump…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "The surprising origin of 4 features that superglue kids — and adults — to screens",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/21/nx-s1-5776665/surprising-origin-features-superglue-kids-adults-to-screens",
-      "published": "2026-04-21T09:00:00+00:00",
-      "summary": "Taken together, these four features can create a trancelike state that can keep us stuck on social media apps or video games for hours. Children are particularly vulnerable.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 9
     },
     {
@@ -117,24 +117,24 @@
       "score": 8
     },
     {
-      "title": "Tim Cook to step down as Apple CEO. In letter, describes 15 years of emails",
+      "title": "What having a product guy as Apple's CEO might mean for the company",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/04/20/g-s1-118159/apple-ceo-tim-cook-stepping-down",
-      "published": "2026-04-20T21:57:52+00:00",
-      "summary": "The 65-year-old Cook will turn over CEO duties to Apple's head of hardware products, John Ternus, in September. Cook will remain with the company as executive chairman.",
+      "url": "https://www.npr.org/2026/04/21/nx-s1-5793865/what-having-a-product-guy-as-apples-ceo-might-mean-for-the-company",
+      "published": "2026-04-21T20:10:51+00:00",
+      "summary": "Apple's next CEO has been responsible for developing the hardware for many products. NPR's Juana Summers talks to Jay Peters of The Verge about what the company could look like under his leadership.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
+      "score": 7
     },
     {
-      "title": "Hokum Trailer Sees Adam Scott Surrounded By Dead Goats and an Evil Witch",
+      "title": "Some Silo Secrets May Finally Be Explained When Season 3 Premieres in July",
       "source": "Reactor",
       "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/hokum-trailer-adam-scott/",
-      "published": "2026-04-20T19:07:40+00:00",
-      "summary": "A long time ago, there was a witch who scared the crap out of me in this trailer The post Hokum Trailer Sees Adam Scott Surrounded By Dead Goats and an Evil Witch appeared first on Reactor .",
+      "url": "https://reactormag.com/silo-season-3-teaser-release-date/",
+      "published": "2026-04-21T16:34:30+00:00",
+      "summary": "We do not know why we are here. We do not know who built the silo. But we might, soon! The post Some Silo Secrets May Finally Be Explained When Season 3 Premieres in July appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
+      "score": 7
     }
   ],
   "youtube": [],
@@ -163,31 +163,7 @@
       "addedAt": "2026-04-20T15:00:00Z"
     }
   ],
-  "weather": {
-    "location": "02726 (Somerset, MA)",
-    "desc": "Patchy rain nearby",
-    "temp": "55",
-    "feels": "51",
-    "wind": "18",
-    "humidity": "54",
-    "days": [
-      {
-        "label": "Tue Apr 21",
-        "high": "55",
-        "low": "37"
-      },
-      {
-        "label": "Wed Apr 22",
-        "high": "57",
-        "low": "40"
-      },
-      {
-        "label": "Thu Apr 23",
-        "high": "58",
-        "low": "37"
-      }
-    ]
-  },
+  "weather": {},
   "stats": {
     "mainCount": 13,
     "youtubeCount": 0,
