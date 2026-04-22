@@ -1,19 +1,19 @@
 # James Daily Briefing
 
-Generated: 2026-04-22T14:00:01.762485Z
+Generated: 2026-04-22T18:01:39.502575Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire, How Bolivia’s cacao farmers took on the gold-mining industry – and won, and Adaptable AI Lessons with CSTA Responsible AI Fellow Tim Swick.
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire, Kids in State-Funded Preschools Hit Record High, but Program Quality Varies, and Anthropic’s Mythos rollout has missed America’s cybersecurity agency.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Overcast, 59°F (feels like 59°F), 19 mph wind, 51% humidity.
+02726 (Somerset, MA): Sunny, 57°F (feels like 55°F), 12 mph wind, 41% humidity.
 
 Forecast:
 - Wed Apr 22: high 58° / low 41°
 - Thu Apr 23: high 61° / low 38°
-- Fri Apr 24: high 59° / low 35°
+- Fri Apr 24: high 60° / low 36°
 
 ## Highlighted stories
 
@@ -41,43 +41,61 @@ State media says the ships have been transferred to Iran’s coast Trump announc
 
 Link: https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east
 
-### 2. How Bolivia’s cacao farmers took on the gold-mining industry – and won [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-As rising gold prices fuel environmental destruction, communities in the country’s biodiverse heartland are passing laws against mining Mahogany trees tower above Herminio Mamani as he tends his cacao farm in Bolivia ’s biodiverse…
-
-Link: https://www.theguardian.com/global-development/2026/apr/22/mining-agriculture-cacao-farmers-resisting-bolivia-gold-rush
-
-### 3. Adaptable AI Lessons with CSTA Responsible AI Fellow Tim Swick [10/10]
-**Source:** CSTA  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Tim Swick is a teacher for Lexington Richland School District 5 in South Carolina, where he is currently developing an...
-
-Link: https://csteachers.org/adaptable-ai-lessons-with-csta-responsible-ai-fellow-tim-swick/
-
-### 4. Nebraska Passes Special Ed Bill Without Proposed Protections for Students [10/10]
+### 2. Kids in State-Funded Preschools Hit Record High, but Program Quality Varies [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-This story was co-published with The Flatwater Free Press, Nebraska’s first independent, nonprofit newsroom focused on investigations and feature stories that matter. For Dave Murman, the issue was personal.
+If state-funded preschool programs are in a race, then it’s clear that some states are approaching the finish line while others have lost momentum.
 
-Link: https://www.the74million.org/article/nebraska-passes-special-ed-bill-without-proposed-protections-for-students/
+Link: https://www.the74million.org/zero2eight/kids-in-state-funded-preschools-hit-record-high-but-program-quality-varies/
 
-### 5. Anthropic’s most dangerous AI model just fell into the wrong hands [10/10]
+### 3. Anthropic’s Mythos rollout has missed America’s cybersecurity agency [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a "small group of unauthorized users," Bloomberg reports.
+Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security
+Link: https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out
 
-### 6. Internal emails show how Amazon raises prices across the Internet, lawsuit says [10/10]
+### 4. Ecco the Dolphin: Complete announced, includes remasters of the first two entries and brand-new game [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+As a millennial, I've always had a soft spot for the original Ecco the Dolphin games (not so much for the latter entries), so it was great to learn a while back a brand-new project is in development .
+
+Link: https://www.eurogamer.net/ecco-the-dolphin-complete-announced
+
+### 5. Democrats demand FBI director, Kash Patel, take alcohol abuse test [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Amid growing congressional scrutiny of his conduct, Patel has claimed he has ‘never been intoxicated on the job’ US politics live – latest updates House judiciary Democrats have launched a formal inquiry into the alleged drinking habits of…
+
+Link: https://www.theguardian.com/us-news/2026/apr/22/kash-patel-alcohol-abuse-democrats-fbi
+
+### 6. Indian med student rakes in thousands with AI-generated MAGA hottie [10/10]
+**Source:** Ars Technica  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+"Emily Hart" is a young, AI-created conservative woman who likes to take off her clothes.
+
+Link: https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/
+
+### 7. 12 unexpected sourdough bread recipes that aren't crusty loaves: From sourdough flatbread to sourdough milk bread — and even sourdough babka. [10/10]
+**Source:** King Arthur Baking  
+**Category:** Bread / food craft  
+**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
+
+While sourdough starter might conjure images of crusty artisan loaves , that only scratches the surface of naturally leavened breads.
+
+Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
+
+### 8. Internal emails show how Amazon raises prices across the Internet, lawsuit says [10/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -86,25 +104,16 @@ Link: https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mytho
 
 Link: https://arstechnica.com/tech-policy/2026/04/internal-emails-show-how-amazon-raises-prices-across-the-internet-lawsuit-says/
 
-### 7. The next Frostpunk game isn't a city builder, 11 Bit Studios reveal, alongside a modern "reimagining" of survival game This War Of Mine [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 9. Lestat Would Like a Word in the Trailer for The Vampire Lestat [9/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-11 Bit Studios have confirmed that they're making a brand new Frostpunk , alongside a "full" reimagining of their 2014 survival story This War Of Mine , and two other "completely new" games codenamed P14 and P12.
+He is a golden god, goddammit The post Lestat Would Like a Word in the Trailer for The Vampire Lestat appeared first on Reactor .
 
-Link: https://www.rockpapershotgun.com/the-next-frostpunk-game-isnt-a-city-builder-11-bit-studios-reveal-alongside-a-modern-reimagining-of-survival-game-this-war-of-mine
+Link: https://reactormag.com/the-vampire-lestat-trailer-2/
 
-### 8. This Is a Gardening Show review – Zach Galifianakis’ charming new series feels like perfect TV [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Part lesson, part lark, these 15-minute episodes are a total joy.
-
-Link: https://www.theguardian.com/tv-and-radio/2026/apr/22/this-is-a-gardening-show-review-zach-galifianakis-netflix
-
-### 9. Framework's CEO on the RAM crisis and creating a "MacBook Pro for Linux users" [9/10]
+### 10. Framework's CEO on the RAM crisis and creating a "MacBook Pro for Linux users" [9/10]
 **Source:** Ars Technica  
 **Category:** Linux / anti-obsolescence  
 **Why it matters:** Relevant to humane computing, open-source practice, and repairability.
@@ -112,15 +121,6 @@ Link: https://www.theguardian.com/tv-and-radio/2026/apr/22/this-is-a-gardening-s
 "We actually have slightly more Linux users than Windows users."
 
 Link: https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/
-
-### 10. Opinion: School Vouchers Fail the Civil Rights Test. The Federal Program Is No Exception [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Our public education system rests on a foundation of civil rights protections. Public schools exist to serve every child.
-
-Link: https://www.the74million.org/article/school-vouchers-fail-the-civil-rights-test-the-federal-program-is-no-exception/
 
 ### 11. Startups Brag They Spend More Money on AI Than Human Employees [8/10]
 **Source:** 404 Media  

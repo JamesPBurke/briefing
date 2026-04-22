@@ -1,59 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-22T14:00:01.762485Z",
-  "generatedAtDisplay": "2026-04-22 10:00 AM EDT",
+  "generatedAt": "2026-04-22T18:01:39.502575Z",
+  "generatedAtDisplay": "2026-04-22 02:01 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire, How Bolivia’s cacao farmers took on the gold-mining industry – and won, and Adaptable AI Lessons with CSTA Responsible AI Fellow Tim Swick.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire, Kids in State-Funded Preschools Hit Record High, but Program Quality Varies, and Anthropic’s Mythos rollout has missed America’s cybersecurity agency.",
   "mainItems": [
     {
       "title": "Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
-      "published": "2026-04-22T13:52:19+00:00",
+      "published": "2026-04-22T17:57:38+00:00",
       "summary": "State media says the ships have been transferred to Iran’s coast Trump announces ceasefire extension Why Trump’s erratic commentary is the real block to an Iran deal If you’re just joining us, here’s the main news of the day. It is 9.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "How Bolivia’s cacao farmers took on the gold-mining industry – and won",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/global-development/2026/apr/22/mining-agriculture-cacao-farmers-resisting-bolivia-gold-rush",
-      "published": "2026-04-22T11:45:23+00:00",
-      "summary": "As rising gold prices fuel environmental destruction, communities in the country’s biodiverse heartland are passing laws against mining Mahogany trees tower above Herminio Mamani as he tends his cacao farm in Bolivia ’s biodiverse…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Adaptable AI Lessons with CSTA Responsible AI Fellow Tim Swick",
-      "source": "CSTA",
-      "category": "Education / pedagogy",
-      "url": "https://csteachers.org/adaptable-ai-lessons-with-csta-responsible-ai-fellow-tim-swick/",
-      "published": "2026-04-22T11:00:00+00:00",
-      "summary": "Tim Swick is a teacher for Lexington Richland School District 5 in South Carolina, where he is currently developing an...",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Nebraska Passes Special Ed Bill Without Proposed Protections for Students",
+      "title": "Kids in State-Funded Preschools Hit Record High, but Program Quality Varies",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/nebraska-passes-special-ed-bill-without-proposed-protections-for-students/",
-      "published": "2026-04-22T10:01:00+00:00",
-      "summary": "This story was co-published with The Flatwater Free Press, Nebraska’s first independent, nonprofit newsroom focused on investigations and feature stories that matter. For Dave Murman, the issue was personal.",
+      "url": "https://www.the74million.org/zero2eight/kids-in-state-funded-preschools-hit-record-high-but-program-quality-varies/",
+      "published": "2026-04-22T17:13:03+00:00",
+      "summary": "If state-funded preschool programs are in a race, then it’s clear that some states are approaching the finish line while others have lost momentum.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
-      "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
+      "title": "Anthropic’s Mythos rollout has missed America’s cybersecurity agency",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
-      "published": "2026-04-22T09:30:13+00:00",
-      "summary": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports.",
+      "url": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out",
+      "published": "2026-04-22T17:12:21+00:00",
+      "summary": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Ecco the Dolphin: Complete announced, includes remasters of the first two entries and brand-new game",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/ecco-the-dolphin-complete-announced",
+      "published": "2026-04-22T15:48:09+00:00",
+      "summary": "As a millennial, I've always had a soft spot for the original Ecco the Dolphin games (not so much for the latter entries), so it was great to learn a while back a brand-new project is in development .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Democrats demand FBI director, Kash Patel, take alcohol abuse test",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/apr/22/kash-patel-alcohol-abuse-democrats-fbi",
+      "published": "2026-04-22T14:58:03+00:00",
+      "summary": "Amid growing congressional scrutiny of his conduct, Patel has claimed he has ‘never been intoxicated on the job’ US politics live – latest updates House judiciary Democrats have launched a formal inquiry into the alleged drinking habits of…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Indian med student rakes in thousands with AI-generated MAGA hottie",
+      "source": "Ars Technica",
+      "category": "CS education / AI policy",
+      "url": "https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/",
+      "published": "2026-04-22T14:13:01+00:00",
+      "summary": "\"Emily Hart\" is a young, AI-created conservative woman who likes to take off her clothes.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "12 unexpected sourdough bread recipes that aren't crusty loaves: From sourdough flatbread to sourdough milk bread — and even sourdough babka.",
+      "source": "King Arthur Baking",
+      "category": "Bread / food craft",
+      "url": "https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes",
+      "published": "2026-04-22T14:00:00+00:00",
+      "summary": "While sourdough starter might conjure images of crusty artisan loaves , that only scratches the surface of naturally leavened breads.",
+      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
       "score": 10
     },
     {
@@ -67,23 +87,13 @@
       "score": 10
     },
     {
-      "title": "The next Frostpunk game isn't a city builder, 11 Bit Studios reveal, alongside a modern \"reimagining\" of survival game This War Of Mine",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/the-next-frostpunk-game-isnt-a-city-builder-11-bit-studios-reveal-alongside-a-modern-reimagining-of-survival-game-this-war-of-mine",
-      "published": "2026-04-22T13:23:05+00:00",
-      "summary": "11 Bit Studios have confirmed that they're making a brand new Frostpunk , alongside a \"full\" reimagining of their 2014 survival story This War Of Mine , and two other \"completely new\" games codenamed P14 and P12.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "This Is a Gardening Show review – Zach Galifianakis’ charming new series feels like perfect TV",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/22/this-is-a-gardening-show-review-zach-galifianakis-netflix",
-      "published": "2026-04-22T11:06:04+00:00",
-      "summary": "Part lesson, part lark, these 15-minute episodes are a total joy.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Lestat Would Like a Word in the Trailer for The Vampire Lestat",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/the-vampire-lestat-trailer-2/",
+      "published": "2026-04-22T17:24:53+00:00",
+      "summary": "He is a golden god, goddammit The post Lestat Would Like a Word in the Trailer for The Vampire Lestat appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 9
     },
     {
@@ -94,16 +104,6 @@
       "published": "2026-04-21T20:22:20+00:00",
       "summary": "\"We actually have slightly more Linux users than Windows users.\"",
       "whyItMatters": "Relevant to humane computing, open-source practice, and repairability.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: School Vouchers Fail the Civil Rights Test. The Federal Program Is No Exception",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/school-vouchers-fail-the-civil-rights-test-the-federal-program-is-no-exception/",
-      "published": "2026-04-21T16:30:00+00:00",
-      "summary": "Our public education system rests on a foundation of civil rights protections. Public schools exist to serve every child.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 9
     },
     {
@@ -165,11 +165,11 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Overcast",
-    "temp": "59",
-    "feels": "59",
-    "wind": "19",
-    "humidity": "51",
+    "desc": "Sunny",
+    "temp": "57",
+    "feels": "55",
+    "wind": "12",
+    "humidity": "41",
     "days": [
       {
         "label": "Wed Apr 22",
@@ -183,8 +183,8 @@
       },
       {
         "label": "Fri Apr 24",
-        "high": "59",
-        "low": "35"
+        "high": "60",
+        "low": "36"
       }
     ]
   },
@@ -192,6 +192,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 9
+    "sourceCount": 10
   }
 }
