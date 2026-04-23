@@ -1,19 +1,19 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-23T12:06:10.666902Z",
-  "generatedAtDisplay": "2026-04-23 08:06 AM EDT",
+  "generatedAt": "2026-04-23T14:00:01.806714Z",
+  "generatedAtDisplay": "2026-04-23 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Middle East crisis live: US and Iran in blockade stalemate as Pentagon reportedly says clearing strait of Hormuz could take six months, Senate Republicans bypass Democrats to advance $70bn ICE and border patrol plan in ‘vote-a-rama’– US politics live, and Street Fighter 6's next DLC character Ingrid finally has a gameplay trailer and release date.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Europa Universalis 5 is getting its first big DLC in May, a race to save the crumbling Byzantine Empire, Senate Republicans bypass Democrats to advance $70bn ICE and border patrol plan in ‘vote-a-rama’– US politics live, and Trump to host bash for crypto investors tied to his coin sales.",
   "mainItems": [
     {
-      "title": "Middle East crisis live: US and Iran in blockade stalemate as Pentagon reportedly says clearing strait of Hormuz could take six months",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates",
-      "published": "2026-04-23T12:02:42+00:00",
-      "summary": "Leaked assessment says clearing mines could take half a year; US navy secretary leaves office ‘immediately’ ‘Impossible’ to reopen strait of Hormuz amid ‘flagrant’ ceasefire breaches, Iran says The Pentagon abruptly announced that the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Europa Universalis 5 is getting its first big DLC in May, a race to save the crumbling Byzantine Empire",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/europa-universalis-5-is-getting-its-first-big-dlc-a-race-to-save-the-crumbling-byzantine-empire",
+      "published": "2026-04-23T13:52:08+00:00",
+      "summary": "Unreasonably grand strategy game Europa Universalis 5 will get a Byzantine Empire-themed expansion called Fate of the Phoenix on May 6th, developers Paradox Interactive have announced.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -21,19 +21,19 @@
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/us-news/live/2026/apr/23/donald-trump-shutdown-ice-border-patrol-dhs-iran-democrats-republicans-latest-news-updates",
-      "published": "2026-04-23T11:57:42+00:00",
-      "summary": "Republicans deploy measure known as budget reconciliation to push through plan without backing from Democrats during lengthy late-night vote Sign up for the Breaking News US email President Donald Trump’s administration is considering more…",
+      "published": "2026-04-23T13:27:38+00:00",
+      "summary": "Republicans deploy measure known as budget reconciliation to push through plan without backing from Democrats during lengthy late-night vote Sign up for the Breaking News US email You’ve likely seen that the Senate adopted the plan for the…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Street Fighter 6's next DLC character Ingrid finally has a gameplay trailer and release date",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/street-fighter-6-ingrid-gameplay-trailer-release-date",
-      "published": "2026-04-23T11:37:57+00:00",
-      "summary": "A new Street Fighter 6 gameplay trailer has been released, showing off the move list for upcoming DLC character Ingrid. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Trump to host bash for crypto investors tied to his coin sales",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/23/trump-crypto-memecoin-event-mar-a-lago",
+      "published": "2026-04-23T13:10:02+00:00",
+      "summary": "Top buyers promised access at Mar-a-Lago event as Democrats and watchdogs warn of pay-to-play risks Donald Trump is slated to star at a cryptocurrency bash on 25 April at his Mar-a-Lago club for scores of purchasers of his crypto memecoin…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -57,16 +57,6 @@
       "score": 10
     },
     {
-      "title": "Thursday news quiz: insurance scams, drinking games and errors of biblical proportions",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/23/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-244",
-      "published": "2026-04-23T05:00:01+00:00",
-      "summary": "Test yourself on topical news trivia, pop culture and general knowledge every Thursday.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
       "title": "How to find a career you love – for gen Z and everyone else: ‘You don’t want your life’s compass to be dread’",
       "source": "The Guardian US",
       "category": "CS education / AI policy",
@@ -77,14 +67,34 @@
       "score": 10
     },
     {
-      "title": "OpenAI now lets teams make custom bots that can do work on their own",
+      "title": "Researchers Simulated a Delusional User to Test Chatbot Safety",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/delusion-using-chatgpt-gemini-claude-grok-safety-ai-psychosis-study/",
+      "published": "2026-04-23T13:52:19+00:00",
+      "summary": "Grok and Gemini encouraged delusions and isolated users, while the newer ChatGPT model and Claude hit the emotional brakes.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9
+    },
+    {
+      "title": "You’re about to feel the AI money squeeze",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
-      "published": "2026-04-22T20:09:02+00:00",
-      "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+      "published": "2026-04-23T13:38:20+00:00",
+      "summary": "Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthropic.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
+      "score": 9
+    },
+    {
+      "title": "Republican lawmakers attempt to shield big oil from climate lawsuits in ‘alarming’ bills",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/apr/23/republicans-big-oil-climate-lawsuits",
+      "published": "2026-04-23T12:00:09+00:00",
+      "summary": "Climate experts and advocates warn House and Senate bills will protect polluters at the cost of the climate Republican lawmakers are attempting to shield big oil from having to pay for its contributions to the climate crisis, alarming…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
     },
     {
       "title": "Russell Brand says he had ‘exploitative’ consensual sex with girl, 16, at height of his fame",
@@ -97,13 +107,13 @@
       "score": 9
     },
     {
-      "title": "12 unexpected sourdough bread recipes that aren't crusty loaves: From sourdough flatbread to sourdough milk bread — and even sourdough babka.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes",
-      "published": "2026-04-22T14:00:00+00:00",
-      "summary": "While sourdough starter might conjure images of crusty artisan loaves , that only scratches the surface of naturally leavened breads.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
+      "title": "Taraji P Henson: ‘It’s exhausting to have to fight for my worth’",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/culture/ng-interactive/2026/apr/23/taraji-p-henson-august-wilson-joe-turners-come-and-gone-interview",
+      "published": "2026-04-23T11:00:08+00:00",
+      "summary": "The Oscar-nominee on Hollywood burnout, Black resilience and her Broadway debut in August Wilson’s Joe Turner’s Come and Gone On a Wednesday evening in midtown New York, generations X through Z spill out of the Ethel Barrymore Theatre to…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -124,16 +134,6 @@
       "published": "2026-04-22T17:24:53+00:00",
       "summary": "He is a golden god, goddammit The post Lestat Would Like a Word in the Trailer for The Vampire Lestat appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
-      "title": "Startups Brag They Spend More Money on AI Than Human Employees",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/",
-      "published": "2026-04-22T13:11:08+00:00",
-      "summary": "A new class of AI startups say they are taking money that would normally be used to hire people and are spending it on AI compute instead.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
   ],
@@ -632,7 +632,7 @@
       "published": "2026-04-22T13:01:23+00:00",
       "summary": "Get ready for the final chapter...Heartstopper Forever arrives on 17th July, only on Netflix. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
+      "score": 8,
       "verdict": "Looks promising"
     },
     {
@@ -643,7 +643,7 @@
       "published": "2026-04-22T13:00:01+00:00",
       "summary": "Mexico has never won a World Cup… but someone decided that wasn’t a problem.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
+      "score": 8,
       "verdict": "Looks promising"
     },
     {
@@ -873,10 +873,10 @@
   "weather": {
     "location": "02726 (Somerset, MA)",
     "desc": "Sunny",
-    "temp": "57",
-    "feels": "54",
+    "temp": "63",
+    "feels": "63",
     "wind": "16",
-    "humidity": "63",
+    "humidity": "52",
     "days": [
       {
         "label": "Thu Apr 23",
@@ -899,6 +899,6 @@
     "mainCount": 13,
     "youtubeCount": 25,
     "trailerCount": 32,
-    "sourceCount": 21
+    "sourceCount": 20
   }
 }

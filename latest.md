@@ -1,14 +1,14 @@
 # James Daily Briefing
 
-Generated: 2026-04-23T12:06:10.666902Z
+Generated: 2026-04-23T14:00:01.806714Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Middle East crisis live: US and Iran in blockade stalemate as Pentagon reportedly says clearing strait of Hormuz could take six months, Senate Republicans bypass Democrats to advance $70bn ICE and border patrol plan in ‘vote-a-rama’– US politics live, and Street Fighter 6's next DLC character Ingrid finally has a gameplay trailer and release date.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Europa Universalis 5 is getting its first big DLC in May, a race to save the crumbling Byzantine Empire, Senate Republicans bypass Democrats to advance $70bn ICE and border patrol plan in ‘vote-a-rama’– US politics live, and Trump to host bash for crypto investors tied to his coin sales.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Sunny, 57°F (feels like 54°F), 16 mph wind, 63% humidity.
+02726 (Somerset, MA): Sunny, 63°F (feels like 63°F), 16 mph wind, 52% humidity.
 
 Forecast:
 - Thu Apr 23: high 62° / low 39°
@@ -37,32 +37,32 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. Middle East crisis live: US and Iran in blockade stalemate as Pentagon reportedly says clearing strait of Hormuz could take six months [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 1. Europa Universalis 5 is getting its first big DLC in May, a race to save the crumbling Byzantine Empire [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Leaked assessment says clearing mines could take half a year; US navy secretary leaves office ‘immediately’ ‘Impossible’ to reopen strait of Hormuz amid ‘flagrant’ ceasefire breaches, Iran says The Pentagon abruptly announced that the…
+Unreasonably grand strategy game Europa Universalis 5 will get a Byzantine Empire-themed expansion called Fate of the Phoenix on May 6th, developers Paradox Interactive have announced.
 
-Link: https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates
+Link: https://www.rockpapershotgun.com/europa-universalis-5-is-getting-its-first-big-dlc-a-race-to-save-the-crumbling-byzantine-empire
 
 ### 2. Senate Republicans bypass Democrats to advance $70bn ICE and border patrol plan in ‘vote-a-rama’– US politics live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Republicans deploy measure known as budget reconciliation to push through plan without backing from Democrats during lengthy late-night vote Sign up for the Breaking News US email President Donald Trump’s administration is considering more…
+Republicans deploy measure known as budget reconciliation to push through plan without backing from Democrats during lengthy late-night vote Sign up for the Breaking News US email You’ve likely seen that the Senate adopted the plan for the…
 
 Link: https://www.theguardian.com/us-news/live/2026/apr/23/donald-trump-shutdown-ice-border-patrol-dhs-iran-democrats-republicans-latest-news-updates
 
-### 3. Street Fighter 6's next DLC character Ingrid finally has a gameplay trailer and release date [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 3. Trump to host bash for crypto investors tied to his coin sales [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-A new Street Fighter 6 gameplay trailer has been released, showing off the move list for upcoming DLC character Ingrid. Read more
+Top buyers promised access at Mar-a-Lago event as Democrats and watchdogs warn of pay-to-play risks Donald Trump is slated to star at a cryptocurrency bash on 25 April at his Mar-a-Lago club for scores of purchasers of his crypto memecoin…
 
-Link: https://www.eurogamer.net/street-fighter-6-ingrid-gameplay-trailer-release-date
+Link: https://www.theguardian.com/us-news/2026/apr/23/trump-crypto-memecoin-event-mar-a-lago
 
 ### 4. Exclusive: High School Redesigns Curb Enrollment Loss, Report Finds [10/10]
 **Source:** The 74  
@@ -82,16 +82,7 @@ The AI models and chatbots that we interact with tend to affirm our feelings and
 
 Link: https://www.npr.org/2026/04/23/nx-s1-5792867/ai-chatbot-flattery-mental-health-risks
 
-### 6. Thursday news quiz: insurance scams, drinking games and errors of biblical proportions [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Test yourself on topical news trivia, pop culture and general knowledge every Thursday.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/apr/23/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-244
-
-### 7. How to find a career you love – for gen Z and everyone else: ‘You don’t want your life’s compass to be dread’ [10/10]
+### 6. How to find a career you love – for gen Z and everyone else: ‘You don’t want your life’s compass to be dread’ [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -100,16 +91,34 @@ In her new book, New York Times investigative journalist Jodi Kantor has set her
 
 Link: https://www.theguardian.com/us-news/2026/apr/23/jodi-kantor-interview-how-to-start-gen-z-careers-jobs
 
-### 8. OpenAI now lets teams make custom bots that can do work on their own [10/10]
+### 7. Researchers Simulated a Delusional User to Test Chatbot Safety [9/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Grok and Gemini encouraged delusions and isolated users, while the newer ChatGPT model and Claude hit the emotional brakes.
+
+Link: https://www.404media.co/delusion-using-chatgpt-gemini-claude-grok-safety-ai-psychosis-study/
+
+### 8. You’re about to feel the AI money squeeze [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based "workspace" agents available in ChatGPT that can perform business tasks.
+Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthropic.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots
+Link: https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue
 
-### 9. Russell Brand says he had ‘exploitative’ consensual sex with girl, 16, at height of his fame [9/10]
+### 9. Republican lawmakers attempt to shield big oil from climate lawsuits in ‘alarming’ bills [9/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Climate experts and advocates warn House and Senate bills will protect polluters at the cost of the climate Republican lawmakers are attempting to shield big oil from having to pay for its contributions to the climate crisis, alarming…
+
+Link: https://www.theguardian.com/us-news/2026/apr/23/republicans-big-oil-climate-lawsuits
+
+### 10. Russell Brand says he had ‘exploitative’ consensual sex with girl, 16, at height of his fame [9/10]
 **Source:** The Guardian US  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -118,16 +127,16 @@ Brand, who will be tried in October over allegations of rape and sexual assault,
 
 Link: https://www.theguardian.com/uk-news/2026/apr/23/russell-brand-says-he-had-exploitative-consensual-sex-with-girl-16-at-height-of-his-fame
 
-### 10. 12 unexpected sourdough bread recipes that aren't crusty loaves: From sourdough flatbread to sourdough milk bread — and even sourdough babka. [9/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
+### 11. Taraji P Henson: ‘It’s exhausting to have to fight for my worth’ [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-While sourdough starter might conjure images of crusty artisan loaves , that only scratches the surface of naturally leavened breads.
+The Oscar-nominee on Hollywood burnout, Black resilience and her Broadway debut in August Wilson’s Joe Turner’s Come and Gone On a Wednesday evening in midtown New York, generations X through Z spill out of the Ethel Barrymore Theatre to…
 
-Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
+Link: https://www.theguardian.com/culture/ng-interactive/2026/apr/23/taraji-p-henson-august-wilson-joe-turners-come-and-gone-interview
 
-### 11. How TikTok is driving American expats to Southeast Asia [8/10]
+### 12. How TikTok is driving American expats to Southeast Asia [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -136,7 +145,7 @@ Americans who moved to Vietnam and Thailand say their lives are now lower-stress
 
 Link: https://www.npr.org/2026/04/23/nx-s1-5763809/tiktok-moving-vietnam-thailand-american-expats
 
-### 12. Lestat Would Like a Word in the Trailer for The Vampire Lestat [8/10]
+### 13. Lestat Would Like a Word in the Trailer for The Vampire Lestat [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -144,15 +153,6 @@ Link: https://www.npr.org/2026/04/23/nx-s1-5763809/tiktok-moving-vietnam-thailan
 He is a golden god, goddammit The post Lestat Would Like a Word in the Trailer for The Vampire Lestat appeared first on Reactor .
 
 Link: https://reactormag.com/the-vampire-lestat-trailer-2/
-
-### 13. Startups Brag They Spend More Money on AI Than Human Employees [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-A new class of AI startups say they are taking money that would normally be used to hire people and are spending it on AI compute instead.
-
-Link: https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/
 
 ## YouTube
 
@@ -581,7 +581,7 @@ Are they "the one" or just the one you were warned about? Worst Ex Ever returns 
 
 Link: https://www.youtube.com/watch?v=_iKN26hplWY
 
-### #HeartstopperForever launch date revealed! [9/10]
+### #HeartstopperForever launch date revealed! [8/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -590,7 +590,7 @@ Get ready for the final chapter...Heartstopper Forever arrives on 17th July, onl
 
 Link: https://www.youtube.com/watch?v=jowTfVqVw48
 
-### Mexico 86 | Official Trailer | Netflix [9/10]
+### Mexico 86 | Official Trailer | Netflix [8/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
