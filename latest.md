@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-23T17:20:57.125374Z
+Generated: 2026-04-23T17:22:02.540861Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are US justice department watchdog to review release of Jeffrey Epstein files – live, Hung Cao, the former refugee who is Trump’s new acting navy secretary, and Vampire: The Masquerade - Bloodlines 2's gun toting, bird flipping, violent sheriff featuring DLC gets a release date.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Hung Cao, the former refugee who is Trump’s new acting navy secretary, US justice department watchdog to review release of Jeffrey Epstein files – live, and Vampire: The Masquerade - Bloodlines 2's gun toting, bird flipping, violent sheriff featuring DLC gets a release date.
 
 ## Briefing
 
@@ -37,16 +37,7 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. US justice department watchdog to review release of Jeffrey Epstein files – live [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Watchdog to ‘evaluate the DOJ’s processes for identifying, redacting, and releasing records in its possession as required’ by law Sign up for the Breaking News US email You’ve likely seen that the Senate adopted the plan for the budget…
-
-Link: https://www.theguardian.com/us-news/live/2026/apr/23/donald-trump-shutdown-ice-border-patrol-dhs-iran-democrats-republicans-latest-news-updates
-
-### 2. Hung Cao, the former refugee who is Trump’s new acting navy secretary [10/10]
+### 1. Hung Cao, the former refugee who is Trump’s new acting navy secretary [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -54,6 +45,15 @@ Link: https://www.theguardian.com/us-news/live/2026/apr/23/donald-trump-shutdown
 Vietnam-born Cao stood twice for federal office in Virginia and has called for upgrading of fleet to face new threats Sign up for the Breaking News US email to get newsletter alerts in your inbox The acting navy secretary, Hung Cao, who…
 
 Link: https://www.theguardian.com/us-news/2026/apr/23/hung-cao-new-navy-secretary
+
+### 2. US justice department watchdog to review release of Jeffrey Epstein files – live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Watchdog to ‘evaluate the DOJ’s processes for identifying, redacting, and releasing records in its possession as required’ by law Sign up for the Breaking News US email You’ve likely seen that the Senate adopted the plan for the budget…
+
+Link: https://www.theguardian.com/us-news/live/2026/apr/23/donald-trump-shutdown-ice-border-patrol-dhs-iran-democrats-republicans-latest-news-updates
 
 ### 3. Vampire: The Masquerade - Bloodlines 2's gun toting, bird flipping, violent sheriff featuring DLC gets a release date [10/10]
 **Source:** Rock Paper Shotgun  
@@ -410,106 +410,7 @@ We’re taking it back to the swamp. Shrek returns to theaters May 15. Tickets a
 
 Link: https://www.youtube.com/watch?v=ppDwfm6e498
 
-### The Muses Take to the World! 🌎🎶 #Xanadu #shorts [8/10]
-**Source:** Universal Pictures  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Bursting to life to "I'm Alive" by Electric Light Orchestra, the dancing muses fly through the word! Buy/Rent Xanadu now! iTunes: https://itunes.apple.com/us/movie/xanadu/id282480162 Amazon: https://www.amazon.
-
-Link: https://www.youtube.com/watch?v=USIEVsbmeUk
-
-### Xanadu | The Muses Come to Life (I'm Alive Song) [9/10]
-**Source:** Universal Pictures  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-The muses of the mural burst to life to "I'm Alive" by Electric Light Orchestra dancing through Los Angeles.
-
-Link: https://www.youtube.com/watch?v=wfDrvlRpMv0
-
-### The frosty looks of the Ice Queen | 🎬 The Huntsman: Winter’s War (2016) [6/10]
-**Source:** Universal Pictures  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-#TheHuntsman #EmilyBlunt #IceQueen #UniversalPictures #Shorts
-
-Link: https://www.youtube.com/watch?v=Cf1Yop_rEOY
-
-### The Devil Wears Prada 2 | World Premiere Livestream | Kenneth Branagh [5/10]
-**Source:** 20th Century Studios  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Kenneth Branagh enjoyed working along side Meryl Streep as Miranda's fourth husband, Stuart, in The Devil Wears Prada 2. Experience the film only in theaters May 1. Get tickets now: https://fandango.com/thedevilwearsprada2
-
-Link: https://www.youtube.com/watch?v=NFbMjvNZNTU
-
-### The Devil Wears Prada 2 | Behind the Fashion [7/10]
-**Source:** 20th Century Studios  
-**Verdict:** Worth a glance  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-The Devil Wears Prada 2 brings the world of fashion to theaters through the cast, iconic designers, and small details. Don't miss the film only in theaters May 1. Get tickets now: https://Fandango.
-
-Link: https://www.youtube.com/watch?v=t7Shi_Xkn_0
-
-### The Devil Wears Prada 2 | World Premiere Livestream | Anne Hathaway and Emily Blunt [7/10]
-**Source:** 20th Century Studios  
-**Verdict:** Worth a glance  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Fashon icons Anne Hathaway and Emily Blunt return as Andy Sachs and Emily Charlton in The Devil Wears Prada 2. Experience the film only in theaters May 1. Get tickets: https://Fandango.
-
-Link: https://www.youtube.com/watch?v=vmlewT9rV70
-
-### The Devil Wears Prada 2 | World Premiere Livestream | Meryl Streep and Stanley Tucci [7/10]
-**Source:** 20th Century Studios  
-**Verdict:** Worth a glance  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Meryl Streep and Stanley Tucci return as the iconic Miranda Priestly and Nigel Kipling. Experience The Devil Wears Prada 2 only in theaters May 1. Get tickets: https://fandango.
-
-Link: https://www.youtube.com/watch?v=bDHIHdhurxY
-
-### The Devil Wears Prada 2 | In Theaters May 1 [5/10]
-**Source:** 20th Century Studios  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-All smiles for Anne Hathaway at the World Premiere of The Devil Wears Prada 2. In theaters May 1.
-
-Link: https://www.youtube.com/watch?v=OVolHUHs9JA
-
-### The Devil Wears Prada 2 | In Theaters May 1 [5/10]
-**Source:** 20th Century Studios  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Winnie Harlow strikes a pose at The Devil Wears Prada 2 World Premiere.
-
-Link: https://www.youtube.com/watch?v=hYzHwzmtH0Y
-
-### The Devil Wears Prada 2 | In Theaters May 1 [5/10]
-**Source:** 20th Century Studios  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Simone Ashley has arrived to The Devil Wears Prada 2 World Premiere.
-
-Link: https://www.youtube.com/watch?v=a3VSuRnS3XE
-
-### The Devil Wears Prada 2 | In Theaters May 1 [5/10]
-**Source:** 20th Century Studios  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Helen J. Shen hits The Devil Wears Prada 2 World Premiere Red Carpet.
-
-Link: https://www.youtube.com/watch?v=JRpOCa-eZu8
-
-### BEEF | Behind the Score with Composer Finneas O’Connell | A24 [9/10]
+### BEEF | Behind the Score with Composer Finneas O’Connell | A24 [8/10]
 **Source:** A24  
 **Verdict:** Looks promising  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
@@ -517,15 +418,6 @@ Link: https://www.youtube.com/watch?v=JRpOCa-eZu8
 SUBSCRIBE: http://bit.ly/A24subscribe Listen to the soundtrack: https://a24music.lnk.
 
 Link: https://www.youtube.com/watch?v=7G5073lagSE
-
-### The Death of Robin Hood | Official Promo | A24 [6/10]
-**Source:** A24  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Michael Sarnoski and starring Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett and Noah Jupe. THE DEATH OF ROBIN HOOD – In theaters June 19.
-
-Link: https://www.youtube.com/watch?v=GSfq5jq7ChQ
 
 ### Mother Mary | Final Trailer | A24 [8/10]
 **Source:** A24  
@@ -544,15 +436,6 @@ Link: https://www.youtube.com/watch?v=aqYHOsuje1E
 Two teenage boys must escape a violent entity that takes the form of the person they desire most—each other.
 
 Link: https://www.youtube.com/watch?v=WXuK0vlFxII
-
-### The Mortuary Assistant - Willa Holland's Nightmare [7/10]
-**Source:** Shudder  
-**Verdict:** Worth a glance  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-The body no longer belongs to her. THE MORTUARY ASSISTANT is streaming now on Shudder.
-
-Link: https://www.youtube.com/watch?v=s85C9QqYcxo
 
 ### Worst Ex Ever Season 2 | Official Trailer [10/10]
 **Source:** Blumhouse  
@@ -626,15 +509,6 @@ In the race for glory, every secret has gravity. Star City premieres May 29 on A
 
 Link: https://www.youtube.com/watch?v=V-yAMs307W4
 
-### They certainly get their exercise. #Monarch: Legacy of Monsters — Now Streaming [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Monarch: Legacy of Monsters Season 2 is now streaming on Apple TV https://apple.
-
-Link: https://www.youtube.com/watch?v=jG6lsANDFVw
-
 ### Margo's Got Money Troubles — Nicole Kidman and Nick Offerman's Wrestling Match | Scene | Apple TV [10/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
@@ -643,42 +517,6 @@ Link: https://www.youtube.com/watch?v=jG6lsANDFVw
 These two know how to work a crowd. Watch Nicole Kidman and Nick Offerman duke it out. Margo's Got Money Troubles is now streaming on Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.
 
 Link: https://www.youtube.com/watch?v=aARvAl_CkVk
-
-### Time to unpack a few things. A new episode of #ImperfectWomen is now streaming. [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Elisabeth Moss, Kerry Washington & Kate Mara are your Imperfect Women, now streaming on Apple TV https://apple.co/_ImperfectWomen A new series starring Elisabeth Moss, Kerry Washington, and Kate Mara.
-
-Link: https://www.youtube.com/watch?v=JdiK81flivc
-
-### Before “One Less Lonely Girl,” she had a letter from her idol. Billie Eilish #TheWorldsALittleBlurry [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Billie Eilish: The World’s A Little Blurry is now streaming on Apple TV https://apple.
-
-Link: https://www.youtube.com/watch?v=1AcoajMIzcU
-
-### They can work a crowd. A new episode of #MargosGotMoneyTroubles is now streaming [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Margo's Got Money Troubles is now streaming on Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.
-
-Link: https://www.youtube.com/watch?v=V_ZG_uuC884
-
-### Monarch: Legacy of Monsters — Outpost 18 Set Tour | Behind The Scenes | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Welcome to Outpost 18. Let Anna Sawai, Kiersey Clemons, and Joe Tippett give you the grand tour. Monarch: Legacy of Monsters Season 2 is now streaming on Apple TV https://apple.
-
-Link: https://www.youtube.com/watch?v=ffp587s-Tdc
 
 ### Silo — Season 3 Official Teaser | Apple TV [9/10]
 **Source:** Apple TV  
