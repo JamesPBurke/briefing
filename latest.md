@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-23T17:22:02.540861Z
+Generated: 2026-04-23T17:22:52.002321Z
 
 Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Hung Cao, the former refugee who is Trump’s new acting navy secretary, US justice department watchdog to review release of Jeffrey Epstein files – live, and Vampire: The Masquerade - Bloodlines 2's gun toting, bird flipping, violent sheriff featuring DLC gets a release date.
 
@@ -401,9 +401,9 @@ Link: https://www.youtube.com/watch?v=LkJGuW04LgY
 
 ## Trailers / Previews
 
-### Shrek | 25th Anniversary Trailer [9/10]
+### Shrek | 25th Anniversary Trailer [7/10]
 **Source:** Universal Pictures  
-**Verdict:** Looks promising  
+**Verdict:** Worth a glance  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
 
 We’re taking it back to the swamp. Shrek returns to theaters May 15. Tickets available now.
