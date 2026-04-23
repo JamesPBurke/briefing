@@ -1,19 +1,39 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-23T17:23:18.598185Z",
-  "generatedAtDisplay": "2026-04-23 01:23 PM EDT",
+  "generatedAt": "2026-04-23T18:21:31.005707Z",
+  "generatedAtDisplay": "2026-04-23 02:21 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are US justice department watchdog to review release of Jeffrey Epstein files – live, Hung Cao, the former refugee who is Trump’s new acting navy secretary, and Vampire: The Masquerade - Bloodlines 2's gun toting, bird flipping, violent sheriff featuring DLC gets a release date.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are US justice department watchdog to review release of Jeffrey Epstein files – live, ‘Hairdryer or lighter?’: French police look at claim of sensor tampering to win weather bets, and OpenAI says its new GPT-5.5 model is more efficient and better at coding.",
   "mainItems": [
     {
       "title": "US justice department watchdog to review release of Jeffrey Epstein files – live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/us-news/live/2026/apr/23/donald-trump-shutdown-ice-border-patrol-dhs-iran-democrats-republicans-latest-news-updates",
-      "published": "2026-04-23T17:19:41+00:00",
+      "published": "2026-04-23T18:05:39+00:00",
       "summary": "Watchdog to ‘evaluate the DOJ’s processes for identifying, redacting, and releasing records in its possession as required’ by law Sign up for the Breaking News US email You’ve likely seen that the Senate adopted the plan for the budget…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Hairdryer or lighter?’: French police look at claim of sensor tampering to win weather bets",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/apr/23/hairdryer-or-lighter-french-police-look-at-claim-of-sensor-tampering-to-win-weather-bets",
+      "published": "2026-04-23T17:39:05+00:00",
+      "summary": "Forecasting service raises alarm over data from Paris airport used to settle Polymarket wagers on temperature French police are investigating alleged tampering with national weather forecasting service equipment after a series of unusual…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+      "published": "2026-04-23T17:33:13+00:00",
+      "summary": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI just released GPT-5.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
@@ -67,26 +87,6 @@
       "score": 10
     },
     {
-      "title": "Greenhouse gases from data center boom could outpace entire nations",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/04/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations/",
-      "published": "2026-04-23T14:51:16+00:00",
-      "summary": "Plants from OpenAI, Meta, xAI, and Microsoft could emit more than 129M tons annually.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "JetBlue sued over claims it uses customers’ personal data to set ticket prices",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/business/2026/apr/23/jetblue-lawsuit-personal-data-ticket-prices",
-      "published": "2026-04-23T14:12:51+00:00",
-      "summary": "Lawsuit follows exchange on X in which airline suggested customer should clear cache or book with incognito window Sign up for the Breaking News US email to get newsletter alerts in your inbox JetBlue has been sued in a proposed class…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
       "title": "AI's a suck up. Research shows how it flatters and suggests we're not to blame",
       "source": "NPR Health",
       "category": "Science / health",
@@ -97,13 +97,23 @@
       "score": 10
     },
     {
-      "title": "Everybody’s Paranoid in the Trailer for For All Mankind Spinoff Star City",
+      "title": "There Will Be Ducks in The Legend of Vox Machina Season 4 Trailer",
       "source": "Reactor",
       "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/star-city-trailer/",
-      "published": "2026-04-23T15:17:06+00:00",
-      "summary": "I don't think you can actually know what someone is thinking before they think it, but okay. The post Everybody’s Paranoid in the Trailer for For All Mankind Spinoff Star City appeared first on Reactor .",
+      "url": "https://reactormag.com/there-will-be-ducks-in-the-legend-of-vox-machina-season-4-trailer/",
+      "published": "2026-04-23T18:16:54+00:00",
+      "summary": "Don’t f--- a duck The post There Will Be Ducks in The Legend of Vox Machina Season 4 Trailer appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 9
+    },
+    {
+      "title": "Landmark report details lasting impact of slavery in key Georgia county",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/apr/23/fulton-county-georgia-slavery",
+      "published": "2026-04-23T18:06:37+00:00",
+      "summary": "Taskforce report examines how effects of slavery and Jim Crow in Fulton county continue to harm Black residents A Georgia taskforce has released a landmark report that details the lasting impact of slavery and its afterlives in Fulton…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -114,16 +124,6 @@
       "published": "2026-04-23T13:52:19+00:00",
       "summary": "Grok and Gemini encouraged delusions and isolated users, while the newer ChatGPT model and Claude hit the emotional brakes.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "Taraji P Henson: ‘It’s exhausting to have to fight for my worth’",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/culture/ng-interactive/2026/apr/23/taraji-p-henson-august-wilson-joe-turners-come-and-gone-interview",
-      "published": "2026-04-23T11:00:08+00:00",
-      "summary": "The Oscar-nominee on Hollywood burnout, Black resilience and her Broadway debut in August Wilson’s Joe Turner’s Come and Gone On a Wednesday evening in midtown New York, generations X through Z spill out of the Ethel Barrymore Theatre to…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -535,17 +535,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
-    },
-    {
-      "title": "Silo — Season 3 Official Teaser | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=C9-_VVX9BvE",
-      "published": "2026-04-21T13:59:48+00:00",
-      "summary": "The truth will surface. Silo returns July 3 on Apple TV https://apple.co/_Silo “Silo” is the story of the last ten thousand people on earth, their mile-deep home protecting them from the toxic and deadly world outside.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
     }
   ],
   "recommendations": {
@@ -653,10 +642,10 @@
   "weather": {
     "location": "02726 (Somerset, MA)",
     "desc": "Sunny",
-    "temp": "65",
-    "feels": "65",
-    "wind": "12",
-    "humidity": "39",
+    "temp": "61",
+    "feels": "61",
+    "wind": "10",
+    "humidity": "48",
     "days": [
       {
         "label": "Thu Apr 23",
@@ -678,7 +667,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 24,
-    "trailerCount": 13,
+    "trailerCount": 12,
     "sourceCount": 17
   }
 }
