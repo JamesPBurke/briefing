@@ -1,19 +1,19 @@
 # James Daily Briefing
 
-Generated: 2026-04-23T14:00:01.806714Z
+Generated: 2026-04-23T17:20:57.125374Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Europa Universalis 5 is getting its first big DLC in May, a race to save the crumbling Byzantine Empire, Senate Republicans bypass Democrats to advance $70bn ICE and border patrol plan in ‘vote-a-rama’– US politics live, and Trump to host bash for crypto investors tied to his coin sales.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are US justice department watchdog to review release of Jeffrey Epstein files – live, Hung Cao, the former refugee who is Trump’s new acting navy secretary, and Vampire: The Masquerade - Bloodlines 2's gun toting, bird flipping, violent sheriff featuring DLC gets a release date.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Sunny, 63°F (feels like 63°F), 16 mph wind, 52% humidity.
+02726 (Somerset, MA): Sunny, 65°F (feels like 65°F), 12 mph wind, 39% humidity.
 
 Forecast:
 - Thu Apr 23: high 62° / low 39°
-- Fri Apr 24: high 60° / low 36°
-- Sat Apr 25: high 59° / low 40°
+- Fri Apr 24: high 60° / low 37°
+- Sat Apr 25: high 59° / low 41°
 
 ## Highlighted stories
 
@@ -37,43 +37,79 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. Europa Universalis 5 is getting its first big DLC in May, a race to save the crumbling Byzantine Empire [10/10]
+### 1. US justice department watchdog to review release of Jeffrey Epstein files – live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Watchdog to ‘evaluate the DOJ’s processes for identifying, redacting, and releasing records in its possession as required’ by law Sign up for the Breaking News US email You’ve likely seen that the Senate adopted the plan for the budget…
+
+Link: https://www.theguardian.com/us-news/live/2026/apr/23/donald-trump-shutdown-ice-border-patrol-dhs-iran-democrats-republicans-latest-news-updates
+
+### 2. Hung Cao, the former refugee who is Trump’s new acting navy secretary [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Vietnam-born Cao stood twice for federal office in Virginia and has called for upgrading of fleet to face new threats Sign up for the Breaking News US email to get newsletter alerts in your inbox The acting navy secretary, Hung Cao, who…
+
+Link: https://www.theguardian.com/us-news/2026/apr/23/hung-cao-new-navy-secretary
+
+### 3. Vampire: The Masquerade - Bloodlines 2's gun toting, bird flipping, violent sheriff featuring DLC gets a release date [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Unreasonably grand strategy game Europa Universalis 5 will get a Byzantine Empire-themed expansion called Fate of the Phoenix on May 6th, developers Paradox Interactive have announced.
+After a rough launch last year, work on Vampire: The Masquerade - Bloodlines 2 continues, with the game's first DLC, Loose Cannon, having now settled on a release date: April 27th! That's soon, like next week soon as long as my materially…
 
-Link: https://www.rockpapershotgun.com/europa-universalis-5-is-getting-its-first-big-dlc-a-race-to-save-the-crumbling-byzantine-empire
+Link: https://www.rockpapershotgun.com/vampire-the-masquerade-bloodlines-2s-gun-toting-bird-flipping-violent-sheriff-featuring-dlc-gets-a-release-date
 
-### 2. Senate Republicans bypass Democrats to advance $70bn ICE and border patrol plan in ‘vote-a-rama’– US politics live [10/10]
+### 4. Trump’s navy secretary ousted over dispute about shipbuilding [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Republicans deploy measure known as budget reconciliation to push through plan without backing from Democrats during lengthy late-night vote Sign up for the Breaking News US email You’ve likely seen that the Senate adopted the plan for the…
+John Phelan firing caused by poor relationship with Pete Hegseth and slow movement on shipbuilding, sources say The Trump administration fired its top naval official on Wednesday in a move unrelated to the ongoing naval blockade of Iran’s…
 
-Link: https://www.theguardian.com/us-news/live/2026/apr/23/donald-trump-shutdown-ice-border-patrol-dhs-iran-democrats-republicans-latest-news-updates
+Link: https://www.theguardian.com/us-news/2026/apr/23/john-phelan-trump-navy-secretary-firing
 
-### 3. Trump to host bash for crypto investors tied to his coin sales [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Top buyers promised access at Mar-a-Lago event as Democrats and watchdogs warn of pay-to-play risks Donald Trump is slated to star at a cryptocurrency bash on 25 April at his Mar-a-Lago club for scores of purchasers of his crypto memecoin…
-
-Link: https://www.theguardian.com/us-news/2026/apr/23/trump-crypto-memecoin-event-mar-a-lago
-
-### 4. Exclusive: High School Redesigns Curb Enrollment Loss, Report Finds [10/10]
+### 5. Opinion: The Business Case Against Judging Schools Like Businesses [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Like many adults, Brooke Davis spent much of her college years preparing for a career she later realized wasn’t for her.
+Imagine if America’s favorite businesses had to operate by the same rules as your local public school. Starbucks would open every morning to a crowd of customers assigned by ZIP code.
 
-Link: https://www.the74million.org/article/exclusive-high-school-redesigns-curb-enrollment-loss-report-finds/
+Link: https://www.the74million.org/article/the-business-case-against-judging-schools-like-businesses/
 
-### 5. Sycophantic AI flatters and suggests you are not to blame [10/10]
+### 6. Assassin’s Creed Black Flag Resynced doesn’t include the Freedom Cry DLC, Ubisoft say they made a “clear choice” to focus on Edward’s adventure [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Yep, after years of messages in bottles washing ashore in the form of reports claiming Ubisoft are remaking Assassin’s Creed Black Flag, it’s finally coming on July 9th .
+
+Link: https://www.rockpapershotgun.com/assassins-creed-black-flag-resynced-doesnt-include-the-freedom-cry-dlc-ubisoft-say-they-made-a-clear-choice-to-focus-on-edwards-adventure
+
+### 7. Greenhouse gases from data center boom could outpace entire nations [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Plants from OpenAI, Meta, xAI, and Microsoft could emit more than 129M tons annually.
+
+Link: https://arstechnica.com/ai/2026/04/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations/
+
+### 8. JetBlue sued over claims it uses customers’ personal data to set ticket prices [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Lawsuit follows exchange on X in which airline suggested customer should clear cache or book with incognito window Sign up for the Breaking News US email to get newsletter alerts in your inbox JetBlue has been sued in a proposed class…
+
+Link: https://www.theguardian.com/business/2026/apr/23/jetblue-lawsuit-personal-data-ticket-prices
+
+### 9. AI's a suck up. Research shows how it flatters and suggests we're not to blame [10/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -82,16 +118,16 @@ The AI models and chatbots that we interact with tend to affirm our feelings and
 
 Link: https://www.npr.org/2026/04/23/nx-s1-5792867/ai-chatbot-flattery-mental-health-risks
 
-### 6. How to find a career you love – for gen Z and everyone else: ‘You don’t want your life’s compass to be dread’ [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 10. Everybody’s Paranoid in the Trailer for For All Mankind Spinoff Star City [9/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-In her new book, New York Times investigative journalist Jodi Kantor has set her mind to helping young people find their life’s work.
+I don't think you can actually know what someone is thinking before they think it, but okay. The post Everybody’s Paranoid in the Trailer for For All Mankind Spinoff Star City appeared first on Reactor .
 
-Link: https://www.theguardian.com/us-news/2026/apr/23/jodi-kantor-interview-how-to-start-gen-z-careers-jobs
+Link: https://reactormag.com/star-city-trailer/
 
-### 7. Researchers Simulated a Delusional User to Test Chatbot Safety [9/10]
+### 11. Researchers Simulated a Delusional User to Test Chatbot Safety [9/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -100,34 +136,7 @@ Grok and Gemini encouraged delusions and isolated users, while the newer ChatGPT
 
 Link: https://www.404media.co/delusion-using-chatgpt-gemini-claude-grok-safety-ai-psychosis-study/
 
-### 8. You’re about to feel the AI money squeeze [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthropic.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue
-
-### 9. Republican lawmakers attempt to shield big oil from climate lawsuits in ‘alarming’ bills [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Climate experts and advocates warn House and Senate bills will protect polluters at the cost of the climate Republican lawmakers are attempting to shield big oil from having to pay for its contributions to the climate crisis, alarming…
-
-Link: https://www.theguardian.com/us-news/2026/apr/23/republicans-big-oil-climate-lawsuits
-
-### 10. Russell Brand says he had ‘exploitative’ consensual sex with girl, 16, at height of his fame [9/10]
-**Source:** The Guardian US  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-Brand, who will be tried in October over allegations of rape and sexual assault, tells podcast he slept with 16-year-old when he was 30 Russell Brand said he had “exploitative” consensual sex with a 16-year-old girl at the height of his…
-
-Link: https://www.theguardian.com/uk-news/2026/apr/23/russell-brand-says-he-had-exploitative-consensual-sex-with-girl-16-at-height-of-his-fame
-
-### 11. Taraji P Henson: ‘It’s exhausting to have to fight for my worth’ [9/10]
+### 12. Taraji P Henson: ‘It’s exhausting to have to fight for my worth’ [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -136,7 +145,7 @@ The Oscar-nominee on Hollywood burnout, Black resilience and her Broadway debut 
 
 Link: https://www.theguardian.com/culture/ng-interactive/2026/apr/23/taraji-p-henson-august-wilson-joe-turners-come-and-gone-interview
 
-### 12. How TikTok is driving American expats to Southeast Asia [8/10]
+### 13. How TikTok is driving American expats to Southeast Asia [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -144,15 +153,6 @@ Link: https://www.theguardian.com/culture/ng-interactive/2026/apr/23/taraji-p-he
 Americans who moved to Vietnam and Thailand say their lives are now lower-stress and lower-cost. But glamorous videos on TikTok don't tell the whole story.
 
 Link: https://www.npr.org/2026/04/23/nx-s1-5763809/tiktok-moving-vietnam-thailand-american-expats
-
-### 13. Lestat Would Like a Word in the Trailer for The Vampire Lestat [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-He is a golden god, goddammit The post Lestat Would Like a Word in the Trailer for The Vampire Lestat appeared first on Reactor .
-
-Link: https://reactormag.com/the-vampire-lestat-trailer-2/
 
 ## YouTube
 
@@ -174,18 +174,36 @@ Professor Tarek Masoud joins WIRED to answer the internet's burning questions ab
 
 Link: https://www.youtube.com/watch?v=NKdyuKXkrPU
 
-### Harvard Professor Answers Iran War Questions | Tech Support | WIRED [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Professor Tarek Masoud joins WIRED to answer the internet's burning questions about the Iran War with Israel and the United States.
-
-Link: https://www.youtube.com/watch?v=HC47QcXrcfw
-
-### Texas can require displays of the Ten Commandments, in public schools, judges rules [9/10]
+### Senators grill RFK Jr. on vaccines as measles continues to spread [10/10]
 **Creator:** NPR  
 **Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Health Secretary Robert F. Kennedy Jr. was on Capitol Hill this week, where he was pressed by lawmakers about the rise in measles cases.
+
+Link: https://www.youtube.com/watch?v=mVcf7LLYJ1c
+
+### Israeli military struck every major bridge crossing into southern Lebanon, blocking aid [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The Israeli military struck every major bridge crossing the Litani River into southern Lebanon during the recent war against Hezbollah, including the Qasmiyeh coastal bridge in the final hours before the temporary ceasefire was announced.
+
+Link: https://www.youtube.com/watch?v=chHY_tK5mSM
+
+### Virginia voters back Democrats in national congressional redistricting fight [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Voters in Virginia have handed a victory to Democrats, narrowly agreeing to redraw congressional maps in their favor in their state.
+
+Link: https://www.youtube.com/watch?v=d8cCD7FIwSo
+
+### Texas can require displays of the Ten Commandments, in public schools, judges rules [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 A federal appeals court has upheld a Texas law requiring the display of the Ten Commandments in every public school classroom in the state.
@@ -228,32 +246,23 @@ Conspiracy theorist Alex Jones is vowing to fight a new deal that would allow th
 
 Link: https://www.youtube.com/watch?v=dIyh1NyqMms
 
-### What should young people prioritize in their first job — money or experience? [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
+### Should I Buy RTX 5080 Now For Path Tracing Or Wait For Next-Gen? [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
-What should young people prioritize in their first job — money or experience? "How to Start" author Jodi Kantor tells All Things Considered host Mary Louise Kelly there are a few things to keep in mind.
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
-Link: https://www.youtube.com/watch?v=nNOUufr_2so
+Link: https://www.youtube.com/watch?v=LuzG5sfWXl8
 
-### U.S. seizes Iranian ship in the Strait of Hormuz [7/10]
-**Creator:** NPR  
+### Ryzen 7 5800X3D Returning Is Brilliant News... But How Much Will It Cost? [7/10]
+**Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
-Iran is vowing to retaliate after the U.S. seized an Iranian-flagged vessel over the weekend. In a grainy, edited video released by Central Command, U.S. Marines are shown rappelling onto an Iranian-flagged vessel after U.S.
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
-Link: https://www.youtube.com/watch?v=GtejvxmG1cI
-
-### 8 children killed in Louisiana shooting [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Police in Shreveport, La., say eight children were shot and killed in a case of domestic violence in the city over the weekend. Investigators say seven of those killed were the gunman’s children, and another was a cousin.
-
-Link: https://www.youtube.com/watch?v=Bvs3hRfIZCk
+Link: https://www.youtube.com/watch?v=AMLMwhzeOXQ
 
 ### Why Increase Res with PSSR2 - Why Not Lower It With More Features? [7/10]
 **Creator:** Digital Foundry  
@@ -264,9 +273,9 @@ Link: https://www.youtube.com/watch?v=Bvs3hRfIZCk
 
 Link: https://www.youtube.com/watch?v=-jRgvW3i9XE
 
-### Pragmata PS5 Runs At 1080p - But We Got It Running At 1440p Somehow [7/10]
+### Pragmata PS5 Runs At 1080p - But We Got It Running At 1440p Somehow [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -291,23 +300,14 @@ Link: https://www.youtube.com/watch?v=oyeAkupkIwc
 
 Link: https://www.youtube.com/watch?v=7vgRjEbUN9o
 
-### The Worst Idea Ever: Placebo Console Settings Menus [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/y6YSbqhwcl4 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=_fFl-DkJip0
-
-### Why Is There Screen-Tearing On Some Xbox Games - But Not On PlayStation? [8/10]
-**Creator:** Digital Foundry  
+### Go Ahead, Make Me Cry | Semi-Ramblomatic [8/10]
+**Creator:** Second Wind  
 **Verdict:** Worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/y6YSbqhwcl4 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
 
-Link: https://www.youtube.com/watch?v=qeccSGOrJbE
+Link: https://www.youtube.com/watch?v=Qt8gXZ_afHY
 
 ### Possibly Finishing Returnal, Possibly Not Finishing Returnal w/ KC and Marty -- Part 9 [8/10]
 **Creator:** Second Wind  
@@ -327,9 +327,9 @@ This week on Yahtzee Tries... Yahtzee and Marty try out Vampire Crawlers and Gec
 
 Link: https://www.youtube.com/watch?v=iF3_6hMSi_8
 
-### The Second Wind Games Showcase - Spring 2026 Edition [9/10]
+### The Second Wind Games Showcase - Spring 2026 Edition [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This showcase is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join today and earn rewards for playing and wishlisting games from the showcase! – https://playtracker.
@@ -372,15 +372,6 @@ This video is brought to you by PlayTracker, the app that tracks your cross-plat
 
 Link: https://www.youtube.com/watch?v=LkJGuW04LgY
 
-### Is Hand-Holding Really a Gaming Sin? | Windbreaker Podcast [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty unpack the current state of hand-holding in games. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=4e7CsGQmBQg
-
 ## Entertainment Recommendations
 
 ### Newer shows that look like a fit
@@ -410,7 +401,16 @@ Link: https://www.youtube.com/watch?v=4e7CsGQmBQg
 
 ## Trailers / Previews
 
-### The Muses Take to the World! 🌎🎶 #Xanadu #shorts [9/10]
+### Shrek | 25th Anniversary Trailer [9/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+We’re taking it back to the swamp. Shrek returns to theaters May 15. Tickets available now.
+
+Link: https://www.youtube.com/watch?v=ppDwfm6e498
+
+### The Muses Take to the World! 🌎🎶 #Xanadu #shorts [8/10]
 **Source:** Universal Pictures  
 **Verdict:** Looks promising  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
@@ -428,70 +428,52 @@ The muses of the mural burst to life to "I'm Alive" by Electric Light Orchestra 
 
 Link: https://www.youtube.com/watch?v=wfDrvlRpMv0
 
-### The frosty looks of the Ice Queen | 🎬 The Huntsman: Winter’s War (2016) [7/10]
+### The frosty looks of the Ice Queen | 🎬 The Huntsman: Winter’s War (2016) [6/10]
 **Source:** Universal Pictures  
-**Verdict:** Worth a glance  
+**Verdict:** Optional  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
 
 #TheHuntsman #EmilyBlunt #IceQueen #UniversalPictures #Shorts
 
 Link: https://www.youtube.com/watch?v=Cf1Yop_rEOY
 
-### A lot to unpack here, man | 🎬 Dazed And Confused (1993) [6/10]
-**Source:** Universal Pictures  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-#DazedAndConfused #MillaJovovich #UniversalPictures #Shorts #Movies
-
-Link: https://www.youtube.com/watch?v=v64xwhPUWpg
-
-### MICHAEL | Before the Big Screen [6/10]
-**Source:** Universal Pictures  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-There's no other way to tell MICHAEL's story other than being epic. Get tickets now to see it on the big screen!
-
-Link: https://www.youtube.com/watch?v=EYs4nq08XSA
-
-### The Devil Wears Prada 2 | World Premiere Livestream | Kenneth Branagh [7/10]
+### The Devil Wears Prada 2 | World Premiere Livestream | Kenneth Branagh [5/10]
 **Source:** 20th Century Studios  
-**Verdict:** Worth a glance  
+**Verdict:** Optional  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
 
 Kenneth Branagh enjoyed working along side Meryl Streep as Miranda's fourth husband, Stuart, in The Devil Wears Prada 2. Experience the film only in theaters May 1. Get tickets now: https://fandango.com/thedevilwearsprada2
 
 Link: https://www.youtube.com/watch?v=NFbMjvNZNTU
 
-### The Devil Wears Prada 2 | Behind the Fashion [9/10]
+### The Devil Wears Prada 2 | Behind the Fashion [7/10]
 **Source:** 20th Century Studios  
-**Verdict:** Looks promising  
+**Verdict:** Worth a glance  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
 
 The Devil Wears Prada 2 brings the world of fashion to theaters through the cast, iconic designers, and small details. Don't miss the film only in theaters May 1. Get tickets now: https://Fandango.
 
 Link: https://www.youtube.com/watch?v=t7Shi_Xkn_0
 
-### The Devil Wears Prada 2 | World Premiere Livestream | Anne Hathaway and Emily Blunt [9/10]
+### The Devil Wears Prada 2 | World Premiere Livestream | Anne Hathaway and Emily Blunt [7/10]
 **Source:** 20th Century Studios  
-**Verdict:** Looks promising  
+**Verdict:** Worth a glance  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
 
 Fashon icons Anne Hathaway and Emily Blunt return as Andy Sachs and Emily Charlton in The Devil Wears Prada 2. Experience the film only in theaters May 1. Get tickets: https://Fandango.
 
 Link: https://www.youtube.com/watch?v=vmlewT9rV70
 
-### The Devil Wears Prada 2 | World Premiere Livestream | Meryl Streep and Stanley Tucci [9/10]
+### The Devil Wears Prada 2 | World Premiere Livestream | Meryl Streep and Stanley Tucci [7/10]
 **Source:** 20th Century Studios  
-**Verdict:** Looks promising  
+**Verdict:** Worth a glance  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
 
 Meryl Streep and Stanley Tucci return as the iconic Miranda Priestly and Nigel Kipling. Experience The Devil Wears Prada 2 only in theaters May 1. Get tickets: https://fandango.
 
 Link: https://www.youtube.com/watch?v=bDHIHdhurxY
 
-### The Devil Wears Prada 2 | In Theaters May 1 [6/10]
+### The Devil Wears Prada 2 | In Theaters May 1 [5/10]
 **Source:** 20th Century Studios  
 **Verdict:** Optional  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
@@ -500,7 +482,7 @@ All smiles for Anne Hathaway at the World Premiere of The Devil Wears Prada 2. I
 
 Link: https://www.youtube.com/watch?v=OVolHUHs9JA
 
-### The Devil Wears Prada 2 | In Theaters May 1 [6/10]
+### The Devil Wears Prada 2 | In Theaters May 1 [5/10]
 **Source:** 20th Century Studios  
 **Verdict:** Optional  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
@@ -509,7 +491,7 @@ Winnie Harlow strikes a pose at The Devil Wears Prada 2 World Premiere.
 
 Link: https://www.youtube.com/watch?v=hYzHwzmtH0Y
 
-### The Devil Wears Prada 2 | In Theaters May 1 [6/10]
+### The Devil Wears Prada 2 | In Theaters May 1 [5/10]
 **Source:** 20th Century Studios  
 **Verdict:** Optional  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
@@ -518,7 +500,7 @@ Simone Ashley has arrived to The Devil Wears Prada 2 World Premiere.
 
 Link: https://www.youtube.com/watch?v=a3VSuRnS3XE
 
-### The Devil Wears Prada 2 | In Theaters May 1 [6/10]
+### The Devil Wears Prada 2 | In Theaters May 1 [5/10]
 **Source:** 20th Century Studios  
 **Verdict:** Optional  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
@@ -526,6 +508,15 @@ Link: https://www.youtube.com/watch?v=a3VSuRnS3XE
 Helen J. Shen hits The Devil Wears Prada 2 World Premiere Red Carpet.
 
 Link: https://www.youtube.com/watch?v=JRpOCa-eZu8
+
+### BEEF | Behind the Score with Composer Finneas O’Connell | A24 [9/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe Listen to the soundtrack: https://a24music.lnk.
+
+Link: https://www.youtube.com/watch?v=7G5073lagSE
 
 ### The Death of Robin Hood | Official Promo | A24 [6/10]
 **Source:** A24  
@@ -554,25 +545,16 @@ Two teenage boys must escape a violent entity that takes the form of the person 
 
 Link: https://www.youtube.com/watch?v=WXuK0vlFxII
 
-### HOKUM - Final Trailer - Only In Theaters May 1 [8/10]
-**Source:** NEON  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-When novelist Ohm Bauman retreats to a remote inn to scatter his parents’ ashes, he is consumed by tales of a witch haunting the honeymoon suite.
-
-Link: https://www.youtube.com/watch?v=qU_i5e48KzQ
-
-### The Mortuary Assistant - Willa Holland's Nightmare [6/10]
+### The Mortuary Assistant - Willa Holland's Nightmare [7/10]
 **Source:** Shudder  
-**Verdict:** Optional  
+**Verdict:** Worth a glance  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
 
 The body no longer belongs to her. THE MORTUARY ASSISTANT is streaming now on Shudder.
 
 Link: https://www.youtube.com/watch?v=s85C9QqYcxo
 
-### Worst Ex Ever Season 2 | Official Trailer [9/10]
+### Worst Ex Ever Season 2 | Official Trailer [10/10]
 **Source:** Blumhouse  
 **Verdict:** Looks promising  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
@@ -581,7 +563,16 @@ Are they "the one" or just the one you were warned about? Worst Ex Ever returns 
 
 Link: https://www.youtube.com/watch?v=_iKN26hplWY
 
-### #HeartstopperForever launch date revealed! [8/10]
+### The Roast of Kevin Hart | Official Teaser | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Catch Kevin Hart getting roasted LIVE, only on Netflix on Sunday, May 10, at 5PM PT. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=8Z8EOc3InpY
+
+### #HeartstopperForever launch date revealed! [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -590,7 +581,7 @@ Get ready for the final chapter...Heartstopper Forever arrives on 17th July, onl
 
 Link: https://www.youtube.com/watch?v=jowTfVqVw48
 
-### Mexico 86 | Official Trailer | Netflix [8/10]
+### Mexico 86 | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -599,7 +590,7 @@ Mexico has never won a World Cup… but someone decided that wasn’t a problem.
 
 Link: https://www.youtube.com/watch?v=BIVgPq4-mOM
 
-### My Dearest Señorita | Official Trailer | Netflix [8/10]
+### My Dearest Señorita | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -608,7 +599,7 @@ Link: https://www.youtube.com/watch?v=BIVgPq4-mOM
 
 Link: https://www.youtube.com/watch?v=u0OhgW-RtW0
 
-### Worst Ex Ever: Season 2 | Official Trailer | Netflix [8/10]
+### Worst Ex Ever: Season 2 | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -617,7 +608,7 @@ From chilling betrayals to murder plots, this true-crime documentary series diss
 
 Link: https://www.youtube.com/watch?v=6nrk0bGttMU
 
-### Devil May Cry: Season 2 | Official Trailer | Netflix [8/10]
+### Devil May Cry: Season 2 | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -626,7 +617,16 @@ Team Dante. Team Vergil. One way ticket to Hell. See you May 12. From Capcom, le
 
 Link: https://www.youtube.com/watch?v=Jpie-fec5qY
 
-### They certainly get their exercise. #Monarch: Legacy of Monsters — Now Streaming [9/10]
+### Star City — Official Trailer | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+In the race for glory, every secret has gravity. Star City premieres May 29 on Apple TV https://apple.
+
+Link: https://www.youtube.com/watch?v=V-yAMs307W4
+
+### They certainly get their exercise. #Monarch: Legacy of Monsters — Now Streaming [10/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -635,7 +635,7 @@ Monarch: Legacy of Monsters Season 2 is now streaming on Apple TV https://apple.
 
 Link: https://www.youtube.com/watch?v=jG6lsANDFVw
 
-### Margo's Got Money Troubles — Nicole Kidman and Nick Offerman's Wrestling Match | Scene | Apple TV [9/10]
+### Margo's Got Money Troubles — Nicole Kidman and Nick Offerman's Wrestling Match | Scene | Apple TV [10/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -644,7 +644,7 @@ These two know how to work a crowd. Watch Nicole Kidman and Nick Offerman duke i
 
 Link: https://www.youtube.com/watch?v=aARvAl_CkVk
 
-### Time to unpack a few things. A new episode of #ImperfectWomen is now streaming. [8/10]
+### Time to unpack a few things. A new episode of #ImperfectWomen is now streaming. [10/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -653,7 +653,7 @@ Elisabeth Moss, Kerry Washington & Kate Mara are your Imperfect Women, now strea
 
 Link: https://www.youtube.com/watch?v=JdiK81flivc
 
-### Before “One Less Lonely Girl,” she had a letter from her idol. Billie Eilish #TheWorldsALittleBlurry [8/10]
+### Before “One Less Lonely Girl,” she had a letter from her idol. Billie Eilish #TheWorldsALittleBlurry [9/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -662,7 +662,7 @@ Billie Eilish: The World’s A Little Blurry is now streaming on Apple TV https:
 
 Link: https://www.youtube.com/watch?v=1AcoajMIzcU
 
-### They can work a crowd. A new episode of #MargosGotMoneyTroubles is now streaming [8/10]
+### They can work a crowd. A new episode of #MargosGotMoneyTroubles is now streaming [10/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -671,7 +671,7 @@ Margo's Got Money Troubles is now streaming on Apple TV https://apple.co/_Margos
 
 Link: https://www.youtube.com/watch?v=V_ZG_uuC884
 
-### Monarch: Legacy of Monsters — Outpost 18 Set Tour | Behind The Scenes | Apple TV [8/10]
+### Monarch: Legacy of Monsters — Outpost 18 Set Tour | Behind The Scenes | Apple TV [10/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -680,20 +680,11 @@ Welcome to Outpost 18. Let Anna Sawai, Kiersey Clemons, and Joe Tippett give you
 
 Link: https://www.youtube.com/watch?v=ffp587s-Tdc
 
-### Silo — Season 3 Official Teaser | Apple TV [7/10]
+### Silo — Season 3 Official Teaser | Apple TV [9/10]
 **Source:** Apple TV  
-**Verdict:** Worth a glance  
+**Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
 The truth will surface. Silo returns July 3 on Apple TV https://apple.co/_Silo “Silo” is the story of the last ten thousand people on earth, their mile-deep home protecting them from the toxic and deadly world outside.
 
 Link: https://www.youtube.com/watch?v=C9-_VVX9BvE
-
-### Margo's Got Money Troubles — I Will Not Be Judged | Scene | Apple TV [8/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Not your average grandma. Michelle Pfeiffer stars as Shyanne in Margo's Got Money Troubles. Now streaming on Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.
-
-Link: https://www.youtube.com/watch?v=S9EjVqPfVII

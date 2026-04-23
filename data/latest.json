@@ -1,53 +1,93 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-23T14:00:01.806714Z",
-  "generatedAtDisplay": "2026-04-23 10:00 AM EDT",
+  "generatedAt": "2026-04-23T17:20:57.125374Z",
+  "generatedAtDisplay": "2026-04-23 01:20 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Europa Universalis 5 is getting its first big DLC in May, a race to save the crumbling Byzantine Empire, Senate Republicans bypass Democrats to advance $70bn ICE and border patrol plan in ‘vote-a-rama’– US politics live, and Trump to host bash for crypto investors tied to his coin sales.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are US justice department watchdog to review release of Jeffrey Epstein files – live, Hung Cao, the former refugee who is Trump’s new acting navy secretary, and Vampire: The Masquerade - Bloodlines 2's gun toting, bird flipping, violent sheriff featuring DLC gets a release date.",
   "mainItems": [
     {
-      "title": "Europa Universalis 5 is getting its first big DLC in May, a race to save the crumbling Byzantine Empire",
+      "title": "US justice department watchdog to review release of Jeffrey Epstein files – live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/23/donald-trump-shutdown-ice-border-patrol-dhs-iran-democrats-republicans-latest-news-updates",
+      "published": "2026-04-23T17:19:41+00:00",
+      "summary": "Watchdog to ‘evaluate the DOJ’s processes for identifying, redacting, and releasing records in its possession as required’ by law Sign up for the Breaking News US email You’ve likely seen that the Senate adopted the plan for the budget…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Hung Cao, the former refugee who is Trump’s new acting navy secretary",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/23/hung-cao-new-navy-secretary",
+      "published": "2026-04-23T17:05:34+00:00",
+      "summary": "Vietnam-born Cao stood twice for federal office in Virginia and has called for upgrading of fleet to face new threats Sign up for the Breaking News US email to get newsletter alerts in your inbox The acting navy secretary, Hung Cao, who…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Vampire: The Masquerade - Bloodlines 2's gun toting, bird flipping, violent sheriff featuring DLC gets a release date",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/europa-universalis-5-is-getting-its-first-big-dlc-a-race-to-save-the-crumbling-byzantine-empire",
-      "published": "2026-04-23T13:52:08+00:00",
-      "summary": "Unreasonably grand strategy game Europa Universalis 5 will get a Byzantine Empire-themed expansion called Fate of the Phoenix on May 6th, developers Paradox Interactive have announced.",
+      "url": "https://www.rockpapershotgun.com/vampire-the-masquerade-bloodlines-2s-gun-toting-bird-flipping-violent-sheriff-featuring-dlc-gets-a-release-date",
+      "published": "2026-04-23T16:59:04+00:00",
+      "summary": "After a rough launch last year, work on Vampire: The Masquerade - Bloodlines 2 continues, with the game's first DLC, Loose Cannon, having now settled on a release date: April 27th! That's soon, like next week soon as long as my materially…",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Senate Republicans bypass Democrats to advance $70bn ICE and border patrol plan in ‘vote-a-rama’– US politics live",
+      "title": "Trump’s navy secretary ousted over dispute about shipbuilding",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/live/2026/apr/23/donald-trump-shutdown-ice-border-patrol-dhs-iran-democrats-republicans-latest-news-updates",
-      "published": "2026-04-23T13:27:38+00:00",
-      "summary": "Republicans deploy measure known as budget reconciliation to push through plan without backing from Democrats during lengthy late-night vote Sign up for the Breaking News US email You’ve likely seen that the Senate adopted the plan for the…",
+      "url": "https://www.theguardian.com/us-news/2026/apr/23/john-phelan-trump-navy-secretary-firing",
+      "published": "2026-04-23T16:55:34+00:00",
+      "summary": "John Phelan firing caused by poor relationship with Pete Hegseth and slow movement on shipbuilding, sources say The Trump administration fired its top naval official on Wednesday in a move unrelated to the ongoing naval blockade of Iran’s…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Trump to host bash for crypto investors tied to his coin sales",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/23/trump-crypto-memecoin-event-mar-a-lago",
-      "published": "2026-04-23T13:10:02+00:00",
-      "summary": "Top buyers promised access at Mar-a-Lago event as Democrats and watchdogs warn of pay-to-play risks Donald Trump is slated to star at a cryptocurrency bash on 25 April at his Mar-a-Lago club for scores of purchasers of his crypto memecoin…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Exclusive: High School Redesigns Curb Enrollment Loss, Report Finds",
+      "title": "Opinion: The Business Case Against Judging Schools Like Businesses",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/exclusive-high-school-redesigns-curb-enrollment-loss-report-finds/",
-      "published": "2026-04-23T11:01:00+00:00",
-      "summary": "Like many adults, Brooke Davis spent much of her college years preparing for a career she later realized wasn’t for her.",
+      "url": "https://www.the74million.org/article/the-business-case-against-judging-schools-like-businesses/",
+      "published": "2026-04-23T16:30:00+00:00",
+      "summary": "Imagine if America’s favorite businesses had to operate by the same rules as your local public school. Starbucks would open every morning to a crowd of customers assigned by ZIP code.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
-      "title": "Sycophantic AI flatters and suggests you are not to blame",
+      "title": "Assassin’s Creed Black Flag Resynced doesn’t include the Freedom Cry DLC, Ubisoft say they made a “clear choice” to focus on Edward’s adventure",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/assassins-creed-black-flag-resynced-doesnt-include-the-freedom-cry-dlc-ubisoft-say-they-made-a-clear-choice-to-focus-on-edwards-adventure",
+      "published": "2026-04-23T16:15:00+00:00",
+      "summary": "Yep, after years of messages in bottles washing ashore in the form of reports claiming Ubisoft are remaking Assassin’s Creed Black Flag, it’s finally coming on July 9th .",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Greenhouse gases from data center boom could outpace entire nations",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/ai/2026/04/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations/",
+      "published": "2026-04-23T14:51:16+00:00",
+      "summary": "Plants from OpenAI, Meta, xAI, and Microsoft could emit more than 129M tons annually.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "JetBlue sued over claims it uses customers’ personal data to set ticket prices",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/business/2026/apr/23/jetblue-lawsuit-personal-data-ticket-prices",
+      "published": "2026-04-23T14:12:51+00:00",
+      "summary": "Lawsuit follows exchange on X in which airline suggested customer should clear cache or book with incognito window Sign up for the Breaking News US email to get newsletter alerts in your inbox JetBlue has been sued in a proposed class…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "AI's a suck up. Research shows how it flatters and suggests we're not to blame",
       "source": "NPR Health",
       "category": "Science / health",
       "url": "https://www.npr.org/2026/04/23/nx-s1-5792867/ai-chatbot-flattery-mental-health-risks",
@@ -57,14 +97,14 @@
       "score": 10
     },
     {
-      "title": "How to find a career you love – for gen Z and everyone else: ‘You don’t want your life’s compass to be dread’",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/apr/23/jodi-kantor-interview-how-to-start-gen-z-careers-jobs",
-      "published": "2026-04-23T04:00:45+00:00",
-      "summary": "In her new book, New York Times investigative journalist Jodi Kantor has set her mind to helping young people find their life’s work.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "title": "Everybody’s Paranoid in the Trailer for For All Mankind Spinoff Star City",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/star-city-trailer/",
+      "published": "2026-04-23T15:17:06+00:00",
+      "summary": "I don't think you can actually know what someone is thinking before they think it, but okay. The post Everybody’s Paranoid in the Trailer for For All Mankind Spinoff Star City appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 9
     },
     {
       "title": "Researchers Simulated a Delusional User to Test Chatbot Safety",
@@ -74,36 +114,6 @@
       "published": "2026-04-23T13:52:19+00:00",
       "summary": "Grok and Gemini encouraged delusions and isolated users, while the newer ChatGPT model and Claude hit the emotional brakes.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "You’re about to feel the AI money squeeze",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
-      "published": "2026-04-23T13:38:20+00:00",
-      "summary": "Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthropic.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Republican lawmakers attempt to shield big oil from climate lawsuits in ‘alarming’ bills",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/apr/23/republicans-big-oil-climate-lawsuits",
-      "published": "2026-04-23T12:00:09+00:00",
-      "summary": "Climate experts and advocates warn House and Senate bills will protect polluters at the cost of the climate Republican lawmakers are attempting to shield big oil from having to pay for its contributions to the climate crisis, alarming…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "Russell Brand says he had ‘exploitative’ consensual sex with girl, 16, at height of his fame",
-      "source": "The Guardian US",
-      "category": "Security / computing",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/23/russell-brand-says-he-had-exploitative-consensual-sex-with-girl-16-at-height-of-his-fame",
-      "published": "2026-04-23T11:14:31+00:00",
-      "summary": "Brand, who will be tried in October over allegations of rape and sexual assault, tells podcast he slept with 16-year-old when he was 30 Russell Brand said he had “exploitative” consensual sex with a 16-year-old girl at the height of his…",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 9
     },
     {
@@ -124,16 +134,6 @@
       "published": "2026-04-23T09:00:00+00:00",
       "summary": "Americans who moved to Vietnam and Thailand say their lives are now lower-stress and lower-cost. But glamorous videos on TikTok don't tell the whole story.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "Lestat Would Like a Word in the Trailer for The Vampire Lestat",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/the-vampire-lestat-trailer-2/",
-      "published": "2026-04-22T17:24:53+00:00",
-      "summary": "He is a golden god, goddammit The post Lestat Would Like a Word in the Trailer for The Vampire Lestat appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     }
   ],
@@ -161,15 +161,37 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Harvard Professor Answers Iran War Questions | Tech Support | WIRED",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=HC47QcXrcfw",
-      "published": "2026-04-20T16:00:12+00:00",
-      "summary": "Professor Tarek Masoud joins WIRED to answer the internet's burning questions about the Iran War with Israel and the United States.",
+      "title": "Senators grill RFK Jr. on vaccines as measles continues to spread",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=mVcf7LLYJ1c",
+      "published": "2026-04-23T17:01:05+00:00",
+      "summary": "Health Secretary Robert F. Kennedy Jr. was on Capitol Hill this week, where he was pressed by lawmakers about the rise in measles cases.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 10,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Israeli military struck every major bridge crossing into southern Lebanon, blocking aid",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=chHY_tK5mSM",
+      "published": "2026-04-23T16:30:27+00:00",
+      "summary": "The Israeli military struck every major bridge crossing the Litani River into southern Lebanon during the recent war against Hezbollah, including the Qasmiyeh coastal bridge in the final hours before the temporary ceasefire was announced.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Virginia voters back Democrats in national congressional redistricting fight",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=d8cCD7FIwSo",
+      "published": "2026-04-23T16:00:58+00:00",
+      "summary": "Voters in Virginia have handed a victory to Democrats, narrowly agreeing to redraw congressional maps in their favor in their state.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Texas can require displays of the Ten Commandments, in public schools, judges rules",
@@ -179,8 +201,8 @@
       "published": "2026-04-22T16:30:07+00:00",
       "summary": "A federal appeals court has upheld a Texas law requiring the display of the Ten Commandments in every public school classroom in the state.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "What do bees have in common with humans?",
@@ -227,35 +249,24 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "What should young people prioritize in their first job — money or experience?",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=nNOUufr_2so",
-      "published": "2026-04-21T17:01:04+00:00",
-      "summary": "What should young people prioritize in their first job — money or experience? \"How to Start\" author Jodi Kantor tells All Things Considered host Mary Louise Kelly there are a few things to keep in mind.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "Should I Buy RTX 5080 Now For Path Tracing Or Wait For Next-Gen?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=LuzG5sfWXl8",
+      "published": "2026-04-23T17:00:35+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
-      "title": "U.S. seizes Iranian ship in the Strait of Hormuz",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=GtejvxmG1cI",
-      "published": "2026-04-20T19:00:13+00:00",
-      "summary": "Iran is vowing to retaliate after the U.S. seized an Iranian-flagged vessel over the weekend. In a grainy, edited video released by Central Command, U.S. Marines are shown rappelling onto an Iranian-flagged vessel after U.S.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "8 children killed in Louisiana shooting",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=Bvs3hRfIZCk",
-      "published": "2026-04-20T15:30:09+00:00",
-      "summary": "Police in Shreveport, La., say eight children were shot and killed in a case of domestic violence in the city over the weekend. Investigators say seven of those killed were the gunman’s children, and another was a cousin.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Ryzen 7 5800X3D Returning Is Brilliant News... But How Much Will It Cost?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=AMLMwhzeOXQ",
+      "published": "2026-04-23T16:00:26+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
     },
@@ -278,8 +289,8 @@
       "published": "2026-04-22T16:00:41+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Metro 2039 Reveal Reaction - This Looks Superb",
@@ -304,24 +315,13 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "The Worst Idea Ever: Placebo Console Settings Menus",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=_fFl-DkJip0",
-      "published": "2026-04-20T17:00:48+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/y6YSbqhwcl4 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Why Is There Screen-Tearing On Some Xbox Games - But Not On PlayStation?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=qeccSGOrJbE",
-      "published": "2026-04-20T16:01:21+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/y6YSbqhwcl4 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "title": "Go Ahead, Make Me Cry | Semi-Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=Qt8gXZ_afHY",
+      "published": "2026-04-23T15:05:18+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
     },
@@ -355,8 +355,8 @@
       "published": "2026-04-22T16:01:47+00:00",
       "summary": "This showcase is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join today and earn rewards for playing and wishlisting games from the showcase! – https://playtracker.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Atari Versus Nintendo: The Curse of the Rabbit | Fully Ramblomatic",
@@ -401,20 +401,20 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Is Hand-Holding Really a Gaming Sin? | Windbreaker Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=4e7CsGQmBQg",
-      "published": "2026-04-20T19:27:18+00:00",
-      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty unpack the current state of hand-holding in games. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     }
   ],
   "trailers": [
+    {
+      "title": "Shrek | 25th Anniversary Trailer",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ppDwfm6e498",
+      "published": "2026-04-23T15:01:32+00:00",
+      "summary": "We’re taking it back to the swamp. Shrek returns to theaters May 15. Tickets available now.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
     {
       "title": "The Muses Take to the World! 🌎🎶 #Xanadu #shorts",
       "source": "Universal Pictures",
@@ -423,7 +423,7 @@
       "published": "2026-04-22T19:00:34+00:00",
       "summary": "Bursting to life to \"I'm Alive\" by Electric Light Orchestra, the dancing muses fly through the word! Buy/Rent Xanadu now! iTunes: https://itunes.apple.com/us/movie/xanadu/id282480162 Amazon: https://www.amazon.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
+      "score": 8,
       "verdict": "Looks promising"
     },
     {
@@ -445,28 +445,6 @@
       "published": "2026-04-21T17:00:27+00:00",
       "summary": "#TheHuntsman #EmilyBlunt #IceQueen #UniversalPictures #Shorts",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "A lot to unpack here, man | 🎬 Dazed And Confused (1993)",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=v64xwhPUWpg",
-      "published": "2026-04-20T17:01:20+00:00",
-      "summary": "#DazedAndConfused #MillaJovovich #UniversalPictures #Shorts #Movies",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "MICHAEL | Before the Big Screen",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=EYs4nq08XSA",
-      "published": "2026-04-20T15:00:17+00:00",
-      "summary": "There's no other way to tell MICHAEL's story other than being epic. Get tickets now to see it on the big screen!",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 6,
       "verdict": "Optional"
     },
@@ -478,8 +456,8 @@
       "published": "2026-04-22T22:46:26+00:00",
       "summary": "Kenneth Branagh enjoyed working along side Meryl Streep as Miranda's fourth husband, Stuart, in The Devil Wears Prada 2. Experience the film only in theaters May 1. Get tickets now: https://fandango.com/thedevilwearsprada2",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
+      "score": 5,
+      "verdict": "Optional"
     },
     {
       "title": "The Devil Wears Prada 2 | Behind the Fashion",
@@ -489,8 +467,8 @@
       "published": "2026-04-22T22:17:59+00:00",
       "summary": "The Devil Wears Prada 2 brings the world of fashion to theaters through the cast, iconic designers, and small details. Don't miss the film only in theaters May 1. Get tickets now: https://Fandango.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
+      "score": 7,
+      "verdict": "Worth a glance"
     },
     {
       "title": "The Devil Wears Prada 2 | World Premiere Livestream | Anne Hathaway and Emily Blunt",
@@ -500,8 +478,8 @@
       "published": "2026-04-22T21:37:42+00:00",
       "summary": "Fashon icons Anne Hathaway and Emily Blunt return as Andy Sachs and Emily Charlton in The Devil Wears Prada 2. Experience the film only in theaters May 1. Get tickets: https://Fandango.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
+      "score": 7,
+      "verdict": "Worth a glance"
     },
     {
       "title": "The Devil Wears Prada 2 | World Premiere Livestream | Meryl Streep and Stanley Tucci",
@@ -511,8 +489,8 @@
       "published": "2026-04-22T21:36:46+00:00",
       "summary": "Meryl Streep and Stanley Tucci return as the iconic Miranda Priestly and Nigel Kipling. Experience The Devil Wears Prada 2 only in theaters May 1. Get tickets: https://fandango.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
+      "score": 7,
+      "verdict": "Worth a glance"
     },
     {
       "title": "The Devil Wears Prada 2 | In Theaters May 1",
@@ -522,7 +500,7 @@
       "published": "2026-04-21T01:09:54+00:00",
       "summary": "All smiles for Anne Hathaway at the World Premiere of The Devil Wears Prada 2. In theaters May 1.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
+      "score": 5,
       "verdict": "Optional"
     },
     {
@@ -533,7 +511,7 @@
       "published": "2026-04-21T01:09:02+00:00",
       "summary": "Winnie Harlow strikes a pose at The Devil Wears Prada 2 World Premiere.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
+      "score": 5,
       "verdict": "Optional"
     },
     {
@@ -544,7 +522,7 @@
       "published": "2026-04-21T01:08:23+00:00",
       "summary": "Simone Ashley has arrived to The Devil Wears Prada 2 World Premiere.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
+      "score": 5,
       "verdict": "Optional"
     },
     {
@@ -555,8 +533,19 @@
       "published": "2026-04-21T01:07:46+00:00",
       "summary": "Helen J. Shen hits The Devil Wears Prada 2 World Premiere Red Carpet.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
+      "score": 5,
       "verdict": "Optional"
+    },
+    {
+      "title": "BEEF | Behind the Score with Composer Finneas O’Connell | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=7G5073lagSE",
+      "published": "2026-04-23T14:00:00+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe Listen to the soundtrack: https://a24music.lnk.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
     },
     {
       "title": "The Death of Robin Hood | Official Promo | A24",
@@ -592,17 +581,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "HOKUM - Final Trailer - Only In Theaters May 1",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=qU_i5e48KzQ",
-      "published": "2026-04-20T16:01:22+00:00",
-      "summary": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents’ ashes, he is consumed by tales of a witch haunting the honeymoon suite.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "The Mortuary Assistant - Willa Holland's Nightmare",
       "source": "Shudder",
       "category": "Film / trailer",
@@ -610,8 +588,8 @@
       "published": "2026-04-21T20:10:10+00:00",
       "summary": "The body no longer belongs to her. THE MORTUARY ASSISTANT is streaming now on Shudder.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
+      "score": 7,
+      "verdict": "Worth a glance"
     },
     {
       "title": "Worst Ex Ever Season 2 | Official Trailer",
@@ -621,7 +599,18 @@
       "published": "2026-04-21T17:22:05+00:00",
       "summary": "Are they \"the one\" or just the one you were warned about? Worst Ex Ever returns to Netflix on May 6 for Season 2 with true, harrowing tales of monstrous relationships and unhinged exes.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Roast of Kevin Hart | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=8Z8EOc3InpY",
+      "published": "2026-04-23T14:00:00+00:00",
+      "summary": "Catch Kevin Hart getting roasted LIVE, only on Netflix on Sunday, May 10, at 5PM PT. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -632,7 +621,7 @@
       "published": "2026-04-22T13:01:23+00:00",
       "summary": "Get ready for the final chapter...Heartstopper Forever arrives on 17th July, only on Netflix. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -643,7 +632,7 @@
       "published": "2026-04-22T13:00:01+00:00",
       "summary": "Mexico has never won a World Cup… but someone decided that wasn’t a problem.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -654,7 +643,7 @@
       "published": "2026-04-22T10:00:00+00:00",
       "summary": "‘My Dearest Señorita’ follows Adela, a woman who has always lived within boundaries set by others, until a revelation changes everything.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -665,7 +654,7 @@
       "published": "2026-04-21T16:30:00+00:00",
       "summary": "From chilling betrayals to murder plots, this true-crime documentary series dissects the dark side of love through eyewitness testimonies. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -676,7 +665,18 @@
       "published": "2026-04-21T15:00:00+00:00",
       "summary": "Team Dante. Team Vergil. One way ticket to Hell. See you May 12. From Capcom, led by Adi Shankar, and animated by Studio Mir comes Devil May Cry 2 - a Netflix animated series based on the hit video game franchise.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Star City — Official Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=V-yAMs307W4",
+      "published": "2026-04-23T13:59:56+00:00",
+      "summary": "In the race for glory, every secret has gravity. Star City premieres May 29 on Apple TV https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -687,7 +687,7 @@
       "published": "2026-04-22T17:59:50+00:00",
       "summary": "Monarch: Legacy of Monsters Season 2 is now streaming on Apple TV https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -698,7 +698,7 @@
       "published": "2026-04-22T16:59:53+00:00",
       "summary": "These two know how to work a crowd. Watch Nicole Kidman and Nick Offerman duke it out. Margo's Got Money Troubles is now streaming on Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -709,7 +709,7 @@
       "published": "2026-04-22T01:29:51+00:00",
       "summary": "Elisabeth Moss, Kerry Washington & Kate Mara are your Imperfect Women, now streaming on Apple TV https://apple.co/_ImperfectWomen A new series starring Elisabeth Moss, Kerry Washington, and Kate Mara.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -720,7 +720,7 @@
       "published": "2026-04-21T23:29:49+00:00",
       "summary": "Billie Eilish: The World’s A Little Blurry is now streaming on Apple TV https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -731,7 +731,7 @@
       "published": "2026-04-21T18:59:50+00:00",
       "summary": "Margo's Got Money Troubles is now streaming on Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -742,7 +742,7 @@
       "published": "2026-04-21T17:59:48+00:00",
       "summary": "Welcome to Outpost 18. Let Anna Sawai, Kiersey Clemons, and Joe Tippett give you the grand tour. Monarch: Legacy of Monsters Season 2 is now streaming on Apple TV https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -753,18 +753,7 @@
       "published": "2026-04-21T13:59:48+00:00",
       "summary": "The truth will surface. Silo returns July 3 on Apple TV https://apple.co/_Silo “Silo” is the story of the last ten thousand people on earth, their mile-deep home protecting them from the toxic and deadly world outside.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "Margo's Got Money Troubles — I Will Not Be Judged | Scene | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=S9EjVqPfVII",
-      "published": "2026-04-20T19:59:47+00:00",
-      "summary": "Not your average grandma. Michelle Pfeiffer stars as Shyanne in Margo's Got Money Troubles. Now streaming on Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
+      "score": 9,
       "verdict": "Looks promising"
     }
   ],
@@ -873,10 +862,10 @@
   "weather": {
     "location": "02726 (Somerset, MA)",
     "desc": "Sunny",
-    "temp": "63",
-    "feels": "63",
-    "wind": "16",
-    "humidity": "52",
+    "temp": "65",
+    "feels": "65",
+    "wind": "12",
+    "humidity": "39",
     "days": [
       {
         "label": "Thu Apr 23",
@@ -886,18 +875,18 @@
       {
         "label": "Fri Apr 24",
         "high": "60",
-        "low": "36"
+        "low": "37"
       },
       {
         "label": "Sat Apr 25",
         "high": "59",
-        "low": "40"
+        "low": "41"
       }
     ]
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 25,
+    "youtubeCount": 24,
     "trailerCount": 32,
     "sourceCount": 20
   }
