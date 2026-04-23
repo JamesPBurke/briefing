@@ -1,19 +1,59 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-23T09:01:20.502095Z",
-  "generatedAtDisplay": "2026-04-23 05:01 AM EDT",
+  "generatedAt": "2026-04-23T12:02:56.346135Z",
+  "generatedAtDisplay": "2026-04-23 08:02 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Middle East crisis live: US and Iran in blockade stalemate as Washington’s navy secretary leaves office ‘immediately’, Thursday news quiz: insurance scams, drinking games and errors of biblical proportions, and How to find a career you love – for gen Z and everyone else: ‘You don’t want your life’s compass to be dread’.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Middle East crisis live: US and Iran in blockade stalemate as Pentagon reportedly says clearing strait of Hormuz could take six months, Senate Republicans bypass Democrats to advance $70bn ICE and border patrol plan in ‘vote-a-rama’– US politics live, and Street Fighter 6's next DLC character Ingrid finally has a gameplay trailer and release date.",
   "mainItems": [
     {
-      "title": "Middle East crisis live: US and Iran in blockade stalemate as Washington’s navy secretary leaves office ‘immediately’",
+      "title": "Middle East crisis live: US and Iran in blockade stalemate as Pentagon reportedly says clearing strait of Hormuz could take six months",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates",
-      "published": "2026-04-23T08:52:51+00:00",
-      "summary": "Iran says two seized ships transferred to its coast; US navy secretary exiting post ‘effective immediately’, says Pentagon ‘Impossible’ to reopen strait of Hormuz amid ‘flagrant’ ceasefire breaches, Iran says The Pentagon abruptly…",
+      "published": "2026-04-23T11:41:29+00:00",
+      "summary": "Leaked assessment says clearing mines could take half a year; US navy secretary leaves office ‘immediately’ ‘Impossible’ to reopen strait of Hormuz amid ‘flagrant’ ceasefire breaches, Iran says The Pentagon abruptly announced that the…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Senate Republicans bypass Democrats to advance $70bn ICE and border patrol plan in ‘vote-a-rama’– US politics live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/23/donald-trump-shutdown-ice-border-patrol-dhs-iran-democrats-republicans-latest-news-updates",
+      "published": "2026-04-23T11:40:17+00:00",
+      "summary": "Republicans deploy measure known as budget reconciliation to push through plan without backing from Democrats during lengthy late-night vote Sign up for the Breaking News US email Donald Trump’s years-long campaign to undermine faith in US…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Street Fighter 6's next DLC character Ingrid finally has a gameplay trailer and release date",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/street-fighter-6-ingrid-gameplay-trailer-release-date",
+      "published": "2026-04-23T11:37:57+00:00",
+      "summary": "A new Street Fighter 6 gameplay trailer has been released, showing off the move list for upcoming DLC character Ingrid. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Exclusive: High School Redesigns Curb Enrollment Loss, Report Finds",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/exclusive-high-school-redesigns-curb-enrollment-loss-report-finds/",
+      "published": "2026-04-23T11:01:00+00:00",
+      "summary": "Like many adults, Brooke Davis spent much of her college years preparing for a career she later realized wasn’t for her.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Sycophantic AI flatters and suggests you are not to blame",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/04/23/nx-s1-5792867/ai-chatbot-flattery-mental-health-risks",
+      "published": "2026-04-23T10:00:00+00:00",
+      "summary": "The AI models and chatbots that we interact with tend to affirm our feelings and viewpoints — more so than people do, with potentially worrisome consequences.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 10
     },
     {
@@ -37,26 +77,6 @@
       "score": 10
     },
     {
-      "title": "‘Lawrence is karma’: the gangster who became an icon of Modi’s India",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/apr/23/lawrence-bishnoi-gangster-icon-modi-india",
-      "published": "2026-04-23T04:00:45+00:00",
-      "summary": "Lawrence Bishnoi has been in high-security custody for more than a decade. During that time, he has been linked to multiple high-profile killings, both in India and as far afield as Canada.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Czech journalists threaten to strike over plan to scrap licence fees",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/apr/23/czech-journalists-threaten-to-strike-over-plan-to-scrap-licence-fees",
-      "published": "2026-04-23T04:00:45+00:00",
-      "summary": "Government aims to move TV and radio funding under state control, which critics say undermines independence Journalists at the Czech Republic’s public broadcasters have said they are prepared to go on strike unless the government of the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "OpenAI now lets teams make custom bots that can do work on their own",
       "source": "The Verge",
       "category": "AI / computing",
@@ -67,23 +87,13 @@
       "score": 10
     },
     {
-      "title": "Opinion: How New York City Can Offer Schools That Are Both Integrated and Rigorous",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/how-new-york-city-can-offer-schools-that-are-both-integrated-and-rigorous/",
-      "published": "2026-04-22T18:30:00+00:00",
-      "summary": "Each summer during new employee orientation at Prospect Schools, I open with a hard reality: Despite the landmark 1954 Supreme Court ruling in Brown v. Board of Education, most school districts remain deeply segregated.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Ecco the Dolphin: Complete announced, includes remasters of the first two entries and brand-new game",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/ecco-the-dolphin-complete-announced",
-      "published": "2026-04-22T15:48:09+00:00",
-      "summary": "As a millennial, I've always had a soft spot for the original Ecco the Dolphin games (not so much for the latter entries), so it was great to learn a while back a brand-new project is in development .",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Russell Brand says he had ‘exploitative’ consensual sex with girl, 16, at height of his fame",
+      "source": "The Guardian US",
+      "category": "Security / computing",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/23/russell-brand-says-he-had-exploitative-consensual-sex-with-girl-16-at-height-of-his-fame",
+      "published": "2026-04-23T11:14:31+00:00",
+      "summary": "Brand, who will be tried in October over allegations of rape and sexual assault, tells podcast he slept with 16-year-old when he was 30 Russell Brand said he had “exploitative” consensual sex with a 16-year-old girl at the height of his…",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 9
     },
     {
@@ -97,12 +107,12 @@
       "score": 9
     },
     {
-      "title": "Tesla's making money. But it's planning to spend an awful lot more",
+      "title": "How TikTok is driving American expats to Southeast Asia",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/04/22/nx-s1-5791653/tesla-earnings-first-quarter-2026",
-      "published": "2026-04-22T23:23:43+00:00",
-      "summary": "Tesla's profits were up from this time last year. But the company warned investors to prepare for expensive investments in next-generation technology like humanoid robots and AI.",
+      "url": "https://www.npr.org/2026/04/23/nx-s1-5763809/tiktok-moving-vietnam-thailand-american-expats",
+      "published": "2026-04-23T09:00:00+00:00",
+      "summary": "Americans who moved to Vietnam and Thailand say their lives are now lower-stress and lower-cost. But glamorous videos on TikTok don't tell the whole story.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
     },
@@ -125,16 +135,6 @@
       "summary": "A new class of AI startups say they are taking money that would normally be used to hire people and are spending it on AI compute instead.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "Gene therapy for a rare type of deafness shows lasting results",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/22/nx-s1-5791478/gene-therapy-deafness-hearing",
-      "published": "2026-04-22T15:00:04+00:00",
-      "summary": "Researchers say a gene therapy allowed deaf children and adults as old as 32 to hear for the first time. The benefits have persisted for more than two years for some patients.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     }
   ],
   "youtube": [
@@ -344,8 +344,8 @@
       "published": "2026-04-22T22:12:52+00:00",
       "summary": "This week on Yahtzee Tries... Yahtzee and Marty try out Vampire Crawlers and Gecko Gods. VAMPIRE CRAWLERS -- https://store.steampowered.com/app/3265700/Vampire_Crawlers_The_Turbo_Wildcard_from_Vampire_Survivors/ GECKO GODS -- https://store.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "The Second Wind Games Showcase - Spring 2026 Edition",
@@ -416,6 +416,149 @@
   ],
   "trailers": [
     {
+      "title": "The Muses Take to the World! 🌎🎶 #Xanadu #shorts",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=USIEVsbmeUk",
+      "published": "2026-04-22T19:00:34+00:00",
+      "summary": "Bursting to life to \"I'm Alive\" by Electric Light Orchestra, the dancing muses fly through the word! Buy/Rent Xanadu now! iTunes: https://itunes.apple.com/us/movie/xanadu/id282480162 Amazon: https://www.amazon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Xanadu | The Muses Come to Life (I'm Alive Song)",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=wfDrvlRpMv0",
+      "published": "2026-04-21T19:01:00+00:00",
+      "summary": "The muses of the mural burst to life to \"I'm Alive\" by Electric Light Orchestra dancing through Los Angeles.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The frosty looks of the Ice Queen | 🎬 The Huntsman: Winter’s War (2016)",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Cf1Yop_rEOY",
+      "published": "2026-04-21T17:00:27+00:00",
+      "summary": "#TheHuntsman #EmilyBlunt #IceQueen #UniversalPictures #Shorts",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "A lot to unpack here, man | 🎬 Dazed And Confused (1993)",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=v64xwhPUWpg",
+      "published": "2026-04-20T17:01:20+00:00",
+      "summary": "#DazedAndConfused #MillaJovovich #UniversalPictures #Shorts #Movies",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "MICHAEL | Before the Big Screen",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=EYs4nq08XSA",
+      "published": "2026-04-20T15:00:17+00:00",
+      "summary": "There's no other way to tell MICHAEL's story other than being epic. Get tickets now to see it on the big screen!",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "The Devil Wears Prada 2 | World Premiere Livestream | Kenneth Branagh",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=NFbMjvNZNTU",
+      "published": "2026-04-22T22:46:26+00:00",
+      "summary": "Kenneth Branagh enjoyed working along side Meryl Streep as Miranda's fourth husband, Stuart, in The Devil Wears Prada 2. Experience the film only in theaters May 1. Get tickets now: https://fandango.com/thedevilwearsprada2",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "The Devil Wears Prada 2 | Behind the Fashion",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=t7Shi_Xkn_0",
+      "published": "2026-04-22T22:17:59+00:00",
+      "summary": "The Devil Wears Prada 2 brings the world of fashion to theaters through the cast, iconic designers, and small details. Don't miss the film only in theaters May 1. Get tickets now: https://Fandango.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Devil Wears Prada 2 | World Premiere Livestream | Anne Hathaway and Emily Blunt",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=vmlewT9rV70",
+      "published": "2026-04-22T21:37:42+00:00",
+      "summary": "Fashon icons Anne Hathaway and Emily Blunt return as Andy Sachs and Emily Charlton in The Devil Wears Prada 2. Experience the film only in theaters May 1. Get tickets: https://Fandango.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Devil Wears Prada 2 | World Premiere Livestream | Meryl Streep and Stanley Tucci",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=bDHIHdhurxY",
+      "published": "2026-04-22T21:36:46+00:00",
+      "summary": "Meryl Streep and Stanley Tucci return as the iconic Miranda Priestly and Nigel Kipling. Experience The Devil Wears Prada 2 only in theaters May 1. Get tickets: https://fandango.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Devil Wears Prada 2 | In Theaters May 1",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=OVolHUHs9JA",
+      "published": "2026-04-21T01:09:54+00:00",
+      "summary": "All smiles for Anne Hathaway at the World Premiere of The Devil Wears Prada 2. In theaters May 1.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "The Devil Wears Prada 2 | In Theaters May 1",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=hYzHwzmtH0Y",
+      "published": "2026-04-21T01:09:02+00:00",
+      "summary": "Winnie Harlow strikes a pose at The Devil Wears Prada 2 World Premiere.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "The Devil Wears Prada 2 | In Theaters May 1",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=a3VSuRnS3XE",
+      "published": "2026-04-21T01:08:23+00:00",
+      "summary": "Simone Ashley has arrived to The Devil Wears Prada 2 World Premiere.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "The Devil Wears Prada 2 | In Theaters May 1",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=JRpOCa-eZu8",
+      "published": "2026-04-21T01:07:46+00:00",
+      "summary": "Helen J. Shen hits The Devil Wears Prada 2 World Premiere Red Carpet.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
       "title": "The Death of Robin Hood | Official Promo | A24",
       "source": "A24",
       "category": "Film / trailer",
@@ -467,7 +610,7 @@
       "published": "2026-04-22T10:00:00+00:00",
       "summary": "‘My Dearest Señorita’ follows Adela, a woman who has always lived within boundaries set by others, until a revelation changes everything.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
+      "score": 8,
       "verdict": "Looks promising"
     },
     {
@@ -679,10 +822,10 @@
   "weather": {
     "location": "02726 (Somerset, MA)",
     "desc": "Sunny",
-    "temp": "49",
-    "feels": "43",
-    "wind": "14",
-    "humidity": "81",
+    "temp": "57",
+    "feels": "54",
+    "wind": "16",
+    "humidity": "63",
     "days": [
       {
         "label": "Thu Apr 23",
@@ -704,7 +847,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 25,
-    "trailerCount": 15,
-    "sourceCount": 16
+    "trailerCount": 28,
+    "sourceCount": 18
   }
 }

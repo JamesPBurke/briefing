@@ -1,14 +1,14 @@
 # James Daily Briefing
 
-Generated: 2026-04-23T09:01:20.502095Z
+Generated: 2026-04-23T12:02:56.346135Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Middle East crisis live: US and Iran in blockade stalemate as Washington’s navy secretary leaves office ‘immediately’, Thursday news quiz: insurance scams, drinking games and errors of biblical proportions, and How to find a career you love – for gen Z and everyone else: ‘You don’t want your life’s compass to be dread’.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Middle East crisis live: US and Iran in blockade stalemate as Pentagon reportedly says clearing strait of Hormuz could take six months, Senate Republicans bypass Democrats to advance $70bn ICE and border patrol plan in ‘vote-a-rama’– US politics live, and Street Fighter 6's next DLC character Ingrid finally has a gameplay trailer and release date.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Sunny, 49°F (feels like 43°F), 14 mph wind, 81% humidity.
+02726 (Somerset, MA): Sunny, 57°F (feels like 54°F), 16 mph wind, 63% humidity.
 
 Forecast:
 - Thu Apr 23: high 62° / low 39°
@@ -32,16 +32,52 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. Middle East crisis live: US and Iran in blockade stalemate as Washington’s navy secretary leaves office ‘immediately’ [10/10]
+### 1. Middle East crisis live: US and Iran in blockade stalemate as Pentagon reportedly says clearing strait of Hormuz could take six months [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Iran says two seized ships transferred to its coast; US navy secretary exiting post ‘effective immediately’, says Pentagon ‘Impossible’ to reopen strait of Hormuz amid ‘flagrant’ ceasefire breaches, Iran says The Pentagon abruptly…
+Leaked assessment says clearing mines could take half a year; US navy secretary leaves office ‘immediately’ ‘Impossible’ to reopen strait of Hormuz amid ‘flagrant’ ceasefire breaches, Iran says The Pentagon abruptly announced that the…
 
 Link: https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates
 
-### 2. Thursday news quiz: insurance scams, drinking games and errors of biblical proportions [10/10]
+### 2. Senate Republicans bypass Democrats to advance $70bn ICE and border patrol plan in ‘vote-a-rama’– US politics live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Republicans deploy measure known as budget reconciliation to push through plan without backing from Democrats during lengthy late-night vote Sign up for the Breaking News US email Donald Trump’s years-long campaign to undermine faith in US…
+
+Link: https://www.theguardian.com/us-news/live/2026/apr/23/donald-trump-shutdown-ice-border-patrol-dhs-iran-democrats-republicans-latest-news-updates
+
+### 3. Street Fighter 6's next DLC character Ingrid finally has a gameplay trailer and release date [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+A new Street Fighter 6 gameplay trailer has been released, showing off the move list for upcoming DLC character Ingrid. Read more
+
+Link: https://www.eurogamer.net/street-fighter-6-ingrid-gameplay-trailer-release-date
+
+### 4. Exclusive: High School Redesigns Curb Enrollment Loss, Report Finds [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Like many adults, Brooke Davis spent much of her college years preparing for a career she later realized wasn’t for her.
+
+Link: https://www.the74million.org/article/exclusive-high-school-redesigns-curb-enrollment-loss-report-finds/
+
+### 5. Sycophantic AI flatters and suggests you are not to blame [10/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+The AI models and chatbots that we interact with tend to affirm our feelings and viewpoints — more so than people do, with potentially worrisome consequences.
+
+Link: https://www.npr.org/2026/04/23/nx-s1-5792867/ai-chatbot-flattery-mental-health-risks
+
+### 6. Thursday news quiz: insurance scams, drinking games and errors of biblical proportions [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -50,7 +86,7 @@ Test yourself on topical news trivia, pop culture and general knowledge every Th
 
 Link: https://www.theguardian.com/lifeandstyle/2026/apr/23/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-244
 
-### 3. How to find a career you love – for gen Z and everyone else: ‘You don’t want your life’s compass to be dread’ [10/10]
+### 7. How to find a career you love – for gen Z and everyone else: ‘You don’t want your life’s compass to be dread’ [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -59,25 +95,7 @@ In her new book, New York Times investigative journalist Jodi Kantor has set her
 
 Link: https://www.theguardian.com/us-news/2026/apr/23/jodi-kantor-interview-how-to-start-gen-z-careers-jobs
 
-### 4. ‘Lawrence is karma’: the gangster who became an icon of Modi’s India [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Lawrence Bishnoi has been in high-security custody for more than a decade. During that time, he has been linked to multiple high-profile killings, both in India and as far afield as Canada.
-
-Link: https://www.theguardian.com/world/2026/apr/23/lawrence-bishnoi-gangster-icon-modi-india
-
-### 5. Czech journalists threaten to strike over plan to scrap licence fees [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Government aims to move TV and radio funding under state control, which critics say undermines independence Journalists at the Czech Republic’s public broadcasters have said they are prepared to go on strike unless the government of the…
-
-Link: https://www.theguardian.com/world/2026/apr/23/czech-journalists-threaten-to-strike-over-plan-to-scrap-licence-fees
-
-### 6. OpenAI now lets teams make custom bots that can do work on their own [10/10]
+### 8. OpenAI now lets teams make custom bots that can do work on their own [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -86,25 +104,16 @@ OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans acce
 
 Link: https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots
 
-### 7. Opinion: How New York City Can Offer Schools That Are Both Integrated and Rigorous [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 9. Russell Brand says he had ‘exploitative’ consensual sex with girl, 16, at height of his fame [9/10]
+**Source:** The Guardian US  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-Each summer during new employee orientation at Prospect Schools, I open with a hard reality: Despite the landmark 1954 Supreme Court ruling in Brown v. Board of Education, most school districts remain deeply segregated.
+Brand, who will be tried in October over allegations of rape and sexual assault, tells podcast he slept with 16-year-old when he was 30 Russell Brand said he had “exploitative” consensual sex with a 16-year-old girl at the height of his…
 
-Link: https://www.the74million.org/article/how-new-york-city-can-offer-schools-that-are-both-integrated-and-rigorous/
+Link: https://www.theguardian.com/uk-news/2026/apr/23/russell-brand-says-he-had-exploitative-consensual-sex-with-girl-16-at-height-of-his-fame
 
-### 8. Ecco the Dolphin: Complete announced, includes remasters of the first two entries and brand-new game [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-As a millennial, I've always had a soft spot for the original Ecco the Dolphin games (not so much for the latter entries), so it was great to learn a while back a brand-new project is in development .
-
-Link: https://www.eurogamer.net/ecco-the-dolphin-complete-announced
-
-### 9. 12 unexpected sourdough bread recipes that aren't crusty loaves: From sourdough flatbread to sourdough milk bread — and even sourdough babka. [9/10]
+### 10. 12 unexpected sourdough bread recipes that aren't crusty loaves: From sourdough flatbread to sourdough milk bread — and even sourdough babka. [9/10]
 **Source:** King Arthur Baking  
 **Category:** Bread / food craft  
 **Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
@@ -113,16 +122,16 @@ While sourdough starter might conjure images of crusty artisan loaves , that onl
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 10. Tesla's making money. But it's planning to spend an awful lot more [8/10]
+### 11. How TikTok is driving American expats to Southeast Asia [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Tesla's profits were up from this time last year. But the company warned investors to prepare for expensive investments in next-generation technology like humanoid robots and AI.
+Americans who moved to Vietnam and Thailand say their lives are now lower-stress and lower-cost. But glamorous videos on TikTok don't tell the whole story.
 
-Link: https://www.npr.org/2026/04/22/nx-s1-5791653/tesla-earnings-first-quarter-2026
+Link: https://www.npr.org/2026/04/23/nx-s1-5763809/tiktok-moving-vietnam-thailand-american-expats
 
-### 11. Lestat Would Like a Word in the Trailer for The Vampire Lestat [8/10]
+### 12. Lestat Would Like a Word in the Trailer for The Vampire Lestat [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -131,7 +140,7 @@ He is a golden god, goddammit The post Lestat Would Like a Word in the Trailer f
 
 Link: https://reactormag.com/the-vampire-lestat-trailer-2/
 
-### 12. Startups Brag They Spend More Money on AI Than Human Employees [8/10]
+### 13. Startups Brag They Spend More Money on AI Than Human Employees [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -139,15 +148,6 @@ Link: https://reactormag.com/the-vampire-lestat-trailer-2/
 A new class of AI startups say they are taking money that would normally be used to hire people and are spending it on AI compute instead.
 
 Link: https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/
-
-### 13. Gene therapy for a rare type of deafness shows lasting results [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Researchers say a gene therapy allowed deaf children and adults as old as 32 to hear for the first time. The benefits have persisted for more than two years for some patients.
-
-Link: https://www.npr.org/2026/04/22/nx-s1-5791478/gene-therapy-deafness-hearing
 
 ## YouTube
 
@@ -313,9 +313,9 @@ This video is brought to you by PlayTracker, the app that tracks your cross-plat
 
 Link: https://www.youtube.com/watch?v=MW0pDOF98oU
 
-### Yahtzee Tries... Vampire Crawlers and Gecko Gods [7/10]
+### Yahtzee Tries... Vampire Crawlers and Gecko Gods [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Yahtzee Tries... Yahtzee and Marty try out Vampire Crawlers and Gecko Gods. VAMPIRE CRAWLERS -- https://store.steampowered.com/app/3265700/Vampire_Crawlers_The_Turbo_Wildcard_from_Vampire_Survivors/ GECKO GODS -- https://store.
@@ -405,6 +405,123 @@ Link: https://www.youtube.com/watch?v=4e7CsGQmBQg
 
 ## Trailers / Previews
 
+### The Muses Take to the World! 🌎🎶 #Xanadu #shorts [9/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Bursting to life to "I'm Alive" by Electric Light Orchestra, the dancing muses fly through the word! Buy/Rent Xanadu now! iTunes: https://itunes.apple.com/us/movie/xanadu/id282480162 Amazon: https://www.amazon.
+
+Link: https://www.youtube.com/watch?v=USIEVsbmeUk
+
+### Xanadu | The Muses Come to Life (I'm Alive Song) [9/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The muses of the mural burst to life to "I'm Alive" by Electric Light Orchestra dancing through Los Angeles.
+
+Link: https://www.youtube.com/watch?v=wfDrvlRpMv0
+
+### The frosty looks of the Ice Queen | 🎬 The Huntsman: Winter’s War (2016) [7/10]
+**Source:** Universal Pictures  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+#TheHuntsman #EmilyBlunt #IceQueen #UniversalPictures #Shorts
+
+Link: https://www.youtube.com/watch?v=Cf1Yop_rEOY
+
+### A lot to unpack here, man | 🎬 Dazed And Confused (1993) [6/10]
+**Source:** Universal Pictures  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+#DazedAndConfused #MillaJovovich #UniversalPictures #Shorts #Movies
+
+Link: https://www.youtube.com/watch?v=v64xwhPUWpg
+
+### MICHAEL | Before the Big Screen [6/10]
+**Source:** Universal Pictures  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+There's no other way to tell MICHAEL's story other than being epic. Get tickets now to see it on the big screen!
+
+Link: https://www.youtube.com/watch?v=EYs4nq08XSA
+
+### The Devil Wears Prada 2 | World Premiere Livestream | Kenneth Branagh [7/10]
+**Source:** 20th Century Studios  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Kenneth Branagh enjoyed working along side Meryl Streep as Miranda's fourth husband, Stuart, in The Devil Wears Prada 2. Experience the film only in theaters May 1. Get tickets now: https://fandango.com/thedevilwearsprada2
+
+Link: https://www.youtube.com/watch?v=NFbMjvNZNTU
+
+### The Devil Wears Prada 2 | Behind the Fashion [9/10]
+**Source:** 20th Century Studios  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The Devil Wears Prada 2 brings the world of fashion to theaters through the cast, iconic designers, and small details. Don't miss the film only in theaters May 1. Get tickets now: https://Fandango.
+
+Link: https://www.youtube.com/watch?v=t7Shi_Xkn_0
+
+### The Devil Wears Prada 2 | World Premiere Livestream | Anne Hathaway and Emily Blunt [9/10]
+**Source:** 20th Century Studios  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Fashon icons Anne Hathaway and Emily Blunt return as Andy Sachs and Emily Charlton in The Devil Wears Prada 2. Experience the film only in theaters May 1. Get tickets: https://Fandango.
+
+Link: https://www.youtube.com/watch?v=vmlewT9rV70
+
+### The Devil Wears Prada 2 | World Premiere Livestream | Meryl Streep and Stanley Tucci [9/10]
+**Source:** 20th Century Studios  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Meryl Streep and Stanley Tucci return as the iconic Miranda Priestly and Nigel Kipling. Experience The Devil Wears Prada 2 only in theaters May 1. Get tickets: https://fandango.
+
+Link: https://www.youtube.com/watch?v=bDHIHdhurxY
+
+### The Devil Wears Prada 2 | In Theaters May 1 [6/10]
+**Source:** 20th Century Studios  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+All smiles for Anne Hathaway at the World Premiere of The Devil Wears Prada 2. In theaters May 1.
+
+Link: https://www.youtube.com/watch?v=OVolHUHs9JA
+
+### The Devil Wears Prada 2 | In Theaters May 1 [6/10]
+**Source:** 20th Century Studios  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Winnie Harlow strikes a pose at The Devil Wears Prada 2 World Premiere.
+
+Link: https://www.youtube.com/watch?v=hYzHwzmtH0Y
+
+### The Devil Wears Prada 2 | In Theaters May 1 [6/10]
+**Source:** 20th Century Studios  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Simone Ashley has arrived to The Devil Wears Prada 2 World Premiere.
+
+Link: https://www.youtube.com/watch?v=a3VSuRnS3XE
+
+### The Devil Wears Prada 2 | In Theaters May 1 [6/10]
+**Source:** 20th Century Studios  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Helen J. Shen hits The Devil Wears Prada 2 World Premiere Red Carpet.
+
+Link: https://www.youtube.com/watch?v=JRpOCa-eZu8
+
 ### The Death of Robin Hood | Official Promo | A24 [6/10]
 **Source:** A24  
 **Verdict:** Optional  
@@ -441,7 +558,7 @@ Mexico has never won a World Cup… but someone decided that wasn’t a problem.
 
 Link: https://www.youtube.com/watch?v=BIVgPq4-mOM
 
-### My Dearest Señorita | Official Trailer | Netflix [9/10]
+### My Dearest Señorita | Official Trailer | Netflix [8/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
