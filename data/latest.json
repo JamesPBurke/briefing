@@ -1,11 +1,51 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-23T05:00:01.429876Z",
-  "generatedAtDisplay": "2026-04-23 01:00 AM EDT",
+  "generatedAt": "2026-04-23T09:01:20.502095Z",
+  "generatedAtDisplay": "2026-04-23 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Czech journalists threaten to strike over plan to scrap licence fees, Ukraine war briefing: Kyiv hails frontline position as ‘strongest in a year’, and Virginia court puts pause on voter-passed congressional maps boosting Democrats.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Middle East crisis live: US and Iran in blockade stalemate as Washington’s navy secretary leaves office ‘immediately’, Thursday news quiz: insurance scams, drinking games and errors of biblical proportions, and How to find a career you love – for gen Z and everyone else: ‘You don’t want your life’s compass to be dread’.",
   "mainItems": [
+    {
+      "title": "Middle East crisis live: US and Iran in blockade stalemate as Washington’s navy secretary leaves office ‘immediately’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates",
+      "published": "2026-04-23T08:52:51+00:00",
+      "summary": "Iran says two seized ships transferred to its coast; US navy secretary exiting post ‘effective immediately’, says Pentagon ‘Impossible’ to reopen strait of Hormuz amid ‘flagrant’ ceasefire breaches, Iran says The Pentagon abruptly…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Thursday news quiz: insurance scams, drinking games and errors of biblical proportions",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/23/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-244",
+      "published": "2026-04-23T05:00:01+00:00",
+      "summary": "Test yourself on topical news trivia, pop culture and general knowledge every Thursday.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "How to find a career you love – for gen Z and everyone else: ‘You don’t want your life’s compass to be dread’",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/apr/23/jodi-kantor-interview-how-to-start-gen-z-careers-jobs",
+      "published": "2026-04-23T04:00:45+00:00",
+      "summary": "In her new book, New York Times investigative journalist Jodi Kantor has set her mind to helping young people find their life’s work.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "‘Lawrence is karma’: the gangster who became an icon of Modi’s India",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/apr/23/lawrence-bishnoi-gangster-icon-modi-india",
+      "published": "2026-04-23T04:00:45+00:00",
+      "summary": "Lawrence Bishnoi has been in high-security custody for more than a decade. During that time, he has been linked to multiple high-profile killings, both in India and as far afield as Canada.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
     {
       "title": "Czech journalists threaten to strike over plan to scrap licence fees",
       "source": "The Guardian US",
@@ -13,26 +53,6 @@
       "url": "https://www.theguardian.com/world/2026/apr/23/czech-journalists-threaten-to-strike-over-plan-to-scrap-licence-fees",
       "published": "2026-04-23T04:00:45+00:00",
       "summary": "Government aims to move TV and radio funding under state control, which critics say undermines independence Journalists at the Czech Republic’s public broadcasters have said they are prepared to go on strike unless the government of the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv hails frontline position as ‘strongest in a year’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/apr/23/ukraine-war-briefing-kyiv-hails-frontline-position-as-strongest-in-a-year",
-      "published": "2026-04-23T00:39:11+00:00",
-      "summary": "Drones minimise Russian manpower advantage on battlefield, says foreign minister; Moscow shies from Turkey push for Zelenskyy-Putin talks.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Virginia court puts pause on voter-passed congressional maps boosting Democrats",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/22/virginia-court-congressional-maps-redrawn",
-      "published": "2026-04-22T23:54:58+00:00",
-      "summary": "Move comes one day after voters approved the maps, leading state attorney general to vow office will appeal Sign up for the Breaking News US email to get newsletter alerts in your inbox One day after voters in Virginia approved new…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -45,16 +65,6 @@
       "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
-    },
-    {
-      "title": "Pilot’s selfie led to mid-air collision in F-15K fighter jet, says South Korea’s air force",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/apr/23/south-korea-air-force-selfie-crash-apology",
-      "published": "2026-04-23T04:35:40+00:00",
-      "summary": "One pilot ordered to repay some of the $600,000 of damage caused by collision in 2021 South Korea’s air force has apologised for a 2021 mid-air collision involving two fighter jets, a day after auditors said pilots were taking selfies and…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
     },
     {
       "title": "Opinion: How New York City Can Offer Schools That Are Both Integrated and Rigorous",
@@ -74,16 +84,6 @@
       "published": "2026-04-22T15:48:09+00:00",
       "summary": "As a millennial, I've always had a soft spot for the original Ecco the Dolphin games (not so much for the latter entries), so it was great to learn a while back a brand-new project is in development .",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Indian med student rakes in thousands with AI-generated MAGA hottie",
-      "source": "Ars Technica",
-      "category": "CS education / AI policy",
-      "url": "https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/",
-      "published": "2026-04-22T14:13:01+00:00",
-      "summary": "\"Emily Hart\" is a young, AI-created conservative woman who likes to take off her clothes.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 9
     },
     {
@@ -107,12 +107,12 @@
       "score": 8
     },
     {
-      "title": "Daredevil: Born Again Makes Us See Red in “Requiem”",
+      "title": "Lestat Would Like a Word in the Trailer for The Vampire Lestat",
       "source": "Reactor",
       "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/tv-review-daredevil-born-again-season-2-episode-6-requiem/",
-      "published": "2026-04-22T17:30:00+00:00",
-      "summary": "This episode has enough choking to inspire half a Weeknd album... The post Daredevil: Born Again Makes Us See Red in “Requiem” appeared first on Reactor .",
+      "url": "https://reactormag.com/the-vampire-lestat-trailer-2/",
+      "published": "2026-04-22T17:24:53+00:00",
+      "summary": "He is a golden god, goddammit The post Lestat Would Like a Word in the Trailer for The Vampire Lestat appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     },
@@ -137,9 +137,522 @@
       "score": 7
     }
   ],
-  "youtube": [],
-  "trailers": [],
-  "recommendations": {},
+  "youtube": [
+    {
+      "title": "What \"Winning\" The Iran War Might Realistically Look Like",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=egUnmBw89KE",
+      "published": "2026-04-22T20:08:54+00:00",
+      "summary": "Professor Tarek Masoud joins WIRED to answer the internet's burning questions about the Iran War with Israel and the United States. Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Harvard Professor Answers Iranian Government Questions | Tech Support | WIRED",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=NKdyuKXkrPU",
+      "published": "2026-04-22T16:00:03+00:00",
+      "summary": "Professor Tarek Masoud joins WIRED to answer the internet's burning questions about the Government of Iran.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Harvard Professor Answers Iran War Questions | Tech Support | WIRED",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=HC47QcXrcfw",
+      "published": "2026-04-20T16:00:12+00:00",
+      "summary": "Professor Tarek Masoud joins WIRED to answer the internet's burning questions about the Iran War with Israel and the United States.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Texas can require displays of the Ten Commandments, in public schools, judges rules",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=FLUa2i-dJ1c",
+      "published": "2026-04-22T16:30:07+00:00",
+      "summary": "A federal appeals court has upheld a Texas law requiring the display of the Ten Commandments in every public school classroom in the state.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "What do bees have in common with humans?",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=kN6kah0lYno",
+      "published": "2026-04-22T13:01:33+00:00",
+      "summary": "Bees, just like humans, play! And they can solve puzzles too.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "U.S. exempts oil industry from protecting Gulf animals",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=exJU_I1tmDI",
+      "published": "2026-04-21T19:00:38+00:00",
+      "summary": "The \"God Squad\" voted unanimously to remove protections for endangered animals in the Gulf. It's not the first time federal agencies cited the \"energy emergency\" to avoid rules meant to protect animals.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Consumers hope for tariff refunds that experts say may never come",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=ZD-huXq9nm4",
+      "published": "2026-04-21T18:30:50+00:00",
+      "summary": "Businesses are officially able to request tariff refunds, but don’t expect consumers to get their tariff dollars back — the government refunds are only for importers.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Alex Jones vows to fight The Onion's new plan to take over Infowars",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=dIyh1NyqMms",
+      "published": "2026-04-21T17:30:08+00:00",
+      "summary": "Conspiracy theorist Alex Jones is vowing to fight a new deal that would allow the satirical website, “The Onion,” to take over Jones’ far-right media company, Infowars.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "What should young people prioritize in their first job — money or experience?",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=nNOUufr_2so",
+      "published": "2026-04-21T17:01:04+00:00",
+      "summary": "What should young people prioritize in their first job — money or experience? \"How to Start\" author Jodi Kantor tells All Things Considered host Mary Louise Kelly there are a few things to keep in mind.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "U.S. seizes Iranian ship in the Strait of Hormuz",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=GtejvxmG1cI",
+      "published": "2026-04-20T19:00:13+00:00",
+      "summary": "Iran is vowing to retaliate after the U.S. seized an Iranian-flagged vessel over the weekend. In a grainy, edited video released by Central Command, U.S. Marines are shown rappelling onto an Iranian-flagged vessel after U.S.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "8 children killed in Louisiana shooting",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Bvs3hRfIZCk",
+      "published": "2026-04-20T15:30:09+00:00",
+      "summary": "Police in Shreveport, La., say eight children were shot and killed in a case of domestic violence in the city over the weekend. Investigators say seven of those killed were the gunman’s children, and another was a cousin.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Why Increase Res with PSSR2 - Why Not Lower It With More Features?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=-jRgvW3i9XE",
+      "published": "2026-04-22T19:00:00+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Pragmata PS5 Runs At 1080p - But We Got It Running At 1440p Somehow",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=RpBBwYQKUko",
+      "published": "2026-04-22T16:00:41+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Metro 2039 Reveal Reaction - This Looks Superb",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=oyeAkupkIwc",
+      "published": "2026-04-21T17:01:11+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Bethesda Promising Starfield PS5 Crash Fixes",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=7vgRjEbUN9o",
+      "published": "2026-04-21T16:00:11+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "The Worst Idea Ever: Placebo Console Settings Menus",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=_fFl-DkJip0",
+      "published": "2026-04-20T17:00:48+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/y6YSbqhwcl4 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Why Is There Screen-Tearing On Some Xbox Games - But Not On PlayStation?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=qeccSGOrJbE",
+      "published": "2026-04-20T16:01:21+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/y6YSbqhwcl4 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Possibly Finishing Returnal, Possibly Not Finishing Returnal w/ KC and Marty -- Part 9",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=MW0pDOF98oU",
+      "published": "2026-04-23T01:36:36+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Yahtzee Tries... Vampire Crawlers and Gecko Gods",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=iF3_6hMSi_8",
+      "published": "2026-04-22T22:12:52+00:00",
+      "summary": "This week on Yahtzee Tries... Yahtzee and Marty try out Vampire Crawlers and Gecko Gods. VAMPIRE CRAWLERS -- https://store.steampowered.com/app/3265700/Vampire_Crawlers_The_Turbo_Wildcard_from_Vampire_Survivors/ GECKO GODS -- https://store.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Second Wind Games Showcase - Spring 2026 Edition",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=p8b5hTeaE4o",
+      "published": "2026-04-22T16:01:47+00:00",
+      "summary": "This showcase is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join today and earn rewards for playing and wishlisting games from the showcase! – https://playtracker.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Atari Versus Nintendo: The Curse of the Rabbit | Fully Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=pt7SkhWQoFo",
+      "published": "2026-04-22T16:01:25+00:00",
+      "summary": "It's time for another lesson in gaming history. Get your blu-ray copies today! https://store.dftba.com/products/fully-ramblomatic-vol-2-2025-blu-ray https://store.dftba.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Exit 8 Is the Rare Video Game Movie That Understands Video Games | The Rewind Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=kaCiZfWyShM",
+      "published": "2026-04-21T20:13:30+00:00",
+      "summary": "This week on The Rewind, Darren, Jack, and Marty chat about how Exit 8 fully embraces both of its mediums, reveals from CinemaCon, as well as everything else they've been watching.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Exit 8 Thoughts About Liminal Horror | The Backdrop",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=nk404rjV5OE",
+      "published": "2026-04-21T15:01:24+00:00",
+      "summary": "Note: This piece contains spoilers for Exit 8, the Japanese horror film that released in American theatres this weekend. I very much enjoyed it as a tight and efficient surrealist horror film - I’d go so far as to call it Exit Gr-8.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Running the World's Best/Worst Bar in Tavern Keeper | Hot Monday Energy",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=LkJGuW04LgY",
+      "published": "2026-04-21T01:14:21+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Is Hand-Holding Really a Gaming Sin? | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=4e7CsGQmBQg",
+      "published": "2026-04-20T19:27:18+00:00",
+      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty unpack the current state of hand-holding in games. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "The Death of Robin Hood | Official Promo | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=GSfq5jq7ChQ",
+      "published": "2026-04-22T13:30:00+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Michael Sarnoski and starring Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett and Noah Jupe. THE DEATH OF ROBIN HOOD – In theaters June 19.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Mother Mary | Final Trailer | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=aqYHOsuje1E",
+      "published": "2026-04-21T13:03:09+00:00",
+      "summary": "SUBSCRIBE: http://bit.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "#HeartstopperForever launch date revealed!",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=jowTfVqVw48",
+      "published": "2026-04-22T13:01:23+00:00",
+      "summary": "Get ready for the final chapter...Heartstopper Forever arrives on 17th July, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Mexico 86 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=BIVgPq4-mOM",
+      "published": "2026-04-22T13:00:01+00:00",
+      "summary": "Mexico has never won a World Cup… but someone decided that wasn’t a problem.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "My Dearest Señorita | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=u0OhgW-RtW0",
+      "published": "2026-04-22T10:00:00+00:00",
+      "summary": "‘My Dearest Señorita’ follows Adela, a woman who has always lived within boundaries set by others, until a revelation changes everything.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Worst Ex Ever: Season 2 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=6nrk0bGttMU",
+      "published": "2026-04-21T16:30:00+00:00",
+      "summary": "From chilling betrayals to murder plots, this true-crime documentary series dissects the dark side of love through eyewitness testimonies. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Devil May Cry: Season 2 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Jpie-fec5qY",
+      "published": "2026-04-21T15:00:00+00:00",
+      "summary": "Team Dante. Team Vergil. One way ticket to Hell. See you May 12. From Capcom, led by Adi Shankar, and animated by Studio Mir comes Devil May Cry 2 - a Netflix animated series based on the hit video game franchise.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "They certainly get their exercise. #Monarch: Legacy of Monsters — Now Streaming",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=jG6lsANDFVw",
+      "published": "2026-04-22T17:59:50+00:00",
+      "summary": "Monarch: Legacy of Monsters Season 2 is now streaming on Apple TV https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Margo's Got Money Troubles — Nicole Kidman and Nick Offerman's Wrestling Match | Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=aARvAl_CkVk",
+      "published": "2026-04-22T16:59:53+00:00",
+      "summary": "These two know how to work a crowd. Watch Nicole Kidman and Nick Offerman duke it out. Margo's Got Money Troubles is now streaming on Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Time to unpack a few things. A new episode of #ImperfectWomen is now streaming.",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=JdiK81flivc",
+      "published": "2026-04-22T01:29:51+00:00",
+      "summary": "Elisabeth Moss, Kerry Washington & Kate Mara are your Imperfect Women, now streaming on Apple TV https://apple.co/_ImperfectWomen A new series starring Elisabeth Moss, Kerry Washington, and Kate Mara.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Before “One Less Lonely Girl,” she had a letter from her idol. Billie Eilish #TheWorldsALittleBlurry",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=1AcoajMIzcU",
+      "published": "2026-04-21T23:29:49+00:00",
+      "summary": "Billie Eilish: The World’s A Little Blurry is now streaming on Apple TV https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "They can work a crowd. A new episode of #MargosGotMoneyTroubles is now streaming",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=V_ZG_uuC884",
+      "published": "2026-04-21T18:59:50+00:00",
+      "summary": "Margo's Got Money Troubles is now streaming on Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Monarch: Legacy of Monsters — Outpost 18 Set Tour | Behind The Scenes | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=ffp587s-Tdc",
+      "published": "2026-04-21T17:59:48+00:00",
+      "summary": "Welcome to Outpost 18. Let Anna Sawai, Kiersey Clemons, and Joe Tippett give you the grand tour. Monarch: Legacy of Monsters Season 2 is now streaming on Apple TV https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Silo — Season 3 Official Teaser | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=C9-_VVX9BvE",
+      "published": "2026-04-21T13:59:48+00:00",
+      "summary": "The truth will surface. Silo returns July 3 on Apple TV https://apple.co/_Silo “Silo” is the story of the last ten thousand people on earth, their mile-deep home protecting them from the toxic and deadly world outside.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Margo's Got Money Troubles — I Will Not Be Judged | Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=S9EjVqPfVII",
+      "published": "2026-04-20T19:59:47+00:00",
+      "summary": "Not your average grandma. Michelle Pfeiffer stars as Shyanne in Margo's Got Money Troubles. Now streaming on Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Looks promising"
+    }
+  ],
+  "recommendations": {
+    "new": [
+      {
+        "title": "Scavengers Reign",
+        "why": "Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF."
+      },
+      {
+        "title": "Sugar",
+        "why": "Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap."
+      },
+      {
+        "title": "The Lazarus Project",
+        "why": "Time-loop espionage, moral pressure, and speculative plotting — very plausible fit."
+      },
+      {
+        "title": "Bodies",
+        "why": "Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling."
+      },
+      {
+        "title": "Constellation",
+        "why": "A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch."
+      },
+      {
+        "title": "The Devil’s Hour",
+        "why": "Dark, twisty, and structurally ambitious without feeling like homework."
+      }
+    ],
+    "older": [
+      {
+        "title": "Counterpart",
+        "why": "Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence."
+      },
+      {
+        "title": "Patriot",
+        "why": "Dry, strange, melancholy spy storytelling with a very distinct voice."
+      },
+      {
+        "title": "Utopia",
+        "why": "Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly."
+      },
+      {
+        "title": "Rubicon",
+        "why": "A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere."
+      },
+      {
+        "title": "Continuum",
+        "why": "A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics."
+      },
+      {
+        "title": "Person of Interest",
+        "why": "Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television."
+      }
+    ],
+    "shared": [
+      {
+        "title": "Bad Sisters",
+        "why": "Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy."
+      },
+      {
+        "title": "Detectorists",
+        "why": "Gentle, funny, humane, and specific — a softer shared-watch possibility."
+      },
+      {
+        "title": "Astrid et Raphaëlle",
+        "why": "French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you."
+      },
+      {
+        "title": "Somebody Somewhere",
+        "why": "A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work."
+      }
+    ]
+  },
   "highlights": [
     {
       "title": "A.I. Is Prompting an Evolution, Not Extinction, for Coders",
@@ -165,21 +678,21 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Clear",
-    "temp": "45",
-    "feels": "41",
-    "wind": "7",
-    "humidity": "76",
+    "desc": "Sunny",
+    "temp": "49",
+    "feels": "43",
+    "wind": "14",
+    "humidity": "81",
     "days": [
       {
         "label": "Thu Apr 23",
         "high": "62",
-        "low": "40"
+        "low": "39"
       },
       {
         "label": "Fri Apr 24",
-        "high": "61",
-        "low": "37"
+        "high": "60",
+        "low": "36"
       },
       {
         "label": "Sat Apr 25",
@@ -190,8 +703,8 @@
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 10
+    "youtubeCount": 25,
+    "trailerCount": 15,
+    "sourceCount": 16
   }
 }
