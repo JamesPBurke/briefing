@@ -1,19 +1,19 @@
 # James Daily Briefing
 
-Generated: 2026-04-22T18:02:20.050179Z
+Generated: 2026-04-23T05:00:01.429876Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire, Kids in State-Funded Preschools Hit Record High, but Program Quality Varies, and Anthropic’s Mythos rollout has missed America’s cybersecurity agency.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Czech journalists threaten to strike over plan to scrap licence fees, Ukraine war briefing: Kyiv hails frontline position as ‘strongest in a year’, and Virginia court puts pause on voter-passed congressional maps boosting Democrats.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Sunny, 57°F (feels like 55°F), 12 mph wind, 41% humidity.
+02726 (Somerset, MA): Clear, 45°F (feels like 41°F), 7 mph wind, 76% humidity.
 
 Forecast:
-- Wed Apr 22: high 58° / low 41°
-- Thu Apr 23: high 61° / low 38°
-- Fri Apr 24: high 60° / low 36°
+- Thu Apr 23: high 62° / low 40°
+- Fri Apr 24: high 61° / low 37°
+- Sat Apr 25: high 59° / low 40°
 
 ## Highlighted stories
 
@@ -32,43 +32,70 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire [10/10]
+### 1. Czech journalists threaten to strike over plan to scrap licence fees [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-State media says the ships have been transferred to Iran’s coast Trump announces ceasefire extension Why Trump’s erratic commentary is the real block to an Iran deal If you’re just joining us, here’s the main news of the day. It is 9.
+Government aims to move TV and radio funding under state control, which critics say undermines independence Journalists at the Czech Republic’s public broadcasters have said they are prepared to go on strike unless the government of the…
 
-Link: https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east
+Link: https://www.theguardian.com/world/2026/apr/23/czech-journalists-threaten-to-strike-over-plan-to-scrap-licence-fees
 
-### 2. Kids in State-Funded Preschools Hit Record High, but Program Quality Varies [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 2. Ukraine war briefing: Kyiv hails frontline position as ‘strongest in a year’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-If state-funded preschool programs are in a race, then it’s clear that some states are approaching the finish line while others have lost momentum.
+Drones minimise Russian manpower advantage on battlefield, says foreign minister; Moscow shies from Turkey push for Zelenskyy-Putin talks.
 
-Link: https://www.the74million.org/zero2eight/kids-in-state-funded-preschools-hit-record-high-but-program-quality-varies/
+Link: https://www.theguardian.com/world/2026/apr/23/ukraine-war-briefing-kyiv-hails-frontline-position-as-strongest-in-a-year
 
-### 3. Anthropic’s Mythos rollout has missed America’s cybersecurity agency [10/10]
+### 3. Virginia court puts pause on voter-passed congressional maps boosting Democrats [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Move comes one day after voters approved the maps, leading state attorney general to vow office will appeal Sign up for the Breaking News US email to get newsletter alerts in your inbox One day after voters in Virginia approved new…
+
+Link: https://www.theguardian.com/us-news/2026/apr/22/virginia-court-congressional-maps-redrawn
+
+### 4. OpenAI now lets teams make custom bots that can do work on their own [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator.
+OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based "workspace" agents available in ChatGPT that can perform business tasks.
 
-Link: https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out
+Link: https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots
 
-### 4. Democrats demand FBI director, Kash Patel, take alcohol abuse test [10/10]
+### 5. Pilot’s selfie led to mid-air collision in F-15K fighter jet, says South Korea’s air force [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Amid growing congressional scrutiny of his conduct, Patel has claimed he has ‘never been intoxicated on the job’ US politics live – latest updates House judiciary Democrats have launched a formal inquiry into the alleged drinking habits of…
+One pilot ordered to repay some of the $600,000 of damage caused by collision in 2021 South Korea’s air force has apologised for a 2021 mid-air collision involving two fighter jets, a day after auditors said pilots were taking selfies and…
 
-Link: https://www.theguardian.com/us-news/2026/apr/22/kash-patel-alcohol-abuse-democrats-fbi
+Link: https://www.theguardian.com/world/2026/apr/23/south-korea-air-force-selfie-crash-apology
 
-### 5. Indian med student rakes in thousands with AI-generated MAGA hottie [10/10]
+### 6. Opinion: How New York City Can Offer Schools That Are Both Integrated and Rigorous [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Each summer during new employee orientation at Prospect Schools, I open with a hard reality: Despite the landmark 1954 Supreme Court ruling in Brown v. Board of Education, most school districts remain deeply segregated.
+
+Link: https://www.the74million.org/article/how-new-york-city-can-offer-schools-that-are-both-integrated-and-rigorous/
+
+### 7. Ecco the Dolphin: Complete announced, includes remasters of the first two entries and brand-new game [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+As a millennial, I've always had a soft spot for the original Ecco the Dolphin games (not so much for the latter entries), so it was great to learn a while back a brand-new project is in development .
+
+Link: https://www.eurogamer.net/ecco-the-dolphin-complete-announced
+
+### 8. Indian med student rakes in thousands with AI-generated MAGA hottie [9/10]
 **Source:** Ars Technica  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -77,7 +104,7 @@ Link: https://www.theguardian.com/us-news/2026/apr/22/kash-patel-alcohol-abuse-d
 
 Link: https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/
 
-### 6. 12 unexpected sourdough bread recipes that aren't crusty loaves: From sourdough flatbread to sourdough milk bread — and even sourdough babka. [10/10]
+### 9. 12 unexpected sourdough bread recipes that aren't crusty loaves: From sourdough flatbread to sourdough milk bread — and even sourdough babka. [9/10]
 **Source:** King Arthur Baking  
 **Category:** Bread / food craft  
 **Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
@@ -86,25 +113,25 @@ While sourdough starter might conjure images of crusty artisan loaves , that onl
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 7. Internal emails show how Amazon raises prices across the Internet, lawsuit says [10/10]
-**Source:** Ars Technica  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 10. Tesla's making money. But it's planning to spend an awful lot more [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-“It’s working!“: Amazon emails with vendors show pattern of disappearing deals.
+Tesla's profits were up from this time last year. But the company warned investors to prepare for expensive investments in next-generation technology like humanoid robots and AI.
 
-Link: https://arstechnica.com/tech-policy/2026/04/internal-emails-show-how-amazon-raises-prices-across-the-internet-lawsuit-says/
+Link: https://www.npr.org/2026/04/22/nx-s1-5791653/tesla-earnings-first-quarter-2026
 
-### 8. Framework's CEO on the RAM crisis and creating a "MacBook Pro for Linux users" [9/10]
-**Source:** Ars Technica  
-**Category:** Linux / anti-obsolescence  
-**Why it matters:** Relevant to humane computing, open-source practice, and repairability.
+### 11. Daredevil: Born Again Makes Us See Red in “Requiem” [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-"We actually have slightly more Linux users than Windows users."
+This episode has enough choking to inspire half a Weeknd album... The post Daredevil: Born Again Makes Us See Red in “Requiem” appeared first on Reactor .
 
-Link: https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/
+Link: https://reactormag.com/tv-review-daredevil-born-again-season-2-episode-6-requiem/
 
-### 9. Startups Brag They Spend More Money on AI Than Human Employees [8/10]
+### 12. Startups Brag They Spend More Money on AI Than Human Employees [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -113,20 +140,11 @@ A new class of AI startups say they are taking money that would normally be used
 
 Link: https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/
 
-### 10. 'We can do better,' FAA head says of work to update U.S. analog air traffic system [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-The U.S. aviation system is being modernized — but FAA Administrator Bryan Bedford and other leaders say it will take more money to make the system more efficient and flexible.
-
-Link: https://www.npr.org/2026/04/22/nx-s1-5791744/faa-dot-air-traffic-control-system-revamp
-
-### 11. Trump's order is a milestone for proponents of using psychedelics as medicine [8/10]
+### 13. Gene therapy for a rare type of deafness shows lasting results [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-President Trump has signed an executive order aimed at accelerating research and approval of psychedelics for treating mental health conditions, like depression, PTSD and addiction.
+Researchers say a gene therapy allowed deaf children and adults as old as 32 to hear for the first time. The benefits have persisted for more than two years for some patients.
 
-Link: https://www.npr.org/2026/04/21/nx-s1-5791755/trumps-order-is-a-milestone-for-proponents-of-using-psychedelics-as-medicine
+Link: https://www.npr.org/2026/04/22/nx-s1-5791478/gene-therapy-deafness-hearing

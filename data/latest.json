@@ -1,50 +1,80 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-22T18:02:20.050179Z",
-  "generatedAtDisplay": "2026-04-22 02:02 PM EDT",
+  "generatedAt": "2026-04-23T05:00:01.429876Z",
+  "generatedAtDisplay": "2026-04-23 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire, Kids in State-Funded Preschools Hit Record High, but Program Quality Varies, and Anthropic’s Mythos rollout has missed America’s cybersecurity agency.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Czech journalists threaten to strike over plan to scrap licence fees, Ukraine war briefing: Kyiv hails frontline position as ‘strongest in a year’, and Virginia court puts pause on voter-passed congressional maps boosting Democrats.",
   "mainItems": [
     {
-      "title": "Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire",
+      "title": "Czech journalists threaten to strike over plan to scrap licence fees",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
-      "published": "2026-04-22T17:57:38+00:00",
-      "summary": "State media says the ships have been transferred to Iran’s coast Trump announces ceasefire extension Why Trump’s erratic commentary is the real block to an Iran deal If you’re just joining us, here’s the main news of the day. It is 9.",
+      "url": "https://www.theguardian.com/world/2026/apr/23/czech-journalists-threaten-to-strike-over-plan-to-scrap-licence-fees",
+      "published": "2026-04-23T04:00:45+00:00",
+      "summary": "Government aims to move TV and radio funding under state control, which critics say undermines independence Journalists at the Czech Republic’s public broadcasters have said they are prepared to go on strike unless the government of the…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Kids in State-Funded Preschools Hit Record High, but Program Quality Varies",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/zero2eight/kids-in-state-funded-preschools-hit-record-high-but-program-quality-varies/",
-      "published": "2026-04-22T17:13:03+00:00",
-      "summary": "If state-funded preschool programs are in a race, then it’s clear that some states are approaching the finish line while others have lost momentum.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "Ukraine war briefing: Kyiv hails frontline position as ‘strongest in a year’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/apr/23/ukraine-war-briefing-kyiv-hails-frontline-position-as-strongest-in-a-year",
+      "published": "2026-04-23T00:39:11+00:00",
+      "summary": "Drones minimise Russian manpower advantage on battlefield, says foreign minister; Moscow shies from Turkey push for Zelenskyy-Putin talks.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Anthropic’s Mythos rollout has missed America’s cybersecurity agency",
+      "title": "Virginia court puts pause on voter-passed congressional maps boosting Democrats",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/22/virginia-court-congressional-maps-redrawn",
+      "published": "2026-04-22T23:54:58+00:00",
+      "summary": "Move comes one day after voters approved the maps, leading state attorney general to vow office will appeal Sign up for the Breaking News US email to get newsletter alerts in your inbox One day after voters in Virginia approved new…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI now lets teams make custom bots that can do work on their own",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out",
-      "published": "2026-04-22T17:12:21+00:00",
-      "summary": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+      "published": "2026-04-22T20:09:02+00:00",
+      "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Democrats demand FBI director, Kash Patel, take alcohol abuse test",
+      "title": "Pilot’s selfie led to mid-air collision in F-15K fighter jet, says South Korea’s air force",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/apr/22/kash-patel-alcohol-abuse-democrats-fbi",
-      "published": "2026-04-22T14:58:03+00:00",
-      "summary": "Amid growing congressional scrutiny of his conduct, Patel has claimed he has ‘never been intoxicated on the job’ US politics live – latest updates House judiciary Democrats have launched a formal inquiry into the alleged drinking habits of…",
+      "url": "https://www.theguardian.com/world/2026/apr/23/south-korea-air-force-selfie-crash-apology",
+      "published": "2026-04-23T04:35:40+00:00",
+      "summary": "One pilot ordered to repay some of the $600,000 of damage caused by collision in 2021 South Korea’s air force has apologised for a 2021 mid-air collision involving two fighter jets, a day after auditors said pilots were taking selfies and…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
+      "score": 9
+    },
+    {
+      "title": "Opinion: How New York City Can Offer Schools That Are Both Integrated and Rigorous",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/how-new-york-city-can-offer-schools-that-are-both-integrated-and-rigorous/",
+      "published": "2026-04-22T18:30:00+00:00",
+      "summary": "Each summer during new employee orientation at Prospect Schools, I open with a hard reality: Despite the landmark 1954 Supreme Court ruling in Brown v. Board of Education, most school districts remain deeply segregated.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "Ecco the Dolphin: Complete announced, includes remasters of the first two entries and brand-new game",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/ecco-the-dolphin-complete-announced",
+      "published": "2026-04-22T15:48:09+00:00",
+      "summary": "As a millennial, I've always had a soft spot for the original Ecco the Dolphin games (not so much for the latter entries), so it was great to learn a while back a brand-new project is in development .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "Indian med student rakes in thousands with AI-generated MAGA hottie",
@@ -54,7 +84,7 @@
       "published": "2026-04-22T14:13:01+00:00",
       "summary": "\"Emily Hart\" is a young, AI-created conservative woman who likes to take off her clothes.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "12 unexpected sourdough bread recipes that aren't crusty loaves: From sourdough flatbread to sourdough milk bread — and even sourdough babka.",
@@ -64,27 +94,27 @@
       "published": "2026-04-22T14:00:00+00:00",
       "summary": "While sourdough starter might conjure images of crusty artisan loaves , that only scratches the surface of naturally leavened breads.",
       "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
-      "score": 10
-    },
-    {
-      "title": "Internal emails show how Amazon raises prices across the Internet, lawsuit says",
-      "source": "Ars Technica",
-      "category": "AI / privacy",
-      "url": "https://arstechnica.com/tech-policy/2026/04/internal-emails-show-how-amazon-raises-prices-across-the-internet-lawsuit-says/",
-      "published": "2026-04-21T18:06:06+00:00",
-      "summary": "“It’s working!“: Amazon emails with vendors show pattern of disappearing deals.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Framework's CEO on the RAM crisis and creating a \"MacBook Pro for Linux users\"",
-      "source": "Ars Technica",
-      "category": "Linux / anti-obsolescence",
-      "url": "https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/",
-      "published": "2026-04-21T20:22:20+00:00",
-      "summary": "\"We actually have slightly more Linux users than Windows users.\"",
-      "whyItMatters": "Relevant to humane computing, open-source practice, and repairability.",
       "score": 9
+    },
+    {
+      "title": "Tesla's making money. But it's planning to spend an awful lot more",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/04/22/nx-s1-5791653/tesla-earnings-first-quarter-2026",
+      "published": "2026-04-22T23:23:43+00:00",
+      "summary": "Tesla's profits were up from this time last year. But the company warned investors to prepare for expensive investments in next-generation technology like humanoid robots and AI.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
+    },
+    {
+      "title": "Daredevil: Born Again Makes Us See Red in “Requiem”",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/tv-review-daredevil-born-again-season-2-episode-6-requiem/",
+      "published": "2026-04-22T17:30:00+00:00",
+      "summary": "This episode has enough choking to inspire half a Weeknd album... The post Daredevil: Born Again Makes Us See Red in “Requiem” appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     },
     {
       "title": "Startups Brag They Spend More Money on AI Than Human Employees",
@@ -97,24 +127,14 @@
       "score": 8
     },
     {
-      "title": "'We can do better,' FAA head says of work to update U.S. analog air traffic system",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/04/22/nx-s1-5791744/faa-dot-air-traffic-control-system-revamp",
-      "published": "2026-04-22T09:00:00+00:00",
-      "summary": "The U.S. aviation system is being modernized — but FAA Administrator Bryan Bedford and other leaders say it will take more money to make the system more efficient and flexible.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "Trump's order is a milestone for proponents of using psychedelics as medicine",
+      "title": "Gene therapy for a rare type of deafness shows lasting results",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/21/nx-s1-5791755/trumps-order-is-a-milestone-for-proponents-of-using-psychedelics-as-medicine",
-      "published": "2026-04-21T20:10:47+00:00",
-      "summary": "President Trump has signed an executive order aimed at accelerating research and approval of psychedelics for treating mental health conditions, like depression, PTSD and addiction.",
+      "url": "https://www.npr.org/2026/04/22/nx-s1-5791478/gene-therapy-deafness-hearing",
+      "published": "2026-04-22T15:00:04+00:00",
+      "summary": "Researchers say a gene therapy allowed deaf children and adults as old as 32 to hear for the first time. The benefits have persisted for more than two years for some patients.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
     }
   ],
   "youtube": [],
@@ -145,33 +165,33 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Sunny",
-    "temp": "57",
-    "feels": "55",
-    "wind": "12",
-    "humidity": "41",
+    "desc": "Clear",
+    "temp": "45",
+    "feels": "41",
+    "wind": "7",
+    "humidity": "76",
     "days": [
       {
-        "label": "Wed Apr 22",
-        "high": "58",
-        "low": "41"
-      },
-      {
         "label": "Thu Apr 23",
-        "high": "61",
-        "low": "38"
+        "high": "62",
+        "low": "40"
       },
       {
         "label": "Fri Apr 24",
-        "high": "60",
-        "low": "36"
+        "high": "61",
+        "low": "37"
+      },
+      {
+        "label": "Sat Apr 25",
+        "high": "59",
+        "low": "40"
       }
     ]
   },
   "stats": {
-    "mainCount": 11,
+    "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 8
+    "sourceCount": 10
   }
 }
