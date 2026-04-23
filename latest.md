@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-23T17:22:52.002321Z
+Generated: 2026-04-23T17:23:18.598185Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Hung Cao, the former refugee who is Trump’s new acting navy secretary, US justice department watchdog to review release of Jeffrey Epstein files – live, and Vampire: The Masquerade - Bloodlines 2's gun toting, bird flipping, violent sheriff featuring DLC gets a release date.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are US justice department watchdog to review release of Jeffrey Epstein files – live, Hung Cao, the former refugee who is Trump’s new acting navy secretary, and Vampire: The Masquerade - Bloodlines 2's gun toting, bird flipping, violent sheriff featuring DLC gets a release date.
 
 ## Briefing
 
@@ -37,16 +37,7 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. Hung Cao, the former refugee who is Trump’s new acting navy secretary [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Vietnam-born Cao stood twice for federal office in Virginia and has called for upgrading of fleet to face new threats Sign up for the Breaking News US email to get newsletter alerts in your inbox The acting navy secretary, Hung Cao, who…
-
-Link: https://www.theguardian.com/us-news/2026/apr/23/hung-cao-new-navy-secretary
-
-### 2. US justice department watchdog to review release of Jeffrey Epstein files – live [10/10]
+### 1. US justice department watchdog to review release of Jeffrey Epstein files – live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -54,6 +45,15 @@ Link: https://www.theguardian.com/us-news/2026/apr/23/hung-cao-new-navy-secretar
 Watchdog to ‘evaluate the DOJ’s processes for identifying, redacting, and releasing records in its possession as required’ by law Sign up for the Breaking News US email You’ve likely seen that the Senate adopted the plan for the budget…
 
 Link: https://www.theguardian.com/us-news/live/2026/apr/23/donald-trump-shutdown-ice-border-patrol-dhs-iran-democrats-republicans-latest-news-updates
+
+### 2. Hung Cao, the former refugee who is Trump’s new acting navy secretary [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Vietnam-born Cao stood twice for federal office in Virginia and has called for upgrading of fleet to face new threats Sign up for the Breaking News US email to get newsletter alerts in your inbox The acting navy secretary, Hung Cao, who…
+
+Link: https://www.theguardian.com/us-news/2026/apr/23/hung-cao-new-navy-secretary
 
 ### 3. Vampire: The Masquerade - Bloodlines 2's gun toting, bird flipping, violent sheriff featuring DLC gets a release date [10/10]
 **Source:** Rock Paper Shotgun  
@@ -400,15 +400,6 @@ Link: https://www.youtube.com/watch?v=LkJGuW04LgY
 - **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
 
 ## Trailers / Previews
-
-### Shrek | 25th Anniversary Trailer [7/10]
-**Source:** Universal Pictures  
-**Verdict:** Worth a glance  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-We’re taking it back to the swamp. Shrek returns to theaters May 15. Tickets available now.
-
-Link: https://www.youtube.com/watch?v=ppDwfm6e498
 
 ### BEEF | Behind the Score with Composer Finneas O’Connell | A24 [8/10]
 **Source:** A24  
