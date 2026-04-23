@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-23T12:02:56.346135Z",
-  "generatedAtDisplay": "2026-04-23 08:02 AM EDT",
+  "generatedAt": "2026-04-23T12:06:10.666902Z",
+  "generatedAtDisplay": "2026-04-23 08:06 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
   "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Middle East crisis live: US and Iran in blockade stalemate as Pentagon reportedly says clearing strait of Hormuz could take six months, Senate Republicans bypass Democrats to advance $70bn ICE and border patrol plan in ‘vote-a-rama’– US politics live, and Street Fighter 6's next DLC character Ingrid finally has a gameplay trailer and release date.",
@@ -11,7 +11,7 @@
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates",
-      "published": "2026-04-23T11:41:29+00:00",
+      "published": "2026-04-23T12:02:42+00:00",
       "summary": "Leaked assessment says clearing mines could take half a year; US navy secretary leaves office ‘immediately’ ‘Impossible’ to reopen strait of Hormuz amid ‘flagrant’ ceasefire breaches, Iran says The Pentagon abruptly announced that the…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
@@ -21,8 +21,8 @@
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/us-news/live/2026/apr/23/donald-trump-shutdown-ice-border-patrol-dhs-iran-democrats-republicans-latest-news-updates",
-      "published": "2026-04-23T11:40:17+00:00",
-      "summary": "Republicans deploy measure known as budget reconciliation to push through plan without backing from Democrats during lengthy late-night vote Sign up for the Breaking News US email Donald Trump’s years-long campaign to undermine faith in US…",
+      "published": "2026-04-23T11:57:42+00:00",
+      "summary": "Republicans deploy measure known as budget reconciliation to push through plan without backing from Democrats during lengthy late-night vote Sign up for the Breaking News US email President Donald Trump’s administration is considering more…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -581,6 +581,50 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "LEVITICUS - Official Trailer - Only In Theaters June 19",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=WXuK0vlFxII",
+      "published": "2026-04-22T16:00:59+00:00",
+      "summary": "Two teenage boys must escape a violent entity that takes the form of the person they desire most—each other.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "HOKUM - Final Trailer - Only In Theaters May 1",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=qU_i5e48KzQ",
+      "published": "2026-04-20T16:01:22+00:00",
+      "summary": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents’ ashes, he is consumed by tales of a witch haunting the honeymoon suite.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Mortuary Assistant - Willa Holland's Nightmare",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=s85C9QqYcxo",
+      "published": "2026-04-21T20:10:10+00:00",
+      "summary": "The body no longer belongs to her. THE MORTUARY ASSISTANT is streaming now on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Worst Ex Ever Season 2 | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=_iKN26hplWY",
+      "published": "2026-04-21T17:22:05+00:00",
+      "summary": "Are they \"the one\" or just the one you were warned about? Worst Ex Ever returns to Netflix on May 6 for Season 2 with true, harrowing tales of monstrous relationships and unhinged exes.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "#HeartstopperForever launch date revealed!",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -798,6 +842,13 @@
   },
   "highlights": [
     {
+      "title": "12 unexpected sourdough bread recipes that aren't crusty loaves: From sourdough flatbread to sourdough milk bread — and even sourdough babka.",
+      "source": "King Arthur Baking",
+      "url": "https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes",
+      "notes": "Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.",
+      "addedAt": "2026-04-23T12:04:00Z"
+    },
+    {
       "title": "A.I. Is Prompting an Evolution, Not Extinction, for Coders",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html",
@@ -847,7 +898,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 25,
-    "trailerCount": 28,
-    "sourceCount": 18
+    "trailerCount": 32,
+    "sourceCount": 21
   }
 }

@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-23T12:02:56.346135Z
+Generated: 2026-04-23T12:06:10.666902Z
 
 Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Middle East crisis live: US and Iran in blockade stalemate as Pentagon reportedly says clearing strait of Hormuz could take six months, Senate Republicans bypass Democrats to advance $70bn ICE and border patrol plan in ‘vote-a-rama’– US politics live, and Street Fighter 6's next DLC character Ingrid finally has a gameplay trailer and release date.
 
@@ -16,6 +16,11 @@ Forecast:
 - Sat Apr 25: high 59° / low 40°
 
 ## Highlighted stories
+
+### 12 unexpected sourdough bread recipes that aren't crusty loaves: From sourdough flatbread to sourdough milk bread — and even sourdough babka.
+Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
+
+Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
 ### A.I. Is Prompting an Evolution, Not Extinction, for Coders
 Interesting piece on the current state of AI in software work.
@@ -46,7 +51,7 @@ Link: https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Republicans deploy measure known as budget reconciliation to push through plan without backing from Democrats during lengthy late-night vote Sign up for the Breaking News US email Donald Trump’s years-long campaign to undermine faith in US…
+Republicans deploy measure known as budget reconciliation to push through plan without backing from Democrats during lengthy late-night vote Sign up for the Breaking News US email President Donald Trump’s administration is considering more…
 
 Link: https://www.theguardian.com/us-news/live/2026/apr/23/donald-trump-shutdown-ice-border-patrol-dhs-iran-democrats-republicans-latest-news-updates
 
@@ -539,6 +544,42 @@ Link: https://www.youtube.com/watch?v=GSfq5jq7ChQ
 SUBSCRIBE: http://bit.
 
 Link: https://www.youtube.com/watch?v=aqYHOsuje1E
+
+### LEVITICUS - Official Trailer - Only In Theaters June 19 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Two teenage boys must escape a violent entity that takes the form of the person they desire most—each other.
+
+Link: https://www.youtube.com/watch?v=WXuK0vlFxII
+
+### HOKUM - Final Trailer - Only In Theaters May 1 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+When novelist Ohm Bauman retreats to a remote inn to scatter his parents’ ashes, he is consumed by tales of a witch haunting the honeymoon suite.
+
+Link: https://www.youtube.com/watch?v=qU_i5e48KzQ
+
+### The Mortuary Assistant - Willa Holland's Nightmare [6/10]
+**Source:** Shudder  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The body no longer belongs to her. THE MORTUARY ASSISTANT is streaming now on Shudder.
+
+Link: https://www.youtube.com/watch?v=s85C9QqYcxo
+
+### Worst Ex Ever Season 2 | Official Trailer [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Are they "the one" or just the one you were warned about? Worst Ex Ever returns to Netflix on May 6 for Season 2 with true, harrowing tales of monstrous relationships and unhinged exes.
+
+Link: https://www.youtube.com/watch?v=_iKN26hplWY
 
 ### #HeartstopperForever launch date revealed! [9/10]
 **Source:** Netflix  
