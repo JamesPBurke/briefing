@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-24T04:10:46.675557Z
+Generated: 2026-04-24T04:13:40.782262Z
 
 Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are How a simple consumer data breach spiralled into a national security crisis in US-South Korea relations, US soldier involved in Maduro raid charged over alleged bets on capture, and Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro.
 
