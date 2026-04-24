@@ -1,14 +1,14 @@
 # James Daily Briefing
 
-Generated: 2026-04-24T14:00:02.045019Z
+Generated: 2026-04-24T20:19:22.418284Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are The AI Compute Crunch Is Here (and It's Affecting the Entire Economy), "A wordless world that speaks": Lofsöng is like a Playdead game set in a Brutalist nuclear exclusion zone, and Masters of Albion and Sintopia show god games are nothing without a deity's twitchy fingers.
+Today's sweep leans toward AI / computing, Democracy / press freedom, Education / pedagogy. The strongest items in this run are 360-degree cameras have a new superpower, The person who allegedly leaked Paramount’s new Avatar movie has been arrested, and Ohio Launches Statewide Attendance Dashboard to Combat Chronic Absenteeism.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Sunny, 63°F (feels like 63°F), 11 mph wind, 45% humidity.
+02726 (Somerset, MA): Clear, 50°F (feels like 48°F), 6 mph wind, 62% humidity.
 
 Forecast:
 - Fri Apr 24: high 61° / low 37°
@@ -37,70 +37,61 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. The AI Compute Crunch Is Here (and It's Affecting the Entire Economy) [10/10]
-**Source:** 404 Media  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Venture capitalists can't subsidize cheap AI forever, and the hunger for more compute is affecting the labor market, the gadget market, and electricity prices.
-
-Link: https://www.404media.co/the-ai-compute-crunch-is-here-and-its-affecting-the-entire-economy/
-
-### 2. "A wordless world that speaks": Lofsöng is like a Playdead game set in a Brutalist nuclear exclusion zone [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Lofsöng is an ash-blown, top-down exploration game set on an Earth ravaged by nuclear winter, whose Brutalist structures form a sleeping, sunken language, revealed by sound.
-
-Link: https://www.rockpapershotgun.com/a-wordless-world-that-speaks-lofsong-is-like-a-playdead-game-set-in-a-brutalist-nuclear-exclusion-zone
-
-### 3. Masters of Albion and Sintopia show god games are nothing without a deity's twitchy fingers [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-I've been thinking a lot about hands this week. Weird little things, covered in fingers and nails, always clenching and unclenching.
-
-Link: https://www.rockpapershotgun.com/masters-of-albion-and-sintopia-show-god-games-are-nothing-without-a-deitys-twitchy-fingers
-
-### 4. ‘We aren’t scared any more’: #MeToo’s lessons give Epstein survivors strength to speak out [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-One of the lasting impacts of #MeToo is power in unity among survivors – a lesson activists say can carry in moments like the Epstein files release In September, dozens of survivors of Jeffrey Epstein and Ghislaine Maxwell stood shoulder…
-
-Link: https://www.theguardian.com/us-news/2026/apr/24/jeffrey-epstein-survivors-metoo
-
-### 5. In Defense of Critical Thinking in the Age of AI [10/10]
-**Source:** CSTA  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-I want to start with a confession: I use AI tools. Every day. In my classroom, in my lesson planning,... The post In Defense of Critical Thinking in the Age of AI appeared first on Computer Science Teachers Association .
-
-Link: https://csteachers.org/in-defense-of-critical-thinking-in-the-age-of-ai/
-
-### 6. Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro [10/10]
+### 1. 360-degree cameras have a new superpower [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Microsoft started teasing a mysterious Discord and Xbox Game Pass partnership yesterday, and a new leak appears to have detailed exactly what's coming.
+Imagine Google Street View, except you can walk around like it's a video game. Now imagine you don't need to wait for Google to come film because it's completely DIY.
 
-Link: https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle
+Link: https://www.theverge.com/tech/914730/splatica-gaussian-splats-insta360-antigravity
 
-### 7. Syria arrests suspected leader of Tadamon massacre [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 2. The person who allegedly leaked Paramount’s new Avatar movie has been arrested [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Amjad Youssef is one of most-wanted fugitives in relation to slaughter of estimated 288 civilians under Assad A Syrian former regime official suspected of leading a notorious civilian massacre revealed by the Guardian – and who became one…
+Following Paramount Skydance's move to launch an investigation into how its upcoming Avatar Aang: The Last Airbender animated feature leaked onto the internet, a suspect has been taken into custody by police.
 
-Link: https://www.theguardian.com/world/2026/apr/24/syria-arrests-suspected-leader-of-tadamon-massacre
+Link: https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus
 
-### 8. Trump administration vows crackdown on Chinese firms 'exploiting' U.S. AI models [10/10]
+### 3. Ohio Launches Statewide Attendance Dashboard to Combat Chronic Absenteeism [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Ohio Gov. Mike DeWine and Department of Education and Workforce Director Stephen Dackin have announced the launch of a statewide Attendance Dashboard in an effort to combat chronic absenteeism in K-12 public schools.
+
+Link: https://www.the74million.org/article/ohio-launches-statewide-attendance-dashboard-to-combat-chronic-absenteeism/
+
+### 4. How AI Can Help Educators Teach Kids to Read, Without Replacing Connection [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Class Disrupted is an education podcast featuring author Michael Horn and Futre’s Diane Tavenner in conversation with educators, school leaders, students and other members of school communities as they investigate the challenges facing the…
+
+Link: https://www.the74million.org/article/how-ai-can-help-educators-teach-kids-to-read-without-replacing-connection/
+
+### 5. Mega Crit are tinkering with Slay the Spire 2's difficulty in a new patch, while weighing further changes to everybody's favourite villain, the Doormaker [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / design  
+**Why it matters:** Useful if you care about how games actually work as designed experiences.
+
+Ho, doughty Ascenders and Door defeaters! There's a new beta patch out for roguelite deckbuilder Slay the Spire 2 , following last week's thunderous rolling of various beta updates into the game's main release branch .
+
+Link: https://www.rockpapershotgun.com/mega-crit-are-tinkering-with-slay-the-spire-2s-difficulty-in-a-new-patch-while-weighing-further-changes-to-everybodys-favourite-villain-the-doormaker
+
+### 6. Kash Patel’s Lawsuit Against “The Atlantic” Is a Giant Self-Own [10/10]
+**Source:** The Nation  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Elie Mystal In this week’s Elie v. US , our justice correspondent deconstructs Patel's preposterous defamation arguments. Plus: a fascinating gun-control lawsuit.
+
+Link: https://www.thenation.com/article/politics/kash-patel-lawsuit-atlantic/
+
+### 7. Trump administration vows crackdown on Chinese firms 'exploiting' U.S. AI models [10/10]
 **Source:** NPR Tech  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -109,16 +100,34 @@ The Trump administration is vowing to crack down on foreign tech companies' expl
 
 Link: https://www.npr.org/2026/04/24/g-s1-118582/administration-crackdown-on-chinese-firms-exploiting-u-s-ai-models
 
-### 9. Elon Musk and Sam Altman’s court showdown will dish the dirt [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 8. US veteran lost in Arizona’s wilderness for four days rescued by his own son [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing.
+Mark Young battled dehydration and killed a rattlesnake while his children and others looked for him for days A Vietnam war veteran says he is a living “miracle” after getting lost in Arizona ’s wilderness for four days with precious few…
 
-Link: https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip
+Link: https://www.theguardian.com/us-news/2026/apr/24/us-veteran-lost-arizona-wilderness-rescued-son
 
-### 10. 'Self-aware' robots can learn complex tasks by watching humans. Is that a good thing? [8/10]
+### 9. Xbox's new boss Asha Sharma refuses to rule out the return of exclusive games [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+After publishing a company wide memo on her plans for Xbox earlier this week, freshly-minted Xbox CEO Asha Sharma has given a rare - if less than candid - interview, elaborating just a tad more on team green's future. Read more
+
+Link: https://www.eurogamer.net/xbox-boss-asha-sharma-hasnt-decided-exclusive-games
+
+### 10. Behind the Blog: Waiting in the Apple Store [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+This week, we discuss Tim Cook, Meta layoffs, and a very bad ad.
+
+Link: https://www.404media.co/behind-the-blog-waiting-in-the-apple-store/
+
+### 11. 'Self-aware' robots can learn complex tasks by watching humans. Is that a good thing? [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -127,34 +136,34 @@ Scientists say they've made a key breakthrough that would allow robots to figure
 
 Link: https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home
 
-### 11. Community Votes to Deny Water to Nuclear Weapons Data Center [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-America’s nuclear scientists plan to break ground on an AI data center next week, but the Township where it’s being constructed just put a 365 day hold on providing it with water.
-
-Link: https://www.404media.co/community-votes-to-deny-water-to-nuclear-weapons-data-center/
-
-### 12. There Will Be Ducks in The Legend of Vox Machina Season 4 Trailer [8/10]
+### 12. What to Watch and Read This Weekend: Sound the Bryan Fuller Klaxon! Dust Bunny Is Streaming on HBO Max [7/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Don’t f--- a duck The post There Will Be Ducks in The Legend of Vox Machina Season 4 Trailer appeared first on Reactor .
+Plus: Mother Mary, and a surprisingly wholesome connection between Fight Club and dogs The post What to Watch and Read This Weekend: Sound the Bryan Fuller Klaxon! Dust Bunny Is Streaming on HBO Max appeared first on Reactor .
 
-Link: https://reactormag.com/there-will-be-ducks-in-the-legend-of-vox-machina-season-4-trailer/
+Link: https://reactormag.com/what-to-watch-read-this-weekend-april-24-2026/
 
-### 13. Trump administration eases rules on some marijuana categories. Here's what to know [8/10]
+### 13. Suicide rates have declined since the launch of 988 suicide hotline, study finds [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Acting Attorney General Todd Blanche said he is immediately moving medical marijuana from Schedule I to Schedule III, which includes drugs like ketamine, Tylenol with codeine and anabolic steroids.
+Suicide rates among teens and young adults declined in the two years after the launch of the 988 Suicide and Crisis Lifeline.
 
-Link: https://www.npr.org/2026/04/23/nx-s1-5797245/marijuana-rules-reschedule-medical-legalization
+Link: https://www.npr.org/2026/04/24/nx-s1-5797766/suicide-rates-have-declined-since-the-launch-of-988-suicide-hotline-study-finds
 
 ## YouTube
+
+### Harvard Professor Answers Iranian History Questions | Tech Support | WIRED [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Professor Tarek Masoud joins WIRED to answer the internet's burning questions about the history of Iran.
+
+Link: https://www.youtube.com/watch?v=r5ClTzfCvQ4
 
 ### What "Winning" The Iran War Might Realistically Look Like [7/10]
 **Creator:** WIRED  
@@ -174,7 +183,25 @@ Professor Tarek Masoud joins WIRED to answer the internet's burning questions ab
 
 Link: https://www.youtube.com/watch?v=NKdyuKXkrPU
 
-### The Supreme Court case that could end digital privacy | Nina Totenberg [10/10]
+### U.K. Prime Minister faces growing calls to resign over his U.S. ambassador's ties to Epstein [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+British Prime Minister Keir Starmer is facing renewed calls for his resignation over his choice for ambassador to Washington — a veteran diplomat with close ties to Jeffrey Epstein.
+
+Link: https://www.youtube.com/watch?v=C0gjZUO0BtA
+
+### At least 10 injured as tornadoes rip through northern Oklahoma [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Multiple tornadoes swept the northern part of Oklahoma Thursday night, leaving at least 10 people injured. The city of Enid is one of the hardest areas. It’s about 100 miles north of Oklahoma City. Vance Air Force Base is there.
+
+Link: https://www.youtube.com/watch?v=fCiLZ-THV2k
+
+### The Supreme Court case that could end digital privacy | Nina Totenberg [9/10]
 **Creator:** NPR  
 **Verdict:** Watch it  
 **Why it matters:** Relevant to your current interest graph.
@@ -192,9 +219,9 @@ Who is driving U.S. policy in Iran? NPR's Franco Ordoñez breaks down Vice Presi
 
 Link: https://www.youtube.com/watch?v=a0-tWoUOiag
 
-### Senators grill RFK Jr. on vaccines as measles continues to spread [9/10]
+### Senators grill RFK Jr. on vaccines as measles continues to spread [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Health Secretary Robert F. Kennedy Jr. was on Capitol Hill this week, where he was pressed by lawmakers about the rise in measles cases.
@@ -210,45 +237,45 @@ The Israeli military struck every major bridge crossing the Litani River into so
 
 Link: https://www.youtube.com/watch?v=chHY_tK5mSM
 
-### Virginia voters back Democrats in national congressional redistricting fight [7/10]
+### Virginia voters back Democrats in national congressional redistricting fight [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 Voters in Virginia have handed a victory to Democrats, narrowly agreeing to redraw congressional maps in their favor in their state.
 
 Link: https://www.youtube.com/watch?v=d8cCD7FIwSo
 
-### Texas can require displays of the Ten Commandments, in public schools, judges rules [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
+### Can Switch 2 Handle Starfield? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
-A federal appeals court has upheld a Texas law requiring the display of the Ten Commandments in every public school classroom in the state.
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
-Link: https://www.youtube.com/watch?v=FLUa2i-dJ1c
+Link: https://www.youtube.com/watch?v=u18fdcEDmRQ
 
-### What do bees have in common with humans? [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-Bees, just like humans, play! And they can solve puzzles too.
-
-Link: https://www.youtube.com/watch?v=kN6kah0lYno
-
-### Should I Buy RTX 5080 Now For Path Tracing Or Wait For Next-Gen? [8/10]
+### Nvidia Says It ISN'T Acquiring A PC Manufacturer - Do We Believe Them? [8/10]
 **Creator:** Digital Foundry  
 **Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=sCpofEY6JQo
+
+### Should I Buy RTX 5080 Now For Path Tracing Or Wait For Next-Gen? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=LuzG5sfWXl8
 
-### Ryzen 7 5800X3D Returning Is Brilliant News... But How Much Will It Cost? [7/10]
+### Ryzen 7 5800X3D Returning Is Brilliant News... But How Much Will It Cost? [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -273,23 +300,32 @@ Link: https://www.youtube.com/watch?v=-jRgvW3i9XE
 
 Link: https://www.youtube.com/watch?v=RpBBwYQKUko
 
-### Metro 2039 Reveal Reaction - This Looks Superb [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### Xbox’s Harsh Pivot Is Telling | Dev Heads Podcast [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+This video is brought to you by GameMaker, the free, fast, and easy-to-use 2D game engine that’s helped power modern classics like Deltarune, Pizza Tower, and Yahtzee’s Starstruck Vagabond – https://opr.
 
-Link: https://www.youtube.com/watch?v=oyeAkupkIwc
+Link: https://www.youtube.com/watch?v=PGDqB3uby44
 
-### Bethesda Promising Starfield PS5 Crash Fixes [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### We'll Finish Dokapon Kingdom, or Die Trying w/ KC, Jess, Jesse, and Marty -- Finale [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+KC, Jess, Jesse, and Marty are going to FINALLY finish their Dokapon game that they started back in November 2024...or they'll die trying. Dokapon Kingdom Part 1 -- https://youtu.be/M6Kj0mWZYXM?t=14646 Dokapon Kingdom Part 2 -- https://www.
 
-Link: https://www.youtube.com/watch?v=7vgRjEbUN9o
+Link: https://www.youtube.com/watch?v=hgGaZDpJocI
+
+### Xbox, Identity, and the Power of Exclusives | Unpacked [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Xbox is entering a new era, but first it needs to rebuild its core identity. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=A2Q68gDvHFw
 
 ### Building a Showcase, Black Flag Returns, and More | Firelink Podcast [9/10]
 **Creator:** Second Wind  
@@ -300,9 +336,9 @@ This week on Firelink, Nick, KC, and Marty chat about what goes into building a 
 
 Link: https://www.youtube.com/watch?v=sn0xBRpD9bw
 
-### The Second Wind Games Showcase - Spring 2026 Edition [9/10]
+### The Second Wind Games Showcase - Spring 2026 Edition [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This showcase is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join today and earn rewards for playing and wishlisting games from the showcase! – https://playtracker.
@@ -336,33 +372,6 @@ This week on Yahtzee Tries... Yahtzee and Marty try out Vampire Crawlers and Gec
 
 Link: https://www.youtube.com/watch?v=iF3_6hMSi_8
 
-### Atari Versus Nintendo: The Curse of the Rabbit | Fully Ramblomatic [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-It's time for another lesson in gaming history. Get your blu-ray copies today! https://store.dftba.com/products/fully-ramblomatic-vol-2-2025-blu-ray https://store.dftba.
-
-Link: https://www.youtube.com/watch?v=pt7SkhWQoFo
-
-### Exit 8 Is the Rare Video Game Movie That Understands Video Games | The Rewind Podcast [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on The Rewind, Darren, Jack, and Marty chat about how Exit 8 fully embraces both of its mediums, reveals from CinemaCon, as well as everything else they've been watching.
-
-Link: https://www.youtube.com/watch?v=kaCiZfWyShM
-
-### Exit 8 Thoughts About Liminal Horror | The Backdrop [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Note: This piece contains spoilers for Exit 8, the Japanese horror film that released in American theatres this weekend. I very much enjoyed it as a tight and efficient surrealist horror film - I’d go so far as to call it Exit Gr-8.
-
-Link: https://www.youtube.com/watch?v=nk404rjV5OE
-
 ## Entertainment Recommendations
 
 ### Newer shows that look like a fit
@@ -391,6 +400,15 @@ Link: https://www.youtube.com/watch?v=nk404rjV5OE
 - **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
 
 ## Trailers / Previews
+
+### The Best of Marty And Doc's Friendship | Back to the Future Trilogy [8/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Marty McFly (Michael J. Fox) and Doc Brown (Christopher Lloyd) share the ultimate bond as they navigate the dangers of time travel across decades.
+
+Link: https://www.youtube.com/watch?v=i8NF-WsZMdg
 
 ### Focker-In-Law | Official Trailer [8/10]
 **Source:** Universal Pictures  
@@ -518,6 +536,24 @@ The Further comes for our world.
 
 Link: https://www.youtube.com/watch?v=3PqqwEyV_Lw
 
+### Apex has it all: Psychopaths, shady characters and ear bites. NOW PLAYING! [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Apex has it all: Psychopaths, shady characters and ear bites. NOW PLAYING! #netflix Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=2p1zYIrDE1s
+
+### Swapped | Meeting Boogle | Sneak Peek | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=k9Azwc2ajrk
+
 ### catch you on the flip. Tales From '85 is now playing. #netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -635,23 +671,14 @@ Beef Season 2, premieres April 16. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=WbFM2gkUfOs
 
-### Roosters: Season 2 | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
+### Monarch: Legacy of Monsters — Godzilla Chases Titan X to Skull Island | Apple TV [10/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-The men are back, more confused than ever. Season 2 of Roosters arrives May 13. Watch on Netflix: https://www.netflix.com/title/81698659 In season 2, Mike, Danny, Ivo, and Greg do everything they can to be less cocky.
+He doesn't want to kill her — he just needs her back where she's meant to be. The opening scene of "Ends of the Earth." Monarch: Legacy of Monsters Season 2 is now streaming on Apple TV https://apple.
 
-Link: https://www.youtube.com/watch?v=e_tw7pJ3JOM
-
-### What you can expect from BEEF S2, according to Oscar Isaac and Carey Mulligan. [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Beef Season 2, premieres April 16. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=o6M2NRhPYJg
+Link: https://www.youtube.com/watch?v=vXYPYt79Bcc
 
 ### Star City — Official Trailer | Apple TV [10/10]
 **Source:** Apple TV  
@@ -670,21 +697,3 @@ Link: https://www.youtube.com/watch?v=V-yAMs307W4
 These two know how to work a crowd. Watch Nicole Kidman and Nick Offerman duke it out. Margo's Got Money Troubles is now streaming on Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.
 
 Link: https://www.youtube.com/watch?v=aARvAl_CkVk
-
-### Silo — Season 3 Official Teaser | Apple TV [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-The truth will surface. Silo returns July 3 on Apple TV https://apple.co/_Silo “Silo” is the story of the last ten thousand people on earth, their mile-deep home protecting them from the toxic and deadly world outside.
-
-Link: https://www.youtube.com/watch?v=C9-_VVX9BvE
-
-### Margo's Got Money Troubles — I Will Not Be Judged | Scene | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Not your average grandma. Michelle Pfeiffer stars as Shyanne in Margo's Got Money Troubles. Now streaming on Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.
-
-Link: https://www.youtube.com/watch?v=S9EjVqPfVII
