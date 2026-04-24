@@ -1,88 +1,88 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-23T18:21:31.005707Z",
-  "generatedAtDisplay": "2026-04-23 02:21 PM EDT",
+  "generatedAt": "2026-04-24T04:10:46.675557Z",
+  "generatedAtDisplay": "2026-04-24 12:10 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are US justice department watchdog to review release of Jeffrey Epstein files – live, ‘Hairdryer or lighter?’: French police look at claim of sensor tampering to win weather bets, and OpenAI says its new GPT-5.5 model is more efficient and better at coding.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are How a simple consumer data breach spiralled into a national security crisis in US-South Korea relations, US soldier involved in Maduro raid charged over alleged bets on capture, and Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro.",
   "mainItems": [
     {
-      "title": "US justice department watchdog to review release of Jeffrey Epstein files – live",
+      "title": "How a simple consumer data breach spiralled into a national security crisis in US-South Korea relations",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/apr/24/coupang-data-breach-south-korea-us-relations",
+      "published": "2026-04-24T03:24:21+00:00",
+      "summary": "Washington’s focus on online retailer Coupang has led to accusations that the Trump administration is tying issues of national security to domestic corporate matters When South Korea’s biggest online retailer revealed last year that a data…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "US soldier involved in Maduro raid charged over alleged bets on capture",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/live/2026/apr/23/donald-trump-shutdown-ice-border-patrol-dhs-iran-democrats-republicans-latest-news-updates",
-      "published": "2026-04-23T18:05:39+00:00",
-      "summary": "Watchdog to ‘evaluate the DOJ’s processes for identifying, redacting, and releasing records in its possession as required’ by law Sign up for the Breaking News US email You’ve likely seen that the Senate adopted the plan for the budget…",
+      "url": "https://www.theguardian.com/us-news/2026/apr/23/maduro-raid-soldier-charged",
+      "published": "2026-04-24T00:05:46+00:00",
+      "summary": "Gannon Ken Van Dyke, who allegedly made more than $400,000 on Polymarket, could face up to 60 years in prison A US soldier who played a role in the January capture of Venezuelan president Nicolás Maduro is now in custody after allegedly…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "‘Hairdryer or lighter?’: French police look at claim of sensor tampering to win weather bets",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/apr/23/hairdryer-or-lighter-french-police-look-at-claim-of-sensor-tampering-to-win-weather-bets",
-      "published": "2026-04-23T17:39:05+00:00",
-      "summary": "Forecasting service raises alarm over data from Paris airport used to settle Polymarket wagers on temperature French police are investigating alleged tampering with national weather forecasting service equipment after a series of unusual…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+      "title": "Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
-      "published": "2026-04-23T17:33:13+00:00",
-      "summary": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI just released GPT-5.",
+      "url": "https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle",
+      "published": "2026-04-23T22:45:00+00:00",
+      "summary": "Microsoft started teasing a mysterious Discord and Xbox Game Pass partnership yesterday, and a new leak appears to have detailed exactly what's coming.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Hung Cao, the former refugee who is Trump’s new acting navy secretary",
-      "source": "The Guardian US",
+      "title": "French police probe suspected weather device tampering after odd Polymarket bet",
+      "source": "NPR Tech",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/23/hung-cao-new-navy-secretary",
-      "published": "2026-04-23T17:05:34+00:00",
-      "summary": "Vietnam-born Cao stood twice for federal office in Virginia and has called for upgrading of fleet to face new threats Sign up for the Breaking News US email to get newsletter alerts in your inbox The acting navy secretary, Hung Cao, who…",
+      "url": "https://www.npr.org/2026/04/23/nx-s1-5797876/polymarket-paris-weather-bet",
+      "published": "2026-04-23T22:22:38+00:00",
+      "summary": "The incident is the latest eyebrow-raising bet on Polymarket, as allegations of rigging and manipulation continue to haunt the popular prediction market site.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Vampire: The Masquerade - Bloodlines 2's gun toting, bird flipping, violent sheriff featuring DLC gets a release date",
+      "title": "Former PlayStation head isn't sure how Sony can recoup those big budgets without first-party games coming to PC",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/vampire-the-masquerade-bloodlines-2s-gun-toting-bird-flipping-violent-sheriff-featuring-dlc-gets-a-release-date",
-      "published": "2026-04-23T16:59:04+00:00",
-      "summary": "After a rough launch last year, work on Vampire: The Masquerade - Bloodlines 2 continues, with the game's first DLC, Loose Cannon, having now settled on a release date: April 27th! That's soon, like next week soon as long as my materially…",
+      "url": "https://www.rockpapershotgun.com/former-playstation-head-isnt-sure-how-sony-can-recoup-those-big-budgets-without-first-party-games-coming-to-pc",
+      "published": "2026-04-23T22:04:05+00:00",
+      "summary": "Last month, a report emerged that claimed that Sony would no longer be putting its first-party games like Ghost of Yotei on PC, with online games like Marathon being the exception.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Trump’s navy secretary ousted over dispute about shipbuilding",
-      "source": "The Guardian US",
+      "title": "OpenAI is under scrutiny after two mass shooters used ChatGPT to plan attacks",
+      "source": "NPR Tech",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/23/john-phelan-trump-navy-secretary-firing",
-      "published": "2026-04-23T16:55:34+00:00",
-      "summary": "John Phelan firing caused by poor relationship with Pete Hegseth and slow movement on shipbuilding, sources say The Trump administration fired its top naval official on Wednesday in a move unrelated to the ongoing naval blockade of Iran’s…",
+      "url": "https://www.npr.org/2026/04/23/nx-s1-5794016/openai-is-under-scrutiny-after-two-mass-shooters-used-chatgpt-to-plan-attacks",
+      "published": "2026-04-23T20:57:43+00:00",
+      "summary": "AI companies are under growing scrutiny over the potential harms chatbots can pose amid investigations into how mass shooters allegedly sought advice from the tools.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Opinion: The Business Case Against Judging Schools Like Businesses",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/the-business-case-against-judging-schools-like-businesses/",
-      "published": "2026-04-23T16:30:00+00:00",
-      "summary": "Imagine if America’s favorite businesses had to operate by the same rules as your local public school. Starbucks would open every morning to a crowd of customers assigned by ZIP code.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma",
+      "published": "2026-04-23T19:07:21+00:00",
+      "summary": "Xbox CEO Asha Sharma held an all-hands meeting this morning and laid out her strategy for a \"return of Xbox\" with employees.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Assassin’s Creed Black Flag Resynced doesn’t include the Freedom Cry DLC, Ubisoft say they made a “clear choice” to focus on Edward’s adventure",
-      "source": "Rock Paper Shotgun",
+      "title": "Democrats want to ban ICE from turning warehouses into detention centers",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/assassins-creed-black-flag-resynced-doesnt-include-the-freedom-cry-dlc-ubisoft-say-they-made-a-clear-choice-to-focus-on-edwards-adventure",
-      "published": "2026-04-23T16:15:00+00:00",
-      "summary": "Yep, after years of messages in bottles washing ashore in the form of reports claiming Ubisoft are remaking Assassin’s Creed Black Flag, it’s finally coming on July 9th .",
+      "url": "https://www.theverge.com/policy/917643/ban-warehouse-detention-act-ice-dhs",
+      "published": "2026-04-23T18:35:39+00:00",
+      "summary": "A bill introduced by Rep.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -97,6 +97,36 @@
       "score": 10
     },
     {
+      "title": "This High School Student Is Teaching Kids Across the Globe How to Code",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/this-high-school-student-is-teaching-kids-across-the-globe-how-to-code/",
+      "published": "2026-04-23T18:30:00+00:00",
+      "summary": "Last May, Jacob Shaul logged onto his computer and began remotely teaching more than 170 students in Bolivia the basics of programming languages, like HTML, CSS and JavaScript.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "Maine might soon impose the country's first statewide pause on data centers",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/04/23/nx-s1-5795655/maine-might-soon-impose-the-countrys-first-statewide-pause-on-data-centers",
+      "published": "2026-04-23T20:38:21+00:00",
+      "summary": "Maine might become the first place to impose a statewide pause on big data center construction — if the governor signs the bill.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
+    },
+    {
+      "title": "Community Votes to Deny Water to Nuclear Weapons Data Center",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/community-votes-to-deny-water-to-nuclear-weapons-data-center/",
+      "published": "2026-04-23T20:30:30+00:00",
+      "summary": "America’s nuclear scientists plan to break ground on an AI data center next week, but the Township where it’s being constructed just put a 365 day hold on providing it with water.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
       "title": "There Will Be Ducks in The Legend of Vox Machina Season 4 Trailer",
       "source": "Reactor",
       "category": "Sci-fi / horror",
@@ -104,439 +134,11 @@
       "published": "2026-04-23T18:16:54+00:00",
       "summary": "Don’t f--- a duck The post There Will Be Ducks in The Legend of Vox Machina Season 4 Trailer appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 9
-    },
-    {
-      "title": "Landmark report details lasting impact of slavery in key Georgia county",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/apr/23/fulton-county-georgia-slavery",
-      "published": "2026-04-23T18:06:37+00:00",
-      "summary": "Taskforce report examines how effects of slavery and Jim Crow in Fulton county continue to harm Black residents A Georgia taskforce has released a landmark report that details the lasting impact of slavery and its afterlives in Fulton…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Researchers Simulated a Delusional User to Test Chatbot Safety",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/delusion-using-chatgpt-gemini-claude-grok-safety-ai-psychosis-study/",
-      "published": "2026-04-23T13:52:19+00:00",
-      "summary": "Grok and Gemini encouraged delusions and isolated users, while the newer ChatGPT model and Claude hit the emotional brakes.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "How TikTok is driving American expats to Southeast Asia",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/04/23/nx-s1-5763809/tiktok-moving-vietnam-thailand-american-expats",
-      "published": "2026-04-23T09:00:00+00:00",
-      "summary": "Americans who moved to Vietnam and Thailand say their lives are now lower-stress and lower-cost. But glamorous videos on TikTok don't tell the whole story.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
     }
   ],
-  "youtube": [
-    {
-      "title": "What \"Winning\" The Iran War Might Realistically Look Like",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=egUnmBw89KE",
-      "published": "2026-04-22T20:08:54+00:00",
-      "summary": "Professor Tarek Masoud joins WIRED to answer the internet's burning questions about the Iran War with Israel and the United States. Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Harvard Professor Answers Iranian Government Questions | Tech Support | WIRED",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=NKdyuKXkrPU",
-      "published": "2026-04-22T16:00:03+00:00",
-      "summary": "Professor Tarek Masoud joins WIRED to answer the internet's burning questions about the Government of Iran.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Senators grill RFK Jr. on vaccines as measles continues to spread",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=mVcf7LLYJ1c",
-      "published": "2026-04-23T17:01:05+00:00",
-      "summary": "Health Secretary Robert F. Kennedy Jr. was on Capitol Hill this week, where he was pressed by lawmakers about the rise in measles cases.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Israeli military struck every major bridge crossing into southern Lebanon, blocking aid",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=chHY_tK5mSM",
-      "published": "2026-04-23T16:30:27+00:00",
-      "summary": "The Israeli military struck every major bridge crossing the Litani River into southern Lebanon during the recent war against Hezbollah, including the Qasmiyeh coastal bridge in the final hours before the temporary ceasefire was announced.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Virginia voters back Democrats in national congressional redistricting fight",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=d8cCD7FIwSo",
-      "published": "2026-04-23T16:00:58+00:00",
-      "summary": "Voters in Virginia have handed a victory to Democrats, narrowly agreeing to redraw congressional maps in their favor in their state.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Texas can require displays of the Ten Commandments, in public schools, judges rules",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=FLUa2i-dJ1c",
-      "published": "2026-04-22T16:30:07+00:00",
-      "summary": "A federal appeals court has upheld a Texas law requiring the display of the Ten Commandments in every public school classroom in the state.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "What do bees have in common with humans?",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=kN6kah0lYno",
-      "published": "2026-04-22T13:01:33+00:00",
-      "summary": "Bees, just like humans, play! And they can solve puzzles too.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "U.S. exempts oil industry from protecting Gulf animals",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=exJU_I1tmDI",
-      "published": "2026-04-21T19:00:38+00:00",
-      "summary": "The \"God Squad\" voted unanimously to remove protections for endangered animals in the Gulf. It's not the first time federal agencies cited the \"energy emergency\" to avoid rules meant to protect animals.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Consumers hope for tariff refunds that experts say may never come",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=ZD-huXq9nm4",
-      "published": "2026-04-21T18:30:50+00:00",
-      "summary": "Businesses are officially able to request tariff refunds, but don’t expect consumers to get their tariff dollars back — the government refunds are only for importers.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Alex Jones vows to fight The Onion's new plan to take over Infowars",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=dIyh1NyqMms",
-      "published": "2026-04-21T17:30:08+00:00",
-      "summary": "Conspiracy theorist Alex Jones is vowing to fight a new deal that would allow the satirical website, “The Onion,” to take over Jones’ far-right media company, Infowars.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Should I Buy RTX 5080 Now For Path Tracing Or Wait For Next-Gen?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=LuzG5sfWXl8",
-      "published": "2026-04-23T17:00:35+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Ryzen 7 5800X3D Returning Is Brilliant News... But How Much Will It Cost?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=AMLMwhzeOXQ",
-      "published": "2026-04-23T16:00:26+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Why Increase Res with PSSR2 - Why Not Lower It With More Features?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=-jRgvW3i9XE",
-      "published": "2026-04-22T19:00:00+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Pragmata PS5 Runs At 1080p - But We Got It Running At 1440p Somehow",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=RpBBwYQKUko",
-      "published": "2026-04-22T16:00:41+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Metro 2039 Reveal Reaction - This Looks Superb",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=oyeAkupkIwc",
-      "published": "2026-04-21T17:01:11+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Bethesda Promising Starfield PS5 Crash Fixes",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=7vgRjEbUN9o",
-      "published": "2026-04-21T16:00:11+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Go Ahead, Make Me Cry | Semi-Ramblomatic",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=Qt8gXZ_afHY",
-      "published": "2026-04-23T15:05:18+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Possibly Finishing Returnal, Possibly Not Finishing Returnal w/ KC and Marty -- Part 9",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=MW0pDOF98oU",
-      "published": "2026-04-23T01:36:36+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Yahtzee Tries... Vampire Crawlers and Gecko Gods",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=iF3_6hMSi_8",
-      "published": "2026-04-22T22:12:52+00:00",
-      "summary": "This week on Yahtzee Tries... Yahtzee and Marty try out Vampire Crawlers and Gecko Gods. VAMPIRE CRAWLERS -- https://store.steampowered.com/app/3265700/Vampire_Crawlers_The_Turbo_Wildcard_from_Vampire_Survivors/ GECKO GODS -- https://store.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "The Second Wind Games Showcase - Spring 2026 Edition",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=p8b5hTeaE4o",
-      "published": "2026-04-22T16:01:47+00:00",
-      "summary": "This showcase is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join today and earn rewards for playing and wishlisting games from the showcase! – https://playtracker.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Atari Versus Nintendo: The Curse of the Rabbit | Fully Ramblomatic",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=pt7SkhWQoFo",
-      "published": "2026-04-22T16:01:25+00:00",
-      "summary": "It's time for another lesson in gaming history. Get your blu-ray copies today! https://store.dftba.com/products/fully-ramblomatic-vol-2-2025-blu-ray https://store.dftba.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Exit 8 Is the Rare Video Game Movie That Understands Video Games | The Rewind Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=kaCiZfWyShM",
-      "published": "2026-04-21T20:13:30+00:00",
-      "summary": "This week on The Rewind, Darren, Jack, and Marty chat about how Exit 8 fully embraces both of its mediums, reveals from CinemaCon, as well as everything else they've been watching.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Exit 8 Thoughts About Liminal Horror | The Backdrop",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=nk404rjV5OE",
-      "published": "2026-04-21T15:01:24+00:00",
-      "summary": "Note: This piece contains spoilers for Exit 8, the Japanese horror film that released in American theatres this weekend. I very much enjoyed it as a tight and efficient surrealist horror film - I’d go so far as to call it Exit Gr-8.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Running the World's Best/Worst Bar in Tavern Keeper | Hot Monday Energy",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=LkJGuW04LgY",
-      "published": "2026-04-21T01:14:21+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "BEEF | Behind the Score with Composer Finneas O’Connell | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=7G5073lagSE",
-      "published": "2026-04-23T14:00:00+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe Listen to the soundtrack: https://a24music.lnk.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Mother Mary | Final Trailer | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=aqYHOsuje1E",
-      "published": "2026-04-21T13:03:09+00:00",
-      "summary": "SUBSCRIBE: http://bit.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "LEVITICUS - Official Trailer - Only In Theaters June 19",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=WXuK0vlFxII",
-      "published": "2026-04-22T16:00:59+00:00",
-      "summary": "Two teenage boys must escape a violent entity that takes the form of the person they desire most—each other.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Worst Ex Ever Season 2 | Official Trailer",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=_iKN26hplWY",
-      "published": "2026-04-21T17:22:05+00:00",
-      "summary": "Are they \"the one\" or just the one you were warned about? Worst Ex Ever returns to Netflix on May 6 for Season 2 with true, harrowing tales of monstrous relationships and unhinged exes.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Roast of Kevin Hart | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=8Z8EOc3InpY",
-      "published": "2026-04-23T14:00:00+00:00",
-      "summary": "Catch Kevin Hart getting roasted LIVE, only on Netflix on Sunday, May 10, at 5PM PT. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "#HeartstopperForever launch date revealed!",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=jowTfVqVw48",
-      "published": "2026-04-22T13:01:23+00:00",
-      "summary": "Get ready for the final chapter...Heartstopper Forever arrives on 17th July, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Mexico 86 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=BIVgPq4-mOM",
-      "published": "2026-04-22T13:00:01+00:00",
-      "summary": "Mexico has never won a World Cup… but someone decided that wasn’t a problem.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "My Dearest Señorita | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=u0OhgW-RtW0",
-      "published": "2026-04-22T10:00:00+00:00",
-      "summary": "‘My Dearest Señorita’ follows Adela, a woman who has always lived within boundaries set by others, until a revelation changes everything.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Worst Ex Ever: Season 2 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=6nrk0bGttMU",
-      "published": "2026-04-21T16:30:00+00:00",
-      "summary": "From chilling betrayals to murder plots, this true-crime documentary series dissects the dark side of love through eyewitness testimonies. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Devil May Cry: Season 2 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Jpie-fec5qY",
-      "published": "2026-04-21T15:00:00+00:00",
-      "summary": "Team Dante. Team Vergil. One way ticket to Hell. See you May 12. From Capcom, led by Adi Shankar, and animated by Studio Mir comes Devil May Cry 2 - a Netflix animated series based on the hit video game franchise.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Star City — Official Trailer | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=V-yAMs307W4",
-      "published": "2026-04-23T13:59:56+00:00",
-      "summary": "In the race for glory, every secret has gravity. Star City premieres May 29 on Apple TV https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Margo's Got Money Troubles — Nicole Kidman and Nick Offerman's Wrestling Match | Scene | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=aARvAl_CkVk",
-      "published": "2026-04-22T16:59:53+00:00",
-      "summary": "These two know how to work a crowd. Watch Nicole Kidman and Nick Offerman duke it out. Margo's Got Money Troubles is now streaming on Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -641,33 +243,33 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Sunny",
-    "temp": "61",
-    "feels": "61",
-    "wind": "10",
-    "humidity": "48",
+    "desc": "Clear",
+    "temp": "40",
+    "feels": "35",
+    "wind": "6",
+    "humidity": "75",
     "days": [
       {
-        "label": "Thu Apr 23",
-        "high": "62",
-        "low": "39"
-      },
-      {
         "label": "Fri Apr 24",
-        "high": "60",
+        "high": "61",
         "low": "37"
       },
       {
         "label": "Sat Apr 25",
-        "high": "59",
+        "high": "60",
         "low": "41"
+      },
+      {
+        "label": "Sun Apr 26",
+        "high": "60",
+        "low": "45"
       }
     ]
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 24,
-    "trailerCount": 12,
-    "sourceCount": 17
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 8
   }
 }
