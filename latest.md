@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-04-24T04:13:40.782262Z
+Generated: 2026-04-24T04:15:17.617390Z
 
 Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are How a simple consumer data breach spiralled into a national security crisis in US-South Korea relations, US soldier involved in Maduro raid charged over alleged bets on capture, and Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro.
 
@@ -156,7 +156,77 @@ Link: https://reactormag.com/there-will-be-ducks-in-the-legend-of-vox-machina-se
 
 ## YouTube
 
-_No YouTube picks in this briefing._
+### Building a Showcase, Black Flag Returns, and More | Firelink Podcast [10/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Firelink, Nick, KC, and Marty chat about what goes into building a video game showcase, Black Flag Resynced, and Xbox Game Pass getting the rare price reduction.
+
+Link: https://www.youtube.com/watch?v=sn0xBRpD9bw
+
+### The Second Wind Games Showcase - Spring 2026 Edition [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This showcase is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join today and earn rewards for playing and wishlisting games from the showcase! – https://playtracker.
+
+Link: https://www.youtube.com/watch?v=p8b5hTeaE4o
+
+### Go Ahead, Make Me Cry | Semi-Ramblomatic [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
+
+Link: https://www.youtube.com/watch?v=Qt8gXZ_afHY
+
+### Possibly Finishing Returnal, Possibly Not Finishing Returnal w/ KC and Marty -- Part 9 [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
+
+Link: https://www.youtube.com/watch?v=MW0pDOF98oU
+
+### Yahtzee Tries... Vampire Crawlers and Gecko Gods [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Yahtzee Tries... Yahtzee and Marty try out Vampire Crawlers and Gecko Gods. VAMPIRE CRAWLERS -- https://store.steampowered.com/app/3265700/Vampire_Crawlers_The_Turbo_Wildcard_from_Vampire_Survivors/ GECKO GODS -- https://store.
+
+Link: https://www.youtube.com/watch?v=iF3_6hMSi_8
+
+### Atari Versus Nintendo: The Curse of the Rabbit | Fully Ramblomatic [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+It's time for another lesson in gaming history. Get your blu-ray copies today! https://store.dftba.com/products/fully-ramblomatic-vol-2-2025-blu-ray https://store.dftba.
+
+Link: https://www.youtube.com/watch?v=pt7SkhWQoFo
+
+### Exit 8 Is the Rare Video Game Movie That Understands Video Games | The Rewind Podcast [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on The Rewind, Darren, Jack, and Marty chat about how Exit 8 fully embraces both of its mediums, reveals from CinemaCon, as well as everything else they've been watching.
+
+Link: https://www.youtube.com/watch?v=kaCiZfWyShM
+
+### Exit 8 Thoughts About Liminal Horror | The Backdrop [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Note: This piece contains spoilers for Exit 8, the Japanese horror film that released in American theatres this weekend. I very much enjoyed it as a tight and efficient surrealist horror film - I’d go so far as to call it Exit Gr-8.
+
+Link: https://www.youtube.com/watch?v=nk404rjV5OE
 
 ## Entertainment Recommendations
 
@@ -187,4 +257,11 @@ _No YouTube picks in this briefing._
 
 ## Trailers / Previews
 
-_No trailer picks in this briefing._
+### Focker-In-Law | Official Trailer [8/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The circle of trust just got bigger. Focker-In-Law is in theaters this Thanksgiving.
+
+Link: https://www.youtube.com/watch?v=vyISuWUWcFs

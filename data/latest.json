@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-24T04:13:40.782262Z",
-  "generatedAtDisplay": "2026-04-24 12:13 AM EDT",
+  "generatedAt": "2026-04-24T04:15:17.617390Z",
+  "generatedAtDisplay": "2026-04-24 12:15 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
   "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are How a simple consumer data breach spiralled into a national security crisis in US-South Korea relations, US soldier involved in Maduro raid charged over alleged bets on capture, and Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro.",
@@ -137,8 +137,109 @@
       "score": 8
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "Building a Showcase, Black Flag Returns, and More | Firelink Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=sn0xBRpD9bw",
+      "published": "2026-04-24T01:02:08+00:00",
+      "summary": "This week on Firelink, Nick, KC, and Marty chat about what goes into building a video game showcase, Black Flag Resynced, and Xbox Game Pass getting the rare price reduction.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "The Second Wind Games Showcase - Spring 2026 Edition",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=p8b5hTeaE4o",
+      "published": "2026-04-23T19:50:06+00:00",
+      "summary": "This showcase is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join today and earn rewards for playing and wishlisting games from the showcase! – https://playtracker.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Go Ahead, Make Me Cry | Semi-Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=Qt8gXZ_afHY",
+      "published": "2026-04-23T15:05:18+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Possibly Finishing Returnal, Possibly Not Finishing Returnal w/ KC and Marty -- Part 9",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=MW0pDOF98oU",
+      "published": "2026-04-23T01:36:36+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Yahtzee Tries... Vampire Crawlers and Gecko Gods",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=iF3_6hMSi_8",
+      "published": "2026-04-22T22:12:52+00:00",
+      "summary": "This week on Yahtzee Tries... Yahtzee and Marty try out Vampire Crawlers and Gecko Gods. VAMPIRE CRAWLERS -- https://store.steampowered.com/app/3265700/Vampire_Crawlers_The_Turbo_Wildcard_from_Vampire_Survivors/ GECKO GODS -- https://store.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Atari Versus Nintendo: The Curse of the Rabbit | Fully Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=pt7SkhWQoFo",
+      "published": "2026-04-22T16:01:25+00:00",
+      "summary": "It's time for another lesson in gaming history. Get your blu-ray copies today! https://store.dftba.com/products/fully-ramblomatic-vol-2-2025-blu-ray https://store.dftba.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Exit 8 Is the Rare Video Game Movie That Understands Video Games | The Rewind Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=kaCiZfWyShM",
+      "published": "2026-04-21T20:13:30+00:00",
+      "summary": "This week on The Rewind, Darren, Jack, and Marty chat about how Exit 8 fully embraces both of its mediums, reveals from CinemaCon, as well as everything else they've been watching.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Exit 8 Thoughts About Liminal Horror | The Backdrop",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=nk404rjV5OE",
+      "published": "2026-04-21T15:01:24+00:00",
+      "summary": "Note: This piece contains spoilers for Exit 8, the Japanese horror film that released in American theatres this weekend. I very much enjoyed it as a tight and efficient surrealist horror film - I’d go so far as to call it Exit Gr-8.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "Focker-In-Law | Official Trailer",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=vyISuWUWcFs",
+      "published": "2026-04-16T00:27:51+00:00",
+      "summary": "The circle of trust just got bigger. Focker-In-Law is in theaters this Thanksgiving.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -268,8 +369,8 @@
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 8
+    "youtubeCount": 8,
+    "trailerCount": 1,
+    "sourceCount": 10
   }
 }
