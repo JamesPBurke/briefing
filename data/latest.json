@@ -1,11 +1,51 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-25T14:00:02.157954Z",
-  "generatedAtDisplay": "2026-04-25 10:00 AM EDT",
+  "generatedAt": "2026-04-25T18:01:08.651344Z",
+  "generatedAtDisplay": "2026-04-25 02:01 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Roommate charged with murder in deaths of University of South Florida doctoral students, ICE planning facility for children and families on Pfas-contaminated site, and ‘Counter to the message of Jesus’: progressive Christians stake a claim to their religion amid Trump-pope feud.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Texas camp where 25 girls died in 2025 flood may not be allowed to reopen, Teachers’ Union Issues Vote of No Confidence in Idaho Governor, and Final Fantasy 14's next expansion ushers in an ice age and adds in an Evangelion crossover for good measure.",
   "mainItems": [
+    {
+      "title": "Texas camp where 25 girls died in 2025 flood may not be allowed to reopen",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/25/camp-mystic-texas-reopening",
+      "published": "2026-04-25T17:23:14+00:00",
+      "summary": "Camp Mystic must make changes to its emergency notification processes to receive its operating license The Texas Christian summer camp where 27 girls and counselors died in a catastrophic flood in July 2025 may not be allowed to open again…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Teachers’ Union Issues Vote of No Confidence in Idaho Governor",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/teachers-union-issues-vote-of-no-confidence-in-idaho-governor/",
+      "published": "2026-04-25T16:30:00+00:00",
+      "summary": "Gov. Brad Little has officially lost support of the teachers’ union after he signed a “union-busting” bill earlier this month. The Idaho Education Association (IEA) issued a vote of no confidence in the Republican governor over the weekend.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Final Fantasy 14's next expansion ushers in an ice age and adds in an Evangelion crossover for good measure",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/final-fantasy-14s-next-expansion-ushers-in-an-ice-age-and-adds-in-an-evangelion-crossover-for-good-measure",
+      "published": "2026-04-25T15:57:34+00:00",
+      "summary": "It is happening again. By that I mean Final Fantasy 14 is getting a new expansion, once again ensuring my timeline will be flooded with thousands of screenshots of tall bunny women and regular sized cat boys.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "A federal program has helped Native Hawaiian medical students for 35 years. It’s now being sued for discrimination",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/apr/25/hative-hawaiian-scholarship-program-lawsuit",
+      "published": "2026-04-25T14:00:47+00:00",
+      "summary": "Do No Harm, a conservative group, wants the scholarship, which has helped islands’ underserved communities, declared unconstitutional Doctors and health experts in Hawaii say a decades-old federal program meant to support Native Hawaiians…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
     {
       "title": "Roommate charged with murder in deaths of University of South Florida doctoral students",
       "source": "The Guardian US",
@@ -22,8 +62,18 @@
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/us-news/2026/apr/25/pfas-chemicals-ice-family-detention",
       "published": "2026-04-25T13:00:45+00:00",
-      "summary": "Toxic ‘forever chemicals’ found at least 41m ppt in groundwater at former military facility in Louisiana Donald Trump’s Immigration and Customs Enforcement (ICE) is planning a detention facility for children and their families on one the…",
+      "summary": "High concentration of toxic ‘forever chemicals’ found in groundwater at former military facility in Louisiana Donald Trump’s Immigration and Customs Enforcement (ICE) is planning a detention facility for children and their families on one…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Facing AI and a tough job market, gen Z turns to entrepreneurship: ‘I have to prove myself’",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/apr/25/gen-z-entrepreneurs-business-ai",
+      "published": "2026-04-25T12:00:45+00:00",
+      "summary": "As AI erases the bottom rungs of the corporate ladder, some gen Z workers skip the entry level to become their own CEOs When Ashley Terrell graduated from the University of Hawaii in 2024, she planned to find a job in marketing, maybe for…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -37,26 +87,6 @@
       "score": 10
     },
     {
-      "title": "How the fight over glyphosate, the active ingredient in Roundup, is creating tensions",
-      "source": "NPR Health",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/04/25/nx-s1-5763853/how-the-fight-over-glyphosate-the-active-ingredient-in-roundup-is-creating-tensions",
-      "published": "2026-04-25T11:37:54+00:00",
-      "summary": "The fight over an ingredient in weedkiller has pitched MAHA activists - those aligned with the beliefs of Health and Human Services Secretary Robert F Kennedy - against President Trump's policies.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Study: Students Made More Progress When Tutoring Reinforced Core Curriculum",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/study-students-made-more-progress-when-tutoring-reinforced-core-curriculum/",
-      "published": "2026-04-25T10:30:00+00:00",
-      "summary": "Knox County Schools looked like it was doing everything right. The district was using a well-regarded, evidence-based curriculum to teach students how to read.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
       "title": "An anti-press president is coming to a pro-press dinner. What could go wrong?",
       "source": "The Guardian US",
       "category": "AI / privacy",
@@ -67,77 +97,58 @@
       "score": 10
     },
     {
-      "title": "Artemis II broke Fred Haise's distance record, but he is happy to pass it on",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/",
-      "published": "2026-04-25T11:40:58+00:00",
-      "summary": "\"It wasn't a big deal. It just coincided with the fact that Moon was farther away from the Earth.\"",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Criminalisation of climate protesters in UK is counterproductive, research finds",
+      "title": "Conspiracy theory over UFOs and missing scientists spreads from web to White House",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/environment/2026/apr/25/criminalisation-of-climate-protesters-in-uk-is-counterproductive-research-finds",
-      "published": "2026-04-25T09:00:41+00:00",
-      "summary": "Study of 1,300 campaigners finds arrests, fines and jail terms increase determination of activists to take direct action The criminalisation of direct action climate protests in the UK is counterproductive and increases the determination…",
+      "url": "https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house",
+      "published": "2026-04-25T15:00:48+00:00",
+      "summary": "Claim of nefarious plot draws attention of lawmakers and president – but are disappearances and deaths really linked? Are the disappearances or deaths of at least 11 US scientists, each allegedly connected in some way to space, defense and…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Mega Crit are tinkering with Slay the Spire 2's difficulty in a new patch, while weighing further changes to everybody's favourite villain, the Doormaker",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / design",
-      "url": "https://www.rockpapershotgun.com/mega-crit-are-tinkering-with-slay-the-spire-2s-difficulty-in-a-new-patch-while-weighing-further-changes-to-everybodys-favourite-villain-the-doormaker",
-      "published": "2026-04-24T16:09:49+00:00",
-      "summary": "Ho, doughty Ascenders and Door defeaters! There's a new beta patch out for roguelite deckbuilder Slay the Spire 2 , following last week's thunderous rolling of various beta updates into the game's main release branch .",
-      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
+      "title": "Three reasons why DeepSeek’s new model matters",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+      "published": "2026-04-24T21:40:58+00:00",
+      "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "Disco Elysium dev's highly-anticipated follow-up, Zero Parades: For Dead Spies, has things to say about our nostalgia",
-      "source": "Eurogamer",
+      "title": "After losing its creative director, it looks like Assassin's Creed Hexe has lost its game director now too",
+      "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/disco-elysium-zaum-follow-up-zero-parades-for-dead-spies-nostalgia-preview",
-      "published": "2026-04-25T10:52:59+00:00",
-      "summary": "The Bootleg Bazaar in Portofiro is a chimera of ex-Soviet bloc organisms that have nestled together in a robust show of scrappy, second-hand capitalism at its finest.",
+      "url": "https://www.rockpapershotgun.com/after-losing-its-creative-director-it-looks-like-assassins-creed-hexe-has-lost-its-game-director-now-too",
+      "published": "2026-04-25T17:03:10+00:00",
+      "summary": "Welp, the game Assassin's Creed Hexe may have been a few months ago probably won't be the game it will be. Back in February, the still quite mysterious Hexe lost its creative director, Clint Hocking .",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8
     },
     {
-      "title": "Behind the Blog: Waiting in the Apple Store",
+      "title": "A Mysterious Golden Orb Was Discovered Under the Sea. We Finally Know What It Is.",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/behind-the-blog-waiting-in-the-apple-store/",
-      "published": "2026-04-24T17:05:15+00:00",
-      "summary": "This week, we discuss Tim Cook, Meta layoffs, and a very bad ad.",
+      "url": "https://www.404media.co/a-mysterious-golden-orb-was-discovered-under-the-sea-we-finally-know-what-it-is/",
+      "published": "2026-04-25T13:00:48+00:00",
+      "summary": "The discovery of a bizarre golden object two miles under Alaskan waters flummoxed scientists, but a new study pins down the true nature of the “orb.”",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "\"We will do better\": Blizzard are sorry World of Warcraft's prop hunt patch launched with an X-ray vision exploit and plenty of other pesky bugs",
-      "source": "Rock Paper Shotgun",
-      "category": "Security / computing",
-      "url": "https://www.rockpapershotgun.com/we-will-do-better-blizzard-are-sorry-world-of-warcrafts-prop-hunt-patch-launched-with-an-x-ray-vision-exploit-and-plenty-of-other-pesky-bugs",
-      "published": "2026-04-24T16:30:00+00:00",
-      "summary": "World of Warcraft developers Blizzard released a prop hunt mode dubbed Decor Duel with this week's patch, having initially announced the Midnight expansion -adjacent addition was on the way back in January.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 8
-    },
-    {
-      "title": "What to Watch and Read This Weekend: Sound the Bryan Fuller Klaxon! Dust Bunny Is Streaming on HBO Max",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/what-to-watch-read-this-weekend-april-24-2026/",
-      "published": "2026-04-24T15:06:58+00:00",
-      "summary": "Plus: Mother Mary, and a surprisingly wholesome connection between Fight Club and dogs The post What to Watch and Read This Weekend: Sound the Bryan Fuller Klaxon! Dust Bunny Is Streaming on HBO Max appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 6
+      "score": 7
     }
   ],
   "youtube": [
+    {
+      "title": "NVIDIA’s New AI Changed Robotics Forever",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=Xf_v62TQOx4",
+      "published": "2026-04-25T17:09:47+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://nvlabs.github.io/GEAR-SONIC/ Our Patreon if you wish to support us: https://www.patreon.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
     {
       "title": "Harvard Professor Answers Iranian History Questions | Tech Support | WIRED",
       "source": "WIRED",
@@ -161,12 +172,23 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Harvard Professor Answers Iranian Government Questions | Tech Support | WIRED",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=NKdyuKXkrPU",
-      "published": "2026-04-22T16:00:03+00:00",
-      "summary": "Professor Tarek Masoud joins WIRED to answer the internet's burning questions about the Government of Iran.",
+      "title": "In Steven Soderbergh's 'The Christophers,' an aging artist meets his match",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=9iGioxSD5ig",
+      "published": "2026-04-25T16:30:03+00:00",
+      "summary": "Watching 86-year-old Ian McKellen go up and down the stairs in 'The Christophers,' may have tired NPR critic Bob Mondello out, but that won't stop him from running back to watch it again. Tap the link in our bio for the full movie review.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "NASA readies major new space telescope for launch",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=8jooD7wj2Rc",
+      "published": "2026-04-25T14:00:12+00:00",
+      "summary": "NASA is continuing preparations for the launch of a major space telescope. It’s being shipped to the Kennedy Space Center in Florida ahead of September’s scheduled launch date.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -205,7 +227,7 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "The Supreme Court case that could end digital privacy | Nina Totenberg",
+      "title": "The Supreme Court case that could redefine digital privacy | Nina Totenberg",
       "source": "NPR",
       "category": "News / analysis",
       "url": "https://www.youtube.com/watch?v=VjdZg-Wr1qY",
@@ -227,15 +249,26 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Senators grill RFK Jr. on vaccines as measles continues to spread",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=mVcf7LLYJ1c",
-      "published": "2026-04-23T17:01:05+00:00",
-      "summary": "Health Secretary Robert F. Kennedy Jr. was on Capitol Hill this week, where he was pressed by lawmakers about the rise in measles cases.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "title": "Should Next-Gen \"Cheap\" PS6 Be A Cloud-Based System?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=eF46su5hAZE",
+      "published": "2026-04-25T16:01:03+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Saros PS5 vs PS5 Pro Comparison: Image Quality + Performance",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=xzjVYm45EGc",
+      "published": "2026-04-25T15:01:34+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/qYQxQ7gZJoE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Can Switch 2 Handle Starfield?",
@@ -245,8 +278,8 @@
       "published": "2026-04-24T17:01:14+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Nvidia Says It ISN'T Acquiring A PC Manufacturer - Do We Believe Them?",
@@ -293,17 +326,6 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "Pragmata PS5 Runs At 1080p - But We Got It Running At 1440p Somehow",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=RpBBwYQKUko",
-      "published": "2026-04-22T16:00:41+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
       "title": "We'll Finish Dokapon Kingdom, or Die Trying w/ KC, Jess, Jesse, and Marty -- Finale",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -313,6 +335,17 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
+    },
+    {
+      "title": "Adventure Is Nigh!: The Slow Walk Home | Season 5 Trailer",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=NG9StzGt7ks",
+      "published": "2026-04-25T14:00:38+00:00",
+      "summary": "Swarms of coin mimics skitter through vaults, marketplaces, and pockets alike, devouring every piece of gold they can.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "Xbox’s Harsh Pivot Is Telling | Dev Heads Podcast",
@@ -379,17 +412,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Yahtzee Tries... Vampire Crawlers and Gecko Gods",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=iF3_6hMSi_8",
-      "published": "2026-04-22T22:12:52+00:00",
-      "summary": "This week on Yahtzee Tries... Yahtzee and Marty try out Vampire Crawlers and Gecko Gods. VAMPIRE CRAWLERS -- https://store.steampowered.com/app/3265700/Vampire_Crawlers_The_Turbo_Wildcard_from_Vampire_Survivors/ GECKO GODS -- https://store.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     }
   ],
   "trailers": [
@@ -713,12 +735,12 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Ready to lock in. Beef Season 2, premieres April 16.",
-      "source": "Netflix",
+      "title": "Monarch: Legacy of Monsters — Vinestranglers on Skull Island | Apple TV",
+      "source": "Apple TV",
       "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=WbFM2gkUfOs",
-      "published": "2026-04-15T17:00:43+00:00",
-      "summary": "Beef Season 2, premieres April 16. Watch on Netflix: https://www.netflix.",
+      "url": "https://www.youtube.com/watch?v=k2bHkwWPAas",
+      "published": "2026-04-25T13:59:52+00:00",
+      "summary": "Skull Island is a hostile place where even a nondescript vine is not as it seems. The Vinestrangler scene from \"Ends of the Earth.\" Monarch: Legacy of Monsters Season 2 is now streaming on Apple TV https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -862,14 +884,14 @@
   "weather": {
     "location": "02726 (Somerset, MA)",
     "desc": "Sunny",
-    "temp": "65",
-    "feels": "65",
+    "temp": "61",
+    "feels": "61",
     "wind": "2",
-    "humidity": "42",
+    "humidity": "59",
     "days": [
       {
         "label": "Sat Apr 25",
-        "high": "60",
+        "high": "61",
         "low": "42"
       },
       {
@@ -886,8 +908,8 @@
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 23,
+    "youtubeCount": 25,
     "trailerCount": 33,
-    "sourceCount": 20
+    "sourceCount": 18
   }
 }

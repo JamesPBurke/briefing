@@ -1,17 +1,17 @@
 # James Daily Briefing
 
-Generated: 2026-04-25T14:00:02.157954Z
+Generated: 2026-04-25T18:01:08.651344Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Roommate charged with murder in deaths of University of South Florida doctoral students, ICE planning facility for children and families on Pfas-contaminated site, and ‘Counter to the message of Jesus’: progressive Christians stake a claim to their religion amid Trump-pope feud.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Texas camp where 25 girls died in 2025 flood may not be allowed to reopen, Teachers’ Union Issues Vote of No Confidence in Idaho Governor, and Final Fantasy 14's next expansion ushers in an ice age and adds in an Evangelion crossover for good measure.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Sunny, 65°F (feels like 65°F), 2 mph wind, 42% humidity.
+02726 (Somerset, MA): Sunny, 61°F (feels like 61°F), 2 mph wind, 59% humidity.
 
 Forecast:
-- Sat Apr 25: high 60° / low 42°
+- Sat Apr 25: high 61° / low 42°
 - Sun Apr 26: high 60° / low 47°
 - Mon Apr 27: high 59° / low 46°
 
@@ -37,7 +37,43 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. Roommate charged with murder in deaths of University of South Florida doctoral students [10/10]
+### 1. Texas camp where 25 girls died in 2025 flood may not be allowed to reopen [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Camp Mystic must make changes to its emergency notification processes to receive its operating license The Texas Christian summer camp where 27 girls and counselors died in a catastrophic flood in July 2025 may not be allowed to open again…
+
+Link: https://www.theguardian.com/us-news/2026/apr/25/camp-mystic-texas-reopening
+
+### 2. Teachers’ Union Issues Vote of No Confidence in Idaho Governor [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Gov. Brad Little has officially lost support of the teachers’ union after he signed a “union-busting” bill earlier this month. The Idaho Education Association (IEA) issued a vote of no confidence in the Republican governor over the weekend.
+
+Link: https://www.the74million.org/article/teachers-union-issues-vote-of-no-confidence-in-idaho-governor/
+
+### 3. Final Fantasy 14's next expansion ushers in an ice age and adds in an Evangelion crossover for good measure [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+It is happening again. By that I mean Final Fantasy 14 is getting a new expansion, once again ensuring my timeline will be flooded with thousands of screenshots of tall bunny women and regular sized cat boys.
+
+Link: https://www.rockpapershotgun.com/final-fantasy-14s-next-expansion-ushers-in-an-ice-age-and-adds-in-an-evangelion-crossover-for-good-measure
+
+### 4. A federal program has helped Native Hawaiian medical students for 35 years. It’s now being sued for discrimination [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Do No Harm, a conservative group, wants the scholarship, which has helped islands’ underserved communities, declared unconstitutional Doctors and health experts in Hawaii say a decades-old federal program meant to support Native Hawaiians…
+
+Link: https://www.theguardian.com/us-news/2026/apr/25/hative-hawaiian-scholarship-program-lawsuit
+
+### 5. Roommate charged with murder in deaths of University of South Florida doctoral students [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -46,16 +82,25 @@ Hisham Abugharbieh was arrested after standoff with police and charged with kill
 
 Link: https://www.theguardian.com/us-news/2026/apr/25/university-of-south-florida-doctoral-students-suspect-charged-murder
 
-### 2. ICE planning facility for children and families on Pfas-contaminated site [10/10]
+### 6. ICE planning facility for children and families on Pfas-contaminated site [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Toxic ‘forever chemicals’ found at least 41m ppt in groundwater at former military facility in Louisiana Donald Trump’s Immigration and Customs Enforcement (ICE) is planning a detention facility for children and their families on one the…
+High concentration of toxic ‘forever chemicals’ found in groundwater at former military facility in Louisiana Donald Trump’s Immigration and Customs Enforcement (ICE) is planning a detention facility for children and their families on one…
 
 Link: https://www.theguardian.com/us-news/2026/apr/25/pfas-chemicals-ice-family-detention
 
-### 3. ‘Counter to the message of Jesus’: progressive Christians stake a claim to their religion amid Trump-pope feud [10/10]
+### 7. Facing AI and a tough job market, gen Z turns to entrepreneurship: ‘I have to prove myself’ [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+As AI erases the bottom rungs of the corporate ladder, some gen Z workers skip the entry level to become their own CEOs When Ashley Terrell graduated from the University of Hawaii in 2024, she planned to find a job in marketing, maybe for…
+
+Link: https://www.theguardian.com/technology/ng-interactive/2026/apr/25/gen-z-entrepreneurs-business-ai
+
+### 8. ‘Counter to the message of Jesus’: progressive Christians stake a claim to their religion amid Trump-pope feud [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -64,25 +109,7 @@ Anti-war, anti-ICE, anti-authoritarian Christians and Catholics are organizing a
 
 Link: https://www.theguardian.com/us-news/2026/apr/25/progressive-christians-religion-trump-pope
 
-### 4. How the fight over glyphosate, the active ingredient in Roundup, is creating tensions [10/10]
-**Source:** NPR Health  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The fight over an ingredient in weedkiller has pitched MAHA activists - those aligned with the beliefs of Health and Human Services Secretary Robert F Kennedy - against President Trump's policies.
-
-Link: https://www.npr.org/2026/04/25/nx-s1-5763853/how-the-fight-over-glyphosate-the-active-ingredient-in-roundup-is-creating-tensions
-
-### 5. Study: Students Made More Progress When Tutoring Reinforced Core Curriculum [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Knox County Schools looked like it was doing everything right. The district was using a well-regarded, evidence-based curriculum to teach students how to read.
-
-Link: https://www.the74million.org/article/study-students-made-more-progress-when-tutoring-reinforced-core-curriculum/
-
-### 6. An anti-press president is coming to a pro-press dinner. What could go wrong? [10/10]
+### 9. An anti-press president is coming to a pro-press dinner. What could go wrong? [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -91,70 +118,52 @@ Donald Trump attending the White House correspondents’ dinner could be awkward
 
 Link: https://www.theguardian.com/us-news/2026/apr/25/donald-trump-white-house-correspondents-dinner
 
-### 7. Artemis II broke Fred Haise's distance record, but he is happy to pass it on [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-"It wasn't a big deal. It just coincided with the fact that Moon was farther away from the Earth."
-
-Link: https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/
-
-### 8. Criminalisation of climate protesters in UK is counterproductive, research finds [9/10]
+### 10. Conspiracy theory over UFOs and missing scientists spreads from web to White House [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Study of 1,300 campaigners finds arrests, fines and jail terms increase determination of activists to take direct action The criminalisation of direct action climate protests in the UK is counterproductive and increases the determination…
+Claim of nefarious plot draws attention of lawmakers and president – but are disappearances and deaths really linked? Are the disappearances or deaths of at least 11 US scientists, each allegedly connected in some way to space, defense and…
 
-Link: https://www.theguardian.com/environment/2026/apr/25/criminalisation-of-climate-protesters-in-uk-is-counterproductive-research-finds
+Link: https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house
 
-### 9. Mega Crit are tinkering with Slay the Spire 2's difficulty in a new patch, while weighing further changes to everybody's favourite villain, the Doormaker [9/10]
+### 11. Three reasons why DeepSeek’s new model matters [9/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model.
+
+Link: https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/
+
+### 12. After losing its creative director, it looks like Assassin's Creed Hexe has lost its game director now too [8/10]
 **Source:** Rock Paper Shotgun  
-**Category:** Games / design  
-**Why it matters:** Useful if you care about how games actually work as designed experiences.
-
-Ho, doughty Ascenders and Door defeaters! There's a new beta patch out for roguelite deckbuilder Slay the Spire 2 , following last week's thunderous rolling of various beta updates into the game's main release branch .
-
-Link: https://www.rockpapershotgun.com/mega-crit-are-tinkering-with-slay-the-spire-2s-difficulty-in-a-new-patch-while-weighing-further-changes-to-everybodys-favourite-villain-the-doormaker
-
-### 10. Disco Elysium dev's highly-anticipated follow-up, Zero Parades: For Dead Spies, has things to say about our nostalgia [8/10]
-**Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-The Bootleg Bazaar in Portofiro is a chimera of ex-Soviet bloc organisms that have nestled together in a robust show of scrappy, second-hand capitalism at its finest.
+Welp, the game Assassin's Creed Hexe may have been a few months ago probably won't be the game it will be. Back in February, the still quite mysterious Hexe lost its creative director, Clint Hocking .
 
-Link: https://www.eurogamer.net/disco-elysium-zaum-follow-up-zero-parades-for-dead-spies-nostalgia-preview
+Link: https://www.rockpapershotgun.com/after-losing-its-creative-director-it-looks-like-assassins-creed-hexe-has-lost-its-game-director-now-too
 
-### 11. Behind the Blog: Waiting in the Apple Store [8/10]
+### 13. A Mysterious Golden Orb Was Discovered Under the Sea. We Finally Know What It Is. [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-This week, we discuss Tim Cook, Meta layoffs, and a very bad ad.
+The discovery of a bizarre golden object two miles under Alaskan waters flummoxed scientists, but a new study pins down the true nature of the “orb.”
 
-Link: https://www.404media.co/behind-the-blog-waiting-in-the-apple-store/
-
-### 12. "We will do better": Blizzard are sorry World of Warcraft's prop hunt patch launched with an X-ray vision exploit and plenty of other pesky bugs [8/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-World of Warcraft developers Blizzard released a prop hunt mode dubbed Decor Duel with this week's patch, having initially announced the Midnight expansion -adjacent addition was on the way back in January.
-
-Link: https://www.rockpapershotgun.com/we-will-do-better-blizzard-are-sorry-world-of-warcrafts-prop-hunt-patch-launched-with-an-x-ray-vision-exploit-and-plenty-of-other-pesky-bugs
-
-### 13. What to Watch and Read This Weekend: Sound the Bryan Fuller Klaxon! Dust Bunny Is Streaming on HBO Max [6/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Plus: Mother Mary, and a surprisingly wholesome connection between Fight Club and dogs The post What to Watch and Read This Weekend: Sound the Bryan Fuller Klaxon! Dust Bunny Is Streaming on HBO Max appeared first on Reactor .
-
-Link: https://reactormag.com/what-to-watch-read-this-weekend-april-24-2026/
+Link: https://www.404media.co/a-mysterious-golden-orb-was-discovered-under-the-sea-we-finally-know-what-it-is/
 
 ## YouTube
+
+### NVIDIA’s New AI Changed Robotics Forever [9/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://nvlabs.github.io/GEAR-SONIC/ Our Patreon if you wish to support us: https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=Xf_v62TQOx4
 
 ### Harvard Professor Answers Iranian History Questions | Tech Support | WIRED [7/10]
 **Creator:** WIRED  
@@ -174,14 +183,23 @@ Professor Tarek Masoud joins WIRED to answer the internet's burning questions ab
 
 Link: https://www.youtube.com/watch?v=egUnmBw89KE
 
-### Harvard Professor Answers Iranian Government Questions | Tech Support | WIRED [7/10]
-**Creator:** WIRED  
+### In Steven Soderbergh's 'The Christophers,' an aging artist meets his match [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Watching 86-year-old Ian McKellen go up and down the stairs in 'The Christophers,' may have tired NPR critic Bob Mondello out, but that won't stop him from running back to watch it again. Tap the link in our bio for the full movie review.
+
+Link: https://www.youtube.com/watch?v=9iGioxSD5ig
+
+### NASA readies major new space telescope for launch [7/10]
+**Creator:** NPR  
 **Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-Professor Tarek Masoud joins WIRED to answer the internet's burning questions about the Government of Iran.
+NASA is continuing preparations for the launch of a major space telescope. It’s being shipped to the Kennedy Space Center in Florida ahead of September’s scheduled launch date.
 
-Link: https://www.youtube.com/watch?v=NKdyuKXkrPU
+Link: https://www.youtube.com/watch?v=8jooD7wj2Rc
 
 ### Did President Trump blink by extending the ceasefire with Iran? [7/10]
 **Creator:** NPR  
@@ -210,7 +228,7 @@ Multiple tornadoes swept the northern part of Oklahoma Thursday night, leaving a
 
 Link: https://www.youtube.com/watch?v=fCiLZ-THV2k
 
-### The Supreme Court case that could end digital privacy | Nina Totenberg [8/10]
+### The Supreme Court case that could redefine digital privacy | Nina Totenberg [8/10]
 **Creator:** NPR  
 **Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
@@ -228,18 +246,27 @@ Who is driving U.S. policy in Iran? NPR's Franco Ordoñez breaks down Vice Presi
 
 Link: https://www.youtube.com/watch?v=a0-tWoUOiag
 
-### Senators grill RFK Jr. on vaccines as measles continues to spread [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Health Secretary Robert F. Kennedy Jr. was on Capitol Hill this week, where he was pressed by lawmakers about the rise in measles cases.
-
-Link: https://www.youtube.com/watch?v=mVcf7LLYJ1c
-
-### Can Switch 2 Handle Starfield? [7/10]
+### Should Next-Gen "Cheap" PS6 Be A Cloud-Based System? [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=eF46su5hAZE
+
+### Saros PS5 vs PS5 Pro Comparison: Image Quality + Performance [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/qYQxQ7gZJoE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=xzjVYm45EGc
+
+### Can Switch 2 Handle Starfield? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -282,15 +309,6 @@ Link: https://www.youtube.com/watch?v=AMLMwhzeOXQ
 
 Link: https://www.youtube.com/watch?v=-jRgvW3i9XE
 
-### Pragmata PS5 Runs At 1080p - But We Got It Running At 1440p Somehow [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=RpBBwYQKUko
-
 ### We'll Finish Dokapon Kingdom, or Die Trying w/ KC, Jess, Jesse, and Marty -- Finale [8/10]
 **Creator:** Second Wind  
 **Verdict:** Worth watching  
@@ -299,6 +317,15 @@ Link: https://www.youtube.com/watch?v=RpBBwYQKUko
 KC, Jess, Jesse, and Marty are going to FINALLY finish their Dokapon game that they started back in November 2024...or they'll die trying. Dokapon Kingdom Part 1 -- https://youtu.be/M6Kj0mWZYXM?t=14646 Dokapon Kingdom Part 2 -- https://www.
 
 Link: https://www.youtube.com/watch?v=t5vA1afX6_Y
+
+### Adventure Is Nigh!: The Slow Walk Home | Season 5 Trailer [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Swarms of coin mimics skitter through vaults, marketplaces, and pockets alike, devouring every piece of gold they can.
+
+Link: https://www.youtube.com/watch?v=NG9StzGt7ks
 
 ### Xbox’s Harsh Pivot Is Telling | Dev Heads Podcast [7/10]
 **Creator:** Second Wind  
@@ -353,15 +380,6 @@ Link: https://www.youtube.com/watch?v=Qt8gXZ_afHY
 This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
 
 Link: https://www.youtube.com/watch?v=MW0pDOF98oU
-
-### Yahtzee Tries... Vampire Crawlers and Gecko Gods [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Yahtzee Tries... Yahtzee and Marty try out Vampire Crawlers and Gecko Gods. VAMPIRE CRAWLERS -- https://store.steampowered.com/app/3265700/Vampire_Crawlers_The_Turbo_Wildcard_from_Vampire_Survivors/ GECKO GODS -- https://store.
-
-Link: https://www.youtube.com/watch?v=iF3_6hMSi_8
 
 ## Entertainment Recommendations
 
@@ -653,14 +671,14 @@ Ronda Rousey vs. Gina Carano. Nate Diaz vs. Mike Perry. Francis Ngannou vs. Phil
 
 Link: https://www.youtube.com/watch?v=PsPHgLVeyWU
 
-### Ready to lock in. Beef Season 2, premieres April 16. [10/10]
-**Source:** Netflix  
+### Monarch: Legacy of Monsters — Vinestranglers on Skull Island | Apple TV [10/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-Beef Season 2, premieres April 16. Watch on Netflix: https://www.netflix.
+Skull Island is a hostile place where even a nondescript vine is not as it seems. The Vinestrangler scene from "Ends of the Earth." Monarch: Legacy of Monsters Season 2 is now streaming on Apple TV https://apple.
 
-Link: https://www.youtube.com/watch?v=WbFM2gkUfOs
+Link: https://www.youtube.com/watch?v=k2bHkwWPAas
 
 ### Monarch: Legacy of Monsters — Godzilla Chases Titan X to Skull Island | Apple TV [9/10]
 **Source:** Apple TV  
