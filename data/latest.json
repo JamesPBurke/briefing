@@ -1,68 +1,88 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-25T05:00:02.206865Z",
-  "generatedAtDisplay": "2026-04-25 01:00 AM EDT",
+  "generatedAt": "2026-04-25T14:00:02.157954Z",
+  "generatedAtDisplay": "2026-04-25 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Altman apologizes after OpenAI failed to alert police before fatal Canada shooting, Roommate arrested after body of University of South Florida doctoral student discovered, and Three reasons why DeepSeek’s new model matters.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Roommate charged with murder in deaths of University of South Florida doctoral students, ICE planning facility for children and families on Pfas-contaminated site, and ‘Counter to the message of Jesus’: progressive Christians stake a claim to their religion amid Trump-pope feud.",
   "mainItems": [
     {
-      "title": "Altman apologizes after OpenAI failed to alert police before fatal Canada shooting",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/25/altman-apologizes-after-openai-failed-to-alert-police-before-fatal-canada-shooting",
-      "published": "2026-04-25T02:13:21+00:00",
-      "summary": "OpenAI said the company had identified an account using abuse detection efforts, but determined at the time it didn’t meet threshold for legal referral The head of OpenAI has written a letter apologizing that his company didn’t alert law…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Roommate arrested after body of University of South Florida doctoral student discovered",
+      "title": "Roommate charged with murder in deaths of University of South Florida doctoral students",
       "source": "The Guardian US",
       "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/apr/24/university-of-south-florida-body-discovered",
-      "published": "2026-04-24T21:54:05+00:00",
-      "summary": "Hisham Abugharbeih, 26, taken into custody after remains of Zamil Limon found, as search for Nahida Bristy continues Sign up for the Breaking News US email to get newsletter alerts in your inbox The body of one of two Bangladeshi doctoral…",
+      "url": "https://www.theguardian.com/us-news/2026/apr/25/university-of-south-florida-doctoral-students-suspect-charged-murder",
+      "published": "2026-04-25T13:12:55+00:00",
+      "summary": "Hisham Abugharbieh was arrested after standoff with police and charged with killing Zamil Limon and Nahida Bristy The man who was detained after two Bangladeshi doctoral students went missing from the University of South Florida (USF) has…",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "Three reasons why DeepSeek’s new model matters",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-      "published": "2026-04-24T21:40:58+00:00",
-      "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "ICE planning facility for children and families on Pfas-contaminated site",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/25/pfas-chemicals-ice-family-detention",
+      "published": "2026-04-25T13:00:45+00:00",
+      "summary": "Toxic ‘forever chemicals’ found at least 41m ppt in groundwater at former military facility in Louisiana Donald Trump’s Immigration and Customs Enforcement (ICE) is planning a detention facility for children and their families on one the…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Ohio Launches Statewide Attendance Dashboard to Combat Chronic Absenteeism",
+      "title": "‘Counter to the message of Jesus’: progressive Christians stake a claim to their religion amid Trump-pope feud",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/25/progressive-christians-religion-trump-pope",
+      "published": "2026-04-25T12:00:45+00:00",
+      "summary": "Anti-war, anti-ICE, anti-authoritarian Christians and Catholics are organizing around their faith in opposition to the version claimed by Trump and Hegseth The Trump administration has long tried to wrap itself in Christianity, with Pete…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "How the fight over glyphosate, the active ingredient in Roundup, is creating tensions",
+      "source": "NPR Health",
+      "category": "Democracy / press freedom",
+      "url": "https://www.npr.org/2026/04/25/nx-s1-5763853/how-the-fight-over-glyphosate-the-active-ingredient-in-roundup-is-creating-tensions",
+      "published": "2026-04-25T11:37:54+00:00",
+      "summary": "The fight over an ingredient in weedkiller has pitched MAHA activists - those aligned with the beliefs of Health and Human Services Secretary Robert F Kennedy - against President Trump's policies.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Study: Students Made More Progress When Tutoring Reinforced Core Curriculum",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/ohio-launches-statewide-attendance-dashboard-to-combat-chronic-absenteeism/",
-      "published": "2026-04-24T18:30:00+00:00",
-      "summary": "Ohio Gov. Mike DeWine and Department of Education and Workforce Director Stephen Dackin have announced the launch of a statewide Attendance Dashboard in an effort to combat chronic absenteeism in K-12 public schools.",
+      "url": "https://www.the74million.org/article/study-students-made-more-progress-when-tutoring-reinforced-core-curriculum/",
+      "published": "2026-04-25T10:30:00+00:00",
+      "summary": "Knox County Schools looked like it was doing everything right. The district was using a well-regarded, evidence-based curriculum to teach students how to read.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
-      "title": "Trump administration vows crackdown on Chinese firms 'exploiting' U.S. AI models",
-      "source": "NPR Tech",
-      "category": "Security / computing",
-      "url": "https://www.npr.org/2026/04/24/g-s1-118582/administration-crackdown-on-chinese-firms-exploiting-u-s-ai-models",
-      "published": "2026-04-24T05:21:12+00:00",
-      "summary": "The Trump administration is vowing to crack down on foreign tech companies' exploitation of U.S. artificial intelligence models, singling out China at a time that country is narrowing the gap with the U.S. in the AI race.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "title": "An anti-press president is coming to a pro-press dinner. What could go wrong?",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/apr/25/donald-trump-white-house-correspondents-dinner",
+      "published": "2026-04-25T07:00:39+00:00",
+      "summary": "Donald Trump attending the White House correspondents’ dinner could be awkward – and lead to blowback Last year, after the Trump White House cut off access for the Associated Press because the news organization refused to use the name Gulf…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "US veteran lost in Arizona’s wilderness for four days rescued by his own son",
+      "title": "Artemis II broke Fred Haise's distance record, but he is happy to pass it on",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/",
+      "published": "2026-04-25T11:40:58+00:00",
+      "summary": "\"It wasn't a big deal. It just coincided with the fact that Moon was farther away from the Earth.\"",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Criminalisation of climate protesters in UK is counterproductive, research finds",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/apr/24/us-veteran-lost-arizona-wilderness-rescued-son",
-      "published": "2026-04-24T19:32:33+00:00",
-      "summary": "Mark Young battled dehydration and killed a rattlesnake while his children and others looked for him for days A Vietnam war veteran says he is a living “miracle” after getting lost in Arizona ’s wilderness for four days with precious few…",
+      "url": "https://www.theguardian.com/environment/2026/apr/25/criminalisation-of-climate-protesters-in-uk-is-counterproductive-research-finds",
+      "published": "2026-04-25T09:00:41+00:00",
+      "summary": "Study of 1,300 campaigners finds arrests, fines and jail terms increase determination of activists to take direct action The criminalisation of direct action climate protests in the UK is counterproductive and increases the determination…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
@@ -77,24 +97,14 @@
       "score": 9
     },
     {
-      "title": "Kash Patel’s Lawsuit Against “The Atlantic” Is a Giant Self-Own",
-      "source": "The Nation",
-      "category": "AI / privacy",
-      "url": "https://www.thenation.com/article/politics/kash-patel-lawsuit-atlantic/",
-      "published": "2026-04-24T15:22:29+00:00",
-      "summary": "Elie Mystal In this week’s Elie v. US , our justice correspondent deconstructs Patel's preposterous defamation arguments. Plus: a fascinating gun-control lawsuit.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "Masters of Albion and Sintopia show god games are nothing without a deity's twitchy fingers",
-      "source": "Rock Paper Shotgun",
+      "title": "Disco Elysium dev's highly-anticipated follow-up, Zero Parades: For Dead Spies, has things to say about our nostalgia",
+      "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/masters-of-albion-and-sintopia-show-god-games-are-nothing-without-a-deitys-twitchy-fingers",
-      "published": "2026-04-24T12:00:00+00:00",
-      "summary": "I've been thinking a lot about hands this week. Weird little things, covered in fingers and nails, always clenching and unclenching.",
+      "url": "https://www.eurogamer.net/disco-elysium-zaum-follow-up-zero-parades-for-dead-spies-nostalgia-preview",
+      "published": "2026-04-25T10:52:59+00:00",
+      "summary": "The Bootleg Bazaar in Portofiro is a chimera of ex-Soviet bloc organisms that have nestled together in a robust show of scrappy, second-hand capitalism at its finest.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
+      "score": 8
     },
     {
       "title": "Behind the Blog: Waiting in the Apple Store",
@@ -107,24 +117,14 @@
       "score": 8
     },
     {
-      "title": "'Self-aware' robots can learn complex tasks by watching humans. Is that a good thing?",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home",
-      "published": "2026-04-24T10:00:00+00:00",
-      "summary": "Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own, but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "title": "\"We will do better\": Blizzard are sorry World of Warcraft's prop hunt patch launched with an X-ray vision exploit and plenty of other pesky bugs",
+      "source": "Rock Paper Shotgun",
+      "category": "Security / computing",
+      "url": "https://www.rockpapershotgun.com/we-will-do-better-blizzard-are-sorry-world-of-warcrafts-prop-hunt-patch-launched-with-an-x-ray-vision-exploit-and-plenty-of-other-pesky-bugs",
+      "published": "2026-04-24T16:30:00+00:00",
+      "summary": "World of Warcraft developers Blizzard released a prop hunt mode dubbed Decor Duel with this week's patch, having initially announced the Midnight expansion -adjacent addition was on the way back in January.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 8
-    },
-    {
-      "title": "Suicide rates have declined since the launch of 988 suicide hotline, study finds",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/24/nx-s1-5797766/suicide-rates-have-declined-since-the-launch-of-988-suicide-hotline-study-finds",
-      "published": "2026-04-24T08:43:39+00:00",
-      "summary": "Suicide rates among teens and young adults declined in the two years after the launch of the 988 Suicide and Crisis Lifeline.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     },
     {
       "title": "What to Watch and Read This Weekend: Sound the Bryan Fuller Klaxon! Dust Bunny Is Streaming on HBO Max",
@@ -179,8 +179,8 @@
       "published": "2026-04-24T22:00:35+00:00",
       "summary": "Did President Trump blink by extending the ceasefire with Iran? NPR National Security correspondent Greg Myre tells Sources & Methods host Mary Louise Kelly it's complicated. Listen to the episode at the link in our bio.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "U.K. Prime Minister faces growing calls to resign over his U.S. ambassador's ties to Epstein",
@@ -190,8 +190,8 @@
       "published": "2026-04-24T19:00:07+00:00",
       "summary": "British Prime Minister Keir Starmer is facing renewed calls for his resignation over his choice for ambassador to Washington — a veteran diplomat with close ties to Jeffrey Epstein.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "At least 10 injured as tornadoes rip through northern Oklahoma",
@@ -201,8 +201,8 @@
       "published": "2026-04-24T17:30:21+00:00",
       "summary": "Multiple tornadoes swept the northern part of Oklahoma Thursday night, leaving at least 10 people injured. The city of Enid is one of the hardest areas. It’s about 100 miles north of Oklahoma City. Vance Air Force Base is there.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "The Supreme Court case that could end digital privacy | Nina Totenberg",
@@ -212,8 +212,8 @@
       "published": "2026-04-24T09:00:53+00:00",
       "summary": "Police in Virginia used a technique called geofencing to tap into Google's databases to find out who was near the scene of a bank robbery in the town of Midlothian, where a robber pulled out a gun, and subsequently fled with $195,000.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Who is driving U.S. policy in Iran?",
@@ -236,17 +236,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Israeli military struck every major bridge crossing into southern Lebanon, blocking aid",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=chHY_tK5mSM",
-      "published": "2026-04-23T16:30:27+00:00",
-      "summary": "The Israeli military struck every major bridge crossing the Litani River into southern Lebanon during the recent war against Hezbollah, including the Qasmiyeh coastal bridge in the final hours before the temporary ceasefire was announced.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     },
     {
       "title": "Can Switch 2 Handle Starfield?",
@@ -333,8 +322,8 @@
       "published": "2026-04-24T19:27:03+00:00",
       "summary": "This video is brought to you by GameMaker, the free, fast, and easy-to-use 2D game engine that’s helped power modern classics like Deltarune, Pizza Tower, and Yahtzee’s Starstruck Vagabond – https://opr.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Xbox, Identity, and the Power of Exclusives | Unpacked",
@@ -577,7 +566,7 @@
       "published": "2026-04-24T17:30:00+00:00",
       "summary": "Apex has it all: Psychopaths, shady characters and ear bites. NOW PLAYING! #netflix Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -872,33 +861,33 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Partly cloudy",
-    "temp": "43",
-    "feels": "42",
-    "wind": "3",
-    "humidity": "75",
+    "desc": "Sunny",
+    "temp": "65",
+    "feels": "65",
+    "wind": "2",
+    "humidity": "42",
     "days": [
       {
         "label": "Sat Apr 25",
-        "high": "61",
+        "high": "60",
         "low": "42"
       },
       {
         "label": "Sun Apr 26",
         "high": "60",
-        "low": "46"
+        "low": "47"
       },
       {
         "label": "Mon Apr 27",
-        "high": "58",
+        "high": "59",
         "low": "46"
       }
     ]
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 24,
+    "youtubeCount": 23,
     "trailerCount": 33,
-    "sourceCount": 21
+    "sourceCount": 20
   }
 }

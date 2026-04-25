@@ -1,14 +1,14 @@
 # James Daily Briefing
 
-Generated: 2026-04-25T11:03:58.073240Z
+Generated: 2026-04-25T14:00:02.157954Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Study: Students Made More Progress When Tutoring Reinforced Core Curriculum, Some Planned Parenthood clinics are using Botox to smooth over federal cuts, and ‘I saw the backlash coming’: civil rights activist Kimberlé Crenshaw on America and race.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Roommate charged with murder in deaths of University of South Florida doctoral students, ICE planning facility for children and families on Pfas-contaminated site, and ‘Counter to the message of Jesus’: progressive Christians stake a claim to their religion amid Trump-pope feud.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Sunny, 61°F (feels like 61°F), 2 mph wind, 34% humidity.
+02726 (Somerset, MA): Sunny, 65°F (feels like 65°F), 2 mph wind, 42% humidity.
 
 Forecast:
 - Sat Apr 25: high 60° / low 42°
@@ -37,7 +37,43 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. Study: Students Made More Progress When Tutoring Reinforced Core Curriculum [10/10]
+### 1. Roommate charged with murder in deaths of University of South Florida doctoral students [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Hisham Abugharbieh was arrested after standoff with police and charged with killing Zamil Limon and Nahida Bristy The man who was detained after two Bangladeshi doctoral students went missing from the University of South Florida (USF) has…
+
+Link: https://www.theguardian.com/us-news/2026/apr/25/university-of-south-florida-doctoral-students-suspect-charged-murder
+
+### 2. ICE planning facility for children and families on Pfas-contaminated site [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Toxic ‘forever chemicals’ found at least 41m ppt in groundwater at former military facility in Louisiana Donald Trump’s Immigration and Customs Enforcement (ICE) is planning a detention facility for children and their families on one the…
+
+Link: https://www.theguardian.com/us-news/2026/apr/25/pfas-chemicals-ice-family-detention
+
+### 3. ‘Counter to the message of Jesus’: progressive Christians stake a claim to their religion amid Trump-pope feud [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Anti-war, anti-ICE, anti-authoritarian Christians and Catholics are organizing around their faith in opposition to the version claimed by Trump and Hegseth The Trump administration has long tried to wrap itself in Christianity, with Pete…
+
+Link: https://www.theguardian.com/us-news/2026/apr/25/progressive-christians-religion-trump-pope
+
+### 4. How the fight over glyphosate, the active ingredient in Roundup, is creating tensions [10/10]
+**Source:** NPR Health  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The fight over an ingredient in weedkiller has pitched MAHA activists - those aligned with the beliefs of Health and Human Services Secretary Robert F Kennedy - against President Trump's policies.
+
+Link: https://www.npr.org/2026/04/25/nx-s1-5763853/how-the-fight-over-glyphosate-the-active-ingredient-in-roundup-is-creating-tensions
+
+### 5. Study: Students Made More Progress When Tutoring Reinforced Core Curriculum [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -46,34 +82,7 @@ Knox County Schools looked like it was doing everything right. The district was 
 
 Link: https://www.the74million.org/article/study-students-made-more-progress-when-tutoring-reinforced-core-curriculum/
 
-### 2. Some Planned Parenthood clinics are using Botox to smooth over federal cuts [10/10]
-**Source:** NPR Health  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-After President Trump and Congress cut certain Medicaid funding to Planned Parenthood in last year's budget, some clinics have started offering aesthetic services, including Botox, to stay afloat.
-
-Link: https://www.npr.org/2026/04/25/nx-s1-5763797/planned-parenthood-botox-medcaid-trump-congress
-
-### 3. ‘I saw the backlash coming’: civil rights activist Kimberlé Crenshaw on America and race [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-She coined the term ‘intersectionality’ and helped to develop critical race theory, now her life’s work is under attack by Washington’s war on ‘woke’.
-
-Link: https://www.theguardian.com/books/2026/apr/25/i-saw-the-backlash-coming-civil-rights-activist-kimberle-crenshaw-on-america-and-race
-
-### 4. 360-degree cameras have a new superpower [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Imagine Google Street View, except you can walk around like it's a video game. Now imagine you don't need to wait for Google to come film because it's completely DIY.
-
-Link: https://www.theverge.com/tech/914730/splatica-gaussian-splats-insta360-antigravity
-
-### 5. An anti-press president is coming to a pro-press dinner. What could go wrong? [10/10]
+### 6. An anti-press president is coming to a pro-press dinner. What could go wrong? [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -82,43 +91,25 @@ Donald Trump attending the White House correspondents’ dinner could be awkward
 
 Link: https://www.theguardian.com/us-news/2026/apr/25/donald-trump-white-house-correspondents-dinner
 
-### 6. Lily Allen’s ‘revenge’, Harry Styles’ Dorothy and Debbie Harry’s T-shirt – 20 onstage dresses ranked! [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 7. Artemis II broke Fred Haise's distance record, but he is happy to pass it on [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-To celebrate the release of the film Mother Mary, starring Anne Hathaway and Michaela Coel, in which a fashion designer creates a comeback dress for a pop star, we weigh up the best performative looks “Dressed like a fabulously turned-out…
+"It wasn't a big deal. It just coincided with the fact that Moon was farther away from the Earth."
 
-Link: https://www.theguardian.com/fashion/2026/apr/25/lily-allen-revenge-harry-styles-dorothy-debbie-harry-t-shirt-20-onstage-dresses-ranked
+Link: https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/
 
-### 7. Roommate arrested after body of University of South Florida doctoral student discovered [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Hisham Abugharbeih, 26, taken into custody after remains of Zamil Limon found, as search for Nahida Bristy continues Sign up for the Breaking News US email to get newsletter alerts in your inbox The body of one of two Bangladeshi doctoral…
-
-Link: https://www.theguardian.com/us-news/2026/apr/24/university-of-south-florida-body-discovered
-
-### 8. What we've been playing - "Help me, someone, please, I have pets to feed" [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Hello and welcome back to our regular feature where we write a little about the games we've been playing.
-
-Link: https://www.eurogamer.net/what-weve-been-playing-pragmata-vampire-crawlers
-
-### 9. My husband and son dived to see the wreck of the Titanic, and never came back – this is what happened at sea [9/10]
+### 8. Criminalisation of climate protesters in UK is counterproductive, research finds [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Christine Dawood found herself trapped on the ship, waiting for signs that the Titan submersible carrying her family would surface.
+Study of 1,300 campaigners finds arrests, fines and jail terms increase determination of activists to take direct action The criminalisation of direct action climate protests in the UK is counterproductive and increases the determination…
 
-Link: https://www.theguardian.com/world/2026/apr/25/my-husband-and-son-titan-submersible-christine-dawood-what-happened
+Link: https://www.theguardian.com/environment/2026/apr/25/criminalisation-of-climate-protesters-in-uk-is-counterproductive-research-finds
 
-### 10. Mega Crit are tinkering with Slay the Spire 2's difficulty in a new patch, while weighing further changes to everybody's favourite villain, the Doormaker [9/10]
+### 9. Mega Crit are tinkering with Slay the Spire 2's difficulty in a new patch, while weighing further changes to everybody's favourite villain, the Doormaker [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / design  
 **Why it matters:** Useful if you care about how games actually work as designed experiences.
@@ -126,6 +117,15 @@ Link: https://www.theguardian.com/world/2026/apr/25/my-husband-and-son-titan-sub
 Ho, doughty Ascenders and Door defeaters! There's a new beta patch out for roguelite deckbuilder Slay the Spire 2 , following last week's thunderous rolling of various beta updates into the game's main release branch .
 
 Link: https://www.rockpapershotgun.com/mega-crit-are-tinkering-with-slay-the-spire-2s-difficulty-in-a-new-patch-while-weighing-further-changes-to-everybodys-favourite-villain-the-doormaker
+
+### 10. Disco Elysium dev's highly-anticipated follow-up, Zero Parades: For Dead Spies, has things to say about our nostalgia [8/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The Bootleg Bazaar in Portofiro is a chimera of ex-Soviet bloc organisms that have nestled together in a robust show of scrappy, second-hand capitalism at its finest.
+
+Link: https://www.eurogamer.net/disco-elysium-zaum-follow-up-zero-parades-for-dead-spies-nostalgia-preview
 
 ### 11. Behind the Blog: Waiting in the Apple Store [8/10]
 **Source:** 404 Media  
@@ -236,15 +236,6 @@ Link: https://www.youtube.com/watch?v=a0-tWoUOiag
 Health Secretary Robert F. Kennedy Jr. was on Capitol Hill this week, where he was pressed by lawmakers about the rise in measles cases.
 
 Link: https://www.youtube.com/watch?v=mVcf7LLYJ1c
-
-### Israeli military struck every major bridge crossing into southern Lebanon, blocking aid [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The Israeli military struck every major bridge crossing the Litani River into southern Lebanon during the recent war against Hezbollah, including the Qasmiyeh coastal bridge in the final hours before the temporary ceasefire was announced.
-
-Link: https://www.youtube.com/watch?v=chHY_tK5mSM
 
 ### Can Switch 2 Handle Starfield? [7/10]
 **Creator:** Digital Foundry  
