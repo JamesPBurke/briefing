@@ -1,6 +1,6 @@
 # Recommendations
 
-21 current items, 16 preserved in archive
+22 current items, 16 preserved in archive
 
 ## TV / streaming movie recommendations
 
@@ -54,24 +54,28 @@
 
 ## YouTube videos of interest
 
-- [Building a Showcase, Black Flag Returns, and More | Firelink Podcast](https://www.youtube.com/watch?v=sn0xBRpD9bw)
-  - This week on Firelink, Nick, KC, and Marty chat about what goes into building a video game showcase, Black Flag Resynced, and Xbox Game Pass getting the rare price reduction.
-  - Watch it
-
-- [The Second Wind Games Showcase - Spring 2026 Edition](https://www.youtube.com/watch?v=p8b5hTeaE4o)
-  - This showcase is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join today and earn rewards for playing and wishlisting games from the showcase! – https://playtracker.
-  - Watch it
-
-- [Exit 8 Thoughts About Liminal Horror | The Backdrop](https://www.youtube.com/watch?v=nk404rjV5OE)
-  - Note: This piece contains spoilers for Exit 8, the Japanese horror film that released in American theatres this weekend. I very much enjoyed it as a tight and efficient surrealist horror film - I’d go so far as to call it Exit Gr-8.
+- [We'll Finish Dokapon Kingdom, or Die Trying w/ KC, Jess, Jesse, and Marty -- Finale](https://www.youtube.com/watch?v=t5vA1afX6_Y)
+  - KC, Jess, Jesse, and Marty are going to FINALLY finish their Dokapon game that they started back in November 2024...or they'll die trying. Dokapon Kingdom Part 1 -- https://youtu.be/M6Kj0mWZYXM?t=14646 Dokapon Kingdom Part 2 -- https://www.
   - Worth watching
 
-- [Go Ahead, Make Me Cry | Semi-Ramblomatic](https://www.youtube.com/watch?v=Qt8gXZ_afHY)
-  - This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
-  - Probably worth watching
+- [U.K. Prime Minister faces growing calls to resign over his U.S. ambassador's ties to Epstein](https://www.youtube.com/watch?v=C0gjZUO0BtA)
+  - British Prime Minister Keir Starmer is facing renewed calls for his resignation over his choice for ambassador to Washington — a veteran diplomat with close ties to Jeffrey Epstein.
+  - Worth watching
+
+- [The Supreme Court case that could end digital privacy | Nina Totenberg](https://www.youtube.com/watch?v=VjdZg-Wr1qY)
+  - Police in Virginia used a technique called geofencing to tap into Google's databases to find out who was near the scene of a bank robbery in the town of Midlothian, where a robber pulled out a gun, and subsequently fled with $195,000.
+  - Worth watching
+
+- [Building a Showcase, Black Flag Returns, and More | Firelink Podcast](https://www.youtube.com/watch?v=sn0xBRpD9bw)
+  - This week on Firelink, Nick, KC, and Marty chat about what goes into building a video game showcase, Black Flag Resynced, and Xbox Game Pass getting the rare price reduction.
+  - Worth watching
 
 ## Trailers for upcoming movies
 
-- [Focker-In-Law | Official Trailer](https://www.youtube.com/watch?v=vyISuWUWcFs)
-  - The circle of trust just got bigger. Focker-In-Law is in theaters this Thanksgiving.
+- [Star City — Official Trailer | Apple TV](https://www.youtube.com/watch?v=V-yAMs307W4)
+  - In the race for glory, every secret has gravity. Star City premieres May 29 on Apple TV https://apple.
+  - Looks promising
+
+- [Margo's Got Money Troubles — Nicole Kidman and Nick Offerman's Wrestling Match | Scene | Apple TV](https://www.youtube.com/watch?v=aARvAl_CkVk)
+  - These two know how to work a crowd. Watch Nicole Kidman and Nick Offerman duke it out. Margo's Got Money Troubles is now streaming on Apple TV https://apple.co/_MargosGotMoneyTroubles A new series from multi-Emmy Award winner David E.
   - Looks promising

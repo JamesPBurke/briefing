@@ -1,14 +1,14 @@
 # James Daily Briefing
 
-Generated: 2026-04-25T09:00:47.692573Z
+Generated: 2026-04-25T11:03:58.073240Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are ‘I saw the backlash coming’: civil rights activist Kimberlé Crenshaw on America and race, 360-degree cameras have a new superpower, and An anti-press president is coming to a pro-press dinner. What could go wrong?.
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Study: Students Made More Progress When Tutoring Reinforced Core Curriculum, Some Planned Parenthood clinics are using Botox to smooth over federal cuts, and ‘I saw the backlash coming’: civil rights activist Kimberlé Crenshaw on America and race.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Sunny, 56°F (feels like 55°F), 5 mph wind, 44% humidity.
+02726 (Somerset, MA): Sunny, 61°F (feels like 61°F), 2 mph wind, 34% humidity.
 
 Forecast:
 - Sat Apr 25: high 60° / low 42°
@@ -37,7 +37,25 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. ‘I saw the backlash coming’: civil rights activist Kimberlé Crenshaw on America and race [10/10]
+### 1. Study: Students Made More Progress When Tutoring Reinforced Core Curriculum [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Knox County Schools looked like it was doing everything right. The district was using a well-regarded, evidence-based curriculum to teach students how to read.
+
+Link: https://www.the74million.org/article/study-students-made-more-progress-when-tutoring-reinforced-core-curriculum/
+
+### 2. Some Planned Parenthood clinics are using Botox to smooth over federal cuts [10/10]
+**Source:** NPR Health  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+After President Trump and Congress cut certain Medicaid funding to Planned Parenthood in last year's budget, some clinics have started offering aesthetic services, including Botox, to stay afloat.
+
+Link: https://www.npr.org/2026/04/25/nx-s1-5763797/planned-parenthood-botox-medcaid-trump-congress
+
+### 3. ‘I saw the backlash coming’: civil rights activist Kimberlé Crenshaw on America and race [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -46,7 +64,7 @@ She coined the term ‘intersectionality’ and helped to develop critical race 
 
 Link: https://www.theguardian.com/books/2026/apr/25/i-saw-the-backlash-coming-civil-rights-activist-kimberle-crenshaw-on-america-and-race
 
-### 2. 360-degree cameras have a new superpower [10/10]
+### 4. 360-degree cameras have a new superpower [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -55,7 +73,7 @@ Imagine Google Street View, except you can walk around like it's a video game. N
 
 Link: https://www.theverge.com/tech/914730/splatica-gaussian-splats-insta360-antigravity
 
-### 3. An anti-press president is coming to a pro-press dinner. What could go wrong? [10/10]
+### 5. An anti-press president is coming to a pro-press dinner. What could go wrong? [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -64,7 +82,7 @@ Donald Trump attending the White House correspondents’ dinner could be awkward
 
 Link: https://www.theguardian.com/us-news/2026/apr/25/donald-trump-white-house-correspondents-dinner
 
-### 4. Lily Allen’s ‘revenge’, Harry Styles’ Dorothy and Debbie Harry’s T-shirt – 20 onstage dresses ranked! [10/10]
+### 6. Lily Allen’s ‘revenge’, Harry Styles’ Dorothy and Debbie Harry’s T-shirt – 20 onstage dresses ranked! [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -73,7 +91,7 @@ To celebrate the release of the film Mother Mary, starring Anne Hathaway and Mic
 
 Link: https://www.theguardian.com/fashion/2026/apr/25/lily-allen-revenge-harry-styles-dorothy-debbie-harry-t-shirt-20-onstage-dresses-ranked
 
-### 5. Roommate arrested after body of University of South Florida doctoral student discovered [10/10]
+### 7. Roommate arrested after body of University of South Florida doctoral student discovered [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -82,7 +100,7 @@ Hisham Abugharbeih, 26, taken into custody after remains of Zamil Limon found, a
 
 Link: https://www.theguardian.com/us-news/2026/apr/24/university-of-south-florida-body-discovered
 
-### 6. What we've been playing - "Help me, someone, please, I have pets to feed" [9/10]
+### 8. What we've been playing - "Help me, someone, please, I have pets to feed" [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -91,7 +109,7 @@ Hello and welcome back to our regular feature where we write a little about the 
 
 Link: https://www.eurogamer.net/what-weve-been-playing-pragmata-vampire-crawlers
 
-### 7. My husband and son dived to see the wreck of the Titanic, and never came back – this is what happened at sea [9/10]
+### 9. My husband and son dived to see the wreck of the Titanic, and never came back – this is what happened at sea [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -100,16 +118,7 @@ Christine Dawood found herself trapped on the ship, waiting for signs that the T
 
 Link: https://www.theguardian.com/world/2026/apr/25/my-husband-and-son-titan-submersible-christine-dawood-what-happened
 
-### 8. Ohio Launches Statewide Attendance Dashboard to Combat Chronic Absenteeism [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Ohio Gov. Mike DeWine and Department of Education and Workforce Director Stephen Dackin have announced the launch of a statewide Attendance Dashboard in an effort to combat chronic absenteeism in K-12 public schools.
-
-Link: https://www.the74million.org/article/ohio-launches-statewide-attendance-dashboard-to-combat-chronic-absenteeism/
-
-### 9. Mega Crit are tinkering with Slay the Spire 2's difficulty in a new patch, while weighing further changes to everybody's favourite villain, the Doormaker [9/10]
+### 10. Mega Crit are tinkering with Slay the Spire 2's difficulty in a new patch, while weighing further changes to everybody's favourite villain, the Doormaker [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / design  
 **Why it matters:** Useful if you care about how games actually work as designed experiences.
@@ -118,7 +127,7 @@ Ho, doughty Ascenders and Door defeaters! There's a new beta patch out for rogue
 
 Link: https://www.rockpapershotgun.com/mega-crit-are-tinkering-with-slay-the-spire-2s-difficulty-in-a-new-patch-while-weighing-further-changes-to-everybodys-favourite-villain-the-doormaker
 
-### 10. Behind the Blog: Waiting in the Apple Store [8/10]
+### 11. Behind the Blog: Waiting in the Apple Store [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -127,7 +136,7 @@ This week, we discuss Tim Cook, Meta layoffs, and a very bad ad.
 
 Link: https://www.404media.co/behind-the-blog-waiting-in-the-apple-store/
 
-### 11. "We will do better": Blizzard are sorry World of Warcraft's prop hunt patch launched with an X-ray vision exploit and plenty of other pesky bugs [8/10]
+### 12. "We will do better": Blizzard are sorry World of Warcraft's prop hunt patch launched with an X-ray vision exploit and plenty of other pesky bugs [8/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -135,15 +144,6 @@ Link: https://www.404media.co/behind-the-blog-waiting-in-the-apple-store/
 World of Warcraft developers Blizzard released a prop hunt mode dubbed Decor Duel with this week's patch, having initially announced the Midnight expansion -adjacent addition was on the way back in January.
 
 Link: https://www.rockpapershotgun.com/we-will-do-better-blizzard-are-sorry-world-of-warcrafts-prop-hunt-patch-launched-with-an-x-ray-vision-exploit-and-plenty-of-other-pesky-bugs
-
-### 12. 'Self-aware' robots can learn complex tasks by watching humans. Is that a good thing? [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own, but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.
-
-Link: https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home
 
 ### 13. What to Watch and Read This Weekend: Sound the Bryan Fuller Klaxon! Dust Bunny Is Streaming on HBO Max [6/10]
 **Source:** Reactor  
@@ -183,9 +183,9 @@ Professor Tarek Masoud joins WIRED to answer the internet's burning questions ab
 
 Link: https://www.youtube.com/watch?v=NKdyuKXkrPU
 
-### Did President Trump blink by extending the ceasefire with Iran? [8/10]
+### Did President Trump blink by extending the ceasefire with Iran? [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Did President Trump blink by extending the ceasefire with Iran? NPR National Security correspondent Greg Myre tells Sources & Methods host Mary Louise Kelly it's complicated. Listen to the episode at the link in our bio.
@@ -210,9 +210,9 @@ Multiple tornadoes swept the northern part of Oklahoma Thursday night, leaving a
 
 Link: https://www.youtube.com/watch?v=fCiLZ-THV2k
 
-### The Supreme Court case that could end digital privacy | Nina Totenberg [9/10]
+### The Supreme Court case that could end digital privacy | Nina Totenberg [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Police in Virginia used a technique called geofencing to tap into Google's databases to find out who was near the scene of a bank robbery in the town of Midlothian, where a robber pulled out a gun, and subsequently fled with $195,000.
