@@ -1,19 +1,19 @@
 # James Daily Briefing
 
-Generated: 2026-04-25T05:00:02.206865Z
+Generated: 2026-04-25T09:00:47.692573Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Altman apologizes after OpenAI failed to alert police before fatal Canada shooting, Roommate arrested after body of University of South Florida doctoral student discovered, and Three reasons why DeepSeek’s new model matters.
+Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are ‘I saw the backlash coming’: civil rights activist Kimberlé Crenshaw on America and race, 360-degree cameras have a new superpower, and An anti-press president is coming to a pro-press dinner. What could go wrong?.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Partly cloudy, 43°F (feels like 42°F), 3 mph wind, 75% humidity.
+02726 (Somerset, MA): Sunny, 56°F (feels like 55°F), 5 mph wind, 44% humidity.
 
 Forecast:
-- Sat Apr 25: high 61° / low 42°
-- Sun Apr 26: high 60° / low 46°
-- Mon Apr 27: high 58° / low 46°
+- Sat Apr 25: high 60° / low 42°
+- Sun Apr 26: high 60° / low 47°
+- Mon Apr 27: high 59° / low 46°
 
 ## Highlighted stories
 
@@ -37,16 +37,43 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. Altman apologizes after OpenAI failed to alert police before fatal Canada shooting [10/10]
+### 1. ‘I saw the backlash coming’: civil rights activist Kimberlé Crenshaw on America and race [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-OpenAI said the company had identified an account using abuse detection efforts, but determined at the time it didn’t meet threshold for legal referral The head of OpenAI has written a letter apologizing that his company didn’t alert law…
+She coined the term ‘intersectionality’ and helped to develop critical race theory, now her life’s work is under attack by Washington’s war on ‘woke’.
 
-Link: https://www.theguardian.com/us-news/2026/apr/25/altman-apologizes-after-openai-failed-to-alert-police-before-fatal-canada-shooting
+Link: https://www.theguardian.com/books/2026/apr/25/i-saw-the-backlash-coming-civil-rights-activist-kimberle-crenshaw-on-america-and-race
 
-### 2. Roommate arrested after body of University of South Florida doctoral student discovered [10/10]
+### 2. 360-degree cameras have a new superpower [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Imagine Google Street View, except you can walk around like it's a video game. Now imagine you don't need to wait for Google to come film because it's completely DIY.
+
+Link: https://www.theverge.com/tech/914730/splatica-gaussian-splats-insta360-antigravity
+
+### 3. An anti-press president is coming to a pro-press dinner. What could go wrong? [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Donald Trump attending the White House correspondents’ dinner could be awkward – and lead to blowback Last year, after the Trump White House cut off access for the Associated Press because the news organization refused to use the name Gulf…
+
+Link: https://www.theguardian.com/us-news/2026/apr/25/donald-trump-white-house-correspondents-dinner
+
+### 4. Lily Allen’s ‘revenge’, Harry Styles’ Dorothy and Debbie Harry’s T-shirt – 20 onstage dresses ranked! [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+To celebrate the release of the film Mother Mary, starring Anne Hathaway and Michaela Coel, in which a fashion designer creates a comeback dress for a pop star, we weigh up the best performative looks “Dressed like a fabulously turned-out…
+
+Link: https://www.theguardian.com/fashion/2026/apr/25/lily-allen-revenge-harry-styles-dorothy-debbie-harry-t-shirt-20-onstage-dresses-ranked
+
+### 5. Roommate arrested after body of University of South Florida doctoral student discovered [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -55,16 +82,25 @@ Hisham Abugharbeih, 26, taken into custody after remains of Zamil Limon found, a
 
 Link: https://www.theguardian.com/us-news/2026/apr/24/university-of-south-florida-body-discovered
 
-### 3. Three reasons why DeepSeek’s new model matters [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 6. What we've been playing - "Help me, someone, please, I have pets to feed" [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model.
+Hello and welcome back to our regular feature where we write a little about the games we've been playing.
 
-Link: https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/
+Link: https://www.eurogamer.net/what-weve-been-playing-pragmata-vampire-crawlers
 
-### 4. Ohio Launches Statewide Attendance Dashboard to Combat Chronic Absenteeism [10/10]
+### 7. My husband and son dived to see the wreck of the Titanic, and never came back – this is what happened at sea [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Christine Dawood found herself trapped on the ship, waiting for signs that the Titan submersible carrying her family would surface.
+
+Link: https://www.theguardian.com/world/2026/apr/25/my-husband-and-son-titan-submersible-christine-dawood-what-happened
+
+### 8. Ohio Launches Statewide Attendance Dashboard to Combat Chronic Absenteeism [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -73,25 +109,7 @@ Ohio Gov. Mike DeWine and Department of Education and Workforce Director Stephen
 
 Link: https://www.the74million.org/article/ohio-launches-statewide-attendance-dashboard-to-combat-chronic-absenteeism/
 
-### 5. Trump administration vows crackdown on Chinese firms 'exploiting' U.S. AI models [10/10]
-**Source:** NPR Tech  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-The Trump administration is vowing to crack down on foreign tech companies' exploitation of U.S. artificial intelligence models, singling out China at a time that country is narrowing the gap with the U.S. in the AI race.
-
-Link: https://www.npr.org/2026/04/24/g-s1-118582/administration-crackdown-on-chinese-firms-exploiting-u-s-ai-models
-
-### 6. US veteran lost in Arizona’s wilderness for four days rescued by his own son [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Mark Young battled dehydration and killed a rattlesnake while his children and others looked for him for days A Vietnam war veteran says he is a living “miracle” after getting lost in Arizona ’s wilderness for four days with precious few…
-
-Link: https://www.theguardian.com/us-news/2026/apr/24/us-veteran-lost-arizona-wilderness-rescued-son
-
-### 7. Mega Crit are tinkering with Slay the Spire 2's difficulty in a new patch, while weighing further changes to everybody's favourite villain, the Doormaker [9/10]
+### 9. Mega Crit are tinkering with Slay the Spire 2's difficulty in a new patch, while weighing further changes to everybody's favourite villain, the Doormaker [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / design  
 **Why it matters:** Useful if you care about how games actually work as designed experiences.
@@ -99,24 +117,6 @@ Link: https://www.theguardian.com/us-news/2026/apr/24/us-veteran-lost-arizona-wi
 Ho, doughty Ascenders and Door defeaters! There's a new beta patch out for roguelite deckbuilder Slay the Spire 2 , following last week's thunderous rolling of various beta updates into the game's main release branch .
 
 Link: https://www.rockpapershotgun.com/mega-crit-are-tinkering-with-slay-the-spire-2s-difficulty-in-a-new-patch-while-weighing-further-changes-to-everybodys-favourite-villain-the-doormaker
-
-### 8. Kash Patel’s Lawsuit Against “The Atlantic” Is a Giant Self-Own [9/10]
-**Source:** The Nation  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Elie Mystal In this week’s Elie v. US , our justice correspondent deconstructs Patel's preposterous defamation arguments. Plus: a fascinating gun-control lawsuit.
-
-Link: https://www.thenation.com/article/politics/kash-patel-lawsuit-atlantic/
-
-### 9. Masters of Albion and Sintopia show god games are nothing without a deity's twitchy fingers [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-I've been thinking a lot about hands this week. Weird little things, covered in fingers and nails, always clenching and unclenching.
-
-Link: https://www.rockpapershotgun.com/masters-of-albion-and-sintopia-show-god-games-are-nothing-without-a-deitys-twitchy-fingers
 
 ### 10. Behind the Blog: Waiting in the Apple Store [8/10]
 **Source:** 404 Media  
@@ -127,7 +127,16 @@ This week, we discuss Tim Cook, Meta layoffs, and a very bad ad.
 
 Link: https://www.404media.co/behind-the-blog-waiting-in-the-apple-store/
 
-### 11. 'Self-aware' robots can learn complex tasks by watching humans. Is that a good thing? [8/10]
+### 11. "We will do better": Blizzard are sorry World of Warcraft's prop hunt patch launched with an X-ray vision exploit and plenty of other pesky bugs [8/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+World of Warcraft developers Blizzard released a prop hunt mode dubbed Decor Duel with this week's patch, having initially announced the Midnight expansion -adjacent addition was on the way back in January.
+
+Link: https://www.rockpapershotgun.com/we-will-do-better-blizzard-are-sorry-world-of-warcrafts-prop-hunt-patch-launched-with-an-x-ray-vision-exploit-and-plenty-of-other-pesky-bugs
+
+### 12. 'Self-aware' robots can learn complex tasks by watching humans. Is that a good thing? [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -135,15 +144,6 @@ Link: https://www.404media.co/behind-the-blog-waiting-in-the-apple-store/
 Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own, but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.
 
 Link: https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home
-
-### 12. Suicide rates have declined since the launch of 988 suicide hotline, study finds [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Suicide rates among teens and young adults declined in the two years after the launch of the 988 Suicide and Crisis Lifeline.
-
-Link: https://www.npr.org/2026/04/24/nx-s1-5797766/suicide-rates-have-declined-since-the-launch-of-988-suicide-hotline-study-finds
 
 ### 13. What to Watch and Read This Weekend: Sound the Bryan Fuller Klaxon! Dust Bunny Is Streaming on HBO Max [6/10]
 **Source:** Reactor  
@@ -192,18 +192,18 @@ Did President Trump blink by extending the ceasefire with Iran? NPR National Sec
 
 Link: https://www.youtube.com/watch?v=Pvj_lteGW4U
 
-### U.K. Prime Minister faces growing calls to resign over his U.S. ambassador's ties to Epstein [9/10]
+### U.K. Prime Minister faces growing calls to resign over his U.S. ambassador's ties to Epstein [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 British Prime Minister Keir Starmer is facing renewed calls for his resignation over his choice for ambassador to Washington — a veteran diplomat with close ties to Jeffrey Epstein.
 
 Link: https://www.youtube.com/watch?v=C0gjZUO0BtA
 
-### At least 10 injured as tornadoes rip through northern Oklahoma [8/10]
+### At least 10 injured as tornadoes rip through northern Oklahoma [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Multiple tornadoes swept the northern part of Oklahoma Thursday night, leaving at least 10 people injured. The city of Enid is one of the hardest areas. It’s about 100 miles north of Oklahoma City. Vance Air Force Base is there.
@@ -309,9 +309,9 @@ KC, Jess, Jesse, and Marty are going to FINALLY finish their Dokapon game that t
 
 Link: https://www.youtube.com/watch?v=t5vA1afX6_Y
 
-### Xbox’s Harsh Pivot Is Telling | Dev Heads Podcast [8/10]
+### Xbox’s Harsh Pivot Is Telling | Dev Heads Podcast [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by GameMaker, the free, fast, and easy-to-use 2D game engine that’s helped power modern classics like Deltarune, Pizza Tower, and Yahtzee’s Starstruck Vagabond – https://opr.
@@ -536,7 +536,7 @@ The Further comes for our world.
 
 Link: https://www.youtube.com/watch?v=3PqqwEyV_Lw
 
-### Apex has it all: Psychopaths, shady characters and ear bites. NOW PLAYING! [10/10]
+### Apex has it all: Psychopaths, shady characters and ear bites. NOW PLAYING! [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
