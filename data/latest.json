@@ -1,68 +1,48 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-25T18:01:08.651344Z",
-  "generatedAtDisplay": "2026-04-25 02:01 PM EDT",
+  "generatedAt": "2026-04-26T05:00:01.305873Z",
+  "generatedAtDisplay": "2026-04-26 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Texas camp where 25 girls died in 2025 flood may not be allowed to reopen, Teachers’ Union Issues Vote of No Confidence in Idaho Governor, and Final Fantasy 14's next expansion ushers in an ice age and adds in an Evangelion crossover for good measure.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Trump evacuated after shots fired at White House correspondents’ dinner – what we know, Joe Turner’s Come and Gone review – August Wilson play makes uneven return to Broadway, and Crymelight is a Hades-esque roguelike that sends the white rabbit chasing Alice to hell to face her sins and fight for her freedom.",
   "mainItems": [
     {
-      "title": "Texas camp where 25 girls died in 2025 flood may not be allowed to reopen",
+      "title": "Trump evacuated after shots fired at White House correspondents’ dinner – what we know",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/25/camp-mystic-texas-reopening",
-      "published": "2026-04-25T17:23:14+00:00",
-      "summary": "Camp Mystic must make changes to its emergency notification processes to receive its operating license The Texas Christian summer camp where 27 girls and counselors died in a catastrophic flood in July 2025 may not be allowed to open again…",
+      "url": "https://www.theguardian.com/us-news/2026/apr/25/trump-white-house-correspondents-dinner-what-we-know",
+      "published": "2026-04-26T03:59:18+00:00",
+      "summary": "Secret Service says US president and first lady are safe and suspect is in custody after shooting incident in DC Main story: Person in custody after shooting incident at White House correspondents’ dinner White House correspondents’ dinner…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Teachers’ Union Issues Vote of No Confidence in Idaho Governor",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/teachers-union-issues-vote-of-no-confidence-in-idaho-governor/",
-      "published": "2026-04-25T16:30:00+00:00",
-      "summary": "Gov. Brad Little has officially lost support of the teachers’ union after he signed a “union-busting” bill earlier this month. The Idaho Education Association (IEA) issued a vote of no confidence in the Republican governor over the weekend.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "Joe Turner’s Come and Gone review – August Wilson play makes uneven return to Broadway",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/stage/2026/apr/26/joe-turners-come-and-gone-review-broadway",
+      "published": "2026-04-26T02:00:01+00:00",
+      "summary": "Ethel Barrymore theatre, New York Debbie Allen’s revival of the 1984 drama boasts a compelling cast, led by Taraji P Henson and Cedric the Entertainer, but too many notes are off Earlier this year, Viola Davis excitedly quoted August…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Final Fantasy 14's next expansion ushers in an ice age and adds in an Evangelion crossover for good measure",
+      "title": "Crymelight is a Hades-esque roguelike that sends the white rabbit chasing Alice to hell to face her sins and fight for her freedom",
       "source": "Rock Paper Shotgun",
       "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/final-fantasy-14s-next-expansion-ushers-in-an-ice-age-and-adds-in-an-evangelion-crossover-for-good-measure",
-      "published": "2026-04-25T15:57:34+00:00",
-      "summary": "It is happening again. By that I mean Final Fantasy 14 is getting a new expansion, once again ensuring my timeline will be flooded with thousands of screenshots of tall bunny women and regular sized cat boys.",
+      "url": "https://www.rockpapershotgun.com/crymelight-is-a-hades-esque-roguelike-that-sends-the-white-rabbit-chasing-alice-to-hell-to-face-her-sins-and-fight-for-her-freedom",
+      "published": "2026-04-25T20:34:33+00:00",
+      "summary": "I do not know if FuRyu make games that one can easily jump to calling \"good\" but they are regularly putting out mid-budget (I assume) games that make me go \"oh, there's certainly some sauce here.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "A federal program has helped Native Hawaiian medical students for 35 years. It’s now being sued for discrimination",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/apr/25/hative-hawaiian-scholarship-program-lawsuit",
-      "published": "2026-04-25T14:00:47+00:00",
-      "summary": "Do No Harm, a conservative group, wants the scholarship, which has helped islands’ underserved communities, declared unconstitutional Doctors and health experts in Hawaii say a decades-old federal program meant to support Native Hawaiians…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Roommate charged with murder in deaths of University of South Florida doctoral students",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/apr/25/university-of-south-florida-doctoral-students-suspect-charged-murder",
-      "published": "2026-04-25T13:12:55+00:00",
-      "summary": "Hisham Abugharbieh was arrested after standoff with police and charged with killing Zamil Limon and Nahida Bristy The man who was detained after two Bangladeshi doctoral students went missing from the University of South Florida (USF) has…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "ICE planning facility for children and families on Pfas-contaminated site",
+      "title": "The moment I knew: The banana bread was terrible but seeing him baking made me fall for him",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/25/pfas-chemicals-ice-family-detention",
-      "published": "2026-04-25T13:00:45+00:00",
-      "summary": "High concentration of toxic ‘forever chemicals’ found in groundwater at former military facility in Louisiana Donald Trump’s Immigration and Customs Enforcement (ICE) is planning a detention facility for children and their families on one…",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/25/relationships-moment-knew-candles-kiss-during-blackout",
+      "published": "2026-04-25T20:00:56+00:00",
+      "summary": "Gillian Kennedy met Wade Freeman while working in a remote desert community.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -82,48 +62,68 @@
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/us-news/2026/apr/25/progressive-christians-religion-trump-pope",
       "published": "2026-04-25T12:00:45+00:00",
-      "summary": "Anti-war, anti-ICE, anti-authoritarian Christians and Catholics are organizing around their faith in opposition to the version claimed by Trump and Hegseth The Trump administration has long tried to wrap itself in Christianity, with Pete…",
+      "summary": "Anti-war, anti-ICE, anti-authoritarian Christians are organizing around their faith in opposition to the version claimed by Trump and Hegseth The Trump administration has long tried to wrap itself in Christianity, with Pete Hegseth, the…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "An anti-press president is coming to a pro-press dinner. What could go wrong?",
+      "title": "‘I saw the backlash coming’: civil rights activist Kimberlé Crenshaw on America and race",
       "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/apr/25/donald-trump-white-house-correspondents-dinner",
-      "published": "2026-04-25T07:00:39+00:00",
-      "summary": "Donald Trump attending the White House correspondents’ dinner could be awkward – and lead to blowback Last year, after the Trump White House cut off access for the Associated Press because the news organization refused to use the name Gulf…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/books/2026/apr/25/i-saw-the-backlash-coming-civil-rights-activist-kimberle-crenshaw-on-america-and-race",
+      "published": "2026-04-25T08:00:40+00:00",
+      "summary": "She coined the term ‘intersectionality’ and helped to develop critical race theory, now her life’s work is under attack by Washington’s war on ‘woke’.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Conspiracy theory over UFOs and missing scientists spreads from web to White House",
+      "title": "‘We went under the table screaming’: reactions from the White House correspondents’ dinner shooting",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/25/white-house-correspondents-dinner-reactions",
+      "published": "2026-04-26T04:04:40+00:00",
+      "summary": "Lawmakers and reporters in shock after Washington press event abruptly ends following gunshots Trump evacuated after shots fired at White House correspondents’ dinner – what we know White House correspondents’ dinner – latest updates…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Suspect in custody after Trump evacuated in shooting incident at White House correspondents’ dinner",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house",
-      "published": "2026-04-25T15:00:48+00:00",
-      "summary": "Claim of nefarious plot draws attention of lawmakers and president – but are disappearances and deaths really linked? Are the disappearances or deaths of at least 11 US scientists, each allegedly connected in some way to space, defense and…",
+      "url": "https://www.theguardian.com/us-news/2026/apr/26/donald-melania-trump-white-houe-correspondents-dinner",
+      "published": "2026-04-26T03:40:57+00:00",
+      "summary": "US president and first lady were unharmed and suspect is being charged with two counts of felony firearms and assault charges White House correspondents’ dinner shooting – latest updates Sign up for the Breaking News US newsletter email…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Three reasons why DeepSeek’s new model matters",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-      "published": "2026-04-24T21:40:58+00:00",
-      "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "Chuba! Star Wars: Galactic Racer's release date has been accidentally revealed early",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/chuba-star-wars-galactic-racers-release-date-has-been-accidentally-revealed-early",
+      "published": "2026-04-25T19:06:11+00:00",
+      "summary": "We all make mistakes sometimes, which is exactly what someone did today on the Steam page for Star Wars: Galactic Racer .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "After losing its creative director, it looks like Assassin's Creed Hexe has lost its game director now too",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/after-losing-its-creative-director-it-looks-like-assassins-creed-hexe-has-lost-its-game-director-now-too",
-      "published": "2026-04-25T17:03:10+00:00",
-      "summary": "Welp, the game Assassin's Creed Hexe may have been a few months ago probably won't be the game it will be. Back in February, the still quite mysterious Hexe lost its creative director, Clint Hocking .",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Teachers’ Union Issues Vote of No Confidence in Idaho Governor",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/teachers-union-issues-vote-of-no-confidence-in-idaho-governor/",
+      "published": "2026-04-25T16:30:00+00:00",
+      "summary": "Gov. Brad Little has officially lost support of the teachers’ union after he signed a “union-busting” bill earlier this month. The Idaho Education Association (IEA) issued a vote of no confidence in the Republican governor over the weekend.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "Artemis II broke Fred Haise's distance record, but he is happy to pass it on",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/",
+      "published": "2026-04-25T11:40:58+00:00",
+      "summary": "\"It wasn't a big deal. It just coincided with the fact that Moon was farther away from the Earth.\"",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 8
     },
     {
@@ -139,7 +139,7 @@
   ],
   "youtube": [
     {
-      "title": "NVIDIA’s New AI Changed Robotics Forever",
+      "title": "NVIDIA's New AI Broke My Brain",
       "source": "Two Minute Papers",
       "category": "AI / YouTube",
       "url": "https://www.youtube.com/watch?v=Xf_v62TQOx4",
@@ -161,176 +161,11 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "What \"Winning\" The Iran War Might Realistically Look Like",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=egUnmBw89KE",
-      "published": "2026-04-22T20:08:54+00:00",
-      "summary": "Professor Tarek Masoud joins WIRED to answer the internet's burning questions about the Iran War with Israel and the United States. Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "In Steven Soderbergh's 'The Christophers,' an aging artist meets his match",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=9iGioxSD5ig",
-      "published": "2026-04-25T16:30:03+00:00",
-      "summary": "Watching 86-year-old Ian McKellen go up and down the stairs in 'The Christophers,' may have tired NPR critic Bob Mondello out, but that won't stop him from running back to watch it again. Tap the link in our bio for the full movie review.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "NASA readies major new space telescope for launch",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=8jooD7wj2Rc",
-      "published": "2026-04-25T14:00:12+00:00",
-      "summary": "NASA is continuing preparations for the launch of a major space telescope. It’s being shipped to the Kennedy Space Center in Florida ahead of September’s scheduled launch date.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Did President Trump blink by extending the ceasefire with Iran?",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=Pvj_lteGW4U",
-      "published": "2026-04-24T22:00:35+00:00",
-      "summary": "Did President Trump blink by extending the ceasefire with Iran? NPR National Security correspondent Greg Myre tells Sources & Methods host Mary Louise Kelly it's complicated. Listen to the episode at the link in our bio.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "U.K. Prime Minister faces growing calls to resign over his U.S. ambassador's ties to Epstein",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=C0gjZUO0BtA",
-      "published": "2026-04-24T19:00:07+00:00",
-      "summary": "British Prime Minister Keir Starmer is facing renewed calls for his resignation over his choice for ambassador to Washington — a veteran diplomat with close ties to Jeffrey Epstein.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "At least 10 injured as tornadoes rip through northern Oklahoma",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=fCiLZ-THV2k",
-      "published": "2026-04-24T17:30:21+00:00",
-      "summary": "Multiple tornadoes swept the northern part of Oklahoma Thursday night, leaving at least 10 people injured. The city of Enid is one of the hardest areas. It’s about 100 miles north of Oklahoma City. Vance Air Force Base is there.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "The Supreme Court case that could redefine digital privacy | Nina Totenberg",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=VjdZg-Wr1qY",
-      "published": "2026-04-24T09:00:53+00:00",
-      "summary": "Police in Virginia used a technique called geofencing to tap into Google's databases to find out who was near the scene of a bank robbery in the town of Midlothian, where a robber pulled out a gun, and subsequently fled with $195,000.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Who is driving U.S. policy in Iran?",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=a0-tWoUOiag",
-      "published": "2026-04-24T00:00:01+00:00",
-      "summary": "Who is driving U.S. policy in Iran? NPR's Franco Ordoñez breaks down Vice President JD Vance’s role to Sources & Methods host Mary Louise Kelly.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Should Next-Gen \"Cheap\" PS6 Be A Cloud-Based System?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=eF46su5hAZE",
-      "published": "2026-04-25T16:01:03+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Saros PS5 vs PS5 Pro Comparison: Image Quality + Performance",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=xzjVYm45EGc",
-      "published": "2026-04-25T15:01:34+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/qYQxQ7gZJoE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Can Switch 2 Handle Starfield?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=u18fdcEDmRQ",
-      "published": "2026-04-24T17:01:14+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Nvidia Says It ISN'T Acquiring A PC Manufacturer - Do We Believe Them?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=sCpofEY6JQo",
-      "published": "2026-04-24T16:01:39+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Should I Buy RTX 5080 Now For Path Tracing Or Wait For Next-Gen?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=LuzG5sfWXl8",
-      "published": "2026-04-23T17:00:35+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Ryzen 7 5800X3D Returning Is Brilliant News... But How Much Will It Cost?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=AMLMwhzeOXQ",
-      "published": "2026-04-23T16:00:26+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Why Increase Res with PSSR2 - Why Not Lower It With More Features?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=-jRgvW3i9XE",
-      "published": "2026-04-22T19:00:00+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
       "title": "We'll Finish Dokapon Kingdom, or Die Trying w/ KC, Jess, Jesse, and Marty -- Finale",
       "source": "Second Wind",
       "category": "Games / criticism",
       "url": "https://www.youtube.com/watch?v=t5vA1afX6_Y",
-      "published": "2026-04-24T21:42:17+00:00",
+      "published": "2026-04-25T22:32:55+00:00",
       "summary": "KC, Jess, Jesse, and Marty are going to FINALLY finish their Dokapon game that they started back in November 2024...or they'll die trying. Dokapon Kingdom Part 1 -- https://youtu.be/M6Kj0mWZYXM?t=14646 Dokapon Kingdom Part 2 -- https://www.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
@@ -344,8 +179,8 @@
       "published": "2026-04-25T14:00:38+00:00",
       "summary": "Swarms of coin mimics skitter through vaults, marketplaces, and pockets alike, devouring every piece of gold they can.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Xbox’s Harsh Pivot Is Telling | Dev Heads Podcast",
@@ -401,119 +236,9 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Possibly Finishing Returnal, Possibly Not Finishing Returnal w/ KC and Marty -- Part 9",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=MW0pDOF98oU",
-      "published": "2026-04-23T01:36:36+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     }
   ],
   "trailers": [
-    {
-      "title": "The Best of Marty And Doc's Friendship | Back to the Future Trilogy",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=i8NF-WsZMdg",
-      "published": "2026-04-24T19:00:40+00:00",
-      "summary": "Marty McFly (Michael J. Fox) and Doc Brown (Christopher Lloyd) share the ultimate bond as they navigate the dangers of time travel across decades.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Focker-In-Law | Official Trailer",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=vyISuWUWcFs",
-      "published": "2026-04-16T00:27:51+00:00",
-      "summary": "The circle of trust just got bigger. Focker-In-Law is in theaters this Thanksgiving.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "INSIDIOUS: OUT OF THE FURTHER - Official Trailer (4K)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=jxU8FU3o75A",
-      "published": "2026-04-14T02:39:28+00:00",
-      "summary": "The Further comes for our world. Watch the official trailer for #Insidious: Out Of The Further - exclusively in theatres this August. Follow us on social: https://www.instagram.com/InsidiousMovie https://twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "BEEF | Behind the Score with Composer Finneas O’Connell | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=7G5073lagSE",
-      "published": "2026-04-23T14:00:00+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe Listen to the soundtrack: https://a24music.lnk.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Mother Mary | Final Trailer | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=aqYHOsuje1E",
-      "published": "2026-04-21T13:03:09+00:00",
-      "summary": "SUBSCRIBE: http://bit.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Oscar Isaac & Ali Wong | The A24 Podcast",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=BF1mmlkXSYA",
-      "published": "2026-04-15T13:59:08+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe Endless Grasping with Ali Wong & Oscar Isaac A brief but brilliant ceremonial passing of the Beef baton between Season 1 star Ali Wong and Season 2 star Oscar Isaac.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Mother Mary | Official First Look | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=LP-N5kp07gs",
-      "published": "2026-04-09T13:00:00+00:00",
-      "summary": "SUBSCRIBE: http://bit.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "Oscar Isaac, Carey Mulligan & Lee Sung Jin | A24 x Letterboxd: The List",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=UPFnXwngSEI",
-      "published": "2026-04-07T17:12:13+00:00",
-      "summary": "SUBSCRIBE: http://bit.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Invite | Official Trailer HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=OJ19I9q_hOQ",
-      "published": "2026-04-07T13:00:00+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In theaters this July.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
     {
       "title": "LEVITICUS - Official Trailer - Only In Theaters June 19",
       "source": "NEON",
@@ -545,17 +270,6 @@
       "summary": "Based on the global hit eponymous video game created by KOTAKE CREATE. A man trapped in an endless sterile subway passageway sets out to find Exit 8. The rules of his quest are simple: do not overlook anything out of the ordinary.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "DOLLY | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=3dedZM6xc4c",
-      "published": "2026-04-10T16:36:35+00:00",
-      "summary": "Streaming on Shudder April 24. Macy fights for survival after being abducted by a deranged, monster-like figure who wants to raise her as their child.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -724,17 +438,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Rousey vs. Carano | Diaz vs. Perry | Ngannou vs. Lins | NYC PRESS CONFERENCE | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=PsPHgLVeyWU",
-      "published": "2026-04-15T23:13:02+00:00",
-      "summary": "Ronda Rousey vs. Gina Carano. Nate Diaz vs. Mike Perry. Francis Ngannou vs. Philipe Lins. Watch as these legends come face-to-face ahead of the first-ever MMA event on Netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "Monarch: Legacy of Monsters — Vinestranglers on Skull Island | Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
@@ -742,7 +445,7 @@
       "published": "2026-04-25T13:59:52+00:00",
       "summary": "Skull Island is a hostile place where even a nondescript vine is not as it seems. The Vinestrangler scene from \"Ends of the Earth.\" Monarch: Legacy of Monsters Season 2 is now streaming on Apple TV https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -884,32 +587,32 @@
   "weather": {
     "location": "02726 (Somerset, MA)",
     "desc": "Sunny",
-    "temp": "61",
-    "feels": "61",
-    "wind": "2",
-    "humidity": "59",
+    "temp": "47",
+    "feels": "46",
+    "wind": "3",
+    "humidity": "87",
     "days": [
-      {
-        "label": "Sat Apr 25",
-        "high": "61",
-        "low": "42"
-      },
       {
         "label": "Sun Apr 26",
         "high": "60",
-        "low": "47"
+        "low": "48"
       },
       {
         "label": "Mon Apr 27",
         "high": "59",
-        "low": "46"
+        "low": "45"
+      },
+      {
+        "label": "Tue Apr 28",
+        "high": "53",
+        "low": "45"
       }
     ]
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 25,
-    "trailerCount": 33,
-    "sourceCount": 18
+    "youtubeCount": 9,
+    "trailerCount": 22,
+    "sourceCount": 12
   }
 }
