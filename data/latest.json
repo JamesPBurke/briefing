@@ -1,58 +1,18 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-26T05:00:01.305873Z",
-  "generatedAtDisplay": "2026-04-26 01:00 AM EDT",
+  "generatedAt": "2026-04-26T09:00:46.880510Z",
+  "generatedAtDisplay": "2026-04-26 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Trump evacuated after shots fired at White House correspondents’ dinner – what we know, Joe Turner’s Come and Gone review – August Wilson play makes uneven return to Broadway, and Crymelight is a Hades-esque roguelike that sends the white rabbit chasing Alice to hell to face her sins and fight for her freedom.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are A federal program has helped Native Hawaiian medical students for 35 years. It’s now being sued for discrimination, ‘Counter to the message of Jesus’: progressive Christians stake a claim to their religion amid Trump-pope feud, and Why are we dragging apologies out of celebrities for the most innocuous things? | Elle Hunt.",
   "mainItems": [
     {
-      "title": "Trump evacuated after shots fired at White House correspondents’ dinner – what we know",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/25/trump-white-house-correspondents-dinner-what-we-know",
-      "published": "2026-04-26T03:59:18+00:00",
-      "summary": "Secret Service says US president and first lady are safe and suspect is in custody after shooting incident in DC Main story: Person in custody after shooting incident at White House correspondents’ dinner White House correspondents’ dinner…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Joe Turner’s Come and Gone review – August Wilson play makes uneven return to Broadway",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/stage/2026/apr/26/joe-turners-come-and-gone-review-broadway",
-      "published": "2026-04-26T02:00:01+00:00",
-      "summary": "Ethel Barrymore theatre, New York Debbie Allen’s revival of the 1984 drama boasts a compelling cast, led by Taraji P Henson and Cedric the Entertainer, but too many notes are off Earlier this year, Viola Davis excitedly quoted August…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Crymelight is a Hades-esque roguelike that sends the white rabbit chasing Alice to hell to face her sins and fight for her freedom",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/crymelight-is-a-hades-esque-roguelike-that-sends-the-white-rabbit-chasing-alice-to-hell-to-face-her-sins-and-fight-for-her-freedom",
-      "published": "2026-04-25T20:34:33+00:00",
-      "summary": "I do not know if FuRyu make games that one can easily jump to calling \"good\" but they are regularly putting out mid-budget (I assume) games that make me go \"oh, there's certainly some sauce here.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The moment I knew: The banana bread was terrible but seeing him baking made me fall for him",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/25/relationships-moment-knew-candles-kiss-during-blackout",
-      "published": "2026-04-25T20:00:56+00:00",
-      "summary": "Gillian Kennedy met Wade Freeman while working in a remote desert community.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Facing AI and a tough job market, gen Z turns to entrepreneurship: ‘I have to prove myself’",
+      "title": "A federal program has helped Native Hawaiian medical students for 35 years. It’s now being sued for discrimination",
       "source": "The Guardian US",
       "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/technology/ng-interactive/2026/apr/25/gen-z-entrepreneurs-business-ai",
-      "published": "2026-04-25T12:00:45+00:00",
-      "summary": "As AI erases the bottom rungs of the corporate ladder, some gen Z workers skip the entry level to become their own CEOs When Ashley Terrell graduated from the University of Hawaii in 2024, she planned to find a job in marketing, maybe for…",
+      "url": "https://www.theguardian.com/us-news/2026/apr/25/hative-hawaiian-scholarship-program-lawsuit",
+      "published": "2026-04-25T14:00:47+00:00",
+      "summary": "Do No Harm, a conservative group, wants the scholarship, which has helped islands’ underserved communities, declared unconstitutional Doctors and health experts in Hawaii say a decades-old federal program meant to support Native Hawaiians…",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
@@ -67,22 +27,22 @@
       "score": 10
     },
     {
-      "title": "‘I saw the backlash coming’: civil rights activist Kimberlé Crenshaw on America and race",
+      "title": "Why are we dragging apologies out of celebrities for the most innocuous things? | Elle Hunt",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/books/2026/apr/25/i-saw-the-backlash-coming-civil-rights-activist-kimberle-crenshaw-on-america-and-race",
-      "published": "2026-04-25T08:00:40+00:00",
-      "summary": "She coined the term ‘intersectionality’ and helped to develop critical race theory, now her life’s work is under attack by Washington’s war on ‘woke’.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/26/timothee-chalamet-sabrina-carpenter-jessie-buckley-internet-celebrities",
+      "published": "2026-04-26T07:00:08+00:00",
+      "summary": "They’re just the latest stars whose banal pronouncements have triggered a wave of controversy.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
-      "title": "‘We went under the table screaming’: reactions from the White House correspondents’ dinner shooting",
+      "title": "‘Violence must never be the way’: world leaders react to Washington shooting at Trump event",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/25/white-house-correspondents-dinner-reactions",
-      "published": "2026-04-26T04:04:40+00:00",
-      "summary": "Lawmakers and reporters in shock after Washington press event abruptly ends following gunshots Trump evacuated after shots fired at White House correspondents’ dinner – what we know White House correspondents’ dinner – latest updates…",
+      "url": "https://www.theguardian.com/us-news/2026/apr/26/violence-must-never-be-the-way-world-leaders-react-to-washington-shooting-at-trump-event",
+      "published": "2026-04-26T05:14:24+00:00",
+      "summary": "Leaders of Canada, Mexico and Australia denounce political violence and voice their appreciation that Donald Trump and guests at correspondents dinner are unharmed Washington Hilton shooting – what we know so far Full report: Suspect in…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
@@ -91,9 +51,29 @@
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
       "url": "https://www.theguardian.com/us-news/2026/apr/26/donald-melania-trump-white-houe-correspondents-dinner",
-      "published": "2026-04-26T03:40:57+00:00",
-      "summary": "US president and first lady were unharmed and suspect is being charged with two counts of felony firearms and assault charges White House correspondents’ dinner shooting – latest updates Sign up for the Breaking News US newsletter email…",
+      "published": "2026-04-26T05:08:31+00:00",
+      "summary": "US president and first lady were unharmed and suspect is being charged with two counts of felony firearms and assault charges Sign up for the Breaking News US newsletter email Donald and Melania Trump were evacuated from the White House…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "‘We went under the table screaming’: reactions from the White House correspondents’ dinner shooting",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/25/white-house-correspondents-dinner-reactions",
+      "published": "2026-04-26T04:04:40+00:00",
+      "summary": "Lawmakers and reporters in shock after Washington press event abruptly ends following gunshots Suspect in custody after Trump evacuated in shooting incident White House correspondents’ dinner shooting – what we know Lawmakers and…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Crymelight is a Hades-esque roguelike that sends the white rabbit chasing Alice to hell to face her sins and fight for her freedom",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/crymelight-is-a-hades-esque-roguelike-that-sends-the-white-rabbit-chasing-alice-to-hell-to-face-her-sins-and-fight-for-her-freedom",
+      "published": "2026-04-25T20:34:33+00:00",
+      "summary": "I do not know if FuRyu make games that one can easily jump to calling \"good\" but they are regularly putting out mid-budget (I assume) games that make me go \"oh, there's certainly some sauce here.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
@@ -114,6 +94,26 @@
       "published": "2026-04-25T16:30:00+00:00",
       "summary": "Gov. Brad Little has officially lost support of the teachers’ union after he signed a “union-busting” bill earlier this month. The Idaho Education Association (IEA) issued a vote of no confidence in the Republican governor over the weekend.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "Final Fantasy 14's next expansion ushers in an ice age and adds in an Evangelion crossover for good measure",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/final-fantasy-14s-next-expansion-ushers-in-an-ice-age-and-adds-in-an-evangelion-crossover-for-good-measure",
+      "published": "2026-04-25T15:57:34+00:00",
+      "summary": "It is happening again. By that I mean Final Fantasy 14 is getting a new expansion, once again ensuring my timeline will be flooded with thousands of screenshots of tall bunny women and regular sized cat boys.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Met investigates hundreds of officers after using Palantir AI tool",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/25/met-police-investigates-hundreds-officers-palantir-ai-tool",
+      "published": "2026-04-25T15:34:10+00:00",
+      "summary": "Met says AI software unearthed rule-breaking ranging from work-from-home violations to suspected corruption The Metropolitan police have launched investigations into hundreds of officers after using an AI tool built by the controversial…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
@@ -146,8 +146,8 @@
       "published": "2026-04-25T17:09:47+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://nvlabs.github.io/GEAR-SONIC/ Our Patreon if you wish to support us: https://www.patreon.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Harvard Professor Answers Iranian History Questions | Tech Support | WIRED",
@@ -159,6 +159,149 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Trump rushed from White House Correspondents' Dinner after shooting incident",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=9UFHunDRKz4",
+      "published": "2026-04-26T02:08:32+00:00",
+      "summary": "President Donald Trump and the first lady are uninjured after a shooting incident at the White House Correspondents' Dinner on Saturday in Washington, D.C., according to a statement from the U.S. Secret Service.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "In Steven Soderbergh's 'The Christophers,' an aging artist meets his match",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=9iGioxSD5ig",
+      "published": "2026-04-25T16:30:03+00:00",
+      "summary": "Watching 86-year-old Ian McKellen go up and down the stairs in 'The Christophers,' may have tired NPR critic Bob Mondello out, but that won't stop him from running back to watch it again. Tap the link in our bio for the full movie review.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "NASA readies major new space telescope for launch",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=8jooD7wj2Rc",
+      "published": "2026-04-25T14:00:12+00:00",
+      "summary": "NASA is continuing preparations for the launch of a major space telescope. It’s being shipped to the Kennedy Space Center in Florida ahead of September’s scheduled launch date.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Did President Trump blink by extending the ceasefire with Iran?",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Pvj_lteGW4U",
+      "published": "2026-04-24T22:00:35+00:00",
+      "summary": "Did President Trump blink by extending the ceasefire with Iran? NPR National Security correspondent Greg Myre tells Sources & Methods host Mary Louise Kelly it's complicated. Listen to the episode at the link in our bio.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "U.K. Prime Minister faces growing calls to resign over his U.S. ambassador's ties to Epstein",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=C0gjZUO0BtA",
+      "published": "2026-04-24T19:00:07+00:00",
+      "summary": "British Prime Minister Keir Starmer is facing renewed calls for his resignation over his choice for ambassador to Washington — a veteran diplomat with close ties to Jeffrey Epstein.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "At least 10 injured as tornadoes rip through northern Oklahoma",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=fCiLZ-THV2k",
+      "published": "2026-04-24T17:30:21+00:00",
+      "summary": "Multiple tornadoes swept the northern part of Oklahoma Thursday night, leaving at least 10 people injured. The city of Enid is one of the hardest areas. It’s about 100 miles north of Oklahoma City. Vance Air Force Base is there.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Supreme Court case that could redefine digital privacy | Nina Totenberg",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=VjdZg-Wr1qY",
+      "published": "2026-04-24T09:00:53+00:00",
+      "summary": "Police in Virginia used a technique called geofencing to tap into Google's databases to find out who was near the scene of a bank robbery in the town of Midlothian, where a robber pulled out a gun, and subsequently fled with $195,000.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Should Next-Gen \"Cheap\" PS6 Be A Cloud-Based System?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=eF46su5hAZE",
+      "published": "2026-04-25T16:01:03+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Saros PS5 vs PS5 Pro Comparison: Image Quality + Performance",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=xzjVYm45EGc",
+      "published": "2026-04-25T15:01:34+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/qYQxQ7gZJoE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Can Switch 2 Handle Starfield?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=u18fdcEDmRQ",
+      "published": "2026-04-24T17:01:14+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Nvidia Says It ISN'T Acquiring A PC Manufacturer - Do We Believe Them?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=sCpofEY6JQo",
+      "published": "2026-04-24T16:01:39+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Should I Buy RTX 5080 Now For Path Tracing Or Wait For Next-Gen?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=LuzG5sfWXl8",
+      "published": "2026-04-23T17:00:35+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Ryzen 7 5800X3D Returning Is Brilliant News... But How Much Will It Cost?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=AMLMwhzeOXQ",
+      "published": "2026-04-23T16:00:26+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "We'll Finish Dokapon Kingdom, or Die Trying w/ KC, Jess, Jesse, and Marty -- Finale",
@@ -240,6 +383,94 @@
   ],
   "trailers": [
     {
+      "title": "The Best of Marty And Doc's Friendship | Back to the Future Trilogy",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=i8NF-WsZMdg",
+      "published": "2026-04-24T19:00:40+00:00",
+      "summary": "Marty McFly (Michael J. Fox) and Doc Brown (Christopher Lloyd) share the ultimate bond as they navigate the dangers of time travel across decades.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "INSIDIOUS: OUT OF THE FURTHER - Official Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=jxU8FU3o75A",
+      "published": "2026-04-14T02:39:28+00:00",
+      "summary": "The Further comes for our world. Watch the official trailer for #Insidious: Out Of The Further - exclusively in theatres this August. Follow us on social: https://www.instagram.com/InsidiousMovie https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "BEEF | Behind the Score with Composer Finneas O’Connell | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=7G5073lagSE",
+      "published": "2026-04-23T14:00:00+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe Listen to the soundtrack: https://a24music.lnk.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Mother Mary | Final Trailer | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=aqYHOsuje1E",
+      "published": "2026-04-21T13:03:09+00:00",
+      "summary": "SUBSCRIBE: http://bit.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Oscar Isaac & Ali Wong | The A24 Podcast",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=BF1mmlkXSYA",
+      "published": "2026-04-15T13:59:08+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe Endless Grasping with Ali Wong & Oscar Isaac A brief but brilliant ceremonial passing of the Beef baton between Season 1 star Ali Wong and Season 2 star Oscar Isaac.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Mother Mary | Official First Look | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=LP-N5kp07gs",
+      "published": "2026-04-09T13:00:00+00:00",
+      "summary": "SUBSCRIBE: http://bit.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Oscar Isaac, Carey Mulligan & Lee Sung Jin | A24 x Letterboxd: The List",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=UPFnXwngSEI",
+      "published": "2026-04-07T17:12:13+00:00",
+      "summary": "SUBSCRIBE: http://bit.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Invite | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=OJ19I9q_hOQ",
+      "published": "2026-04-07T13:00:00+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In theaters this July.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "LEVITICUS - Official Trailer - Only In Theaters June 19",
       "source": "NEON",
       "category": "Film / trailer",
@@ -270,6 +501,17 @@
       "summary": "Based on the global hit eponymous video game created by KOTAKE CREATE. A man trapped in an endless sterile subway passageway sets out to find Exit 8. The rules of his quest are simple: do not overlook anything out of the ordinary.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "DOLLY | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=3dedZM6xc4c",
+      "published": "2026-04-10T16:36:35+00:00",
+      "summary": "Streaming on Shudder April 24. Macy fights for survival after being abducted by a deranged, monster-like figure who wants to raise her as their child.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -586,33 +828,33 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Sunny",
-    "temp": "47",
-    "feels": "46",
-    "wind": "3",
-    "humidity": "87",
+    "desc": "Partly cloudy",
+    "temp": "54",
+    "feels": "53",
+    "wind": "5",
+    "humidity": "67",
     "days": [
       {
         "label": "Sun Apr 26",
         "high": "60",
-        "low": "48"
+        "low": "47"
       },
       {
         "label": "Mon Apr 27",
         "high": "59",
-        "low": "45"
+        "low": "46"
       },
       {
         "label": "Tue Apr 28",
-        "high": "53",
+        "high": "59",
         "low": "45"
       }
     ]
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 9,
-    "trailerCount": 22,
-    "sourceCount": 12
+    "youtubeCount": 22,
+    "trailerCount": 31,
+    "sourceCount": 18
   }
 }
