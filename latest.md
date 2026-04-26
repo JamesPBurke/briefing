@@ -1,14 +1,14 @@
 # James Daily Briefing
 
-Generated: 2026-04-26T09:00:46.880510Z
+Generated: 2026-04-26T14:00:02.026266Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are A federal program has helped Native Hawaiian medical students for 35 years. It’s now being sued for discrimination, ‘Counter to the message of Jesus’: progressive Christians stake a claim to their religion amid Trump-pope feud, and Why are we dragging apologies out of celebrities for the most innocuous things? | Elle Hunt.
+Today's sweep leans toward Democracy / press freedom, Science / health, AI / privacy. The strongest items in this run are Suspected gunman likely targeting Trump administration officials at White House press dinner, acting attorney general says – live, Pope Leo has stirred awake a progressive Christianity. It can rise again | Bill McKibben, and US is taking a ‘real risk’ with hasty shift in efforts to fight HIV, experts say.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Partly cloudy, 54°F (feels like 53°F), 5 mph wind, 67% humidity.
+02726 (Somerset, MA): Overcast, 65°F (feels like 65°F), 6 mph wind, 39% humidity.
 
 Forecast:
 - Sun Apr 26: high 60° / low 47°
@@ -37,70 +37,106 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. A federal program has helped Native Hawaiian medical students for 35 years. It’s now being sued for discrimination [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Do No Harm, a conservative group, wants the scholarship, which has helped islands’ underserved communities, declared unconstitutional Doctors and health experts in Hawaii say a decades-old federal program meant to support Native Hawaiians…
-
-Link: https://www.theguardian.com/us-news/2026/apr/25/hative-hawaiian-scholarship-program-lawsuit
-
-### 2. ‘Counter to the message of Jesus’: progressive Christians stake a claim to their religion amid Trump-pope feud [10/10]
+### 1. Suspected gunman likely targeting Trump administration officials at White House press dinner, acting attorney general says – live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Anti-war, anti-ICE, anti-authoritarian Christians are organizing around their faith in opposition to the version claimed by Trump and Hegseth The Trump administration has long tried to wrap itself in Christianity, with Pete Hegseth, the…
+Todd Blanche says 31-year-old suspect will be charged with assault of a federal officer, discharging a firearm and attempting to kill a federal officer Suspected gunman at White House press dinner named ‘We went under the table screaming’:…
 
-Link: https://www.theguardian.com/us-news/2026/apr/25/progressive-christians-religion-trump-pope
+Link: https://www.theguardian.com/us-news/live/2026/apr/26/white-house-correspondents-dinner-shooting-latest-donald-trump-suspect-washington-hilton
 
-### 3. Why are we dragging apologies out of celebrities for the most innocuous things? | Elle Hunt [9/10]
+### 2. Pope Leo has stirred awake a progressive Christianity. It can rise again | Bill McKibben [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+With his stand against Trump, the pope has shown the far right doesn’t have a monopoly on Christianity.
+
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/apr/26/pope-leo-trump-hegseth-christianity
+
+### 3. US is taking a ‘real risk’ with hasty shift in efforts to fight HIV, experts say [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Experts fear losing ground to virus even as the end of the HIV epidemic is in sight, and say decline in infant testing is ‘particularly concerning’ The US government released likely the last report from Pepfar (President’s Emergency Plan…
+
+Link: https://www.theguardian.com/us-news/2026/apr/26/pepfar-hiv-aids-trump-administration
+
+### 4. To win in 2028, Democrats must embrace justice – not shy away from it | Steve Philips [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The party has been pressured to avoid ‘woke’ policies. Instead, Democrats must stand firmly for equality and invest in mobilization Too many Democrats believe that fighting for justice and equality is a losing proposition.
+
+Link: https://www.theguardian.com/commentisfree/2026/apr/26/democrats-justice-2028-election
+
+### 5. Teen arrested in Louisiana shooting got ride from scene from grandmother [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+No indication grandmother knew what Markel Lee, 17, was suspected of doing, and she later identified him to police Sign up for the Breaking News US email to get newsletter alerts in your inbox A 17-year-old accused of murder in Thursday’s…
+
+Link: https://www.theguardian.com/us-news/2026/apr/26/teen-louisiana-mass-shooting-grandmother
+
+### 6. Musk and Altman’s bitter feud over OpenAI to be laid bare in court [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Tesla chief believes Altman broke company’s founding agreement – and legal battle promises to be explosive The bitter rivalry between two of the tech world’s most powerful men arrives in court this week, as Elon Musk’s lawsuit against Sam…
+
+Link: https://www.theguardian.com/technology/2026/apr/26/musk-altman-openai-court
+
+### 7. For students labeled 'emotionally disturbed,' separation can lead to isolation [10/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Every school has problem students, but some are labeled emotionally disturbed (ED) and taught separately from others.
+
+Link: https://www.npr.org/2026/04/26/g-s1-117447/school-disability-emotional-behavioral-disorder-special-education
+
+### 8. After three months on Linux, I don’t miss Windows at all [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+In January I finally made good on my threat/promise to install Linux on my desktop. I wanted to see how far I could get using a Linux PC as my main computer without doing a bunch of research beforehand or troubleshooting afterwards.
+
+Link: https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows
+
+### 9. Rita Wilson looks back: ‘Cancer was terrifying, but now I see it as a gift. It gave me an extra lease on life’ [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-They’re just the latest stars whose banal pronouncements have triggered a wave of controversy.
+The actor and producer on being a teenage model, making My Big Fat Greek Wedding, and the secret to long-lasting love Born in Hollywood in 1956, Rita Wilson’s first role was in The Brady Bunch at the age of 15.
 
-Link: https://www.theguardian.com/commentisfree/2026/apr/26/timothee-chalamet-sabrina-carpenter-jessie-buckley-internet-celebrities
+Link: https://www.theguardian.com/lifeandstyle/2026/apr/26/rita-wilson-actor-producer-looks-back
 
-### 4. ‘Violence must never be the way’: world leaders react to Washington shooting at Trump event [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 10. High school athletes find a way to center themselves amidst violence in the community [9/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-Leaders of Canada, Mexico and Australia denounce political violence and voice their appreciation that Donald Trump and guests at correspondents dinner are unharmed Washington Hilton shooting – what we know so far Full report: Suspect in…
+Student athletes in a North Carolina high school found a new way to cope with violence in their community. They created a special space in their school.
 
-Link: https://www.theguardian.com/us-news/2026/apr/26/violence-must-never-be-the-way-world-leaders-react-to-washington-shooting-at-trump-event
+Link: https://www.npr.org/2026/04/26/nx-s1-5798619/high-school-athletes-find-a-way-to-center-themselves-amidst-violence-in-the-community
 
-### 5. Suspect in custody after Trump evacuated in shooting incident at White House correspondents’ dinner [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 11. World Press Photo Contest winners cast a lens on resilience, pain and bliss [9/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-US president and first lady were unharmed and suspect is being charged with two counts of felony firearms and assault charges Sign up for the Breaking News US newsletter email Donald and Melania Trump were evacuated from the White House…
+A selection of prize honorees from the 2026 World Press Photo Contest capture the pain of the past year — but also focus on moments of strength, determination and joy.
 
-Link: https://www.theguardian.com/us-news/2026/apr/26/donald-melania-trump-white-houe-correspondents-dinner
+Link: https://www.npr.org/2026/04/26/g-s1-118511/world-press-photo-contest-winners
 
-### 6. ‘We went under the table screaming’: reactions from the White House correspondents’ dinner shooting [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Lawmakers and reporters in shock after Washington press event abruptly ends following gunshots Suspect in custody after Trump evacuated in shooting incident White House correspondents’ dinner shooting – what we know Lawmakers and…
-
-Link: https://www.theguardian.com/us-news/2026/apr/25/white-house-correspondents-dinner-reactions
-
-### 7. Crymelight is a Hades-esque roguelike that sends the white rabbit chasing Alice to hell to face her sins and fight for her freedom [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-I do not know if FuRyu make games that one can easily jump to calling "good" but they are regularly putting out mid-budget (I assume) games that make me go "oh, there's certainly some sauce here.
-
-Link: https://www.rockpapershotgun.com/crymelight-is-a-hades-esque-roguelike-that-sends-the-white-rabbit-chasing-alice-to-hell-to-face-her-sins-and-fight-for-her-freedom
-
-### 8. Chuba! Star Wars: Galactic Racer's release date has been accidentally revealed early [9/10]
+### 12. Chuba! Star Wars: Galactic Racer's release date has been accidentally revealed early [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -109,50 +145,14 @@ We all make mistakes sometimes, which is exactly what someone did today on the S
 
 Link: https://www.rockpapershotgun.com/chuba-star-wars-galactic-racers-release-date-has-been-accidentally-revealed-early
 
-### 9. Teachers’ Union Issues Vote of No Confidence in Idaho Governor [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Gov. Brad Little has officially lost support of the teachers’ union after he signed a “union-busting” bill earlier this month. The Idaho Education Association (IEA) issued a vote of no confidence in the Republican governor over the weekend.
-
-Link: https://www.the74million.org/article/teachers-union-issues-vote-of-no-confidence-in-idaho-governor/
-
-### 10. Final Fantasy 14's next expansion ushers in an ice age and adds in an Evangelion crossover for good measure [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-It is happening again. By that I mean Final Fantasy 14 is getting a new expansion, once again ensuring my timeline will be flooded with thousands of screenshots of tall bunny women and regular sized cat boys.
-
-Link: https://www.rockpapershotgun.com/final-fantasy-14s-next-expansion-ushers-in-an-ice-age-and-adds-in-an-evangelion-crossover-for-good-measure
-
-### 11. Met investigates hundreds of officers after using Palantir AI tool [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Met says AI software unearthed rule-breaking ranging from work-from-home violations to suspected corruption The Metropolitan police have launched investigations into hundreds of officers after using an AI tool built by the controversial…
-
-Link: https://www.theguardian.com/uk-news/2026/apr/25/met-police-investigates-hundreds-officers-palantir-ai-tool
-
-### 12. Artemis II broke Fred Haise's distance record, but he is happy to pass it on [8/10]
+### 13. New robotic control software avoids jamming their joints [8/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-"It wasn't a big deal. It just coincided with the fact that Moon was farther away from the Earth."
+Software lets robots learn from each other even if they have different hardware.
 
-Link: https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/
-
-### 13. A Mysterious Golden Orb Was Discovered Under the Sea. We Finally Know What It Is. [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-The discovery of a bizarre golden object two miles under Alaskan waters flummoxed scientists, but a new study pins down the true nature of the “orb.”
-
-Link: https://www.404media.co/a-mysterious-golden-orb-was-discovered-under-the-sea-we-finally-know-what-it-is/
+Link: https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/
 
 ## YouTube
 
