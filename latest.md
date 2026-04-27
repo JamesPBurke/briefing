@@ -1,19 +1,19 @@
 # James Daily Briefing
 
-Generated: 2026-04-26T14:00:02.026266Z
+Generated: 2026-04-27T01:50:25.807182Z
 
-Today's sweep leans toward Democracy / press freedom, Science / health, AI / privacy. The strongest items in this run are Suspected gunman likely targeting Trump administration officials at White House press dinner, acting attorney general says – live, Pope Leo has stirred awake a progressive Christianity. It can rise again | Bill McKibben, and US is taking a ‘real risk’ with hasty shift in efforts to fight HIV, experts say.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Washington in shock after White House press dinner shooting: ‘an angry, polarized nation’, Opinion: High School Yearbooks Focus on the Fun Had, Obscuring the Pain People Also Experienced, and Pope Leo has stirred awake a progressive Christianity. It can rise again | Bill McKibben.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Overcast, 65°F (feels like 65°F), 6 mph wind, 39% humidity.
+02726 (Somerset, MA): Partly cloudy, 53°F (feels like 53°F), 3 mph wind, 62% humidity.
 
 Forecast:
-- Sun Apr 26: high 60° / low 47°
 - Mon Apr 27: high 59° / low 46°
-- Tue Apr 28: high 59° / low 45°
+- Tue Apr 28: high 55° / low 45°
+- Wed Apr 29: high 61° / low 44°
 
 ## Highlighted stories
 
@@ -37,16 +37,25 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. Suspected gunman likely targeting Trump administration officials at White House press dinner, acting attorney general says – live [10/10]
+### 1. Washington in shock after White House press dinner shooting: ‘an angry, polarized nation’ [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Todd Blanche says 31-year-old suspect will be charged with assault of a federal officer, discharging a firearm and attempting to kill a federal officer Suspected gunman at White House press dinner named ‘We went under the table screaming’:…
+Questions raised about political violence, security and gun control after brazen attack at event attended by top officials White House press dinner shooting aftermath – latest updates A stunned Washington faced searching questions about…
 
-Link: https://www.theguardian.com/us-news/live/2026/apr/26/white-house-correspondents-dinner-shooting-latest-donald-trump-suspect-washington-hilton
+Link: https://www.theguardian.com/us-news/2026/apr/26/white-house-correspondents-dinner-shooting-washington-dc
 
-### 2. Pope Leo has stirred awake a progressive Christianity. It can rise again | Bill McKibben [10/10]
+### 2. Opinion: High School Yearbooks Focus on the Fun Had, Obscuring the Pain People Also Experienced [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+High school students will soon take part in a more than 160-year-old tradition in American education: receiving yearbooks at the end of the school year.
+
+Link: https://www.the74million.org/article/high-school-yearbooks-focus-on-the-fun-had-obscuring-the-pain-people-also-experienced/
+
+### 3. Pope Leo has stirred awake a progressive Christianity. It can rise again | Bill McKibben [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -55,34 +64,7 @@ With his stand against Trump, the pope has shown the far right doesn’t have a 
 
 Link: https://www.theguardian.com/us-news/ng-interactive/2026/apr/26/pope-leo-trump-hegseth-christianity
 
-### 3. US is taking a ‘real risk’ with hasty shift in efforts to fight HIV, experts say [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Experts fear losing ground to virus even as the end of the HIV epidemic is in sight, and say decline in infant testing is ‘particularly concerning’ The US government released likely the last report from Pepfar (President’s Emergency Plan…
-
-Link: https://www.theguardian.com/us-news/2026/apr/26/pepfar-hiv-aids-trump-administration
-
-### 4. To win in 2028, Democrats must embrace justice – not shy away from it | Steve Philips [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The party has been pressured to avoid ‘woke’ policies. Instead, Democrats must stand firmly for equality and invest in mobilization Too many Democrats believe that fighting for justice and equality is a losing proposition.
-
-Link: https://www.theguardian.com/commentisfree/2026/apr/26/democrats-justice-2028-election
-
-### 5. Teen arrested in Louisiana shooting got ride from scene from grandmother [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-No indication grandmother knew what Markel Lee, 17, was suspected of doing, and she later identified him to police Sign up for the Breaking News US email to get newsletter alerts in your inbox A 17-year-old accused of murder in Thursday’s…
-
-Link: https://www.theguardian.com/us-news/2026/apr/26/teen-louisiana-mass-shooting-grandmother
-
-### 6. Musk and Altman’s bitter feud over OpenAI to be laid bare in court [10/10]
+### 4. Musk and Altman’s bitter feud over OpenAI to be laid bare in court [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -91,16 +73,7 @@ Tesla chief believes Altman broke company’s founding agreement – and legal b
 
 Link: https://www.theguardian.com/technology/2026/apr/26/musk-altman-openai-court
 
-### 7. For students labeled 'emotionally disturbed,' separation can lead to isolation [10/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Every school has problem students, but some are labeled emotionally disturbed (ED) and taught separately from others.
-
-Link: https://www.npr.org/2026/04/26/g-s1-117447/school-disability-emotional-behavioral-disorder-special-education
-
-### 8. After three months on Linux, I don’t miss Windows at all [10/10]
+### 5. After three months on Linux, I don’t miss Windows at all [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -109,16 +82,52 @@ In January I finally made good on my threat/promise to install Linux on my deskt
 
 Link: https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows
 
-### 9. Rita Wilson looks back: ‘Cancer was terrifying, but now I see it as a gift. It gave me an extra lease on life’ [9/10]
+### 6. Anti-Trump sentiment being examined as motive for White House press dinner shooting [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-The actor and producer on being a teenage model, making My Big Fat Greek Wedding, and the secret to long-lasting love Born in Hollywood in 1956, Rita Wilson’s first role was in The Brady Bunch at the age of 15.
+Manifesto reportedly written by the suspect had Trump administration officials at top of list Trump tells 60 Minutes he ‘wasn’t worried’ during shooting How the White House press dinner shooting unfolded Investigators are looking into…
 
-Link: https://www.theguardian.com/lifeandstyle/2026/apr/26/rita-wilson-actor-producer-looks-back
+Link: https://www.theguardian.com/us-news/2026/apr/26/white-house-press-dinner-shooting-motive
 
-### 10. High school athletes find a way to center themselves amidst violence in the community [9/10]
+### 7. California measure requiring photo ID at polls will be on November ballot [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Nearly 1 million Californians supported push by Republican Carl DeMaio but it faces historic opposition from Democrats California voters will decide in November whether to require photo identification to cast a ballot, making California…
+
+Link: https://www.theguardian.com/us-news/2026/apr/26/california-photo-id-voting-ballot-measure-november
+
+### 8. Prime Video drops full trailer for Spider-Noir [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+It's "a detective story, but the detective happens to also have spider powers.”—EP Chris Miller
+
+Link: https://arstechnica.com/culture/2026/04/prime-video-drops-full-trailer-for-spider-noir/
+
+### 9. Skylight’s 15-inch smart calendar is down to its lowest price to date [9/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+When you’re juggling more than just your own calendar, staying organized can be overwhelming.
+
+Link: https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale
+
+### 10. Why emotional disturbance, a special ed category, is a double-edged sword for students [9/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Every school has problem students, but some are labeled emotionally disturbed (ED) and taught separately from others.
+
+Link: https://www.npr.org/2026/04/26/g-s1-117447/school-disability-emotional-behavioral-disorder-special-education
+
+### 11. High school athletes find a way to center themselves amidst violence in the community [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -127,32 +136,23 @@ Student athletes in a North Carolina high school found a new way to cope with vi
 
 Link: https://www.npr.org/2026/04/26/nx-s1-5798619/high-school-athletes-find-a-way-to-center-themselves-amidst-violence-in-the-community
 
-### 11. World Press Photo Contest winners cast a lens on resilience, pain and bliss [9/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
+### 12. A new study shows how ad-based technology is used for surveillance [7/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-A selection of prize honorees from the 2026 World Press Photo Contest capture the pain of the past year — but also focus on moments of strength, determination and joy.
+NPR's Rob Schmitz speaks with Ronald Deibert of The Citizen Lab about a new report he published entitled "Uncovering Webloc," which is about how ad-based technology is used to surveil people.
 
-Link: https://www.npr.org/2026/04/26/g-s1-118511/world-press-photo-contest-winners
+Link: https://www.npr.org/2026/04/26/nx-s1-5789047/a-new-study-shows-how-ad-based-technology-is-used-for-surveillance
 
-### 12. Chuba! Star Wars: Galactic Racer's release date has been accidentally revealed early [9/10]
+### 13. The Sunday Papers [7/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-We all make mistakes sometimes, which is exactly what someone did today on the Steam page for Star Wars: Galactic Racer .
+Sundays are for realising that you aren't who you thought you were. You thought you were Jonathan Frakes. You thought you'd starred in both Star Trek: The Next Generation and 1995 video game Multimedia Celebrity Poker.
 
-Link: https://www.rockpapershotgun.com/chuba-star-wars-galactic-racers-release-date-has-been-accidentally-revealed-early
-
-### 13. New robotic control software avoids jamming their joints [8/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Software lets robots learn from each other even if they have different hardware.
-
-Link: https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/
+Link: https://www.rockpapershotgun.com/the-sunday-papers-807
 
 ## YouTube
 
@@ -183,9 +183,9 @@ President Donald Trump and the first lady are uninjured after a shooting inciden
 
 Link: https://www.youtube.com/watch?v=9UFHunDRKz4
 
-### In Steven Soderbergh's 'The Christophers,' an aging artist meets his match [8/10]
+### In Steven Soderbergh's 'The Christophers,' an aging artist meets his match [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Watching 86-year-old Ian McKellen go up and down the stairs in 'The Christophers,' may have tired NPR critic Bob Mondello out, but that won't stop him from running back to watch it again. Tap the link in our bio for the full movie review.
@@ -237,18 +237,36 @@ Police in Virginia used a technique called geofencing to tap into Google's datab
 
 Link: https://www.youtube.com/watch?v=VjdZg-Wr1qY
 
-### Should Next-Gen "Cheap" PS6 Be A Cloud-Based System? [7/10]
+### Xbox 360 Launch - Every Live Arcade Game Tested! [8/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/qYQxQ7gZJoE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=7jpm5I6u5kQ
+
+### Should Nintendo Add VRR Support To Switch 1 Games Running on Switch 2? [9/10]
+**Creator:** Digital Foundry  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=0DmFzKNhQG8
+
+### Should Next-Gen "Cheap" PS6 Be A Cloud-Based System? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=eF46su5hAZE
 
-### Saros PS5 vs PS5 Pro Comparison: Image Quality + Performance [7/10]
+### Saros PS5 vs PS5 Pro Comparison: Image Quality + Performance [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/qYQxQ7gZJoE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -272,87 +290,6 @@ Link: https://www.youtube.com/watch?v=u18fdcEDmRQ
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=sCpofEY6JQo
-
-### Should I Buy RTX 5080 Now For Path Tracing Or Wait For Next-Gen? [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=LuzG5sfWXl8
-
-### Ryzen 7 5800X3D Returning Is Brilliant News... But How Much Will It Cost? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/ecsdMG8vbYA ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=AMLMwhzeOXQ
-
-### We'll Finish Dokapon Kingdom, or Die Trying w/ KC, Jess, Jesse, and Marty -- Finale [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-KC, Jess, Jesse, and Marty are going to FINALLY finish their Dokapon game that they started back in November 2024...or they'll die trying. Dokapon Kingdom Part 1 -- https://youtu.be/M6Kj0mWZYXM?t=14646 Dokapon Kingdom Part 2 -- https://www.
-
-Link: https://www.youtube.com/watch?v=t5vA1afX6_Y
-
-### Adventure Is Nigh!: The Slow Walk Home | Season 5 Trailer [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Swarms of coin mimics skitter through vaults, marketplaces, and pockets alike, devouring every piece of gold they can.
-
-Link: https://www.youtube.com/watch?v=NG9StzGt7ks
-
-### Xbox’s Harsh Pivot Is Telling | Dev Heads Podcast [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by GameMaker, the free, fast, and easy-to-use 2D game engine that’s helped power modern classics like Deltarune, Pizza Tower, and Yahtzee’s Starstruck Vagabond – https://opr.
-
-Link: https://www.youtube.com/watch?v=PGDqB3uby44
-
-### Xbox, Identity, and the Power of Exclusives | Unpacked [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Xbox is entering a new era, but first it needs to rebuild its core identity. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
-
-Link: https://www.youtube.com/watch?v=A2Q68gDvHFw
-
-### Building a Showcase, Black Flag Returns, and More | Firelink Podcast [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Firelink, Nick, KC, and Marty chat about what goes into building a video game showcase, Black Flag Resynced, and Xbox Game Pass getting the rare price reduction.
-
-Link: https://www.youtube.com/watch?v=sn0xBRpD9bw
-
-### The Second Wind Games Showcase - Spring 2026 Edition [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This showcase is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join today and earn rewards for playing and wishlisting games from the showcase! – https://playtracker.
-
-Link: https://www.youtube.com/watch?v=p8b5hTeaE4o
-
-### Go Ahead, Make Me Cry | Semi-Ramblomatic [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
-
-Link: https://www.youtube.com/watch?v=Qt8gXZ_afHY
 
 ## Entertainment Recommendations
 
@@ -391,15 +328,6 @@ Link: https://www.youtube.com/watch?v=Qt8gXZ_afHY
 Marty McFly (Michael J. Fox) and Doc Brown (Christopher Lloyd) share the ultimate bond as they navigate the dangers of time travel across decades.
 
 Link: https://www.youtube.com/watch?v=i8NF-WsZMdg
-
-### INSIDIOUS: OUT OF THE FURTHER - Official Trailer (4K) [9/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-The Further comes for our world. Watch the official trailer for #Insidious: Out Of The Further - exclusively in theatres this August. Follow us on social: https://www.instagram.com/InsidiousMovie https://twitter.
-
-Link: https://www.youtube.com/watch?v=jxU8FU3o75A
 
 ### BEEF | Behind the Score with Composer Finneas O’Connell | A24 [8/10]
 **Source:** A24  
@@ -481,150 +409,6 @@ Link: https://www.youtube.com/watch?v=qU_i5e48KzQ
 Based on the global hit eponymous video game created by KOTAKE CREATE. A man trapped in an endless sterile subway passageway sets out to find Exit 8. The rules of his quest are simple: do not overlook anything out of the ordinary.
 
 Link: https://www.youtube.com/watch?v=zzEDWwhtAHc
-
-### DOLLY | Official Trailer | Shudder [10/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Streaming on Shudder April 24. Macy fights for survival after being abducted by a deranged, monster-like figure who wants to raise her as their child.
-
-Link: https://www.youtube.com/watch?v=3dedZM6xc4c
-
-### Worst Ex Ever Season 2 | Official Trailer [10/10]
-**Source:** Blumhouse  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Are they "the one" or just the one you were warned about? Worst Ex Ever returns to Netflix on May 6 for Season 2 with true, harrowing tales of monstrous relationships and unhinged exes.
-
-Link: https://www.youtube.com/watch?v=_iKN26hplWY
-
-### Insidious: Out Of The Further | Official Trailer [9/10]
-**Source:** Blumhouse  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-The Further comes for our world.
-
-Link: https://www.youtube.com/watch?v=3PqqwEyV_Lw
-
-### Apex has it all: Psychopaths, shady characters and ear bites. NOW PLAYING! [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Apex has it all: Psychopaths, shady characters and ear bites. NOW PLAYING! #netflix Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=2p1zYIrDE1s
-
-### Swapped | Meeting Boogle | Sneak Peek | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=k9Azwc2ajrk
-
-### catch you on the flip. Tales From '85 is now playing. #netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-catch you on the flip. Tales From '85 is now playing. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=U_NuRHdrLoE
-
-### The Roast of Kevin Hart | Official Teaser | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Catch Kevin Hart getting roasted LIVE, only on Netflix on Sunday, May 10, at 5PM PT. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=8Z8EOc3InpY
-
-### #HeartstopperForever launch date revealed! [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Get ready for the final chapter...Heartstopper Forever arrives on 17th July, only on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=jowTfVqVw48
-
-### Mexico 86 | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Mexico has never won a World Cup… but someone decided that wasn’t a problem.
-
-Link: https://www.youtube.com/watch?v=BIVgPq4-mOM
-
-### My Dearest Señorita | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-‘My Dearest Señorita’ follows Adela, a woman who has always lived within boundaries set by others, until a revelation changes everything.
-
-Link: https://www.youtube.com/watch?v=u0OhgW-RtW0
-
-### Worst Ex Ever: Season 2 | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-From chilling betrayals to murder plots, this true-crime documentary series dissects the dark side of love through eyewitness testimonies. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=6nrk0bGttMU
-
-### Devil May Cry: Season 2 | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Team Dante. Team Vergil. One way ticket to Hell. See you May 12. From Capcom, led by Adi Shankar, and animated by Studio Mir comes Devil May Cry 2 - a Netflix animated series based on the hit video game franchise.
-
-Link: https://www.youtube.com/watch?v=Jpie-fec5qY
-
-### You will never guess the events that unfolded after this, Roommates is now playing [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-You will never guess the events that unfolded after this, Roommates is now playing on Netflix Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=B99SWy7Wtds
-
-### Man on Fire | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-To keep her safe, he’ll burn it all down. Emmy Winner Yahya Abdul-Mateen II is John Creasy in Man on Fire. The intense new series debuts April 30th, only on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=YqpIKFUrLrk
-
-### Mating Season | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-In the search for love, we're all animals. From the creators of Big Mouth comes Mating Season, a new adult animated comedy - set in the animal world - about love, sex, relationships, and the universal need to find a partner.
-
-Link: https://www.youtube.com/watch?v=aqCtC-ytN74
-
-### Ladies First | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-A ladies man finds his life upended when he wakes up in a parallel world dominated by women.
-
-Link: https://www.youtube.com/watch?v=yeetI2DfbaE
 
 ### Monarch: Legacy of Monsters — Vinestranglers on Skull Island | Apple TV [9/10]
 **Source:** Apple TV  
