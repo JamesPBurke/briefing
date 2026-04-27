@@ -54,20 +54,20 @@
 
 ## YouTube videos of interest
 
-- [We'll Finish Dokapon Kingdom, or Die Trying w/ KC, Jess, Jesse, and Marty -- Finale](https://www.youtube.com/watch?v=t5vA1afX6_Y)
-  - KC, Jess, Jesse, and Marty are going to FINALLY finish their Dokapon game that they started back in November 2024...or they'll die trying. Dokapon Kingdom Part 1 -- https://youtu.be/M6Kj0mWZYXM?t=14646 Dokapon Kingdom Part 2 -- https://www.
+- [Should Nintendo Add VRR Support To Switch 1 Games Running on Switch 2?](https://www.youtube.com/watch?v=0DmFzKNhQG8)
+  - ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+  - Watch it
+
+- [Trump rushed from White House Correspondents' Dinner after shooting incident](https://www.youtube.com/watch?v=9UFHunDRKz4)
+  - President Donald Trump and the first lady are uninjured after a shooting incident at the White House Correspondents' Dinner on Saturday in Washington, D.C., according to a statement from the U.S. Secret Service.
+  - Watch it
+
+- [Xbox 360 Launch - Every Live Arcade Game Tested!](https://www.youtube.com/watch?v=7jpm5I6u5kQ)
+  - ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/qYQxQ7gZJoE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
   - Worth watching
 
-- [U.K. Prime Minister faces growing calls to resign over his U.S. ambassador's ties to Epstein](https://www.youtube.com/watch?v=C0gjZUO0BtA)
-  - British Prime Minister Keir Starmer is facing renewed calls for his resignation over his choice for ambassador to Washington — a veteran diplomat with close ties to Jeffrey Epstein.
-  - Worth watching
-
-- [The Supreme Court case that could end digital privacy | Nina Totenberg](https://www.youtube.com/watch?v=VjdZg-Wr1qY)
-  - Police in Virginia used a technique called geofencing to tap into Google's databases to find out who was near the scene of a bank robbery in the town of Midlothian, where a robber pulled out a gun, and subsequently fled with $195,000.
-  - Worth watching
-
-- [Building a Showcase, Black Flag Returns, and More | Firelink Podcast](https://www.youtube.com/watch?v=sn0xBRpD9bw)
-  - This week on Firelink, Nick, KC, and Marty chat about what goes into building a video game showcase, Black Flag Resynced, and Xbox Game Pass getting the rare price reduction.
+- [NVIDIA's New AI Broke My Brain](https://www.youtube.com/watch?v=Xf_v62TQOx4)
+  - ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://nvlabs.github.io/GEAR-SONIC/ Our Patreon if you wish to support us: https://www.patreon.
   - Worth watching
 
 ## Trailers for upcoming movies
