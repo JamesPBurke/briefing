@@ -1,14 +1,14 @@
 # James Daily Briefing
 
-Generated: 2026-04-28T09:01:41.040271Z
+Generated: 2026-04-28T14:00:02.005592Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, CS education / AI policy. The strongest items in this run are New Report Looks to Move Beyond ‘Winners’ and ‘Losers’ in the Math Wars, Final Fantasy 7 Rebirth gets a surprise demo today, complete with progression carry-over on Xbox, Switch 2 and PC, and Trump fires independent board overseeing National Science Foundation.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are King to meet Trump off-camera amid clash fears before Charles’ Congress speech – US politics live, Xbox boss Asha Sharma hints memory costs "will impact" pricing and availability of next-gen Project Helix console, and How Early Childhood Sets the Stage for Student Success.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Overcast, 52°F (feels like 47°F), 15 mph wind, 71% humidity.
+02726 (Somerset, MA): Overcast, 53°F (feels like 47°F), 17 mph wind, 71% humidity.
 
 Forecast:
 - Tue Apr 28: high 56° / low 45°
@@ -37,7 +37,52 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. New Report Looks to Move Beyond ‘Winners’ and ‘Losers’ in the Math Wars [10/10]
+### 1. King to meet Trump off-camera amid clash fears before Charles’ Congress speech – US politics live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+State visit of UK royals continues as monarch to tell US lawmakers that ‘our countries have always found ways to come together’ Sign up for the Breaking News US email Donald Trump has reportedly signaled to his top advisers that he is…
+
+Link: https://www.theguardian.com/us-news/live/2026/apr/28/donald-trump-king-charles-melania-camilla-white-house-congress-latest-news-updates
+
+### 2. Xbox boss Asha Sharma hints memory costs "will impact" pricing and availability of next-gen Project Helix console [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Following last week's flurry of Xbox news - which included word that new Xbox boss Asha Sharma hasn't yet ruled out the return of exclusive games - Sharma has been discussing the ongoing RAM crisis , acknowledging that memory shortages…
+
+Link: https://www.eurogamer.net/xbox-boss-on-project-helix-pricing-and-availability
+
+### 3. How Early Childhood Sets the Stage for Student Success [10/10]
+**Source:** The 74  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+After spending much of her career developing and implementing policies to get young children ready for kindergarten, Jenna Conway is now focused on ensuring that students come out of their K-12 experience ready for career, college,…
+
+Link: https://www.the74million.org/zero2eight/how-early-childhood-sets-the-stage-for-student-success/
+
+### 4. Attack of the killer script kiddies [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Last August, some of the best cybersecurity teams in the business gathered in Las Vegas to demonstrate the strength of their AI bug-finding systems at DARPA's Artificial Intelligence Cyber Challenge (AIxCC).
+
+Link: https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai
+
+### 5. Google and Pentagon reportedly agree on deal for ‘any lawful’ use of AI [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Google has signed a classified deal that allows the US Department of Defense to use its AI models for "any lawful government purpose," The Information reports.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal
+
+### 6. New Report Looks to Move Beyond ‘Winners’ and ‘Losers’ in the Math Wars [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -46,25 +91,7 @@ Educators seeking to improve their schools’ math offerings should look critica
 
 Link: https://www.the74million.org/article/new-report-looks-to-move-beyond-winners-and-losers-in-the-math-wars/
 
-### 2. Final Fantasy 7 Rebirth gets a surprise demo today, complete with progression carry-over on Xbox, Switch 2 and PC [10/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Surprise! From today, 28th April, you can download a free demo for Square Enix 's Final Fantasy 7 Rebirth on both the Nintendo Switch 2 and Xbox Series X/S.
-
-Link: https://www.eurogamer.net/final-fantasy-7-remake-demo-switch-2-xbox-pc-save-data
-
-### 3. Trump fires independent board overseeing National Science Foundation [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Positions ‘terminated, effective immediately’, says email to scientists sent on president’s behalf, in move labelled ‘dangerous attack’ on US innovation The Trump administration has fired members of an independent board that oversees the…
-
-Link: https://www.theguardian.com/us-news/2026/apr/28/trump-fires-national-science-foundation-board
-
-### 4. Asian mothers, bad feelings: notes on an all-conquering stereotype [10/10]
+### 7. Asian mothers, bad feelings: notes on an all-conquering stereotype [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -73,34 +100,16 @@ A certain image of the tiger mom – strict, cold and demanding – is ubiquitou
 
 Link: https://www.theguardian.com/lifeandstyle/2026/apr/28/asian-mothers-bad-feelings-tiger-mom-stereotype
 
-### 5. ‘I don’t want to be part of a dictatorship’: the Americans queueing up to renounce their citizenship [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 8. "The people in control would be mad not to consider him" - 007 First Light actor is so "fantastic" as Bond, he should play him in the next movie, says co-star [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Severing ties with the US can take more than a year and cost thousands of dollars.
+While we still have to wait and see for ourselves just exactly how Patrick Gibson does as James Bond in IO Interactive 's upcoming origin game 007 First Light, one person already believes he is good enough to take the lead on the…
 
-Link: https://www.theguardian.com/us-news/2026/apr/28/americans-queueing-up-renounce-citizenship-dictatorship
+Link: https://www.eurogamer.net/007-first-light-patrick-gibson-james-bond-amazon-film-reboot
 
-### 6. Google is testing AI chatbot search for YouTube [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Google is trying out an AI Mode-like search experience for YouTube.
-
-Link: https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search
-
-### 7. Baby on board: US woman gives birth on Delta flight [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Paramedics on Atlanta-Portland flight help Ashley Blair give birth to ‘gorgeous’ Brielle Renee just before landing When baby Brielle Renee was born, new mom Ashley Blair was flying high – quite literally.
-
-Link: https://www.theguardian.com/us-news/2026/apr/27/delta-passenger-baby-flight
-
-### 8. Supreme Court heard case on how to label risks of popular weed killer [9/10]
+### 9. Supreme Court heard case on how to label risks of popular weed killer [9/10]
 **Source:** NPR Health  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -109,34 +118,16 @@ How the Supreme Court rules could have implications for tens of thousands of law
 
 Link: https://www.npr.org/2026/04/27/nx-s1-5793804/supreme-court-monsanto-roundup-arguments
 
-### 9. Mass Effect: Andromeda actor says the game "was done dirty" by EA and "a very toxic atmosphere" online [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-It's been over nine years since Mass Effect: Andromeda tried to kickstart a new era of BioWare's original sci-fi RPG universe, an experiment that ended with pretty poor results.
-
-Link: https://www.eurogamer.net/mass-effect-andromeda-actor-reflects-on-poor-reception
-
-### 10. Google DeepMind Paper Argues LLMs Will Never Be Conscious [9/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Philosophers said the paper’s argument is sound, but that “all these arguments have been presented years and years ago.”
-
-Link: https://www.404media.co/google-deepmind-paper-argues-llms-will-never-be-conscious/
-
-### 11. What could Florida's vaccine mandate struggles teach other states? [8/10]
+### 10. So far, Florida has failed to end vaccine mandates. Now there's a last-ditch effort [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Republicans in Florida pushed hard to drop some childhood vaccine requirements for school. But efforts petered out. What could this mean for other states considering similar moves?
+Florida Republicans have pushed hard to drop some vaccine requirements for children. But after many months, their efforts stalled out. Could this week's special legislative session get the job done?
 
-Link: https://www.npr.org/2026/04/28/nx-s1-5797910/what-could-floridas-vaccine-mandate-struggles-teach-other-states
+Link: https://www.npr.org/2026/04/28/nx-s1-5798698/florida-school-vaccine-mandates-ladapo-desantis
 
-### 12. Pompeii archaeologists use AI to reconstruct man killed in volcano's eruption [8/10]
+### 11. Pompeii archaeologists use AI to reconstruct man killed in volcano's eruption [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -144,6 +135,15 @@ Link: https://www.npr.org/2026/04/28/nx-s1-5797910/what-could-floridas-vaccine-m
 Archaeologists have used AI for the first time to digitally reconstruct the face of a man killed in the AD 79 eruption of Mount Vesuvius, offering a new way to understand one of history's most famous natural disasters.
 
 Link: https://www.npr.org/2026/04/28/g-s1-118986/pompeii-archaeologists-use-ai-to-reconstruct-man-killed-in-volcanos-eruption
+
+### 12. University Professors Disturbed to Find Their Lectures Chopped Up and Turned Into AI Slop [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+ASU Atomic, a new tool in beta at Arizona State University, takes faculty lectures and chops them into extremely short clips, that AI then attempts to turn into learning materials.
+
+Link: https://www.404media.co/asu-atomic-ai-modules-arizona-state-university/
 
 ### 13. Nicolas Cage Gets in Some Sticky Situations in the Spider-Noir Trailer(s) [8/10]
 **Source:** Reactor  
@@ -165,7 +165,7 @@ Link: https://reactormag.com/spider-noir-trailer-2/
 
 Link: https://www.youtube.com/watch?v=Xf_v62TQOx4
 
-### iPhone 17e vs. iPhone 17 Pro Max—The Real Winner Is Your Pocket [9/10]
+### The iPhone Pro Max Was a No-Brainer—Apple Just Changed That [9/10]
 **Creator:** WIRED  
 **Verdict:** Watch it  
 **Why it matters:** Relevant to your current interest graph.
@@ -173,6 +173,24 @@ Link: https://www.youtube.com/watch?v=Xf_v62TQOx4
 Is Apple’s iPhone 17e a budget-friendly alternative to their top-of-the-line model? WIRED’s Julian Chokkattu weighs in as the iPhone 17e and iPhone 17 Pro Max go head-to-head.
 
 Link: https://www.youtube.com/watch?v=BL9UE9_m-1Y
+
+### White House Correspondents' Dinner shooting suspect set to appear in federal court [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+The alleged gunman at the White House Correspondents' Dinner, where President Trump and other top administration officials were gathered, is set to make his first appearance in court today.
+
+Link: https://www.youtube.com/watch?v=DydCD2wZIO8
+
+### Fertilizer shortage in South Asia deepens due to ongoing Iran war [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Here in the U.S., Americans have felt the war in the Middle East and the shipping interruptions in the Strait of Hormuz at the gas pump. In South Asia, they are feeling it in the fields.
+
+Link: https://www.youtube.com/watch?v=1wF7f22LX1A
 
 ### Trump rushed from White House Correspondents' Dinner after shooting incident [8/10]
 **Creator:** NPR  
@@ -255,9 +273,9 @@ Link: https://www.youtube.com/watch?v=eF46su5hAZE
 
 Link: https://www.youtube.com/watch?v=xzjVYm45EGc
 
-### The Super Alloy Crush Super Show! | Hot Monday Energy [7/10]
+### The Super Alloy Crush Super Show! | Hot Monday Energy [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Hidden Gems KC, Jess, and Jesse play Super Alloy Crush -- https://store.steampowered.com/app/3092360/Super_Alloy_Crush/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.
@@ -391,15 +409,6 @@ Link: https://www.youtube.com/watch?v=LP-N5kp07gs
 SUBSCRIBE: http://bit.
 
 Link: https://www.youtube.com/watch?v=UPFnXwngSEI
-
-### The Invite | Official Trailer HD | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In theaters this July.
-
-Link: https://www.youtube.com/watch?v=OJ19I9q_hOQ
 
 ### LEVITICUS - Official Trailer - Only In Theaters June 19 [8/10]
 **Source:** NEON  

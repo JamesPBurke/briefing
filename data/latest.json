@@ -1,11 +1,61 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-28T09:01:41.040271Z",
-  "generatedAtDisplay": "2026-04-28 05:01 AM EDT",
+  "generatedAt": "2026-04-28T14:00:02.005592Z",
+  "generatedAtDisplay": "2026-04-28 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, CS education / AI policy. The strongest items in this run are New Report Looks to Move Beyond ‘Winners’ and ‘Losers’ in the Math Wars, Final Fantasy 7 Rebirth gets a surprise demo today, complete with progression carry-over on Xbox, Switch 2 and PC, and Trump fires independent board overseeing National Science Foundation.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are King to meet Trump off-camera amid clash fears before Charles’ Congress speech – US politics live, Xbox boss Asha Sharma hints memory costs \"will impact\" pricing and availability of next-gen Project Helix console, and How Early Childhood Sets the Stage for Student Success.",
   "mainItems": [
+    {
+      "title": "King to meet Trump off-camera amid clash fears before Charles’ Congress speech – US politics live",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/28/donald-trump-king-charles-melania-camilla-white-house-congress-latest-news-updates",
+      "published": "2026-04-28T13:45:58+00:00",
+      "summary": "State visit of UK royals continues as monarch to tell US lawmakers that ‘our countries have always found ways to come together’ Sign up for the Breaking News US email Donald Trump has reportedly signaled to his top advisers that he is…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Xbox boss Asha Sharma hints memory costs \"will impact\" pricing and availability of next-gen Project Helix console",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/xbox-boss-on-project-helix-pricing-and-availability",
+      "published": "2026-04-28T13:20:54+00:00",
+      "summary": "Following last week's flurry of Xbox news - which included word that new Xbox boss Asha Sharma hasn't yet ruled out the return of exclusive games - Sharma has been discussing the ongoing RAM crisis , acknowledging that memory shortages…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "How Early Childhood Sets the Stage for Student Success",
+      "source": "The 74",
+      "category": "Democracy / press freedom",
+      "url": "https://www.the74million.org/zero2eight/how-early-childhood-sets-the-stage-for-student-success/",
+      "published": "2026-04-28T12:30:00+00:00",
+      "summary": "After spending much of her career developing and implementing policies to get young children ready for kindergarten, Jenna Conway is now focused on ensuring that students come out of their K-12 experience ready for career, college,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Attack of the killer script kiddies",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
+      "published": "2026-04-28T12:29:07+00:00",
+      "summary": "Last August, some of the best cybersecurity teams in the business gathered in Las Vegas to demonstrate the strength of their AI bug-finding systems at DARPA's Artificial Intelligence Cyber Challenge (AIxCC).",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Google and Pentagon reportedly agree on deal for ‘any lawful’ use of AI",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+      "published": "2026-04-28T12:18:47+00:00",
+      "summary": "Google has signed a classified deal that allows the US Department of Defense to use its AI models for \"any lawful government purpose,\" The Information reports.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
     {
       "title": "New Report Looks to Move Beyond ‘Winners’ and ‘Losers’ in the Math Wars",
       "source": "The 74",
@@ -14,26 +64,6 @@
       "published": "2026-04-28T09:01:00+00:00",
       "summary": "Educators seeking to improve their schools’ math offerings should look critically at state and other recommendations to determine what works — and what doesn’t — inside their own classrooms, according to a new report from the Center on…",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Final Fantasy 7 Rebirth gets a surprise demo today, complete with progression carry-over on Xbox, Switch 2 and PC",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/final-fantasy-7-remake-demo-switch-2-xbox-pc-save-data",
-      "published": "2026-04-28T08:51:29+00:00",
-      "summary": "Surprise! From today, 28th April, you can download a free demo for Square Enix 's Final Fantasy 7 Rebirth on both the Nintendo Switch 2 and Xbox Series X/S.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump fires independent board overseeing National Science Foundation",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/28/trump-fires-national-science-foundation-board",
-      "published": "2026-04-28T05:29:49+00:00",
-      "summary": "Positions ‘terminated, effective immediately’, says email to scientists sent on president’s behalf, in move labelled ‘dangerous attack’ on US innovation The Trump administration has fired members of an independent board that oversees the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -47,33 +77,13 @@
       "score": 10
     },
     {
-      "title": "‘I don’t want to be part of a dictatorship’: the Americans queueing up to renounce their citizenship",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/28/americans-queueing-up-renounce-citizenship-dictatorship",
-      "published": "2026-04-28T04:00:39+00:00",
-      "summary": "Severing ties with the US can take more than a year and cost thousands of dollars.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Google is testing AI chatbot search for YouTube",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
-      "published": "2026-04-28T02:11:45+00:00",
-      "summary": "Google is trying out an AI Mode-like search experience for YouTube.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Baby on board: US woman gives birth on Delta flight",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/apr/27/delta-passenger-baby-flight",
-      "published": "2026-04-28T00:58:44+00:00",
-      "summary": "Paramedics on Atlanta-Portland flight help Ashley Blair give birth to ‘gorgeous’ Brielle Renee just before landing When baby Brielle Renee was born, new mom Ashley Blair was flying high – quite literally.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "\"The people in control would be mad not to consider him\" - 007 First Light actor is so \"fantastic\" as Bond, he should play him in the next movie, says co-star",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/007-first-light-patrick-gibson-james-bond-amazon-film-reboot",
+      "published": "2026-04-28T11:54:51+00:00",
+      "summary": "While we still have to wait and see for ourselves just exactly how Patrick Gibson does as James Bond in IO Interactive 's upcoming origin game 007 First Light, one person already believes he is good enough to take the lead on the…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -87,32 +97,12 @@
       "score": 9
     },
     {
-      "title": "Mass Effect: Andromeda actor says the game \"was done dirty\" by EA and \"a very toxic atmosphere\" online",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/mass-effect-andromeda-actor-reflects-on-poor-reception",
-      "published": "2026-04-27T14:48:53+00:00",
-      "summary": "It's been over nine years since Mass Effect: Andromeda tried to kickstart a new era of BioWare's original sci-fi RPG universe, an experiment that ended with pretty poor results.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Google DeepMind Paper Argues LLMs Will Never Be Conscious",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/google-deepmind-paper-argues-llms-will-never-be-conscious/",
-      "published": "2026-04-27T13:54:36+00:00",
-      "summary": "Philosophers said the paper’s argument is sound, but that “all these arguments have been presented years and years ago.”",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "What could Florida's vaccine mandate struggles teach other states?",
+      "title": "So far, Florida has failed to end vaccine mandates. Now there's a last-ditch effort",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/28/nx-s1-5797910/what-could-floridas-vaccine-mandate-struggles-teach-other-states",
-      "published": "2026-04-28T08:11:15+00:00",
-      "summary": "Republicans in Florida pushed hard to drop some childhood vaccine requirements for school. But efforts petered out. What could this mean for other states considering similar moves?",
+      "url": "https://www.npr.org/2026/04/28/nx-s1-5798698/florida-school-vaccine-mandates-ladapo-desantis",
+      "published": "2026-04-28T09:00:00+00:00",
+      "summary": "Florida Republicans have pushed hard to drop some vaccine requirements for children. But after many months, their efforts stalled out. Could this week's special legislative session get the job done?",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -124,6 +114,16 @@
       "published": "2026-04-28T05:20:05+00:00",
       "summary": "Archaeologists have used AI for the first time to digitally reconstruct the face of a man killed in the AD 79 eruption of Mount Vesuvius, offering a new way to understand one of history's most famous natural disasters.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
+    },
+    {
+      "title": "University Professors Disturbed to Find Their Lectures Chopped Up and Turned Into AI Slop",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/asu-atomic-ai-modules-arizona-state-university/",
+      "published": "2026-04-27T22:29:33+00:00",
+      "summary": "ASU Atomic, a new tool in beta at Arizona State University, takes faculty lectures and chops them into extremely short clips, that AI then attempts to turn into learning materials.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -150,7 +150,7 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "iPhone 17e vs. iPhone 17 Pro Max—The Real Winner Is Your Pocket",
+      "title": "The iPhone Pro Max Was a No-Brainer—Apple Just Changed That",
       "source": "WIRED",
       "category": "Tech / media",
       "url": "https://www.youtube.com/watch?v=BL9UE9_m-1Y",
@@ -159,6 +159,28 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Watch it"
+    },
+    {
+      "title": "White House Correspondents' Dinner shooting suspect set to appear in federal court",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=DydCD2wZIO8",
+      "published": "2026-04-28T13:45:05+00:00",
+      "summary": "The alleged gunman at the White House Correspondents' Dinner, where President Trump and other top administration officials were gathered, is set to make his first appearance in court today.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Fertilizer shortage in South Asia deepens due to ongoing Iran war",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=1wF7f22LX1A",
+      "published": "2026-04-28T13:45:01+00:00",
+      "summary": "Here in the U.S., Americans have felt the war in the Middle East and the shipping interruptions in the Strait of Hormuz at the gas pump. In South Asia, they are feeling it in the fields.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Trump rushed from White House Correspondents' Dinner after shooting incident",
@@ -267,8 +289,8 @@
       "published": "2026-04-28T01:16:01+00:00",
       "summary": "This week on Hidden Gems KC, Jess, and Jesse play Super Alloy Crush -- https://store.steampowered.com/app/3092360/Super_Alloy_Crush/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Let's All Have a Good Cry | Windbreaker Podcast",
@@ -389,17 +411,6 @@
       "url": "https://www.youtube.com/watch?v=UPFnXwngSEI",
       "published": "2026-04-07T17:12:13+00:00",
       "summary": "SUBSCRIBE: http://bit.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Invite | Official Trailer HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=OJ19I9q_hOQ",
-      "published": "2026-04-07T13:00:00+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In theaters this July.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 8,
       "verdict": "Looks promising"
@@ -741,9 +752,9 @@
   "weather": {
     "location": "02726 (Somerset, MA)",
     "desc": "Overcast",
-    "temp": "52",
+    "temp": "53",
     "feels": "47",
-    "wind": "15",
+    "wind": "17",
     "humidity": "71",
     "days": [
       {
@@ -765,8 +776,8 @@
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 16,
-    "trailerCount": 29,
+    "youtubeCount": 18,
+    "trailerCount": 28,
     "sourceCount": 21
   }
 }
