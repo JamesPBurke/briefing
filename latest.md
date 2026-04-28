@@ -1,19 +1,19 @@
 # James Daily Briefing
 
-Generated: 2026-04-28T05:00:02.064822Z
+Generated: 2026-04-28T09:01:41.040271Z
 
-Today's sweep leans toward AI / computing, Democracy / press freedom, CS education / AI policy. The strongest items in this run are Google is testing AI chatbot search for YouTube, Valve’s new Steam Controller isn’t perfect, but I’m buying one anyway, and OpenAI ends its exclusive partnership with Microsoft.
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, CS education / AI policy. The strongest items in this run are New Report Looks to Move Beyond ‘Winners’ and ‘Losers’ in the Math Wars, Final Fantasy 7 Rebirth gets a surprise demo today, complete with progression carry-over on Xbox, Switch 2 and PC, and Trump fires independent board overseeing National Science Foundation.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Partly cloudy, 50°F (feels like 45°F), 15 mph wind, 76% humidity.
+02726 (Somerset, MA): Overcast, 52°F (feels like 47°F), 15 mph wind, 71% humidity.
 
 Forecast:
-- Tue Apr 28: high 55° / low 45°
-- Wed Apr 29: high 60° / low 44°
-- Thu Apr 30: high 60° / low 47°
+- Tue Apr 28: high 56° / low 45°
+- Wed Apr 29: high 62° / low 45°
+- Thu Apr 30: high 59° / low 52°
 
 ## Highlighted stories
 
@@ -37,7 +37,52 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. Google is testing AI chatbot search for YouTube [10/10]
+### 1. New Report Looks to Move Beyond ‘Winners’ and ‘Losers’ in the Math Wars [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Educators seeking to improve their schools’ math offerings should look critically at state and other recommendations to determine what works — and what doesn’t — inside their own classrooms, according to a new report from the Center on…
+
+Link: https://www.the74million.org/article/new-report-looks-to-move-beyond-winners-and-losers-in-the-math-wars/
+
+### 2. Final Fantasy 7 Rebirth gets a surprise demo today, complete with progression carry-over on Xbox, Switch 2 and PC [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Surprise! From today, 28th April, you can download a free demo for Square Enix 's Final Fantasy 7 Rebirth on both the Nintendo Switch 2 and Xbox Series X/S.
+
+Link: https://www.eurogamer.net/final-fantasy-7-remake-demo-switch-2-xbox-pc-save-data
+
+### 3. Trump fires independent board overseeing National Science Foundation [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Positions ‘terminated, effective immediately’, says email to scientists sent on president’s behalf, in move labelled ‘dangerous attack’ on US innovation The Trump administration has fired members of an independent board that oversees the…
+
+Link: https://www.theguardian.com/us-news/2026/apr/28/trump-fires-national-science-foundation-board
+
+### 4. Asian mothers, bad feelings: notes on an all-conquering stereotype [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+A certain image of the tiger mom – strict, cold and demanding – is ubiquitous in popular culture. Why? In January 2011, the English-speaking world was introduced to a new kind of villain.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/apr/28/asian-mothers-bad-feelings-tiger-mom-stereotype
+
+### 5. ‘I don’t want to be part of a dictatorship’: the Americans queueing up to renounce their citizenship [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Severing ties with the US can take more than a year and cost thousands of dollars.
+
+Link: https://www.theguardian.com/us-news/2026/apr/28/americans-queueing-up-renounce-citizenship-dictatorship
+
+### 6. Google is testing AI chatbot search for YouTube [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -46,43 +91,7 @@ Google is trying out an AI Mode-like search experience for YouTube.
 
 Link: https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search
 
-### 2. Valve’s new Steam Controller isn’t perfect, but I’m buying one anyway [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-After my brief hands-on last year with Valve's new Steam Controller, I said it might be my dream controller.
-
-Link: https://www.theverge.com/games/918610/valve-steam-controller-review
-
-### 3. OpenAI ends its exclusive partnership with Microsoft [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Amended agreement clears the way for OpenAI models to run on Amazon Bedrock.
-
-Link: https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/
-
-### 4. Google employees ask Sundar Pichai to say no to classified military AI use [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter
-
-### 5. Man charged with killing Florida doctoral students allegedly consulted ChatGPT [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Hisham Abugharbieh has been charged in the deaths of his roommate and his roommate’s girlfriend Sign up for the Breaking News US email to get newsletter alerts in your inbox The man charged with killing two University of South Florida…
-
-Link: https://www.theguardian.com/us-news/2026/apr/27/man-charged-killing-florida-doctoral-students-chatgpt
-
-### 6. Baby on board: US woman gives birth on Delta flight [9/10]
+### 7. Baby on board: US woman gives birth on Delta flight [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -91,16 +100,16 @@ Paramedics on Atlanta-Portland flight help Ashley Blair give birth to ‘gorgeou
 
 Link: https://www.theguardian.com/us-news/2026/apr/27/delta-passenger-baby-flight
 
-### 7. US supreme court weighs blocking lawsuits against Roundup makers alleging weedkiller causes cancer [9/10]
-**Source:** The Guardian US  
+### 8. Supreme Court heard case on how to label risks of popular weed killer [9/10]
+**Source:** NPR Health  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Case centers on glyphosate, pesticide used in Roundup and other products that has been linked to cancer in some studies Members of the US supreme court peppered lawyers for the former Monsanto Company with a barrage of questions over…
+How the Supreme Court rules could have implications for tens of thousands of lawsuits against Roundup maker Monsanto, which is now owned by Bayer.
 
-Link: https://www.theguardian.com/us-news/2026/apr/27/supreme-court-pesticides-case
+Link: https://www.npr.org/2026/04/27/nx-s1-5793804/supreme-court-monsanto-roundup-arguments
 
-### 8. Mass Effect: Andromeda actor says the game "was done dirty" by EA and "a very toxic atmosphere" online [9/10]
+### 9. Mass Effect: Andromeda actor says the game "was done dirty" by EA and "a very toxic atmosphere" online [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -108,15 +117,6 @@ Link: https://www.theguardian.com/us-news/2026/apr/27/supreme-court-pesticides-c
 It's been over nine years since Mass Effect: Andromeda tried to kickstart a new era of BioWare's original sci-fi RPG universe, an experiment that ended with pretty poor results.
 
 Link: https://www.eurogamer.net/mass-effect-andromeda-actor-reflects-on-poor-reception
-
-### 9. Opinion: The Trump Administration Says Literacy Matters. Its Budget Plan Says Otherwise [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Two months after Donald Trump swore in Linda McMahon as secretary of education, she named “evidence-based literacy” as one of the administration’s top three priorities.
-
-Link: https://www.the74million.org/article/the-trump-administration-says-literacy-matters-its-budget-plan-says-otherwise/
 
 ### 10. Google DeepMind Paper Argues LLMs Will Never Be Conscious [9/10]
 **Source:** 404 Media  
@@ -127,32 +127,32 @@ Philosophers said the paper’s argument is sound, but that “all these argumen
 
 Link: https://www.404media.co/google-deepmind-paper-argues-llms-will-never-be-conscious/
 
-### 11. Musk vs. Altman: Tech CEOs head to court over the fate of OpenAI [9/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-The former OpenAI business partners are embroiled in a high-stakes dispute over the future of one of the world's top AI companies.
-
-Link: https://www.npr.org/2026/04/27/nx-s1-5795661/trial-openai-elon-musk-sam-altman
-
-### 12. Mother Mary Might Just Be the Experience You’re Waiting For [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Is… is this what it feels like to be the invisible default? The post Mother Mary Might Just Be the Experience You’re Waiting For appeared first on Reactor .
-
-Link: https://reactormag.com/movie-review-mother-mary-might-just-be-the-experience-youre-waiting-for/
-
-### 13. South Carolina's measles outbreak is over. But more are brewing around the country [7/10]
+### 11. What could Florida's vaccine mandate struggles teach other states? [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-The virus infected nearly 1,000 people in the state before the state declared it over. Meanwhile, cases are spreading across many parts of the U.S., with more than 20 outbreaks currently active.
+Republicans in Florida pushed hard to drop some childhood vaccine requirements for school. But efforts petered out. What could this mean for other states considering similar moves?
 
-Link: https://www.npr.org/2026/04/27/nx-s1-5801665/south-carolina-measles-outbreak-vaccination
+Link: https://www.npr.org/2026/04/28/nx-s1-5797910/what-could-floridas-vaccine-mandate-struggles-teach-other-states
+
+### 12. Pompeii archaeologists use AI to reconstruct man killed in volcano's eruption [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Archaeologists have used AI for the first time to digitally reconstruct the face of a man killed in the AD 79 eruption of Mount Vesuvius, offering a new way to understand one of history's most famous natural disasters.
+
+Link: https://www.npr.org/2026/04/28/g-s1-118986/pompeii-archaeologists-use-ai-to-reconstruct-man-killed-in-volcanos-eruption
+
+### 13. Nicolas Cage Gets in Some Sticky Situations in the Spider-Noir Trailer(s) [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Spider-noir, spider-noir / does whatever a spider's for The post Nicolas Cage Gets in Some Sticky Situations in the Spider-Noir Trailer(s) appeared first on Reactor .
+
+Link: https://reactormag.com/spider-noir-trailer-2/
 
 ## YouTube
 
@@ -164,6 +164,141 @@ Link: https://www.npr.org/2026/04/27/nx-s1-5801665/south-carolina-measles-outbre
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://nvlabs.github.io/GEAR-SONIC/ Our Patreon if you wish to support us: https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=Xf_v62TQOx4
+
+### iPhone 17e vs. iPhone 17 Pro Max—The Real Winner Is Your Pocket [9/10]
+**Creator:** WIRED  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Is Apple’s iPhone 17e a budget-friendly alternative to their top-of-the-line model? WIRED’s Julian Chokkattu weighs in as the iPhone 17e and iPhone 17 Pro Max go head-to-head.
+
+Link: https://www.youtube.com/watch?v=BL9UE9_m-1Y
+
+### Trump rushed from White House Correspondents' Dinner after shooting incident [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+President Donald Trump and the first lady are uninjured after a shooting incident at the White House Correspondents' Dinner on Saturday in Washington, D.C., according to a statement from the U.S. Secret Service.
+
+Link: https://www.youtube.com/watch?v=9UFHunDRKz4
+
+### In Steven Soderbergh's 'The Christophers,' an aging artist meets his match [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Watching 86-year-old Ian McKellen go up and down the stairs in 'The Christophers,' may have tired NPR critic Bob Mondello out, but that won't stop him from running back to watch it again. Tap the link in our bio for the full movie review.
+
+Link: https://www.youtube.com/watch?v=9iGioxSD5ig
+
+### NASA readies major new space telescope for launch [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+NASA is continuing preparations for the launch of a major space telescope. It’s being shipped to the Kennedy Space Center in Florida ahead of September’s scheduled launch date.
+
+Link: https://www.youtube.com/watch?v=8jooD7wj2Rc
+
+### Should Capcom Add 30fps/40fps Caps To Its Switch 2 Games? [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=vOdvolrDrbw
+
+### Guerrilla PICO Is Great - Why Don't More Devs Create Their Own Upscalers? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=1py4ZZv8kSg
+
+### Xbox 360 Launch - Every Live Arcade Game Tested! [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/qYQxQ7gZJoE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=7jpm5I6u5kQ
+
+### Should Nintendo Add VRR Support To Switch 1 Games Running on Switch 2? [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=0DmFzKNhQG8
+
+### Should Next-Gen "Cheap" PS6 Be A Cloud-Based System? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=eF46su5hAZE
+
+### Saros PS5 vs PS5 Pro Comparison: Image Quality + Performance [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/qYQxQ7gZJoE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=xzjVYm45EGc
+
+### The Super Alloy Crush Super Show! | Hot Monday Energy [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Hidden Gems KC, Jess, and Jesse play Super Alloy Crush -- https://store.steampowered.com/app/3092360/Super_Alloy_Crush/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=hgOzPNkm8DE
+
+### Let's All Have a Good Cry | Windbreaker Podcast [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty want to expand on the topic of games that have made us cry, which Yahtzee covered in his most recent Semi-Ramblomatic.
+
+Link: https://www.youtube.com/watch?v=y0V0X_Sj7XA
+
+### Why Are Some Games So Horrifically Addictive? | Design Delve [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
+
+Link: https://www.youtube.com/watch?v=JVZmxVDzkjk
+
+### We'll Finish Dokapon Kingdom, or Die Trying w/ KC, Jess, Jesse, and Marty -- Finale [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+KC, Jess, Jesse, and Marty are going to FINALLY finish their Dokapon game that they started back in November 2024...or they'll die trying. Dokapon Kingdom Part 1 -- https://youtu.be/M6Kj0mWZYXM?t=14646 Dokapon Kingdom Part 2 -- https://www.
+
+Link: https://www.youtube.com/watch?v=t5vA1afX6_Y
+
+### Adventure Is Nigh!: The Slow Walk Home | Season 5 Trailer [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Swarms of coin mimics skitter through vaults, marketplaces, and pockets alike, devouring every piece of gold they can.
+
+Link: https://www.youtube.com/watch?v=NG9StzGt7ks
 
 ## Entertainment Recommendations
 
@@ -193,6 +328,150 @@ Link: https://www.youtube.com/watch?v=Xf_v62TQOx4
 - **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
 
 ## Trailers / Previews
+
+### The Best of Marty And Doc's Friendship | Back to the Future Trilogy [8/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Marty McFly (Michael J. Fox) and Doc Brown (Christopher Lloyd) share the ultimate bond as they navigate the dangers of time travel across decades.
+
+Link: https://www.youtube.com/watch?v=i8NF-WsZMdg
+
+### INSIDIOUS: OUT OF THE FURTHER - Official Trailer (4K) [9/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The Further comes for our world. Watch the official trailer for #Insidious: Out Of The Further - exclusively in theatres this August. Follow us on social: https://www.instagram.com/InsidiousMovie https://twitter.
+
+Link: https://www.youtube.com/watch?v=jxU8FU3o75A
+
+### BEEF | Behind the Score with Composer Finneas O’Connell | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe Listen to the soundtrack: https://a24music.lnk.
+
+Link: https://www.youtube.com/watch?v=7G5073lagSE
+
+### Mother Mary | Final Trailer | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.
+
+Link: https://www.youtube.com/watch?v=aqYHOsuje1E
+
+### Oscar Isaac & Ali Wong | The A24 Podcast [9/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe Endless Grasping with Ali Wong & Oscar Isaac A brief but brilliant ceremonial passing of the Beef baton between Season 1 star Ali Wong and Season 2 star Oscar Isaac.
+
+Link: https://www.youtube.com/watch?v=BF1mmlkXSYA
+
+### Mother Mary | Official First Look | A24 [7/10]
+**Source:** A24  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.
+
+Link: https://www.youtube.com/watch?v=LP-N5kp07gs
+
+### Oscar Isaac, Carey Mulligan & Lee Sung Jin | A24 x Letterboxd: The List [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.
+
+Link: https://www.youtube.com/watch?v=UPFnXwngSEI
+
+### The Invite | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In theaters this July.
+
+Link: https://www.youtube.com/watch?v=OJ19I9q_hOQ
+
+### LEVITICUS - Official Trailer - Only In Theaters June 19 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Two teenage boys must escape a violent entity that takes the form of the person they desire most—each other.
+
+Link: https://www.youtube.com/watch?v=WXuK0vlFxII
+
+### HOKUM - Final Trailer - Only In Theaters May 1 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+When novelist Ohm Bauman retreats to a remote inn to scatter his parents’ ashes, he is consumed by tales of a witch haunting the honeymoon suite.
+
+Link: https://www.youtube.com/watch?v=qU_i5e48KzQ
+
+### EXIT 8 - Final Trailer - In Select Theaters April 10 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Based on the global hit eponymous video game created by KOTAKE CREATE. A man trapped in an endless sterile subway passageway sets out to find Exit 8. The rules of his quest are simple: do not overlook anything out of the ordinary.
+
+Link: https://www.youtube.com/watch?v=zzEDWwhtAHc
+
+### DOLLY | Official Trailer | Shudder [10/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Streaming on Shudder April 24. Macy fights for survival after being abducted by a deranged, monster-like figure who wants to raise her as their child.
+
+Link: https://www.youtube.com/watch?v=3dedZM6xc4c
+
+### Worst Ex Ever Season 2 | Official Trailer [10/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Are they "the one" or just the one you were warned about? Worst Ex Ever returns to Netflix on May 6 for Season 2 with true, harrowing tales of monstrous relationships and unhinged exes.
+
+Link: https://www.youtube.com/watch?v=_iKN26hplWY
+
+### Insidious: Out Of The Further | Official Trailer [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The Further comes for our world.
+
+Link: https://www.youtube.com/watch?v=3PqqwEyV_Lw
+
+### The Witness | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The only witness to a brutal murder, two year old Alex and his father Andrè must search for peace, healing and justice in the face of press scrutiny and police failures. Based on a true story.
+
+Link: https://www.youtube.com/watch?v=3iKFLt9gjAU
+
+### The Murder of Rachel Nickell | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A young mother is killed in broad daylight on London's Wimbledon Common — in front of her toddler. This documentary examines the yearslong murder case. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=Vj5uaeZTKRM
 
 ### Soul Mate | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
@@ -284,20 +563,29 @@ From chilling betrayals to murder plots, this true-crime documentary series diss
 
 Link: https://www.youtube.com/watch?v=6nrk0bGttMU
 
-### Devil May Cry: Season 2 | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
+### Monarch: Legacy of Monsters — Vinestranglers on Skull Island | Apple TV [9/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-Team Dante. Team Vergil. One way ticket to Hell. See you May 12. From Capcom, led by Adi Shankar, and animated by Studio Mir comes Devil May Cry 2 - a Netflix animated series based on the hit video game franchise.
+Skull Island is a hostile place where even a nondescript vine is not as it seems. The Vinestrangler scene from "Ends of the Earth." Monarch: Legacy of Monsters Season 2 is now streaming on Apple TV https://apple.
 
-Link: https://www.youtube.com/watch?v=Jpie-fec5qY
+Link: https://www.youtube.com/watch?v=k2bHkwWPAas
 
-### You will never guess the events that unfolded after this, Roommates is now playing [9/10]
-**Source:** Netflix  
+### Monarch: Legacy of Monsters — Godzilla Chases Titan X to Skull Island | Apple TV [9/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-You will never guess the events that unfolded after this, Roommates is now playing on Netflix Watch on Netflix: https://www.netflix.
+He doesn't want to kill her — he just needs her back where she's meant to be. The opening scene of "Ends of the Earth." Monarch: Legacy of Monsters Season 2 is now streaming on Apple TV https://apple.
 
-Link: https://www.youtube.com/watch?v=B99SWy7Wtds
+Link: https://www.youtube.com/watch?v=vXYPYt79Bcc
+
+### Star City — Official Trailer | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+In the race for glory, every secret has gravity. Star City premieres May 29 on Apple TV https://apple.
+
+Link: https://www.youtube.com/watch?v=V-yAMs307W4
