@@ -1,100 +1,120 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-28T14:00:02.005592Z",
-  "generatedAtDisplay": "2026-04-28 10:00 AM EDT",
+  "generatedAt": "2026-04-29T05:00:01.607335Z",
+  "generatedAtDisplay": "2026-04-29 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are King to meet Trump off-camera amid clash fears before Charles’ Congress speech – US politics live, Xbox boss Asha Sharma hints memory costs \"will impact\" pricing and availability of next-gen Project Helix console, and How Early Childhood Sets the Stage for Student Success.",
+  "summary": "Today's sweep leans toward AI / privacy, Democracy / press freedom, Education / pedagogy. The strongest items in this run are Judge thwarts Trump administration’s attempt to access Arizona voter rolls, Trump news at a glance: president’s justice department sets sights on James Comey (again), and Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI.",
   "mainItems": [
     {
-      "title": "King to meet Trump off-camera amid clash fears before Charles’ Congress speech – US politics live",
+      "title": "Judge thwarts Trump administration’s attempt to access Arizona voter rolls",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/live/2026/apr/28/donald-trump-king-charles-melania-camilla-white-house-congress-latest-news-updates",
-      "published": "2026-04-28T13:45:58+00:00",
-      "summary": "State visit of UK royals continues as monarch to tell US lawmakers that ‘our countries have always found ways to come together’ Sign up for the Breaking News US email Donald Trump has reportedly signaled to his top advisers that he is…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/apr/28/arizona-voter-rolls-trump-administration",
+      "published": "2026-04-29T01:27:29+00:00",
+      "summary": "Justice department’s lawsuit dismissed in latest setback for government’s effort to amass information before midterms Sign up for the Breaking News US email to get newsletter alerts in your inbox An attempt by the Trump administration to…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Xbox boss Asha Sharma hints memory costs \"will impact\" pricing and availability of next-gen Project Helix console",
-      "source": "Eurogamer",
+      "title": "Trump news at a glance: president’s justice department sets sights on James Comey (again)",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/xbox-boss-on-project-helix-pricing-and-availability",
-      "published": "2026-04-28T13:20:54+00:00",
-      "summary": "Following last week's flurry of Xbox news - which included word that new Xbox boss Asha Sharma hasn't yet ruled out the return of exclusive games - Sharma has been discussing the ongoing RAM crisis , acknowledging that memory shortages…",
+      "url": "https://www.theguardian.com/us-news/2026/apr/28/trump-news-latest-updates-today",
+      "published": "2026-04-29T01:00:40+00:00",
+      "summary": "New indictment marks latest instance in which Trump’s justice department has used its power to target president’s political enemies – key US politics stories from 28 April 2026 at a glance The justice department filed new criminal charges…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "How Early Childhood Sets the Stage for Student Success",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/zero2eight/how-early-childhood-sets-the-stage-for-student-success/",
-      "published": "2026-04-28T12:30:00+00:00",
-      "summary": "After spending much of her career developing and implementing policies to get young children ready for kindergarten, Jenna Conway is now focused on ensuring that students come out of their K-12 experience ready for career, college,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Attack of the killer script kiddies",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
       "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
-      "published": "2026-04-28T12:29:07+00:00",
-      "summary": "Last August, some of the best cybersecurity teams in the business gathered in Las Vegas to demonstrate the strength of their AI bug-finding systems at DARPA's Artificial Intelligence Cyber Challenge (AIxCC).",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "published": "2026-04-29T00:15:08+00:00",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Google and Pentagon reportedly agree on deal for ‘any lawful’ use of AI",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
-      "published": "2026-04-28T12:18:47+00:00",
-      "summary": "Google has signed a classified deal that allows the US Department of Defense to use its AI models for \"any lawful government purpose,\" The Information reports.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "New Report Looks to Move Beyond ‘Winners’ and ‘Losers’ in the Math Wars",
-      "source": "The 74",
+      "title": "Linda McMahon punches back at senators questioning Education Department cuts",
+      "source": "NPR Education",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/new-report-looks-to-move-beyond-winners-and-losers-in-the-math-wars/",
-      "published": "2026-04-28T09:01:00+00:00",
-      "summary": "Educators seeking to improve their schools’ math offerings should look critically at state and other recommendations to determine what works — and what doesn’t — inside their own classrooms, according to a new report from the Center on…",
+      "url": "https://www.npr.org/2026/04/28/nx-s1-5802968/education-secretary-linda-mcmahon-senate-hearing",
+      "published": "2026-04-28T22:18:15+00:00",
+      "summary": "In her first appearance on Capitol Hill this year, lawmakers questioned Education Secretary Linda McMahon about students' civil rights and cuts to federal education spending.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
-      "title": "Asian mothers, bad feelings: notes on an all-conquering stereotype",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/28/asian-mothers-bad-feelings-tiger-mom-stereotype",
-      "published": "2026-04-28T04:00:40+00:00",
-      "summary": "A certain image of the tiger mom – strict, cold and demanding – is ubiquitous in popular culture. Why? In January 2011, the English-speaking world was introduced to a new kind of villain.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "title": "As school choice expands in Iowa, one district is in a crisis from losing students",
+      "source": "NPR Education",
+      "category": "Democracy / press freedom",
+      "url": "https://www.npr.org/2026/04/28/nx-s1-5793881/as-school-choice-expands-in-iowa-one-district-is-in-a-crisis-from-losing-students",
+      "published": "2026-04-28T21:18:20+00:00",
+      "summary": "With school choice programs ascendant not just in Iowa but across the U.S., Cedar Rapids offers a preview of who wins and who loses when education meets the free market.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "\"The people in control would be mad not to consider him\" - 007 First Light actor is so \"fantastic\" as Bond, he should play him in the next movie, says co-star",
-      "source": "Eurogamer",
+      "title": "I tried the first sub-two-hour marathon shoes. Could they help get my running back on track?",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/28/adidas-adizero-adios-pro-evo-3-super-shoes-sub-two-marathon-running",
+      "published": "2026-04-28T13:57:09+00:00",
+      "summary": "Two world records were broken in the Adidas super shoes last weekend and the public can soon get their hands on a limited release.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Elon Musk tells the jury that all he wants to do is save humanity",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
+      "published": "2026-04-29T01:23:37+00:00",
+      "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going through his background.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Solve a murder mystery by flying people around on your giant crane in the Disco Elysium and Chinese folktale inspired The Crane Rider's Tale",
+      "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/007-first-light-patrick-gibson-james-bond-amazon-film-reboot",
-      "published": "2026-04-28T11:54:51+00:00",
-      "summary": "While we still have to wait and see for ourselves just exactly how Patrick Gibson does as James Bond in IO Interactive 's upcoming origin game 007 First Light, one person already believes he is good enough to take the lead on the…",
+      "url": "https://www.rockpapershotgun.com/solve-a-murder-mystery-by-flying-people-around-on-your-giant-crane-in-the-disco-elysium-and-chinese-folktale-inspired-the-crane-riders-tale",
+      "published": "2026-04-28T21:54:22+00:00",
+      "summary": "Nothing will put me on to a game quicker than having a concept so laser-focused on the thing it's trying to do, and, seemingly, doing it well.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "Supreme Court heard case on how to label risks of popular weed killer",
-      "source": "NPR Health",
-      "category": "AI / privacy",
-      "url": "https://www.npr.org/2026/04/27/nx-s1-5793804/supreme-court-monsanto-roundup-arguments",
-      "published": "2026-04-27T20:48:12+00:00",
-      "summary": "How the Supreme Court rules could have implications for tens of thousands of lawsuits against Roundup maker Monsanto, which is now owned by Bayer.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "title": "Elon Musk testifies against OpenAI, seeking Sam Altman's ouster",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/04/28/nx-s1-5801438/musk-altman-openai-trial-opening-statements",
+      "published": "2026-04-28T18:42:06+00:00",
+      "summary": "Musk's lawyers say OpenAI leaders \"stole a charity\" and Musk warns about the potential dangers of AI: \"We don't want to have a Terminator outcome.\"",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 9
+    },
+    {
+      "title": "Hawaii Teacher’s Mission: Launching Students Into Space Careers",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/hawaii-teachers-mission-launching-students-into-space-careers/",
+      "published": "2026-04-28T14:51:06+00:00",
+      "summary": "Hawaii Teacher’s Mission: Launching Students Into Space Careers",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 9
+    },
+    {
+      "title": "Scientists Investigated a Frequency Linked to ‘Paranormal’ Encounters. The Results Were Unsettling.",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/scientists-investigated-a-frequency-linked-to-paranormal-encounters-the-results-were-unsettling/",
+      "published": "2026-04-28T17:19:29+00:00",
+      "summary": "Humans can’t hear low-frequency “infrasound,” but a new study demonstrates that it raises our stress levels and triggers an “unsettling” feeling that could be linked to people’s experiences in haunted locations.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "So far, Florida has failed to end vaccine mandates. Now there's a last-ditch effort",
@@ -107,236 +127,17 @@
       "score": 8
     },
     {
-      "title": "Pompeii archaeologists use AI to reconstruct man killed in volcano's eruption",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/04/28/g-s1-118986/pompeii-archaeologists-use-ai-to-reconstruct-man-killed-in-volcanos-eruption",
-      "published": "2026-04-28T05:20:05+00:00",
-      "summary": "Archaeologists have used AI for the first time to digitally reconstruct the face of a man killed in the AD 79 eruption of Mount Vesuvius, offering a new way to understand one of history's most famous natural disasters.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "University Professors Disturbed to Find Their Lectures Chopped Up and Turned Into AI Slop",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/asu-atomic-ai-modules-arizona-state-university/",
-      "published": "2026-04-27T22:29:33+00:00",
-      "summary": "ASU Atomic, a new tool in beta at Arizona State University, takes faculty lectures and chops them into extremely short clips, that AI then attempts to turn into learning materials.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Nicolas Cage Gets in Some Sticky Situations in the Spider-Noir Trailer(s)",
+      "title": "Houston, We Have A Problem: Cameron Johnston’s First Mage on the Moon",
       "source": "Reactor",
       "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/spider-noir-trailer-2/",
-      "published": "2026-04-27T16:44:06+00:00",
-      "summary": "Spider-noir, spider-noir / does whatever a spider's for The post Nicolas Cage Gets in Some Sticky Situations in the Spider-Noir Trailer(s) appeared first on Reactor .",
+      "url": "https://reactormag.com/book-review-first-mage-on-the-moon-by-cameron-johnston/",
+      "published": "2026-04-28T18:00:00+00:00",
+      "summary": "Sasha Bonkowsky reviews the science fantasy novel from Cameron Johnston The post Houston, We Have A Problem: Cameron Johnston’s First Mage on the Moon appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
+      "score": 7
     }
   ],
-  "youtube": [
-    {
-      "title": "NVIDIA's New AI Broke My Brain",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=Xf_v62TQOx4",
-      "published": "2026-04-25T17:09:47+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://nvlabs.github.io/GEAR-SONIC/ Our Patreon if you wish to support us: https://www.patreon.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "The iPhone Pro Max Was a No-Brainer—Apple Just Changed That",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=BL9UE9_m-1Y",
-      "published": "2026-04-27T16:00:01+00:00",
-      "summary": "Is Apple’s iPhone 17e a budget-friendly alternative to their top-of-the-line model? WIRED’s Julian Chokkattu weighs in as the iPhone 17e and iPhone 17 Pro Max go head-to-head.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "White House Correspondents' Dinner shooting suspect set to appear in federal court",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=DydCD2wZIO8",
-      "published": "2026-04-28T13:45:05+00:00",
-      "summary": "The alleged gunman at the White House Correspondents' Dinner, where President Trump and other top administration officials were gathered, is set to make his first appearance in court today.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Fertilizer shortage in South Asia deepens due to ongoing Iran war",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=1wF7f22LX1A",
-      "published": "2026-04-28T13:45:01+00:00",
-      "summary": "Here in the U.S., Americans have felt the war in the Middle East and the shipping interruptions in the Strait of Hormuz at the gas pump. In South Asia, they are feeling it in the fields.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Trump rushed from White House Correspondents' Dinner after shooting incident",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=9UFHunDRKz4",
-      "published": "2026-04-26T02:08:32+00:00",
-      "summary": "President Donald Trump and the first lady are uninjured after a shooting incident at the White House Correspondents' Dinner on Saturday in Washington, D.C., according to a statement from the U.S. Secret Service.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "In Steven Soderbergh's 'The Christophers,' an aging artist meets his match",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=9iGioxSD5ig",
-      "published": "2026-04-25T16:30:03+00:00",
-      "summary": "Watching 86-year-old Ian McKellen go up and down the stairs in 'The Christophers,' may have tired NPR critic Bob Mondello out, but that won't stop him from running back to watch it again. Tap the link in our bio for the full movie review.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "NASA readies major new space telescope for launch",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=8jooD7wj2Rc",
-      "published": "2026-04-25T14:00:12+00:00",
-      "summary": "NASA is continuing preparations for the launch of a major space telescope. It’s being shipped to the Kennedy Space Center in Florida ahead of September’s scheduled launch date.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Should Capcom Add 30fps/40fps Caps To Its Switch 2 Games?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=vOdvolrDrbw",
-      "published": "2026-04-27T17:01:10+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Guerrilla PICO Is Great - Why Don't More Devs Create Their Own Upscalers?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=1py4ZZv8kSg",
-      "published": "2026-04-27T16:00:03+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Xbox 360 Launch - Every Live Arcade Game Tested!",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=7jpm5I6u5kQ",
-      "published": "2026-04-26T15:00:21+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/qYQxQ7gZJoE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Should Nintendo Add VRR Support To Switch 1 Games Running on Switch 2?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=0DmFzKNhQG8",
-      "published": "2026-04-26T15:00:01+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Should Next-Gen \"Cheap\" PS6 Be A Cloud-Based System?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=eF46su5hAZE",
-      "published": "2026-04-25T16:01:03+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wZ67IBWIjAY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Saros PS5 vs PS5 Pro Comparison: Image Quality + Performance",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=xzjVYm45EGc",
-      "published": "2026-04-25T15:01:34+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/qYQxQ7gZJoE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "The Super Alloy Crush Super Show! | Hot Monday Energy",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=hgOzPNkm8DE",
-      "published": "2026-04-28T01:16:01+00:00",
-      "summary": "This week on Hidden Gems KC, Jess, and Jesse play Super Alloy Crush -- https://store.steampowered.com/app/3092360/Super_Alloy_Crush/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Let's All Have a Good Cry | Windbreaker Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=y0V0X_Sj7XA",
-      "published": "2026-04-27T19:07:02+00:00",
-      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty want to expand on the topic of games that have made us cry, which Yahtzee covered in his most recent Semi-Ramblomatic.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Why Are Some Games So Horrifically Addictive? | Design Delve",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=JVZmxVDzkjk",
-      "published": "2026-04-27T15:00:29+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "We'll Finish Dokapon Kingdom, or Die Trying w/ KC, Jess, Jesse, and Marty -- Finale",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=t5vA1afX6_Y",
-      "published": "2026-04-25T22:32:55+00:00",
-      "summary": "KC, Jess, Jesse, and Marty are going to FINALLY finish their Dokapon game that they started back in November 2024...or they'll die trying. Dokapon Kingdom Part 1 -- https://youtu.be/M6Kj0mWZYXM?t=14646 Dokapon Kingdom Part 2 -- https://www.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Adventure Is Nigh!: The Slow Walk Home | Season 5 Trailer",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=NG9StzGt7ks",
-      "published": "2026-04-25T14:00:38+00:00",
-      "summary": "Swarms of coin mimics skitter through vaults, marketplaces, and pockets alike, devouring every piece of gold they can.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    }
-  ],
+  "youtube": [],
   "trailers": [
     {
       "title": "The Best of Marty And Doc's Friendship | Back to the Future Trilogy",
@@ -347,270 +148,6 @@
       "summary": "Marty McFly (Michael J. Fox) and Doc Brown (Christopher Lloyd) share the ultimate bond as they navigate the dangers of time travel across decades.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "INSIDIOUS: OUT OF THE FURTHER - Official Trailer (4K)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=jxU8FU3o75A",
-      "published": "2026-04-14T02:39:28+00:00",
-      "summary": "The Further comes for our world. Watch the official trailer for #Insidious: Out Of The Further - exclusively in theatres this August. Follow us on social: https://www.instagram.com/InsidiousMovie https://twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "BEEF | Behind the Score with Composer Finneas O’Connell | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=7G5073lagSE",
-      "published": "2026-04-23T14:00:00+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe Listen to the soundtrack: https://a24music.lnk.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Mother Mary | Final Trailer | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=aqYHOsuje1E",
-      "published": "2026-04-21T13:03:09+00:00",
-      "summary": "SUBSCRIBE: http://bit.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Oscar Isaac & Ali Wong | The A24 Podcast",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=BF1mmlkXSYA",
-      "published": "2026-04-15T13:59:08+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe Endless Grasping with Ali Wong & Oscar Isaac A brief but brilliant ceremonial passing of the Beef baton between Season 1 star Ali Wong and Season 2 star Oscar Isaac.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Mother Mary | Official First Look | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=LP-N5kp07gs",
-      "published": "2026-04-09T13:00:00+00:00",
-      "summary": "SUBSCRIBE: http://bit.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "Oscar Isaac, Carey Mulligan & Lee Sung Jin | A24 x Letterboxd: The List",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=UPFnXwngSEI",
-      "published": "2026-04-07T17:12:13+00:00",
-      "summary": "SUBSCRIBE: http://bit.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "LEVITICUS - Official Trailer - Only In Theaters June 19",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=WXuK0vlFxII",
-      "published": "2026-04-22T16:00:59+00:00",
-      "summary": "Two teenage boys must escape a violent entity that takes the form of the person they desire most—each other.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "HOKUM - Final Trailer - Only In Theaters May 1",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=qU_i5e48KzQ",
-      "published": "2026-04-20T16:01:22+00:00",
-      "summary": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents’ ashes, he is consumed by tales of a witch haunting the honeymoon suite.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "EXIT 8 - Final Trailer - In Select Theaters April 10",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=zzEDWwhtAHc",
-      "published": "2026-04-08T16:01:31+00:00",
-      "summary": "Based on the global hit eponymous video game created by KOTAKE CREATE. A man trapped in an endless sterile subway passageway sets out to find Exit 8. The rules of his quest are simple: do not overlook anything out of the ordinary.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "DOLLY | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=3dedZM6xc4c",
-      "published": "2026-04-10T16:36:35+00:00",
-      "summary": "Streaming on Shudder April 24. Macy fights for survival after being abducted by a deranged, monster-like figure who wants to raise her as their child.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Worst Ex Ever Season 2 | Official Trailer",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=_iKN26hplWY",
-      "published": "2026-04-21T17:22:05+00:00",
-      "summary": "Are they \"the one\" or just the one you were warned about? Worst Ex Ever returns to Netflix on May 6 for Season 2 with true, harrowing tales of monstrous relationships and unhinged exes.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Insidious: Out Of The Further | Official Trailer",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=3PqqwEyV_Lw",
-      "published": "2026-04-14T02:40:08+00:00",
-      "summary": "The Further comes for our world.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Witness | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=3iKFLt9gjAU",
-      "published": "2026-04-28T08:00:00+00:00",
-      "summary": "The only witness to a brutal murder, two year old Alex and his father Andrè must search for peace, healing and justice in the face of press scrutiny and police failures. Based on a true story.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Murder of Rachel Nickell | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Vj5uaeZTKRM",
-      "published": "2026-04-28T07:30:00+00:00",
-      "summary": "A young mother is killed in broad daylight on London's Wimbledon Common — in front of her toddler. This documentary examines the yearslong murder case. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Soul Mate | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=nxTFq_KCVmQ",
-      "published": "2026-04-27T23:00:01+00:00",
-      "summary": "Two lonely souls unite and choose to spend 10 years together. Their fates intertwine, spinning a tale of soulful love that takes them to Berlin, Seoul and Tokyo.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Thank You, Next: Season 3 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=-sONidBHqwM",
-      "published": "2026-04-27T07:00:00+00:00",
-      "summary": "There's no more running, only healing. Thank You, Next: Season 3, only on Netflix May 8. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Apex has it all: Psychopaths, shady characters and ear bites. NOW PLAYING!",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=2p1zYIrDE1s",
-      "published": "2026-04-24T17:30:00+00:00",
-      "summary": "Apex has it all: Psychopaths, shady characters and ear bites. NOW PLAYING! #netflix Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Swapped | Meeting Boogle | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=k9Azwc2ajrk",
-      "published": "2026-04-24T16:30:00+00:00",
-      "summary": "A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "catch you on the flip. Tales From '85 is now playing. #netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=U_NuRHdrLoE",
-      "published": "2026-04-23T21:00:30+00:00",
-      "summary": "catch you on the flip. Tales From '85 is now playing. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Roast of Kevin Hart | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=8Z8EOc3InpY",
-      "published": "2026-04-23T14:00:00+00:00",
-      "summary": "Catch Kevin Hart getting roasted LIVE, only on Netflix on Sunday, May 10, at 5PM PT. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "#HeartstopperForever launch date revealed!",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=jowTfVqVw48",
-      "published": "2026-04-22T13:01:23+00:00",
-      "summary": "Get ready for the final chapter...Heartstopper Forever arrives on 17th July, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Mexico 86 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=BIVgPq4-mOM",
-      "published": "2026-04-22T13:00:01+00:00",
-      "summary": "Mexico has never won a World Cup… but someone decided that wasn’t a problem.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "My Dearest Señorita | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=u0OhgW-RtW0",
-      "published": "2026-04-22T10:00:00+00:00",
-      "summary": "‘My Dearest Señorita’ follows Adela, a woman who has always lived within boundaries set by others, until a revelation changes everything.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Worst Ex Ever: Season 2 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=6nrk0bGttMU",
-      "published": "2026-04-21T16:30:00+00:00",
-      "summary": "From chilling betrayals to murder plots, this true-crime documentary series dissects the dark side of love through eyewitness testimonies. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -633,17 +170,6 @@
       "summary": "He doesn't want to kill her — he just needs her back where she's meant to be. The opening scene of \"Ends of the Earth.\" Monarch: Legacy of Monsters Season 2 is now streaming on Apple TV https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Star City — Official Trailer | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=V-yAMs307W4",
-      "published": "2026-04-23T13:59:56+00:00",
-      "summary": "In the race for glory, every secret has gravity. Star City premieres May 29 on Apple TV https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
       "verdict": "Looks promising"
     }
   ],
@@ -751,33 +277,33 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Overcast",
-    "temp": "53",
-    "feels": "47",
-    "wind": "17",
-    "humidity": "71",
+    "desc": "Sunny",
+    "temp": "45",
+    "feels": "37",
+    "wind": "20",
+    "humidity": "76",
     "days": [
       {
-        "label": "Tue Apr 28",
-        "high": "56",
-        "low": "45"
-      },
-      {
         "label": "Wed Apr 29",
-        "high": "62",
-        "low": "45"
+        "high": "61",
+        "low": "44"
       },
       {
         "label": "Thu Apr 30",
-        "high": "59",
-        "low": "52"
+        "high": "60",
+        "low": "48"
+      },
+      {
+        "label": "Fri May 1",
+        "high": "62",
+        "low": "45"
       }
     ]
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 18,
-    "trailerCount": 28,
-    "sourceCount": 21
+    "youtubeCount": 0,
+    "trailerCount": 3,
+    "sourceCount": 11
   }
 }
