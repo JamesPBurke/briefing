@@ -1,14 +1,14 @@
 # James Daily Briefing
 
-Generated: 2026-04-29T09:01:06.911549Z
+Generated: 2026-04-29T10:21:19.685066Z
 
-Today's sweep leans toward Democracy / anti-fascism, AI / privacy, Education / pedagogy. The strongest items in this run are Older than the dinosaurs: scientists finally unlock secret of the mayfly’s dance, Widow’s Bay review – Matthew Rhys’ intoxicating comedy-horror is an absolute blast, and Judge thwarts Trump administration’s attempt to access Arizona voter rolls.
+Today's sweep leans toward AI / computing, Democracy / anti-fascism, Democracy / press freedom. The strongest items in this run are GitHub rushed to fix a critical vulnerability in less than six hours, General Motors is adding Gemini to four million cars, and How a Supreme Court fight over fish oil could raise your prescription drug costs.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Sunny, 52°F (feels like 46°F), 23 mph wind, 62% humidity.
+02726 (Somerset, MA): Sunny, 60°F (feels like 60°F), 23 mph wind, 51% humidity.
 
 Forecast:
 - Wed Apr 29: high 61° / low 44°
@@ -16,6 +16,11 @@ Forecast:
 - Fri May 1: high 63° / low 46°
 
 ## Highlighted stories
+
+### Solve a murder mystery by flying people around on your giant crane in the Disco Elysium and Chinese folktale inspired The Crane Rider's Tale
+Pinned from today's briefing at James's request.
+
+Link: https://www.rockpapershotgun.com/solve-a-murder-mystery-by-flying-people-around-on-your-giant-crane-in-the-disco-elysium-and-chinese-folktale-inspired-the-crane-riders-tale
 
 ### 12 unexpected sourdough bread recipes that aren't crusty loaves: From sourdough flatbread to sourdough milk bread — and even sourdough babka.
 Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
@@ -37,7 +42,34 @@ Particularly strong Guardian opinion piece, noted for future briefing highlights
 
 Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
 
-### 1. Older than the dinosaurs: scientists finally unlock secret of the mayfly’s dance [10/10]
+### 1. GitHub rushed to fix a critical vulnerability in less than six hours [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month.
+
+Link: https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix
+
+### 2. General Motors is adding Gemini to four million cars [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+General Motors is planning to bring Google's Gemini AI assistant to around four million vehicles across the US.
+
+Link: https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update
+
+### 3. How a Supreme Court fight over fish oil could raise your prescription drug costs [10/10]
+**Source:** NPR Health  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The justices are set to hear Hikma v. Amarin , a battle over drug patents that could raise costs for patients and change the way generic companies do business.
+
+Link: https://www.npr.org/2026/04/29/nx-s1-5803137/supreme-court-generic-drugs-hikma
+
+### 4. Older than the dinosaurs: scientists finally unlock secret of the mayfly’s dance [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -46,7 +78,7 @@ The bizarre vertical flight pattern has long puzzled experts but new research re
 
 Link: https://www.theguardian.com/environment/2026/apr/29/mayflies-dance-vertical-pattern-experts-aoe
 
-### 2. Widow’s Bay review – Matthew Rhys’ intoxicating comedy-horror is an absolute blast [10/10]
+### 5. Widow’s Bay review – Matthew Rhys’ intoxicating comedy-horror is an absolute blast [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -55,16 +87,7 @@ Mare of Easttown meets Schitt’s Creek in this rich, wonderful and laugh-out-lo
 
 Link: https://www.theguardian.com/tv-and-radio/2026/apr/29/widows-bay-review-matthew-rhys-intoxicating-comedy-horror-is-an-absolute-blast
 
-### 3. Judge thwarts Trump administration’s attempt to access Arizona voter rolls [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Justice department’s lawsuit dismissed in latest setback for government’s effort to amass information before midterms Sign up for the Breaking News US email to get newsletter alerts in your inbox An attempt by the Trump administration to…
-
-Link: https://www.theguardian.com/us-news/2026/apr/28/arizona-voter-rolls-trump-administration
-
-### 4. Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI [10/10]
+### 6. Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -73,7 +96,7 @@ Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter 
 
 Link: https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit
 
-### 5. Linda McMahon punches back at senators questioning Education Department cuts [10/10]
+### 7. Linda McMahon punches back at senators questioning Education Department cuts [9/10]
 **Source:** NPR Education  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -82,32 +105,14 @@ In her first appearance on Capitol Hill this year, lawmakers questioned Educatio
 
 Link: https://www.npr.org/2026/04/28/nx-s1-5802968/education-secretary-linda-mcmahon-senate-hearing
 
-### 6. As school choice expands in Iowa, one district is in a crisis from losing students [10/10]
-**Source:** NPR Education  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-With school choice programs ascendant not just in Iowa but across the U.S., Cedar Rapids offers a preview of who wins and who loses when education meets the free market.
-
-Link: https://www.npr.org/2026/04/28/nx-s1-5793881/as-school-choice-expands-in-iowa-one-district-is-in-a-crisis-from-losing-students
-
-### 7. Elon Musk tells the jury that all he wants to do is save humanity [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going through his background.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity
-
-### 8. Solve a murder mystery by flying people around on your giant crane in the Disco Elysium and Chinese folktale inspired The Crane Rider's Tale [9/10]
+### 8. Windrose devs ask for some grace as they prepare to set sail towards a six month wait for the next big update [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Nothing will put me on to a game quicker than having a concept so laser-focused on the thing it's trying to do, and, seemingly, doing it well.
+Windrose has been out for a couple of weeks now and seems to be doing more than alright for itself. I guess the people like pirates? Good news for those You Be Soft guys , I suppose.
 
-Link: https://www.rockpapershotgun.com/solve-a-murder-mystery-by-flying-people-around-on-your-giant-crane-in-the-disco-elysium-and-chinese-folktale-inspired-the-crane-riders-tale
+Link: https://www.rockpapershotgun.com/windrose-devs-ask-for-some-grace-as-they-prepare-to-set-sail-towards-a-six-month-wait-for-the-next-big-update
 
 ### 9. Elon Musk testifies against OpenAI, seeking Sam Altman's ouster [9/10]
 **Source:** NPR Tech  
@@ -165,7 +170,7 @@ Link: https://www.npr.org/2026/04/28/nx-s1-5801463/natural-disasters-medication-
 
 Link: https://www.youtube.com/watch?v=yzajLZXh9JU
 
-### Professor Answers Robotics Questions | Tech Support | WIRED [7/10]
+### Robotics Professor Answers Robot Questions | Tech Support | WIRED [7/10]
 **Creator:** WIRED  
 **Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
