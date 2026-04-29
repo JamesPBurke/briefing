@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-04-29T10:21:19.685066Z
+Generated: 2026-04-29T10:23:49.501373Z
 
-Today's sweep leans toward AI / computing, Democracy / anti-fascism, Democracy / press freedom. The strongest items in this run are GitHub rushed to fix a critical vulnerability in less than six hours, General Motors is adding Gemini to four million cars, and How a Supreme Court fight over fish oil could raise your prescription drug costs.
+Today's sweep leans toward AI / computing, Democracy / anti-fascism, Democracy / press freedom. The strongest items in this run are General Motors is adding Gemini to four million cars, How a Supreme Court fight over fish oil could raise your prescription drug costs, and Older than the dinosaurs: scientists finally unlock secret of the mayfly’s dance.
 
 ## Briefing
 
@@ -37,21 +37,7 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### Trump’s presidency is what evil looks like: absurd, frightening, cruel
-Particularly strong Guardian opinion piece, noted for future briefing highlights.
-
-Link: https://www.theguardian.com/commentisfree/2026/apr/20/trump-presidency-evil-absurd-frightening-ideology?CMP=fb_gu&utm_medium=Social&utm_source=Facebook#Echobox=1776671652
-
-### 1. GitHub rushed to fix a critical vulnerability in less than six hours [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month.
-
-Link: https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix
-
-### 2. General Motors is adding Gemini to four million cars [10/10]
+### 1. General Motors is adding Gemini to four million cars [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -60,7 +46,7 @@ General Motors is planning to bring Google's Gemini AI assistant to around four 
 
 Link: https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update
 
-### 3. How a Supreme Court fight over fish oil could raise your prescription drug costs [10/10]
+### 2. How a Supreme Court fight over fish oil could raise your prescription drug costs [10/10]
 **Source:** NPR Health  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,7 +55,7 @@ The justices are set to hear Hikma v. Amarin , a battle over drug patents that c
 
 Link: https://www.npr.org/2026/04/29/nx-s1-5803137/supreme-court-generic-drugs-hikma
 
-### 4. Older than the dinosaurs: scientists finally unlock secret of the mayfly’s dance [10/10]
+### 3. Older than the dinosaurs: scientists finally unlock secret of the mayfly’s dance [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -78,7 +64,7 @@ The bizarre vertical flight pattern has long puzzled experts but new research re
 
 Link: https://www.theguardian.com/environment/2026/apr/29/mayflies-dance-vertical-pattern-experts-aoe
 
-### 5. Widow’s Bay review – Matthew Rhys’ intoxicating comedy-horror is an absolute blast [10/10]
+### 4. Widow’s Bay review – Matthew Rhys’ intoxicating comedy-horror is an absolute blast [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -87,7 +73,7 @@ Mare of Easttown meets Schitt’s Creek in this rich, wonderful and laugh-out-lo
 
 Link: https://www.theguardian.com/tv-and-radio/2026/apr/29/widows-bay-review-matthew-rhys-intoxicating-comedy-horror-is-an-absolute-blast
 
-### 6. Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI [10/10]
+### 5. Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -95,6 +81,15 @@ Link: https://www.theguardian.com/tv-and-radio/2026/apr/29/widows-bay-review-mat
 Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.
 
 Link: https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit
+
+### 6. Elon Musk tells the jury that all he wants to do is save humanity [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI cofounder, now CEO, Sam Altman, Musk opened by going through his background.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity
 
 ### 7. Linda McMahon punches back at senators questioning Education Department cuts [9/10]
 **Source:** NPR Education  
