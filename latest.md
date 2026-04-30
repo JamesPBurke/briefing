@@ -1,14 +1,14 @@
 # James Daily Briefing
 
-Generated: 2026-04-30T09:02:01.482378Z
+Generated: 2026-04-30T14:00:01.790373Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are Oil price tops $120 a barrel after Trump warns Iran blockade could last ‘months’, Family of New Zealand woman detained by ICE pleads for government help to secure her release, and As a Ukrainian journalist, I’ve covered the US for 20 years. I find it increasingly shocking.
+Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Samsung says the RAM shortage could get even worse next year, OpenAI talks about not talking about goblins, and US court refuses to hear Trump’s appeal of E Jean Carroll $83m defamation case.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Sunny, 55°F (feels like 51°F), 16 mph wind, 58% humidity.
+02726 (Somerset, MA): Sunny, 65°F (feels like 65°F), 19 mph wind, 37% humidity.
 
 Forecast:
 - Thu Apr 30: high 61° / low 48°
@@ -37,61 +37,88 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Oil price tops $120 a barrel after Trump warns Iran blockade could last ‘months’ [10/10]
-**Source:** The Guardian US  
+### 1. Samsung says the RAM shortage could get even worse next year [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Oil markets spooked as US president appears willing to maintain US Navy blockade and Iran keeps strait of Hormuz all but shut The price of Brent oil soared above $126 a barrel on Wednesday, its highest level since 2022, after Donald Trump…
+There may be a long wait before the end of the RAM shortage that's driving up prices on everything from phones to gaming handhelds.
 
-Link: https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz
+Link: https://www.theverge.com/tech/921190/samsung-ram-shortage-getting-worse-2027
 
-### 2. Family of New Zealand woman detained by ICE pleads for government help to secure her release [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Everlee Wihongi, 37, holds a green card but was detained upon her return to Los Angeles due to an issue with a historic conviction for marijuana possession The family of a New Zealand woman detained by US Immigration and Customs…
-
-Link: https://www.theguardian.com/world/2026/apr/30/new-zealand-woman-detained-ice
-
-### 3. As a Ukrainian journalist, I’ve covered the US for 20 years. I find it increasingly shocking [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-My country has been under occupation, dogged by corruption and war.
-
-Link: https://www.theguardian.com/world/2026/apr/30/as-a-ukrainian-journalist-ive-covered-the-us-for-20-years-i-find-it-increasingly-shocking
-
-### 4. ‘Your questions are designed to trick me’: combative Musk grilled over battle with Sam Altman [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Lawyers for world’s richest person try to paint him as humanitarian as judge cuts off his long-winded replies After a dramatic first day of opening statements and testimony from Elon Musk in his case against Sam Altman and OpenAI, the…
-
-Link: https://www.theguardian.com/technology/2026/apr/29/elon-musk-openai-sam-altman-lawsuit
-
-### 5. Families sue OpenAI over Canadian mass shooter's use of ChatGPT [10/10]
-**Source:** NPR Tech  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-The lawsuits claim OpenAI was negligent for failing to report the shooter to authorities after her account was flagged for "gun violence activity and planning."
-
-Link: https://www.npr.org/2026/04/29/nx-s1-5798896/tumbler-ridge-mass-shooting-chat-gpt-lawsuit
-
-### 6. All the evidence unveiled so far in Musk v. Altman [9/10]
+### 2. OpenAI talks about not talking about goblins [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece.
+OpenAI is opening up about its goblin problem.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial
+Link: https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins
 
-### 7. Elon Musk accuses OpenAI's leaders of 'looting the nonprofit' in court testimony [9/10]
+### 3. US court refuses to hear Trump’s appeal of E Jean Carroll $83m defamation case [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Decision from federal appeals court comes almost 18 months after Trump appealed following 2024 election win Sign up for the Breaking News US email to get newsletter alerts in your inbox A federal appeals court has announced it will not…
+
+Link: https://www.theguardian.com/us-news/2026/apr/30/appeals-court-refuse-trump-appeal-e-jean-carroll-case
+
+### 4. The hidden cost of Google's AI defaults and the illusion of choice [10/10]
+**Source:** Ars Technica  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Google says it respects user privacy in AI, but the reality is not so black and white.
+
+Link: https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/
+
+### 5. Genius in the Glitch: Why CS Needs Mismatched Brains [10/10]
+**Source:** CSTA  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Have you ever had that student, the one who can dream up a stunningly complex, creative solution to a problem... The post Genius in the Glitch: Why CS Needs Mismatched Brains appeared first on Computer Science Teachers Association .
+
+Link: https://csteachers.org/genius-in-the-glitch-why-cs-needs-mismatched-brains/
+
+### 6. Hokum’s Damian McCarthy Explains the Rabbits of It All [9/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Reactor interviewed writer-director McCarthy and actor Adam Scott about the horror film The post Hokum ’s Damian McCarthy Explains the Rabbits of It All appeared first on Reactor .
+
+Link: https://reactormag.com/hokums-damian-mccarthy-explains-the-rabbits-of-it-all/
+
+### 7. Our first trailer for Zach Cregger's Resident Evil movie has echoes of Weapons and more, but does fall a little short on lickers [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The first trailer for the Resident Evil movie, from Weapons director Zach Cregger, is here, and so far it doesn't seem to be all that Resident Evil. Read more
+
+Link: https://www.eurogamer.net/resident-evil-movie-zach-cregger-first-trailer
+
+### 8. Senate Education Committee Chair Bill Cassidy Fights to Keep His Seat [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+It only took about a minute for Sen. Bill Cassidy to get choked up earlier this month during a forum on dyslexia.
+
+Link: https://www.the74million.org/article/senate-education-committee-chair-bill-cassidy-fights-to-keep-his-seat/
+
+### 9. ‘You are the machine that kills hate’: Woody Guthrie’s protest anthems strike a chord with a new generation [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+A timely exhibit at NYU celebrates the anti-fascist folk artist – despite the university’s recent suppression of campus protests Bea Esteves Mendez knew as much about Woody Guthrie as most people her age – which is to say, she knew This…
+
+Link: https://www.theguardian.com/music/2026/apr/30/woody-guthrie-exhibit
+
+### 10. Elon Musk accuses OpenAI's leaders of 'looting the nonprofit' in court testimony [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -100,16 +127,7 @@ In his second day on the stand in the trial he launched against OpenAI, Elon Mus
 
 Link: https://www.npr.org/2026/04/29/nx-s1-5803833/elon-musk-testimony-openai-altman-day-2
 
-### 8. "Those of us who joined in the early 2000s, we had it very good": Monument Valley boss says it's getting harder to give workers full-time stability [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-After Monument Valley 3 was unceremoniously pulled from Netflix last year, series developers Ustwo Games are now focusing on PC first and foremost.
-
-Link: https://www.rockpapershotgun.com/those-of-us-who-joined-in-the-early-2000s-we-had-it-very-good-monument-valley-boss-says-its-getting-harder-to-give-workers-full-time-stability
-
-### 9. Welcome to 'Anxietyland' theme park, where the rides are no fun [9/10]
+### 11. Welcome to 'Anxietyland' theme park, where the rides are no fun [9/10]
 **Source:** NPR Health  
 **Category:** AI / open models  
 **Why it matters:** Relevant to local models, open tooling, and hands-on experimentation.
@@ -118,41 +136,23 @@ From the Emotional Roller Coaster to the Worry-go-round, cartoonist Gemma Correl
 
 Link: https://www.npr.org/2026/04/29/nx-s1-5803158/anxietyland-review-gemma-correll
 
-### 10. A look at one of the farms RFK Jr. has pointed to as a model for 'reparenting' [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The U.S. health secretary says he wants to shift addiction care toward an approach that includes rural farms or camps for people in recovery. Many addiction experts say the idea is outdated.
-
-Link: https://www.npr.org/2026/04/29/nx-s1-5745097/a-look-at-one-of-the-farms-rfk-jr-has-pointed-to-as-a-model-for-reparenting
-
-### 11. Exit Interview: Dr. Sonja Santelises on Leading Baltimore City Public Schools [8/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-What does it take to run one of the nation’s largest public school districts? Dr.
-
-Link: https://www.the74million.org/article/exit-interview-dr-sonja-santelises-on-leading-baltimore-city-public-schools/
-
-### 12. Podcast: How This Trippy Image Started A Massive Conspiracy Theory [8/10]
+### 12. People Are Selling Kills of Marathon’s Hardest Boss on eBay [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-A magic eye that isn't, an AI learning tool that sucks, and more in this week's podcast.
+The Compiler takes a serious amount of time, skill, and luck to get to. Someone on eBay is selling an easy fix.
 
-Link: https://www.404media.co/podcast-how-this-trippy-image-started-a-massive-conspiracy-theory/
+Link: https://www.404media.co/buy-marathon-compiler-kill/
 
-### 13. Daniel’s Story in Daredevil: Born Again Episode 7 Was Changed in Post-Production [7/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+### 13. To catch colorectal cancer early, advocates push to make 'poop talk' OK [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-It turns out that big Daniel scene wasn't in the episode's original script The post Daniel’s Story in Daredevil: Born Again Episode 7 Was Changed in Post-Production appeared first on Reactor .
+It's a very treatable form of cancer if caught early, yet younger adults rarely get screened. Patient advocates want more people to talk to their doctors about risk factors and number two.
 
-Link: https://reactormag.com/daniel-daredevil-born-again-episode-7-changed/
+Link: https://www.npr.org/2026/04/30/nx-s1-5762752/colorectal-cancer-rates-young-screening
 
 ## YouTube
 
@@ -192,18 +192,18 @@ Is Apple’s iPhone 17e a budget-friendly alternative to their top-of-the-line m
 
 Link: https://www.youtube.com/watch?v=BL9UE9_m-1Y
 
-### Author Belle Burden shares how her husband walked out on their 20-year marriage during the pandemic [8/10]
+### Author Belle Burden shares how her husband walked out on their 20-year marriage during the pandemic [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 In the bestselling book "Strangers: A Memoir of Marriage," author Belle Burden tells the story of her husband walking out on their 20-year marriage at the beginning of the pandemic lockdown.
 
 Link: https://www.youtube.com/watch?v=jcLcFSq0eGc
 
-### Israeli strikes in southern Lebanon has left civilian infrastructure demolished [7/10]
+### Israeli strikes in southern Lebanon has left civilian infrastructure demolished [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 In southern Lebanon, town after town near the border with Israel has been largely destroyed by Israeli demolitions and strikes – whole neighborhoods wiped off the map.
@@ -300,9 +300,9 @@ Link: https://www.youtube.com/watch?v=vOdvolrDrbw
 
 Link: https://www.youtube.com/watch?v=1py4ZZv8kSg
 
-### Saros Launch Day Stream w/ KC and Marty [8/10]
+### Saros Launch Day Stream w/ KC and Marty [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Saros has finally arrived on the PS5, so KC and Marty are going to take a look at the first two hours of the game. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
@@ -428,6 +428,24 @@ Marty McFly (Michael J. Fox) and Doc Brown (Christopher Lloyd) share the ultimat
 
 Link: https://www.youtube.com/watch?v=i8NF-WsZMdg
 
+### Resident Evil – Official Teaser Trailer. From Zach Cregger, director of Weapons and Barbarian. [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. #ResidentEvil
+
+Link: https://www.youtube.com/watch?v=oBWrb8HTU44
+
+### RESIDENT EVIL – Official Teaser Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. https://www.instagram.com/residentevil/ https://twitter.
+
+Link: https://www.youtube.com/watch?v=SJPu1spHqfk
+
 ### INSIDIOUS: OUT OF THE FURTHER - Official Trailer (4K) [9/10]
 **Source:** Sony Pictures Entertainment  
 **Verdict:** Looks promising  
@@ -463,15 +481,6 @@ Link: https://www.youtube.com/watch?v=aqYHOsuje1E
 SUBSCRIBE: http://bit.ly/A24subscribe Endless Grasping with Ali Wong & Oscar Isaac A brief but brilliant ceremonial passing of the Beef baton between Season 1 star Ali Wong and Season 2 star Oscar Isaac.
 
 Link: https://www.youtube.com/watch?v=BF1mmlkXSYA
-
-### Mother Mary | Official First Look | A24 [7/10]
-**Source:** A24  
-**Verdict:** Worth a glance  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.
-
-Link: https://www.youtube.com/watch?v=LP-N5kp07gs
 
 ### LEVITICUS - Official Trailer - Only In Theaters June 19 [8/10]
 **Source:** NEON  
@@ -517,6 +526,33 @@ Link: https://www.youtube.com/watch?v=_iKN26hplWY
 The Further comes for our world.
 
 Link: https://www.youtube.com/watch?v=3PqqwEyV_Lw
+
+### Office Romance | Jennifer Lopez & Brett Goldstein | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+This is a rom-com that’s not safe for work… but so worth the risk.
+
+Link: https://www.youtube.com/watch?v=11gcNa-TBRA
+
+### The Roast of Kevin Hart | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Watch Kevin Hart get roasted from the Epic final night of Netflix is a Joke Fest, hosted by Shane Gillis. LIVE, only on Netflix on Sunday, May 10, at 5 PM PT. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=1MasbNLZP8I
+
+### The Map of Longing | Official Teaser | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+'The Map of Longing', based on the novel by Alice Kellen, tells the story of Greta, a young woman who has always believed that her reason for existing was to help her sister Lucy, who suffers from leukemia, through her stem cells.
+
+Link: https://www.youtube.com/watch?v=CEhHdPcz0u0
 
 ### Murder Mindfully: Season 2 | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
@@ -589,42 +625,6 @@ Link: https://www.youtube.com/watch?v=-sONidBHqwM
 Apex has it all: Psychopaths, shady characters and ear bites. NOW PLAYING! #netflix Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=2p1zYIrDE1s
-
-### Swapped | Meeting Boogle | Sneak Peek | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=k9Azwc2ajrk
-
-### catch you on the flip. Tales From '85 is now playing. #netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-catch you on the flip. Tales From '85 is now playing. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=U_NuRHdrLoE
-
-### The Roast of Kevin Hart | Official Teaser | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Catch Kevin Hart getting roasted LIVE, only on Netflix on Sunday, May 10, at 5PM PT. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=8Z8EOc3InpY
-
-### #HeartstopperForever launch date revealed! [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Get ready for the final chapter...Heartstopper Forever arrives on 17th July, only on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=jowTfVqVw48
 
 ### Criminal Record — Season 2 Opening Title Sequence | Apple TV [10/10]
 **Source:** Apple TV  
