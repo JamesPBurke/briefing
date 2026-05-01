@@ -1,20 +1,100 @@
 {
   "status": "ok",
-  "generatedAt": "2026-04-30T18:01:39.288951Z",
-  "generatedAtDisplay": "2026-04-30 02:01 PM EDT",
+  "generatedAt": "2026-05-01T05:00:02.374692Z",
+  "generatedAtDisplay": "2026-05-01 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI, Whole Wheat Sourdough Pita (With Video), and Partial US government shutdown ends after Congress votes to fund DHS.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are China warns US about Taiwan ahead of Trump’s visit to Beijing, Video shows moment shooter tried to storm White House dinner, officials say, and ‘Don’t fall!’: foil boarders describe hair-raising shark chase caught on video off California coast.",
   "mainItems": [
     {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "source": "The Verge",
+      "title": "China warns US about Taiwan ahead of Trump’s visit to Beijing",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/may/01/china-taiwan-warns-us-donald-trump-visit",
+      "published": "2026-05-01T01:57:39+00:00",
+      "summary": "Beijing urges Washington to ‘make the right choices’ on Taiwan to maintain ‘stability’ between the two powers China’s foreign minister on Thursday urged the US to maintain “stability” between the two powers and warned that Taiwan posed the…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Video shows moment shooter tried to storm White House dinner, officials say",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/apr/30/video-white-house-dinner-shooting",
+      "published": "2026-05-01T01:43:57+00:00",
+      "summary": "Footage posted on social media by federal prosecutors includes captions claiming Cole Tomas Allen shot first Federal prosecutors released footage Thursday of the moment officials say Cole Tomas Allen tried to storm last week’s White House…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "‘Don’t fall!’: foil boarders describe hair-raising shark chase caught on video off California coast",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/apr/30/foil-boarders-shark-chase-california",
+      "published": "2026-05-01T00:29:50+00:00",
+      "summary": "Foil boarders were pursued by shark – likely a great white – off Santa Barbara before it lost interest and swam away Sign up for the Breaking News US email to get newsletter alerts in your inbox Ron Takeda and Tavis Boise were a few miles…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+      "published": "2026-04-30T20:20:48+00:00",
+      "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Tech Glitches Disrupt State Math Exams Across New York",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/tech-glitches-disrupt-state-math-exams-across-new-york/",
+      "published": "2026-04-30T18:30:00+00:00",
+      "summary": "Students across New York were unable to log in to the digital platform for the state’s grades 3-8 math exam Wednesday morning, raising fresh questions about the transition to computer-based assessments.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "The hidden cost of Google's AI defaults and the illusion of choice",
+      "source": "Ars Technica",
       "category": "AI / privacy",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "published": "2026-04-30T17:57:57+00:00",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
+      "url": "https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/",
+      "published": "2026-04-30T11:00:31+00:00",
+      "summary": "Google says it respects user privacy in AI, but the reality is not so black and white.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
+    },
+    {
+      "title": "In real-world test, an AI model did better than ER doctors at diagnosing patients",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis",
+      "published": "2026-04-30T18:00:35+00:00",
+      "summary": "Researchers evaluated how well an AI model could diagnose and make decisions about patient care.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9
+    },
+    {
+      "title": "From the co-creator of Celeste comes City of None, a metroidvania about a wooden adventurer in a dying metropolis",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/from-the-co-creator-of-celeste-comes-city-of-none-a-metroidvania-about-a-wooden-adventurer-in-a-dying-metropolis",
+      "published": "2026-04-30T17:11:52+00:00",
+      "summary": "Celeste remains one of my favourite platformers, so of course I'm always curious about whatever developer Extremely OK Games might put out.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Will.i.am wants to future-proof a new generation",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/04/30/nx-s1-5803133/black-eyed-peas-will-i-am-profile-arizona-state-ai-agent",
+      "published": "2026-04-30T20:00:00+00:00",
+      "summary": "The Black Eyed Peas co-founder turned entrepreneur is now teaching a class on \"agentic AI\" for Arizona State.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     },
     {
       "title": "Whole Wheat Sourdough Pita (With Video)",
@@ -22,99 +102,19 @@
       "category": "Bread / food craft",
       "url": "https://www.theperfectloaf.com/whole-wheat-sourdough-pita/",
       "published": "2026-04-30T17:47:26+00:00",
-      "summary": "Last year, I co-taught a baking class for The Baker’s Corner members at Chimacum Valley Grainery in Washington with my good friend Graison Gill.",
+      "summary": "The whole-grain pita that actually puffs.",
       "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
-      "score": 10
+      "score": 8
     },
     {
-      "title": "Partial US government shutdown ends after Congress votes to fund DHS",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/30/partial-government-shutdown-ends-ice-dhs-funding-republicans",
-      "published": "2026-04-30T17:20:48+00:00",
-      "summary": "Congress advances Homeland Security funding after Republicans used procedural tool to pass up to $75bn for ICE and border patrol Sign up for the Breaking News US email to get newsletter alerts in your inbox A historically long 75-day…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Microsoft’s DLSS competitor is now available on the Xbox Ally X handheld",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/news/921112/microsoft-auto-sr-xbox-ally-x-preview",
-      "published": "2026-04-30T16:06:45+00:00",
-      "summary": "Microsoft is starting to test its Automatic Super Resolution (Auto SR) feature with the Xbox Ally X. Auto SR first debuted on some Copilot Plus PCs nearly two years ago, improving visual quality and frame rates in select games.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
-      "published": "2026-04-30T15:59:41+00:00",
-      "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Now California’s cops can give tickets to driverless cars",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/transportation/921290/california-driverless-vehicles-traffic-tickets",
-      "published": "2026-04-30T15:37:53+00:00",
-      "summary": "Autonomous vehicles roving California's roads will no longer be immune to traffic tickets starting on July 1st.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "$100 Nintendo gift cards are $20 off at Newegg today",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/gadgets/921157/100-nintendo-gift-cards-are-20-off-at-newegg-today",
-      "published": "2026-04-30T15:19:43+00:00",
-      "summary": "Nintendo eShop gift cards can be used to buy games, apparel, and even hardware or accessories from its online storefront.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "US court refuses to hear Trump’s appeal of E Jean Carroll $83m defamation case",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/apr/30/appeals-court-refuse-trump-appeal-e-jean-carroll-case",
-      "published": "2026-04-30T12:55:46+00:00",
-      "summary": "Decision from federal appeals court comes almost 18 months after Trump appealed following 2024 election win Sign up for the Breaking News US email to get newsletter alerts in your inbox A federal appeals court has announced it will not…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Genius in the Glitch: Why CS Needs Mismatched Brains",
-      "source": "CSTA",
-      "category": "CS education / AI policy",
-      "url": "https://csteachers.org/genius-in-the-glitch-why-cs-needs-mismatched-brains/",
-      "published": "2026-04-30T11:00:00+00:00",
-      "summary": "Have you ever had that student, the one who can dream up a stunningly complex, creative solution to a problem... The post Genius in the Glitch: Why CS Needs Mismatched Brains appeared first on Computer Science Teachers Association .",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Musk faces third day of questioning in contentious trial over OpenAI’s founding",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/apr/30/openai-founding-trial-elon-musk-sam-altman",
-      "published": "2026-04-30T17:58:26+00:00",
-      "summary": "Trial continues after heated back and forth during OpenAI’s cross-examination of the Tesla CEO on Wednesday Elon Musk’s court case against Sam Altman continues on Thursday, after a day of contentious exchanges during OpenAI’s…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Senate Education Committee Chair Bill Cassidy Fights to Keep His Seat",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/senate-education-committee-chair-bill-cassidy-fights-to-keep-his-seat/",
-      "published": "2026-04-30T12:30:00+00:00",
-      "summary": "It only took about a minute for Sen. Bill Cassidy to get choked up earlier this month during a forum on dyslexia.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
+      "title": "Resident Evil Teaser Trailer “Kind Of” Takes Place in Resident Evil 2‘s World, Says Zach Cregger",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/zach-cregger-resident-evil-teaser/",
+      "published": "2026-04-30T14:11:13+00:00",
+      "summary": "Trash Panda City is no place to be alone at night. Or ever The post Resident Evil Teaser Trailer “Kind Of” Takes Place in Resident Evil 2 ‘s World, Says Zach Cregger appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     },
     {
       "title": "People Are Selling Kills of Marathon’s Hardest Boss on eBay",
@@ -127,18 +127,163 @@
       "score": 8
     },
     {
-      "title": "To catch colorectal cancer early, advocates push to make 'poop talk' OK",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/30/nx-s1-5762752/colorectal-cancer-rates-young-screening",
-      "published": "2026-04-30T10:00:00+00:00",
-      "summary": "It's a very treatable form of cancer if caught early, yet younger adults rarely get screened. Patient advocates want more people to talk to their doctors about risk factors and number two.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
+      "title": "Senate Education Committee Chair Bill Cassidy Fights to Keep His Seat",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/senate-education-committee-chair-bill-cassidy-fights-to-keep-his-seat/",
+      "published": "2026-04-30T12:30:00+00:00",
+      "summary": "It only took about a minute for Sen. Bill Cassidy to get choked up earlier this month during a forum on dyslexia.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 8
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "Solved: The Bug That Haunted AI Video For Years",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=yzajLZXh9JU",
+      "published": "2026-04-28T17:16:01+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://research.nvidia.com/labs/sil/projects/MOTIVE/ Our Patreon if you wish to support us: https://www.patreon.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Finding Hardware Bugs - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=G1VgXqKZMZE",
+      "published": "2026-04-29T13:00:28+00:00",
+      "summary": "When you're setting your hardware design out using automated tools is essential, but what if the tools themselves have bugs in them? John P Wickerson is based at Imperial College London.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Our Early Thoughts on Saros, the Big New PS5 Exclusive | Firelink Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=-qszM7N2B0Y",
+      "published": "2026-05-01T01:50:06+00:00",
+      "summary": "This week on Firelink, Nick, KC, and Marty chat about their time in the opening hours of Saros, PlayStation's DRM drama, and Xbox's dour financials. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Answering Your Strangest TTRPG Questions w/ RUN-DMG and Jesse Galena | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=AHDTamueYPU",
+      "published": "2026-04-30T18:01:45+00:00",
+      "summary": "This week, Jesse's joined by RUN-DMG to answer your TTRPG questions. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Saros Launch Day Stream w/ KC and Marty",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=NhC5TnkrurY",
+      "published": "2026-04-30T01:10:29+00:00",
+      "summary": "Saros has finally arrived on the PS5, so KC and Marty are going to take a look at the first two hours of the game. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Yahtzee Tries... Casualties Unknown and Gunboat God",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=KNnNeb_nnp8",
+      "published": "2026-04-29T22:03:51+00:00",
+      "summary": "This video is brought to you by GameMaker, the free, fast, and easy-to-use 2D game engine that’s helped power modern classics like Deltarune, Pizza Tower, and Yahtzee’s Starstruck Vagabond – GameMaker | Make 2D Games With The Free Engine…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "MOUSE: P.I. For Hire | Fully Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=ms4Tab6mfIw",
+      "published": "2026-04-29T16:01:30+00:00",
+      "summary": "Use code secondwind at https://incogni.com/secondwind to get an exclusive 60% off. This week on Fully Ramblomatic, Yahtzee reviewed MOUSE: P.I. For Hire. Support us on Patreon: https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Creating Weird Little Guys in Double Fine's Kiln w/ Jack and Jenna",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=MAjFgWaD0wE",
+      "published": "2026-04-28T23:00:32+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Postcards from the End | Adventure Is Nigh! - The Slow Walk Home | Ep. 1",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=c2kru3_e4Is",
+      "published": "2026-04-28T20:42:42+00:00",
+      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Michael Isn't a Biopic, It's an Advertisement | The Backdrop",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=uOdKV8iRMTE",
+      "published": "2026-04-28T15:01:34+00:00",
+      "summary": "Modern biopics are more of an advertisement these days. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "One Night Only | Official Trailer",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=OzS2W1Wdyqg",
+      "published": "2026-04-29T15:00:23+00:00",
+      "summary": "what would you do if you only had one night? watch the trailer for one night only now. only in theaters august 7. ----- Instagram: https://www.instagram.com/onenightonlymovie TikTok: https://www.tiktok.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "One Night Only | Official Trailer",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=JRG244IfrRE",
+      "published": "2026-04-29T15:00:06+00:00",
+      "summary": "what would you do if you only had one night? watch the trailer for one night only now. only in theaters august 7. ----- Instagram: https://www.instagram.com/onenightonlymovie TikTok: https://www.tiktok.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Best of Marty And Doc's Friendship | Back to the Future Trilogy",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=i8NF-WsZMdg",
+      "published": "2026-04-24T19:00:40+00:00",
+      "summary": "Marty McFly (Michael J. Fox) and Doc Brown (Christopher Lloyd) share the ultimate bond as they navigate the dangers of time travel across decades.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -241,11 +386,35 @@
       "addedAt": "2026-04-14T15:24:00Z"
     }
   ],
-  "weather": {},
+  "weather": {
+    "location": "02726 (Somerset, MA)",
+    "desc": "Patchy rain nearby",
+    "temp": "56",
+    "feels": "57",
+    "wind": "2",
+    "humidity": "58",
+    "days": [
+      {
+        "label": "Fri May 1",
+        "high": "59",
+        "low": "49"
+      },
+      {
+        "label": "Sat May 2",
+        "high": "60",
+        "low": "47"
+      },
+      {
+        "label": "Sun May 3",
+        "high": "55",
+        "low": "48"
+      }
+    ]
+  },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 8
+    "youtubeCount": 10,
+    "trailerCount": 3,
+    "sourceCount": 13
   }
 }
