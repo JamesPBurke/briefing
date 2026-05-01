@@ -1,14 +1,14 @@
 # James Daily Briefing
 
-Generated: 2026-05-01T09:00:47.570537Z
+Generated: 2026-05-01T14:00:01.602265Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are King Charles has saved the special relationship – for now | Ted Widmer, The climate crisis is making our hay fever worse – and affecting our enjoyment of nature, and This startup’s new mechanistic interpretability tool lets you debug LLMs.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Pentagon plans to make US military ‘AI-first fighting force’ by pairing with companies, Total War: Warhammer 40,000's map destruction is "the biggest mental shift" for the strategy series in years, but "we've kept it to areas where it it really works", and The Download: a new Christian phone network, and debugging LLMs.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Partly cloudy, 52°F (feels like 52°F), 3 mph wind, 94% humidity.
+02726 (Somerset, MA): Overcast, 57°F (feels like 59°F), 2 mph wind, 82% humidity.
 
 Forecast:
 - Fri May 1: high 60° / low 48°
@@ -37,43 +37,70 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. King Charles has saved the special relationship – for now | Ted Widmer [10/10]
+### 1. Pentagon plans to make US military ‘AI-first fighting force’ by pairing with companies [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The King charmed Americans – including the president – while artfully asserting his views on climate and executive power In the end, it was a royal triumph, as King Charles and Queen Camilla managed to avoid all the mines in their path…
+Agreements with artificial intelligence firms spark concerns over public spending, cyber security and domestic surveillance Sign up for the Breaking News US email to get newsletter alerts in your inbox The Pentagon said on Friday it had…
 
-Link: https://www.theguardian.com/commentisfree/2026/may/01/king-charles-us-visit
+Link: https://www.theguardian.com/us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai
 
-### 2. The climate crisis is making our hay fever worse – and affecting our enjoyment of nature [10/10]
-**Source:** The Guardian US  
+### 2. Total War: Warhammer 40,000's map destruction is "the biggest mental shift" for the strategy series in years, but "we've kept it to areas where it it really works" [10/10]
+**Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-In this week’s newsletter: the European pollen season is now up to two weeks longer than it was in the 90s – just one more way global heating is causing millions to suffer • Don’t get Down to Earth delivered to your inbox? Sign up here…
+I confess, I don't think very hard about cover when I'm playing Total War games – I'm too busy micromanaging cavalry and ensuring all of my ranged unit formations are nice and stretched out, with minimal depth for a cannon ball to travel…
 
-Link: https://www.theguardian.com/environment/2026/apr/30/the-climate-crisis-is-making-our-hay-fever-worse-and-affecting-our-enjoyment-of-nature
+Link: https://www.rockpapershotgun.com/total-war-warhammer-40000s-map-destruction-is-the-biggest-mental-shift-for-the-strategy-series-in-years-but-weve-kept-it-to-areas-where-it-it-really-works
 
-### 3. This startup’s new mechanistic interpretability tool lets you debug LLMs [10/10]
+### 3. The Download: a new Christian phone network, and debugging LLMs [10/10]
 **Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training.
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
 
-Link: https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/
+Link: https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/
 
-### 4. The hidden cost of Google's AI defaults and the illusion of choice [10/10]
-**Source:** Ars Technica  
+### 4. Thousands in US to join ‘no school, no work, no shopping’ May Day protest in economic blackout [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Walkouts, marches and other gatherings planned for ‘May Day Strong’ demonstrations across the country Thousands are set to join an economic blackout for International Workers’ Day on Friday, as part of 3,500 “ May Day Strong ” events…
+
+Link: https://www.theguardian.com/us-news/2026/may/01/may-day-strong-economic-protests
+
+### 5. Days after Star Wars: Galactic Racer's release date leaked, Fuse Games makes it official with Deluxe and Collector's edition details [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+After an earlier leak , we now have an official release date for Star Wars: Galactic Racer, the high-stakes, runs-based racing adventure set in a galaxy far, far away from developer Fuse Games . Read more
+
+Link: https://www.eurogamer.net/star-wars-galactic-racer-release-date
+
+### 6. Why red states are pushing back on Trump administration’s request for voter data [10/10]
+**Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Google says it respects user privacy in AI, but the reality is not so black and white.
+Republican-controlled states cite legal grounds of DoJ’s request, concerns over data security and privacy laws The Department of Justice’s quest to secure sensitive voter data is finding opposition in typically friendly territory – several…
 
-Link: https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/
+Link: https://www.theguardian.com/us-news/2026/may/01/trump-administration-republicans-voter-data-elections
 
-### 5. 60 Minutes journalist decries ‘spread of corporate meddling and editorial fear’ at CBS News [9/10]
+### 7. Opinion: How One Arizona District Used Elementary Learning to Shape High School Results [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+I live and work in a somewhat isolated corner of western Arizona, along the banks of the Colorado River. Here in Lake Havasu City, the nearest major airport is nearly three hours away.
+
+Link: https://www.the74million.org/article/how-one-arizona-district-used-elementary-learning-to-shape-high-school-results/
+
+### 8. 60 Minutes journalist decries ‘spread of corporate meddling and editorial fear’ at CBS News [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -82,7 +109,7 @@ Sharyn Alfonsi, whose report on Cecot prison was pulled by Bari Weiss, admits un
 
 Link: https://www.theguardian.com/media/2026/apr/30/60-minutes-sharyn-alfonsi-cbs-news
 
-### 6. Tech Glitches Disrupt State Math Exams Across New York [9/10]
+### 9. Tech Glitches Disrupt State Math Exams Across New York [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -91,34 +118,25 @@ Students across New York were unable to log in to the digital platform for the s
 
 Link: https://www.the74million.org/article/tech-glitches-disrupt-state-math-exams-across-new-york/
 
-### 7. From the co-creator of Celeste comes City of None, a metroidvania about a wooden adventurer in a dying metropolis [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Celeste remains one of my favourite platformers, so of course I'm always curious about whatever developer Extremely OK Games might put out.
-
-Link: https://www.rockpapershotgun.com/from-the-co-creator-of-celeste-comes-city-of-none-a-metroidvania-about-a-wooden-adventurer-in-a-dying-metropolis
-
-### 8. Will.i.am wants to future-proof a new generation [8/10]
+### 10. A tech worker in China is laid off and replaced by AI. Is it legal? [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-The Black Eyed Peas co-founder turned entrepreneur is now teaching a class on "agentic AI" for Arizona State.
+A tech worker in eastern China's Hangzhou city was dismissed after his job was replaced by AI. An appeals court in the city has ruled the dismissal unlawful.
 
-Link: https://www.npr.org/2026/04/30/nx-s1-5803133/black-eyed-peas-will-i-am-profile-arizona-state-ai-agent
+Link: https://www.npr.org/2026/05/01/nx-s1-5807131/tech-worker-china-ai
 
-### 9. In real-world test, an AI model did better than ER doctors at diagnosing patients [8/10]
+### 11. It's Day 1 of Medicaid work requirements in Nebraska. People are worried [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Researchers evaluated how well an AI model could diagnose and make decisions about patient care.
+Starting May 1, many people covered by Medicaid in Nebraska have to prove they are working. It's a requirement most states will have to implement under President Trump's budget law, beginning in January.
 
-Link: https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis
+Link: https://www.npr.org/2026/05/01/nx-s1-5806260/trump-medicaid-work-requirements-nebraska-big-beautiful-bill-hr1-obbba
 
-### 10. Whole Wheat Sourdough Pita (With Video) [8/10]
+### 12. Whole Wheat Sourdough Pita (With Video) [8/10]
 **Source:** The Perfect Loaf  
 **Category:** Bread / food craft  
 **Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
@@ -127,7 +145,7 @@ The whole-grain pita that actually puffs.
 
 Link: https://www.theperfectloaf.com/whole-wheat-sourdough-pita/
 
-### 11. Resident Evil Teaser Trailer “Kind Of” Takes Place in Resident Evil 2‘s World, Says Zach Cregger [8/10]
+### 13. Resident Evil Teaser Trailer “Kind Of” Takes Place in Resident Evil 2‘s World, Says Zach Cregger [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -135,24 +153,6 @@ Link: https://www.theperfectloaf.com/whole-wheat-sourdough-pita/
 Trash Panda City is no place to be alone at night. Or ever The post Resident Evil Teaser Trailer “Kind Of” Takes Place in Resident Evil 2 ‘s World, Says Zach Cregger appeared first on Reactor .
 
 Link: https://reactormag.com/zach-cregger-resident-evil-teaser/
-
-### 12. People Are Selling Kills of Marathon’s Hardest Boss on eBay [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-The Compiler takes a serious amount of time, skill, and luck to get to. Someone on eBay is selling an easy fix.
-
-Link: https://www.404media.co/buy-marathon-compiler-kill/
-
-### 13. Senate Education Committee Chair Bill Cassidy Fights to Keep His Seat [8/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-It only took about a minute for Sen. Bill Cassidy to get choked up earlier this month during a forum on dyslexia.
-
-Link: https://www.the74million.org/article/senate-education-committee-chair-bill-cassidy-fights-to-keep-his-seat/
 
 ## YouTube
 
@@ -309,6 +309,15 @@ Link: https://www.youtube.com/watch?v=zzttkDxaKNI
 
 Link: https://www.youtube.com/watch?v=DRHT4OETsz0
 
+### Answering Your Strangest TTRPG Questions w/ RUN-DMG and Jesse Galena | RPG Help Desk [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week, Jesse's joined by RUN-DMG to answer your TTRPG questions. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=AHDTamueYPU
+
 ### Our Early Thoughts on Saros, the Big New PS5 Exclusive | Firelink Podcast [8/10]
 **Creator:** Second Wind  
 **Verdict:** Worth watching  
@@ -317,15 +326,6 @@ Link: https://www.youtube.com/watch?v=DRHT4OETsz0
 This week on Firelink, Nick, KC, and Marty chat about their time in the opening hours of Saros, PlayStation's DRM drama, and Xbox's dour financials. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.
 
 Link: https://www.youtube.com/watch?v=-qszM7N2B0Y
-
-### Answering Your Strangest TTRPG Questions w/ RUN-DMG and Jesse Galena | RPG Help Desk [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week, Jesse's joined by RUN-DMG to answer your TTRPG questions. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=AHDTamueYPU
 
 ### Saros Launch Day Stream w/ KC and Marty [7/10]
 **Creator:** Second Wind  
@@ -536,6 +536,15 @@ The Further comes for our world.
 
 Link: https://www.youtube.com/watch?v=3PqqwEyV_Lw
 
+### Marty, Life Is Short | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The definitive documentary on beloved comedian Martin Short, using beautiful, intimate, never-before-seen archive. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=QBvYXE6oZ64
+
 ### The Crash | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -625,6 +634,15 @@ Link: https://www.youtube.com/watch?v=Vj5uaeZTKRM
 Two lonely souls unite and choose to spend 10 years together. Their fates intertwine, spinning a tale of soulful love that takes them to Berlin, Seoul and Tokyo.
 
 Link: https://www.youtube.com/watch?v=nxTFq_KCVmQ
+
+### Criminal Record — Season 2 Questions with Peter Capaldi and Cush Jumbo | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Peter Capaldi and Cush Jumbo pick each other's brains about the new season of Criminal Record. Criminal Record is now streaming on Apple TV https://apple.
+
+Link: https://www.youtube.com/watch?v=KpXUj4FpoSA
 
 ### Margo's Got Money Troubles — Michelle Pfeiffer's Vegas Wedding Performance | Full Scene | Apple TV [10/10]
 **Source:** Apple TV  

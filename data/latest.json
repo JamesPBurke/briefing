@@ -1,50 +1,80 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-01T09:00:47.570537Z",
-  "generatedAtDisplay": "2026-05-01 05:00 AM EDT",
+  "generatedAt": "2026-05-01T14:00:01.602265Z",
+  "generatedAtDisplay": "2026-05-01 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are King Charles has saved the special relationship – for now | Ted Widmer, The climate crisis is making our hay fever worse – and affecting our enjoyment of nature, and This startup’s new mechanistic interpretability tool lets you debug LLMs.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Pentagon plans to make US military ‘AI-first fighting force’ by pairing with companies, Total War: Warhammer 40,000's map destruction is \"the biggest mental shift\" for the strategy series in years, but \"we've kept it to areas where it it really works\", and The Download: a new Christian phone network, and debugging LLMs.",
   "mainItems": [
     {
-      "title": "King Charles has saved the special relationship – for now | Ted Widmer",
+      "title": "Pentagon plans to make US military ‘AI-first fighting force’ by pairing with companies",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/01/king-charles-us-visit",
-      "published": "2026-05-01T08:00:40+00:00",
-      "summary": "The King charmed Americans – including the president – while artfully asserting his views on climate and executive power In the end, it was a royal triumph, as King Charles and Queen Camilla managed to avoid all the mines in their path…",
+      "url": "https://www.theguardian.com/us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai",
+      "published": "2026-05-01T12:35:14+00:00",
+      "summary": "Agreements with artificial intelligence firms spark concerns over public spending, cyber security and domestic surveillance Sign up for the Breaking News US email to get newsletter alerts in your inbox The Pentagon said on Friday it had…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "The climate crisis is making our hay fever worse – and affecting our enjoyment of nature",
-      "source": "The Guardian US",
+      "title": "Total War: Warhammer 40,000's map destruction is \"the biggest mental shift\" for the strategy series in years, but \"we've kept it to areas where it it really works\"",
+      "source": "Rock Paper Shotgun",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/environment/2026/apr/30/the-climate-crisis-is-making-our-hay-fever-worse-and-affecting-our-enjoyment-of-nature",
-      "published": "2026-05-01T06:00:39+00:00",
-      "summary": "In this week’s newsletter: the European pollen season is now up to two weeks longer than it was in the 90s – just one more way global heating is causing millions to suffer • Don’t get Down to Earth delivered to your inbox? Sign up here…",
+      "url": "https://www.rockpapershotgun.com/total-war-warhammer-40000s-map-destruction-is-the-biggest-mental-shift-for-the-strategy-series-in-years-but-weve-kept-it-to-areas-where-it-it-really-works",
+      "published": "2026-05-01T12:20:00+00:00",
+      "summary": "I confess, I don't think very hard about cover when I'm playing Total War games – I'm too busy micromanaging cavalry and ensuring all of my ranged unit formations are nice and stretched out, with minimal depth for a cannon ball to travel…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+      "title": "The Download: a new Christian phone network, and debugging LLMs",
       "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
-      "published": "2026-04-30T15:59:41+00:00",
-      "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training.",
+      "url": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
+      "published": "2026-05-01T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "The hidden cost of Google's AI defaults and the illusion of choice",
-      "source": "Ars Technica",
+      "title": "Thousands in US to join ‘no school, no work, no shopping’ May Day protest in economic blackout",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/01/may-day-strong-economic-protests",
+      "published": "2026-05-01T12:00:07+00:00",
+      "summary": "Walkouts, marches and other gatherings planned for ‘May Day Strong’ demonstrations across the country Thousands are set to join an economic blackout for International Workers’ Day on Friday, as part of 3,500 “ May Day Strong ” events…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Days after Star Wars: Galactic Racer's release date leaked, Fuse Games makes it official with Deluxe and Collector's edition details",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/star-wars-galactic-racer-release-date",
+      "published": "2026-05-01T11:50:38+00:00",
+      "summary": "After an earlier leak , we now have an official release date for Star Wars: Galactic Racer, the high-stakes, runs-based racing adventure set in a galaxy far, far away from developer Fuse Games . Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Why red states are pushing back on Trump administration’s request for voter data",
+      "source": "The Guardian US",
       "category": "AI / privacy",
-      "url": "https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/",
-      "published": "2026-04-30T11:00:31+00:00",
-      "summary": "Google says it respects user privacy in AI, but the reality is not so black and white.",
+      "url": "https://www.theguardian.com/us-news/2026/may/01/trump-administration-republicans-voter-data-elections",
+      "published": "2026-05-01T11:00:27+00:00",
+      "summary": "Republican-controlled states cite legal grounds of DoJ’s request, concerns over data security and privacy laws The Department of Justice’s quest to secure sensitive voter data is finding opposition in typically friendly territory – several…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
+    },
+    {
+      "title": "Opinion: How One Arizona District Used Elementary Learning to Shape High School Results",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/how-one-arizona-district-used-elementary-learning-to-shape-high-school-results/",
+      "published": "2026-05-01T10:30:00+00:00",
+      "summary": "I live and work in a somewhat isolated corner of western Arizona, along the banks of the Colorado River. Here in Lake Havasu City, the nearest major airport is nearly three hours away.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
     },
     {
       "title": "60 Minutes journalist decries ‘spread of corporate meddling and editorial fear’ at CBS News",
@@ -67,32 +97,22 @@
       "score": 9
     },
     {
-      "title": "From the co-creator of Celeste comes City of None, a metroidvania about a wooden adventurer in a dying metropolis",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/from-the-co-creator-of-celeste-comes-city-of-none-a-metroidvania-about-a-wooden-adventurer-in-a-dying-metropolis",
-      "published": "2026-04-30T17:11:52+00:00",
-      "summary": "Celeste remains one of my favourite platformers, so of course I'm always curious about whatever developer Extremely OK Games might put out.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Will.i.am wants to future-proof a new generation",
+      "title": "A tech worker in China is laid off and replaced by AI. Is it legal?",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/04/30/nx-s1-5803133/black-eyed-peas-will-i-am-profile-arizona-state-ai-agent",
-      "published": "2026-04-30T20:00:00+00:00",
-      "summary": "The Black Eyed Peas co-founder turned entrepreneur is now teaching a class on \"agentic AI\" for Arizona State.",
+      "url": "https://www.npr.org/2026/05/01/nx-s1-5807131/tech-worker-china-ai",
+      "published": "2026-05-01T10:35:51+00:00",
+      "summary": "A tech worker in eastern China's Hangzhou city was dismissed after his job was replaced by AI. An appeals court in the city has ruled the dismissal unlawful.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
     },
     {
-      "title": "In real-world test, an AI model did better than ER doctors at diagnosing patients",
+      "title": "It's Day 1 of Medicaid work requirements in Nebraska. People are worried",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis",
-      "published": "2026-04-30T18:00:35+00:00",
-      "summary": "Researchers evaluated how well an AI model could diagnose and make decisions about patient care.",
+      "url": "https://www.npr.org/2026/05/01/nx-s1-5806260/trump-medicaid-work-requirements-nebraska-big-beautiful-bill-hr1-obbba",
+      "published": "2026-05-01T09:00:00+00:00",
+      "summary": "Starting May 1, many people covered by Medicaid in Nebraska have to prove they are working. It's a requirement most states will have to implement under President Trump's budget law, beginning in January.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -114,26 +134,6 @@
       "published": "2026-04-30T14:11:13+00:00",
       "summary": "Trash Panda City is no place to be alone at night. Or ever The post Resident Evil Teaser Trailer “Kind Of” Takes Place in Resident Evil 2 ‘s World, Says Zach Cregger appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
-      "title": "People Are Selling Kills of Marathon’s Hardest Boss on eBay",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/buy-marathon-compiler-kill/",
-      "published": "2026-04-30T13:50:51+00:00",
-      "summary": "The Compiler takes a serious amount of time, skill, and luck to get to. Someone on eBay is selling an easy fix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Senate Education Committee Chair Bill Cassidy Fights to Keep His Seat",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/senate-education-committee-chair-bill-cassidy-fights-to-keep-his-seat/",
-      "published": "2026-04-30T12:30:00+00:00",
-      "summary": "It only took about a minute for Sen. Bill Cassidy to get choked up earlier this month during a forum on dyslexia.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 8
     }
   ],
@@ -326,6 +326,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Answering Your Strangest TTRPG Questions w/ RUN-DMG and Jesse Galena | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=AHDTamueYPU",
+      "published": "2026-05-01T10:53:22+00:00",
+      "summary": "This week, Jesse's joined by RUN-DMG to answer your TTRPG questions. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Our Early Thoughts on Saros, the Big New PS5 Exclusive | Firelink Podcast",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -335,17 +346,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Answering Your Strangest TTRPG Questions w/ RUN-DMG and Jesse Galena | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=AHDTamueYPU",
-      "published": "2026-04-30T18:01:45+00:00",
-      "summary": "This week, Jesse's joined by RUN-DMG to answer your TTRPG questions. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     },
     {
       "title": "Saros Launch Day Stream w/ KC and Marty",
@@ -570,6 +570,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Marty, Life Is Short | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=QBvYXE6oZ64",
+      "published": "2026-05-01T13:00:01+00:00",
+      "summary": "The definitive documentary on beloved comedian Martin Short, using beautiful, intimate, never-before-seen archive. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "The Crash | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -675,6 +686,17 @@
       "url": "https://www.youtube.com/watch?v=nxTFq_KCVmQ",
       "published": "2026-04-27T23:00:01+00:00",
       "summary": "Two lonely souls unite and choose to spend 10 years together. Their fates intertwine, spinning a tale of soulful love that takes them to Berlin, Seoul and Tokyo.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Criminal Record — Season 2 Questions with Peter Capaldi and Cush Jumbo | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=KpXUj4FpoSA",
+      "published": "2026-05-01T12:59:54+00:00",
+      "summary": "Peter Capaldi and Cush Jumbo pick each other's brains about the new season of Criminal Record. Criminal Record is now streaming on Apple TV https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -817,11 +839,11 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Partly cloudy",
-    "temp": "52",
-    "feels": "52",
-    "wind": "3",
-    "humidity": "94",
+    "desc": "Overcast",
+    "temp": "57",
+    "feels": "59",
+    "wind": "2",
+    "humidity": "82",
     "days": [
       {
         "label": "Fri May 1",
@@ -843,7 +865,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 25,
-    "trailerCount": 27,
-    "sourceCount": 24
+    "trailerCount": 29,
+    "sourceCount": 23
   }
 }
