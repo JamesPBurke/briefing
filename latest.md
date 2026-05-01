@@ -1,19 +1,19 @@
 # James Daily Briefing
 
-Generated: 2026-05-01T05:00:02.374692Z
+Generated: 2026-05-01T09:00:47.570537Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are China warns US about Taiwan ahead of Trump’s visit to Beijing, Video shows moment shooter tried to storm White House dinner, officials say, and ‘Don’t fall!’: foil boarders describe hair-raising shark chase caught on video off California coast.
+Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are King Charles has saved the special relationship – for now | Ted Widmer, The climate crisis is making our hay fever worse – and affecting our enjoyment of nature, and This startup’s new mechanistic interpretability tool lets you debug LLMs.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Patchy rain nearby, 56°F (feels like 57°F), 2 mph wind, 58% humidity.
+02726 (Somerset, MA): Partly cloudy, 52°F (feels like 52°F), 3 mph wind, 94% humidity.
 
 Forecast:
-- Fri May 1: high 59° / low 49°
+- Fri May 1: high 60° / low 48°
 - Sat May 2: high 60° / low 47°
-- Sun May 3: high 55° / low 48°
+- Sun May 3: high 55° / low 49°
 
 ## Highlighted stories
 
@@ -37,52 +37,34 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. China warns US about Taiwan ahead of Trump’s visit to Beijing [10/10]
+### 1. King Charles has saved the special relationship – for now | Ted Widmer [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Beijing urges Washington to ‘make the right choices’ on Taiwan to maintain ‘stability’ between the two powers China’s foreign minister on Thursday urged the US to maintain “stability” between the two powers and warned that Taiwan posed the…
+The King charmed Americans – including the president – while artfully asserting his views on climate and executive power In the end, it was a royal triumph, as King Charles and Queen Camilla managed to avoid all the mines in their path…
 
-Link: https://www.theguardian.com/world/2026/may/01/china-taiwan-warns-us-donald-trump-visit
+Link: https://www.theguardian.com/commentisfree/2026/may/01/king-charles-us-visit
 
-### 2. Video shows moment shooter tried to storm White House dinner, officials say [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Footage posted on social media by federal prosecutors includes captions claiming Cole Tomas Allen shot first Federal prosecutors released footage Thursday of the moment officials say Cole Tomas Allen tried to storm last week’s White House…
-
-Link: https://www.theguardian.com/us-news/2026/apr/30/video-white-house-dinner-shooting
-
-### 3. ‘Don’t fall!’: foil boarders describe hair-raising shark chase caught on video off California coast [10/10]
+### 2. The climate crisis is making our hay fever worse – and affecting our enjoyment of nature [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Foil boarders were pursued by shark – likely a great white – off Santa Barbara before it lost interest and swam away Sign up for the Breaking News US email to get newsletter alerts in your inbox Ron Takeda and Tavis Boise were a few miles…
+In this week’s newsletter: the European pollen season is now up to two weeks longer than it was in the 90s – just one more way global heating is causing millions to suffer • Don’t get Down to Earth delivered to your inbox? Sign up here…
 
-Link: https://www.theguardian.com/us-news/2026/apr/30/foil-boarders-shark-chase-california
+Link: https://www.theguardian.com/environment/2026/apr/30/the-climate-crisis-is-making-our-hay-fever-worse-and-affecting-our-enjoyment-of-nature
 
-### 4. The most severe Linux threat to surface in years catches the world flat-footed [10/10]
-**Source:** Ars Technica  
+### 3. This startup’s new mechanistic interpretability tool lets you debug LLMs [10/10]
+**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.
+The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training.
 
-Link: https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/
+Link: https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/
 
-### 5. Tech Glitches Disrupt State Math Exams Across New York [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Students across New York were unable to log in to the digital platform for the state’s grades 3-8 math exam Wednesday morning, raising fresh questions about the transition to computer-based assessments.
-
-Link: https://www.the74million.org/article/tech-glitches-disrupt-state-math-exams-across-new-york/
-
-### 6. The hidden cost of Google's AI defaults and the illusion of choice [10/10]
+### 4. The hidden cost of Google's AI defaults and the illusion of choice [10/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -91,16 +73,25 @@ Google says it respects user privacy in AI, but the reality is not so black and 
 
 Link: https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/
 
-### 7. In real-world test, an AI model did better than ER doctors at diagnosing patients [9/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
+### 5. 60 Minutes journalist decries ‘spread of corporate meddling and editorial fear’ at CBS News [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Researchers evaluated how well an AI model could diagnose and make decisions about patient care.
+Sharyn Alfonsi, whose report on Cecot prison was pulled by Bari Weiss, admits uncertainty over her future at network The veteran 60 Minutes correspondent Sharyn Alfonsi expressed concern about “the spread of corporate meddling and…
 
-Link: https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis
+Link: https://www.theguardian.com/media/2026/apr/30/60-minutes-sharyn-alfonsi-cbs-news
 
-### 8. From the co-creator of Celeste comes City of None, a metroidvania about a wooden adventurer in a dying metropolis [9/10]
+### 6. Tech Glitches Disrupt State Math Exams Across New York [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Students across New York were unable to log in to the digital platform for the state’s grades 3-8 math exam Wednesday morning, raising fresh questions about the transition to computer-based assessments.
+
+Link: https://www.the74million.org/article/tech-glitches-disrupt-state-math-exams-across-new-york/
+
+### 7. From the co-creator of Celeste comes City of None, a metroidvania about a wooden adventurer in a dying metropolis [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -109,7 +100,7 @@ Celeste remains one of my favourite platformers, so of course I'm always curious
 
 Link: https://www.rockpapershotgun.com/from-the-co-creator-of-celeste-comes-city-of-none-a-metroidvania-about-a-wooden-adventurer-in-a-dying-metropolis
 
-### 9. Will.i.am wants to future-proof a new generation [8/10]
+### 8. Will.i.am wants to future-proof a new generation [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -117,6 +108,15 @@ Link: https://www.rockpapershotgun.com/from-the-co-creator-of-celeste-comes-city
 The Black Eyed Peas co-founder turned entrepreneur is now teaching a class on "agentic AI" for Arizona State.
 
 Link: https://www.npr.org/2026/04/30/nx-s1-5803133/black-eyed-peas-will-i-am-profile-arizona-state-ai-agent
+
+### 9. In real-world test, an AI model did better than ER doctors at diagnosing patients [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Researchers evaluated how well an AI model could diagnose and make decisions about patient care.
+
+Link: https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis
 
 ### 10. Whole Wheat Sourdough Pita (With Video) [8/10]
 **Source:** The Perfect Loaf  
@@ -174,18 +174,153 @@ When you're setting your hardware design out using automated tools is essential,
 
 Link: https://www.youtube.com/watch?v=G1VgXqKZMZE
 
-### Our Early Thoughts on Saros, the Big New PS5 Exclusive | Firelink Podcast [9/10]
-**Creator:** Second Wind  
+### The Boys' Antony Starr Answers The Internet's Best Questions [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+This is the the WIRED A̶u̶t̶o̶ *Complete* Interview. WIRED turns on dark mode as we hand-pick the very best Antony Starr (Homelander) questions from the internet.
+
+Link: https://www.youtube.com/watch?v=6u8-bioNK9E
+
+### Robotics Professor Answers Robot Questions | Tech Support | WIRED [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Professor Aaron Ames of the California Institute of Technology joins WIRED to answer the internet’s burning question about robotics.
+
+Link: https://www.youtube.com/watch?v=jZwuCtc2SoU
+
+### Press gala shooter / Political violence / Iran war price tag [9/10]
+**Creator:** NPR  
 **Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Saturday’s attack at the White House Correspondents' Association Dinner was the third assassination attempt on President Trump.
+
+Link: https://www.youtube.com/watch?v=mPRtc0LDq_Q
+
+### What do we think of Michael Jackson now? [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Michael Jackson's new biopic 'Michael' is out now, but let’s not forget the 2004 TV movie 'Man in the Mirror: The Michael Jackson Story.
+
+Link: https://www.youtube.com/watch?v=NUFStzr-z8E
+
+### Majority Black voting districts at risk in the South after Supreme Court ruling [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The U.S. Supreme Court has essentially gutted a key part of the Voting Rights Act.
+
+Link: https://www.youtube.com/watch?v=PSe5N9TOe68
+
+### Author Belle Burden shares how her husband walked out on their 20-year marriage during the pandemic [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+In the bestselling book "Strangers: A Memoir of Marriage," author Belle Burden tells the story of her husband walking out on their 20-year marriage at the beginning of the pandemic lockdown.
+
+Link: https://www.youtube.com/watch?v=jcLcFSq0eGc
+
+### Israeli strikes in southern Lebanon has left civilian infrastructure demolished [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+In southern Lebanon, town after town near the border with Israel has been largely destroyed by Israeli demolitions and strikes – whole neighborhoods wiped off the map.
+
+Link: https://www.youtube.com/watch?v=I8EcFnDqiDo
+
+### Former FBI Director James Comey indicted again [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Former FBI Director James Comey says he’s innocent of a new federal indictment charging him with making a threat against President Trump.
+
+Link: https://www.youtube.com/watch?v=2E7mkyQD4Us
+
+### Receipt | For your right to be curious. [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+People notice. People question. NPR takes your curiosity further. Hear more of this story on Planet Money from NPR. NPR Marketing message. Not produced by the NPR newsroom.
+
+Link: https://www.youtube.com/watch?v=isFSfbrLEWo
+
+### Could The Latest Path Tracing Optimisations Bring PT To PS5/Series X? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/LHUIqy_mK4A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=guGuLziroLI
+
+### Has PC ML Upscaling Peaked In Performance vs Quality? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/LHUIqy_mK4A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=UlvnE5XZ0wY
+
+### Mouse PI For Hire Tested: Now This Is Rather Interesting [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/5uNxLnL8Jcg ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=jG0PCPo1CLQ
+
+### Microsoft "We Are Xbox Memo" - What Does It Actually Mean? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/5uNxLnL8Jcg ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=R4H_Oh_BJ6k
+
+### Assassin's Creed Black Flag Resynced Reveal Tech Breakdown [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/5uNxLnL8Jcg ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=zzttkDxaKNI
+
+### F1 25 Path Tracing Demo On PS5 Pro Revealed: Here's What We Think [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/5uNxLnL8Jcg ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=DRHT4OETsz0
+
+### Our Early Thoughts on Saros, the Big New PS5 Exclusive | Firelink Podcast [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Firelink, Nick, KC, and Marty chat about their time in the opening hours of Saros, PlayStation's DRM drama, and Xbox's dour financials. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.
 
 Link: https://www.youtube.com/watch?v=-qszM7N2B0Y
 
-### Answering Your Strangest TTRPG Questions w/ RUN-DMG and Jesse Galena | RPG Help Desk [7/10]
+### Answering Your Strangest TTRPG Questions w/ RUN-DMG and Jesse Galena | RPG Help Desk [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week, Jesse's joined by RUN-DMG to answer your TTRPG questions. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
@@ -301,3 +436,219 @@ Link: https://www.youtube.com/watch?v=JRG244IfrRE
 Marty McFly (Michael J. Fox) and Doc Brown (Christopher Lloyd) share the ultimate bond as they navigate the dangers of time travel across decades.
 
 Link: https://www.youtube.com/watch?v=i8NF-WsZMdg
+
+### Resident Evil – Official Teaser Trailer. From Zach Cregger, director of Weapons and Barbarian. [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. #ResidentEvil
+
+Link: https://www.youtube.com/watch?v=oBWrb8HTU44
+
+### RESIDENT EVIL – Official Teaser Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. https://www.instagram.com/residentevil/ https://twitter.
+
+Link: https://www.youtube.com/watch?v=SJPu1spHqfk
+
+### INSIDIOUS: OUT OF THE FURTHER - Official Trailer (4K) [9/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The Further comes for our world. Watch the official trailer for #Insidious: Out Of The Further - exclusively in theatres this August. Follow us on social: https://www.instagram.com/InsidiousMovie https://twitter.
+
+Link: https://www.youtube.com/watch?v=jxU8FU3o75A
+
+### BEEF | Behind the Score with Composer Finneas O’Connell | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe Listen to the soundtrack: https://a24music.lnk.
+
+Link: https://www.youtube.com/watch?v=7G5073lagSE
+
+### Mother Mary | Final Trailer | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.
+
+Link: https://www.youtube.com/watch?v=aqYHOsuje1E
+
+### Oscar Isaac & Ali Wong | The A24 Podcast [9/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe Endless Grasping with Ali Wong & Oscar Isaac A brief but brilliant ceremonial passing of the Beef baton between Season 1 star Ali Wong and Season 2 star Oscar Isaac.
+
+Link: https://www.youtube.com/watch?v=BF1mmlkXSYA
+
+### LEVITICUS - Official Trailer - Only In Theaters June 19 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Two teenage boys must escape a violent entity that takes the form of the person they desire most—each other.
+
+Link: https://www.youtube.com/watch?v=WXuK0vlFxII
+
+### HOKUM - Final Trailer - Only In Theaters May 1 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+When novelist Ohm Bauman retreats to a remote inn to scatter his parents’ ashes, he is consumed by tales of a witch haunting the honeymoon suite.
+
+Link: https://www.youtube.com/watch?v=qU_i5e48KzQ
+
+### DOLLY | Official Trailer | Shudder [10/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Streaming on Shudder April 24. Macy fights for survival after being abducted by a deranged, monster-like figure who wants to raise her as their child.
+
+Link: https://www.youtube.com/watch?v=3dedZM6xc4c
+
+### Worst Ex Ever Season 2 | Official Trailer [10/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Are they "the one" or just the one you were warned about? Worst Ex Ever returns to Netflix on May 6 for Season 2 with true, harrowing tales of monstrous relationships and unhinged exes.
+
+Link: https://www.youtube.com/watch?v=_iKN26hplWY
+
+### Insidious: Out Of The Further | Official Trailer [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The Further comes for our world.
+
+Link: https://www.youtube.com/watch?v=3PqqwEyV_Lw
+
+### The Crash | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A car slams into a brick building at 100 miles per hour leaving two young lives lost and one sole survivor. As detectives comb through the wreckage, what first appears to be a tragic accident begins to look like a calculated crime scene.
+
+Link: https://www.youtube.com/watch?v=fODfHjrBz6Y
+
+### Office Romance | Jennifer Lopez & Brett Goldstein | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+This is a rom-com that’s not safe for work… but so worth the risk.
+
+Link: https://www.youtube.com/watch?v=11gcNa-TBRA
+
+### The Roast of Kevin Hart | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Watch Kevin Hart get roasted from the Epic final night of Netflix is a Joke Fest, hosted by Shane Gillis. LIVE, only on Netflix on Sunday, May 10, at 5 PM PT. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=1MasbNLZP8I
+
+### The Map of Longing | Official Teaser | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+'The Map of Longing', based on the novel by Alice Kellen, tells the story of Greta, a young woman who has always believed that her reason for existing was to help her sister Lucy, who suffers from leukemia, through her stem cells.
+
+Link: https://www.youtube.com/watch?v=CEhHdPcz0u0
+
+### Murder Mindfully: Season 2 | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Somewhere between meditation and murder, Björn encounters an unexpected companion: his inner child. Murder Mindfully: Season 2, May 28. Only on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=0fMsAQ83KKc
+
+### Perfect Match: Season 4 | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+More swaps. More sparks. More drama. Reality stars from "Love Is Blind," "Vanderpump Rules," "Love Island" and more shake up the game, but who'll find their perfect match? Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=kOEG8URlFBE
+
+### Funny AF with Kevin Hart | Live Semi-final and Grand Finale | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The search is almost over! We crossed the country. We heard from the legends. Now, it's YOUR turn to decide who will be crowned the funniest! Watch the Live Semi-Final on May 4 & the Grand Finale on May 5 and VOTE for your favorite.
+
+Link: https://www.youtube.com/watch?v=Mrc3vwreFMA
+
+### The Witness | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The only witness to a brutal murder, two year old Alex and his father Andrè must search for peace, healing and justice in the face of press scrutiny and police failures. Based on a true story.
+
+Link: https://www.youtube.com/watch?v=3iKFLt9gjAU
+
+### The Murder of Rachel Nickell | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A young mother is killed in broad daylight on London's Wimbledon Common — in front of her toddler. This documentary examines the yearslong murder case. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=Vj5uaeZTKRM
+
+### Soul Mate | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Two lonely souls unite and choose to spend 10 years together. Their fates intertwine, spinning a tale of soulful love that takes them to Berlin, Seoul and Tokyo.
+
+Link: https://www.youtube.com/watch?v=nxTFq_KCVmQ
+
+### Margo's Got Money Troubles — Michelle Pfeiffer's Vegas Wedding Performance | Full Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Michelle Pfeiffer, Greg Kinnear, an Elvis officiant, a Vegas chapel, and one very memorable wedding song. Watch the full scene from Margo’s Got Money Troubles now streaming on Apple TV. https://apple.
+
+Link: https://www.youtube.com/watch?v=0pcWxACWsh4
+
+### Your Friends and Neighbors — The Ultimate Betrayal | Season 2 Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Your best friend sleeping with your ex? The ultimate betrayal. Your Friends & Neighbors is now streaming https://apple.
+
+Link: https://www.youtube.com/watch?v=qHdje7is3JM
+
+### Criminal Record — Season 2 Opening Title Sequence | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The mesmerizing opening title sequence from Criminal Record Season 2, featuring "Just Me and You" by The Dreamliners. Criminal Record is now streaming on Apple TV https://apple.
+
+Link: https://www.youtube.com/watch?v=0eOC0d2qkw4
