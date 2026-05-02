@@ -1,14 +1,14 @@
 # James Daily Briefing
 
-Generated: 2026-05-02T09:00:33.804920Z
+Generated: 2026-05-02T14:00:01.521705Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Security / computing. The strongest items in this run are Spirit Airlines ceases operations after 34 years amid financial struggles and high oil prices, The tipping point: what happens when deaths outnumber births?, and Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are I tested the MSI Cyborg 14 gaming laptop by carrying it for 105 miles through the mountains of Wales, ‘We have to mock the site’s insanity’: comedian Tim Heidecker on the allure of becoming Infowars’ new boss, and ‘Go inside, he will kill you’: Israeli militants step up West Bank school attacks.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Partly cloudy, 52°F (feels like 51°F), 4 mph wind, 94% humidity.
+02726 (Somerset, MA): Cloudy, 60°F (feels like 60°F), 6 mph wind, 63% humidity.
 
 Forecast:
 - Sat May 2: high 60° / low 47°
@@ -37,16 +37,52 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Spirit Airlines ceases operations after 34 years amid financial struggles and high oil prices [10/10]
+### 1. I tested the MSI Cyborg 14 gaming laptop by carrying it for 105 miles through the mountains of Wales [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+A little while ago our deputy editor James 'RAM-bo' Archer said he wanted us all to get more involved with hardware criticism, because we all appear to think that videogames are powered by telluric currents and swearing.
+
+Link: https://www.rockpapershotgun.com/i-tested-the-msi-cyborg-14-gaming-laptop-by-carrying-it-for-105-miles-through-the-mountains-of-wales
+
+### 2. ‘We have to mock the site’s insanity’: comedian Tim Heidecker on the allure of becoming Infowars’ new boss [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+As the Onion waits for a court to approve its takeover, creative director Heidecker previews his ambitious plan to parody the site – already sending Jones into a fury If you’ve tuned in to Infowars over the years, you might have heard a…
+
+Link: https://www.theguardian.com/culture/ng-interactive/2026/may/02/infowars-onion-tim-heidecker
+
+### 3. ‘Go inside, he will kill you’: Israeli militants step up West Bank school attacks [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Education is being targeted across Palestine, with the murder of 14-year-old Aws al-Naasan only the latest in a spree of violence The Israeli reservist shot 14-year-old Aws al-Naasan in the head just outside the western gate of the…
+
+Link: https://www.theguardian.com/world/2026/may/02/israeli-militants-attack-west-bank-schools-settler-violence
+
+### 4. ‘Deplorable’: ICE hires firm accused of ‘torture’ to track down undocumented children [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Company had struggled to increase post-pandemic demand before war in Iran pushed up jet fuel costs Sign up for the Breaking News US email to get newsletter alerts in your inbox Spirit Airlines has announced that it has gone out of business…
+Exclusive: Contractor denies allegations including ‘enforced disappearance’ and will help locate unaccompanied minors US Immigration and Customs Enforcement ( ICE ) has awarded a contract to a private security company that has faced…
 
-Link: https://www.theguardian.com/business/2026/may/01/spirit-airlines-stops-operation-after-failed-deal
+Link: https://www.theguardian.com/us-news/2026/may/02/ice-contracter-torture-allegations-undocumented-children
 
-### 2. The tipping point: what happens when deaths outnumber births? [10/10]
+### 5. The White House power play post-dinner shooting: do what we say or else [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+After correspondents’ dinner shooting, administration has rushed to capitalize in pursuit of its political goals Less than 72 hours after a man was arrested for trying to assassinate Donald Trump at the White House, the justice department…
+
+Link: https://www.theguardian.com/us-news/2026/may/02/trump-officials-strategy
+
+### 6. The tipping point: what happens when deaths outnumber births? [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -55,7 +91,7 @@ The social and economic impact of people living longer and having fewer babies i
 
 Link: https://www.theguardian.com/world/ng-interactive/2026/may/02/what-happens-when-deaths-outnumber-births
 
-### 3. Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models [10/10]
+### 7. Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models [10/10]
 **Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -64,7 +100,7 @@ In the first week of the landmark trial between Elon Musk and OpenAI, Musk took 
 
 Link: https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/
 
-### 4. Apple raises the Mac Mini’s starting price [10/10]
+### 8. Apple raises the Mac Mini’s starting price [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -73,34 +109,7 @@ Apple's Mac Mini now starts at $799 after the company pulled the $599 option wit
 
 Link: https://www.theverge.com/tech/922572/apple-mac-mini-256-model
 
-### 5. Severe Linux Copy Fail security flaw uncovered using AI scanning help [10/10]
-**Source:** The Verge  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-Nearly every Linux distribution released since 2017 is currently vulnerable to a security bug called "Copy Fail" that allows any user to give themselves administrator privileges.
-
-Link: https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit
-
-### 6. What are we all playing this weekend? [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Due to work and a press trip, I am still only half way through redecorating the kitchen.
-
-Link: https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-380
-
-### 7. Tension and dissent: inside the Green party’s antisemitism struggle [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-With a fast-expanding membership and electoral gains in sight, the Israel–Palestine debate is testing party unity A Green party member for more than 30 years, Elise Benjamin admits to bittersweet feelings even as fellow activists…
-
-Link: https://www.theguardian.com/politics/2026/may/02/inside-green-party-antisemitism-struggle-israel-palestine
-
-### 8. One School, Nine Students. CA Pays Over $100,000 Per Kid to Keep Small Schools Open [9/10]
+### 9. One School, Nine Students. CA Pays Over $100,000 Per Kid to Keep Small Schools Open [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -109,7 +118,7 @@ School closures are an incendiary issue in nearly every corner of California, as
 
 Link: https://www.the74million.org/article/one-school-nine-students-ca-pays-over-100000-per-kid-to-keep-small-schools-open/
 
-### 9. Court restricts abortion access across the US by blocking the mailing of mifepristone [8/10]
+### 10. Court restricts abortion access across the US by blocking the mailing of mifepristone [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -118,7 +127,7 @@ A federal appeals court has restricted access to one of the most common means of
 
 Link: https://www.npr.org/2026/05/01/nx-s1-5808328/court-restricts-abortion-access-mailing-mifepristone
 
-### 10. AI robot tech bros dogs run wild in Berlin gallery [8/10]
+### 11. AI robot tech bros dogs run wild in Berlin gallery [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -127,7 +136,7 @@ In Germany, robotic AI dogs with the faces of tech's most powerful men are on th
 
 Link: https://www.npr.org/2026/05/01/nx-s1-5795427/a-pack-of-ai-controlled-robotic-dogs-berlin
 
-### 11. China Pressure Canceled World’s Largest Digital Human Rights Conference [8/10]
+### 12. China Pressure Canceled World’s Largest Digital Human Rights Conference [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -135,15 +144,6 @@ Link: https://www.npr.org/2026/05/01/nx-s1-5795427/a-pack-of-ai-controlled-robot
 RightCon's organizers said Beijing was upset over over the inclusion of speakers from Taiwain.
 
 Link: https://www.404media.co/china-pressure-canceled-worlds-largest-digital-human-rights-conference/
-
-### 12. The 12 best recipes to bake in May: Ruby-red rhubarb bars, chewy banana bread blondies, blueberry-speckled bread, and more. [8/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-If you’re looking for a new recipe to try this month, we’ve got you covered. Already got your hands on some rhubarb? Add it to chewy bars alongside a handful of white chocolate.
-
-Link: https://www.kingarthurbaking.com/blog/2026/05/01/best-may-recipes
 
 ### 13. What to Watch and Read This Weekend: All Along the Binge-Watch Tower—Battlestar Galactica Returns to Streaming [6/10]
 **Source:** Reactor  
@@ -156,7 +156,7 @@ Link: https://reactormag.com/what-to-watch-read-this-weekend-may-1-2026/
 
 ## YouTube
 
-### Sakana AI’s Survival Simulator Is Brilliant [8/10]
+### Sakana AI’s God Simulator Is Brilliant [8/10]
 **Creator:** Two Minute Papers  
 **Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
@@ -164,15 +164,6 @@ Link: https://reactormag.com/what-to-watch-read-this-weekend-may-1-2026/
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Try it out! The paper is available here: https://pub.sakana.ai/digital-ecosystem/ Our Patreon if you wish to support us: https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=QzZ4VwDHAT4
-
-### Finding Hardware Bugs - Computerphile [7/10]
-**Creator:** Computerphile  
-**Verdict:** Probably worth watching  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-When you're setting your hardware design out using automated tools is essential, but what if the tools themselves have bugs in them? John P Wickerson is based at Imperial College London.
-
-Link: https://www.youtube.com/watch?v=G1VgXqKZMZE
 
 ### Doctor Answers Lung Questions | Tech Support | WIRED [7/10]
 **Creator:** WIRED  

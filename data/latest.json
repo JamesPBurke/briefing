@@ -1,18 +1,58 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-02T09:00:33.804920Z",
-  "generatedAtDisplay": "2026-05-02 05:00 AM EDT",
+  "generatedAt": "2026-05-02T14:00:01.521705Z",
+  "generatedAtDisplay": "2026-05-02 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Security / computing. The strongest items in this run are Spirit Airlines ceases operations after 34 years amid financial struggles and high oil prices, The tipping point: what happens when deaths outnumber births?, and Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are I tested the MSI Cyborg 14 gaming laptop by carrying it for 105 miles through the mountains of Wales, ‘We have to mock the site’s insanity’: comedian Tim Heidecker on the allure of becoming Infowars’ new boss, and ‘Go inside, he will kill you’: Israeli militants step up West Bank school attacks.",
   "mainItems": [
     {
-      "title": "Spirit Airlines ceases operations after 34 years amid financial struggles and high oil prices",
+      "title": "I tested the MSI Cyborg 14 gaming laptop by carrying it for 105 miles through the mountains of Wales",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/i-tested-the-msi-cyborg-14-gaming-laptop-by-carrying-it-for-105-miles-through-the-mountains-of-wales",
+      "published": "2026-05-02T13:00:00+00:00",
+      "summary": "A little while ago our deputy editor James 'RAM-bo' Archer said he wanted us all to get more involved with hardware criticism, because we all appear to think that videogames are powered by telluric currents and swearing.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "‘We have to mock the site’s insanity’: comedian Tim Heidecker on the allure of becoming Infowars’ new boss",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/culture/ng-interactive/2026/may/02/infowars-onion-tim-heidecker",
+      "published": "2026-05-02T11:00:26+00:00",
+      "summary": "As the Onion waits for a court to approve its takeover, creative director Heidecker previews his ambitious plan to parody the site – already sending Jones into a fury If you’ve tuned in to Infowars over the years, you might have heard a…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "‘Go inside, he will kill you’: Israeli militants step up West Bank school attacks",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/may/02/israeli-militants-attack-west-bank-schools-settler-violence",
+      "published": "2026-05-02T11:00:23+00:00",
+      "summary": "Education is being targeted across Palestine, with the murder of 14-year-old Aws al-Naasan only the latest in a spree of violence The Israeli reservist shot 14-year-old Aws al-Naasan in the head just outside the western gate of the…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "‘Deplorable’: ICE hires firm accused of ‘torture’ to track down undocumented children",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/2026/may/01/spirit-airlines-stops-operation-after-failed-deal",
-      "published": "2026-05-02T06:37:09+00:00",
-      "summary": "Company had struggled to increase post-pandemic demand before war in Iran pushed up jet fuel costs Sign up for the Breaking News US email to get newsletter alerts in your inbox Spirit Airlines has announced that it has gone out of business…",
+      "url": "https://www.theguardian.com/us-news/2026/may/02/ice-contracter-torture-allegations-undocumented-children",
+      "published": "2026-05-02T10:00:23+00:00",
+      "summary": "Exclusive: Contractor denies allegations including ‘enforced disappearance’ and will help locate unaccompanied minors US Immigration and Customs Enforcement ( ICE ) has awarded a contract to a private security company that has faced…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The White House power play post-dinner shooting: do what we say or else",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/02/trump-officials-strategy",
+      "published": "2026-05-02T10:00:23+00:00",
+      "summary": "After correspondents’ dinner shooting, administration has rushed to capitalize in pursuit of its political goals Less than 72 hours after a man was arrested for trying to assassinate Donald Trump at the White House, the justice department…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -45,36 +85,6 @@
       "summary": "Apple's Mac Mini now starts at $799 after the company pulled the $599 option with 256GB of storage from its online store, as spotted earlier by MacRumors.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
-    },
-    {
-      "title": "Severe Linux Copy Fail security flaw uncovered using AI scanning help",
-      "source": "The Verge",
-      "category": "Security / computing",
-      "url": "https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit",
-      "published": "2026-05-01T16:55:16+00:00",
-      "summary": "Nearly every Linux distribution released since 2017 is currently vulnerable to a security bug called \"Copy Fail\" that allows any user to give themselves administrator privileges.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 10
-    },
-    {
-      "title": "What are we all playing this weekend?",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-380",
-      "published": "2026-05-02T07:00:00+00:00",
-      "summary": "Due to work and a press trip, I am still only half way through redecorating the kitchen.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Tension and dissent: inside the Green party’s antisemitism struggle",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/politics/2026/may/02/inside-green-party-antisemitism-struggle-israel-palestine",
-      "published": "2026-05-02T05:00:18+00:00",
-      "summary": "With a fast-expanding membership and electoral gains in sight, the Israel–Palestine debate is testing party unity A Green party member for more than 30 years, Elise Benjamin admits to bittersweet feelings even as fellow activists…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
     },
     {
       "title": "One School, Nine Students. CA Pays Over $100,000 Per Kid to Keep Small Schools Open",
@@ -117,16 +127,6 @@
       "score": 8
     },
     {
-      "title": "The 12 best recipes to bake in May: Ruby-red rhubarb bars, chewy banana bread blondies, blueberry-speckled bread, and more.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/05/01/best-may-recipes",
-      "published": "2026-05-01T13:00:00+00:00",
-      "summary": "If you’re looking for a new recipe to try this month, we’ve got you covered. Already got your hands on some rhubarb? Add it to chewy bars alongside a handful of white chocolate.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
-      "score": 8
-    },
-    {
       "title": "What to Watch and Read This Weekend: All Along the Binge-Watch Tower—Battlestar Galactica Returns to Streaming",
       "source": "Reactor",
       "category": "Sci-fi / horror",
@@ -139,7 +139,7 @@
   ],
   "youtube": [
     {
-      "title": "Sakana AI’s Survival Simulator Is Brilliant",
+      "title": "Sakana AI’s God Simulator Is Brilliant",
       "source": "Two Minute Papers",
       "category": "AI / YouTube",
       "url": "https://www.youtube.com/watch?v=QzZ4VwDHAT4",
@@ -148,17 +148,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Finding Hardware Bugs - Computerphile",
-      "source": "Computerphile",
-      "category": "Science / computing",
-      "url": "https://www.youtube.com/watch?v=G1VgXqKZMZE",
-      "published": "2026-04-29T13:00:28+00:00",
-      "summary": "When you're setting your hardware design out using automated tools is essential, but what if the tools themselves have bugs in them? John P Wickerson is based at Imperial College London.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     },
     {
       "title": "Doctor Answers Lung Questions | Tech Support | WIRED",
@@ -806,11 +795,11 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Partly cloudy",
-    "temp": "52",
-    "feels": "51",
-    "wind": "4",
-    "humidity": "94",
+    "desc": "Cloudy",
+    "temp": "60",
+    "feels": "60",
+    "wind": "6",
+    "humidity": "63",
     "days": [
       {
         "label": "Sat May 2",
@@ -831,8 +820,8 @@
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 23,
+    "youtubeCount": 22,
     "trailerCount": 28,
-    "sourceCount": 23
+    "sourceCount": 21
   }
 }
