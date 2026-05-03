@@ -1,14 +1,14 @@
 # James Daily Briefing
 
-Generated: 2026-05-03T09:00:28.679164Z
+Generated: 2026-05-03T14:00:01.709732Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / open models. The strongest items in this run are From shared toothbrushes to mid-sex water bladders, You Be the Judge tries to settle domestic disputes. But what happened next?, Welcome to Anxietyland: I used alcohol to hide my fear – but booze became a very bad friend, and Trump says Iran has not yet ‘paid a big enough price’ as he reviews new peace proposal.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are ‘Christofascism’ is here: inside the slow demolition of US public health | Adrienne Matei, Republicans appear split on idea of clemency for Ghislaine Maxwell, and Trump casts doubt on Iran peace deal and says Tehran has not ‘paid a big enough price’.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Overcast, 52°F (feels like 51°F), 5 mph wind, 100% humidity.
+02726 (Somerset, MA): Overcast, 61°F (feels like 61°F), 4 mph wind, 72% humidity.
 
 Forecast:
 - Sun May 3: high 56° / low 51°
@@ -37,16 +37,79 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. From shared toothbrushes to mid-sex water bladders, You Be the Judge tries to settle domestic disputes. But what happened next? [10/10]
+### 1. ‘Christofascism’ is here: inside the slow demolition of US public health | Adrienne Matei [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-For five years, our column has attempted to settle rows about the important little things … but what happens after the verdicts are in? Since 2021, I’ve had one of the most brilliantly nosy jobs in journalism.
+From prescribing spiritual warfare to demonizing health experts, RFK Jr’s health empire has become a dangerous vehicle for a Christian nationalist worldview In February 2025, Robert F Kennedy Jr began his tenure as secretary of the…
 
-Link: https://www.theguardian.com/lifeandstyle/2026/may/03/shared-toothbrushes-water-bladders-you-be-the-judge-domestic-disputes-but-what-happened-next
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/may/03/christofascism-rfk-jr-health
 
-### 2. Welcome to Anxietyland: I used alcohol to hide my fear – but booze became a very bad friend [10/10]
+### 2. Republicans appear split on idea of clemency for Ghislaine Maxwell [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+House panel divided on whether Trump should pardon Maxwell so she can cooperate with Epstein investigation The possibility of clemency for Jeffrey Epstein accomplice Ghislaine Maxwell , however unlikely, has long outraged survivors and…
+
+Link: https://www.theguardian.com/us-news/2026/may/03/epstein-ghislaine-maxwell-clemency
+
+### 3. Trump casts doubt on Iran peace deal and says Tehran has not ‘paid a big enough price’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+US president to review Iranian proposal but signals scepticism amid deadlock and fears of renewed strikes Donald Trump has said he is reviewing the latest peace proposal from Tehran, but cast doubt on the prospect of a diplomatic…
+
+Link: https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal
+
+### 4. Will human minds still be special in an age of AI? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+We tend to think of intelligence like height – and imagine ourselves being overtaken. That misses the point Until recently, we humans have been able to be smug about our abilities.
+
+Link: https://www.theguardian.com/books/2026/may/03/will-human-minds-still-be-special-in-an-age-of-ai
+
+### 5. ‘This is just disarray’: alarm inside Pentagon after Hegseth staff purges [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Insiders portray defense secretary as increasingly isolated after officers with impeccable reputations forced out Since Donald Trump’s first term, they have been viewed comfortingly as the “adults in the room,” a last line of defense…
+
+Link: https://www.theguardian.com/us-news/2026/may/03/pentagon-pete-hegseth-us-military
+
+### 6. ‘I was mortally offended’: writers on the throwaway comments that changed their lives [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Can a sentence affect the course of your life? Five authors reveal the interactions that transformed the way they saw themselves – and the world When I was 14, I had to start a new school.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/may/03/sentence-comment-changed-my-life-yomi-adegoke-matt-haig-bella-mackie-megan-nolan-nikesh-shukla
+
+### 7. The supreme court trusts America not to be racist. I don’t | Jamil Smith [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The Callais decision is predicated on the idea that American leaders will act justly on their own.
+
+Link: https://www.theguardian.com/commentisfree/2026/may/03/racism-supreme-court-voting-right-act
+
+### 8. Oklahoma School Districts Bracing to Pay Out of Pocket for Teacher Raises [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+OKLAHOMA CITY — A $2,000 teacher salary increase advancing through the Legislature has raised concerns among school district leaders of whether state funding will support its total cost.
+
+Link: https://www.the74million.org/article/oklahoma-school-districts-bracing-to-pay-out-of-pocket-for-teacher-raises/
+
+### 9. Welcome to Anxietyland: I used alcohol to hide my fear – but booze became a very bad friend [10/10]
 **Source:** The Guardian US  
 **Category:** AI / open models  
 **Why it matters:** Relevant to local models, open tooling, and hands-on experimentation.
@@ -55,79 +118,25 @@ Gemma Correll has suffered from anxiety and depression disorders since childhood
 
 Link: https://www.theguardian.com/society/ng-interactive/2026/may/02/dissociation-confusion-and-the-downward-spiral-welcome-to-anxietyland
 
-### 3. Trump says Iran has not yet ‘paid a big enough price’ as he reviews new peace proposal [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Iran says the ‘ball is in the United States’ court’ as Trump says he is likely to reject new proposal from Tehran Donald Trump said on Saturday he was going to review a new peace proposal from Tehran but cast doubt over its prospects,…
-
-Link: https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal
-
-### 4. Mom faces involuntary manslaughter after son’s e-motorcycle crash kills man [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Orange county resident Tommi Jo Mejer’s son was illegally riding e-motorcycle when he ran into 81-year-old Sign up for the Breaking News US newsletter email A southern California woman is facing an additional charge of involuntary…
-
-Link: https://www.theguardian.com/us-news/2026/may/02/california-e-motorcycle-crash-involuntary-manslaughter
-
-### 5. Person found dead in car after it plows into health club in Portland, Oregon [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Investigators find explosives in car, which crashed into Multnomah Athletic Club shortly before 3am Saturday A person was found dead after a vehicle plowed into a health club in downtown Portland, Oregon, early Saturday morning, police…
-
-Link: https://www.theguardian.com/us-news/2026/may/02/portland-oregon-health-club-crash
-
-### 6. Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The ultra-low-cost air carrier Spirit Airlines shut down operations after 34 years in business and canceled all flights at 3AM ET on Saturday morning. Its website now redirects to spiritrestructuring.
-
-Link: https://www.theverge.com/business/922788/spirit-airlines-shutdown
-
-### 7. Florida Average Teacher Pay Remains at Bottom of National Data, Union Says [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Florida teachers’ average starting salary increased between 2025 and 2026, although not enough to improve Florida’s nationwide standing, according to data from the National Education Association.
-
-Link: https://www.the74million.org/article/florida-average-teacher-pay-remains-at-bottom-of-national-data-union-says/
-
-### 8. Trump administration is increasingly ignoring US courts, new analysis shows [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Critics warn that respect for rule of law could break down as executive branch flouts judicial decisions When a federal judge shot down a Trump administration policy of holding immigrants without bond last December, it seemed like a…
-
-Link: https://www.theguardian.com/us-news/2026/may/02/judiciary-trump-administration-separation-of-powers
-
-### 9. I tested the MSI Cyborg 14 gaming laptop by carrying it for 105 miles through the mountains of Wales [9/10]
+### 10. Wolfenstein meets Metroidvania in Wolfhound, an 8-bit ode to yesteryear with zombies and Nazi mechs [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-A little while ago our deputy editor James 'RAM-bo' Archer said he wanted us all to get more involved with hardware criticism, because we all appear to think that videogames are powered by telluric currents and swearing.
+Wolfhound is a game that I've kept my eyes on for quite some time, listing it on both our 2025 and 2026 most anticipated lists.
 
-Link: https://www.rockpapershotgun.com/i-tested-the-msi-cyborg-14-gaming-laptop-by-carrying-it-for-105-miles-through-the-mountains-of-wales
+Link: https://www.rockpapershotgun.com/wolfenstein-meets-metroidvania-in-wolfhound-an-8-bit-ode-to-yesteryear-with-zombies-and-nazi-mechs
 
-### 10. ‘We have to mock the site’s insanity’: comedian Tim Heidecker on the allure of becoming Infowars’ new boss [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 11. AI robot tech bros dogs run wild in Berlin gallery [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-As the Onion waits for a court to approve its takeover, creative director Heidecker previews his ambitious plan to parody the site – already sending Jones into a fury If you’ve tuned in to Infowars over the years, you might have heard a…
+In Germany, robotic AI dogs with the faces of tech's most powerful men are on the loose — courtesy of American artist Beeple. (This story first aired on All Things Considered on May 1, 2026.)
 
-Link: https://www.theguardian.com/culture/ng-interactive/2026/may/02/infowars-onion-tim-heidecker
+Link: https://www.npr.org/2026/05/03/nx-s1-5795427-e1/ai-robot-tech-bros-dogs-run-wild-in-berlin-gallery
 
-### 11. Meta’s historic loss in court could cost a lot more than $375 million [8/10]
+### 12. Meta’s historic loss in court could cost a lot more than $375 million [8/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -136,23 +145,14 @@ New Mexico Attorney General Raúl Torrez won a historic sum of $375 million in a
 
 Link: https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety
 
-### 12. ‘Gremlins’ 2.5 Hour Assembly Cut Just Screened in Los Angeles; Here’s What We Know [8/10]
-**Source:** Bloody Disgusting  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-The legendary 2+ hour “assembly cut” of Joe Dante’s original horror classic Gremlins? Turns out it actually does exist. And it just screened for the very first time in Los Angeles.
-
-Link: https://bloody-disgusting.com/movie/3949430/gremlins-2-5-hour-assembly-cut-just-screened-in-los-angeles-heres-what-we-know/
-
-### 13. Can Trump's latest pick for surgeon general make it through confirmation? [7/10]
+### 13. California's rule to add folic acid brings a Hispanic staple into the regulatory fold [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Nicole Saphier, a breast cancer radiologist, is the president's third nominee for surgeon general. Will she get confirmed?
+In January, California became the first U.S. state to require food makers to add folic acid to products like tortillas because of the high rate of neural tube defects in Hispanic infants.
 
-Link: https://www.npr.org/2026/05/02/nx-s1-5808313/nicole-saphier-surgeon-general-trump-confirmation
+Link: https://www.npr.org/2026/05/03/nx-s1-5771839/californias-rule-to-add-folic-acid-brings-a-hispanic-staple-into-the-regulatory-fold
 
 ## YouTube
 

@@ -1,19 +1,89 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-03T09:00:28.679164Z",
-  "generatedAtDisplay": "2026-05-03 05:00 AM EDT",
+  "generatedAt": "2026-05-03T14:00:01.709732Z",
+  "generatedAtDisplay": "2026-05-03 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / open models. The strongest items in this run are From shared toothbrushes to mid-sex water bladders, You Be the Judge tries to settle domestic disputes. But what happened next?, Welcome to Anxietyland: I used alcohol to hide my fear – but booze became a very bad friend, and Trump says Iran has not yet ‘paid a big enough price’ as he reviews new peace proposal.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are ‘Christofascism’ is here: inside the slow demolition of US public health | Adrienne Matei, Republicans appear split on idea of clemency for Ghislaine Maxwell, and Trump casts doubt on Iran peace deal and says Tehran has not ‘paid a big enough price’.",
   "mainItems": [
     {
-      "title": "From shared toothbrushes to mid-sex water bladders, You Be the Judge tries to settle domestic disputes. But what happened next?",
+      "title": "‘Christofascism’ is here: inside the slow demolition of US public health | Adrienne Matei",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/03/shared-toothbrushes-water-bladders-you-be-the-judge-domestic-disputes-but-what-happened-next",
-      "published": "2026-05-03T05:00:45+00:00",
-      "summary": "For five years, our column has attempted to settle rows about the important little things … but what happens after the verdicts are in? Since 2021, I’ve had one of the most brilliantly nosy jobs in journalism.",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/03/christofascism-rfk-jr-health",
+      "published": "2026-05-03T13:00:03+00:00",
+      "summary": "From prescribing spiritual warfare to demonizing health experts, RFK Jr’s health empire has become a dangerous vehicle for a Christian nationalist worldview In February 2025, Robert F Kennedy Jr began his tenure as secretary of the…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Republicans appear split on idea of clemency for Ghislaine Maxwell",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/03/epstein-ghislaine-maxwell-clemency",
+      "published": "2026-05-03T12:00:00+00:00",
+      "summary": "House panel divided on whether Trump should pardon Maxwell so she can cooperate with Epstein investigation The possibility of clemency for Jeffrey Epstein accomplice Ghislaine Maxwell , however unlikely, has long outraged survivors and…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Trump casts doubt on Iran peace deal and says Tehran has not ‘paid a big enough price’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
+      "published": "2026-05-03T11:44:05+00:00",
+      "summary": "US president to review Iranian proposal but signals scepticism amid deadlock and fears of renewed strikes Donald Trump has said he is reviewing the latest peace proposal from Tehran, but cast doubt on the prospect of a diplomatic…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Will human minds still be special in an age of AI?",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/books/2026/may/03/will-human-minds-still-be-special-in-an-age-of-ai",
+      "published": "2026-05-03T11:00:54+00:00",
+      "summary": "We tend to think of intelligence like height – and imagine ourselves being overtaken. That misses the point Until recently, we humans have been able to be smug about our abilities.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "‘This is just disarray’: alarm inside Pentagon after Hegseth staff purges",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/03/pentagon-pete-hegseth-us-military",
+      "published": "2026-05-03T11:00:54+00:00",
+      "summary": "Insiders portray defense secretary as increasingly isolated after officers with impeccable reputations forced out Since Donald Trump’s first term, they have been viewed comfortingly as the “adults in the room,” a last line of defense…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘I was mortally offended’: writers on the throwaway comments that changed their lives",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/03/sentence-comment-changed-my-life-yomi-adegoke-matt-haig-bella-mackie-megan-nolan-nikesh-shukla",
+      "published": "2026-05-03T11:00:53+00:00",
+      "summary": "Can a sentence affect the course of your life? Five authors reveal the interactions that transformed the way they saw themselves – and the world When I was 14, I had to start a new school.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "The supreme court trusts America not to be racist. I don’t | Jamil Smith",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/03/racism-supreme-court-voting-right-act",
+      "published": "2026-05-03T11:00:52+00:00",
+      "summary": "The Callais decision is predicated on the idea that American leaders will act justly on their own.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Oklahoma School Districts Bracing to Pay Out of Pocket for Teacher Raises",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/oklahoma-school-districts-bracing-to-pay-out-of-pocket-for-teacher-raises/",
+      "published": "2026-05-03T10:30:00+00:00",
+      "summary": "OKLAHOMA CITY — A $2,000 teacher salary increase advancing through the Legislature has raised concerns among school district leaders of whether state funding will support its total cost.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
@@ -27,84 +97,24 @@
       "score": 10
     },
     {
-      "title": "Trump says Iran has not yet ‘paid a big enough price’ as he reviews new peace proposal",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
-      "published": "2026-05-03T03:48:09+00:00",
-      "summary": "Iran says the ‘ball is in the United States’ court’ as Trump says he is likely to reject new proposal from Tehran Donald Trump said on Saturday he was going to review a new peace proposal from Tehran but cast doubt over its prospects,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Mom faces involuntary manslaughter after son’s e-motorcycle crash kills man",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/may/02/california-e-motorcycle-crash-involuntary-manslaughter",
-      "published": "2026-05-02T18:05:51+00:00",
-      "summary": "Orange county resident Tommi Jo Mejer’s son was illegally riding e-motorcycle when he ran into 81-year-old Sign up for the Breaking News US newsletter email A southern California woman is facing an additional charge of involuntary…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Person found dead in car after it plows into health club in Portland, Oregon",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/02/portland-oregon-health-club-crash",
-      "published": "2026-05-02T22:38:02+00:00",
-      "summary": "Investigators find explosives in car, which crashed into Multnomah Athletic Club shortly before 3am Saturday A person was found dead after a vehicle plowed into a health club in downtown Portland, Oregon, early Saturday morning, police…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/business/922788/spirit-airlines-shutdown",
-      "published": "2026-05-02T17:54:48+00:00",
-      "summary": "The ultra-low-cost air carrier Spirit Airlines shut down operations after 34 years in business and canceled all flights at 3AM ET on Saturday morning. Its website now redirects to spiritrestructuring.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Florida Average Teacher Pay Remains at Bottom of National Data, Union Says",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/florida-average-teacher-pay-remains-at-bottom-of-national-data-union-says/",
-      "published": "2026-05-02T16:30:00+00:00",
-      "summary": "Florida teachers’ average starting salary increased between 2025 and 2026, although not enough to improve Florida’s nationwide standing, according to data from the National Education Association.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Trump administration is increasingly ignoring US courts, new analysis shows",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/02/judiciary-trump-administration-separation-of-powers",
-      "published": "2026-05-02T15:58:09+00:00",
-      "summary": "Critics warn that respect for rule of law could break down as executive branch flouts judicial decisions When a federal judge shot down a Trump administration policy of holding immigrants without bond last December, it seemed like a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "I tested the MSI Cyborg 14 gaming laptop by carrying it for 105 miles through the mountains of Wales",
+      "title": "Wolfenstein meets Metroidvania in Wolfhound, an 8-bit ode to yesteryear with zombies and Nazi mechs",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/i-tested-the-msi-cyborg-14-gaming-laptop-by-carrying-it-for-105-miles-through-the-mountains-of-wales",
-      "published": "2026-05-02T13:00:00+00:00",
-      "summary": "A little while ago our deputy editor James 'RAM-bo' Archer said he wanted us all to get more involved with hardware criticism, because we all appear to think that videogames are powered by telluric currents and swearing.",
+      "url": "https://www.rockpapershotgun.com/wolfenstein-meets-metroidvania-in-wolfhound-an-8-bit-ode-to-yesteryear-with-zombies-and-nazi-mechs",
+      "published": "2026-05-03T13:00:00+00:00",
+      "summary": "Wolfhound is a game that I've kept my eyes on for quite some time, listing it on both our 2025 and 2026 most anticipated lists.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "‘We have to mock the site’s insanity’: comedian Tim Heidecker on the allure of becoming Infowars’ new boss",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/culture/ng-interactive/2026/may/02/infowars-onion-tim-heidecker",
-      "published": "2026-05-02T11:00:26+00:00",
-      "summary": "As the Onion waits for a court to approve its takeover, creative director Heidecker previews his ambitious plan to parody the site – already sending Jones into a fury If you’ve tuned in to Infowars over the years, you might have heard a…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
+      "title": "AI robot tech bros dogs run wild in Berlin gallery",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/05/03/nx-s1-5795427-e1/ai-robot-tech-bros-dogs-run-wild-in-berlin-gallery",
+      "published": "2026-05-03T13:39:31+00:00",
+      "summary": "In Germany, robotic AI dogs with the faces of tech's most powerful men are on the loose — courtesy of American artist Beeple. (This story first aired on All Things Considered on May 1, 2026.)",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     },
     {
       "title": "Meta’s historic loss in court could cost a lot more than $375 million",
@@ -117,22 +127,12 @@
       "score": 8
     },
     {
-      "title": "‘Gremlins’ 2.5 Hour Assembly Cut Just Screened in Los Angeles; Here’s What We Know",
-      "source": "Bloody Disgusting",
-      "category": "Sci-fi / horror",
-      "url": "https://bloody-disgusting.com/movie/3949430/gremlins-2-5-hour-assembly-cut-just-screened-in-los-angeles-heres-what-we-know/",
-      "published": "2026-05-02T13:10:54+00:00",
-      "summary": "The legendary 2+ hour “assembly cut” of Joe Dante’s original horror classic Gremlins? Turns out it actually does exist. And it just screened for the very first time in Los Angeles.",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
-      "title": "Can Trump's latest pick for surgeon general make it through confirmation?",
+      "title": "California's rule to add folic acid brings a Hispanic staple into the regulatory fold",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/02/nx-s1-5808313/nicole-saphier-surgeon-general-trump-confirmation",
-      "published": "2026-05-02T10:32:00+00:00",
-      "summary": "Nicole Saphier, a breast cancer radiologist, is the president's third nominee for surgeon general. Will she get confirmed?",
+      "url": "https://www.npr.org/2026/05/03/nx-s1-5771839/californias-rule-to-add-folic-acid-brings-a-hispanic-staple-into-the-regulatory-fold",
+      "published": "2026-05-03T12:06:54+00:00",
+      "summary": "In January, California became the first U.S. state to require food makers to add folic acid to products like tortillas because of the high rate of neural tube defects in Hispanic infants.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
@@ -785,10 +785,10 @@
   "weather": {
     "location": "02726 (Somerset, MA)",
     "desc": "Overcast",
-    "temp": "52",
-    "feels": "51",
-    "wind": "5",
-    "humidity": "100",
+    "temp": "61",
+    "feels": "61",
+    "wind": "4",
+    "humidity": "72",
     "days": [
       {
         "label": "Sun May 3",
