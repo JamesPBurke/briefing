@@ -1,19 +1,19 @@
 # James Daily Briefing
 
-Generated: 2026-05-03T14:00:01.709732Z
+Generated: 2026-05-04T05:00:01.282039Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are ‘Christofascism’ is here: inside the slow demolition of US public health | Adrienne Matei, Republicans appear split on idea of clemency for Ghislaine Maxwell, and Trump casts doubt on Iran peace deal and says Tehran has not ‘paid a big enough price’.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Hantavirus outbreak kills 3 on cruise ship in the Atlantic Ocean, WHO says, Three passengers dead after suspected hantavirus outbreak on cruise ship, and Trump says US navy will ‘guide’ trapped ships from strait of Hormuz amid ‘very positive’ talks with Iran.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Overcast, 61°F (feels like 61°F), 4 mph wind, 72% humidity.
+02726 (Somerset, MA): Mist, 54°F (feels like 53°F), 5 mph wind, 94% humidity.
 
 Forecast:
-- Sun May 3: high 56° / low 51°
-- Mon May 4: high 55° / low 50°
-- Tue May 5: high 55° / low 47°
+- Mon May 4: high 57° / low 49°
+- Tue May 5: high 57° / low 46°
+- Wed May 6: high 55° / low 47°
 
 ## Highlighted stories
 
@@ -37,7 +37,61 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. ‘Christofascism’ is here: inside the slow demolition of US public health | Adrienne Matei [10/10]
+### 1. Hantavirus outbreak kills 3 on cruise ship in the Atlantic Ocean, WHO says [9/10]
+**Source:** NPR Health  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Hantaviruses are usually spread by exposure to urine, saliva or feces from infected rodents, such as rats or mice. Hantavirus infections are rare but can cause deadly respiratory infections.
+
+Link: https://www.npr.org/2026/05/03/nx-s1-5809495/hantavirus-outbreak-cruise-ship-atlantic-ocean
+
+### 2. Three passengers dead after suspected hantavirus outbreak on cruise ship [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Dutch husband and wife and third unidentified person reported to have died, with three further people taken ill A suspected outbreak of the rare hantavirus infection on a cruise ship in the Atlantic Ocean killed three people – including an…
+
+Link: https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship
+
+### 3. Trump says US navy will ‘guide’ trapped ships from strait of Hormuz amid ‘very positive’ talks with Iran [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+US president’s post follows flurry of mixed signals including concern Tehran had not ‘paid big enough price’ Donald Trump has announced that the US will “guide” ships trapped by the Iran war out of the Gulf through the strait of Hormuz on…
+
+Link: https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal
+
+### 4. Trump’s disapproval rating hits record high, new poll shows [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Disapproval rose to 62%, the worst of his two terms in office, amid economic issues since launching his war against Iran Six months out from November’s midterm US elections, Donald Trump’s disapproval rating has reached 62% – the worst of…
+
+Link: https://www.theguardian.com/us-news/2026/may/03/trump-disapproval-rating-poll
+
+### 5. AI music is flooding streaming services — but who wants it? [9/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien.
+
+Link: https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it
+
+### 6. Todd Blanche says case against Comey based on more than just Instagram post [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Former FBI director indicted in connection with seashell photo as some Trump allies skeptical of news charges The acting US attorney general, Todd Blanche, on Sunday defended new criminal charges filed against former FBI head James Comey,…
+
+Link: https://www.theguardian.com/us-news/2026/may/03/james-comey-indictment-instagram-post-seashells
+
+### 7. ‘Christofascism’ is here: inside the slow demolition of US public health | Adrienne Matei [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -46,34 +100,7 @@ From prescribing spiritual warfare to demonizing health experts, RFK Jr’s heal
 
 Link: https://www.theguardian.com/us-news/ng-interactive/2026/may/03/christofascism-rfk-jr-health
 
-### 2. Republicans appear split on idea of clemency for Ghislaine Maxwell [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-House panel divided on whether Trump should pardon Maxwell so she can cooperate with Epstein investigation The possibility of clemency for Jeffrey Epstein accomplice Ghislaine Maxwell , however unlikely, has long outraged survivors and…
-
-Link: https://www.theguardian.com/us-news/2026/may/03/epstein-ghislaine-maxwell-clemency
-
-### 3. Trump casts doubt on Iran peace deal and says Tehran has not ‘paid a big enough price’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-US president to review Iranian proposal but signals scepticism amid deadlock and fears of renewed strikes Donald Trump has said he is reviewing the latest peace proposal from Tehran, but cast doubt on the prospect of a diplomatic…
-
-Link: https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal
-
-### 4. Will human minds still be special in an age of AI? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-We tend to think of intelligence like height – and imagine ourselves being overtaken. That misses the point Until recently, we humans have been able to be smug about our abilities.
-
-Link: https://www.theguardian.com/books/2026/may/03/will-human-minds-still-be-special-in-an-age-of-ai
-
-### 5. ‘This is just disarray’: alarm inside Pentagon after Hegseth staff purges [10/10]
+### 8. ‘This is just disarray’: alarm inside Pentagon after Hegseth staff purges [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -82,25 +109,7 @@ Insiders portray defense secretary as increasingly isolated after officers with 
 
 Link: https://www.theguardian.com/us-news/2026/may/03/pentagon-pete-hegseth-us-military
 
-### 6. ‘I was mortally offended’: writers on the throwaway comments that changed their lives [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Can a sentence affect the course of your life? Five authors reveal the interactions that transformed the way they saw themselves – and the world When I was 14, I had to start a new school.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/may/03/sentence-comment-changed-my-life-yomi-adegoke-matt-haig-bella-mackie-megan-nolan-nikesh-shukla
-
-### 7. The supreme court trusts America not to be racist. I don’t | Jamil Smith [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The Callais decision is predicated on the idea that American leaders will act justly on their own.
-
-Link: https://www.theguardian.com/commentisfree/2026/may/03/racism-supreme-court-voting-right-act
-
-### 8. Oklahoma School Districts Bracing to Pay Out of Pocket for Teacher Raises [10/10]
+### 9. Oklahoma School Districts Bracing to Pay Out of Pocket for Teacher Raises [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -109,25 +118,25 @@ OKLAHOMA CITY — A $2,000 teacher salary increase advancing through the Legisla
 
 Link: https://www.the74million.org/article/oklahoma-school-districts-bracing-to-pay-out-of-pocket-for-teacher-raises/
 
-### 9. Welcome to Anxietyland: I used alcohol to hide my fear – but booze became a very bad friend [10/10]
-**Source:** The Guardian US  
-**Category:** AI / open models  
-**Why it matters:** Relevant to local models, open tooling, and hands-on experimentation.
-
-Gemma Correll has suffered from anxiety and depression disorders since childhood, and at 16 she discovered a magical elixir that promised to make her feel better.
-
-Link: https://www.theguardian.com/society/ng-interactive/2026/may/02/dissociation-confusion-and-the-downward-spiral-welcome-to-anxietyland
-
-### 10. Wolfenstein meets Metroidvania in Wolfhound, an 8-bit ode to yesteryear with zombies and Nazi mechs [9/10]
-**Source:** Rock Paper Shotgun  
+### 10. We may not have seen anything of Final Fantasy 7 Remake Part 3 yet, but co-director Hamaguchi has already completed "over 40 full playthroughs" [8/10]
+**Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Wolfhound is a game that I've kept my eyes on for quite some time, listing it on both our 2025 and 2026 most anticipated lists.
+Final Fantasy 7 Remake Part 3 co-director Naoki Hamaguchi has revealed that, despite sharing very little to the public in terms of concrete details or footage, he has already completed the final part of the hugely successful trilogy "over…
 
-Link: https://www.rockpapershotgun.com/wolfenstein-meets-metroidvania-in-wolfhound-an-8-bit-ode-to-yesteryear-with-zombies-and-nazi-mechs
+Link: https://www.eurogamer.net/we-may-not-have-seen-anything-of-final-fantasy-7-remake-part-3-yet-but-co-director-hamaguchi-has-already-completed-over-40-full-playthroughs
 
-### 11. AI robot tech bros dogs run wild in Berlin gallery [8/10]
+### 11. Reggie Fils-Aimé says Amazon once asked Nintendo to break the law [8/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Way back in the DS days, Nintendo decided to stop selling to Amazon.
+
+Link: https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal
+
+### 12. AI robot tech bros dogs run wild in Berlin gallery [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -135,15 +144,6 @@ Link: https://www.rockpapershotgun.com/wolfenstein-meets-metroidvania-in-wolfhou
 In Germany, robotic AI dogs with the faces of tech's most powerful men are on the loose — courtesy of American artist Beeple. (This story first aired on All Things Considered on May 1, 2026.)
 
 Link: https://www.npr.org/2026/05/03/nx-s1-5795427-e1/ai-robot-tech-bros-dogs-run-wild-in-berlin-gallery
-
-### 12. Meta’s historic loss in court could cost a lot more than $375 million [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-New Mexico Attorney General Raúl Torrez won a historic sum of $375 million in a landmark child safety case against Meta earlier this year.
-
-Link: https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety
 
 ### 13. California's rule to add folic acid brings a Hispanic staple into the regulatory fold [7/10]
 **Source:** NPR Health  
@@ -155,6 +155,15 @@ In January, California became the first U.S. state to require food makers to add
 Link: https://www.npr.org/2026/05/03/nx-s1-5771839/californias-rule-to-add-folic-acid-brings-a-hispanic-staple-into-the-regulatory-fold
 
 ## YouTube
+
+### NVIDIA's New AI Turns One Photo Into A World That Never Breaks [9/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://research.nvidia.com/labs/sil/projects/lyra2/ Our Patreon if you wish to support us: https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=eCw33snvoNI
 
 ### Sakana AI’s God Simulator Is Brilliant [7/10]
 **Creator:** Two Minute Papers  
@@ -174,14 +183,23 @@ Pulmonologist Dr. Ravi Kalhan, MD answers the internet's burning questions about
 
 Link: https://www.youtube.com/watch?v=CSfY2rxpmBY
 
-### The Boys' Antony Starr Answers The Internet's Best Questions [7/10]
-**Creator:** WIRED  
+### Americans increasingly see homebuying as out of reach [7/10]
+**Creator:** NPR  
 **Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-This is the the WIRED A̶u̶t̶o̶ *Complete* Interview. WIRED turns on dark mode as we hand-pick the very best Antony Starr (Homelander) questions from the internet.
+More Americans see buying a home as increasingly out of reach, according to a new poll by Gallup. The share of non-homeowners who intend to buy a house in the next five years has fallen to 25%.
 
-Link: https://www.youtube.com/watch?v=6u8-bioNK9E
+Link: https://www.youtube.com/watch?v=D9xt3JP4r2c
+
+### Fashion critic says The Devil Wears Prada is her favorite movie about the fashion industry [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+Why fashion critic, Robin Givhan, says The Devil Wears Prada is her favorite movie about the fashion industry.
+
+Link: https://www.youtube.com/watch?v=6rkU0r41310
 
 ### New statue by Banksy, the elusive British street artist, appeared in central London this week [7/10]
 **Creator:** NPR  
@@ -237,36 +255,36 @@ Gas prices soared this week. AAA says the average national cost of a gallon of r
 
 Link: https://www.youtube.com/watch?v=oWqvxfUwAz8
 
-### Press gala shooter / Political violence / Iran war price tag [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
+### Why Are New Path Tracing PC Games Exclusive To Nvidia? [9/10]
+**Creator:** Digital Foundry  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
-Saturday’s attack at the White House Correspondents' Association Dinner was the third assassination attempt on President Trump.
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/LHUIqy_mK4A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
-Link: https://www.youtube.com/watch?v=mPRtc0LDq_Q
+Link: https://www.youtube.com/watch?v=aaIpqJNRTIg
 
-### What do we think of Michael Jackson now? [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Michael Jackson's new biopic 'Michael' is out now, but let’s not forget the 2004 TV movie 'Man in the Mirror: The Michael Jackson Story.
-
-Link: https://www.youtube.com/watch?v=NUFStzr-z8E
-
-### Is There Still Untapped Potential In PS5 And Xbox Series X? [7/10]
+### Xbox 360/PS2 Cross-Gen Wasn't Always The Big Improvement You'd Expect [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/qYQxQ7gZJoE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=gQzFHP6b2Jw
+
+### Is There Still Untapped Potential In PS5 And Xbox Series X? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► BTW we've checked and the degradation in console performance over time and the crashes are still there ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.
 
 Link: https://www.youtube.com/watch?v=O_vuq-GlQ8Q
 
-### Microsoft's "We Are Xbox": Please Tell Us What You Actually Mean [7/10]
+### Microsoft's "We Are Xbox": Please Tell Us What You Actually Mean [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► BTW we've checked and the degradation in console performance over time and the crashes are still there ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.
@@ -291,23 +309,14 @@ Link: https://www.youtube.com/watch?v=Da3_8WfAsYg
 
 Link: https://www.youtube.com/watch?v=3Gdw9e1a3VY
 
-### Could The Latest Path Tracing Optimisations Bring PT To PS5/Series X? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### Vampire Crawlers, Gecko Gods, Casualties Unknown, and Gunboat God | Yahtzee Tries [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/LHUIqy_mK4A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
 
-Link: https://www.youtube.com/watch?v=guGuLziroLI
-
-### Has PC ML Upscaling Peaked In Performance vs Quality? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/LHUIqy_mK4A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=UlvnE5XZ0wY
+Link: https://www.youtube.com/watch?v=crCJ1-fya_Y
 
 ### Postcards from the End | Adventure Is Nigh! - The Slow Walk Home | Ep. 1 [8/10]
 **Creator:** Second Wind  
@@ -326,15 +335,6 @@ Link: https://www.youtube.com/watch?v=c2kru3_e4Is
 This week, Jesse's joined by RUN-DMG to answer your TTRPG questions. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=AHDTamueYPU
-
-### Our Early Thoughts on Saros, the Big New PS5 Exclusive | Firelink Podcast [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Firelink, Nick, KC, and Marty chat about their time in the opening hours of Saros, PlayStation's DRM drama, and Xbox's dour financials. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.
-
-Link: https://www.youtube.com/watch?v=-qszM7N2B0Y
 
 ## Entertainment Recommendations
 
@@ -616,12 +616,3 @@ Link: https://www.youtube.com/watch?v=DOgAWl0k-PQ
 Maximum viewing pleasure guaranteed.
 
 Link: https://www.youtube.com/watch?v=o4adO5XVk5M
-
-### Criminal Record — Season 2 Questions with Peter Capaldi and Cush Jumbo | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Peter Capaldi and Cush Jumbo pick each other's brains about the new season of Criminal Record. Criminal Record is now streaming on Apple TV https://apple.
-
-Link: https://www.youtube.com/watch?v=KpXUj4FpoSA

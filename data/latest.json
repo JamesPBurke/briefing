@@ -1,11 +1,71 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-03T14:00:01.709732Z",
-  "generatedAtDisplay": "2026-05-03 10:00 AM EDT",
+  "generatedAt": "2026-05-04T05:00:01.282039Z",
+  "generatedAtDisplay": "2026-05-04 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are ‘Christofascism’ is here: inside the slow demolition of US public health | Adrienne Matei, Republicans appear split on idea of clemency for Ghislaine Maxwell, and Trump casts doubt on Iran peace deal and says Tehran has not ‘paid a big enough price’.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Hantavirus outbreak kills 3 on cruise ship in the Atlantic Ocean, WHO says, Three passengers dead after suspected hantavirus outbreak on cruise ship, and Trump says US navy will ‘guide’ trapped ships from strait of Hormuz amid ‘very positive’ talks with Iran.",
   "mainItems": [
+    {
+      "title": "Hantavirus outbreak kills 3 on cruise ship in the Atlantic Ocean, WHO says",
+      "source": "NPR Health",
+      "category": "Democracy / press freedom",
+      "url": "https://www.npr.org/2026/05/03/nx-s1-5809495/hantavirus-outbreak-cruise-ship-atlantic-ocean",
+      "published": "2026-05-03T23:30:14+00:00",
+      "summary": "Hantaviruses are usually spread by exposure to urine, saliva or feces from infected rodents, such as rats or mice. Hantavirus infections are rare but can cause deadly respiratory infections.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Three passengers dead after suspected hantavirus outbreak on cruise ship",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship",
+      "published": "2026-05-03T22:55:44+00:00",
+      "summary": "Dutch husband and wife and third unidentified person reported to have died, with three further people taken ill A suspected outbreak of the rare hantavirus infection on a cruise ship in the Atlantic Ocean killed three people – including an…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Trump says US navy will ‘guide’ trapped ships from strait of Hormuz amid ‘very positive’ talks with Iran",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
+      "published": "2026-05-03T22:27:46+00:00",
+      "summary": "US president’s post follows flurry of mixed signals including concern Tehran had not ‘paid big enough price’ Donald Trump has announced that the US will “guide” ships trapped by the Iran war out of the Gulf through the strait of Hormuz on…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Trump’s disapproval rating hits record high, new poll shows",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/03/trump-disapproval-rating-poll",
+      "published": "2026-05-03T17:00:03+00:00",
+      "summary": "Disapproval rose to 62%, the worst of his two terms in office, amid economic issues since launching his war against Iran Six months out from November’s midterm US elections, Donald Trump’s disapproval rating has reached 62% – the worst of…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "AI music is flooding streaming services — but who wants it?",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
+      "published": "2026-05-03T16:17:30+00:00",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Todd Blanche says case against Comey based on more than just Instagram post",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/03/james-comey-indictment-instagram-post-seashells",
+      "published": "2026-05-03T15:57:27+00:00",
+      "summary": "Former FBI director indicted in connection with seashell photo as some Trump allies skeptical of news charges The acting US attorney general, Todd Blanche, on Sunday defended new criminal charges filed against former FBI head James Comey,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
     {
       "title": "‘Christofascism’ is here: inside the slow demolition of US public health | Adrienne Matei",
       "source": "The Guardian US",
@@ -14,37 +74,7 @@
       "published": "2026-05-03T13:00:03+00:00",
       "summary": "From prescribing spiritual warfare to demonizing health experts, RFK Jr’s health empire has become a dangerous vehicle for a Christian nationalist worldview In February 2025, Robert F Kennedy Jr began his tenure as secretary of the…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Republicans appear split on idea of clemency for Ghislaine Maxwell",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/03/epstein-ghislaine-maxwell-clemency",
-      "published": "2026-05-03T12:00:00+00:00",
-      "summary": "House panel divided on whether Trump should pardon Maxwell so she can cooperate with Epstein investigation The possibility of clemency for Jeffrey Epstein accomplice Ghislaine Maxwell , however unlikely, has long outraged survivors and…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump casts doubt on Iran peace deal and says Tehran has not ‘paid a big enough price’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
-      "published": "2026-05-03T11:44:05+00:00",
-      "summary": "US president to review Iranian proposal but signals scepticism amid deadlock and fears of renewed strikes Donald Trump has said he is reviewing the latest peace proposal from Tehran, but cast doubt on the prospect of a diplomatic…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Will human minds still be special in an age of AI?",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/books/2026/may/03/will-human-minds-still-be-special-in-an-age-of-ai",
-      "published": "2026-05-03T11:00:54+00:00",
-      "summary": "We tend to think of intelligence like height – and imagine ourselves being overtaken. That misses the point Until recently, we humans have been able to be smug about our abilities.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "‘This is just disarray’: alarm inside Pentagon after Hegseth staff purges",
@@ -54,27 +84,7 @@
       "published": "2026-05-03T11:00:54+00:00",
       "summary": "Insiders portray defense secretary as increasingly isolated after officers with impeccable reputations forced out Since Donald Trump’s first term, they have been viewed comfortingly as the “adults in the room,” a last line of defense…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘I was mortally offended’: writers on the throwaway comments that changed their lives",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/03/sentence-comment-changed-my-life-yomi-adegoke-matt-haig-bella-mackie-megan-nolan-nikesh-shukla",
-      "published": "2026-05-03T11:00:53+00:00",
-      "summary": "Can a sentence affect the course of your life? Five authors reveal the interactions that transformed the way they saw themselves – and the world When I was 14, I had to start a new school.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "The supreme court trusts America not to be racist. I don’t | Jamil Smith",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/03/racism-supreme-court-voting-right-act",
-      "published": "2026-05-03T11:00:52+00:00",
-      "summary": "The Callais decision is predicated on the idea that American leaders will act justly on their own.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Oklahoma School Districts Bracing to Pay Out of Pocket for Teacher Raises",
@@ -84,27 +94,27 @@
       "published": "2026-05-03T10:30:00+00:00",
       "summary": "OKLAHOMA CITY — A $2,000 teacher salary increase advancing through the Legislature has raised concerns among school district leaders of whether state funding will support its total cost.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Welcome to Anxietyland: I used alcohol to hide my fear – but booze became a very bad friend",
-      "source": "The Guardian US",
-      "category": "AI / open models",
-      "url": "https://www.theguardian.com/society/ng-interactive/2026/may/02/dissociation-confusion-and-the-downward-spiral-welcome-to-anxietyland",
-      "published": "2026-05-03T04:00:43+00:00",
-      "summary": "Gemma Correll has suffered from anxiety and depression disorders since childhood, and at 16 she discovered a magical elixir that promised to make her feel better.",
-      "whyItMatters": "Relevant to local models, open tooling, and hands-on experimentation.",
-      "score": 10
-    },
-    {
-      "title": "Wolfenstein meets Metroidvania in Wolfhound, an 8-bit ode to yesteryear with zombies and Nazi mechs",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/wolfenstein-meets-metroidvania-in-wolfhound-an-8-bit-ode-to-yesteryear-with-zombies-and-nazi-mechs",
-      "published": "2026-05-03T13:00:00+00:00",
-      "summary": "Wolfhound is a game that I've kept my eyes on for quite some time, listing it on both our 2025 and 2026 most anticipated lists.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
+    },
+    {
+      "title": "We may not have seen anything of Final Fantasy 7 Remake Part 3 yet, but co-director Hamaguchi has already completed \"over 40 full playthroughs\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/we-may-not-have-seen-anything-of-final-fantasy-7-remake-part-3-yet-but-co-director-hamaguchi-has-already-completed-over-40-full-playthroughs",
+      "published": "2026-05-03T20:01:36+00:00",
+      "summary": "Final Fantasy 7 Remake Part 3 co-director Naoki Hamaguchi has revealed that, despite sharing very little to the public in terms of concrete details or footage, he has already completed the final part of the hugely successful trilogy \"over…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8
+    },
+    {
+      "title": "Reggie Fils-Aimé says Amazon once asked Nintendo to break the law",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal",
+      "published": "2026-05-03T15:24:27+00:00",
+      "summary": "Way back in the DS days, Nintendo decided to stop selling to Amazon.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 8
     },
     {
       "title": "AI robot tech bros dogs run wild in Berlin gallery",
@@ -114,16 +124,6 @@
       "published": "2026-05-03T13:39:31+00:00",
       "summary": "In Germany, robotic AI dogs with the faces of tech's most powerful men are on the loose — courtesy of American artist Beeple. (This story first aired on All Things Considered on May 1, 2026.)",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "Meta’s historic loss in court could cost a lot more than $375 million",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
-      "published": "2026-05-02T18:24:39+00:00",
-      "summary": "New Mexico Attorney General Raúl Torrez won a historic sum of $375 million in a landmark child safety case against Meta earlier this year.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 8
     },
     {
@@ -138,6 +138,17 @@
     }
   ],
   "youtube": [
+    {
+      "title": "NVIDIA's New AI Turns One Photo Into A World That Never Breaks",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=eCw33snvoNI",
+      "published": "2026-05-03T17:02:48+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://research.nvidia.com/labs/sil/projects/lyra2/ Our Patreon if you wish to support us: https://www.patreon.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
     {
       "title": "Sakana AI’s God Simulator Is Brilliant",
       "source": "Two Minute Papers",
@@ -161,15 +172,26 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "The Boys' Antony Starr Answers The Internet's Best Questions",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=6u8-bioNK9E",
-      "published": "2026-04-30T16:00:22+00:00",
-      "summary": "This is the the WIRED A̶u̶t̶o̶ *Complete* Interview. WIRED turns on dark mode as we hand-pick the very best Antony Starr (Homelander) questions from the internet.",
+      "title": "Americans increasingly see homebuying as out of reach",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=D9xt3JP4r2c",
+      "published": "2026-05-03T16:15:01+00:00",
+      "summary": "More Americans see buying a home as increasingly out of reach, according to a new poll by Gallup. The share of non-homeowners who intend to buy a house in the next five years has fallen to 25%.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Fashion critic says The Devil Wears Prada is her favorite movie about the fashion industry",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=6rkU0r41310",
+      "published": "2026-05-03T16:00:11+00:00",
+      "summary": "Why fashion critic, Robin Givhan, says The Devil Wears Prada is her favorite movie about the fashion industry.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "New statue by Banksy, the elusive British street artist, appeared in central London this week",
@@ -238,24 +260,24 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Press gala shooter / Political violence / Iran war price tag",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=mPRtc0LDq_Q",
-      "published": "2026-04-30T22:16:32+00:00",
-      "summary": "Saturday’s attack at the White House Correspondents' Association Dinner was the third assassination attempt on President Trump.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "title": "Why Are New Path Tracing PC Games Exclusive To Nvidia?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=aaIpqJNRTIg",
+      "published": "2026-05-03T16:00:06+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/LHUIqy_mK4A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
-      "title": "What do we think of Michael Jackson now?",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=NUFStzr-z8E",
-      "published": "2026-04-30T20:00:22+00:00",
-      "summary": "Michael Jackson's new biopic 'Michael' is out now, but let’s not forget the 2004 TV movie 'Man in the Mirror: The Michael Jackson Story.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Xbox 360/PS2 Cross-Gen Wasn't Always The Big Improvement You'd Expect",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=gQzFHP6b2Jw",
+      "published": "2026-05-03T15:01:05+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/qYQxQ7gZJoE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
     },
@@ -267,8 +289,8 @@
       "published": "2026-05-02T16:00:39+00:00",
       "summary": "► BTW we've checked and the degradation in console performance over time and the crashes are still there ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Microsoft's \"We Are Xbox\": Please Tell Us What You Actually Mean",
@@ -278,8 +300,8 @@
       "published": "2026-05-02T15:01:38+00:00",
       "summary": "► BTW we've checked and the degradation in console performance over time and the crashes are still there ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Intel Panther Lake Handhelds Are Coming: Competition For AMD At Last?",
@@ -304,26 +326,15 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "Could The Latest Path Tracing Optimisations Bring PT To PS5/Series X?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=guGuLziroLI",
-      "published": "2026-04-30T17:00:57+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/LHUIqy_mK4A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Has PC ML Upscaling Peaked In Performance vs Quality?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=UlvnE5XZ0wY",
-      "published": "2026-04-30T16:00:58+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/LHUIqy_mK4A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "Vampire Crawlers, Gecko Gods, Casualties Unknown, and Gunboat God | Yahtzee Tries",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=crCJ1-fya_Y",
+      "published": "2026-05-03T15:00:57+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Postcards from the End | Adventure Is Nigh! - The Slow Walk Home | Ep. 1",
@@ -346,17 +357,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
-    },
-    {
-      "title": "Our Early Thoughts on Saros, the Big New PS5 Exclusive | Firelink Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=-qszM7N2B0Y",
-      "published": "2026-05-01T01:50:06+00:00",
-      "summary": "This week on Firelink, Nick, KC, and Marty chat about their time in the opening hours of Saros, PlayStation's DRM drama, and Xbox's dour financials. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     }
   ],
   "trailers": [
@@ -667,17 +667,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
-    },
-    {
-      "title": "Criminal Record — Season 2 Questions with Peter Capaldi and Cush Jumbo | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=KpXUj4FpoSA",
-      "published": "2026-05-01T12:59:54+00:00",
-      "summary": "Peter Capaldi and Cush Jumbo pick each other's brains about the new season of Criminal Record. Criminal Record is now streaming on Apple TV https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
     }
   ],
   "recommendations": {
@@ -784,24 +773,24 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Overcast",
-    "temp": "61",
-    "feels": "61",
-    "wind": "4",
-    "humidity": "72",
+    "desc": "Mist",
+    "temp": "54",
+    "feels": "53",
+    "wind": "5",
+    "humidity": "94",
     "days": [
       {
-        "label": "Sun May 3",
-        "high": "56",
-        "low": "51"
-      },
-      {
         "label": "Mon May 4",
-        "high": "55",
-        "low": "50"
+        "high": "57",
+        "low": "49"
       },
       {
         "label": "Tue May 5",
+        "high": "57",
+        "low": "46"
+      },
+      {
+        "label": "Wed May 6",
         "high": "55",
         "low": "47"
       }
@@ -810,7 +799,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 20,
-    "trailerCount": 29,
+    "trailerCount": 28,
     "sourceCount": 19
   }
 }
