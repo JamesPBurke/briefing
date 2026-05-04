@@ -1,19 +1,19 @@
 # James Daily Briefing
 
-Generated: 2026-05-04T05:00:01.282039Z
+Generated: 2026-05-04T09:01:41.900946Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Hantavirus outbreak kills 3 on cruise ship in the Atlantic Ocean, WHO says, Three passengers dead after suspected hantavirus outbreak on cruise ship, and Trump says US navy will ‘guide’ trapped ships from strait of Hormuz amid ‘very positive’ talks with Iran.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Crimson Desert's latest patch will help with your post-game buff build boredom through boss fight do-overs and more, Middle East crisis live: Iran warns it will attack US forces if they enter strait of Hormuz after Trump says US will help ‘guide’ stranded ships, and Security or justice? Syria faces post-Assad reckoning after string of arrests.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Mist, 54°F (feels like 53°F), 5 mph wind, 94% humidity.
+02726 (Somerset, MA): Overcast, 54°F (feels like 51°F), 8 mph wind, 94% humidity.
 
 Forecast:
-- Mon May 4: high 57° / low 49°
+- Mon May 4: high 58° / low 47°
 - Tue May 5: high 57° / low 46°
-- Wed May 6: high 55° / low 47°
+- Wed May 6: high 56° / low 44°
 
 ## Highlighted stories
 
@@ -37,34 +37,61 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Hantavirus outbreak kills 3 on cruise ship in the Atlantic Ocean, WHO says [9/10]
-**Source:** NPR Health  
+### 1. Crimson Desert's latest patch will help with your post-game buff build boredom through boss fight do-overs and more [10/10]
+**Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Hantaviruses are usually spread by exposure to urine, saliva or feces from infected rodents, such as rats or mice. Hantavirus infections are rare but can cause deadly respiratory infections.
+A slightly strange aspect of Crimson Desert thus far has been that the more you get through it, the more enemies you beat, and the less enemies you actually have to fight.
 
-Link: https://www.npr.org/2026/05/03/nx-s1-5809495/hantavirus-outbreak-cruise-ship-atlantic-ocean
+Link: https://www.rockpapershotgun.com/crimson-deserts-latest-patch-will-help-with-your-post-game-buff-build-boredom-through-boss-fight-do-overs-and-more
 
-### 2. Three passengers dead after suspected hantavirus outbreak on cruise ship [9/10]
+### 2. Middle East crisis live: Iran warns it will attack US forces if they enter strait of Hormuz after Trump says US will help ‘guide’ stranded ships [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Dutch husband and wife and third unidentified person reported to have died, with three further people taken ill A suspected outbreak of the rare hantavirus infection on a cruise ship in the Atlantic Ocean killed three people – including an…
+Iranian military says it will ‘respond harshly’ to any threat after Trump warns that interference with US operation in Hormuz will be ‘dealt with forcefully’ Trump says US navy will ‘guide’ trapped ships from strait of Hormuz amid ‘very…
 
-Link: https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship
+Link: https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes
 
-### 3. Trump says US navy will ‘guide’ trapped ships from strait of Hormuz amid ‘very positive’ talks with Iran [9/10]
+### 3. Security or justice? Syria faces post-Assad reckoning after string of arrests [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-US president’s post follows flurry of mixed signals including concern Tehran had not ‘paid big enough price’ Donald Trump has announced that the US will “guide” ships trapped by the Iran war out of the Gulf through the strait of Hormuz on…
+New government accused of ‘performative justice’ and making deals with suspects in 2013 Tadamon massacres Ahmad al-Homsi is a deep sleeper, but when he was woken last month and told that Amjad Youssef, a Syrian intelligence officer who…
 
-Link: https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal
+Link: https://www.theguardian.com/world/2026/may/04/syria-justice-assad-regime-arrests-2013-tadamon-massacres
 
-### 4. Trump’s disapproval rating hits record high, new poll shows [9/10]
+### 4. The big Resident Evil Requiem interview: how Capcom made a modern horror classic [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+There aren't many series that make it to the big three-oh. But Resident Evil hasn't just survived three decades, it's excelled, continuing (brief wobble around part six aside) to go from strength to strength.
+
+Link: https://www.eurogamer.net/the-big-resident-evil-requiem-interview-capcom-modern-horror-classic
+
+### 5. 49 ways to have fun right now! Skydive in a wind tunnel, count dogs and run like a three-year-old [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The world often feels dominated by sadness and doomscrolling. But fun is still possible – and necessary. Here are tried and tested ways to enjoy yourself Cartwheel.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/may/04/49-ways-to-have-fun-right-now-skydive-in-a-wind-tunnel-count-dogs-and-run-like-a-three-year-old
+
+### 6. Three passengers dead after suspected hantavirus outbreak on cruise ship [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Dutch husband and wife and third unidentified person reported to have died, with three further people taken ill What is hantavirus, the infection that has killed three people on a cruise ship? A suspected outbreak of the rare hantavirus…
+
+Link: https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship
+
+### 7. Trump’s disapproval rating hits record high, new poll shows [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -73,7 +100,7 @@ Disapproval rose to 62%, the worst of his two terms in office, amid economic iss
 
 Link: https://www.theguardian.com/us-news/2026/may/03/trump-disapproval-rating-poll
 
-### 5. AI music is flooding streaming services — but who wants it? [9/10]
+### 8. AI music is flooding streaming services — but who wants it? [9/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -82,7 +109,7 @@ This is The Stepback, a weekly newsletter breaking down one essential story from
 
 Link: https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it
 
-### 6. Todd Blanche says case against Comey based on more than just Instagram post [9/10]
+### 9. Todd Blanche says case against Comey based on more than just Instagram post [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -91,25 +118,7 @@ Former FBI director indicted in connection with seashell photo as some Trump all
 
 Link: https://www.theguardian.com/us-news/2026/may/03/james-comey-indictment-instagram-post-seashells
 
-### 7. ‘Christofascism’ is here: inside the slow demolition of US public health | Adrienne Matei [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-From prescribing spiritual warfare to demonizing health experts, RFK Jr’s health empire has become a dangerous vehicle for a Christian nationalist worldview In February 2025, Robert F Kennedy Jr began his tenure as secretary of the…
-
-Link: https://www.theguardian.com/us-news/ng-interactive/2026/may/03/christofascism-rfk-jr-health
-
-### 8. ‘This is just disarray’: alarm inside Pentagon after Hegseth staff purges [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Insiders portray defense secretary as increasingly isolated after officers with impeccable reputations forced out Since Donald Trump’s first term, they have been viewed comfortingly as the “adults in the room,” a last line of defense…
-
-Link: https://www.theguardian.com/us-news/2026/may/03/pentagon-pete-hegseth-us-military
-
-### 9. Oklahoma School Districts Bracing to Pay Out of Pocket for Teacher Raises [9/10]
+### 10. Oklahoma School Districts Bracing to Pay Out of Pocket for Teacher Raises [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -118,16 +127,16 @@ OKLAHOMA CITY — A $2,000 teacher salary increase advancing through the Legisla
 
 Link: https://www.the74million.org/article/oklahoma-school-districts-bracing-to-pay-out-of-pocket-for-teacher-raises/
 
-### 10. We may not have seen anything of Final Fantasy 7 Remake Part 3 yet, but co-director Hamaguchi has already completed "over 40 full playthroughs" [8/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 11. The oldest millennials are 45! This tool helps plan for longevity [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-Final Fantasy 7 Remake Part 3 co-director Naoki Hamaguchi has revealed that, despite sharing very little to the public in terms of concrete details or footage, he has already completed the final part of the hugely successful trilogy "over…
+Planning for the future often focuses exclusively on financial planning. A new tool can help in other important domains, like purpose and navigating a long life.
 
-Link: https://www.eurogamer.net/we-may-not-have-seen-anything-of-final-fantasy-7-remake-part-3-yet-but-co-director-hamaguchi-has-already-completed-over-40-full-playthroughs
+Link: https://www.npr.org/2026/05/04/nx-s1-5787940/the-oldest-millennials-are-45-this-tool-helps-plan-for-longevity
 
-### 11. Reggie Fils-Aimé says Amazon once asked Nintendo to break the law [8/10]
+### 12. Reggie Fils-Aimé says Amazon once asked Nintendo to break the law [8/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -136,7 +145,7 @@ Way back in the DS days, Nintendo decided to stop selling to Amazon.
 
 Link: https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal
 
-### 12. AI robot tech bros dogs run wild in Berlin gallery [8/10]
+### 13. AI robot tech bros dogs run wild in Berlin gallery [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -145,20 +154,11 @@ In Germany, robotic AI dogs with the faces of tech's most powerful men are on th
 
 Link: https://www.npr.org/2026/05/03/nx-s1-5795427-e1/ai-robot-tech-bros-dogs-run-wild-in-berlin-gallery
 
-### 13. California's rule to add folic acid brings a Hispanic staple into the regulatory fold [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-In January, California became the first U.S. state to require food makers to add folic acid to products like tortillas because of the high rate of neural tube defects in Hispanic infants.
-
-Link: https://www.npr.org/2026/05/03/nx-s1-5771839/californias-rule-to-add-folic-acid-brings-a-hispanic-staple-into-the-regulatory-fold
-
 ## YouTube
 
-### NVIDIA's New AI Turns One Photo Into A World That Never Breaks [9/10]
+### NVIDIA's New AI Turns One Photo Into A World That Never Breaks [8/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://research.nvidia.com/labs/sil/projects/lyra2/ Our Patreon if you wish to support us: https://www.patreon.

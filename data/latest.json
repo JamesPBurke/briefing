@@ -1,19 +1,59 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-04T05:00:01.282039Z",
-  "generatedAtDisplay": "2026-05-04 01:00 AM EDT",
+  "generatedAt": "2026-05-04T09:01:41.900946Z",
+  "generatedAtDisplay": "2026-05-04 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Hantavirus outbreak kills 3 on cruise ship in the Atlantic Ocean, WHO says, Three passengers dead after suspected hantavirus outbreak on cruise ship, and Trump says US navy will ‘guide’ trapped ships from strait of Hormuz amid ‘very positive’ talks with Iran.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Crimson Desert's latest patch will help with your post-game buff build boredom through boss fight do-overs and more, Middle East crisis live: Iran warns it will attack US forces if they enter strait of Hormuz after Trump says US will help ‘guide’ stranded ships, and Security or justice? Syria faces post-Assad reckoning after string of arrests.",
   "mainItems": [
     {
-      "title": "Hantavirus outbreak kills 3 on cruise ship in the Atlantic Ocean, WHO says",
-      "source": "NPR Health",
+      "title": "Crimson Desert's latest patch will help with your post-game buff build boredom through boss fight do-overs and more",
+      "source": "Rock Paper Shotgun",
       "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/05/03/nx-s1-5809495/hantavirus-outbreak-cruise-ship-atlantic-ocean",
-      "published": "2026-05-03T23:30:14+00:00",
-      "summary": "Hantaviruses are usually spread by exposure to urine, saliva or feces from infected rodents, such as rats or mice. Hantavirus infections are rare but can cause deadly respiratory infections.",
+      "url": "https://www.rockpapershotgun.com/crimson-deserts-latest-patch-will-help-with-your-post-game-buff-build-boredom-through-boss-fight-do-overs-and-more",
+      "published": "2026-05-04T09:00:46+00:00",
+      "summary": "A slightly strange aspect of Crimson Desert thus far has been that the more you get through it, the more enemies you beat, and the less enemies you actually have to fight.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Middle East crisis live: Iran warns it will attack US forces if they enter strait of Hormuz after Trump says US will help ‘guide’ stranded ships",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
+      "published": "2026-05-04T08:35:19+00:00",
+      "summary": "Iranian military says it will ‘respond harshly’ to any threat after Trump warns that interference with US operation in Hormuz will be ‘dealt with forcefully’ Trump says US navy will ‘guide’ trapped ships from strait of Hormuz amid ‘very…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Security or justice? Syria faces post-Assad reckoning after string of arrests",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/may/04/syria-justice-assad-regime-arrests-2013-tadamon-massacres",
+      "published": "2026-05-04T04:30:15+00:00",
+      "summary": "New government accused of ‘performative justice’ and making deals with suspects in 2013 Tadamon massacres Ahmad al-Homsi is a deep sleeper, but when he was woken last month and told that Amjad Youssef, a Syrian intelligence officer who…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The big Resident Evil Requiem interview: how Capcom made a modern horror classic",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/the-big-resident-evil-requiem-interview-capcom-modern-horror-classic",
+      "published": "2026-05-04T09:00:00+00:00",
+      "summary": "There aren't many series that make it to the big three-oh. But Resident Evil hasn't just survived three decades, it's excelled, continuing (brief wobble around part six aside) to go from strength to strength.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "49 ways to have fun right now! Skydive in a wind tunnel, count dogs and run like a three-year-old",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/04/49-ways-to-have-fun-right-now-skydive-in-a-wind-tunnel-count-dogs-and-run-like-a-three-year-old",
+      "published": "2026-05-04T04:00:14+00:00",
+      "summary": "The world often feels dominated by sadness and doomscrolling. But fun is still possible – and necessary. Here are tried and tested ways to enjoy yourself Cartwheel.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -22,18 +62,8 @@
       "category": "Democracy / anti-fascism",
       "url": "https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship",
       "published": "2026-05-03T22:55:44+00:00",
-      "summary": "Dutch husband and wife and third unidentified person reported to have died, with three further people taken ill A suspected outbreak of the rare hantavirus infection on a cruise ship in the Atlantic Ocean killed three people – including an…",
+      "summary": "Dutch husband and wife and third unidentified person reported to have died, with three further people taken ill What is hantavirus, the infection that has killed three people on a cruise ship? A suspected outbreak of the rare hantavirus…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Trump says US navy will ‘guide’ trapped ships from strait of Hormuz amid ‘very positive’ talks with Iran",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
-      "published": "2026-05-03T22:27:46+00:00",
-      "summary": "US president’s post follows flurry of mixed signals including concern Tehran had not ‘paid big enough price’ Donald Trump has announced that the US will “guide” ships trapped by the Iran war out of the Gulf through the strait of Hormuz on…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
@@ -67,26 +97,6 @@
       "score": 9
     },
     {
-      "title": "‘Christofascism’ is here: inside the slow demolition of US public health | Adrienne Matei",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/03/christofascism-rfk-jr-health",
-      "published": "2026-05-03T13:00:03+00:00",
-      "summary": "From prescribing spiritual warfare to demonizing health experts, RFK Jr’s health empire has become a dangerous vehicle for a Christian nationalist worldview In February 2025, Robert F Kennedy Jr began his tenure as secretary of the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "‘This is just disarray’: alarm inside Pentagon after Hegseth staff purges",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/03/pentagon-pete-hegseth-us-military",
-      "published": "2026-05-03T11:00:54+00:00",
-      "summary": "Insiders portray defense secretary as increasingly isolated after officers with impeccable reputations forced out Since Donald Trump’s first term, they have been viewed comfortingly as the “adults in the room,” a last line of defense…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
       "title": "Oklahoma School Districts Bracing to Pay Out of Pocket for Teacher Raises",
       "source": "The 74",
       "category": "Education / pedagogy",
@@ -97,13 +107,13 @@
       "score": 9
     },
     {
-      "title": "We may not have seen anything of Final Fantasy 7 Remake Part 3 yet, but co-director Hamaguchi has already completed \"over 40 full playthroughs\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/we-may-not-have-seen-anything-of-final-fantasy-7-remake-part-3-yet-but-co-director-hamaguchi-has-already-completed-over-40-full-playthroughs",
-      "published": "2026-05-03T20:01:36+00:00",
-      "summary": "Final Fantasy 7 Remake Part 3 co-director Naoki Hamaguchi has revealed that, despite sharing very little to the public in terms of concrete details or footage, he has already completed the final part of the hugely successful trilogy \"over…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "The oldest millennials are 45! This tool helps plan for longevity",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/05/04/nx-s1-5787940/the-oldest-millennials-are-45-this-tool-helps-plan-for-longevity",
+      "published": "2026-05-04T08:40:40+00:00",
+      "summary": "Planning for the future often focuses exclusively on financial planning. A new tool can help in other important domains, like purpose and navigating a long life.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -125,16 +135,6 @@
       "summary": "In Germany, robotic AI dogs with the faces of tech's most powerful men are on the loose — courtesy of American artist Beeple. (This story first aired on All Things Considered on May 1, 2026.)",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
-    },
-    {
-      "title": "California's rule to add folic acid brings a Hispanic staple into the regulatory fold",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/03/nx-s1-5771839/californias-rule-to-add-folic-acid-brings-a-hispanic-staple-into-the-regulatory-fold",
-      "published": "2026-05-03T12:06:54+00:00",
-      "summary": "In January, California became the first U.S. state to require food makers to add folic acid to products like tortillas because of the high rate of neural tube defects in Hispanic infants.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     }
   ],
   "youtube": [
@@ -146,8 +146,8 @@
       "published": "2026-05-03T17:02:48+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://research.nvidia.com/labs/sil/projects/lyra2/ Our Patreon if you wish to support us: https://www.patreon.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Sakana AI’s God Simulator Is Brilliant",
@@ -773,16 +773,16 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Mist",
+    "desc": "Overcast",
     "temp": "54",
-    "feels": "53",
-    "wind": "5",
+    "feels": "51",
+    "wind": "8",
     "humidity": "94",
     "days": [
       {
         "label": "Mon May 4",
-        "high": "57",
-        "low": "49"
+        "high": "58",
+        "low": "47"
       },
       {
         "label": "Tue May 5",
@@ -791,8 +791,8 @@
       },
       {
         "label": "Wed May 6",
-        "high": "55",
-        "low": "47"
+        "high": "56",
+        "low": "44"
       }
     ]
   },
@@ -800,6 +800,6 @@
     "mainCount": 13,
     "youtubeCount": 20,
     "trailerCount": 28,
-    "sourceCount": 19
+    "sourceCount": 20
   }
 }
