@@ -1,11 +1,71 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-04T09:01:41.900946Z",
-  "generatedAtDisplay": "2026-05-04 05:01 AM EDT",
+  "generatedAt": "2026-05-04T14:00:01.373856Z",
+  "generatedAtDisplay": "2026-05-04 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Crimson Desert's latest patch will help with your post-game buff build boredom through boss fight do-overs and more, Middle East crisis live: Iran warns it will attack US forces if they enter strait of Hormuz after Trump says US will help ‘guide’ stranded ships, and Security or justice? Syria faces post-Assad reckoning after string of arrests.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are GameStop makes $56 billion offer to acquire eBay, Driver injured after truck was struck by United plane landing at Newark airport, and Middle East crisis live: US denies report that warship trying to pass through strait of Hormuz was hit by Iran.",
   "mainItems": [
+    {
+      "title": "GameStop makes $56 billion offer to acquire eBay",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/922935/gamestop-ebay-bid",
+      "published": "2026-05-04T13:46:24+00:00",
+      "summary": "GameStop has made an offer to acquire eBay for $56 billion, which comes as part of GameStop CEO Ryan Cohen's plan to transform the online marketplace into a \"legit competitor to Amazon,\" he tells The Wall Street Journal.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Driver injured after truck was struck by United plane landing at Newark airport",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/04/united-airlines-plane-newark-airport",
+      "published": "2026-05-04T13:33:30+00:00",
+      "summary": "Delivery truck driver emerged with minor injuries after underside of jet hit tractor trailer in New Jersey on Sunday The driver of a delivery truck emerged with only minor injuries after his tractor trailer was struck by a passenger jet…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Middle East crisis live: US denies report that warship trying to pass through strait of Hormuz was hit by Iran",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
+      "published": "2026-05-04T13:29:56+00:00",
+      "summary": "US Central Command denies that a ship has been struck after Iran’s Fars news agency claimed two missiles hit a US navy frigate Trump says US navy will ‘guide’ trapped ships from strait of Hormuz amid ‘very positive’ talks with Iran We have…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Tailoring AI solutions for health care needs",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+      "published": "2026-05-04T13:00:00+00:00",
+      "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "GameStop makes $55.5bn takeover offer for eBay",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/technology/2026/may/04/gamestop-takeover-offer-ebay-bid",
+      "published": "2026-05-04T11:43:28+00:00",
+      "summary": "Video game retailer’s CEO warns that unsolicited bid could turn hostile if it is rebuffed by resale site’s board US video games retailer GameStop has offered to buy eBay for $55.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/business/922788/spirit-airlines-shutdown",
+      "published": "2026-05-04T09:34:50+00:00",
+      "summary": "The ultra-low-cost air carrier Spirit Airlines shut down operations after 34 years in business and canceled all flights at 3AM ET on Saturday morning. Its website now redirects to spiritrestructuring.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Crimson Desert's latest patch will help with your post-game buff build boredom through boss fight do-overs and more",
       "source": "Rock Paper Shotgun",
@@ -17,124 +77,64 @@
       "score": 10
     },
     {
-      "title": "Middle East crisis live: Iran warns it will attack US forces if they enter strait of Hormuz after Trump says US will help ‘guide’ stranded ships",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
-      "published": "2026-05-04T08:35:19+00:00",
-      "summary": "Iranian military says it will ‘respond harshly’ to any threat after Trump warns that interference with US operation in Hormuz will be ‘dealt with forcefully’ Trump says US navy will ‘guide’ trapped ships from strait of Hormuz amid ‘very…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Security or justice? Syria faces post-Assad reckoning after string of arrests",
-      "source": "The Guardian US",
+      "title": "Homebridge 2.0 is here, and it speaks Matter",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/may/04/syria-justice-assad-regime-arrests-2013-tadamon-massacres",
-      "published": "2026-05-04T04:30:15+00:00",
-      "summary": "New government accused of ‘performative justice’ and making deals with suspects in 2013 Tadamon massacres Ahmad al-Homsi is a deep sleeper, but when he was woken last month and told that Amjad Youssef, a Syrian intelligence officer who…",
+      "url": "https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums",
+      "published": "2026-05-04T13:42:37+00:00",
+      "summary": "Homebridge, the popular software solution that allows you to integrate non-HomeKit devices like Ring cameras into Apple Home, is adding support for the Matter smart home standard. Today, May 4th, Homebridge 2.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "The big Resident Evil Requiem interview: how Capcom made a modern horror classic",
-      "source": "Eurogamer",
+      "title": "Trump administration cites national security in stalling 165 wind farms",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/science/2026/05/trump-administration-cites-national-security-in-stalling-165-wind-farms/",
+      "published": "2026-05-04T13:23:22+00:00",
+      "summary": "Onshore wind development in the United States is being brought to a standstill.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "\"It meant we got the design right\": Resident Evil Requiem's producer on the DLSS5 Grace Ashcroft debacle",
+      "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/the-big-resident-evil-requiem-interview-capcom-modern-horror-classic",
-      "published": "2026-05-04T09:00:00+00:00",
-      "summary": "There aren't many series that make it to the big three-oh. But Resident Evil hasn't just survived three decades, it's excelled, continuing (brief wobble around part six aside) to go from strength to strength.",
+      "url": "https://www.rockpapershotgun.com/it-meant-we-got-the-design-right-resident-evil-requiems-producer-on-the-dlss5-grace-ashcroft-debacle",
+      "published": "2026-05-04T11:58:58+00:00",
+      "summary": "Back in March, Nvidia revealed unto the world DLSS5, the next version of its upscaling and frame generation tech.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "49 ways to have fun right now! Skydive in a wind tunnel, count dogs and run like a three-year-old",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/04/49-ways-to-have-fun-right-now-skydive-in-a-wind-tunnel-count-dogs-and-run-like-a-three-year-old",
-      "published": "2026-05-04T04:00:14+00:00",
-      "summary": "The world often feels dominated by sadness and doomscrolling. But fun is still possible – and necessary. Here are tried and tested ways to enjoy yourself Cartwheel.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Three passengers dead after suspected hantavirus outbreak on cruise ship",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship",
-      "published": "2026-05-03T22:55:44+00:00",
-      "summary": "Dutch husband and wife and third unidentified person reported to have died, with three further people taken ill What is hantavirus, the infection that has killed three people on a cruise ship? A suspected outbreak of the rare hantavirus…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Trump’s disapproval rating hits record high, new poll shows",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/03/trump-disapproval-rating-poll",
-      "published": "2026-05-03T17:00:03+00:00",
-      "summary": "Disapproval rose to 62%, the worst of his two terms in office, amid economic issues since launching his war against Iran Six months out from November’s midterm US elections, Donald Trump’s disapproval rating has reached 62% – the worst of…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "AI music is flooding streaming services — but who wants it?",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
-      "published": "2026-05-03T16:17:30+00:00",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Todd Blanche says case against Comey based on more than just Instagram post",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/03/james-comey-indictment-instagram-post-seashells",
-      "published": "2026-05-03T15:57:27+00:00",
-      "summary": "Former FBI director indicted in connection with seashell photo as some Trump allies skeptical of news charges The acting US attorney general, Todd Blanche, on Sunday defended new criminal charges filed against former FBI head James Comey,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Oklahoma School Districts Bracing to Pay Out of Pocket for Teacher Raises",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/oklahoma-school-districts-bracing-to-pay-out-of-pocket-for-teacher-raises/",
-      "published": "2026-05-03T10:30:00+00:00",
-      "summary": "OKLAHOMA CITY — A $2,000 teacher salary increase advancing through the Legislature has raised concerns among school district leaders of whether state funding will support its total cost.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "The oldest millennials are 45! This tool helps plan for longevity",
+      "title": "Here's how medication abortion works with just one drug that's still fully available",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/04/nx-s1-5787940/the-oldest-millennials-are-45-this-tool-helps-plan-for-longevity",
-      "published": "2026-05-04T08:40:40+00:00",
-      "summary": "Planning for the future often focuses exclusively on financial planning. A new tool can help in other important domains, like purpose and navigating a long life.",
+      "url": "https://www.npr.org/2026/05/04/g-s1-119947/telehealth-abortion-mifepristone-misoprostol",
+      "published": "2026-05-04T11:38:48+00:00",
+      "summary": "A federal appeals court ruling restricts telemedicine access to the abortion drug mifepristone for the whole country, at least temporarily. But another drug that remains available is safe and effective at ending early pregnancy.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Reggie Fils-Aimé says Amazon once asked Nintendo to break the law",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal",
-      "published": "2026-05-03T15:24:27+00:00",
-      "summary": "Way back in the DS days, Nintendo decided to stop selling to Amazon.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "At 250, the Declaration of Independence Still Sparks Hard Questions in Class",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/at-250-the-declaration-of-independence-still-sparks-hard-questions-in-class/",
+      "published": "2026-05-04T11:00:00+00:00",
+      "summary": "This article was co-published with The 19th, a nonprofit newsroom reporting on gender, politics, policy and power.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 8
     },
     {
-      "title": "AI robot tech bros dogs run wild in Berlin gallery",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/05/03/nx-s1-5795427-e1/ai-robot-tech-bros-dogs-run-wild-in-berlin-gallery",
-      "published": "2026-05-03T13:39:31+00:00",
-      "summary": "In Germany, robotic AI dogs with the faces of tech's most powerful men are on the loose — courtesy of American artist Beeple. (This story first aired on All Things Considered on May 1, 2026.)",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
+      "title": "How a University’s Censorship Conference Got Censored",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/how-a-universitys-censorship-conference-got-censored/",
+      "published": "2026-05-04T13:55:41+00:00",
+      "summary": "Presenters say that Weber State University’s legal team adopted a narrow construction of a state law designed to withhold funding from public institutions suspected of practicing DEI.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
     }
   ],
   "youtube": [
@@ -326,6 +326,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Games As Comedy Engines | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=UBR1uAZUEGQ",
+      "published": "2026-05-04T13:40:20+00:00",
+      "summary": "On this week’s episode of Windbreaker, Jack Packard joins the regular crew to chat about games as engines for comedy. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
       "title": "Vampire Crawlers, Gecko Gods, Casualties Unknown, and Gunboat God | Yahtzee Tries",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -346,17 +357,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Answering Your Strangest TTRPG Questions w/ RUN-DMG and Jesse Galena | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=AHDTamueYPU",
-      "published": "2026-05-01T10:53:22+00:00",
-      "summary": "This week, Jesse's joined by RUN-DMG to answer your TTRPG questions. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     }
   ],
   "trailers": [
@@ -773,11 +773,11 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Overcast",
-    "temp": "54",
-    "feels": "51",
+    "desc": "Light rain shower",
+    "temp": "60",
+    "feels": "60",
     "wind": "8",
-    "humidity": "94",
+    "humidity": "77",
     "days": [
       {
         "label": "Mon May 4",
@@ -800,6 +800,6 @@
     "mainCount": 13,
     "youtubeCount": 20,
     "trailerCount": 28,
-    "sourceCount": 20
+    "sourceCount": 21
   }
 }

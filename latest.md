@@ -1,14 +1,14 @@
 # James Daily Briefing
 
-Generated: 2026-05-04T09:01:41.900946Z
+Generated: 2026-05-04T14:00:01.373856Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Crimson Desert's latest patch will help with your post-game buff build boredom through boss fight do-overs and more, Middle East crisis live: Iran warns it will attack US forces if they enter strait of Hormuz after Trump says US will help ‘guide’ stranded ships, and Security or justice? Syria faces post-Assad reckoning after string of arrests.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are GameStop makes $56 billion offer to acquire eBay, Driver injured after truck was struck by United plane landing at Newark airport, and Middle East crisis live: US denies report that warship trying to pass through strait of Hormuz was hit by Iran.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Overcast, 54°F (feels like 51°F), 8 mph wind, 94% humidity.
+02726 (Somerset, MA): Light rain shower, 60°F (feels like 60°F), 8 mph wind, 77% humidity.
 
 Forecast:
 - Mon May 4: high 58° / low 47°
@@ -37,7 +37,61 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Crimson Desert's latest patch will help with your post-game buff build boredom through boss fight do-overs and more [10/10]
+### 1. GameStop makes $56 billion offer to acquire eBay [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+GameStop has made an offer to acquire eBay for $56 billion, which comes as part of GameStop CEO Ryan Cohen's plan to transform the online marketplace into a "legit competitor to Amazon," he tells The Wall Street Journal.
+
+Link: https://www.theverge.com/games/922935/gamestop-ebay-bid
+
+### 2. Driver injured after truck was struck by United plane landing at Newark airport [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Delivery truck driver emerged with minor injuries after underside of jet hit tractor trailer in New Jersey on Sunday The driver of a delivery truck emerged with only minor injuries after his tractor trailer was struck by a passenger jet…
+
+Link: https://www.theguardian.com/us-news/2026/may/04/united-airlines-plane-newark-airport
+
+### 3. Middle East crisis live: US denies report that warship trying to pass through strait of Hormuz was hit by Iran [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+US Central Command denies that a ship has been struck after Iran’s Fars news agency claimed two missiles hit a US navy frigate Trump says US navy will ‘guide’ trapped ships from strait of Hormuz amid ‘very positive’ talks with Iran We have…
+
+Link: https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes
+
+### 4. Tailoring AI solutions for health care needs [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population.
+
+Link: https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/
+
+### 5. GameStop makes $55.5bn takeover offer for eBay [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Video game retailer’s CEO warns that unsolicited bid could turn hostile if it is rebuffed by resale site’s board US video games retailer GameStop has offered to buy eBay for $55.
+
+Link: https://www.theguardian.com/technology/2026/may/04/gamestop-takeover-offer-ebay-bid
+
+### 6. Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The ultra-low-cost air carrier Spirit Airlines shut down operations after 34 years in business and canceled all flights at 3AM ET on Saturday morning. Its website now redirects to spiritrestructuring.
+
+Link: https://www.theverge.com/business/922788/spirit-airlines-shutdown
+
+### 7. Crimson Desert's latest patch will help with your post-game buff build boredom through boss fight do-overs and more [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -46,113 +100,59 @@ A slightly strange aspect of Crimson Desert thus far has been that the more you 
 
 Link: https://www.rockpapershotgun.com/crimson-deserts-latest-patch-will-help-with-your-post-game-buff-build-boredom-through-boss-fight-do-overs-and-more
 
-### 2. Middle East crisis live: Iran warns it will attack US forces if they enter strait of Hormuz after Trump says US will help ‘guide’ stranded ships [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Iranian military says it will ‘respond harshly’ to any threat after Trump warns that interference with US operation in Hormuz will be ‘dealt with forcefully’ Trump says US navy will ‘guide’ trapped ships from strait of Hormuz amid ‘very…
-
-Link: https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes
-
-### 3. Security or justice? Syria faces post-Assad reckoning after string of arrests [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-New government accused of ‘performative justice’ and making deals with suspects in 2013 Tadamon massacres Ahmad al-Homsi is a deep sleeper, but when he was woken last month and told that Amjad Youssef, a Syrian intelligence officer who…
-
-Link: https://www.theguardian.com/world/2026/may/04/syria-justice-assad-regime-arrests-2013-tadamon-massacres
-
-### 4. The big Resident Evil Requiem interview: how Capcom made a modern horror classic [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-There aren't many series that make it to the big three-oh. But Resident Evil hasn't just survived three decades, it's excelled, continuing (brief wobble around part six aside) to go from strength to strength.
-
-Link: https://www.eurogamer.net/the-big-resident-evil-requiem-interview-capcom-modern-horror-classic
-
-### 5. 49 ways to have fun right now! Skydive in a wind tunnel, count dogs and run like a three-year-old [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The world often feels dominated by sadness and doomscrolling. But fun is still possible – and necessary. Here are tried and tested ways to enjoy yourself Cartwheel.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/may/04/49-ways-to-have-fun-right-now-skydive-in-a-wind-tunnel-count-dogs-and-run-like-a-three-year-old
-
-### 6. Three passengers dead after suspected hantavirus outbreak on cruise ship [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Dutch husband and wife and third unidentified person reported to have died, with three further people taken ill What is hantavirus, the infection that has killed three people on a cruise ship? A suspected outbreak of the rare hantavirus…
-
-Link: https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship
-
-### 7. Trump’s disapproval rating hits record high, new poll shows [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Disapproval rose to 62%, the worst of his two terms in office, amid economic issues since launching his war against Iran Six months out from November’s midterm US elections, Donald Trump’s disapproval rating has reached 62% – the worst of…
-
-Link: https://www.theguardian.com/us-news/2026/may/03/trump-disapproval-rating-poll
-
-### 8. AI music is flooding streaming services — but who wants it? [9/10]
+### 8. Homebridge 2.0 is here, and it speaks Matter [9/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien.
+Homebridge, the popular software solution that allows you to integrate non-HomeKit devices like Ring cameras into Apple Home, is adding support for the Matter smart home standard. Today, May 4th, Homebridge 2.
 
-Link: https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it
+Link: https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums
 
-### 9. Todd Blanche says case against Comey based on more than just Instagram post [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 9. Trump administration cites national security in stalling 165 wind farms [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Former FBI director indicted in connection with seashell photo as some Trump allies skeptical of news charges The acting US attorney general, Todd Blanche, on Sunday defended new criminal charges filed against former FBI head James Comey,…
+Onshore wind development in the United States is being brought to a standstill.
 
-Link: https://www.theguardian.com/us-news/2026/may/03/james-comey-indictment-instagram-post-seashells
+Link: https://arstechnica.com/science/2026/05/trump-administration-cites-national-security-in-stalling-165-wind-farms/
 
-### 10. Oklahoma School Districts Bracing to Pay Out of Pocket for Teacher Raises [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 10. "It meant we got the design right": Resident Evil Requiem's producer on the DLSS5 Grace Ashcroft debacle [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-OKLAHOMA CITY — A $2,000 teacher salary increase advancing through the Legislature has raised concerns among school district leaders of whether state funding will support its total cost.
+Back in March, Nvidia revealed unto the world DLSS5, the next version of its upscaling and frame generation tech.
 
-Link: https://www.the74million.org/article/oklahoma-school-districts-bracing-to-pay-out-of-pocket-for-teacher-raises/
+Link: https://www.rockpapershotgun.com/it-meant-we-got-the-design-right-resident-evil-requiems-producer-on-the-dlss5-grace-ashcroft-debacle
 
-### 11. The oldest millennials are 45! This tool helps plan for longevity [8/10]
+### 11. Here's how medication abortion works with just one drug that's still fully available [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Planning for the future often focuses exclusively on financial planning. A new tool can help in other important domains, like purpose and navigating a long life.
+A federal appeals court ruling restricts telemedicine access to the abortion drug mifepristone for the whole country, at least temporarily. But another drug that remains available is safe and effective at ending early pregnancy.
 
-Link: https://www.npr.org/2026/05/04/nx-s1-5787940/the-oldest-millennials-are-45-this-tool-helps-plan-for-longevity
+Link: https://www.npr.org/2026/05/04/g-s1-119947/telehealth-abortion-mifepristone-misoprostol
 
-### 12. Reggie Fils-Aimé says Amazon once asked Nintendo to break the law [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 12. At 250, the Declaration of Independence Still Sparks Hard Questions in Class [8/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Way back in the DS days, Nintendo decided to stop selling to Amazon.
+This article was co-published with The 19th, a nonprofit newsroom reporting on gender, politics, policy and power.
 
-Link: https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal
+Link: https://www.the74million.org/article/at-250-the-declaration-of-independence-still-sparks-hard-questions-in-class/
 
-### 13. AI robot tech bros dogs run wild in Berlin gallery [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+### 13. How a University’s Censorship Conference Got Censored [7/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-In Germany, robotic AI dogs with the faces of tech's most powerful men are on the loose — courtesy of American artist Beeple. (This story first aired on All Things Considered on May 1, 2026.)
+Presenters say that Weber State University’s legal team adopted a narrow construction of a state law designed to withhold funding from public institutions suspected of practicing DEI.
 
-Link: https://www.npr.org/2026/05/03/nx-s1-5795427-e1/ai-robot-tech-bros-dogs-run-wild-in-berlin-gallery
+Link: https://www.404media.co/how-a-universitys-censorship-conference-got-censored/
 
 ## YouTube
 
@@ -309,6 +309,15 @@ Link: https://www.youtube.com/watch?v=Da3_8WfAsYg
 
 Link: https://www.youtube.com/watch?v=3Gdw9e1a3VY
 
+### Games As Comedy Engines | Windbreaker Podcast [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+On this week’s episode of Windbreaker, Jack Packard joins the regular crew to chat about games as engines for comedy. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=UBR1uAZUEGQ
+
 ### Vampire Crawlers, Gecko Gods, Casualties Unknown, and Gunboat God | Yahtzee Tries [7/10]
 **Creator:** Second Wind  
 **Verdict:** Probably worth watching  
@@ -326,15 +335,6 @@ Link: https://www.youtube.com/watch?v=crCJ1-fya_Y
 This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.
 
 Link: https://www.youtube.com/watch?v=c2kru3_e4Is
-
-### Answering Your Strangest TTRPG Questions w/ RUN-DMG and Jesse Galena | RPG Help Desk [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week, Jesse's joined by RUN-DMG to answer your TTRPG questions. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=AHDTamueYPU
 
 ## Entertainment Recommendations
 
