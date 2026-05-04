@@ -1,139 +1,139 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-04T14:00:01.373856Z",
-  "generatedAtDisplay": "2026-05-04 10:00 AM EDT",
+  "generatedAt": "2026-05-04T18:01:46.262328Z",
+  "generatedAtDisplay": "2026-05-04 02:01 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are GameStop makes $56 billion offer to acquire eBay, Driver injured after truck was struck by United plane landing at Newark airport, and Middle East crisis live: US denies report that warship trying to pass through strait of Hormuz was hit by Iran.",
+  "summary": "Today's sweep leans toward AI / privacy, Democracy / press freedom, AI / computing. The strongest items in this run are Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI, Middle East crisis live: UAE says it has intercepted three Iran fired drones; US denies that Iran hit warship near strait of Hormuz, and Amazon’s trying to turn its massive shipping operation into another AWS.",
   "mainItems": [
     {
-      "title": "GameStop makes $56 billion offer to acquire eBay",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
       "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/922935/gamestop-ebay-bid",
-      "published": "2026-05-04T13:46:24+00:00",
-      "summary": "GameStop has made an offer to acquire eBay for $56 billion, which comes as part of GameStop CEO Ryan Cohen's plan to transform the online marketplace into a \"legit competitor to Amazon,\" he tells The Wall Street Journal.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "published": "2026-05-04T18:00:40+00:00",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Driver injured after truck was struck by United plane landing at Newark airport",
+      "title": "Middle East crisis live: UAE says it has intercepted three Iran fired drones; US denies that Iran hit warship near strait of Hormuz",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/04/united-airlines-plane-newark-airport",
-      "published": "2026-05-04T13:33:30+00:00",
-      "summary": "Delivery truck driver emerged with minor injuries after underside of jet hit tractor trailer in New Jersey on Sunday The driver of a delivery truck emerged with only minor injuries after his tractor trailer was struck by a passenger jet…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Middle East crisis live: US denies report that warship trying to pass through strait of Hormuz was hit by Iran",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
       "url": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
-      "published": "2026-05-04T13:29:56+00:00",
-      "summary": "US Central Command denies that a ship has been struck after Iran’s Fars news agency claimed two missiles hit a US navy frigate Trump says US navy will ‘guide’ trapped ships from strait of Hormuz amid ‘very positive’ talks with Iran We have…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "published": "2026-05-04T17:45:39+00:00",
+      "summary": "Drones shot down by UAE would be first since ceasefire; US Central Command denies ship was struck after Iran claimed two missiles hit a US navy frigate Trump says US navy will ‘guide’ trapped ships from strait of Hormuz amid ‘very…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Tailoring AI solutions for health care needs",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
-      "published": "2026-05-04T13:00:00+00:00",
-      "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "GameStop makes $55.5bn takeover offer for eBay",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/may/04/gamestop-takeover-offer-ebay-bid",
-      "published": "2026-05-04T11:43:28+00:00",
-      "summary": "Video game retailer’s CEO warns that unsolicited bid could turn hostile if it is rebuffed by resale site’s board US video games retailer GameStop has offered to buy eBay for $55.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices",
+      "title": "Amazon’s trying to turn its massive shipping operation into another AWS",
       "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/business/922788/spirit-airlines-shutdown",
-      "published": "2026-05-04T09:34:50+00:00",
-      "summary": "The ultra-low-cost air carrier Spirit Airlines shut down operations after 34 years in business and canceled all flights at 3AM ET on Saturday morning. Its website now redirects to spiritrestructuring.",
+      "url": "https://www.theverge.com/tech/923013/amazon-supply-chain-services",
+      "published": "2026-05-04T16:28:42+00:00",
+      "summary": "Amazon might have a part in delivering all kinds of stuff to your door soon, as its massive shipping network opens up to other companies outside its marketplace, more directly competing with giants like DHL, UPS, and FedEx.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Crimson Desert's latest patch will help with your post-game buff build boredom through boss fight do-overs and more",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/crimson-deserts-latest-patch-will-help-with-your-post-game-buff-build-boredom-through-boss-fight-do-overs-and-more",
-      "published": "2026-05-04T09:00:46+00:00",
-      "summary": "A slightly strange aspect of Crimson Desert thus far has been that the more you get through it, the more enemies you beat, and the less enemies you actually have to fight.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Homebridge 2.0 is here, and it speaks Matter",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums",
-      "published": "2026-05-04T13:42:37+00:00",
-      "summary": "Homebridge, the popular software solution that allows you to integrate non-HomeKit devices like Ring cameras into Apple Home, is adding support for the Matter smart home standard. Today, May 4th, Homebridge 2.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Trump administration cites national security in stalling 165 wind farms",
+      "title": "AMD is adding HDMI 2.1 support for Linux. That's good news for the Steam Machine.",
       "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/science/2026/05/trump-administration-cites-national-security-in-stalling-165-wind-farms/",
-      "published": "2026-05-04T13:23:22+00:00",
-      "summary": "Onshore wind development in the United States is being brought to a standstill.",
+      "url": "https://arstechnica.com/gaming/2026/05/amd-is-adding-hdmi-2-1-support-for-linux-thats-good-news-for-the-steam-machine/",
+      "published": "2026-05-04T16:26:49+00:00",
+      "summary": "Fixed Rate Link being added now; Display Stream Compression coming soon.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Artius: Pure Imagination is Sonic the Hedgehog for art students in a post-AI world",
+      "source": "Rock Paper Shotgun",
+      "category": "CS education / AI policy",
+      "url": "https://www.rockpapershotgun.com/artius-pure-imagination-is-sonic-the-hedgehog-for-art-students-in-a-post-ai-world",
+      "published": "2026-05-04T15:52:26+00:00",
+      "summary": "A thing that kind of got lost somewhere along the way in the Sonic the Hedgehog series is its themes of environmentalism.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+      "published": "2026-05-04T15:51:27+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial",
+      "source": "Ars Technica",
+      "category": "AI / privacy",
+      "url": "https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/",
+      "published": "2026-05-04T15:05:58+00:00",
+      "summary": "OpenAI accuses Musk of trying to \"coerce\" a settlement days before trial started.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI, Google, and Microsoft Back Bill to Fund ‘AI Literacy’ in Schools",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+      "published": "2026-05-04T14:29:19+00:00",
+      "summary": "A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants to the National Science Foundation—which has endured massive funding cuts under the Trump Administration for science research—to put “AI literacy” in schools.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10
+    },
+    {
+      "title": "The rise of cosy gaming: is this the closest many young people will get to home ownership?",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/games/2026/may/04/the-rise-of-cosy-gaming-is-this-the-closest-many-young-people-will-get-to-home-ownership",
+      "published": "2026-05-04T16:13:51+00:00",
+      "summary": "More than a quarter of 20- to 34-year-olds still live with their parents. No wonder they are escaping into virtual properties that they can decorate and furnish as they like Name: Cosy gaming.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "\"It meant we got the design right\": Resident Evil Requiem's producer on the DLSS5 Grace Ashcroft debacle",
+      "title": "Space Hauler is a full scale space flight sim set around Saturn where every single button in your ship is functional",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/it-meant-we-got-the-design-right-resident-evil-requiems-producer-on-the-dlss5-grace-ashcroft-debacle",
-      "published": "2026-05-04T11:58:58+00:00",
-      "summary": "Back in March, Nvidia revealed unto the world DLSS5, the next version of its upscaling and frame generation tech.",
+      "url": "https://www.rockpapershotgun.com/space-hauler-is-a-full-scale-space-flight-sim-set-around-saturn-where-every-single-button-in-your-ship-is-functional",
+      "published": "2026-05-04T14:28:45+00:00",
+      "summary": "I do love a bit of space exploration in games, there's something quite beautiful about the infinite openness, alongside having a terrifying primal fear quality.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "Here's how medication abortion works with just one drug that's still fully available",
+      "title": "Supreme Court gives abortion pill mifepristone a 1-week reprieve from a major change",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/04/g-s1-119947/telehealth-abortion-mifepristone-misoprostol",
-      "published": "2026-05-04T11:38:48+00:00",
-      "summary": "A federal appeals court ruling restricts telemedicine access to the abortion drug mifepristone for the whole country, at least temporarily. But another drug that remains available is safe and effective at ending early pregnancy.",
+      "url": "https://www.npr.org/2026/05/04/nx-s1-5810510/supreme-court-mifepristone-appeals-telehealth",
+      "published": "2026-05-04T16:15:13+00:00",
+      "summary": "The Supreme Court says rules that allow patients to get the abortion pill mifepristone through the mail can stay the same for at least a week.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "At 250, the Declaration of Independence Still Sparks Hard Questions in Class",
+      "title": "Kentucky’s Childcare Benefit for Early Educators Is Spreading Fast",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/at-250-the-declaration-of-independence-still-sparks-hard-questions-in-class/",
-      "published": "2026-05-04T11:00:00+00:00",
-      "summary": "This article was co-published with The 19th, a nonprofit newsroom reporting on gender, politics, policy and power.",
+      "url": "https://www.the74million.org/zero2eight/kentuckys-childcare-benefit-for-early-educators-is-spreading-fast/",
+      "published": "2026-05-04T15:01:00+00:00",
+      "summary": "Many early childhood educators can’t afford childcare for their own children — an irony that has long marked the early care and education field.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 8
     },
     {
-      "title": "How a University’s Censorship Conference Got Censored",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/how-a-universitys-censorship-conference-got-censored/",
-      "published": "2026-05-04T13:55:41+00:00",
-      "summary": "Presenters say that Weber State University’s legal team adopted a narrow construction of a state law designed to withhold funding from public institutions suspected of practicing DEI.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Babylon 5 Rewatch: “A Tragedy of Telepaths”",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/babylon-5-rewatch-a-tragedy-of-telepaths/",
+      "published": "2026-05-04T17:00:00+00:00",
+      "summary": "Lochley attempts to negotiate with the telepaths, and G'Kar finds an old friend in the Centauri palace... The post Babylon 5 Rewatch: “A Tragedy of Telepaths” appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 7
     }
   ],
@@ -148,28 +148,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Sakana AI’s God Simulator Is Brilliant",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=QzZ4VwDHAT4",
-      "published": "2026-05-01T16:43:34+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Try it out! The paper is available here: https://pub.sakana.ai/digital-ecosystem/ Our Patreon if you wish to support us: https://www.patreon.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Doctor Answers Lung Questions | Tech Support | WIRED",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=CSfY2rxpmBY",
-      "published": "2026-05-01T16:00:12+00:00",
-      "summary": "Pulmonologist Dr. Ravi Kalhan, MD answers the internet's burning questions about our lungs.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     },
     {
       "title": "Americans increasingly see homebuying as out of reach",
@@ -238,24 +216,24 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Andrew Lloyd Webber's Evita coming to Broadway",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=u66pOarg1J4",
-      "published": "2026-05-01T16:01:26+00:00",
-      "summary": "A buzzy London production of Andrew Lloyd Webber’s \"Evita\" is coming to New York next spring. It stars Rachel Zegler, who played Maria in the Stephen Spielberg remake of \"West Side Story.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "How Will DF Cope With Alex Taking Time Out For Health Reasons?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=ypZojJa1bnU",
+      "published": "2026-05-04T17:01:13+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/T-yqMN_gqb4 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Americans urged to save as gas prices soar more than 30 cents/gallon in a week",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=oWqvxfUwAz8",
-      "published": "2026-05-01T15:30:28+00:00",
-      "summary": "Gas prices soared this week. AAA says the average national cost of a gallon of regular gas jumped nine cents overnight, to almost $4.40/gallon — up more than 30 cents this week.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Intel Says Optimisation Can Boost CPU Perf By 30% - And We Believe Them",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=UPNR90OW7Tg",
+      "published": "2026-05-04T17:00:37+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/LHUIqy_mK4A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
     },
@@ -267,8 +245,8 @@
       "published": "2026-05-03T16:00:06+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/LHUIqy_mK4A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Xbox 360/PS2 Cross-Gen Wasn't Always The Big Improvement You'd Expect",
@@ -278,8 +256,8 @@
       "published": "2026-05-03T15:01:05+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/qYQxQ7gZJoE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Is There Still Untapped Potential In PS5 And Xbox Series X?",
@@ -304,29 +282,7 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "Intel Panther Lake Handhelds Are Coming: Competition For AMD At Last?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=Da3_8WfAsYg",
-      "published": "2026-05-01T16:00:32+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/5uNxLnL8Jcg ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Oblivion Remastered: Yes, It's Still Broken A Year After Release",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=3Gdw9e1a3VY",
-      "published": "2026-05-01T15:00:06+00:00",
-      "summary": "► BTW we've checked and the degradation in console performance over time and the crashes are still there ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Games As Comedy Engines | Windbreaker Podcast",
+      "title": "Games As Comedy Engines w/ Jack Packard | Windbreaker Podcast",
       "source": "Second Wind",
       "category": "Games / criticism",
       "url": "https://www.youtube.com/watch?v=UBR1uAZUEGQ",
@@ -334,6 +290,17 @@
       "summary": "On this week’s episode of Windbreaker, Jack Packard joins the regular crew to chat about games as engines for comedy. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Let’s Talk About the Voices in Our Heads | Storycraft",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=MletRyodkvQ",
+      "published": "2026-05-04T15:00:38+00:00",
+      "summary": "In this episode of Storycraft, Jess discusses how “internal voices” in games can be both fascinating characters and effective narrative devices. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10,
       "verdict": "Watch it"
     },
     {
@@ -515,6 +482,28 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "The Four Seasons | Season 2 Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=bgpDgJkQka0",
+      "published": "2026-05-04T15:00:01+00:00",
+      "summary": "Coming off a hard year, our group of friends carries on their tradition of vacationing together, now with a baby in tow. The Four Seasons S2 debuts May 28, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Wanda Sykes: Legacy | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=PC3u76Wzc74",
+      "published": "2026-05-04T14:00:00+00:00",
+      "summary": "In her next stand-up comedy special, Wanda Sykes returns to her alma mater with a fearless funny takedown of everything from the state of the world to the cultural clash over washcloths. Legacy debuts May 19, only on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "My 2 Cents | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -609,28 +598,6 @@
       "url": "https://www.youtube.com/watch?v=Mrc3vwreFMA",
       "published": "2026-04-28T14:00:00+00:00",
       "summary": "The search is almost over! We crossed the country. We heard from the legends. Now, it's YOUR turn to decide who will be crowned the funniest! Watch the Live Semi-Final on May 4 & the Grand Finale on May 5 and VOTE for your favorite.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Witness | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=3iKFLt9gjAU",
-      "published": "2026-04-28T08:00:00+00:00",
-      "summary": "The only witness to a brutal murder, two year old Alex and his father Andrè must search for peace, healing and justice in the face of press scrutiny and police failures. Based on a true story.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Murder of Rachel Nickell | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Vj5uaeZTKRM",
-      "published": "2026-04-28T07:30:00+00:00",
-      "summary": "A young mother is killed in broad daylight on London's Wimbledon Common — in front of her toddler. This documentary examines the yearslong murder case. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
@@ -773,32 +740,32 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Light rain shower",
+    "desc": "Patchy rain nearby",
     "temp": "60",
     "feels": "60",
-    "wind": "8",
-    "humidity": "77",
+    "wind": "7",
+    "humidity": "72",
     "days": [
       {
         "label": "Mon May 4",
-        "high": "58",
+        "high": "57",
         "low": "47"
       },
       {
         "label": "Tue May 5",
         "high": "57",
-        "low": "46"
+        "low": "47"
       },
       {
         "label": "Wed May 6",
-        "high": "56",
-        "low": "44"
+        "high": "54",
+        "low": "48"
       }
     ]
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 20,
+    "youtubeCount": 17,
     "trailerCount": 28,
     "sourceCount": 21
   }
