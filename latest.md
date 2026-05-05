@@ -1,14 +1,14 @@
 # James Daily Briefing
 
-Generated: 2026-05-05T09:00:59.430627Z
+Generated: 2026-05-05T14:00:02.318109Z
 
-Today's sweep leans toward AI / privacy, AI / computing, Democracy / press freedom. The strongest items in this run are Concierge firm co-founded by queen’s nephew went on ‘ill-timed’ hiring spree before Iran war, OpenAI’s president does ‘all the things,’ except answer a question, and Trump’s World Liberty Financial venture sues crypto entrepreneur for defamation.
+Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Researchers gaslit Claude into giving instructions to build explosives, What an AI-designed car looks like, and Star Wars Battlefront 2 player numbers climb again as excitement builds around returning Resurgence Day community event.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Partly cloudy, 56°F (feels like 54°F), 10 mph wind, 54% humidity.
+02726 (Somerset, MA): Patchy rain nearby, 56°F (feels like 54°F), 9 mph wind, 67% humidity.
 
 Forecast:
 - Tue May 5: high 57° / low 48°
@@ -37,50 +37,50 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Concierge firm co-founded by queen’s nephew went on ‘ill-timed’ hiring spree before Iran war [10/10]
-**Source:** The Guardian US  
+### 1. Researchers gaslit Claude into giving instructions to build explosives [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Anthropic has spent years building itself up as the safe AI company. But new security research shared with The Verge suggests Claude's carefully crafted helpful personality may itself be a vulnerability.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information
+
+### 2. What an AI-designed car looks like [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Quintessentially almost quadrupled staff in Middle East and Asia less than year before wealthy began to flee Gulf The embattled luxury concierge service co-founded by Queen Camilla’s nephew Ben Elliot embarked on what appeared to be an…
+The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tastes, politics, and gas prices to change.
 
-Link: https://www.theguardian.com/business/2026/may/05/concierge-firm-quintessentially-queen-nephew-ben-elliot-hiring-spree-iran-war-middle-east-gulf
+Link: https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast
 
-### 2. OpenAI’s president does ‘all the things,’ except answer a question [10/10]
+### 3. Star Wars Battlefront 2 player numbers climb again as excitement builds around returning Resurgence Day community event [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+EA and DICE's Star Wars Battlefront 2 ended on a high note despite its initial issues, resulting in a dedicated community sticking around in its servers over the years.
+
+Link: https://www.eurogamer.net/star-wars-battlefront-2-resurgence-day-2026-event
+
+### 4. The AI Hard Drive Shortage Is Making It More Expensive and Harder to Archive the Internet [10/10]
+**Source:** 404 Media  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The Internet Archive, Wikimedia, academics, and hobby archivists are having trouble finding hard drives or are having to pay extremely high prices for them.
+
+Link: https://www.404media.co/the-ai-hard-drive-shortage-is-making-it-more-expensive-and-harder-to-archive-the-internet/
+
+### 5. Google’s AI architect lived rent-free in Elon Musk’s head [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second.
+About a week into the Musk v. Altman trial, we've heard from some of the most powerful people in tech - including OpenAI president Greg Brockman, Elon Musk's fixer Jared Birchall, and Musk himself.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial
-
-### 3. Trump’s World Liberty Financial venture sues crypto entrepreneur for defamation [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Suit alleges that Hong Kong-based Justin Sun engaged in a campaign to ‘torch’ the company’s reputation Sign up for the Breaking News US newsletter email World Liberty Financial, the crypto venture co-founded by Donald Trump and his sons,…
-
-Link: https://www.theguardian.com/technology/2026/may/04/trump-world-liberty-financial-lawsuit-justin-sun
-
-### 4. Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.
-
-Link: https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit
-
-### 5. GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.
-
-Link: https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/
+Link: https://www.theverge.com/ai-artificial-intelligence/923518/musk-altman-trial-openai-demis-hassabis-google-deepmind
 
 ### 6. Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial [10/10]
 **Source:** Ars Technica  
@@ -100,25 +100,43 @@ A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants
 
 Link: https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/
 
-### 8. Google DeepMind workers in UK vote to unionize amid deal with US military [9/10]
+### 8. New Trailer for Christopher Nolan’s The Odyssey Looks Only Moderately Epic [9/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+There's no place like ... you know the rest The post New Trailer for Christopher Nolan’s The Odyssey Looks Only Moderately Epic appeared first on Reactor .
+
+Link: https://reactormag.com/christopher-nolan-odyssey-trailer/
+
+### 9. Shigeru Miyamoto felt Zelda 2 "was sort of a failure", and Nintendo actually considered A Link to the Past as the "real" Zelda sequel [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Previous comments made by Nintendo legend Shigeru Miyamoto have resurfaced, where the Zelda series creator admitted despite it being his idea, he felt Zelda 2 was "sort of a failure", and Nintendo instead believes A Link to the Past to be…
+
+Link: https://www.eurogamer.net/zelda-2-failure-a-link-to-the-past-real-sequel
+
+### 10. Opinion: Education Is a Fault Line In U.S. Politics. Democrats Are on the Wrong Side [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+There was a time when challenging broken institutions was the Democratic Party’s calling card.
+
+Link: https://www.the74million.org/article/education-is-a-fault-line-in-u-s-politics-democrats-are-on-the-wrong-side/
+
+### 11. The Odyssey: new trailer for Christopher Nolan’s classical Greek epic released online [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Exclusive: Worker pointed to Iran war and Pentagon’s Anthropic feud as indications the department is ‘not a responsible partner’ Workers developing Google ’s artificial intelligence products in the UK have voted to unionize, in part out of…
+Trailer offers glimpses of Matt Damon as mythological hero Odysseus, Tom Holland as his son Telemachus and Anne Hathaway as his wife, Penelope The new trailer for Christopher Nolan’s adaptation of Homer’s The Odyssey has been released.
 
-Link: https://www.theguardian.com/us-news/2026/may/04/google-deepmind-uk-workers-union
+Link: https://www.theguardian.com/film/2026/may/05/the-odyssey-first-trailer-christopher-nolan-classical-greek-epic-released-online
 
-### 9. More college applicants are opting to include SAT or ACT scores in their submissions [9/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-This application cycle, way more students reported test scores, up 10% compared with last year. That's despite many colleges having "test-optional" admissions policies.
-
-Link: https://www.npr.org/2026/05/04/nx-s1-5806634/more-college-applicants-are-opting-to-include-sat-or-act-scores-in-their-submissions
-
-### 10. What actually happens when schools take away students' phones? [9/10]
+### 12. What actually happens when schools take away students' phones? [9/10]
 **Source:** NPR Education  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -127,7 +145,7 @@ NPR's Ailsa Chang speaks with Stanford education economist Thomas Dee about the 
 
 Link: https://www.npr.org/2026/05/04/nx-s1-5810191/what-actually-happens-when-schools-take-away-students-phones
 
-### 11. Supreme Court gives abortion pill mifepristone a 1-week reprieve from a major change [8/10]
+### 13. Supreme Court gives abortion pill mifepristone a 1-week reprieve from a major change [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -135,24 +153,6 @@ Link: https://www.npr.org/2026/05/04/nx-s1-5810191/what-actually-happens-when-sc
 The Supreme Court says rules that allow patients to get the abortion pill mifepristone through the mail can stay the same for at least a week.
 
 Link: https://www.npr.org/2026/05/04/nx-s1-5810510/supreme-court-mifepristone-appeals-telehealth
-
-### 12. Space Hauler is a full scale space flight sim set around Saturn where every single button in your ship is functional [8/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-I do love a bit of space exploration in games, there's something quite beautiful about the infinite openness, alongside having a terrifying primal fear quality.
-
-Link: https://www.rockpapershotgun.com/space-hauler-is-a-full-scale-space-flight-sim-set-around-saturn-where-every-single-button-in-your-ship-is-functional
-
-### 13. Babylon 5 Rewatch: “A Tragedy of Telepaths” [6/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Lochley attempts to negotiate with the telepaths, and G'Kar finds an old friend in the Centauri palace... The post Babylon 5 Rewatch: “A Tragedy of Telepaths” appeared first on Reactor .
-
-Link: https://reactormag.com/babylon-5-rewatch-a-tragedy-of-telepaths/
 
 ## YouTube
 
@@ -410,6 +410,15 @@ Link: https://www.youtube.com/watch?v=oBWrb8HTU44
 
 Link: https://www.youtube.com/watch?v=SJPu1spHqfk
 
+### Tony | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas. TONY – In theaters this August.
+
+Link: https://www.youtube.com/watch?v=k1MVnzd2aVc
+
 ### BEEF | Behind the Score with Composer Finneas O’Connell | A24 [8/10]
 **Source:** A24  
 **Verdict:** Looks promising  
@@ -473,6 +482,24 @@ Are they "the one" or just the one you were warned about? Worst Ex Ever returns 
 
 Link: https://www.youtube.com/watch?v=_iKN26hplWY
 
+### Kylie | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Closer than ever before. Kylie, a three part documentary series, coming to Netflix on the May 20 Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=k-358jALXlA
+
+### A Good Girl's Guide to Murder: Season 2 | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Off the heels of cracking a cold case, Pip now awaits the trial. But a missing friend compels the good-girl-turned-detective to solve another mystery. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=OQAB1CXnWzg
+
 ### The Four Seasons | Season 2 Official Trailer | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -535,42 +562,6 @@ Link: https://www.youtube.com/watch?v=11gcNa-TBRA
 Watch Kevin Hart get roasted from the Epic final night of Netflix is a Joke Fest, hosted by Shane Gillis. LIVE, only on Netflix on Sunday, May 10, at 5 PM PT. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=1MasbNLZP8I
-
-### The Map of Longing | Official Teaser | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-'The Map of Longing', based on the novel by Alice Kellen, tells the story of Greta, a young woman who has always believed that her reason for existing was to help her sister Lucy, who suffers from leukemia, through her stem cells.
-
-Link: https://www.youtube.com/watch?v=CEhHdPcz0u0
-
-### Murder Mindfully: Season 2 | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Somewhere between meditation and murder, Björn encounters an unexpected companion: his inner child. Murder Mindfully: Season 2, May 28. Only on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=0fMsAQ83KKc
-
-### Perfect Match: Season 4 | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-More swaps. More sparks. More drama. Reality stars from "Love Is Blind," "Vanderpump Rules," "Love Island" and more shake up the game, but who'll find their perfect match? Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=kOEG8URlFBE
-
-### Funny AF with Kevin Hart | Live Semi-final and Grand Finale | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-The search is almost over! We crossed the country. We heard from the legends. Now, it's YOUR turn to decide who will be crowned the funniest! Watch the Live Semi-Final on May 4 & the Grand Finale on May 5 and VOTE for your favorite.
-
-Link: https://www.youtube.com/watch?v=Mrc3vwreFMA
 
 ### The POV with Christina Roki and Calum Nicholas — Miami Race Recap | F1 on Apple TV [10/10]
 **Source:** Apple TV  

@@ -1,58 +1,58 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-05T09:00:59.430627Z",
-  "generatedAtDisplay": "2026-05-05 05:00 AM EDT",
+  "generatedAt": "2026-05-05T14:00:02.318109Z",
+  "generatedAtDisplay": "2026-05-05 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / privacy, AI / computing, Democracy / press freedom. The strongest items in this run are Concierge firm co-founded by queen’s nephew went on ‘ill-timed’ hiring spree before Iran war, OpenAI’s president does ‘all the things,’ except answer a question, and Trump’s World Liberty Financial venture sues crypto entrepreneur for defamation.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Researchers gaslit Claude into giving instructions to build explosives, What an AI-designed car looks like, and Star Wars Battlefront 2 player numbers climb again as excitement builds around returning Resurgence Day community event.",
   "mainItems": [
     {
-      "title": "Concierge firm co-founded by queen’s nephew went on ‘ill-timed’ hiring spree before Iran war",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/2026/may/05/concierge-firm-quintessentially-queen-nephew-ben-elliot-hiring-spree-iran-war-middle-east-gulf",
-      "published": "2026-05-05T05:00:44+00:00",
-      "summary": "Quintessentially almost quadrupled staff in Middle East and Asia less than year before wealthy began to flee Gulf The embattled luxury concierge service co-founded by Queen Camilla’s nephew Ben Elliot embarked on what appeared to be an…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "OpenAI’s president does ‘all the things,’ except answer a question",
+      "title": "Researchers gaslit Claude into giving instructions to build explosives",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
-      "published": "2026-05-05T00:12:35+00:00",
-      "summary": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information",
+      "published": "2026-05-05T13:47:32+00:00",
+      "summary": "Anthropic has spent years building itself up as the safe AI company. But new security research shared with The Verge suggests Claude's carefully crafted helpful personality may itself be a vulnerability.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Trump’s World Liberty Financial venture sues crypto entrepreneur for defamation",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/technology/2026/may/04/trump-world-liberty-financial-lawsuit-justin-sun",
-      "published": "2026-05-04T23:49:36+00:00",
-      "summary": "Suit alleges that Hong Kong-based Justin Sun engaged in a campaign to ‘torch’ the company’s reputation Sign up for the Breaking News US newsletter email World Liberty Financial, the crypto venture co-founded by Donald Trump and his sons,…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "title": "What an AI-designed car looks like",
       "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "published": "2026-05-04T23:35:13+00:00",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast",
+      "published": "2026-05-05T13:42:18+00:00",
+      "summary": "The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tastes, politics, and gas prices to change.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
-      "source": "Ars Technica",
+      "title": "Star Wars Battlefront 2 player numbers climb again as excitement builds around returning Resurgence Day community event",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/star-wars-battlefront-2-resurgence-day-2026-event",
+      "published": "2026-05-05T13:37:40+00:00",
+      "summary": "EA and DICE's Star Wars Battlefront 2 ended on a high note despite its initial issues, resulting in a dedicated community sticking around in its servers over the years.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The AI Hard Drive Shortage Is Making It More Expensive and Harder to Archive the Internet",
+      "source": "404 Media",
+      "category": "Democracy / press freedom",
+      "url": "https://www.404media.co/the-ai-hard-drive-shortage-is-making-it-more-expensive-and-harder-to-archive-the-internet/",
+      "published": "2026-05-05T13:20:31+00:00",
+      "summary": "The Internet Archive, Wikimedia, academics, and hobby archivists are having trouble finding hard drives or are having to pay extremely high prices for them.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Google’s AI architect lived rent-free in Elon Musk’s head",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
-      "published": "2026-05-04T17:57:46+00:00",
-      "summary": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/923518/musk-altman-trial-openai-demis-hassabis-google-deepmind",
+      "published": "2026-05-05T13:11:58+00:00",
+      "summary": "About a week into the Musk v. Altman trial, we've heard from some of the most powerful people in tech - including OpenAI president Greg Brockman, Elon Musk's fixer Jared Birchall, and Musk himself.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
@@ -77,23 +77,43 @@
       "score": 10
     },
     {
-      "title": "Google DeepMind workers in UK vote to unionize amid deal with US military",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/may/04/google-deepmind-uk-workers-union",
-      "published": "2026-05-05T05:05:42+00:00",
-      "summary": "Exclusive: Worker pointed to Iran war and Pentagon’s Anthropic feud as indications the department is ‘not a responsible partner’ Workers developing Google ’s artificial intelligence products in the UK have voted to unionize, in part out of…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "New Trailer for Christopher Nolan’s The Odyssey Looks Only Moderately Epic",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/christopher-nolan-odyssey-trailer/",
+      "published": "2026-05-05T13:56:16+00:00",
+      "summary": "There's no place like ... you know the rest The post New Trailer for Christopher Nolan’s The Odyssey Looks Only Moderately Epic appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 9
     },
     {
-      "title": "More college applicants are opting to include SAT or ACT scores in their submissions",
-      "source": "NPR Education",
+      "title": "Shigeru Miyamoto felt Zelda 2 \"was sort of a failure\", and Nintendo actually considered A Link to the Past as the \"real\" Zelda sequel",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/zelda-2-failure-a-link-to-the-past-real-sequel",
+      "published": "2026-05-05T13:25:08+00:00",
+      "summary": "Previous comments made by Nintendo legend Shigeru Miyamoto have resurfaced, where the Zelda series creator admitted despite it being his idea, he felt Zelda 2 was \"sort of a failure\", and Nintendo instead believes A Link to the Past to be…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Opinion: Education Is a Fault Line In U.S. Politics. Democrats Are on the Wrong Side",
+      "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/05/04/nx-s1-5806634/more-college-applicants-are-opting-to-include-sat-or-act-scores-in-their-submissions",
-      "published": "2026-05-04T21:34:12+00:00",
-      "summary": "This application cycle, way more students reported test scores, up 10% compared with last year. That's despite many colleges having \"test-optional\" admissions policies.",
+      "url": "https://www.the74million.org/article/education-is-a-fault-line-in-u-s-politics-democrats-are-on-the-wrong-side/",
+      "published": "2026-05-05T10:30:00+00:00",
+      "summary": "There was a time when challenging broken institutions was the Democratic Party’s calling card.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "The Odyssey: new trailer for Christopher Nolan’s classical Greek epic released online",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/film/2026/may/05/the-odyssey-first-trailer-christopher-nolan-classical-greek-epic-released-online",
+      "published": "2026-05-05T09:13:58+00:00",
+      "summary": "Trailer offers glimpses of Matt Damon as mythological hero Odysseus, Tom Holland as his son Telemachus and Anne Hathaway as his wife, Penelope The new trailer for Christopher Nolan’s adaptation of Homer’s The Odyssey has been released.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -115,26 +135,6 @@
       "summary": "The Supreme Court says rules that allow patients to get the abortion pill mifepristone through the mail can stay the same for at least a week.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "Space Hauler is a full scale space flight sim set around Saturn where every single button in your ship is functional",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/space-hauler-is-a-full-scale-space-flight-sim-set-around-saturn-where-every-single-button-in-your-ship-is-functional",
-      "published": "2026-05-04T14:28:45+00:00",
-      "summary": "I do love a bit of space exploration in games, there's something quite beautiful about the infinite openness, alongside having a terrifying primal fear quality.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8
-    },
-    {
-      "title": "Babylon 5 Rewatch: “A Tragedy of Telepaths”",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/babylon-5-rewatch-a-tragedy-of-telepaths/",
-      "published": "2026-05-04T17:00:00+00:00",
-      "summary": "Lochley attempts to negotiate with the telepaths, and G'Kar finds an old friend in the Centauri palace... The post Babylon 5 Rewatch: “A Tragedy of Telepaths” appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 6
     }
   ],
   "youtube": [
@@ -416,6 +416,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Tony | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=k1MVnzd2aVc",
+      "published": "2026-05-05T13:00:00+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas. TONY – In theaters this August.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "BEEF | Behind the Score with Composer Finneas O’Connell | A24",
       "source": "A24",
       "category": "Film / trailer",
@@ -493,6 +504,28 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Kylie | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=k-358jALXlA",
+      "published": "2026-05-05T13:00:00+00:00",
+      "summary": "Closer than ever before. Kylie, a three part documentary series, coming to Netflix on the May 20 Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "A Good Girl's Guide to Murder: Season 2 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=OQAB1CXnWzg",
+      "published": "2026-05-05T12:30:01+00:00",
+      "summary": "Off the heels of cracking a cold case, Pip now awaits the trial. But a missing friend compels the good-girl-turned-detective to solve another mystery. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "The Four Seasons | Season 2 Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -565,50 +598,6 @@
       "url": "https://www.youtube.com/watch?v=1MasbNLZP8I",
       "published": "2026-04-30T12:00:00+00:00",
       "summary": "Watch Kevin Hart get roasted from the Epic final night of Netflix is a Joke Fest, hosted by Shane Gillis. LIVE, only on Netflix on Sunday, May 10, at 5 PM PT. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Map of Longing | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=CEhHdPcz0u0",
-      "published": "2026-04-30T11:00:00+00:00",
-      "summary": "'The Map of Longing', based on the novel by Alice Kellen, tells the story of Greta, a young woman who has always believed that her reason for existing was to help her sister Lucy, who suffers from leukemia, through her stem cells.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Murder Mindfully: Season 2 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=0fMsAQ83KKc",
-      "published": "2026-04-29T08:00:00+00:00",
-      "summary": "Somewhere between meditation and murder, Björn encounters an unexpected companion: his inner child. Murder Mindfully: Season 2, May 28. Only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Perfect Match: Season 4 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=kOEG8URlFBE",
-      "published": "2026-04-28T16:00:00+00:00",
-      "summary": "More swaps. More sparks. More drama. Reality stars from \"Love Is Blind,\" \"Vanderpump Rules,\" \"Love Island\" and more shake up the game, but who'll find their perfect match? Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Funny AF with Kevin Hart | Live Semi-final and Grand Finale | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Mrc3vwreFMA",
-      "published": "2026-04-28T14:00:00+00:00",
-      "summary": "The search is almost over! We crossed the country. We heard from the legends. Now, it's YOUR turn to decide who will be crowned the funniest! Watch the Live Semi-Final on May 4 & the Grand Finale on May 5 and VOTE for your favorite.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
@@ -762,11 +751,11 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Partly cloudy",
+    "desc": "Patchy rain nearby",
     "temp": "56",
     "feels": "54",
-    "wind": "10",
-    "humidity": "54",
+    "wind": "9",
+    "humidity": "67",
     "days": [
       {
         "label": "Tue May 5",
@@ -788,7 +777,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 20,
-    "trailerCount": 27,
-    "sourceCount": 20
+    "trailerCount": 26,
+    "sourceCount": 21
   }
 }
