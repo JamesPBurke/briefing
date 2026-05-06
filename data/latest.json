@@ -1,80 +1,120 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-05T14:00:02.318109Z",
-  "generatedAtDisplay": "2026-05-05 10:00 AM EDT",
+  "generatedAt": "2026-05-06T05:00:01.614103Z",
+  "generatedAtDisplay": "2026-05-06 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Researchers gaslit Claude into giving instructions to build explosives, What an AI-designed car looks like, and Star Wars Battlefront 2 player numbers climb again as excitement builds around returning Resurgence Day community event.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are ‘If he didn’t do it, who did?’: fresh doubts over 2007 murder case that gripped Italy, ‘Stuck in the mud’: one year on, Friedrich Merz struggles to find his footing, and Apple agrees to pay iPhone owners $250 million for not delivering AI Siri.",
   "mainItems": [
     {
-      "title": "Researchers gaslit Claude into giving instructions to build explosives",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information",
-      "published": "2026-05-05T13:47:32+00:00",
-      "summary": "Anthropic has spent years building itself up as the safe AI company. But new security research shared with The Verge suggests Claude's carefully crafted helpful personality may itself be a vulnerability.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "What an AI-designed car looks like",
-      "source": "The Verge",
+      "title": "‘If he didn’t do it, who did?’: fresh doubts over 2007 murder case that gripped Italy",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast",
-      "published": "2026-05-05T13:42:18+00:00",
-      "summary": "The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tastes, politics, and gas prices to change.",
+      "url": "https://www.theguardian.com/world/2026/may/06/if-he-didnt-do-it-who-did-fresh-doubts-over-2007-case-that-gripped-italy",
+      "published": "2026-05-06T04:00:03+00:00",
+      "summary": "Fresh DNA evidence in the killing of Chiara Poggi has brought a previously investigated suspect back under scrutiny, raising questions over the conviction A suspect in a case that has captivated Italy for almost 19 years has been summoned…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Star Wars Battlefront 2 player numbers climb again as excitement builds around returning Resurgence Day community event",
-      "source": "Eurogamer",
+      "title": "‘Stuck in the mud’: one year on, Friedrich Merz struggles to find his footing",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/star-wars-battlefront-2-resurgence-day-2026-event",
-      "published": "2026-05-05T13:37:40+00:00",
-      "summary": "EA and DICE's Star Wars Battlefront 2 ended on a high note despite its initial issues, resulting in a dedicated community sticking around in its servers over the years.",
+      "url": "https://www.theguardian.com/world/2026/may/06/stuck-in-the-mud-one-year-on-friedrich-merz-struggles-to-find-his-footing",
+      "published": "2026-05-06T04:00:03+00:00",
+      "summary": "Just 19% of Germans approve of the chancellor’s leadership – with some of his comments causing offence amid spats with the White House Friedrich Merz’s first steps as German chancellor proved to be a stumble and, one year on, he is still…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "The AI Hard Drive Shortage Is Making It More Expensive and Harder to Archive the Internet",
-      "source": "404 Media",
-      "category": "Democracy / press freedom",
-      "url": "https://www.404media.co/the-ai-hard-drive-shortage-is-making-it-more-expensive-and-harder-to-archive-the-internet/",
-      "published": "2026-05-05T13:20:31+00:00",
-      "summary": "The Internet Archive, Wikimedia, academics, and hobby archivists are having trouble finding hard drives or are having to pay extremely high prices for them.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Google’s AI architect lived rent-free in Elon Musk’s head",
+      "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
       "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/923518/musk-altman-trial-openai-demis-hassabis-google-deepmind",
-      "published": "2026-05-05T13:11:58+00:00",
-      "summary": "About a week into the Musk v. Altman trial, we've heard from some of the most powerful people in tech - including OpenAI president Greg Brockman, Elon Musk's fixer Jared Birchall, and Musk himself.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial",
-      "source": "Ars Technica",
       "category": "AI / privacy",
-      "url": "https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/",
-      "published": "2026-05-04T15:05:58+00:00",
-      "summary": "OpenAI accuses Musk of trying to \"coerce\" a settlement days before trial started.",
+      "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
+      "published": "2026-05-05T22:10:12+00:00",
+      "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "OpenAI, Google, and Microsoft Back Bill to Fund ‘AI Literacy’ in Schools",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
-      "published": "2026-05-04T14:29:19+00:00",
-      "summary": "A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants to the National Science Foundation—which has endured massive funding cuts under the Trump Administration for science research—to put “AI literacy” in schools.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Pennsylvania sues Character.AI over claims chatbot posed as doctor",
+      "source": "NPR Tech",
+      "category": "Democracy / press freedom",
+      "url": "https://www.npr.org/2026/05/05/nx-s1-5812861/characterai-chatbot-medical-advice-pennsylvania-lawsuit",
+      "published": "2026-05-05T21:26:55+00:00",
+      "summary": "State officials allege a Character.AI bot claimed to be a licensed psychiatrist and provided a fake state medical license number.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "Character.AI sued over chatbot that claims to be a real doctor with a license",
+      "source": "Ars Technica",
+      "category": "Democracy / press freedom",
+      "url": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/",
+      "published": "2026-05-05T20:58:56+00:00",
+      "summary": "State says chatbot claimed to practice medicine, gave invalid license number.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Apple could let you pick a favorite AI model in iOS 27",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
+      "published": "2026-05-05T19:45:30+00:00",
+      "summary": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Los Angeles Unified Teachers to Provide High-Dosage Tutoring",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/los-angeles-unified-teachers-to-provide-high-dosage-tutoring/",
+      "published": "2026-05-05T18:30:00+00:00",
+      "summary": "The Los Angeles Unified School District is looking to focus on teacher-led, high-dosage tutoring to meet the requirements of a settlement that requires LAUSD to provide 10 million hours of tutoring to 100,000 students over three years.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "US to take steps to curb antidepressant prescribing, RFK Jr says",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/may/05/antidepressants-rfk-jr-maha",
+      "published": "2026-05-05T18:08:21+00:00",
+      "summary": "Plan promotes ‘deprescribing’ as psychiatrists warn crisis stems from lack of access to care, not overuse The federal health department will begin a series of steps intended to curb antidepressant use in the US, Robert F Kennedy Jr…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Scott Turow's latest real-life legal thriller: Suing Meta for copyright infringement",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/05/05/nx-s1-5812623/scott-turow-meta-lawsuit",
+      "published": "2026-05-05T21:13:10+00:00",
+      "summary": "Five major publishing houses and the bestselling author are suing Meta and its CEO Mark Zuckerberg for allegedly training its Llama generative AI models on millions of copyrighted materials.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 9
+    },
+    {
+      "title": "Dead as Disco is out in early access to fill the Hi-Fi Rush and, weirdly, Batman: Arkham series shaped hole in your heart",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/dead-as-disco-is-out-in-early-access-to-fill-the-hi-fi-rush-and-weirdly-batman-arkham-series-shaped-hole-in-your-heart",
+      "published": "2026-05-05T20:32:08+00:00",
+      "summary": "At this point in time, even if Tango Gameworks were ultimately saved , there's no telling when we might get a new Hi-Fi Rush game.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "NYC Parents and Students Demand Moratorium on AI Use at Marathon Meeting",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/nyc-parents-and-students-demand-moratorium-at-marathon-meeting/",
+      "published": "2026-05-05T14:30:00+00:00",
+      "summary": "Despite New York City’s last-minute withdrawal of a controversial proposal for a new artificial intelligence-centered high school, parents, students, and educators packed this week’s school board meeting to speak on AI anyway.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 9
     },
     {
       "title": "New Trailer for Christopher Nolan’s The Odyssey Looks Only Moderately Epic",
@@ -84,57 +124,17 @@
       "published": "2026-05-05T13:56:16+00:00",
       "summary": "There's no place like ... you know the rest The post New Trailer for Christopher Nolan’s The Odyssey Looks Only Moderately Epic appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 9
+      "score": 8
     },
     {
-      "title": "Shigeru Miyamoto felt Zelda 2 \"was sort of a failure\", and Nintendo actually considered A Link to the Past as the \"real\" Zelda sequel",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/zelda-2-failure-a-link-to-the-past-real-sequel",
-      "published": "2026-05-05T13:25:08+00:00",
-      "summary": "Previous comments made by Nintendo legend Shigeru Miyamoto have resurfaced, where the Zelda series creator admitted despite it being his idea, he felt Zelda 2 was \"sort of a failure\", and Nintendo instead believes A Link to the Past to be…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: Education Is a Fault Line In U.S. Politics. Democrats Are on the Wrong Side",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/education-is-a-fault-line-in-u-s-politics-democrats-are-on-the-wrong-side/",
-      "published": "2026-05-05T10:30:00+00:00",
-      "summary": "There was a time when challenging broken institutions was the Democratic Party’s calling card.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "The Odyssey: new trailer for Christopher Nolan’s classical Greek epic released online",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/film/2026/may/05/the-odyssey-first-trailer-christopher-nolan-classical-greek-epic-released-online",
-      "published": "2026-05-05T09:13:58+00:00",
-      "summary": "Trailer offers glimpses of Matt Damon as mythological hero Odysseus, Tom Holland as his son Telemachus and Anne Hathaway as his wife, Penelope The new trailer for Christopher Nolan’s adaptation of Homer’s The Odyssey has been released.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "What actually happens when schools take away students' phones?",
-      "source": "NPR Education",
-      "category": "CS education / AI policy",
-      "url": "https://www.npr.org/2026/05/04/nx-s1-5810191/what-actually-happens-when-schools-take-away-students-phones",
-      "published": "2026-05-04T19:56:48+00:00",
-      "summary": "NPR's Ailsa Chang speaks with Stanford education economist Thomas Dee about the latest study on schools banning cellphones.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Supreme Court gives abortion pill mifepristone a 1-week reprieve from a major change",
+      "title": "Cruise ship with hantavirus may have seen a rare occurrence: humans infecting humans",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/04/nx-s1-5810510/supreme-court-mifepristone-appeals-telehealth",
-      "published": "2026-05-04T16:15:13+00:00",
-      "summary": "The Supreme Court says rules that allow patients to get the abortion pill mifepristone through the mail can stay the same for at least a week.",
+      "url": "https://www.npr.org/2026/05/05/g-s1-120234/cruise-ship-with-hantavirus-may-have-seen-a-rare-occurrence-humans-infecting-humans",
+      "published": "2026-05-05T21:08:37+00:00",
+      "summary": "Hantavirus is typically spread through contact with rodent feces, urine or saliva. But cases on the MV Hondius cruise ship point to an unusual means of transmission.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
     }
   ],
   "youtube": [
@@ -148,6 +148,28 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
+    },
+    {
+      "title": "Architect Answers Architecture Questions | Tech Support | WIRED",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=Druvom03m_A",
+      "published": "2026-05-05T16:00:00+00:00",
+      "summary": "Architect Dr. Sally Mackereth joins WIRED to answer the internet's burning questions about architecture.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Dozens stuck on cruise ship after suspected viral outbreak onboard kills 3",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=CW0z-63986Q",
+      "published": "2026-05-05T18:58:50+00:00",
+      "summary": "Three people have died and at least three more have become seriously ill in a suspected hantavirus outbreak aboard a cruise ship off the coast of Cape Verde.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "According to science small talk isn't boring",
@@ -216,26 +238,26 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "New statue by Banksy, the elusive British street artist, appeared in central London this week",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=XBpW0RQvrso",
-      "published": "2026-05-02T20:00:29+00:00",
-      "summary": "Banksy, the elusive British street artist, is claiming responsibility for a new statue that appeared in central London this week.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "We Re-Tested Oblivion Remastered PS5 1 Year On - Stuttering, Degraded Perf, Crashes Still There",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=oJSMprceEfU",
+      "published": "2026-05-05T17:01:09+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
     },
     {
-      "title": "A historic university in Lebanon offers an unusual sanctuary for cats abandoned during war",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=K9lFyI84lf8",
-      "published": "2026-05-02T14:00:35+00:00",
-      "summary": "In Lebanon, a historic university offers not just an education in the heart of Beirut, but an unusual sanctuary for cats abandoned during war and economic hardship.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "title": "PS5 Linux: Steam PC vs Native PS5 - Crimson Desert, Pragmata, Black Myth Wukong Compared!",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=ynImCfojdAQ",
+      "published": "2026-05-05T16:01:40+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "How Will DF Cope With Alex Taking Time Out For Health Reasons?",
@@ -245,8 +267,8 @@
       "published": "2026-05-04T17:01:13+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/T-yqMN_gqb4 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Intel Says Optimisation Can Boost CPU Perf By 30% - And We Believe Them",
@@ -256,8 +278,8 @@
       "published": "2026-05-04T17:00:37+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/LHUIqy_mK4A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Why Are New Path Tracing PC Games Exclusive To Nvidia?",
@@ -282,24 +304,24 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "Is There Still Untapped Potential In PS5 And Xbox Series X?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=O_vuq-GlQ8Q",
-      "published": "2026-05-02T16:00:39+00:00",
-      "summary": "► BTW we've checked and the degradation in console performance over time and the crashes are still there ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "Previewing the Big Movies of Summer 2026 | The Rewind Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=ExVmSHrvnLk",
+      "published": "2026-05-05T20:14:23+00:00",
+      "summary": "This week on The Rewind, Darren, Jack, and Marty run down the slate of big movies releasing this summer. If you enjoy hearing the crew ramble about movies and TV, consider supporting us over on Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
-      "title": "Microsoft's \"We Are Xbox\": Please Tell Us What You Actually Mean",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=xXBdK9mLVOE",
-      "published": "2026-05-02T15:01:38+00:00",
-      "summary": "► BTW we've checked and the degradation in console performance over time and the crashes are still there ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "title": "Invincible is a Superhero Show About Consequences | The Backdrop",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=lQVEsN7KYPA",
+      "published": "2026-05-05T15:01:18+00:00",
+      "summary": "In this week's episode of The Backdrop, Darren Mooney digs into the latest season of Invincible, and how it's the rare superhero series that's actually about consequences. Support us on Patreon: https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
     },
@@ -311,8 +333,8 @@
       "published": "2026-05-05T01:13:04+00:00",
       "summary": "This video is brought to you by GameMaker, the free, fast, and easy-to-use 2D game engine that’s helped power modern classics like Deltarune, Pizza Tower, and Yahtzee’s Starstruck Vagabond – GameMaker | Make 2D Games With The Free Engine…",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Games As Comedy Engines w/ Jack Packard | Windbreaker Podcast",
@@ -322,8 +344,8 @@
       "published": "2026-05-04T18:42:18+00:00",
       "summary": "On this week’s episode of Windbreaker, Jack Packard joins the regular crew to chat about games as engines for comedy. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Let’s Talk About the Voices in Our Heads | Storycraft",
@@ -333,8 +355,8 @@
       "published": "2026-05-04T15:00:38+00:00",
       "summary": "In this episode of Storycraft, Jess discusses how “internal voices” in games can be both fascinating characters and effective narrative devices. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Vampire Crawlers, Gecko Gods, Casualties Unknown, and Gunboat God | Yahtzee Tries",
@@ -346,20 +368,20 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Postcards from the End | Adventure Is Nigh! - The Slow Walk Home | Ep. 1",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=c2kru3_e4Is",
-      "published": "2026-05-02T16:00:06+00:00",
-      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
     }
   ],
   "trailers": [
+    {
+      "title": "dopamine 😍",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=PbgTrT7Cf4U",
+      "published": "2026-05-05T16:08:48+00:00",
+      "summary": "----- Instagram: https://www.instagram.com/onenightonlymovie TikTok: https://www.tiktok.com/@onenightonlymovie Facebook: https://www.facebook.com/onenightonlymovie X: https://www.twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
     {
       "title": "The Odyssey | Official New Trailer",
       "source": "Universal Pictures",
@@ -504,6 +526,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "The Boroughs | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=PsvUvqXoTpE",
+      "published": "2026-05-05T14:00:00+00:00",
+      "summary": "The executive producers of Stranger Things welcome you to The Boroughs, where you’ll have the time of your life… Starring Alfred Molina, Geena Davis, Alfre Woodard, Bill Pullman, Clarke Peters, and Denis O’Hare only on Netflix May 21, 2026.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Kylie | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -511,7 +544,7 @@
       "published": "2026-05-05T13:00:00+00:00",
       "summary": "Closer than ever before. Kylie, a three part documentary series, coming to Netflix on the May 20 Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -592,17 +625,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "The Roast of Kevin Hart | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=1MasbNLZP8I",
-      "published": "2026-04-30T12:00:00+00:00",
-      "summary": "Watch Kevin Hart get roasted from the Epic final night of Netflix is a Joke Fest, hosted by Shane Gillis. LIVE, only on Netflix on Sunday, May 10, at 5 PM PT. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "The POV with Christina Roki and Calum Nicholas — Miami Race Recap | F1 on Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
@@ -633,17 +655,6 @@
       "summary": "Nick Offerman, who plays a professional wrestler on Margo's Got Money Troubles, is here with some inventive, wrestling-style nicknames for his beloved Chicago Cubs. Margo’s Got Money Troubles is now streaming on Apple TV. https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "What's Coming in May 2026 | Maximum Pleasure Guaranteed, Widow's Bay & More | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=o4adO5XVk5M",
-      "published": "2026-05-01T16:59:48+00:00",
-      "summary": "Maximum viewing pleasure guaranteed.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
       "verdict": "Looks promising"
     }
   ],
@@ -751,32 +762,32 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Patchy rain nearby",
-    "temp": "56",
-    "feels": "54",
-    "wind": "9",
-    "humidity": "67",
+    "desc": "Overcast",
+    "temp": "49",
+    "feels": "44",
+    "wind": "10",
+    "humidity": "71",
     "days": [
       {
-        "label": "Tue May 5",
-        "high": "57",
-        "low": "48"
-      },
-      {
         "label": "Wed May 6",
-        "high": "55",
+        "high": "53",
         "low": "47"
       },
       {
         "label": "Thu May 7",
         "high": "57",
         "low": "45"
+      },
+      {
+        "label": "Fri May 8",
+        "high": "60",
+        "low": "46"
       }
     ]
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 20,
+    "youtubeCount": 21,
     "trailerCount": 26,
     "sourceCount": 21
   }

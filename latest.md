@@ -1,19 +1,19 @@
 # James Daily Briefing
 
-Generated: 2026-05-05T14:00:02.318109Z
+Generated: 2026-05-06T05:00:01.614103Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Researchers gaslit Claude into giving instructions to build explosives, What an AI-designed car looks like, and Star Wars Battlefront 2 player numbers climb again as excitement builds around returning Resurgence Day community event.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are ‘If he didn’t do it, who did?’: fresh doubts over 2007 murder case that gripped Italy, ‘Stuck in the mud’: one year on, Friedrich Merz struggles to find his footing, and Apple agrees to pay iPhone owners $250 million for not delivering AI Siri.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Patchy rain nearby, 56°F (feels like 54°F), 9 mph wind, 67% humidity.
+02726 (Somerset, MA): Overcast, 49°F (feels like 44°F), 10 mph wind, 71% humidity.
 
 Forecast:
-- Tue May 5: high 57° / low 48°
-- Wed May 6: high 55° / low 47°
+- Wed May 6: high 53° / low 47°
 - Thu May 7: high 57° / low 45°
+- Fri May 8: high 60° / low 46°
 
 ## Highlighted stories
 
@@ -37,70 +37,106 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Researchers gaslit Claude into giving instructions to build explosives [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Anthropic has spent years building itself up as the safe AI company. But new security research shared with The Verge suggests Claude's carefully crafted helpful personality may itself be a vulnerability.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information
-
-### 2. What an AI-designed car looks like [10/10]
-**Source:** The Verge  
+### 1. ‘If he didn’t do it, who did?’: fresh doubts over 2007 murder case that gripped Italy [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tastes, politics, and gas prices to change.
+Fresh DNA evidence in the killing of Chiara Poggi has brought a previously investigated suspect back under scrutiny, raising questions over the conviction A suspect in a case that has captivated Italy for almost 19 years has been summoned…
 
-Link: https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast
+Link: https://www.theguardian.com/world/2026/may/06/if-he-didnt-do-it-who-did-fresh-doubts-over-2007-case-that-gripped-italy
 
-### 3. Star Wars Battlefront 2 player numbers climb again as excitement builds around returning Resurgence Day community event [10/10]
-**Source:** Eurogamer  
+### 2. ‘Stuck in the mud’: one year on, Friedrich Merz struggles to find his footing [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-EA and DICE's Star Wars Battlefront 2 ended on a high note despite its initial issues, resulting in a dedicated community sticking around in its servers over the years.
+Just 19% of Germans approve of the chancellor’s leadership – with some of his comments causing offence amid spats with the White House Friedrich Merz’s first steps as German chancellor proved to be a stumble and, one year on, he is still…
 
-Link: https://www.eurogamer.net/star-wars-battlefront-2-resurgence-day-2026-event
+Link: https://www.theguardian.com/world/2026/may/06/stuck-in-the-mud-one-year-on-friedrich-merz-struggles-to-find-his-footing
 
-### 4. The AI Hard Drive Shortage Is Making It More Expensive and Harder to Archive the Internet [10/10]
-**Source:** 404 Media  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The Internet Archive, Wikimedia, academics, and hobby archivists are having trouble finding hard drives or are having to pay extremely high prices for them.
-
-Link: https://www.404media.co/the-ai-hard-drive-shortage-is-making-it-more-expensive-and-harder-to-archive-the-internet/
-
-### 5. Google’s AI architect lived rent-free in Elon Musk’s head [10/10]
+### 3. Apple agrees to pay iPhone owners $250 million for not delivering AI Siri [10/10]
 **Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-About a week into the Musk v. Altman trial, we've heard from some of the most powerful people in tech - including OpenAI president Greg Brockman, Elon Musk's fixer Jared Birchall, and Musk himself.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/923518/musk-altman-trial-openai-demis-hassabis-google-deepmind
-
-### 6. Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial [10/10]
-**Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-OpenAI accuses Musk of trying to "coerce" a settlement days before trial started.
+Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features.
 
-Link: https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/
+Link: https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement
 
-### 7. OpenAI, Google, and Microsoft Back Bill to Fund ‘AI Literacy’ in Schools [10/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
+### 4. Pennsylvania sues Character.AI over claims chatbot posed as doctor [10/10]
+**Source:** NPR Tech  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants to the National Science Foundation—which has endured massive funding cuts under the Trump Administration for science research—to put “AI literacy” in schools.
+State officials allege a Character.AI bot claimed to be a licensed psychiatrist and provided a fake state medical license number.
 
-Link: https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/
+Link: https://www.npr.org/2026/05/05/nx-s1-5812861/characterai-chatbot-medical-advice-pennsylvania-lawsuit
 
-### 8. New Trailer for Christopher Nolan’s The Odyssey Looks Only Moderately Epic [9/10]
+### 5. Character.AI sued over chatbot that claims to be a real doctor with a license [10/10]
+**Source:** Ars Technica  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+State says chatbot claimed to practice medicine, gave invalid license number.
+
+Link: https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/
+
+### 6. Apple could let you pick a favorite AI model in iOS 27 [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence.
+
+Link: https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27
+
+### 7. Los Angeles Unified Teachers to Provide High-Dosage Tutoring [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+The Los Angeles Unified School District is looking to focus on teacher-led, high-dosage tutoring to meet the requirements of a settlement that requires LAUSD to provide 10 million hours of tutoring to 100,000 students over three years.
+
+Link: https://www.the74million.org/article/los-angeles-unified-teachers-to-provide-high-dosage-tutoring/
+
+### 8. US to take steps to curb antidepressant prescribing, RFK Jr says [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Plan promotes ‘deprescribing’ as psychiatrists warn crisis stems from lack of access to care, not overuse The federal health department will begin a series of steps intended to curb antidepressant use in the US, Robert F Kennedy Jr…
+
+Link: https://www.theguardian.com/us-news/2026/may/05/antidepressants-rfk-jr-maha
+
+### 9. Scott Turow's latest real-life legal thriller: Suing Meta for copyright infringement [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Five major publishing houses and the bestselling author are suing Meta and its CEO Mark Zuckerberg for allegedly training its Llama generative AI models on millions of copyrighted materials.
+
+Link: https://www.npr.org/2026/05/05/nx-s1-5812623/scott-turow-meta-lawsuit
+
+### 10. Dead as Disco is out in early access to fill the Hi-Fi Rush and, weirdly, Batman: Arkham series shaped hole in your heart [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+At this point in time, even if Tango Gameworks were ultimately saved , there's no telling when we might get a new Hi-Fi Rush game.
+
+Link: https://www.rockpapershotgun.com/dead-as-disco-is-out-in-early-access-to-fill-the-hi-fi-rush-and-weirdly-batman-arkham-series-shaped-hole-in-your-heart
+
+### 11. NYC Parents and Students Demand Moratorium on AI Use at Marathon Meeting [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Despite New York City’s last-minute withdrawal of a controversial proposal for a new artificial intelligence-centered high school, parents, students, and educators packed this week’s school board meeting to speak on AI anyway.
+
+Link: https://www.the74million.org/article/nyc-parents-and-students-demand-moratorium-at-marathon-meeting/
+
+### 12. New Trailer for Christopher Nolan’s The Odyssey Looks Only Moderately Epic [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -109,50 +145,14 @@ There's no place like ... you know the rest The post New Trailer for Christopher
 
 Link: https://reactormag.com/christopher-nolan-odyssey-trailer/
 
-### 9. Shigeru Miyamoto felt Zelda 2 "was sort of a failure", and Nintendo actually considered A Link to the Past as the "real" Zelda sequel [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Previous comments made by Nintendo legend Shigeru Miyamoto have resurfaced, where the Zelda series creator admitted despite it being his idea, he felt Zelda 2 was "sort of a failure", and Nintendo instead believes A Link to the Past to be…
-
-Link: https://www.eurogamer.net/zelda-2-failure-a-link-to-the-past-real-sequel
-
-### 10. Opinion: Education Is a Fault Line In U.S. Politics. Democrats Are on the Wrong Side [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-There was a time when challenging broken institutions was the Democratic Party’s calling card.
-
-Link: https://www.the74million.org/article/education-is-a-fault-line-in-u-s-politics-democrats-are-on-the-wrong-side/
-
-### 11. The Odyssey: new trailer for Christopher Nolan’s classical Greek epic released online [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Trailer offers glimpses of Matt Damon as mythological hero Odysseus, Tom Holland as his son Telemachus and Anne Hathaway as his wife, Penelope The new trailer for Christopher Nolan’s adaptation of Homer’s The Odyssey has been released.
-
-Link: https://www.theguardian.com/film/2026/may/05/the-odyssey-first-trailer-christopher-nolan-classical-greek-epic-released-online
-
-### 12. What actually happens when schools take away students' phones? [9/10]
-**Source:** NPR Education  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-NPR's Ailsa Chang speaks with Stanford education economist Thomas Dee about the latest study on schools banning cellphones.
-
-Link: https://www.npr.org/2026/05/04/nx-s1-5810191/what-actually-happens-when-schools-take-away-students-phones
-
-### 13. Supreme Court gives abortion pill mifepristone a 1-week reprieve from a major change [8/10]
+### 13. Cruise ship with hantavirus may have seen a rare occurrence: humans infecting humans [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-The Supreme Court says rules that allow patients to get the abortion pill mifepristone through the mail can stay the same for at least a week.
+Hantavirus is typically spread through contact with rodent feces, urine or saliva. But cases on the MV Hondius cruise ship point to an unusual means of transmission.
 
-Link: https://www.npr.org/2026/05/04/nx-s1-5810510/supreme-court-mifepristone-appeals-telehealth
+Link: https://www.npr.org/2026/05/05/g-s1-120234/cruise-ship-with-hantavirus-may-have-seen-a-rare-occurrence-humans-infecting-humans
 
 ## YouTube
 
@@ -164,6 +164,24 @@ Link: https://www.npr.org/2026/05/04/nx-s1-5810510/supreme-court-mifepristone-ap
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://research.nvidia.com/labs/sil/projects/lyra2/ Our Patreon if you wish to support us: https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=eCw33snvoNI
+
+### Architect Answers Architecture Questions | Tech Support | WIRED [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Architect Dr. Sally Mackereth joins WIRED to answer the internet's burning questions about architecture.
+
+Link: https://www.youtube.com/watch?v=Druvom03m_A
+
+### Dozens stuck on cruise ship after suspected viral outbreak onboard kills 3 [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Three people have died and at least three more have become seriously ill in a suspected hantavirus outbreak aboard a cruise ship off the coast of Cape Verde.
+
+Link: https://www.youtube.com/watch?v=CW0z-63986Q
 
 ### According to science small talk isn't boring [6/10]
 **Creator:** NPR  
@@ -219,36 +237,36 @@ Why fashion critic, Robin Givhan, says The Devil Wears Prada is her favorite mov
 
 Link: https://www.youtube.com/watch?v=6rkU0r41310
 
-### New statue by Banksy, the elusive British street artist, appeared in central London this week [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Banksy, the elusive British street artist, is claiming responsibility for a new statue that appeared in central London this week.
-
-Link: https://www.youtube.com/watch?v=XBpW0RQvrso
-
-### A historic university in Lebanon offers an unusual sanctuary for cats abandoned during war [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-In Lebanon, a historic university offers not just an education in the heart of Beirut, but an unusual sanctuary for cats abandoned during war and economic hardship.
-
-Link: https://www.youtube.com/watch?v=K9lFyI84lf8
-
-### How Will DF Cope With Alex Taking Time Out For Health Reasons? [7/10]
+### We Re-Tested Oblivion Remastered PS5 1 Year On - Stuttering, Degraded Perf, Crashes Still There [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=oJSMprceEfU
+
+### PS5 Linux: Steam PC vs Native PS5 - Crimson Desert, Pragmata, Black Myth Wukong Compared! [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=ynImCfojdAQ
+
+### How Will DF Cope With Alex Taking Time Out For Health Reasons? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/T-yqMN_gqb4 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=ypZojJa1bnU
 
-### Intel Says Optimisation Can Boost CPU Perf By 30% - And We Believe Them [7/10]
+### Intel Says Optimisation Can Boost CPU Perf By 30% - And We Believe Them [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/LHUIqy_mK4A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -273,45 +291,45 @@ Link: https://www.youtube.com/watch?v=aaIpqJNRTIg
 
 Link: https://www.youtube.com/watch?v=gQzFHP6b2Jw
 
-### Is There Still Untapped Potential In PS5 And Xbox Series X? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► BTW we've checked and the degradation in console performance over time and the crashes are still there ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.
-
-Link: https://www.youtube.com/watch?v=O_vuq-GlQ8Q
-
-### Microsoft's "We Are Xbox": Please Tell Us What You Actually Mean [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► BTW we've checked and the degradation in console performance over time and the crashes are still there ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.
-
-Link: https://www.youtube.com/watch?v=xXBdK9mLVOE
-
-### Slashing Through Celtic Mythology in SoulQuest | Hot Monday Energy [8/10]
+### Previewing the Big Movies of Summer 2026 | The Rewind Podcast [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on The Rewind, Darren, Jack, and Marty run down the slate of big movies releasing this summer. If you enjoy hearing the crew ramble about movies and TV, consider supporting us over on Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=ExVmSHrvnLk
+
+### Invincible is a Superhero Show About Consequences | The Backdrop [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+In this week's episode of The Backdrop, Darren Mooney digs into the latest season of Invincible, and how it's the rare superhero series that's actually about consequences. Support us on Patreon: https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=lQVEsN7KYPA
+
+### Slashing Through Celtic Mythology in SoulQuest | Hot Monday Energy [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by GameMaker, the free, fast, and easy-to-use 2D game engine that’s helped power modern classics like Deltarune, Pizza Tower, and Yahtzee’s Starstruck Vagabond – GameMaker | Make 2D Games With The Free Engine…
 
 Link: https://www.youtube.com/watch?v=iAtX2OJ8dpQ
 
-### Games As Comedy Engines w/ Jack Packard | Windbreaker Podcast [8/10]
+### Games As Comedy Engines w/ Jack Packard | Windbreaker Podcast [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 On this week’s episode of Windbreaker, Jack Packard joins the regular crew to chat about games as engines for comedy. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=UBR1uAZUEGQ
 
-### Let’s Talk About the Voices in Our Heads | Storycraft [9/10]
+### Let’s Talk About the Voices in Our Heads | Storycraft [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 In this episode of Storycraft, Jess discusses how “internal voices” in games can be both fascinating characters and effective narrative devices. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.
@@ -326,15 +344,6 @@ Link: https://www.youtube.com/watch?v=MletRyodkvQ
 This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! – https://playtracker.
 
 Link: https://www.youtube.com/watch?v=crCJ1-fya_Y
-
-### Postcards from the End | Adventure Is Nigh! - The Slow Walk Home | Ep. 1 [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.
-
-Link: https://www.youtube.com/watch?v=c2kru3_e4Is
 
 ## Entertainment Recommendations
 
@@ -364,6 +373,15 @@ Link: https://www.youtube.com/watch?v=c2kru3_e4Is
 - **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
 
 ## Trailers / Previews
+
+### dopamine 😍 [8/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+----- Instagram: https://www.instagram.com/onenightonlymovie TikTok: https://www.tiktok.com/@onenightonlymovie Facebook: https://www.facebook.com/onenightonlymovie X: https://www.twitter.
+
+Link: https://www.youtube.com/watch?v=PbgTrT7Cf4U
 
 ### The Odyssey | Official New Trailer [8/10]
 **Source:** Universal Pictures  
@@ -482,7 +500,16 @@ Are they "the one" or just the one you were warned about? Worst Ex Ever returns 
 
 Link: https://www.youtube.com/watch?v=_iKN26hplWY
 
-### Kylie | Official Trailer | Netflix [10/10]
+### The Boroughs | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The executive producers of Stranger Things welcome you to The Boroughs, where you’ll have the time of your life… Starring Alfred Molina, Geena Davis, Alfre Woodard, Bill Pullman, Clarke Peters, and Denis O’Hare only on Netflix May 21, 2026.
+
+Link: https://www.youtube.com/watch?v=PsvUvqXoTpE
+
+### Kylie | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -554,15 +581,6 @@ This is a rom-com that’s not safe for work… but so worth the risk.
 
 Link: https://www.youtube.com/watch?v=11gcNa-TBRA
 
-### The Roast of Kevin Hart | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Watch Kevin Hart get roasted from the Epic final night of Netflix is a Joke Fest, hosted by Shane Gillis. LIVE, only on Netflix on Sunday, May 10, at 5 PM PT. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=1MasbNLZP8I
-
 ### The POV with Christina Roki and Calum Nicholas — Miami Race Recap | F1 on Apple TV [10/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
@@ -589,12 +607,3 @@ Link: https://www.youtube.com/watch?v=pUSmTPIFnNM
 Nick Offerman, who plays a professional wrestler on Margo's Got Money Troubles, is here with some inventive, wrestling-style nicknames for his beloved Chicago Cubs. Margo’s Got Money Troubles is now streaming on Apple TV. https://apple.
 
 Link: https://www.youtube.com/watch?v=DOgAWl0k-PQ
-
-### What's Coming in May 2026 | Maximum Pleasure Guaranteed, Widow's Bay & More | Apple TV [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Maximum viewing pleasure guaranteed.
-
-Link: https://www.youtube.com/watch?v=o4adO5XVk5M
