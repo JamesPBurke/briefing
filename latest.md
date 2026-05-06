@@ -1,14 +1,14 @@
 # James Daily Briefing
 
-Generated: 2026-05-06T09:00:50.820349Z
+Generated: 2026-05-06T14:00:01.253216Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Can promises on gender equality made in Australia help a 16-year-old Indian cigarette maker with no toilet?, New Mexico proposes $3.7bn fine for Meta and sweeping changes to its social platforms, and ‘In times like this, it pays to be Italian’: Mind Enterprises, the Campari-necking Italo disco revivalists who became a meme.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are Two hikers injured in US bear attack on Yellowstone trail, Renowned comedian Matt Berry helped create "lots of fun Bane bits" in Lego Batman: Legacy of the Dark Knight, and Google’s AI search summaries will now quote Reddit.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Partly cloudy, 49°F (feels like 44°F), 11 mph wind, 71% humidity.
+02726 (Somerset, MA): Cloudy, 58°F (feels like 57°F), 4 mph wind, 38% humidity.
 
 Forecast:
 - Wed May 6: high 52° / low 44°
@@ -37,52 +37,79 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Can promises on gender equality made in Australia help a 16-year-old Indian cigarette maker with no toilet? [10/10]
+### 1. Two hikers injured in US bear attack on Yellowstone trail [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The Melbourne declaration aims to direct funding and power to those most overlooked and affected by injustice.
+National park closes areas near Old Faithful after attack by one or more bears, with incident under investigation Two hikers were injured in a bear attack on Monday on a trail in Yellowstone national park , park officials said.
 
-Link: https://www.theguardian.com/global-development/2026/may/06/can-promises-gender-equality-made-in-australia-help-a-16-year-old-cigarette-maker-with-no-toilet-india
+Link: https://www.theguardian.com/us-news/2026/may/06/bear-attack-yellowstone-trail
 
-### 2. New Mexico proposes $3.7bn fine for Meta and sweeping changes to its social platforms [10/10]
+### 2. Renowned comedian Matt Berry helped create "lots of fun Bane bits" in Lego Batman: Legacy of the Dark Knight [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+British comedian Matt Berry is voicing Bane in TT Games' upcoming release, Lego Batman: Legacy of the Dark Knight, and it sounds like he will be bringing an especially mischievous twist to the iconic DC villain. Read more
+
+Link: https://www.eurogamer.net/lego-batman-legacy-dark-knight-matt-berry-bane
+
+### 3. Google’s AI search summaries will now quote Reddit [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Google is updating its AI Search features to make it easier for users to find information from sources they know and trust.
+
+Link: https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links
+
+### 4. Ohio Is Making Sure Industry-Recognized Credentials Pay Off. Your State Can, Too [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Delivering high-quality career-technical education has quickly moved up the policy agenda across the country, with many states turning to industry credentials to help build students’ professional skill sets and signal to employers that…
+
+Link: https://www.the74million.org/article/ohio-is-making-sure-industry-recognized-credentials-pay-off-your-state-can-too/
+
+### 5. As Injustice 3 rumours heat up, NetherRealm boss Ed Boon says the studio is "actively pursuing" a new Mortal Kombat [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+While 2023's Mortal Kombat 1 didn't impress critics and fans as much as the other modern entries in the series, it still proved highly successful for developer NetherRealm Studios and publisher Warner Bros.
+
+Link: https://www.eurogamer.net/netherrealm-boss-ed-boon-on-next-mortal-kombat-plans
+
+### 6. Ten Years (so far) with One Shared Belief: Teachers Make the Difference [10/10]
+**Source:** CSTA  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+In a Springfield, Massachusetts kindergarten classroom, a five-year-old turned to her partner and said there was a bug in their...
+
+Link: https://csteachers.org/ten-years-so-far-with-one-shared-belief-teachers-make-the-difference/
+
+### 7. Young King: revealing book shines light on Martin Luther King Jr’s early days [9/10]
 **Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-State’s attorney general petitions for overhaul of how Meta’s child safety protocol in second phase of landmark case Meta has returned to court in the US this week for the second phase of a lawsuit brought by Raúl Torrez, New Mexico ’s…
+Lerone Martin’s new book offers fascinating insight into the civil rights icon’s younger years Lerone Martin, a prominent scholar of Black religious history, leads the Martin Luther King Jr Research and Education Institute at Stanford…
 
-Link: https://www.theguardian.com/technology/2026/may/05/new-mexico-meta-court-fine
+Link: https://www.theguardian.com/books/2026/may/06/martin-luther-king-jr-early-years-book
 
-### 3. ‘In times like this, it pays to be Italian’: Mind Enterprises, the Campari-necking Italo disco revivalists who became a meme [10/10]
-**Source:** The Guardian US  
+### 8. A Louisiana Private School’s All-American Grift [9/10]
+**Source:** The Nation  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-A video of the Italian duo huffing cigarettes and pouring aperitifs on a Mediterranean balcony might have gone viral – but there’s nothing slapdash about their blissful electro evocations of la dolce vita Even if you’ve never heard Mind…
+Kristen Martin In Miracle Children: Race, Education, and a True Story of False Promises , two reporters uncovered a high school scandal that puts into relief the unfinished work of integration.
 
-Link: https://www.theguardian.com/music/2026/may/06/mind-enterprises-italo-disco-revivalists-electro
+Link: https://www.thenation.com/article/culture/miracle-children-review/
 
-### 4. Totally grounded? How the jet fuel crisis could change our holidays – and world history [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Jet fuel has doubled in price since the start of the war on Iran. How bad will the disruption get and could this accelerate the route to jet zero? What happens to flights if the world runs out of oil? Well, obviously they will be grounded.
-
-Link: https://www.theguardian.com/business/2026/may/06/totally-grounded-how-the-jet-fuel-crisis-could-change-our-summer-holidays-and-world-history
-
-### 5. ‘If he didn’t do it, who did?’: fresh doubts over 2007 murder case that gripped Italy [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Fresh DNA evidence in the killing of Chiara Poggi has brought a previously investigated suspect back under scrutiny, raising questions over the conviction A suspect in a case that has captivated Italy for almost 19 years has been summoned…
-
-Link: https://www.theguardian.com/world/2026/may/06/if-he-didnt-do-it-who-did-fresh-doubts-over-2007-case-that-gripped-italy
-
-### 6. Apple agrees to pay iPhone owners $250 million for not delivering AI Siri [10/10]
+### 9. Apple agrees to pay iPhone owners $250 million for not delivering AI Siri [9/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -91,34 +118,7 @@ Apple has agreed to pay $250 million to settle a class action lawsuit that accus
 
 Link: https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement
 
-### 7. Apple could let you pick a favorite AI model in iOS 27 [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence.
-
-Link: https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27
-
-### 8. Amberspire review [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Moon's haunted. We're living on the remains of a long-dead mausoleum, built to honour the bones of this city's previous avatars, clinging on to the hope that the moon won't eradicate every last bit of us.
-
-Link: https://www.eurogamer.net/amberspire-review
-
-### 9. ‘Homebody’ Trailer – Lo-Fi Ghost Story Shot on MiniDV Tape & Transferred to VHS [9/10]
-**Source:** Bloody Disgusting  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Rachel Kempf and Nick Toti, who made waves by vowing to never release their found footage horror film It Doesn’t Get Any Better Than This on streaming or physical media, are back with another unconventional feature.
-
-Link: https://bloody-disgusting.com/movie/3949946/homebody-trailer-lo-fi-ghost-story-shot-on-minidv-tape-transferred-to-vhs/
-
-### 10. Scott Turow's latest real-life legal thriller: Suing Meta for copyright infringement [9/10]
+### 10. Scott Turow's latest real-life legal thriller: Suing Meta for copyright infringement [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -127,32 +127,32 @@ Five major publishing houses and the bestselling author are suing Meta and its C
 
 Link: https://www.npr.org/2026/05/05/nx-s1-5812623/scott-turow-meta-lawsuit
 
-### 11. Los Angeles Unified Teachers to Provide High-Dosage Tutoring [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-The Los Angeles Unified School District is looking to focus on teacher-led, high-dosage tutoring to meet the requirements of a settlement that requires LAUSD to provide 10 million hours of tutoring to 100,000 students over three years.
-
-Link: https://www.the74million.org/article/los-angeles-unified-teachers-to-provide-high-dosage-tutoring/
-
-### 12. NYC Parents and Students Demand Moratorium on AI Use at Marathon Meeting [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Despite New York City’s last-minute withdrawal of a controversial proposal for a new artificial intelligence-centered high school, parents, students, and educators packed this week’s school board meeting to speak on AI anyway.
-
-Link: https://www.the74million.org/article/nyc-parents-and-students-demand-moratorium-at-marathon-meeting/
-
-### 13. What to know about the hantavirus outbreak on transatlantic cruise [7/10]
+### 11. Have you lost or are worried about losing SNAP benefits? NPR wants to hear your story [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-NPR's A Martinez speaks with Dr. Celine Gounder about the deadly hantavirus outbreak on a cruise ship in the Atlantic Ocean.
+NPR wants to hear from people impacted by changes to the Supplemental Nutrition Assistance Program.
 
-Link: https://www.npr.org/2026/05/06/nx-s1-5812588/what-to-know-about-the-hantavirus-outbreak-on-transatlantic-cruise
+Link: https://www.npr.org/2026/05/06/g-s1-120386/snap-benefits-eligibility-changes
+
+### 12. Man Finds $1 Million Worth of Yu-Gi-Oh Cards in a Dumpster [7/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+It was already a sordid tale of online drama, blurry photographs, and erratic TikToks. Then his mom started posting.
+
+Link: https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/
+
+### 13. Read an Excerpt From The Traveler by Joseph Eckert [6/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+A reluctant time-traveler, his extraordinary son, and the bond between them that even millennia cannot break… The post Read an Excerpt From The Traveler by Joseph Eckert appeared first on Reactor .
+
+Link: https://reactormag.com/excerpts-the-traveler-by-joseph-eckert/
 
 ## YouTube
 
@@ -455,15 +455,6 @@ SUBSCRIBE: http://bit.
 
 Link: https://www.youtube.com/watch?v=aqYHOsuje1E
 
-### Oscar Isaac & Ali Wong | The A24 Podcast [9/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe Endless Grasping with Ali Wong & Oscar Isaac A brief but brilliant ceremonial passing of the Beef baton between Season 1 star Ali Wong and Season 2 star Oscar Isaac.
-
-Link: https://www.youtube.com/watch?v=BF1mmlkXSYA
-
 ### LEVITICUS - Official Trailer - Only In Theaters June 19 [8/10]
 **Source:** NEON  
 **Verdict:** Looks promising  
@@ -580,6 +571,15 @@ Link: https://www.youtube.com/watch?v=fODfHjrBz6Y
 This is a rom-com that’s not safe for work… but so worth the risk.
 
 Link: https://www.youtube.com/watch?v=11gcNa-TBRA
+
+### Propeller One-Way Night Coach — Official Trailer | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Written, directed, and piloted by John Travolta. Propeller One-Way Night Coach premieres May 29 on Apple TV https://apple.co/_Propeller_ Subscribe to Apple TV’s YouTube channel: https://apple.
+
+Link: https://www.youtube.com/watch?v=Nd9fv9rPCMg
 
 ### The POV with Christina Roki and Calum Nicholas — Miami Race Recap | F1 on Apple TV [10/10]
 **Source:** Apple TV  

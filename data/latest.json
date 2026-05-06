@@ -1,60 +1,90 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-06T09:00:50.820349Z",
-  "generatedAtDisplay": "2026-05-06 05:00 AM EDT",
+  "generatedAt": "2026-05-06T14:00:01.253216Z",
+  "generatedAtDisplay": "2026-05-06 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Can promises on gender equality made in Australia help a 16-year-old Indian cigarette maker with no toilet?, New Mexico proposes $3.7bn fine for Meta and sweeping changes to its social platforms, and ‘In times like this, it pays to be Italian’: Mind Enterprises, the Campari-necking Italo disco revivalists who became a meme.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are Two hikers injured in US bear attack on Yellowstone trail, Renowned comedian Matt Berry helped create \"lots of fun Bane bits\" in Lego Batman: Legacy of the Dark Knight, and Google’s AI search summaries will now quote Reddit.",
   "mainItems": [
     {
-      "title": "Can promises on gender equality made in Australia help a 16-year-old Indian cigarette maker with no toilet?",
+      "title": "Two hikers injured in US bear attack on Yellowstone trail",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/global-development/2026/may/06/can-promises-gender-equality-made-in-australia-help-a-16-year-old-cigarette-maker-with-no-toilet-india",
-      "published": "2026-05-06T06:00:02+00:00",
-      "summary": "The Melbourne declaration aims to direct funding and power to those most overlooked and affected by injustice.",
+      "url": "https://www.theguardian.com/us-news/2026/may/06/bear-attack-yellowstone-trail",
+      "published": "2026-05-06T13:15:31+00:00",
+      "summary": "National park closes areas near Old Faithful after attack by one or more bears, with incident under investigation Two hikers were injured in a bear attack on Monday on a trail in Yellowstone national park , park officials said.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "New Mexico proposes $3.7bn fine for Meta and sweeping changes to its social platforms",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/technology/2026/may/05/new-mexico-meta-court-fine",
-      "published": "2026-05-06T05:00:04+00:00",
-      "summary": "State’s attorney general petitions for overhaul of how Meta’s child safety protocol in second phase of landmark case Meta has returned to court in the US this week for the second phase of a lawsuit brought by Raúl Torrez, New Mexico ’s…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "title": "Renowned comedian Matt Berry helped create \"lots of fun Bane bits\" in Lego Batman: Legacy of the Dark Knight",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/lego-batman-legacy-dark-knight-matt-berry-bane",
+      "published": "2026-05-06T13:04:48+00:00",
+      "summary": "British comedian Matt Berry is voicing Bane in TT Games' upcoming release, Lego Batman: Legacy of the Dark Knight, and it sounds like he will be bringing an especially mischievous twist to the iconic DC villain. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "‘In times like this, it pays to be Italian’: Mind Enterprises, the Campari-necking Italo disco revivalists who became a meme",
+      "title": "Google’s AI search summaries will now quote Reddit",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
+      "published": "2026-05-06T13:03:37+00:00",
+      "summary": "Google is updating its AI Search features to make it easier for users to find information from sources they know and trust.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Ohio Is Making Sure Industry-Recognized Credentials Pay Off. Your State Can, Too",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/ohio-is-making-sure-industry-recognized-credentials-pay-off-your-state-can-too/",
+      "published": "2026-05-06T12:30:00+00:00",
+      "summary": "Delivering high-quality career-technical education has quickly moved up the policy agenda across the country, with many states turning to industry credentials to help build students’ professional skill sets and signal to employers that…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "As Injustice 3 rumours heat up, NetherRealm boss Ed Boon says the studio is \"actively pursuing\" a new Mortal Kombat",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/netherrealm-boss-ed-boon-on-next-mortal-kombat-plans",
+      "published": "2026-05-06T12:19:41+00:00",
+      "summary": "While 2023's Mortal Kombat 1 didn't impress critics and fans as much as the other modern entries in the series, it still proved highly successful for developer NetherRealm Studios and publisher Warner Bros.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Ten Years (so far) with One Shared Belief: Teachers Make the Difference",
+      "source": "CSTA",
+      "category": "Education / pedagogy",
+      "url": "https://csteachers.org/ten-years-so-far-with-one-shared-belief-teachers-make-the-difference/",
+      "published": "2026-05-06T11:00:00+00:00",
+      "summary": "In a Springfield, Massachusetts kindergarten classroom, a five-year-old turned to her partner and said there was a bug in their...",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Young King: revealing book shines light on Martin Luther King Jr’s early days",
       "source": "The Guardian US",
+      "category": "Security / computing",
+      "url": "https://www.theguardian.com/books/2026/may/06/martin-luther-king-jr-early-years-book",
+      "published": "2026-05-06T09:00:05+00:00",
+      "summary": "Lerone Martin’s new book offers fascinating insight into the civil rights icon’s younger years Lerone Martin, a prominent scholar of Black religious history, leads the Martin Luther King Jr Research and Education Institute at Stanford…",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 9
+    },
+    {
+      "title": "A Louisiana Private School’s All-American Grift",
+      "source": "The Nation",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/music/2026/may/06/mind-enterprises-italo-disco-revivalists-electro",
-      "published": "2026-05-06T05:00:02+00:00",
-      "summary": "A video of the Italian duo huffing cigarettes and pouring aperitifs on a Mediterranean balcony might have gone viral – but there’s nothing slapdash about their blissful electro evocations of la dolce vita Even if you’ve never heard Mind…",
+      "url": "https://www.thenation.com/article/culture/miracle-children-review/",
+      "published": "2026-05-06T09:00:00+00:00",
+      "summary": "Kristen Martin In Miracle Children: Race, Education, and a True Story of False Promises , two reporters uncovered a high school scandal that puts into relief the unfinished work of integration.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Totally grounded? How the jet fuel crisis could change our holidays – and world history",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/2026/may/06/totally-grounded-how-the-jet-fuel-crisis-could-change-our-summer-holidays-and-world-history",
-      "published": "2026-05-06T04:00:03+00:00",
-      "summary": "Jet fuel has doubled in price since the start of the war on Iran. How bad will the disruption get and could this accelerate the route to jet zero? What happens to flights if the world runs out of oil? Well, obviously they will be grounded.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘If he didn’t do it, who did?’: fresh doubts over 2007 murder case that gripped Italy",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/may/06/if-he-didnt-do-it-who-did-fresh-doubts-over-2007-case-that-gripped-italy",
-      "published": "2026-05-06T04:00:03+00:00",
-      "summary": "Fresh DNA evidence in the killing of Chiara Poggi has brought a previously investigated suspect back under scrutiny, raising questions over the conviction A suspect in a case that has captivated Italy for almost 19 years has been summoned…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
@@ -64,36 +94,6 @@
       "published": "2026-05-05T22:10:12+00:00",
       "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Apple could let you pick a favorite AI model in iOS 27",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
-      "published": "2026-05-05T19:45:30+00:00",
-      "summary": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Amberspire review",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/amberspire-review",
-      "published": "2026-05-06T09:00:00+00:00",
-      "summary": "Moon's haunted. We're living on the remains of a long-dead mausoleum, built to honour the bones of this city's previous avatars, clinging on to the hope that the moon won't eradicate every last bit of us.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "‘Homebody’ Trailer – Lo-Fi Ghost Story Shot on MiniDV Tape & Transferred to VHS",
-      "source": "Bloody Disgusting",
-      "category": "Sci-fi / horror",
-      "url": "https://bloody-disgusting.com/movie/3949946/homebody-trailer-lo-fi-ghost-story-shot-on-minidv-tape-transferred-to-vhs/",
-      "published": "2026-05-06T02:18:54+00:00",
-      "summary": "Rachel Kempf and Nick Toti, who made waves by vowing to never release their found footage horror film It Doesn’t Get Any Better Than This on streaming or physical media, are back with another unconventional feature.",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 9
     },
     {
@@ -104,37 +104,37 @@
       "published": "2026-05-05T21:13:10+00:00",
       "summary": "Five major publishing houses and the bestselling author are suing Meta and its CEO Mark Zuckerberg for allegedly training its Llama generative AI models on millions of copyrighted materials.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
+      "score": 8
     },
     {
-      "title": "Los Angeles Unified Teachers to Provide High-Dosage Tutoring",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/los-angeles-unified-teachers-to-provide-high-dosage-tutoring/",
-      "published": "2026-05-05T18:30:00+00:00",
-      "summary": "The Los Angeles Unified School District is looking to focus on teacher-led, high-dosage tutoring to meet the requirements of a settlement that requires LAUSD to provide 10 million hours of tutoring to 100,000 students over three years.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "NYC Parents and Students Demand Moratorium on AI Use at Marathon Meeting",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/nyc-parents-and-students-demand-moratorium-at-marathon-meeting/",
-      "published": "2026-05-05T14:30:00+00:00",
-      "summary": "Despite New York City’s last-minute withdrawal of a controversial proposal for a new artificial intelligence-centered high school, parents, students, and educators packed this week’s school board meeting to speak on AI anyway.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "What to know about the hantavirus outbreak on transatlantic cruise",
+      "title": "Have you lost or are worried about losing SNAP benefits? NPR wants to hear your story",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/06/nx-s1-5812588/what-to-know-about-the-hantavirus-outbreak-on-transatlantic-cruise",
-      "published": "2026-05-06T08:44:58+00:00",
-      "summary": "NPR's A Martinez speaks with Dr. Celine Gounder about the deadly hantavirus outbreak on a cruise ship in the Atlantic Ocean.",
+      "url": "https://www.npr.org/2026/05/06/g-s1-120386/snap-benefits-eligibility-changes",
+      "published": "2026-05-06T13:26:03+00:00",
+      "summary": "NPR wants to hear from people impacted by changes to the Supplemental Nutrition Assistance Program.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
+    },
+    {
+      "title": "Man Finds $1 Million Worth of Yu-Gi-Oh Cards in a Dumpster",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/",
+      "published": "2026-05-06T13:21:59+00:00",
+      "summary": "It was already a sordid tale of online drama, blurry photographs, and erratic TikToks. Then his mom started posting.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
+    },
+    {
+      "title": "Read an Excerpt From The Traveler by Joseph Eckert",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/excerpts-the-traveler-by-joseph-eckert/",
+      "published": "2026-05-05T19:00:00+00:00",
+      "summary": "A reluctant time-traveler, his extraordinary son, and the bond between them that even millennia cannot break… The post Read an Excerpt From The Traveler by Joseph Eckert appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 6
     }
   ],
   "youtube": [
@@ -471,17 +471,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Oscar Isaac & Ali Wong | The A24 Podcast",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=BF1mmlkXSYA",
-      "published": "2026-04-15T13:59:08+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe Endless Grasping with Ali Wong & Oscar Isaac A brief but brilliant ceremonial passing of the Beef baton between Season 1 star Ali Wong and Season 2 star Oscar Isaac.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "LEVITICUS - Official Trailer - Only In Theaters June 19",
       "source": "NEON",
       "category": "Film / trailer",
@@ -625,6 +614,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Propeller One-Way Night Coach — Official Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Nd9fv9rPCMg",
+      "published": "2026-05-06T13:29:55+00:00",
+      "summary": "Written, directed, and piloted by John Travolta. Propeller One-Way Night Coach premieres May 29 on Apple TV https://apple.co/_Propeller_ Subscribe to Apple TV’s YouTube channel: https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "The POV with Christina Roki and Calum Nicholas — Miami Race Recap | F1 on Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
@@ -762,11 +762,11 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Partly cloudy",
-    "temp": "49",
-    "feels": "44",
-    "wind": "11",
-    "humidity": "71",
+    "desc": "Cloudy",
+    "temp": "58",
+    "feels": "57",
+    "wind": "4",
+    "humidity": "38",
     "days": [
       {
         "label": "Wed May 6",
@@ -789,6 +789,6 @@
     "mainCount": 13,
     "youtubeCount": 21,
     "trailerCount": 26,
-    "sourceCount": 20
+    "sourceCount": 23
   }
 }
