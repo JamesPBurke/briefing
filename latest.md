@@ -1,19 +1,19 @@
 # James Daily Briefing
 
-Generated: 2026-05-06T05:00:01.614103Z
+Generated: 2026-05-06T09:00:50.820349Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are ‘If he didn’t do it, who did?’: fresh doubts over 2007 murder case that gripped Italy, ‘Stuck in the mud’: one year on, Friedrich Merz struggles to find his footing, and Apple agrees to pay iPhone owners $250 million for not delivering AI Siri.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Can promises on gender equality made in Australia help a 16-year-old Indian cigarette maker with no toilet?, New Mexico proposes $3.7bn fine for Meta and sweeping changes to its social platforms, and ‘In times like this, it pays to be Italian’: Mind Enterprises, the Campari-necking Italo disco revivalists who became a meme.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Overcast, 49°F (feels like 44°F), 10 mph wind, 71% humidity.
+02726 (Somerset, MA): Partly cloudy, 49°F (feels like 44°F), 11 mph wind, 71% humidity.
 
 Forecast:
-- Wed May 6: high 53° / low 47°
-- Thu May 7: high 57° / low 45°
-- Fri May 8: high 60° / low 46°
+- Wed May 6: high 52° / low 44°
+- Thu May 7: high 57° / low 42°
+- Fri May 8: high 59° / low 45°
 
 ## Highlighted stories
 
@@ -37,7 +37,43 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. ‘If he didn’t do it, who did?’: fresh doubts over 2007 murder case that gripped Italy [10/10]
+### 1. Can promises on gender equality made in Australia help a 16-year-old Indian cigarette maker with no toilet? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The Melbourne declaration aims to direct funding and power to those most overlooked and affected by injustice.
+
+Link: https://www.theguardian.com/global-development/2026/may/06/can-promises-gender-equality-made-in-australia-help-a-16-year-old-cigarette-maker-with-no-toilet-india
+
+### 2. New Mexico proposes $3.7bn fine for Meta and sweeping changes to its social platforms [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+State’s attorney general petitions for overhaul of how Meta’s child safety protocol in second phase of landmark case Meta has returned to court in the US this week for the second phase of a lawsuit brought by Raúl Torrez, New Mexico ’s…
+
+Link: https://www.theguardian.com/technology/2026/may/05/new-mexico-meta-court-fine
+
+### 3. ‘In times like this, it pays to be Italian’: Mind Enterprises, the Campari-necking Italo disco revivalists who became a meme [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+A video of the Italian duo huffing cigarettes and pouring aperitifs on a Mediterranean balcony might have gone viral – but there’s nothing slapdash about their blissful electro evocations of la dolce vita Even if you’ve never heard Mind…
+
+Link: https://www.theguardian.com/music/2026/may/06/mind-enterprises-italo-disco-revivalists-electro
+
+### 4. Totally grounded? How the jet fuel crisis could change our holidays – and world history [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Jet fuel has doubled in price since the start of the war on Iran. How bad will the disruption get and could this accelerate the route to jet zero? What happens to flights if the world runs out of oil? Well, obviously they will be grounded.
+
+Link: https://www.theguardian.com/business/2026/may/06/totally-grounded-how-the-jet-fuel-crisis-could-change-our-summer-holidays-and-world-history
+
+### 5. ‘If he didn’t do it, who did?’: fresh doubts over 2007 murder case that gripped Italy [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -46,16 +82,7 @@ Fresh DNA evidence in the killing of Chiara Poggi has brought a previously inves
 
 Link: https://www.theguardian.com/world/2026/may/06/if-he-didnt-do-it-who-did-fresh-doubts-over-2007-case-that-gripped-italy
 
-### 2. ‘Stuck in the mud’: one year on, Friedrich Merz struggles to find his footing [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Just 19% of Germans approve of the chancellor’s leadership – with some of his comments causing offence amid spats with the White House Friedrich Merz’s first steps as German chancellor proved to be a stumble and, one year on, he is still…
-
-Link: https://www.theguardian.com/world/2026/may/06/stuck-in-the-mud-one-year-on-friedrich-merz-struggles-to-find-his-footing
-
-### 3. Apple agrees to pay iPhone owners $250 million for not delivering AI Siri [10/10]
+### 6. Apple agrees to pay iPhone owners $250 million for not delivering AI Siri [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -64,25 +91,7 @@ Apple has agreed to pay $250 million to settle a class action lawsuit that accus
 
 Link: https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement
 
-### 4. Pennsylvania sues Character.AI over claims chatbot posed as doctor [10/10]
-**Source:** NPR Tech  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-State officials allege a Character.AI bot claimed to be a licensed psychiatrist and provided a fake state medical license number.
-
-Link: https://www.npr.org/2026/05/05/nx-s1-5812861/characterai-chatbot-medical-advice-pennsylvania-lawsuit
-
-### 5. Character.AI sued over chatbot that claims to be a real doctor with a license [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-State says chatbot claimed to practice medicine, gave invalid license number.
-
-Link: https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/
-
-### 6. Apple could let you pick a favorite AI model in iOS 27 [10/10]
+### 7. Apple could let you pick a favorite AI model in iOS 27 [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -91,25 +100,25 @@ The next update to Apple's operating systems could allow users to choose their p
 
 Link: https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27
 
-### 7. Los Angeles Unified Teachers to Provide High-Dosage Tutoring [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 8. Amberspire review [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-The Los Angeles Unified School District is looking to focus on teacher-led, high-dosage tutoring to meet the requirements of a settlement that requires LAUSD to provide 10 million hours of tutoring to 100,000 students over three years.
+Moon's haunted. We're living on the remains of a long-dead mausoleum, built to honour the bones of this city's previous avatars, clinging on to the hope that the moon won't eradicate every last bit of us.
 
-Link: https://www.the74million.org/article/los-angeles-unified-teachers-to-provide-high-dosage-tutoring/
+Link: https://www.eurogamer.net/amberspire-review
 
-### 8. US to take steps to curb antidepressant prescribing, RFK Jr says [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 9. ‘Homebody’ Trailer – Lo-Fi Ghost Story Shot on MiniDV Tape & Transferred to VHS [9/10]
+**Source:** Bloody Disgusting  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Plan promotes ‘deprescribing’ as psychiatrists warn crisis stems from lack of access to care, not overuse The federal health department will begin a series of steps intended to curb antidepressant use in the US, Robert F Kennedy Jr…
+Rachel Kempf and Nick Toti, who made waves by vowing to never release their found footage horror film It Doesn’t Get Any Better Than This on streaming or physical media, are back with another unconventional feature.
 
-Link: https://www.theguardian.com/us-news/2026/may/05/antidepressants-rfk-jr-maha
+Link: https://bloody-disgusting.com/movie/3949946/homebody-trailer-lo-fi-ghost-story-shot-on-minidv-tape-transferred-to-vhs/
 
-### 9. Scott Turow's latest real-life legal thriller: Suing Meta for copyright infringement [9/10]
+### 10. Scott Turow's latest real-life legal thriller: Suing Meta for copyright infringement [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -118,16 +127,16 @@ Five major publishing houses and the bestselling author are suing Meta and its C
 
 Link: https://www.npr.org/2026/05/05/nx-s1-5812623/scott-turow-meta-lawsuit
 
-### 10. Dead as Disco is out in early access to fill the Hi-Fi Rush and, weirdly, Batman: Arkham series shaped hole in your heart [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 11. Los Angeles Unified Teachers to Provide High-Dosage Tutoring [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-At this point in time, even if Tango Gameworks were ultimately saved , there's no telling when we might get a new Hi-Fi Rush game.
+The Los Angeles Unified School District is looking to focus on teacher-led, high-dosage tutoring to meet the requirements of a settlement that requires LAUSD to provide 10 million hours of tutoring to 100,000 students over three years.
 
-Link: https://www.rockpapershotgun.com/dead-as-disco-is-out-in-early-access-to-fill-the-hi-fi-rush-and-weirdly-batman-arkham-series-shaped-hole-in-your-heart
+Link: https://www.the74million.org/article/los-angeles-unified-teachers-to-provide-high-dosage-tutoring/
 
-### 11. NYC Parents and Students Demand Moratorium on AI Use at Marathon Meeting [9/10]
+### 12. NYC Parents and Students Demand Moratorium on AI Use at Marathon Meeting [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -136,23 +145,14 @@ Despite New York City’s last-minute withdrawal of a controversial proposal for
 
 Link: https://www.the74million.org/article/nyc-parents-and-students-demand-moratorium-at-marathon-meeting/
 
-### 12. New Trailer for Christopher Nolan’s The Odyssey Looks Only Moderately Epic [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-There's no place like ... you know the rest The post New Trailer for Christopher Nolan’s The Odyssey Looks Only Moderately Epic appeared first on Reactor .
-
-Link: https://reactormag.com/christopher-nolan-odyssey-trailer/
-
-### 13. Cruise ship with hantavirus may have seen a rare occurrence: humans infecting humans [7/10]
+### 13. What to know about the hantavirus outbreak on transatlantic cruise [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Hantavirus is typically spread through contact with rodent feces, urine or saliva. But cases on the MV Hondius cruise ship point to an unusual means of transmission.
+NPR's A Martinez speaks with Dr. Celine Gounder about the deadly hantavirus outbreak on a cruise ship in the Atlantic Ocean.
 
-Link: https://www.npr.org/2026/05/05/g-s1-120234/cruise-ship-with-hantavirus-may-have-seen-a-rare-occurrence-humans-infecting-humans
+Link: https://www.npr.org/2026/05/06/nx-s1-5812588/what-to-know-about-the-hantavirus-outbreak-on-transatlantic-cruise
 
 ## YouTube
 
@@ -174,9 +174,9 @@ Architect Dr. Sally Mackereth joins WIRED to answer the internet's burning quest
 
 Link: https://www.youtube.com/watch?v=Druvom03m_A
 
-### Dozens stuck on cruise ship after suspected viral outbreak onboard kills 3 [7/10]
+### Dozens stuck on cruise ship after suspected viral outbreak onboard kills 3 [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 Three people have died and at least three more have become seriously ill in a suspected hantavirus outbreak aboard a cruise ship off the coast of Cape Verde.

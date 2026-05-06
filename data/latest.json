@@ -1,11 +1,51 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-06T05:00:01.614103Z",
-  "generatedAtDisplay": "2026-05-06 01:00 AM EDT",
+  "generatedAt": "2026-05-06T09:00:50.820349Z",
+  "generatedAtDisplay": "2026-05-06 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are ‘If he didn’t do it, who did?’: fresh doubts over 2007 murder case that gripped Italy, ‘Stuck in the mud’: one year on, Friedrich Merz struggles to find his footing, and Apple agrees to pay iPhone owners $250 million for not delivering AI Siri.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Can promises on gender equality made in Australia help a 16-year-old Indian cigarette maker with no toilet?, New Mexico proposes $3.7bn fine for Meta and sweeping changes to its social platforms, and ‘In times like this, it pays to be Italian’: Mind Enterprises, the Campari-necking Italo disco revivalists who became a meme.",
   "mainItems": [
+    {
+      "title": "Can promises on gender equality made in Australia help a 16-year-old Indian cigarette maker with no toilet?",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/global-development/2026/may/06/can-promises-gender-equality-made-in-australia-help-a-16-year-old-cigarette-maker-with-no-toilet-india",
+      "published": "2026-05-06T06:00:02+00:00",
+      "summary": "The Melbourne declaration aims to direct funding and power to those most overlooked and affected by injustice.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "New Mexico proposes $3.7bn fine for Meta and sweeping changes to its social platforms",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/technology/2026/may/05/new-mexico-meta-court-fine",
+      "published": "2026-05-06T05:00:04+00:00",
+      "summary": "State’s attorney general petitions for overhaul of how Meta’s child safety protocol in second phase of landmark case Meta has returned to court in the US this week for the second phase of a lawsuit brought by Raúl Torrez, New Mexico ’s…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "‘In times like this, it pays to be Italian’: Mind Enterprises, the Campari-necking Italo disco revivalists who became a meme",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/music/2026/may/06/mind-enterprises-italo-disco-revivalists-electro",
+      "published": "2026-05-06T05:00:02+00:00",
+      "summary": "A video of the Italian duo huffing cigarettes and pouring aperitifs on a Mediterranean balcony might have gone viral – but there’s nothing slapdash about their blissful electro evocations of la dolce vita Even if you’ve never heard Mind…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Totally grounded? How the jet fuel crisis could change our holidays – and world history",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/business/2026/may/06/totally-grounded-how-the-jet-fuel-crisis-could-change-our-summer-holidays-and-world-history",
+      "published": "2026-05-06T04:00:03+00:00",
+      "summary": "Jet fuel has doubled in price since the start of the war on Iran. How bad will the disruption get and could this accelerate the route to jet zero? What happens to flights if the world runs out of oil? Well, obviously they will be grounded.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "‘If he didn’t do it, who did?’: fresh doubts over 2007 murder case that gripped Italy",
       "source": "The Guardian US",
@@ -13,16 +53,6 @@
       "url": "https://www.theguardian.com/world/2026/may/06/if-he-didnt-do-it-who-did-fresh-doubts-over-2007-case-that-gripped-italy",
       "published": "2026-05-06T04:00:03+00:00",
       "summary": "Fresh DNA evidence in the killing of Chiara Poggi has brought a previously investigated suspect back under scrutiny, raising questions over the conviction A suspect in a case that has captivated Italy for almost 19 years has been summoned…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘Stuck in the mud’: one year on, Friedrich Merz struggles to find his footing",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/may/06/stuck-in-the-mud-one-year-on-friedrich-merz-struggles-to-find-his-footing",
-      "published": "2026-05-06T04:00:03+00:00",
-      "summary": "Just 19% of Germans approve of the chancellor’s leadership – with some of his comments causing offence amid spats with the White House Friedrich Merz’s first steps as German chancellor proved to be a stumble and, one year on, he is still…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -37,26 +67,6 @@
       "score": 10
     },
     {
-      "title": "Pennsylvania sues Character.AI over claims chatbot posed as doctor",
-      "source": "NPR Tech",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/05/05/nx-s1-5812861/characterai-chatbot-medical-advice-pennsylvania-lawsuit",
-      "published": "2026-05-05T21:26:55+00:00",
-      "summary": "State officials allege a Character.AI bot claimed to be a licensed psychiatrist and provided a fake state medical license number.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Character.AI sued over chatbot that claims to be a real doctor with a license",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/",
-      "published": "2026-05-05T20:58:56+00:00",
-      "summary": "State says chatbot claimed to practice medicine, gave invalid license number.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "Apple could let you pick a favorite AI model in iOS 27",
       "source": "The Verge",
       "category": "AI / computing",
@@ -67,24 +77,24 @@
       "score": 10
     },
     {
-      "title": "Los Angeles Unified Teachers to Provide High-Dosage Tutoring",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/los-angeles-unified-teachers-to-provide-high-dosage-tutoring/",
-      "published": "2026-05-05T18:30:00+00:00",
-      "summary": "The Los Angeles Unified School District is looking to focus on teacher-led, high-dosage tutoring to meet the requirements of a settlement that requires LAUSD to provide 10 million hours of tutoring to 100,000 students over three years.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "title": "Amberspire review",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/amberspire-review",
+      "published": "2026-05-06T09:00:00+00:00",
+      "summary": "Moon's haunted. We're living on the remains of a long-dead mausoleum, built to honour the bones of this city's previous avatars, clinging on to the hope that the moon won't eradicate every last bit of us.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
-      "title": "US to take steps to curb antidepressant prescribing, RFK Jr says",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/may/05/antidepressants-rfk-jr-maha",
-      "published": "2026-05-05T18:08:21+00:00",
-      "summary": "Plan promotes ‘deprescribing’ as psychiatrists warn crisis stems from lack of access to care, not overuse The federal health department will begin a series of steps intended to curb antidepressant use in the US, Robert F Kennedy Jr…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
+      "title": "‘Homebody’ Trailer – Lo-Fi Ghost Story Shot on MiniDV Tape & Transferred to VHS",
+      "source": "Bloody Disgusting",
+      "category": "Sci-fi / horror",
+      "url": "https://bloody-disgusting.com/movie/3949946/homebody-trailer-lo-fi-ghost-story-shot-on-minidv-tape-transferred-to-vhs/",
+      "published": "2026-05-06T02:18:54+00:00",
+      "summary": "Rachel Kempf and Nick Toti, who made waves by vowing to never release their found footage horror film It Doesn’t Get Any Better Than This on streaming or physical media, are back with another unconventional feature.",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 9
     },
     {
       "title": "Scott Turow's latest real-life legal thriller: Suing Meta for copyright infringement",
@@ -97,13 +107,13 @@
       "score": 9
     },
     {
-      "title": "Dead as Disco is out in early access to fill the Hi-Fi Rush and, weirdly, Batman: Arkham series shaped hole in your heart",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/dead-as-disco-is-out-in-early-access-to-fill-the-hi-fi-rush-and-weirdly-batman-arkham-series-shaped-hole-in-your-heart",
-      "published": "2026-05-05T20:32:08+00:00",
-      "summary": "At this point in time, even if Tango Gameworks were ultimately saved , there's no telling when we might get a new Hi-Fi Rush game.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Los Angeles Unified Teachers to Provide High-Dosage Tutoring",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/los-angeles-unified-teachers-to-provide-high-dosage-tutoring/",
+      "published": "2026-05-05T18:30:00+00:00",
+      "summary": "The Los Angeles Unified School District is looking to focus on teacher-led, high-dosage tutoring to meet the requirements of a settlement that requires LAUSD to provide 10 million hours of tutoring to 100,000 students over three years.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
@@ -117,22 +127,12 @@
       "score": 9
     },
     {
-      "title": "New Trailer for Christopher Nolan’s The Odyssey Looks Only Moderately Epic",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/christopher-nolan-odyssey-trailer/",
-      "published": "2026-05-05T13:56:16+00:00",
-      "summary": "There's no place like ... you know the rest The post New Trailer for Christopher Nolan’s The Odyssey Looks Only Moderately Epic appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
-      "title": "Cruise ship with hantavirus may have seen a rare occurrence: humans infecting humans",
+      "title": "What to know about the hantavirus outbreak on transatlantic cruise",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/05/g-s1-120234/cruise-ship-with-hantavirus-may-have-seen-a-rare-occurrence-humans-infecting-humans",
-      "published": "2026-05-05T21:08:37+00:00",
-      "summary": "Hantavirus is typically spread through contact with rodent feces, urine or saliva. But cases on the MV Hondius cruise ship point to an unusual means of transmission.",
+      "url": "https://www.npr.org/2026/05/06/nx-s1-5812588/what-to-know-about-the-hantavirus-outbreak-on-transatlantic-cruise",
+      "published": "2026-05-06T08:44:58+00:00",
+      "summary": "NPR's A Martinez speaks with Dr. Celine Gounder about the deadly hantavirus outbreak on a cruise ship in the Atlantic Ocean.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
@@ -168,8 +168,8 @@
       "published": "2026-05-05T18:58:50+00:00",
       "summary": "Three people have died and at least three more have become seriously ill in a suspected hantavirus outbreak aboard a cruise ship off the coast of Cape Verde.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "According to science small talk isn't boring",
@@ -762,26 +762,26 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Overcast",
+    "desc": "Partly cloudy",
     "temp": "49",
     "feels": "44",
-    "wind": "10",
+    "wind": "11",
     "humidity": "71",
     "days": [
       {
         "label": "Wed May 6",
-        "high": "53",
-        "low": "47"
+        "high": "52",
+        "low": "44"
       },
       {
         "label": "Thu May 7",
         "high": "57",
-        "low": "45"
+        "low": "42"
       },
       {
         "label": "Fri May 8",
-        "high": "60",
-        "low": "46"
+        "high": "59",
+        "low": "45"
       }
     ]
   },
@@ -789,6 +789,6 @@
     "mainCount": 13,
     "youtubeCount": 21,
     "trailerCount": 26,
-    "sourceCount": 21
+    "sourceCount": 20
   }
 }
