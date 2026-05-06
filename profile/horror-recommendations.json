@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T18:30:27Z",
+  "updatedAt": "2026-05-06T21:59:00Z",
   "entries": [
     {
       "title": "The Mummy",
@@ -18,6 +18,18 @@
       "mediaType": "film",
       "why": "Reliable franchise horror with enough pedigree to be worth tracking.",
       "recommendedAt": "2026-04-04T18:30:27Z"
+    },
+    {
+      "title": "The Demon Road Trip",
+      "mediaType": "film",
+      "why": "André Øvredal’s new horror (Scary Stories to Tell in the Dark director) about a couple stalked by a demon after a road accident—smart, slow-burn dread with strong pedigree.",
+      "recommendedAt": "2026-05-06T21:59:00Z"
+    },
+    {
+      "title": "Hokum",
+      "mediaType": "film",
+      "why": "Damian McCarthy’s Irish folk horror chiller (Oddity director) with Severance’s Adam Scott—creepy, atmospheric, and deeply unsettling.",
+      "recommendedAt": "2026-05-06T21:59:00Z"
     }
   ]
 }
