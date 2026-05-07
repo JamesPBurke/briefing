@@ -1,14 +1,14 @@
 # James Daily Briefing
 
-Generated: 2026-05-07T09:00:50.512418Z
+Generated: 2026-05-07T14:00:01.793484Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Revealed: Russia’s top secret spy school teaching hacking and election meddling, Alleged suicide note written by Jeffrey Epstein unsealed by federal judge, and Justice department can keep 2020 ballots FBI seized from Fulton county, judge rules.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are As Nintendo reportedly faces pressure to raise Switch 2 prices, Star Fox demonstrates it's standing by its pledge to make digital games cheaper, ‘An epidemic of flies, rats, waste and foul odours’: health fears in Cuba as US oil blockade halts rubbish collection, and Will: Follow the Light review - a pretty Arctic adventure, but tedious puzzles leave it lost at sea.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Patchy rain nearby, 53°F (feels like 50°F), 7 mph wind, 76% humidity.
+02726 (Somerset, MA): Patchy rain nearby, 58°F (feels like 55°F), 11 mph wind, 67% humidity.
 
 Forecast:
 - Thu May 7: high 57° / low 46°
@@ -37,34 +37,70 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Revealed: Russia’s top secret spy school teaching hacking and election meddling [10/10]
+### 1. As Nintendo reportedly faces pressure to raise Switch 2 prices, Star Fox demonstrates it's standing by its pledge to make digital games cheaper [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Nintendo shocked the games industry last night with a sudden reveal of a new Star Fox game, a remake of Star Fox 64 , coming exclusively to Switch 2 .
+
+Link: https://www.eurogamer.net/star-fox-and-nintendo-switch-2-price-changes
+
+### 2. ‘An epidemic of flies, rats, waste and foul odours’: health fears in Cuba as US oil blockade halts rubbish collection [10/10]
 **Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Exclusive: Documents obtained by consortium of journalists show role of Moscow university in training operatives in military intelligence Last April, Vladimir Putin visited the campus of Bauman Moscow state technical university, set on the…
+As Trump ramps up pressure by cutting off fuel to the island, Havana’s refuse is rarely collected, forcing residents to burn it in the streets despite the pollution As thick smoke spread through the narrow streets of Havana, seeping into…
 
-Link: https://www.theguardian.com/world/2026/may/07/revealed-russia-top-secret-spy-school-hacking-western-electoral-interference
+Link: https://www.theguardian.com/global-development/2026/may/07/rubbish-health-cuba-us-oil-blockade-waste-collection-fuel-crisis-havana
 
-### 2. Alleged suicide note written by Jeffrey Epstein unsealed by federal judge [10/10]
+### 3. Will: Follow the Light review - a pretty Arctic adventure, but tedious puzzles leave it lost at sea [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Will: Follow the Light is a cracking videogame name. Especially when it fades in after a few trailer shots of first-person striding across frozen wastelands and carving a wave-battered yacht through stormy seas.
+
+Link: https://www.rockpapershotgun.com/will-follow-the-light-review
+
+### 4. Professors sue Atlanta’s Emory University over handling of Israel-Gaza protests [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Students and faculty have also protested against surveillance cameras on campus and handling of racist posts by a student Atlanta’s Emory University is facing a lawsuit from three tenured professors over its handling of 2024 protests…
+
+Link: https://www.theguardian.com/us-news/2026/may/07/emory-university-professor-lawsuit-israel-gaza-protests
+
+### 5. Ian McKellen: ‘Of course Gandalf would beat Dumbledore in a fight’ [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Epstein’s cellmate in New York City says he found note after convicted sexual offender attempted suicide in July 2019 A federal judge unsealed an alleged suicide note written by Jeffrey Epstein on Wednesday, the first time the document has…
+The actor on dealing with disruptive drinkers in his pub, what he’d ask Shakespeare, and being urged by Alec Guinness to withdraw from Stonewall In more than six decades of acting, what has changed the most? eamonmcc My first job, in 1961,…
 
-Link: https://www.theguardian.com/us-news/2026/may/06/jeffrey-epstein-alleged-suicide-note
+Link: https://www.theguardian.com/film/2026/may/07/ian-mckellen-reader-interview
 
-### 3. Justice department can keep 2020 ballots FBI seized from Fulton county, judge rules [10/10]
+### 6. Nearly 500 homes damaged in Mississippi as multiple tornadoes reported [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The heavily Democratic Fulton county has been at the center of Trump’s false claims of election fraud in 2020 The federal government can keep the 2020 election ballots from Georgia’s Fulton county seized by the FBI from a warehouse near…
+Governor asks people to ‘pray for Mississippi’ while National Weather Service reported ‘very large and dangerous tornado’ Powerful storms that included at least one confirmed tornado tore through parts of Mississippi , damaging nearly 500…
 
-Link: https://www.theguardian.com/us-news/2026/may/06/justice-department-2020-ballots-fbi-seized-fulton-county
+Link: https://www.theguardian.com/us-news/2026/may/07/hundreds-homes-damaged-imississippi-multiple-tornadoes
 
-### 4. Mira Murati tells the court that she couldn’t trust Sam Altman’s words [10/10]
+### 7. 11 AI Prompts Every Teacher Should Know [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+The average K-12 teacher works 49 hours a week. About a quarter of that time is uncompensated.
+
+Link: https://www.the74million.org/article/11-ai-prompts-every-teacher-should-know/
+
+### 8. Mira Murati tells the court that she couldn’t trust Sam Altman’s words [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -73,7 +109,16 @@ Mira Murati, OpenAI's former CTO, has testified under oath that CEO Sam Altman l
 
 Link: https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati
 
-### 5. Google's Gemma 4 AI models get 3x speed boost by predicting future tokens [10/10]
+### 9. Revealed: Russia’s top secret spy school teaching hacking and election meddling [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Exclusive: Documents obtained by consortium of journalists show role of Moscow university in training operatives in military intelligence Last April, Vladimir Putin visited the campus of Bauman Moscow state technical university, set on the…
+
+Link: https://www.theguardian.com/world/2026/may/07/revealed-russia-top-secret-spy-school-hacking-western-electoral-interference
+
+### 10. Google's Gemma 4 AI models get 3x speed boost by predicting future tokens [10/10]
 **Source:** Ars Technica  
 **Category:** AI / open models  
 **Why it matters:** Relevant to local models, open tooling, and hands-on experimentation.
@@ -82,43 +127,7 @@ Up to 3x the speed with no loss of quality—is it too good to be true?
 
 Link: https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/
 
-### 6. ‘Somehow you become the chicken’: inside the film about people-smuggling told through the eyes of a hen [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Eight birds play the lead in Hen – one for running scenes, one for pecking, one for staying still. And there’s even a cockerel love interest.
-
-Link: https://www.theguardian.com/film/2026/may/07/chicken-hen-people-smuggling-film-gyorgy-palfi
-
-### 7. Stranger Than Heaven's new combat system sounds pretty complicated, but looks absolutely amazing [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-At this evening's (or morning's, depending on how you look at things) Xbox Presents, we got a very in-depth look at Ryu Ga Gotoku's upcoming title, Stranger Than Heaven .
-
-Link: https://www.eurogamer.net/stranger-than-heaven-combat-explained
-
-### 8. Report: SpaceX IPO gives Musk unchecked power and forbids investor lawsuits [9/10]
-**Source:** Ars Technica  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Anyone who buys into SpaceX IPO must waive right to sue the firm, report says.
-
-Link: https://arstechnica.com/tech-policy/2026/05/report-spacex-ipo-gives-musk-unchecked-power-and-forbids-investor-lawsuits/
-
-### 9. Ten Years (so far) with One Shared Belief: Teachers Make the Difference [9/10]
-**Source:** CSTA  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-In a Springfield, Massachusetts kindergarten classroom, a five-year-old turned to her partner and said there was a bug in their...
-
-Link: https://csteachers.org/ten-years-so-far-with-one-shared-belief-teachers-make-the-difference/
-
-### 10. About 40 passengers previously left ship hit by Hantavirus at island of St. Helena [8/10]
+### 11. About 40 passengers previously left ship hit by Hantavirus at island of St. Helena [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -127,7 +136,7 @@ The dozens of passengers, including the wife of a Dutch man who died, left the c
 
 Link: https://www.npr.org/2026/05/07/nx-s1-5814632/passengers-left-ship-hantavirus-st-helena
 
-### 11. Scientists Gave ‘Aggressive’ Fish Psychedelic Drugs. A Breakthrough Came Next [8/10]
+### 12. Scientists Gave ‘Aggressive’ Fish Psychedelic Drugs. A Breakthrough Came Next [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -136,7 +145,7 @@ Link: https://www.npr.org/2026/05/07/nx-s1-5814632/passengers-left-ship-hantavir
 
 Link: https://www.404media.co/fish-psilocybin-magic-mushrooms-study-psychedelics/
 
-### 12. Why Daredevil: Born Again Season 3 Will Adapt “The Devil in Cell-Block D” [7/10]
+### 13. Why Daredevil: Born Again Season 3 Will Adapt “The Devil in Cell-Block D” [7/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -144,15 +153,6 @@ Link: https://www.404media.co/fish-psilocybin-magic-mushrooms-study-psychedelics
 Showrunner Dario Scardapane says Born Again has been building towards the story for quite some time The post Why Daredevil: Born Again Season 3 Will Adapt “The Devil in Cell-Block D” appeared first on Reactor .
 
 Link: https://reactormag.com/daredevil-born-again-season-3-devil-in-cell-block-d/
-
-### 13. The simple, one-tool trick to make bright frosting : Putting a popular method to the test. [6/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-If you’ve ever dumped a whole bottle of food coloring into a batch of frosting only to be left with a pale pastel hue instead of the deep, vibrant colors you were going for, you know that making bright frosting can be a challenge.
-
-Link: https://www.kingarthurbaking.com/blog/2026/05/06/how-to-make-bright-frosting
 
 ## YouTube
 
@@ -182,6 +182,15 @@ Link: https://www.youtube.com/watch?v=7WEewUVQabU
 Architect Dr. Sally Mackereth joins WIRED to answer the internet's burning questions about architecture.
 
 Link: https://www.youtube.com/watch?v=Druvom03m_A
+
+### Algorithm | For your right to be curious. [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+People notice. People question. NPR takes your curiosity further. Hear more of this story on It’s Been a Minute from NPR. NPR Marketing message. Not produced by the NPR newsroom.
+
+Link: https://www.youtube.com/watch?v=uWVme1E_9n4
 
 ### Did the FBI director use AI to rip off the Beastie Boys? [8/10]
 **Creator:** NPR  
@@ -218,15 +227,6 @@ Link: https://www.youtube.com/watch?v=CW0z-63986Q
 According to science small talk isn't boring. So maybe have more conversation about onions, math... or anything, really!⁠ ------------------------------------------------------ Follow NPR elsewhere, too: • Instagram: https://www.instagram.
 
 Link: https://www.youtube.com/watch?v=ieMS0mcXS_A
-
-### Supreme Court temporarily restores access to abortion pill, blocking lower court [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The U.S. Supreme Court has restored access, temporarily, to a drug used for medical abortions.
-
-Link: https://www.youtube.com/watch?v=IkRD5uXJBZc
 
 ### Pragmata PC Best Settings - Digital Foundry Optimised [7/10]
 **Creator:** Digital Foundry  
@@ -282,9 +282,9 @@ Link: https://www.youtube.com/watch?v=ypZojJa1bnU
 
 Link: https://www.youtube.com/watch?v=UPNR90OW7Tg
 
-### Revisiting the Original SNES Star Fox w/ KC and Marty [7/10]
+### Revisiting the Original SNES Star Fox w/ KC and Marty [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 For their next franchise revisit, KC and Marty are going to take a look at the Star Fox series. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
@@ -509,6 +509,24 @@ Are they "the one" or just the one you were warned about? Worst Ex Ever returns 
 
 Link: https://www.youtube.com/watch?v=_iKN26hplWY
 
+### Survival of the Thickest: The Final Season | Official Teaser | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+She's going out in style. The final season of Survival of the Thickest premieres July 2, only on Netflix. Survival of the Thickest follows Mavis, a plus-size Black stylist looking for love and success.
+
+Link: https://www.youtube.com/watch?v=PJIJwZk-Vuw
+
+### I Will Find You | Official Teaser | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+What happened to Matthew? Find out in I Will Find You, the thrilling new mystery series from Harlan Coben. Starring Sam Worthington and Britt Lower, I Will Find You premieres June 18th, only on Netflix. Watch on Netflix: https://www.
+
+Link: https://www.youtube.com/watch?v=ZRDp88kZn2A
+
 ### Berlin and the Lady with an Ermine | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -581,14 +599,14 @@ The definitive documentary on beloved comedian Martin Short, using beautiful, in
 
 Link: https://www.youtube.com/watch?v=QBvYXE6oZ64
 
-### The Crash | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
+### Cape Fear — Official Trailer | Apple TV [10/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-A car slams into a brick building at 100 miles per hour leaving two young lives lost and one sole survivor. As detectives comb through the wreckage, what first appears to be a tragic accident begins to look like a calculated crime scene.
+Out of prison, and out for revenge. Cape Fear premieres June 5 on Apple TV https://apple.
 
-Link: https://www.youtube.com/watch?v=fODfHjrBz6Y
+Link: https://www.youtube.com/watch?v=FZ3sN5E-mBU
 
 ### Widow's Bay — The History of the Island | Apple TV [10/10]
 **Source:** Apple TV  
@@ -599,12 +617,12 @@ Courtesy of the Widow's Bay Historical Society. Widow's Bay is now streaming htt
 
 Link: https://www.youtube.com/watch?v=ae8_jwDPtjU
 
-### Propeller One-Way Night Coach — Official Trailer | Apple TV [10/10]
+### Propeller One-Way Night Coach — Official Trailer | Apple TV [9/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-Written, directed, and piloted by John Travolta. Propeller One-Way Night Coach premieres May 29 on Apple TV https://apple.co/_Propeller_ Subscribe to Apple TV’s YouTube channel: https://apple.
+All aboard, please. Written, directed, and piloted by John Travolta. Propeller One-Way Night Coach takes off May 29 on Apple TV https://apple.
 
 Link: https://www.youtube.com/watch?v=Nd9fv9rPCMg
 
@@ -616,12 +634,3 @@ Link: https://www.youtube.com/watch?v=Nd9fv9rPCMg
 Race weekend rewind. Christina Roki and Calum Nicholas recap all of #MiamiGP’s highlights you need to know. Watch every race on Apple TV, the U.S. home of F1 http://apple.
 
 Link: https://www.youtube.com/watch?v=4kLOUQGRo2I
-
-### Monarch: Legacy of Monsters — Kong vs. Titan X | Apple TV [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Titan X isn't herself, but it makes no difference to Kong. It's the Skull Island showdown from "Where We Belong." Monarch: Legacy of Monsters Season 2 is now streaming on Apple TV https://apple.
-
-Link: https://www.youtube.com/watch?v=pUSmTPIFnNM

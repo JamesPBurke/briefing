@@ -1,11 +1,91 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-07T09:00:50.512418Z",
-  "generatedAtDisplay": "2026-05-07 05:00 AM EDT",
+  "generatedAt": "2026-05-07T14:00:01.793484Z",
+  "generatedAtDisplay": "2026-05-07 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Revealed: Russia’s top secret spy school teaching hacking and election meddling, Alleged suicide note written by Jeffrey Epstein unsealed by federal judge, and Justice department can keep 2020 ballots FBI seized from Fulton county, judge rules.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are As Nintendo reportedly faces pressure to raise Switch 2 prices, Star Fox demonstrates it's standing by its pledge to make digital games cheaper, ‘An epidemic of flies, rats, waste and foul odours’: health fears in Cuba as US oil blockade halts rubbish collection, and Will: Follow the Light review - a pretty Arctic adventure, but tedious puzzles leave it lost at sea.",
   "mainItems": [
+    {
+      "title": "As Nintendo reportedly faces pressure to raise Switch 2 prices, Star Fox demonstrates it's standing by its pledge to make digital games cheaper",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/star-fox-and-nintendo-switch-2-price-changes",
+      "published": "2026-05-07T13:24:43+00:00",
+      "summary": "Nintendo shocked the games industry last night with a sudden reveal of a new Star Fox game, a remake of Star Fox 64 , coming exclusively to Switch 2 .",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘An epidemic of flies, rats, waste and foul odours’: health fears in Cuba as US oil blockade halts rubbish collection",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/global-development/2026/may/07/rubbish-health-cuba-us-oil-blockade-waste-collection-fuel-crisis-havana",
+      "published": "2026-05-07T13:00:50+00:00",
+      "summary": "As Trump ramps up pressure by cutting off fuel to the island, Havana’s refuse is rarely collected, forcing residents to burn it in the streets despite the pollution As thick smoke spread through the narrow streets of Havana, seeping into…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Will: Follow the Light review - a pretty Arctic adventure, but tedious puzzles leave it lost at sea",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/will-follow-the-light-review",
+      "published": "2026-05-07T13:00:00+00:00",
+      "summary": "Will: Follow the Light is a cracking videogame name. Especially when it fades in after a few trailer shots of first-person striding across frozen wastelands and carving a wave-battered yacht through stormy seas.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Professors sue Atlanta’s Emory University over handling of Israel-Gaza protests",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/may/07/emory-university-professor-lawsuit-israel-gaza-protests",
+      "published": "2026-05-07T12:00:49+00:00",
+      "summary": "Students and faculty have also protested against surveillance cameras on campus and handling of racist posts by a student Atlanta’s Emory University is facing a lawsuit from three tenured professors over its handling of 2024 protests…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Ian McKellen: ‘Of course Gandalf would beat Dumbledore in a fight’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/film/2026/may/07/ian-mckellen-reader-interview",
+      "published": "2026-05-07T12:00:48+00:00",
+      "summary": "The actor on dealing with disruptive drinkers in his pub, what he’d ask Shakespeare, and being urged by Alec Guinness to withdraw from Stonewall In more than six decades of acting, what has changed the most? eamonmcc My first job, in 1961,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Nearly 500 homes damaged in Mississippi as multiple tornadoes reported",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/07/hundreds-homes-damaged-imississippi-multiple-tornadoes",
+      "published": "2026-05-07T11:40:30+00:00",
+      "summary": "Governor asks people to ‘pray for Mississippi’ while National Weather Service reported ‘very large and dangerous tornado’ Powerful storms that included at least one confirmed tornado tore through parts of Mississippi , damaging nearly 500…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "11 AI Prompts Every Teacher Should Know",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/11-ai-prompts-every-teacher-should-know/",
+      "published": "2026-05-07T10:30:00+00:00",
+      "summary": "The average K-12 teacher works 49 hours a week. About a quarter of that time is uncompensated.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
+      "published": "2026-05-07T10:12:16+00:00",
+      "summary": "Mira Murati, OpenAI's former CTO, has testified under oath that CEO Sam Altman lied to her about the safety standards for a new AI model. In a video deposition shown during the ongoing Musk v.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
     {
       "title": "Revealed: Russia’s top secret spy school teaching hacking and election meddling",
       "source": "The Guardian US",
@@ -17,36 +97,6 @@
       "score": 10
     },
     {
-      "title": "Alleged suicide note written by Jeffrey Epstein unsealed by federal judge",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/06/jeffrey-epstein-alleged-suicide-note",
-      "published": "2026-05-07T00:44:39+00:00",
-      "summary": "Epstein’s cellmate in New York City says he found note after convicted sexual offender attempted suicide in July 2019 A federal judge unsealed an alleged suicide note written by Jeffrey Epstein on Wednesday, the first time the document has…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Justice department can keep 2020 ballots FBI seized from Fulton county, judge rules",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/06/justice-department-2020-ballots-fbi-seized-fulton-county",
-      "published": "2026-05-07T00:25:14+00:00",
-      "summary": "The heavily Democratic Fulton county has been at the center of Trump’s false claims of election fraud in 2020 The federal government can keep the 2020 election ballots from Georgia’s Fulton county seized by the FBI from a warehouse near…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
-      "published": "2026-05-07T00:08:58+00:00",
-      "summary": "Mira Murati, OpenAI's former CTO, has testified under oath that CEO Sam Altman lied to her about the safety standards for a new AI model. In a video deposition shown during the ongoing Musk v.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
       "title": "Google's Gemma 4 AI models get 3x speed boost by predicting future tokens",
       "source": "Ars Technica",
       "category": "AI / open models",
@@ -55,46 +105,6 @@
       "summary": "Up to 3x the speed with no loss of quality—is it too good to be true?",
       "whyItMatters": "Relevant to local models, open tooling, and hands-on experimentation.",
       "score": 10
-    },
-    {
-      "title": "‘Somehow you become the chicken’: inside the film about people-smuggling told through the eyes of a hen",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/film/2026/may/07/chicken-hen-people-smuggling-film-gyorgy-palfi",
-      "published": "2026-05-07T04:00:38+00:00",
-      "summary": "Eight birds play the lead in Hen – one for running scenes, one for pecking, one for staying still. And there’s even a cockerel love interest.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Stranger Than Heaven's new combat system sounds pretty complicated, but looks absolutely amazing",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/stranger-than-heaven-combat-explained",
-      "published": "2026-05-07T03:40:23+00:00",
-      "summary": "At this evening's (or morning's, depending on how you look at things) Xbox Presents, we got a very in-depth look at Ryu Ga Gotoku's upcoming title, Stranger Than Heaven .",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Report: SpaceX IPO gives Musk unchecked power and forbids investor lawsuits",
-      "source": "Ars Technica",
-      "category": "AI / privacy",
-      "url": "https://arstechnica.com/tech-policy/2026/05/report-spacex-ipo-gives-musk-unchecked-power-and-forbids-investor-lawsuits/",
-      "published": "2026-05-06T17:20:06+00:00",
-      "summary": "Anyone who buys into SpaceX IPO must waive right to sue the firm, report says.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "Ten Years (so far) with One Shared Belief: Teachers Make the Difference",
-      "source": "CSTA",
-      "category": "Education / pedagogy",
-      "url": "https://csteachers.org/ten-years-so-far-with-one-shared-belief-teachers-make-the-difference/",
-      "published": "2026-05-06T11:00:00+00:00",
-      "summary": "In a Springfield, Massachusetts kindergarten classroom, a five-year-old turned to her partner and said there was a bug in their...",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
     },
     {
       "title": "About 40 passengers previously left ship hit by Hantavirus at island of St. Helena",
@@ -125,16 +135,6 @@
       "summary": "Showrunner Dario Scardapane says Born Again has been building towards the story for quite some time The post Why Daredevil: Born Again Season 3 Will Adapt “The Devil in Cell-Block D” appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 7
-    },
-    {
-      "title": "The simple, one-tool trick to make bright frosting : Putting a popular method to the test.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/05/06/how-to-make-bright-frosting",
-      "published": "2026-05-06T14:00:00+00:00",
-      "summary": "If you’ve ever dumped a whole bottle of food coloring into a batch of frosting only to be left with a pale pastel hue instead of the deep, vibrant colors you were going for, you know that making bright frosting can be a challenge.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
-      "score": 6
     }
   ],
   "youtube": [
@@ -170,6 +170,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Algorithm | For your right to be curious.",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=uWVme1E_9n4",
+      "published": "2026-05-07T13:01:41+00:00",
+      "summary": "People notice. People question. NPR takes your curiosity further. Hear more of this story on It’s Been a Minute from NPR. NPR Marketing message. Not produced by the NPR newsroom.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Did the FBI director use AI to rip off the Beastie Boys?",
@@ -214,17 +225,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 6,
       "verdict": "Summary is enough"
-    },
-    {
-      "title": "Supreme Court temporarily restores access to abortion pill, blocking lower court",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=IkRD5uXJBZc",
-      "published": "2026-05-04T19:43:23+00:00",
-      "summary": "The U.S. Supreme Court has restored access, temporarily, to a drug used for medical abortions.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     },
     {
       "title": "Pragmata PC Best Settings - Digital Foundry Optimised",
@@ -300,8 +300,8 @@
       "published": "2026-05-07T01:13:44+00:00",
       "summary": "For their next franchise revisit, KC and Marty are going to take a look at the Star Fox series. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Yahtzee Tries... Wax Heads and Motorslice",
@@ -537,6 +537,28 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Survival of the Thickest: The Final Season | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=PJIJwZk-Vuw",
+      "published": "2026-05-07T13:30:00+00:00",
+      "summary": "She's going out in style. The final season of Survival of the Thickest premieres July 2, only on Netflix. Survival of the Thickest follows Mavis, a plus-size Black stylist looking for love and success.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "I Will Find You | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=ZRDp88kZn2A",
+      "published": "2026-05-07T13:00:00+00:00",
+      "summary": "What happened to Matthew? Find out in I Will Find You, the thrilling new mystery series from Harlan Coben. Starring Sam Worthington and Britt Lower, I Will Find You premieres June 18th, only on Netflix. Watch on Netflix: https://www.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Berlin and the Lady with an Ermine | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -625,14 +647,14 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "The Crash | Official Trailer | Netflix",
-      "source": "Netflix",
+      "title": "Cape Fear — Official Trailer | Apple TV",
+      "source": "Apple TV",
       "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=fODfHjrBz6Y",
-      "published": "2026-04-30T14:30:00+00:00",
-      "summary": "A car slams into a brick building at 100 miles per hour leaving two young lives lost and one sole survivor. As detectives comb through the wreckage, what first appears to be a tragic accident begins to look like a calculated crime scene.",
+      "url": "https://www.youtube.com/watch?v=FZ3sN5E-mBU",
+      "published": "2026-05-07T12:59:51+00:00",
+      "summary": "Out of prison, and out for revenge. Cape Fear premieres June 5 on Apple TV https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -652,9 +674,9 @@
       "category": "TV / trailer",
       "url": "https://www.youtube.com/watch?v=Nd9fv9rPCMg",
       "published": "2026-05-06T13:29:55+00:00",
-      "summary": "Written, directed, and piloted by John Travolta. Propeller One-Way Night Coach premieres May 29 on Apple TV https://apple.co/_Propeller_ Subscribe to Apple TV’s YouTube channel: https://apple.",
+      "summary": "All aboard, please. Written, directed, and piloted by John Travolta. Propeller One-Way Night Coach takes off May 29 on Apple TV https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -666,17 +688,6 @@
       "summary": "Race weekend rewind. Christina Roki and Calum Nicholas recap all of #MiamiGP’s highlights you need to know. Watch every race on Apple TV, the U.S. home of F1 http://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Monarch: Legacy of Monsters — Kong vs. Titan X | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=pUSmTPIFnNM",
-      "published": "2026-05-02T14:00:04+00:00",
-      "summary": "Titan X isn't herself, but it makes no difference to Kong. It's the Skull Island showdown from \"Where We Belong.\" Monarch: Legacy of Monsters Season 2 is now streaming on Apple TV https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
       "verdict": "Looks promising"
     }
   ],
@@ -785,10 +796,10 @@
   "weather": {
     "location": "02726 (Somerset, MA)",
     "desc": "Patchy rain nearby",
-    "temp": "53",
-    "feels": "50",
-    "wind": "7",
-    "humidity": "76",
+    "temp": "58",
+    "feels": "55",
+    "wind": "11",
+    "humidity": "67",
     "days": [
       {
         "label": "Thu May 7",
@@ -810,7 +821,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 22,
-    "trailerCount": 27,
+    "trailerCount": 28,
     "sourceCount": 23
   }
 }
