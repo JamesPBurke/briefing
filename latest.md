@@ -1,19 +1,10 @@
 # James Daily Briefing
 
-Generated: 2026-05-08T05:00:01.897600Z
+Generated: 2026-05-08T09:01:38.116768Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Story of enslaved boy featured in 1748 Joshua Reynolds portrait emerges in new study, Happy centenary, David! Attenborough’s 100 most spectacular TV moments, and Trump-ally Roger Stone condemned for providing lobbying services to Myanmar’s military junta.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Nintendo is raising Switch 2 prices, Canvas is down as ShinyHunters threatens to leak schools’ data, and Three hikers dead and 10 missing after Indonesia’s Mount Dukono volcano erupts.
 
 ## Briefing
-
-## Weather (02726)
-
-02726 (Somerset, MA): Patchy rain nearby, 53°F (feels like 50°F), 6 mph wind, 87% humidity.
-
-Forecast:
-- Fri May 8: high 60° / low 47°
-- Sat May 9: high 62° / low 46°
-- Sun May 10: high 56° / low 44°
 
 ## Highlighted stories
 
@@ -37,34 +28,16 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Story of enslaved boy featured in 1748 Joshua Reynolds portrait emerges in new study [10/10]
-**Source:** The Guardian US  
+### 1. Nintendo is raising Switch 2 prices [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Exclusive: Until now nothing was known about ‘Jersey’, depicted with naval officer, but research raises hopes he may have won freedom For hundreds of years, he was known only as “Jersey”, an enslaved boy of about 11 rendered in oil on…
+Nintendo is raising the price of its Switch 2 console globally, "in light of changes in market conditions," and is now forecasting a drop in sales over the next year. Starting September 1st, the Switch 2 will cost $499.
 
-Link: https://www.theguardian.com/world/2026/may/08/study-sheds-light-on-story-of-enslaved-boy-jersey-featured-in-1748-joshua-reynolds-portrait
+Link: https://www.theverge.com/games/926606/nintendo-switch-2-price-hikes-earnings-results
 
-### 2. Happy centenary, David! Attenborough’s 100 most spectacular TV moments [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-He has been besieged by birds, had 120m crabs try to crawl up his trouser leg and stayed cool beside an erupting Icelandic volcano.
-
-Link: https://www.theguardian.com/tv-and-radio/ng-interactive/2026/may/08/david-attenborough-100-most-spectacular-screen-moments
-
-### 3. Trump-ally Roger Stone condemned for providing lobbying services to Myanmar’s military junta [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Stone being paid $50,000 a month to ‘rebuild’ relations between Washington and Myanmar’s military-backed government US lobbyist Roger Stone, a longtime friend and ally of Donald Trump, has been condemned for accepting $50,000 a month to…
-
-Link: https://www.theguardian.com/us-news/2026/may/08/trump-ally-roger-stone-condemned-for-providing-lobbying-services-to-myanmars-military-junta
-
-### 4. Canvas is down as ShinyHunters threatens to leak schools’ data [10/10]
+### 2. Canvas is down as ShinyHunters threatens to leak schools’ data [10/10]
 **Source:** The Verge  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -73,7 +46,34 @@ The Instructure-owned learning management platform, Canvas, is down after recent
 
 Link: https://www.theverge.com/tech/926458/canvas-shinyhunters-breach
 
-### 5. Path of Exile 2 aims for a full 1.0 release this year, but not all of the promised character classes will make it [10/10]
+### 3. Three hikers dead and 10 missing after Indonesia’s Mount Dukono volcano erupts [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Two foreigners among the dead, say authorities, after early morning eruption spews ash miles into air Three hikers have died and 10 are missing after an eruption of Mount Dukono, on Indonesia’s eastern Halmahera island, spewed an ash cloud…
+
+Link: https://www.theguardian.com/world/2026/may/08/hikers-dead-missing-eruption-indonesia-mount-dukono-volcano
+
+### 4. Story of enslaved boy featured in 1748 Joshua Reynolds portrait emerges in new study [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Exclusive: Until now nothing was known about ‘Jersey’, depicted with naval officer, but research raises hopes he may have won freedom For hundreds of years, he was known only as “Jersey”, an enslaved boy of about 11 rendered in oil on…
+
+Link: https://www.theguardian.com/world/2026/may/08/study-sheds-light-on-story-of-enslaved-boy-jersey-featured-in-1748-joshua-reynolds-portrait
+
+### 5. Happy centenary, David! Attenborough’s 100 most spectacular TV moments [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+He has been besieged by birds, had 120m crabs try to crawl up his trouser leg and stayed cool beside an erupting Icelandic volcano.
+
+Link: https://www.theguardian.com/tv-and-radio/ng-interactive/2026/may/08/david-attenborough-100-most-spectacular-screen-moments
+
+### 6. Path of Exile 2 aims for a full 1.0 release this year, but not all of the promised character classes will make it [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -82,7 +82,7 @@ Grinding Gear Games plans to release Path of Exile 2 in full - in version 1.0 - 
 
 Link: https://www.eurogamer.net/path-of-exile-2-full-release-classes
 
-### 6. Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI [10/10]
+### 7. Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -90,15 +90,6 @@ Link: https://www.eurogamer.net/path-of-exile-2-full-release-classes
 Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.
 
 Link: https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit
-
-### 7. With Mixtape out today, the tiny number of coming of age games gets just that little bit bigger [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-A couple of years ago, The Artful Escape devs Beethoven & Dinosaur announced their next game, Mixtape .
-
-Link: https://www.rockpapershotgun.com/with-mixtape-out-today-the-tiny-number-of-coming-of-age-games-gets-just-that-little-bit-bigger
 
 ### 8. ChatGPT’s ‘Trusted Contact’ will alert loved ones of safety concerns [10/10]
 **Source:** The Verge  
@@ -109,7 +100,16 @@ OpenAI is launching an optional safety feature for ChatGPT that allows adult use
 
 Link: https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification
 
-### 9. 11 AI Prompts Every Teacher Should Know [9/10]
+### 9. I, robe-ot: the android monk working to reboot the faith of South Korea’s Buddhists [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Jogyesa temple in South Korea initiated Gabi, a humanoid robot into its order this week, as it combats falling participation and interest Amid rows of colourful lanterns strung across the courtyard of Jogyesa temple in Seoul, an unusual…
+
+Link: https://www.theguardian.com/world/2026/may/08/jogyesa-temple-south-korea-humanoid-ai-robot-gabi
+
+### 10. 11 AI Prompts Every Teacher Should Know [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -117,15 +117,6 @@ Link: https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted
 The average K-12 teacher works 49 hours a week. About a quarter of that time is uncompensated.
 
 Link: https://www.the74million.org/article/11-ai-prompts-every-teacher-should-know/
-
-### 10. From stalemate to strikes: A dizzying week of US-Iran negotiations over the strait of Hormuz [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Seven days ago, the US-Iran ceasefire was holding but negotiations seemed stalled, or inching forward at best. Then, Donald Trump and the US launched Project Freedom It has been a week of dizzying, whiplash news in the Iran war.
-
-Link: https://www.theguardian.com/world/2026/may/08/trump-iran-us-war-ceasefire-updates-explained-hormuz
 
 ### 11. Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update [8/10]
 **Source:** NPR Health  
@@ -136,16 +127,7 @@ The outbreak began in early April on a cruise ship. Now health authorities aroun
 
 Link: https://www.npr.org/2026/05/07/nx-s1-5814761/hantavirus-likely-not-the-next-covid
 
-### 12. The Terror: Devil in Silver Nails Its Premiere [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-The adaptation of Victor LaValle's book starts strong right out of the gate. The post The Terror: Devil in Silver Nails Its Premiere appeared first on Reactor .
-
-Link: https://reactormag.com/tv-review-the-terror-devil-in-silver-nails-its-premiere/
-
-### 13. Crispy and Chewy New Wave Sourdough Bagels (With Video) [7/10]
+### 12. Crispy and Chewy New Wave Sourdough Bagels (With Video) [7/10]
 **Source:** The Perfect Loaf  
 **Category:** Bread / food craft  
 **Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
@@ -153,6 +135,15 @@ Link: https://reactormag.com/tv-review-the-terror-devil-in-silver-nails-its-prem
 Glossy and blistered crust with a tender open crumb.
 
 Link: https://www.theperfectloaf.com/crispy-and-chewy-new-wave-sourdough-bagels/
+
+### 13. The Terror: Devil in Silver Is No One Flew Over the Cuckoo’s Nest, Says Judith Light [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+In a press conference, Light shared what attracted her to her character and the project overall The post The Terror: Devil in Silver Is No One Flew Over the Cuckoo’s Nest , Says Judith Light appeared first on Reactor .
+
+Link: https://reactormag.com/the-terror-devil-in-silver-one-flew-over-the-cuckoos-nest-judith-light/
 
 ## YouTube
 
@@ -164,6 +155,204 @@ Link: https://www.theperfectloaf.com/crispy-and-chewy-new-wave-sourdough-bagels/
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Check out DeepSeek here: https://www.deepseek.com/en/ DeepSeek Engram: https://youtu.be/DmtoVnTkQnM Sources: https://www.wikihow.
 
 Link: https://www.youtube.com/watch?v=p7K3xfViWCE
+
+### Hacking on the PDP1 Raspberry Pi Emulator - Computerphile [6/10]
+**Creator:** Computerphile  
+**Verdict:** Summary is enough  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+The PDP1 was a groundbreaking computer from the 1950's - but where does it fit into computing history and how would you use it? Thanks to Angelo Papenhoff from "Obsolescence Guaranteed" for demonstrating the PiDP1 emulator! Obsolescence…
+
+Link: https://www.youtube.com/watch?v=7WEewUVQabU
+
+### 'Mortal Kombat II' Cast Answer The 50 Most Searched Mortal Kombat Questions [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+WIRED tasks Adeline Rudolph (Kitana), Martyn Ford (Shao Kahn), Karl Urban (Johnny Cage) and Tati Gabrielle (Jade) from _Mortal Kombat II_ to answer the 50 most searched for questions about _Mortal Kombat.
+
+Link: https://www.youtube.com/watch?v=q1dA3ffbO3E
+
+### Architect Answers Architecture Questions | Tech Support | WIRED [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Architect Dr. Sally Mackereth joins WIRED to answer the internet's burning questions about architecture.
+
+Link: https://www.youtube.com/watch?v=Druvom03m_A
+
+### Countries scramble to trace dozens of passengers who left cruise ship hit by hantavirus [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Officials in several countries are hurriedly trying to trace passengers who were on a cruise ship where the rare hantavirus has been found. Three passengers have died and several others are sick.
+
+Link: https://www.youtube.com/watch?v=b6BvaqQyjqk
+
+### Hormuz whiplash / Russia, Ukraine shred ceasefires / Modern warfare [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+We unpack a week of whiplash in the Iran war, with the President quickly calling off an effort to take control of the Strait of Hormuz, citing progress on talks. But a blockade remains.
+
+Link: https://www.youtube.com/watch?v=rUWDTT3G7tc
+
+### Algorithm | For your right to be curious. [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+People notice. People question. NPR takes your curiosity further. Hear more of this story on It’s Been a Minute from NPR. NPR Marketing message. Not produced by the NPR newsroom.
+
+Link: https://www.youtube.com/watch?v=uWVme1E_9n4
+
+### Did the FBI director use AI to rip off the Beastie Boys? [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+A video posted by FBI director Kash Patel appears to be using AI to rip off an iconic music video by the Beastie Boys. The two-minute video about fraud was posted by Patel on Monday.
+
+Link: https://www.youtube.com/watch?v=H7WzOgPVRww
+
+### Trump's approval ratings hits an all-time low amid Iran war, high gas prices [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Amid high gas prices and an unpopular war in Iran, a new NPR/PBS News/Marist poll out today finds President Trump at the lowest point in his presidency politically.
+
+Link: https://www.youtube.com/watch?v=Etwqd3Nry9s
+
+### Final Fantasy 7 Rebirth Xbox Series X|S - First Impressions! [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/jISSWd4aiy0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=nNnAAuteSYs
+
+### Teardown Developers Reveal New Voxel RT Technology [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=Hr_Olt52Xl0
+
+### Pragmata PC Best Settings - Digital Foundry Optimised [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/D3un773xo8M ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=iLUf4dseZPg
+
+### Why It's Time To Say Goodbye To The Ryzen 5 3600 [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=jqE8EIfRQ2k
+
+### We Re-Tested Oblivion Remastered PS5 1 Year On - Stuttering, Degraded Perf, Crashes Still There [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=oJSMprceEfU
+
+### PS5 Linux: Steam PC vs Native PS5 - Crimson Desert, Pragmata, Black Myth Wukong Compared! [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=ynImCfojdAQ
+
+### Nintendo's Star Fox Surprise | Firelink Podcast [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Firelink, Nick, KC, and Marty chat about the surprise Star Fox announcement, the new Stranger Than Heaven showcase, and the new games they've been playing.
+
+Link: https://www.youtube.com/watch?v=3o9-3HKVU4k
+
+### Somehow, Dark Souls 2 Has Returned w/ Jack and Jess -- Part 6 [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.
+
+Link: https://www.youtube.com/watch?v=tZGNd5g0oRU
+
+### Yahtzee Can't Hack It | Semi-Ramblomatic [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Semi-Ramblomatic, Yahtzee takes a stab at hacking and lockpicking. Get your blu-ray copies today! https://store.dftba.com/products/fully-ramblomatic-vol-2-2025-blu-ray https://store.dftba.
+
+Link: https://www.youtube.com/watch?v=RBGYdyKEIUA
+
+### Revisiting the Original SNES Star Fox w/ KC and Marty [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+For their next franchise revisit, KC and Marty are going to take a look at the Star Fox series. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=uOLUG7hTYCk
+
+### Yahtzee Tries... Wax Heads and Motorslice [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Yahtzee Tries... Yahtzee and Marty try out Wax Heads and Motorslice. WAX HEADS -- https://store.steampowered.com/app/2769240/Wax_Heads/ MOTORSLICE -- https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=sMbHTdZYiyU
+
+### Aphelion | Fully Ramblomatic [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Fully Ramblomatic, Yahtzee reviewed Alpheion. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=N4ePvTa0_hw
+
+### Previewing the Big Movies of Summer 2026 | The Rewind Podcast [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on The Rewind, Darren, Jack, and Marty run down the slate of big movies releasing this summer. If you enjoy hearing the crew ramble about movies and TV, consider supporting us over on Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=ExVmSHrvnLk
+
+### Invincible is a Superhero Show About Consequences | The Backdrop [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+In this week's episode of The Backdrop, Darren Mooney digs into the latest season of Invincible, and how it's the rare superhero series that's actually about consequences. Support us on Patreon: https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=lQVEsN7KYPA
 
 ## Entertainment Recommendations
 
@@ -193,6 +382,132 @@ Link: https://www.youtube.com/watch?v=p7K3xfViWCE
 - **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
 
 ## Trailers / Previews
+
+### dopamine 😍 [7/10]
+**Source:** Universal Pictures  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+----- Instagram: https://www.instagram.com/onenightonlymovie TikTok: https://www.tiktok.com/@onenightonlymovie Facebook: https://www.facebook.com/onenightonlymovie X: https://www.twitter.
+
+Link: https://www.youtube.com/watch?v=PbgTrT7Cf4U
+
+### The Odyssey | Official New Trailer [8/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The Odyssey - In Theaters 7 17 26 Christopher Nolan’s next film, The Odyssey, is a mythic action epic shot across the world using brand new IMAX® film technology.
+
+Link: https://www.youtube.com/watch?v=f_bKjZeJBBI
+
+### One Night Only | Official Trailer [8/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+what would you do if you only had one night? watch the trailer for one night only now. only in theaters august 7. ----- Instagram: https://www.instagram.com/onenightonlymovie TikTok: https://www.tiktok.
+
+Link: https://www.youtube.com/watch?v=OzS2W1Wdyqg
+
+### One Night Only | Official Trailer [8/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+what would you do if you only had one night? watch the trailer for one night only now. only in theaters august 7. ----- Instagram: https://www.instagram.com/onenightonlymovie TikTok: https://www.tiktok.
+
+Link: https://www.youtube.com/watch?v=JRG244IfrRE
+
+### Resident Evil – Official Teaser Trailer. From Zach Cregger, director of Weapons and Barbarian. [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. #ResidentEvil
+
+Link: https://www.youtube.com/watch?v=oBWrb8HTU44
+
+### RESIDENT EVIL – Official Teaser Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. https://www.instagram.com/residentevil/ https://twitter.
+
+Link: https://www.youtube.com/watch?v=SJPu1spHqfk
+
+### Tony | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas. TONY – In theaters this August.
+
+Link: https://www.youtube.com/watch?v=k1MVnzd2aVc
+
+### BEEF | Behind the Score with Composer Finneas O’Connell | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe Listen to the soundtrack: https://a24music.lnk.
+
+Link: https://www.youtube.com/watch?v=7G5073lagSE
+
+### Mother Mary | Final Trailer | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.
+
+Link: https://www.youtube.com/watch?v=aqYHOsuje1E
+
+### LEVITICUS - Official Trailer - Only In Theaters June 19 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Two teenage boys must escape a violent entity that takes the form of the person they desire most—each other.
+
+Link: https://www.youtube.com/watch?v=WXuK0vlFxII
+
+### HOKUM - Final Trailer - Only In Theaters May 1 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+When novelist Ohm Bauman retreats to a remote inn to scatter his parents’ ashes, he is consumed by tales of a witch haunting the honeymoon suite.
+
+Link: https://www.youtube.com/watch?v=qU_i5e48KzQ
+
+### FIND YOUR FRIENDS | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Amber and her four best girlfriends take a trip to escape the L.A. bubble and cut loose in Joshua Tree for the weekend. But upon arrival, they quickly realize the locals don’t want them there.
+
+Link: https://www.youtube.com/watch?v=pT5y7-WwD8M
+
+### TALES FROM THE CRYPT | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The crypt is open, boils and ghouls. TALES FROM THE CRYPT Season 1 drops May 1st on Shudder, with subsequent seasons dropping every Friday. #Shudder #TalesFromtheCrypt Subscribe: http://ow.
+
+Link: https://www.youtube.com/watch?v=LSwkCskbvzQ
+
+### Worst Ex Ever Season 2 | Official Trailer [10/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Are they "the one" or just the one you were warned about? Worst Ex Ever returns to Netflix on May 6 for Season 2 with true, harrowing tales of monstrous relationships and unhinged exes.
+
+Link: https://www.youtube.com/watch?v=_iKN26hplWY
 
 ### Devil May Cry: Season 2 | See U in Hell | Netflix [10/10]
 **Source:** Netflix  
@@ -292,3 +607,39 @@ Link: https://www.youtube.com/watch?v=LsGrKuPe1tQ
 The definitive documentary on beloved comedian Martin Short, using beautiful, intimate, never-before-seen archive. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=QBvYXE6oZ64
+
+### Cape Fear — Official Trailer | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Out of prison, and out for revenge. Cape Fear premieres June 5 on Apple TV https://apple.
+
+Link: https://www.youtube.com/watch?v=FZ3sN5E-mBU
+
+### Widow's Bay — The History of the Island | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Courtesy of the Widow's Bay Historical Society. Widow's Bay is now streaming https://apple.co/_WidowsBay “Widow’s Bay” is a quaint island town 40-miles off the coast of New England. But something lurks beneath the surface.
+
+Link: https://www.youtube.com/watch?v=ae8_jwDPtjU
+
+### Propeller One-Way Night Coach — Official Trailer | Apple TV [9/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+All aboard, please. Written, directed, and piloted by John Travolta. Propeller One-Way Night Coach takes off May 29 on Apple TV https://apple.
+
+Link: https://www.youtube.com/watch?v=Nd9fv9rPCMg
+
+### The POV with Christina Roki and Calum Nicholas — Miami Race Recap | F1 on Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Race weekend rewind. Christina Roki and Calum Nicholas recap all of #MiamiGP’s highlights you need to know. Watch every race on Apple TV, the U.S. home of F1 http://apple.
+
+Link: https://www.youtube.com/watch?v=4kLOUQGRo2I
