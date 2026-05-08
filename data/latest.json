@@ -1,100 +1,100 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-08T14:00:02.396243Z",
-  "generatedAtDisplay": "2026-05-08 10:00 AM EDT",
+  "generatedAt": "2026-05-08T18:01:00.346150Z",
+  "generatedAtDisplay": "2026-05-08 02:01 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Nato refusing US permission to use bases is ‘a problem’, says Rubio after Meloni meeting – Europe live, Charli xcx: Rock Music review – is she really pivoting from pop? Don’t be so sure …, and Soft armour, pert nipples: how London design team made Kim Kardashian’s Met Gala breastplate.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are ABC and Disney accuse Trump admin of violating First Amendment rights, ABC lawyers accuse Trump’s FCC of punishing network for political reasons, and Keir Starmer left in limbo after bad election results that could have been worse.",
   "mainItems": [
     {
-      "title": "Nato refusing US permission to use bases is ‘a problem’, says Rubio after Meloni meeting – Europe live",
-      "source": "The Guardian US",
+      "title": "ABC and Disney accuse Trump admin of violating First Amendment rights",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/may/08/ukraine-russia-ceasefire-accusations-strikes-rubio-meloni-hanavirus-latest-news-updates",
-      "published": "2026-05-08T13:50:08+00:00",
-      "summary": "US secretary of state has been meeting Italian leader amid strained tensions over Iran The European Commission also insisted that airlines must not charge customers extra fuel fees after they have already bought tickets, as the aviation…",
+      "url": "https://www.theverge.com/policy/927002/abc-disney-fcc-first-amendment-the-view",
+      "published": "2026-05-08T17:52:28+00:00",
+      "summary": "ABC is accusing the Federal Communications Commission (FCC) of violating its First Amendment rights by making \"major shifts in policy and practice\" that the network claims will chill free speech.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Charli xcx: Rock Music review – is she really pivoting from pop? Don’t be so sure …",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/music/2026/may/08/charli-xcx-rock-music-review-is-she-really-pivoting-from-pop-dont-be-so-sure",
-      "published": "2026-05-08T13:06:39+00:00",
-      "summary": "(Atlantic) The lyrics may argue the dancefloor is dead, but this funny, wilfully plasticky new single isn’t the total about-turn from Brat that fans expected Last month, Charli xcx began the media campaign for her seventh studio album by…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Soft armour, pert nipples: how London design team made Kim Kardashian’s Met Gala breastplate",
+      "title": "ABC lawyers accuse Trump’s FCC of punishing network for political reasons",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/artanddesign/2026/may/08/whitaker-malem-london-design-kim-kardashian-met-gala-breastplate",
-      "published": "2026-05-08T12:38:35+00:00",
-      "summary": "Whitaker Malem worked with pop art sculptor Allen Jones, visual artist Nadia Lee Cohen and a car bodyshop in Kent At Monday’s Met Gala, it inevitably fell to Kim Kardashian to deliver the evening’s biggest jolt.",
+      "url": "https://www.theguardian.com/media/2026/may/08/abc-lawyers-trump-fcc-targeting-network",
+      "published": "2026-05-08T17:34:42+00:00",
+      "summary": "Network lawyers in a legal motion strongly pushed back against the FCC’s investigation into The View talkshow Lawyers representing an ABC station have accused the Federal Communications Commission (FCC) of punishing the network for…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Revealed: The Trump administration arrested the parents of at least 27,000 kids in seven months",
+      "title": "Keir Starmer left in limbo after bad election results that could have been worse",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/08/trump-administration-parents-arrested",
-      "published": "2026-05-08T12:20:05+00:00",
-      "summary": "The Guardian analyzed ICE records from January-August 2025, as advocates say the family-separation crisis will lead to generational trauma We sued the Trump administration for these immigration records After three months in immigration…",
+      "url": "https://www.theguardian.com/politics/2026/may/08/labour-local-elections-keir-starmer-cling-on",
+      "published": "2026-05-08T17:16:23+00:00",
+      "summary": "After Labour’s demise was overestimated, the prime minister’s potential challengers are staying quiet – for now Elections 2026 – live updates Full results from England, Scotland and Wales As the results rolled in, a trickle of voices were…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Clair Obscur and Lord of the Rings actor Andy Serkis says Hollywood snobbery towards video games is changing",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/clair-obscur-expedition-33-andy-serkis-hollywood-actors",
-      "published": "2026-05-08T12:18:11+00:00",
-      "summary": "Andy Serkis is known to many for his film portrayals, from 13 Going on 30's fashion magazine editor-in-chief to Lord of the Ring's Gollum.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Fallout 1 and The Elder Scrolls 3: Morrowind now run on Fallout 4's Pip-Boy and computer terminals, thanks to a modder",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/fallout-1-and-the-elder-scrolls-3-morrowind-running-on-fallout-4-pip-boy-mods",
-      "published": "2026-05-08T12:02:55+00:00",
-      "summary": "Fallout 4 is a game that contains games. Little holotape games you can collect and give a go if you get bored of running around post-apocalyptic Boston.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Everyone’s a loser in Strait of Hormuz game that simulates global crisis",
-      "source": "Ars Technica",
+      "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/gaming/2026/05/everyones-a-loser-in-straight-of-hormuz-game-that-simulates-global-crisis/",
-      "published": "2026-05-08T11:15:42+00:00",
-      "summary": "The game asks players to find the least worst options for a shipping chokepoint.",
+      "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+      "published": "2026-05-08T16:32:38+00:00",
+      "summary": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Canvas is online again after ShinyHunters threaten to leak schools’ data",
-      "source": "The Verge",
+      "title": "Family Reunion is a dinnertime simulation game that captures the wonder and boredom of being a loosely disciplined 7-year-old",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/family-reunion-is-a-dinnertime-simulation-game-that-captures-the-wonder-and-boredom-of-being-a-loosely-disciplined-7-year-old",
+      "published": "2026-05-08T16:31:30+00:00",
+      "summary": "I first played Family Reunion at Gamescom Latam last week, which in hindsight was a bit of trek, considering the demo is right there on Itch and Steam .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Children and Schools Should Be Off Limits to Immigration Enforcement",
+      "source": "The 74",
+      "category": "Democracy / press freedom",
+      "url": "https://www.the74million.org/article/children-and-schools-should-be-off-limits-to-immigration-enforcement/",
+      "published": "2026-05-08T16:30:00+00:00",
+      "summary": "Our country has long been committed to maintaining schools as safe spaces for children to learn. Until now.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Why the ‘Middle Path’ of AI Literacy May Be the Future of English Class",
+      "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "published": "2026-05-08T10:42:54+00:00",
-      "summary": "The Instructure-owned learning management platform, Canvas, is now online again after it went down following a massive data breach that impacted student names, email addresses, ID numbers, and messages.",
+      "url": "https://www.the74million.org/article/why-the-middle-path-of-ai-literacy-may-be-the-future-of-english-class/",
+      "published": "2026-05-08T10:30:00+00:00",
+      "summary": "Like it or not, generative artificial intelligence is here to stay; the majority of students nationwide now use it for assignments at least occasionally.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "New Orleans child molester questioned on unsolved killings takes the fifth 700 times",
+      "title": "When women choose non-monogamy: ‘It’s an opportunity for more integration’",
       "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/may/08/new-orleans-stanley-burkhardt-deposition",
-      "published": "2026-05-08T10:00:25+00:00",
-      "summary": "Stanley Burkhardt, convicted abuser and ex-investigator of sex crimes against children, gives deposition in civil case Convicted child molester Stanley Burkhardt – a former investigator of sex crimes against children who has been in and…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/08/women-polyamory-open-marriage",
+      "published": "2026-05-08T10:00:24+00:00",
+      "summary": "Though open marriage is often imagined as something men want, women also choose this relationship structure – with all its rewards and challenges It’s late afternoon, and Lucy texts her husband’s girlfriend.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
+    },
+    {
+      "title": "'The Biggest Student Data Privacy Disaster in History': Canvas Hack Shows the Danger of Centralized EdTech",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/the-biggest-student-data-privacy-disaster-in-history-canvas-hack-shows-the-danger-of-centralized-edtech/",
+      "published": "2026-05-08T15:50:03+00:00",
+      "summary": "Messages could include \"medical circumstances, accessibility accommodations, disputes, sexual assault allegations,\" and more.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9
     },
     {
       "title": "Hawaiʻi Families Need Preschool. Who Will Fund It?",
@@ -117,6 +117,16 @@
       "score": 8
     },
     {
+      "title": "What to Watch and Read This Weekend: Do Astronauts Dream of Sheep Detectives?",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/what-to-watch-read-this-weekend-may-8-2026/",
+      "published": "2026-05-08T15:03:18+00:00",
+      "summary": "Plus: David Attenborough and Victor LaValle The post What to Watch and Read This Weekend: Do Astronauts Dream of Sheep Detectives? appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 7
+    },
+    {
       "title": "Crispy and Chewy New Wave Sourdough Bagels (With Video)",
       "source": "The Perfect Loaf",
       "category": "Bread / food craft",
@@ -125,19 +135,20 @@
       "summary": "Glossy and blistered crust with a tender open crumb.",
       "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
       "score": 7
-    },
-    {
-      "title": "The Terror: Devil in Silver Is No One Flew Over the Cuckoo’s Nest, Says Judith Light",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/the-terror-devil-in-silver-one-flew-over-the-cuckoos-nest-judith-light/",
-      "published": "2026-05-07T20:06:55+00:00",
-      "summary": "In a press conference, Light shared what attracted her to her character and the project overall The post The Terror: Devil in Silver Is No One Flew Over the Cuckoo’s Nest , Says Judith Light appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 7
     }
   ],
   "youtube": [
+    {
+      "title": "OpenAI's GPT 5.5 Instant: The Good, The Bad And The Insane",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=4nQnhjimB4Y",
+      "published": "2026-05-08T16:46:30+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 GPT 5.5 Instant: https://deploymentsafety.openai.com/gpt-5-5-instant/introduction https://openai.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
     {
       "title": "DeepSeek V4 AI Beats Billion Dollar Systems…For Free",
       "source": "Two Minute Papers",
@@ -170,28 +181,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Architect Answers Architecture Questions | Tech Support | WIRED",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=Druvom03m_A",
-      "published": "2026-05-05T16:00:00+00:00",
-      "summary": "Architect Dr. Sally Mackereth joins WIRED to answer the internet's burning questions about architecture.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Gas prices and groceries: How are you affording it?",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=CshAmwO0zKY",
-      "published": "2026-05-08T13:30:14+00:00",
-      "summary": "\"We were told that it was going to be different.\" That's what one Ohio resident told NPR this week when asked about the cost of living.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
     },
     {
       "title": "Making a podcast helped one family talk about aging, dementia and death",
@@ -260,6 +249,17 @@
       "verdict": "Worth watching"
     },
     {
+      "title": "Is Project Helix A Console, A PC Or Both? And Why Does It Matter?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=sg8TKU9n86w",
+      "published": "2026-05-08T16:01:37+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Frame-Gen To 30FPS?! LEGO Batman Legacy of the Dark Knight Specs Cause Alarm",
       "source": "Digital Foundry",
       "category": "Games / hardware",
@@ -289,8 +289,8 @@
       "published": "2026-05-07T16:00:28+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Pragmata PC Best Settings - Digital Foundry Optimised",
@@ -315,24 +315,13 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "We Re-Tested Oblivion Remastered PS5 1 Year On - Stuttering, Degraded Perf, Crashes Still There",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=oJSMprceEfU",
-      "published": "2026-05-05T17:01:09+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "PS5 Linux: Steam PC vs Native PS5 - Crimson Desert, Pragmata, Black Myth Wukong Compared!",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=ynImCfojdAQ",
-      "published": "2026-05-05T16:01:40+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "title": "So, What’s the Deal with Subnautica 2? | Unpacked",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=M8HdhU-SSAE",
+      "published": "2026-05-08T15:01:33+00:00",
+      "summary": "Subnautica 2 is set for an early access release on May 14th. Let's get caught up on all the legal happenings and where things currently stand. Court ruling document: https://courts.delaware.gov/Opinions/Download.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
     },
@@ -409,17 +398,6 @@
       "url": "https://www.youtube.com/watch?v=ExVmSHrvnLk",
       "published": "2026-05-05T20:14:23+00:00",
       "summary": "This week on The Rewind, Darren, Jack, and Marty run down the slate of big movies releasing this summer. If you enjoy hearing the crew ramble about movies and TV, consider supporting us over on Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Invincible is a Superhero Show About Consequences | The Backdrop",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=lQVEsN7KYPA",
-      "published": "2026-05-05T15:01:18+00:00",
-      "summary": "In this week's episode of The Backdrop, Darren Mooney digs into the latest season of Invincible, and how it's the rare superhero series that's actually about consequences. Support us on Patreon: https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
@@ -581,6 +559,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "FOREVER Season 2 is now in production.",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=s4NtUTagkmo",
+      "published": "2026-05-08T14:01:39+00:00",
+      "summary": "Can exes really be friends? Four years later, Justin and Keisha are doing pretty well post pandemic with new relationships, real jobs, and big dreams. Until they run into each other in the Summer of 2023... Watch on Netflix: https://www.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Devil May Cry: Season 2 | See U in Hell | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -691,14 +680,14 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Marty, Life Is Short | Official Trailer | Netflix",
-      "source": "Netflix",
+      "title": "For All Mankind — News From Mars | Season 5 Scene | Apple TV",
+      "source": "Apple TV",
       "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=QBvYXE6oZ64",
-      "published": "2026-05-01T13:00:01+00:00",
-      "summary": "The definitive documentary on beloved comedian Martin Short, using beautiful, intimate, never-before-seen archive. Watch on Netflix: https://www.netflix.",
+      "url": "https://www.youtube.com/watch?v=NL9Ohi8OeOc",
+      "published": "2026-05-08T16:59:59+00:00",
+      "summary": "Tensions on Mars continue to escalate as the Marsies fight for their independence. For All Mankind Season 5 is now streaming on Apple TV https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -850,11 +839,11 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Patchy rain nearby",
+    "desc": "Sunny",
     "temp": "63",
     "feels": "63",
-    "wind": "12",
-    "humidity": "55",
+    "wind": "7",
+    "humidity": "52",
     "days": [
       {
         "label": "Fri May 8",
@@ -863,20 +852,20 @@
       },
       {
         "label": "Sat May 9",
-        "high": "62",
+        "high": "61",
         "low": "46"
       },
       {
         "label": "Sun May 10",
-        "high": "57",
-        "low": "46"
+        "high": "55",
+        "low": "43"
       }
     ]
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 26,
-    "trailerCount": 29,
-    "sourceCount": 23
+    "youtubeCount": 24,
+    "trailerCount": 30,
+    "sourceCount": 22
   }
 }

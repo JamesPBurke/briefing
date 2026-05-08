@@ -1,19 +1,19 @@
 # James Daily Briefing
 
-Generated: 2026-05-08T14:00:02.396243Z
+Generated: 2026-05-08T18:01:00.346150Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Nato refusing US permission to use bases is ‘a problem’, says Rubio after Meloni meeting – Europe live, Charli xcx: Rock Music review – is she really pivoting from pop? Don’t be so sure …, and Soft armour, pert nipples: how London design team made Kim Kardashian’s Met Gala breastplate.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are ABC and Disney accuse Trump admin of violating First Amendment rights, ABC lawyers accuse Trump’s FCC of punishing network for political reasons, and Keir Starmer left in limbo after bad election results that could have been worse.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Patchy rain nearby, 63°F (feels like 63°F), 12 mph wind, 55% humidity.
+02726 (Somerset, MA): Sunny, 63°F (feels like 63°F), 7 mph wind, 52% humidity.
 
 Forecast:
 - Fri May 8: high 60° / low 48°
-- Sat May 9: high 62° / low 46°
-- Sun May 10: high 57° / low 46°
+- Sat May 9: high 61° / low 46°
+- Sun May 10: high 55° / low 43°
 
 ## Highlighted stories
 
@@ -37,86 +37,86 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Nato refusing US permission to use bases is ‘a problem’, says Rubio after Meloni meeting – Europe live [10/10]
+### 1. ABC and Disney accuse Trump admin of violating First Amendment rights [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+ABC is accusing the Federal Communications Commission (FCC) of violating its First Amendment rights by making "major shifts in policy and practice" that the network claims will chill free speech.
+
+Link: https://www.theverge.com/policy/927002/abc-disney-fcc-first-amendment-the-view
+
+### 2. ABC lawyers accuse Trump’s FCC of punishing network for political reasons [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-US secretary of state has been meeting Italian leader amid strained tensions over Iran The European Commission also insisted that airlines must not charge customers extra fuel fees after they have already bought tickets, as the aviation…
+Network lawyers in a legal motion strongly pushed back against the FCC’s investigation into The View talkshow Lawyers representing an ABC station have accused the Federal Communications Commission (FCC) of punishing the network for…
 
-Link: https://www.theguardian.com/world/live/2026/may/08/ukraine-russia-ceasefire-accusations-strikes-rubio-meloni-hanavirus-latest-news-updates
+Link: https://www.theguardian.com/media/2026/may/08/abc-lawyers-trump-fcc-targeting-network
 
-### 2. Charli xcx: Rock Music review – is she really pivoting from pop? Don’t be so sure … [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-(Atlantic) The lyrics may argue the dancefloor is dead, but this funny, wilfully plasticky new single isn’t the total about-turn from Brat that fans expected Last month, Charli xcx began the media campaign for her seventh studio album by…
-
-Link: https://www.theguardian.com/music/2026/may/08/charli-xcx-rock-music-review-is-she-really-pivoting-from-pop-dont-be-so-sure
-
-### 3. Soft armour, pert nipples: how London design team made Kim Kardashian’s Met Gala breastplate [10/10]
+### 3. Keir Starmer left in limbo after bad election results that could have been worse [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Whitaker Malem worked with pop art sculptor Allen Jones, visual artist Nadia Lee Cohen and a car bodyshop in Kent At Monday’s Met Gala, it inevitably fell to Kim Kardashian to deliver the evening’s biggest jolt.
+After Labour’s demise was overestimated, the prime minister’s potential challengers are staying quiet – for now Elections 2026 – live updates Full results from England, Scotland and Wales As the results rolled in, a trickle of voices were…
 
-Link: https://www.theguardian.com/artanddesign/2026/may/08/whitaker-malem-london-design-kim-kardashian-met-gala-breastplate
+Link: https://www.theguardian.com/politics/2026/may/08/labour-local-elections-keir-starmer-cling-on
 
-### 4. Revealed: The Trump administration arrested the parents of at least 27,000 kids in seven months [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 4. PlayStation sees AI as a ‘powerful tool’ to help make games [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-The Guardian analyzed ICE records from January-August 2025, as advocates say the family-separation crisis will lead to generational trauma We sued the Trump administration for these immigration records After three months in immigration…
+As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games.
 
-Link: https://www.theguardian.com/us-news/ng-interactive/2026/may/08/trump-administration-parents-arrested
+Link: https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games
 
-### 5. Clair Obscur and Lord of the Rings actor Andy Serkis says Hollywood snobbery towards video games is changing [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Andy Serkis is known to many for his film portrayals, from 13 Going on 30's fashion magazine editor-in-chief to Lord of the Ring's Gollum.
-
-Link: https://www.eurogamer.net/clair-obscur-expedition-33-andy-serkis-hollywood-actors
-
-### 6. Fallout 1 and The Elder Scrolls 3: Morrowind now run on Fallout 4's Pip-Boy and computer terminals, thanks to a modder [10/10]
+### 5. Family Reunion is a dinnertime simulation game that captures the wonder and boredom of being a loosely disciplined 7-year-old [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Fallout 4 is a game that contains games. Little holotape games you can collect and give a go if you get bored of running around post-apocalyptic Boston.
+I first played Family Reunion at Gamescom Latam last week, which in hindsight was a bit of trek, considering the demo is right there on Itch and Steam .
 
-Link: https://www.rockpapershotgun.com/fallout-1-and-the-elder-scrolls-3-morrowind-running-on-fallout-4-pip-boy-mods
+Link: https://www.rockpapershotgun.com/family-reunion-is-a-dinnertime-simulation-game-that-captures-the-wonder-and-boredom-of-being-a-loosely-disciplined-7-year-old
 
-### 7. Everyone’s a loser in Strait of Hormuz game that simulates global crisis [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 6. Opinion: Children and Schools Should Be Off Limits to Immigration Enforcement [10/10]
+**Source:** The 74  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The game asks players to find the least worst options for a shipping chokepoint.
+Our country has long been committed to maintaining schools as safe spaces for children to learn. Until now.
 
-Link: https://arstechnica.com/gaming/2026/05/everyones-a-loser-in-straight-of-hormuz-game-that-simulates-global-crisis/
+Link: https://www.the74million.org/article/children-and-schools-should-be-off-limits-to-immigration-enforcement/
 
-### 8. Canvas is online again after ShinyHunters threaten to leak schools’ data [10/10]
-**Source:** The Verge  
+### 7. Opinion: Why the ‘Middle Path’ of AI Literacy May Be the Future of English Class [10/10]
+**Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-The Instructure-owned learning management platform, Canvas, is now online again after it went down following a massive data breach that impacted student names, email addresses, ID numbers, and messages.
+Like it or not, generative artificial intelligence is here to stay; the majority of students nationwide now use it for assignments at least occasionally.
 
-Link: https://www.theverge.com/tech/926458/canvas-shinyhunters-breach
+Link: https://www.the74million.org/article/why-the-middle-path-of-ai-literacy-may-be-the-future-of-english-class/
 
-### 9. New Orleans child molester questioned on unsolved killings takes the fifth 700 times [10/10]
+### 8. When women choose non-monogamy: ‘It’s an opportunity for more integration’ [10/10]
 **Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Stanley Burkhardt, convicted abuser and ex-investigator of sex crimes against children, gives deposition in civil case Convicted child molester Stanley Burkhardt – a former investigator of sex crimes against children who has been in and…
+Though open marriage is often imagined as something men want, women also choose this relationship structure – with all its rewards and challenges It’s late afternoon, and Lucy texts her husband’s girlfriend.
 
-Link: https://www.theguardian.com/us-news/2026/may/08/new-orleans-stanley-burkhardt-deposition
+Link: https://www.theguardian.com/lifeandstyle/2026/may/08/women-polyamory-open-marriage
+
+### 9. 'The Biggest Student Data Privacy Disaster in History': Canvas Hack Shows the Danger of Centralized EdTech [9/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Messages could include "medical circumstances, accessibility accommodations, disputes, sexual assault allegations," and more.
+
+Link: https://www.404media.co/the-biggest-student-data-privacy-disaster-in-history-canvas-hack-shows-the-danger-of-centralized-edtech/
 
 ### 10. Hawaiʻi Families Need Preschool. Who Will Fund It? [9/10]
 **Source:** The 74  
@@ -136,7 +136,16 @@ The outbreak began in early April on a cruise ship. Now health authorities aroun
 
 Link: https://www.npr.org/2026/05/07/nx-s1-5814761/hantavirus-likely-not-the-next-covid
 
-### 12. Crispy and Chewy New Wave Sourdough Bagels (With Video) [7/10]
+### 12. What to Watch and Read This Weekend: Do Astronauts Dream of Sheep Detectives? [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Plus: David Attenborough and Victor LaValle The post What to Watch and Read This Weekend: Do Astronauts Dream of Sheep Detectives? appeared first on Reactor .
+
+Link: https://reactormag.com/what-to-watch-read-this-weekend-may-8-2026/
+
+### 13. Crispy and Chewy New Wave Sourdough Bagels (With Video) [7/10]
 **Source:** The Perfect Loaf  
 **Category:** Bread / food craft  
 **Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
@@ -145,16 +154,16 @@ Glossy and blistered crust with a tender open crumb.
 
 Link: https://www.theperfectloaf.com/crispy-and-chewy-new-wave-sourdough-bagels/
 
-### 13. The Terror: Devil in Silver Is No One Flew Over the Cuckoo’s Nest, Says Judith Light [7/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-In a press conference, Light shared what attracted her to her character and the project overall The post The Terror: Devil in Silver Is No One Flew Over the Cuckoo’s Nest , Says Judith Light appeared first on Reactor .
-
-Link: https://reactormag.com/the-terror-devil-in-silver-one-flew-over-the-cuckoos-nest-judith-light/
-
 ## YouTube
+
+### OpenAI's GPT 5.5 Instant: The Good, The Bad And The Insane [9/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 GPT 5.5 Instant: https://deploymentsafety.openai.com/gpt-5-5-instant/introduction https://openai.
+
+Link: https://www.youtube.com/watch?v=4nQnhjimB4Y
 
 ### DeepSeek V4 AI Beats Billion Dollar Systems…For Free [7/10]
 **Creator:** Two Minute Papers  
@@ -182,24 +191,6 @@ Link: https://www.youtube.com/watch?v=7WEewUVQabU
 WIRED tasks Adeline Rudolph (Kitana), Martyn Ford (Shao Kahn), Karl Urban (Johnny Cage) and Tati Gabrielle (Jade) from _Mortal Kombat II_ to answer the 50 most searched for questions about _Mortal Kombat.
 
 Link: https://www.youtube.com/watch?v=q1dA3ffbO3E
-
-### Architect Answers Architecture Questions | Tech Support | WIRED [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Architect Dr. Sally Mackereth joins WIRED to answer the internet's burning questions about architecture.
-
-Link: https://www.youtube.com/watch?v=Druvom03m_A
-
-### Gas prices and groceries: How are you affording it? [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-"We were told that it was going to be different." That's what one Ohio resident told NPR this week when asked about the cost of living.
-
-Link: https://www.youtube.com/watch?v=CshAmwO0zKY
 
 ### Making a podcast helped one family talk about aging, dementia and death [7/10]
 **Creator:** NPR  
@@ -255,6 +246,15 @@ A video posted by FBI director Kash Patel appears to be using AI to rip off an i
 
 Link: https://www.youtube.com/watch?v=H7WzOgPVRww
 
+### Is Project Helix A Console, A PC Or Both? And Why Does It Matter? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=sg8TKU9n86w
+
 ### Frame-Gen To 30FPS?! LEGO Batman Legacy of the Dark Knight Specs Cause Alarm [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
@@ -273,9 +273,9 @@ Link: https://www.youtube.com/watch?v=jgWiDCnefpQ
 
 Link: https://www.youtube.com/watch?v=nNnAAuteSYs
 
-### Teardown Developers Reveal New Voxel RT Technology [7/10]
+### Teardown Developers Reveal New Voxel RT Technology [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -300,23 +300,14 @@ Link: https://www.youtube.com/watch?v=iLUf4dseZPg
 
 Link: https://www.youtube.com/watch?v=jqE8EIfRQ2k
 
-### We Re-Tested Oblivion Remastered PS5 1 Year On - Stuttering, Degraded Perf, Crashes Still There [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=oJSMprceEfU
-
-### PS5 Linux: Steam PC vs Native PS5 - Crimson Desert, Pragmata, Black Myth Wukong Compared! [7/10]
-**Creator:** Digital Foundry  
+### So, What’s the Deal with Subnautica 2? | Unpacked [7/10]
+**Creator:** Second Wind  
 **Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+Subnautica 2 is set for an early access release on May 14th. Let's get caught up on all the legal happenings and where things currently stand. Court ruling document: https://courts.delaware.gov/Opinions/Download.
 
-Link: https://www.youtube.com/watch?v=ynImCfojdAQ
+Link: https://www.youtube.com/watch?v=M8HdhU-SSAE
 
 ### Nintendo's Star Fox Surprise | Firelink Podcast [8/10]
 **Creator:** Second Wind  
@@ -380,15 +371,6 @@ Link: https://www.youtube.com/watch?v=N4ePvTa0_hw
 This week on The Rewind, Darren, Jack, and Marty run down the slate of big movies releasing this summer. If you enjoy hearing the crew ramble about movies and TV, consider supporting us over on Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=ExVmSHrvnLk
-
-### Invincible is a Superhero Show About Consequences | The Backdrop [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-In this week's episode of The Backdrop, Darren Mooney digs into the latest season of Invincible, and how it's the rare superhero series that's actually about consequences. Support us on Patreon: https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=lQVEsN7KYPA
 
 ## Entertainment Recommendations
 
@@ -545,6 +527,15 @@ Are they "the one" or just the one you were warned about? Worst Ex Ever returns 
 
 Link: https://www.youtube.com/watch?v=_iKN26hplWY
 
+### FOREVER Season 2 is now in production. [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Can exes really be friends? Four years later, Justin and Keisha are doing pretty well post pandemic with new relationships, real jobs, and big dreams. Until they run into each other in the Summer of 2023... Watch on Netflix: https://www.
+
+Link: https://www.youtube.com/watch?v=s4NtUTagkmo
+
 ### Devil May Cry: Season 2 | See U in Hell | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -635,14 +626,14 @@ In the new series by the celebrated cartoonist, Zerocalcare and Cinghiale run a 
 
 Link: https://www.youtube.com/watch?v=LsGrKuPe1tQ
 
-### Marty, Life Is Short | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
+### For All Mankind — News From Mars | Season 5 Scene | Apple TV [10/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-The definitive documentary on beloved comedian Martin Short, using beautiful, intimate, never-before-seen archive. Watch on Netflix: https://www.netflix.
+Tensions on Mars continue to escalate as the Marsies fight for their independence. For All Mankind Season 5 is now streaming on Apple TV https://apple.
 
-Link: https://www.youtube.com/watch?v=QBvYXE6oZ64
+Link: https://www.youtube.com/watch?v=NL9Ohi8OeOc
 
 ### Cape Fear — Official Trailer | Apple TV [10/10]
 **Source:** Apple TV  
