@@ -1,10 +1,19 @@
 # James Daily Briefing
 
-Generated: 2026-05-08T09:01:38.116768Z
+Generated: 2026-05-08T14:00:02.396243Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Nintendo is raising Switch 2 prices, Canvas is down as ShinyHunters threatens to leak schools’ data, and Three hikers dead and 10 missing after Indonesia’s Mount Dukono volcano erupts.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Nato refusing US permission to use bases is ‘a problem’, says Rubio after Meloni meeting – Europe live, Charli xcx: Rock Music review – is she really pivoting from pop? Don’t be so sure …, and Soft armour, pert nipples: how London design team made Kim Kardashian’s Met Gala breastplate.
 
 ## Briefing
+
+## Weather (02726)
+
+02726 (Somerset, MA): Patchy rain nearby, 63°F (feels like 63°F), 12 mph wind, 55% humidity.
+
+Forecast:
+- Fri May 8: high 60° / low 48°
+- Sat May 9: high 62° / low 46°
+- Sun May 10: high 57° / low 46°
 
 ## Highlighted stories
 
@@ -28,95 +37,95 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Nintendo is raising Switch 2 prices [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Nintendo is raising the price of its Switch 2 console globally, "in light of changes in market conditions," and is now forecasting a drop in sales over the next year. Starting September 1st, the Switch 2 will cost $499.
-
-Link: https://www.theverge.com/games/926606/nintendo-switch-2-price-hikes-earnings-results
-
-### 2. Canvas is down as ShinyHunters threatens to leak schools’ data [10/10]
-**Source:** The Verge  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-The Instructure-owned learning management platform, Canvas, is down after recently confirming a massive data breach that impacted student names, email addresses, ID numbers, and messages.
-
-Link: https://www.theverge.com/tech/926458/canvas-shinyhunters-breach
-
-### 3. Three hikers dead and 10 missing after Indonesia’s Mount Dukono volcano erupts [10/10]
+### 1. Nato refusing US permission to use bases is ‘a problem’, says Rubio after Meloni meeting – Europe live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Two foreigners among the dead, say authorities, after early morning eruption spews ash miles into air Three hikers have died and 10 are missing after an eruption of Mount Dukono, on Indonesia’s eastern Halmahera island, spewed an ash cloud…
+US secretary of state has been meeting Italian leader amid strained tensions over Iran The European Commission also insisted that airlines must not charge customers extra fuel fees after they have already bought tickets, as the aviation…
 
-Link: https://www.theguardian.com/world/2026/may/08/hikers-dead-missing-eruption-indonesia-mount-dukono-volcano
+Link: https://www.theguardian.com/world/live/2026/may/08/ukraine-russia-ceasefire-accusations-strikes-rubio-meloni-hanavirus-latest-news-updates
 
-### 4. Story of enslaved boy featured in 1748 Joshua Reynolds portrait emerges in new study [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Exclusive: Until now nothing was known about ‘Jersey’, depicted with naval officer, but research raises hopes he may have won freedom For hundreds of years, he was known only as “Jersey”, an enslaved boy of about 11 rendered in oil on…
-
-Link: https://www.theguardian.com/world/2026/may/08/study-sheds-light-on-story-of-enslaved-boy-jersey-featured-in-1748-joshua-reynolds-portrait
-
-### 5. Happy centenary, David! Attenborough’s 100 most spectacular TV moments [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-He has been besieged by birds, had 120m crabs try to crawl up his trouser leg and stayed cool beside an erupting Icelandic volcano.
-
-Link: https://www.theguardian.com/tv-and-radio/ng-interactive/2026/may/08/david-attenborough-100-most-spectacular-screen-moments
-
-### 6. Path of Exile 2 aims for a full 1.0 release this year, but not all of the promised character classes will make it [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Grinding Gear Games plans to release Path of Exile 2 in full - in version 1.0 - this year. Game director and studio co-founder Jonathan Rogers revealed this intention during a press briefing detailing the game's final early access patch, 0.
-
-Link: https://www.eurogamer.net/path-of-exile-2-full-release-classes
-
-### 7. Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.
-
-Link: https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit
-
-### 8. ChatGPT’s ‘Trusted Contact’ will alert loved ones of safety concerns [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification
-
-### 9. I, robe-ot: the android monk working to reboot the faith of South Korea’s Buddhists [9/10]
+### 2. Charli xcx: Rock Music review – is she really pivoting from pop? Don’t be so sure … [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Jogyesa temple in South Korea initiated Gabi, a humanoid robot into its order this week, as it combats falling participation and interest Amid rows of colourful lanterns strung across the courtyard of Jogyesa temple in Seoul, an unusual…
+(Atlantic) The lyrics may argue the dancefloor is dead, but this funny, wilfully plasticky new single isn’t the total about-turn from Brat that fans expected Last month, Charli xcx began the media campaign for her seventh studio album by…
 
-Link: https://www.theguardian.com/world/2026/may/08/jogyesa-temple-south-korea-humanoid-ai-robot-gabi
+Link: https://www.theguardian.com/music/2026/may/08/charli-xcx-rock-music-review-is-she-really-pivoting-from-pop-dont-be-so-sure
 
-### 10. 11 AI Prompts Every Teacher Should Know [9/10]
+### 3. Soft armour, pert nipples: how London design team made Kim Kardashian’s Met Gala breastplate [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Whitaker Malem worked with pop art sculptor Allen Jones, visual artist Nadia Lee Cohen and a car bodyshop in Kent At Monday’s Met Gala, it inevitably fell to Kim Kardashian to deliver the evening’s biggest jolt.
+
+Link: https://www.theguardian.com/artanddesign/2026/may/08/whitaker-malem-london-design-kim-kardashian-met-gala-breastplate
+
+### 4. Revealed: The Trump administration arrested the parents of at least 27,000 kids in seven months [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The Guardian analyzed ICE records from January-August 2025, as advocates say the family-separation crisis will lead to generational trauma We sued the Trump administration for these immigration records After three months in immigration…
+
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/may/08/trump-administration-parents-arrested
+
+### 5. Clair Obscur and Lord of the Rings actor Andy Serkis says Hollywood snobbery towards video games is changing [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Andy Serkis is known to many for his film portrayals, from 13 Going on 30's fashion magazine editor-in-chief to Lord of the Ring's Gollum.
+
+Link: https://www.eurogamer.net/clair-obscur-expedition-33-andy-serkis-hollywood-actors
+
+### 6. Fallout 1 and The Elder Scrolls 3: Morrowind now run on Fallout 4's Pip-Boy and computer terminals, thanks to a modder [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Fallout 4 is a game that contains games. Little holotape games you can collect and give a go if you get bored of running around post-apocalyptic Boston.
+
+Link: https://www.rockpapershotgun.com/fallout-1-and-the-elder-scrolls-3-morrowind-running-on-fallout-4-pip-boy-mods
+
+### 7. Everyone’s a loser in Strait of Hormuz game that simulates global crisis [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+The game asks players to find the least worst options for a shipping chokepoint.
+
+Link: https://arstechnica.com/gaming/2026/05/everyones-a-loser-in-straight-of-hormuz-game-that-simulates-global-crisis/
+
+### 8. Canvas is online again after ShinyHunters threaten to leak schools’ data [10/10]
+**Source:** The Verge  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+The Instructure-owned learning management platform, Canvas, is now online again after it went down following a massive data breach that impacted student names, email addresses, ID numbers, and messages.
+
+Link: https://www.theverge.com/tech/926458/canvas-shinyhunters-breach
+
+### 9. New Orleans child molester questioned on unsolved killings takes the fifth 700 times [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Stanley Burkhardt, convicted abuser and ex-investigator of sex crimes against children, gives deposition in civil case Convicted child molester Stanley Burkhardt – a former investigator of sex crimes against children who has been in and…
+
+Link: https://www.theguardian.com/us-news/2026/may/08/new-orleans-stanley-burkhardt-deposition
+
+### 10. Hawaiʻi Families Need Preschool. Who Will Fund It? [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-The average K-12 teacher works 49 hours a week. About a quarter of that time is uncompensated.
+Affordable preschool options are few and far between for Hannah Miller, a Waikōloa mom of a 2- and 4-year-old. For more than three years, Miller has relied on a free early learning program run out of a church in Waimea.
 
-Link: https://www.the74million.org/article/11-ai-prompts-every-teacher-should-know/
+Link: https://www.the74million.org/zero2eight/hawai%ca%bbi-families-need-preschool-who-will-fund-it/
 
 ### 11. Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update [8/10]
 **Source:** NPR Health  
@@ -183,18 +192,45 @@ Architect Dr. Sally Mackereth joins WIRED to answer the internet's burning quest
 
 Link: https://www.youtube.com/watch?v=Druvom03m_A
 
-### Countries scramble to trace dozens of passengers who left cruise ship hit by hantavirus [7/10]
+### Gas prices and groceries: How are you affording it? [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+"We were told that it was going to be different." That's what one Ohio resident told NPR this week when asked about the cost of living.
+
+Link: https://www.youtube.com/watch?v=CshAmwO0zKY
+
+### Making a podcast helped one family talk about aging, dementia and death [7/10]
 **Creator:** NPR  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Aging, dementia and death are hard subjects for anyone to confront. It took making a podcast for one family to start talking about them.
+
+Link: https://www.youtube.com/watch?v=PFDPjO-fNMc
+
+### A new study suggests sea level rise will eventually leave New Orleans surrounded by water [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+New Orleans needs to begin planning to move its residents out of the city due to climate change.
+
+Link: https://www.youtube.com/watch?v=Pf7E6jo13Tk
+
+### Countries scramble to trace dozens of passengers who left cruise ship hit by hantavirus [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 Officials in several countries are hurriedly trying to trace passengers who were on a cruise ship where the rare hantavirus has been found. Three passengers have died and several others are sick.
 
 Link: https://www.youtube.com/watch?v=b6BvaqQyjqk
 
-### Hormuz whiplash / Russia, Ukraine shred ceasefires / Modern warfare [9/10]
+### Hormuz whiplash / Russia, Ukraine shred ceasefires / Modern warfare [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 We unpack a week of whiplash in the Iran war, with the President quickly calling off an effort to take control of the Strait of Hormuz, citing progress on talks. But a blockade remains.
@@ -219,14 +255,14 @@ A video posted by FBI director Kash Patel appears to be using AI to rip off an i
 
 Link: https://www.youtube.com/watch?v=H7WzOgPVRww
 
-### Trump's approval ratings hits an all-time low amid Iran war, high gas prices [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
+### Frame-Gen To 30FPS?! LEGO Batman Legacy of the Dark Knight Specs Cause Alarm [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
-Amid high gas prices and an unpopular war in Iran, a new NPR/PBS News/Marist poll out today finds President Trump at the lowest point in his presidency politically.
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
-Link: https://www.youtube.com/watch?v=Etwqd3Nry9s
+Link: https://www.youtube.com/watch?v=jgWiDCnefpQ
 
 ### Final Fantasy 7 Rebirth Xbox Series X|S - First Impressions! [8/10]
 **Creator:** Digital Foundry  
