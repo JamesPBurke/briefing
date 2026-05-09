@@ -1,19 +1,19 @@
 # James Daily Briefing
 
-Generated: 2026-05-08T18:01:00.346150Z
+Generated: 2026-05-09T05:00:01.309242Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are ABC and Disney accuse Trump admin of violating First Amendment rights, ABC lawyers accuse Trump’s FCC of punishing network for political reasons, and Keir Starmer left in limbo after bad election results that could have been worse.
+Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are ABC and Disney accuse Trump admin of violating First Amendment rights, Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman, and Sony says "efficient" AI tools will lead to even more games flooding the market.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Sunny, 63°F (feels like 63°F), 7 mph wind, 52% humidity.
+02726 (Somerset, MA): Clear, 50°F (feels like 48°F), 5 mph wind, 94% humidity.
 
 Forecast:
-- Fri May 8: high 60° / low 48°
-- Sat May 9: high 61° / low 46°
-- Sun May 10: high 55° / low 43°
+- Sat May 9: high 62° / low 46°
+- Sun May 10: high 54° / low 42°
+- Mon May 11: high 55° / low 39°
 
 ## Highlighted stories
 
@@ -46,34 +46,70 @@ ABC is accusing the Federal Communications Commission (FCC) of violating its Fir
 
 Link: https://www.theverge.com/policy/927002/abc-disney-fcc-first-amendment-the-view
 
-### 2. ABC lawyers accuse Trump’s FCC of punishing network for political reasons [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Network lawyers in a legal motion strongly pushed back against the FCC’s investigation into The View talkshow Lawyers representing an ABC station have accused the Federal Communications Commission (FCC) of punishing the network for…
-
-Link: https://www.theguardian.com/media/2026/may/08/abc-lawyers-trump-fcc-targeting-network
-
-### 3. Keir Starmer left in limbo after bad election results that could have been worse [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-After Labour’s demise was overestimated, the prime minister’s potential challengers are staying quiet – for now Elections 2026 – live updates Full results from England, Scotland and Wales As the results rolled in, a trickle of voices were…
-
-Link: https://www.theguardian.com/politics/2026/may/08/labour-local-elections-keir-starmer-cling-on
-
-### 4. PlayStation sees AI as a ‘powerful tool’ to help make games [10/10]
-**Source:** The Verge  
+### 2. Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman [10/10]
+**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games.
+In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny.
 
-Link: https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games
+Link: https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/
 
-### 5. Family Reunion is a dinnertime simulation game that captures the wonder and boredom of being a loosely disciplined 7-year-old [10/10]
+### 3. Sony says "efficient" AI tools will lead to even more games flooding the market [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+But human artists still "must remain at the center," PlayStation maker says.
+
+Link: https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/
+
+### 4. California’s Education Funding Level Rises Compared to Other States [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+This story was originally published by EdSource. Sign up for their daily newsletter.
+
+Link: https://www.the74million.org/article/californias-education-funding-level-rises-compared-to-other-states/
+
+### 5. Canvas is back online, but questions — and final exam disruptions — linger [10/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Some schools are warning users not to log back into Canvas yet, after a ransomware group claimed credit for a data breach. Half of North America's higher education institutions use the platform.
+
+Link: https://www.npr.org/2026/05/08/nx-s1-5815956/canvas-data-breach-school-finals
+
+### 6. "They were totally game to play ball": how Zachtronics almost made a Star Trek engineering sim [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+This week the former Zachtronics folk of Coincidence released U.V.S. Nirmana , a new "Zach-like" puzzler that has fairly spaghettified my synapses, despite being billed as "medium-difficulty".
+
+Link: https://www.rockpapershotgun.com/they-were-totally-game-to-play-ball-how-zachtronics-almost-made-a-star-trek-engineering-sim
+
+### 7. Trump’s looming defeat in Iran is a personal and political crisis | Robert Reich [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Trump’s ego cannot accept a humiliating loss, and we are already seeing the effects of his failure playing out We are witnessing what happens to a person who is consumed with the need to dominate, but cannot. Iran is unlikely to give in.
+
+Link: https://www.theguardian.com/commentisfree/2026/may/08/trump-iran-defeat-personal-political-crisis
+
+### 8. Keir Starmer under pressure to agree exit plan after election mauling [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Senior Labour MPs urge prime minister to step down within year as party loses control of 25 English councils and humbled in Wales Full results from England, Scotland and Wales Mapped: how Labour lost ground in different directions Keir…
+
+Link: https://www.theguardian.com/politics/2026/may/08/keir-starmer-under-pressure-to-agree-exit-plan-after-election-mauling
+
+### 9. Family Reunion is a dinnertime simulation game that captures the wonder and boredom of being a loosely disciplined 7-year-old [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -82,34 +118,7 @@ I first played Family Reunion at Gamescom Latam last week, which in hindsight wa
 
 Link: https://www.rockpapershotgun.com/family-reunion-is-a-dinnertime-simulation-game-that-captures-the-wonder-and-boredom-of-being-a-loosely-disciplined-7-year-old
 
-### 6. Opinion: Children and Schools Should Be Off Limits to Immigration Enforcement [10/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Our country has long been committed to maintaining schools as safe spaces for children to learn. Until now.
-
-Link: https://www.the74million.org/article/children-and-schools-should-be-off-limits-to-immigration-enforcement/
-
-### 7. Opinion: Why the ‘Middle Path’ of AI Literacy May Be the Future of English Class [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Like it or not, generative artificial intelligence is here to stay; the majority of students nationwide now use it for assignments at least occasionally.
-
-Link: https://www.the74million.org/article/why-the-middle-path-of-ai-literacy-may-be-the-future-of-english-class/
-
-### 8. When women choose non-monogamy: ‘It’s an opportunity for more integration’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Though open marriage is often imagined as something men want, women also choose this relationship structure – with all its rewards and challenges It’s late afternoon, and Lucy texts her husband’s girlfriend.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/may/08/women-polyamory-open-marriage
-
-### 9. 'The Biggest Student Data Privacy Disaster in History': Canvas Hack Shows the Danger of Centralized EdTech [9/10]
+### 10. 'The Biggest Student Data Privacy Disaster in History': Canvas Hack Shows the Danger of Centralized EdTech [9/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -118,7 +127,16 @@ Messages could include "medical circumstances, accessibility accommodations, dis
 
 Link: https://www.404media.co/the-biggest-student-data-privacy-disaster-in-history-canvas-hack-shows-the-danger-of-centralized-edtech/
 
-### 10. Hawaiʻi Families Need Preschool. Who Will Fund It? [9/10]
+### 11. Lack of U.S. response to hantavirus outbreak worries public health experts [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Public health experts are raising concerns about why the U.S. government hasn't had a more public response to the hantavirus outbreak that started on a cruise ship.
+
+Link: https://www.npr.org/2026/05/08/nx-s1-5816041/lack-of-u-s-response-to-hantavirus-outbreak-worries-public-health-experts
+
+### 12. Hawaiʻi Families Need Preschool. Who Will Fund It? [8/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -127,16 +145,7 @@ Affordable preschool options are few and far between for Hannah Miller, a Waikō
 
 Link: https://www.the74million.org/zero2eight/hawai%ca%bbi-families-need-preschool-who-will-fund-it/
 
-### 11. Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The outbreak began in early April on a cruise ship. Now health authorities around the world are working to contain it. Here's what infectious disease experts have to say.
-
-Link: https://www.npr.org/2026/05/07/nx-s1-5814761/hantavirus-likely-not-the-next-covid
-
-### 12. What to Watch and Read This Weekend: Do Astronauts Dream of Sheep Detectives? [7/10]
+### 13. What to Watch and Read This Weekend: Do Astronauts Dream of Sheep Detectives? [6/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -145,232 +154,9 @@ Plus: David Attenborough and Victor LaValle The post What to Watch and Read This
 
 Link: https://reactormag.com/what-to-watch-read-this-weekend-may-8-2026/
 
-### 13. Crispy and Chewy New Wave Sourdough Bagels (With Video) [7/10]
-**Source:** The Perfect Loaf  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-Glossy and blistered crust with a tender open crumb.
-
-Link: https://www.theperfectloaf.com/crispy-and-chewy-new-wave-sourdough-bagels/
-
 ## YouTube
 
-### OpenAI's GPT 5.5 Instant: The Good, The Bad And The Insane [9/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Watch it  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 GPT 5.5 Instant: https://deploymentsafety.openai.com/gpt-5-5-instant/introduction https://openai.
-
-Link: https://www.youtube.com/watch?v=4nQnhjimB4Y
-
-### DeepSeek V4 AI Beats Billion Dollar Systems…For Free [7/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Check out DeepSeek here: https://www.deepseek.com/en/ DeepSeek Engram: https://youtu.be/DmtoVnTkQnM Sources: https://www.wikihow.
-
-Link: https://www.youtube.com/watch?v=p7K3xfViWCE
-
-### Hacking on the PDP1 Raspberry Pi Emulator - Computerphile [6/10]
-**Creator:** Computerphile  
-**Verdict:** Summary is enough  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-The PDP1 was a groundbreaking computer from the 1950's - but where does it fit into computing history and how would you use it? Thanks to Angelo Papenhoff from "Obsolescence Guaranteed" for demonstrating the PiDP1 emulator! Obsolescence…
-
-Link: https://www.youtube.com/watch?v=7WEewUVQabU
-
-### 'Mortal Kombat II' Cast Answer The 50 Most Searched Mortal Kombat Questions [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-WIRED tasks Adeline Rudolph (Kitana), Martyn Ford (Shao Kahn), Karl Urban (Johnny Cage) and Tati Gabrielle (Jade) from _Mortal Kombat II_ to answer the 50 most searched for questions about _Mortal Kombat.
-
-Link: https://www.youtube.com/watch?v=q1dA3ffbO3E
-
-### Making a podcast helped one family talk about aging, dementia and death [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Aging, dementia and death are hard subjects for anyone to confront. It took making a podcast for one family to start talking about them.
-
-Link: https://www.youtube.com/watch?v=PFDPjO-fNMc
-
-### A new study suggests sea level rise will eventually leave New Orleans surrounded by water [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-New Orleans needs to begin planning to move its residents out of the city due to climate change.
-
-Link: https://www.youtube.com/watch?v=Pf7E6jo13Tk
-
-### Countries scramble to trace dozens of passengers who left cruise ship hit by hantavirus [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-Officials in several countries are hurriedly trying to trace passengers who were on a cruise ship where the rare hantavirus has been found. Three passengers have died and several others are sick.
-
-Link: https://www.youtube.com/watch?v=b6BvaqQyjqk
-
-### Hormuz whiplash / Russia, Ukraine shred ceasefires / Modern warfare [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-We unpack a week of whiplash in the Iran war, with the President quickly calling off an effort to take control of the Strait of Hormuz, citing progress on talks. But a blockade remains.
-
-Link: https://www.youtube.com/watch?v=rUWDTT3G7tc
-
-### Algorithm | For your right to be curious. [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-People notice. People question. NPR takes your curiosity further. Hear more of this story on It’s Been a Minute from NPR. NPR Marketing message. Not produced by the NPR newsroom.
-
-Link: https://www.youtube.com/watch?v=uWVme1E_9n4
-
-### Did the FBI director use AI to rip off the Beastie Boys? [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-A video posted by FBI director Kash Patel appears to be using AI to rip off an iconic music video by the Beastie Boys. The two-minute video about fraud was posted by Patel on Monday.
-
-Link: https://www.youtube.com/watch?v=H7WzOgPVRww
-
-### Is Project Helix A Console, A PC Or Both? And Why Does It Matter? [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=sg8TKU9n86w
-
-### Frame-Gen To 30FPS?! LEGO Batman Legacy of the Dark Knight Specs Cause Alarm [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=jgWiDCnefpQ
-
-### Final Fantasy 7 Rebirth Xbox Series X|S - First Impressions! [8/10]
-**Creator:** Digital Foundry  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/jISSWd4aiy0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=nNnAAuteSYs
-
-### Teardown Developers Reveal New Voxel RT Technology [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=Hr_Olt52Xl0
-
-### Pragmata PC Best Settings - Digital Foundry Optimised [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/D3un773xo8M ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=iLUf4dseZPg
-
-### Why It's Time To Say Goodbye To The Ryzen 5 3600 [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=jqE8EIfRQ2k
-
-### So, What’s the Deal with Subnautica 2? | Unpacked [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Subnautica 2 is set for an early access release on May 14th. Let's get caught up on all the legal happenings and where things currently stand. Court ruling document: https://courts.delaware.gov/Opinions/Download.
-
-Link: https://www.youtube.com/watch?v=M8HdhU-SSAE
-
-### Nintendo's Star Fox Surprise | Firelink Podcast [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Firelink, Nick, KC, and Marty chat about the surprise Star Fox announcement, the new Stranger Than Heaven showcase, and the new games they've been playing.
-
-Link: https://www.youtube.com/watch?v=3o9-3HKVU4k
-
-### Somehow, Dark Souls 2 Has Returned w/ Jack and Jess -- Part 6 [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.
-
-Link: https://www.youtube.com/watch?v=tZGNd5g0oRU
-
-### Yahtzee Can't Hack It | Semi-Ramblomatic [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Semi-Ramblomatic, Yahtzee takes a stab at hacking and lockpicking. Get your blu-ray copies today! https://store.dftba.com/products/fully-ramblomatic-vol-2-2025-blu-ray https://store.dftba.
-
-Link: https://www.youtube.com/watch?v=RBGYdyKEIUA
-
-### Revisiting the Original SNES Star Fox w/ KC and Marty [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-For their next franchise revisit, KC and Marty are going to take a look at the Star Fox series. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=uOLUG7hTYCk
-
-### Yahtzee Tries... Wax Heads and Motorslice [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Yahtzee Tries... Yahtzee and Marty try out Wax Heads and Motorslice. WAX HEADS -- https://store.steampowered.com/app/2769240/Wax_Heads/ MOTORSLICE -- https://store.steampowered.
-
-Link: https://www.youtube.com/watch?v=sMbHTdZYiyU
-
-### Aphelion | Fully Ramblomatic [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Fully Ramblomatic, Yahtzee reviewed Alpheion. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
-
-Link: https://www.youtube.com/watch?v=N4ePvTa0_hw
-
-### Previewing the Big Movies of Summer 2026 | The Rewind Podcast [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on The Rewind, Darren, Jack, and Marty run down the slate of big movies releasing this summer. If you enjoy hearing the crew ramble about movies and TV, consider supporting us over on Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=ExVmSHrvnLk
+_No YouTube picks in this briefing._
 
 ## Entertainment Recommendations
 
@@ -401,272 +187,4 @@ Link: https://www.youtube.com/watch?v=ExVmSHrvnLk
 
 ## Trailers / Previews
 
-### dopamine 😍 [7/10]
-**Source:** Universal Pictures  
-**Verdict:** Worth a glance  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
------ Instagram: https://www.instagram.com/onenightonlymovie TikTok: https://www.tiktok.com/@onenightonlymovie Facebook: https://www.facebook.com/onenightonlymovie X: https://www.twitter.
-
-Link: https://www.youtube.com/watch?v=PbgTrT7Cf4U
-
-### The Odyssey | Official New Trailer [8/10]
-**Source:** Universal Pictures  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-The Odyssey - In Theaters 7 17 26 Christopher Nolan’s next film, The Odyssey, is a mythic action epic shot across the world using brand new IMAX® film technology.
-
-Link: https://www.youtube.com/watch?v=f_bKjZeJBBI
-
-### One Night Only | Official Trailer [8/10]
-**Source:** Universal Pictures  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-what would you do if you only had one night? watch the trailer for one night only now. only in theaters august 7. ----- Instagram: https://www.instagram.com/onenightonlymovie TikTok: https://www.tiktok.
-
-Link: https://www.youtube.com/watch?v=OzS2W1Wdyqg
-
-### One Night Only | Official Trailer [8/10]
-**Source:** Universal Pictures  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-what would you do if you only had one night? watch the trailer for one night only now. only in theaters august 7. ----- Instagram: https://www.instagram.com/onenightonlymovie TikTok: https://www.tiktok.
-
-Link: https://www.youtube.com/watch?v=JRG244IfrRE
-
-### Resident Evil – Official Teaser Trailer. From Zach Cregger, director of Weapons and Barbarian. [8/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. #ResidentEvil
-
-Link: https://www.youtube.com/watch?v=oBWrb8HTU44
-
-### RESIDENT EVIL – Official Teaser Trailer (4K) [8/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. https://www.instagram.com/residentevil/ https://twitter.
-
-Link: https://www.youtube.com/watch?v=SJPu1spHqfk
-
-### Tony | Official Trailer HD | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas. TONY – In theaters this August.
-
-Link: https://www.youtube.com/watch?v=k1MVnzd2aVc
-
-### BEEF | Behind the Score with Composer Finneas O’Connell | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe Listen to the soundtrack: https://a24music.lnk.
-
-Link: https://www.youtube.com/watch?v=7G5073lagSE
-
-### Mother Mary | Final Trailer | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.
-
-Link: https://www.youtube.com/watch?v=aqYHOsuje1E
-
-### LEVITICUS - Official Trailer - Only In Theaters June 19 [8/10]
-**Source:** NEON  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Two teenage boys must escape a violent entity that takes the form of the person they desire most—each other.
-
-Link: https://www.youtube.com/watch?v=WXuK0vlFxII
-
-### HOKUM - Final Trailer - Only In Theaters May 1 [8/10]
-**Source:** NEON  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-When novelist Ohm Bauman retreats to a remote inn to scatter his parents’ ashes, he is consumed by tales of a witch haunting the honeymoon suite.
-
-Link: https://www.youtube.com/watch?v=qU_i5e48KzQ
-
-### FIND YOUR FRIENDS | Official Trailer | Shudder [9/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Amber and her four best girlfriends take a trip to escape the L.A. bubble and cut loose in Joshua Tree for the weekend. But upon arrival, they quickly realize the locals don’t want them there.
-
-Link: https://www.youtube.com/watch?v=pT5y7-WwD8M
-
-### TALES FROM THE CRYPT | Official Trailer | Shudder [9/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-The crypt is open, boils and ghouls. TALES FROM THE CRYPT Season 1 drops May 1st on Shudder, with subsequent seasons dropping every Friday. #Shudder #TalesFromtheCrypt Subscribe: http://ow.
-
-Link: https://www.youtube.com/watch?v=LSwkCskbvzQ
-
-### Worst Ex Ever Season 2 | Official Trailer [10/10]
-**Source:** Blumhouse  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Are they "the one" or just the one you were warned about? Worst Ex Ever returns to Netflix on May 6 for Season 2 with true, harrowing tales of monstrous relationships and unhinged exes.
-
-Link: https://www.youtube.com/watch?v=_iKN26hplWY
-
-### FOREVER Season 2 is now in production. [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Can exes really be friends? Four years later, Justin and Keisha are doing pretty well post pandemic with new relationships, real jobs, and big dreams. Until they run into each other in the Summer of 2023... Watch on Netflix: https://www.
-
-Link: https://www.youtube.com/watch?v=s4NtUTagkmo
-
-### Devil May Cry: Season 2 | See U in Hell | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Please enjoy See U in Hell, a brand new song from Papa Roach feat. Hanumankind, from the official Devil May Cry: Season 2 soundtrack. Are you team Dante? Team Vergil? One way ticket to Hell. See you May 12.
-
-Link: https://www.youtube.com/watch?v=E7mzCan6psA
-
-### Survival of the Thickest: The Final Season | Official Teaser | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-She's going out in style. The final season of Survival of the Thickest premieres July 2, only on Netflix. Survival of the Thickest follows Mavis, a plus-size Black stylist looking for love and success.
-
-Link: https://www.youtube.com/watch?v=PJIJwZk-Vuw
-
-### I Will Find You | Official Teaser | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-What happened to Matthew? Find out in I Will Find You, the thrilling new mystery series from Harlan Coben. Starring Sam Worthington and Britt Lower, I Will Find You premieres June 18th, only on Netflix. Watch on Netflix: https://www.
-
-Link: https://www.youtube.com/watch?v=ZRDp88kZn2A
-
-### Berlin and the Lady with an Ermine | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-The art of crime reaches a whole new level. A heist where nothing is what it seems. ‘Berlin and the Lady with an Ermine’ premieres on May 15. Berlín returns with a new challenge, this time set in the heart of Seville.
-
-Link: https://www.youtube.com/watch?v=Ltrc8z4AXKo
-
-### The Boroughs | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-The executive producers of Stranger Things welcome you to The Boroughs, where you’ll have the time of your life… Starring Alfred Molina, Geena Davis, Alfre Woodard, Bill Pullman, Clarke Peters, and Denis O’Hare only on Netflix May 21, 2026.
-
-Link: https://www.youtube.com/watch?v=PsvUvqXoTpE
-
-### Kylie | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Closer than ever before. Kylie, a three part documentary series, coming to Netflix on the May 20 Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=k-358jALXlA
-
-### A Good Girl's Guide to Murder: Season 2 | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Off the heels of cracking a cold case, Pip now awaits the trial. But a missing friend compels the good-girl-turned-detective to solve another mystery. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=OQAB1CXnWzg
-
-### The Four Seasons | Season 2 Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Coming off a hard year, our group of friends carries on their tradition of vacationing together, now with a baby in tow. The Four Seasons S2 debuts May 28, only on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=bgpDgJkQka0
-
-### Wanda Sykes: Legacy | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-In her next stand-up comedy special, Wanda Sykes returns to her alma mater with a fearless funny takedown of everything from the state of the world to the cultural clash over washcloths. Legacy debuts May 19, only on Netflix.
-
-Link: https://www.youtube.com/watch?v=PC3u76Wzc74
-
-### My 2 Cents | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-In the new series by the celebrated cartoonist, Zerocalcare and Cinghiale run a small neighborhood spot, but financial troubles, misunderstandings, and personal lives growing more complicated than they should put them all under pressure.
-
-Link: https://www.youtube.com/watch?v=LsGrKuPe1tQ
-
-### For All Mankind — News From Mars | Season 5 Scene | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Tensions on Mars continue to escalate as the Marsies fight for their independence. For All Mankind Season 5 is now streaming on Apple TV https://apple.
-
-Link: https://www.youtube.com/watch?v=NL9Ohi8OeOc
-
-### Cape Fear — Official Trailer | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Out of prison, and out for revenge. Cape Fear premieres June 5 on Apple TV https://apple.
-
-Link: https://www.youtube.com/watch?v=FZ3sN5E-mBU
-
-### Widow's Bay — The History of the Island | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Courtesy of the Widow's Bay Historical Society. Widow's Bay is now streaming https://apple.co/_WidowsBay “Widow’s Bay” is a quaint island town 40-miles off the coast of New England. But something lurks beneath the surface.
-
-Link: https://www.youtube.com/watch?v=ae8_jwDPtjU
-
-### Propeller One-Way Night Coach — Official Trailer | Apple TV [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-All aboard, please. Written, directed, and piloted by John Travolta. Propeller One-Way Night Coach takes off May 29 on Apple TV https://apple.
-
-Link: https://www.youtube.com/watch?v=Nd9fv9rPCMg
-
-### The POV with Christina Roki and Calum Nicholas — Miami Race Recap | F1 on Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Race weekend rewind. Christina Roki and Calum Nicholas recap all of #MiamiGP’s highlights you need to know. Watch every race on Apple TV, the U.S. home of F1 http://apple.
-
-Link: https://www.youtube.com/watch?v=4kLOUQGRo2I
+_No trailer picks in this briefing._
