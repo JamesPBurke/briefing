@@ -1,19 +1,69 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-09T09:01:04.517122Z",
-  "generatedAtDisplay": "2026-05-09 05:01 AM EDT",
+  "generatedAt": "2026-05-09T14:00:02.105448Z",
+  "generatedAtDisplay": "2026-05-09 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are What are we all playing this weekend?, What we've been playing - \"I've been stuck in the bone zone\", and Ah, ah, ah, ah - I saved my dad’s life with a little help from The Office and the Bee Gees.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Russia will always be victorious, says Putin at scaled-back Victory Day parade, Trump airport branding deal opens new route to profit for family, and Soil testing at California house turns up evidence of human remains in Kirstin Smart case.",
   "mainItems": [
     {
-      "title": "What are we all playing this weekend?",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-381",
-      "published": "2026-05-09T07:00:00+00:00",
-      "summary": "I really thought I'd be done with the decorating this week, but it continues. I have at least got all of the cabinets back on the walls, the larder unit painted and assembled, and regained ready access to the fridge.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Russia will always be victorious, says Putin at scaled-back Victory Day parade",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/may/09/russia-putin-moscow-victory-day-parade-scaled-back",
+      "published": "2026-05-09T13:46:43+00:00",
+      "summary": "Moscow blanketed in heavy security despite last-minute announcement of three-day ceasefire with Ukraine Europe live – latest updates Vladimir Putin has declared Russia will always be victorious as he oversaw a scaled-back Victory Day…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Trump airport branding deal opens new route to profit for family",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/09/trump-airport-branding-profit-deal",
+      "published": "2026-05-09T13:00:57+00:00",
+      "summary": "Florida agreement grants US president control of licensing and merchandising at renamed airport, analysts say It was a week in which one prominent name in aviation, Spirit Airlines, disappeared , killed in the company’s own admission by…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Soil testing at California house turns up evidence of human remains in Kirstin Smart case",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/may/09/soil-testing-california-house-kirstin-smart",
+      "published": "2026-05-09T12:49:53+00:00",
+      "summary": "Home reportedly occupied by mother of Paul Flores, who was convicted of killing college student who went missing in 1996 Soil testing at a property linked to the man convicted in the murder of California college student Kristin Smart, who…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Guardian reporter and colleagues detained and beaten by Somali police",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police",
+      "published": "2026-05-09T12:27:59+00:00",
+      "summary": "Mohamed Bulbul arrested in Mogadishu after covering case of woman allegedly being tortured in prison A journalist who covered the case of a woman who said she was being tortured in prison was detained and beaten with pistols by Somali…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Spiritless summer: Americans feel squeeze of costly fuel amid busy travel season",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/09/travelers-feel-squeeze-summer-travel-iran-war-fuel",
+      "published": "2026-05-09T12:00:56+00:00",
+      "summary": "Soaring oil prices have left many Americans with higher costs and fewer options for travel amid the Iran war Tell us: have your holiday plans changed in light of recent world events? Chelsea Blackmore saves up every year for an annual…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "These Schools Banned Cellphones and the Results Were Meh",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/these-schools-banned-cellphones-and-the-results-were-meh/",
+      "published": "2026-05-09T10:30:00+00:00",
+      "summary": "School (in)Security is our biweekly briefing on the latest school safety news. Subscribe here.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
@@ -27,26 +77,6 @@
       "score": 10
     },
     {
-      "title": "Ah, ah, ah, ah - I saved my dad’s life with a little help from The Office and the Bee Gees",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/culture/2026/may/09/my-cultural-awakening-saved-dads-life-heart-attack-the-office-bee-gees-stayin-alive",
-      "published": "2026-05-09T06:00:49+00:00",
-      "summary": "When my father collapsed suddenly, an episode of the US comedy in which Steve Carell does CPR to the tune of Stayin’ Alive sprung miraculously to mind It was a boiling hot day last summer, four days after my dad’s 73rd birthday.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Blind date: ‘I hope my handshake wasn’t too much of a red flag’",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/09/blind-date-katie-jonathan",
-      "published": "2026-05-09T05:00:49+00:00",
-      "summary": "Jonathan, 23, a student, meets Katie, 27, an environmental campaigner What were you hoping for? To meet someone outside my usual bubble, have an interesting conversation, and see where it goes. Continue reading...",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
       "title": "Sony says \"efficient\" AI tools will lead to even more games flooding the market",
       "source": "Ars Technica",
       "category": "AI / computing",
@@ -57,23 +87,13 @@
       "score": 10
     },
     {
-      "title": "Most Labour members think Starmer cannot revive party fortunes, poll finds",
+      "title": "‘The FDA is a complete mess’: Trump makes fate of agency chief unclear as public trust plummits",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/politics/2026/may/09/labour-members-keir-starmer-party-fortunes-poll",
-      "published": "2026-05-09T05:00:48+00:00",
-      "summary": "Exclusive: Mayor of Greater Manchester Andy Burnham is preferred choice of new leader for 42% of those surveyed Full results from England, Scotland and Wales The majority of Labour members say they do not believe Keir Starmer can turn…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "ABC and Disney accuse Trump admin of violating First Amendment rights",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/policy/927002/abc-disney-fcc-first-amendment-the-view",
-      "published": "2026-05-09T01:02:55+00:00",
-      "summary": "ABC is accusing the Federal Communications Commission (FCC) of violating its First Amendment rights by making \"major shifts in policy and practice\" that the network claims will chill free speech.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/may/09/marty-makary-fda-food-drug-administration",
+      "published": "2026-05-09T10:00:54+00:00",
+      "summary": "Food and Drug Administration commissioner’s decisions have hurt staff morale and put his job in crosshairs Donald Trump has signed off on a plan to fire Marty Makary, the commissioner of the US Food and Drug Administration (FDA), the Wall…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -97,16 +117,6 @@
       "score": 9
     },
     {
-      "title": "Three-day Russia-Ukraine ceasefire begins as Moscow holds Victory Day parade – Europe live",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/live/2026/may/09/peter-magyar-hungary-russia-ukraine-ceasefire-moscow-victory-day-parade-europe-latest-news-updates",
-      "published": "2026-05-09T08:37:55+00:00",
-      "summary": "As ceasefire begins, Zelenskyy says ‘Red Square is less important to us than the lives of Ukrainian prisoners who can be brought home’ Inside Hungary’s dazzling neo-Gothic parliament, the scenes will be solemn on Saturday as the new…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
       "title": "Lack of U.S. response to hantavirus outbreak worries public health experts",
       "source": "NPR Health",
       "category": "Science / health",
@@ -114,16 +124,6 @@
       "published": "2026-05-08T20:40:02+00:00",
       "summary": "Public health experts are raising concerns about why the U.S. government hasn't had a more public response to the hantavirus outbreak that started on a cruise ship.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Hawaiʻi Families Need Preschool. Who Will Fund It?",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/zero2eight/hawai%ca%bbi-families-need-preschool-who-will-fund-it/",
-      "published": "2026-05-08T12:30:00+00:00",
-      "summary": "Affordable preschool options are few and far between for Hannah Miller, a Waikōloa mom of a 2- and 4-year-old. For more than three years, Miller has relied on a free early learning program run out of a church in Waimea.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 8
     },
     {
@@ -205,6 +205,17 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "In East Jerusalem, the government uses archaeological claims to justify pushing out Palestinians",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=hndaalo7hn0",
+      "published": "2026-05-09T12:31:02+00:00",
+      "summary": "Israeli settlers continue to push Palestinians from their homes and land where many have lived for generations. In East Jerusalem, the government uses archaeological claims to justify its orders.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "Hantavirus-hit cruise ship heads for port as experts say virus won't spread like COVID",
       "source": "NPR",
       "category": "News / analysis",
@@ -223,8 +234,8 @@
       "published": "2026-05-08T22:15:01+00:00",
       "summary": "A new NPR/PBS News/Marist poll shows Americans believe many members of Congress are too old.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Making a podcast helped one family talk about aging, dementia and death",
@@ -271,17 +282,6 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "Algorithm | For your right to be curious.",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=uWVme1E_9n4",
-      "published": "2026-05-07T13:01:41+00:00",
-      "summary": "People notice. People question. NPR takes your curiosity further. Hear more of this story on It’s Been a Minute from NPR. NPR Marketing message. Not produced by the NPR newsroom.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
       "title": "Is Project Helix A Console, A PC Or Both? And Why Does It Matter?",
       "source": "Digital Foundry",
       "category": "Games / hardware",
@@ -300,8 +300,8 @@
       "published": "2026-05-08T13:25:38+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Final Fantasy 7 Rebirth Xbox Series X|S - First Impressions!",
@@ -702,6 +702,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Monarch: Legacy of Monsters — Best Monster Sightings of Season 2 | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=z-tIu-Qv5JQ",
+      "published": "2026-05-09T12:59:53+00:00",
+      "summary": "It's not a Legacy of Monsters without the monsters. From Kong, to Godzilla, to Titan X — and all the creatures in between, these are the best monster scenes from Season 2 of Monarch, now streaming on Apple TV https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "A monster menagerie. #Monarch: Legacy of Monsters — Season 2 Now Streaming",
       "source": "Apple TV",
       "category": "TV / trailer",
@@ -861,11 +872,11 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Partly cloudy",
-    "temp": "58",
-    "feels": "56",
-    "wind": "9",
-    "humidity": "67",
+    "desc": "Cloudy",
+    "temp": "66",
+    "feels": "66",
+    "wind": "12",
+    "humidity": "49",
     "days": [
       {
         "label": "Sat May 9",
@@ -887,7 +898,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 26,
-    "trailerCount": 30,
-    "sourceCount": 24
+    "trailerCount": 31,
+    "sourceCount": 22
   }
 }

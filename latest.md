@@ -1,14 +1,14 @@
 # James Daily Briefing
 
-Generated: 2026-05-09T09:01:04.517122Z
+Generated: 2026-05-09T14:00:02.105448Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are What are we all playing this weekend?, What we've been playing - "I've been stuck in the bone zone", and Ah, ah, ah, ah - I saved my dad’s life with a little help from The Office and the Bee Gees.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Russia will always be victorious, says Putin at scaled-back Victory Day parade, Trump airport branding deal opens new route to profit for family, and Soil testing at California house turns up evidence of human remains in Kirstin Smart case.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Partly cloudy, 58°F (feels like 56°F), 9 mph wind, 67% humidity.
+02726 (Somerset, MA): Cloudy, 66°F (feels like 66°F), 12 mph wind, 49% humidity.
 
 Forecast:
 - Sat May 9: high 61° / low 45°
@@ -37,16 +37,61 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. What are we all playing this weekend? [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 1. Russia will always be victorious, says Putin at scaled-back Victory Day parade [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-I really thought I'd be done with the decorating this week, but it continues. I have at least got all of the cabinets back on the walls, the larder unit painted and assembled, and regained ready access to the fridge.
+Moscow blanketed in heavy security despite last-minute announcement of three-day ceasefire with Ukraine Europe live – latest updates Vladimir Putin has declared Russia will always be victorious as he oversaw a scaled-back Victory Day…
 
-Link: https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-381
+Link: https://www.theguardian.com/world/2026/may/09/russia-putin-moscow-victory-day-parade-scaled-back
 
-### 2. What we've been playing - "I've been stuck in the bone zone" [10/10]
+### 2. Trump airport branding deal opens new route to profit for family [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Florida agreement grants US president control of licensing and merchandising at renamed airport, analysts say It was a week in which one prominent name in aviation, Spirit Airlines, disappeared , killed in the company’s own admission by…
+
+Link: https://www.theguardian.com/us-news/2026/may/09/trump-airport-branding-profit-deal
+
+### 3. Soil testing at California house turns up evidence of human remains in Kirstin Smart case [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Home reportedly occupied by mother of Paul Flores, who was convicted of killing college student who went missing in 1996 Soil testing at a property linked to the man convicted in the murder of California college student Kristin Smart, who…
+
+Link: https://www.theguardian.com/us-news/2026/may/09/soil-testing-california-house-kirstin-smart
+
+### 4. Guardian reporter and colleagues detained and beaten by Somali police [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Mohamed Bulbul arrested in Mogadishu after covering case of woman allegedly being tortured in prison A journalist who covered the case of a woman who said she was being tortured in prison was detained and beaten with pistols by Somali…
+
+Link: https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police
+
+### 5. Spiritless summer: Americans feel squeeze of costly fuel amid busy travel season [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Soaring oil prices have left many Americans with higher costs and fewer options for travel amid the Iran war Tell us: have your holiday plans changed in light of recent world events? Chelsea Blackmore saves up every year for an annual…
+
+Link: https://www.theguardian.com/us-news/2026/may/09/travelers-feel-squeeze-summer-travel-iran-war-fuel
+
+### 6. These Schools Banned Cellphones and the Results Were Meh [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+School (in)Security is our biweekly briefing on the latest school safety news. Subscribe here.
+
+Link: https://www.the74million.org/article/these-schools-banned-cellphones-and-the-results-were-meh/
+
+### 7. What we've been playing - "I've been stuck in the bone zone" [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -55,25 +100,7 @@ Hello and welcome back to our regular feature where we write a little about the 
 
 Link: https://www.eurogamer.net/what-weve-been-playing-bone-zone
 
-### 3. Ah, ah, ah, ah - I saved my dad’s life with a little help from The Office and the Bee Gees [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-When my father collapsed suddenly, an episode of the US comedy in which Steve Carell does CPR to the tune of Stayin’ Alive sprung miraculously to mind It was a boiling hot day last summer, four days after my dad’s 73rd birthday.
-
-Link: https://www.theguardian.com/culture/2026/may/09/my-cultural-awakening-saved-dads-life-heart-attack-the-office-bee-gees-stayin-alive
-
-### 4. Blind date: ‘I hope my handshake wasn’t too much of a red flag’ [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Jonathan, 23, a student, meets Katie, 27, an environmental campaigner What were you hoping for? To meet someone outside my usual bubble, have an interesting conversation, and see where it goes. Continue reading...
-
-Link: https://www.theguardian.com/lifeandstyle/2026/may/09/blind-date-katie-jonathan
-
-### 5. Sony says "efficient" AI tools will lead to even more games flooding the market [10/10]
+### 8. Sony says "efficient" AI tools will lead to even more games flooding the market [10/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -82,25 +109,16 @@ But human artists still "must remain at the center," PlayStation maker says.
 
 Link: https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/
 
-### 6. Most Labour members think Starmer cannot revive party fortunes, poll finds [9/10]
+### 9. ‘The FDA is a complete mess’: Trump makes fate of agency chief unclear as public trust plummits [9/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Exclusive: Mayor of Greater Manchester Andy Burnham is preferred choice of new leader for 42% of those surveyed Full results from England, Scotland and Wales The majority of Labour members say they do not believe Keir Starmer can turn…
+Food and Drug Administration commissioner’s decisions have hurt staff morale and put his job in crosshairs Donald Trump has signed off on a plan to fire Marty Makary, the commissioner of the US Food and Drug Administration (FDA), the Wall…
 
-Link: https://www.theguardian.com/politics/2026/may/09/labour-members-keir-starmer-party-fortunes-poll
+Link: https://www.theguardian.com/us-news/2026/may/09/marty-makary-fda-food-drug-administration
 
-### 7. ABC and Disney accuse Trump admin of violating First Amendment rights [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-ABC is accusing the Federal Communications Commission (FCC) of violating its First Amendment rights by making "major shifts in policy and practice" that the network claims will chill free speech.
-
-Link: https://www.theverge.com/policy/927002/abc-disney-fcc-first-amendment-the-view
-
-### 8. Canvas is back online, but questions — and final exam disruptions — linger [9/10]
+### 10. Canvas is back online, but questions — and final exam disruptions — linger [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -109,7 +127,7 @@ Some schools are warning users not to log back into Canvas yet, after a ransomwa
 
 Link: https://www.npr.org/2026/05/08/nx-s1-5815956/canvas-data-breach-school-finals
 
-### 9. 'The Biggest Student Data Privacy Disaster in History': Canvas Hack Shows the Danger of Centralized EdTech [9/10]
+### 11. 'The Biggest Student Data Privacy Disaster in History': Canvas Hack Shows the Danger of Centralized EdTech [9/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -118,16 +136,7 @@ Messages could include "medical circumstances, accessibility accommodations, dis
 
 Link: https://www.404media.co/the-biggest-student-data-privacy-disaster-in-history-canvas-hack-shows-the-danger-of-centralized-edtech/
 
-### 10. Three-day Russia-Ukraine ceasefire begins as Moscow holds Victory Day parade – Europe live [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-As ceasefire begins, Zelenskyy says ‘Red Square is less important to us than the lives of Ukrainian prisoners who can be brought home’ Inside Hungary’s dazzling neo-Gothic parliament, the scenes will be solemn on Saturday as the new…
-
-Link: https://www.theguardian.com/world/live/2026/may/09/peter-magyar-hungary-russia-ukraine-ceasefire-moscow-victory-day-parade-europe-latest-news-updates
-
-### 11. Lack of U.S. response to hantavirus outbreak worries public health experts [8/10]
+### 12. Lack of U.S. response to hantavirus outbreak worries public health experts [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -135,15 +144,6 @@ Link: https://www.theguardian.com/world/live/2026/may/09/peter-magyar-hungary-ru
 Public health experts are raising concerns about why the U.S. government hasn't had a more public response to the hantavirus outbreak that started on a cruise ship.
 
 Link: https://www.npr.org/2026/05/08/nx-s1-5816041/lack-of-u-s-response-to-hantavirus-outbreak-worries-public-health-experts
-
-### 12. Hawaiʻi Families Need Preschool. Who Will Fund It? [8/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Affordable preschool options are few and far between for Hannah Miller, a Waikōloa mom of a 2- and 4-year-old. For more than three years, Miller has relied on a free early learning program run out of a church in Waimea.
-
-Link: https://www.the74million.org/zero2eight/hawai%ca%bbi-families-need-preschool-who-will-fund-it/
 
 ### 13. What to Watch and Read This Weekend: Do Astronauts Dream of Sheep Detectives? [6/10]
 **Source:** Reactor  
@@ -210,6 +210,15 @@ WIRED tasks Adeline Rudolph (Kitana), Martyn Ford (Shao Kahn), Karl Urban (Johnn
 
 Link: https://www.youtube.com/watch?v=q1dA3ffbO3E
 
+### In East Jerusalem, the government uses archaeological claims to justify pushing out Palestinians [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Israeli settlers continue to push Palestinians from their homes and land where many have lived for generations. In East Jerusalem, the government uses archaeological claims to justify its orders.
+
+Link: https://www.youtube.com/watch?v=hndaalo7hn0
+
 ### Hantavirus-hit cruise ship heads for port as experts say virus won't spread like COVID [9/10]
 **Creator:** NPR  
 **Verdict:** Watch it  
@@ -219,9 +228,9 @@ Spain says a cruise ship where deadly hantavirus cases have been identified is p
 
 Link: https://www.youtube.com/watch?v=a6NN8taueac
 
-### Americans widely support age, term limits for Congress [7/10]
+### Americans widely support age, term limits for Congress [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 A new NPR/PBS News/Marist poll shows Americans believe many members of Congress are too old.
@@ -264,15 +273,6 @@ We unpack a week of whiplash in the Iran war, with the President quickly calling
 
 Link: https://www.youtube.com/watch?v=rUWDTT3G7tc
 
-### Algorithm | For your right to be curious. [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-People notice. People question. NPR takes your curiosity further. Hear more of this story on It’s Been a Minute from NPR. NPR Marketing message. Not produced by the NPR newsroom.
-
-Link: https://www.youtube.com/watch?v=uWVme1E_9n4
-
 ### Is Project Helix A Console, A PC Or Both? And Why Does It Matter? [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
@@ -282,9 +282,9 @@ Link: https://www.youtube.com/watch?v=uWVme1E_9n4
 
 Link: https://www.youtube.com/watch?v=sg8TKU9n86w
 
-### Frame-Gen To 30FPS?! LEGO Batman Legacy of the Dark Knight Specs Cause Alarm [7/10]
+### Frame-Gen To 30FPS?! LEGO Batman Legacy of the Dark Knight Specs Cause Alarm [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -643,6 +643,15 @@ Link: https://www.youtube.com/watch?v=PC3u76Wzc74
 In the new series by the celebrated cartoonist, Zerocalcare and Cinghiale run a small neighborhood spot, but financial troubles, misunderstandings, and personal lives growing more complicated than they should put them all under pressure.
 
 Link: https://www.youtube.com/watch?v=LsGrKuPe1tQ
+
+### Monarch: Legacy of Monsters — Best Monster Sightings of Season 2 | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+It's not a Legacy of Monsters without the monsters. From Kong, to Godzilla, to Titan X — and all the creatures in between, these are the best monster scenes from Season 2 of Monarch, now streaming on Apple TV https://apple.
+
+Link: https://www.youtube.com/watch?v=z-tIu-Qv5JQ
 
 ### A monster menagerie. #Monarch: Legacy of Monsters — Season 2 Now Streaming [9/10]
 **Source:** Apple TV  
