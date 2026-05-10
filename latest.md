@@ -1,19 +1,19 @@
 # James Daily Briefing
 
-Generated: 2026-05-10T14:00:02.270594Z
+Generated: 2026-05-10T18:00:29.869166Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan, "We tried something different": Looking back on SiN Episodes: Emergence, the Valve-backed shooter that tried and failed to kick off an age of episodic gaming, and Advisers urge JP Morgan investors to vote to split chair and CEO positions.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Number of Whole Books Middle and High School Students Read for School Varies Widely, After Standing Rock, could a canceled mine project offer a roadmap for opponents of a new oil pipeline in South Dakota?, and I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Overcast, 54°F (feels like 49°F), 18 mph wind, 62% humidity.
+02726 (Somerset, MA): Partly cloudy, 56°F (feels like 53°F), 11 mph wind, 54% humidity.
 
 Forecast:
-- Sun May 10: high 53° / low 43°
-- Mon May 11: high 54° / low 39°
-- Tue May 12: high 55° / low 43°
+- Sun May 10: high 54° / low 43°
+- Mon May 11: high 55° / low 40°
+- Tue May 12: high 55° / low 41°
 
 ## Highlighted stories
 
@@ -37,7 +37,25 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan [10/10]
+### 1. Number of Whole Books Middle and High School Students Read for School Varies Widely [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+High school students are still reading full books in English classes — but not very many on average. And teachers working in more affluent school systems seem to assign more books than their counterparts in high-poverty communities.
+
+Link: https://www.the74million.org/article/number-of-whole-books-middle-and-high-school-students-read-for-school-varies-widely/
+
+### 2. After Standing Rock, could a canceled mine project offer a roadmap for opponents of a new oil pipeline in South Dakota? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Nine groups in the Sioux Nation say an exploratory graphite drilling project endangers a recognized ceremonial site Almost exactly a decade since the start of the Standing Rock protests against the Dakota Access pipeline gained national…
+
+Link: https://www.theguardian.com/us-news/2026/may/10/south-dakota-sioux-oil-pipeline
+
+### 3. I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -46,7 +64,7 @@ The problem wasn’t just the perfectly polished, yet mediocre prose. It’s wha
 
 Link: https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai
 
-### 2. "We tried something different": Looking back on SiN Episodes: Emergence, the Valve-backed shooter that tried and failed to kick off an age of episodic gaming [10/10]
+### 4. "We tried something different": Looking back on SiN Episodes: Emergence, the Valve-backed shooter that tried and failed to kick off an age of episodic gaming [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -55,16 +73,7 @@ On May 10, 2006, Ritual Entertainment released SiN Episodes: Emergence, the firs
 
 Link: https://www.rockpapershotgun.com/we-tried-something-different-looking-back-on-sin-episodes-emergence-the-valve-backed-shooter-that-tried-and-failed-to-kick-off-an-age-of-episodic-gaming
 
-### 3. Advisers urge JP Morgan investors to vote to split chair and CEO positions [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-SS and Glass Lewis back shareholder resolution amid fears over power wielded by Jamie Dimon, who holds both roles Investors in JP Morgan have been urged to vote in favour of splitting the role of chief executive and chair at America’s…
-
-Link: https://www.theguardian.com/business/2026/may/10/advisers-urge-jp-morgan-investors-to-vote-to-split-chair-and-ceo-positions
-
-### 4. ‘I see every child like I see my children’: why US mothers are on the frontlines of resistance movements [10/10]
+### 5. ‘I see every child like I see my children’: why US mothers are on the frontlines of resistance movements [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -73,16 +82,34 @@ Mothers’ experiences often intersect with federal policy battles over gun viol
 
 Link: https://www.theguardian.com/us-news/2026/may/10/mothers-resistance-protest-movements
 
-### 5. ‘10 minutes of nirvana’: 52 writers on the best sandwich of their life [10/10]
+### 6. Guerrilla Games co-founder developing European game engine to rival Unreal and Unity [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Guerrilla Games co-founder and former Epic tech director Arjan Brussee is working to build a new game engine as an "European alternative" to US-centric engines like Unreal and Unity. Read more
+
+Link: https://www.eurogamer.net/guerrilla-games-co-founder-developing-european-game-engine-to-rival-unreal-and-unity
+
+### 7. Dragon Quest creator thinks AI pals are "not just a convenient tool, but a friend to each individual player" [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The creator of the Dragon Quest series, Yuji Horii, hopes to use advances in AI to boost the camaraderie between players and their in-game companions. Read more
+
+Link: https://www.eurogamer.net/dragon-quest-creator-thinks-ai-pals-are-not-just-a-convenient-tool-but-a-friend-to-each-individual-player
+
+### 8. Rhythm nation: politician’s viral dance moves mark new, optimistic era for Hungary [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Are you feeling hungry? If not, you will be after reading about the world’s most mouth-watering, life-changing sandwiches of all time ...
+Zsolt Hegedűs’s celebrations since the election of Péter Magyar have sparked joy across the country As Hungary’s Péter Magyar took office , ousting Viktor Orbán after 16 years in power, the daylong event on Saturday was laced with…
 
-Link: https://www.theguardian.com/food/2026/may/10/52-writers-on-the-best-sandwich-of-their-life
+Link: https://www.theguardian.com/world/2026/may/10/rhythm-nation-politicians-viral-dance-moves-mark-new-optimistic-era-for-hungary
 
-### 6. Health advocates warn government’s claims of baby formula safety contradict data [9/10]
+### 9. Health advocates warn government’s claims of baby formula safety contradict data [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -91,25 +118,7 @@ Independent scientists who reviewed the results said most samples were contamina
 
 Link: https://www.theguardian.com/us-news/2026/may/10/fda-baby-formula-safety-claims-contradict-data
 
-### 7. Scores of New York School Districts Report Using Discredited Reading Curricula [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-This story originally appeared in New York Focus, a nonprofit news publication investigating power in New York. Sign up for their newsletter here.
-
-Link: https://www.the74million.org/article/scores-of-new-york-school-districts-report-using-discredited-reading-curricula/
-
-### 8. The Sunday Papers [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Sundays are, and apologies in advance for the less-fun-than-average intro, for peeling back the layers of the smelly legal onion that is scattering pet ashes in the UK.
-
-Link: https://www.rockpapershotgun.com/the-sunday-papers-809
-
-### 9. Rejoice, Doormaker haters, for Mega Crit have removed him from Slay the Spire 2 in favour of a brand new boss [9/10]
+### 10. Rejoice, Doormaker haters, for Mega Crit have removed him from Slay the Spire 2 in favour of a brand new boss [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -118,45 +127,36 @@ Another week, another Slay the Spire 2 patch! Or really I should say another cou
 
 Link: https://www.rockpapershotgun.com/rejoice-doormaker-haters-for-mega-crit-have-removed-him-from-slay-the-spire-2-in-favour-of-a-brand-new-boss
 
-### 10. New Subnautica 2 gameplay teaser has just dropped and if you weren't excited before, you will be now [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-We're just days away from returning to the beautiful briny in Subnautica 2 , and to celebrate, we've been treated to an all-new teaser trailer showing off the sights and sounds we can expect to see when we sink beneath the waves on 14th…
-
-Link: https://www.eurogamer.net/new-subnautica-2-gameplay-teaser-has-just-dropped-and-if-you-werent-excited-before-you-will-be-now
-
-### 11. Paranormal Activity: Threshold is as dead as its ghosts, as the game gets canned because Paramount couldn't wait any longer [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-Sorry to all the Paranormal Activity heads out there, but the upcoming game adaptation Threshold has crossed over to the other side.
-
-Link: https://www.rockpapershotgun.com/paranormal-activity-threshold-is-as-dead-as-its-ghosts-as-the-game-gets-canned-because-paramount-couldnt-wait-any-longer
-
-### 12. Huge landslide created a 500-meter-high tsunami in a major tourist area [8/10]
-**Source:** Ars Technica  
+### 11. Cricut’s $99 craft cutting machine helped me feel creative again [8/10]
+**Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Fortunately, it happened early in the morning, so nobody was around.
+I've always been skeptical of products that claim to help you lead a more creative life. But one recently won me over.
 
-Link: https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/
+Link: https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on
 
-### 13. Happy Mother's Day to the kindest mom. P.S. Your kindness annoyed me when I was a kid [7/10]
+### 12. Slay the Spire 2 beta patch cuts Act 3 boss Doormaker, introduces Bestiary [8/10]
+**Source:** Eurogamer  
+**Category:** Games / design  
+**Why it matters:** Useful if you care about how games actually work as designed experiences.
+
+Along with numerous other tweaks and revisions, Slay the Spire 2's latest beta patch pulls Act 3 boss, Doormaker, and replaces it with brand new boss Aeonglass, as well as introducing a highly requested Bestiary. Read more
+
+Link: https://www.eurogamer.net/slay-the-spire-2-beta-patch-cuts-act-3-boss-doormaker-introduces-bestiary
+
+### 13. A chocolate laboratory in Italy will be good for chocolate eaters — and farmers [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-She and her siblings had to make tea for and share food with every visitor. That did not make her happy. Today she has a different perspective. So she finally asked her mom: What made you so kind?
+The chocolate biz is raising the bar with a lab to assess cacao beans from around the world. (Talk about a sweet gig!) Consumers and farmers stand to benefit from the "Standard of Excellence" program.
 
-Link: https://www.npr.org/2026/05/10/g-s1-121099/mothers-day-mother-kindness-strangers
+Link: https://www.npr.org/2026/05/10/g-s1-120911/chocolate-certified-cacao-standards-evaluate-coffee-wine
 
 ## YouTube
 
-### OpenAI's GPT 5.5 Instant: The Good, The Bad And The Insane [8/10]
+### OpenAI's ChatGPT 5.5 Instant: The Good, The Bad And The Insane [8/10]
 **Creator:** Two Minute Papers  
 **Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
@@ -182,15 +182,6 @@ Link: https://www.youtube.com/watch?v=z0GLdy8-wxU
 Can artificial intelligence flirt better than humans? WIRED finds out. Four bachelors duke it out for one woman’s attention.
 
 Link: https://www.youtube.com/watch?v=rRqdOICthL0
-
-### 'Mortal Kombat II' Cast Answer The 50 Most Searched Mortal Kombat Questions [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-WIRED tasks Adeline Rudolph (Kitana), Martyn Ford (Shao Kahn), Karl Urban (Johnny Cage) and Tati Gabrielle (Jade) from _Mortal Kombat II_ to answer the 50 most searched for questions about _Mortal Kombat.
-
-Link: https://www.youtube.com/watch?v=q1dA3ffbO3E
 
 ### Gas prices and groceries: How are you affording it? [8/10]
 **Creator:** NPR  
@@ -264,9 +255,27 @@ A new NPR/PBS News/Marist poll shows Americans believe many members of Congress 
 
 Link: https://www.youtube.com/watch?v=V4115KS7Ft8
 
-### Is Intel Abandoning Its Arc Desktop Graphics Cards? [7/10]
+### What Do We Think Of The Revamped Neo Geo AES+...? [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=pnM9XwYmNCc
+
+### John LOVES The Abernic RG477M Handheld! [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=STAqffJMFPA
+
+### Is Intel Abandoning Its Arc Desktop Graphics Cards? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -300,24 +309,6 @@ Link: https://www.youtube.com/watch?v=sg8TKU9n86w
 
 Link: https://www.youtube.com/watch?v=jgWiDCnefpQ
 
-### Final Fantasy 7 Rebirth Xbox Series X|S - First Impressions! [8/10]
-**Creator:** Digital Foundry  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/jISSWd4aiy0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=nNnAAuteSYs
-
-### Teardown Developers Reveal New Voxel RT Technology [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=Hr_Olt52Xl0
-
 ### So, What’s the Deal with Subnautica 2? | Unpacked [6/10]
 **Creator:** Second Wind  
 **Verdict:** Summary is enough  
@@ -344,15 +335,6 @@ Link: https://www.youtube.com/watch?v=3o9-3HKVU4k
 The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.
 
 Link: https://www.youtube.com/watch?v=tZGNd5g0oRU
-
-### Yahtzee Can't Hack It | Semi-Ramblomatic [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Semi-Ramblomatic, Yahtzee takes a stab at hacking and lockpicking. Get your blu-ray copies today! https://store.dftba.com/products/fully-ramblomatic-vol-2-2025-blu-ray https://store.dftba.
-
-Link: https://www.youtube.com/watch?v=RBGYdyKEIUA
 
 ## Entertainment Recommendations
 

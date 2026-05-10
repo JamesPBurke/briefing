@@ -1,11 +1,31 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-10T14:00:02.270594Z",
-  "generatedAtDisplay": "2026-05-10 10:00 AM EDT",
+  "generatedAt": "2026-05-10T18:00:29.869166Z",
+  "generatedAtDisplay": "2026-05-10 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan, \"We tried something different\": Looking back on SiN Episodes: Emergence, the Valve-backed shooter that tried and failed to kick off an age of episodic gaming, and Advisers urge JP Morgan investors to vote to split chair and CEO positions.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Number of Whole Books Middle and High School Students Read for School Varies Widely, After Standing Rock, could a canceled mine project offer a roadmap for opponents of a new oil pipeline in South Dakota?, and I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan.",
   "mainItems": [
+    {
+      "title": "Number of Whole Books Middle and High School Students Read for School Varies Widely",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/number-of-whole-books-middle-and-high-school-students-read-for-school-varies-widely/",
+      "published": "2026-05-10T16:30:00+00:00",
+      "summary": "High school students are still reading full books in English classes — but not very many on average. And teachers working in more affluent school systems seem to assign more books than their counterparts in high-poverty communities.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "After Standing Rock, could a canceled mine project offer a roadmap for opponents of a new oil pipeline in South Dakota?",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/10/south-dakota-sioux-oil-pipeline",
+      "published": "2026-05-10T16:00:29+00:00",
+      "summary": "Nine groups in the Sioux Nation say an exploratory graphite drilling project endangers a recognized ceremonial site Almost exactly a decade since the start of the Standing Rock protests against the Dakota Access pipeline gained national…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan",
       "source": "The Guardian US",
@@ -27,16 +47,6 @@
       "score": 10
     },
     {
-      "title": "Advisers urge JP Morgan investors to vote to split chair and CEO positions",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/2026/may/10/advisers-urge-jp-morgan-investors-to-vote-to-split-chair-and-ceo-positions",
-      "published": "2026-05-10T12:00:25+00:00",
-      "summary": "SS and Glass Lewis back shareholder resolution amid fears over power wielded by Jamie Dimon, who holds both roles Investors in JP Morgan have been urged to vote in favour of splitting the role of chief executive and chair at America’s…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "‘I see every child like I see my children’: why US mothers are on the frontlines of resistance movements",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
@@ -47,14 +57,34 @@
       "score": 10
     },
     {
-      "title": "‘10 minutes of nirvana’: 52 writers on the best sandwich of their life",
+      "title": "Guerrilla Games co-founder developing European game engine to rival Unreal and Unity",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/guerrilla-games-co-founder-developing-european-game-engine-to-rival-unreal-and-unity",
+      "published": "2026-05-10T17:53:34+00:00",
+      "summary": "Guerrilla Games co-founder and former Epic tech director Arjan Brussee is working to build a new game engine as an \"European alternative\" to US-centric engines like Unreal and Unity. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Dragon Quest creator thinks AI pals are \"not just a convenient tool, but a friend to each individual player\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/dragon-quest-creator-thinks-ai-pals-are-not-just-a-convenient-tool-but-a-friend-to-each-individual-player",
+      "published": "2026-05-10T17:28:52+00:00",
+      "summary": "The creator of the Dragon Quest series, Yuji Horii, hopes to use advances in AI to boost the camaraderie between players and their in-game companions. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Rhythm nation: politician’s viral dance moves mark new, optimistic era for Hungary",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/food/2026/may/10/52-writers-on-the-best-sandwich-of-their-life",
-      "published": "2026-05-10T09:00:21+00:00",
-      "summary": "Are you feeling hungry? If not, you will be after reading about the world’s most mouth-watering, life-changing sandwiches of all time ...",
+      "url": "https://www.theguardian.com/world/2026/may/10/rhythm-nation-politicians-viral-dance-moves-mark-new-optimistic-era-for-hungary",
+      "published": "2026-05-10T16:42:24+00:00",
+      "summary": "Zsolt Hegedűs’s celebrations since the election of Péter Magyar have sparked joy across the country As Hungary’s Péter Magyar took office , ousting Viktor Orbán after 16 years in power, the daylong event on Saturday was laced with…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Health advocates warn government’s claims of baby formula safety contradict data",
@@ -64,26 +94,6 @@
       "published": "2026-05-10T13:00:27+00:00",
       "summary": "Independent scientists who reviewed the results said most samples were contaminated with Pfas or phthalates The Trump administration announced earlier this month that hundreds of baby formula samples it tested for toxic chemicals “meet a…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Scores of New York School Districts Report Using Discredited Reading Curricula",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/scores-of-new-york-school-districts-report-using-discredited-reading-curricula/",
-      "published": "2026-05-10T10:30:00+00:00",
-      "summary": "This story originally appeared in New York Focus, a nonprofit news publication investigating power in New York. Sign up for their newsletter here.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "The Sunday Papers",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-809",
-      "published": "2026-05-10T08:49:53+00:00",
-      "summary": "Sundays are, and apologies in advance for the less-fun-than-average intro, for peeling back the layers of the smelly legal onion that is scattering pet ashes in the UK.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -97,49 +107,39 @@
       "score": 9
     },
     {
-      "title": "New Subnautica 2 gameplay teaser has just dropped and if you weren't excited before, you will be now",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/new-subnautica-2-gameplay-teaser-has-just-dropped-and-if-you-werent-excited-before-you-will-be-now",
-      "published": "2026-05-09T18:17:08+00:00",
-      "summary": "We're just days away from returning to the beautiful briny in Subnautica 2 , and to celebrate, we've been treated to an all-new teaser trailer showing off the sights and sounds we can expect to see when we sink beneath the waves on 14th…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Paranormal Activity: Threshold is as dead as its ghosts, as the game gets canned because Paramount couldn't wait any longer",
-      "source": "Rock Paper Shotgun",
-      "category": "Security / computing",
-      "url": "https://www.rockpapershotgun.com/paranormal-activity-threshold-is-as-dead-as-its-ghosts-as-the-game-gets-canned-because-paramount-couldnt-wait-any-longer",
-      "published": "2026-05-09T17:54:02+00:00",
-      "summary": "Sorry to all the Paranormal Activity heads out there, but the upcoming game adaptation Threshold has crossed over to the other side.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 9
-    },
-    {
-      "title": "Huge landslide created a 500-meter-high tsunami in a major tourist area",
-      "source": "Ars Technica",
+      "title": "Cricut’s $99 craft cutting machine helped me feel creative again",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/",
-      "published": "2026-05-10T11:00:53+00:00",
-      "summary": "Fortunately, it happened early in the morning, so nobody was around.",
+      "url": "https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on",
+      "published": "2026-05-10T16:33:18+00:00",
+      "summary": "I've always been skeptical of products that claim to help you lead a more creative life. But one recently won me over.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 8
     },
     {
-      "title": "Happy Mother's Day to the kindest mom. P.S. Your kindness annoyed me when I was a kid",
+      "title": "Slay the Spire 2 beta patch cuts Act 3 boss Doormaker, introduces Bestiary",
+      "source": "Eurogamer",
+      "category": "Games / design",
+      "url": "https://www.eurogamer.net/slay-the-spire-2-beta-patch-cuts-act-3-boss-doormaker-introduces-bestiary",
+      "published": "2026-05-10T14:42:43+00:00",
+      "summary": "Along with numerous other tweaks and revisions, Slay the Spire 2's latest beta patch pulls Act 3 boss, Doormaker, and replaces it with brand new boss Aeonglass, as well as introducing a highly requested Bestiary. Read more",
+      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
+      "score": 8
+    },
+    {
+      "title": "A chocolate laboratory in Italy will be good for chocolate eaters — and farmers",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/10/g-s1-121099/mothers-day-mother-kindness-strangers",
-      "published": "2026-05-10T11:40:42+00:00",
-      "summary": "She and her siblings had to make tea for and share food with every visitor. That did not make her happy. Today she has a different perspective. So she finally asked her mom: What made you so kind?",
+      "url": "https://www.npr.org/2026/05/10/g-s1-120911/chocolate-certified-cacao-standards-evaluate-coffee-wine",
+      "published": "2026-05-10T14:07:06+00:00",
+      "summary": "The chocolate biz is raising the bar with a lab to assess cacao beans from around the world. (Talk about a sweet gig!) Consumers and farmers stand to benefit from the \"Standard of Excellence\" program.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
+      "score": 8
     }
   ],
   "youtube": [
     {
-      "title": "OpenAI's GPT 5.5 Instant: The Good, The Bad And The Insane",
+      "title": "OpenAI's ChatGPT 5.5 Instant: The Good, The Bad And The Insane",
       "source": "Two Minute Papers",
       "category": "AI / YouTube",
       "url": "https://www.youtube.com/watch?v=4nQnhjimB4Y",
@@ -167,17 +167,6 @@
       "url": "https://www.youtube.com/watch?v=rRqdOICthL0",
       "published": "2026-05-08T18:01:41+00:00",
       "summary": "Can artificial intelligence flirt better than humans? WIRED finds out. Four bachelors duke it out for one woman’s attention.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "'Mortal Kombat II' Cast Answer The 50 Most Searched Mortal Kombat Questions",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=q1dA3ffbO3E",
-      "published": "2026-05-07T16:02:32+00:00",
-      "summary": "WIRED tasks Adeline Rudolph (Kitana), Martyn Ford (Shao Kahn), Karl Urban (Johnny Cage) and Tati Gabrielle (Jade) from _Mortal Kombat II_ to answer the 50 most searched for questions about _Mortal Kombat.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -271,6 +260,28 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "What Do We Think Of The Revamped Neo Geo AES+...?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=pnM9XwYmNCc",
+      "published": "2026-05-10T16:01:22+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "John LOVES The Abernic RG477M Handheld!",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=STAqffJMFPA",
+      "published": "2026-05-10T15:00:44+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Is Intel Abandoning Its Arc Desktop Graphics Cards?",
       "source": "Digital Foundry",
       "category": "Games / hardware",
@@ -278,8 +289,8 @@
       "published": "2026-05-09T16:30:10+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Microsoft's \"K2\" Plan To Fix Windows... Does It Go Far Enough?",
@@ -315,28 +326,6 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "Final Fantasy 7 Rebirth Xbox Series X|S - First Impressions!",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=nNnAAuteSYs",
-      "published": "2026-05-07T17:01:07+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/jISSWd4aiy0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Teardown Developers Reveal New Voxel RT Technology",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=Hr_Olt52Xl0",
-      "published": "2026-05-07T16:00:28+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
       "title": "So, What’s the Deal with Subnautica 2? | Unpacked",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -365,17 +354,6 @@
       "url": "https://www.youtube.com/watch?v=tZGNd5g0oRU",
       "published": "2026-05-07T19:20:28+00:00",
       "summary": "The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Yahtzee Can't Hack It | Semi-Ramblomatic",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=RBGYdyKEIUA",
-      "published": "2026-05-07T15:03:56+00:00",
-      "summary": "This week on Semi-Ramblomatic, Yahtzee takes a stab at hacking and lockpicking. Get your blu-ray copies today! https://store.dftba.com/products/fully-ramblomatic-vol-2-2025-blu-ray https://store.dftba.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
@@ -817,32 +795,32 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Overcast",
-    "temp": "54",
-    "feels": "49",
-    "wind": "18",
-    "humidity": "62",
+    "desc": "Partly cloudy",
+    "temp": "56",
+    "feels": "53",
+    "wind": "11",
+    "humidity": "54",
     "days": [
       {
         "label": "Sun May 10",
-        "high": "53",
+        "high": "54",
         "low": "43"
       },
       {
         "label": "Mon May 11",
-        "high": "54",
-        "low": "39"
+        "high": "55",
+        "low": "40"
       },
       {
         "label": "Tue May 12",
         "high": "55",
-        "low": "43"
+        "low": "41"
       }
     ]
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 22,
+    "youtubeCount": 20,
     "trailerCount": 30,
     "sourceCount": 19
   }
