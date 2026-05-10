@@ -1,14 +1,14 @@
 # James Daily Briefing
 
-Generated: 2026-05-10T09:01:03.348246Z
+Generated: 2026-05-10T14:00:02.270594Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Security / computing. The strongest items in this run are Rejoice, Doormaker haters, for Mega Crit have removed him from Slay the Spire 2 in favour of a brand new boss, Female nudity and art that stinks: key takeaways from Venice Biennale 2026, and Why saying hello to strangers can be good for you.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan, "We tried something different": Looking back on SiN Episodes: Emergence, the Valve-backed shooter that tried and failed to kick off an age of episodic gaming, and Advisers urge JP Morgan investors to vote to split chair and CEO positions.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Partly cloudy, 50°F (feels like 44°F), 21 mph wind, 82% humidity.
+02726 (Somerset, MA): Overcast, 54°F (feels like 49°F), 18 mph wind, 62% humidity.
 
 Forecast:
 - Sun May 10: high 53° / low 43°
@@ -37,34 +37,70 @@ In an era of agents powered by artificial intelligence, many programmers are bar
 
 Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
 
-### 1. Rejoice, Doormaker haters, for Mega Crit have removed him from Slay the Spire 2 in favour of a brand new boss [10/10]
+### 1. I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+The problem wasn’t just the perfectly polished, yet mediocre prose. It’s what’s lost when we surrender the struggle to translate thought into words I have been teaching fiction writing at MIT since 2017.
+
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai
+
+### 2. "We tried something different": Looking back on SiN Episodes: Emergence, the Valve-backed shooter that tried and failed to kick off an age of episodic gaming [10/10]
 **Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Another week, another Slay the Spire 2 patch! Or really I should say another couple of weeks. The new beta version of the game, v0.105.
+On May 10, 2006, Ritual Entertainment released SiN Episodes: Emergence, the first of nine episodes set in the sci-fi megalopolis of Freeport City.
 
-Link: https://www.rockpapershotgun.com/rejoice-doormaker-haters-for-mega-crit-have-removed-him-from-slay-the-spire-2-in-favour-of-a-brand-new-boss
+Link: https://www.rockpapershotgun.com/we-tried-something-different-looking-back-on-sin-episodes-emergence-the-valve-backed-shooter-that-tried-and-failed-to-kick-off-an-age-of-episodic-gaming
 
-### 2. Female nudity and art that stinks: key takeaways from Venice Biennale 2026 [10/10]
+### 3. Advisers urge JP Morgan investors to vote to split chair and CEO positions [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Despite a call for calm, a combustible mix of politics and protest punctuated the preview week across the pavilions Every two years the art world assembles in Venice for a sprawling celebration of visual arts at which countries “compete”…
+SS and Glass Lewis back shareholder resolution amid fears over power wielded by Jamie Dimon, who holds both roles Investors in JP Morgan have been urged to vote in favour of splitting the role of chief executive and chair at America’s…
 
-Link: https://www.theguardian.com/artanddesign/2026/may/09/female-nudity-art-stinks-key-takeways-venice-biennale-2026
+Link: https://www.theguardian.com/business/2026/may/10/advisers-urge-jp-morgan-investors-to-vote-to-split-chair-and-ceo-positions
 
-### 3. Why saying hello to strangers can be good for you [10/10]
-**Source:** NPR Health  
+### 4. ‘I see every child like I see my children’: why US mothers are on the frontlines of resistance movements [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-A study establishes that "social ties" — a fancy way of saying being nice to other, even those you don't know — has benefits. A teacher asked her students to test the thesis in real life.
+Mothers’ experiences often intersect with federal policy battles over gun violence, immigration and childcare Sarah spent the first months of the year following immigration agents around the Twin Cities to document arrests and violations…
 
-Link: https://www.npr.org/2026/05/09/g-s1-119761/hello-greeting-strangers-benefit-social-ties
+Link: https://www.theguardian.com/us-news/2026/may/10/mothers-resistance-protest-movements
 
-### 4. The Sunday Papers [9/10]
+### 5. ‘10 minutes of nirvana’: 52 writers on the best sandwich of their life [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Are you feeling hungry? If not, you will be after reading about the world’s most mouth-watering, life-changing sandwiches of all time ...
+
+Link: https://www.theguardian.com/food/2026/may/10/52-writers-on-the-best-sandwich-of-their-life
+
+### 6. Health advocates warn government’s claims of baby formula safety contradict data [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Independent scientists who reviewed the results said most samples were contaminated with Pfas or phthalates The Trump administration announced earlier this month that hundreds of baby formula samples it tested for toxic chemicals “meet a…
+
+Link: https://www.theguardian.com/us-news/2026/may/10/fda-baby-formula-safety-claims-contradict-data
+
+### 7. Scores of New York School Districts Report Using Discredited Reading Curricula [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+This story originally appeared in New York Focus, a nonprofit news publication investigating power in New York. Sign up for their newsletter here.
+
+Link: https://www.the74million.org/article/scores-of-new-york-school-districts-report-using-discredited-reading-curricula/
+
+### 8. The Sunday Papers [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -73,7 +109,16 @@ Sundays are, and apologies in advance for the less-fun-than-average intro, for p
 
 Link: https://www.rockpapershotgun.com/the-sunday-papers-809
 
-### 5. New Subnautica 2 gameplay teaser has just dropped and if you weren't excited before, you will be now [9/10]
+### 9. Rejoice, Doormaker haters, for Mega Crit have removed him from Slay the Spire 2 in favour of a brand new boss [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Another week, another Slay the Spire 2 patch! Or really I should say another couple of weeks. The new beta version of the game, v0.105.
+
+Link: https://www.rockpapershotgun.com/rejoice-doormaker-haters-for-mega-crit-have-removed-him-from-slay-the-spire-2-in-favour-of-a-brand-new-boss
+
+### 10. New Subnautica 2 gameplay teaser has just dropped and if you weren't excited before, you will be now [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -82,7 +127,7 @@ We're just days away from returning to the beautiful briny in Subnautica 2 , and
 
 Link: https://www.eurogamer.net/new-subnautica-2-gameplay-teaser-has-just-dropped-and-if-you-werent-excited-before-you-will-be-now
 
-### 6. Paranormal Activity: Threshold is as dead as its ghosts, as the game gets canned because Paramount couldn't wait any longer [9/10]
+### 11. Paranormal Activity: Threshold is as dead as its ghosts, as the game gets canned because Paramount couldn't wait any longer [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -91,68 +136,23 @@ Sorry to all the Paranormal Activity heads out there, but the upcoming game adap
 
 Link: https://www.rockpapershotgun.com/paranormal-activity-threshold-is-as-dead-as-its-ghosts-as-the-game-gets-canned-because-paramount-couldnt-wait-any-longer
 
-### 7. Federal judge dismisses former Trump supporter’s defamation suit against Fox News [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Raymond Epps, a former Oath Keeper member, said he was the target of conspiracies over his role in US Capitol attack A federal judge on Friday dismissed a lawsuit alleging defamation by Fox News , ruling for a second time against a former…
-
-Link: https://www.theguardian.com/us-news/2026/may/09/defamation-lawsuit-dismissed-raymond-epps-fox-news-january-6
-
-### 8. Eve Online dev breaks from Pearl Abyss and establishes "research partnership" with Google DeepMind [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-EVE Online developer CCP Games has broken away from Pearl Abyss and rebranded as Fenris Creations as it enters into a "research partnership" with Google DeepMind. The deal is valued at $120 million – that's around £88 million. Read more
-
-Link: https://www.eurogamer.net/eve-online-dev-breaks-from-pearl-abyss-and-establishes-research-partnership-with-google-deepmind
-
-### 9. Trump airport branding deal opens new route to profit for family [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Florida agreement grants US president control of licensing and merchandising at renamed airport, analysts say It was a week in which one prominent name in aviation, Spirit Airlines, disappeared , killed in the company’s own admission by…
-
-Link: https://www.theguardian.com/us-news/2026/may/09/trump-airport-branding-profit-deal
-
-### 10. These Schools Banned Cellphones and the Results Were Meh [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-School (in)Security is our biweekly briefing on the latest school safety news. Subscribe here.
-
-Link: https://www.the74million.org/article/these-schools-banned-cellphones-and-the-results-were-meh/
-
-### 11. Iran’s Revolutionary Guards threaten US sites in Middle East if tankers come under fire [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Revolutionary Guards issue warning as Trump awaits Iran’s response to Washington’s latest proposal for peace deal Iran’s Revolutionary Guards have threatened to target US sites in the Middle East if its tankers come under fire, Iranian…
-
-Link: https://www.theguardian.com/world/2026/may/10/iran-threatens-us-sites-in-middle-east-if-tankers-come-under-fire
-
-### 12. The new Wild West of AI kids’ toys [8/10]
+### 12. Huge landslide created a 500-meter-high tsunami in a major tourist area [8/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-These connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.
+Fortunately, it happened early in the morning, so nobody was around.
 
-Link: https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/
+Link: https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/
 
-### 13. Scientists Studied 906 Mafia Marriages and Found Something Surprising [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
+### 13. Happy Mother's Day to the kindest mom. P.S. Your kindness annoyed me when I was a kid [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Scientists analyzed over 900 marriages within the ’Ndrangheta, one of the most infamous mafia syndicates, to understand how “matrimonial ties relate to power and cohesion within the organization.”
+She and her siblings had to make tea for and share food with every visitor. That did not make her happy. Today she has a different perspective. So she finally asked her mom: What made you so kind?
 
-Link: https://www.404media.co/scientists-studied-906-mafia-marriages-and-found-something-surprising/
+Link: https://www.npr.org/2026/05/10/g-s1-121099/mothers-day-mother-kindness-strangers
 
 ## YouTube
 
@@ -191,6 +191,24 @@ Link: https://www.youtube.com/watch?v=rRqdOICthL0
 WIRED tasks Adeline Rudolph (Kitana), Martyn Ford (Shao Kahn), Karl Urban (Johnny Cage) and Tati Gabrielle (Jade) from _Mortal Kombat II_ to answer the 50 most searched for questions about _Mortal Kombat.
 
 Link: https://www.youtube.com/watch?v=q1dA3ffbO3E
+
+### Gas prices and groceries: How are you affording it? [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+"We were told that it was going to be different." That's what one Ohio resident told NPR this week when asked about the cost of living.
+
+Link: https://www.youtube.com/watch?v=Kh_iWkge5-o
+
+### Gas prices and groceries: how are you affording it? | Voter Voices [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+"We were told that it was going to be different." That's what one Ohio resident told NPR this week when asked about the cost of living.
+
+Link: https://www.youtube.com/watch?v=ThN7CkeEXXk
 
 ### New Orleans needs to prepare to relocate residents, new climate study says [7/10]
 **Creator:** NPR  
@@ -245,24 +263,6 @@ Link: https://www.youtube.com/watch?v=a6NN8taueac
 A new NPR/PBS News/Marist poll shows Americans believe many members of Congress are too old.
 
 Link: https://www.youtube.com/watch?v=V4115KS7Ft8
-
-### Making a podcast helped one family talk about aging, dementia and death [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-Aging, dementia and death are hard subjects for anyone to confront. It took making a podcast for one family to start talking about them.
-
-Link: https://www.youtube.com/watch?v=PFDPjO-fNMc
-
-### A new study suggests sea level rise will eventually leave New Orleans surrounded by water [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-New Orleans needs to begin planning to move its residents out of the city due to climate change.
-
-Link: https://www.youtube.com/watch?v=Pf7E6jo13Tk
 
 ### Is Intel Abandoning Its Arc Desktop Graphics Cards? [7/10]
 **Creator:** Digital Foundry  
