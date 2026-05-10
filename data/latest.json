@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-10T18:00:29.869166Z",
+  "generatedAt": "2026-05-10T18:00:43.908709Z",
   "generatedAtDisplay": "2026-05-10 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
@@ -97,16 +97,6 @@
       "score": 9
     },
     {
-      "title": "Rejoice, Doormaker haters, for Mega Crit have removed him from Slay the Spire 2 in favour of a brand new boss",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/rejoice-doormaker-haters-for-mega-crit-have-removed-him-from-slay-the-spire-2-in-favour-of-a-brand-new-boss",
-      "published": "2026-05-09T21:54:48+00:00",
-      "summary": "Another week, another Slay the Spire 2 patch! Or really I should say another couple of weeks. The new beta version of the game, v0.105.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
       "title": "Cricut’s $99 craft cutting machine helped me feel creative again",
       "source": "The Verge",
       "category": "AI / computing",
@@ -114,6 +104,16 @@
       "published": "2026-05-10T16:33:18+00:00",
       "summary": "I've always been skeptical of products that claim to help you lead a more creative life. But one recently won me over.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 8
+    },
+    {
+      "title": "The Most Horrifying Scene in Ridley Scottâs ‘Prometheus’: The C-Section from Hell",
+      "source": "Bloody Disgusting",
+      "category": "Sci-fi / horror",
+      "url": "https://bloody-disgusting.com/editorials/3950371/the-most-horrifying-scene-in-ridley-scotts-prometheus-the-c-section-from-hell/",
+      "published": "2026-05-10T15:00:08+00:00",
+      "summary": "The Alien franchise has always been a story of pregnancy horror.",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     },
     {
@@ -822,6 +822,6 @@
     "mainCount": 13,
     "youtubeCount": 20,
     "trailerCount": 30,
-    "sourceCount": 19
+    "sourceCount": 20
   }
 }

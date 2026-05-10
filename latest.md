@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-05-10T18:00:29.869166Z
+Generated: 2026-05-10T18:00:43.908709Z
 
 Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Number of Whole Books Middle and High School Students Read for School Varies Widely, After Standing Rock, could a canceled mine project offer a roadmap for opponents of a new oil pipeline in South Dakota?, and I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan.
 
@@ -118,16 +118,7 @@ Independent scientists who reviewed the results said most samples were contamina
 
 Link: https://www.theguardian.com/us-news/2026/may/10/fda-baby-formula-safety-claims-contradict-data
 
-### 10. Rejoice, Doormaker haters, for Mega Crit have removed him from Slay the Spire 2 in favour of a brand new boss [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Another week, another Slay the Spire 2 patch! Or really I should say another couple of weeks. The new beta version of the game, v0.105.
-
-Link: https://www.rockpapershotgun.com/rejoice-doormaker-haters-for-mega-crit-have-removed-him-from-slay-the-spire-2-in-favour-of-a-brand-new-boss
-
-### 11. Cricut’s $99 craft cutting machine helped me feel creative again [8/10]
+### 10. Cricut’s $99 craft cutting machine helped me feel creative again [8/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -135,6 +126,15 @@ Link: https://www.rockpapershotgun.com/rejoice-doormaker-haters-for-mega-crit-ha
 I've always been skeptical of products that claim to help you lead a more creative life. But one recently won me over.
 
 Link: https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on
+
+### 11. The Most Horrifying Scene in Ridley Scottâs ‘Prometheus’: The C-Section from Hell [8/10]
+**Source:** Bloody Disgusting  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+The Alien franchise has always been a story of pregnancy horror.
+
+Link: https://bloody-disgusting.com/editorials/3950371/the-most-horrifying-scene-in-ridley-scotts-prometheus-the-c-section-from-hell/
 
 ### 12. Slay the Spire 2 beta patch cuts Act 3 boss Doormaker, introduces Bestiary [8/10]
 **Source:** Eurogamer  
