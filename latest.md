@@ -1,10 +1,19 @@
 # James Daily Briefing
 
-Generated: 2026-05-10T05:00:02.090386Z
+Generated: 2026-05-10T09:01:03.348246Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Rejoice, Doormaker haters, for Mega Crit have removed him from Slay the Spire 2 in favour of a brand new boss, Female nudity and art that stinks: key takeaways from Venice Biennale 2026, and Why saying hello to strangers can be good for you.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Security / computing. The strongest items in this run are Rejoice, Doormaker haters, for Mega Crit have removed him from Slay the Spire 2 in favour of a brand new boss, Female nudity and art that stinks: key takeaways from Venice Biennale 2026, and Why saying hello to strangers can be good for you.
 
 ## Briefing
+
+## Weather (02726)
+
+02726 (Somerset, MA): Partly cloudy, 50°F (feels like 44°F), 21 mph wind, 82% humidity.
+
+Forecast:
+- Sun May 10: high 53° / low 43°
+- Mon May 11: high 54° / low 39°
+- Tue May 12: high 55° / low 43°
 
 ## Highlighted stories
 
@@ -55,25 +64,16 @@ A study establishes that "social ties" — a fancy way of saying being nice to o
 
 Link: https://www.npr.org/2026/05/09/g-s1-119761/hello-greeting-strangers-benefit-social-ties
 
-### 4. The emerging cancer treatment that’s exciting scientists: ‘We’ve just scratched the surface on what’s possible’ [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 4. The Sunday Papers [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-After embarking on a trial of CAR T-cell therapy, actor Sam Neill announced he is cancer-free.
+Sundays are, and apologies in advance for the less-fun-than-average intro, for peeling back the layers of the smelly legal onion that is scattering pet ashes in the UK.
 
-Link: https://www.theguardian.com/society/2026/may/10/cancer-treatment-car-t-cell-therapy-sam-neill
+Link: https://www.rockpapershotgun.com/the-sunday-papers-809
 
-### 5. The moment I knew: I gave her one of my paintings, she gave me an empty chip packet [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-When Mitch Cairns met Agatha Gothe-Snape, he was instantly charmed.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/may/10/moment-knew-painting-empty-chip-packet
-
-### 6. New Subnautica 2 gameplay teaser has just dropped and if you weren't excited before, you will be now [9/10]
+### 5. New Subnautica 2 gameplay teaser has just dropped and if you weren't excited before, you will be now [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -82,7 +82,7 @@ We're just days away from returning to the beautiful briny in Subnautica 2 , and
 
 Link: https://www.eurogamer.net/new-subnautica-2-gameplay-teaser-has-just-dropped-and-if-you-werent-excited-before-you-will-be-now
 
-### 7. Paranormal Activity: Threshold is as dead as its ghosts, as the game gets canned because Paramount couldn't wait any longer [9/10]
+### 6. Paranormal Activity: Threshold is as dead as its ghosts, as the game gets canned because Paramount couldn't wait any longer [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -91,7 +91,7 @@ Sorry to all the Paranormal Activity heads out there, but the upcoming game adap
 
 Link: https://www.rockpapershotgun.com/paranormal-activity-threshold-is-as-dead-as-its-ghosts-as-the-game-gets-canned-because-paramount-couldnt-wait-any-longer
 
-### 8. Federal judge dismisses former Trump supporter’s defamation suit against Fox News [9/10]
+### 7. Federal judge dismisses former Trump supporter’s defamation suit against Fox News [9/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -100,7 +100,7 @@ Raymond Epps, a former Oath Keeper member, said he was the target of conspiracie
 
 Link: https://www.theguardian.com/us-news/2026/may/09/defamation-lawsuit-dismissed-raymond-epps-fox-news-january-6
 
-### 9. Eve Online dev breaks from Pearl Abyss and establishes "research partnership" with Google DeepMind [9/10]
+### 8. Eve Online dev breaks from Pearl Abyss and establishes "research partnership" with Google DeepMind [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -109,7 +109,7 @@ EVE Online developer CCP Games has broken away from Pearl Abyss and rebranded as
 
 Link: https://www.eurogamer.net/eve-online-dev-breaks-from-pearl-abyss-and-establishes-research-partnership-with-google-deepmind
 
-### 10. Trump airport branding deal opens new route to profit for family [9/10]
+### 9. Trump airport branding deal opens new route to profit for family [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -118,7 +118,7 @@ Florida agreement grants US president control of licensing and merchandising at 
 
 Link: https://www.theguardian.com/us-news/2026/may/09/trump-airport-branding-profit-deal
 
-### 11. These Schools Banned Cellphones and the Results Were Meh [9/10]
+### 10. These Schools Banned Cellphones and the Results Were Meh [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -126,6 +126,15 @@ Link: https://www.theguardian.com/us-news/2026/may/09/trump-airport-branding-pro
 School (in)Security is our biweekly briefing on the latest school safety news. Subscribe here.
 
 Link: https://www.the74million.org/article/these-schools-banned-cellphones-and-the-results-were-meh/
+
+### 11. Iran’s Revolutionary Guards threaten US sites in Middle East if tankers come under fire [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Revolutionary Guards issue warning as Trump awaits Iran’s response to Washington’s latest proposal for peace deal Iran’s Revolutionary Guards have threatened to target US sites in the Middle East if its tankers come under fire, Iranian…
+
+Link: https://www.theguardian.com/world/2026/may/10/iran-threatens-us-sites-in-middle-east-if-tankers-come-under-fire
 
 ### 12. The new Wild West of AI kids’ toys [8/10]
 **Source:** Ars Technica  
@@ -155,6 +164,159 @@ Link: https://www.404media.co/scientists-studied-906-mafia-marriages-and-found-s
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 GPT 5.5 Instant: https://deploymentsafety.openai.com/gpt-5-5-instant/introduction https://openai.
 
 Link: https://www.youtube.com/watch?v=4nQnhjimB4Y
+
+### Would you be able to tell your date was AI? [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+A regular guy used LinkJobAI to form all of his responses to a potential date, verbatim. See how it went by clicking the link. Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.
+
+Link: https://www.youtube.com/watch?v=z0GLdy8-wxU
+
+### Can You Tell If Your Date Is AI? [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Can artificial intelligence flirt better than humans? WIRED finds out. Four bachelors duke it out for one woman’s attention.
+
+Link: https://www.youtube.com/watch?v=rRqdOICthL0
+
+### 'Mortal Kombat II' Cast Answer The 50 Most Searched Mortal Kombat Questions [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+WIRED tasks Adeline Rudolph (Kitana), Martyn Ford (Shao Kahn), Karl Urban (Johnny Cage) and Tati Gabrielle (Jade) from _Mortal Kombat II_ to answer the 50 most searched for questions about _Mortal Kombat.
+
+Link: https://www.youtube.com/watch?v=q1dA3ffbO3E
+
+### New Orleans needs to prepare to relocate residents, new climate study says [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+New Orleans should plan to move its residents out of the city due to climate change.
+
+Link: https://www.youtube.com/watch?v=Ap40A58nUeE
+
+### Russian citizens are dealing with limited access to the internet due to the war in Ukraine [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Russian citizens have endured a lot since the war in Ukraine started more than four years ago.
+
+Link: https://www.youtube.com/watch?v=N0mL7nWQwNk
+
+### Robot monk leads prayers for Buddhist order in Seoul [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+In South Korea, a Buddhist order has "ordained" a robot monk. Nicknamed “Gabi,” meaning Buddha’s mercy, the robot monk led prayer at a temple in central Seoul this week, helping human monks chant Buddhist sutras.
+
+Link: https://www.youtube.com/watch?v=U_8bMHdbwuE
+
+### In East Jerusalem, the government uses archaeological claims to justify pushing out Palestinians [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Israeli settlers continue to push Palestinians from their homes and land where many have lived for generations. In East Jerusalem, the government uses archaeological claims to justify its orders.
+
+Link: https://www.youtube.com/watch?v=hndaalo7hn0
+
+### Hantavirus-hit cruise ship heads for port as experts say virus won't spread like COVID [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Spain says a cruise ship where deadly hantavirus cases have been identified is preparing to arrive in the Canary Islands. Three people have died and several others have been sickened.
+
+Link: https://www.youtube.com/watch?v=a6NN8taueac
+
+### Americans widely support age, term limits for Congress [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+A new NPR/PBS News/Marist poll shows Americans believe many members of Congress are too old.
+
+Link: https://www.youtube.com/watch?v=V4115KS7Ft8
+
+### Making a podcast helped one family talk about aging, dementia and death [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+Aging, dementia and death are hard subjects for anyone to confront. It took making a podcast for one family to start talking about them.
+
+Link: https://www.youtube.com/watch?v=PFDPjO-fNMc
+
+### A new study suggests sea level rise will eventually leave New Orleans surrounded by water [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+New Orleans needs to begin planning to move its residents out of the city due to climate change.
+
+Link: https://www.youtube.com/watch?v=Pf7E6jo13Tk
+
+### Is Intel Abandoning Its Arc Desktop Graphics Cards? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=TFPop0Cn9nI
+
+### Microsoft's "K2" Plan To Fix Windows... Does It Go Far Enough? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=R0mvnGTpLiI
+
+### Is Project Helix A Console, A PC Or Both? And Why Does It Matter? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=sg8TKU9n86w
+
+### Frame-Gen To 30FPS?! LEGO Batman Legacy of the Dark Knight Specs Cause Alarm [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=jgWiDCnefpQ
+
+### Final Fantasy 7 Rebirth Xbox Series X|S - First Impressions! [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/jISSWd4aiy0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=nNnAAuteSYs
+
+### Teardown Developers Reveal New Voxel RT Technology [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=Hr_Olt52Xl0
 
 ### So, What’s the Deal with Subnautica 2? | Unpacked [6/10]
 **Creator:** Second Wind  
@@ -221,7 +383,124 @@ Link: https://www.youtube.com/watch?v=RBGYdyKEIUA
 
 ## Trailers / Previews
 
-### The world of 'Money Heist' continues | Official Announcement | Netflix [10/10]
+### dopamine 😍 [7/10]
+**Source:** Universal Pictures  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+----- Instagram: https://www.instagram.com/onenightonlymovie TikTok: https://www.tiktok.com/@onenightonlymovie Facebook: https://www.facebook.com/onenightonlymovie X: https://www.twitter.
+
+Link: https://www.youtube.com/watch?v=PbgTrT7Cf4U
+
+### The Odyssey | Official New Trailer [8/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The Odyssey - In Theaters 7 17 26 Christopher Nolan’s next film, The Odyssey, is a mythic action epic shot across the world using brand new IMAX® film technology.
+
+Link: https://www.youtube.com/watch?v=f_bKjZeJBBI
+
+### One Night Only | Official Trailer [8/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+what would you do if you only had one night? watch the trailer for one night only now. only in theaters august 7. ----- Instagram: https://www.instagram.com/onenightonlymovie TikTok: https://www.tiktok.
+
+Link: https://www.youtube.com/watch?v=OzS2W1Wdyqg
+
+### Resident Evil – Official Teaser Trailer. From Zach Cregger, director of Weapons and Barbarian. [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. #ResidentEvil
+
+Link: https://www.youtube.com/watch?v=oBWrb8HTU44
+
+### RESIDENT EVIL – Official Teaser Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. https://www.instagram.com/residentevil/ https://twitter.
+
+Link: https://www.youtube.com/watch?v=SJPu1spHqfk
+
+### Tony | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas. TONY – In theaters this August.
+
+Link: https://www.youtube.com/watch?v=k1MVnzd2aVc
+
+### BEEF | Behind the Score with Composer Finneas O’Connell | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe Listen to the soundtrack: https://a24music.lnk.
+
+Link: https://www.youtube.com/watch?v=7G5073lagSE
+
+### Mother Mary | Final Trailer | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.
+
+Link: https://www.youtube.com/watch?v=aqYHOsuje1E
+
+### LEVITICUS - Official Trailer - Only In Theaters June 19 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Two teenage boys must escape a violent entity that takes the form of the person they desire most—each other.
+
+Link: https://www.youtube.com/watch?v=WXuK0vlFxII
+
+### HOKUM - Final Trailer - Only In Theaters May 1 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+When novelist Ohm Bauman retreats to a remote inn to scatter his parents’ ashes, he is consumed by tales of a witch haunting the honeymoon suite.
+
+Link: https://www.youtube.com/watch?v=qU_i5e48KzQ
+
+### FIND YOUR FRIENDS | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Amber and her four best girlfriends take a trip to escape the L.A. bubble and cut loose in Joshua Tree for the weekend. But upon arrival, they quickly realize the locals don’t want them there.
+
+Link: https://www.youtube.com/watch?v=pT5y7-WwD8M
+
+### TALES FROM THE CRYPT | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The crypt is open, boils and ghouls. TALES FROM THE CRYPT Season 1 drops May 1st on Shudder, with subsequent seasons dropping every Friday. #Shudder #TalesFromtheCrypt Subscribe: http://ow.
+
+Link: https://www.youtube.com/watch?v=LSwkCskbvzQ
+
+### Worst Ex Ever Season 2 | Official Trailer [10/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Are they "the one" or just the one you were warned about? Worst Ex Ever returns to Netflix on May 6 for Season 2 with true, harrowing tales of monstrous relationships and unhinged exes.
+
+Link: https://www.youtube.com/watch?v=_iKN26hplWY
+
+### The world of 'Money Heist' continues | Official Announcement | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -230,7 +509,7 @@ Some stories start with the perfect strike. And this one changed everything.
 
 Link: https://www.youtube.com/watch?v=HNMP1UdjOsE
 
-### The Roast of Kevin Hart LIVE on Netflix, Sunday, May 10. 8PM ET | 5PM PT [10/10]
+### The Roast of Kevin Hart LIVE on Netflix, Sunday, May 10. 8PM ET | 5PM PT [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -319,3 +598,57 @@ Link: https://www.youtube.com/watch?v=OQAB1CXnWzg
 Coming off a hard year, our group of friends carries on their tradition of vacationing together, now with a baby in tow. The Four Seasons S2 debuts May 28, only on Netflix. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=bgpDgJkQka0
+
+### Your Friends & Neighbors — The Eulogy | Season 2 Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Coop reflects on the life of his father. Season 2 of Your Friends & Neighbors is now streaming on Apple TV https://apple.
+
+Link: https://www.youtube.com/watch?v=V7kLc3oK_zE
+
+### Monarch: Legacy of Monsters — Best Monster Sightings of Season 2 | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+It's not a Legacy of Monsters without the monsters. From Kong, to Godzilla, to Titan X — and all the creatures in between, these are the best monster scenes from Season 2 of Monarch, now streaming on Apple TV https://apple.
+
+Link: https://www.youtube.com/watch?v=z-tIu-Qv5JQ
+
+### A monster menagerie. #Monarch: Legacy of Monsters — Season 2 Now Streaming [9/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Titan X isn't herself, but it makes no difference to Kong. It's the Skull Island showdown from "Where We Belong." Monarch: Legacy of Monsters Season 2 is now streaming on Apple TV https://apple.
+
+Link: https://www.youtube.com/watch?v=oGSifJMwXrY
+
+### For All Mankind — News From Mars | Season 5 Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Tensions on Mars continue to escalate as the Marsies fight for their independence. For All Mankind Season 5 is now streaming on Apple TV https://apple.
+
+Link: https://www.youtube.com/watch?v=NL9Ohi8OeOc
+
+### Cape Fear — Official Trailer | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Out of prison, and out for revenge. Cape Fear premieres June 5 on Apple TV https://apple.
+
+Link: https://www.youtube.com/watch?v=FZ3sN5E-mBU
+
+### Widow's Bay — The History of the Island | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Courtesy of the Widow's Bay Historical Society. Widow's Bay is now streaming https://apple.co/_WidowsBay “Widow’s Bay” is a quaint island town 40-miles off the coast of New England. But something lurks beneath the surface.
+
+Link: https://www.youtube.com/watch?v=ae8_jwDPtjU
