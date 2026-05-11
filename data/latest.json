@@ -1,38 +1,98 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-11T09:01:47.388178Z",
-  "generatedAtDisplay": "2026-05-11 05:01 AM EDT",
+  "generatedAt": "2026-05-11T14:00:02.256174Z",
+  "generatedAtDisplay": "2026-05-11 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Science / computing, Education / pedagogy. The strongest items in this run are ‘It’s like we went bankrupt overnight’: poorest Somalis suffer as piles of worthless shillings mount up, ‘Being offended isn’t the worst thing. Being poor is’: how Robby Hoffman became a controversial comedy sensation, and Greece scrambles to explain how explosive-packed drone landed in its waters.",
+  "summary": "Today's sweep leans toward Games / criticism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are California bill pushing to keep games playable after server shutdowns \"doesn't reflect how games actually work\", ESA assert, Students Boo Commencement Speaker After She Calls AI the ‘Next Industrial Revolution’, and Former Epic tech director announces The Immense Engine, his AI-heavy \"European alternative\" to Unreal.",
   "mainItems": [
     {
-      "title": "‘It’s like we went bankrupt overnight’: poorest Somalis suffer as piles of worthless shillings mount up",
-      "source": "The Guardian US",
+      "title": "California bill pushing to keep games playable after server shutdowns \"doesn't reflect how games actually work\", ESA assert",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/california-bill-pushing-to-keep-games-playable-after-server-shutdowns-doesnt-reflect-how-games-actually-work-esa-assert",
+      "published": "2026-05-11T13:55:09+00:00",
+      "summary": "Earlier this month, Stop Killing Games, the campaign group seeking to prevent online games being rendered unplayable when publishers shut down their servers, threw their support behind a Californian bill aiming to put a requirement that…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Students Boo Commencement Speaker After She Calls AI the ‘Next Industrial Revolution’",
+      "source": "404 Media",
+      "category": "CS education / AI policy",
+      "url": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
+      "published": "2026-05-11T13:03:56+00:00",
+      "summary": "A commencement speaker at the University of Central Florida was booed, with graduating humanities students yelling out, \"AI SUCKS!\"",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Former Epic tech director announces The Immense Engine, his AI-heavy \"European alternative\" to Unreal",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/former-epic-tech-director-announces-the-immense-engine-his-ai-heavy-european-alternative-to-unreal",
+      "published": "2026-05-11T12:08:46+00:00",
+      "summary": "Guerilla Games co-founder and former Epic Games technical director Arjan Brussee is making what he styles a \"European alternative\" to US-developed videogame engines like Unreal and Unity (the latter originally conceived in Denmark, to be…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "This week in PC games: Subnautica 2 early access, a Battlestar Galactica roguelite, and Directive 8020 disproving the old saying about space and screaming",
+      "source": "Rock Paper Shotgun",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/may/11/poorest-somalis-hit-hardest-currency-shillings-mobile-money",
-      "published": "2026-05-11T05:00:46+00:00",
-      "summary": "Banknotes are now so tattered that even buses refuse to accept them, as a dollarised economy and mobile phone payments push up the cost of essentials As US troops withdrew from Somalia in the spring of 1994, a teenaged Muse Omar Jama began…",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-subnautica-2-early-access-a-battlestar-galactica-roguelite-and-directive-8020-disproving-the-old-saying-about-space-and-screaming",
+      "published": "2026-05-11T11:45:00+00:00",
+      "summary": "Our infamously workshy news editor Edwin – he only posted barely twice the number of articles last week as I did, the skiver – is off doing something that isn’t the Maw this morning.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "‘Being offended isn’t the worst thing. Being poor is’: how Robby Hoffman became a controversial comedy sensation",
+      "title": "‘Truly terrifying’: Alberta voter data breach raises fears for Canada’s electoral integrity",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix",
-      "published": "2026-05-11T04:00:45+00:00",
-      "summary": "She has suddenly become one of the world’s most successful comedians, with a hit Netflix special, an Emmy-nominated role in Hacks and another opposite Steve Carell. But many of her jokes raise hackles.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/may/11/alberta-voter-data-breach-separatists-referendum",
+      "published": "2026-05-11T11:00:53+00:00",
+      "summary": "Debates over secession overshadowed by revelations separatist-linked group gained access to list of electors The illegal use of voter information by rightwing separatists in the province of Alberta has raised fresh fears over Canada’s…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Greece scrambles to explain how explosive-packed drone landed in its waters",
-      "source": "The Guardian US",
+      "title": "Sony's failed war against Internet piracy may doom other copyright lawsuits",
+      "source": "Ars Technica",
+      "category": "AI / privacy",
+      "url": "https://arstechnica.com/tech-policy/2026/05/sonys-failed-war-against-internet-piracy-may-doom-other-copyright-lawsuits/",
+      "published": "2026-05-11T11:00:33+00:00",
+      "summary": "Cable firm Cox's Supreme Court win may help all tech providers, not just ISPs.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Making AI Education Accessible with CSTA Responsible AI Fellow Dan Jones",
+      "source": "CSTA",
+      "category": "Education / pedagogy",
+      "url": "https://csteachers.org/making-ai-education-accessible-with-csta-responsible-ai-fellow-dan-jones/",
+      "published": "2026-05-11T11:00:00+00:00",
+      "summary": "Daniel Jones is a CTE and computer science teacher for a large school district in South Florida. He also advises...",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Forza Horizon 6 has been leaked and cracked a week before its release",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/news/927704/forza-horizon-6-leak-cracked",
+      "published": "2026-05-11T10:36:05+00:00",
+      "summary": "The full version of Playground Games' upcoming Forza Horizon 6 game has leaked online over the weekend and has already been cracked by pirates.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Wealthy Students More Likely to Get Disability Accommodations, Study Finds",
+      "source": "The 74",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/may/11/greece-explosive-packed-drone-lefkada-western-coast",
-      "published": "2026-05-11T04:00:44+00:00",
-      "summary": "Minister defends preparedness against novel threat after officials detonate device suspected to be from Ukraine Authorities in Greece have intensified investigations into how an explosive-packed drone ended up in waters off the west of the…",
+      "url": "https://www.the74million.org/article/wealthy-students-more-likely-to-get-disability-accommodations-study-finds/",
+      "published": "2026-05-11T10:30:00+00:00",
+      "summary": "While intended as a universal benefit, educational support for disabled children is significantly segregated by class, according to a paper released in January.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -47,82 +107,22 @@
       "score": 9
     },
     {
-      "title": "‘London is a case study in hope’: Sadiq Khan on 10 years as mayor",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/politics/2026/may/11/sadiq-khan-10-years-london-mayor-labour-environment",
-      "published": "2026-05-11T04:00:44+00:00",
-      "summary": "London mayor talks up coalition-building, highlights his environmental record, and worries national Labour party is on the wrong track When Sadiq Khan was first elected as mayor of London 10 years ago, Barack Obama was US president, the UK…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Polish ex-minister flees Hungary to the US after PM Magyar says country won’t protect people wanted elsewhere",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/may/11/polish-ex-minister-zbigniew-ziobro-flees-hungary-usa",
-      "published": "2026-05-11T02:51:33+00:00",
-      "summary": "Zbigniew Ziobro has been accused in Poland of leading an organised criminal enterprise and abuse of power, which he denies Poland’s former justice minister Zbigniew Ziobro, wanted on several criminal charges in his home country, has fled…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Martin Short opens up about ‘nightmare’ death of his daughter Katherine",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/11/martin-short-daughter-katherine-death",
-      "published": "2026-05-11T00:17:04+00:00",
-      "summary": "Actor and comedian speaks publicly for the first time since his 42-year-old daughter died by suicide in February Martin Short has spoken for the first time about the death of his daughter, Katherine Short, saying her death has been “a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Number of Whole Books Middle and High School Students Read for School Varies Widely",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/number-of-whole-books-middle-and-high-school-students-read-for-school-varies-widely/",
-      "published": "2026-05-10T16:30:00+00:00",
-      "summary": "High school students are still reading full books in English classes — but not very many on average. And teachers working in more affluent school systems seem to assign more books than their counterparts in high-poverty communities.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "\"We tried something different\": Looking back on SiN Episodes: Emergence, the Valve-backed shooter that tried and failed to kick off an age of episodic gaming",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/we-tried-something-different-looking-back-on-sin-episodes-emergence-the-valve-backed-shooter-that-tried-and-failed-to-kick-off-an-age-of-episodic-gaming",
-      "published": "2026-05-10T13:00:00+00:00",
-      "summary": "On May 10, 2006, Ritual Entertainment released SiN Episodes: Emergence, the first of nine episodes set in the sci-fi megalopolis of Freeport City.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Middle East crisis live: Trump rejects Iran response to US peace proposal as Tehran warns of new attacks",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates",
-      "published": "2026-05-11T08:42:08+00:00",
-      "summary": "US president calls Iranian response ‘totally unacceptable’ while Tehran says it will retaliate against any new US strikes or foreign warships in strait of Hormuz Trump calls Iran’s response to peace plan ‘totally unacceptable’ as ceasefire…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Your AI Use Is Breaking My Brain",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/your-ai-use-is-breaking-my-brain/",
+      "published": "2026-05-11T13:57:35+00:00",
+      "summary": "AI writing is impossible to avoid, is making everything sound the same, and is driving us crazy.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Cricut’s $99 craft cutting machine helped me feel creative again",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on",
-      "published": "2026-05-11T02:13:05+00:00",
-      "summary": "I've always been skeptical of products that claim to help you lead a more creative life. But one recently won me over.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
-    },
-    {
-      "title": "A chocolate laboratory in Italy will be good for chocolate eaters — and farmers",
+      "title": "As ranks of uninsured grow, charity care can be hard to come by at many hospitals",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/10/g-s1-120911/chocolate-certified-cacao-standards-evaluate-coffee-wine",
-      "published": "2026-05-10T14:07:06+00:00",
-      "summary": "The chocolate biz is raising the bar with a lab to assess cacao beans from around the world. (Talk about a sweet gig!) Consumers and farmers stand to benefit from the \"Standard of Excellence\" program.",
+      "url": "https://www.npr.org/2026/05/11/nx-s1-5813781/charity-care-hospitals-medical-bills-uninsured",
+      "published": "2026-05-11T09:03:00+00:00",
+      "summary": "An investigation of hospital data and charity care programs shows most Minnesota hospitals provide little financial aid to patients and often make assistance difficult to get.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -150,7 +150,7 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "Would you be able to tell your date was AI?",
+      "title": "Reciting AI Word-For-Word On a Date",
       "source": "WIRED",
       "category": "Tech / media",
       "url": "https://www.youtube.com/watch?v=z0GLdy8-wxU",
@@ -161,7 +161,7 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Can You Tell If Your Date Is AI?",
+      "title": "1 Human vs 3 Secret AI Catfish",
       "source": "WIRED",
       "category": "Tech / media",
       "url": "https://www.youtube.com/watch?v=rRqdOICthL0",
@@ -309,17 +309,6 @@
       "category": "Games / hardware",
       "url": "https://www.youtube.com/watch?v=sg8TKU9n86w",
       "published": "2026-05-08T16:01:37+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Frame-Gen To 30FPS?! LEGO Batman Legacy of the Dark Knight Specs Cause Alarm",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=jgWiDCnefpQ",
-      "published": "2026-05-08T13:25:38+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 6,
@@ -555,7 +544,7 @@
       "published": "2026-05-11T01:51:24+00:00",
       "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -566,7 +555,7 @@
       "published": "2026-05-11T01:26:08+00:00",
       "summary": "\"I never have, and never will, smash Chelsea Handler. I'm Draymond Green. I don't hit threes.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -577,7 +566,7 @@
       "published": "2026-05-11T01:10:56+00:00",
       "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -588,7 +577,7 @@
       "published": "2026-05-11T00:37:35+00:00",
       "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -599,7 +588,7 @@
       "published": "2026-05-11T00:36:42+00:00",
       "summary": "Usher opens The Roast of Kevin Hart with a very special performance of \"Burn\" 🔥 THE ROAST OF KEVIN HART IS LIVE RIGHT NOW ON NETFLIX.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -610,7 +599,7 @@
       "published": "2026-05-11T00:16:18+00:00",
       "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -776,41 +765,20 @@
   },
   "highlights": [
     {
-      "title": "Solve a murder mystery by flying people around on your giant crane in the Disco Elysium and Chinese folktale inspired The Crane Rider's Tale",
-      "source": "Rock Paper Shotgun",
-      "url": "https://www.rockpapershotgun.com/solve-a-murder-mystery-by-flying-people-around-on-your-giant-crane-in-the-disco-elysium-and-chinese-folktale-inspired-the-crane-riders-tale",
-      "notes": "Pinned from today's briefing at James's request.",
-      "addedAt": "2026-04-29T10:18:49Z"
-    },
-    {
       "title": "12 unexpected sourdough bread recipes that aren't crusty loaves: From sourdough flatbread to sourdough milk bread — and even sourdough babka.",
       "source": "King Arthur Baking",
       "url": "https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes",
       "notes": "Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.",
       "addedAt": "2026-04-23T12:04:00Z"
-    },
-    {
-      "title": "A.I. Is Prompting an Evolution, Not Extinction, for Coders",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html",
-      "notes": "Interesting piece on the current state of AI in software work.",
-      "addedAt": "2026-04-14T14:00:00Z"
-    },
-    {
-      "title": "The Workers Letting A.I. Do Their Jobs",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html",
-      "notes": "In an era of agents powered by artificial intelligence, many programmers are barely programming.",
-      "addedAt": "2026-04-14T15:24:00Z"
     }
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Patchy rain nearby",
-    "temp": "53",
-    "feels": "48",
-    "wind": "12",
-    "humidity": "71",
+    "desc": "Partly cloudy",
+    "temp": "57",
+    "feels": "54",
+    "wind": "15",
+    "humidity": "67",
     "days": [
       {
         "label": "Mon May 11",
@@ -831,8 +799,8 @@
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 18,
+    "youtubeCount": 17,
     "trailerCount": 33,
-    "sourceCount": 20
+    "sourceCount": 23
   }
 }

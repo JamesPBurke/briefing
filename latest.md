@@ -1,14 +1,14 @@
 # James Daily Briefing
 
-Generated: 2026-05-11T09:01:47.388178Z
+Generated: 2026-05-11T14:00:02.256174Z
 
-Today's sweep leans toward Democracy / press freedom, Science / computing, Education / pedagogy. The strongest items in this run are ‘It’s like we went bankrupt overnight’: poorest Somalis suffer as piles of worthless shillings mount up, ‘Being offended isn’t the worst thing. Being poor is’: how Robby Hoffman became a controversial comedy sensation, and Greece scrambles to explain how explosive-packed drone landed in its waters.
+Today's sweep leans toward Games / criticism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are California bill pushing to keep games playable after server shutdowns "doesn't reflect how games actually work", ESA assert, Students Boo Commencement Speaker After She Calls AI the ‘Next Industrial Revolution’, and Former Epic tech director announces The Immense Engine, his AI-heavy "European alternative" to Unreal.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Patchy rain nearby, 53°F (feels like 48°F), 12 mph wind, 71% humidity.
+02726 (Somerset, MA): Partly cloudy, 57°F (feels like 54°F), 15 mph wind, 67% humidity.
 
 Forecast:
 - Mon May 11: high 55° / low 40°
@@ -17,54 +17,93 @@ Forecast:
 
 ## Highlighted stories
 
-### Solve a murder mystery by flying people around on your giant crane in the Disco Elysium and Chinese folktale inspired The Crane Rider's Tale
-Pinned from today's briefing at James's request.
-
-Link: https://www.rockpapershotgun.com/solve-a-murder-mystery-by-flying-people-around-on-your-giant-crane-in-the-disco-elysium-and-chinese-folktale-inspired-the-crane-riders-tale
-
 ### 12 unexpected sourdough bread recipes that aren't crusty loaves: From sourdough flatbread to sourdough milk bread — and even sourdough babka.
 Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### A.I. Is Prompting an Evolution, Not Extinction, for Coders
-Interesting piece on the current state of AI in software work.
+### 1. California bill pushing to keep games playable after server shutdowns "doesn't reflect how games actually work", ESA assert [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Link: https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html
+Earlier this month, Stop Killing Games, the campaign group seeking to prevent online games being rendered unplayable when publishers shut down their servers, threw their support behind a Californian bill aiming to put a requirement that…
 
-### The Workers Letting A.I. Do Their Jobs
-In an era of agents powered by artificial intelligence, many programmers are barely programming.
+Link: https://www.rockpapershotgun.com/california-bill-pushing-to-keep-games-playable-after-server-shutdowns-doesnt-reflect-how-games-actually-work-esa-assert
 
-Link: https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html
+### 2. Students Boo Commencement Speaker After She Calls AI the ‘Next Industrial Revolution’ [10/10]
+**Source:** 404 Media  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-### 1. ‘It’s like we went bankrupt overnight’: poorest Somalis suffer as piles of worthless shillings mount up [10/10]
-**Source:** The Guardian US  
+A commencement speaker at the University of Central Florida was booed, with graduating humanities students yelling out, "AI SUCKS!"
+
+Link: https://www.404media.co/ucf-ai-commencement-speaker-booed/
+
+### 3. Former Epic tech director announces The Immense Engine, his AI-heavy "European alternative" to Unreal [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Guerilla Games co-founder and former Epic Games technical director Arjan Brussee is making what he styles a "European alternative" to US-developed videogame engines like Unreal and Unity (the latter originally conceived in Denmark, to be…
+
+Link: https://www.rockpapershotgun.com/former-epic-tech-director-announces-the-immense-engine-his-ai-heavy-european-alternative-to-unreal
+
+### 4. This week in PC games: Subnautica 2 early access, a Battlestar Galactica roguelite, and Directive 8020 disproving the old saying about space and screaming [10/10]
+**Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Banknotes are now so tattered that even buses refuse to accept them, as a dollarised economy and mobile phone payments push up the cost of essentials As US troops withdrew from Somalia in the spring of 1994, a teenaged Muse Omar Jama began…
+Our infamously workshy news editor Edwin – he only posted barely twice the number of articles last week as I did, the skiver – is off doing something that isn’t the Maw this morning.
 
-Link: https://www.theguardian.com/world/2026/may/11/poorest-somalis-hit-hardest-currency-shillings-mobile-money
+Link: https://www.rockpapershotgun.com/this-week-in-pc-games-subnautica-2-early-access-a-battlestar-galactica-roguelite-and-directive-8020-disproving-the-old-saying-about-space-and-screaming
 
-### 2. ‘Being offended isn’t the worst thing. Being poor is’: how Robby Hoffman became a controversial comedy sensation [10/10]
+### 5. ‘Truly terrifying’: Alberta voter data breach raises fears for Canada’s electoral integrity [10/10]
 **Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Debates over secession overshadowed by revelations separatist-linked group gained access to list of electors The illegal use of voter information by rightwing separatists in the province of Alberta has raised fresh fears over Canada’s…
+
+Link: https://www.theguardian.com/world/2026/may/11/alberta-voter-data-breach-separatists-referendum
+
+### 6. Sony's failed war against Internet piracy may doom other copyright lawsuits [10/10]
+**Source:** Ars Technica  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Cable firm Cox's Supreme Court win may help all tech providers, not just ISPs.
+
+Link: https://arstechnica.com/tech-policy/2026/05/sonys-failed-war-against-internet-piracy-may-doom-other-copyright-lawsuits/
+
+### 7. Making AI Education Accessible with CSTA Responsible AI Fellow Dan Jones [10/10]
+**Source:** CSTA  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Daniel Jones is a CTE and computer science teacher for a large school district in South Florida. He also advises...
+
+Link: https://csteachers.org/making-ai-education-accessible-with-csta-responsible-ai-fellow-dan-jones/
+
+### 8. Forza Horizon 6 has been leaked and cracked a week before its release [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+The full version of Playground Games' upcoming Forza Horizon 6 game has leaked online over the weekend and has already been cracked by pirates.
+
+Link: https://www.theverge.com/news/927704/forza-horizon-6-leak-cracked
+
+### 9. Wealthy Students More Likely to Get Disability Accommodations, Study Finds [10/10]
+**Source:** The 74  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-She has suddenly become one of the world’s most successful comedians, with a hit Netflix special, an Emmy-nominated role in Hacks and another opposite Steve Carell. But many of her jokes raise hackles.
+While intended as a universal benefit, educational support for disabled children is significantly segregated by class, according to a paper released in January.
 
-Link: https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix
+Link: https://www.the74million.org/article/wealthy-students-more-likely-to-get-disability-accommodations-study-finds/
 
-### 3. Greece scrambles to explain how explosive-packed drone landed in its waters [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Minister defends preparedness against novel threat after officials detonate device suspected to be from Ukraine Authorities in Greece have intensified investigations into how an explosive-packed drone ended up in waters off the west of the…
-
-Link: https://www.theguardian.com/world/2026/may/11/greece-explosive-packed-drone-lefkada-western-coast
-
-### 4. Several states considering ban on legal personhood for AI [9/10]
+### 10. Several states considering ban on legal personhood for AI [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -73,77 +112,23 @@ Is it time to consider prosecuting AI models for breaking the law? Some say it's
 
 Link: https://www.npr.org/2026/05/11/nx-s1-5798754/several-states-considering-ban-on-legal-personhood-for-ai
 
-### 5. ‘London is a case study in hope’: Sadiq Khan on 10 years as mayor [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 11. Your AI Use Is Breaking My Brain [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-London mayor talks up coalition-building, highlights his environmental record, and worries national Labour party is on the wrong track When Sadiq Khan was first elected as mayor of London 10 years ago, Barack Obama was US president, the UK…
+AI writing is impossible to avoid, is making everything sound the same, and is driving us crazy.
 
-Link: https://www.theguardian.com/politics/2026/may/11/sadiq-khan-10-years-london-mayor-labour-environment
+Link: https://www.404media.co/your-ai-use-is-breaking-my-brain/
 
-### 6. Polish ex-minister flees Hungary to the US after PM Magyar says country won’t protect people wanted elsewhere [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Zbigniew Ziobro has been accused in Poland of leading an organised criminal enterprise and abuse of power, which he denies Poland’s former justice minister Zbigniew Ziobro, wanted on several criminal charges in his home country, has fled…
-
-Link: https://www.theguardian.com/world/2026/may/11/polish-ex-minister-zbigniew-ziobro-flees-hungary-usa
-
-### 7. Martin Short opens up about ‘nightmare’ death of his daughter Katherine [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Actor and comedian speaks publicly for the first time since his 42-year-old daughter died by suicide in February Martin Short has spoken for the first time about the death of his daughter, Katherine Short, saying her death has been “a…
-
-Link: https://www.theguardian.com/tv-and-radio/2026/may/11/martin-short-daughter-katherine-death
-
-### 8. Number of Whole Books Middle and High School Students Read for School Varies Widely [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-High school students are still reading full books in English classes — but not very many on average. And teachers working in more affluent school systems seem to assign more books than their counterparts in high-poverty communities.
-
-Link: https://www.the74million.org/article/number-of-whole-books-middle-and-high-school-students-read-for-school-varies-widely/
-
-### 9. "We tried something different": Looking back on SiN Episodes: Emergence, the Valve-backed shooter that tried and failed to kick off an age of episodic gaming [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-On May 10, 2006, Ritual Entertainment released SiN Episodes: Emergence, the first of nine episodes set in the sci-fi megalopolis of Freeport City.
-
-Link: https://www.rockpapershotgun.com/we-tried-something-different-looking-back-on-sin-episodes-emergence-the-valve-backed-shooter-that-tried-and-failed-to-kick-off-an-age-of-episodic-gaming
-
-### 10. Middle East crisis live: Trump rejects Iran response to US peace proposal as Tehran warns of new attacks [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-US president calls Iranian response ‘totally unacceptable’ while Tehran says it will retaliate against any new US strikes or foreign warships in strait of Hormuz Trump calls Iran’s response to peace plan ‘totally unacceptable’ as ceasefire…
-
-Link: https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates
-
-### 11. Cricut’s $99 craft cutting machine helped me feel creative again [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-I've always been skeptical of products that claim to help you lead a more creative life. But one recently won me over.
-
-Link: https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on
-
-### 12. A chocolate laboratory in Italy will be good for chocolate eaters — and farmers [8/10]
+### 12. As ranks of uninsured grow, charity care can be hard to come by at many hospitals [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-The chocolate biz is raising the bar with a lab to assess cacao beans from around the world. (Talk about a sweet gig!) Consumers and farmers stand to benefit from the "Standard of Excellence" program.
+An investigation of hospital data and charity care programs shows most Minnesota hospitals provide little financial aid to patients and often make assistance difficult to get.
 
-Link: https://www.npr.org/2026/05/10/g-s1-120911/chocolate-certified-cacao-standards-evaluate-coffee-wine
+Link: https://www.npr.org/2026/05/11/nx-s1-5813781/charity-care-hospitals-medical-bills-uninsured
 
 ### 13. Slay the Spire 2 beta patch cuts Act 3 boss Doormaker, introduces Bestiary [7/10]
 **Source:** Eurogamer  
@@ -165,7 +150,7 @@ Link: https://www.eurogamer.net/slay-the-spire-2-beta-patch-cuts-act-3-boss-door
 
 Link: https://www.youtube.com/watch?v=4nQnhjimB4Y
 
-### Would you be able to tell your date was AI? [7/10]
+### Reciting AI Word-For-Word On a Date [7/10]
 **Creator:** WIRED  
 **Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
@@ -174,7 +159,7 @@ A regular guy used LinkJobAI to form all of his responses to a potential date, v
 
 Link: https://www.youtube.com/watch?v=z0GLdy8-wxU
 
-### Can You Tell If Your Date Is AI? [7/10]
+### 1 Human vs 3 Secret AI Catfish [7/10]
 **Creator:** WIRED  
 **Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
@@ -299,15 +284,6 @@ Link: https://www.youtube.com/watch?v=R0mvnGTpLiI
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=sg8TKU9n86w
-
-### Frame-Gen To 30FPS?! LEGO Batman Legacy of the Dark Knight Specs Cause Alarm [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=jgWiDCnefpQ
 
 ### So, What’s the Deal with Subnautica 2? | Unpacked [6/10]
 **Creator:** Second Wind  
@@ -518,7 +494,7 @@ About Netflix: Netflix is one of the world’s leading entertainment services of
 
 Link: https://www.youtube.com/watch?v=AXQSIymErrA
 
-### TEYANA TAYLOR #KevinHartRoast [10/10]
+### TEYANA TAYLOR #KevinHartRoast [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -527,7 +503,7 @@ About Netflix: Netflix is one of the world’s leading entertainment services of
 
 Link: https://www.youtube.com/watch?v=vgO9NFhablc
 
-### Draymond Green at the #KevinHartRoast [10/10]
+### Draymond Green at the #KevinHartRoast [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -536,7 +512,7 @@ Link: https://www.youtube.com/watch?v=vgO9NFhablc
 
 Link: https://www.youtube.com/watch?v=b3quwR7W9Ec
 
-### Lizzo at the #KevinHartRoast 😭 [10/10]
+### Lizzo at the #KevinHartRoast 😭 [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -545,7 +521,7 @@ About Netflix: Netflix is one of the world’s leading entertainment services of
 
 Link: https://www.youtube.com/watch?v=kifk0cBPEGs
 
-### Tom Brady showed up for revenge at The Roast of Kevin Hart. #KevinHartRoast [10/10]
+### Tom Brady showed up for revenge at The Roast of Kevin Hart. #KevinHartRoast [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -554,7 +530,7 @@ About Netflix: Netflix is one of the world’s leading entertainment services of
 
 Link: https://www.youtube.com/watch?v=A1x2HYJB9CY
 
-### Usher opens The Roast of Kevin Hart with a very special performance of "Burn" 🔥 #KevinHartRoast [10/10]
+### Usher opens The Roast of Kevin Hart with a very special performance of "Burn" 🔥 #KevinHartRoast [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -563,7 +539,7 @@ Usher opens The Roast of Kevin Hart with a very special performance of "Burn" �
 
 Link: https://www.youtube.com/watch?v=8kfudbaPMZc
 
-### KEVIN HART HAS ARRIVED #KevinHartRoast now playing on Netflix! [10/10]
+### KEVIN HART HAS ARRIVED #KevinHartRoast now playing on Netflix! [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
