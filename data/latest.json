@@ -1,11 +1,21 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-11T05:00:01.386761Z",
-  "generatedAtDisplay": "2026-05-11 01:00 AM EDT",
+  "generatedAt": "2026-05-11T09:01:47.388178Z",
+  "generatedAtDisplay": "2026-05-11 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are ‘Being offended isn’t the worst thing. Being poor is’: how Robby Hoffman became a controversial comedy sensation, Greece scrambles to explain how explosive-packed drone landed in its waters, and Polish ex-minister flees Hungary to the US after PM Magyar says country won’t protect people wanted elsewhere.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Science / computing, Education / pedagogy. The strongest items in this run are ‘It’s like we went bankrupt overnight’: poorest Somalis suffer as piles of worthless shillings mount up, ‘Being offended isn’t the worst thing. Being poor is’: how Robby Hoffman became a controversial comedy sensation, and Greece scrambles to explain how explosive-packed drone landed in its waters.",
   "mainItems": [
+    {
+      "title": "‘It’s like we went bankrupt overnight’: poorest Somalis suffer as piles of worthless shillings mount up",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/may/11/poorest-somalis-hit-hardest-currency-shillings-mobile-money",
+      "published": "2026-05-11T05:00:46+00:00",
+      "summary": "Banknotes are now so tattered that even buses refuse to accept them, as a dollarised economy and mobile phone payments push up the cost of essentials As US troops withdrew from Somalia in the spring of 1994, a teenaged Muse Omar Jama began…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "‘Being offended isn’t the worst thing. Being poor is’: how Robby Hoffman became a controversial comedy sensation",
       "source": "The Guardian US",
@@ -27,6 +37,26 @@
       "score": 10
     },
     {
+      "title": "Several states considering ban on legal personhood for AI",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/05/11/nx-s1-5798754/several-states-considering-ban-on-legal-personhood-for-ai",
+      "published": "2026-05-11T08:41:17+00:00",
+      "summary": "Is it time to consider prosecuting AI models for breaking the law? Some say it's time. Others say that would be an insult to humanity. Some states are considering laws blocking AI personhood.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 9
+    },
+    {
+      "title": "‘London is a case study in hope’: Sadiq Khan on 10 years as mayor",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/politics/2026/may/11/sadiq-khan-10-years-london-mayor-labour-environment",
+      "published": "2026-05-11T04:00:44+00:00",
+      "summary": "London mayor talks up coalition-building, highlights his environmental record, and worries national Labour party is on the wrong track When Sadiq Khan was first elected as mayor of London 10 years ago, Barack Obama was US president, the UK…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
       "title": "Polish ex-minister flees Hungary to the US after PM Magyar says country won’t protect people wanted elsewhere",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
@@ -34,7 +64,7 @@
       "published": "2026-05-11T02:51:33+00:00",
       "summary": "Zbigniew Ziobro has been accused in Poland of leading an organised criminal enterprise and abuse of power, which he denies Poland’s former justice minister Zbigniew Ziobro, wanted on several criminal charges in his home country, has fled…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Martin Short opens up about ‘nightmare’ death of his daughter Katherine",
@@ -44,36 +74,6 @@
       "published": "2026-05-11T00:17:04+00:00",
       "summary": "Actor and comedian speaks publicly for the first time since his 42-year-old daughter died by suicide in February Martin Short has spoken for the first time about the death of his daughter, Katherine Short, saying her death has been “a…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai",
-      "published": "2026-05-10T13:00:27+00:00",
-      "summary": "The problem wasn’t just the perfectly polished, yet mediocre prose. It’s what’s lost when we surrender the struggle to translate thought into words I have been teaching fiction writing at MIT since 2017.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "The Bastl Kalimba is a wild synth that thinks it’s a thumb piano",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano",
-      "published": "2026-05-10T20:42:08+00:00",
-      "summary": "Make no mistake, the Bastl Kalimba is a synthesizer, you just play it like a kalimba. Its tines don't really make much sound.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Dragon Quest creator thinks AI pals are \"not just a convenient tool, but a friend to each individual player\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/dragon-quest-creator-thinks-ai-pals-are-not-just-a-convenient-tool-but-a-friend-to-each-individual-player",
-      "published": "2026-05-10T17:28:52+00:00",
-      "summary": "The creator of the Dragon Quest series, Yuji Horii, hopes to use advances in AI to boost the camaraderie between players and their in-game companions. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -87,22 +87,22 @@
       "score": 9
     },
     {
-      "title": "The next Voting Rights Act must outlaw gerrymandering | Jamil Smith",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/10/the-next-voting-rights-act-must-outlaw-gerrymandering",
-      "published": "2026-05-10T13:00:27+00:00",
-      "summary": "The supreme court has gutted one of the strongest federal tools we had against the most effective weapon in US politics Maps can guide us home. They show us where we are, where we have been and where we might go.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "\"We tried something different\": Looking back on SiN Episodes: Emergence, the Valve-backed shooter that tried and failed to kick off an age of episodic gaming",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/we-tried-something-different-looking-back-on-sin-episodes-emergence-the-valve-backed-shooter-that-tried-and-failed-to-kick-off-an-age-of-episodic-gaming",
+      "published": "2026-05-10T13:00:00+00:00",
+      "summary": "On May 10, 2006, Ritual Entertainment released SiN Episodes: Emergence, the first of nine episodes set in the sci-fi megalopolis of Freeport City.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "Hantavirus: what happens to cruise ship passengers now and will they quarantine?",
+      "title": "Middle East crisis live: Trump rejects Iran response to US peace proposal as Tehran warns of new attacks",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/may/11/hantavirus-outbreak-cruise-ship-cases-quarantine-isolation-passengers-death-rate-spread-risk-explained",
-      "published": "2026-05-11T03:53:07+00:00",
-      "summary": "Up to 150 passengers and crew from hantavirus-hit MV Hondius start flying home aboard military and government planes from Spain’s Canary Islands The complex operation to repatriate passengers and crew of the hantavirus-hit cruise ship, the…",
+      "url": "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates",
+      "published": "2026-05-11T08:42:08+00:00",
+      "summary": "US president calls Iranian response ‘totally unacceptable’ while Tehran says it will retaliate against any new US strikes or foreign warships in strait of Hormuz Trump calls Iran’s response to peace plan ‘totally unacceptable’ as ceasefire…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 8
     },
@@ -150,6 +150,182 @@
       "verdict": "Worth watching"
     },
     {
+      "title": "Would you be able to tell your date was AI?",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=z0GLdy8-wxU",
+      "published": "2026-05-08T20:30:02+00:00",
+      "summary": "A regular guy used LinkJobAI to form all of his responses to a potential date, verbatim. See how it went by clicking the link. Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Can You Tell If Your Date Is AI?",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=rRqdOICthL0",
+      "published": "2026-05-08T18:01:41+00:00",
+      "summary": "Can artificial intelligence flirt better than humans? WIRED finds out. Four bachelors duke it out for one woman’s attention.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Gas prices and groceries: How are you affording it?",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Kh_iWkge5-o",
+      "published": "2026-05-10T13:00:37+00:00",
+      "summary": "\"We were told that it was going to be different.\" That's what one Ohio resident told NPR this week when asked about the cost of living.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Gas prices and groceries: how are you affording it? | Voter Voices",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=ThN7CkeEXXk",
+      "published": "2026-05-10T09:00:41+00:00",
+      "summary": "\"We were told that it was going to be different.\" That's what one Ohio resident told NPR this week when asked about the cost of living.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "New Orleans needs to prepare to relocate residents, new climate study says",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Ap40A58nUeE",
+      "published": "2026-05-09T15:00:16+00:00",
+      "summary": "New Orleans should plan to move its residents out of the city due to climate change.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Russian citizens are dealing with limited access to the internet due to the war in Ukraine",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=N0mL7nWQwNk",
+      "published": "2026-05-09T14:15:02+00:00",
+      "summary": "Russian citizens have endured a lot since the war in Ukraine started more than four years ago.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Robot monk leads prayers for Buddhist order in Seoul",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=U_8bMHdbwuE",
+      "published": "2026-05-09T14:00:52+00:00",
+      "summary": "In South Korea, a Buddhist order has \"ordained\" a robot monk. Nicknamed “Gabi,” meaning Buddha’s mercy, the robot monk led prayer at a temple in central Seoul this week, helping human monks chant Buddhist sutras.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "In East Jerusalem, the government uses archaeological claims to justify pushing out Palestinians",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=hndaalo7hn0",
+      "published": "2026-05-09T12:31:02+00:00",
+      "summary": "Israeli settlers continue to push Palestinians from their homes and land where many have lived for generations. In East Jerusalem, the government uses archaeological claims to justify its orders.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Hantavirus-hit cruise ship heads for port as experts say virus won't spread like COVID",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=a6NN8taueac",
+      "published": "2026-05-09T00:00:00+00:00",
+      "summary": "Spain says a cruise ship where deadly hantavirus cases have been identified is preparing to arrive in the Canary Islands. Three people have died and several others have been sickened.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Americans widely support age, term limits for Congress",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=V4115KS7Ft8",
+      "published": "2026-05-08T22:15:01+00:00",
+      "summary": "A new NPR/PBS News/Marist poll shows Americans believe many members of Congress are too old.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "What Do We Think Of The Revamped Neo Geo AES+...?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=pnM9XwYmNCc",
+      "published": "2026-05-10T16:01:22+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "John LOVES The Anbernic RG477M Handheld!",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=STAqffJMFPA",
+      "published": "2026-05-10T15:00:44+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/W8QDhsOmJ8A ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Is Intel Abandoning Its Arc Desktop Graphics Cards?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=TFPop0Cn9nI",
+      "published": "2026-05-09T16:30:10+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Microsoft's \"K2\" Plan To Fix Windows... Does It Go Far Enough?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=R0mvnGTpLiI",
+      "published": "2026-05-09T15:28:54+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Is Project Helix A Console, A PC Or Both? And Why Does It Matter?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=sg8TKU9n86w",
+      "published": "2026-05-08T16:01:37+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Frame-Gen To 30FPS?! LEGO Batman Legacy of the Dark Knight Specs Cause Alarm",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=jgWiDCnefpQ",
+      "published": "2026-05-08T13:25:38+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/CFVeOQjEokY ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
       "title": "So, What’s the Deal with Subnautica 2? | Unpacked",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -161,7 +337,371 @@
       "verdict": "Summary is enough"
     }
   ],
-  "trailers": [],
+  "trailers": [
+    {
+      "title": "dopamine 😍",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=PbgTrT7Cf4U",
+      "published": "2026-05-05T16:08:48+00:00",
+      "summary": "----- Instagram: https://www.instagram.com/onenightonlymovie TikTok: https://www.tiktok.com/@onenightonlymovie Facebook: https://www.facebook.com/onenightonlymovie X: https://www.twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "The Odyssey | Official New Trailer",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=f_bKjZeJBBI",
+      "published": "2026-05-05T04:10:02+00:00",
+      "summary": "The Odyssey - In Theaters 7 17 26 Christopher Nolan’s next film, The Odyssey, is a mythic action epic shot across the world using brand new IMAX® film technology.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Resident Evil – Official Teaser Trailer. From Zach Cregger, director of Weapons and Barbarian.",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=oBWrb8HTU44",
+      "published": "2026-04-30T13:01:34+00:00",
+      "summary": "𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. #ResidentEvil",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RESIDENT EVIL – Official Teaser Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=SJPu1spHqfk",
+      "published": "2026-04-30T12:59:32+00:00",
+      "summary": "𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tony | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=k1MVnzd2aVc",
+      "published": "2026-05-05T13:00:00+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas. TONY – In theaters this August.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "BEEF | Behind the Score with Composer Finneas O’Connell | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=7G5073lagSE",
+      "published": "2026-04-23T14:00:00+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe Listen to the soundtrack: https://a24music.lnk.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Mother Mary | Final Trailer | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=aqYHOsuje1E",
+      "published": "2026-04-21T13:03:09+00:00",
+      "summary": "SUBSCRIBE: http://bit.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "LEVITICUS - Official Trailer - Only In Theaters June 19",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=WXuK0vlFxII",
+      "published": "2026-04-22T16:00:59+00:00",
+      "summary": "Two teenage boys must escape a violent entity that takes the form of the person they desire most—each other.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "HOKUM - Final Trailer - Only In Theaters May 1",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=qU_i5e48KzQ",
+      "published": "2026-04-20T16:01:22+00:00",
+      "summary": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents’ ashes, he is consumed by tales of a witch haunting the honeymoon suite.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "FIND YOUR FRIENDS | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=pT5y7-WwD8M",
+      "published": "2026-05-06T17:31:18+00:00",
+      "summary": "Amber and her four best girlfriends take a trip to escape the L.A. bubble and cut loose in Joshua Tree for the weekend. But upon arrival, they quickly realize the locals don’t want them there.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "TALES FROM THE CRYPT | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=LSwkCskbvzQ",
+      "published": "2026-05-02T15:13:51+00:00",
+      "summary": "The crypt is open, boils and ghouls. TALES FROM THE CRYPT Season 1 drops May 1st on Shudder, with subsequent seasons dropping every Friday. #Shudder #TalesFromtheCrypt Subscribe: http://ow.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Worst Ex Ever Season 2 | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=_iKN26hplWY",
+      "published": "2026-04-21T17:22:05+00:00",
+      "summary": "Are they \"the one\" or just the one you were warned about? Worst Ex Ever returns to Netflix on May 6 for Season 2 with true, harrowing tales of monstrous relationships and unhinged exes.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Serena and Venus Williams presented Kevin Hart with a G.O.A.T. Ring #KevinHartRoast",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=FZUjpsyY1uc",
+      "published": "2026-05-11T03:47:04+00:00",
+      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Kevin Hart reignites his beef with Katt Williams. #KevinHartRoast",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Ty-L20D4GAA",
+      "published": "2026-05-11T03:07:59+00:00",
+      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Regina Hall with a...message! #kevinhartroast",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=hgU8sDVyN24",
+      "published": "2026-05-11T02:48:22+00:00",
+      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "THE ROCK HAS ENTERED THE BUILDING #KevinHartRoast",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=V0oRt3XfGdg",
+      "published": "2026-05-11T02:27:41+00:00",
+      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Kevin Hart and Katt Williams squash their beef #kevinhartroast",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=TkpDuAsdhJg",
+      "published": "2026-05-11T02:23:58+00:00",
+      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "KATT WILLIAMS ARRIVES TO THE #KevinHartRoast",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=jEGdOTJdRXg",
+      "published": "2026-05-11T02:13:43+00:00",
+      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Sheryl Underwood 🤝 John Stamos #kevinhartroast",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=AXQSIymErrA",
+      "published": "2026-05-11T02:03:17+00:00",
+      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "TEYANA TAYLOR #KevinHartRoast",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=vgO9NFhablc",
+      "published": "2026-05-11T01:51:24+00:00",
+      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Draymond Green at the #KevinHartRoast",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=b3quwR7W9Ec",
+      "published": "2026-05-11T01:26:08+00:00",
+      "summary": "\"I never have, and never will, smash Chelsea Handler. I'm Draymond Green. I don't hit threes.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Lizzo at the #KevinHartRoast 😭",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=kifk0cBPEGs",
+      "published": "2026-05-11T01:10:56+00:00",
+      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tom Brady showed up for revenge at The Roast of Kevin Hart. #KevinHartRoast",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=A1x2HYJB9CY",
+      "published": "2026-05-11T00:37:35+00:00",
+      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Usher opens The Roast of Kevin Hart with a very special performance of \"Burn\" 🔥 #KevinHartRoast",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=8kfudbaPMZc",
+      "published": "2026-05-11T00:36:42+00:00",
+      "summary": "Usher opens The Roast of Kevin Hart with a very special performance of \"Burn\" 🔥 THE ROAST OF KEVIN HART IS LIVE RIGHT NOW ON NETFLIX.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "KEVIN HART HAS ARRIVED #KevinHartRoast now playing on Netflix!",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=IPtVYq8iHng",
+      "published": "2026-05-11T00:16:18+00:00",
+      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The world of 'Money Heist' continues | Official Announcement | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=HNMP1UdjOsE",
+      "published": "2026-05-09T20:28:32+00:00",
+      "summary": "Some stories start with the perfect strike. And this one changed everything.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Roast of Kevin Hart LIVE on Netflix, Sunday, May 10. 8PM ET | 5PM PT",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=QLorWOhZCts",
+      "published": "2026-05-09T18:00:20+00:00",
+      "summary": "Prepare for pain, Kev Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Your Friends & Neighbors — The Eulogy | Season 2 Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=V7kLc3oK_zE",
+      "published": "2026-05-09T16:59:47+00:00",
+      "summary": "Coop reflects on the life of his father. Season 2 of Your Friends & Neighbors is now streaming on Apple TV https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Monarch: Legacy of Monsters — Best Monster Sightings of Season 2 | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=z-tIu-Qv5JQ",
+      "published": "2026-05-09T12:59:53+00:00",
+      "summary": "It's not a Legacy of Monsters without the monsters. From Kong, to Godzilla, to Titan X — and all the creatures in between, these are the best monster scenes from Season 2 of Monarch, now streaming on Apple TV https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "A monster menagerie. #Monarch: Legacy of Monsters — Season 2 Now Streaming",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=oGSifJMwXrY",
+      "published": "2026-05-08T19:59:50+00:00",
+      "summary": "Titan X isn't herself, but it makes no difference to Kong. It's the Skull Island showdown from \"Where We Belong.\" Monarch: Legacy of Monsters Season 2 is now streaming on Apple TV https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "For All Mankind — News From Mars | Season 5 Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=NL9Ohi8OeOc",
+      "published": "2026-05-08T16:59:59+00:00",
+      "summary": "Tensions on Mars continue to escalate as the Marsies fight for their independence. For All Mankind Season 5 is now streaming on Apple TV https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Cape Fear — Official Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=FZ3sN5E-mBU",
+      "published": "2026-05-07T12:59:51+00:00",
+      "summary": "Out of prison, and out for revenge. Cape Fear premieres June 5 on Apple TV https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Widow's Bay — The History of the Island | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=ae8_jwDPtjU",
+      "published": "2026-05-06T22:59:48+00:00",
+      "summary": "Courtesy of the Widow's Bay Historical Society. Widow's Bay is now streaming https://apple.co/_WidowsBay “Widow’s Bay” is a quaint island town 40-miles off the coast of New England. But something lurks beneath the surface.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -266,15 +806,15 @@
   ],
   "weather": {
     "location": "02726 (Somerset, MA)",
-    "desc": "Clear",
-    "temp": "38",
-    "feels": "34",
-    "wind": "5",
-    "humidity": "87",
+    "desc": "Patchy rain nearby",
+    "temp": "53",
+    "feels": "48",
+    "wind": "12",
+    "humidity": "71",
     "days": [
       {
         "label": "Mon May 11",
-        "high": "54",
+        "high": "55",
         "low": "40"
       },
       {
@@ -284,15 +824,15 @@
       },
       {
         "label": "Wed May 13",
-        "high": "53",
-        "low": "48"
+        "high": "52",
+        "low": "45"
       }
     ]
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 2,
-    "trailerCount": 0,
-    "sourceCount": 7
+    "youtubeCount": 18,
+    "trailerCount": 33,
+    "sourceCount": 20
   }
 }
