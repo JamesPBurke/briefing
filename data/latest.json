@@ -1,80 +1,110 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-12T09:00:50.639454Z",
-  "generatedAtDisplay": "2026-05-12 05:00 AM EDT",
+  "generatedAt": "2026-05-12T14:00:02.187497Z",
+  "generatedAtDisplay": "2026-05-12 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Three-day ceasefire ends with fresh wave of Russian attacks on Ukraine – Europe live, Florida Study: Cellphone Bans Promote Academic Gains … After a Year or So, and ‘I couldn’t breathe’: the sinister spread of France’s killer seaweed.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Sci-fi / horror, AI / computing. The strongest items in this run are Middle East crisis live: US war on Iran has cost around $29bn, Pentagon says, Amazon’s ultrafast 30-minute deliveries are now available in more cities, and Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools.",
   "mainItems": [
     {
-      "title": "Three-day ceasefire ends with fresh wave of Russian attacks on Ukraine – Europe live",
+      "title": "Middle East crisis live: US war on Iran has cost around $29bn, Pentagon says",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/may/12/europe-defence-ukraine-russia-hungary-latest-news-updates",
-      "published": "2026-05-12T08:41:43+00:00",
-      "summary": "At least one person killed as Moscow launches drone strikes on energy facilities and apartments Meanwhile, Ukrainian authorities have named Volodymyr Zelenskyy’s powerful former chief of staff as a suspect in a major corruption…",
+      "url": "https://www.theguardian.com/world/live/2026/may/12/middle-east-crisis-us-iran-israel-donald-trump-ceasefire-peace-plan-latest-news-updates",
+      "published": "2026-05-12T13:37:07+00:00",
+      "summary": "Pete Hegseth and other officials appear before House to face grilling on Iran war expenditure and military operations Iran has expanded its definition of the strait of Hormuz into a “vast operational area” far wider than before the war,…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Florida Study: Cellphone Bans Promote Academic Gains … After a Year or So",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/florida-study-cellphone-bans-promote-academic-gains-after-a-year-or-so/",
-      "published": "2026-05-12T04:01:00+00:00",
-      "summary": "The first study probing what happens when an entire state bans cellphones in schools finds that they do what they advertise: Phone use goes down precipitously, with daily cellphone visits falling by more than 80%.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "‘I couldn’t breathe’: the sinister spread of France’s killer seaweed",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/news/2026/may/12/i-couldnt-breathe-the-sinister-spread-of-frances-killer-seaweed",
-      "published": "2026-05-12T04:00:14+00:00",
-      "summary": "After a series of deaths on the beaches of Brittany, one bereaved family set out to prove the foul-smelling bloom was to blame When her phone rang at around 5pm on 8 September 2016, Rosy Auffray was still at work.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "OpenAI just released its answer to Claude Mythos",
+      "title": "Amazon’s ultrafast 30-minute deliveries are now available in more cities",
       "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/928473/amazons-ultrafast-30-minute-deliveries-are-now-available-in-more-cities",
+      "published": "2026-05-12T13:34:12+00:00",
+      "summary": "Following a limited test run in parts of Seattle and Philadelphia that started last December, Amazon Now is officially available to millions of Amazon shoppers across the United States.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+      "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
-      "published": "2026-05-11T23:05:51+00:00",
-      "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them.",
+      "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+      "published": "2026-05-12T13:33:05+00:00",
+      "summary": "Workers are using an internal AI tool to automate non-essential tasks.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Texas sues Netflix for advertising ‘bait and switch’ and spying",
+      "title": "Canvas owner reaches ‘agreement’ with hackers to secure stolen data",
       "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/streaming/928071/texas-netflix-lawsuit-privacy",
-      "published": "2026-05-11T21:13:16+00:00",
-      "summary": "Texas Attorney General Ken Paxton has filed a lawsuit against Netflix, accusing the company of turning its back on its promise to remain ad-free and safe for kids.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "category": "CS education / AI policy",
+      "url": "https://www.theverge.com/tech/928470/instructure-canvas-hack-shinyhunters-ransom-agreement",
+      "published": "2026-05-12T13:26:52+00:00",
+      "summary": "Instructure, the company behind the Canvas learning management platform, says it has \"reached an agreement\" with hackers that breached its systems last week to prevent stolen data from being leaked online.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "Middle East crisis live: Iran could enrich uranium to weapons grade if attacked, senior lawmaker warns",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/live/2026/may/12/middle-east-crisis-us-iran-israel-donald-trump-ceasefire-peace-plan-latest-news-updates",
-      "published": "2026-05-12T08:26:05+00:00",
-      "summary": "Ebrahim Rezaei says in social media post that the country could enrich its stocks of uranium to 90% and will review such a move in parliament Israel sent Iron Dome anti-missile batteries and personnel to operate them to the UAE to defend…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "‘Obsession’ Review – Curry Barker Terrifies with Wish Fulfillment Horror",
+      "title": "Battle Zombified Sheep in The Country in Co-op PvE game ‘Flock Off!’ [Trailer]",
       "source": "Bloody Disgusting",
       "category": "Sci-fi / horror",
-      "url": "https://bloody-disgusting.com/reviews/3898624/obsession-tiff-review-curry-barker-terrifies-with-wish-fulfillment-horror/",
-      "published": "2026-05-11T19:30:09+00:00",
-      "summary": "Sketch comedian turned horror filmmaker Curry Barker (Milk & Serial) wrings blood-curdling terror from a classic Monkey’s Paw wish fulfillment scenario in Obsession.",
+      "url": "https://bloody-disgusting.com/video-games/3950933/battle-zombified-sheep-in-the-country-in-co-op-pve-game-flock-off-trailer/",
+      "published": "2026-05-12T13:00:47+00:00",
+      "summary": "New Zealand has Black Sheep, and soon Scotland will have Flock Off!, the debut title from Bunkhouse Games and publisher Shoreline Games.",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 9
+      "score": 10
+    },
+    {
+      "title": "ICE Agents Have List of 20 Million People on Their iPhones Thanks to Palantir",
+      "source": "404 Media",
+      "category": "Democracy / press freedom",
+      "url": "https://www.404media.co/ice-agents-have-list-of-20-million-people-on-their-iphones-thanks-to-palantir/",
+      "published": "2026-05-12T13:00:38+00:00",
+      "summary": "The comments made by a senior ICE official at a trade show highlight how Palantir is increasing the speed at which ICE operates. Most people detained by ICE have no criminal conviction.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Phasmophobia by Alan Wake’ Collaboration Event On Now [Trailer]",
+      "source": "Bloody Disgusting",
+      "category": "Sci-fi / horror",
+      "url": "https://bloody-disgusting.com/video-games/3950959/phasmophobia-by-alan-wake-collaboration-event-on-now-trailer/",
+      "published": "2026-05-12T13:00:16+00:00",
+      "summary": "Kinetic Games and Remedy Entertainment have launched the Alan Wake x Phasmophobia collaboration event today, which brings iconic Alan Wake 2 locations to Phasmophobia alongside character skins, community challenges, and more as a free…",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 10
+    },
+    {
+      "title": "Trump’s sudden cut in substance testing is ‘going to kill people’, experts warn",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/12/fentanyl-test-strips-samhsa-funding",
+      "published": "2026-05-12T12:00:46+00:00",
+      "summary": "Samhsa said funding cannot be used to purchase or distribute fentanyl test strips or other drug test kits The Trump administration ’s decision to restrict use of federal funds for fentanyl test strips, in what officials described as a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Forza Horizon 6 leaking early was \"not the result of a pre-load issue\", developers Playground say, while threatening \"franchise-wide and hardware bans\"",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/forza-horizon-6-leaking-early-was-not-the-result-of-a-pre-load-issue-developers-playground-say-while-threatening-franchise-wide-and-hardware-bans",
+      "published": "2026-05-12T10:25:38+00:00",
+      "summary": "Following news of Forza Horizon 6 's PC version leaking online ahead of release , developers Playground Games have said the leak was wasn't the result of a Steam pre-load issue.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Paying in sweat! How Debbie Allen went from stardom in Fame to conquer Hollywood",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/stage/2026/may/12/how-debbie-allen-went-from-stardom-in-fame-to-conquer-hollywood",
+      "published": "2026-05-12T09:00:43+00:00",
+      "summary": "She played the world’s coolest dance teacher and has had big success as an actor, director and choreographer, winning a Golden Globe, Emmys and an Olivier. Now, she is back on Broadway.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
     },
     {
       "title": "Opinion: We Should Pay More for the Best Teachers",
@@ -84,26 +114,6 @@
       "published": "2026-05-11T18:30:00+00:00",
       "summary": "A version of this essay appeared on Matthew Yglesias’ Slow Boring, a site dedicated to offering pragmatic takes on politics and public policy.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Google stopped a zero-day hack that it says was developed with AI",
-      "source": "The Verge",
-      "category": "Security / computing",
-      "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
-      "published": "2026-05-11T16:28:15+00:00",
-      "summary": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 9
-    },
-    {
-      "title": "Directive 8020 review",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/directive-8020-review",
-      "published": "2026-05-11T14:00:00+00:00",
-      "summary": "Stop me if you've heard this one (or something like it) before: the Earth is dying, and humanity's last hope is a lone inhabitable planet, light years from home.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -117,27 +127,28 @@
       "score": 8
     },
     {
-      "title": "Your AI Use Is Breaking My Brain",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/your-ai-use-is-breaking-my-brain/",
-      "published": "2026-05-11T13:57:35+00:00",
-      "summary": "AI writing is impossible to avoid, is making everything sound the same, and is driving us crazy.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
       "title": "The clipping economy: How short-form video 'clippers' are overrunning the internet",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/05/12/nx-s1-5794670/the-clipping-economy-how-short-form-video-clippers-are-overrunning-the-internet",
-      "published": "2026-05-12T08:43:25+00:00",
+      "url": "https://www.npr.org/2026/05/12/nx-s1-5794670/influencers-creators-video-clips",
+      "published": "2026-05-12T09:00:00+00:00",
       "summary": "Short-form clips of long interviews and shows are taking over the internet. But behind the sea of social media clips are marketplaces offering freelance clippers money per view.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 7
     }
   ],
   "youtube": [
+    {
+      "title": "AI Drops Loose Game on a Date",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=0PehQikYTcM",
+      "published": "2026-05-12T13:15:02+00:00",
+      "summary": "Dating in 2026, but using AI. Can artificial intelligence do dating better than humans? WIRED finds out. Four bachelors duke it out for one woman’s attention.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Watch it"
+    },
     {
       "title": "What is the dynamic between Maria Corina Machado and President Trump?",
       "source": "NPR",
@@ -278,8 +289,8 @@
       "published": "2026-05-12T01:09:57+00:00",
       "summary": "This week on Hidden Gems KC, Jess, and Jesse play Everything Is Crab -- https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "How to Keep a Franchise Feeling Fresh | Windbreaker Podcast",
@@ -372,17 +383,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Mother Mary | Final Trailer | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=aqYHOsuje1E",
-      "published": "2026-04-21T13:03:09+00:00",
-      "summary": "SUBSCRIBE: http://bit.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "LEVITICUS - Official Trailer - Only In Theaters June 19",
       "source": "NEON",
       "category": "Film / trailer",
@@ -423,6 +423,28 @@
       "published": "2026-04-21T17:22:05+00:00",
       "summary": "Are they \"the one\" or just the one you were warned about? Worst Ex Ever returns to Netflix on May 6 for Season 2 with true, harrowing tales of monstrous relationships and unhinged exes.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "We flipped the switch and the world started watching. This is the Netflix Effect.",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=GDmP5tobo9A",
+      "published": "2026-05-12T10:00:32+00:00",
+      "summary": "We flipped the switch and the world started watching. This is the Netflix Effect. Discover more at https://www.thenetflixeffect.com Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Netflix Effect | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=qCaCxy0HrBA",
+      "published": "2026-05-12T10:00:00+00:00",
+      "summary": "Ten years ago, Netflix went from entertaining audiences in about 60 countries to more than 190 in a single day.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
     },
@@ -553,39 +575,6 @@
       "category": "TV / trailer",
       "url": "https://www.youtube.com/watch?v=vgO9NFhablc",
       "published": "2026-05-11T01:51:24+00:00",
-      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Draymond Green at the #KevinHartRoast",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=b3quwR7W9Ec",
-      "published": "2026-05-11T01:26:08+00:00",
-      "summary": "\"I never have, and never will, smash Chelsea Handler. I'm Draymond Green. I don't hit threes.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Lizzo at the #KevinHartRoast 😭",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=kifk0cBPEGs",
-      "published": "2026-05-11T01:10:56+00:00",
-      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tom Brady showed up for revenge at The Roast of Kevin Hart. #KevinHartRoast",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=A1x2HYJB9CY",
-      "published": "2026-05-11T00:37:35+00:00",
       "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
@@ -729,36 +718,36 @@
     }
   ],
   "weather": {
-    "location": "02726 (Somerset, MA)",
-    "desc": "Overcast",
-    "temp": "53",
-    "feels": "48",
-    "wind": "13",
-    "humidity": "71",
-    "fetchedAt": "2026-05-12T09:00:59.067945Z",
-    "fetchedAtDisplay": "2026-05-12 05:00 AM EDT",
+    "location": "Somerset, MA",
+    "desc": "Fair",
+    "temp": "54",
+    "feels": "52",
+    "wind": "7",
+    "humidity": "45",
+    "fetchedAt": "2026-05-12T14:00:13.821867Z",
+    "fetchedAtDisplay": "2026-05-12 10:00 AM EDT",
     "days": [
       {
         "label": "Tue May 12",
-        "high": "55",
-        "low": "43"
-      },
-      {
-        "label": "Wed May 13",
-        "high": "53",
+        "high": "64",
         "low": "47"
       },
       {
+        "label": "Wed May 13",
+        "high": "62",
+        "low": "50"
+      },
+      {
         "label": "Thu May 14",
-        "high": "53",
-        "low": "46"
+        "high": "64",
+        "low": "49"
       }
     ]
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 15,
-    "trailerCount": 31,
-    "sourceCount": 19
+    "youtubeCount": 16,
+    "trailerCount": 29,
+    "sourceCount": 21
   }
 }

@@ -1,20 +1,20 @@
 # James Daily Briefing
 
-Generated: 2026-05-12T09:00:50.639454Z
+Generated: 2026-05-12T14:00:02.187497Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Three-day ceasefire ends with fresh wave of Russian attacks on Ukraine – Europe live, Florida Study: Cellphone Bans Promote Academic Gains … After a Year or So, and ‘I couldn’t breathe’: the sinister spread of France’s killer seaweed.
+Today's sweep leans toward Democracy / press freedom, Sci-fi / horror, AI / computing. The strongest items in this run are Middle East crisis live: US war on Iran has cost around $29bn, Pentagon says, Amazon’s ultrafast 30-minute deliveries are now available in more cities, and Amazon employees are "tokenmaxxing" due to pressure to use AI tools.
 
 ## Briefing
 
 ## Weather (02726)
 
-02726 (Somerset, MA): Overcast, 53°F (feels like 48°F), 13 mph wind, 71% humidity.
-Weather fetched at: 2026-05-12 05:00 AM EDT
+Somerset, MA: Fair, 54°F (feels like 52°F), 7 mph wind, 45% humidity.
+Weather fetched at: 2026-05-12 10:00 AM EDT
 
 Forecast:
-- Tue May 12: high 55° / low 43°
-- Wed May 13: high 53° / low 47°
-- Thu May 14: high 53° / low 46°
+- Tue May 12: high 64° / low 47°
+- Wed May 13: high 62° / low 50°
+- Thu May 14: high 64° / low 49°
 
 ## Highlighted stories
 
@@ -23,70 +23,97 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. Three-day ceasefire ends with fresh wave of Russian attacks on Ukraine – Europe live [10/10]
+### 1. Middle East crisis live: US war on Iran has cost around $29bn, Pentagon says [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-At least one person killed as Moscow launches drone strikes on energy facilities and apartments Meanwhile, Ukrainian authorities have named Volodymyr Zelenskyy’s powerful former chief of staff as a suspect in a major corruption…
-
-Link: https://www.theguardian.com/world/live/2026/may/12/europe-defence-ukraine-russia-hungary-latest-news-updates
-
-### 2. Florida Study: Cellphone Bans Promote Academic Gains … After a Year or So [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-The first study probing what happens when an entire state bans cellphones in schools finds that they do what they advertise: Phone use goes down precipitously, with daily cellphone visits falling by more than 80%.
-
-Link: https://www.the74million.org/article/florida-study-cellphone-bans-promote-academic-gains-after-a-year-or-so/
-
-### 3. ‘I couldn’t breathe’: the sinister spread of France’s killer seaweed [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-After a series of deaths on the beaches of Brittany, one bereaved family set out to prove the foul-smelling bloom was to blame When her phone rang at around 5pm on 8 September 2016, Rosy Auffray was still at work.
-
-Link: https://www.theguardian.com/news/2026/may/12/i-couldnt-breathe-the-sinister-spread-of-frances-killer-seaweed
-
-### 4. OpenAI just released its answer to Claude Mythos [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai
-
-### 5. Texas sues Netflix for advertising ‘bait and switch’ and spying [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Texas Attorney General Ken Paxton has filed a lawsuit against Netflix, accusing the company of turning its back on its promise to remain ad-free and safe for kids.
-
-Link: https://www.theverge.com/streaming/928071/texas-netflix-lawsuit-privacy
-
-### 6. Middle East crisis live: Iran could enrich uranium to weapons grade if attacked, senior lawmaker warns [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Ebrahim Rezaei says in social media post that the country could enrich its stocks of uranium to 90% and will review such a move in parliament Israel sent Iron Dome anti-missile batteries and personnel to operate them to the UAE to defend…
+Pete Hegseth and other officials appear before House to face grilling on Iran war expenditure and military operations Iran has expanded its definition of the strait of Hormuz into a “vast operational area” far wider than before the war,…
 
 Link: https://www.theguardian.com/world/live/2026/may/12/middle-east-crisis-us-iran-israel-donald-trump-ceasefire-peace-plan-latest-news-updates
 
-### 7. ‘Obsession’ Review – Curry Barker Terrifies with Wish Fulfillment Horror [9/10]
+### 2. Amazon’s ultrafast 30-minute deliveries are now available in more cities [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Following a limited test run in parts of Seattle and Philadelphia that started last December, Amazon Now is officially available to millions of Amazon shoppers across the United States.
+
+Link: https://www.theverge.com/tech/928473/amazons-ultrafast-30-minute-deliveries-are-now-available-in-more-cities
+
+### 3. Amazon employees are "tokenmaxxing" due to pressure to use AI tools [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Workers are using an internal AI tool to automate non-essential tasks.
+
+Link: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/
+
+### 4. Canvas owner reaches ‘agreement’ with hackers to secure stolen data [10/10]
+**Source:** The Verge  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Instructure, the company behind the Canvas learning management platform, says it has "reached an agreement" with hackers that breached its systems last week to prevent stolen data from being leaked online.
+
+Link: https://www.theverge.com/tech/928470/instructure-canvas-hack-shinyhunters-ransom-agreement
+
+### 5. Battle Zombified Sheep in The Country in Co-op PvE game ‘Flock Off!’ [Trailer] [10/10]
 **Source:** Bloody Disgusting  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Sketch comedian turned horror filmmaker Curry Barker (Milk & Serial) wrings blood-curdling terror from a classic Monkey’s Paw wish fulfillment scenario in Obsession.
+New Zealand has Black Sheep, and soon Scotland will have Flock Off!, the debut title from Bunkhouse Games and publisher Shoreline Games.
 
-Link: https://bloody-disgusting.com/reviews/3898624/obsession-tiff-review-curry-barker-terrifies-with-wish-fulfillment-horror/
+Link: https://bloody-disgusting.com/video-games/3950933/battle-zombified-sheep-in-the-country-in-co-op-pve-game-flock-off-trailer/
 
-### 8. Opinion: We Should Pay More for the Best Teachers [9/10]
+### 6. ICE Agents Have List of 20 Million People on Their iPhones Thanks to Palantir [10/10]
+**Source:** 404 Media  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The comments made by a senior ICE official at a trade show highlight how Palantir is increasing the speed at which ICE operates. Most people detained by ICE have no criminal conviction.
+
+Link: https://www.404media.co/ice-agents-have-list-of-20-million-people-on-their-iphones-thanks-to-palantir/
+
+### 7. ‘Phasmophobia by Alan Wake’ Collaboration Event On Now [Trailer] [10/10]
+**Source:** Bloody Disgusting  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Kinetic Games and Remedy Entertainment have launched the Alan Wake x Phasmophobia collaboration event today, which brings iconic Alan Wake 2 locations to Phasmophobia alongside character skins, community challenges, and more as a free…
+
+Link: https://bloody-disgusting.com/video-games/3950959/phasmophobia-by-alan-wake-collaboration-event-on-now-trailer/
+
+### 8. Trump’s sudden cut in substance testing is ‘going to kill people’, experts warn [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Samhsa said funding cannot be used to purchase or distribute fentanyl test strips or other drug test kits The Trump administration ’s decision to restrict use of federal funds for fentanyl test strips, in what officials described as a…
+
+Link: https://www.theguardian.com/us-news/2026/may/12/fentanyl-test-strips-samhsa-funding
+
+### 9. Forza Horizon 6 leaking early was "not the result of a pre-load issue", developers Playground say, while threatening "franchise-wide and hardware bans" [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Following news of Forza Horizon 6 's PC version leaking online ahead of release , developers Playground Games have said the leak was wasn't the result of a Steam pre-load issue.
+
+Link: https://www.rockpapershotgun.com/forza-horizon-6-leaking-early-was-not-the-result-of-a-pre-load-issue-developers-playground-say-while-threatening-franchise-wide-and-hardware-bans
+
+### 10. Paying in sweat! How Debbie Allen went from stardom in Fame to conquer Hollywood [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+She played the world’s coolest dance teacher and has had big success as an actor, director and choreographer, winning a Golden Globe, Emmys and an Olivier. Now, she is back on Broadway.
+
+Link: https://www.theguardian.com/stage/2026/may/12/how-debbie-allen-went-from-stardom-in-fame-to-conquer-hollywood
+
+### 11. Opinion: We Should Pay More for the Best Teachers [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -95,25 +122,7 @@ A version of this essay appeared on Matthew Yglesias’ Slow Boring, a site dedi
 
 Link: https://www.the74million.org/article/matthew-yglesias-we-should-pay-more-for-the-best-teachers/
 
-### 9. Google stopped a zero-day hack that it says was developed with AI [9/10]
-**Source:** The Verge  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI.
-
-Link: https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped
-
-### 10. Directive 8020 review [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Stop me if you've heard this one (or something like it) before: the Earth is dying, and humanity's last hope is a lone inhabitable planet, light years from home.
-
-Link: https://www.eurogamer.net/directive-8020-review
-
-### 11. Health experts say cruise ship hantavirus outbreak isn't a risk to public at large [8/10]
+### 12. Health experts say cruise ship hantavirus outbreak isn't a risk to public at large [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -122,15 +131,6 @@ Passengers who were potentially exposed to hantavirus on a cruise are back home 
 
 Link: https://www.npr.org/2026/05/12/nx-s1-5818454/health-experts-say-cruise-ship-hantavirus-outbreak-isnt-a-risk-to-public-at-large
 
-### 12. Your AI Use Is Breaking My Brain [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-AI writing is impossible to avoid, is making everything sound the same, and is driving us crazy.
-
-Link: https://www.404media.co/your-ai-use-is-breaking-my-brain/
-
 ### 13. The clipping economy: How short-form video 'clippers' are overrunning the internet [7/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
@@ -138,9 +138,18 @@ Link: https://www.404media.co/your-ai-use-is-breaking-my-brain/
 
 Short-form clips of long interviews and shows are taking over the internet. But behind the sea of social media clips are marketplaces offering freelance clippers money per view.
 
-Link: https://www.npr.org/2026/05/12/nx-s1-5794670/the-clipping-economy-how-short-form-video-clippers-are-overrunning-the-internet
+Link: https://www.npr.org/2026/05/12/nx-s1-5794670/influencers-creators-video-clips
 
 ## YouTube
+
+### AI Drops Loose Game on a Date [10/10]
+**Creator:** WIRED  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Dating in 2026, but using AI. Can artificial intelligence do dating better than humans? WIRED finds out. Four bachelors duke it out for one woman’s attention.
+
+Link: https://www.youtube.com/watch?v=0PehQikYTcM
 
 ### What is the dynamic between Maria Corina Machado and President Trump? [9/10]
 **Creator:** NPR  
@@ -250,9 +259,9 @@ Link: https://www.youtube.com/watch?v=TFPop0Cn9nI
 
 Link: https://www.youtube.com/watch?v=R0mvnGTpLiI
 
-### Learning About Evolution in Everything Is Crab | Hot Monday Energy [7/10]
+### Learning About Evolution in Everything Is Crab | Hot Monday Energy [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Hidden Gems KC, Jess, and Jesse play Everything Is Crab -- https://store.steampowered.
@@ -360,15 +369,6 @@ SUBSCRIBE: http://bit.ly/A24subscribe Listen to the soundtrack: https://a24music
 
 Link: https://www.youtube.com/watch?v=7G5073lagSE
 
-### Mother Mary | Final Trailer | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.
-
-Link: https://www.youtube.com/watch?v=aqYHOsuje1E
-
 ### LEVITICUS - Official Trailer - Only In Theaters June 19 [8/10]
 **Source:** NEON  
 **Verdict:** Looks promising  
@@ -404,6 +404,24 @@ Link: https://www.youtube.com/watch?v=LSwkCskbvzQ
 Are they "the one" or just the one you were warned about? Worst Ex Ever returns to Netflix on May 6 for Season 2 with true, harrowing tales of monstrous relationships and unhinged exes.
 
 Link: https://www.youtube.com/watch?v=_iKN26hplWY
+
+### We flipped the switch and the world started watching. This is the Netflix Effect. [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+We flipped the switch and the world started watching. This is the Netflix Effect. Discover more at https://www.thenetflixeffect.com Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=GDmP5tobo9A
+
+### The Netflix Effect | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Ten years ago, Netflix went from entertaining audiences in about 60 countries to more than 190 in a single day.
+
+Link: https://www.youtube.com/watch?v=qCaCxy0HrBA
 
 ### Little House on the Prairie | Official Teaser #2 | Netflix [9/10]
 **Source:** Netflix  
@@ -512,33 +530,6 @@ Link: https://www.youtube.com/watch?v=AXQSIymErrA
 About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
 
 Link: https://www.youtube.com/watch?v=vgO9NFhablc
-
-### Draymond Green at the #KevinHartRoast [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-"I never have, and never will, smash Chelsea Handler. I'm Draymond Green. I don't hit threes.
-
-Link: https://www.youtube.com/watch?v=b3quwR7W9Ec
-
-### Lizzo at the #KevinHartRoast 😭 [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
-
-Link: https://www.youtube.com/watch?v=kifk0cBPEGs
-
-### Tom Brady showed up for revenge at The Roast of Kevin Hart. #KevinHartRoast [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
-
-Link: https://www.youtube.com/watch?v=A1x2HYJB9CY
 
 ### Your Friends & Neighbors — The Eulogy | Season 2 Scene | Apple TV [10/10]
 **Source:** Apple TV  
