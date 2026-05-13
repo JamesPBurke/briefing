@@ -1,69 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-13T09:03:09.226940Z",
-  "generatedAtDisplay": "2026-05-13 05:03 AM EDT",
+  "generatedAt": "2026-05-13T14:00:02.239051Z",
+  "generatedAtDisplay": "2026-05-13 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Amazon’s Panos Panay addresses new Fire phone rumors, From mountain photography to ice-climbing – try it all at this summer festival in the French Alps, and Getting children to eat their vegetables starts in the womb, researchers suggest.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are Donald Trump greeted in Beijing with red carpet and fanfare ahead of high-stakes summit with Xi Jinping – live updates, Meta profited from illegal scam ads, California county lawsuit alleges, and Nintendo says it has more Switch 2 games in store for 2026.",
   "mainItems": [
     {
-      "title": "Amazon’s Panos Panay addresses new Fire phone rumors",
+      "title": "Donald Trump greeted in Beijing with red carpet and fanfare ahead of high-stakes summit with Xi Jinping – live updates",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/13/donald-trump-china-xi-jinping-beijing-iran-war-us-politics-latest-news-updates",
+      "published": "2026-05-13T13:45:05+00:00",
+      "summary": "Before departing president said he ‘doesn’t think about Americans’ financial situation’ when questioned on financial impact of the Iran war Scepticism and tight security as Beijing braces for Trump visit Sign up for the Breaking News US…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Meta profited from illegal scam ads, California county lawsuit alleges",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/technology/2026/may/13/meta-scam-ads-california-lawsuit",
+      "published": "2026-05-13T13:34:06+00:00",
+      "summary": "Santa Clara county claims Meta Platforms violated the state’s false advertising and unfair business practices laws California’s Santa Clara county has sued Meta Platforms, alleging it has profited from Facebook and Instagram ads promoting…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Nintendo says it has more Switch 2 games in store for 2026",
       "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/929412/amazon-panos-panay-interview-phone-transformer",
-      "published": "2026-05-13T08:36:42+00:00",
-      "summary": "Amazon's head of devices and services, Panos Panay, says that the company is \"not necessarily\" planning to release a smartphone, but has stopped short of denying it outright.",
+      "url": "https://www.theverge.com/games/929527/nintendo-switch-2-release-schedule-2026",
+      "published": "2026-05-13T13:25:02+00:00",
+      "summary": "With the Switch 2 getting a price hike in September, this holiday season will be pivotal for Nintendo.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "From mountain photography to ice-climbing – try it all at this summer festival in the French Alps",
-      "source": "The Guardian US",
+      "title": "Alexa is moving into Amazon.com",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
+      "published": "2026-05-13T13:04:46+00:00",
+      "summary": "Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Michigan Pipeline Turns Classroom Paraprofessionals Into Teachers",
+      "source": "The 74",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/travel/2026/may/13/ice-climbing-photography-festival-french-alps-arcteryx-alpine-academy",
-      "published": "2026-05-13T06:00:21+00:00",
-      "summary": "Improve your mountain skills by day and party by night at the Arc’teryx Alpine Academy in Chamonix After a day spent hiking across the Col d’Entrèves glacier, a sugar hit is required.",
+      "url": "https://www.the74million.org/article/michigan-pipeline-turns-classroom-paraprofessionals-into-teachers/",
+      "published": "2026-05-13T12:30:00+00:00",
+      "summary": "Seven years ago, Donille Cabanaw could not shake the feeling she needed to pivot from the 12 hour days she was working for the U.S. Postal Service when it began to interfere with her daughter starting school.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Getting children to eat their vegetables starts in the womb, researchers suggest",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/society/2026/may/13/children-eat-vegetables-starts-in-womb-researchers-suggest",
-      "published": "2026-05-13T04:00:21+00:00",
-      "summary": "Rather than bribery, or hiding carrots under ketchup, the key may be to expose foetuses to healthy flavours It is an age-old battle with small children that most parents will recognise: please, please, eat your vegetables.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Mixtape review",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/mixtape-review",
+      "published": "2026-05-13T11:45:27+00:00",
+      "summary": "Maybe it's because I've just played through several hours of teen rebellion, but I feel like breaking some rules.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Smuggled in syringes: how Nairobi became a nexus for the black market in giant harvester ants",
+      "title": "Beware what you tell your AI chatbot. It’s not a shrink – it’s a snitch | Arwa Mahdawi",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/may/13/smuggled-illegal-global-trade-giant-harvester-ants-kenya-asia-europe",
-      "published": "2026-05-13T02:00:16+00:00",
-      "summary": "Court cases in Kenya point to a growing market for ants as exotic pets in Asia and Europe that has implications for conservation and biosecurity In the biblical text Book of Proverbs, King Solomon describes the harvester ant as a model of…",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/13/beware-what-you-tell-your-ai-chatbot-its-not-a-shrink-its-a-snitch",
+      "published": "2026-05-13T10:00:07+00:00",
+      "summary": "In a case of ‘oh dear diary’, the OpenAI president Greg Brockman is having to read extracts from his musings about Elon Musk in court.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Florida students boo graduation speaker who called AI ‘next Industrial Revolution’",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/technology/2026/may/12/florida-students-boo-graduation-speaker-ai",
-      "published": "2026-05-12T20:30:15+00:00",
-      "summary": "Real estate executive got an unexpected earful when she spoke of ‘living in a time of profound change’ Though college graduations usually consist of a speaker giving advice to students, one recent ceremony featured students giving the…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
-      "published": "2026-05-12T18:07:26+00:00",
-      "summary": "OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
@@ -97,24 +107,24 @@
       "score": 9
     },
     {
-      "title": "World Models: 10 Things That Matter in AI Right Now",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
-      "published": "2026-05-12T16:22:15+00:00",
-      "summary": "World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
+      "title": "Podcast: The Chinese Deepfake Software Powering Scams",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/podcast-the-chinese-deepfake-software-powering-scams/",
+      "published": "2026-05-13T13:10:19+00:00",
+      "summary": "We got Haotian AI, the Chinese-language deepfake software powering scams. We also talk about a man finding $1 million of Yu-Gi-Oh cards, and how the AI hard drive shortage is impacting internet archiving.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
-      "title": "Hark! Sega's mysterious and vague \"Super Game\" is dead, though its Jet Set Radio and Crazy Taxi reboots live on",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/hark-segas-mysterious-and-vague-super-game-is-dead-though-its-jet-set-radio-and-crazy-taxi-reboots-live-on",
-      "published": "2026-05-12T16:12:32+00:00",
-      "summary": "Oh now! Say it ain't so! Sega's mysterious and vague \"Super Game\" is… dead? I'm afraid so, kiddo, so bust out the shovel.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
+      "title": "Read the First Two Chapters of Death in Verse by Julie Lew",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/cover-reveal-and-excerpt-death-in-verse-by-julie-lew/",
+      "published": "2026-05-13T13:30:00+00:00",
+      "summary": "A dark academia mystery arriving fall 2026 The post Read the First Two Chapters of Death in Verse by Julie Lew appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 7
     },
     {
       "title": "French hantavirus patient is critically ill as outbreak grows to 11",
@@ -124,16 +134,6 @@
       "published": "2026-05-13T07:31:20+00:00",
       "summary": "A French woman infected in the deadly hantavirus outbreak on a cruise ship is critically ill and being treated with an artificial lung. The outbreak has now reached 11 total reported cases, 9 of which have been confirmed.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
-    },
-    {
-      "title": "Nat Cassidy’s Rest Stop Optioned for Feature Adaptation",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/nat-cassidy-rest-stop-adaptation/",
-      "published": "2026-05-12T18:26:09+00:00",
-      "summary": "The novella centers on a gas station bathroom and the horrors that lurk within and outside it The post Nat Cassidy’s Rest Stop Optioned for Feature Adaptation appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 7
     }
   ],
@@ -238,6 +238,17 @@
       "verdict": "Worth watching"
     },
     {
+      "title": "Does The Steam Controller Scream When You Drop It?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=Y1IFLt7PfhQ",
+      "published": "2026-05-13T12:02:38+00:00",
+      "summary": "We put it to the test. Read more: https://www.digitalfoundry.net/news/2026/05/yup-the-steam-controller-wilhelm-screams-if-you-drop-it",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Nintendo Increases Switch 2 Prices - It's Bad But Could Have Been Worse",
       "source": "Digital Foundry",
       "category": "Games / hardware",
@@ -300,8 +311,8 @@
       "published": "2026-05-12T22:15:34+00:00",
       "summary": "Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Pragmata’s Lunar NYC Is 2026’s Best Level (So Far)",
@@ -741,13 +752,13 @@
   ],
   "weather": {
     "location": "Somerset, MA",
-    "desc": "Fair",
-    "temp": "45",
-    "feels": "42",
-    "wind": "6",
-    "humidity": "80",
-    "fetchedAt": "2026-05-13T09:03:12.700343Z",
-    "fetchedAtDisplay": "2026-05-13 05:03 AM EDT",
+    "desc": "Overcast",
+    "temp": "53",
+    "feels": "50",
+    "wind": "10",
+    "humidity": "64",
+    "fetchedAt": "2026-05-13T14:00:13.145174Z",
+    "fetchedAtDisplay": "2026-05-13 10:00 AM EDT",
     "days": [
       {
         "label": "Wed May 13",
@@ -768,8 +779,8 @@
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 19,
+    "youtubeCount": 20,
     "trailerCount": 28,
-    "sourceCount": 20
+    "sourceCount": 21
   }
 }

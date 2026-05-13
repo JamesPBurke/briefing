@@ -1,15 +1,15 @@
 # James Daily Briefing
 
-Generated: 2026-05-13T09:03:09.226940Z
+Generated: 2026-05-13T14:00:02.239051Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Amazon’s Panos Panay addresses new Fire phone rumors, From mountain photography to ice-climbing – try it all at this summer festival in the French Alps, and Getting children to eat their vegetables starts in the womb, researchers suggest.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are Donald Trump greeted in Beijing with red carpet and fanfare ahead of high-stakes summit with Xi Jinping – live updates, Meta profited from illegal scam ads, California county lawsuit alleges, and Nintendo says it has more Switch 2 games in store for 2026.
 
 ## Briefing
 
 ## Weather (02726)
 
-Somerset, MA: Fair, 45°F (feels like 42°F), 6 mph wind, 80% humidity.
-Weather fetched at: 2026-05-13 05:03 AM EDT
+Somerset, MA: Overcast, 53°F (feels like 50°F), 10 mph wind, 64% humidity.
+Weather fetched at: 2026-05-13 10:00 AM EDT
 
 Forecast:
 - Wed May 13: high 64° / low 51°
@@ -23,61 +23,70 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. Amazon’s Panos Panay addresses new Fire phone rumors [10/10]
+### 1. Donald Trump greeted in Beijing with red carpet and fanfare ahead of high-stakes summit with Xi Jinping – live updates [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Before departing president said he ‘doesn’t think about Americans’ financial situation’ when questioned on financial impact of the Iran war Scepticism and tight security as Beijing braces for Trump visit Sign up for the Breaking News US…
+
+Link: https://www.theguardian.com/us-news/live/2026/may/13/donald-trump-china-xi-jinping-beijing-iran-war-us-politics-latest-news-updates
+
+### 2. Meta profited from illegal scam ads, California county lawsuit alleges [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Santa Clara county claims Meta Platforms violated the state’s false advertising and unfair business practices laws California’s Santa Clara county has sued Meta Platforms, alleging it has profited from Facebook and Instagram ads promoting…
+
+Link: https://www.theguardian.com/technology/2026/may/13/meta-scam-ads-california-lawsuit
+
+### 3. Nintendo says it has more Switch 2 games in store for 2026 [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Amazon's head of devices and services, Panos Panay, says that the company is "not necessarily" planning to release a smartphone, but has stopped short of denying it outright.
+With the Switch 2 getting a price hike in September, this holiday season will be pivotal for Nintendo.
 
-Link: https://www.theverge.com/tech/929412/amazon-panos-panay-interview-phone-transformer
+Link: https://www.theverge.com/games/929527/nintendo-switch-2-release-schedule-2026
 
-### 2. From mountain photography to ice-climbing – try it all at this summer festival in the French Alps [10/10]
-**Source:** The Guardian US  
+### 4. Alexa is moving into Amazon.com [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus
+
+### 5. Michigan Pipeline Turns Classroom Paraprofessionals Into Teachers [10/10]
+**Source:** The 74  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Improve your mountain skills by day and party by night at the Arc’teryx Alpine Academy in Chamonix After a day spent hiking across the Col d’Entrèves glacier, a sugar hit is required.
+Seven years ago, Donille Cabanaw could not shake the feeling she needed to pivot from the 12 hour days she was working for the U.S. Postal Service when it began to interfere with her daughter starting school.
 
-Link: https://www.theguardian.com/travel/2026/may/13/ice-climbing-photography-festival-french-alps-arcteryx-alpine-academy
+Link: https://www.the74million.org/article/michigan-pipeline-turns-classroom-paraprofessionals-into-teachers/
 
-### 3. Getting children to eat their vegetables starts in the womb, researchers suggest [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 6. Mixtape review [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Rather than bribery, or hiding carrots under ketchup, the key may be to expose foetuses to healthy flavours It is an age-old battle with small children that most parents will recognise: please, please, eat your vegetables.
+Maybe it's because I've just played through several hours of teen rebellion, but I feel like breaking some rules.
 
-Link: https://www.theguardian.com/society/2026/may/13/children-eat-vegetables-starts-in-womb-researchers-suggest
+Link: https://www.eurogamer.net/mixtape-review
 
-### 4. Smuggled in syringes: how Nairobi became a nexus for the black market in giant harvester ants [10/10]
+### 7. Beware what you tell your AI chatbot. It’s not a shrink – it’s a snitch | Arwa Mahdawi [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Court cases in Kenya point to a growing market for ants as exotic pets in Asia and Europe that has implications for conservation and biosecurity In the biblical text Book of Proverbs, King Solomon describes the harvester ant as a model of…
+In a case of ‘oh dear diary’, the OpenAI president Greg Brockman is having to read extracts from his musings about Elon Musk in court.
 
-Link: https://www.theguardian.com/environment/ng-interactive/2026/may/13/smuggled-illegal-global-trade-giant-harvester-ants-kenya-asia-europe
+Link: https://www.theguardian.com/commentisfree/2026/may/13/beware-what-you-tell-your-ai-chatbot-its-not-a-shrink-its-a-snitch
 
-### 5. Florida students boo graduation speaker who called AI ‘next Industrial Revolution’ [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Real estate executive got an unexpected earful when she spoke of ‘living in a time of profound change’ Though college graduations usually consist of a speaker giving advice to students, one recent ceremony featured students giving the…
-
-Link: https://www.theguardian.com/technology/2026/may/12/florida-students-boo-graduation-speaker-ai
-
-### 6. Sam Altman says Elon Musk’s mind games were damaging OpenAI [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-OpenAI CEO Sam Altman says Elon Musk did "huge damage" to the culture of the AI startup.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage
-
-### 7. Kids' test scores began declining way before COVID. These schools are making gains [9/10]
+### 8. Kids' test scores began declining way before COVID. These schools are making gains [9/10]
 **Source:** NPR Education  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -86,7 +95,7 @@ Remember those devastating learning losses that began during the pandemic? Turns
 
 Link: https://www.npr.org/2026/05/13/nx-s1-5812483/reading-math-scores-data
 
-### 8. OpenAI's Sam Altman takes the stand to fend off Elon Musk's accusations he 'stole a charity' [9/10]
+### 9. OpenAI's Sam Altman takes the stand to fend off Elon Musk's accusations he 'stole a charity' [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -95,7 +104,7 @@ The trial pits two of tech's most famous personalities against each other and co
 
 Link: https://www.npr.org/2026/05/12/nx-s1-5811730/openai-sam-altman-testimony-elon-musk-trial
 
-### 9. Microsoft will lean on your CPU to speed up Windows 11's apps and animations [9/10]
+### 10. Microsoft will lean on your CPU to speed up Windows 11's apps and animations [9/10]
 **Source:** Ars Technica  
 **Category:** Linux / anti-obsolescence  
 **Why it matters:** Relevant to humane computing, open-source practice, and repairability.
@@ -104,25 +113,25 @@ Link: https://www.npr.org/2026/05/12/nx-s1-5811730/openai-sam-altman-testimony-e
 
 Link: https://arstechnica.com/gadgets/2026/05/speed-boosting-low-latency-profile-is-one-of-the-improvements-coming-to-windows-11/
 
-### 10. World Models: 10 Things That Matter in AI Right Now [9/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 11. Podcast: The Chinese Deepfake Software Powering Scams [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention.
+We got Haotian AI, the Chinese-language deepfake software powering scams. We also talk about a man finding $1 million of Yu-Gi-Oh cards, and how the AI hard drive shortage is impacting internet archiving.
 
-Link: https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/
+Link: https://www.404media.co/podcast-the-chinese-deepfake-software-powering-scams/
 
-### 11. Hark! Sega's mysterious and vague "Super Game" is dead, though its Jet Set Radio and Crazy Taxi reboots live on [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 12. Read the First Two Chapters of Death in Verse by Julie Lew [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Oh now! Say it ain't so! Sega's mysterious and vague "Super Game" is… dead? I'm afraid so, kiddo, so bust out the shovel.
+A dark academia mystery arriving fall 2026 The post Read the First Two Chapters of Death in Verse by Julie Lew appeared first on Reactor .
 
-Link: https://www.rockpapershotgun.com/hark-segas-mysterious-and-vague-super-game-is-dead-though-its-jet-set-radio-and-crazy-taxi-reboots-live-on
+Link: https://reactormag.com/cover-reveal-and-excerpt-death-in-verse-by-julie-lew/
 
-### 12. French hantavirus patient is critically ill as outbreak grows to 11 [7/10]
+### 13. French hantavirus patient is critically ill as outbreak grows to 11 [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -130,15 +139,6 @@ Link: https://www.rockpapershotgun.com/hark-segas-mysterious-and-vague-super-gam
 A French woman infected in the deadly hantavirus outbreak on a cruise ship is critically ill and being treated with an artificial lung. The outbreak has now reached 11 total reported cases, 9 of which have been confirmed.
 
 Link: https://www.npr.org/2026/05/13/nx-s1-5820639/french-hantavirus-patient-critically-ill
-
-### 13. Nat Cassidy’s Rest Stop Optioned for Feature Adaptation [7/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-The novella centers on a gas station bathroom and the horrors that lurk within and outside it The post Nat Cassidy’s Rest Stop Optioned for Feature Adaptation appeared first on Reactor .
-
-Link: https://reactormag.com/nat-cassidy-rest-stop-adaptation/
 
 ## YouTube
 
@@ -223,6 +223,15 @@ The U.S. says 17 Americans and one Briton who were on board a cruise ship where 
 
 Link: https://www.youtube.com/watch?v=ZaZ6cPiwJvg
 
+### Does The Steam Controller Scream When You Drop It? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+We put it to the test. Read more: https://www.digitalfoundry.net/news/2026/05/yup-the-steam-controller-wilhelm-screams-if-you-drop-it
+
+Link: https://www.youtube.com/watch?v=Y1IFLt7PfhQ
+
 ### Nintendo Increases Switch 2 Prices - It's Bad But Could Have Been Worse [8/10]
 **Creator:** Digital Foundry  
 **Verdict:** Worth watching  
@@ -268,9 +277,9 @@ Link: https://www.youtube.com/watch?v=pnM9XwYmNCc
 
 Link: https://www.youtube.com/watch?v=STAqffJMFPA
 
-### More Elden Ring Co-op Shenanigans w/ Jack and Jenna [7/10]
+### More Elden Ring Co-op Shenanigans w/ Jack and Jenna [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
