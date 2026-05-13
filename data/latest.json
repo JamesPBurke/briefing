@@ -1,19 +1,39 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-12T18:01:21.335550Z",
-  "generatedAtDisplay": "2026-05-12 02:01 PM EDT",
+  "generatedAt": "2026-05-13T05:00:02.544956Z",
+  "generatedAtDisplay": "2026-05-13 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are WHO head tells countries to prepare for more hantavirus cases, Sam Altman says Elon Musk’s mind games were damaging OpenAI, and Middle East crisis live: US war on Iran has cost around $29bn, Pentagon says.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are Cannes is a beautiful, gruelling circus. I wouldn’t quit it for anything | Agnès Poirier, Public health at risk across Asia as price of gas for cooking soars, and Florida students boo graduation speaker who called AI ‘next Industrial Revolution’.",
   "mainItems": [
     {
-      "title": "WHO head tells countries to prepare for more hantavirus cases",
+      "title": "Cannes is a beautiful, gruelling circus. I wouldn’t quit it for anything | Agnès Poirier",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/may/12/who-head-warns-countries-prepare-more-hantavirus-cases",
-      "published": "2026-05-12T17:46:58+00:00",
-      "summary": "Health officials in Paris say French woman who contracted disease on MV Hondius is on ventilator in intensive care The head of the World Health Organization has told countries to prepare for more hantavirus cases as authorities in Paris…",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/13/cannes-film-festival-beautiful-gruelling-circus-cinema",
+      "published": "2026-05-13T04:00:19+00:00",
+      "summary": "The festival is a celebration of cinema and a frantic trade show all at once.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Public health at risk across Asia as price of gas for cooking soars",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/may/13/public-health-risk-asia-firewood-cooking-gas-price-air-pollution",
+      "published": "2026-05-13T03:00:17+00:00",
+      "summary": "Families turn to dirty fuels such as firewood, bringing fears over air pollution and fragility of energy transition In the ramshackle lanes of a south Delhi slum, Afshana Khatoon crouched wearily on her haunches and began lighting a small…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Florida students boo graduation speaker who called AI ‘next Industrial Revolution’",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/technology/2026/may/12/florida-students-boo-graduation-speaker-ai",
+      "published": "2026-05-12T20:30:15+00:00",
+      "summary": "Real estate executive got an unexpected earful when she spoke of ‘living in a time of profound change’ Though college graduations usually consist of a speaker giving advice to students, one recent ceremony featured students giving the…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -21,110 +41,80 @@
       "source": "The Verge",
       "category": "AI / privacy",
       "url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
-      "published": "2026-05-12T17:34:09+00:00",
+      "published": "2026-05-12T18:07:26+00:00",
       "summary": "OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Middle East crisis live: US war on Iran has cost around $29bn, Pentagon says",
+      "title": "The supreme court’s takedown of American democracy is complete | Austin Sarat",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/may/12/middle-east-crisis-us-iran-israel-donald-trump-ceasefire-peace-plan-latest-news-updates",
-      "published": "2026-05-12T17:33:01+00:00",
-      "summary": "Pete Hegseth and other officials appear before House to face grilling on Iran war expenditure and military operations Iran has expanded its definition of the strait of Hormuz into a “vast operational area” far wider than before the war,…",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/12/supreme-court-citizens-united-voting",
+      "published": "2026-05-12T12:00:46+00:00",
+      "summary": "Since the Citizens United decision of 2010, the justices have dismantled Americans’ voices.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "US university’s commencement speaker reveals he will pay off students’ final-year loans",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/may/12/north-carolina-state-commencement-speaker-paying-off-student-loans",
-      "published": "2026-05-12T17:24:26+00:00",
-      "summary": "Anil Kochhar hopes textile graduates of North Carolina State can leave with ‘greater freedom to pursue goals’ Anil Kochhar, a North Carolina State University donor, gave graduates of the school’s Wilson College of Textiles a lot more than…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
-      "published": "2026-05-12T17:24:15+00:00",
-      "summary": "The family of a 19-year-old college student is suing OpenAI over claims that his conversations with ChatGPT led to an accidental overdose.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Opinion: How Community-Based Advocates Can Bring Students Back to School",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/how-community-based-advocates-can-bring-students-back-to-school/",
-      "published": "2026-05-12T16:30:00+00:00",
-      "summary": "Imagine a knock at your door.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "World Models: 10 Things That Matter in AI Right Now",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
-      "published": "2026-05-12T16:22:15+00:00",
-      "summary": "World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "George Clooney, Tom Hanks, and Meryl Streep back new ‘Human Consent Standard’ for AI licensing",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard",
-      "published": "2026-05-12T16:06:19+00:00",
-      "summary": "Hollywood actors and producers are standing behind a new AI licensing standard that will tell AI systems whether they'll need to pay to use a person's likeness, creative work, characters, and designs.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump nominates Kari Lake to be US ambassador to Jamaica",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/12/trump-kari-lake-us-ambassador-jamaica",
-      "published": "2026-05-12T14:07:33+00:00",
-      "summary": "The former TV anchor’s tenure leading US global media agency ends after court ruled appointment unlawful US politics live – latest updates Sign up for the Breaking News US newsletter email Donald Trump has nominated Kari Lake, a longtime…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Florida Study: Cellphone Bans Promote Academic Gains … After a Year or So",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/florida-study-cellphone-bans-promote-academic-gains-after-a-year-or-so/",
-      "published": "2026-05-12T04:01:00+00:00",
-      "summary": "The first study probing what happens when an entire state bans cellphones in schools finds that they do what they advertise: Phone use goes down precipitously, with daily cellphone visits falling by more than 80%.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: We Should Pay More for the Best Teachers",
-      "source": "The 74",
+      "title": "Kids' test scores began declining way before COVID. These schools are making gains",
+      "source": "NPR Education",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/matthew-yglesias-we-should-pay-more-for-the-best-teachers/",
-      "published": "2026-05-11T18:30:00+00:00",
-      "summary": "A version of this essay appeared on Matthew Yglesias’ Slow Boring, a site dedicated to offering pragmatic takes on politics and public policy.",
+      "url": "https://www.npr.org/2026/05/13/nx-s1-5812483/reading-math-scores-data",
+      "published": "2026-05-13T04:01:00+00:00",
+      "summary": "Remember those devastating learning losses that began during the pandemic? Turns out, they began years before COVID-19. Some states are finally turning things around.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
-      "title": "She spent a year using AI to do almost everything. Here's what she learned",
+      "title": "Trump news at a glance: despite presidential pressure, some Republicans in South Carolina take stand against redistricting",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/may/12/trump-news-latest-updates-today",
+      "published": "2026-05-13T01:00:15+00:00",
+      "summary": "Five Republicans joined all Democrats in the state senate to reject a redistricting proposal that Trump is pushing for – key US politics stories from Tuesday 12 May at a glance As Republicans scramble to redraw congressional maps after the…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "OpenAI's Sam Altman takes the stand to fend off Elon Musk's accusations he 'stole a charity'",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/05/12/nx-s1-5816163/she-spent-a-year-using-ai-to-do-almost-everything-heres-what-she-learned",
-      "published": "2026-05-12T14:58:43+00:00",
-      "summary": "Tech writer Joanna Stern used AI to read medical results, respond to texts and serve as her therapist. She says her emotional connection to it was unsettling . Her new book is I Am Not a Robot.",
+      "url": "https://www.npr.org/2026/05/12/nx-s1-5811730/openai-sam-altman-testimony-elon-musk-trial",
+      "published": "2026-05-12T21:58:07+00:00",
+      "summary": "The trial pits two of tech's most famous personalities against each other and could lead to seismic changes for the maker of ChatGPT.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
+      "score": 9
+    },
+    {
+      "title": "Gemini’s latest updates are all about controlling your phone",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
+      "published": "2026-05-12T18:07:37+00:00",
+      "summary": "It is, once again, Gemini season. Google is announcing a host of new Gemini features during its pre-I/O Android showcase, many of which aim to help use your phone for you.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Microsoft will lean on your CPU to speed up Windows 11's apps and animations",
+      "source": "Ars Technica",
+      "category": "Linux / anti-obsolescence",
+      "url": "https://arstechnica.com/gadgets/2026/05/speed-boosting-low-latency-profile-is-one-of-the-improvements-coming-to-windows-11/",
+      "published": "2026-05-12T17:49:21+00:00",
+      "summary": "\"All modern operating systems do this, including macOS and Linux.\"",
+      "whyItMatters": "Relevant to humane computing, open-source practice, and repairability.",
+      "score": 9
+    },
+    {
+      "title": "Hark! Sega's mysterious and vague \"Super Game\" is dead, though its Jet Set Radio and Crazy Taxi reboots live on",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/hark-segas-mysterious-and-vague-super-game-is-dead-though-its-jet-set-radio-and-crazy-taxi-reboots-live-on",
+      "published": "2026-05-12T16:12:32+00:00",
+      "summary": "Oh now! Say it ain't so! Sega's mysterious and vague \"Super Game\" is… dead? I'm afraid so, kiddo, so bust out the shovel.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "Health experts say cruise ship hantavirus outbreak isn't a risk to public at large",
@@ -135,9 +125,97 @@
       "summary": "Passengers who were potentially exposed to hantavirus on a cruise are back home and being monitored for symptoms, as scientists maintain that risk to the public is low.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
+    },
+    {
+      "title": "Nat Cassidy’s Rest Stop Optioned for Feature Adaptation",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/nat-cassidy-rest-stop-adaptation/",
+      "published": "2026-05-12T18:26:09+00:00",
+      "summary": "The novella centers on a gas station bathroom and the horrors that lurk within and outside it The post Nat Cassidy’s Rest Stop Optioned for Feature Adaptation appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 7
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Republicans face an uphill battle convincing voters they should stay in power after the midterms",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=P3K_-PsX7Hk",
+      "published": "2026-05-12T20:00:15+00:00",
+      "summary": "Republicans face an uphill battle convincing voters they should stay in power after the midterms.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "2084: A cautionary tale about the future of war and a changing planet",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=bpMV9wQ3f-A",
+      "published": "2026-05-12T20:02:06+00:00",
+      "summary": "Laser weapons, advanced drone warfare, and nation states around the globe redefined by climate change: this is the world in 2084, envisioned by authors Jim Stavridis and Elliot Ackerman.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "What do you think of the political divide in our country?",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=F4stLXLghnk",
+      "published": "2026-05-12T17:45:01+00:00",
+      "summary": "\"Divided we fall.\" That's what one Ohio resident quoted to NPR when we were reporting from Ohio's 9th district.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Nonprofit sues over work to paint D.C.'s reflecting pool blue",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=AEoU-QePbOc",
+      "published": "2026-05-12T17:30:01+00:00",
+      "summary": "A nonprofit is suing the Trump administration over its move to resurface and paint the reflecting pool on the National Mall. The group says there was no federal review of the plan, and the work is already underway.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Venezuelan opposition leader Maria Corina Machado's work carries a steep personal price",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=nje6iwfUHPI",
+      "published": "2026-05-12T17:15:04+00:00",
+      "summary": "Venezuelan opposition leader Maria Corina Machado was awarded the Nobel Peace Prize last year for her work to promote democracy in her country. But her work has also carried a steep personal price.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "What is the dynamic between Maria Corina Machado and President Trump?",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=n7mQ1JCQCJY",
+      "published": "2026-05-11T20:15:02+00:00",
+      "summary": "In a different world, opposition leader Maria Corina Machado would be leading Venezuela. That’s what many Venezuelans expected after authoritarian leader Nicolás Maduro was ousted from power earlier this year following his capture by U.S.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "U.S. cruise passenger tests positive for hantavirus on the way home",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=ZaZ6cPiwJvg",
+      "published": "2026-05-11T20:00:33+00:00",
+      "summary": "The U.S. says 17 Americans and one Briton who were on board a cruise ship where the rare hantavirus was found, have now arrived in the U.S.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    }
+  ],
   "trailers": [],
   "recommendations": {
     "new": [
@@ -222,35 +300,35 @@
   ],
   "weather": {
     "location": "Somerset, MA",
-    "desc": "Mostly Cloudy",
-    "temp": "57",
-    "feels": "57",
-    "wind": "10",
-    "humidity": "39",
-    "fetchedAt": "2026-05-12T18:01:24.743999Z",
-    "fetchedAtDisplay": "2026-05-12 02:01 PM EDT",
+    "desc": "Fair",
+    "temp": "46",
+    "feels": "42",
+    "wind": "7",
+    "humidity": "79",
+    "fetchedAt": "2026-05-13T05:00:11.499645Z",
+    "fetchedAtDisplay": "2026-05-13 01:00 AM EDT",
     "days": [
       {
-        "label": "Tue May 12",
-        "high": "",
-        "low": "47"
-      },
-      {
         "label": "Wed May 13",
-        "high": "62",
-        "low": "50"
+        "high": "",
+        "low": ""
       },
       {
         "label": "Thu May 14",
         "high": "64",
-        "low": "49"
+        "low": "51"
+      },
+      {
+        "label": "Fri May 15",
+        "high": "64",
+        "low": "48"
       }
     ]
   },
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
+    "youtubeCount": 7,
     "trailerCount": 0,
-    "sourceCount": 6
+    "sourceCount": 9
   }
 }
