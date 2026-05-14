@@ -1,59 +1,89 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-14T09:01:21.367492Z",
-  "generatedAtDisplay": "2026-05-14 05:01 AM EDT",
+  "generatedAt": "2026-05-14T14:00:02.576598Z",
+  "generatedAtDisplay": "2026-05-14 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are The Christophers review – Ian McKellen and Michaela Coel are the double act of the year, UN members prepare for pivotal vote on landmark ICJ climate justice ruling, and Stuffed possums and sunken gold coins: the podcast that explains America in 100 unlikely items.",
+  "summary": "Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, AI / computing. The strongest items in this run are Trump China visit live: ‘US and China should be partners, not rivals’, Xi says after earlier warning on Taiwan, Streeting resigns as health secretary but stops short of launching leadership bid - UK politics live, and Data readiness for agentic AI in financial services.",
   "mainItems": [
     {
-      "title": "The Christophers review – Ian McKellen and Michaela Coel are the double act of the year",
+      "title": "Trump China visit live: ‘US and China should be partners, not rivals’, Xi says after earlier warning on Taiwan",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/film/2026/may/14/the-christophers-review-ian-mckellen-michaela-coel",
-      "published": "2026-05-14T08:00:21+00:00",
-      "summary": "Steven Soderbergh and Ed Solomons provide a vision of haughty Englishness up there with Gosford Park and Phantom Thread Steven Soderbergh has a certain superpower, not always bestowed on even the most important directors: a capacity to…",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news",
+      "published": "2026-05-14T13:50:46+00:00",
+      "summary": "Security was heightened in Beijing ahead of the two leaders’ crucial talks, where they discussed economic cooperation, trade and Iran Trump lands in China for high-stakes summit with Xi Jinping as Iran war looms over talks Explainer: five…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "UN members prepare for pivotal vote on landmark ICJ climate justice ruling",
+      "title": "Streeting resigns as health secretary but stops short of launching leadership bid - UK politics live",
       "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/politics/live/2026/may/14/angela-rayner-says-starmer-should-reflect-on-stepping-aside-after-hmrc-clears-her-over-tax-affairs-uk-politics-live",
+      "published": "2026-05-14T13:50:26+00:00",
+      "summary": "Streeting calls on PM to resign and implies that he would stand as a candidate in a leadership contest Al Carns , the defence minister first elected in 2024, will launch his own leadership bid if a contest starts, Sky News is reporting .",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Data readiness for agentic AI in financial services",
+      "source": "MIT Technology Review",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/may/14/un-members-prepare-for-pivotal-vote-on-landmark-icj-climate-justice-ruling",
-      "published": "2026-05-14T07:00:20+00:00",
-      "summary": "If resolution is passed governments will have legal responsibility to cut greenhouse gas emissions The UN’s willingness to tackle the climate crisis in a fair and legal way will be tested next week during a critical vote of the UN general…",
+      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "published": "2026-05-14T13:00:00+00:00",
+      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Stuffed possums and sunken gold coins: the podcast that explains America in 100 unlikely items",
-      "source": "The Guardian US",
+      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+      "published": "2026-05-14T13:00:00+00:00",
+      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Forza Horizon 6 review - the king is dead, long live the drift king",
+      "source": "Rock Paper Shotgun",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/14/roman-mars-history-podcast-united-states-bbc",
-      "published": "2026-05-14T07:00:20+00:00",
-      "summary": "Roman Mars’s pod 99% Invisible is a worldwide hit.",
+      "url": "https://www.rockpapershotgun.com/forza-horizon-6-review-the-king-is-dead-long-live-the-drift-king",
+      "published": "2026-05-14T12:00:00+00:00",
+      "summary": "I blast out of Tokyo, off into the countryside. At first, the roads run alongside waterlogged rice paddies, through flat and open country.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Scepticism and tight security as Trump is welcomed by Xi to Beijing",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/may/13/trump-visit-beijing-china-scepticism-security",
-      "published": "2026-05-14T05:46:38+00:00",
-      "summary": "US’s apparent decline has fuelled growing Chinese nationalism while US president has lost his novelty value Trump in Beijing – latest updates Five key issues for Xi-Trump summit .",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "\"It's a UGC platform, there is always going to be dog s***\" Garry's Mod creator says as S&box's latest update aims to punish AI-generated thumbnails",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/its-a-ugc-platform-there-is-always-going-to-be-dog-s-garrys-mod-creator-says-as-sboxs-latest-update-aims-to-punish-ai-generated-thumbnails",
+      "published": "2026-05-14T11:15:31+00:00",
+      "summary": "S&box , Facepunch Studios' open source game development platform/spiritual successor to Garry's Mod continues to fight a battle against AI-generated games early doors.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "FCC angers small carriers by helping AT&T and Starlink buy EchoStar spectrum",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/tech-policy/2026/05/fcc-angers-small-carriers-by-helping-att-and-starlink-buy-echostar-spectrum/",
-      "published": "2026-05-13T20:44:38+00:00",
-      "summary": "Approval is no surprise after FCC chair pressured EchoStar to sell licenses.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "The Elon Musk v Sam Altman battle is a distraction | Karen Hao",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/technology/commentisfree/2026/may/14/elon-musk-sam-altman-ai-feud",
+      "published": "2026-05-14T11:00:24+00:00",
+      "summary": "Fixating on questions of whether Altman is untrustworthy, or whether Musk is even less so distracts from a far deeper problem with AI If it wasn’t already clear, Elon Musk and Sam Altman hate each other.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Sharing Students Is Key to Success for These Arkansas Third Grade Educators",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/sharing-students-is-key-to-success-for-these-arkansas-third-grade-educators/",
+      "published": "2026-05-14T10:30:00+00:00",
+      "summary": "“We want to be good readers. We want to understand, not just get a good score on a test.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
@@ -67,44 +97,34 @@
       "score": 10
     },
     {
-      "title": "AI chatbots are giving out people’s real phone numbers",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-      "published": "2026-05-13T18:09:03+00:00",
-      "summary": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
+      "title": "Internet of Shit: AI Poop Analysis App Offered to Sell Me Database of Its Users' Poops",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/ai-poop-analysis-app-offered-to-sell-me-access-to-its-users-poops/",
+      "published": "2026-05-14T13:30:52+00:00",
+      "summary": "\"I hoarded a large database of something valuable, just not what you expect… 150k stools images.\"",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
-      "title": "Kids' test scores began declining way before COVID. These schools are making gains",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/05/13/nx-s1-5812483-e1/kids-test-scores-began-declining-way-before-covid-these-schools-are-making-gains",
-      "published": "2026-05-13T19:52:33+00:00",
-      "summary": "The annual Education Scorecard shows the nation's schools still rebounding from serious losses in math and reading, but it also found those declines began well before the pandemic.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
+      "title": "The Terror: Devil in Silver’s Karyn Kusama Explains Second Episode’s Very Messy Scene",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/the-terror-devil-in-silvers-karyn-kusama-explains-second-episodes-very-messy-scene/",
+      "published": "2026-05-14T13:00:00+00:00",
+      "summary": "In interviews with Reactor, the director, as well as co-showrunner Chris Cantwell, share how Pepper differs from the book The post The Terror: Devil in Silver ’s Karyn Kusama Explains Second Episode’s Very Messy Scene appeared first on…",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     },
     {
-      "title": "Alabaster Dawn is the kind of 2.5D action-RPG spectacle that makes you question the need for \"true\" 3D",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/alabaster-dawn-is-the-kind-of-25d-action-rpg-spectacle-that-makes-you-question-the-need-for-true-3d",
-      "published": "2026-05-13T17:23:25+00:00",
-      "summary": "One of the grievous burdens the Heroic Videogames Journalist must shoulder is seeing a couple dozen Cool New Games each week, and only having the time to write about two or three.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
-      "published": "2026-05-13T16:54:04+00:00",
-      "summary": "Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
+      "title": "A brain-controlled system may help listeners with hearing loss cut through the noise",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/05/14/nx-s1-5821161/brain-controlled-hearing-aids-cocktail-party-effect",
+      "published": "2026-05-14T11:00:00+00:00",
+      "summary": "A hearing system that monitors brain waves could help people with hearing loss communicate in noisy environments.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "The physics of how Olympic weightlifters exploit barbell's \"whip\"",
@@ -114,26 +134,6 @@
       "published": "2026-05-13T19:05:35+00:00",
       "summary": "The type of bar matters when it comes to how it bends and recoils, but why is still a mystery.",
       "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 8
-    },
-    {
-      "title": "Adaptation of Enid Blyton’s The Magic Faraway Tree Gets a Release Date in New Trailer",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/the-magic-faraway-tree-trailer-release-date/",
-      "published": "2026-05-13T18:57:35+00:00",
-      "summary": "Vertical announced the release day along with a new trailer to celebrate the news The post Adaptation of Enid Blyton’s The Magic Faraway Tree Gets a Release Date in New Trailer appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
-      "title": "Podcast: The Chinese Deepfake Software Powering Scams",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/podcast-the-chinese-deepfake-software-powering-scams/",
-      "published": "2026-05-13T13:10:19+00:00",
-      "summary": "We got Haotian AI, the Chinese-language deepfake software powering scams. We also talk about a man finding $1 million of Yu-Gi-Oh cards, and how the AI hard drive shortage is impacting internet archiving.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
   ],
@@ -278,8 +278,8 @@
       "published": "2026-05-13T12:02:38+00:00",
       "summary": "We put it to the test. Read more: https://www.digitalfoundry.net/news/2026/05/yup-the-steam-controller-wilhelm-screams-if-you-drop-it",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Nintendo Increases Switch 2 Prices - It's Bad But Could Have Been Worse",
@@ -322,8 +322,8 @@
       "published": "2026-05-14T01:09:31+00:00",
       "summary": "NOTE: Nintendo hit us with a strike for showing the Star Fox Direct during our Star Fox stream, but you can find the VOD here -- https://youtu.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Yahtzee Tries... Froggy Hates Snow and Everything Is Crab",
@@ -333,8 +333,8 @@
       "published": "2026-05-13T22:10:39+00:00",
       "summary": "This week on Yahtzee Tries... Yahtzee and Jesse G try out Froggy Hates Snow and Everything Is Crab. FROGGY HATES SNOW -- https://store.steampowered.com/app/3232380/FROGGY_HATES_SNOW/ EVERYTHING IS CRAB -- https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Saros | Fully Ramblomatic",
@@ -427,6 +427,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "SPIDER-MAN: BRAND NEW DAY - Practical Production",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=6GW4JPeqm3s",
+      "published": "2026-05-14T13:15:00+00:00",
+      "summary": "Spider-Man on the street. #SpiderManBrandNewDay is in theatres July 31. After the record-breaking global success of Spider-Man: No Way Home, Spider-Man: Brand New Day marks an entirely new chapter for Peter Parker and Spider-Man.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Resident Evil – Official Teaser Trailer. From Zach Cregger, director of Weapons and Barbarian.",
       "source": "Sony Pictures Entertainment",
       "category": "Film / trailer",
@@ -455,17 +466,6 @@
       "url": "https://www.youtube.com/watch?v=k1MVnzd2aVc",
       "published": "2026-05-05T13:00:00+00:00",
       "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas. TONY – In theaters this August.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "BEEF | Behind the Score with Composer Finneas O’Connell | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=7G5073lagSE",
-      "published": "2026-04-23T14:00:00+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe Listen to the soundtrack: https://a24music.lnk.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 8,
       "verdict": "Looks promising"
@@ -625,17 +625,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "THE ROCK HAS ENTERED THE BUILDING #KevinHartRoast",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=V0oRt3XfGdg",
-      "published": "2026-05-11T02:27:41+00:00",
-      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "Your Friends & Neighbors — The Eulogy | Season 2 Scene | Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
@@ -753,7 +742,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 24,
-    "trailerCount": 24,
+    "trailerCount": 23,
     "sourceCount": 19
   }
 }

@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-14T09:01:21.367492Z
+Generated: 2026-05-14T14:00:02.576598Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are The Christophers review – Ian McKellen and Michaela Coel are the double act of the year, UN members prepare for pivotal vote on landmark ICJ climate justice ruling, and Stuffed possums and sunken gold coins: the podcast that explains America in 100 unlikely items.
+Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, AI / computing. The strongest items in this run are Trump China visit live: ‘US and China should be partners, not rivals’, Xi says after earlier warning on Taiwan, Streeting resigns as health secretary but stops short of launching leadership bid - UK politics live, and Data readiness for agentic AI in financial services.
 
 ## Briefing
 
@@ -13,52 +13,79 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. The Christophers review – Ian McKellen and Michaela Coel are the double act of the year [10/10]
+### 1. Trump China visit live: ‘US and China should be partners, not rivals’, Xi says after earlier warning on Taiwan [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Steven Soderbergh and Ed Solomons provide a vision of haughty Englishness up there with Gosford Park and Phantom Thread Steven Soderbergh has a certain superpower, not always bestowed on even the most important directors: a capacity to…
+Security was heightened in Beijing ahead of the two leaders’ crucial talks, where they discussed economic cooperation, trade and Iran Trump lands in China for high-stakes summit with Xi Jinping as Iran war looms over talks Explainer: five…
 
-Link: https://www.theguardian.com/film/2026/may/14/the-christophers-review-ian-mckellen-michaela-coel
+Link: https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news
 
-### 2. UN members prepare for pivotal vote on landmark ICJ climate justice ruling [10/10]
+### 2. Streeting resigns as health secretary but stops short of launching leadership bid - UK politics live [10/10]
 **Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Streeting calls on PM to resign and implies that he would stand as a candidate in a leadership contest Al Carns , the defence minister first elected in 2024, will launch his own leadership bid if a contest starts, Sky News is reporting .
+
+Link: https://www.theguardian.com/politics/live/2026/may/14/angela-rayner-says-starmer-should-reflect-on-stepping-aside-after-hmrc-clears-her-over-tax-affairs-uk-politics-live
+
+### 3. Data readiness for agentic AI in financial services [10/10]
+**Source:** MIT Technology Review  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-If resolution is passed governments will have legal responsibility to cut greenhouse gas emissions The UN’s willingness to tackle the climate crisis in a fair and legal way will be tested next week during a critical vote of the UN general…
+Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second.
 
-Link: https://www.theguardian.com/world/2026/may/14/un-members-prepare-for-pivotal-vote-on-landmark-icj-climate-justice-ruling
+Link: https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/
 
-### 3. Stuffed possums and sunken gold coins: the podcast that explains America in 100 unlikely items [10/10]
+### 4. Establishing AI and data sovereignty in the age of autonomous systems [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.
+
+Link: https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/
+
+### 5. Forza Horizon 6 review - the king is dead, long live the drift king [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+I blast out of Tokyo, off into the countryside. At first, the roads run alongside waterlogged rice paddies, through flat and open country.
+
+Link: https://www.rockpapershotgun.com/forza-horizon-6-review-the-king-is-dead-long-live-the-drift-king
+
+### 6. "It's a UGC platform, there is always going to be dog s***" Garry's Mod creator says as S&box's latest update aims to punish AI-generated thumbnails [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+S&box , Facepunch Studios' open source game development platform/spiritual successor to Garry's Mod continues to fight a battle against AI-generated games early doors.
+
+Link: https://www.rockpapershotgun.com/its-a-ugc-platform-there-is-always-going-to-be-dog-s-garrys-mod-creator-says-as-sboxs-latest-update-aims-to-punish-ai-generated-thumbnails
+
+### 7. The Elon Musk v Sam Altman battle is a distraction | Karen Hao [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Roman Mars’s pod 99% Invisible is a worldwide hit.
+Fixating on questions of whether Altman is untrustworthy, or whether Musk is even less so distracts from a far deeper problem with AI If it wasn’t already clear, Elon Musk and Sam Altman hate each other.
 
-Link: https://www.theguardian.com/tv-and-radio/2026/may/14/roman-mars-history-podcast-united-states-bbc
+Link: https://www.theguardian.com/technology/commentisfree/2026/may/14/elon-musk-sam-altman-ai-feud
 
-### 4. Scepticism and tight security as Trump is welcomed by Xi to Beijing [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 8. Sharing Students Is Key to Success for These Arkansas Third Grade Educators [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-US’s apparent decline has fuelled growing Chinese nationalism while US president has lost his novelty value Trump in Beijing – latest updates Five key issues for Xi-Trump summit .
+“We want to be good readers. We want to understand, not just get a good score on a test.
 
-Link: https://www.theguardian.com/world/2026/may/13/trump-visit-beijing-china-scepticism-security
+Link: https://www.the74million.org/article/sharing-students-is-key-to-success-for-these-arkansas-third-grade-educators/
 
-### 5. FCC angers small carriers by helping AT&T and Starlink buy EchoStar spectrum [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Approval is no surprise after FCC chair pressured EchoStar to sell licenses.
-
-Link: https://arstechnica.com/tech-policy/2026/05/fcc-angers-small-carriers-by-helping-att-and-starlink-buy-echostar-spectrum/
-
-### 6. AI invades Princeton, where 30% of students cheat—but peers won't snitch [10/10]
+### 9. AI invades Princeton, where 30% of students cheat—but peers won't snitch [10/10]
 **Source:** Ars Technica  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -67,43 +94,34 @@ Old "honor code" systems are under strain.
 
 Link: https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/
 
-### 7. AI chatbots are giving out people’s real phone numbers [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 10. Internet of Shit: AI Poop Analysis App Offered to Sell Me Database of Its Users' Poops [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it.
+"I hoarded a large database of something valuable, just not what you expect… 150k stools images."
 
-Link: https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/
+Link: https://www.404media.co/ai-poop-analysis-app-offered-to-sell-me-access-to-its-users-poops/
 
-### 8. Kids' test scores began declining way before COVID. These schools are making gains [9/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 11. The Terror: Devil in Silver’s Karyn Kusama Explains Second Episode’s Very Messy Scene [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-The annual Education Scorecard shows the nation's schools still rebounding from serious losses in math and reading, but it also found those declines began well before the pandemic.
+In interviews with Reactor, the director, as well as co-showrunner Chris Cantwell, share how Pepper differs from the book The post The Terror: Devil in Silver ’s Karyn Kusama Explains Second Episode’s Very Messy Scene appeared first on…
 
-Link: https://www.npr.org/2026/05/13/nx-s1-5812483-e1/kids-test-scores-began-declining-way-before-covid-these-schools-are-making-gains
+Link: https://reactormag.com/the-terror-devil-in-silvers-karyn-kusama-explains-second-episodes-very-messy-scene/
 
-### 9. Alabaster Dawn is the kind of 2.5D action-RPG spectacle that makes you question the need for "true" 3D [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 12. A brain-controlled system may help listeners with hearing loss cut through the noise [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-One of the grievous burdens the Heroic Videogames Journalist must shoulder is seeing a couple dozen Cool New Games each week, and only having the time to write about two or three.
+A hearing system that monitors brain waves could help people with hearing loss communicate in noisy environments.
 
-Link: https://www.rockpapershotgun.com/alabaster-dawn-is-the-kind-of-25d-action-rpg-spectacle-that-makes-you-question-the-need-for-true-3d
+Link: https://www.npr.org/2026/05/14/nx-s1-5821161/brain-controlled-hearing-aids-cocktail-party-effect
 
-### 10. Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat [9/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Meta CEO Mark Zuckerberg says its new Incognito Chat is "the first major AI product where there is no log of your conversations stored on servers.
-
-Link: https://www.theverge.com/tech/929791/meta-ai-incognito-chats
-
-### 11. The physics of how Olympic weightlifters exploit barbell's "whip" [8/10]
+### 13. The physics of how Olympic weightlifters exploit barbell's "whip" [8/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -111,24 +129,6 @@ Link: https://www.theverge.com/tech/929791/meta-ai-incognito-chats
 The type of bar matters when it comes to how it bends and recoils, but why is still a mystery.
 
 Link: https://arstechnica.com/science/2026/05/the-physics-of-how-olympic-weightlifters-exploit-barbells-whip/
-
-### 12. Adaptation of Enid Blyton’s The Magic Faraway Tree Gets a Release Date in New Trailer [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Vertical announced the release day along with a new trailer to celebrate the news The post Adaptation of Enid Blyton’s The Magic Faraway Tree Gets a Release Date in New Trailer appeared first on Reactor .
-
-Link: https://reactormag.com/the-magic-faraway-tree-trailer-release-date/
-
-### 13. Podcast: The Chinese Deepfake Software Powering Scams [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-We got Haotian AI, the Chinese-language deepfake software powering scams. We also talk about a man finding $1 million of Yu-Gi-Oh cards, and how the AI hard drive shortage is impacting internet archiving.
-
-Link: https://www.404media.co/podcast-the-chinese-deepfake-software-powering-scams/
 
 ## YouTube
 
@@ -240,9 +240,9 @@ Link: https://www.youtube.com/watch?v=czTZKpTYnAk
 
 Link: https://www.youtube.com/watch?v=JurL0Jbw2kY
 
-### Does The Steam Controller Scream When You Drop It? [7/10]
+### Does The Steam Controller Scream When You Drop It? [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 We put it to the test. Read more: https://www.digitalfoundry.net/news/2026/05/yup-the-steam-controller-wilhelm-screams-if-you-drop-it
@@ -276,18 +276,18 @@ Link: https://www.youtube.com/watch?v=tUN01mxsSpw
 
 Link: https://www.youtube.com/watch?v=G0zyS9T7O28
 
-### Revisiting Star Fox 2, AKA, 2017's Hottest SNES Game w/ KC and Marty [8/10]
+### Revisiting Star Fox 2, AKA, 2017's Hottest SNES Game w/ KC and Marty [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 NOTE: Nintendo hit us with a strike for showing the Star Fox Direct during our Star Fox stream, but you can find the VOD here -- https://youtu.
 
 Link: https://www.youtube.com/watch?v=2XUDa_jVtRs
 
-### Yahtzee Tries... Froggy Hates Snow and Everything Is Crab [7/10]
+### Yahtzee Tries... Froggy Hates Snow and Everything Is Crab [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Yahtzee Tries... Yahtzee and Jesse G try out Froggy Hates Snow and Everything Is Crab. FROGGY HATES SNOW -- https://store.steampowered.com/app/3232380/FROGGY_HATES_SNOW/ EVERYTHING IS CRAB -- https://store.steampowered.
@@ -395,6 +395,15 @@ The Odyssey - In Theaters 7 17 26 Christopher Nolan’s next film, The Odyssey, 
 
 Link: https://www.youtube.com/watch?v=f_bKjZeJBBI
 
+### SPIDER-MAN: BRAND NEW DAY - Practical Production [9/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Spider-Man on the street. #SpiderManBrandNewDay is in theatres July 31. After the record-breaking global success of Spider-Man: No Way Home, Spider-Man: Brand New Day marks an entirely new chapter for Peter Parker and Spider-Man.
+
+Link: https://www.youtube.com/watch?v=6GW4JPeqm3s
+
 ### Resident Evil – Official Teaser Trailer. From Zach Cregger, director of Weapons and Barbarian. [8/10]
 **Source:** Sony Pictures Entertainment  
 **Verdict:** Looks promising  
@@ -421,15 +430,6 @@ Link: https://www.youtube.com/watch?v=SJPu1spHqfk
 SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas. TONY – In theaters this August.
 
 Link: https://www.youtube.com/watch?v=k1MVnzd2aVc
-
-### BEEF | Behind the Score with Composer Finneas O’Connell | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe Listen to the soundtrack: https://a24music.lnk.
-
-Link: https://www.youtube.com/watch?v=7G5073lagSE
 
 ### FIND YOUR FRIENDS | Official Trailer | Shudder [9/10]
 **Source:** Shudder  
@@ -556,15 +556,6 @@ Link: https://www.youtube.com/watch?v=Ty-L20D4GAA
 About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
 
 Link: https://www.youtube.com/watch?v=hgU8sDVyN24
-
-### THE ROCK HAS ENTERED THE BUILDING #KevinHartRoast [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
-
-Link: https://www.youtube.com/watch?v=V0oRt3XfGdg
 
 ### Your Friends & Neighbors — The Eulogy | Season 2 Scene | Apple TV [10/10]
 **Source:** Apple TV  
