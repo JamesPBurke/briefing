@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-15T09:00:31.561377Z
+Generated: 2026-05-15T14:00:01.637868Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Forza Horizon 6 is lightweight enough to perform on just about any PC - though its new ray tracing modes slam on the brakes, After four bloody years, the war on Ukraine might be turning into Putin’s undoing | Rajan Menon, and US justice department accuses Yale medical school of illegally using race in admissions.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Rise in deed theft across US prompts crackdown in New York City, "Sometimes all it really takes is one very bad commute" - the Saros team reveal the surprising origins of Arjun's angry delivery, and "This is gonna break your mods": Stellaris is getting nomad empires, aka "moving planets", despite Paradox previously deeming this "impossible".
 
 ## Briefing
 
@@ -13,43 +13,61 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. Forza Horizon 6 is lightweight enough to perform on just about any PC - though its new ray tracing modes slam on the brakes [10/10]
+### 1. Rise in deed theft across US prompts crackdown in New York City [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+After more than 500 deed theft complaints last year, Zohran Mamdani pushes crackdown effort Nurul Islamnuru, an immigrant from Bangladesh , rented a one-bedroom apartment in Queens, New York, with his wife, three children and father-in-law…
+
+Link: https://www.theguardian.com/us-news/2026/may/15/nyc-american-deed-theft-crisis
+
+### 2. "Sometimes all it really takes is one very bad commute" - the Saros team reveal the surprising origins of Arjun's angry delivery [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Many video game characters are immediately recognisable by their voices. Doug Cockle's gravely Geralt from The Witcher series is, Chrisopher Judge's imposing Kratos in God of War is, David Hayter's covert Snake is. I could go on.
+
+Link: https://www.eurogamer.net/saros-arjun-rahul-kolhi-voice
+
+### 3. "This is gonna break your mods": Stellaris is getting nomad empires, aka "moving planets", despite Paradox previously deeming this "impossible" [10/10]
 **Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Forza Horizon 6 ’s bootful of PC-specific tech features was apparently stuffed enough to warrant a big, colourful blog post about them . Ultrawide support? Yes. DLSS 4 and FSR 4 ? Both.
+Sci-fi 4X strategy game Stellaris is getting a Nomads expansion on June 15th that lets you jettison traditional ideas about territory and play as a wholly mobile civilisation - travelling around the galaxy in Arkships that serve as…
 
-Link: https://www.rockpapershotgun.com/forza-horizon-6-pc-performance-best-settings
+Link: https://www.rockpapershotgun.com/this-is-gonna-break-your-mods-stellaris-is-getting-nomad-empires-aka-moving-planets-despite-paradox-previously-deeming-this-impossible
 
-### 2. After four bloody years, the war on Ukraine might be turning into Putin’s undoing | Rajan Menon [10/10]
+### 4. UAE to complete second oil pipeline bypassing strait of Hormuz by 2027 [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-A battered economy, huge numbers of casualties and very little territorial gain – it’s no wonder even stalwart Putin supporters are showing signs of disquiet Rajan Menon is professor emeritus of international relations at Powell School,…
+State oil company fast-tracks previously undisclosed project, which is expected to double export capacity Business live – latest updates The United Arab Emirates has announced it will complete a new oil pipeline bypassing the strait of…
 
-Link: https://www.theguardian.com/commentisfree/2026/may/15/russia-war-ukraine-vladimir-putin-economy-casualties
+Link: https://www.theguardian.com/business/2026/may/15/uae-oil-pipeline-strait-of-hormuz-by-2027
 
-### 3. US justice department accuses Yale medical school of illegally using race in admissions [10/10]
-**Source:** The Guardian US  
+### 5. Maine Has a New Way to Prepare Teens for Jobs. Other States Are Noticing [10/10]
+**Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-A 2023 supreme court decision banned the use of affirmative action in college admissions The US Department of Justice on Thursday accused Yale University of illegally considering race in admissions to its medical school – the second…
+A Maine non-profit hired by the state to teach students soft skills to better prepare for careers believes it’s found a way to train and measure those skills — and other states are taking notice.
 
-Link: https://www.theguardian.com/education/2026/may/14/justice-department-yale-medical-school-race-admissions
+Link: https://www.the74million.org/article/maine-has-a-new-way-to-prepare-teens-for-jobs-other-states-are-noticing/
 
-### 4. Behold, the Elon Musk jackass trophy [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 6. California bill pushing to keep games playable after server shutdowns passes key hurdle, paving way for full assembly vote [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not.
+A Californian bill aimed at game preservation and backed by the Stop Killing Games campaign has been voted through by a state committee focused on the fiscal cost of proposed legislation - thereby taking a key step closer to becoming a…
 
-Link: https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue
+Link: https://www.rockpapershotgun.com/california-bill-pushing-to-keep-games-playable-after-server-shutdowns-passes-key-hurdle-paving-way-for-full-assembly-vote
 
-### 5. Linda McMahon defends dismantling the Education Department, shifting its work [10/10]
+### 7. Linda McMahon defends dismantling the Education Department, shifting its work [10/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -58,32 +76,14 @@ The education secretary faced questions about the shrinking of her agency, limit
 
 Link: https://www.npr.org/2026/05/14/nx-s1-5815213/education-secretary-linda-mcmahon-house-hearing
 
-### 6. Earworm Kars4Kids jingle yanked from California airwaves for false advertising [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 8. The Download: China’s AI drama factory and the WHO’s missing health targets [9/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Charity failed to mention it funnels about $45m annually to Jewish non-profit that organizes Israel trips for teens The twangy jingle produced by Kars4Kids will no longer be broadcast in California, at least in its current form, after a…
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
 
-Link: https://www.theguardian.com/us-news/2026/may/14/kars4kids-jingle-california-false-advertising
-
-### 7. Microsoft starts canceling Claude Code licenses [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily.
-
-Link: https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad
-
-### 8. US border patrol chief resigns abruptly amid string of exits by Trump immigration officials [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Mike Banks, who led Trump’s border crackdown, resigned weeks after reports of prostitution allegations Sign up for the Breaking News US newsletter email Mike Banks, the border patrol chief who oversaw the most aggressive militarization of…
-
-Link: https://www.theguardian.com/us-news/2026/may/14/us-border-patrol-chief-resigns
+Link: https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/
 
 ### 9. Opinion: Report Finds Books Aren’t Vanishing From Schools. But That’s Not the Whole Story [9/10]
 **Source:** The 74  
@@ -94,7 +94,16 @@ A version of this essay originally appeared on “The Next 30 Years” Substack.
 
 Link: https://www.the74million.org/article/report-finds-books-arent-vanishing-from-schools-but-thats-not-the-whole-story/
 
-### 10. How Trump may be changing his stance on AI regulation [8/10]
+### 10. Mayo Clinic is Using AI to Listen to Emergency Room Visits [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Mayo Clinic's "Ambient Listening" has been around for a couple of years, but clearly not all patients know their interactions with nurses are being passively recorded and processed by AI.
+
+Link: https://www.404media.co/mayo-clinic-is-using-ai-to-listen-to-emergency-room-visits/
+
+### 11. How Trump may be changing his stance on AI regulation [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -103,7 +112,7 @@ The Trump administration's approach on AI so far has been to prioritize innovati
 
 Link: https://www.npr.org/2026/05/14/nx-s1-5818490/how-trump-may-be-changing-his-stance-on-ai-regulation
 
-### 11. Zero-day exploit completely defeats default Windows 11 BitLocker protections [8/10]
+### 12. Zero-day exploit completely defeats default Windows 11 BitLocker protections [8/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -111,15 +120,6 @@ Link: https://www.npr.org/2026/05/14/nx-s1-5818490/how-trump-may-be-changing-his
 It's not entirely clear how the exploit works. Microsoft says it's investigating.
 
 Link: https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/
-
-### 12. DOGE Cuts Unleashed a Deadly Wave of Violence Across Africa, Study Finds [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-The dismantling of the United States Agency for International Development (USAID) is associated with measurable increases in Africa, especially in areas most dependent on the agency’s support.
-
-Link: https://www.404media.co/doge-cuts-unleashed-a-deadly-wave-of-violence-across-africa-study-finds/
 
 ### 13. Lanterns Showrunner Explains How His Show Fits Into the Current DCU Timeline [7/10]
 **Source:** Reactor  
@@ -159,18 +159,9 @@ Cybersecurity researcher Allison Nixon joins WIRED to answer the internet’s bu
 
 Link: https://www.youtube.com/watch?v=yAkdi07egzc
 
-### Does AI Flirt Better Than Humans? [8/10]
-**Creator:** WIRED  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Dating in 2026, but using AI. Can artificial intelligence do dating better than humans? WIRED finds out. Four bachelors duke it out for one woman’s attention.
-
-Link: https://www.youtube.com/watch?v=0PehQikYTcM
-
-### Beijing Summit / Trump and Xi as allies, rivals and frenemies [9/10]
+### Beijing Summit / Trump and Xi as allies, rivals and frenemies [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 President Trump visits Chinese leader Xi Jinping for the first time since 2017.
@@ -294,6 +285,24 @@ Link: https://www.youtube.com/watch?v=4K9zb571iUw
 
 Link: https://www.youtube.com/watch?v=tUN01mxsSpw
 
+### Can Saros Be Considered A Roguelite? | Dev Heads Plays [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Dev Heads, JM8 and Mikee play some Saros and discuss whether or not its gameplay loop feels like a true Roguelite. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=rCk_OhleJPw
+
+### Community Request: Reworking the Way of the 4 Elements Subclass for Monks | RPG Help Desk [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+A neato person in our community asked to help rework the class into something more fun. So we're all banging our heads together to makes something enjoyable, thematic, and balanced... probably.
+
+Link: https://www.youtube.com/watch?v=DdiaUeS2JGk
+
 ### Mortal Kombat II Impressions, Mixtape’s Ridiculous Drama, and More | Firelink Podcast [9/10]
 **Creator:** Second Wind  
 **Verdict:** Watch it  
@@ -302,15 +311,6 @@ Link: https://www.youtube.com/watch?v=tUN01mxsSpw
 This week on Firelink, Nick, KC, and Marty chat about the the silly drama surrounding Mixtape, a game update from Sega, impressions of the new Mortal Kombat movie, and more.
 
 Link: https://www.youtube.com/watch?v=m_qB36b_gOY
-
-### Community Request: Reworking the Way of the 4 Elements Subclass for Monks | RPG Help Desk [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-A neato person in our community asked to help rework the class into something more fun. So we're all banging our heads together to makes something enjoyable, thematic, and balanced... probably.
-
-Link: https://www.youtube.com/watch?v=DdiaUeS2JGk
 
 ### Living the Drangleic Dream in Dark Souls 2 w/ Jack and Jess -- Part 7 [6/10]
 **Creator:** Second Wind  
@@ -356,15 +356,6 @@ Link: https://www.youtube.com/watch?v=N_3BROY9d00
 This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.com/ember This week on Fully Ramblomatic, Yahtzee reviewed Saros.
 
 Link: https://www.youtube.com/watch?v=QstTzpkeXIE
-
-### More Elden Ring Co-op Shenanigans w/ Jack and Jenna [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=5uKeF5z6stw
 
 ## Entertainment Recommendations
 

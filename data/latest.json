@@ -1,49 +1,69 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-15T09:00:31.561377Z",
-  "generatedAtDisplay": "2026-05-15 05:00 AM EDT",
+  "generatedAt": "2026-05-15T14:00:01.637868Z",
+  "generatedAtDisplay": "2026-05-15 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Forza Horizon 6 is lightweight enough to perform on just about any PC - though its new ray tracing modes slam on the brakes, After four bloody years, the war on Ukraine might be turning into Putin’s undoing | Rajan Menon, and US justice department accuses Yale medical school of illegally using race in admissions.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Rise in deed theft across US prompts crackdown in New York City, \"Sometimes all it really takes is one very bad commute\" - the Saros team reveal the surprising origins of Arjun's angry delivery, and \"This is gonna break your mods\": Stellaris is getting nomad empires, aka \"moving planets\", despite Paradox previously deeming this \"impossible\".",
   "mainItems": [
     {
-      "title": "Forza Horizon 6 is lightweight enough to perform on just about any PC - though its new ray tracing modes slam on the brakes",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/forza-horizon-6-pc-performance-best-settings",
-      "published": "2026-05-15T07:41:40+00:00",
-      "summary": "Forza Horizon 6 ’s bootful of PC-specific tech features was apparently stuffed enough to warrant a big, colourful blog post about them . Ultrawide support? Yes. DLSS 4 and FSR 4 ? Both.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Rise in deed theft across US prompts crackdown in New York City",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/nyc-american-deed-theft-crisis",
+      "published": "2026-05-15T13:00:41+00:00",
+      "summary": "After more than 500 deed theft complaints last year, Zohran Mamdani pushes crackdown effort Nurul Islamnuru, an immigrant from Bangladesh , rented a one-bedroom apartment in Queens, New York, with his wife, three children and father-in-law…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "After four bloody years, the war on Ukraine might be turning into Putin’s undoing | Rajan Menon",
-      "source": "The Guardian US",
+      "title": "\"Sometimes all it really takes is one very bad commute\" - the Saros team reveal the surprising origins of Arjun's angry delivery",
+      "source": "Eurogamer",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/15/russia-war-ukraine-vladimir-putin-economy-casualties",
-      "published": "2026-05-15T05:00:28+00:00",
-      "summary": "A battered economy, huge numbers of casualties and very little territorial gain – it’s no wonder even stalwart Putin supporters are showing signs of disquiet Rajan Menon is professor emeritus of international relations at Powell School,…",
+      "url": "https://www.eurogamer.net/saros-arjun-rahul-kolhi-voice",
+      "published": "2026-05-15T12:40:03+00:00",
+      "summary": "Many video game characters are immediately recognisable by their voices. Doug Cockle's gravely Geralt from The Witcher series is, Chrisopher Judge's imposing Kratos in God of War is, David Hayter's covert Snake is. I could go on.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "US justice department accuses Yale medical school of illegally using race in admissions",
+      "title": "\"This is gonna break your mods\": Stellaris is getting nomad empires, aka \"moving planets\", despite Paradox previously deeming this \"impossible\"",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/this-is-gonna-break-your-mods-stellaris-is-getting-nomad-empires-aka-moving-planets-despite-paradox-previously-deeming-this-impossible",
+      "published": "2026-05-15T11:35:22+00:00",
+      "summary": "Sci-fi 4X strategy game Stellaris is getting a Nomads expansion on June 15th that lets you jettison traditional ideas about territory and play as a wholly mobile civilisation - travelling around the galaxy in Arkships that serve as…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "UAE to complete second oil pipeline bypassing strait of Hormuz by 2027",
       "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/business/2026/may/15/uae-oil-pipeline-strait-of-hormuz-by-2027",
+      "published": "2026-05-15T11:28:08+00:00",
+      "summary": "State oil company fast-tracks previously undisclosed project, which is expected to double export capacity Business live – latest updates The United Arab Emirates has announced it will complete a new oil pipeline bypassing the strait of…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Maine Has a New Way to Prepare Teens for Jobs. Other States Are Noticing",
+      "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/education/2026/may/14/justice-department-yale-medical-school-race-admissions",
-      "published": "2026-05-14T23:11:06+00:00",
-      "summary": "A 2023 supreme court decision banned the use of affirmative action in college admissions The US Department of Justice on Thursday accused Yale University of illegally considering race in admissions to its medical school – the second…",
+      "url": "https://www.the74million.org/article/maine-has-a-new-way-to-prepare-teens-for-jobs-other-states-are-noticing/",
+      "published": "2026-05-15T10:30:00+00:00",
+      "summary": "A Maine non-profit hired by the state to teach students soft skills to better prepare for careers believes it’s found a way to train and measure those skills — and other states are taking notice.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "Behold, the Elon Musk jackass trophy",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
-      "published": "2026-05-14T21:35:35+00:00",
-      "summary": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "California bill pushing to keep games playable after server shutdowns passes key hurdle, paving way for full assembly vote",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/california-bill-pushing-to-keep-games-playable-after-server-shutdowns-passes-key-hurdle-paving-way-for-full-assembly-vote",
+      "published": "2026-05-15T10:18:48+00:00",
+      "summary": "A Californian bill aimed at game preservation and backed by the Stop Killing Games campaign has been voted through by a state committee focused on the fiscal cost of proposed legislation - thereby taking a key step closer to becoming a…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -57,33 +77,13 @@
       "score": 10
     },
     {
-      "title": "Earworm Kars4Kids jingle yanked from California airwaves for false advertising",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/14/kars4kids-jingle-california-false-advertising",
-      "published": "2026-05-15T01:44:35+00:00",
-      "summary": "Charity failed to mention it funnels about $45m annually to Jewish non-profit that organizes Israel trips for teens The twangy jingle produced by Kars4Kids will no longer be broadcast in California, at least in its current form, after a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Microsoft starts canceling Claude Code licenses",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-      "published": "2026-05-15T00:57:40+00:00",
-      "summary": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "US border patrol chief resigns abruptly amid string of exits by Trump immigration officials",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/may/14/us-border-patrol-chief-resigns",
-      "published": "2026-05-14T17:41:22+00:00",
-      "summary": "Mike Banks, who led Trump’s border crackdown, resigned weeks after reports of prostitution allegations Sign up for the Breaking News US newsletter email Mike Banks, the border patrol chief who oversaw the most aggressive militarization of…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
+      "published": "2026-05-15T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
@@ -95,6 +95,16 @@
       "summary": "A version of this essay originally appeared on “The Next 30 Years” Substack. A new Rand report on whole-book reading in secondary English classrooms arrives at a useful moment.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
+    },
+    {
+      "title": "Mayo Clinic is Using AI to Listen to Emergency Room Visits",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/mayo-clinic-is-using-ai-to-listen-to-emergency-room-visits/",
+      "published": "2026-05-15T13:00:08+00:00",
+      "summary": "Mayo Clinic's \"Ambient Listening\" has been around for a couple of years, but clearly not all patients know their interactions with nurses are being passively recorded and processed by AI.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "How Trump may be changing his stance on AI regulation",
@@ -114,16 +124,6 @@
       "published": "2026-05-14T18:32:01+00:00",
       "summary": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
       "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 8
-    },
-    {
-      "title": "DOGE Cuts Unleashed a Deadly Wave of Violence Across Africa, Study Finds",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/doge-cuts-unleashed-a-deadly-wave-of-violence-across-africa-study-finds/",
-      "published": "2026-05-14T18:00:56+00:00",
-      "summary": "The dismantling of the United States Agency for International Development (USAID) is associated with measurable increases in Africa, especially in areas most dependent on the agency’s support.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -172,17 +172,6 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "Does AI Flirt Better Than Humans?",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=0PehQikYTcM",
-      "published": "2026-05-12T13:15:02+00:00",
-      "summary": "Dating in 2026, but using AI. Can artificial intelligence do dating better than humans? WIRED finds out. Four bachelors duke it out for one woman’s attention.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
       "title": "Beijing Summit / Trump and Xi as allies, rivals and frenemies",
       "source": "NPR",
       "category": "News / analysis",
@@ -190,8 +179,8 @@
       "published": "2026-05-14T21:35:38+00:00",
       "summary": "President Trump visits Chinese leader Xi Jinping for the first time since 2017.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "How are Republicans in Louisiana going to vote?",
@@ -337,6 +326,28 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Can Saros Be Considered A Roguelite? | Dev Heads Plays",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=rCk_OhleJPw",
+      "published": "2026-05-15T13:11:31+00:00",
+      "summary": "This week on Dev Heads, JM8 and Mikee play some Saros and discuss whether or not its gameplay loop feels like a true Roguelite. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Community Request: Reworking the Way of the 4 Elements Subclass for Monks | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=DdiaUeS2JGk",
+      "published": "2026-05-15T10:55:18+00:00",
+      "summary": "A neato person in our community asked to help rework the class into something more fun. So we're all banging our heads together to makes something enjoyable, thematic, and balanced... probably.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Mortal Kombat II Impressions, Mixtape’s Ridiculous Drama, and More | Firelink Podcast",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -346,17 +357,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9,
       "verdict": "Watch it"
-    },
-    {
-      "title": "Community Request: Reworking the Way of the 4 Elements Subclass for Monks | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=DdiaUeS2JGk",
-      "published": "2026-05-14T14:36:02+00:00",
-      "summary": "A neato person in our community asked to help rework the class into something more fun. So we're all banging our heads together to makes something enjoyable, thematic, and balanced... probably.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     },
     {
       "title": "Living the Drangleic Dream in Dark Souls 2 w/ Jack and Jess -- Part 7",
@@ -412,17 +412,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "More Elden Ring Co-op Shenanigans w/ Jack and Jenna",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=5uKeF5z6stw",
-      "published": "2026-05-12T22:15:34+00:00",
-      "summary": "Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     }
   ],
   "trailers": [
@@ -763,8 +752,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 26,
+    "youtubeCount": 25,
     "trailerCount": 23,
-    "sourceCount": 20
+    "sourceCount": 21
   }
 }
