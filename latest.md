@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-15T05:00:02.288292Z
+Generated: 2026-05-15T09:00:31.561377Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Earworm Kars4Kids jingle yanked from California airwaves for false advertising, Microsoft starts canceling Claude Code licenses, and US justice department accuses Yale medical school of illegally using race in admissions.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Forza Horizon 6 is lightweight enough to perform on just about any PC - though its new ray tracing modes slam on the brakes, After four bloody years, the war on Ukraine might be turning into Putin’s undoing | Rajan Menon, and US justice department accuses Yale medical school of illegally using race in admissions.
 
 ## Briefing
 
@@ -13,23 +13,23 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. Earworm Kars4Kids jingle yanked from California airwaves for false advertising [10/10]
+### 1. Forza Horizon 6 is lightweight enough to perform on just about any PC - though its new ray tracing modes slam on the brakes [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Forza Horizon 6 ’s bootful of PC-specific tech features was apparently stuffed enough to warrant a big, colourful blog post about them . Ultrawide support? Yes. DLSS 4 and FSR 4 ? Both.
+
+Link: https://www.rockpapershotgun.com/forza-horizon-6-pc-performance-best-settings
+
+### 2. After four bloody years, the war on Ukraine might be turning into Putin’s undoing | Rajan Menon [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Charity failed to mention it funnels about $45m annually to Jewish non-profit that organizes Israel trips for teens The twangy jingle produced by Kars4Kids will no longer be broadcast in California, at least in its current form, after a…
+A battered economy, huge numbers of casualties and very little territorial gain – it’s no wonder even stalwart Putin supporters are showing signs of disquiet Rajan Menon is professor emeritus of international relations at Powell School,…
 
-Link: https://www.theguardian.com/us-news/2026/may/14/kars4kids-jingle-california-false-advertising
-
-### 2. Microsoft starts canceling Claude Code licenses [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily.
-
-Link: https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad
+Link: https://www.theguardian.com/commentisfree/2026/may/15/russia-war-ukraine-vladimir-putin-economy-casualties
 
 ### 3. US justice department accuses Yale medical school of illegally using race in admissions [10/10]
 **Source:** The Guardian US  
@@ -58,43 +58,34 @@ The education secretary faced questions about the shrinking of her agency, limit
 
 Link: https://www.npr.org/2026/05/14/nx-s1-5815213/education-secretary-linda-mcmahon-house-hearing
 
-### 6. The Elon Musk v Sam Altman battle is a distraction | Karen Hao [10/10]
+### 6. Earworm Kars4Kids jingle yanked from California airwaves for false advertising [9/10]
 **Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Fixating on questions of whether Altman is untrustworthy, or whether Musk is even less so distracts from a far deeper problem with AI If it wasn’t already clear, Elon Musk and Sam Altman hate each other.
+Charity failed to mention it funnels about $45m annually to Jewish non-profit that organizes Israel trips for teens The twangy jingle produced by Kars4Kids will no longer be broadcast in California, at least in its current form, after a…
 
-Link: https://www.theguardian.com/technology/commentisfree/2026/may/14/elon-musk-sam-altman-ai-feud
+Link: https://www.theguardian.com/us-news/2026/may/14/kars4kids-jingle-california-false-advertising
 
-### 7. Exodus' former studio head James Ohlen touches on why he left Archetype Entertainment: "I was running on fumes" [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 7. Microsoft starts canceling Claude Code licenses [9/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Back in December of last year , despite being the head of the studio, James Ohlen left Archetype Entertainment, also leaving his role as producer on Exodus behind.
+Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily.
 
-Link: https://www.rockpapershotgun.com/exodus-former-studio-head-james-ohlen-touches-on-why-he-left-archetype-entertainment-i-was-running-on-fumes
+Link: https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad
 
-### 8. California Democrat linked to Newsom and Becerra pleads guilty to fraud [9/10]
+### 8. US border patrol chief resigns abruptly amid string of exits by Trump immigration officials [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Dana Williamson, who has ties to Gavin Newsom, conspired to steal gubernatorial hopeful Xavier Becerra’s campaign funds Sign up for the Breaking News US newsletter email Dana Williamson, a top California political strategist with ties to…
+Mike Banks, who led Trump’s border crackdown, resigned weeks after reports of prostitution allegations Sign up for the Breaking News US newsletter email Mike Banks, the border patrol chief who oversaw the most aggressive militarization of…
 
-Link: https://www.theguardian.com/us-news/2026/may/14/dana-williamson-california-democrat-strategist-fraud
+Link: https://www.theguardian.com/us-news/2026/may/14/us-border-patrol-chief-resigns
 
-### 9. Zero-day exploit completely defeats default Windows 11 BitLocker protections [9/10]
-**Source:** Ars Technica  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-It's not entirely clear how the exploit works. Microsoft says it's investigating.
-
-Link: https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/
-
-### 10. Opinion: Report Finds Books Aren’t Vanishing From Schools. But That’s Not the Whole Story [9/10]
+### 9. Opinion: Report Finds Books Aren’t Vanishing From Schools. But That’s Not the Whole Story [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -103,7 +94,7 @@ A version of this essay originally appeared on “The Next 30 Years” Substack.
 
 Link: https://www.the74million.org/article/report-finds-books-arent-vanishing-from-schools-but-thats-not-the-whole-story/
 
-### 11. How Trump may be changing his stance on AI regulation [8/10]
+### 10. How Trump may be changing his stance on AI regulation [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -111,6 +102,15 @@ Link: https://www.the74million.org/article/report-finds-books-arent-vanishing-fr
 The Trump administration's approach on AI so far has been to prioritize innovation over regulation. But recently, there's been a shift in rhetoric.
 
 Link: https://www.npr.org/2026/05/14/nx-s1-5818490/how-trump-may-be-changing-his-stance-on-ai-regulation
+
+### 11. Zero-day exploit completely defeats default Windows 11 BitLocker protections [8/10]
+**Source:** Ars Technica  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+It's not entirely clear how the exploit works. Microsoft says it's investigating.
+
+Link: https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/
 
 ### 12. DOGE Cuts Unleashed a Deadly Wave of Violence Across Africa, Study Finds [8/10]
 **Source:** 404 Media  
@@ -121,7 +121,7 @@ The dismantling of the United States Agency for International Development (USAID
 
 Link: https://www.404media.co/doge-cuts-unleashed-a-deadly-wave-of-violence-across-africa-study-finds/
 
-### 13. Lanterns Showrunner Explains How His Show Fits Into the Current DCU Timeline [8/10]
+### 13. Lanterns Showrunner Explains How His Show Fits Into the Current DCU Timeline [7/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -141,9 +141,9 @@ Link: https://reactormag.com/lanterns-timelines-dcu-guy-gardner/
 
 Link: https://www.youtube.com/watch?v=4wC8hnQawiA
 
-### AI Keeps The Conversation Flowing... At All Costs [9/10]
+### AI Keeps The Conversation Flowing... At All Costs [8/10]
 **Creator:** WIRED  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Dating in 2026, but using AI. Can artificial intelligence do dating better than humans? WIRED finds out. Four bachelors duke it out for one woman’s attention.
@@ -294,7 +294,7 @@ Link: https://www.youtube.com/watch?v=4K9zb571iUw
 
 Link: https://www.youtube.com/watch?v=tUN01mxsSpw
 
-### Mortal Kombat II Impressions, Mixtape’s Ridiculous Drama, and More | Firelink Podcast [10/10]
+### Mortal Kombat II Impressions, Mixtape’s Ridiculous Drama, and More | Firelink Podcast [9/10]
 **Creator:** Second Wind  
 **Verdict:** Watch it  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -312,9 +312,9 @@ A neato person in our community asked to help rework the class into something mo
 
 Link: https://www.youtube.com/watch?v=DdiaUeS2JGk
 
-### Living the Drangleic Dream in Dark Souls 2 w/ Jack and Jess -- Part 7 [7/10]
+### Living the Drangleic Dream in Dark Souls 2 w/ Jack and Jess -- Part 7 [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.

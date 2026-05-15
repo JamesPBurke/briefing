@@ -1,28 +1,28 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-15T05:00:02.288292Z",
-  "generatedAtDisplay": "2026-05-15 01:00 AM EDT",
+  "generatedAt": "2026-05-15T09:00:31.561377Z",
+  "generatedAtDisplay": "2026-05-15 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Earworm Kars4Kids jingle yanked from California airwaves for false advertising, Microsoft starts canceling Claude Code licenses, and US justice department accuses Yale medical school of illegally using race in admissions.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Forza Horizon 6 is lightweight enough to perform on just about any PC - though its new ray tracing modes slam on the brakes, After four bloody years, the war on Ukraine might be turning into Putin’s undoing | Rajan Menon, and US justice department accuses Yale medical school of illegally using race in admissions.",
   "mainItems": [
     {
-      "title": "Earworm Kars4Kids jingle yanked from California airwaves for false advertising",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/14/kars4kids-jingle-california-false-advertising",
-      "published": "2026-05-15T01:44:35+00:00",
-      "summary": "Charity failed to mention it funnels about $45m annually to Jewish non-profit that organizes Israel trips for teens The twangy jingle produced by Kars4Kids will no longer be broadcast in California, at least in its current form, after a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Forza Horizon 6 is lightweight enough to perform on just about any PC - though its new ray tracing modes slam on the brakes",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/forza-horizon-6-pc-performance-best-settings",
+      "published": "2026-05-15T07:41:40+00:00",
+      "summary": "Forza Horizon 6 ’s bootful of PC-specific tech features was apparently stuffed enough to warrant a big, colourful blog post about them . Ultrawide support? Yes. DLSS 4 and FSR 4 ? Both.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Microsoft starts canceling Claude Code licenses",
-      "source": "The Verge",
+      "title": "After four bloody years, the war on Ukraine might be turning into Putin’s undoing | Rajan Menon",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-      "published": "2026-05-15T00:57:40+00:00",
-      "summary": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily.",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/15/russia-war-ukraine-vladimir-putin-economy-casualties",
+      "published": "2026-05-15T05:00:28+00:00",
+      "summary": "A battered economy, huge numbers of casualties and very little territorial gain – it’s no wonder even stalwart Putin supporters are showing signs of disquiet Rajan Menon is professor emeritus of international relations at Powell School,…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -57,43 +57,33 @@
       "score": 10
     },
     {
-      "title": "The Elon Musk v Sam Altman battle is a distraction | Karen Hao",
+      "title": "Earworm Kars4Kids jingle yanked from California airwaves for false advertising",
       "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/technology/commentisfree/2026/may/14/elon-musk-sam-altman-ai-feud",
-      "published": "2026-05-14T11:00:24+00:00",
-      "summary": "Fixating on questions of whether Altman is untrustworthy, or whether Musk is even less so distracts from a far deeper problem with AI If it wasn’t already clear, Elon Musk and Sam Altman hate each other.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Exodus' former studio head James Ohlen touches on why he left Archetype Entertainment: \"I was running on fumes\"",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/exodus-former-studio-head-james-ohlen-touches-on-why-he-left-archetype-entertainment-i-was-running-on-fumes",
-      "published": "2026-05-14T21:54:29+00:00",
-      "summary": "Back in December of last year , despite being the head of the studio, James Ohlen left Archetype Entertainment, also leaving his role as producer on Exodus behind.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/14/kars4kids-jingle-california-false-advertising",
+      "published": "2026-05-15T01:44:35+00:00",
+      "summary": "Charity failed to mention it funnels about $45m annually to Jewish non-profit that organizes Israel trips for teens The twangy jingle produced by Kars4Kids will no longer be broadcast in California, at least in its current form, after a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
-      "title": "California Democrat linked to Newsom and Becerra pleads guilty to fraud",
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "published": "2026-05-15T00:57:40+00:00",
+      "summary": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "US border patrol chief resigns abruptly amid string of exits by Trump immigration officials",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/may/14/dana-williamson-california-democrat-strategist-fraud",
-      "published": "2026-05-14T20:43:27+00:00",
-      "summary": "Dana Williamson, who has ties to Gavin Newsom, conspired to steal gubernatorial hopeful Xavier Becerra’s campaign funds Sign up for the Breaking News US newsletter email Dana Williamson, a top California political strategist with ties to…",
+      "url": "https://www.theguardian.com/us-news/2026/may/14/us-border-patrol-chief-resigns",
+      "published": "2026-05-14T17:41:22+00:00",
+      "summary": "Mike Banks, who led Trump’s border crackdown, resigned weeks after reports of prostitution allegations Sign up for the Breaking News US newsletter email Mike Banks, the border patrol chief who oversaw the most aggressive militarization of…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
-      "source": "Ars Technica",
-      "category": "Security / computing",
-      "url": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
-      "published": "2026-05-14T18:32:01+00:00",
-      "summary": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 9
     },
     {
@@ -117,6 +107,16 @@
       "score": 8
     },
     {
+      "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
+      "source": "Ars Technica",
+      "category": "Security / computing",
+      "url": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+      "published": "2026-05-14T18:32:01+00:00",
+      "summary": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 8
+    },
+    {
       "title": "DOGE Cuts Unleashed a Deadly Wave of Violence Across Africa, Study Finds",
       "source": "404 Media",
       "category": "Tech / media",
@@ -134,7 +134,7 @@
       "published": "2026-05-14T17:10:53+00:00",
       "summary": "What's Guy Gardner doing in a Very Serious Detective Program? The post Lanterns Showrunner Explains How His Show Fits Into the Current DCU Timeline appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
+      "score": 7
     }
   ],
   "youtube": [
@@ -157,8 +157,8 @@
       "published": "2026-05-14T20:00:02+00:00",
       "summary": "Dating in 2026, but using AI. Can artificial intelligence do dating better than humans? WIRED finds out. Four bachelors duke it out for one woman’s attention.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Cybersecurity Expert Answers Hacking Questions | Tech Support | WIRED",
@@ -344,7 +344,7 @@
       "published": "2026-05-15T02:32:31+00:00",
       "summary": "This week on Firelink, Nick, KC, and Marty chat about the the silly drama surrounding Mixtape, a game update from Sega, impressions of the new Mortal Kombat movie, and more.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10,
+      "score": 9,
       "verdict": "Watch it"
     },
     {
@@ -366,8 +366,8 @@
       "published": "2026-05-14T19:13:21+00:00",
       "summary": "The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Yahtzee Attempts to Read the Lore of Bionicle",
