@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-15T14:00:01.637868Z
+Generated: 2026-05-16T05:00:02.778657Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Rise in deed theft across US prompts crackdown in New York City, "Sometimes all it really takes is one very bad commute" - the Saros team reveal the surprising origins of Arjun's angry delivery, and "This is gonna break your mods": Stellaris is getting nomad empires, aka "moving planets", despite Paradox previously deeming this "impossible".
+Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side., Russia pressures university students to become wartime drone pilots, and Veterans group sues Trump administration over ban on abortion services.
 
 ## Briefing
 
@@ -13,122 +13,122 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. Rise in deed theft across US prompts crackdown in New York City [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-After more than 500 deed theft complaints last year, Zohran Mamdani pushes crackdown effort Nurul Islamnuru, an immigrant from Bangladesh , rented a one-bedroom apartment in Queens, New York, with his wife, three children and father-in-law…
-
-Link: https://www.theguardian.com/us-news/2026/may/15/nyc-american-deed-theft-crisis
-
-### 2. "Sometimes all it really takes is one very bad commute" - the Saros team reveal the surprising origins of Arjun's angry delivery [10/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Many video game characters are immediately recognisable by their voices. Doug Cockle's gravely Geralt from The Witcher series is, Chrisopher Judge's imposing Kratos in God of War is, David Hayter's covert Snake is. I could go on.
-
-Link: https://www.eurogamer.net/saros-arjun-rahul-kolhi-voice
-
-### 3. "This is gonna break your mods": Stellaris is getting nomad empires, aka "moving planets", despite Paradox previously deeming this "impossible" [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Sci-fi 4X strategy game Stellaris is getting a Nomads expansion on June 15th that lets you jettison traditional ideas about territory and play as a wholly mobile civilisation - travelling around the galaxy in Arkships that serve as…
-
-Link: https://www.rockpapershotgun.com/this-is-gonna-break-your-mods-stellaris-is-getting-nomad-empires-aka-moving-planets-despite-paradox-previously-deeming-this-impossible
-
-### 4. UAE to complete second oil pipeline bypassing strait of Hormuz by 2027 [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-State oil company fast-tracks previously undisclosed project, which is expected to double export capacity Business live – latest updates The United Arab Emirates has announced it will complete a new oil pipeline bypassing the strait of…
-
-Link: https://www.theguardian.com/business/2026/may/15/uae-oil-pipeline-strait-of-hormuz-by-2027
-
-### 5. Maine Has a New Way to Prepare Teens for Jobs. Other States Are Noticing [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-A Maine non-profit hired by the state to teach students soft skills to better prepare for careers believes it’s found a way to train and measure those skills — and other states are taking notice.
-
-Link: https://www.the74million.org/article/maine-has-a-new-way-to-prepare-teens-for-jobs-other-states-are-noticing/
-
-### 6. California bill pushing to keep games playable after server shutdowns passes key hurdle, paving way for full assembly vote [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-A Californian bill aimed at game preservation and backed by the Stop Killing Games campaign has been voted through by a state committee focused on the fiscal cost of proposed legislation - thereby taking a key step closer to becoming a…
-
-Link: https://www.rockpapershotgun.com/california-bill-pushing-to-keep-games-playable-after-server-shutdowns-passes-key-hurdle-paving-way-for-full-assembly-vote
-
-### 7. Linda McMahon defends dismantling the Education Department, shifting its work [10/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The education secretary faced questions about the shrinking of her agency, limits on federal student loan borrowing and oversight of the education of students with disabilities.
-
-Link: https://www.npr.org/2026/05/14/nx-s1-5815213/education-secretary-linda-mcmahon-house-hearing
-
-### 8. The Download: China’s AI drama factory and the WHO’s missing health targets [9/10]
+### 1. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side. [10/10]
 **Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility.
 
-Link: https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/
+Link: https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/
 
-### 9. Opinion: Report Finds Books Aren’t Vanishing From Schools. But That’s Not the Whole Story [9/10]
+### 2. Russia pressures university students to become wartime drone pilots [10/10]
+**Source:** Ars Technica  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Universities promise no frontline duty and perks if students enlist in military.
+
+Link: https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/
+
+### 3. Veterans group sues Trump administration over ban on abortion services [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Suit claims Veterans Affairs violates law by restricting abortion services for veterans and their dependents Sign up for the Breaking News US newsletter email An advocacy organization representing US veterans has filed a lawsuit against…
+
+Link: https://www.theguardian.com/us-news/2026/may/15/abortion-veterans-affairs-lawsuit-trump-administration
+
+### 4. Amid National ‘Reading Recession,’ Some California Districts’ Reading and Math Scores Are on the Rise [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+This story was originally published by EdSource. Sign up for their daily newsletter.
+
+Link: https://www.the74million.org/article/amid-national-reading-recession-some-california-districts-reading-and-math-scores-are-on-the-rise/
+
+### 5. AI radio hosts demonstrate why AI can’t be trusted alone [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies
+
+### 6. Iraqi accused of terrorism attacks and plots in US and Europe arrested and charged [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Mohammad Baqer Saad Dawood al-Saadi appeared in US federal court to face six terrorism-related charges The US justice department has arrested and charged an Iraqi national accused of involvement in nearly 20 alleged terror attacks and…
+
+Link: https://www.theguardian.com/us-news/2026/may/15/iraqi-terror-attacks-arrested-charged
+
+### 7. Texas children’s hospital to create first detransition clinic in win for Trump [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+One of the largest pediatric hospitals in the US will pay state $10m and stop offering gender-affirming care to youth One of the largest pediatric hospitals in the US is creating a clinic that officials say will be a place for transgender…
+
+Link: https://www.theguardian.com/us-news/2026/may/15/trump-texas-detransition-clinic
+
+### 8. Pentagon quietly shut legally required program to prevent civilian deaths by military, watchdog finds [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Trump administration accused of cutting military’s civilian harm program in light of US strike on girls school in Iran The Pentagon has quietly dismantled a program it is legally required to operate to prevent and respond to civilian…
+
+Link: https://www.theguardian.com/us-news/2026/may/15/pentagon-civilian-death-program
+
+### 9. "We are not trying to dismiss handmade work or disrespect creators" - studio behind popular party game Party Animals backtracks after AI video contest outcry [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Recreate Games has apologised after an AI-focused video contest for its popular casual brawler Party Animals drew significant community criticism, insisting it was "not trying to dismiss handmade work or disrespect creators". Read more
+
+Link: https://www.eurogamer.net/party-animals-ai-competition-controversy-apology
+
+### 10. Philadelphia Middle Schoolers Explore How AI Changes Their Classrooms and Their Lives [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-A version of this essay originally appeared on “The Next 30 Years” Substack. A new Rand report on whole-book reading in secondary English classrooms arrives at a useful moment.
+The middle schoolers at Philly’s Marian Anderson Neighborhood Academy have a lot of questions about artificial intelligence. They want to know how the government is using AI and what impact the technology has on the environment.
 
-Link: https://www.the74million.org/article/report-finds-books-arent-vanishing-from-schools-but-thats-not-the-whole-story/
+Link: https://www.the74million.org/article/philadelphia-middle-schoolers-explore-how-ai-changes-their-classrooms-and-their-lives/
 
-### 10. Mayo Clinic is Using AI to Listen to Emergency Room Visits [8/10]
+### 11. Hantavirus countdown: U.S. cruise passengers settle in for 42 days of waiting [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+The hantavirus outbreak on a cruise ship has potentially exposed passengers to a deadly disease. Most returning Americans are now housed in Nebraska. Some may be cleared to quarantine at home.
+
+Link: https://www.npr.org/2026/05/15/nx-s1-5819872/hantavirus-quarantine
+
+### 12. Behind the Blog: New Music and a Crash Out [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-Mayo Clinic's "Ambient Listening" has been around for a couple of years, but clearly not all patients know their interactions with nurses are being passively recorded and processed by AI.
+This week, we discuss developers' AI woes, how the magic happens, and the Beach Boys.
 
-Link: https://www.404media.co/mayo-clinic-is-using-ai-to-listen-to-emergency-room-visits/
+Link: https://www.404media.co/behind-the-blog-new-music-and-a-crash-out/
 
-### 11. How Trump may be changing his stance on AI regulation [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-The Trump administration's approach on AI so far has been to prioritize innovation over regulation. But recently, there's been a shift in rhetoric.
-
-Link: https://www.npr.org/2026/05/14/nx-s1-5818490/how-trump-may-be-changing-his-stance-on-ai-regulation
-
-### 12. Zero-day exploit completely defeats default Windows 11 BitLocker protections [8/10]
-**Source:** Ars Technica  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-It's not entirely clear how the exploit works. Microsoft says it's investigating.
-
-Link: https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/
-
-### 13. Lanterns Showrunner Explains How His Show Fits Into the Current DCU Timeline [7/10]
+### 13. Obsession Makes an Old Story New Again With Astonishing Acting [7/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-What's Guy Gardner doing in a Very Serious Detective Program? The post Lanterns Showrunner Explains How His Show Fits Into the Current DCU Timeline appeared first on Reactor .
+This new take on a "be careful what you wish for" premise is dark as it gets. The post Obsession Makes an Old Story New Again With Astonishing Acting appeared first on Reactor .
 
-Link: https://reactormag.com/lanterns-timelines-dcu-guy-gardner/
+Link: https://reactormag.com/obsession-movie-review/
 
 ## YouTube
 
@@ -141,6 +141,15 @@ Link: https://reactormag.com/lanterns-timelines-dcu-guy-gardner/
 
 Link: https://www.youtube.com/watch?v=4wC8hnQawiA
 
+### Can AI Predict Date Compatibility? | AI Dating [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Dating in 2026, but using AI. Can artificial intelligence predict romantic chemistry? WIRED finds out. Four bachelors go on speed dates with our bachelorette whilst ChatGPT and Claude rank their compatibility.
+
+Link: https://www.youtube.com/watch?v=zKzZAtmhnEQ
+
 ### AI Keeps The Conversation Flowing... At All Costs [8/10]
 **Creator:** WIRED  
 **Verdict:** Worth watching  
@@ -149,15 +158,6 @@ Link: https://www.youtube.com/watch?v=4wC8hnQawiA
 Dating in 2026, but using AI. Can artificial intelligence do dating better than humans? WIRED finds out. Four bachelors duke it out for one woman’s attention.
 
 Link: https://www.youtube.com/watch?v=znD-27o34ZU
-
-### Cybersecurity Expert Answers Hacking Questions | Tech Support | WIRED [8/10]
-**Creator:** WIRED  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Cybersecurity researcher Allison Nixon joins WIRED to answer the internet’s burning questions about online safety.
-
-Link: https://www.youtube.com/watch?v=yAkdi07egzc
 
 ### Beijing Summit / Trump and Xi as allies, rivals and frenemies [8/10]
 **Creator:** NPR  
@@ -186,45 +186,27 @@ President Trump has arrived in China for a state visit. He plans to focus on tra
 
 Link: https://www.youtube.com/watch?v=QzJ0iF-foK4
 
-### Republicans face an uphill battle convincing voters they should stay in power after the midterms [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Republicans face an uphill battle convincing voters they should stay in power after the midterms.
-
-Link: https://www.youtube.com/watch?v=P3K_-PsX7Hk
-
-### 2084: A cautionary tale about the future of war and a changing planet | Sources & Methods [8/10]
-**Creator:** NPR  
+### Could Microsoft Bring Project Helix Windows Support To Xbox Series X? [8/10]
+**Creator:** Digital Foundry  
 **Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
-Laser weapons, advanced drone warfare, and nation states around the globe redefined by climate change: this is the world in 2084, envisioned by authors Jim Stavridis and Elliot Ackerman.
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
-Link: https://www.youtube.com/watch?v=bpMV9wQ3f-A
+Link: https://www.youtube.com/watch?v=2sjXxfFtJQw
 
-### What do you think of the political divide in our country? [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-"Divided we fall." That's what one Ohio resident quoted to NPR when we were reporting from Ohio's 9th district.
-
-Link: https://www.youtube.com/watch?v=F4stLXLghnk
-
-### Nonprofit sues over work to paint D.C.'s reflecting pool blue [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-A nonprofit is suing the Trump administration over its move to resurface and paint the reflecting pool on the National Mall. The group says there was no federal review of the plan, and the work is already underway.
-
-Link: https://www.youtube.com/watch?v=AEoU-QePbOc
-
-### Pragmata PS5 Pro Got An Undocumented Resolution Increase [7/10]
+### Nvidia GTX 10-Series 10th Anniversary: Team Green's Finest Hour? [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/JvYOHdPOt7g ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=QLppEciwaVo
+
+### Pragmata PS5 Pro Got An Undocumented Resolution Increase [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/JvYOHdPOt7g ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -267,24 +249,6 @@ We put it to the test. Read more: https://www.digitalfoundry.net/news/2026/05/yu
 
 Link: https://www.youtube.com/watch?v=Y1IFLt7PfhQ
 
-### Nintendo Increases Switch 2 Prices - It's Bad But Could Have Been Worse [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/JvYOHdPOt7g ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=4K9zb571iUw
-
-### Nintendo's Star Fox Reveal - The Remake, The Graphics, The Characters [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/JvYOHdPOt7g ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=tUN01mxsSpw
-
 ### Can Saros Be Considered A Roguelite? | Dev Heads Plays [8/10]
 **Creator:** Second Wind  
 **Verdict:** Worth watching  
@@ -294,18 +258,36 @@ This week on Dev Heads, JM8 and Mikee play some Saros and discuss whether or not
 
 Link: https://www.youtube.com/watch?v=rCk_OhleJPw
 
-### Community Request: Reworking the Way of the 4 Elements Subclass for Monks | RPG Help Desk [7/10]
+### Level Up Session | Adventure Is Nigh! - The Slow Walk Home [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.
+
+Link: https://www.youtube.com/watch?v=zvGJ0newmrg
+
+### Gaming Discourse Has Gotten Insufferably Dumb | Unpacked [7/10]
 **Creator:** Second Wind  
 **Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Every game seems to have some "controversy" attached to it, but it's mostly made up nonsense. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=lqO3xz1PU6U
+
+### Community Request: Reworking the Way of the 4 Elements Subclass for Monks | RPG Help Desk [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 A neato person in our community asked to help rework the class into something more fun. So we're all banging our heads together to makes something enjoyable, thematic, and balanced... probably.
 
 Link: https://www.youtube.com/watch?v=DdiaUeS2JGk
 
-### Mortal Kombat II Impressions, Mixtape’s Ridiculous Drama, and More | Firelink Podcast [9/10]
+### Mortal Kombat II Impressions, Mixtape’s Ridiculous Drama, and More | Firelink Podcast [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Firelink, Nick, KC, and Marty chat about the the silly drama surrounding Mixtape, a game update from Sega, impressions of the new Mortal Kombat movie, and more.
@@ -338,24 +320,6 @@ Link: https://www.youtube.com/watch?v=guInmfd57EA
 NOTE: Nintendo hit us with a strike for showing the Star Fox Direct during our Star Fox stream, but you can find the VOD here -- https://youtu.
 
 Link: https://www.youtube.com/watch?v=2XUDa_jVtRs
-
-### Yahtzee Tries... Froggy Hates Snow and Everything Is Crab [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Yahtzee Tries... Yahtzee and Jesse G try out Froggy Hates Snow and Everything Is Crab. FROGGY HATES SNOW -- https://store.steampowered.com/app/3232380/FROGGY_HATES_SNOW/ EVERYTHING IS CRAB -- https://store.steampowered.
-
-Link: https://www.youtube.com/watch?v=N_3BROY9d00
-
-### Saros | Fully Ramblomatic [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.com/ember This week on Fully Ramblomatic, Yahtzee reviewed Saros.
-
-Link: https://www.youtube.com/watch?v=QstTzpkeXIE
 
 ## Entertainment Recommendations
 
@@ -458,7 +422,7 @@ The crypt is open, boils and ghouls. TALES FROM THE CRYPT Season 1 drops May 1st
 
 Link: https://www.youtube.com/watch?v=LSwkCskbvzQ
 
-### RONDA ROUSEY AND GINA CARANO FACE OFF #RouseyCarano [10/10]
+### RONDA ROUSEY AND GINA CARANO FACE OFF #RouseyCarano [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -565,30 +529,3 @@ Link: https://www.youtube.com/watch?v=umdDAJavJ7s
 With wedding bells on the horizon, the Magnolias chase a shared dream, explore the world beyond Serenity, and lift each other up amid a summer of change. https://georgia.
 
 Link: https://www.youtube.com/watch?v=d8_FSNLyTAY
-
-### Your Friends & Neighbors — The Eulogy | Season 2 Scene | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Coop reflects on the life of his father. Season 2 of Your Friends & Neighbors is now streaming on Apple TV https://apple.
-
-Link: https://www.youtube.com/watch?v=V7kLc3oK_zE
-
-### Monarch: Legacy of Monsters — Best Monster Sightings of Season 2 | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-It's not a Legacy of Monsters without the monsters. From Kong, to Godzilla, to Titan X — and all the creatures in between, these are the best monster scenes from Season 2 of Monarch, now streaming on Apple TV https://apple.
-
-Link: https://www.youtube.com/watch?v=z-tIu-Qv5JQ
-
-### A monster menagerie. #Monarch: Legacy of Monsters — Season 2 Now Streaming [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Titan X isn't herself, but it makes no difference to Kong. It's the Skull Island showdown from "Where We Belong." Monarch: Legacy of Monsters Season 2 is now streaming on Apple TV https://apple.
-
-Link: https://www.youtube.com/watch?v=oGSifJMwXrY

@@ -1,138 +1,138 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-15T14:00:01.637868Z",
-  "generatedAtDisplay": "2026-05-15 10:00 AM EDT",
+  "generatedAt": "2026-05-16T05:00:02.778657Z",
+  "generatedAtDisplay": "2026-05-16 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Rise in deed theft across US prompts crackdown in New York City, \"Sometimes all it really takes is one very bad commute\" - the Saros team reveal the surprising origins of Arjun's angry delivery, and \"This is gonna break your mods\": Stellaris is getting nomad empires, aka \"moving planets\", despite Paradox previously deeming this \"impossible\".",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side., Russia pressures university students to become wartime drone pilots, and Veterans group sues Trump administration over ban on abortion services.",
   "mainItems": [
     {
-      "title": "Rise in deed theft across US prompts crackdown in New York City",
+      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "published": "2026-05-15T23:39:35+00:00",
+      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Russia pressures university students to become wartime drone pilots",
+      "source": "Ars Technica",
+      "category": "Democracy / press freedom",
+      "url": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
+      "published": "2026-05-15T22:19:12+00:00",
+      "summary": "Universities promise no frontline duty and perks if students enlist in military.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Veterans group sues Trump administration over ban on abortion services",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/may/15/nyc-american-deed-theft-crisis",
-      "published": "2026-05-15T13:00:41+00:00",
-      "summary": "After more than 500 deed theft complaints last year, Zohran Mamdani pushes crackdown effort Nurul Islamnuru, an immigrant from Bangladesh , rented a one-bedroom apartment in Queens, New York, with his wife, three children and father-in-law…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/abortion-veterans-affairs-lawsuit-trump-administration",
+      "published": "2026-05-15T21:49:42+00:00",
+      "summary": "Suit claims Veterans Affairs violates law by restricting abortion services for veterans and their dependents Sign up for the Breaking News US newsletter email An advocacy organization representing US veterans has filed a lawsuit against…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "\"Sometimes all it really takes is one very bad commute\" - the Saros team reveal the surprising origins of Arjun's angry delivery",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/saros-arjun-rahul-kolhi-voice",
-      "published": "2026-05-15T12:40:03+00:00",
-      "summary": "Many video game characters are immediately recognisable by their voices. Doug Cockle's gravely Geralt from The Witcher series is, Chrisopher Judge's imposing Kratos in God of War is, David Hayter's covert Snake is. I could go on.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "\"This is gonna break your mods\": Stellaris is getting nomad empires, aka \"moving planets\", despite Paradox previously deeming this \"impossible\"",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/this-is-gonna-break-your-mods-stellaris-is-getting-nomad-empires-aka-moving-planets-despite-paradox-previously-deeming-this-impossible",
-      "published": "2026-05-15T11:35:22+00:00",
-      "summary": "Sci-fi 4X strategy game Stellaris is getting a Nomads expansion on June 15th that lets you jettison traditional ideas about territory and play as a wholly mobile civilisation - travelling around the galaxy in Arkships that serve as…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "UAE to complete second oil pipeline bypassing strait of Hormuz by 2027",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/2026/may/15/uae-oil-pipeline-strait-of-hormuz-by-2027",
-      "published": "2026-05-15T11:28:08+00:00",
-      "summary": "State oil company fast-tracks previously undisclosed project, which is expected to double export capacity Business live – latest updates The United Arab Emirates has announced it will complete a new oil pipeline bypassing the strait of…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Maine Has a New Way to Prepare Teens for Jobs. Other States Are Noticing",
+      "title": "Amid National ‘Reading Recession,’ Some California Districts’ Reading and Math Scores Are on the Rise",
       "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/maine-has-a-new-way-to-prepare-teens-for-jobs-other-states-are-noticing/",
-      "published": "2026-05-15T10:30:00+00:00",
-      "summary": "A Maine non-profit hired by the state to teach students soft skills to better prepare for careers believes it’s found a way to train and measure those skills — and other states are taking notice.",
+      "url": "https://www.the74million.org/article/amid-national-reading-recession-some-california-districts-reading-and-math-scores-are-on-the-rise/",
+      "published": "2026-05-15T18:30:00+00:00",
+      "summary": "This story was originally published by EdSource. Sign up for their daily newsletter.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "California bill pushing to keep games playable after server shutdowns passes key hurdle, paving way for full assembly vote",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/california-bill-pushing-to-keep-games-playable-after-server-shutdowns-passes-key-hurdle-paving-way-for-full-assembly-vote",
-      "published": "2026-05-15T10:18:48+00:00",
-      "summary": "A Californian bill aimed at game preservation and backed by the Stop Killing Games campaign has been voted through by a state committee focused on the fiscal cost of proposed legislation - thereby taking a key step closer to becoming a…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Linda McMahon defends dismantling the Education Department, shifting its work",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/14/nx-s1-5815213/education-secretary-linda-mcmahon-house-hearing",
-      "published": "2026-05-14T20:42:29+00:00",
-      "summary": "The education secretary faced questions about the shrinking of her agency, limits on federal student loan borrowing and oversight of the education of students with disabilities.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10
-    },
-    {
-      "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
-      "source": "MIT Technology Review",
+      "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
-      "published": "2026-05-15T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+      "published": "2026-05-15T17:09:16+00:00",
+      "summary": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Iraqi accused of terrorism attacks and plots in US and Europe arrested and charged",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/iraqi-terror-attacks-arrested-charged",
+      "published": "2026-05-16T00:04:43+00:00",
+      "summary": "Mohammad Baqer Saad Dawood al-Saadi appeared in US federal court to face six terrorism-related charges The US justice department has arrested and charged an Iraqi national accused of involvement in nearly 20 alleged terror attacks and…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
-      "title": "Opinion: Report Finds Books Aren’t Vanishing From Schools. But That’s Not the Whole Story",
+      "title": "Texas children’s hospital to create first detransition clinic in win for Trump",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/trump-texas-detransition-clinic",
+      "published": "2026-05-15T21:59:27+00:00",
+      "summary": "One of the largest pediatric hospitals in the US will pay state $10m and stop offering gender-affirming care to youth One of the largest pediatric hospitals in the US is creating a clinic that officials say will be a place for transgender…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Pentagon quietly shut legally required program to prevent civilian deaths by military, watchdog finds",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/pentagon-civilian-death-program",
+      "published": "2026-05-15T21:34:30+00:00",
+      "summary": "Trump administration accused of cutting military’s civilian harm program in light of US strike on girls school in Iran The Pentagon has quietly dismantled a program it is legally required to operate to prevent and respond to civilian…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "\"We are not trying to dismiss handmade work or disrespect creators\" - studio behind popular party game Party Animals backtracks after AI video contest outcry",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/party-animals-ai-competition-controversy-apology",
+      "published": "2026-05-15T16:31:49+00:00",
+      "summary": "Recreate Games has apologised after an AI-focused video contest for its popular casual brawler Party Animals drew significant community criticism, insisting it was \"not trying to dismiss handmade work or disrespect creators\". Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Philadelphia Middle Schoolers Explore How AI Changes Their Classrooms and Their Lives",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/report-finds-books-arent-vanishing-from-schools-but-thats-not-the-whole-story/",
-      "published": "2026-05-14T16:32:41+00:00",
-      "summary": "A version of this essay originally appeared on “The Next 30 Years” Substack. A new Rand report on whole-book reading in secondary English classrooms arrives at a useful moment.",
+      "url": "https://www.the74million.org/article/philadelphia-middle-schoolers-explore-how-ai-changes-their-classrooms-and-their-lives/",
+      "published": "2026-05-15T14:30:00+00:00",
+      "summary": "The middle schoolers at Philly’s Marian Anderson Neighborhood Academy have a lot of questions about artificial intelligence. They want to know how the government is using AI and what impact the technology has on the environment.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
-      "title": "Mayo Clinic is Using AI to Listen to Emergency Room Visits",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/mayo-clinic-is-using-ai-to-listen-to-emergency-room-visits/",
-      "published": "2026-05-15T13:00:08+00:00",
-      "summary": "Mayo Clinic's \"Ambient Listening\" has been around for a couple of years, but clearly not all patients know their interactions with nurses are being passively recorded and processed by AI.",
+      "title": "Hantavirus countdown: U.S. cruise passengers settle in for 42 days of waiting",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/05/15/nx-s1-5819872/hantavirus-quarantine",
+      "published": "2026-05-15T19:28:03+00:00",
+      "summary": "The hantavirus outbreak on a cruise ship has potentially exposed passengers to a deadly disease. Most returning Americans are now housed in Nebraska. Some may be cleared to quarantine at home.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "How Trump may be changing his stance on AI regulation",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/05/14/nx-s1-5818490/how-trump-may-be-changing-his-stance-on-ai-regulation",
-      "published": "2026-05-14T20:56:55+00:00",
-      "summary": "The Trump administration's approach on AI so far has been to prioritize innovation over regulation. But recently, there's been a shift in rhetoric.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "title": "Behind the Blog: New Music and a Crash Out",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/behind-the-blog-new-music-and-a-crash-out/",
+      "published": "2026-05-15T15:19:07+00:00",
+      "summary": "This week, we discuss developers' AI woes, how the magic happens, and the Beach Boys.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
-      "source": "Ars Technica",
-      "category": "Security / computing",
-      "url": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
-      "published": "2026-05-14T18:32:01+00:00",
-      "summary": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 8
-    },
-    {
-      "title": "Lanterns Showrunner Explains How His Show Fits Into the Current DCU Timeline",
+      "title": "Obsession Makes an Old Story New Again With Astonishing Acting",
       "source": "Reactor",
       "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/lanterns-timelines-dcu-guy-gardner/",
-      "published": "2026-05-14T17:10:53+00:00",
-      "summary": "What's Guy Gardner doing in a Very Serious Detective Program? The post Lanterns Showrunner Explains How His Show Fits Into the Current DCU Timeline appeared first on Reactor .",
+      "url": "https://reactormag.com/obsession-movie-review/",
+      "published": "2026-05-15T16:00:00+00:00",
+      "summary": "This new take on a \"be careful what you wish for\" premise is dark as it gets. The post Obsession Makes an Old Story New Again With Astonishing Acting appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 7
     }
@@ -150,23 +150,23 @@
       "verdict": "Worth watching"
     },
     {
+      "title": "Can AI Predict Date Compatibility? | AI Dating",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=zKzZAtmhnEQ",
+      "published": "2026-05-15T16:00:07+00:00",
+      "summary": "Dating in 2026, but using AI. Can artificial intelligence predict romantic chemistry? WIRED finds out. Four bachelors go on speed dates with our bachelorette whilst ChatGPT and Claude rank their compatibility.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "AI Keeps The Conversation Flowing... At All Costs",
       "source": "WIRED",
       "category": "Tech / media",
       "url": "https://www.youtube.com/watch?v=znD-27o34ZU",
       "published": "2026-05-14T20:00:02+00:00",
       "summary": "Dating in 2026, but using AI. Can artificial intelligence do dating better than humans? WIRED finds out. Four bachelors duke it out for one woman’s attention.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Cybersecurity Expert Answers Hacking Questions | Tech Support | WIRED",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=yAkdi07egzc",
-      "published": "2026-05-12T16:00:15+00:00",
-      "summary": "Cybersecurity researcher Allison Nixon joins WIRED to answer the internet’s burning questions about online safety.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
@@ -205,46 +205,24 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "Republicans face an uphill battle convincing voters they should stay in power after the midterms",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=P3K_-PsX7Hk",
-      "published": "2026-05-12T20:00:15+00:00",
-      "summary": "Republicans face an uphill battle convincing voters they should stay in power after the midterms.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "2084: A cautionary tale about the future of war and a changing planet | Sources & Methods",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=bpMV9wQ3f-A",
-      "published": "2026-05-12T20:02:06+00:00",
-      "summary": "Laser weapons, advanced drone warfare, and nation states around the globe redefined by climate change: this is the world in 2084, envisioned by authors Jim Stavridis and Elliot Ackerman.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Could Microsoft Bring Project Helix Windows Support To Xbox Series X?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=2sjXxfFtJQw",
+      "published": "2026-05-15T17:00:04+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 8,
       "verdict": "Worth watching"
     },
     {
-      "title": "What do you think of the political divide in our country?",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=F4stLXLghnk",
-      "published": "2026-05-12T17:45:01+00:00",
-      "summary": "\"Divided we fall.\" That's what one Ohio resident quoted to NPR when we were reporting from Ohio's 9th district.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Nonprofit sues over work to paint D.C.'s reflecting pool blue",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=AEoU-QePbOc",
-      "published": "2026-05-12T17:30:01+00:00",
-      "summary": "A nonprofit is suing the Trump administration over its move to resurface and paint the reflecting pool on the National Mall. The group says there was no federal review of the plan, and the work is already underway.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Nvidia GTX 10-Series 10th Anniversary: Team Green's Finest Hour?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=QLppEciwaVo",
+      "published": "2026-05-15T16:00:40+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/JvYOHdPOt7g ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
     },
@@ -256,8 +234,8 @@
       "published": "2026-05-14T17:01:08+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/JvYOHdPOt7g ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Switch 2 GameChat Boosts Performance In Capcom RE Engine Games... But How?",
@@ -304,37 +282,37 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "Nintendo Increases Switch 2 Prices - It's Bad But Could Have Been Worse",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=4K9zb571iUw",
-      "published": "2026-05-12T17:00:06+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/JvYOHdPOt7g ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Nintendo's Star Fox Reveal - The Remake, The Graphics, The Characters",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=tUN01mxsSpw",
-      "published": "2026-05-12T16:01:20+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/JvYOHdPOt7g ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
       "title": "Can Saros Be Considered A Roguelite? | Dev Heads Plays",
       "source": "Second Wind",
       "category": "Games / criticism",
       "url": "https://www.youtube.com/watch?v=rCk_OhleJPw",
-      "published": "2026-05-15T13:11:31+00:00",
+      "published": "2026-05-15T21:39:03+00:00",
       "summary": "This week on Dev Heads, JM8 and Mikee play some Saros and discuss whether or not its gameplay loop feels like a true Roguelite. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
+    },
+    {
+      "title": "Level Up Session | Adventure Is Nigh! - The Slow Walk Home",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=zvGJ0newmrg",
+      "published": "2026-05-15T15:49:15+00:00",
+      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Gaming Discourse Has Gotten Insufferably Dumb | Unpacked",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=lqO3xz1PU6U",
+      "published": "2026-05-15T15:01:14+00:00",
+      "summary": "Every game seems to have some \"controversy\" attached to it, but it's mostly made up nonsense. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Community Request: Reworking the Way of the 4 Elements Subclass for Monks | RPG Help Desk",
@@ -344,8 +322,8 @@
       "published": "2026-05-15T10:55:18+00:00",
       "summary": "A neato person in our community asked to help rework the class into something more fun. So we're all banging our heads together to makes something enjoyable, thematic, and balanced... probably.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Mortal Kombat II Impressions, Mixtape’s Ridiculous Drama, and More | Firelink Podcast",
@@ -355,8 +333,8 @@
       "published": "2026-05-15T02:32:31+00:00",
       "summary": "This week on Firelink, Nick, KC, and Marty chat about the the silly drama surrounding Mixtape, a game update from Sega, impressions of the new Mortal Kombat movie, and more.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Living the Drangleic Dream in Dark Souls 2 w/ Jack and Jess -- Part 7",
@@ -387,28 +365,6 @@
       "url": "https://www.youtube.com/watch?v=2XUDa_jVtRs",
       "published": "2026-05-14T01:09:31+00:00",
       "summary": "NOTE: Nintendo hit us with a strike for showing the Star Fox Direct during our Star Fox stream, but you can find the VOD here -- https://youtu.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Yahtzee Tries... Froggy Hates Snow and Everything Is Crab",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=N_3BROY9d00",
-      "published": "2026-05-13T22:10:39+00:00",
-      "summary": "This week on Yahtzee Tries... Yahtzee and Jesse G try out Froggy Hates Snow and Everything Is Crab. FROGGY HATES SNOW -- https://store.steampowered.com/app/3232380/FROGGY_HATES_SNOW/ EVERYTHING IS CRAB -- https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Saros | Fully Ramblomatic",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=QstTzpkeXIE",
-      "published": "2026-05-13T16:00:45+00:00",
-      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.com/ember This week on Fully Ramblomatic, Yahtzee reviewed Saros.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -511,7 +467,7 @@
       "published": "2026-05-15T03:19:13+00:00",
       "summary": "#RouseyCarano Saturday, May 16 9 PM ET | 6 PM PT LIVE on Netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and…",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -634,39 +590,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
-    },
-    {
-      "title": "Your Friends & Neighbors — The Eulogy | Season 2 Scene | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=V7kLc3oK_zE",
-      "published": "2026-05-09T16:59:47+00:00",
-      "summary": "Coop reflects on the life of his father. Season 2 of Your Friends & Neighbors is now streaming on Apple TV https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Monarch: Legacy of Monsters — Best Monster Sightings of Season 2 | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=z-tIu-Qv5JQ",
-      "published": "2026-05-09T12:59:53+00:00",
-      "summary": "It's not a Legacy of Monsters without the monsters. From Kong, to Godzilla, to Titan X — and all the creatures in between, these are the best monster scenes from Season 2 of Monarch, now streaming on Apple TV https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "A monster menagerie. #Monarch: Legacy of Monsters — Season 2 Now Streaming",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=oGSifJMwXrY",
-      "published": "2026-05-08T19:59:50+00:00",
-      "summary": "Titan X isn't herself, but it makes no difference to Kong. It's the Skull Island showdown from \"Where We Belong.\" Monarch: Legacy of Monsters Season 2 is now streaming on Apple TV https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
     }
   ],
   "recommendations": {
@@ -752,8 +675,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 25,
-    "trailerCount": 23,
-    "sourceCount": 21
+    "youtubeCount": 21,
+    "trailerCount": 20,
+    "sourceCount": 19
   }
 }
