@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-16T09:01:21.471468Z
+Generated: 2026-05-16T14:00:02.151378Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are It wasn’t exactly The Devil Wears Prada, but my time working at Vogue in the 90s was preposterous fun | Charlotte Higgins, Russia pressures university students to become wartime drone pilots, and Veterans group sues Trump administration over ban on abortion services.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are One thing Guardian staff have done to defend press freedom … and one thing you can do, Colleges got more rural students to apply. The challenge is getting them to attend, and Russia pressures university students to become wartime drone pilots.
 
 ## Briefing
 
@@ -13,16 +13,25 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. It wasn’t exactly The Devil Wears Prada, but my time working at Vogue in the 90s was preposterous fun | Charlotte Higgins [10/10]
+### 1. One thing Guardian staff have done to defend press freedom … and one thing you can do [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The decline of the glossy magazine industry as depicted in the sequel made me cry – but I shed no tears for how it was back then I didn’t think The Devil Wears Prada 2 would make me cry, but it did.
+What does defending press freedom mean in practice? We asked people across the Guardian to tell us something they have done to protect it this past year.
 
-Link: https://www.theguardian.com/commentisfree/2026/may/16/the-devil-wears-prada-vogue-glossy-magazine-industry
+Link: https://www.theguardian.com/membership/2026/may/16/how-to-defend-press-freedom-guardian
 
-### 2. Russia pressures university students to become wartime drone pilots [10/10]
+### 2. Colleges got more rural students to apply. The challenge is getting them to attend [10/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Some of the nation's most selective institutions are slowly increasing their rural enrollment with the help of millions of dollars from a rural alumnus of the University of Chicago.
+
+Link: https://www.npr.org/2026/05/16/nx-s1-5797420/selective-colleges-woo-rural-students
+
+### 3. Russia pressures university students to become wartime drone pilots [10/10]
 **Source:** Ars Technica  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -31,25 +40,52 @@ Universities promise no frontline duty and perks if students enlist in military.
 
 Link: https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/
 
-### 3. Veterans group sues Trump administration over ban on abortion services [10/10]
+### 4. ‘A constant battle’: abortion providers and advocates prepare for next legal challenges [9/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Suit claims Veterans Affairs violates law by restricting abortion services for veterans and their dependents Sign up for the Breaking News US newsletter email An advocacy organization representing US veterans has filed a lawsuit against…
+Recent decisions have alternatively blocked access to abortion drug and restored it as cases wind through courts Abortion providers and advocates are making plans for future disruptions to reproductive care after the US supreme court…
 
-Link: https://www.theguardian.com/us-news/2026/may/15/abortion-veterans-affairs-lawsuit-trump-administration
+Link: https://www.theguardian.com/world/2026/may/16/abortion-providers-advocates-next-legal-challenges
 
-### 4. AI radio hosts demonstrate why AI can’t be trusted alone [10/10]
-**Source:** The Verge  
+### 5. Scientists Discover Strange New Crystal Formed by Nuclear Blast [9/10]
+**Source:** 404 Media  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+A type of crystal lattice called a clathrate structure has been found for the first time in the fallout of a nuclear detonation.
+
+Link: https://www.404media.co/scientists-discover-strange-new-crystal-formed-by-nuclear-blast/
+
+### 6. Peacock ‘invasion’ of Italian seaside town ruffles feathers [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+With Punta Marina residents loving or loathing the incomers, ‘peacock rangers’ have been appointed to defuse tensions Federico Bruni was sitting on a bench, eating a piadina romagnola (flatbread sandwich) and minding his own business, when…
+
+Link: https://www.theguardian.com/world/2026/may/16/peacock-italy-punta-marina-tensions
+
+### 7. ‘A horrible way to die’: after deaths in Laredo, experts prepare for lethal summer heat at US-Mexico border [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Officials warn of potentially fatal coming months after six people were found dead inside a railway car in Texas As questions still swirl about the six people found dead inside a baking-hot railway car in Texas, immigration advocates warn…
+
+Link: https://www.theguardian.com/us-news/2026/may/16/us-mexico-border-extreme-heat
+
+### 8. The US is betting on AI to catch insider trading in prediction markets [9/10]
+**Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there.
+The Commodity Futures Trading Commission wants us to know it's taking this very seriously.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies
+Link: https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/
 
-### 5. Invincible Vs Review [9/10]
+### 9. Invincible Vs Review [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -58,34 +94,7 @@ The sentence: "An Amazon television show video game tie-in" is about as big a re
 
 Link: https://www.eurogamer.net/invincible-vs-review
 
-### 6. What we've been playing - "Asking what the point of playing it is would be like asking why you should bother seasoning a meal" [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Hello and welcome back to our regular feature where we write a little about the games we've been playing.
-
-Link: https://www.eurogamer.net/what-weve-been-playing-mixtape-saros-zelda-directive-8020
-
-### 7. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side. [9/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility.
-
-Link: https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/
-
-### 8. Pentagon quietly shut legally required program to prevent civilian deaths by military, watchdog finds [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Trump administration accused of cutting military’s civilian harm program in light of US strike on girls school in Iran IThe Pentagon has quietly dismantled a program it is legally required to operate to prevent and respond to civilian…
-
-Link: https://www.theguardian.com/us-news/2026/may/15/pentagon-civilian-death-program
-
-### 9. Amid National ‘Reading Recession,’ Some California Districts’ Reading and Math Scores Are on the Rise [9/10]
+### 10. Amid National ‘Reading Recession,’ Some California Districts’ Reading and Math Scores Are on the Rise [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -93,15 +102,6 @@ Link: https://www.theguardian.com/us-news/2026/may/15/pentagon-civilian-death-pr
 This story was originally published by EdSource. Sign up for their daily newsletter.
 
 Link: https://www.the74million.org/article/amid-national-reading-recession-some-california-districts-reading-and-math-scores-are-on-the-rise/
-
-### 10. Philadelphia Middle Schoolers Explore How AI Changes Their Classrooms and Their Lives [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-The middle schoolers at Philly’s Marian Anderson Neighborhood Academy have a lot of questions about artificial intelligence. They want to know how the government is using AI and what impact the technology has on the environment.
-
-Link: https://www.the74million.org/article/philadelphia-middle-schoolers-explore-how-ai-changes-their-classrooms-and-their-lives/
 
 ### 11. Hantavirus countdown: U.S. cruise passengers settle in for 42 days of waiting [8/10]
 **Source:** NPR Health  
@@ -240,18 +240,9 @@ Link: https://www.youtube.com/watch?v=czTZKpTYnAk
 
 Link: https://www.youtube.com/watch?v=JurL0Jbw2kY
 
-### Does The Steam Controller Scream When You Drop It? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-We put it to the test. Read more: https://www.digitalfoundry.net/news/2026/05/yup-the-steam-controller-wilhelm-screams-if-you-drop-it
-
-Link: https://www.youtube.com/watch?v=Y1IFLt7PfhQ
-
-### Can Saros Be Considered A Roguelite? | Dev Heads Plays [8/10]
+### Can Saros Be Considered A Roguelite? | Dev Heads Plays [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Dev Heads, JM8 and Mikee play some Saros and discuss whether or not its gameplay loop feels like a true Roguelite. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.
