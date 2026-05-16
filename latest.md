@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-16T05:00:02.778657Z
+Generated: 2026-05-16T09:01:21.471468Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side., Russia pressures university students to become wartime drone pilots, and Veterans group sues Trump administration over ban on abortion services.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are It wasn’t exactly The Devil Wears Prada, but my time working at Vogue in the 90s was preposterous fun | Charlotte Higgins, Russia pressures university students to become wartime drone pilots, and Veterans group sues Trump administration over ban on abortion services.
 
 ## Briefing
 
@@ -13,14 +13,14 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side. [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 1. It wasn’t exactly The Devil Wears Prada, but my time working at Vogue in the 90s was preposterous fun | Charlotte Higgins [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility.
+The decline of the glossy magazine industry as depicted in the sequel made me cry – but I shed no tears for how it was back then I didn’t think The Devil Wears Prada 2 would make me cry, but it did.
 
-Link: https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/
+Link: https://www.theguardian.com/commentisfree/2026/may/16/the-devil-wears-prada-vogue-glossy-magazine-industry
 
 ### 2. Russia pressures university students to become wartime drone pilots [10/10]
 **Source:** Ars Technica  
@@ -40,16 +40,7 @@ Suit claims Veterans Affairs violates law by restricting abortion services for v
 
 Link: https://www.theguardian.com/us-news/2026/may/15/abortion-veterans-affairs-lawsuit-trump-administration
 
-### 4. Amid National ‘Reading Recession,’ Some California Districts’ Reading and Math Scores Are on the Rise [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-This story was originally published by EdSource. Sign up for their daily newsletter.
-
-Link: https://www.the74million.org/article/amid-national-reading-recession-some-california-districts-reading-and-math-scores-are-on-the-rise/
-
-### 5. AI radio hosts demonstrate why AI can’t be trusted alone [10/10]
+### 4. AI radio hosts demonstrate why AI can’t be trusted alone [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -58,41 +49,50 @@ Andon Labs has been running a series of experiments in which AI agents run busin
 
 Link: https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies
 
-### 6. Iraqi accused of terrorism attacks and plots in US and Europe arrested and charged [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 5. Invincible Vs Review [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Mohammad Baqer Saad Dawood al-Saadi appeared in US federal court to face six terrorism-related charges The US justice department has arrested and charged an Iraqi national accused of involvement in nearly 20 alleged terror attacks and…
+The sentence: "An Amazon television show video game tie-in" is about as big a red flag as a two star hygiene rating on a kebab van. You would not be at fault for looking at Invincible Vs with narrowed eyes.
 
-Link: https://www.theguardian.com/us-news/2026/may/15/iraqi-terror-attacks-arrested-charged
+Link: https://www.eurogamer.net/invincible-vs-review
 
-### 7. Texas children’s hospital to create first detransition clinic in win for Trump [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 6. What we've been playing - "Asking what the point of playing it is would be like asking why you should bother seasoning a meal" [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-One of the largest pediatric hospitals in the US will pay state $10m and stop offering gender-affirming care to youth One of the largest pediatric hospitals in the US is creating a clinic that officials say will be a place for transgender…
+Hello and welcome back to our regular feature where we write a little about the games we've been playing.
 
-Link: https://www.theguardian.com/us-news/2026/may/15/trump-texas-detransition-clinic
+Link: https://www.eurogamer.net/what-weve-been-playing-mixtape-saros-zelda-directive-8020
+
+### 7. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side. [9/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility.
+
+Link: https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/
 
 ### 8. Pentagon quietly shut legally required program to prevent civilian deaths by military, watchdog finds [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Trump administration accused of cutting military’s civilian harm program in light of US strike on girls school in Iran The Pentagon has quietly dismantled a program it is legally required to operate to prevent and respond to civilian…
+Trump administration accused of cutting military’s civilian harm program in light of US strike on girls school in Iran IThe Pentagon has quietly dismantled a program it is legally required to operate to prevent and respond to civilian…
 
 Link: https://www.theguardian.com/us-news/2026/may/15/pentagon-civilian-death-program
 
-### 9. "We are not trying to dismiss handmade work or disrespect creators" - studio behind popular party game Party Animals backtracks after AI video contest outcry [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 9. Amid National ‘Reading Recession,’ Some California Districts’ Reading and Math Scores Are on the Rise [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Recreate Games has apologised after an AI-focused video contest for its popular casual brawler Party Animals drew significant community criticism, insisting it was "not trying to dismiss handmade work or disrespect creators". Read more
+This story was originally published by EdSource. Sign up for their daily newsletter.
 
-Link: https://www.eurogamer.net/party-animals-ai-competition-controversy-apology
+Link: https://www.the74million.org/article/amid-national-reading-recession-some-california-districts-reading-and-math-scores-are-on-the-rise/
 
 ### 10. Philadelphia Middle Schoolers Explore How AI Changes Their Classrooms and Their Lives [9/10]
 **Source:** The 74  
@@ -186,9 +186,9 @@ President Trump has arrived in China for a state visit. He plans to focus on tra
 
 Link: https://www.youtube.com/watch?v=QzJ0iF-foK4
 
-### Could Microsoft Bring Project Helix Windows Support To Xbox Series X? [8/10]
+### Could Microsoft Bring Project Helix Windows Support To Xbox Series X? [7/10]
 **Creator:** Digital Foundry  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.

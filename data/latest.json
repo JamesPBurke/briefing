@@ -1,19 +1,19 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-16T05:00:02.778657Z",
-  "generatedAtDisplay": "2026-05-16 01:00 AM EDT",
+  "generatedAt": "2026-05-16T09:01:21.471468Z",
+  "generatedAtDisplay": "2026-05-16 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side., Russia pressures university students to become wartime drone pilots, and Veterans group sues Trump administration over ban on abortion services.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are It wasn’t exactly The Devil Wears Prada, but my time working at Vogue in the 90s was preposterous fun | Charlotte Higgins, Russia pressures university students to become wartime drone pilots, and Veterans group sues Trump administration over ban on abortion services.",
   "mainItems": [
     {
-      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-      "published": "2026-05-15T23:39:35+00:00",
-      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "It wasn’t exactly The Devil Wears Prada, but my time working at Vogue in the 90s was preposterous fun | Charlotte Higgins",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/16/the-devil-wears-prada-vogue-glossy-magazine-industry",
+      "published": "2026-05-16T05:00:03+00:00",
+      "summary": "The decline of the glossy magazine industry as depicted in the sequel made me cry – but I shed no tears for how it was back then I didn’t think The Devil Wears Prada 2 would make me cry, but it did.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -37,16 +37,6 @@
       "score": 10
     },
     {
-      "title": "Amid National ‘Reading Recession,’ Some California Districts’ Reading and Math Scores Are on the Rise",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/amid-national-reading-recession-some-california-districts-reading-and-math-scores-are-on-the-rise/",
-      "published": "2026-05-15T18:30:00+00:00",
-      "summary": "This story was originally published by EdSource. Sign up for their daily newsletter.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
       "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
       "source": "The Verge",
       "category": "AI / computing",
@@ -57,23 +47,33 @@
       "score": 10
     },
     {
-      "title": "Iraqi accused of terrorism attacks and plots in US and Europe arrested and charged",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/15/iraqi-terror-attacks-arrested-charged",
-      "published": "2026-05-16T00:04:43+00:00",
-      "summary": "Mohammad Baqer Saad Dawood al-Saadi appeared in US federal court to face six terrorism-related charges The US justice department has arrested and charged an Iraqi national accused of involvement in nearly 20 alleged terror attacks and…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Invincible Vs Review",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/invincible-vs-review",
+      "published": "2026-05-16T09:00:09+00:00",
+      "summary": "The sentence: \"An Amazon television show video game tie-in\" is about as big a red flag as a two star hygiene rating on a kebab van. You would not be at fault for looking at Invincible Vs with narrowed eyes.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "Texas children’s hospital to create first detransition clinic in win for Trump",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/15/trump-texas-detransition-clinic",
-      "published": "2026-05-15T21:59:27+00:00",
-      "summary": "One of the largest pediatric hospitals in the US will pay state $10m and stop offering gender-affirming care to youth One of the largest pediatric hospitals in the US is creating a clinic that officials say will be a place for transgender…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "What we've been playing - \"Asking what the point of playing it is would be like asking why you should bother seasoning a meal\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-mixtape-saros-zelda-directive-8020",
+      "published": "2026-05-16T07:00:00+00:00",
+      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "published": "2026-05-15T23:39:35+00:00",
+      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
@@ -82,18 +82,18 @@
       "category": "Democracy / anti-fascism",
       "url": "https://www.theguardian.com/us-news/2026/may/15/pentagon-civilian-death-program",
       "published": "2026-05-15T21:34:30+00:00",
-      "summary": "Trump administration accused of cutting military’s civilian harm program in light of US strike on girls school in Iran The Pentagon has quietly dismantled a program it is legally required to operate to prevent and respond to civilian…",
+      "summary": "Trump administration accused of cutting military’s civilian harm program in light of US strike on girls school in Iran IThe Pentagon has quietly dismantled a program it is legally required to operate to prevent and respond to civilian…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "\"We are not trying to dismiss handmade work or disrespect creators\" - studio behind popular party game Party Animals backtracks after AI video contest outcry",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/party-animals-ai-competition-controversy-apology",
-      "published": "2026-05-15T16:31:49+00:00",
-      "summary": "Recreate Games has apologised after an AI-focused video contest for its popular casual brawler Party Animals drew significant community criticism, insisting it was \"not trying to dismiss handmade work or disrespect creators\". Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Amid National ‘Reading Recession,’ Some California Districts’ Reading and Math Scores Are on the Rise",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/amid-national-reading-recession-some-california-districts-reading-and-math-scores-are-on-the-rise/",
+      "published": "2026-05-15T18:30:00+00:00",
+      "summary": "This story was originally published by EdSource. Sign up for their daily newsletter.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 9
     },
     {
@@ -212,8 +212,8 @@
       "published": "2026-05-15T17:00:04+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Nvidia GTX 10-Series 10th Anniversary: Team Green's Finest Hour?",
