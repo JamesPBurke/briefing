@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-17T09:00:32.282205Z
+Generated: 2026-05-17T14:00:01.518018Z
 
-Today's sweep leans toward Democracy / anti-fascism, AI / privacy, Democracy / press freedom. The strongest items in this run are Republican Louisiana senator Bill Cassidy loses primary after Trump intervenes to oust him, Federal funding for Trump’s $400m ballroom in jeopardy after Senate ruling, and Trump news at a glance: billions of taxpayer dollars could go to president and his allies in unprecedented move.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are New State Law in NY Could Unlock Thousands of Child Care Seats, Critics See Risks, ‘We’re not ready’: US lags on pandemic preparedness after Covid, experts say, and One clinic tracks the heavy toll Trump's immigration crackdown takes on mental health.
 
 ## Briefing
 
@@ -13,25 +13,52 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. Republican Louisiana senator Bill Cassidy loses primary after Trump intervenes to oust him [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 1. New State Law in NY Could Unlock Thousands of Child Care Seats, Critics See Risks [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Cassidy’s bid to win nomination for third term was imperiled by his vote to convict Trump after January 6 insurrection The Republican senator Bill Cassidy lost his primary on Saturday, as voters in Louisiana opted instead to advance two…
+Despite having room to serve more children, Middletown day care owner Peggy Fuentes often has to turn away families in desperate need of care.
 
-Link: https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump
+Link: https://www.the74million.org/zero2eight/new-ny-law-could-unlock-thousands-of-childcare-seats-critics-see-risks/
 
-### 2. Federal funding for Trump’s $400m ballroom in jeopardy after Senate ruling [10/10]
+### 2. ‘We’re not ready’: US lags on pandemic preparedness after Covid, experts say [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Proposal to fund $1bn in security additions for White House campus and president’s new ballroom fails to meet procedural rules A US Senate official on Saturday removed security funding that could be used for Donald Trump’s planned $400m…
+Experts say slashed funding and growing misinformation are some of the greatest challenges facing public health The hantavirus outbreak, while unlikely to spark the next big pandemic, is shining a spotlight on the ways public health has…
 
-Link: https://www.theguardian.com/us-news/2026/may/17/federal-funding-trump-ballroom-jeopardy-senate-ruling
+Link: https://www.theguardian.com/us-news/2026/may/17/pandemic-preparedness-after-covid
 
-### 3. Trump news at a glance: billions of taxpayer dollars could go to president and his allies in unprecedented move [10/10]
+### 3. One clinic tracks the heavy toll Trump's immigration crackdown takes on mental health [10/10]
+**Source:** NPR Health  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Zocalo Health, a clinic in Los Angeles, screens all its patients for depression, anxiety and suicidal thoughts. It documented a marked increase in those conditions since ICE enforcement actions began.
+
+Link: https://www.npr.org/2026/05/17/nx-s1-5779576/immigration-ice-cbp-mental-health-children
+
+### 4. ‘It was like a mosh pit’: Swatch closes stores as watch launch causes crowding and scuffles [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+French police fire teargas and UK shops close for safety reasons as hundreds queue for Royal Pop timepieces that make up Audemars Piguet collaboration The launch of limited-edition Swatch watches descended into chaos in several European…
+
+Link: https://www.theguardian.com/world/2026/may/17/swatch-royal-pop-launch-chaos-closures
+
+### 5. The ungovernable country? Why Britain keeps losing prime ministers [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+May, Johnson, Truss, Sunak, and now perhaps Starmer: each one was brought low for a reason.
+
+Link: https://www.theguardian.com/politics/2026/may/17/the-ungovernable-country-why-britain-keeps-losing-prime-ministers
+
+### 6. Trump news at a glance: billions of taxpayer dollars could go to president and his allies in unprecedented move [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -40,7 +67,7 @@ If case is settled for full amount Trump is requesting, a $10bn payment would mo
 
 Link: https://www.theguardian.com/us-news/2026/may/17/trump-news-at-a-glance-irs-billions-taxpayer-dollars-could-paid-president-and-allies
 
-### 4. Snap, YouTube, and TikTok settle suit over harm to students [10/10]
+### 7. Snap, YouTube, and TikTok settle suit over harm to students [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -49,7 +76,7 @@ Snap, YouTube, and TikTok have settled the first lawsuit of its kind, alleging t
 
 Link: https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools
 
-### 5. Trump may settle his lawsuit against IRS for $1.7bn fund to compensate allies [10/10]
+### 8. Trump may settle his lawsuit against IRS for $1.7bn fund to compensate allies [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -58,7 +85,7 @@ In unprecedented self-dealing maneuver, billions of taxpayer dollars could be pa
 
 Link: https://www.theguardian.com/us-news/2026/may/16/trump-irs-lawsuit-compensation-fund
 
-### 6. "A great score is not heard" - From Indiana Jones to Star Wars, musical legend Gordy Haab on becoming a caretaker of some of video games' most prolific franchises [9/10]
+### 9. "A great score is not heard" - From Indiana Jones to Star Wars, musical legend Gordy Haab on becoming a caretaker of some of video games' most prolific franchises [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -67,16 +94,7 @@ American composer Gordy Haab is a force to be reckoned with, pun absolutely inte
 
 Link: https://www.eurogamer.net/a-great-score-is-not-heard-from-indiana-jones-to-star-wars-musical-legend-gordy-haab-on-becoming-a-caretaker-of-some-of-video-games-most-prolific-franchises
 
-### 7. JLR and General Motors eye £900m contract to build new range of military trucks [9/10]
-**Source:** The Guardian US  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-Carmakers aim to expand into UK defence sector, exploiting spending boom by Nato countries Jaguar Land Rover and General Motors are considering an expansion into UK defence via a £900m military contract, as carmakers seek to exploit a…
-
-Link: https://www.theguardian.com/business/2026/may/17/jaguar-land-rover-general-motors-military-contract-trucks
-
-### 8. ‘Feels like an illusion’: inside post-Maduro Venezuela’s bewildering new era [9/10]
+### 10. ‘Feels like an illusion’: inside post-Maduro Venezuela’s bewildering new era [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -85,34 +103,25 @@ Four months after Trump’s surprise raid, a political thaw has descended – bu
 
 Link: https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela
 
-### 9. Why Brooklyn Beckham is – bear with me – a brilliant role model | Polly Hudson [9/10]
+### 11. Republican Louisiana senator Bill Cassidy loses primary after Trump intervenes to oust him [9/10]
 **Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-He gets slammed as an entitled nepo baby, and just keeps doing what he enjoys, unruffled. Here are five things I’d do, if only I had his confidence Nepo babies provoke a unique brand of ire.
+Cassidy’s bid to win nomination for third term was imperiled by his vote to convict Trump after January 6 insurrection The Republican senator Bill Cassidy lost his primary on Saturday, as voters in Louisiana opted instead to advance two…
 
-Link: https://www.theguardian.com/commentisfree/2026/may/17/why-brooklyn-beckham-is-bear-with-me-a-brilliant-role-model
+Link: https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump
 
-### 10. What does stress really do to our bodies – and when does it become a big problem? [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 12. A revolutionary cancer treatment could transform autoimmune disease [8/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-From an elevated heart rate to weakened immunity, experts explain the hidden physical costs of chronic stress – and why our bodies aren’t built to stay on high alert You wake up later than planned, so it’s a rush to get everything sorted…
+Researchers are testing CAR T cell therapy as a way to reset the immune system.
 
-Link: https://www.theguardian.com/lifeandstyle/2026/may/17/secrets-of-the-body-stress
+Link: https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/
 
-### 11. Will Hawaii Forfeit $5 Million For Teacher Apprenticeships? [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-As a college student, Nicole Dolor-Bala was spending full days in schools, helping teachers with their lessons and attending staff meetings.
-
-Link: https://www.the74million.org/article/will-hawaii-forfeit-5-million-for-teacher-apprenticeships/
-
-### 12. World Health Organization declares Ebola outbreak in Congo a global health emergency [8/10]
+### 13. World Health Organization declares Ebola outbreak in Congo a global health emergency [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -120,15 +129,6 @@ Link: https://www.the74million.org/article/will-hawaii-forfeit-5-million-for-tea
 Health officials are working to contain a new Ebola outbreak in the DRC of a virus strain with no known vaccine.
 
 Link: https://www.npr.org/2026/05/16/g-s1-122494/new-ebola-outbreak-drc-who-global-emergency
-
-### 13. Sony tries to explain that its AI Camera Assistant doesn’t suck [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works.
-
-Link: https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant
 
 ## YouTube
 

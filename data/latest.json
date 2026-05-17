@@ -1,29 +1,59 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-17T09:00:32.282205Z",
-  "generatedAtDisplay": "2026-05-17 05:00 AM EDT",
+  "generatedAt": "2026-05-17T14:00:01.518018Z",
+  "generatedAtDisplay": "2026-05-17 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / anti-fascism, AI / privacy, Democracy / press freedom. The strongest items in this run are Republican Louisiana senator Bill Cassidy loses primary after Trump intervenes to oust him, Federal funding for Trump’s $400m ballroom in jeopardy after Senate ruling, and Trump news at a glance: billions of taxpayer dollars could go to president and his allies in unprecedented move.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are New State Law in NY Could Unlock Thousands of Child Care Seats, Critics See Risks, ‘We’re not ready’: US lags on pandemic preparedness after Covid, experts say, and One clinic tracks the heavy toll Trump's immigration crackdown takes on mental health.",
   "mainItems": [
     {
-      "title": "Republican Louisiana senator Bill Cassidy loses primary after Trump intervenes to oust him",
+      "title": "New State Law in NY Could Unlock Thousands of Child Care Seats, Critics See Risks",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/zero2eight/new-ny-law-could-unlock-thousands-of-childcare-seats-critics-see-risks/",
+      "published": "2026-05-17T13:01:00+00:00",
+      "summary": "Despite having room to serve more children, Middletown day care owner Peggy Fuentes often has to turn away families in desperate need of care.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "‘We’re not ready’: US lags on pandemic preparedness after Covid, experts say",
       "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/may/17/pandemic-preparedness-after-covid",
+      "published": "2026-05-17T11:00:37+00:00",
+      "summary": "Experts say slashed funding and growing misinformation are some of the greatest challenges facing public health The hantavirus outbreak, while unlikely to spark the next big pandemic, is shining a spotlight on the ways public health has…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "One clinic tracks the heavy toll Trump's immigration crackdown takes on mental health",
+      "source": "NPR Health",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump",
-      "published": "2026-05-17T04:37:16+00:00",
-      "summary": "Cassidy’s bid to win nomination for third term was imperiled by his vote to convict Trump after January 6 insurrection The Republican senator Bill Cassidy lost his primary on Saturday, as voters in Louisiana opted instead to advance two…",
+      "url": "https://www.npr.org/2026/05/17/nx-s1-5779576/immigration-ice-cbp-mental-health-children",
+      "published": "2026-05-17T11:00:00+00:00",
+      "summary": "Zocalo Health, a clinic in Los Angeles, screens all its patients for depression, anxiety and suicidal thoughts. It documented a marked increase in those conditions since ICE enforcement actions began.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Federal funding for Trump’s $400m ballroom in jeopardy after Senate ruling",
+      "title": "‘It was like a mosh pit’: Swatch closes stores as watch launch causes crowding and scuffles",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/may/17/federal-funding-trump-ballroom-jeopardy-senate-ruling",
-      "published": "2026-05-17T04:11:02+00:00",
-      "summary": "Proposal to fund $1bn in security additions for White House campus and president’s new ballroom fails to meet procedural rules A US Senate official on Saturday removed security funding that could be used for Donald Trump’s planned $400m…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/may/17/swatch-royal-pop-launch-chaos-closures",
+      "published": "2026-05-17T10:50:55+00:00",
+      "summary": "French police fire teargas and UK shops close for safety reasons as hundreds queue for Royal Pop timepieces that make up Audemars Piguet collaboration The launch of limited-edition Swatch watches descended into chaos in several European…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The ungovernable country? Why Britain keeps losing prime ministers",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/politics/2026/may/17/the-ungovernable-country-why-britain-keeps-losing-prime-ministers",
+      "published": "2026-05-17T05:00:31+00:00",
+      "summary": "May, Johnson, Truss, Sunak, and now perhaps Starmer: each one was brought low for a reason.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -67,16 +97,6 @@
       "score": 9
     },
     {
-      "title": "JLR and General Motors eye £900m contract to build new range of military trucks",
-      "source": "The Guardian US",
-      "category": "Security / computing",
-      "url": "https://www.theguardian.com/business/2026/may/17/jaguar-land-rover-general-motors-military-contract-trucks",
-      "published": "2026-05-17T06:00:30+00:00",
-      "summary": "Carmakers aim to expand into UK defence sector, exploiting spending boom by Nato countries Jaguar Land Rover and General Motors are considering an expansion into UK defence via a £900m military contract, as carmakers seek to exploit a…",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 9
-    },
-    {
       "title": "‘Feels like an illusion’: inside post-Maduro Venezuela’s bewildering new era",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
@@ -87,34 +107,24 @@
       "score": 9
     },
     {
-      "title": "Why Brooklyn Beckham is – bear with me – a brilliant role model | Polly Hudson",
+      "title": "Republican Louisiana senator Bill Cassidy loses primary after Trump intervenes to oust him",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/17/why-brooklyn-beckham-is-bear-with-me-a-brilliant-role-model",
-      "published": "2026-05-17T04:00:28+00:00",
-      "summary": "He gets slammed as an entitled nepo baby, and just keeps doing what he enjoys, unruffled. Here are five things I’d do, if only I had his confidence Nepo babies provoke a unique brand of ire.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump",
+      "published": "2026-05-17T04:37:16+00:00",
+      "summary": "Cassidy’s bid to win nomination for third term was imperiled by his vote to convict Trump after January 6 insurrection The Republican senator Bill Cassidy lost his primary on Saturday, as voters in Louisiana opted instead to advance two…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
-      "title": "What does stress really do to our bodies – and when does it become a big problem?",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/17/secrets-of-the-body-stress",
-      "published": "2026-05-17T04:00:28+00:00",
-      "summary": "From an elevated heart rate to weakened immunity, experts explain the hidden physical costs of chronic stress – and why our bodies aren’t built to stay on high alert You wake up later than planned, so it’s a rush to get everything sorted…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Will Hawaii Forfeit $5 Million For Teacher Apprenticeships?",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/will-hawaii-forfeit-5-million-for-teacher-apprenticeships/",
-      "published": "2026-05-16T18:01:00+00:00",
-      "summary": "As a college student, Nicole Dolor-Bala was spending full days in schools, helping teachers with their lessons and attending staff meetings.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
+      "title": "A revolutionary cancer treatment could transform autoimmune disease",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
+      "published": "2026-05-17T11:00:14+00:00",
+      "summary": "Researchers are testing CAR T cell therapy as a way to reset the immune system.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 8
     },
     {
       "title": "World Health Organization declares Ebola outbreak in Congo a global health emergency",
@@ -124,16 +134,6 @@
       "published": "2026-05-16T18:37:36+00:00",
       "summary": "Health officials are working to contain a new Ebola outbreak in the DRC of a virus strain with no known vaccine.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
-      "published": "2026-05-16T15:37:05+00:00",
-      "summary": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 8
     }
   ],
@@ -622,6 +622,6 @@
     "mainCount": 13,
     "youtubeCount": 17,
     "trailerCount": 19,
-    "sourceCount": 14
+    "sourceCount": 15
   }
 }
