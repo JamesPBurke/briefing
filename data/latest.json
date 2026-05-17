@@ -1,21 +1,11 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-17T18:01:12.239422Z",
-  "generatedAtDisplay": "2026-05-17 02:01 PM EDT",
+  "generatedAt": "2026-05-17T18:02:46.930150Z",
+  "generatedAtDisplay": "2026-05-17 02:02 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Phasmophobia admits it \"missed the mark\" and prepares \"to earn back this community’s trust\", University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement, and Opinion: Why a Doorway Greeting May Be One of the Most Underrated Classroom Strategies.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement, Opinion: Why a Doorway Greeting May Be One of the Most Underrated Classroom Strategies, and New State Law in NY Could Unlock Thousands of Child Care Seats, Critics See Risks.",
   "mainItems": [
-    {
-      "title": "Phasmophobia admits it \"missed the mark\" and prepares \"to earn back this community’s trust\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/phasmophobia-character-update-apology",
-      "published": "2026-05-17T17:36:16+00:00",
-      "summary": "Phasmophobia maker Kinetic Games has apologised to players for issues with its long-awaited 'Player Character Update', admitting it \"missed the mark\" and \"didn't deliver on our promises to you\". Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
     {
       "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
       "source": "The Verge",
@@ -87,34 +77,34 @@
       "score": 10
     },
     {
-      "title": "Terraria marks 70 million sales and 15th anniversary with a promise to \"continue beyond\" its next big update",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/terraria-70m-sales-15-anniversary",
-      "published": "2026-05-17T16:25:38+00:00",
-      "summary": "Terraria developer Re-Logic has insisted that it is committed to ensuring \"the world of Terraria remains and will remain vibrant\" as the sandbox game marks its 15th anniversary. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "After I suffered a slipped disc, these seven gadgets help me move with less pain",
+      "title": "‘We’re not ready’: US lags on pandemic preparedness after Covid, experts say",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/thefilter-us/2026/may/17/best-back-pain-products",
-      "published": "2026-05-17T14:15:40+00:00",
-      "summary": "When I slipped a disc, I discovered an array of gadgets that help take a load off your back and solve the constraints of limited mobility You need to sit down for this – the best seat cushions in the US to relieve your back Sign up for the…",
+      "url": "https://www.theguardian.com/us-news/2026/may/17/pandemic-preparedness-after-covid",
+      "published": "2026-05-17T11:00:37+00:00",
+      "summary": "Experts say slashed funding and growing misinformation are some of the greatest challenges facing public health The hantavirus outbreak, while unlikely to spark the next big pandemic, is shining a spotlight on the ways public health has…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Oddity is masterfully tense horror from the director of Hokum",
-      "source": "The Verge",
+      "title": "‘It was like a mosh pit’: Swatch closes stores as watch launch causes crowding and scuffles",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
-      "published": "2026-05-17T13:47:35+00:00",
-      "summary": "Hokum recently hit theaters, and it's already outperforming box office expectations.",
+      "url": "https://www.theguardian.com/world/2026/may/17/swatch-royal-pop-launch-chaos-closures",
+      "published": "2026-05-17T10:50:55+00:00",
+      "summary": "Paris police used teargas on Saturday and UK shops stayed shut on Sunday after rush for Royal Pop timepieces Swatch closed its stores in the UK and in some cities in Europe and the US at the weekend after the launch of a limited-edition…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
+    },
+    {
+      "title": "Trump attacks Massie as Republican critic describes ‘desperate’ attempts to oust him from primary",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/may/17/trump-thomas-massie-primary",
+      "published": "2026-05-17T17:27:19+00:00",
+      "summary": "US president writes ‘vote the bum out’ as congressman faces close race against Trump-endorsed Republican With two days to go before the next big test of Donald Trump ’s iron grip over his party, the president went head-to-head on Sunday…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
     },
     {
       "title": "Turtle Beach made a good SteelSeries headset clone that’s $50 less",
@@ -124,6 +114,16 @@
       "published": "2026-05-17T14:26:07+00:00",
       "summary": "I really liked the SteelSeries Arctis Nova Pro Wireless, so the company didn't have to say much to get me excited about its successor.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 8
+    },
+    {
+      "title": "The American epoch of oil is collapsing. What comes next could be ugly | Jonathan Watts",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/17/america-china-energy-oil-renewables",
+      "published": "2026-05-17T13:00:41+00:00",
+      "summary": "China is dominating the energy transition with astonishing result, while fossil fuel fascists in the US try to turn back the clock “Farewell,” the flag-waving Chinese children chanted to Donald Trump as he strolled along the red carpet…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 8
     },
     {
@@ -137,406 +137,8 @@
       "score": 8
     }
   ],
-  "youtube": [
-    {
-      "title": "Billie Eilish's Relationship with the Internet",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=Dc-LTv-GYso",
-      "published": "2026-05-16T14:00:03+00:00",
-      "summary": "Billie Eilish speaks to WIRED ahead of the release of her new concert film “Hit Me Hard and Soft: The Tour (Live in 3D)”—shot, as the name suggests, in 3D by Eilish and James Cameron— about her relationship with the internet and whether…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Can AI Predict Date Compatibility? | AI Dating",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=zKzZAtmhnEQ",
-      "published": "2026-05-15T16:00:07+00:00",
-      "summary": "Dating in 2026, but using AI. Can artificial intelligence predict romantic chemistry? WIRED finds out. Four bachelors go on speed dates with our bachelorette whilst ChatGPT and Claude rank their compatibility.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "AI Keeps The Conversation Flowing... At All Costs",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=znD-27o34ZU",
-      "published": "2026-05-14T20:00:02+00:00",
-      "summary": "Dating in 2026, but using AI. Can artificial intelligence do dating better than humans? WIRED finds out. Four bachelors duke it out for one woman’s attention.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Beijing Summit / Trump and Xi as allies, rivals and frenemies",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=L-9ibDTT7iM",
-      "published": "2026-05-14T21:35:38+00:00",
-      "summary": "President Trump visits Chinese leader Xi Jinping for the first time since 2017.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "I've Upgraded - What Should I Do With My Old PC?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=1SAWHnq3wAI",
-      "published": "2026-05-17T16:00:03+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Is Switch 2 Powerful Enough To Last Into The 2030s?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=nq-Fn67fL4k",
-      "published": "2026-05-17T15:01:21+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "How Much Gets Edited Out Of DF Direct Weekly?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=IavAtRKzyAA",
-      "published": "2026-05-16T16:00:19+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Will The AI \"RAMageddon\" Price Increases Delay New Switch 2 Models?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=b5lBIMgK98Y",
-      "published": "2026-05-16T15:01:01+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Could Microsoft Bring Project Helix Windows Support To Xbox Series X?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=2sjXxfFtJQw",
-      "published": "2026-05-15T17:00:04+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Nvidia GTX 10-Series 10th Anniversary: Team Green's Finest Hour?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=QLppEciwaVo",
-      "published": "2026-05-15T16:00:40+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/JvYOHdPOt7g ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Wax Heads, Motorsclice, Froggy Hates Snow and Everything Is Crab | Yahtzee Tries",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=bEtV1YRBePA",
-      "published": "2026-05-17T15:00:46+00:00",
-      "summary": "This week on Yahtzee Tries, Yahtzee checked out Wax Heads, Motorsclice, Froggy Hates Snow and Everything Is Crab. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Level Up Session | Adventure Is Nigh! - The Slow Walk Home",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=zvGJ0newmrg",
-      "published": "2026-05-16T16:00:06+00:00",
-      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Can Saros Be Considered A Roguelite? | Dev Heads Plays",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=rCk_OhleJPw",
-      "published": "2026-05-15T21:39:03+00:00",
-      "summary": "This week on Dev Heads, JM8 and Mikee play some Saros and discuss whether or not its gameplay loop feels like a true Roguelite. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Gaming Discourse Has Gotten Insufferably Dumb | Unpacked",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=lqO3xz1PU6U",
-      "published": "2026-05-15T15:01:14+00:00",
-      "summary": "Every game seems to have some \"controversy\" attached to it, but it's mostly made up nonsense. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Community Request: Reworking the Way of the 4 Elements Subclass for Monks | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=DdiaUeS2JGk",
-      "published": "2026-05-15T10:55:18+00:00",
-      "summary": "A neato person in our community asked to help rework the class into something more fun. So we're all banging our heads together to makes something enjoyable, thematic, and balanced... probably.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Mortal Kombat II Impressions, Mixtape’s Ridiculous Drama, and More | Firelink Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=m_qB36b_gOY",
-      "published": "2026-05-15T02:32:31+00:00",
-      "summary": "This week on Firelink, Nick, KC, and Marty chat about the the silly drama surrounding Mixtape, a game update from Sega, impressions of the new Mortal Kombat movie, and more.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Living the Drangleic Dream in Dark Souls 2 w/ Jack and Jess -- Part 7",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=W4JwJdlBfBM",
-      "published": "2026-05-14T19:13:21+00:00",
-      "summary": "The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "dopamine 😍",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=PbgTrT7Cf4U",
-      "published": "2026-05-05T16:08:48+00:00",
-      "summary": "----- Instagram: https://www.instagram.com/onenightonlymovie TikTok: https://www.tiktok.com/@onenightonlymovie Facebook: https://www.facebook.com/onenightonlymovie X: https://www.twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY - Practical Production",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=6GW4JPeqm3s",
-      "published": "2026-05-14T13:15:00+00:00",
-      "summary": "Spider-Man on the street. #SpiderManBrandNewDay is in theatres July 31. After the record-breaking global success of Spider-Man: No Way Home, Spider-Man: Brand New Day marks an entirely new chapter for Peter Parker and Spider-Man.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Resident Evil – Official Teaser Trailer. From Zach Cregger, director of Weapons and Barbarian.",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=oBWrb8HTU44",
-      "published": "2026-04-30T13:01:34+00:00",
-      "summary": "𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. #ResidentEvil",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "RESIDENT EVIL – Official Teaser Trailer (4K)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=SJPu1spHqfk",
-      "published": "2026-04-30T12:59:32+00:00",
-      "summary": "𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. https://www.instagram.com/residentevil/ https://twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tony | Official Trailer HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=k1MVnzd2aVc",
-      "published": "2026-05-05T13:00:00+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas. TONY – In theaters this August.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "FIND YOUR FRIENDS | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=pT5y7-WwD8M",
-      "published": "2026-05-06T17:31:18+00:00",
-      "summary": "Amber and her four best girlfriends take a trip to escape the L.A. bubble and cut loose in Joshua Tree for the weekend. But upon arrival, they quickly realize the locals don’t want them there.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "TALES FROM THE CRYPT | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=LSwkCskbvzQ",
-      "published": "2026-05-02T15:13:51+00:00",
-      "summary": "The crypt is open, boils and ghouls. TALES FROM THE CRYPT Season 1 drops May 1st on Shudder, with subsequent seasons dropping every Friday. #Shudder #TalesFromtheCrypt Subscribe: http://ow.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "RONDA ROUSEY DEFEATS GINA CARANO VIA ARMBAR SUBMISSION IN ROUND ONE #RouseyCarano",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=BVgAS9bkfCg",
-      "published": "2026-05-17T04:35:06+00:00",
-      "summary": "#netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "ROUSEY AND CARANO ARE HERE #rouseycarano",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=fBQg90ZzMFI",
-      "published": "2026-05-17T04:09:24+00:00",
-      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "MIKE PERRY DEFEATS NATE DIAZ IN THE 2ND ROUND #RouseyCarano",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=WTpU1D6P8Gk",
-      "published": "2026-05-17T03:38:20+00:00",
-      "summary": "#netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "FRANCIS NGANNOU KO IN ROUND 1 #RouseyCarano",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=LbPf9ACTz7g",
-      "published": "2026-05-17T02:45:52+00:00",
-      "summary": "#netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "RONDA ROUSEY AND GINA CARANO FACE OFF #RouseyCarano",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Vw9zgL0VH0w",
-      "published": "2026-05-15T03:19:13+00:00",
-      "summary": "#RouseyCarano Saturday, May 16 9 PM ET | 6 PM PT LIVE on Netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Bad Thoughts: Season 2 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Dy6qLO9EmBQ",
-      "published": "2026-05-14T17:30:00+00:00",
-      "summary": "Bad Thoughts, Tom Segura's dark and twisted comedic series, returns for Season 2 on May 24, only on Netflix. In this six-episode season, Segura navigates unthinkable situations and fantasies within a cinematic world.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Outlast: The Jungle | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=EnvBoDKSNKg",
-      "published": "2026-05-14T16:30:00+00:00",
-      "summary": "In this ultimate survival game, the contestants must outlast not only the jungle and its elements but also the psychological and social challenges posed by their fellow competitors.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Mating Season | Ray Introduces Addy | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=HqqYxLYIwBc",
-      "published": "2026-05-14T15:00:01+00:00",
-      "summary": "Meet Ray, he's looking for love... or some version of it. Enjoy this sneak peek from the upcoming adult animated series \"Mating Season.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "East of Eden | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=fdBr5KyUilU",
-      "published": "2026-05-13T18:56:00+00:00",
-      "summary": "This fresh interpretation of Steinbeck’s masterpiece will explore the multigenerational saga of the Trask family, focusing new attention on its indelible antihero, Cathy Ames, played by Florence Pugh. Watch the official teaser here.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "whose side will you choose? 👀 From the creator of Power comes NEMESIS, premiering May 14",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=5aknIIFc2oQ",
-      "published": "2026-05-12T17:30:21+00:00",
-      "summary": "From the creator of Power comes NEMESIS, premiering May 14 Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Perfect Match: Season 4 | Ally & Jimmy's Broadway Baby? | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=TRsZK_gkWVs",
-      "published": "2026-05-12T17:00:00+00:00",
-      "summary": "Ally is ready to be a full-on Broadway stage mom. Jimmy just wants to… discuss options. This conversation escalates quickly. Perfect Match season four premieres May 13, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "We flipped the switch and the world started watching. This is the Netflix Effect.",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=GDmP5tobo9A",
-      "published": "2026-05-12T10:00:32+00:00",
-      "summary": "We flipped the switch and the world started watching. This is the Netflix Effect. Discover more at https://www.thenetflixeffect.com Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -620,8 +222,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 17,
-    "trailerCount": 19,
-    "sourceCount": 14
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 4
   }
 }
