@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-17T05:00:01.820594Z",
-  "generatedAtDisplay": "2026-05-17 01:00 AM EDT",
+  "generatedAt": "2026-05-17T09:00:32.282205Z",
+  "generatedAtDisplay": "2026-05-17 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
   "summary": "Today's sweep leans toward Democracy / anti-fascism, AI / privacy, Democracy / press freedom. The strongest items in this run are Republican Louisiana senator Bill Cassidy loses primary after Trump intervenes to oust him, Federal funding for Trump’s $400m ballroom in jeopardy after Senate ruling, and Trump news at a glance: billions of taxpayer dollars could go to president and his allies in unprecedented move.",
@@ -37,16 +37,6 @@
       "score": 10
     },
     {
-      "title": "Mixtape will be safe from a music licensing related delisting, ensured by its developer paying extra for the privilege",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/mixtape-will-be-safe-from-a-music-licensing-related-delisting-ensured-by-its-developer-paying-extra-for-the-privilege",
-      "published": "2026-05-16T20:34:44+00:00",
-      "summary": "The first thought that probably arose for most people upon seeing Mixtape for the first time was probably something along the lines of, \"that's a lot of licensed music, wonder how long it takes before it's delisted.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "Snap, YouTube, and TikTok settle suit over harm to students",
       "source": "The Verge",
       "category": "AI / privacy",
@@ -54,16 +44,6 @@
       "published": "2026-05-16T18:34:23+00:00",
       "summary": "Snap, YouTube, and TikTok have settled the first lawsuit of its kind, alleging that social media addiction has cost public schools massive amounts of money, according to Bloomberg.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Will Hawaii Forfeit $5 Million For Teacher Apprenticeships?",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/will-hawaii-forfeit-5-million-for-teacher-apprenticeships/",
-      "published": "2026-05-16T18:01:00+00:00",
-      "summary": "As a college student, Nicole Dolor-Bala was spending full days in schools, helping teachers with their lessons and attending staff meetings.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -75,6 +55,36 @@
       "summary": "In unprecedented self-dealing maneuver, billions of taxpayer dollars could be paid to US president and his allies There is growing concern Donald Trump ’s massive $10bn lawsuit against the Internal Revenue Service may soon be settled by…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
+    },
+    {
+      "title": "\"A great score is not heard\" - From Indiana Jones to Star Wars, musical legend Gordy Haab on becoming a caretaker of some of video games' most prolific franchises",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/a-great-score-is-not-heard-from-indiana-jones-to-star-wars-musical-legend-gordy-haab-on-becoming-a-caretaker-of-some-of-video-games-most-prolific-franchises",
+      "published": "2026-05-17T09:00:00+00:00",
+      "summary": "American composer Gordy Haab is a force to be reckoned with, pun absolutely intended.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "JLR and General Motors eye £900m contract to build new range of military trucks",
+      "source": "The Guardian US",
+      "category": "Security / computing",
+      "url": "https://www.theguardian.com/business/2026/may/17/jaguar-land-rover-general-motors-military-contract-trucks",
+      "published": "2026-05-17T06:00:30+00:00",
+      "summary": "Carmakers aim to expand into UK defence sector, exploiting spending boom by Nato countries Jaguar Land Rover and General Motors are considering an expansion into UK defence via a £900m military contract, as carmakers seek to exploit a…",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 9
+    },
+    {
+      "title": "‘Feels like an illusion’: inside post-Maduro Venezuela’s bewildering new era",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela",
+      "published": "2026-05-17T05:00:29+00:00",
+      "summary": "Four months after Trump’s surprise raid, a political thaw has descended – but mingled with hope is trepidation for what comes next When Ángel Linares heard a strange buzz followed by an explosion, his first thought was that neighbours were…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
       "title": "Why Brooklyn Beckham is – bear with me – a brilliant role model | Polly Hudson",
@@ -97,30 +107,20 @@
       "score": 9
     },
     {
-      "title": "Palestinian pseudo-stealth game Dreams on a Pillow paints a difficult, poetic picture in its first look at gameplay",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/palestinian-pseudo-stealth-game-dreams-on-a-pillow-paints-a-difficult-poetic-picture-in-its-first-look-at-gameplay",
-      "published": "2026-05-16T21:54:14+00:00",
-      "summary": "Back in late 2024 , Palestinian developer Rasheed Abueideh announced Dreams on a Pillow , a \"pseudo-stealth adventure game.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Will Hawaii Forfeit $5 Million For Teacher Apprenticeships?",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/will-hawaii-forfeit-5-million-for-teacher-apprenticeships/",
+      "published": "2026-05-16T18:01:00+00:00",
+      "summary": "As a college student, Nicole Dolor-Bala was spending full days in schools, helping teachers with their lessons and attending staff meetings.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 9
     },
     {
-      "title": "Colleges got more rural students to apply. The challenge is getting them to attend",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/05/16/nx-s1-5797420/selective-colleges-woo-rural-students",
-      "published": "2026-05-16T09:00:00+00:00",
-      "summary": "Some of the nation's most selective institutions are slowly increasing their rural enrollment with the help of millions of dollars from a rural alumnus of the University of Chicago.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "A new Ebola outbreak has already killed 87 people in Democratic Republic of Congo",
+      "title": "World Health Organization declares Ebola outbreak in Congo a global health emergency",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/16/g-s1-122494/a-new-ebola-outbreak-has-already-killed-87-people",
+      "url": "https://www.npr.org/2026/05/16/g-s1-122494/new-ebola-outbreak-drc-who-global-emergency",
       "published": "2026-05-16T18:37:36+00:00",
       "summary": "Health officials are working to contain a new Ebola outbreak in the DRC of a virus strain with no known vaccine.",
       "whyItMatters": "Relevant to your current interest graph.",
@@ -170,9 +170,240 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
+    },
+    {
+      "title": "Beijing Summit / Trump and Xi as allies, rivals and frenemies",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=L-9ibDTT7iM",
+      "published": "2026-05-14T21:35:38+00:00",
+      "summary": "President Trump visits Chinese leader Xi Jinping for the first time since 2017.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "How Much Gets Edited Out Of DF Direct Weekly?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=IavAtRKzyAA",
+      "published": "2026-05-16T16:00:19+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Will The AI \"RAMageddon\" Price Increases Delay New Switch 2 Models?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=b5lBIMgK98Y",
+      "published": "2026-05-16T15:01:01+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Could Microsoft Bring Project Helix Windows Support To Xbox Series X?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=2sjXxfFtJQw",
+      "published": "2026-05-15T17:00:04+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Nvidia GTX 10-Series 10th Anniversary: Team Green's Finest Hour?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=QLppEciwaVo",
+      "published": "2026-05-15T16:00:40+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/JvYOHdPOt7g ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Pragmata PS5 Pro Got An Undocumented Resolution Increase",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=so8-uaY6ZAE",
+      "published": "2026-05-14T17:01:08+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/JvYOHdPOt7g ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Switch 2 GameChat Boosts Performance In Capcom RE Engine Games... But How?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=tzBV8x1pooU",
+      "published": "2026-05-14T16:01:26+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/JvYOHdPOt7g ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Level Up Session | Adventure Is Nigh! - The Slow Walk Home",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=zvGJ0newmrg",
+      "published": "2026-05-16T16:00:06+00:00",
+      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Can Saros Be Considered A Roguelite? | Dev Heads Plays",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=rCk_OhleJPw",
+      "published": "2026-05-15T21:39:03+00:00",
+      "summary": "This week on Dev Heads, JM8 and Mikee play some Saros and discuss whether or not its gameplay loop feels like a true Roguelite. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Gaming Discourse Has Gotten Insufferably Dumb | Unpacked",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=lqO3xz1PU6U",
+      "published": "2026-05-15T15:01:14+00:00",
+      "summary": "Every game seems to have some \"controversy\" attached to it, but it's mostly made up nonsense. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Community Request: Reworking the Way of the 4 Elements Subclass for Monks | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=DdiaUeS2JGk",
+      "published": "2026-05-15T10:55:18+00:00",
+      "summary": "A neato person in our community asked to help rework the class into something more fun. So we're all banging our heads together to makes something enjoyable, thematic, and balanced... probably.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Mortal Kombat II Impressions, Mixtape’s Ridiculous Drama, and More | Firelink Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=m_qB36b_gOY",
+      "published": "2026-05-15T02:32:31+00:00",
+      "summary": "This week on Firelink, Nick, KC, and Marty chat about the the silly drama surrounding Mixtape, a game update from Sega, impressions of the new Mortal Kombat movie, and more.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Living the Drangleic Dream in Dark Souls 2 w/ Jack and Jess -- Part 7",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=W4JwJdlBfBM",
+      "published": "2026-05-14T19:13:21+00:00",
+      "summary": "The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Yahtzee Attempts to Read the Lore of Bionicle",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=guInmfd57EA",
+      "published": "2026-05-14T15:01:09+00:00",
+      "summary": "Yahtzee's back with another lore read... this time he's trying to understand what the heck Bionicle is about. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
     }
   ],
   "trailers": [
+    {
+      "title": "dopamine 😍",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=PbgTrT7Cf4U",
+      "published": "2026-05-05T16:08:48+00:00",
+      "summary": "----- Instagram: https://www.instagram.com/onenightonlymovie TikTok: https://www.tiktok.com/@onenightonlymovie Facebook: https://www.facebook.com/onenightonlymovie X: https://www.twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY - Practical Production",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=6GW4JPeqm3s",
+      "published": "2026-05-14T13:15:00+00:00",
+      "summary": "Spider-Man on the street. #SpiderManBrandNewDay is in theatres July 31. After the record-breaking global success of Spider-Man: No Way Home, Spider-Man: Brand New Day marks an entirely new chapter for Peter Parker and Spider-Man.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Resident Evil – Official Teaser Trailer. From Zach Cregger, director of Weapons and Barbarian.",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=oBWrb8HTU44",
+      "published": "2026-04-30T13:01:34+00:00",
+      "summary": "𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. #ResidentEvil",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RESIDENT EVIL – Official Teaser Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=SJPu1spHqfk",
+      "published": "2026-04-30T12:59:32+00:00",
+      "summary": "𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tony | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=k1MVnzd2aVc",
+      "published": "2026-05-05T13:00:00+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas. TONY – In theaters this August.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "FIND YOUR FRIENDS | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=pT5y7-WwD8M",
+      "published": "2026-05-06T17:31:18+00:00",
+      "summary": "Amber and her four best girlfriends take a trip to escape the L.A. bubble and cut loose in Joshua Tree for the weekend. But upon arrival, they quickly realize the locals don’t want them there.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "TALES FROM THE CRYPT | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=LSwkCskbvzQ",
+      "published": "2026-05-02T15:13:51+00:00",
+      "summary": "The crypt is open, boils and ghouls. TALES FROM THE CRYPT Season 1 drops May 1st on Shudder, with subsequent seasons dropping every Friday. #Shudder #TalesFromtheCrypt Subscribe: http://ow.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
     {
       "title": "RONDA ROUSEY DEFEATS GINA CARANO VIA ARMBAR SUBMISSION IN ROUND ONE #RouseyCarano",
       "source": "Netflix",
@@ -389,8 +620,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 3,
-    "trailerCount": 12,
-    "sourceCount": 8
+    "youtubeCount": 17,
+    "trailerCount": 19,
+    "sourceCount": 14
   }
 }

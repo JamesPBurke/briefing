@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-05-17T05:00:01.820594Z
+Generated: 2026-05-17T09:00:32.282205Z
 
 Today's sweep leans toward Democracy / anti-fascism, AI / privacy, Democracy / press freedom. The strongest items in this run are Republican Louisiana senator Bill Cassidy loses primary after Trump intervenes to oust him, Federal funding for Trump’s $400m ballroom in jeopardy after Senate ruling, and Trump news at a glance: billions of taxpayer dollars could go to president and his allies in unprecedented move.
 
@@ -40,16 +40,7 @@ If case is settled for full amount Trump is requesting, a $10bn payment would mo
 
 Link: https://www.theguardian.com/us-news/2026/may/17/trump-news-at-a-glance-irs-billions-taxpayer-dollars-could-paid-president-and-allies
 
-### 4. Mixtape will be safe from a music licensing related delisting, ensured by its developer paying extra for the privilege [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The first thought that probably arose for most people upon seeing Mixtape for the first time was probably something along the lines of, "that's a lot of licensed music, wonder how long it takes before it's delisted.
-
-Link: https://www.rockpapershotgun.com/mixtape-will-be-safe-from-a-music-licensing-related-delisting-ensured-by-its-developer-paying-extra-for-the-privilege
-
-### 5. Snap, YouTube, and TikTok settle suit over harm to students [10/10]
+### 4. Snap, YouTube, and TikTok settle suit over harm to students [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -58,16 +49,7 @@ Snap, YouTube, and TikTok have settled the first lawsuit of its kind, alleging t
 
 Link: https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools
 
-### 6. Will Hawaii Forfeit $5 Million For Teacher Apprenticeships? [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-As a college student, Nicole Dolor-Bala was spending full days in schools, helping teachers with their lessons and attending staff meetings.
-
-Link: https://www.the74million.org/article/will-hawaii-forfeit-5-million-for-teacher-apprenticeships/
-
-### 7. Trump may settle his lawsuit against IRS for $1.7bn fund to compensate allies [10/10]
+### 5. Trump may settle his lawsuit against IRS for $1.7bn fund to compensate allies [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -76,7 +58,34 @@ In unprecedented self-dealing maneuver, billions of taxpayer dollars could be pa
 
 Link: https://www.theguardian.com/us-news/2026/may/16/trump-irs-lawsuit-compensation-fund
 
-### 8. Why Brooklyn Beckham is – bear with me – a brilliant role model | Polly Hudson [9/10]
+### 6. "A great score is not heard" - From Indiana Jones to Star Wars, musical legend Gordy Haab on becoming a caretaker of some of video games' most prolific franchises [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+American composer Gordy Haab is a force to be reckoned with, pun absolutely intended.
+
+Link: https://www.eurogamer.net/a-great-score-is-not-heard-from-indiana-jones-to-star-wars-musical-legend-gordy-haab-on-becoming-a-caretaker-of-some-of-video-games-most-prolific-franchises
+
+### 7. JLR and General Motors eye £900m contract to build new range of military trucks [9/10]
+**Source:** The Guardian US  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+Carmakers aim to expand into UK defence sector, exploiting spending boom by Nato countries Jaguar Land Rover and General Motors are considering an expansion into UK defence via a £900m military contract, as carmakers seek to exploit a…
+
+Link: https://www.theguardian.com/business/2026/may/17/jaguar-land-rover-general-motors-military-contract-trucks
+
+### 8. ‘Feels like an illusion’: inside post-Maduro Venezuela’s bewildering new era [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Four months after Trump’s surprise raid, a political thaw has descended – but mingled with hope is trepidation for what comes next When Ángel Linares heard a strange buzz followed by an explosion, his first thought was that neighbours were…
+
+Link: https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela
+
+### 9. Why Brooklyn Beckham is – bear with me – a brilliant role model | Polly Hudson [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -85,7 +94,7 @@ He gets slammed as an entitled nepo baby, and just keeps doing what he enjoys, u
 
 Link: https://www.theguardian.com/commentisfree/2026/may/17/why-brooklyn-beckham-is-bear-with-me-a-brilliant-role-model
 
-### 9. What does stress really do to our bodies – and when does it become a big problem? [9/10]
+### 10. What does stress really do to our bodies – and when does it become a big problem? [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -94,32 +103,23 @@ From an elevated heart rate to weakened immunity, experts explain the hidden phy
 
 Link: https://www.theguardian.com/lifeandstyle/2026/may/17/secrets-of-the-body-stress
 
-### 10. Palestinian pseudo-stealth game Dreams on a Pillow paints a difficult, poetic picture in its first look at gameplay [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 11. Will Hawaii Forfeit $5 Million For Teacher Apprenticeships? [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Back in late 2024 , Palestinian developer Rasheed Abueideh announced Dreams on a Pillow , a "pseudo-stealth adventure game.
+As a college student, Nicole Dolor-Bala was spending full days in schools, helping teachers with their lessons and attending staff meetings.
 
-Link: https://www.rockpapershotgun.com/palestinian-pseudo-stealth-game-dreams-on-a-pillow-paints-a-difficult-poetic-picture-in-its-first-look-at-gameplay
+Link: https://www.the74million.org/article/will-hawaii-forfeit-5-million-for-teacher-apprenticeships/
 
-### 11. Colleges got more rural students to apply. The challenge is getting them to attend [9/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Some of the nation's most selective institutions are slowly increasing their rural enrollment with the help of millions of dollars from a rural alumnus of the University of Chicago.
-
-Link: https://www.npr.org/2026/05/16/nx-s1-5797420/selective-colleges-woo-rural-students
-
-### 12. A new Ebola outbreak has already killed 87 people in Democratic Republic of Congo [8/10]
+### 12. World Health Organization declares Ebola outbreak in Congo a global health emergency [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
 Health officials are working to contain a new Ebola outbreak in the DRC of a virus strain with no known vaccine.
 
-Link: https://www.npr.org/2026/05/16/g-s1-122494/a-new-ebola-outbreak-has-already-killed-87-people
+Link: https://www.npr.org/2026/05/16/g-s1-122494/new-ebola-outbreak-drc-who-global-emergency
 
 ### 13. Sony tries to explain that its AI Camera Assistant doesn’t suck [8/10]
 **Source:** The Verge  
@@ -159,6 +159,132 @@ Dating in 2026, but using AI. Can artificial intelligence do dating better than 
 
 Link: https://www.youtube.com/watch?v=znD-27o34ZU
 
+### Beijing Summit / Trump and Xi as allies, rivals and frenemies [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+President Trump visits Chinese leader Xi Jinping for the first time since 2017.
+
+Link: https://www.youtube.com/watch?v=L-9ibDTT7iM
+
+### How Much Gets Edited Out Of DF Direct Weekly? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=IavAtRKzyAA
+
+### Will The AI "RAMageddon" Price Increases Delay New Switch 2 Models? [9/10]
+**Creator:** Digital Foundry  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=b5lBIMgK98Y
+
+### Could Microsoft Bring Project Helix Windows Support To Xbox Series X? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=2sjXxfFtJQw
+
+### Nvidia GTX 10-Series 10th Anniversary: Team Green's Finest Hour? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/JvYOHdPOt7g ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=QLppEciwaVo
+
+### Pragmata PS5 Pro Got An Undocumented Resolution Increase [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/JvYOHdPOt7g ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=so8-uaY6ZAE
+
+### Switch 2 GameChat Boosts Performance In Capcom RE Engine Games... But How? [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/JvYOHdPOt7g ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=tzBV8x1pooU
+
+### Level Up Session | Adventure Is Nigh! - The Slow Walk Home [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.
+
+Link: https://www.youtube.com/watch?v=zvGJ0newmrg
+
+### Can Saros Be Considered A Roguelite? | Dev Heads Plays [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Dev Heads, JM8 and Mikee play some Saros and discuss whether or not its gameplay loop feels like a true Roguelite. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=rCk_OhleJPw
+
+### Gaming Discourse Has Gotten Insufferably Dumb | Unpacked [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Every game seems to have some "controversy" attached to it, but it's mostly made up nonsense. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=lqO3xz1PU6U
+
+### Community Request: Reworking the Way of the 4 Elements Subclass for Monks | RPG Help Desk [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+A neato person in our community asked to help rework the class into something more fun. So we're all banging our heads together to makes something enjoyable, thematic, and balanced... probably.
+
+Link: https://www.youtube.com/watch?v=DdiaUeS2JGk
+
+### Mortal Kombat II Impressions, Mixtape’s Ridiculous Drama, and More | Firelink Podcast [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Firelink, Nick, KC, and Marty chat about the the silly drama surrounding Mixtape, a game update from Sega, impressions of the new Mortal Kombat movie, and more.
+
+Link: https://www.youtube.com/watch?v=m_qB36b_gOY
+
+### Living the Drangleic Dream in Dark Souls 2 w/ Jack and Jess -- Part 7 [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.
+
+Link: https://www.youtube.com/watch?v=W4JwJdlBfBM
+
+### Yahtzee Attempts to Read the Lore of Bionicle [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Yahtzee's back with another lore read... this time he's trying to understand what the heck Bionicle is about. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.
+
+Link: https://www.youtube.com/watch?v=guInmfd57EA
+
 ## Entertainment Recommendations
 
 ### Newer shows that look like a fit
@@ -187,6 +313,69 @@ Link: https://www.youtube.com/watch?v=znD-27o34ZU
 - **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
 
 ## Trailers / Previews
+
+### dopamine 😍 [7/10]
+**Source:** Universal Pictures  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+----- Instagram: https://www.instagram.com/onenightonlymovie TikTok: https://www.tiktok.com/@onenightonlymovie Facebook: https://www.facebook.com/onenightonlymovie X: https://www.twitter.
+
+Link: https://www.youtube.com/watch?v=PbgTrT7Cf4U
+
+### SPIDER-MAN: BRAND NEW DAY - Practical Production [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Spider-Man on the street. #SpiderManBrandNewDay is in theatres July 31. After the record-breaking global success of Spider-Man: No Way Home, Spider-Man: Brand New Day marks an entirely new chapter for Peter Parker and Spider-Man.
+
+Link: https://www.youtube.com/watch?v=6GW4JPeqm3s
+
+### Resident Evil – Official Teaser Trailer. From Zach Cregger, director of Weapons and Barbarian. [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. #ResidentEvil
+
+Link: https://www.youtube.com/watch?v=oBWrb8HTU44
+
+### RESIDENT EVIL – Official Teaser Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. https://www.instagram.com/residentevil/ https://twitter.
+
+Link: https://www.youtube.com/watch?v=SJPu1spHqfk
+
+### Tony | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas. TONY – In theaters this August.
+
+Link: https://www.youtube.com/watch?v=k1MVnzd2aVc
+
+### FIND YOUR FRIENDS | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Amber and her four best girlfriends take a trip to escape the L.A. bubble and cut loose in Joshua Tree for the weekend. But upon arrival, they quickly realize the locals don’t want them there.
+
+Link: https://www.youtube.com/watch?v=pT5y7-WwD8M
+
+### TALES FROM THE CRYPT | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The crypt is open, boils and ghouls. TALES FROM THE CRYPT Season 1 drops May 1st on Shudder, with subsequent seasons dropping every Friday. #Shudder #TalesFromtheCrypt Subscribe: http://ow.
+
+Link: https://www.youtube.com/watch?v=LSwkCskbvzQ
 
 ### RONDA ROUSEY DEFEATS GINA CARANO VIA ARMBAR SUBMISSION IN ROUND ONE #RouseyCarano [10/10]
 **Source:** Netflix  
