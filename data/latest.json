@@ -1,11 +1,41 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-17T14:00:01.518018Z",
-  "generatedAtDisplay": "2026-05-17 10:00 AM EDT",
+  "generatedAt": "2026-05-17T18:01:12.239422Z",
+  "generatedAtDisplay": "2026-05-17 02:01 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are New State Law in NY Could Unlock Thousands of Child Care Seats, Critics See Risks, ‘We’re not ready’: US lags on pandemic preparedness after Covid, experts say, and One clinic tracks the heavy toll Trump's immigration crackdown takes on mental health.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Phasmophobia admits it \"missed the mark\" and prepares \"to earn back this community’s trust\", University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement, and Opinion: Why a Doorway Greeting May Be One of the Most Underrated Classroom Strategies.",
   "mainItems": [
+    {
+      "title": "Phasmophobia admits it \"missed the mark\" and prepares \"to earn back this community’s trust\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/phasmophobia-character-update-apology",
+      "published": "2026-05-17T17:36:16+00:00",
+      "summary": "Phasmophobia maker Kinetic Games has apologised to players for issues with its long-awaited 'Player Character Update', admitting it \"missed the mark\" and \"didn't deliver on our promises to you\". Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
+      "source": "The Verge",
+      "category": "CS education / AI policy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+      "published": "2026-05-17T17:22:23+00:00",
+      "summary": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Why a Doorway Greeting May Be One of the Most Underrated Classroom Strategies",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/why-a-doorway-greeting-may-be-one-of-the-most-underrated-classroom-strategies/",
+      "published": "2026-05-17T16:01:00+00:00",
+      "summary": "A few years ago, a video of a teacher greeting every student with a personalized handshake, clap pattern or dance move made its way around the internet. It was joyful, creative and clearly meaningful to the students.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
     {
       "title": "New State Law in NY Could Unlock Thousands of Child Care Seats, Critics See Risks",
       "source": "The 74",
@@ -17,32 +47,12 @@
       "score": 10
     },
     {
-      "title": "‘We’re not ready’: US lags on pandemic preparedness after Covid, experts say",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/may/17/pandemic-preparedness-after-covid",
-      "published": "2026-05-17T11:00:37+00:00",
-      "summary": "Experts say slashed funding and growing misinformation are some of the greatest challenges facing public health The hantavirus outbreak, while unlikely to spark the next big pandemic, is shining a spotlight on the ways public health has…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
       "title": "One clinic tracks the heavy toll Trump's immigration crackdown takes on mental health",
       "source": "NPR Health",
       "category": "Democracy / press freedom",
       "url": "https://www.npr.org/2026/05/17/nx-s1-5779576/immigration-ice-cbp-mental-health-children",
       "published": "2026-05-17T11:00:00+00:00",
       "summary": "Zocalo Health, a clinic in Los Angeles, screens all its patients for depression, anxiety and suicidal thoughts. It documented a marked increase in those conditions since ICE enforcement actions began.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘It was like a mosh pit’: Swatch closes stores as watch launch causes crowding and scuffles",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/may/17/swatch-royal-pop-launch-chaos-closures",
-      "published": "2026-05-17T10:50:55+00:00",
-      "summary": "French police fire teargas and UK shops close for safety reasons as hundreds queue for Royal Pop timepieces that make up Audemars Piguet collaboration The launch of limited-edition Swatch watches descended into chaos in several European…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -77,52 +87,42 @@
       "score": 10
     },
     {
-      "title": "Trump may settle his lawsuit against IRS for $1.7bn fund to compensate allies",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/may/16/trump-irs-lawsuit-compensation-fund",
-      "published": "2026-05-16T16:00:13+00:00",
-      "summary": "In unprecedented self-dealing maneuver, billions of taxpayer dollars could be paid to US president and his allies There is growing concern Donald Trump ’s massive $10bn lawsuit against the Internal Revenue Service may soon be settled by…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "\"A great score is not heard\" - From Indiana Jones to Star Wars, musical legend Gordy Haab on becoming a caretaker of some of video games' most prolific franchises",
+      "title": "Terraria marks 70 million sales and 15th anniversary with a promise to \"continue beyond\" its next big update",
       "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/a-great-score-is-not-heard-from-indiana-jones-to-star-wars-musical-legend-gordy-haab-on-becoming-a-caretaker-of-some-of-video-games-most-prolific-franchises",
-      "published": "2026-05-17T09:00:00+00:00",
-      "summary": "American composer Gordy Haab is a force to be reckoned with, pun absolutely intended.",
+      "url": "https://www.eurogamer.net/terraria-70m-sales-15-anniversary",
+      "published": "2026-05-17T16:25:38+00:00",
+      "summary": "Terraria developer Re-Logic has insisted that it is committed to ensuring \"the world of Terraria remains and will remain vibrant\" as the sandbox game marks its 15th anniversary. Read more",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "‘Feels like an illusion’: inside post-Maduro Venezuela’s bewildering new era",
+      "title": "After I suffered a slipped disc, these seven gadgets help me move with less pain",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela",
-      "published": "2026-05-17T05:00:29+00:00",
-      "summary": "Four months after Trump’s surprise raid, a political thaw has descended – but mingled with hope is trepidation for what comes next When Ángel Linares heard a strange buzz followed by an explosion, his first thought was that neighbours were…",
+      "url": "https://www.theguardian.com/thefilter-us/2026/may/17/best-back-pain-products",
+      "published": "2026-05-17T14:15:40+00:00",
+      "summary": "When I slipped a disc, I discovered an array of gadgets that help take a load off your back and solve the constraints of limited mobility You need to sit down for this – the best seat cushions in the US to relieve your back Sign up for the…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Republican Louisiana senator Bill Cassidy loses primary after Trump intervenes to oust him",
-      "source": "The Guardian US",
+      "title": "Oddity is masterfully tense horror from the director of Hokum",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump",
-      "published": "2026-05-17T04:37:16+00:00",
-      "summary": "Cassidy’s bid to win nomination for third term was imperiled by his vote to convict Trump after January 6 insurrection The Republican senator Bill Cassidy lost his primary on Saturday, as voters in Louisiana opted instead to advance two…",
+      "url": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
+      "published": "2026-05-17T13:47:35+00:00",
+      "summary": "Hokum recently hit theaters, and it's already outperforming box office expectations.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
-      "title": "A revolutionary cancer treatment could transform autoimmune disease",
-      "source": "Ars Technica",
+      "title": "Turtle Beach made a good SteelSeries headset clone that’s $50 less",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
-      "published": "2026-05-17T11:00:14+00:00",
-      "summary": "Researchers are testing CAR T cell therapy as a way to reset the immune system.",
+      "url": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
+      "published": "2026-05-17T14:26:07+00:00",
+      "summary": "I really liked the SteelSeries Arctis Nova Pro Wireless, so the company didn't have to say much to get me excited about its successor.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 8
     },
@@ -183,6 +183,28 @@
       "verdict": "Worth watching"
     },
     {
+      "title": "I've Upgraded - What Should I Do With My Old PC?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=1SAWHnq3wAI",
+      "published": "2026-05-17T16:00:03+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Is Switch 2 Powerful Enough To Last Into The 2030s?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=nq-Fn67fL4k",
+      "published": "2026-05-17T15:01:21+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "How Much Gets Edited Out Of DF Direct Weekly?",
       "source": "Digital Foundry",
       "category": "Games / hardware",
@@ -190,8 +212,8 @@
       "published": "2026-05-16T16:00:19+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Will The AI \"RAMageddon\" Price Increases Delay New Switch 2 Models?",
@@ -227,24 +249,13 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Pragmata PS5 Pro Got An Undocumented Resolution Increase",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=so8-uaY6ZAE",
-      "published": "2026-05-14T17:01:08+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/JvYOHdPOt7g ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Switch 2 GameChat Boosts Performance In Capcom RE Engine Games... But How?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=tzBV8x1pooU",
-      "published": "2026-05-14T16:01:26+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/JvYOHdPOt7g ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "title": "Wax Heads, Motorsclice, Froggy Hates Snow and Everything Is Crab | Yahtzee Tries",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=bEtV1YRBePA",
+      "published": "2026-05-17T15:00:46+00:00",
+      "summary": "This week on Yahtzee Tries, Yahtzee checked out Wax Heads, Motorsclice, Froggy Hates Snow and Everything Is Crab. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
     },
@@ -310,17 +321,6 @@
       "url": "https://www.youtube.com/watch?v=W4JwJdlBfBM",
       "published": "2026-05-14T19:13:21+00:00",
       "summary": "The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Yahtzee Attempts to Read the Lore of Bionicle",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=guInmfd57EA",
-      "published": "2026-05-14T15:01:09+00:00",
-      "summary": "Yahtzee's back with another lore read... this time he's trying to understand what the heck Bionicle is about. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
@@ -412,7 +412,7 @@
       "published": "2026-05-17T04:35:06+00:00",
       "summary": "#netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -423,7 +423,7 @@
       "published": "2026-05-17T04:09:24+00:00",
       "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -434,7 +434,7 @@
       "published": "2026-05-17T03:38:20+00:00",
       "summary": "#netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -445,7 +445,7 @@
       "published": "2026-05-17T02:45:52+00:00",
       "summary": "#netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -622,6 +622,6 @@
     "mainCount": 13,
     "youtubeCount": 17,
     "trailerCount": 19,
-    "sourceCount": 15
+    "sourceCount": 14
   }
 }

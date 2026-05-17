@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-17T14:00:01.518018Z
+Generated: 2026-05-17T18:01:12.239422Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are New State Law in NY Could Unlock Thousands of Child Care Seats, Critics See Risks, ‘We’re not ready’: US lags on pandemic preparedness after Covid, experts say, and One clinic tracks the heavy toll Trump's immigration crackdown takes on mental health.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Phasmophobia admits it "missed the mark" and prepares "to earn back this community’s trust", University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement, and Opinion: Why a Doorway Greeting May Be One of the Most Underrated Classroom Strategies.
 
 ## Briefing
 
@@ -13,7 +13,34 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. New State Law in NY Could Unlock Thousands of Child Care Seats, Critics See Risks [10/10]
+### 1. Phasmophobia admits it "missed the mark" and prepares "to earn back this community’s trust" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Phasmophobia maker Kinetic Games has apologised to players for issues with its long-awaited 'Player Character Update', admitting it "missed the mark" and "didn't deliver on our promises to you". Read more
+
+Link: https://www.eurogamer.net/phasmophobia-character-update-apology
+
+### 2. University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement [10/10]
+**Source:** The Verge  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement
+
+### 3. Opinion: Why a Doorway Greeting May Be One of the Most Underrated Classroom Strategies [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+A few years ago, a video of a teacher greeting every student with a personalized handshake, clap pattern or dance move made its way around the internet. It was joyful, creative and clearly meaningful to the students.
+
+Link: https://www.the74million.org/article/why-a-doorway-greeting-may-be-one-of-the-most-underrated-classroom-strategies/
+
+### 4. New State Law in NY Could Unlock Thousands of Child Care Seats, Critics See Risks [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -22,16 +49,7 @@ Despite having room to serve more children, Middletown day care owner Peggy Fuen
 
 Link: https://www.the74million.org/zero2eight/new-ny-law-could-unlock-thousands-of-childcare-seats-critics-see-risks/
 
-### 2. ‘We’re not ready’: US lags on pandemic preparedness after Covid, experts say [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Experts say slashed funding and growing misinformation are some of the greatest challenges facing public health The hantavirus outbreak, while unlikely to spark the next big pandemic, is shining a spotlight on the ways public health has…
-
-Link: https://www.theguardian.com/us-news/2026/may/17/pandemic-preparedness-after-covid
-
-### 3. One clinic tracks the heavy toll Trump's immigration crackdown takes on mental health [10/10]
+### 5. One clinic tracks the heavy toll Trump's immigration crackdown takes on mental health [10/10]
 **Source:** NPR Health  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -40,16 +58,7 @@ Zocalo Health, a clinic in Los Angeles, screens all its patients for depression,
 
 Link: https://www.npr.org/2026/05/17/nx-s1-5779576/immigration-ice-cbp-mental-health-children
 
-### 4. ‘It was like a mosh pit’: Swatch closes stores as watch launch causes crowding and scuffles [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-French police fire teargas and UK shops close for safety reasons as hundreds queue for Royal Pop timepieces that make up Audemars Piguet collaboration The launch of limited-edition Swatch watches descended into chaos in several European…
-
-Link: https://www.theguardian.com/world/2026/may/17/swatch-royal-pop-launch-chaos-closures
-
-### 5. The ungovernable country? Why Britain keeps losing prime ministers [10/10]
+### 6. The ungovernable country? Why Britain keeps losing prime ministers [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -58,7 +67,7 @@ May, Johnson, Truss, Sunak, and now perhaps Starmer: each one was brought low fo
 
 Link: https://www.theguardian.com/politics/2026/may/17/the-ungovernable-country-why-britain-keeps-losing-prime-ministers
 
-### 6. Trump news at a glance: billions of taxpayer dollars could go to president and his allies in unprecedented move [10/10]
+### 7. Trump news at a glance: billions of taxpayer dollars could go to president and his allies in unprecedented move [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -67,7 +76,7 @@ If case is settled for full amount Trump is requesting, a $10bn payment would mo
 
 Link: https://www.theguardian.com/us-news/2026/may/17/trump-news-at-a-glance-irs-billions-taxpayer-dollars-could-paid-president-and-allies
 
-### 7. Snap, YouTube, and TikTok settle suit over harm to students [10/10]
+### 8. Snap, YouTube, and TikTok settle suit over harm to students [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -76,50 +85,41 @@ Snap, YouTube, and TikTok have settled the first lawsuit of its kind, alleging t
 
 Link: https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools
 
-### 8. Trump may settle his lawsuit against IRS for $1.7bn fund to compensate allies [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-In unprecedented self-dealing maneuver, billions of taxpayer dollars could be paid to US president and his allies There is growing concern Donald Trump ’s massive $10bn lawsuit against the Internal Revenue Service may soon be settled by…
-
-Link: https://www.theguardian.com/us-news/2026/may/16/trump-irs-lawsuit-compensation-fund
-
-### 9. "A great score is not heard" - From Indiana Jones to Star Wars, musical legend Gordy Haab on becoming a caretaker of some of video games' most prolific franchises [9/10]
+### 9. Terraria marks 70 million sales and 15th anniversary with a promise to "continue beyond" its next big update [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-American composer Gordy Haab is a force to be reckoned with, pun absolutely intended.
+Terraria developer Re-Logic has insisted that it is committed to ensuring "the world of Terraria remains and will remain vibrant" as the sandbox game marks its 15th anniversary. Read more
 
-Link: https://www.eurogamer.net/a-great-score-is-not-heard-from-indiana-jones-to-star-wars-musical-legend-gordy-haab-on-becoming-a-caretaker-of-some-of-video-games-most-prolific-franchises
+Link: https://www.eurogamer.net/terraria-70m-sales-15-anniversary
 
-### 10. ‘Feels like an illusion’: inside post-Maduro Venezuela’s bewildering new era [9/10]
+### 10. After I suffered a slipped disc, these seven gadgets help me move with less pain [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Four months after Trump’s surprise raid, a political thaw has descended – but mingled with hope is trepidation for what comes next When Ángel Linares heard a strange buzz followed by an explosion, his first thought was that neighbours were…
+When I slipped a disc, I discovered an array of gadgets that help take a load off your back and solve the constraints of limited mobility You need to sit down for this – the best seat cushions in the US to relieve your back Sign up for the…
 
-Link: https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela
+Link: https://www.theguardian.com/thefilter-us/2026/may/17/best-back-pain-products
 
-### 11. Republican Louisiana senator Bill Cassidy loses primary after Trump intervenes to oust him [9/10]
-**Source:** The Guardian US  
+### 11. Oddity is masterfully tense horror from the director of Hokum [9/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Cassidy’s bid to win nomination for third term was imperiled by his vote to convict Trump after January 6 insurrection The Republican senator Bill Cassidy lost his primary on Saturday, as voters in Louisiana opted instead to advance two…
+Hokum recently hit theaters, and it's already outperforming box office expectations.
 
-Link: https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump
+Link: https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum
 
-### 12. A revolutionary cancer treatment could transform autoimmune disease [8/10]
-**Source:** Ars Technica  
+### 12. Turtle Beach made a good SteelSeries headset clone that’s $50 less [8/10]
+**Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Researchers are testing CAR T cell therapy as a way to reset the immune system.
+I really liked the SteelSeries Arctis Nova Pro Wireless, so the company didn't have to say much to get me excited about its successor.
 
-Link: https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/
+Link: https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on
 
 ### 13. World Health Organization declares Ebola outbreak in Congo a global health emergency [8/10]
 **Source:** NPR Health  
@@ -168,9 +168,27 @@ President Trump visits Chinese leader Xi Jinping for the first time since 2017.
 
 Link: https://www.youtube.com/watch?v=L-9ibDTT7iM
 
-### How Much Gets Edited Out Of DF Direct Weekly? [7/10]
+### I've Upgraded - What Should I Do With My Old PC? [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=1SAWHnq3wAI
+
+### Is Switch 2 Powerful Enough To Last Into The 2030s? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=nq-Fn67fL4k
+
+### How Much Gets Edited Out Of DF Direct Weekly? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -204,23 +222,14 @@ Link: https://www.youtube.com/watch?v=2sjXxfFtJQw
 
 Link: https://www.youtube.com/watch?v=QLppEciwaVo
 
-### Pragmata PS5 Pro Got An Undocumented Resolution Increase [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/JvYOHdPOt7g ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=so8-uaY6ZAE
-
-### Switch 2 GameChat Boosts Performance In Capcom RE Engine Games... But How? [8/10]
-**Creator:** Digital Foundry  
+### Wax Heads, Motorsclice, Froggy Hates Snow and Everything Is Crab | Yahtzee Tries [8/10]
+**Creator:** Second Wind  
 **Verdict:** Worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/JvYOHdPOt7g ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+This week on Yahtzee Tries, Yahtzee checked out Wax Heads, Motorsclice, Froggy Hates Snow and Everything Is Crab. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
-Link: https://www.youtube.com/watch?v=tzBV8x1pooU
+Link: https://www.youtube.com/watch?v=bEtV1YRBePA
 
 ### Level Up Session | Adventure Is Nigh! - The Slow Walk Home [8/10]
 **Creator:** Second Wind  
@@ -275,15 +284,6 @@ Link: https://www.youtube.com/watch?v=m_qB36b_gOY
 The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.
 
 Link: https://www.youtube.com/watch?v=W4JwJdlBfBM
-
-### Yahtzee Attempts to Read the Lore of Bionicle [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Yahtzee's back with another lore read... this time he's trying to understand what the heck Bionicle is about. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.
-
-Link: https://www.youtube.com/watch?v=guInmfd57EA
 
 ## Entertainment Recommendations
 
@@ -377,7 +377,7 @@ The crypt is open, boils and ghouls. TALES FROM THE CRYPT Season 1 drops May 1st
 
 Link: https://www.youtube.com/watch?v=LSwkCskbvzQ
 
-### RONDA ROUSEY DEFEATS GINA CARANO VIA ARMBAR SUBMISSION IN ROUND ONE #RouseyCarano [10/10]
+### RONDA ROUSEY DEFEATS GINA CARANO VIA ARMBAR SUBMISSION IN ROUND ONE #RouseyCarano [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -386,7 +386,7 @@ Link: https://www.youtube.com/watch?v=LSwkCskbvzQ
 
 Link: https://www.youtube.com/watch?v=BVgAS9bkfCg
 
-### ROUSEY AND CARANO ARE HERE #rouseycarano [10/10]
+### ROUSEY AND CARANO ARE HERE #rouseycarano [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -395,7 +395,7 @@ About Netflix: Netflix is one of the world’s leading entertainment services of
 
 Link: https://www.youtube.com/watch?v=fBQg90ZzMFI
 
-### MIKE PERRY DEFEATS NATE DIAZ IN THE 2ND ROUND #RouseyCarano [10/10]
+### MIKE PERRY DEFEATS NATE DIAZ IN THE 2ND ROUND #RouseyCarano [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -404,7 +404,7 @@ Link: https://www.youtube.com/watch?v=fBQg90ZzMFI
 
 Link: https://www.youtube.com/watch?v=WTpU1D6P8Gk
 
-### FRANCIS NGANNOU KO IN ROUND 1 #RouseyCarano [10/10]
+### FRANCIS NGANNOU KO IN ROUND 1 #RouseyCarano [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
