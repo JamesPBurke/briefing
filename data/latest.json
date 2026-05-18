@@ -1,19 +1,19 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-18T05:00:01.652244Z",
-  "generatedAtDisplay": "2026-05-18 01:00 AM EDT",
+  "generatedAt": "2026-05-18T09:01:32.343957Z",
+  "generatedAtDisplay": "2026-05-18 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Trump news at a glance: Republicans pledge to secure funding for White House ballroom, Revamped Siri will reportedly offer auto-deleting chats, and Phasmophobia admits it \"missed the mark\" and prepares \"to earn back this community's trust\".",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are How to become emotionally mature – at any age: ‘We often don’t realise the hurt we’re causing’, Revamped Siri will reportedly offer auto-deleting chats, and University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement.",
   "mainItems": [
     {
-      "title": "Trump news at a glance: Republicans pledge to secure funding for White House ballroom",
+      "title": "How to become emotionally mature – at any age: ‘We often don’t realise the hurt we’re causing’",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/may/18/trump-news-at-a-glance-latest-updates-today",
-      "published": "2026-05-18T00:00:13+00:00",
-      "summary": "Senate parliamentarian ruled a proposal to fund $1bn in security additions for the White House failed to meet procedural rules.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/18/how-to-become-emotionally-mature-at-any-age-we-often-dont-realise-the-hurt-were-causing",
+      "published": "2026-05-18T04:00:59+00:00",
+      "summary": "Lindsay C Gibson’s book Adult Children of Emotionally Immature Parents was an enormous unexpected hit in the pandemic.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -24,16 +24,6 @@
       "published": "2026-05-17T18:40:28+00:00",
       "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Phasmophobia admits it \"missed the mark\" and prepares \"to earn back this community's trust\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/phasmophobia-character-update-apology",
-      "published": "2026-05-17T17:36:16+00:00",
-      "summary": "Phasmophobia maker Kinetic Games has apologised to players for issues with its long-awaited 'Player Character Update', admitting it \"missed the mark\" and \"didn't deliver on our promises to you\". Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -57,12 +47,12 @@
       "score": 10
     },
     {
-      "title": "Thousands gather in Washington DC for daylong America-themed prayer rally",
+      "title": "Trump news at a glance: Republicans pledge to secure funding for White House ballroom",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/may/17/dc-national-mall-prayer-rally",
-      "published": "2026-05-17T19:47:23+00:00",
-      "summary": "White House-backed event billed as ‘One Nation Under God’ criticized for blurring lines between church and state Thousands of people streamed on to the National Mall for a daylong prayer rally on Sunday billed as a “rededication of our…",
+      "url": "https://www.theguardian.com/us-news/2026/may/18/trump-news-at-a-glance-latest-updates-today",
+      "published": "2026-05-18T00:00:13+00:00",
+      "summary": "Senate parliamentarian ruled a proposal to fund $1bn in security additions for the White House failed to meet procedural rules.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
@@ -77,6 +67,16 @@
       "score": 9
     },
     {
+      "title": "Phasmophobia admits it \"missed the mark\" and prepares \"to earn back this community's trust\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/phasmophobia-character-update-apology",
+      "published": "2026-05-17T17:36:16+00:00",
+      "summary": "Phasmophobia maker Kinetic Games has apologised to players for issues with its long-awaited 'Player Character Update', admitting it \"missed the mark\" and \"didn't deliver on our promises to you\". Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
       "title": "Opinion: Why a Doorway Greeting May Be One of the Most Underrated Classroom Strategies",
       "source": "The 74",
       "category": "Education / pedagogy",
@@ -84,16 +84,6 @@
       "published": "2026-05-17T16:01:00+00:00",
       "summary": "A few years ago, a video of a teacher greeting every student with a personalized handshake, clap pattern or dance move made its way around the internet. It was joyful, creative and clearly meaningful to the students.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Saturday Night Live: Will Ferrell plays Jeffrey Epstein in a strong season finale",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/17/saturday-night-live-will-ferrell-host-finale",
-      "published": "2026-05-17T14:59:00+00:00",
-      "summary": "The former cast member returns as host for a strong episode to close out what’s become a strong season with new faces coming into their own The season finale of Saturday Night Live’s 51st season kicks off in the oval office.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
@@ -117,6 +107,16 @@
       "score": 9
     },
     {
+      "title": "Middle East crisis live: Trump warns ‘clock is ticking’ for Iran to reach peace deal",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
+      "published": "2026-05-18T08:44:27+00:00",
+      "summary": "US president says there ‘won’t be anything left’ of country if it doesn’t come to an agreement UAE blames Iran or its proxies for drone strike fire near nuclear plant The Iranian foreign ministry spokesperson Esmail Baghaei has been…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 8
+    },
+    {
       "title": "Microsoft is retiring Teams’ Together Mode",
       "source": "The Verge",
       "category": "AI / computing",
@@ -127,17 +127,39 @@
       "score": 8
     },
     {
-      "title": "PCOS has a new name. Can it help patients get better care?",
+      "title": "The 'fibermaxxing' trend has health benefits worth the hype",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/17/nx-s1-5821129/pcos-has-a-new-name-can-it-help-patients-get-better-care",
-      "published": "2026-05-17T12:15:45+00:00",
-      "summary": "Polycystic ovary syndrome is getting a new name. NPR's Ayesha Rascoe speaks to Dr. Melanie Cree, of Children's Hospital Colorado, about how the new name might help patients get better treatment.",
+      "url": "https://www.npr.org/2026/05/18/nx-s1-5821598/the-fibermaxxing-trend-has-health-benefits-worth-the-hype",
+      "published": "2026-05-18T08:47:01+00:00",
+      "summary": "There are a LOT of wellness trends on social media that make health experts roll their eyes in skepticism. But there is one big trend that just about everyone can get behind: fibermaxxing.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
   ],
   "youtube": [
+    {
+      "title": "Billie Eilish's Relationship with the Internet",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=Dc-LTv-GYso",
+      "published": "2026-05-16T14:00:03+00:00",
+      "summary": "Billie Eilish speaks to WIRED ahead of the release of her new concert film “Hit Me Hard and Soft: The Tour (Live in 3D)”—shot, as the name suggests, in 3D by Eilish and James Cameron— about her relationship with the internet and whether…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Can AI Predict Date Compatibility? | AI Dating",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=zKzZAtmhnEQ",
+      "published": "2026-05-15T16:00:07+00:00",
+      "summary": "Dating in 2026, but using AI. Can artificial intelligence predict romantic chemistry? WIRED finds out. Four bachelors go on speed dates with our bachelorette whilst ChatGPT and Claude rank their compatibility.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
     {
       "title": "I've Upgraded - What Should I Do With My Old PC?",
       "source": "Digital Foundry",
@@ -203,9 +225,263 @@
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Wax Heads, Motorsclice, Froggy Hates Snow and Everything Is Crab | Yahtzee Tries",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=bEtV1YRBePA",
+      "published": "2026-05-17T15:00:46+00:00",
+      "summary": "This week on Yahtzee Tries, Yahtzee checked out Wax Heads, Motorsclice, Froggy Hates Snow and Everything Is Crab. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Level Up Session | Adventure Is Nigh! - The Slow Walk Home",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=zvGJ0newmrg",
+      "published": "2026-05-16T16:00:06+00:00",
+      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Can Saros Be Considered A Roguelite? | Dev Heads Plays",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=rCk_OhleJPw",
+      "published": "2026-05-15T21:39:03+00:00",
+      "summary": "This week on Dev Heads, JM8 and Mikee play some Saros and discuss whether or not its gameplay loop feels like a true Roguelite. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Gaming Discourse Has Gotten Insufferably Dumb | Unpacked",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=lqO3xz1PU6U",
+      "published": "2026-05-15T15:01:14+00:00",
+      "summary": "Every game seems to have some \"controversy\" attached to it, but it's mostly made up nonsense. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Community Request: Reworking the Way of the 4 Elements Subclass for Monks | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=DdiaUeS2JGk",
+      "published": "2026-05-15T10:55:18+00:00",
+      "summary": "A neato person in our community asked to help rework the class into something more fun. So we're all banging our heads together to makes something enjoyable, thematic, and balanced... probably.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
     }
   ],
-  "trailers": [],
+  "trailers": [
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY - Practical Production",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=6GW4JPeqm3s",
+      "published": "2026-05-14T13:15:00+00:00",
+      "summary": "Spider-Man on the street. #SpiderManBrandNewDay is in theatres July 31. After the record-breaking global success of Spider-Man: No Way Home, Spider-Man: Brand New Day marks an entirely new chapter for Peter Parker and Spider-Man.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Resident Evil – Official Teaser Trailer. From Zach Cregger, director of Weapons and Barbarian.",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=oBWrb8HTU44",
+      "published": "2026-04-30T13:01:34+00:00",
+      "summary": "𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. #ResidentEvil",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RESIDENT EVIL – Official Teaser Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=SJPu1spHqfk",
+      "published": "2026-04-30T12:59:32+00:00",
+      "summary": "𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tony | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=k1MVnzd2aVc",
+      "published": "2026-05-05T13:00:00+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas. TONY – In theaters this August.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "FIND YOUR FRIENDS | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=pT5y7-WwD8M",
+      "published": "2026-05-06T17:31:18+00:00",
+      "summary": "Amber and her four best girlfriends take a trip to escape the L.A. bubble and cut loose in Joshua Tree for the weekend. But upon arrival, they quickly realize the locals don’t want them there.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "TALES FROM THE CRYPT | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=LSwkCskbvzQ",
+      "published": "2026-05-02T15:13:51+00:00",
+      "summary": "The crypt is open, boils and ghouls. TALES FROM THE CRYPT Season 1 drops May 1st on Shudder, with subsequent seasons dropping every Friday. #Shudder #TalesFromtheCrypt Subscribe: http://ow.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RONDA ROUSEY DEFEATS GINA CARANO VIA ARMBAR SUBMISSION IN ROUND ONE #RouseyCarano",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=BVgAS9bkfCg",
+      "published": "2026-05-17T04:35:06+00:00",
+      "summary": "#netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "ROUSEY AND CARANO ARE HERE #rouseycarano",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=fBQg90ZzMFI",
+      "published": "2026-05-17T04:09:24+00:00",
+      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "MIKE PERRY DEFEATS NATE DIAZ IN THE 2ND ROUND #RouseyCarano",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=WTpU1D6P8Gk",
+      "published": "2026-05-17T03:38:20+00:00",
+      "summary": "#netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "FRANCIS NGANNOU KO IN ROUND 1 #RouseyCarano",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=LbPf9ACTz7g",
+      "published": "2026-05-17T02:45:52+00:00",
+      "summary": "#netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RONDA ROUSEY AND GINA CARANO FACE OFF #RouseyCarano",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Vw9zgL0VH0w",
+      "published": "2026-05-15T03:19:13+00:00",
+      "summary": "#RouseyCarano Saturday, May 16 9 PM ET | 6 PM PT LIVE on Netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Bad Thoughts: Season 2 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Dy6qLO9EmBQ",
+      "published": "2026-05-14T17:30:00+00:00",
+      "summary": "Bad Thoughts, Tom Segura's dark and twisted comedic series, returns for Season 2 on May 24, only on Netflix. In this six-episode season, Segura navigates unthinkable situations and fantasies within a cinematic world.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Outlast: The Jungle | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=EnvBoDKSNKg",
+      "published": "2026-05-14T16:30:00+00:00",
+      "summary": "In this ultimate survival game, the contestants must outlast not only the jungle and its elements but also the psychological and social challenges posed by their fellow competitors.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Mating Season | Ray Introduces Addy | Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=HqqYxLYIwBc",
+      "published": "2026-05-14T15:00:01+00:00",
+      "summary": "Meet Ray, he's looking for love... or some version of it. Enjoy this sneak peek from the upcoming adult animated series \"Mating Season.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "East of Eden | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=fdBr5KyUilU",
+      "published": "2026-05-13T18:56:00+00:00",
+      "summary": "This fresh interpretation of Steinbeck’s masterpiece will explore the multigenerational saga of the Trask family, focusing new attention on its indelible antihero, Cathy Ames, played by Florence Pugh. Watch the official teaser here.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "whose side will you choose? 👀 From the creator of Power comes NEMESIS, premiering May 14",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=5aknIIFc2oQ",
+      "published": "2026-05-12T17:30:21+00:00",
+      "summary": "From the creator of Power comes NEMESIS, premiering May 14 Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Perfect Match: Season 4 | Ally & Jimmy's Broadway Baby? | Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=TRsZK_gkWVs",
+      "published": "2026-05-12T17:00:00+00:00",
+      "summary": "Ally is ready to be a full-on Broadway stage mom. Jimmy just wants to… discuss options. This conversation escalates quickly. Perfect Match season four premieres May 13, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "We flipped the switch and the world started watching. This is the Netflix Effect.",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=GDmP5tobo9A",
+      "published": "2026-05-12T10:00:32+00:00",
+      "summary": "We flipped the switch and the world started watching. This is the Netflix Effect. Discover more at https://www.thenetflixeffect.com Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -289,8 +565,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 6,
-    "trailerCount": 0,
-    "sourceCount": 6
+    "youtubeCount": 13,
+    "trailerCount": 18,
+    "sourceCount": 12
   }
 }
