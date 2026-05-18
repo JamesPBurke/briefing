@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-18T09:01:32.343957Z
+Generated: 2026-05-18T14:00:02.447871Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are How to become emotionally mature – at any age: ‘We often don’t realise the hurt we’re causing’, Revamped Siri will reportedly offer auto-deleting chats, and University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement.
+Today's sweep leans toward Democracy / press freedom, Tech / media, CS education / AI policy. The strongest items in this run are Sure, a new GTA 6 trailer would be nice, but it doesn't have a hope of matching the cultural significance of GTA 4's second reveal, Luigi Mangione trial: judge to decide whether to exclude evidence from McDonald’s, and Three youths in custody after Austin shootings injure four people.
 
 ## Briefing
 
@@ -13,124 +13,133 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. How to become emotionally mature – at any age: ‘We often don’t realise the hurt we’re causing’ [10/10]
+### 1. Sure, a new GTA 6 trailer would be nice, but it doesn't have a hope of matching the cultural significance of GTA 4's second reveal [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+There are whispers on the wind that a new trailer for Grand Theft Auto 6 will be out this week. There were whispers it would be last week, too.
+
+Link: https://www.rockpapershotgun.com/sure-a-new-gta-6-trailer-would-be-nice-but-it-doesnt-have-a-hope-of-matching-the-cultural-significance-of-gta-4s-second-reveal
+
+### 2. Luigi Mangione trial: judge to decide whether to exclude evidence from McDonald’s [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Lindsay C Gibson’s book Adult Children of Emotionally Immature Parents was an enormous unexpected hit in the pandemic.
+Defense says police who arrested Mangione over murder of United Healthcare CEO Brian Thompson didn’t apprise him of his rights Sign up for the Breaking News US newsletter email Luigi Mangione is expected to appear at Manhattan state court…
 
-Link: https://www.theguardian.com/lifeandstyle/2026/may/18/how-to-become-emotionally-mature-at-any-age-we-often-dont-realise-the-hurt-were-causing
+Link: https://www.theguardian.com/us-news/2026/may/18/luigi-mangione-trial-new-york-united-healthcare-ceo
 
-### 2. Revamped Siri will reportedly offer auto-deleting chats [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 3. Three youths in custody after Austin shootings injure four people [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition.
+‘Actions appear to be random,’ says mayor as suspects also allegedly took aim at buildings and houses in Texas city Three youths are in police custody after a spree of at least 10 shootings wounded four people who appeared to be targeted…
 
-Link: https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats
+Link: https://www.theguardian.com/us-news/2026/may/18/austin-shootings-injuries
 
-### 3. University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement [10/10]
-**Source:** The Verge  
+### 4. Researchers Wanted Preschool Teachers to Wear Cameras to Train AI [10/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+“With your permission, your child’s lead teacher may wear a small teacher-worn camera that captures the teacher's approximate first-person perspective, and/or we may place a fixed video camera in the classroom,” a document given to parents…
+
+Link: https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/
+
+### 5. Ex-Google CEO Eric Schmidt booed after AI remarks at Arizona commencement [10/10]
+**Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos.
+Pew research shows Americans are more worried than excited about AI as graduates voiced fears over jobs A former Google CEO, Eric Schmidt, was met with students’ boos at a university commencement address in Arizona on Sunday when he raised…
 
-Link: https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement
+Link: https://www.theguardian.com/us-news/2026/may/18/eric-schmidt-ai-university-commencement-speech-booed
 
-### 4. One clinic tracks the heavy toll Trump's immigration crackdown takes on mental health [10/10]
-**Source:** NPR Health  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Zocalo Health, a primary care organization, screens all its patients for depression, anxiety and suicidal thoughts. It documented a marked increase in those conditions since ICE enforcement actions began.
-
-Link: https://www.npr.org/2026/05/17/nx-s1-5779576/immigration-ice-cbp-mental-health-children
-
-### 5. Trump news at a glance: Republicans pledge to secure funding for White House ballroom [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Senate parliamentarian ruled a proposal to fund $1bn in security additions for the White House failed to meet procedural rules.
-
-Link: https://www.theguardian.com/us-news/2026/may/18/trump-news-at-a-glance-latest-updates-today
-
-### 6. No, Mixtape will not be delisted "due to music licenses expiring" [9/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Mixtape publisher Annapurna Interactive has laid out in no uncertain terms that no, Mixtape will not be delisted "due to music licenses expiring". Read more
-
-Link: https://www.eurogamer.net/mixtape-music-license-delisted
-
-### 7. Phasmophobia admits it "missed the mark" and prepares "to earn back this community's trust" [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Phasmophobia maker Kinetic Games has apologised to players for issues with its long-awaited 'Player Character Update', admitting it "missed the mark" and "didn't deliver on our promises to you". Read more
-
-Link: https://www.eurogamer.net/phasmophobia-character-update-apology
-
-### 8. Opinion: Why a Doorway Greeting May Be One of the Most Underrated Classroom Strategies [9/10]
+### 6. What Makes a Good Teacher? Republicans and Democrats are Likely to Agree [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-A few years ago, a video of a teacher greeting every student with a personalized handshake, clap pattern or dance move made its way around the internet. It was joyful, creative and clearly meaningful to the students.
+If you follow the headlines, it can seem like K-12 schools in the United States are a political battlefield.
 
-Link: https://www.the74million.org/article/why-a-doorway-greeting-may-be-one-of-the-most-underrated-classroom-strategies/
+Link: https://www.the74million.org/article/what-makes-a-good-teacher-republicans-and-democrats-are-likely-to-agree/
 
-### 9. Oddity is masterfully tense horror from the director of Hokum [9/10]
-**Source:** The Verge  
+### 7. Extraction shooter spinoff EVE Vanguard will let you salvage ships destroyed in EVE Online, then flog the parts back to their owners [10/10]
+**Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Hokum recently hit theaters, and it's already outperforming box office expectations.
+EVE Vanguard , the latest attempt by Fenris ' I Can’t Believe It’s Not CCP Games ' Creations at crafting a first-person shooter counterpart to EVE Online , continues to gestate within Iceland’s best-funded spinoff vats.
 
-Link: https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum
+Link: https://www.rockpapershotgun.com/extraction-shooter-spinoff-eve-vanguard-will-let-you-salvage-ships-destroyed-in-eve-online-then-flog-the-parts-back-to-their-owners
 
-### 10. New State Law in NY Could Unlock Thousands of Child Care Seats, Critics See Risks [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Despite having room to serve more children, Middletown day care owner Peggy Fuentes often has to turn away families in desperate need of care.
-
-Link: https://www.the74million.org/zero2eight/new-ny-law-could-unlock-thousands-of-childcare-seats-critics-see-risks/
-
-### 11. Middle East crisis live: Trump warns ‘clock is ticking’ for Iran to reach peace deal [8/10]
+### 8. ‘Stop killing us’: New York’s home care providers near hunger strike over wage injustice [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-US president says there ‘won’t be anything left’ of country if it doesn’t come to an agreement UAE blames Iran or its proxies for drone strike fire near nuclear plant The Iranian foreign ministry spokesperson Esmail Baghaei has been…
+Home care workers want the city council to end policy of 24-hour shifts for which they are paid for only 13 hours Last month, 15 home health workers camped outside New York’s city hall for six days.
 
-Link: https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates
+Link: https://www.theguardian.com/us-news/2026/may/18/new-york-home-care-providers-hunger-strike
 
-### 12. Microsoft is retiring Teams’ Together Mode [8/10]
+### 9. The strange case of Epstein cellmate and quadruple murderer Nicholas Tartaglione [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Epstein said retired cop turned cocaine dealer attacked him, then retracted claim, before he was found dead in jail In the murky world of criminal misadventure, what happened at the Likquid Lounge in Chester, New York, on a night in April…
+
+Link: https://www.theguardian.com/us-news/2026/may/18/nicholas-tartaglione-jeffrey-epstein-cellmate
+
+### 10. As the Stop Killing Games initiative advances, blocky racing game Lego 2K Drive is being delisted tomorrow [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The Stop Killing Games initiative, which is fighting against the full termination of games, recently made it to the European Parliament and has pushed publishers like Ubisoft to make their games accessible when the servers are shut off -…
+
+Link: https://www.eurogamer.net/lego-2k-drive-delisting
+
+### 11. Revamped Siri will reportedly offer autodeleting chats [10/10]
 **Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition.
+
+Link: https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats
+
+### 12. The Download: Musk v. Altman week 3, and Trump’s tech trading [9/10]
+**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants on.
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility.
 
-Link: https://www.theverge.com/tech/932215/microsoft-teams-together-mode
+Link: https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/
 
-### 13. The 'fibermaxxing' trend has health benefits worth the hype [7/10]
+### 13. When times are hard, we eat more beans. And it's happening again now [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-There are a LOT of wellness trends on social media that make health experts roll their eyes in skepticism. But there is one big trend that just about everyone can get behind: fibermaxxing.
+The fiber craze is pushing more people into the broad world of beans, as the U.S. bean industry looks to double American consumption of pulses by 2030.
 
-Link: https://www.npr.org/2026/05/18/nx-s1-5821598/the-fibermaxxing-trend-has-health-benefits-worth-the-hype
+Link: https://www.npr.org/2026/05/18/nx-s1-5768189/beans-fiber-diet-legumes
 
 ## YouTube
+
+### Why Multi-Threaded Code Can Sometimes Misbehave (Weak Memory Concurrency) - Computerphile [7/10]
+**Creator:** Computerphile  
+**Verdict:** Probably worth watching  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Learn more and apply to Jane Street’s WiSE program in New York, London or Hong Kong: https://jane-st.co/Computerphile-WiSE-2026 (episode sponsor) Professor Azalea Raad leads the Veritas Lab at Imperial College London...
+
+Link: https://www.youtube.com/watch?v=E3hvLz717zM
 
 ### Billie Eilish's Relationship with the Internet [7/10]
 **Creator:** WIRED  
@@ -204,7 +213,16 @@ Link: https://www.youtube.com/watch?v=2sjXxfFtJQw
 
 Link: https://www.youtube.com/watch?v=QLppEciwaVo
 
-### Wax Heads, Motorsclice, Froggy Hates Snow and Everything Is Crab | Yahtzee Tries [8/10]
+### Hey Games, Cool It With the Text Logs | Windbreaker Podcast [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty chat about text/diary/journal/audio logs in video games -- the good, the bad, and the weird. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.
+
+Link: https://www.youtube.com/watch?v=DW5C4kuYHhw
+
+### Wax Heads, Motorslice, Froggy Hates Snow and Everything Is Crab | Yahtzee Tries [8/10]
 **Creator:** Second Wind  
 **Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -239,15 +257,6 @@ Link: https://www.youtube.com/watch?v=rCk_OhleJPw
 Every game seems to have some "controversy" attached to it, but it's mostly made up nonsense. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
 Link: https://www.youtube.com/watch?v=lqO3xz1PU6U
-
-### Community Request: Reworking the Way of the 4 Elements Subclass for Monks | RPG Help Desk [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-A neato person in our community asked to help rework the class into something more fun. So we're all banging our heads together to makes something enjoyable, thematic, and balanced... probably.
-
-Link: https://www.youtube.com/watch?v=DdiaUeS2JGk
 
 ## Entertainment Recommendations
 

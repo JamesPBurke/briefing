@@ -1,143 +1,154 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-18T09:01:32.343957Z",
-  "generatedAtDisplay": "2026-05-18 05:01 AM EDT",
+  "generatedAt": "2026-05-18T14:00:02.447871Z",
+  "generatedAtDisplay": "2026-05-18 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are How to become emotionally mature – at any age: ‘We often don’t realise the hurt we’re causing’, Revamped Siri will reportedly offer auto-deleting chats, and University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Tech / media, CS education / AI policy. The strongest items in this run are Sure, a new GTA 6 trailer would be nice, but it doesn't have a hope of matching the cultural significance of GTA 4's second reveal, Luigi Mangione trial: judge to decide whether to exclude evidence from McDonald’s, and Three youths in custody after Austin shootings injure four people.",
   "mainItems": [
     {
-      "title": "How to become emotionally mature – at any age: ‘We often don’t realise the hurt we’re causing’",
-      "source": "The Guardian US",
+      "title": "Sure, a new GTA 6 trailer would be nice, but it doesn't have a hope of matching the cultural significance of GTA 4's second reveal",
+      "source": "Rock Paper Shotgun",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/18/how-to-become-emotionally-mature-at-any-age-we-often-dont-realise-the-hurt-were-causing",
-      "published": "2026-05-18T04:00:59+00:00",
-      "summary": "Lindsay C Gibson’s book Adult Children of Emotionally Immature Parents was an enormous unexpected hit in the pandemic.",
+      "url": "https://www.rockpapershotgun.com/sure-a-new-gta-6-trailer-would-be-nice-but-it-doesnt-have-a-hope-of-matching-the-cultural-significance-of-gta-4s-second-reveal",
+      "published": "2026-05-18T13:49:25+00:00",
+      "summary": "There are whispers on the wind that a new trailer for Grand Theft Auto 6 will be out this week. There were whispers it would be last week, too.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Revamped Siri will reportedly offer auto-deleting chats",
+      "title": "Luigi Mangione trial: judge to decide whether to exclude evidence from McDonald’s",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/18/luigi-mangione-trial-new-york-united-healthcare-ceo",
+      "published": "2026-05-18T13:37:03+00:00",
+      "summary": "Defense says police who arrested Mangione over murder of United Healthcare CEO Brian Thompson didn’t apprise him of his rights Sign up for the Breaking News US newsletter email Luigi Mangione is expected to appear at Manhattan state court…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Three youths in custody after Austin shootings injure four people",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/18/austin-shootings-injuries",
+      "published": "2026-05-18T13:20:57+00:00",
+      "summary": "‘Actions appear to be random,’ says mayor as suspects also allegedly took aim at buildings and houses in Texas city Three youths are in police custody after a spree of at least 10 shootings wounded four people who appeared to be targeted…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/",
+      "published": "2026-05-18T13:17:44+00:00",
+      "summary": "“With your permission, your child’s lead teacher may wear a small teacher-worn camera that captures the teacher's approximate first-person perspective, and/or we may place a fixed video camera in the classroom,” a document given to parents…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10
+    },
+    {
+      "title": "Ex-Google CEO Eric Schmidt booed after AI remarks at Arizona commencement",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/may/18/eric-schmidt-ai-university-commencement-speech-booed",
+      "published": "2026-05-18T13:15:46+00:00",
+      "summary": "Pew research shows Americans are more worried than excited about AI as graduates voiced fears over jobs A former Google CEO, Eric Schmidt, was met with students’ boos at a university commencement address in Arizona on Sunday when he raised…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "What Makes a Good Teacher? Republicans and Democrats are Likely to Agree",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/what-makes-a-good-teacher-republicans-and-democrats-are-likely-to-agree/",
+      "published": "2026-05-18T12:30:00+00:00",
+      "summary": "If you follow the headlines, it can seem like K-12 schools in the United States are a political battlefield.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Extraction shooter spinoff EVE Vanguard will let you salvage ships destroyed in EVE Online, then flog the parts back to their owners",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/extraction-shooter-spinoff-eve-vanguard-will-let-you-salvage-ships-destroyed-in-eve-online-then-flog-the-parts-back-to-their-owners",
+      "published": "2026-05-18T12:08:25+00:00",
+      "summary": "EVE Vanguard , the latest attempt by Fenris ' I Can’t Believe It’s Not CCP Games ' Creations at crafting a first-person shooter counterpart to EVE Online , continues to gestate within Iceland’s best-funded spinoff vats.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Stop killing us’: New York’s home care providers near hunger strike over wage injustice",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/18/new-york-home-care-providers-hunger-strike",
+      "published": "2026-05-18T12:00:46+00:00",
+      "summary": "Home care workers want the city council to end policy of 24-hour shifts for which they are paid for only 13 hours Last month, 15 home health workers camped outside New York’s city hall for six days.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The strange case of Epstein cellmate and quadruple murderer Nicholas Tartaglione",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/may/18/nicholas-tartaglione-jeffrey-epstein-cellmate",
+      "published": "2026-05-18T11:00:46+00:00",
+      "summary": "Epstein said retired cop turned cocaine dealer attacked him, then retracted claim, before he was found dead in jail In the murky world of criminal misadventure, what happened at the Likquid Lounge in Chester, New York, on a night in April…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "As the Stop Killing Games initiative advances, blocky racing game Lego 2K Drive is being delisted tomorrow",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/lego-2k-drive-delisting",
+      "published": "2026-05-18T09:35:10+00:00",
+      "summary": "The Stop Killing Games initiative, which is fighting against the full termination of games, recently made it to the European Parliament and has pushed publishers like Ubisoft to make their games accessible when the servers are shut off -…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Revamped Siri will reportedly offer autodeleting chats",
       "source": "The Verge",
       "category": "AI / privacy",
       "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-      "published": "2026-05-17T18:40:28+00:00",
-      "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition.",
+      "published": "2026-05-18T09:25:53+00:00",
+      "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
-      "source": "The Verge",
-      "category": "CS education / AI policy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
-      "published": "2026-05-17T17:22:23+00:00",
-      "summary": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "One clinic tracks the heavy toll Trump's immigration crackdown takes on mental health",
-      "source": "NPR Health",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/05/17/nx-s1-5779576/immigration-ice-cbp-mental-health-children",
-      "published": "2026-05-17T11:00:00+00:00",
-      "summary": "Zocalo Health, a primary care organization, screens all its patients for depression, anxiety and suicidal thoughts. It documented a marked increase in those conditions since ICE enforcement actions began.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump news at a glance: Republicans pledge to secure funding for White House ballroom",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/may/18/trump-news-at-a-glance-latest-updates-today",
-      "published": "2026-05-18T00:00:13+00:00",
-      "summary": "Senate parliamentarian ruled a proposal to fund $1bn in security additions for the White House failed to meet procedural rules.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "No, Mixtape will not be delisted \"due to music licenses expiring\"",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/mixtape-music-license-delisted",
-      "published": "2026-05-17T18:22:12+00:00",
-      "summary": "Mixtape publisher Annapurna Interactive has laid out in no uncertain terms that no, Mixtape will not be delisted \"due to music licenses expiring\". Read more",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Phasmophobia admits it \"missed the mark\" and prepares \"to earn back this community's trust\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/phasmophobia-character-update-apology",
-      "published": "2026-05-17T17:36:16+00:00",
-      "summary": "Phasmophobia maker Kinetic Games has apologised to players for issues with its long-awaited 'Player Character Update', admitting it \"missed the mark\" and \"didn't deliver on our promises to you\". Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: Why a Doorway Greeting May Be One of the Most Underrated Classroom Strategies",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/why-a-doorway-greeting-may-be-one-of-the-most-underrated-classroom-strategies/",
-      "published": "2026-05-17T16:01:00+00:00",
-      "summary": "A few years ago, a video of a teacher greeting every student with a personalized handshake, clap pattern or dance move made its way around the internet. It was joyful, creative and clearly meaningful to the students.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Oddity is masterfully tense horror from the director of Hokum",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
-      "published": "2026-05-17T13:47:35+00:00",
-      "summary": "Hokum recently hit theaters, and it's already outperforming box office expectations.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "New State Law in NY Could Unlock Thousands of Child Care Seats, Critics See Risks",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/zero2eight/new-ny-law-could-unlock-thousands-of-childcare-seats-critics-see-risks/",
-      "published": "2026-05-17T13:01:00+00:00",
-      "summary": "Despite having room to serve more children, Middletown day care owner Peggy Fuentes often has to turn away families in desperate need of care.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Middle East crisis live: Trump warns ‘clock is ticking’ for Iran to reach peace deal",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
-      "published": "2026-05-18T08:44:27+00:00",
-      "summary": "US president says there ‘won’t be anything left’ of country if it doesn’t come to an agreement UAE blames Iran or its proxies for drone strike fire near nuclear plant The Iranian foreign ministry spokesperson Esmail Baghaei has been…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 8
-    },
-    {
-      "title": "Microsoft is retiring Teams’ Together Mode",
-      "source": "The Verge",
+      "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
+      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
-      "published": "2026-05-17T21:15:28+00:00",
-      "summary": "Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants on.",
+      "url": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
+      "published": "2026-05-18T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
+      "score": 9
     },
     {
-      "title": "The 'fibermaxxing' trend has health benefits worth the hype",
+      "title": "When times are hard, we eat more beans. And it's happening again now",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/18/nx-s1-5821598/the-fibermaxxing-trend-has-health-benefits-worth-the-hype",
-      "published": "2026-05-18T08:47:01+00:00",
-      "summary": "There are a LOT of wellness trends on social media that make health experts roll their eyes in skepticism. But there is one big trend that just about everyone can get behind: fibermaxxing.",
+      "url": "https://www.npr.org/2026/05/18/nx-s1-5768189/beans-fiber-diet-legumes",
+      "published": "2026-05-18T09:00:00+00:00",
+      "summary": "The fiber craze is pushing more people into the broad world of beans, as the U.S. bean industry looks to double American consumption of pulses by 2030.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
+      "score": 8
     }
   ],
   "youtube": [
+    {
+      "title": "Why Multi-Threaded Code Can Sometimes Misbehave (Weak Memory Concurrency) - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=E3hvLz717zM",
+      "published": "2026-05-18T13:30:20+00:00",
+      "summary": "Learn more and apply to Jane Street’s WiSE program in New York, London or Hong Kong: https://jane-st.co/Computerphile-WiSE-2026 (episode sponsor) Professor Azalea Raad leads the Veritas Lab at Imperial College London...",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
     {
       "title": "Billie Eilish's Relationship with the Internet",
       "source": "WIRED",
@@ -227,7 +238,18 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Wax Heads, Motorsclice, Froggy Hates Snow and Everything Is Crab | Yahtzee Tries",
+      "title": "Hey Games, Cool It With the Text Logs | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=DW5C4kuYHhw",
+      "published": "2026-05-18T12:24:53+00:00",
+      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty chat about text/diary/journal/audio logs in video games -- the good, the bad, and the weird. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Wax Heads, Motorslice, Froggy Hates Snow and Everything Is Crab | Yahtzee Tries",
       "source": "Second Wind",
       "category": "Games / criticism",
       "url": "https://www.youtube.com/watch?v=bEtV1YRBePA",
@@ -269,17 +291,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Community Request: Reworking the Way of the 4 Elements Subclass for Monks | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=DdiaUeS2JGk",
-      "published": "2026-05-15T10:55:18+00:00",
-      "summary": "A neato person in our community asked to help rework the class into something more fun. So we're all banging our heads together to makes something enjoyable, thematic, and balanced... probably.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     }
   ],
   "trailers": [
@@ -565,8 +576,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 13,
+    "youtubeCount": 14,
     "trailerCount": 18,
-    "sourceCount": 12
+    "sourceCount": 16
   }
 }
