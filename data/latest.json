@@ -1,39 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-18T14:00:02.447871Z",
-  "generatedAtDisplay": "2026-05-18 10:00 AM EDT",
+  "generatedAt": "2026-05-18T18:01:48.143885Z",
+  "generatedAtDisplay": "2026-05-18 02:01 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Tech / media, CS education / AI policy. The strongest items in this run are Sure, a new GTA 6 trailer would be nice, but it doesn't have a hope of matching the cultural significance of GTA 4's second reveal, Luigi Mangione trial: judge to decide whether to exclude evidence from McDonald’s, and Three youths in custody after Austin shootings injure four people.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are All of the updates from Elon Musk and Sam Altman’s battle over OpenAI, What to expect from Google this week, and Sony is raising short-subscription prices for PlayStation Plus.",
   "mainItems": [
     {
-      "title": "Sure, a new GTA 6 trailer would be nice, but it doesn't have a hope of matching the cultural significance of GTA 4's second reveal",
-      "source": "Rock Paper Shotgun",
+      "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+      "source": "The Verge",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "published": "2026-05-18T17:50:10+00:00",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "What to expect from Google this week",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+      "published": "2026-05-18T17:35:43+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Sony is raising short-subscription prices for PlayStation Plus",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/sure-a-new-gta-6-trailer-would-be-nice-but-it-doesnt-have-a-hope-of-matching-the-cultural-significance-of-gta-4s-second-reveal",
-      "published": "2026-05-18T13:49:25+00:00",
-      "summary": "There are whispers on the wind that a new trailer for Grand Theft Auto 6 will be out this week. There were whispers it would be last week, too.",
+      "url": "https://www.theverge.com/games/932430/sony-playstation-plus-subscription-price-raise",
+      "published": "2026-05-18T16:24:40+00:00",
+      "summary": "Sony is hiking the starting price of one-month and three-month PlayStation Plus subscriptions in \"select regions,\" blaming \"ongoing market conditions.\" Beginning May 20th, 1-month subscriptions will start at $10.99 USD / €9.99 EUR / £7.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Luigi Mangione trial: judge to decide whether to exclude evidence from McDonald’s",
-      "source": "The Guardian US",
+      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+      "source": "MIT Technology Review",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/18/luigi-mangione-trial-new-york-united-healthcare-ceo",
-      "published": "2026-05-18T13:37:03+00:00",
-      "summary": "Defense says police who arrested Mangione over murder of United Healthcare CEO Brian Thompson didn’t apprise him of his rights Sign up for the Breaking News US newsletter email Luigi Mangione is expected to appear at Manhattan state court…",
+      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "published": "2026-05-18T16:01:39+00:00",
+      "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Three youths in custody after Austin shootings injure four people",
-      "source": "The Guardian US",
+      "title": "Philips Hue smart lights and a whole lot more are over 20 percent off",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/18/austin-shootings-injuries",
-      "published": "2026-05-18T13:20:57+00:00",
-      "summary": "‘Actions appear to be random,’ says mayor as suspects also allegedly took aim at buildings and houses in Texas city Three youths are in police custody after a spree of at least 10 shootings wounded four people who appeared to be targeted…",
+      "url": "https://www.theverge.com/gadgets/932276/philips-hue-amazon-scribe-super-mario-rpg-deal-sale",
+      "published": "2026-05-18T15:26:13+00:00",
+      "summary": "Woot is having a day-long sale on a range of tech, including a mix of new and open-box Philips Hue smart lighting.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs",
+      "published": "2026-05-18T14:21:10+00:00",
+      "summary": "Linux founder Linus Torvalds said in his most recent state of the kernel post that \"the continued flood of AI reports has basically made the security list almost entirely unmanageable, with enormous duplication due to different people…",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Purple pain: backlash over Mexico City’s ‘axolotlisation’ for World Cup",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/may/18/mexico-city-axolotl-murals-purple-mayor-world-cup",
+      "published": "2026-05-18T14:00:49+00:00",
+      "summary": "Mayor’s attempt to beautify the city with murals of mascot and plum paint jobs criticised as waste of resources The giant purple axolotl peered up at Manuel Martínez from the black bitumen of the street.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
@@ -47,16 +87,6 @@
       "score": 10
     },
     {
-      "title": "Ex-Google CEO Eric Schmidt booed after AI remarks at Arizona commencement",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/may/18/eric-schmidt-ai-university-commencement-speech-booed",
-      "published": "2026-05-18T13:15:46+00:00",
-      "summary": "Pew research shows Americans are more worried than excited about AI as graduates voiced fears over jobs A former Google CEO, Eric Schmidt, was met with students’ boos at a university commencement address in Arizona on Sunday when he raised…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
       "title": "What Makes a Good Teacher? Republicans and Democrats are Likely to Agree",
       "source": "The 74",
       "category": "Education / pedagogy",
@@ -64,36 +94,6 @@
       "published": "2026-05-18T12:30:00+00:00",
       "summary": "If you follow the headlines, it can seem like K-12 schools in the United States are a political battlefield.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Extraction shooter spinoff EVE Vanguard will let you salvage ships destroyed in EVE Online, then flog the parts back to their owners",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/extraction-shooter-spinoff-eve-vanguard-will-let-you-salvage-ships-destroyed-in-eve-online-then-flog-the-parts-back-to-their-owners",
-      "published": "2026-05-18T12:08:25+00:00",
-      "summary": "EVE Vanguard , the latest attempt by Fenris ' I Can’t Believe It’s Not CCP Games ' Creations at crafting a first-person shooter counterpart to EVE Online , continues to gestate within Iceland’s best-funded spinoff vats.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘Stop killing us’: New York’s home care providers near hunger strike over wage injustice",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/18/new-york-home-care-providers-hunger-strike",
-      "published": "2026-05-18T12:00:46+00:00",
-      "summary": "Home care workers want the city council to end policy of 24-hour shifts for which they are paid for only 13 hours Last month, 15 home health workers camped outside New York’s city hall for six days.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The strange case of Epstein cellmate and quadruple murderer Nicholas Tartaglione",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/may/18/nicholas-tartaglione-jeffrey-epstein-cellmate",
-      "published": "2026-05-18T11:00:46+00:00",
-      "summary": "Epstein said retired cop turned cocaine dealer attacked him, then retracted claim, before he was found dead in jail In the murky world of criminal misadventure, what happened at the Likquid Lounge in Chester, New York, on a night in April…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
@@ -107,23 +107,23 @@
       "score": 10
     },
     {
-      "title": "Revamped Siri will reportedly offer autodeleting chats",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-      "published": "2026-05-18T09:25:53+00:00",
-      "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
+      "title": "Lanterns Trailer Shows Off Laura Linney, Superpowers, and Super Attitude",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/lanterns-teaser-trailer-2-laura-linney/",
+      "published": "2026-05-18T15:59:00+00:00",
+      "summary": "We will refrain from making too many \"It's not easy being green\" jokes while this show is on The post Lanterns Trailer Shows Off Laura Linney, Superpowers, and Super Attitude appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 9
     },
     {
-      "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
-      "published": "2026-05-18T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "The best everyday sandwich bread (that's secretly whole wheat!) : A recipe to make again and again.",
+      "source": "King Arthur Baking",
+      "category": "Bread / food craft",
+      "url": "https://www.kingarthurbaking.com/blog/2026/05/18/sandwich-bread",
+      "published": "2026-05-18T14:00:00+00:00",
+      "summary": "Every baker needs a reliable sandwich bread recipe they can keep in their back pocket. Make a loaf and you’re halfway to a week full of toast, sandwiches, and afternoon PB&J pick-me-ups.",
+      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
       "score": 9
     },
     {
@@ -161,15 +161,26 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Can AI Predict Date Compatibility? | AI Dating",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=zKzZAtmhnEQ",
-      "published": "2026-05-15T16:00:07+00:00",
-      "summary": "Dating in 2026, but using AI. Can artificial intelligence predict romantic chemistry? WIRED finds out. Four bachelors go on speed dates with our bachelorette whilst ChatGPT and Claude rank their compatibility.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "title": "Will Nvidia Shield Return - And Will It Run PC Games on ARM x86 Emulation?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=hEjU3logvo4",
+      "published": "2026-05-18T17:00:44+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 10,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Will Project Helix Be Snapped Up By AI Users Instead Of Gamers?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=IfM8UdlCz2w",
+      "published": "2026-05-18T16:00:33+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "I've Upgraded - What Should I Do With My Old PC?",
@@ -179,8 +190,8 @@
       "published": "2026-05-17T16:00:03+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Is Switch 2 Powerful Enough To Last Into The 2030s?",
@@ -190,8 +201,8 @@
       "published": "2026-05-17T15:01:21+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "How Much Gets Edited Out Of DF Direct Weekly?",
@@ -216,28 +227,6 @@
       "verdict": "Watch it"
     },
     {
-      "title": "Could Microsoft Bring Project Helix Windows Support To Xbox Series X?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=2sjXxfFtJQw",
-      "published": "2026-05-15T17:00:04+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Nvidia GTX 10-Series 10th Anniversary: Team Green's Finest Hour?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=QLppEciwaVo",
-      "published": "2026-05-15T16:00:40+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/JvYOHdPOt7g ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
       "title": "Hey Games, Cool It With the Text Logs | Windbreaker Podcast",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -249,6 +238,17 @@
       "verdict": "Watch it"
     },
     {
+      "title": "Nintendo Hid S-Tier Boss Fights Behind Super Mario Wonder DLC",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=HBOBHggeeHM",
+      "published": "2026-05-18T15:00:22+00:00",
+      "summary": "Marty dug into the Meetup in Bellabel Park DLC for Super Mario Wonder's Switch 2 port, and discovered that Nintendo hid some of its best boss fights in ages inside it. Support us on Patreon: https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Wax Heads, Motorslice, Froggy Hates Snow and Everything Is Crab | Yahtzee Tries",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -256,8 +256,8 @@
       "published": "2026-05-17T15:00:46+00:00",
       "summary": "This week on Yahtzee Tries, Yahtzee checked out Wax Heads, Motorsclice, Froggy Hates Snow and Everything Is Crab. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Level Up Session | Adventure Is Nigh! - The Slow Walk Home",
@@ -277,17 +277,6 @@
       "url": "https://www.youtube.com/watch?v=rCk_OhleJPw",
       "published": "2026-05-15T21:39:03+00:00",
       "summary": "This week on Dev Heads, JM8 and Mikee play some Saros and discuss whether or not its gameplay loop feels like a true Roguelite. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Gaming Discourse Has Gotten Insufferably Dumb | Unpacked",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=lqO3xz1PU6U",
-      "published": "2026-05-15T15:01:14+00:00",
-      "summary": "Every game seems to have some \"controversy\" attached to it, but it's mostly made up nonsense. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -339,6 +328,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "HER PRIVATE HELL - Official Teaser - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=iWqST_E9u_Q",
+      "published": "2026-05-18T14:00:27+00:00",
+      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
       "title": "FIND YOUR FRIENDS | Official Trailer | Shudder",
       "source": "Shudder",
       "category": "Film / trailer",
@@ -358,6 +358,17 @@
       "summary": "The crypt is open, boils and ghouls. TALES FROM THE CRYPT Season 1 drops May 1st on Shudder, with subsequent seasons dropping every Friday. #Shudder #TalesFromtheCrypt Subscribe: http://ow.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Welcome to The Boroughs | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=5C8yGUQ7gww",
+      "published": "2026-05-18T15:00:00+00:00",
+      "summary": "In a seemingly perfect retirement community, a crew of unlikely heroes must stop an otherworldly threat from stealing the one thing they don’t have: time. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -480,17 +491,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
-    },
-    {
-      "title": "We flipped the switch and the world started watching. This is the Netflix Effect.",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=GDmP5tobo9A",
-      "published": "2026-05-12T10:00:32+00:00",
-      "summary": "We flipped the switch and the world started watching. This is the Netflix Effect. Discover more at https://www.thenetflixeffect.com Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
     }
   ],
   "recommendations": {
@@ -576,8 +576,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 14,
-    "trailerCount": 18,
-    "sourceCount": 16
+    "youtubeCount": 13,
+    "trailerCount": 19,
+    "sourceCount": 18
   }
 }
