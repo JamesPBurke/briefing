@@ -1,90 +1,90 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-19T09:00:46.924711Z",
-  "generatedAtDisplay": "2026-05-19 05:00 AM EDT",
+  "generatedAt": "2026-05-19T14:00:02.056426Z",
+  "generatedAtDisplay": "2026-05-19 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / privacy. The strongest items in this run are How rampant violence made Nigeria an insecurity hotspot in the Sahel – mapped, ‘Huge milestone’ as Libyan militia commander accused of torture to appear at ICC, and High school students learn historic building techniques.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Security / computing, Games / criticism. The strongest items in this run are Anker fixes the two worst things about power stations, Star Wars: The Mandalorian and Grogu review – helmeted hero tangles with hateful Hutts in decent feature outing, and Understanding the modern cybercrime landscape.",
   "mainItems": [
     {
-      "title": "How rampant violence made Nigeria an insecurity hotspot in the Sahel – mapped",
-      "source": "The Guardian US",
+      "title": "Anker fixes the two worst things about power stations",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/19/how-rampant-violence-nigeria-insecurity-hotspot-sahel-mapped",
-      "published": "2026-05-19T07:00:05+00:00",
-      "summary": "Data lays bare the extent and geographical spread of attacks in Africa’s most populous country Data from Acled and the Global Terrorism Index shows that after a few years of improvement, insecurity in Nigeria has worsened.",
+      "url": "https://www.theverge.com/tech/928420/anker-solix-s2000-power-station",
+      "published": "2026-05-19T13:58:58+00:00",
+      "summary": "Anker's Solix S2000 solves two major pain points with power stations: idle power draw that can leave a battery unexpectedly dead, and the large footprint required to hold so much energy.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "‘Huge milestone’ as Libyan militia commander accused of torture to appear at ICC",
+      "title": "Star Wars: The Mandalorian and Grogu review – helmeted hero tangles with hateful Hutts in decent feature outing",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/may/19/libya-militia-commander-refugees-international-criminal-court",
-      "published": "2026-05-19T04:00:02+00:00",
-      "summary": "Prosecution is seen as landmark step towards justice over abuses of refugees trying to reach Europe from Africa A former militia commander accused of overseeing murder, rape, enslavement and torture in Libyan detention centres will appear…",
+      "url": "https://www.theguardian.com/film/2026/may/19/star-wars-the-mandalorian-and-grogu-review-helmeted-hero-tangles-with-hateful-hutts-in-decent-feature-outing",
+      "published": "2026-05-19T13:00:04+00:00",
+      "summary": "The badass bounty hunter and his little green friend take on the Empire and Jabba the Hutt’s family in this solid enough addition to the ever-expanding universe Here is a non-canonical, or semi-canonical tale – maybe the distinction is…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "High school students learn historic building techniques",
-      "source": "NPR Education",
+      "title": "Understanding the modern cybercrime landscape",
+      "source": "MIT Technology Review",
+      "category": "Security / computing",
+      "url": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
+      "published": "2026-05-19T13:00:00+00:00",
+      "summary": "Throughout 2025, HPE observed significant changes in how cybercriminals operate.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 10
+    },
+    {
+      "title": "\"We see this as the beginning of the end of the Apple Tax worldwide\" - Fortnite returns to the App Store globally as Epic prepares for \"the final battle\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/fortnite-app-store-epic-apple-court",
+      "published": "2026-05-19T12:39:29+00:00",
+      "summary": "Fortnite has returned to Apple's App Store around the world (*excluding Australia) as Epic Games proclaims \"the beginning of the end of the Apple Tax worldwide\". Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Report: Nearly One-Third of Teachers Still Use ‘Discredited’ Reading Methods",
+      "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/05/18/nx-s1-5813703/high-school-students-learn-historic-building-techniques",
-      "published": "2026-05-18T21:01:47+00:00",
-      "summary": "The U.S. has many buildings that are centuries old, but most modern tradespeople haven't learned how to work on them. A New Hampshire program is teaching high schoolers these old restoration skills.",
+      "url": "https://www.the74million.org/article/report-nearly-one-third-of-teachers-still-use-discredited-reading-methods/",
+      "published": "2026-05-19T12:30:00+00:00",
+      "summary": "While reform around reading instruction continues to gain momentum, about a third of teachers are using “discredited” methods to teach kids how to read and aren’t fully committed to the science of reading, a new report found.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
-      "title": "Jury dismisses all claims in Elon Musk's lawsuit against OpenAI CEO Sam Altman",
-      "source": "NPR Tech",
+      "title": "Nintendo keeps finding new ways to reinvent platformers",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/entertainment/931663/yoshi-and-the-mysterious-book-review-nintendo-switch-2",
+      "published": "2026-05-19T12:21:42+00:00",
+      "summary": "In most platforming games, you're fighting against the world around you. You're trying to beat a level, nail a seemingly impossible series of jumps, or defeat a powerful boss.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
+      "source": "MIT Technology Review",
       "category": "AI / privacy",
-      "url": "https://www.npr.org/2026/05/18/nx-s1-5822360/jury-dismisses-all-claims-in-elon-musks-lawsuit-against-openai-ceo-sam-altman",
-      "published": "2026-05-18T20:50:45+00:00",
-      "summary": "A jury in a California courtroom has dismissed all claims in the case Elon Musk brought against Sam Altman and OpenAI.",
+      "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
+      "published": "2026-05-19T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/",
-      "published": "2026-05-18T13:17:44+00:00",
-      "summary": "“With your permission, your child’s lead teacher may wear a small teacher-worn camera that captures the teacher's approximate first-person perspective, and/or we may place a fixed video camera in the classroom,” a document given to parents…",
+      "title": "Steep drop in number of people with Affordable Care Act health coverage, analysis finds",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/05/19/nx-s1-5825887/affordable-care-act-health-insurance-price",
+      "published": "2026-05-19T09:00:00+00:00",
+      "summary": "Enrollment in Healthcare.gov and the other marketplaces is plunging by 5 million, the new paper from KFF finds. Last year, Congress failed to make a deal to keep the coverage more affordable.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10
-    },
-    {
-      "title": "Middle East crisis live: Trump claims Iran attack ‘on hold’ due to request from Gulf allies",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/live/2026/may/19/us-israel-iran-war-trump-peace-attacks-gulf-allies-strikes-hormuz-latest-news-updates",
-      "published": "2026-05-19T08:27:00+00:00",
-      "summary": "The US president said he called off a planned attack on Iran on Tuesday so that peace talks could continue Full report: Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war Lebanon’s state-run National…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Here’s why Elon Musk lost his suit against OpenAI",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-      "published": "2026-05-19T00:53:10+00:00",
-      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Trump’s shifting remarks on Taiwan are perfect for China to exploit",
-      "source": "The Guardian US",
-      "category": "Security / computing",
-      "url": "https://www.theguardian.com/world/2026/may/19/china-exploits-trump-taiwan-weapons-sales-analysis",
-      "published": "2026-05-19T00:22:53+00:00",
-      "summary": "President’s remarks about Taiwan arms deals being a ‘negotiating chip’ with Beijing have been seized on by Chinese state media It has been an unsettling few days for Taiwan’s government.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 9
     },
     {
       "title": "Opinion: Students Are Digital Natives. Let Them Lead the AI Revolution in Education",
@@ -97,22 +97,22 @@
       "score": 9
     },
     {
-      "title": "As the Stop Killing Games initiative advances, blocky racing game Lego 2K Drive is being delisted tomorrow",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/lego-2k-drive-delisting",
-      "published": "2026-05-18T09:35:10+00:00",
-      "summary": "The Stop Killing Games initiative, which is fighting against the full termination of games, recently made it to the European Parliament and has pushed publishers like Ubisoft to make their games accessible when the servers are shut off -…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
+      "title": "Middle East crisis live: Iran warns it will ‘open new fronts’ against US if attacks resume after Trump suspends strikes",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/live/2026/may/19/us-israel-iran-war-trump-peace-attacks-gulf-allies-strikes-hormuz-latest-news-updates",
+      "published": "2026-05-19T13:46:35+00:00",
+      "summary": "The US president said he called off a planned attack on Iran on Tuesday so that peace talks could continue Full report: Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war Iran’s army has warned it…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
     },
     {
-      "title": "This Ebola outbreak raises questions about when it all began — and the U.S. response",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/18/g-s1-122655/ebola-outbreak-democratic-republic-congo-uganda",
-      "published": "2026-05-18T20:10:41+00:00",
-      "summary": "The sheer number of cases and deaths are a sign that the outbreak might have been smoldering before the virus was identified.",
+      "title": "Lawyer for Guy Who Sued Women Who Called Him ‘Psycho’ Caught Using AI",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/are-we-dating-the-same-guy-lawsuit-ai-attorney-nikko-dambrosio/",
+      "published": "2026-05-19T13:23:47+00:00",
+      "summary": "The attorney for Nikko D’Ambrosio, who tried and failed to sue women for posting about him in an “Are We Dating the Same Guy” Facebook group, has apparently been using AI to file non-existent citations, according to a judge.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -127,14 +127,14 @@
       "score": 8
     },
     {
-      "title": "The best everyday sandwich bread (that's secretly whole wheat!) : A recipe to make again and again.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/05/18/sandwich-bread",
-      "published": "2026-05-18T14:00:00+00:00",
-      "summary": "Every baker needs a reliable sandwich bread recipe they can keep in their back pocket. Make a loaf and you’re halfway to a week full of toast, sandwiches, and afternoon PB&J pick-me-ups.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
-      "score": 8
+      "title": "What we know about how the U.S. government uses spyware (and what we don't)",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/05/19/nx-s1-5826085/spyware-trump-dhs-paragon",
+      "published": "2026-05-19T09:00:00+00:00",
+      "summary": "Critics of spyware, which can be used to remotely hack into phones, worry the Trump administration is eroding policies that stigmatized the commercial spyware industry.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 7
     }
   ],
   "youtube": [
@@ -170,6 +170,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Researchers discover a new dinosaur in Thailand called Nagatitan",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=TowHhVqf3sA",
+      "published": "2026-05-19T10:00:38+00:00",
+      "summary": "Researchers have discovered a new dinosaur species in Thailand. It’s the largest dinosaur ever found in Southeast Asia. The dinosaur would have been about 90 feet long and weighed about 30 tons.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Music from Beyoncé, Taylor Swift, 'DOOM' and 'Chicago' added to the National Recording Registry",
@@ -289,8 +300,8 @@
       "published": "2026-05-19T01:11:46+00:00",
       "summary": "This week on Hidden Gems KC, Jess, and Jesse play Nitro Gen Omega -- https://store.steampowered.com/app/2525510/NITRO_GEN_OMEGA/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Hey Games, Cool It With the Text Logs | Windbreaker Podcast",
@@ -631,8 +642,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 18,
+    "youtubeCount": 19,
     "trailerCount": 19,
-    "sourceCount": 20
+    "sourceCount": 19
   }
 }

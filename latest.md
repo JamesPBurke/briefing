@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-19T09:00:46.924711Z
+Generated: 2026-05-19T14:00:02.056426Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / privacy. The strongest items in this run are How rampant violence made Nigeria an insecurity hotspot in the Sahel – mapped, ‘Huge milestone’ as Libyan militia commander accused of torture to appear at ICC, and High school students learn historic building techniques.
+Today's sweep leans toward Democracy / press freedom, Security / computing, Games / criticism. The strongest items in this run are Anker fixes the two worst things about power stations, Star Wars: The Mandalorian and Grogu review – helmeted hero tangles with hateful Hutts in decent feature outing, and Understanding the modern cybercrime landscape.
 
 ## Briefing
 
@@ -13,77 +13,77 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. How rampant violence made Nigeria an insecurity hotspot in the Sahel – mapped [10/10]
+### 1. Anker fixes the two worst things about power stations [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Anker's Solix S2000 solves two major pain points with power stations: idle power draw that can leave a battery unexpectedly dead, and the large footprint required to hold so much energy.
+
+Link: https://www.theverge.com/tech/928420/anker-solix-s2000-power-station
+
+### 2. Star Wars: The Mandalorian and Grogu review – helmeted hero tangles with hateful Hutts in decent feature outing [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Data lays bare the extent and geographical spread of attacks in Africa’s most populous country Data from Acled and the Global Terrorism Index shows that after a few years of improvement, insecurity in Nigeria has worsened.
+The badass bounty hunter and his little green friend take on the Empire and Jabba the Hutt’s family in this solid enough addition to the ever-expanding universe Here is a non-canonical, or semi-canonical tale – maybe the distinction is…
 
-Link: https://www.theguardian.com/world/ng-interactive/2026/may/19/how-rampant-violence-nigeria-insecurity-hotspot-sahel-mapped
+Link: https://www.theguardian.com/film/2026/may/19/star-wars-the-mandalorian-and-grogu-review-helmeted-hero-tangles-with-hateful-hutts-in-decent-feature-outing
 
-### 2. ‘Huge milestone’ as Libyan militia commander accused of torture to appear at ICC [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Prosecution is seen as landmark step towards justice over abuses of refugees trying to reach Europe from Africa A former militia commander accused of overseeing murder, rape, enslavement and torture in Libyan detention centres will appear…
-
-Link: https://www.theguardian.com/world/2026/may/19/libya-militia-commander-refugees-international-criminal-court
-
-### 3. High school students learn historic building techniques [10/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-The U.S. has many buildings that are centuries old, but most modern tradespeople haven't learned how to work on them. A New Hampshire program is teaching high schoolers these old restoration skills.
-
-Link: https://www.npr.org/2026/05/18/nx-s1-5813703/high-school-students-learn-historic-building-techniques
-
-### 4. Jury dismisses all claims in Elon Musk's lawsuit against OpenAI CEO Sam Altman [10/10]
-**Source:** NPR Tech  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-A jury in a California courtroom has dismissed all claims in the case Elon Musk brought against Sam Altman and OpenAI.
-
-Link: https://www.npr.org/2026/05/18/nx-s1-5822360/jury-dismisses-all-claims-in-elon-musks-lawsuit-against-openai-ceo-sam-altman
-
-### 5. Researchers Wanted Preschool Teachers to Wear Cameras to Train AI [10/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-“With your permission, your child’s lead teacher may wear a small teacher-worn camera that captures the teacher's approximate first-person perspective, and/or we may place a fixed video camera in the classroom,” a document given to parents…
-
-Link: https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/
-
-### 6. Middle East crisis live: Trump claims Iran attack ‘on hold’ due to request from Gulf allies [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The US president said he called off a planned attack on Iran on Tuesday so that peace talks could continue Full report: Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war Lebanon’s state-run National…
-
-Link: https://www.theguardian.com/world/live/2026/may/19/us-israel-iran-war-trump-peace-attacks-gulf-allies-strikes-hormuz-latest-news-updates
-
-### 7. Here’s why Elon Musk lost his suit against OpenAI [9/10]
+### 3. Understanding the modern cybercrime landscape [10/10]
 **Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations.
-
-Link: https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/
-
-### 8. Trump’s shifting remarks on Taiwan are perfect for China to exploit [9/10]
-**Source:** The Guardian US  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-President’s remarks about Taiwan arms deals being a ‘negotiating chip’ with Beijing have been seized on by Chinese state media It has been an unsettling few days for Taiwan’s government.
+Throughout 2025, HPE observed significant changes in how cybercriminals operate.
 
-Link: https://www.theguardian.com/world/2026/may/19/china-exploits-trump-taiwan-weapons-sales-analysis
+Link: https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/
+
+### 4. "We see this as the beginning of the end of the Apple Tax worldwide" - Fortnite returns to the App Store globally as Epic prepares for "the final battle" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Fortnite has returned to Apple's App Store around the world (*excluding Australia) as Epic Games proclaims "the beginning of the end of the Apple Tax worldwide". Read more
+
+Link: https://www.eurogamer.net/fortnite-app-store-epic-apple-court
+
+### 5. Report: Nearly One-Third of Teachers Still Use ‘Discredited’ Reading Methods [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+While reform around reading instruction continues to gain momentum, about a third of teachers are using “discredited” methods to teach kids how to read and aren’t fully committed to the science of reading, a new report found.
+
+Link: https://www.the74million.org/article/report-nearly-one-third-of-teachers-still-use-discredited-reading-methods/
+
+### 6. Nintendo keeps finding new ways to reinvent platformers [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+In most platforming games, you're fighting against the world around you. You're trying to beat a level, nail a seemingly impossible series of jumps, or defeat a powerful boss.
+
+Link: https://www.theverge.com/entertainment/931663/yoshi-and-the-mysterious-book-review-nintendo-switch-2
+
+### 7. The Download: Musk v. Altman, smart glasses for warfare, and Google I/O [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/
+
+### 8. Steep drop in number of people with Affordable Care Act health coverage, analysis finds [10/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Enrollment in Healthcare.gov and the other marketplaces is plunging by 5 million, the new paper from KFF finds. Last year, Congress failed to make a deal to keep the coverage more affordable.
+
+Link: https://www.npr.org/2026/05/19/nx-s1-5825887/affordable-care-act-health-insurance-price
 
 ### 9. Opinion: Students Are Digital Natives. Let Them Lead the AI Revolution in Education [9/10]
 **Source:** The 74  
@@ -94,23 +94,23 @@ For 30 years, American public schools have lived through the era of education re
 
 Link: https://www.the74million.org/article/students-are-digital-natives-let-them-lead-the-ai-revolution-in-education/
 
-### 10. As the Stop Killing Games initiative advances, blocky racing game Lego 2K Drive is being delisted tomorrow [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 10. Middle East crisis live: Iran warns it will ‘open new fronts’ against US if attacks resume after Trump suspends strikes [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-The Stop Killing Games initiative, which is fighting against the full termination of games, recently made it to the European Parliament and has pushed publishers like Ubisoft to make their games accessible when the servers are shut off -…
+The US president said he called off a planned attack on Iran on Tuesday so that peace talks could continue Full report: Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war Iran’s army has warned it…
 
-Link: https://www.eurogamer.net/lego-2k-drive-delisting
+Link: https://www.theguardian.com/world/live/2026/may/19/us-israel-iran-war-trump-peace-attacks-gulf-allies-strikes-hormuz-latest-news-updates
 
-### 11. This Ebola outbreak raises questions about when it all began — and the U.S. response [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
+### 11. Lawyer for Guy Who Sued Women Who Called Him ‘Psycho’ Caught Using AI [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-The sheer number of cases and deaths are a sign that the outbreak might have been smoldering before the virus was identified.
+The attorney for Nikko D’Ambrosio, who tried and failed to sue women for posting about him in an “Are We Dating the Same Guy” Facebook group, has apparently been using AI to file non-existent citations, according to a judge.
 
-Link: https://www.npr.org/2026/05/18/g-s1-122655/ebola-outbreak-democratic-republic-congo-uganda
+Link: https://www.404media.co/are-we-dating-the-same-guy-lawsuit-ai-attorney-nikko-dambrosio/
 
 ### 12. Lanterns Trailer Shows Off Laura Linney, Superpowers, and Super Attitude [8/10]
 **Source:** Reactor  
@@ -121,14 +121,14 @@ We will refrain from making too many "It's not easy being green" jokes while thi
 
 Link: https://reactormag.com/lanterns-teaser-trailer-2-laura-linney/
 
-### 13. The best everyday sandwich bread (that's secretly whole wheat!) : A recipe to make again and again. [8/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
+### 13. What we know about how the U.S. government uses spyware (and what we don't) [7/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Every baker needs a reliable sandwich bread recipe they can keep in their back pocket. Make a loaf and you’re halfway to a week full of toast, sandwiches, and afternoon PB&J pick-me-ups.
+Critics of spyware, which can be used to remotely hack into phones, worry the Trump administration is eroding policies that stigmatized the commercial spyware industry.
 
-Link: https://www.kingarthurbaking.com/blog/2026/05/18/sandwich-bread
+Link: https://www.npr.org/2026/05/19/nx-s1-5826085/spyware-trump-dhs-paragon
 
 ## YouTube
 
@@ -158,6 +158,15 @@ Link: https://www.youtube.com/watch?v=plX4uNLRUOI
 Billie Eilish speaks to WIRED ahead of the release of her new concert film “Hit Me Hard and Soft: The Tour (Live in 3D)”—shot, as the name suggests, in 3D by Eilish and James Cameron— about her relationship with the internet and whether…
 
 Link: https://www.youtube.com/watch?v=Dc-LTv-GYso
+
+### Researchers discover a new dinosaur in Thailand called Nagatitan [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Researchers have discovered a new dinosaur species in Thailand. It’s the largest dinosaur ever found in Southeast Asia. The dinosaur would have been about 90 feet long and weighed about 30 tons.
+
+Link: https://www.youtube.com/watch?v=TowHhVqf3sA
 
 ### Music from Beyoncé, Taylor Swift, 'DOOM' and 'Chicago' added to the National Recording Registry [7/10]
 **Creator:** NPR  
@@ -249,9 +258,9 @@ Link: https://www.youtube.com/watch?v=IavAtRKzyAA
 
 Link: https://www.youtube.com/watch?v=b5lBIMgK98Y
 
-### Nitro Gen Omega Slams Anime Mechs Into a Tactical RPG | Hot Monday Energy [7/10]
+### Nitro Gen Omega Slams Anime Mechs Into a Tactical RPG | Hot Monday Energy [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Hidden Gems KC, Jess, and Jesse play Nitro Gen Omega -- https://store.steampowered.com/app/2525510/NITRO_GEN_OMEGA/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.
