@@ -1,79 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-18T18:01:48.143885Z",
-  "generatedAtDisplay": "2026-05-18 02:01 PM EDT",
+  "generatedAt": "2026-05-19T05:00:02.963320Z",
+  "generatedAtDisplay": "2026-05-19 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are All of the updates from Elon Musk and Sam Altman’s battle over OpenAI, What to expect from Google this week, and Sony is raising short-subscription prices for PlayStation Plus.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are ‘Huge milestone’ as Libyan militia commander accused of torture to appear at ICC, Trump dismisses $10bn suit against IRS and creates $1.7bn ‘anti-weaponization’ fund, and Trump news at a glance: president says scheduled attack on Iran has been postponed – for now.",
   "mainItems": [
     {
-      "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
-      "source": "The Verge",
+      "title": "‘Huge milestone’ as Libyan militia commander accused of torture to appear at ICC",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/may/19/libya-militia-commander-refugees-international-criminal-court",
+      "published": "2026-05-19T04:00:02+00:00",
+      "summary": "Prosecution is seen as landmark step towards justice over abuses of refugees trying to reach Europe from Africa A former militia commander accused of overseeing murder, rape, enslavement and torture in Libyan detention centres will appear…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Trump dismisses $10bn suit against IRS and creates $1.7bn ‘anti-weaponization’ fund",
+      "source": "The Guardian US",
       "category": "AI / privacy",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "published": "2026-05-18T17:50:10+00:00",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.",
+      "url": "https://www.theguardian.com/us-news/2026/may/18/trump-dismiss-10-billion-dollar-irs-lawsuit",
+      "published": "2026-05-19T01:09:15+00:00",
+      "summary": "Democrats criticize deal as a slush fund that ‘funnels taxpayer dollars’ to president’s political allies Sign up for the Breaking News US newsletter email The justice department announced on Monday it was creating a loosely controlled and…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "What to expect from Google this week",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-      "published": "2026-05-18T17:35:43+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Sony is raising short-subscription prices for PlayStation Plus",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/games/932430/sony-playstation-plus-subscription-price-raise",
-      "published": "2026-05-18T16:24:40+00:00",
-      "summary": "Sony is hiking the starting price of one-month and three-month PlayStation Plus subscriptions in \"select regions,\" blaming \"ongoing market conditions.\" Beginning May 20th, 1-month subscriptions will start at $10.99 USD / €9.99 EUR / £7.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
-      "source": "MIT Technology Review",
-      "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-      "published": "2026-05-18T16:01:39+00:00",
-      "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Philips Hue smart lights and a whole lot more are over 20 percent off",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/932276/philips-hue-amazon-scribe-super-mario-rpg-deal-sale",
-      "published": "2026-05-18T15:26:13+00:00",
-      "summary": "Woot is having a day-long sale on a range of tech, including a mix of new and open-box Philips Hue smart lighting.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs",
-      "published": "2026-05-18T14:21:10+00:00",
-      "summary": "Linux founder Linus Torvalds said in his most recent state of the kernel post that \"the continued flood of AI reports has basically made the security list almost entirely unmanageable, with enormous duplication due to different people…",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Purple pain: backlash over Mexico City’s ‘axolotlisation’ for World Cup",
+      "title": "Trump news at a glance: president says scheduled attack on Iran has been postponed – for now",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/may/18/mexico-city-axolotl-murals-purple-mayor-world-cup",
-      "published": "2026-05-18T14:00:49+00:00",
-      "summary": "Mayor’s attempt to beautify the city with murals of mascot and plum paint jobs criticised as waste of resources The giant purple axolotl peered up at Manuel Martínez from the black bitumen of the street.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/18/trump-news-at-a-glance-iran",
+      "published": "2026-05-19T01:03:49+00:00",
+      "summary": "President says he has instructed US military to be ready for ‘a full, large scale assault of Iran, on a moment’s notice’ – key US politics stories from Monday 18 May Donald Trump says he has called off a planned attack on Iran at the…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Here’s why Elon Musk lost his suit against OpenAI",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "published": "2026-05-19T00:53:10+00:00",
+      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "High school students learn historic building techniques",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/05/18/nx-s1-5813703/high-school-students-learn-historic-building-techniques",
+      "published": "2026-05-18T21:01:47+00:00",
+      "summary": "The U.S. has many buildings that are centuries old, but most modern tradespeople haven't learned how to work on them. A New Hampshire program is teaching high schoolers these old restoration skills.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Jury dismisses all claims in Elon Musk's lawsuit against OpenAI CEO Sam Altman",
+      "source": "NPR Tech",
+      "category": "AI / privacy",
+      "url": "https://www.npr.org/2026/05/18/nx-s1-5822360/jury-dismisses-all-claims-in-elon-musks-lawsuit-against-openai-ceo-sam-altman",
+      "published": "2026-05-18T20:50:45+00:00",
+      "summary": "A jury in a California courtroom has dismissed all claims in the case Elon Musk brought against Sam Altman and OpenAI.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Students Are Digital Natives. Let Them Lead the AI Revolution in Education",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/students-are-digital-natives-let-them-lead-the-ai-revolution-in-education/",
+      "published": "2026-05-18T20:30:00+00:00",
+      "summary": "For 30 years, American public schools have lived through the era of education reform: standards, accountability, assessments and increased public investment tied to measurable results.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -87,14 +87,14 @@
       "score": 10
     },
     {
-      "title": "What Makes a Good Teacher? Republicans and Democrats are Likely to Agree",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/what-makes-a-good-teacher-republicans-and-democrats-are-likely-to-agree/",
-      "published": "2026-05-18T12:30:00+00:00",
-      "summary": "If you follow the headlines, it can seem like K-12 schools in the United States are a political battlefield.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "title": "Jury hands victory to Sam Altman and OpenAI in battle with Elon Musk",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai",
+      "published": "2026-05-18T22:37:11+00:00",
+      "summary": "OpenAI CEO and president found not liable for breaking contracts made with Musk when founding the startup A jury ruled in favor of Sam Altman in the culmination of a long and bitter legal battle that pitted the richest person in the world…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
       "title": "As the Stop Killing Games initiative advances, blocky racing game Lego 2K Drive is being delisted tomorrow",
@@ -104,17 +104,27 @@
       "published": "2026-05-18T09:35:10+00:00",
       "summary": "The Stop Killing Games initiative, which is fighting against the full termination of games, recently made it to the European Parliament and has pushed publishers like Ubisoft to make their games accessible when the servers are shut off -…",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "Lanterns Trailer Shows Off Laura Linney, Superpowers, and Super Attitude",
+      "title": "This Ebola outbreak raises questions about when it all began — and the U.S. response",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/05/18/g-s1-122655/ebola-outbreak-democratic-republic-congo-uganda",
+      "published": "2026-05-18T20:10:41+00:00",
+      "summary": "The sheer number of cases and deaths are a sign that the outbreak might have been smoldering before the virus was identified.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "The Outlander Series Finale Brings Jamie and Claire’s Love Story Full Circle",
       "source": "Reactor",
       "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/lanterns-teaser-trailer-2-laura-linney/",
-      "published": "2026-05-18T15:59:00+00:00",
-      "summary": "We will refrain from making too many \"It's not easy being green\" jokes while this show is on The post Lanterns Trailer Shows Off Laura Linney, Superpowers, and Super Attitude appeared first on Reactor .",
+      "url": "https://reactormag.com/tv-review-the-outlander-series-finale-brings-jamie-and-claires-love-story-full-circle/",
+      "published": "2026-05-18T19:00:00+00:00",
+      "summary": "Love is a time loop in a finale that puts new meaning into “meant to be.” The post The Outlander Series Finale Brings Jamie and Claire’s Love Story Full Circle appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 9
+      "score": 8
     },
     {
       "title": "The best everyday sandwich bread (that's secretly whole wheat!) : A recipe to make again and again.",
@@ -124,375 +134,11 @@
       "published": "2026-05-18T14:00:00+00:00",
       "summary": "Every baker needs a reliable sandwich bread recipe they can keep in their back pocket. Make a loaf and you’re halfway to a week full of toast, sandwiches, and afternoon PB&J pick-me-ups.",
       "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
-      "score": 9
-    },
-    {
-      "title": "When times are hard, we eat more beans. And it's happening again now",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/18/nx-s1-5768189/beans-fiber-diet-legumes",
-      "published": "2026-05-18T09:00:00+00:00",
-      "summary": "The fiber craze is pushing more people into the broad world of beans, as the U.S. bean industry looks to double American consumption of pulses by 2030.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
   ],
-  "youtube": [
-    {
-      "title": "Why Multi-Threaded Code Can Sometimes Misbehave (Weak Memory Concurrency) - Computerphile",
-      "source": "Computerphile",
-      "category": "Science / computing",
-      "url": "https://www.youtube.com/watch?v=E3hvLz717zM",
-      "published": "2026-05-18T13:30:20+00:00",
-      "summary": "Learn more and apply to Jane Street’s WiSE program in New York, London or Hong Kong: https://jane-st.co/Computerphile-WiSE-2026 (episode sponsor) Professor Azalea Raad leads the Veritas Lab at Imperial College London...",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Billie Eilish's Relationship with the Internet",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=Dc-LTv-GYso",
-      "published": "2026-05-16T14:00:03+00:00",
-      "summary": "Billie Eilish speaks to WIRED ahead of the release of her new concert film “Hit Me Hard and Soft: The Tour (Live in 3D)”—shot, as the name suggests, in 3D by Eilish and James Cameron— about her relationship with the internet and whether…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Will Nvidia Shield Return - And Will It Run PC Games on ARM x86 Emulation?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=hEjU3logvo4",
-      "published": "2026-05-18T17:00:44+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 10,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Will Project Helix Be Snapped Up By AI Users Instead Of Gamers?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=IfM8UdlCz2w",
-      "published": "2026-05-18T16:00:33+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "I've Upgraded - What Should I Do With My Old PC?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=1SAWHnq3wAI",
-      "published": "2026-05-17T16:00:03+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Is Switch 2 Powerful Enough To Last Into The 2030s?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=nq-Fn67fL4k",
-      "published": "2026-05-17T15:01:21+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "How Much Gets Edited Out Of DF Direct Weekly?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=IavAtRKzyAA",
-      "published": "2026-05-16T16:00:19+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Will The AI \"RAMageddon\" Price Increases Delay New Switch 2 Models?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=b5lBIMgK98Y",
-      "published": "2026-05-16T15:01:01+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Hey Games, Cool It With the Text Logs | Windbreaker Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=DW5C4kuYHhw",
-      "published": "2026-05-18T12:24:53+00:00",
-      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty chat about text/diary/journal/audio logs in video games -- the good, the bad, and the weird. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Nintendo Hid S-Tier Boss Fights Behind Super Mario Wonder DLC",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=HBOBHggeeHM",
-      "published": "2026-05-18T15:00:22+00:00",
-      "summary": "Marty dug into the Meetup in Bellabel Park DLC for Super Mario Wonder's Switch 2 port, and discovered that Nintendo hid some of its best boss fights in ages inside it. Support us on Patreon: https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Wax Heads, Motorslice, Froggy Hates Snow and Everything Is Crab | Yahtzee Tries",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=bEtV1YRBePA",
-      "published": "2026-05-17T15:00:46+00:00",
-      "summary": "This week on Yahtzee Tries, Yahtzee checked out Wax Heads, Motorsclice, Froggy Hates Snow and Everything Is Crab. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Level Up Session | Adventure Is Nigh! - The Slow Walk Home",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=zvGJ0newmrg",
-      "published": "2026-05-16T16:00:06+00:00",
-      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Can Saros Be Considered A Roguelite? | Dev Heads Plays",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=rCk_OhleJPw",
-      "published": "2026-05-15T21:39:03+00:00",
-      "summary": "This week on Dev Heads, JM8 and Mikee play some Saros and discuss whether or not its gameplay loop feels like a true Roguelite. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY - Practical Production",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=6GW4JPeqm3s",
-      "published": "2026-05-14T13:15:00+00:00",
-      "summary": "Spider-Man on the street. #SpiderManBrandNewDay is in theatres July 31. After the record-breaking global success of Spider-Man: No Way Home, Spider-Man: Brand New Day marks an entirely new chapter for Peter Parker and Spider-Man.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Resident Evil – Official Teaser Trailer. From Zach Cregger, director of Weapons and Barbarian.",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=oBWrb8HTU44",
-      "published": "2026-04-30T13:01:34+00:00",
-      "summary": "𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. #ResidentEvil",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "RESIDENT EVIL – Official Teaser Trailer (4K)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=SJPu1spHqfk",
-      "published": "2026-04-30T12:59:32+00:00",
-      "summary": "𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. https://www.instagram.com/residentevil/ https://twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tony | Official Trailer HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=k1MVnzd2aVc",
-      "published": "2026-05-05T13:00:00+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas. TONY – In theaters this August.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "HER PRIVATE HELL - Official Teaser - In Theaters July 24",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=iWqST_E9u_Q",
-      "published": "2026-05-18T14:00:27+00:00",
-      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "FIND YOUR FRIENDS | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=pT5y7-WwD8M",
-      "published": "2026-05-06T17:31:18+00:00",
-      "summary": "Amber and her four best girlfriends take a trip to escape the L.A. bubble and cut loose in Joshua Tree for the weekend. But upon arrival, they quickly realize the locals don’t want them there.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "TALES FROM THE CRYPT | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=LSwkCskbvzQ",
-      "published": "2026-05-02T15:13:51+00:00",
-      "summary": "The crypt is open, boils and ghouls. TALES FROM THE CRYPT Season 1 drops May 1st on Shudder, with subsequent seasons dropping every Friday. #Shudder #TalesFromtheCrypt Subscribe: http://ow.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Welcome to The Boroughs | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=5C8yGUQ7gww",
-      "published": "2026-05-18T15:00:00+00:00",
-      "summary": "In a seemingly perfect retirement community, a crew of unlikely heroes must stop an otherworldly threat from stealing the one thing they don’t have: time. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "RONDA ROUSEY DEFEATS GINA CARANO VIA ARMBAR SUBMISSION IN ROUND ONE #RouseyCarano",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=BVgAS9bkfCg",
-      "published": "2026-05-17T04:35:06+00:00",
-      "summary": "#netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "ROUSEY AND CARANO ARE HERE #rouseycarano",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=fBQg90ZzMFI",
-      "published": "2026-05-17T04:09:24+00:00",
-      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "MIKE PERRY DEFEATS NATE DIAZ IN THE 2ND ROUND #RouseyCarano",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=WTpU1D6P8Gk",
-      "published": "2026-05-17T03:38:20+00:00",
-      "summary": "#netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "FRANCIS NGANNOU KO IN ROUND 1 #RouseyCarano",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=LbPf9ACTz7g",
-      "published": "2026-05-17T02:45:52+00:00",
-      "summary": "#netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "RONDA ROUSEY AND GINA CARANO FACE OFF #RouseyCarano",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Vw9zgL0VH0w",
-      "published": "2026-05-15T03:19:13+00:00",
-      "summary": "#RouseyCarano Saturday, May 16 9 PM ET | 6 PM PT LIVE on Netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Bad Thoughts: Season 2 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Dy6qLO9EmBQ",
-      "published": "2026-05-14T17:30:00+00:00",
-      "summary": "Bad Thoughts, Tom Segura's dark and twisted comedic series, returns for Season 2 on May 24, only on Netflix. In this six-episode season, Segura navigates unthinkable situations and fantasies within a cinematic world.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Outlast: The Jungle | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=EnvBoDKSNKg",
-      "published": "2026-05-14T16:30:00+00:00",
-      "summary": "In this ultimate survival game, the contestants must outlast not only the jungle and its elements but also the psychological and social challenges posed by their fellow competitors.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Mating Season | Ray Introduces Addy | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=HqqYxLYIwBc",
-      "published": "2026-05-14T15:00:01+00:00",
-      "summary": "Meet Ray, he's looking for love... or some version of it. Enjoy this sneak peek from the upcoming adult animated series \"Mating Season.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "East of Eden | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=fdBr5KyUilU",
-      "published": "2026-05-13T18:56:00+00:00",
-      "summary": "This fresh interpretation of Steinbeck’s masterpiece will explore the multigenerational saga of the Trask family, focusing new attention on its indelible antihero, Cathy Ames, played by Florence Pugh. Watch the official teaser here.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "whose side will you choose? 👀 From the creator of Power comes NEMESIS, premiering May 14",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=5aknIIFc2oQ",
-      "published": "2026-05-12T17:30:21+00:00",
-      "summary": "From the creator of Power comes NEMESIS, premiering May 14 Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Perfect Match: Season 4 | Ally & Jimmy's Broadway Baby? | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=TRsZK_gkWVs",
-      "published": "2026-05-12T17:00:00+00:00",
-      "summary": "Ally is ready to be a full-on Broadway stage mom. Jimmy just wants to… discuss options. This conversation escalates quickly. Perfect Match season four premieres May 13, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -576,8 +222,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 13,
-    "trailerCount": 19,
-    "sourceCount": 18
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 10
   }
 }

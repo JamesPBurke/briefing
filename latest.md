@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-18T18:01:48.143885Z
+Generated: 2026-05-19T05:00:02.963320Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are All of the updates from Elon Musk and Sam Altman’s battle over OpenAI, What to expect from Google this week, and Sony is raising short-subscription prices for PlayStation Plus.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are ‘Huge milestone’ as Libyan militia commander accused of torture to appear at ICC, Trump dismisses $10bn suit against IRS and creates $1.7bn ‘anti-weaponization’ fund, and Trump news at a glance: president says scheduled attack on Iran has been postponed – for now.
 
 ## Briefing
 
@@ -13,68 +13,68 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. All of the updates from Elon Musk and Sam Altman’s battle over OpenAI [10/10]
-**Source:** The Verge  
+### 1. ‘Huge milestone’ as Libyan militia commander accused of torture to appear at ICC [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Prosecution is seen as landmark step towards justice over abuses of refugees trying to reach Europe from Africa A former militia commander accused of overseeing murder, rape, enslavement and torture in Libyan detention centres will appear…
+
+Link: https://www.theguardian.com/world/2026/may/19/libya-militia-commander-refugees-international-criminal-court
+
+### 2. Trump dismisses $10bn suit against IRS and creates $1.7bn ‘anti-weaponization’ fund [10/10]
+**Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT.
+Democrats criticize deal as a slush fund that ‘funnels taxpayer dollars’ to president’s political allies Sign up for the Breaking News US newsletter email The justice department announced on Monday it was creating a loosely controlled and…
 
-Link: https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit
+Link: https://www.theguardian.com/us-news/2026/may/18/trump-dismiss-10-billion-dollar-irs-lawsuit
 
-### 2. What to expect from Google this week [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.
-
-Link: https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/
-
-### 3. Sony is raising short-subscription prices for PlayStation Plus [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Sony is hiking the starting price of one-month and three-month PlayStation Plus subscriptions in "select regions," blaming "ongoing market conditions." Beginning May 20th, 1-month subscriptions will start at $10.99 USD / €9.99 EUR / £7.
-
-Link: https://www.theverge.com/games/932430/sony-playstation-plus-subscription-price-raise
-
-### 4. Inside Anduril and Meta’s quest to make smart glasses for warfare [10/10]
-**Source:** MIT Technology Review  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands.
-
-Link: https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/
-
-### 5. Philips Hue smart lights and a whole lot more are over 20 percent off [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Woot is having a day-long sale on a range of tech, including a mix of new and open-box Philips Hue smart lighting.
-
-Link: https://www.theverge.com/gadgets/932276/philips-hue-amazon-scribe-super-mario-rpg-deal-sale
-
-### 6. Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Linux founder Linus Torvalds said in his most recent state of the kernel post that "the continued flood of AI reports has basically made the security list almost entirely unmanageable, with enormous duplication due to different people…
-
-Link: https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs
-
-### 7. Purple pain: backlash over Mexico City’s ‘axolotlisation’ for World Cup [10/10]
+### 3. Trump news at a glance: president says scheduled attack on Iran has been postponed – for now [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Mayor’s attempt to beautify the city with murals of mascot and plum paint jobs criticised as waste of resources The giant purple axolotl peered up at Manuel Martínez from the black bitumen of the street.
+President says he has instructed US military to be ready for ‘a full, large scale assault of Iran, on a moment’s notice’ – key US politics stories from Monday 18 May Donald Trump says he has called off a planned attack on Iran at the…
 
-Link: https://www.theguardian.com/world/2026/may/18/mexico-city-axolotl-murals-purple-mayor-world-cup
+Link: https://www.theguardian.com/us-news/2026/may/18/trump-news-at-a-glance-iran
+
+### 4. Here’s why Elon Musk lost his suit against OpenAI [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations.
+
+Link: https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/
+
+### 5. High school students learn historic building techniques [10/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+The U.S. has many buildings that are centuries old, but most modern tradespeople haven't learned how to work on them. A New Hampshire program is teaching high schoolers these old restoration skills.
+
+Link: https://www.npr.org/2026/05/18/nx-s1-5813703/high-school-students-learn-historic-building-techniques
+
+### 6. Jury dismisses all claims in Elon Musk's lawsuit against OpenAI CEO Sam Altman [10/10]
+**Source:** NPR Tech  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+A jury in a California courtroom has dismissed all claims in the case Elon Musk brought against Sam Altman and OpenAI.
+
+Link: https://www.npr.org/2026/05/18/nx-s1-5822360/jury-dismisses-all-claims-in-elon-musks-lawsuit-against-openai-ceo-sam-altman
+
+### 7. Opinion: Students Are Digital Natives. Let Them Lead the AI Revolution in Education [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+For 30 years, American public schools have lived through the era of education reform: standards, accountability, assessments and increased public investment tied to measurable results.
+
+Link: https://www.the74million.org/article/students-are-digital-natives-let-them-lead-the-ai-revolution-in-education/
 
 ### 8. Researchers Wanted Preschool Teachers to Wear Cameras to Train AI [10/10]
 **Source:** 404 Media  
@@ -85,16 +85,16 @@ Link: https://www.theguardian.com/world/2026/may/18/mexico-city-axolotl-murals-p
 
 Link: https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/
 
-### 9. What Makes a Good Teacher? Republicans and Democrats are Likely to Agree [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 9. Jury hands victory to Sam Altman and OpenAI in battle with Elon Musk [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-If you follow the headlines, it can seem like K-12 schools in the United States are a political battlefield.
+OpenAI CEO and president found not liable for breaking contracts made with Musk when founding the startup A jury ruled in favor of Sam Altman in the culmination of a long and bitter legal battle that pitted the richest person in the world…
 
-Link: https://www.the74million.org/article/what-makes-a-good-teacher-republicans-and-democrats-are-likely-to-agree/
+Link: https://www.theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai
 
-### 10. As the Stop Killing Games initiative advances, blocky racing game Lego 2K Drive is being delisted tomorrow [10/10]
+### 10. As the Stop Killing Games initiative advances, blocky racing game Lego 2K Drive is being delisted tomorrow [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -103,16 +103,25 @@ The Stop Killing Games initiative, which is fighting against the full terminatio
 
 Link: https://www.eurogamer.net/lego-2k-drive-delisting
 
-### 11. Lanterns Trailer Shows Off Laura Linney, Superpowers, and Super Attitude [9/10]
+### 11. This Ebola outbreak raises questions about when it all began — and the U.S. response [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+The sheer number of cases and deaths are a sign that the outbreak might have been smoldering before the virus was identified.
+
+Link: https://www.npr.org/2026/05/18/g-s1-122655/ebola-outbreak-democratic-republic-congo-uganda
+
+### 12. The Outlander Series Finale Brings Jamie and Claire’s Love Story Full Circle [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-We will refrain from making too many "It's not easy being green" jokes while this show is on The post Lanterns Trailer Shows Off Laura Linney, Superpowers, and Super Attitude appeared first on Reactor .
+Love is a time loop in a finale that puts new meaning into “meant to be.” The post The Outlander Series Finale Brings Jamie and Claire’s Love Story Full Circle appeared first on Reactor .
 
-Link: https://reactormag.com/lanterns-teaser-trailer-2-laura-linney/
+Link: https://reactormag.com/tv-review-the-outlander-series-finale-brings-jamie-and-claires-love-story-full-circle/
 
-### 12. The best everyday sandwich bread (that's secretly whole wheat!) : A recipe to make again and again. [9/10]
+### 13. The best everyday sandwich bread (that's secretly whole wheat!) : A recipe to make again and again. [8/10]
 **Source:** King Arthur Baking  
 **Category:** Bread / food craft  
 **Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
@@ -121,133 +130,9 @@ Every baker needs a reliable sandwich bread recipe they can keep in their back p
 
 Link: https://www.kingarthurbaking.com/blog/2026/05/18/sandwich-bread
 
-### 13. When times are hard, we eat more beans. And it's happening again now [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The fiber craze is pushing more people into the broad world of beans, as the U.S. bean industry looks to double American consumption of pulses by 2030.
-
-Link: https://www.npr.org/2026/05/18/nx-s1-5768189/beans-fiber-diet-legumes
-
 ## YouTube
 
-### Why Multi-Threaded Code Can Sometimes Misbehave (Weak Memory Concurrency) - Computerphile [7/10]
-**Creator:** Computerphile  
-**Verdict:** Probably worth watching  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Learn more and apply to Jane Street’s WiSE program in New York, London or Hong Kong: https://jane-st.co/Computerphile-WiSE-2026 (episode sponsor) Professor Azalea Raad leads the Veritas Lab at Imperial College London...
-
-Link: https://www.youtube.com/watch?v=E3hvLz717zM
-
-### Billie Eilish's Relationship with the Internet [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Billie Eilish speaks to WIRED ahead of the release of her new concert film “Hit Me Hard and Soft: The Tour (Live in 3D)”—shot, as the name suggests, in 3D by Eilish and James Cameron— about her relationship with the internet and whether…
-
-Link: https://www.youtube.com/watch?v=Dc-LTv-GYso
-
-### Will Nvidia Shield Return - And Will It Run PC Games on ARM x86 Emulation? [10/10]
-**Creator:** Digital Foundry  
-**Verdict:** Watch it  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=hEjU3logvo4
-
-### Will Project Helix Be Snapped Up By AI Users Instead Of Gamers? [9/10]
-**Creator:** Digital Foundry  
-**Verdict:** Watch it  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=IfM8UdlCz2w
-
-### I've Upgraded - What Should I Do With My Old PC? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=1SAWHnq3wAI
-
-### Is Switch 2 Powerful Enough To Last Into The 2030s? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=nq-Fn67fL4k
-
-### How Much Gets Edited Out Of DF Direct Weekly? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=IavAtRKzyAA
-
-### Will The AI "RAMageddon" Price Increases Delay New Switch 2 Models? [9/10]
-**Creator:** Digital Foundry  
-**Verdict:** Watch it  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=b5lBIMgK98Y
-
-### Hey Games, Cool It With the Text Logs | Windbreaker Podcast [9/10]
-**Creator:** Second Wind  
-**Verdict:** Watch it  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty chat about text/diary/journal/audio logs in video games -- the good, the bad, and the weird. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.
-
-Link: https://www.youtube.com/watch?v=DW5C4kuYHhw
-
-### Nintendo Hid S-Tier Boss Fights Behind Super Mario Wonder DLC [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Marty dug into the Meetup in Bellabel Park DLC for Super Mario Wonder's Switch 2 port, and discovered that Nintendo hid some of its best boss fights in ages inside it. Support us on Patreon: https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=HBOBHggeeHM
-
-### Wax Heads, Motorslice, Froggy Hates Snow and Everything Is Crab | Yahtzee Tries [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Yahtzee Tries, Yahtzee checked out Wax Heads, Motorsclice, Froggy Hates Snow and Everything Is Crab. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
-
-Link: https://www.youtube.com/watch?v=bEtV1YRBePA
-
-### Level Up Session | Adventure Is Nigh! - The Slow Walk Home [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.
-
-Link: https://www.youtube.com/watch?v=zvGJ0newmrg
-
-### Can Saros Be Considered A Roguelite? | Dev Heads Plays [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Dev Heads, JM8 and Mikee play some Saros and discuss whether or not its gameplay loop feels like a true Roguelite. If you dig these chat about game development, consider supporting us on Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=rCk_OhleJPw
+_No YouTube picks in this briefing._
 
 ## Entertainment Recommendations
 
@@ -278,173 +163,4 @@ Link: https://www.youtube.com/watch?v=rCk_OhleJPw
 
 ## Trailers / Previews
 
-### SPIDER-MAN: BRAND NEW DAY - Practical Production [8/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Spider-Man on the street. #SpiderManBrandNewDay is in theatres July 31. After the record-breaking global success of Spider-Man: No Way Home, Spider-Man: Brand New Day marks an entirely new chapter for Peter Parker and Spider-Man.
-
-Link: https://www.youtube.com/watch?v=6GW4JPeqm3s
-
-### Resident Evil – Official Teaser Trailer. From Zach Cregger, director of Weapons and Barbarian. [8/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. #ResidentEvil
-
-Link: https://www.youtube.com/watch?v=oBWrb8HTU44
-
-### RESIDENT EVIL – Official Teaser Trailer (4K) [8/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. https://www.instagram.com/residentevil/ https://twitter.
-
-Link: https://www.youtube.com/watch?v=SJPu1spHqfk
-
-### Tony | Official Trailer HD | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas. TONY – In theaters this August.
-
-Link: https://www.youtube.com/watch?v=k1MVnzd2aVc
-
-### HER PRIVATE HELL - Official Teaser - In Theaters July 24 [6/10]
-**Source:** NEON  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.
-
-Link: https://www.youtube.com/watch?v=iWqST_E9u_Q
-
-### FIND YOUR FRIENDS | Official Trailer | Shudder [9/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Amber and her four best girlfriends take a trip to escape the L.A. bubble and cut loose in Joshua Tree for the weekend. But upon arrival, they quickly realize the locals don’t want them there.
-
-Link: https://www.youtube.com/watch?v=pT5y7-WwD8M
-
-### TALES FROM THE CRYPT | Official Trailer | Shudder [9/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-The crypt is open, boils and ghouls. TALES FROM THE CRYPT Season 1 drops May 1st on Shudder, with subsequent seasons dropping every Friday. #Shudder #TalesFromtheCrypt Subscribe: http://ow.
-
-Link: https://www.youtube.com/watch?v=LSwkCskbvzQ
-
-### Welcome to The Boroughs | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-In a seemingly perfect retirement community, a crew of unlikely heroes must stop an otherworldly threat from stealing the one thing they don’t have: time. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=5C8yGUQ7gww
-
-### RONDA ROUSEY DEFEATS GINA CARANO VIA ARMBAR SUBMISSION IN ROUND ONE #RouseyCarano [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-#netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
-
-Link: https://www.youtube.com/watch?v=BVgAS9bkfCg
-
-### ROUSEY AND CARANO ARE HERE #rouseycarano [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
-
-Link: https://www.youtube.com/watch?v=fBQg90ZzMFI
-
-### MIKE PERRY DEFEATS NATE DIAZ IN THE 2ND ROUND #RouseyCarano [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-#netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
-
-Link: https://www.youtube.com/watch?v=WTpU1D6P8Gk
-
-### FRANCIS NGANNOU KO IN ROUND 1 #RouseyCarano [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-#netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
-
-Link: https://www.youtube.com/watch?v=LbPf9ACTz7g
-
-### RONDA ROUSEY AND GINA CARANO FACE OFF #RouseyCarano [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-#RouseyCarano Saturday, May 16 9 PM ET | 6 PM PT LIVE on Netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and…
-
-Link: https://www.youtube.com/watch?v=Vw9zgL0VH0w
-
-### Bad Thoughts: Season 2 | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Bad Thoughts, Tom Segura's dark and twisted comedic series, returns for Season 2 on May 24, only on Netflix. In this six-episode season, Segura navigates unthinkable situations and fantasies within a cinematic world.
-
-Link: https://www.youtube.com/watch?v=Dy6qLO9EmBQ
-
-### Outlast: The Jungle | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-In this ultimate survival game, the contestants must outlast not only the jungle and its elements but also the psychological and social challenges posed by their fellow competitors.
-
-Link: https://www.youtube.com/watch?v=EnvBoDKSNKg
-
-### Mating Season | Ray Introduces Addy | Sneak Peek | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Meet Ray, he's looking for love... or some version of it. Enjoy this sneak peek from the upcoming adult animated series "Mating Season.
-
-Link: https://www.youtube.com/watch?v=HqqYxLYIwBc
-
-### East of Eden | Official Teaser | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-This fresh interpretation of Steinbeck’s masterpiece will explore the multigenerational saga of the Trask family, focusing new attention on its indelible antihero, Cathy Ames, played by Florence Pugh. Watch the official teaser here.
-
-Link: https://www.youtube.com/watch?v=fdBr5KyUilU
-
-### whose side will you choose? 👀 From the creator of Power comes NEMESIS, premiering May 14 [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-From the creator of Power comes NEMESIS, premiering May 14 Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=5aknIIFc2oQ
-
-### Perfect Match: Season 4 | Ally & Jimmy's Broadway Baby? | Sneak Peek | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Ally is ready to be a full-on Broadway stage mom. Jimmy just wants to… discuss options. This conversation escalates quickly. Perfect Match season four premieres May 13, only on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=TRsZK_gkWVs
+_No trailer picks in this briefing._
