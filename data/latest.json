@@ -1,11 +1,71 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-20T14:00:01.532146Z",
-  "generatedAtDisplay": "2026-05-20 10:00 AM EDT",
+  "generatedAt": "2026-05-20T18:03:28.723846Z",
+  "generatedAtDisplay": "2026-05-20 02:03 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Tech / media, Democracy / anti-fascism. The strongest items in this run are Podcast: Elites Just Don't Get AI, ‘Bluey does Cocomelon’: TV’s best kids show is back in bite-size form. How worried should we be?, and Deus Ex, Saints Row and TimeSplitters might be lent out to external partners, Embracer say, possibly paving the way for new entries.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Google Search’s AI evolution includes more ads, January 6 police officers sue Trump over $1.8bn fund, alleging ‘presidential corruption’, and Tesla Cybertruck pulled from Texas lake after attempting ‘wade mode’.",
   "mainItems": [
+    {
+      "title": "Google Search’s AI evolution includes more ads",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
+      "published": "2026-05-20T17:59:24+00:00",
+      "summary": "Google's AI-powered Search era apparently also extends to its ads.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "January 6 police officers sue Trump over $1.8bn fund, alleging ‘presidential corruption’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/20/jan-6-police-sue-trump-anti-weaponization-fund",
+      "published": "2026-05-20T16:18:43+00:00",
+      "summary": "Retired Capitol police officer and DC officer allege Trump’s $1.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Tesla Cybertruck pulled from Texas lake after attempting ‘wade mode’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/technology/2026/may/20/tesla-cybertruck-texas-lake-wade-mode",
+      "published": "2026-05-20T16:08:29+00:00",
+      "summary": "Police said the vehicle became disabled and took on water, prompting the driver and passengers to abandon it before calling for help Authorities in Texas have removed a Tesla Cybertruck from a lake after the driver intentionally drove into…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "James Murdoch to acquire half of Vox Media in deal reportedly worth $300m",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/media/2026/may/20/james-murdoch-vox-media-deal",
+      "published": "2026-05-20T15:58:09+00:00",
+      "summary": "Deal is the biggest acquisition for Murdoch since family resolved dispute over future control of media holdings James Murdoch, second son of publishing giant Rupert Murdoch, has agreed to acquire some of Vox Media’s assets, including New…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "\"We overlooked the potential offense and harm\" - the studio behind popular multiplayer game Party Animals has now cancelled its AI video competition entirely",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/party-animals-ai-video-contest-cancelled",
+      "published": "2026-05-20T14:36:24+00:00",
+      "summary": "Last week, Recreate Games apologised after an AI-generated video competition for its popular casual brawler Party Animals drew significant criticism from its community. Now, it's cancelled the competition entirely. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Sourdough schedule: How to plan your bread baking timeline: A tactical guide to managing your sourdough baking (while still having a life).",
+      "source": "King Arthur Baking",
+      "category": "Bread / food craft",
+      "url": "https://www.kingarthurbaking.com/blog/2026/05/20/sourdough-starter-feeding-schedule",
+      "published": "2026-05-20T14:00:00+00:00",
+      "summary": "Of all the questions we get about sourdough baking ( and we get a lot ), the most common ones usually revolve around starter: how to make it , how to feed it , and how to know when it’s ripe and ready to be used for baking.",
+      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
+      "score": 10
+    },
     {
       "title": "Podcast: Elites Just Don't Get AI",
       "source": "404 Media",
@@ -14,46 +74,6 @@
       "published": "2026-05-20T13:00:14+00:00",
       "summary": "Commencement speeches, poop images to train AI, and cameras stuck to preschool teachers also to train AI.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10
-    },
-    {
-      "title": "‘Bluey does Cocomelon’: TV’s best kids show is back in bite-size form. How worried should we be?",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/20/bluey-minisodes-disney-plus",
-      "published": "2026-05-20T12:17:50+00:00",
-      "summary": "The latest batch of ‘minisodes’ are filler until the release of the upcoming film.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Deus Ex, Saints Row and TimeSplitters might be lent out to external partners, Embracer say, possibly paving the way for new entries",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/deus-ex-saints-row-and-timesplitters-might-be-lent-out-to-external-partners-embracer-say-possibly-paving-the-way-for-new-entries",
-      "published": "2026-05-20T11:08:51+00:00",
-      "summary": "Embracer Group are threatening folks with a good time.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "An Epstein ‘reading room’ is showing 3.5m printed-out files. Why does it feel like a troll?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/20/epstein-files-reading-room",
-      "published": "2026-05-20T11:00:40+00:00",
-      "summary": "A New York exhibit of more than 3,000 volumes bills itself as ‘an exercise in radical transparency’ – and a bid for attention This February, a story broke that seemed like it might finally be the one .",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Immigration activists whose homes were raided accuse federal agents of intimidation campaign",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/20/ice-watch-group-vc-defensa-raids",
-      "published": "2026-05-20T11:00:40+00:00",
-      "summary": "VC Defensa organizes ICE patrols, a hotline and community support for immigrants in Ventura county, California Federal agents have raided the homes of three southern California immigration activists in what the activists allege is the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -87,54 +107,34 @@
       "score": 10
     },
     {
-      "title": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
-      "published": "2026-05-19T18:37:02+00:00",
-      "summary": "AI content is getting good, but SynthID might be able to help tell truth from fiction.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "\"Whoa what a wild reaction\" - Final Fantasy creator Hironobu Sakaguchi reacts to backlash after praising an AI-generated FF6 remake trailer",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/final-fantasy-creator-generative-ai-backlash",
-      "published": "2026-05-20T13:53:50+00:00",
-      "summary": "Earlier this week, Final Fantasy legend Hironobu Sakaguchi praised an AI-generated trailer for a hypothetical remake of FF6 , sparking some backlash, before being told to \"please stop\" by SaGa creator Akitoshi Kawazu, another Square…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Todd Blanche announces indictment of former Cuban president Raúl Castro over downing of two planes in 1996 – US politics live",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/20/donald-trump-republicans-midterms-primaries-kentucky-redistricting-raul-castro-latest-news-updates",
+      "published": "2026-05-20T17:55:19+00:00",
+      "summary": "Acting US attorney general speaks at press conference after indictment of former Cuban president unsealed Sign up for the Breaking News US email In response to a question on Wednesday morning about how long Benjamin Netanyahu , the prime…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Florida School Choice Advocates Push Back Against Union’s ‘Frivolous’ Voucher Suit",
-      "source": "The 74",
-      "category": "AI / privacy",
-      "url": "https://www.the74million.org/article/florida-school-choice-advocates-push-back-against-unions-frivolous-voucher-suit/",
-      "published": "2026-05-19T14:30:00+00:00",
-      "summary": "The state education commissioner and school choice advocates have clapped back at the Florida Education Association’s lawsuit alleging the state’s school voucher program is unconstitutional.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "Minnesota becomes first state to ban prediction markets",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
-      "published": "2026-05-19T16:28:32+00:00",
-      "summary": "While dozens of states have taken legal action against the controversial industry, Minnesota is the first state to pass a law making it a felony for companies like Kalshi and Polymarket to operate.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "Mysterious Director’s Cut of The X-Files: I Want to Believe Coming to Disney+",
+      "title": "Masters of the Universe Final Trailer Sets Up Fragile Masculinity, Giant Swords, and Fisto",
       "source": "Reactor",
       "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/directors-cut-the-x-files-i-want-to-believe-disney-release-date/",
-      "published": "2026-05-19T18:30:43+00:00",
-      "summary": "Director Chris Carter claims this is the version of the movie he always \"intended\" to make The post Mysterious Director’s Cut of The X-Files: I Want to Believe Coming to Disney+ appeared first on Reactor .",
+      "url": "https://reactormag.com/official-final-masters-of-the-universe-trailer/",
+      "published": "2026-05-20T17:01:43+00:00",
+      "summary": "When you hold the magic sword, what do you say? The post Masters of the Universe Final Trailer Sets Up Fragile Masculinity, Giant Swords, and Fisto appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 7
+      "score": 9
+    },
+    {
+      "title": "Jimmy Kimmel on Trump’s IRS settlement: ‘Most brazenly corrupt move by any president ever’",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/culture/2026/may/20/jimmy-kimmel-trump-irs-settlement",
+      "published": "2026-05-20T14:46:06+00:00",
+      "summary": "Late-night hosts discussed the president’s lawsuit against his own government and his latest ballroom updates Late-night hosts discussed Donald Trump ’s controversial $1.76bn settlement and the latest on his taxpayer-funded ballroom.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
     }
   ],
   "youtube": [
@@ -167,6 +167,17 @@
       "url": "https://www.youtube.com/watch?v=plX4uNLRUOI",
       "published": "2026-05-18T19:00:04+00:00",
       "summary": "Your daily coffee might be doing more than waking you up. A new study published in Nature Communications found that regular coffee consumption may positively affect the link between digestion, mood, and cognition.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Authorities: Suspects in the San Diego mosque shootings had white nationalism ties",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=sPLMoCLDCcQ",
+      "published": "2026-05-20T16:01:23+00:00",
+      "summary": "San Diego authorities say three victims from Monday’s shooting attack on the Islamic Center of San Diego died as they protected 140 children. Mansour Kaziha, 78, Nader Awad, 57, and Amin Abdullah, 51, died trying to stop the gunmen.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -227,37 +238,26 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Researchers discover a new dinosaur in Thailand called Nagatitan",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=TowHhVqf3sA",
-      "published": "2026-05-19T10:00:38+00:00",
-      "summary": "Researchers have discovered a new dinosaur species in Thailand. It’s the largest dinosaur ever found in Southeast Asia. The dinosaur would have been about 90 feet long and weighed about 30 tons.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "007 First Light Will Ship With 60FPS Support At Launch",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=cWh5VkbUpYw",
+      "published": "2026-05-20T17:00:01+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Music from Beyoncé, Taylor Swift, 'DOOM' and 'Chicago' added to the National Recording Registry",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=dSnu729YqJs",
-      "published": "2026-05-19T01:00:34+00:00",
-      "summary": "Music by Beyoncé, Vince Gill and Paul Anka has been added to the National Recording Registry at the Library of Congress. This year’s additions span generations and genres.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Nicotine pouches see explosive growth by aggressively targeting young people, new report finds",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=AbM1mFGavBA",
-      "published": "2026-05-18T23:00:15+00:00",
-      "summary": "Sales of nicotine pouch products have exploded in recent years, with the global market now worth nearly $7 billion.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "title": "AMD Confirms FSR 4.1 Upscaling For RDNA 3 and RDNA 2 - But There Are Questions",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=_UhAL8dwigg",
+      "published": "2026-05-20T16:00:36+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Legend of Zelda Twilight Princess Decompilation Tested!",
@@ -267,8 +267,8 @@
       "published": "2026-05-19T17:00:04+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/60w3WigB3Xc ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "PS5 Path Tracing: Cyberpunk 2077, Quake 2 RTX, Portal RTX Linux Tested",
@@ -278,8 +278,8 @@
       "published": "2026-05-19T16:00:10+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Will Nvidia Shield Return - And Will It Run PC Games on ARM x86 Emulation?",
@@ -304,26 +304,37 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "I've Upgraded - What Should I Do With My Old PC?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=1SAWHnq3wAI",
-      "published": "2026-05-17T16:00:03+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "Dusting Off Our Rumble Paks in Star Fox 64 w/ KC and Marty",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=HQ5SnhjnQU8",
+      "published": "2026-05-20T16:04:34+00:00",
+      "summary": "NOTE: Nintendo hit us with a strike for showing the Star Fox Direct during our original Star Fox stream, but you can find the VOD here -- https://youtu.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
-      "title": "Is Switch 2 Powerful Enough To Last Into The 2030s?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=nq-Fn67fL4k",
-      "published": "2026-05-17T15:01:21+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "Directive 8020 | Fully Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=AC3AywplAmQ",
+      "published": "2026-05-20T16:00:09+00:00",
+      "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Directive 8020. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Yahtzee Tries... Thick as Thieves and Subnautica 2",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=7fb1m3ZNaVA",
+      "published": "2026-05-20T15:53:28+00:00",
+      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.com/ember This week on Yahtzee Tries...",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Nick Plays the Sands of Time Trilogy for the First Time | Part 1",
@@ -379,38 +390,16 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Nintendo Hid S-Tier Boss Fights Behind Super Mario Wonder DLC",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=HBOBHggeeHM",
-      "published": "2026-05-18T15:00:22+00:00",
-      "summary": "Marty dug into the Meetup in Bellabel Park DLC for Super Mario Wonder's Switch 2 port, and discovered that Nintendo hid some of its best boss fights in ages inside it. Support us on Patreon: https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Wax Heads, Motorslice, Froggy Hates Snow and Everything Is Crab | Yahtzee Tries",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=bEtV1YRBePA",
-      "published": "2026-05-17T15:00:46+00:00",
-      "summary": "This week on Yahtzee Tries, Yahtzee checked out Wax Heads, Motorsclice, Froggy Hates Snow and Everything Is Crab. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     }
   ],
   "trailers": [
     {
-      "title": "SPIDER-MAN: BRAND NEW DAY - Practical Production",
+      "title": "TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY (2006) - 20th Anniversary - Official Trailer (HD)",
       "source": "Sony Pictures Entertainment",
       "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=6GW4JPeqm3s",
-      "published": "2026-05-14T13:15:00+00:00",
-      "summary": "Spider-Man on the street. #SpiderManBrandNewDay is in theatres July 31. After the record-breaking global success of Spider-Man: No Way Home, Spider-Man: Brand New Day marks an entirely new chapter for Peter Parker and Spider-Man.",
+      "url": "https://www.youtube.com/watch?v=A0fgugC7ZCo",
+      "published": "2026-05-20T16:46:15+00:00",
+      "summary": "If you ain't first, you're last. 🏁 Ricky Bobby returns to the big screen. #TalladegaNights is back in theatres June 28, June 30, and July 1.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 8,
       "verdict": "Looks promising"
@@ -490,6 +479,39 @@
       "summary": "The crypt is open, boils and ghouls. TALES FROM THE CRYPT Season 1 drops May 1st on Shudder, with subsequent seasons dropping every Friday. #Shudder #TalesFromtheCrypt Subscribe: http://ow.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Strung | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=sEz074LTiV8",
+      "published": "2026-05-20T16:30:28+00:00",
+      "summary": "Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Michael Jackson: The Verdict | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=rcp-j0StBR0",
+      "published": "2026-05-20T17:00:00+00:00",
+      "summary": "Told by key players who were inside the courtroom, this 3-part comprehensive docuseries dissects the trial of Michael Jackson and his complex legacy. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Welcome to the Boroughs | Official Commercial | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=5WCBnc4PQvI",
+      "published": "2026-05-20T16:00:00+00:00",
+      "summary": "Welcome to the Boroughs. A retirement community built upon something truly... remarkable. You’re in good hands here. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -612,28 +634,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
-    },
-    {
-      "title": "Bad Thoughts: Season 2 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Dy6qLO9EmBQ",
-      "published": "2026-05-14T17:30:00+00:00",
-      "summary": "Bad Thoughts, Tom Segura's dark and twisted comedic series, returns for Season 2 on May 24, only on Netflix. In this six-episode season, Segura navigates unthinkable situations and fantasies within a cinematic world.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Outlast: The Jungle | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=EnvBoDKSNKg",
-      "published": "2026-05-14T16:30:00+00:00",
-      "summary": "In this ultimate survival game, the contestants must outlast not only the jungle and its elements but also the psychological and social challenges posed by their fellow competitors.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
     }
   ],
   "recommendations": {
@@ -719,8 +719,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 24,
-    "trailerCount": 21,
+    "youtubeCount": 23,
+    "trailerCount": 22,
     "sourceCount": 20
   }
 }

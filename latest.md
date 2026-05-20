@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-20T14:00:01.532146Z
+Generated: 2026-05-20T18:03:28.723846Z
 
-Today's sweep leans toward Democracy / press freedom, Tech / media, Democracy / anti-fascism. The strongest items in this run are Podcast: Elites Just Don't Get AI, ‘Bluey does Cocomelon’: TV’s best kids show is back in bite-size form. How worried should we be?, and Deus Ex, Saints Row and TimeSplitters might be lent out to external partners, Embracer say, possibly paving the way for new entries.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Google Search’s AI evolution includes more ads, January 6 police officers sue Trump over $1.8bn fund, alleging ‘presidential corruption’, and Tesla Cybertruck pulled from Texas lake after attempting ‘wade mode’.
 
 ## Briefing
 
@@ -13,7 +13,61 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. Podcast: Elites Just Don't Get AI [10/10]
+### 1. Google Search’s AI evolution includes more ads [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Google's AI-powered Search era apparently also extends to its ads.
+
+Link: https://www.theverge.com/tech/934585/google-ai-shopping-ads-search
+
+### 2. January 6 police officers sue Trump over $1.8bn fund, alleging ‘presidential corruption’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Retired Capitol police officer and DC officer allege Trump’s $1.
+
+Link: https://www.theguardian.com/us-news/2026/may/20/jan-6-police-sue-trump-anti-weaponization-fund
+
+### 3. Tesla Cybertruck pulled from Texas lake after attempting ‘wade mode’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Police said the vehicle became disabled and took on water, prompting the driver and passengers to abandon it before calling for help Authorities in Texas have removed a Tesla Cybertruck from a lake after the driver intentionally drove into…
+
+Link: https://www.theguardian.com/technology/2026/may/20/tesla-cybertruck-texas-lake-wade-mode
+
+### 4. James Murdoch to acquire half of Vox Media in deal reportedly worth $300m [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Deal is the biggest acquisition for Murdoch since family resolved dispute over future control of media holdings James Murdoch, second son of publishing giant Rupert Murdoch, has agreed to acquire some of Vox Media’s assets, including New…
+
+Link: https://www.theguardian.com/media/2026/may/20/james-murdoch-vox-media-deal
+
+### 5. "We overlooked the potential offense and harm" - the studio behind popular multiplayer game Party Animals has now cancelled its AI video competition entirely [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Last week, Recreate Games apologised after an AI-generated video competition for its popular casual brawler Party Animals drew significant criticism from its community. Now, it's cancelled the competition entirely. Read more
+
+Link: https://www.eurogamer.net/party-animals-ai-video-contest-cancelled
+
+### 6. Sourdough schedule: How to plan your bread baking timeline: A tactical guide to managing your sourdough baking (while still having a life). [10/10]
+**Source:** King Arthur Baking  
+**Category:** Bread / food craft  
+**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
+
+Of all the questions we get about sourdough baking ( and we get a lot ), the most common ones usually revolve around starter: how to make it , how to feed it , and how to know when it’s ripe and ready to be used for baking.
+
+Link: https://www.kingarthurbaking.com/blog/2026/05/20/sourdough-starter-feeding-schedule
+
+### 7. Podcast: Elites Just Don't Get AI [10/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -22,43 +76,7 @@ Commencement speeches, poop images to train AI, and cameras stuck to preschool t
 
 Link: https://www.404media.co/podcast-elites-just-dont-get-ai/
 
-### 2. ‘Bluey does Cocomelon’: TV’s best kids show is back in bite-size form. How worried should we be? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The latest batch of ‘minisodes’ are filler until the release of the upcoming film.
-
-Link: https://www.theguardian.com/tv-and-radio/2026/may/20/bluey-minisodes-disney-plus
-
-### 3. Deus Ex, Saints Row and TimeSplitters might be lent out to external partners, Embracer say, possibly paving the way for new entries [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Embracer Group are threatening folks with a good time.
-
-Link: https://www.rockpapershotgun.com/deus-ex-saints-row-and-timesplitters-might-be-lent-out-to-external-partners-embracer-say-possibly-paving-the-way-for-new-entries
-
-### 4. An Epstein ‘reading room’ is showing 3.5m printed-out files. Why does it feel like a troll? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-A New York exhibit of more than 3,000 volumes bills itself as ‘an exercise in radical transparency’ – and a bid for attention This February, a story broke that seemed like it might finally be the one .
-
-Link: https://www.theguardian.com/us-news/2026/may/20/epstein-files-reading-room
-
-### 5. Immigration activists whose homes were raided accuse federal agents of intimidation campaign [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-VC Defensa organizes ICE patrols, a hotline and community support for immigrants in Ventura county, California Federal agents have raided the homes of three southern California immigration activists in what the activists allege is the…
-
-Link: https://www.theguardian.com/us-news/2026/may/20/ice-watch-group-vc-defensa-raids
-
-### 6. Introducing Ethical AI into Any Curriculum with Responsible AI Fellow Dr. Jie Long [10/10]
+### 8. Introducing Ethical AI into Any Curriculum with Responsible AI Fellow Dr. Jie Long [10/10]
 **Source:** CSTA  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -67,7 +85,7 @@ Dr. Jie Long is a computer science and CTE teacher at Paradise Valley High Schoo
 
 Link: https://csteachers.org/introducing-ethical-ai-into-any-curriculum-with-responsible-ai-fellow-dr-jie-long/
 
-### 7. Opinion: Decoding Is Not Enough: Connecting Word Reading to Meaning in Early Literacy [10/10]
+### 9. Opinion: Decoding Is Not Enough: Connecting Word Reading to Meaning in Early Literacy [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -76,7 +94,7 @@ Walk into an early elementary classroom these days and you’ll likely see stron
 
 Link: https://www.the74million.org/article/decoding-is-not-enough-connecting-word-reading-to-meaning-in-early-literacy/
 
-### 8. Overworked and understaffed: Special ed teachers turn to AI for help [10/10]
+### 10. Overworked and understaffed: Special ed teachers turn to AI for help [10/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -85,50 +103,32 @@ A fast-growing number of special educators nationwide are using AI to create cus
 
 Link: https://www.npr.org/2026/05/20/nx-s1-5810192/special-education-teachers-ai-ieps
 
-### 9. Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 11. Todd Blanche announces indictment of former Cuban president Raúl Castro over downing of two planes in 1996 – US politics live [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-AI content is getting good, but SynthID might be able to help tell truth from fiction.
+Acting US attorney general speaks at press conference after indictment of former Cuban president unsealed Sign up for the Breaking News US email In response to a question on Wednesday morning about how long Benjamin Netanyahu , the prime…
 
-Link: https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/
+Link: https://www.theguardian.com/us-news/live/2026/may/20/donald-trump-republicans-midterms-primaries-kentucky-redistricting-raul-castro-latest-news-updates
 
-### 10. "Whoa what a wild reaction" - Final Fantasy creator Hironobu Sakaguchi reacts to backlash after praising an AI-generated FF6 remake trailer [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Earlier this week, Final Fantasy legend Hironobu Sakaguchi praised an AI-generated trailer for a hypothetical remake of FF6 , sparking some backlash, before being told to "please stop" by SaGa creator Akitoshi Kawazu, another Square…
-
-Link: https://www.eurogamer.net/final-fantasy-creator-generative-ai-backlash
-
-### 11. Florida School Choice Advocates Push Back Against Union’s ‘Frivolous’ Voucher Suit [9/10]
-**Source:** The 74  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-The state education commissioner and school choice advocates have clapped back at the Florida Education Association’s lawsuit alleging the state’s school voucher program is unconstitutional.
-
-Link: https://www.the74million.org/article/florida-school-choice-advocates-push-back-against-unions-frivolous-voucher-suit/
-
-### 12. Minnesota becomes first state to ban prediction markets [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-While dozens of states have taken legal action against the controversial industry, Minnesota is the first state to pass a law making it a felony for companies like Kalshi and Polymarket to operate.
-
-Link: https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets
-
-### 13. Mysterious Director’s Cut of The X-Files: I Want to Believe Coming to Disney+ [7/10]
+### 12. Masters of the Universe Final Trailer Sets Up Fragile Masculinity, Giant Swords, and Fisto [9/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Director Chris Carter claims this is the version of the movie he always "intended" to make The post Mysterious Director’s Cut of The X-Files: I Want to Believe Coming to Disney+ appeared first on Reactor .
+When you hold the magic sword, what do you say? The post Masters of the Universe Final Trailer Sets Up Fragile Masculinity, Giant Swords, and Fisto appeared first on Reactor .
 
-Link: https://reactormag.com/directors-cut-the-x-files-i-want-to-believe-disney-release-date/
+Link: https://reactormag.com/official-final-masters-of-the-universe-trailer/
+
+### 13. Jimmy Kimmel on Trump’s IRS settlement: ‘Most brazenly corrupt move by any president ever’ [9/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Late-night hosts discussed the president’s lawsuit against his own government and his latest ballroom updates Late-night hosts discussed Donald Trump ’s controversial $1.76bn settlement and the latest on his taxpayer-funded ballroom.
+
+Link: https://www.theguardian.com/culture/2026/may/20/jimmy-kimmel-trump-irs-settlement
 
 ## YouTube
 
@@ -158,6 +158,15 @@ Link: https://www.youtube.com/watch?v=83F1GSUsmzo
 Your daily coffee might be doing more than waking you up. A new study published in Nature Communications found that regular coffee consumption may positively affect the link between digestion, mood, and cognition.
 
 Link: https://www.youtube.com/watch?v=plX4uNLRUOI
+
+### Authorities: Suspects in the San Diego mosque shootings had white nationalism ties [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+San Diego authorities say three victims from Monday’s shooting attack on the Islamic Center of San Diego died as they protected 140 children. Mansour Kaziha, 78, Nader Awad, 57, and Amin Abdullah, 51, died trying to stop the gunmen.
+
+Link: https://www.youtube.com/watch?v=sPLMoCLDCcQ
 
 ### Trump administration making it harder to fight wildfires [8/10]
 **Creator:** NPR  
@@ -204,45 +213,36 @@ The World Health Organization declared an international public health emergency 
 
 Link: https://www.youtube.com/watch?v=dK7V9VYYJ48
 
-### Researchers discover a new dinosaur in Thailand called Nagatitan [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Researchers have discovered a new dinosaur species in Thailand. It’s the largest dinosaur ever found in Southeast Asia. The dinosaur would have been about 90 feet long and weighed about 30 tons.
-
-Link: https://www.youtube.com/watch?v=TowHhVqf3sA
-
-### Music from Beyoncé, Taylor Swift, 'DOOM' and 'Chicago' added to the National Recording Registry [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-Music by Beyoncé, Vince Gill and Paul Anka has been added to the National Recording Registry at the Library of Congress. This year’s additions span generations and genres.
-
-Link: https://www.youtube.com/watch?v=dSnu729YqJs
-
-### Nicotine pouches see explosive growth by aggressively targeting young people, new report finds [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Sales of nicotine pouch products have exploded in recent years, with the global market now worth nearly $7 billion.
-
-Link: https://www.youtube.com/watch?v=AbM1mFGavBA
-
-### Legend of Zelda Twilight Princess Decompilation Tested! [7/10]
+### 007 First Light Will Ship With 60FPS Support At Launch [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=cWh5VkbUpYw
+
+### AMD Confirms FSR 4.1 Upscaling For RDNA 3 and RDNA 2 - But There Are Questions [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=_UhAL8dwigg
+
+### Legend of Zelda Twilight Princess Decompilation Tested! [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/60w3WigB3Xc ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=23uBXKwwrPk
 
-### PS5 Path Tracing: Cyberpunk 2077, Quake 2 RTX, Portal RTX Linux Tested [8/10]
+### PS5 Path Tracing: Cyberpunk 2077, Quake 2 RTX, Portal RTX Linux Tested [7/10]
 **Creator:** Digital Foundry  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -267,23 +267,32 @@ Link: https://www.youtube.com/watch?v=hEjU3logvo4
 
 Link: https://www.youtube.com/watch?v=IfM8UdlCz2w
 
-### I've Upgraded - What Should I Do With My Old PC? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### Dusting Off Our Rumble Paks in Star Fox 64 w/ KC and Marty [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+NOTE: Nintendo hit us with a strike for showing the Star Fox Direct during our original Star Fox stream, but you can find the VOD here -- https://youtu.
 
-Link: https://www.youtube.com/watch?v=1SAWHnq3wAI
+Link: https://www.youtube.com/watch?v=HQ5SnhjnQU8
 
-### Is Switch 2 Powerful Enough To Last Into The 2030s? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### Directive 8020 | Fully Ramblomatic [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+This week on Fully Ramblomatic, Yahtzee reviewed Directive 8020. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
-Link: https://www.youtube.com/watch?v=nq-Fn67fL4k
+Link: https://www.youtube.com/watch?v=AC3AywplAmQ
+
+### Yahtzee Tries... Thick as Thieves and Subnautica 2 [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.com/ember This week on Yahtzee Tries...
+
+Link: https://www.youtube.com/watch?v=7fb1m3ZNaVA
 
 ### Nick Plays the Sands of Time Trilogy for the First Time | Part 1 [6/10]
 **Creator:** Second Wind  
@@ -330,24 +339,6 @@ On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty chat about text
 
 Link: https://www.youtube.com/watch?v=DW5C4kuYHhw
 
-### Nintendo Hid S-Tier Boss Fights Behind Super Mario Wonder DLC [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Marty dug into the Meetup in Bellabel Park DLC for Super Mario Wonder's Switch 2 port, and discovered that Nintendo hid some of its best boss fights in ages inside it. Support us on Patreon: https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=HBOBHggeeHM
-
-### Wax Heads, Motorslice, Froggy Hates Snow and Everything Is Crab | Yahtzee Tries [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Yahtzee Tries, Yahtzee checked out Wax Heads, Motorsclice, Froggy Hates Snow and Everything Is Crab. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
-
-Link: https://www.youtube.com/watch?v=bEtV1YRBePA
-
 ## Entertainment Recommendations
 
 ### Newer shows that look like a fit
@@ -377,14 +368,14 @@ Link: https://www.youtube.com/watch?v=bEtV1YRBePA
 
 ## Trailers / Previews
 
-### SPIDER-MAN: BRAND NEW DAY - Practical Production [8/10]
+### TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY (2006) - 20th Anniversary - Official Trailer (HD) [8/10]
 **Source:** Sony Pictures Entertainment  
 **Verdict:** Looks promising  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
 
-Spider-Man on the street. #SpiderManBrandNewDay is in theatres July 31. After the record-breaking global success of Spider-Man: No Way Home, Spider-Man: Brand New Day marks an entirely new chapter for Peter Parker and Spider-Man.
+If you ain't first, you're last. 🏁 Ricky Bobby returns to the big screen. #TalladegaNights is back in theatres June 28, June 30, and July 1.
 
-Link: https://www.youtube.com/watch?v=6GW4JPeqm3s
+Link: https://www.youtube.com/watch?v=A0fgugC7ZCo
 
 ### Resident Evil – Official Teaser Trailer. From Zach Cregger, director of Weapons and Barbarian. [8/10]
 **Source:** Sony Pictures Entertainment  
@@ -448,6 +439,33 @@ Link: https://www.youtube.com/watch?v=pT5y7-WwD8M
 The crypt is open, boils and ghouls. TALES FROM THE CRYPT Season 1 drops May 1st on Shudder, with subsequent seasons dropping every Friday. #Shudder #TalesFromtheCrypt Subscribe: http://ow.
 
 Link: https://www.youtube.com/watch?v=LSwkCskbvzQ
+
+### Strung | Official Trailer [10/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.
+
+Link: https://www.youtube.com/watch?v=sEz074LTiV8
+
+### Michael Jackson: The Verdict | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Told by key players who were inside the courtroom, this 3-part comprehensive docuseries dissects the trial of Michael Jackson and his complex legacy. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=rcp-j0StBR0
+
+### Welcome to the Boroughs | Official Commercial | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Welcome to the Boroughs. A retirement community built upon something truly... remarkable. You’re in good hands here. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=5WCBnc4PQvI
 
 ### One Hundred Years of Solitude: Part Two | Official Teaser | Netflix [10/10]
 **Source:** Netflix  
@@ -547,21 +565,3 @@ Link: https://www.youtube.com/watch?v=LbPf9ACTz7g
 #RouseyCarano Saturday, May 16 9 PM ET | 6 PM PT LIVE on Netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and…
 
 Link: https://www.youtube.com/watch?v=Vw9zgL0VH0w
-
-### Bad Thoughts: Season 2 | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Bad Thoughts, Tom Segura's dark and twisted comedic series, returns for Season 2 on May 24, only on Netflix. In this six-episode season, Segura navigates unthinkable situations and fantasies within a cinematic world.
-
-Link: https://www.youtube.com/watch?v=Dy6qLO9EmBQ
-
-### Outlast: The Jungle | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-In this ultimate survival game, the contestants must outlast not only the jungle and its elements but also the psychological and social challenges posed by their fellow competitors.
-
-Link: https://www.youtube.com/watch?v=EnvBoDKSNKg
