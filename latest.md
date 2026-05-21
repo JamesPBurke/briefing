@@ -1,55 +1,78 @@
 # James Daily Briefing
 
-Generated: 2026-05-21T14:00:02.028549Z
+Generated: 2026-05-21T18:03:35.811596Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Republicans could abandon $1bn proposal for Trump’s ballroom – US politics live, "Honestly difficult to imagine a path forward with it" - licensed Paranormal Activity horror game "technically done for good", says Mortuary Assistant creator, and Squabble over Disco Elysium's legacy continues as Hopetown studio recruit another ex-ZA/UM dev while dropping a new trailer on Zero Parades' release day.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’, Jeffrey Epstein assistant fiercely denies she was an accomplice and claims he abused her, and Virginia judge dismisses charges against assistant principal in teacher shooting case.
 
 ## Briefing
 
 ## Highlighted stories
+
+### Introducing Ethical AI into Any Curriculum with Responsible AI Fellow Dr. Jie Long
+Pinned from yesterday's briefing at James's request.
+
+Link: https://csteachers.org/introducing-ethical-ai-into-any-curriculum-with-responsible-ai-fellow-dr-jie-long/
 
 ### 12 unexpected sourdough bread recipes that aren't crusty loaves: From sourdough flatbread to sourdough milk bread — and even sourdough babka.
 Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. Republicans could abandon $1bn proposal for Trump’s ballroom – US politics live [10/10]
+### 1. Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’ [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Republican senators have queried the timing and lack of detail in secret service bid to add money to the Department for Homeland security bill Sign up for the Breaking News US email The supreme court will hand down opinions at 10am ET…
+Africa CDC says restrictions could increase public health risks and highlight ‘deeper structural injustice’ in global health A US travel ban for people coming from the Democratic Republic of the Congo, Uganda or South Sudan in response to…
 
-Link: https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates
+Link: https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan
 
-### 2. "Honestly difficult to imagine a path forward with it" - licensed Paranormal Activity horror game "technically done for good", says Mortuary Assistant creator [10/10]
-**Source:** Eurogamer  
+### 2. Jeffrey Epstein assistant fiercely denies she was an accomplice and claims he abused her [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The solo developer of horror hit The Mortuary Assistant has told Eurogamer that his officially licensed Paranormal Activity game, Paranormal Activity: Threshold, "is technically done for good". Read more
+Sarah Kellen told lawmakers that convicted sex offender ‘sexually and psychologically abused me … and gaslit me’ Sign up for the Breaking News US newsletter email One of Jeffrey Epstein ’s longtime assistants has fiercely denied she was an…
 
-Link: https://www.eurogamer.net/honestly-difficult-to-imagine-a-path-forward-with-it-licensed-paranormal-activity-horror-game-technically-done-for-good-says-mortuary-assistant-creator
+Link: https://www.theguardian.com/us-news/2026/may/21/jeffrey-epstein-assistant-sarah-kellen-abuse
 
-### 3. Squabble over Disco Elysium's legacy continues as Hopetown studio recruit another ex-ZA/UM dev while dropping a new trailer on Zero Parades' release day [10/10]
+### 3. Virginia judge dismisses charges against assistant principal in teacher shooting case [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Ebony Parker was accused of ignoring warnings about six-year-old boy who shot and wounded his teacher in 2023 Sign up for the Breaking News US newsletter email A Virginia judge has thrown out a case against an elementary school principal…
+
+Link: https://www.theguardian.com/us-news/2026/may/21/virginia-judge-dismisses-charges-assistant-principal-teacher-shooting
+
+### 4. Splinter Cell veteran says realistic modern lighting has screwed up stealth games: "it gets very hard to tell what’s light, what’s shadow, what’s dark, what’s safe" [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Today, May 21st, marks the release of ZA/UM's Zero Parades , the studio's Disco Elysium follow-up arriving following years of drama and turmoil surrounding the original game and the people who made it.
+Finally, a game developer who agrees with my fervently held view that new technology makes everything worse.
 
-Link: https://www.rockpapershotgun.com/squabble-over-disco-elysiums-legacy-continues-as-hopetown-studio-recruit-another-ex-zaum-dev-while-dropping-a-new-trailer-on-zero-parades-release-day
+Link: https://www.rockpapershotgun.com/splinter-cell-veteran-says-realistic-modern-lighting-has-screwed-up-stealth-games-it-gets-very-hard-to-tell-whats-light-whats-shadow-whats-dark-whats-safe
 
-### 4. Air France and Airbus guilty of corporate manslaughter for 2009 plane crash [10/10]
+### 5. Titanium Always Pan Pro is non-toxic, non-stick and finally on sale for Memorial Day [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Verdict is latest legal milestone over France’s worst ever air disaster A Paris appeals court has found Airbus and Air France guilty of corporate manslaughter over the 2009 Rio-Paris plane crash that killed 228 passengers and crew in…
+Our Place’s non-toxic, non-stick titanium pans can handle 1000F temps and the dishwasher – and they’re currently up to 42% off for Memorial Day The seven best non-toxic cooking pans in the US, tested in a food lab Sign up for the Filter US…
 
-Link: https://www.theguardian.com/world/2026/may/21/air-france-airbus-guilty-corporate-manslaughter-2009-plane-crash
+Link: https://www.theguardian.com/thefilter-us/2026/may/21/titanium-always-pan-pro-our-place
 
-### 5. Opinion: How Democrats Stopped Worrying and Learned to Love Teachers Unions [10/10]
+### 6. GitHub faces a fight for its survival at Microsoft [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+When Microsoft announced it was acquiring GitHub in a $7.5 billion deal in 2018, developers were nervous. Some were concerned about Microsoft controlling GitHub, and others were taking a wait-and-see approach.
+
+Link: https://www.theverge.com/tech/935250/microsoft-github-struggles-notepad
+
+### 7. Opinion: How Democrats Stopped Worrying and Learned to Love Teachers Unions [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -58,34 +81,43 @@ Link: https://www.theguardian.com/world/2026/may/21/air-france-airbus-guilty-cor
 
 Link: https://www.the74million.org/article/how-democrats-stopped-worrying-and-learned-to-love-teachers-unions/
 
-### 6. JPMorgan banker countersues accuser, says sexual assault 'lies' ruined her life [10/10]
+### 8. Trump has created a slush fund of taxpayer money to give to his friends | Moira Donegan [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Investment banker Lorna Hajdini says ex-colleague Chirayu Rana’s ‘malicious’ allegations ‘wreaked havoc’ The JPMorgan Chase investment banker accused of sexual assault in an explosive lawsuit that went viral countersued her accuser, saying…
+The ‘Anti-Weaponization Fund’ is an extraordinary example of bald self-dealing Donald Trump is stealing almost $2bn in taxpayer money and handing it out to his friends.
 
-Link: https://www.theguardian.com/us-news/2026/may/21/jpmorgan-banker-countersue-sexual-assault-accuser
+Link: https://www.theguardian.com/commentisfree/2026/may/21/trump-slush-fund-anti-weaponization
 
-### 7. Finding Emily review – warm-hearted gen Z campus romcom is impossible to hate [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 9. Maika Monroe Has Big Questions About Evil in Victorian Psycho Trailer [9/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-A Mancunian singer-songwriter becomes a viral divisive figure while trying to track down a girl called Emily Last week came the news that gen Z are big fans of going to the cinema.
+A Merchant Ivory film this is not The post Maika Monroe Has Big Questions About Evil in Victorian Psycho Trailer appeared first on Reactor .
 
-Link: https://www.theguardian.com/film/2026/may/21/finding-emily-review-gen-z-campus-romcom-is-impossible-to-hate
+Link: https://reactormag.com/maika-monroe-victorian-psycho-trailer/
 
-### 8. The Download: online safety’s future and climate tech’s big pivot [9/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 10. Abortion pills "just in case"? Planned Parenthood will offer them in two states [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+In Washington state and Hawaii, residents can now get mifepristone and misoprostol from Planned Parenthood to keep in their cabinets in case they need to end a pregnancy at a later time.
 
-Link: https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/
+Link: https://www.npr.org/2026/05/21/nx-s1-5827444/abortion-pills-mifepristone-misoprostol-planned-parenthood-advance-provision
 
-### 9. This Archivist Has Saved 175,000 Articles from 30 Years of Writing about Magic: The Gathering [8/10]
+### 11. A trillion dollar question: Will SpaceX's Starship launch go well? [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Ahead of a much anticipated IPO, SpaceX is carrying out a critical test of its giant, stainless steel rocket. Investors will be watching closely.
+
+Link: https://www.npr.org/2026/05/21/nx-s1-5823583/spacex-starship-musk-ipo
+
+### 12. This Archivist Has Saved 175,000 Articles from 30 Years of Writing about Magic: The Gathering [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -94,41 +126,14 @@ The Library of Leng contains old usenet posts and forgotten articles from Magic:
 
 Link: https://www.404media.co/this-archivist-has-saved-175-000-articles-from-30-years-of-writing-about-magic-the-gathering/
 
-### 10. Ebola fears surge on the ground in Congo over rapid spread of a rare type [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Healthcare workers in eastern Congo said Wednesday they are underprotected and undertrained in a rapidly spreading Ebola outbreak of a rare type of the virus in one of the world's most vulnerable places.
-
-Link: https://www.npr.org/2026/05/21/nx-s1-5829610/ebola-fears-surge
-
-### 11. Elon Musk's SpaceX IPO plans reveal blockbuster spending on rockets and AI [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-The company is on track to pull off the largest IPO in history — making CEO Elon Musk even wealthier.
-
-Link: https://www.npr.org/2026/05/20/nx-s1-5812731/elon-musk-spacex-ai-ipo
-
-### 12. Google publishes exploit code threatening millions of Chromium users [8/10]
+### 13. Google publishes exploit code threatening millions of Chromium users [8/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-Google publishes exploit code before patch, reported 29 months earlier, is fixed.
+Google publishes exploit code before patch, reported 42 months earlier, is fixed.
 
 Link: https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/
-
-### 13. Masters of the Universe Final Trailer Sets Up Fragile Masculinity, Giant Swords, and Fisto [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-When you hold the magic sword, what do you say? The post Masters of the Universe Final Trailer Sets Up Fragile Masculinity, Giant Swords, and Fisto appeared first on Reactor .
-
-Link: https://reactormag.com/official-final-masters-of-the-universe-trailer/
 
 ## YouTube
 
@@ -149,6 +154,24 @@ Link: https://www.youtube.com/watch?v=83F1GSUsmzo
 Your daily coffee might be doing more than waking you up. A new study published in Nature Communications found that regular coffee consumption may positively affect the link between digestion, mood, and cognition.
 
 Link: https://www.youtube.com/watch?v=plX4uNLRUOI
+
+### Cuba calls Castro's indictment a pretext for U.S. military action [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+The Justice Department has brought charges against Cuba’s former president, Raúl Castro. The Cuban government rejects the indictment and says its a pretext for military action against the country.
+
+Link: https://www.youtube.com/watch?v=nwWy_IR8P_4
+
+### Flag | For your right to be curious. [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+People notice. People question. NPR takes your curiosity further. Hear more of this story on The NPR Politics Podcast. NPR Marketing message. Not produced by the NPR newsroom.
+
+Link: https://www.youtube.com/watch?v=zA6SrHEqTN8
 
 ### Chile peppers are a key crop for Indian women farmers [7/10]
 **Creator:** NPR  
@@ -195,27 +218,36 @@ The Justice Department reached a settlement with President Trump this week after
 
 Link: https://www.youtube.com/watch?v=gnTk3WwHr_4
 
-### Authorities: Suspects in the San Diego mosque shootings had white nationalism ties [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-San Diego authorities say three victims from Monday’s shooting attack on the Islamic Center of San Diego died as they protected 140 children. Mansour Kaziha, 78, Nader Awad, 57, and Amin Abdullah, 51, died trying to stop the gunmen.
-
-Link: https://www.youtube.com/watch?v=sPLMoCLDCcQ
-
-### 007 First Light Will Ship With 60FPS Support At Launch [7/10]
+### Should Sony Bring "Quick Resume" To PlayStation 6? [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/GHKbNNmzQOU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=qxeBKQiM3jg
+
+### Is Xbox Planning a "Disc To Digital" Game Transfer Option? [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=_R825BomWm0
+
+### 007 First Light Will Ship With 60FPS Support At Launch [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=cWh5VkbUpYw
 
-### AMD Confirms FSR 4.1 Upscaling For RDNA 3 and RDNA 2 - But There Are Questions [7/10]
+### AMD Confirms FSR 4.1 Upscaling For RDNA 3 and RDNA 2 - But There Are Questions [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -240,23 +272,23 @@ Link: https://www.youtube.com/watch?v=23uBXKwwrPk
 
 Link: https://www.youtube.com/watch?v=8YJfcfqYKTE
 
-### Will Nvidia Shield Return - And Will It Run PC Games on ARM x86 Emulation? [8/10]
-**Creator:** Digital Foundry  
+### Dark Souls 2 DLC Season w/ Jack and Jess -- Part 8 [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.
+
+Link: https://www.youtube.com/watch?v=TJV7kPjtS-I
+
+### Can We Actually Make Exotic Weapons... Exotic? | Semi-Ramblomatic [8/10]
+**Creator:** Second Wind  
 **Verdict:** Worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.com/ember Video game weapons have a utility issue. Support us on Patreon: https://www.patreon.
 
-Link: https://www.youtube.com/watch?v=hEjU3logvo4
-
-### Will Project Helix Be Snapped Up By AI Users Instead Of Gamers? [8/10]
-**Creator:** Digital Foundry  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=IfM8UdlCz2w
+Link: https://www.youtube.com/watch?v=WibIP5xB4zE
 
 ### Dusting Off Our Rumble Paks in Star Fox 64 w/ KC and Marty [6/10]
 **Creator:** Second Wind  
@@ -276,9 +308,9 @@ This video is brought to you by Ember, the digital roleplaying game world and TT
 
 Link: https://www.youtube.com/watch?v=7fb1m3ZNaVA
 
-### Directive 8020 | Fully Ramblomatic [7/10]
+### Directive 8020 | Fully Ramblomatic [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Fully Ramblomatic, Yahtzee reviewed Directive 8020. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
@@ -312,24 +344,6 @@ This week on The Backdrop, people are being weird about adaptations again. Suppo
 
 Link: https://www.youtube.com/watch?v=6ApcJUyKE5w
 
-### Nitro Gen Omega Slams Anime Mechs Into a Tactical RPG | Hot Monday Energy [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Hidden Gems KC, Jess, and Jesse play Nitro Gen Omega -- https://store.steampowered.com/app/2525510/NITRO_GEN_OMEGA/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=XZY_C0qs4LY
-
-### Hey Games, Cool It With the Text Logs | Windbreaker Podcast [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty chat about text/diary/journal/audio logs in video games -- the good, the bad, and the weird. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.
-
-Link: https://www.youtube.com/watch?v=DW5C4kuYHhw
-
 ## Entertainment Recommendations
 
 ### Newer shows that look like a fit
@@ -358,6 +372,24 @@ Link: https://www.youtube.com/watch?v=DW5C4kuYHhw
 - **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
 
 ## Trailers / Previews
+
+### RESIDENT EVIL – Zach Cregger on Survival Horror [10/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.
+
+Link: https://www.youtube.com/watch?v=N_KDtokTO1c
+
+### RESIDENT EVIL - Zach Cregger on Survival Horror [10/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.
+
+Link: https://www.youtube.com/watch?v=5gR1GTJPGqQ
 
 ### TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY (2006) - 20th Anniversary - Official Trailer (HD) [7/10]
 **Source:** Sony Pictures Entertainment  
@@ -421,6 +453,24 @@ Link: https://www.youtube.com/watch?v=LSwkCskbvzQ
 Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.
 
 Link: https://www.youtube.com/watch?v=sEz074LTiV8
+
+### See U in Hell | Devil May Cry: Season 2 | Official Video | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+PRAY LIKE HELL!!! Official live action video for "See U in Hell" by Papa Roach, feat. Hanumankind, from the Netflix Series Devil May Cry 2. Watch the show live now: http://netflix.
+
+Link: https://www.youtube.com/watch?v=aQL3vWVC0jE
+
+### Same city, final chapter. merci, Paris. 💋 #EmilyInParis [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+emily in paris, emily in paris trailer, emily in paris final season, emily in paris season 6 Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=91ung0bfqjc
 
 ### Avatar: The Last Airbender: Season 2 | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
@@ -511,33 +561,6 @@ Link: https://www.youtube.com/watch?v=VGzqkAB_-hQ
 Jill copes with her sister’s death by leaving her voicemails chronicling her chaotic life in San Francisco.
 
 Link: https://www.youtube.com/watch?v=9mi3YVYm3ZU
-
-### Welcome to The Boroughs | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-In a seemingly perfect retirement community, a crew of unlikely heroes must stop an otherworldly threat from stealing the one thing they don’t have: time. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=5C8yGUQ7gww
-
-### RONDA ROUSEY DEFEATS GINA CARANO VIA ARMBAR SUBMISSION IN ROUND ONE #RouseyCarano [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-#netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
-
-Link: https://www.youtube.com/watch?v=BVgAS9bkfCg
-
-### ROUSEY AND CARANO ARE HERE #rouseycarano [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
-
-Link: https://www.youtube.com/watch?v=fBQg90ZzMFI
 
 ### Frog and Toad — Too Many Cookies | Season 1 Scene | Apple TV [8/10]
 **Source:** Apple TV  

@@ -1,49 +1,69 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-21T14:00:02.028549Z",
-  "generatedAtDisplay": "2026-05-21 10:00 AM EDT",
+  "generatedAt": "2026-05-21T18:03:35.811596Z",
+  "generatedAtDisplay": "2026-05-21 02:03 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Republicans could abandon $1bn proposal for Trump’s ballroom – US politics live, \"Honestly difficult to imagine a path forward with it\" - licensed Paranormal Activity horror game \"technically done for good\", says Mortuary Assistant creator, and Squabble over Disco Elysium's legacy continues as Hopetown studio recruit another ex-ZA/UM dev while dropping a new trailer on Zero Parades' release day.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’, Jeffrey Epstein assistant fiercely denies she was an accomplice and claims he abused her, and Virginia judge dismisses charges against assistant principal in teacher shooting case.",
   "mainItems": [
     {
-      "title": "Republicans could abandon $1bn proposal for Trump’s ballroom – US politics live",
+      "title": "Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates",
-      "published": "2026-05-21T13:44:38+00:00",
-      "summary": "Republican senators have queried the timing and lack of detail in secret service bid to add money to the Department for Homeland security bill Sign up for the Breaking News US email The supreme court will hand down opinions at 10am ET…",
+      "url": "https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan",
+      "published": "2026-05-21T17:41:51+00:00",
+      "summary": "Africa CDC says restrictions could increase public health risks and highlight ‘deeper structural injustice’ in global health A US travel ban for people coming from the Democratic Republic of the Congo, Uganda or South Sudan in response to…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "\"Honestly difficult to imagine a path forward with it\" - licensed Paranormal Activity horror game \"technically done for good\", says Mortuary Assistant creator",
-      "source": "Eurogamer",
+      "title": "Jeffrey Epstein assistant fiercely denies she was an accomplice and claims he abused her",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/honestly-difficult-to-imagine-a-path-forward-with-it-licensed-paranormal-activity-horror-game-technically-done-for-good-says-mortuary-assistant-creator",
-      "published": "2026-05-21T13:37:15+00:00",
-      "summary": "The solo developer of horror hit The Mortuary Assistant has told Eurogamer that his officially licensed Paranormal Activity game, Paranormal Activity: Threshold, \"is technically done for good\". Read more",
+      "url": "https://www.theguardian.com/us-news/2026/may/21/jeffrey-epstein-assistant-sarah-kellen-abuse",
+      "published": "2026-05-21T17:33:34+00:00",
+      "summary": "Sarah Kellen told lawmakers that convicted sex offender ‘sexually and psychologically abused me … and gaslit me’ Sign up for the Breaking News US newsletter email One of Jeffrey Epstein ’s longtime assistants has fiercely denied she was an…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Squabble over Disco Elysium's legacy continues as Hopetown studio recruit another ex-ZA/UM dev while dropping a new trailer on Zero Parades' release day",
+      "title": "Virginia judge dismisses charges against assistant principal in teacher shooting case",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/may/21/virginia-judge-dismisses-charges-assistant-principal-teacher-shooting",
+      "published": "2026-05-21T16:54:50+00:00",
+      "summary": "Ebony Parker was accused of ignoring warnings about six-year-old boy who shot and wounded his teacher in 2023 Sign up for the Breaking News US newsletter email A Virginia judge has thrown out a case against an elementary school principal…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Splinter Cell veteran says realistic modern lighting has screwed up stealth games: \"it gets very hard to tell what’s light, what’s shadow, what’s dark, what’s safe\"",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/squabble-over-disco-elysiums-legacy-continues-as-hopetown-studio-recruit-another-ex-zaum-dev-while-dropping-a-new-trailer-on-zero-parades-release-day",
-      "published": "2026-05-21T13:00:00+00:00",
-      "summary": "Today, May 21st, marks the release of ZA/UM's Zero Parades , the studio's Disco Elysium follow-up arriving following years of drama and turmoil surrounding the original game and the people who made it.",
+      "url": "https://www.rockpapershotgun.com/splinter-cell-veteran-says-realistic-modern-lighting-has-screwed-up-stealth-games-it-gets-very-hard-to-tell-whats-light-whats-shadow-whats-dark-whats-safe",
+      "published": "2026-05-21T15:34:13+00:00",
+      "summary": "Finally, a game developer who agrees with my fervently held view that new technology makes everything worse.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Air France and Airbus guilty of corporate manslaughter for 2009 plane crash",
+      "title": "Titanium Always Pan Pro is non-toxic, non-stick and finally on sale for Memorial Day",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/may/21/air-france-airbus-guilty-corporate-manslaughter-2009-plane-crash",
-      "published": "2026-05-21T12:38:43+00:00",
-      "summary": "Verdict is latest legal milestone over France’s worst ever air disaster A Paris appeals court has found Airbus and Air France guilty of corporate manslaughter over the 2009 Rio-Paris plane crash that killed 228 passengers and crew in…",
+      "url": "https://www.theguardian.com/thefilter-us/2026/may/21/titanium-always-pan-pro-our-place",
+      "published": "2026-05-21T14:15:31+00:00",
+      "summary": "Our Place’s non-toxic, non-stick titanium pans can handle 1000F temps and the dishwasher – and they’re currently up to 42% off for Memorial Day The seven best non-toxic cooking pans in the US, tested in a food lab Sign up for the Filter US…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "GitHub faces a fight for its survival at Microsoft",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/935250/microsoft-github-struggles-notepad",
+      "published": "2026-05-21T13:26:41+00:00",
+      "summary": "When Microsoft announced it was acquiring GitHub in a $7.5 billion deal in 2018, developers were nervous. Some were concerned about Microsoft controlling GitHub, and others were taking a wait-and-see approach.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
@@ -57,34 +77,44 @@
       "score": 10
     },
     {
-      "title": "JPMorgan banker countersues accuser, says sexual assault 'lies' ruined her life",
+      "title": "Trump has created a slush fund of taxpayer money to give to his friends | Moira Donegan",
       "source": "The Guardian US",
       "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/may/21/jpmorgan-banker-countersue-sexual-assault-accuser",
-      "published": "2026-05-21T12:06:33+00:00",
-      "summary": "Investment banker Lorna Hajdini says ex-colleague Chirayu Rana’s ‘malicious’ allegations ‘wreaked havoc’ The JPMorgan Chase investment banker accused of sexual assault in an explosive lawsuit that went viral countersued her accuser, saying…",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/21/trump-slush-fund-anti-weaponization",
+      "published": "2026-05-21T12:00:10+00:00",
+      "summary": "The ‘Anti-Weaponization Fund’ is an extraordinary example of bald self-dealing Donald Trump is stealing almost $2bn in taxpayer money and handing it out to his friends.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Finding Emily review – warm-hearted gen Z campus romcom is impossible to hate",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/film/2026/may/21/finding-emily-review-gen-z-campus-romcom-is-impossible-to-hate",
-      "published": "2026-05-21T12:00:10+00:00",
-      "summary": "A Mancunian singer-songwriter becomes a viral divisive figure while trying to track down a girl called Emily Last week came the news that gen Z are big fans of going to the cinema.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "title": "Maika Monroe Has Big Questions About Evil in Victorian Psycho Trailer",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/maika-monroe-victorian-psycho-trailer/",
+      "published": "2026-05-21T15:05:51+00:00",
+      "summary": "A Merchant Ivory film this is not The post Maika Monroe Has Big Questions About Evil in Victorian Psycho Trailer appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 9
     },
     {
-      "title": "The Download: online safety’s future and climate tech’s big pivot",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
-      "published": "2026-05-21T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
+      "title": "Abortion pills \"just in case\"? Planned Parenthood will offer them in two states",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/05/21/nx-s1-5827444/abortion-pills-mifepristone-misoprostol-planned-parenthood-advance-provision",
+      "published": "2026-05-21T17:29:35+00:00",
+      "summary": "In Washington state and Hawaii, residents can now get mifepristone and misoprostol from Planned Parenthood to keep in their cabinets in case they need to end a pregnancy at a later time.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "A trillion dollar question: Will SpaceX's Starship launch go well?",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/05/21/nx-s1-5823583/spacex-starship-musk-ipo",
+      "published": "2026-05-21T15:26:30+00:00",
+      "summary": "Ahead of a much anticipated IPO, SpaceX is carrying out a critical test of its giant, stainless steel rocket. Investors will be watching closely.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     },
     {
       "title": "This Archivist Has Saved 175,000 Articles from 30 Years of Writing about Magic: The Gathering",
@@ -97,43 +127,13 @@
       "score": 8
     },
     {
-      "title": "Ebola fears surge on the ground in Congo over rapid spread of a rare type",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/21/nx-s1-5829610/ebola-fears-surge",
-      "published": "2026-05-21T06:10:08+00:00",
-      "summary": "Healthcare workers in eastern Congo said Wednesday they are underprotected and undertrained in a rapidly spreading Ebola outbreak of a rare type of the virus in one of the world's most vulnerable places.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Elon Musk's SpaceX IPO plans reveal blockbuster spending on rockets and AI",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/05/20/nx-s1-5812731/elon-musk-spacex-ai-ipo",
-      "published": "2026-05-20T21:27:56+00:00",
-      "summary": "The company is on track to pull off the largest IPO in history — making CEO Elon Musk even wealthier.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
       "title": "Google publishes exploit code threatening millions of Chromium users",
       "source": "Ars Technica",
       "category": "Security / computing",
       "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
       "published": "2026-05-20T19:10:36+00:00",
-      "summary": "Google publishes exploit code before patch, reported 29 months earlier, is fixed.",
+      "summary": "Google publishes exploit code before patch, reported 42 months earlier, is fixed.",
       "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 8
-    },
-    {
-      "title": "Masters of the Universe Final Trailer Sets Up Fragile Masculinity, Giant Swords, and Fisto",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/official-final-masters-of-the-universe-trailer/",
-      "published": "2026-05-20T17:01:43+00:00",
-      "summary": "When you hold the magic sword, what do you say? The post Masters of the Universe Final Trailer Sets Up Fragile Masculinity, Giant Swords, and Fisto appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     }
   ],
@@ -159,6 +159,28 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Cuba calls Castro's indictment a pretext for U.S. military action",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=nwWy_IR8P_4",
+      "published": "2026-05-21T16:01:11+00:00",
+      "summary": "The Justice Department has brought charges against Cuba’s former president, Raúl Castro. The Cuban government rejects the indictment and says its a pretext for military action against the country.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Flag | For your right to be curious.",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=zA6SrHEqTN8",
+      "published": "2026-05-21T14:58:57+00:00",
+      "summary": "People notice. People question. NPR takes your curiosity further. Hear more of this story on The NPR Politics Podcast. NPR Marketing message. Not produced by the NPR newsroom.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Chile peppers are a key crop for Indian women farmers",
@@ -216,15 +238,26 @@
       "verdict": "Watch it"
     },
     {
-      "title": "Authorities: Suspects in the San Diego mosque shootings had white nationalism ties",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=sPLMoCLDCcQ",
-      "published": "2026-05-20T16:01:23+00:00",
-      "summary": "San Diego authorities say three victims from Monday’s shooting attack on the Islamic Center of San Diego died as they protected 140 children. Mansour Kaziha, 78, Nader Awad, 57, and Amin Abdullah, 51, died trying to stop the gunmen.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "Should Sony Bring \"Quick Resume\" To PlayStation 6?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=qxeBKQiM3jg",
+      "published": "2026-05-21T17:00:22+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/GHKbNNmzQOU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Is Xbox Planning a \"Disc To Digital\" Game Transfer Option?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=_R825BomWm0",
+      "published": "2026-05-21T16:00:00+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "007 First Light Will Ship With 60FPS Support At Launch",
@@ -234,8 +267,8 @@
       "published": "2026-05-20T17:00:01+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "AMD Confirms FSR 4.1 Upscaling For RDNA 3 and RDNA 2 - But There Are Questions",
@@ -245,8 +278,8 @@
       "published": "2026-05-20T16:00:36+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Legend of Zelda Twilight Princess Decompilation Tested!",
@@ -271,24 +304,24 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Will Nvidia Shield Return - And Will It Run PC Games on ARM x86 Emulation?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=hEjU3logvo4",
-      "published": "2026-05-18T17:00:44+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "title": "Dark Souls 2 DLC Season w/ Jack and Jess -- Part 8",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=TJV7kPjtS-I",
+      "published": "2026-05-21T13:46:54+00:00",
+      "summary": "The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
-      "title": "Will Project Helix Be Snapped Up By AI Users Instead Of Gamers?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=IfM8UdlCz2w",
-      "published": "2026-05-18T16:00:33+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/acafE6oCifk ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "title": "Can We Actually Make Exotic Weapons... Exotic? | Semi-Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=WibIP5xB4zE",
+      "published": "2026-05-21T15:33:27+00:00",
+      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.com/ember Video game weapons have a utility issue. Support us on Patreon: https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
     },
@@ -322,8 +355,8 @@
       "published": "2026-05-20T16:00:09+00:00",
       "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Directive 8020. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Nick Plays the Sands of Time Trilogy for the First Time | Part 1",
@@ -357,31 +390,31 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Nitro Gen Omega Slams Anime Mechs Into a Tactical RPG | Hot Monday Energy",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=XZY_C0qs4LY",
-      "published": "2026-05-19T01:11:46+00:00",
-      "summary": "This week on Hidden Gems KC, Jess, and Jesse play Nitro Gen Omega -- https://store.steampowered.com/app/2525510/NITRO_GEN_OMEGA/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Hey Games, Cool It With the Text Logs | Windbreaker Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=DW5C4kuYHhw",
-      "published": "2026-05-18T19:03:04+00:00",
-      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty chat about text/diary/journal/audio logs in video games -- the good, the bad, and the weird. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     }
   ],
   "trailers": [
+    {
+      "title": "RESIDENT EVIL – Zach Cregger on Survival Horror",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=N_KDtokTO1c",
+      "published": "2026-05-21T16:18:37+00:00",
+      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RESIDENT EVIL - Zach Cregger on Survival Horror",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=5gR1GTJPGqQ",
+      "published": "2026-05-21T16:00:09+00:00",
+      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
     {
       "title": "TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY (2006) - 20th Anniversary - Official Trailer (HD)",
       "source": "Sony Pictures Entertainment",
@@ -456,6 +489,28 @@
       "published": "2026-05-20T16:30:28+00:00",
       "summary": "Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "See U in Hell | Devil May Cry: Season 2 | Official Video | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=aQL3vWVC0jE",
+      "published": "2026-05-21T16:00:05+00:00",
+      "summary": "PRAY LIKE HELL!!! Official live action video for \"See U in Hell\" by Papa Roach, feat. Hanumankind, from the Netflix Series Devil May Cry 2. Watch the show live now: http://netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Same city, final chapter. merci, Paris. 💋 #EmilyInParis",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=91ung0bfqjc",
+      "published": "2026-05-21T15:15:24+00:00",
+      "summary": "emily in paris, emily in paris trailer, emily in paris final season, emily in paris season 6 Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
     },
@@ -570,39 +625,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Welcome to The Boroughs | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=5C8yGUQ7gww",
-      "published": "2026-05-18T15:00:00+00:00",
-      "summary": "In a seemingly perfect retirement community, a crew of unlikely heroes must stop an otherworldly threat from stealing the one thing they don’t have: time. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "RONDA ROUSEY DEFEATS GINA CARANO VIA ARMBAR SUBMISSION IN ROUND ONE #RouseyCarano",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=BVgAS9bkfCg",
-      "published": "2026-05-17T04:35:06+00:00",
-      "summary": "#netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "ROUSEY AND CARANO ARE HERE #rouseycarano",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=fBQg90ZzMFI",
-      "published": "2026-05-17T04:09:24+00:00",
-      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "Frog and Toad — Too Many Cookies | Season 1 Scene | Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
@@ -688,6 +710,13 @@
   },
   "highlights": [
     {
+      "title": "Introducing Ethical AI into Any Curriculum with Responsible AI Fellow Dr. Jie Long",
+      "source": "CSTA",
+      "url": "https://csteachers.org/introducing-ethical-ai-into-any-curriculum-with-responsible-ai-fellow-dr-jie-long/",
+      "notes": "Pinned from yesterday's briefing at James's request.",
+      "addedAt": "2026-05-21T14:02:00Z"
+    },
+    {
       "title": "12 unexpected sourdough bread recipes that aren't crusty loaves: From sourdough flatbread to sourdough milk bread — and even sourdough babka.",
       "source": "King Arthur Baking",
       "url": "https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes",
@@ -697,8 +726,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 22,
-    "trailerCount": 21,
-    "sourceCount": 21
+    "youtubeCount": 23,
+    "trailerCount": 22,
+    "sourceCount": 20
   }
 }
