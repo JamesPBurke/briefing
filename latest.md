@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-21T09:00:52.874931Z
+Generated: 2026-05-21T14:00:02.028549Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Tech / media. The strongest items in this run are Ex-DoJ prosecutor charged with sending sealed Jack Smith Trump report to personal email, Tennessee man jailed over Charlie Kirk post wins $835,000 settlement, and Podcast: Elites Just Don't Get AI.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Republicans could abandon $1bn proposal for Trump’s ballroom – US politics live, "Honestly difficult to imagine a path forward with it" - licensed Paranormal Activity horror game "technically done for good", says Mortuary Assistant creator, and Squabble over Disco Elysium's legacy continues as Hopetown studio recruit another ex-ZA/UM dev while dropping a new trailer on Zero Parades' release day.
 
 ## Briefing
 
@@ -13,86 +13,86 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. Ex-DoJ prosecutor charged with sending sealed Jack Smith Trump report to personal email [10/10]
+### 1. Republicans could abandon $1bn proposal for Trump’s ballroom – US politics live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Carmen Mercedes Lineberger accused of hiding files related to Trump documents investigation as bundt cake recipe A former Department of Justice prosecutor is facing felony charges after emailing herself a sealed Biden-era investigative…
+Republican senators have queried the timing and lack of detail in secret service bid to add money to the Department for Homeland security bill Sign up for the Breaking News US email The supreme court will hand down opinions at 10am ET…
 
-Link: https://www.theguardian.com/us-news/2026/may/20/doj-prosecutor-jack-smith-trump-report-email
+Link: https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates
 
-### 2. Tennessee man jailed over Charlie Kirk post wins $835,000 settlement [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 2. "Honestly difficult to imagine a path forward with it" - licensed Paranormal Activity horror game "technically done for good", says Mortuary Assistant creator [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Larry Bushart was jailed for 37 days over a Facebook post after the assassination of conservative activist Charlie Kirk Tennessee officials will pay $835,000 to settle a lawsuit filed by a man who was jailed for more than a month over a…
+The solo developer of horror hit The Mortuary Assistant has told Eurogamer that his officially licensed Paranormal Activity game, Paranormal Activity: Threshold, "is technically done for good". Read more
 
-Link: https://www.theguardian.com/us-news/2026/may/20/settlement-man-jailed-charlie-kirk-post
+Link: https://www.eurogamer.net/honestly-difficult-to-imagine-a-path-forward-with-it-licensed-paranormal-activity-horror-game-technically-done-for-good-says-mortuary-assistant-creator
 
-### 3. Podcast: Elites Just Don't Get AI [10/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
+### 3. Squabble over Disco Elysium's legacy continues as Hopetown studio recruit another ex-ZA/UM dev while dropping a new trailer on Zero Parades' release day [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Commencement speeches, poop images to train AI, and cameras stuck to preschool teachers also to train AI.
+Today, May 21st, marks the release of ZA/UM's Zero Parades , the studio's Disco Elysium follow-up arriving following years of drama and turmoil surrounding the original game and the people who made it.
 
-Link: https://www.404media.co/podcast-elites-just-dont-get-ai/
+Link: https://www.rockpapershotgun.com/squabble-over-disco-elysiums-legacy-continues-as-hopetown-studio-recruit-another-ex-zaum-dev-while-dropping-a-new-trailer-on-zero-parades-release-day
 
-### 4. Louis Vuitton revives Keith Haring collaboration at lavish New York show [9/10]
+### 4. Air France and Airbus guilty of corporate manslaughter for 2009 plane crash [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Nicolas Ghesquière’s latest collection pairs uptown elegance with downtown pop culture and street style The allure of travelling in style helped make Louis Vuitton the biggest luxury house in the world, and no expense was spared for a trip…
+Verdict is latest legal milestone over France’s worst ever air disaster A Paris appeals court has found Airbus and Air France guilty of corporate manslaughter over the 2009 Rio-Paris plane crash that killed 228 passengers and crew in…
 
-Link: https://www.theguardian.com/fashion/2026/may/21/louis-vuitton-keith-haring-collaboration-new-york-nicolas-ghesquiere
+Link: https://www.theguardian.com/world/2026/may/21/air-france-airbus-guilty-corporate-manslaughter-2009-plane-crash
 
-### 5. Masters of the Universe final trailer brings the '80s nostalgia [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-"You are he who will restore peace to Eternia."
-
-Link: https://arstechnica.com/culture/2026/05/masters-of-the-universe-final-trailer-brings-the-80s-nostalgia/
-
-### 6. A Rising Democratic Star Disappoints Teachers’ Unions in Virginia [9/10]
+### 5. Opinion: How Democrats Stopped Worrying and Learned to Love Teachers Unions [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Virginia Gov. Abigail Spanberger’s rejection of a new law expanding collective bargaining rights for teachers has led to a division in the state’s Democratic coalition.
+“It’s the teachers unions, stupid.” That line may sound like a crude throwback to James Carville’s famous Clinton-era mantra, but it captures a meaningful dilemma inside the Democratic Party’s current approach to education.
 
-Link: https://www.the74million.org/article/a-rising-democratic-star-disappoints-teachers-unions-in-virginia/
+Link: https://www.the74million.org/article/how-democrats-stopped-worrying-and-learned-to-love-teachers-unions/
 
-### 7. "We overlooked the potential offense and harm" - the studio behind popular multiplayer game Party Animals has now cancelled its AI video competition entirely [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 6. JPMorgan banker countersues accuser, says sexual assault 'lies' ruined her life [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Last week, Recreate Games apologised after an AI-generated video competition for its popular casual brawler Party Animals drew significant criticism from its community. Now, it's cancelled the competition entirely. Read more
+Investment banker Lorna Hajdini says ex-colleague Chirayu Rana’s ‘malicious’ allegations ‘wreaked havoc’ The JPMorgan Chase investment banker accused of sexual assault in an explosive lawsuit that went viral countersued her accuser, saying…
 
-Link: https://www.eurogamer.net/party-animals-ai-video-contest-cancelled
+Link: https://www.theguardian.com/us-news/2026/may/21/jpmorgan-banker-countersue-sexual-assault-accuser
 
-### 8. Sourdough schedule: How to plan your bread baking timeline: A tactical guide to managing your sourdough baking (while still having a life). [9/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-Of all the questions we get about sourdough baking ( and we get a lot ), the most common ones usually revolve around starter: how to make it , how to feed it , and how to know when it’s ripe and ready to be used for baking.
-
-Link: https://www.kingarthurbaking.com/blog/2026/05/20/sourdough-starter-feeding-schedule
-
-### 9. Opinion: Decoding Is Not Enough: Connecting Word Reading to Meaning in Early Literacy [9/10]
-**Source:** The 74  
+### 7. Finding Emily review – warm-hearted gen Z campus romcom is impossible to hate [10/10]
+**Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Walk into an early elementary classroom these days and you’ll likely see strong phonics instruction in action: students tapping out sounds on their fingers; reading long –ai words like rain, bait, and sail; and writing these new spelling…
+A Mancunian singer-songwriter becomes a viral divisive figure while trying to track down a girl called Emily Last week came the news that gen Z are big fans of going to the cinema.
 
-Link: https://www.the74million.org/article/decoding-is-not-enough-connecting-word-reading-to-meaning-in-early-literacy/
+Link: https://www.theguardian.com/film/2026/may/21/finding-emily-review-gen-z-campus-romcom-is-impossible-to-hate
+
+### 8. The Download: online safety’s future and climate tech’s big pivot [9/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/
+
+### 9. This Archivist Has Saved 175,000 Articles from 30 Years of Writing about Magic: The Gathering [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+The Library of Leng contains old usenet posts and forgotten articles from Magic: the Gathering's long history.
+
+Link: https://www.404media.co/this-archivist-has-saved-175-000-articles-from-30-years-of-writing-about-magic-the-gathering/
 
 ### 10. Ebola fears surge on the ground in Congo over rapid spread of a rare type [8/10]
 **Source:** NPR Health  
@@ -132,15 +132,6 @@ Link: https://reactormag.com/official-final-masters-of-the-universe-trailer/
 
 ## YouTube
 
-### Why Multi-Threaded Code Can Sometimes Misbehave (Weak Memory Concurrency) - Computerphile [6/10]
-**Creator:** Computerphile  
-**Verdict:** Summary is enough  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Learn more and apply to Jane Street’s WiSE program in New York, London or Hong Kong: https://jane-st.co/Computerphile-WiSE-2026 (episode sponsor) Professor Azalea Raad leads the Veritas Lab at Imperial College London...
-
-Link: https://www.youtube.com/watch?v=E3hvLz717zM
-
 ### Hardware Architect Answers Microchip Questions | Tech Support | WIRED [8/10]
 **Creator:** WIRED  
 **Verdict:** Worth watching  
@@ -159,9 +150,36 @@ Your daily coffee might be doing more than waking you up. A new study published 
 
 Link: https://www.youtube.com/watch?v=plX4uNLRUOI
 
-### Is it legal in China to replace a tech worker with AI? [8/10]
+### Chile peppers are a key crop for Indian women farmers [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Chile peppers are a traditional part of Indian cuisine — and a key crop for women farmers. They say it's too demanding for men. "In spite of the challenges," says one, "we've found freedom.
+
+Link: https://www.youtube.com/watch?v=Yz3pwOEuTGs
+
+### How did Uyghurs become the largest contingent of foreign fighters in Syria? [8/10]
 **Creator:** NPR  
 **Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+How did Uyghurs, an ethnic minority long-persecuted in China, eventually become the largest contingent of foreign fighters in Syria? In the rebel-held north, they rapidly established themselves as highly-disciplined and brutally effective…
+
+Link: https://www.youtube.com/watch?v=12tc_yfuvMA
+
+### 'India's Singapore' threatens the Great Nicobar island's fragile ecosystem [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The lush Great Nicobar island lies at the southern end of the Andaman and Nicobar Island chain. It is home to hundreds of rare and exotic plants and animals, and the Shompen, among the last isolated hunter-gatherer communities in the world.
+
+Link: https://www.youtube.com/watch?v=TWIR7xlrrag
+
+### Is it legal in China to replace a tech worker with AI? [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 A tech worker in China is laid off and replaced by AI. Is it legal? An appeals court in eastern China’s Hangzhou city ruled the dismissal unlawful. Legal scholars say this decision is a win for workers’ rights.
@@ -185,33 +203,6 @@ Link: https://www.youtube.com/watch?v=gnTk3WwHr_4
 San Diego authorities say three victims from Monday’s shooting attack on the Islamic Center of San Diego died as they protected 140 children. Mansour Kaziha, 78, Nader Awad, 57, and Amin Abdullah, 51, died trying to stop the gunmen.
 
 Link: https://www.youtube.com/watch?v=sPLMoCLDCcQ
-
-### Trump administration making it harder to fight wildfires [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The Trump administration is making it harder to use one of the best tools to protect people against large wildfires — even though experts say this wildfire season could be catastrophic because of record heat and drought.
-
-Link: https://www.youtube.com/watch?v=tE2WomFcYQA
-
-### Your dreams may be decided by certain traits | Short Wave [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Your dreams may be decided by certain traits — even if you don't remember them.
-
-Link: https://www.youtube.com/watch?v=LxPvNiC0A08
-
-### Dirty nickel: The cost of mining in Indonesia [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-Indonesia now produces more than half the world’s nickel supply.
-
-Link: https://www.youtube.com/watch?v=jmWOFEGkAlU
 
 ### 007 First Light Will Ship With 60FPS Support At Launch [7/10]
 **Creator:** Digital Foundry  
@@ -267,18 +258,18 @@ Link: https://www.youtube.com/watch?v=hEjU3logvo4
 
 Link: https://www.youtube.com/watch?v=IfM8UdlCz2w
 
-### Dusting Off Our Rumble Paks in Star Fox 64 w/ KC and Marty [7/10]
+### Dusting Off Our Rumble Paks in Star Fox 64 w/ KC and Marty [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 NOTE: Nintendo hit us with a strike for showing the Star Fox Direct during our original Star Fox stream, but you can find the VOD here -- https://youtu.
 
 Link: https://www.youtube.com/watch?v=HQ5SnhjnQU8
 
-### Yahtzee Tries... Thick as Thieves and Subnautica 2 [8/10]
+### Yahtzee Tries... Thick as Thieves and Subnautica 2 [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.com/ember This week on Yahtzee Tries...
@@ -377,24 +368,6 @@ If you ain't first, you're last. 🏁 Ricky Bobby returns to the big screen. #Ta
 
 Link: https://www.youtube.com/watch?v=A0fgugC7ZCo
 
-### Resident Evil – Official Teaser Trailer. From Zach Cregger, director of Weapons and Barbarian. [8/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. #ResidentEvil
-
-Link: https://www.youtube.com/watch?v=oBWrb8HTU44
-
-### RESIDENT EVIL – Official Teaser Trailer (4K) [8/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-𝙰 𝚗𝚎𝚠 𝚎𝚛𝚊 𝚘𝚏 𝚎𝚟𝚒𝚕. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the new teaser trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. https://www.instagram.com/residentevil/ https://twitter.
-
-Link: https://www.youtube.com/watch?v=SJPu1spHqfk
-
 ### The Death of Robin Hood | Official First Look | A24 [6/10]
 **Source:** A24  
 **Verdict:** Optional  
@@ -448,6 +421,24 @@ Link: https://www.youtube.com/watch?v=LSwkCskbvzQ
 Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.
 
 Link: https://www.youtube.com/watch?v=sEz074LTiV8
+
+### Avatar: The Last Airbender: Season 2 | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Ready to rumble. Avatar: The Last Airbender Season 2 premieres on June 25, 2026 only on Netflix. Watch Avatar: The Last Airbender, only on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=M_Las484swM
+
+### Avatar: The Last Airbender: Season 2 | Audio Described Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Ready to rumble. Avatar: The Last Airbender Season 2 premieres on June 25, 2026 only on Netflix. Watch Avatar: The Last Airbender, only on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=PJtfS84s8Bs
 
 ### 7 days A Good Girl's Guide to Murder: Season 2 [10/10]
 **Source:** Netflix  
@@ -547,24 +538,6 @@ Link: https://www.youtube.com/watch?v=BVgAS9bkfCg
 About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
 
 Link: https://www.youtube.com/watch?v=fBQg90ZzMFI
-
-### MIKE PERRY DEFEATS NATE DIAZ IN THE 2ND ROUND #RouseyCarano [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-#netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
-
-Link: https://www.youtube.com/watch?v=WTpU1D6P8Gk
-
-### FRANCIS NGANNOU KO IN ROUND 1 #RouseyCarano [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-#netflix About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
-
-Link: https://www.youtube.com/watch?v=LbPf9ACTz7g
 
 ### Frog and Toad — Too Many Cookies | Season 1 Scene | Apple TV [8/10]
 **Source:** Apple TV  
