@@ -1,59 +1,99 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-22T09:01:52.900368Z",
-  "generatedAtDisplay": "2026-05-22 05:01 AM EDT",
+  "generatedAt": "2026-05-22T14:00:01.244388Z",
+  "generatedAtDisplay": "2026-05-22 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / privacy, Democracy / press freedom, Games / criticism. The strongest items in this run are \"It emulates and it replicates, but it doesn't innovate\" - Troy Baker isn't afraid of 'AI art', because he doesn't believe it can ever actually exist, Trump’s new ‘slush fund’ for his pals | Politics Weekly America, and Escape of big cat belonging to Germany’s ‘Tiger Queen’ shatters peace of small town.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are Trump’s ‘disappointment’ with Nato lays groundwork for ‘one of the most important’ summits ever, Rubio says – Europe live, Pressure mounts on Democratic national committee chair over delayed 2024 election autopsy report – US politics live, and Florida biologist fired over Charlie Kirk post wins $485,000 settlement.",
   "mainItems": [
     {
-      "title": "\"It emulates and it replicates, but it doesn't innovate\" - Troy Baker isn't afraid of 'AI art', because he doesn't believe it can ever actually exist",
-      "source": "Eurogamer",
+      "title": "Trump’s ‘disappointment’ with Nato lays groundwork for ‘one of the most important’ summits ever, Rubio says – Europe live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/live/2026/may/22/nato-mark-rutte-us-donald-trump-troops-poland-summit-russia-baltics-drones-tensions-ukraine-latest-news-updates",
+      "published": "2026-05-22T13:45:08+00:00",
+      "summary": "The US secretary of state said that leaders will have to respond to Trump’s ‘disappointment’ with the alliance’s ‘response to our operations in the Middle East’ Rubio begins with thanks to Sweden for hosting the ministerial meeting.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Pressure mounts on Democratic national committee chair over delayed 2024 election autopsy report – US politics live",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/22/donald-trump-ai-china-iran-war-powers-hormuz-latest-news-updates",
+      "published": "2026-05-22T13:41:28+00:00",
+      "summary": "Ken Martin faces calls to resign as botched handling of postmortem of 2024 race calls leadership into question What’s in the Democrats’ 2024 election autopsy report, and what isn’t Sign up for the Breaking News US email Rubio also gets…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Florida biologist fired over Charlie Kirk post wins $485,000 settlement",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/may/22/florida-biologist-fired-charlie-kirk-post-wins-settlement",
+      "published": "2026-05-22T13:10:58+00:00",
+      "summary": "Biologist was fired by a state agency for criticizing Charlie Kirk on social media after his shooting death Florida officials have agreed to pay nearly half a million dollars to a biologist who was fired by a state agency for criticizing…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "\"You build a little squad of allied characters\": Warhammer Survivors spin on bullet heaven brings a lovely touch of chaos to the battlefield",
+      "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/troy-baker-ai-art-doesnt-innovate-interview",
-      "published": "2026-05-22T09:00:00+00:00",
-      "summary": "Troy Baker is one of the most well known actors in video games, with credits ranging from Batman's Joker to The Last of Us' Joel, and many more in between.",
+      "url": "https://www.rockpapershotgun.com/you-build-a-little-squad-of-allied-characters-warhammer-survivors-spin-on-bullet-heaven-brings-a-lovely-touch-of-chaos-to-the-battlefield",
+      "published": "2026-05-22T12:41:53+00:00",
+      "summary": "Bullet heaven games can already be fairly chaotic.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Trump’s new ‘slush fund’ for his pals | Politics Weekly America",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/politics/video/2026/may/22/trump-anti-weaponisation-slush-fund-for-pals-irs-corruption-politics-weekly-america",
-      "published": "2026-05-22T07:00:53+00:00",
-      "summary": "This week, Donald Trump dropped a personal $10bn lawsuit he had against the Internal Revenue Service in exchange for a so-called anti-weaponisation fund. The $1.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Escape of big cat belonging to Germany’s ‘Tiger Queen’ shatters peace of small town",
+      "title": "Flotilla video: Ben-Gvir’s template of televised abuse was honed on Palestinians",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/may/22/tiger-escape-germany-tiger-queen-keeper-injured",
-      "published": "2026-05-22T06:00:52+00:00",
-      "summary": "Gardeners tending to allotments were terrified to see animal roaming wild after mauling one of its keepers – but critics have long been concerned A tiger on the loose among garden allotments.",
+      "url": "https://www.theguardian.com/world/2026/may/22/flotilla-video-ben-gvir-template-televised-abuse-honed-palestinians",
+      "published": "2026-05-22T12:16:03+00:00",
+      "summary": "Targeting of foreign activists drew global outrage from governments that have not acted on violence against Palestinian detainees Israel’s far-right national security minister, Itamar Ben-Gvir, has made abuse of detained Palestinians…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Police appeal for information about alleged sexual misconduct in Andrew investigation",
+      "title": "San Diego’s Muslim community picks up the pieces after mass shooting: ‘We’re just your neighbors’",
       "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/may/22/islamic-center-of-san-diego-shooting-aftermath",
+      "published": "2026-05-22T12:00:02+00:00",
+      "summary": "The Islamic Center of San Diego, rocked by tragedy, opens its doors again to support its congregants and welcome outsiders Teacher’s assistant Iman Khatib was administering tests at the elementary school inside the Islamic Center of San…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Microsoft’s consumer marketing chief to leave next year",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/uk-news/2026/may/22/police-appeal-witnesses-andrew-mountbatten-windsor-investigation",
-      "published": "2026-05-22T05:00:52+00:00",
-      "summary": "Thames Valley police believe more witnesses may be out there in inquiry into alleged misconduct in public office by former prince Police investigating Andrew Mountbatten-Windsor want witnesses to contact them if they believe they have…",
+      "url": "https://www.theverge.com/news/935982/microsoft-yusuf-mehdi-leaving",
+      "published": "2026-05-22T11:19:01+00:00",
+      "summary": "Yusuf Mehdi, executive vice president and consumer chief marketing officer at Microsoft, is leaving the company after 35 years. Mehdi announced his departure in an internal memo on Thursday, noting that he will leave Microsoft next year.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Trump’s new ‘slush fund’ for his pals – podcast",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/politics/audio/2026/may/22/trumps-new-slush-fund-for-his-pals-podcast",
-      "published": "2026-05-22T04:00:50+00:00",
-      "summary": "This week, Donald Trump dropped a personal $10bn lawsuit he had against the Internal Revenue Service in exchange for a so-called anti-weaponisation fund. The $1.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "title": "Opinion: When New York Regents Exams End, Arts Classes Will Be More Important Than Ever",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/when-new-york-regents-exams-end-arts-classes-will-be-more-important-than-ever/",
+      "published": "2026-05-22T10:30:00+00:00",
+      "summary": "Across New York, students are preparing for Regents exams, tests that have defined what it means to graduate from high school since the 1800s.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Price rises? What price rises? Nintendo reportedly ramping up Switch 2 production, aiming to produce 20 million consoles by March 2027",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/switch-2-production-ramps-up-march-2027",
+      "published": "2026-05-22T10:11:46+00:00",
+      "summary": "Nintendo is looking to produce a frankly eye-watering 20m Switch 2 units by the end of the current fiscal year (March 2027), per a report from Bloomberg . Read more",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -67,42 +107,12 @@
       "score": 10
     },
     {
-      "title": "In desperate times, graduates find hope in humiliating tech CEOs",
-      "source": "The Verge",
-      "category": "CS education / AI policy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
-      "published": "2026-05-21T20:00:06+00:00",
-      "summary": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives themselves.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Louisiana Gov. Landry Declares Other Government Raises Off-Limits After Teacher Pay Amendment Fails",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/louisiana-gov-landry-declares-other-government-raises-off-limits-after-teacher-pay-amendment-fails/",
-      "published": "2026-05-21T18:30:00+00:00",
-      "summary": "Gov.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "English Heritage unveils recreation of 4,500-year-old Neolithic hall near Stonehenge",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/uk-news/2026/may/22/english-heritage-neolithic-kusuma-hall-stonehenge",
-      "published": "2026-05-22T07:00:54+00:00",
-      "summary": "The Kusuma Neolithic Hall, based on Durrington 68 site, will allow visitors to ‘step back in time’ into the lives of those who built the stone circle It may have been a place for ceremony or a barn for pack animals.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
-      "title": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine",
+      "title": "'We'll never know if he could have been saved.' The gaps in Trump's rural health fund",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/21/nx-s1-5827015/american-passenger-order-hantavirus-quarantine",
-      "published": "2026-05-21T20:19:09+00:00",
-      "summary": "Two passengers from the cruise ship that had a hantavirus outbreak were blocked by the federal government from leaving the quarantine unit. One says she is being detained against her will.",
+      "url": "https://www.npr.org/2026/05/22/nx-s1-5821038/rural-health-hospitals-50-billion-big-beautiful-bill-obbba",
+      "published": "2026-05-22T09:00:00+00:00",
+      "summary": "Republicans promise that $50 billion in new health funding will help rural America. But it's not expected to aid the years-long effort in North Carolina's Martin County to reopen its only hospital.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -125,16 +135,6 @@
       "summary": "A Merchant Ivory film this is not The post Maika Monroe Has Big Questions About Evil in Victorian Psycho Trailer appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
-    },
-    {
-      "title": "This Archivist Has Saved 175,000 Articles from 30 Years of Writing about Magic: The Gathering",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/this-archivist-has-saved-175-000-articles-from-30-years-of-writing-about-magic-the-gathering/",
-      "published": "2026-05-21T13:08:47+00:00",
-      "summary": "The Library of Leng contains old usenet posts and forgotten articles from Magic: the Gathering's long history.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
     }
   ],
   "youtube": [
@@ -146,8 +146,8 @@
       "published": "2026-05-22T00:47:58+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://github.com/ailuntx/Thinking-with-Visual-Primitives https://huggingface.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Hardware Architect Answers Microchip Questions | Tech Support | WIRED",
@@ -161,6 +161,17 @@
       "verdict": "Worth watching"
     },
     {
+      "title": "Some still online as Iran's historic internet blackout drags on",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=YlIodHGKBf8",
+      "published": "2026-05-22T11:30:32+00:00",
+      "summary": "Iran's internet blackout is now the longest and most severe ever recorded in any country. Iran's government plunged its population into digital darkness 70 days ago after the U.S. and Israel launched a war against it.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "London turns to beavers for flood-control",
       "source": "NPR",
       "category": "News / analysis",
@@ -168,8 +179,8 @@
       "published": "2026-05-21T22:00:25+00:00",
       "summary": "London is famous for drizzle. But climate change is making the rain heavier and more erratic. In response, the city has turned to an unlikely flood-control expert: beavers.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Trump counterterror plan: cartels, left-wing violence / San Diego and the far right",
@@ -238,17 +249,6 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "How did Uyghurs become the largest contingent of foreign fighters in Syria?",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=12tc_yfuvMA",
-      "published": "2026-05-21T11:00:02+00:00",
-      "summary": "How did Uyghurs, an ethnic minority long-persecuted in China, eventually become the largest contingent of foreign fighters in Syria? In the rebel-held north, they rapidly established themselves as highly-disciplined and brutally effective…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
       "title": "Should Sony Bring \"Quick Resume\" To PlayStation 6?",
       "source": "Digital Foundry",
       "category": "Games / hardware",
@@ -315,6 +315,17 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "Astral Marmot and Jesse Galena Answer Your TTRPG Questions | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=54OsAXDnLqQ",
+      "published": "2026-05-22T10:00:33+00:00",
+      "summary": "Jesse Galena and Astral Marmot are now happily taking any and all of your TTRPG questions. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Dark Souls 2 DLC Season w/ Jack and Jess -- Part 9",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -335,17 +346,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9,
       "verdict": "Watch it"
-    },
-    {
-      "title": "Astral Marmot and Jesse Galena Answer Your TTRPG Questions | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=54OsAXDnLqQ",
-      "published": "2026-05-21T18:31:58+00:00",
-      "summary": "Jesse Galena and Astral Marmot are now happily taking any and all of your TTRPG questions. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     },
     {
       "title": "Dark Souls 2 DLC Season w/ Jack and Jess -- Part 8",
@@ -500,6 +500,17 @@
       "published": "2026-05-20T16:30:28+00:00",
       "summary": "Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tip for meeting the boss, don't make it weird. Office Romance premieres June 5th #Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=_l1vDm14sLQ",
+      "published": "2026-05-22T13:00:36+00:00",
+      "summary": "Time to meet the boss, don't make it weird. Brett Goldstein, Jennifer Lopez and Betty Gilpin star in Office Romance premiering June 5. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
     },
@@ -738,7 +749,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 24,
-    "trailerCount": 22,
+    "trailerCount": 23,
     "sourceCount": 21
   }
 }

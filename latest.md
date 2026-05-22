@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-22T09:01:52.900368Z
+Generated: 2026-05-22T14:00:01.244388Z
 
-Today's sweep leans toward AI / privacy, Democracy / press freedom, Games / criticism. The strongest items in this run are "It emulates and it replicates, but it doesn't innovate" - Troy Baker isn't afraid of 'AI art', because he doesn't believe it can ever actually exist, Trump’s new ‘slush fund’ for his pals | Politics Weekly America, and Escape of big cat belonging to Germany’s ‘Tiger Queen’ shatters peace of small town.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are Trump’s ‘disappointment’ with Nato lays groundwork for ‘one of the most important’ summits ever, Rubio says – Europe live, Pressure mounts on Democratic national committee chair over delayed 2024 election autopsy report – US politics live, and Florida biologist fired over Charlie Kirk post wins $485,000 settlement.
 
 ## Briefing
 
@@ -18,52 +18,88 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. "It emulates and it replicates, but it doesn't innovate" - Troy Baker isn't afraid of 'AI art', because he doesn't believe it can ever actually exist [10/10]
-**Source:** Eurogamer  
+### 1. Trump’s ‘disappointment’ with Nato lays groundwork for ‘one of the most important’ summits ever, Rubio says – Europe live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The US secretary of state said that leaders will have to respond to Trump’s ‘disappointment’ with the alliance’s ‘response to our operations in the Middle East’ Rubio begins with thanks to Sweden for hosting the ministerial meeting.
+
+Link: https://www.theguardian.com/world/live/2026/may/22/nato-mark-rutte-us-donald-trump-troops-poland-summit-russia-baltics-drones-tensions-ukraine-latest-news-updates
+
+### 2. Pressure mounts on Democratic national committee chair over delayed 2024 election autopsy report – US politics live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Ken Martin faces calls to resign as botched handling of postmortem of 2024 race calls leadership into question What’s in the Democrats’ 2024 election autopsy report, and what isn’t Sign up for the Breaking News US email Rubio also gets…
+
+Link: https://www.theguardian.com/us-news/live/2026/may/22/donald-trump-ai-china-iran-war-powers-hormuz-latest-news-updates
+
+### 3. Florida biologist fired over Charlie Kirk post wins $485,000 settlement [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Biologist was fired by a state agency for criticizing Charlie Kirk on social media after his shooting death Florida officials have agreed to pay nearly half a million dollars to a biologist who was fired by a state agency for criticizing…
+
+Link: https://www.theguardian.com/us-news/2026/may/22/florida-biologist-fired-charlie-kirk-post-wins-settlement
+
+### 4. "You build a little squad of allied characters": Warhammer Survivors spin on bullet heaven brings a lovely touch of chaos to the battlefield [10/10]
+**Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Troy Baker is one of the most well known actors in video games, with credits ranging from Batman's Joker to The Last of Us' Joel, and many more in between.
+Bullet heaven games can already be fairly chaotic.
 
-Link: https://www.eurogamer.net/troy-baker-ai-art-doesnt-innovate-interview
+Link: https://www.rockpapershotgun.com/you-build-a-little-squad-of-allied-characters-warhammer-survivors-spin-on-bullet-heaven-brings-a-lovely-touch-of-chaos-to-the-battlefield
 
-### 2. Trump’s new ‘slush fund’ for his pals | Politics Weekly America [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-This week, Donald Trump dropped a personal $10bn lawsuit he had against the Internal Revenue Service in exchange for a so-called anti-weaponisation fund. The $1.
-
-Link: https://www.theguardian.com/politics/video/2026/may/22/trump-anti-weaponisation-slush-fund-for-pals-irs-corruption-politics-weekly-america
-
-### 3. Escape of big cat belonging to Germany’s ‘Tiger Queen’ shatters peace of small town [10/10]
+### 5. Flotilla video: Ben-Gvir’s template of televised abuse was honed on Palestinians [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Gardeners tending to allotments were terrified to see animal roaming wild after mauling one of its keepers – but critics have long been concerned A tiger on the loose among garden allotments.
+Targeting of foreign activists drew global outrage from governments that have not acted on violence against Palestinian detainees Israel’s far-right national security minister, Itamar Ben-Gvir, has made abuse of detained Palestinians…
 
-Link: https://www.theguardian.com/world/2026/may/22/tiger-escape-germany-tiger-queen-keeper-injured
+Link: https://www.theguardian.com/world/2026/may/22/flotilla-video-ben-gvir-template-televised-abuse-honed-palestinians
 
-### 4. Police appeal for information about alleged sexual misconduct in Andrew investigation [10/10]
+### 6. San Diego’s Muslim community picks up the pieces after mass shooting: ‘We’re just your neighbors’ [10/10]
 **Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The Islamic Center of San Diego, rocked by tragedy, opens its doors again to support its congregants and welcome outsiders Teacher’s assistant Iman Khatib was administering tests at the elementary school inside the Islamic Center of San…
+
+Link: https://www.theguardian.com/us-news/2026/may/22/islamic-center-of-san-diego-shooting-aftermath
+
+### 7. Microsoft’s consumer marketing chief to leave next year [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Thames Valley police believe more witnesses may be out there in inquiry into alleged misconduct in public office by former prince Police investigating Andrew Mountbatten-Windsor want witnesses to contact them if they believe they have…
+Yusuf Mehdi, executive vice president and consumer chief marketing officer at Microsoft, is leaving the company after 35 years. Mehdi announced his departure in an internal memo on Thursday, noting that he will leave Microsoft next year.
 
-Link: https://www.theguardian.com/uk-news/2026/may/22/police-appeal-witnesses-andrew-mountbatten-windsor-investigation
+Link: https://www.theverge.com/news/935982/microsoft-yusuf-mehdi-leaving
 
-### 5. Trump’s new ‘slush fund’ for his pals – podcast [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 8. Opinion: When New York Regents Exams End, Arts Classes Will Be More Important Than Ever [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-This week, Donald Trump dropped a personal $10bn lawsuit he had against the Internal Revenue Service in exchange for a so-called anti-weaponisation fund. The $1.
+Across New York, students are preparing for Regents exams, tests that have defined what it means to graduate from high school since the 1800s.
 
-Link: https://www.theguardian.com/politics/audio/2026/may/22/trumps-new-slush-fund-for-his-pals-podcast
+Link: https://www.the74million.org/article/when-new-york-regents-exams-end-arts-classes-will-be-more-important-than-ever/
 
-### 6. Roundtables: Can AI Learn to Understand the World? [10/10]
+### 9. Price rises? What price rises? Nintendo reportedly ramping up Switch 2 production, aiming to produce 20 million consoles by March 2027 [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Nintendo is looking to produce a frankly eye-watering 20m Switch 2 units by the end of the current fiscal year (March 2027), per a report from Bloomberg . Read more
+
+Link: https://www.eurogamer.net/switch-2-production-ramps-up-march-2027
+
+### 10. Roundtables: Can AI Learn to Understand the World? [10/10]
 **Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -72,43 +108,16 @@ Listen to the session or watch below AI companies want to build systems that und
 
 Link: https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/
 
-### 7. In desperate times, graduates find hope in humiliating tech CEOs [10/10]
-**Source:** The Verge  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives themselves.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos
-
-### 8. Louisiana Gov. Landry Declares Other Government Raises Off-Limits After Teacher Pay Amendment Fails [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Gov.
-
-Link: https://www.the74million.org/article/louisiana-gov-landry-declares-other-government-raises-off-limits-after-teacher-pay-amendment-fails/
-
-### 9. English Heritage unveils recreation of 4,500-year-old Neolithic hall near Stonehenge [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The Kusuma Neolithic Hall, based on Durrington 68 site, will allow visitors to ‘step back in time’ into the lives of those who built the stone circle It may have been a place for ceremony or a barn for pack animals.
-
-Link: https://www.theguardian.com/uk-news/2026/may/22/english-heritage-neolithic-kusuma-hall-stonehenge
-
-### 10. American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine [8/10]
+### 11. 'We'll never know if he could have been saved.' The gaps in Trump's rural health fund [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Two passengers from the cruise ship that had a hantavirus outbreak were blocked by the federal government from leaving the quarantine unit. One says she is being detained against her will.
+Republicans promise that $50 billion in new health funding will help rural America. But it's not expected to aid the years-long effort in North Carolina's Martin County to reopen its only hospital.
 
-Link: https://www.npr.org/2026/05/21/nx-s1-5827015/american-passenger-order-hantavirus-quarantine
+Link: https://www.npr.org/2026/05/22/nx-s1-5821038/rural-health-hospitals-50-billion-big-beautiful-bill-obbba
 
-### 11. A trillion dollar question: Will SpaceX's Starship launch go well? [8/10]
+### 12. A trillion dollar question: Will SpaceX's Starship launch go well? [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -117,7 +126,7 @@ Ahead of a much anticipated IPO, SpaceX is carrying out a critical test of its g
 
 Link: https://www.npr.org/2026/05/21/nx-s1-5823583/spacex-starship-musk-ipo
 
-### 12. Maika Monroe Has Big Questions About Evil in Victorian Psycho Trailer [8/10]
+### 13. Maika Monroe Has Big Questions About Evil in Victorian Psycho Trailer [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -126,20 +135,11 @@ A Merchant Ivory film this is not The post Maika Monroe Has Big Questions About 
 
 Link: https://reactormag.com/maika-monroe-victorian-psycho-trailer/
 
-### 13. This Archivist Has Saved 175,000 Articles from 30 Years of Writing about Magic: The Gathering [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-The Library of Leng contains old usenet posts and forgotten articles from Magic: the Gathering's long history.
-
-Link: https://www.404media.co/this-archivist-has-saved-175-000-articles-from-30-years-of-writing-about-magic-the-gathering/
-
 ## YouTube
 
-### DeepSeek’s New AI Is A Game Changer [9/10]
+### DeepSeek’s New AI Is A Game Changer [8/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://github.com/ailuntx/Thinking-with-Visual-Primitives https://huggingface.
@@ -155,9 +155,18 @@ IBM Fellow and Chief Technology Officer of Systems Development Christian Jacobi 
 
 Link: https://www.youtube.com/watch?v=83F1GSUsmzo
 
-### London turns to beavers for flood-control [8/10]
+### Some still online as Iran's historic internet blackout drags on [8/10]
 **Creator:** NPR  
 **Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Iran's internet blackout is now the longest and most severe ever recorded in any country. Iran's government plunged its population into digital darkness 70 days ago after the U.S. and Israel launched a war against it.
+
+Link: https://www.youtube.com/watch?v=YlIodHGKBf8
+
+### London turns to beavers for flood-control [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 London is famous for drizzle. But climate change is making the rain heavier and more erratic. In response, the city has turned to an unlikely flood-control expert: beavers.
@@ -218,15 +227,6 @@ Chile peppers are a traditional part of Indian cuisine — and a key crop for wo
 
 Link: https://www.youtube.com/watch?v=Yz3pwOEuTGs
 
-### How did Uyghurs become the largest contingent of foreign fighters in Syria? [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-How did Uyghurs, an ethnic minority long-persecuted in China, eventually become the largest contingent of foreign fighters in Syria? In the rebel-held north, they rapidly established themselves as highly-disciplined and brutally effective…
-
-Link: https://www.youtube.com/watch?v=12tc_yfuvMA
-
 ### Should Sony Bring "Quick Resume" To PlayStation 6? [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
@@ -281,6 +281,15 @@ Link: https://www.youtube.com/watch?v=23uBXKwwrPk
 
 Link: https://www.youtube.com/watch?v=8YJfcfqYKTE
 
+### Astral Marmot and Jesse Galena Answer Your TTRPG Questions | RPG Help Desk [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Jesse Galena and Astral Marmot are now happily taking any and all of your TTRPG questions. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=54OsAXDnLqQ
+
 ### Dark Souls 2 DLC Season w/ Jack and Jess -- Part 9 [7/10]
 **Creator:** Second Wind  
 **Verdict:** Probably worth watching  
@@ -298,15 +307,6 @@ Link: https://www.youtube.com/watch?v=ufmRGqHuMKY
 This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.
 
 Link: https://www.youtube.com/watch?v=UHpjYkdj2sg
-
-### Astral Marmot and Jesse Galena Answer Your TTRPG Questions | RPG Help Desk [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Jesse Galena and Astral Marmot are now happily taking any and all of your TTRPG questions. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=54OsAXDnLqQ
 
 ### Dark Souls 2 DLC Season w/ Jack and Jess -- Part 8 [6/10]
 **Creator:** Second Wind  
@@ -462,6 +462,15 @@ Link: https://www.youtube.com/watch?v=LSwkCskbvzQ
 Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.
 
 Link: https://www.youtube.com/watch?v=sEz074LTiV8
+
+### Tip for meeting the boss, don't make it weird. Office Romance premieres June 5th #Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Time to meet the boss, don't make it weird. Brett Goldstein, Jennifer Lopez and Betty Gilpin star in Office Romance premiering June 5. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=_l1vDm14sLQ
 
 ### See U in Hell | Devil May Cry: Season 2 | Official Video | Netflix [10/10]
 **Source:** Netflix  
