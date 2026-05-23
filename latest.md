@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-23T09:01:00.956484Z
+Generated: 2026-05-23T14:00:01.810941Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are ‘I thought I was the saviour of the planet’: how Game of Thrones’ Hannah Murray found a wellness cult – and lost her mind, The pothole puzzle: the bumpy ride to fixing Britain’s broken roads, and Google’s AI search is so broken it can ‘disregard’ what you’re looking for.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are ‘You can’t control everything’: the rise in plastic surgeons asked to create ‘AI face’, ‘Canada is handing people over to ICE’: refugees rejected at border face US detention, and Board of Peace focus on Hamas risks return to war in Gaza, critics say.
 
 ## Briefing
 
@@ -18,61 +18,52 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. ‘I thought I was the saviour of the planet’: how Game of Thrones’ Hannah Murray found a wellness cult – and lost her mind [10/10]
+### 1. ‘You can’t control everything’: the rise in plastic surgeons asked to create ‘AI face’ [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-She landed a role in hit TV show Skins at 17 and went on to star in the fantasy epic. Then she was drawn towards a mysterious spiritual community. How did she end up being sectioned? • ‘This is a test.
+Growing numbers of people are seeking improbable cosmetic surgery based on chatbots’ recommendations Plastic surgeons are increasingly concerned about the rise of “AI face”, as more and more clients arrive in their offices with unrealistic…
 
-Link: https://www.theguardian.com/film/2026/may/23/hannah-murray-interview-wellness-cult-sectioned
+Link: https://www.theguardian.com/technology/2026/may/23/rise-in-plastic-surgeons-asked-to-create-ai-face-cosmetic-surgery
 
-### 2. The pothole puzzle: the bumpy ride to fixing Britain’s broken roads [10/10]
+### 2. ‘Canada is handing people over to ICE’: refugees rejected at border face US detention [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Councils fix a pothole every 17 seconds – but getting on top of the repair backlog would cost £18.6bn.
+As Canada tightens asylum rules, refugees reuniting with family say they were turned over to ICE and jailed for months after failed border claims As each day in US detention passes, Markens Appolon can feel the life he had dreamed of…
 
-Link: https://www.theguardian.com/news/ng-interactive/2026/may/23/politics-potholes-bristol-britain-no-quick-fix
+Link: https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention
 
-### 3. Google’s AI search is so broken it can ‘disregard’ what you’re looking for [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Google's AI Overviews are running into an interesting problem right now.
-
-Link: https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard
-
-### 4. First-generation Chromecast users stressed by devices suddenly failing [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Google tells Ars it fixed the first-gen Chromecast bug.
-
-Link: https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/
-
-### 5. Mahmoud Khalil’s attorneys to turn to US supreme court after ruling paves way for deportation [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Move comes after federal appeals court upholds ruling that opens door for government to detain and deport Khalil Attorneys for Mahmoud Khalil , the former Columbia University student who last year became the face of the Trump…
-
-Link: https://www.theguardian.com/us-news/2026/may/22/mahmoud-khalil-supreme-court-appeal-deportation
-
-### 6. ‘This is his legacy’: Marco Rubio nears goal of toppling Cuba’s government [10/10]
+### 3. Board of Peace focus on Hamas risks return to war in Gaza, critics say [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-US secretary of state’s campaign of ‘maximum pressure’ is culmination of a personal pursuit spanning decades • Cubans outraged at US charges against Raúl Castro Marco Rubio’s moment has finally arrived.
+US-backed board has put sole blame for stalled ceasefire on militant group despite Israel not fulfilling its obligations, analysts say The top diplomat from the Board of Peace has blamed Hamas for the stalled ceasefire , but critics have…
 
-Link: https://www.theguardian.com/us-news/2026/may/22/marco-rubio-nears-goal-topple-cuba-government
+Link: https://www.theguardian.com/world/2026/may/23/board-of-peace-focus-on-hamas-risks-return-to-war-in-gaza-critics-say
 
-### 7. A bittersweet farewell to Destiny 2, one of the best - and worst - games I've ever played [9/10]
+### 4. Trump Mobile investigating potential exposure of would-be customers’ personal information [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Phone company launched by Donald Trump’s family says names and contact details appear to be affected, but not credit card or banking information A phone company launched by Donald Trump’s family business is investigating a potential…
+
+Link: https://www.theguardian.com/us-news/2026/may/23/trump-mobile-investigating-potential-exposure-of-would-be-customers-personal-information
+
+### 5. Former CEO Bobby Kotick claims lawsuit against Microsoft's acquisition of Activision was only filed to help Embracer [9/10]
+**Source:** Eurogamer  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Ex-Activision Blizzard boss Bobby Kotick has claimed that a lawsuit opposing Microsoft's acquisition of the Call of Duty maker for $67.
+
+Link: https://www.eurogamer.net/kotick-activision-ap7-lawsuit-embracer
+
+### 6. A bittersweet farewell to Destiny 2, one of the best - and worst - games I've ever played [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -81,34 +72,34 @@ So, Destiny 2 is dying and it might take most of Bungie with it. I have spoken a
 
 Link: https://www.eurogamer.net/bittersweet-farewell-destiny-2
 
-### 8. 40,000 people under evacuation orders after chemical tank leak in Southern California [9/10]
+### 7. Google’s new anything-to-anything AI model is wild [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation.
+
+Link: https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video
+
+### 8. The AI App Seeking to Scale ‘Magic’ in the Classroom [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Class Disrupted is an education podcast featuring author Michael Horn and Futre’s Diane Tavenner in conversation with educators, school leaders, students and other members of school communities as they investigate the challenges facing the…
+
+Link: https://www.the74million.org/article/the-ai-app-seeking-to-scale-magic-in-the-classroom/
+
+### 9. U.S. passengers flying from Ebola-affected countries rerouted [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-About 40,000 people were under evacuation orders and schools shut down Friday in Southern California after a storage tank continued to leak a hazardous chemical that officials said could rupture or explode.
+The U.S. government is responding to the Ebola outbreak in with travel restrictions. American citizens and permanent residents departing affected countries must fly into one of three U.S. airports.
 
-Link: https://www.npr.org/2026/05/22/g-s1-124082/garden-grove-chemical-tank-leak
+Link: https://www.npr.org/2026/05/23/nx-s1-5831963/u-s-passengers-flying-from-ebola-affected-countries-rerouted
 
-### 9. Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption [9/10]
-**Source:** Ars Technica  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Critics note a lack of factual support in lawsuit filed by US Senate candidate.
-
-Link: https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/
-
-### 10. Opinion: When New York Regents Exams End, Arts Classes Will Be More Important Than Ever [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Across New York, students are preparing for Regents exams, tests that have defined what it means to graduate from high school since the 1800s.
-
-Link: https://www.the74million.org/article/when-new-york-regents-exams-end-arts-classes-will-be-more-important-than-ever/
-
-### 11. Trump cancels AI executive order signing [8/10]
+### 10. Trump cancels AI executive order signing [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -117,7 +108,25 @@ President Trump struggles to make a plan for artificial intelligence regulation 
 
 Link: https://www.npr.org/2026/05/22/nx-s1-5829908/trump-cancels-ai-executive-order-signing
 
-### 12. If You Love ‘80s Fantasy Films, Go See The Mandalorian and Grogu Right Now [7/10]
+### 11. Math Interventions Bill Would Now Exempt Some Ohio Schools From Teaching Science of Reading [8/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+A recently added carveout to a math interventions bill would exempt some Ohio schools from teaching the science of reading curriculum — despite a statewide mandate.
+
+Link: https://www.the74million.org/article/math-interventions-bill-would-now-exempt-some-ohio-schools-from-teaching-science-of-reading/
+
+### 12. ‘Corpse Point’ In the Arctic Is Melting, Disturbing Centuries-Old Bodies [7/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Whalers buried in the Norwegian Arctic in the 1600s and 1700s are thawing out of the permafrost, underscoring the threat of climate change to archaeological sites around the world.
+
+Link: https://www.404media.co/corpse-point-in-the-arctic-is-melting-disturbing-centuries-old-bodies/
+
+### 13. If You Love ‘80s Fantasy Films, Go See The Mandalorian and Grogu Right Now [7/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -125,15 +134,6 @@ Link: https://www.npr.org/2026/05/22/nx-s1-5829908/trump-cancels-ai-executive-or
 Also if you love Star Wars animation and the weirdness contained therein. The post If You Love ‘80s Fantasy Films, Go See The Mandalorian and Grogu Right Now appeared first on Reactor .
 
 Link: https://reactormag.com/the-mandalorian-and-grogu-movie-review/
-
-### 13. Behind the Blog: The Attention Wars [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-This week, we discuss Spencer Pratt, bricking phones, and the FTC.
-
-Link: https://www.404media.co/behind-the-blog-the-attention-wars/
 
 ## YouTube
 
@@ -146,6 +146,24 @@ Link: https://www.404media.co/behind-the-blog-the-attention-wars/
 
 Link: https://www.youtube.com/watch?v=LpXhy2iiaQE
 
+### A reporter's journey back from the Ebola outbreak [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+How is the United States responding to the Ebola outbreak? Global health reporter Michal Ruprecht documented his journey from Uganda — one of the countries affected by the public health emergency — to the U.S.
+
+Link: https://www.youtube.com/watch?v=bwBHq1VKauc
+
+### How the Trump administration has shifted how the U.S. thinks about national security [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+One of the Trump administration's most controversial figures, Sebastian Gorka, is the architect of a new counterterrorism strategy that marks a significant shift in priorities for the country's national intelligence apparatus.
+
+Link: https://www.youtube.com/watch?v=1PDbhVxQ0k8
+
 ### Byron Allen on the importance of Black ownership in media [8/10]
 **Creator:** NPR  
 **Verdict:** Worth watching  
@@ -155,27 +173,27 @@ Byron Allen and his show, "Comics Unleashed," are moving from the late late nigh
 
 Link: https://www.youtube.com/watch?v=iVJC7RRdXvY
 
-### Byron Allen on Stephen Colbert and their love for Johnny Carson [8/10]
+### Byron Allen on Stephen Colbert and their love for Johnny Carson [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 The comedian and businessman Byron Allen is now going up against Jimmy Fallon and Jimmy Kimmel in the coveted 11:35 p.m.
 
 Link: https://www.youtube.com/watch?v=dJBDXGTL8ww
 
-### Byron Allen says CBS put no limits on his show replacing Stephen Colbert [8/10]
+### Byron Allen says CBS put no limits on his show replacing Stephen Colbert [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 There’s a new host taking over Stephen Colbert’s late-night time slot on CBS: Byron Allen.
 
 Link: https://www.youtube.com/watch?v=40ULpEoYyDU
 
-### Byron Allen says CBS has put no limits on his show replacing Stephen Colbert's | Newsmakers [7/10]
+### Byron Allen says CBS has put no limits on his show replacing Stephen Colbert's | Newsmakers [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 Byron Allen, the media mogul and former stand-up comedian, is gearing up for his latest venture: bringing his show Comics Unleashed to the CBS time slot long held by The Late Show with Stephen Colbert.
@@ -199,24 +217,6 @@ Link: https://www.youtube.com/watch?v=nJWVlx8gZJE
 Stephen Colbert's "Late Show" ended its nearly 11-year run last night. Colbert was joined by his mentor Jon Stewart, host of "The Daily Show," and by his TV friends John Oliver, Seth Meyers and Jimmy Fallon and Jimmy Kimmel.
 
 Link: https://www.youtube.com/watch?v=IScqcH5YDDI
-
-### Some still online as Iran's historic internet blackout drags on [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Iran's internet blackout is now the longest and most severe ever recorded in any country. Iran's government plunged its population into digital darkness 70 days ago after the U.S. and Israel launched a war against it.
-
-Link: https://www.youtube.com/watch?v=YlIodHGKBf8
-
-### London turns to beavers for flood-control [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-London is famous for drizzle. But climate change is making the rain heavier and more erratic. In response, the city has turned to an unlikely flood-control expert: beavers.
-
-Link: https://www.youtube.com/watch?v=Wg0PVSYo4FA
 
 ### Should Sony Bring "Quick Resume" To PlayStation 6? [6/10]
 **Creator:** Digital Foundry  
