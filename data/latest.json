@@ -1,11 +1,31 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-23T05:00:01.626484Z",
-  "generatedAtDisplay": "2026-05-23 01:00 AM EDT",
+  "generatedAt": "2026-05-23T09:01:00.956484Z",
+  "generatedAtDisplay": "2026-05-23 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are Google’s AI search is so broken it can ‘disregard’ what you’re looking for, First-generation Chromecast users stressed by devices suddenly failing, and Kevin Warsh sworn in as Fed chair as Trump faces backlash over economy.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are ‘I thought I was the saviour of the planet’: how Game of Thrones’ Hannah Murray found a wellness cult – and lost her mind, The pothole puzzle: the bumpy ride to fixing Britain’s broken roads, and Google’s AI search is so broken it can ‘disregard’ what you’re looking for.",
   "mainItems": [
+    {
+      "title": "‘I thought I was the saviour of the planet’: how Game of Thrones’ Hannah Murray found a wellness cult – and lost her mind",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/film/2026/may/23/hannah-murray-interview-wellness-cult-sectioned",
+      "published": "2026-05-23T05:00:22+00:00",
+      "summary": "She landed a role in hit TV show Skins at 17 and went on to star in the fantasy epic. Then she was drawn towards a mysterious spiritual community. How did she end up being sectioned? • ‘This is a test.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The pothole puzzle: the bumpy ride to fixing Britain’s broken roads",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/may/23/politics-potholes-bristol-britain-no-quick-fix",
+      "published": "2026-05-23T05:00:19+00:00",
+      "summary": "Councils fix a pothole every 17 seconds – but getting on top of the repair backlog would cost £18.6bn.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
       "source": "The Verge",
@@ -23,26 +43,6 @@
       "url": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/",
       "published": "2026-05-22T21:42:59+00:00",
       "summary": "Google tells Ars it fixed the first-gen Chromecast bug.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Kevin Warsh sworn in as Fed chair as Trump faces backlash over economy",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/trump-not-focused-on-economy-poll",
-      "published": "2026-05-22T21:20:04+00:00",
-      "summary": "Former Wall Street banker takes over amid growing concern over cost of living – and disapproval of Trump’s agenda US politics live – latest updates Kevin Warsh has been sworn in as chair of the US Federal Reserve , tasked with steering the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "DHS says ICE has 'no relationship' with spyware maker Paragon Solutions",
-      "source": "NPR Tech",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/05/22/nx-s1-5831577/dhs-ice-spyware-paragon",
-      "published": "2026-05-22T20:30:56+00:00",
-      "summary": "The Department of Homeland Security says ICE has no current contract or relationship with the company, but questions remain about ICE's use of commercial spyware.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -67,6 +67,16 @@
       "score": 10
     },
     {
+      "title": "A bittersweet farewell to Destiny 2, one of the best - and worst - games I've ever played",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/bittersweet-farewell-destiny-2",
+      "published": "2026-05-23T09:00:00+00:00",
+      "summary": "So, Destiny 2 is dying and it might take most of Bungie with it. I have spoken at length about how a continued prioritisation of the bottom-line over a loyal playerbase, and forward-thinking staff, has ravaged the very soul of the game .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
       "title": "40,000 people under evacuation orders after chemical tank leak in Southern California",
       "source": "NPR Health",
       "category": "Science / health",
@@ -74,16 +84,6 @@
       "published": "2026-05-23T00:48:48+00:00",
       "summary": "About 40,000 people were under evacuation orders and schools shut down Friday in Southern California after a storage tank continued to leak a hazardous chemical that officials said could rupture or explode.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "Ask AI or just Google it? Google makes a big change to a little search box",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/05/22/nx-s1-5829915/google-search-box-ai",
-      "published": "2026-05-22T19:05:25+00:00",
-      "summary": "The search giant is updating its famously minimalist homepage. But what looks like a tiny design change is a very big deal.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 9
     },
     {
@@ -97,16 +97,6 @@
       "score": 9
     },
     {
-      "title": "\"You build a little squad of allied characters\": Warhammer Survivors' spin on bullet heaven brings a lovely touch of chaos to the battlefield",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/you-build-a-little-squad-of-allied-characters-warhammer-survivors-spin-on-bullet-heaven-brings-a-lovely-touch-of-chaos-to-the-battlefield",
-      "published": "2026-05-22T12:41:53+00:00",
-      "summary": "Bullet heaven games can already be fairly chaotic.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
       "title": "Opinion: When New York Regents Exams End, Arts Classes Will Be More Important Than Ever",
       "source": "The 74",
       "category": "Education / pedagogy",
@@ -115,6 +105,16 @@
       "summary": "Across New York, students are preparing for Regents exams, tests that have defined what it means to graduate from high school since the 1800s.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
+    },
+    {
+      "title": "Trump cancels AI executive order signing",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/05/22/nx-s1-5829908/trump-cancels-ai-executive-order-signing",
+      "published": "2026-05-22T20:26:54+00:00",
+      "summary": "President Trump struggles to make a plan for artificial intelligence regulation after initially taking a hands off position on the emerging technology.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     },
     {
       "title": "If You Love ‘80s Fantasy Films, Go See The Mandalorian and Grogu Right Now",
@@ -137,8 +137,505 @@
       "score": 7
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "DeepSeek’s New AI Is A Game Changer",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=LpXhy2iiaQE",
+      "published": "2026-05-22T00:47:58+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://github.com/ailuntx/Thinking-with-Visual-Primitives https://huggingface.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Byron Allen on the importance of Black ownership in media",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=iVJC7RRdXvY",
+      "published": "2026-05-23T02:00:23+00:00",
+      "summary": "Byron Allen and his show, \"Comics Unleashed,\" are moving from the late late night into a prime late night slot – the one formerly occupied by Stephen Colbert on CBS.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Byron Allen on Stephen Colbert and their love for Johnny Carson",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=dJBDXGTL8ww",
+      "published": "2026-05-23T00:30:28+00:00",
+      "summary": "The comedian and businessman Byron Allen is now going up against Jimmy Fallon and Jimmy Kimmel in the coveted 11:35 p.m.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Byron Allen says CBS put no limits on his show replacing Stephen Colbert",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=40ULpEoYyDU",
+      "published": "2026-05-22T23:00:41+00:00",
+      "summary": "There’s a new host taking over Stephen Colbert’s late-night time slot on CBS: Byron Allen.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Byron Allen says CBS has put no limits on his show replacing Stephen Colbert's | Newsmakers",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=FZ_Sj23nt3M",
+      "published": "2026-05-22T21:05:22+00:00",
+      "summary": "Byron Allen, the media mogul and former stand-up comedian, is gearing up for his latest venture: bringing his show Comics Unleashed to the CBS time slot long held by The Late Show with Stephen Colbert.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Trump administration shifts focus of counterterrorism efforts to left-wing extremism",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=nJWVlx8gZJE",
+      "published": "2026-05-22T18:30:40+00:00",
+      "summary": "The Trump administration has drastically changed the nation's counterterrorism strategy. It’s gone from focusing on Al Qaeda and ISIS to what a strategy document describes as focusing on the threat of left-wing extremism.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Colbert's 'Late Show' ends its nearly 11-year run",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=IScqcH5YDDI",
+      "published": "2026-05-22T16:11:38+00:00",
+      "summary": "Stephen Colbert's \"Late Show\" ended its nearly 11-year run last night. Colbert was joined by his mentor Jon Stewart, host of \"The Daily Show,\" and by his TV friends John Oliver, Seth Meyers and Jimmy Fallon and Jimmy Kimmel.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Some still online as Iran's historic internet blackout drags on",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=YlIodHGKBf8",
+      "published": "2026-05-22T11:30:32+00:00",
+      "summary": "Iran's internet blackout is now the longest and most severe ever recorded in any country. Iran's government plunged its population into digital darkness 70 days ago after the U.S. and Israel launched a war against it.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "London turns to beavers for flood-control",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Wg0PVSYo4FA",
+      "published": "2026-05-21T22:00:25+00:00",
+      "summary": "London is famous for drizzle. But climate change is making the rain heavier and more erratic. In response, the city has turned to an unlikely flood-control expert: beavers.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Should Sony Bring \"Quick Resume\" To PlayStation 6?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=qxeBKQiM3jg",
+      "published": "2026-05-21T17:00:22+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/GHKbNNmzQOU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Is Xbox Planning a \"Disc To Digital\" Game Transfer Option?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=_R825BomWm0",
+      "published": "2026-05-21T16:00:00+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "007 First Light Will Ship With 60FPS Support At Launch",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=cWh5VkbUpYw",
+      "published": "2026-05-20T17:00:01+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "AMD Confirms FSR 4.1 Upscaling For RDNA 3 and RDNA 2 - But There Are Questions",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=_UhAL8dwigg",
+      "published": "2026-05-20T16:00:36+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Are the \"Console Wars\" About to Kick Off Again? | Unpacked",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=dbQjehN4uis",
+      "published": "2026-05-22T15:39:38+00:00",
+      "summary": "Both PlayStation and Xbox seem to be going under a refocusing effort at the moment. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Astral Marmot and Jesse Galena Answer Your TTRPG Questions | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=54OsAXDnLqQ",
+      "published": "2026-05-22T10:00:33+00:00",
+      "summary": "Jesse Galena and Astral Marmot are now happily taking any and all of your TTRPG questions. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Dark Souls 2 DLC Season w/ Jack and Jess -- Part 9",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=ufmRGqHuMKY",
+      "published": "2026-05-22T08:08:46+00:00",
+      "summary": "The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Dream Pairings of Developers and IP | Firelink Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=UHpjYkdj2sg",
+      "published": "2026-05-22T00:37:05+00:00",
+      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Dark Souls 2 DLC Season w/ Jack and Jess -- Part 8",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=TJV7kPjtS-I",
+      "published": "2026-05-21T18:14:06+00:00",
+      "summary": "The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Can We Actually Make Exotic Weapons... Exotic? | Semi-Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=WibIP5xB4zE",
+      "published": "2026-05-21T15:33:27+00:00",
+      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.com/ember Video game weapons have a utility issue. Support us on Patreon: https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Dusting Off Our Rumble Paks in Star Fox 64 w/ KC and Marty",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=HQ5SnhjnQU8",
+      "published": "2026-05-21T01:16:07+00:00",
+      "summary": "NOTE: Nintendo hit us with a strike for showing the Star Fox Direct during our original Star Fox stream, but you can find the VOD here -- https://youtu.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Yahtzee Tries... Thick as Thieves and Subnautica 2",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=7fb1m3ZNaVA",
+      "published": "2026-05-20T22:13:12+00:00",
+      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.com/ember This week on Yahtzee Tries...",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "RESIDENT EVIL – Zach Cregger on Survival Horror",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=N_KDtokTO1c",
+      "published": "2026-05-21T16:18:37+00:00",
+      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RESIDENT EVIL - Zach Cregger on Survival Horror",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=5gR1GTJPGqQ",
+      "published": "2026-05-21T16:00:09+00:00",
+      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY (2006) - 20th Anniversary - Official Trailer (HD)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=A0fgugC7ZCo",
+      "published": "2026-05-20T16:46:15+00:00",
+      "summary": "If you ain't first, you're last. 🏁 Ricky Bobby returns to the big screen. #TalladegaNights is back in theatres June 28, June 30, and July 1.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "The Death of Robin Hood | Official First Look | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ii1gTLxWukk",
+      "published": "2026-05-20T13:00:19+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Michael Sarnoski and starring Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett and Noah Jupe. THE DEATH OF ROBIN HOOD – In theaters June 19.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Tony | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=k1MVnzd2aVc",
+      "published": "2026-05-05T13:00:00+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas. TONY – In theaters this August.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "HER PRIVATE HELL - Official Teaser - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=iWqST_E9u_Q",
+      "published": "2026-05-18T14:00:27+00:00",
+      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "FIND YOUR FRIENDS | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=pT5y7-WwD8M",
+      "published": "2026-05-06T17:31:18+00:00",
+      "summary": "Amber and her four best girlfriends take a trip to escape the L.A. bubble and cut loose in Joshua Tree for the weekend. But upon arrival, they quickly realize the locals don’t want them there.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "TALES FROM THE CRYPT | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=LSwkCskbvzQ",
+      "published": "2026-05-02T15:13:51+00:00",
+      "summary": "The crypt is open, boils and ghouls. TALES FROM THE CRYPT Season 1 drops May 1st on Shudder, with subsequent seasons dropping every Friday. #Shudder #TalesFromtheCrypt Subscribe: http://ow.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Built Different: Lee Cronin on Gore",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=NSilsgp90jE",
+      "published": "2026-05-22T18:37:15+00:00",
+      "summary": "It takes blood, guts, and heart to make a Gore horror movie. Lee Cronin unpacks the brutal horror subgenre. This is how he defines Gore, disrupts it, and takes it even further in Lee Cronin’s The Mummy.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Strung | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=sEz074LTiV8",
+      "published": "2026-05-20T16:30:28+00:00",
+      "summary": "Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tip for meeting the boss, don't make it weird. Office Romance premieres June 5th #Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=_l1vDm14sLQ",
+      "published": "2026-05-22T13:00:36+00:00",
+      "summary": "Time to meet the boss, don't make it weird. Brett Goldstein, Jennifer Lopez and Betty Gilpin star in Office Romance premiering June 5. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "See U in Hell | Devil May Cry: Season 2 | Official Video | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=aQL3vWVC0jE",
+      "published": "2026-05-21T16:00:05+00:00",
+      "summary": "PRAY LIKE HELL!!! Official live action video for \"See U in Hell\" by Papa Roach, feat. Hanumankind, from the Netflix Series Devil May Cry 2. Watch the show live now: http://netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Same city, final chapter. merci, Paris. 💋 #EmilyInParis",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=91ung0bfqjc",
+      "published": "2026-05-21T15:15:24+00:00",
+      "summary": "emily in paris, emily in paris trailer, emily in paris final season, emily in paris season 6 Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Avatar: The Last Airbender: Season 2 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=M_Las484swM",
+      "published": "2026-05-21T13:00:04+00:00",
+      "summary": "Ready to rumble. Avatar: The Last Airbender Season 2 premieres on June 25, 2026 only on Netflix. Watch Avatar: The Last Airbender, only on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Avatar: The Last Airbender: Season 2 | Audio Described Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=PJtfS84s8Bs",
+      "published": "2026-05-21T13:00:02+00:00",
+      "summary": "Ready to rumble. Avatar: The Last Airbender Season 2 premieres on June 25, 2026 only on Netflix. Watch Avatar: The Last Airbender, only on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "7 days A Good Girl's Guide to Murder: Season 2",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=mUywzukSEWU",
+      "published": "2026-05-20T19:00:09+00:00",
+      "summary": "7 days until Pip & Ravi return and every clue becomes my entire personality Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Michael Jackson: The Verdict | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=rcp-j0StBR0",
+      "published": "2026-05-20T17:00:00+00:00",
+      "summary": "Told by key players who were inside the courtroom, this 3-part comprehensive docuseries dissects the trial of Michael Jackson and his complex legacy. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Welcome to the Boroughs | Official Commercial | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=5WCBnc4PQvI",
+      "published": "2026-05-20T16:00:00+00:00",
+      "summary": "Welcome to the Boroughs. A retirement community built upon something truly... remarkable. You’re in good hands here. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "One Hundred Years of Solitude: Part Two | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=IQrJPP9cEHQ",
+      "published": "2026-05-20T12:30:00+00:00",
+      "summary": "Macondo faces troubled times. The arrival of new inhabitants in the town will disrupt the peace and bring Úrsula Iguarán’s curse to fruition once and for all.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Little Brother | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=bWtrFcerKE0",
+      "published": "2026-05-20T12:00:00+00:00",
+      "summary": "Rudd (John Cena) has the perfect life – great job, loving family, and a thriving career as a real estate agent… until his little brother, Marcus (Eric Andre), crashes back into his world as a full-blown agent of chaos, stress-testing every…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Maternal Instinct | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=fzW61JgRbNk",
+      "published": "2026-05-20T11:00:00+00:00",
+      "summary": "In a small East Texas town, a young woman from a wealthy family falls for a local hog trapper. Their relationship appears perfect and within months she's pregnant and proudly showing off her baby bump all over social media.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Perfect Match: Season 4 | Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=VGzqkAB_-hQ",
+      "published": "2026-05-19T17:00:00+00:00",
+      "summary": "More swaps. More sparks. More drama. Reality stars from \"Love Is Blind,\" \"Love Island\" and more shake up the game, but who'll find their perfect match? Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Voicemails for Isabelle | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=9mi3YVYm3ZU",
+      "published": "2026-05-19T16:10:00+00:00",
+      "summary": "Jill copes with her sister’s death by leaving her voicemails chronicling her chaotic life in San Francisco.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Frog and Toad — Too Many Cookies | Season 1 Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=3G4VyDarKUk",
+      "published": "2026-05-20T22:02:44+00:00",
+      "summary": "The iconic amphibian duo sit down for a sweet treat... or twelve. Frog and Toad is now streaming on Apple TV. #FrogandToad #Scene #AppleTV",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -229,8 +726,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 9
+    "youtubeCount": 21,
+    "trailerCount": 24,
+    "sourceCount": 20
   }
 }
