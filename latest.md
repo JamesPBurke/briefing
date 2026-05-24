@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-24T09:01:30.767191Z
+Generated: 2026-05-24T14:00:02.357142Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are I avoid AI tools because thinking is supposed to be hard. It’s what makes us human | Wendy Liu, ‘There is profound disappointment in him’: mood in Russia turns against Putin, and Suspected gunman dies after exchange of fire with Secret Service agents at White House checkpoint.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Pumped up: travelers at a unique truck stop in Iowa on ‘ridiculous’ gas prices, US voters support HIV/Aids relief – will Trump’s cuts backfire in the midterms?, and Former prosecutor pursued by Trump calls for crackdown on election lies: ‘Lying can be held to account’.
 
 ## Briefing
 
@@ -18,16 +18,79 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. I avoid AI tools because thinking is supposed to be hard. It’s what makes us human | Wendy Liu [10/10]
+### 1. Pumped up: travelers at a unique truck stop in Iowa on ‘ridiculous’ gas prices [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-As intelligence itself becomes privatised by big tech, allowing your intellectual faculties to wither in service of inane bots seems a dangerous move Long before the age of multi-billion-dollar AI companies promising to disrupt the field…
+As the summer season warms up, long-haul truck drivers lament their bills and vendors worry about raising prices The self-proclaimed largest truck stop in the world offers drivers just about everything they might need during a break.
 
-Link: https://www.theguardian.com/commentisfree/2026/may/24/ai-tools-thinking-human-hard-coding-writing-technology
+Link: https://www.theguardian.com/us-news/2026/may/24/iowa-truck-stop-gas-prices
 
-### 2. ‘There is profound disappointment in him’: mood in Russia turns against Putin [10/10]
+### 2. US voters support HIV/Aids relief – will Trump’s cuts backfire in the midterms? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Global Pepfar program has long had Republican leadership and bipartisan support, but initiative is under fire US midterm voters overwhelmingly support Pepfar, an initiative to end HIV/Aids that also has strengthened health systems against…
+
+Link: https://www.theguardian.com/us-news/2026/may/24/hiv-aids-trump-midterms
+
+### 3. Former prosecutor pursued by Trump calls for crackdown on election lies: ‘Lying can be held to account’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Andrew Weissmann argues for new law to hold political liars like US president accountable for harming democracy Politicians must be held accountable if their lies damage democracy, according to a former US federal prosecutor and FBI…
+
+Link: https://www.theguardian.com/us-news/2026/may/24/andrew-weissmann-donald-trump-liars-kingdom
+
+### 4. Bruce Springsteen is a model for how celebrities should resist Trump | Steven Greenhouse [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+His recent concerts are a thunderous call to fight for democracy. The nation could use more like him The Bruce Springsteen concert I went to in Brooklyn last week was unlike any concert I’ve attended in decades.
+
+Link: https://www.theguardian.com/commentisfree/2026/may/24/bruce-springsteen-trump-resistance
+
+### 5. I was punched on the school bus. Being violently bullied changed me – and affected one of the biggest decisions of my life [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+I’ve worked hard to leave the intimidation I experienced in the past. But when I met the man I wanted to marry, those childhood memories took me by surprise The bullying began shortly after my fifth birthday.
+
+Link: https://www.theguardian.com/society/2026/may/24/violently-bullied-age-five-school-punched-teachers-ignored
+
+### 6. Centering Intentional, Analytic Student Learning with Responsible AI Fellow Dr. Kate Lockwood [10/10]
+**Source:** CSTA  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Dr. Kate Lockwood is in her tenth year of teaching high school computer science at St. Paul Academy in St.... The post Centering Intentional, Analytic Student Learning with Responsible AI Fellow Dr.
+
+Link: https://csteachers.org/centering-intentional-analytic-student-learning-with-responsible-ai-fellow-dr-kate-lockwood/
+
+### 7. Fixing America’s Crumbling School Infrastructure is Centerpiece of Congressional Campaign [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+America’s schools are crumbling. There’s black mold in buildings in Alaska and Maine. Classrooms in New Jersey and Texas lack proper heating and cooling. And there are persistent plumbing problems in Idaho and Pennsylvania.
+
+Link: https://www.the74million.org/article/fixing-americas-crumbling-school-infrastructure-is-centerpiece-of-congressional-campaign/
+
+### 8. ‘Bringing the boys back home’: how mountain bongos Maue, Fitz, Kudu and Bon64 made their way back to Kenya [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Staff at the Mount Kenya Wildlife Conservancy are overseeing the repatriation of ‘the shiest antelope’ from western zoos to their native east African country “We are bringing the boys home,” says Ngenoh Erick Kibet, a wildlife officer at…
+
+Link: https://www.theguardian.com/environment/2026/may/24/bringing-the-boys-back-home-how-mountain-bongos-maue-fitz-kudu-and-bon64-made-their-way-back-to-kenya
+
+### 9. ‘There is profound disappointment in him’: mood in Russia turns against Putin [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -36,70 +99,34 @@ Increasingly isolated president is determined to press on with Ukraine war, say 
 
 Link: https://www.theguardian.com/world/ng-interactive/2026/may/24/there-is-profound-disappointment-in-him-mood-in-russia-turns-against-putin
 
-### 3. Suspected gunman dies after exchange of fire with Secret Service agents at White House checkpoint [10/10]
+### 10. Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows [9/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-Suspect dies after firing upon agents at White House checkpoint, Secret Service says, with a bystander also injured A gunman has been shot dead after approaching a White House security checkpoint and firing at officers, federal officials…
+More than 20,000 attacks on markets, farmland and food distribution systems have been recorded since 2018 Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented incidents of “food-related violence” in…
 
-Link: https://www.theguardian.com/us-news/2026/may/23/gunshots-white-house
+Link: https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges
 
-### 4. California governor declares state of emergency over looming chemical disaster [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 11. Mind-bending photos by anonymous cousins show the pain and dreams of Afghan women [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-Order facilitates support for 40,000 people told to evacuate Orange county as responders try to divert explosion California’s governor Gavin Newsom declared a state of emergency Saturday in response to the looming threat of chemical…
+The young women make photos that look at life — how it is, how they wish it could be — under Taliban rule. The images are on display at the Photoville Festival in Brooklyn, New York.
 
-Link: https://www.theguardian.com/us-news/2026/may/23/california-state-of-emergency-chemical-disaster
+Link: https://www.npr.org/2026/05/24/g-s1-123443/photos-afghanistan-women-taliban
 
-### 5. Record Club is trying to be Letterboxd for music nerds [9/10]
-**Source:** The Verge  
+### 12. Whatever the mirror test tells us, beluga whales pass it [8/10]
+**Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that.
+The white whales join the short, contested list of animals that see themselves.
 
-Link: https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds
+Link: https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/
 
-### 6. Kyle Busch died after severe pneumonia progressed into sepsis, family says [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Two-time Nascar champion died Thursday at 41 Busch had planned to race in Sunday’s Coca-Cola 600 Nascar driver Kyle Busch died after severe pneumonia progressed into sepsis, resulting in rapid and overwhelming associated complications,…
-
-Link: https://www.theguardian.com/sport/2026/may/23/kyle-busch-nascar-cause-of-death-pneumonia-sepsis
-
-### 7. L.A. Unified Students Who Get Real-World Job Training Are Also Better Prepared for College [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-When a patient at Los Angeles General Medical Center experienced a medical emergency, Brandon Maldonado grabbed an intercom and called a “code blue” to bring immediate help from emergency hospital staff.
-
-Link: https://www.the74million.org/article/l-a-unified-students-who-get-real-world-job-training-are-also-better-prepared-for-college/
-
-### 8. Here are 38 Memorial Day deals we recommend for $50 or less [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Massive OLED TVs and Sonos speakers might be stealing the Memorial Day spotlight, but there are also plenty of great deals that won’t set you back nearly as much.
-
-Link: https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50
-
-### 9. Middle East crisis live: Rubio sees initial progress on reopening Hormuz after Trump claims Iran deal ‘largely negotiated’ [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The US secretary of state suggested a deal could be announced ‘in the next few hours’ but cautioned it wouldn’t be a ‘final’ agreement Full report: Trump says peace deal with Iran ‘largely negotiated’ with strait of Hormuz to open In…
-
-Link: https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live
-
-### 10. Destiny 2 players share their memories and reviews - positive and negative - as Bungie calls time [8/10]
+### 13. Destiny 2 players share their memories and reviews - positive and negative - as Bungie calls time [8/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -107,33 +134,6 @@ Link: https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hor
 Bungie fans are battling it out on Destiny 2 's Steam page, where unhappy fans are mounting a negative review campaign, and supporters are doing their best to mitigate it. Read more
 
 Link: https://www.eurogamer.net/destiny-2-cancelled-player-reviews
-
-### 11. Former CEO Bobby Kotick claims lawsuit against Microsoft's acquisition of Activision was only filed to help Embracer [8/10]
-**Source:** Eurogamer  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Ex-Activision Blizzard boss Bobby Kotick has claimed that a lawsuit opposing Microsoft's acquisition of the Call of Duty maker for $67.
-
-Link: https://www.eurogamer.net/kotick-activision-ap7-lawsuit-embracer
-
-### 12. U.S. passengers flying from Ebola-affected countries rerouted [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The U.S. government is responding to the Ebola outbreak in with travel restrictions. American citizens and permanent residents departing affected countries must fly into one of three U.S. airports.
-
-Link: https://www.npr.org/2026/05/23/nx-s1-5831963/u-s-passengers-flying-from-ebola-affected-countries-rerouted
-
-### 13. ‘Corpse Point’ In the Arctic Is Melting, Disturbing Centuries-Old Bodies [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Whalers buried in the Norwegian Arctic in the 1600s and 1700s are thawing out of the permafrost, underscoring the threat of climate change to archaeological sites around the world.
-
-Link: https://www.404media.co/corpse-point-in-the-arctic-is-melting-disturbing-centuries-old-bodies/
 
 ## YouTube
 
@@ -145,6 +145,15 @@ Link: https://www.404media.co/corpse-point-in-the-arctic-is-melting-disturbing-c
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://github.com/ailuntx/Thinking-with-Visual-Primitives https://huggingface.
 
 Link: https://www.youtube.com/watch?v=LpXhy2iiaQE
+
+### U.S. expanding use of private security at airports [10/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+The Trump administration wants private companies to play a bigger role in airport security. The TSA says it plans to announce the first two to three airports in its new Gold+ program later this year.
+
+Link: https://www.youtube.com/watch?v=Xe5wjSx0e4Q
 
 ### How our tech use affects our breath [7/10]
 **Creator:** NPR  
@@ -208,15 +217,6 @@ Link: https://www.youtube.com/watch?v=dJBDXGTL8ww
 There’s a new host taking over Stephen Colbert’s late-night time slot on CBS: Byron Allen.
 
 Link: https://www.youtube.com/watch?v=40ULpEoYyDU
-
-### Byron Allen says CBS has put no limits on his show replacing Stephen Colbert's | Newsmakers [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-Byron Allen, the media mogul and former stand-up comedian, is gearing up for his latest venture: bringing his show Comics Unleashed to the CBS time slot long held by The Late Show with Stephen Colbert.
-
-Link: https://www.youtube.com/watch?v=FZ_Sj23nt3M
 
 ### Should Sony Bring "Quick Resume" To PlayStation 6? [6/10]
 **Creator:** Digital Foundry  

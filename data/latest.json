@@ -1,18 +1,88 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-24T09:01:30.767191Z",
-  "generatedAtDisplay": "2026-05-24 05:01 AM EDT",
+  "generatedAt": "2026-05-24T14:00:02.357142Z",
+  "generatedAtDisplay": "2026-05-24 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are I avoid AI tools because thinking is supposed to be hard. It’s what makes us human | Wendy Liu, ‘There is profound disappointment in him’: mood in Russia turns against Putin, and Suspected gunman dies after exchange of fire with Secret Service agents at White House checkpoint.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Pumped up: travelers at a unique truck stop in Iowa on ‘ridiculous’ gas prices, US voters support HIV/Aids relief – will Trump’s cuts backfire in the midterms?, and Former prosecutor pursued by Trump calls for crackdown on election lies: ‘Lying can be held to account’.",
   "mainItems": [
     {
-      "title": "I avoid AI tools because thinking is supposed to be hard. It’s what makes us human | Wendy Liu",
+      "title": "Pumped up: travelers at a unique truck stop in Iowa on ‘ridiculous’ gas prices",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/24/ai-tools-thinking-human-hard-coding-writing-technology",
-      "published": "2026-05-24T07:00:50+00:00",
-      "summary": "As intelligence itself becomes privatised by big tech, allowing your intellectual faculties to wither in service of inane bots seems a dangerous move Long before the age of multi-billion-dollar AI companies promising to disrupt the field…",
+      "url": "https://www.theguardian.com/us-news/2026/may/24/iowa-truck-stop-gas-prices",
+      "published": "2026-05-24T13:00:58+00:00",
+      "summary": "As the summer season warms up, long-haul truck drivers lament their bills and vendors worry about raising prices The self-proclaimed largest truck stop in the world offers drivers just about everything they might need during a break.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "US voters support HIV/Aids relief – will Trump’s cuts backfire in the midterms?",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/24/hiv-aids-trump-midterms",
+      "published": "2026-05-24T12:00:55+00:00",
+      "summary": "Global Pepfar program has long had Republican leadership and bipartisan support, but initiative is under fire US midterm voters overwhelmingly support Pepfar, an initiative to end HIV/Aids that also has strengthened health systems against…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Former prosecutor pursued by Trump calls for crackdown on election lies: ‘Lying can be held to account’",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/may/24/andrew-weissmann-donald-trump-liars-kingdom",
+      "published": "2026-05-24T11:00:56+00:00",
+      "summary": "Andrew Weissmann argues for new law to hold political liars like US president accountable for harming democracy Politicians must be held accountable if their lies damage democracy, according to a former US federal prosecutor and FBI…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Bruce Springsteen is a model for how celebrities should resist Trump | Steven Greenhouse",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/24/bruce-springsteen-trump-resistance",
+      "published": "2026-05-24T11:00:56+00:00",
+      "summary": "His recent concerts are a thunderous call to fight for democracy. The nation could use more like him The Bruce Springsteen concert I went to in Brooklyn last week was unlike any concert I’ve attended in decades.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "I was punched on the school bus. Being violently bullied changed me – and affected one of the biggest decisions of my life",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/society/2026/may/24/violently-bullied-age-five-school-punched-teachers-ignored",
+      "published": "2026-05-24T11:00:55+00:00",
+      "summary": "I’ve worked hard to leave the intimidation I experienced in the past. But when I met the man I wanted to marry, those childhood memories took me by surprise The bullying began shortly after my fifth birthday.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Centering Intentional, Analytic Student Learning with Responsible AI Fellow Dr. Kate Lockwood",
+      "source": "CSTA",
+      "category": "CS education / AI policy",
+      "url": "https://csteachers.org/centering-intentional-analytic-student-learning-with-responsible-ai-fellow-dr-kate-lockwood/",
+      "published": "2026-05-24T11:00:00+00:00",
+      "summary": "Dr. Kate Lockwood is in her tenth year of teaching high school computer science at St. Paul Academy in St.... The post Centering Intentional, Analytic Student Learning with Responsible AI Fellow Dr.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Fixing America’s Crumbling School Infrastructure is Centerpiece of Congressional Campaign",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/fixing-americas-crumbling-school-infrastructure-is-centerpiece-of-congressional-campaign/",
+      "published": "2026-05-24T10:30:00+00:00",
+      "summary": "America’s schools are crumbling. There’s black mold in buildings in Alaska and Maine. Classrooms in New Jersey and Texas lack proper heating and cooling. And there are persistent plumbing problems in Idaho and Pennsylvania.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "‘Bringing the boys back home’: how mountain bongos Maue, Fitz, Kudu and Bon64 made their way back to Kenya",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/environment/2026/may/24/bringing-the-boys-back-home-how-mountain-bongos-maue-fitz-kudu-and-bon64-made-their-way-back-to-kenya",
+      "published": "2026-05-24T09:00:52+00:00",
+      "summary": "Staff at the Mount Kenya Wildlife Conservancy are overseeing the repatriation of ‘the shiest antelope’ from western zoos to their native east African country “We are bringing the boys home,” says Ngenoh Erick Kibet, a wildlife officer at…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -27,73 +97,33 @@
       "score": 10
     },
     {
-      "title": "Suspected gunman dies after exchange of fire with Secret Service agents at White House checkpoint",
+      "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/23/gunshots-white-house",
-      "published": "2026-05-24T04:34:57+00:00",
-      "summary": "Suspect dies after firing upon agents at White House checkpoint, Secret Service says, with a bystander also injured A gunman has been shot dead after approaching a White House security checkpoint and firing at officers, federal officials…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "California governor declares state of emergency over looming chemical disaster",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/23/california-state-of-emergency-chemical-disaster",
-      "published": "2026-05-23T23:53:39+00:00",
-      "summary": "Order facilitates support for 40,000 people told to evacuate Orange county as responders try to divert explosion California’s governor Gavin Newsom declared a state of emergency Saturday in response to the looming threat of chemical…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "Security / computing",
+      "url": "https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges",
+      "published": "2026-05-24T06:00:49+00:00",
+      "summary": "More than 20,000 attacks on markets, farmland and food distribution systems have been recorded since 2018 Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented incidents of “food-related violence” in…",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 9
     },
     {
-      "title": "Record Club is trying to be Letterboxd for music nerds",
-      "source": "The Verge",
+      "title": "Mind-bending photos by anonymous cousins show the pain and dreams of Afghan women",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/05/24/g-s1-123443/photos-afghanistan-women-taliban",
+      "published": "2026-05-24T12:40:01+00:00",
+      "summary": "The young women make photos that look at life — how it is, how they wish it could be — under Taliban rule. The images are on display at the Photoville Festival in Brooklyn, New York.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Whatever the mirror test tells us, beluga whales pass it",
+      "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
-      "published": "2026-05-23T22:41:11+00:00",
-      "summary": "There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that.",
+      "url": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
+      "published": "2026-05-24T11:15:38+00:00",
+      "summary": "The white whales join the short, contested list of animals that see themselves.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Kyle Busch died after severe pneumonia progressed into sepsis, family says",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/sport/2026/may/23/kyle-busch-nascar-cause-of-death-pneumonia-sepsis",
-      "published": "2026-05-23T19:01:33+00:00",
-      "summary": "Two-time Nascar champion died Thursday at 41 Busch had planned to race in Sunday’s Coca-Cola 600 Nascar driver Kyle Busch died after severe pneumonia progressed into sepsis, resulting in rapid and overwhelming associated complications,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "L.A. Unified Students Who Get Real-World Job Training Are Also Better Prepared for College",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/l-a-unified-students-who-get-real-world-job-training-are-also-better-prepared-for-college/",
-      "published": "2026-05-23T16:30:00+00:00",
-      "summary": "When a patient at Los Angeles General Medical Center experienced a medical emergency, Brandon Maldonado grabbed an intercom and called a “code blue” to bring immediate help from emergency hospital staff.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Here are 38 Memorial Day deals we recommend for $50 or less",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50",
-      "published": "2026-05-23T15:52:11+00:00",
-      "summary": "Massive OLED TVs and Sonos speakers might be stealing the Memorial Day spotlight, but there are also plenty of great deals that won’t set you back nearly as much.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Middle East crisis live: Rubio sees initial progress on reopening Hormuz after Trump claims Iran deal ‘largely negotiated’",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live",
-      "published": "2026-05-24T08:26:00+00:00",
-      "summary": "The US secretary of state suggested a deal could be announced ‘in the next few hours’ but cautioned it wouldn’t be a ‘final’ agreement Full report: Trump says peace deal with Iran ‘largely negotiated’ with strait of Hormuz to open In…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 8
     },
     {
@@ -105,36 +135,6 @@
       "summary": "Bungie fans are battling it out on Destiny 2 's Steam page, where unhappy fans are mounting a negative review campaign, and supporters are doing their best to mitigate it. Read more",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8
-    },
-    {
-      "title": "Former CEO Bobby Kotick claims lawsuit against Microsoft's acquisition of Activision was only filed to help Embracer",
-      "source": "Eurogamer",
-      "category": "AI / privacy",
-      "url": "https://www.eurogamer.net/kotick-activision-ap7-lawsuit-embracer",
-      "published": "2026-05-23T12:14:26+00:00",
-      "summary": "Ex-Activision Blizzard boss Bobby Kotick has claimed that a lawsuit opposing Microsoft's acquisition of the Call of Duty maker for $67.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 8
-    },
-    {
-      "title": "U.S. passengers flying from Ebola-affected countries rerouted",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/23/nx-s1-5831963/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "published": "2026-05-23T12:09:50+00:00",
-      "summary": "The U.S. government is responding to the Ebola outbreak in with travel restrictions. American citizens and permanent residents departing affected countries must fly into one of three U.S. airports.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "‘Corpse Point’ In the Arctic Is Melting, Disturbing Centuries-Old Bodies",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/corpse-point-in-the-arctic-is-melting-disturbing-centuries-old-bodies/",
-      "published": "2026-05-23T13:00:55+00:00",
-      "summary": "Whalers buried in the Norwegian Arctic in the 1600s and 1700s are thawing out of the permafrost, underscoring the threat of climate change to archaeological sites around the world.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     }
   ],
   "youtube": [
@@ -148,6 +148,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
+    },
+    {
+      "title": "U.S. expanding use of private security at airports",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Xe5wjSx0e4Q",
+      "published": "2026-05-24T11:30:16+00:00",
+      "summary": "The Trump administration wants private companies to play a bigger role in airport security. The TSA says it plans to announce the first two to three airports in its new Gold+ program later this year.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Watch it"
     },
     {
       "title": "How our tech use affects our breath",
@@ -225,17 +236,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Byron Allen says CBS has put no limits on his show replacing Stephen Colbert's | Newsmakers",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=FZ_Sj23nt3M",
-      "published": "2026-05-22T21:05:22+00:00",
-      "summary": "Byron Allen, the media mogul and former stand-up comedian, is gearing up for his latest venture: bringing his show Comics Unleashed to the CBS time slot long held by The Late Show with Stephen Colbert.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
     },
     {
       "title": "Should Sony Bring \"Quick Resume\" To PlayStation 6?",
