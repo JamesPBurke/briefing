@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-23T14:00:01.810941Z
+Generated: 2026-05-24T05:00:02.181902Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are ‘You can’t control everything’: the rise in plastic surgeons asked to create ‘AI face’, ‘Canada is handing people over to ICE’: refugees rejected at border face US detention, and Board of Peace focus on Hamas risks return to war in Gaza, critics say.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Suspected gunman dies after exchange of fire with Secret Service agents at White House checkpoint, California governor declares state of emergency over looming chemical disaster, and Move over matcha lattes: horchata is cold, creamy and coming to a menu near you.
 
 ## Briefing
 
@@ -18,16 +18,79 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. ‘You can’t control everything’: the rise in plastic surgeons asked to create ‘AI face’ [10/10]
+### 1. Suspected gunman dies after exchange of fire with Secret Service agents at White House checkpoint [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Growing numbers of people are seeking improbable cosmetic surgery based on chatbots’ recommendations Plastic surgeons are increasingly concerned about the rise of “AI face”, as more and more clients arrive in their offices with unrealistic…
+Suspect dies after firing upon agents at White House checkpoint, Secret Service says, with a bystander also injured A gunman has been shot dead after approaching a White House security checkpoint and firing at officers, federal officials…
 
-Link: https://www.theguardian.com/technology/2026/may/23/rise-in-plastic-surgeons-asked-to-create-ai-face-cosmetic-surgery
+Link: https://www.theguardian.com/us-news/2026/may/23/gunshots-white-house
 
-### 2. ‘Canada is handing people over to ICE’: refugees rejected at border face US detention [10/10]
+### 2. California governor declares state of emergency over looming chemical disaster [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Order facilitates support for 40,000 people told to evacuate Orange county as responders try to divert explosion California’s governor Gavin Newsom declared a state of emergency Saturday in response to the looming threat of chemical…
+
+Link: https://www.theguardian.com/us-news/2026/may/23/california-state-of-emergency-chemical-disaster
+
+### 3. Move over matcha lattes: horchata is cold, creamy and coming to a menu near you [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The sweet drink is a staple in Spain and Mexico, and it’s being served around the UK as an iced beverage and even in desserts.
+
+Link: https://www.theguardian.com/food/2026/may/23/move-over-matcha-lattes-horchata-is-cold-creamy-and-coming-to-a-menu-near-you
+
+### 4. Record Club is trying to be Letterboxd for music nerds [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that.
+
+Link: https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds
+
+### 5. Kyle Busch died after severe pneumonia progressed into sepsis, family says [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Two-time Nascar champion died Thursday at 41 Busch had planned to race in Sunday’s Coca-Cola 600 Nascar driver Kyle Busch died after severe pneumonia progressed into sepsis, resulting in rapid and overwhelming associated complications,…
+
+Link: https://www.theguardian.com/sport/2026/may/23/kyle-busch-nascar-cause-of-death-pneumonia-sepsis
+
+### 6. Say goodbye to birds and hello to dragons in Wyrmspan, a scalier take on beloved strategy card game Wingspan [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Birds, as we all know, are dinosaurs. Yet there exists a higher being above birds that answer the question "what if dinosaurs really were birds?": dragons.
+
+Link: https://www.rockpapershotgun.com/say-goodbye-to-birds-and-hello-to-dragons-in-wyrmspan-a-scalier-take-on-beloved-strategy-card-game-wingspan
+
+### 7. L.A. Unified Students Who Get Real-World Job Training Are Also Better Prepared for College [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+When a patient at Los Angeles General Medical Center experienced a medical emergency, Brandon Maldonado grabbed an intercom and called a “code blue” to bring immediate help from emergency hospital staff.
+
+Link: https://www.the74million.org/article/l-a-unified-students-who-get-real-world-job-training-are-also-better-prepared-for-college/
+
+### 8. Here are 38 Memorial Day deals we recommend for $50 or less [9/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Massive OLED TVs and Sonos speakers might be stealing the Memorial Day spotlight, but there are also plenty of great deals that won’t set you back nearly as much.
+
+Link: https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50
+
+### 9. ‘Canada is handing people over to ICE’: refugees rejected at border face US detention [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -36,25 +99,16 @@ As Canada tightens asylum rules, refugees reuniting with family say they were tu
 
 Link: https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention
 
-### 3. Board of Peace focus on Hamas risks return to war in Gaza, critics say [10/10]
+### 10. Ukraine war briefing: Zelenskyy sounds warning after Russia strikes Kyiv with Oreshnik missile [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-US-backed board has put sole blame for stalled ceasefire on militant group despite Israel not fulfilling its obligations, analysts say The top diplomat from the Board of Peace has blamed Hamas for the stalled ceasefire , but critics have…
+Ukrainian president says use of such weapons ‘sets a global precedent for other potential aggressors’ as blasts heard throughout the capital. What we know on day 1,551 Continue reading...
 
-Link: https://www.theguardian.com/world/2026/may/23/board-of-peace-focus-on-hamas-risks-return-to-war-in-gaza-critics-say
+Link: https://www.theguardian.com/world/2026/may/24/ukraine-war-briefing-zelenskyy-sounds-warning-after-russia-strikes-kyiv-with-oreshnik-missile
 
-### 4. Trump Mobile investigating potential exposure of would-be customers’ personal information [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Phone company launched by Donald Trump’s family says names and contact details appear to be affected, but not credit card or banking information A phone company launched by Donald Trump’s family business is investigating a potential…
-
-Link: https://www.theguardian.com/us-news/2026/may/23/trump-mobile-investigating-potential-exposure-of-would-be-customers-personal-information
-
-### 5. Former CEO Bobby Kotick claims lawsuit against Microsoft's acquisition of Activision was only filed to help Embracer [9/10]
+### 11. Former CEO Bobby Kotick claims lawsuit against Microsoft's acquisition of Activision was only filed to help Embracer [8/10]
 **Source:** Eurogamer  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -63,34 +117,7 @@ Ex-Activision Blizzard boss Bobby Kotick has claimed that a lawsuit opposing Mic
 
 Link: https://www.eurogamer.net/kotick-activision-ap7-lawsuit-embracer
 
-### 6. A bittersweet farewell to Destiny 2, one of the best - and worst - games I've ever played [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-So, Destiny 2 is dying and it might take most of Bungie with it. I have spoken at length about how a continued prioritisation of the bottom-line over a loyal playerbase, and forward-thinking staff, has ravaged the very soul of the game .
-
-Link: https://www.eurogamer.net/bittersweet-farewell-destiny-2
-
-### 7. Google’s new anything-to-anything AI model is wild [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation.
-
-Link: https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video
-
-### 8. The AI App Seeking to Scale ‘Magic’ in the Classroom [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Class Disrupted is an education podcast featuring author Michael Horn and Futre’s Diane Tavenner in conversation with educators, school leaders, students and other members of school communities as they investigate the challenges facing the…
-
-Link: https://www.the74million.org/article/the-ai-app-seeking-to-scale-magic-in-the-classroom/
-
-### 9. U.S. passengers flying from Ebola-affected countries rerouted [8/10]
+### 12. U.S. passengers flying from Ebola-affected countries rerouted [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -99,25 +126,7 @@ The U.S. government is responding to the Ebola outbreak in with travel restricti
 
 Link: https://www.npr.org/2026/05/23/nx-s1-5831963/u-s-passengers-flying-from-ebola-affected-countries-rerouted
 
-### 10. Trump cancels AI executive order signing [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-President Trump struggles to make a plan for artificial intelligence regulation after initially taking a hands off position on the emerging technology.
-
-Link: https://www.npr.org/2026/05/22/nx-s1-5829908/trump-cancels-ai-executive-order-signing
-
-### 11. Math Interventions Bill Would Now Exempt Some Ohio Schools From Teaching Science of Reading [8/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-A recently added carveout to a math interventions bill would exempt some Ohio schools from teaching the science of reading curriculum — despite a statewide mandate.
-
-Link: https://www.the74million.org/article/math-interventions-bill-would-now-exempt-some-ohio-schools-from-teaching-science-of-reading/
-
-### 12. ‘Corpse Point’ In the Arctic Is Melting, Disturbing Centuries-Old Bodies [7/10]
+### 13. ‘Corpse Point’ In the Arctic Is Melting, Disturbing Centuries-Old Bodies [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -125,15 +134,6 @@ Link: https://www.the74million.org/article/math-interventions-bill-would-now-exe
 Whalers buried in the Norwegian Arctic in the 1600s and 1700s are thawing out of the permafrost, underscoring the threat of climate change to archaeological sites around the world.
 
 Link: https://www.404media.co/corpse-point-in-the-arctic-is-melting-disturbing-centuries-old-bodies/
-
-### 13. If You Love ‘80s Fantasy Films, Go See The Mandalorian and Grogu Right Now [7/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Also if you love Star Wars animation and the weirdness contained therein. The post If You Love ‘80s Fantasy Films, Go See The Mandalorian and Grogu Right Now appeared first on Reactor .
-
-Link: https://reactormag.com/the-mandalorian-and-grogu-movie-review/
 
 ## YouTube
 
@@ -146,27 +146,45 @@ Link: https://reactormag.com/the-mandalorian-and-grogu-movie-review/
 
 Link: https://www.youtube.com/watch?v=LpXhy2iiaQE
 
-### A reporter's journey back from the Ebola outbreak [9/10]
+### How our tech use affects our breath [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Type, tap, scroll, BREATHE! How our tech use affects our breath.
+
+Link: https://www.youtube.com/watch?v=5ValdwcHGsM
+
+### Trump-branded phones finally shipping to customers [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Trump Mobile says its smartphones are beginning to ship to customers — nearly a year after the company first began taking orders.
+
+Link: https://www.youtube.com/watch?v=XPG4J8vQ6Zk
+
+### A reporter's journey back from the Ebola outbreak [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 How is the United States responding to the Ebola outbreak? Global health reporter Michal Ruprecht documented his journey from Uganda — one of the countries affected by the public health emergency — to the U.S.
 
 Link: https://www.youtube.com/watch?v=bwBHq1VKauc
 
-### How the Trump administration has shifted how the U.S. thinks about national security [8/10]
+### How the Trump administration has shifted how the U.S. thinks about national security [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 One of the Trump administration's most controversial figures, Sebastian Gorka, is the architect of a new counterterrorism strategy that marks a significant shift in priorities for the country's national intelligence apparatus.
 
 Link: https://www.youtube.com/watch?v=1PDbhVxQ0k8
 
-### Byron Allen on the importance of Black ownership in media [8/10]
+### Byron Allen on the importance of Black ownership in media [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Byron Allen and his show, "Comics Unleashed," are moving from the late late night into a prime late night slot – the one formerly occupied by Stephen Colbert on CBS.
@@ -200,24 +218,6 @@ Byron Allen, the media mogul and former stand-up comedian, is gearing up for his
 
 Link: https://www.youtube.com/watch?v=FZ_Sj23nt3M
 
-### Trump administration shifts focus of counterterrorism efforts to left-wing extremism [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The Trump administration has drastically changed the nation's counterterrorism strategy. It’s gone from focusing on Al Qaeda and ISIS to what a strategy document describes as focusing on the threat of left-wing extremism.
-
-Link: https://www.youtube.com/watch?v=nJWVlx8gZJE
-
-### Colbert's 'Late Show' ends its nearly 11-year run [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Stephen Colbert's "Late Show" ended its nearly 11-year run last night. Colbert was joined by his mentor Jon Stewart, host of "The Daily Show," and by his TV friends John Oliver, Seth Meyers and Jimmy Fallon and Jimmy Kimmel.
-
-Link: https://www.youtube.com/watch?v=IScqcH5YDDI
-
 ### Should Sony Bring "Quick Resume" To PlayStation 6? [6/10]
 **Creator:** Digital Foundry  
 **Verdict:** Summary is enough  
@@ -235,24 +235,6 @@ Link: https://www.youtube.com/watch?v=qxeBKQiM3jg
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=_R825BomWm0
-
-### 007 First Light Will Ship With 60FPS Support At Launch [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=cWh5VkbUpYw
-
-### AMD Confirms FSR 4.1 Upscaling For RDNA 3 and RDNA 2 - But There Are Questions [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=_UhAL8dwigg
 
 ### Are the "Console Wars" About to Kick Off Again? | Unpacked [7/10]
 **Creator:** Second Wind  
@@ -307,24 +289,6 @@ Link: https://www.youtube.com/watch?v=TJV7kPjtS-I
 This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.com/ember Video game weapons have a utility issue. Support us on Patreon: https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=WibIP5xB4zE
-
-### Dusting Off Our Rumble Paks in Star Fox 64 w/ KC and Marty [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-NOTE: Nintendo hit us with a strike for showing the Star Fox Direct during our original Star Fox stream, but you can find the VOD here -- https://youtu.
-
-Link: https://www.youtube.com/watch?v=HQ5SnhjnQU8
-
-### Yahtzee Tries... Thick as Thieves and Subnautica 2 [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.com/ember This week on Yahtzee Tries...
-
-Link: https://www.youtube.com/watch?v=7fb1m3ZNaVA
 
 ## Entertainment Recommendations
 
@@ -418,16 +382,7 @@ Amber and her four best girlfriends take a trip to escape the L.A. bubble and cu
 
 Link: https://www.youtube.com/watch?v=pT5y7-WwD8M
 
-### TALES FROM THE CRYPT | Official Trailer | Shudder [9/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-The crypt is open, boils and ghouls. TALES FROM THE CRYPT Season 1 drops May 1st on Shudder, with subsequent seasons dropping every Friday. #Shudder #TalesFromtheCrypt Subscribe: http://ow.
-
-Link: https://www.youtube.com/watch?v=LSwkCskbvzQ
-
-### Built Different: Lee Cronin on Gore [10/10]
+### Built Different: Lee Cronin on Gore [9/10]
 **Source:** Blumhouse  
 **Verdict:** Looks promising  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
