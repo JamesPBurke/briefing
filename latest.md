@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-24T05:00:02.181902Z
+Generated: 2026-05-24T09:01:30.767191Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Suspected gunman dies after exchange of fire with Secret Service agents at White House checkpoint, California governor declares state of emergency over looming chemical disaster, and Move over matcha lattes: horchata is cold, creamy and coming to a menu near you.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are I avoid AI tools because thinking is supposed to be hard. It’s what makes us human | Wendy Liu, ‘There is profound disappointment in him’: mood in Russia turns against Putin, and Suspected gunman dies after exchange of fire with Secret Service agents at White House checkpoint.
 
 ## Briefing
 
@@ -18,7 +18,25 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. Suspected gunman dies after exchange of fire with Secret Service agents at White House checkpoint [10/10]
+### 1. I avoid AI tools because thinking is supposed to be hard. It’s what makes us human | Wendy Liu [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+As intelligence itself becomes privatised by big tech, allowing your intellectual faculties to wither in service of inane bots seems a dangerous move Long before the age of multi-billion-dollar AI companies promising to disrupt the field…
+
+Link: https://www.theguardian.com/commentisfree/2026/may/24/ai-tools-thinking-human-hard-coding-writing-technology
+
+### 2. ‘There is profound disappointment in him’: mood in Russia turns against Putin [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Increasingly isolated president is determined to press on with Ukraine war, say well-placed sources, despite ailing economy Vladimir Putin pulled up to a hotel in central Moscow earlier in May in a Russian-made SUV, dressed casually in…
+
+Link: https://www.theguardian.com/world/ng-interactive/2026/may/24/there-is-profound-disappointment-in-him-mood-in-russia-turns-against-putin
+
+### 3. Suspected gunman dies after exchange of fire with Secret Service agents at White House checkpoint [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -27,7 +45,7 @@ Suspect dies after firing upon agents at White House checkpoint, Secret Service 
 
 Link: https://www.theguardian.com/us-news/2026/may/23/gunshots-white-house
 
-### 2. California governor declares state of emergency over looming chemical disaster [10/10]
+### 4. California governor declares state of emergency over looming chemical disaster [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -36,16 +54,7 @@ Order facilitates support for 40,000 people told to evacuate Orange county as re
 
 Link: https://www.theguardian.com/us-news/2026/may/23/california-state-of-emergency-chemical-disaster
 
-### 3. Move over matcha lattes: horchata is cold, creamy and coming to a menu near you [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The sweet drink is a staple in Spain and Mexico, and it’s being served around the UK as an iced beverage and even in desserts.
-
-Link: https://www.theguardian.com/food/2026/may/23/move-over-matcha-lattes-horchata-is-cold-creamy-and-coming-to-a-menu-near-you
-
-### 4. Record Club is trying to be Letterboxd for music nerds [9/10]
+### 5. Record Club is trying to be Letterboxd for music nerds [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -54,7 +63,7 @@ There isn't really a solid equivalent to Goodreads or Letterboxd for music lover
 
 Link: https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds
 
-### 5. Kyle Busch died after severe pneumonia progressed into sepsis, family says [9/10]
+### 6. Kyle Busch died after severe pneumonia progressed into sepsis, family says [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -62,15 +71,6 @@ Link: https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-m
 Two-time Nascar champion died Thursday at 41 Busch had planned to race in Sunday’s Coca-Cola 600 Nascar driver Kyle Busch died after severe pneumonia progressed into sepsis, resulting in rapid and overwhelming associated complications,…
 
 Link: https://www.theguardian.com/sport/2026/may/23/kyle-busch-nascar-cause-of-death-pneumonia-sepsis
-
-### 6. Say goodbye to birds and hello to dragons in Wyrmspan, a scalier take on beloved strategy card game Wingspan [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Birds, as we all know, are dinosaurs. Yet there exists a higher being above birds that answer the question "what if dinosaurs really were birds?": dragons.
-
-Link: https://www.rockpapershotgun.com/say-goodbye-to-birds-and-hello-to-dragons-in-wyrmspan-a-scalier-take-on-beloved-strategy-card-game-wingspan
 
 ### 7. L.A. Unified Students Who Get Real-World Job Training Are Also Better Prepared for College [9/10]
 **Source:** The 74  
@@ -90,23 +90,23 @@ Massive OLED TVs and Sonos speakers might be stealing the Memorial Day spotlight
 
 Link: https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50
 
-### 9. ‘Canada is handing people over to ICE’: refugees rejected at border face US detention [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-As Canada tightens asylum rules, refugees reuniting with family say they were turned over to ICE and jailed for months after failed border claims As each day in US detention passes, Markens Appolon can feel the life he had dreamed of…
-
-Link: https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention
-
-### 10. Ukraine war briefing: Zelenskyy sounds warning after Russia strikes Kyiv with Oreshnik missile [8/10]
+### 9. Middle East crisis live: Rubio sees initial progress on reopening Hormuz after Trump claims Iran deal ‘largely negotiated’ [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Ukrainian president says use of such weapons ‘sets a global precedent for other potential aggressors’ as blasts heard throughout the capital. What we know on day 1,551 Continue reading...
+The US secretary of state suggested a deal could be announced ‘in the next few hours’ but cautioned it wouldn’t be a ‘final’ agreement Full report: Trump says peace deal with Iran ‘largely negotiated’ with strait of Hormuz to open In…
 
-Link: https://www.theguardian.com/world/2026/may/24/ukraine-war-briefing-zelenskyy-sounds-warning-after-russia-strikes-kyiv-with-oreshnik-missile
+Link: https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live
+
+### 10. Destiny 2 players share their memories and reviews - positive and negative - as Bungie calls time [8/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Bungie fans are battling it out on Destiny 2 's Steam page, where unhappy fans are mounting a negative review campaign, and supporters are doing their best to mitigate it. Read more
+
+Link: https://www.eurogamer.net/destiny-2-cancelled-player-reviews
 
 ### 11. Former CEO Bobby Kotick claims lawsuit against Microsoft's acquisition of Activision was only filed to help Embracer [8/10]
 **Source:** Eurogamer  
@@ -146,9 +146,9 @@ Link: https://www.404media.co/corpse-point-in-the-arctic-is-melting-disturbing-c
 
 Link: https://www.youtube.com/watch?v=LpXhy2iiaQE
 
-### How our tech use affects our breath [8/10]
+### How our tech use affects our breath [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Type, tap, scroll, BREATHE! How our tech use affects our breath.
