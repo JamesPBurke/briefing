@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-24T14:00:02.357142Z
+Generated: 2026-05-25T05:00:01.484478Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Pumped up: travelers at a unique truck stop in Iowa on ‘ridiculous’ gas prices, US voters support HIV/Aids relief – will Trump’s cuts backfire in the midterms?, and Former prosecutor pursued by Trump calls for crackdown on election lies: ‘Lying can be held to account’.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are ‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana, The Mandalorian and Grogu has lowest box office opening for a Star Wars film in Disney era, and ‘There is profound disappointment in him’: mood in Russia turns against Putin.
 
 ## Briefing
 
@@ -18,79 +18,25 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. Pumped up: travelers at a unique truck stop in Iowa on ‘ridiculous’ gas prices [10/10]
+### 1. ‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-As the summer season warms up, long-haul truck drivers lament their bills and vendors worry about raising prices The self-proclaimed largest truck stop in the world offers drivers just about everything they might need during a break.
+Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was…
 
-Link: https://www.theguardian.com/us-news/2026/may/24/iowa-truck-stop-gas-prices
+Link: https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court
 
-### 2. US voters support HIV/Aids relief – will Trump’s cuts backfire in the midterms? [10/10]
+### 2. The Mandalorian and Grogu has lowest box office opening for a Star Wars film in Disney era [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Global Pepfar program has long had Republican leadership and bipartisan support, but initiative is under fire US midterm voters overwhelmingly support Pepfar, an initiative to end HIV/Aids that also has strengthened health systems against…
+Film starring Pedro Pascal next to ‘Baby Yoda’ took $165m globally on opening weekend, failing to surpass the opening of 2018 flop Solo The Mandalorian and Grogu may have blasted into first place at the box office – but its launch was far,…
 
-Link: https://www.theguardian.com/us-news/2026/may/24/hiv-aids-trump-midterms
+Link: https://www.theguardian.com/film/2026/may/25/the-mandalorian-and-grogu-has-lowest-box-office-opening-for-a-star-wars-film-in-disney-era
 
-### 3. Former prosecutor pursued by Trump calls for crackdown on election lies: ‘Lying can be held to account’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Andrew Weissmann argues for new law to hold political liars like US president accountable for harming democracy Politicians must be held accountable if their lies damage democracy, according to a former US federal prosecutor and FBI…
-
-Link: https://www.theguardian.com/us-news/2026/may/24/andrew-weissmann-donald-trump-liars-kingdom
-
-### 4. Bruce Springsteen is a model for how celebrities should resist Trump | Steven Greenhouse [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-His recent concerts are a thunderous call to fight for democracy. The nation could use more like him The Bruce Springsteen concert I went to in Brooklyn last week was unlike any concert I’ve attended in decades.
-
-Link: https://www.theguardian.com/commentisfree/2026/may/24/bruce-springsteen-trump-resistance
-
-### 5. I was punched on the school bus. Being violently bullied changed me – and affected one of the biggest decisions of my life [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-I’ve worked hard to leave the intimidation I experienced in the past. But when I met the man I wanted to marry, those childhood memories took me by surprise The bullying began shortly after my fifth birthday.
-
-Link: https://www.theguardian.com/society/2026/may/24/violently-bullied-age-five-school-punched-teachers-ignored
-
-### 6. Centering Intentional, Analytic Student Learning with Responsible AI Fellow Dr. Kate Lockwood [10/10]
-**Source:** CSTA  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Dr. Kate Lockwood is in her tenth year of teaching high school computer science at St. Paul Academy in St.... The post Centering Intentional, Analytic Student Learning with Responsible AI Fellow Dr.
-
-Link: https://csteachers.org/centering-intentional-analytic-student-learning-with-responsible-ai-fellow-dr-kate-lockwood/
-
-### 7. Fixing America’s Crumbling School Infrastructure is Centerpiece of Congressional Campaign [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-America’s schools are crumbling. There’s black mold in buildings in Alaska and Maine. Classrooms in New Jersey and Texas lack proper heating and cooling. And there are persistent plumbing problems in Idaho and Pennsylvania.
-
-Link: https://www.the74million.org/article/fixing-americas-crumbling-school-infrastructure-is-centerpiece-of-congressional-campaign/
-
-### 8. ‘Bringing the boys back home’: how mountain bongos Maue, Fitz, Kudu and Bon64 made their way back to Kenya [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Staff at the Mount Kenya Wildlife Conservancy are overseeing the repatriation of ‘the shiest antelope’ from western zoos to their native east African country “We are bringing the boys home,” says Ngenoh Erick Kibet, a wildlife officer at…
-
-Link: https://www.theguardian.com/environment/2026/may/24/bringing-the-boys-back-home-how-mountain-bongos-maue-fitz-kudu-and-bon64-made-their-way-back-to-kenya
-
-### 9. ‘There is profound disappointment in him’: mood in Russia turns against Putin [10/10]
+### 3. ‘There is profound disappointment in him’: mood in Russia turns against Putin [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -99,16 +45,88 @@ Increasingly isolated president is determined to press on with Ukraine war, say 
 
 Link: https://www.theguardian.com/world/ng-interactive/2026/may/24/there-is-profound-disappointment-in-him-mood-in-russia-turns-against-putin
 
-### 10. Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows [9/10]
+### 4. Star Citizen tops $1 billion crowdfunding milestone as "$5000 JPEG" spaceship you cannot use yet goes on sale [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+It's official: Star Citizen , Cloud Imperium Games' multiplayer sci-fi sim, has now topped $1 billion in crowdfunding. Read more
+
+Link: https://www.eurogamer.net/star-citizen-tops-1-billion-sells-5000-unflyable-spaceship
+
+### 5. ‘It’s taking all of our money’: truck drivers in Iowa lament gas price surge sparked by Trump’s Iran war [9/10]
 **Source:** The Guardian US  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-More than 20,000 attacks on markets, farmland and food distribution systems have been recorded since 2018 Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented incidents of “food-related violence” in…
+As the summer season warms up, long-haul truck drivers lament their bills and vendors worry about raising prices The self-proclaimed largest truck stop in the world offers drivers just about everything they might need during a break.
 
-Link: https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges
+Link: https://www.theguardian.com/us-news/2026/may/24/iowa-truck-stop-gas-prices
 
-### 11. Mind-bending photos by anonymous cousins show the pain and dreams of Afghan women [8/10]
+### 6. ‘Pompeii, but in the middle of a massive city’: the ice age fossil site hidden in Los Angeles [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+La Brea Tar Pits – the only urban, active ice age excavation site in world – gets a mammoth face lift for the first time in nearly 50 years Los Angeles is known for famous museum such as the Getty and the Lacma, but perhaps fewer people…
+
+Link: https://www.theguardian.com/us-news/2026/may/24/la-brea-tar-pits-museum
+
+### 7. Former prosecutor pursued by Trump calls for crackdown on election lies: ‘Lying can be held to account’ [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Andrew Weissmann argues for new law to hold political liars like US president accountable for harming democracy Politicians must be held accountable if their lies damage democracy, according to a former US federal prosecutor and FBI…
+
+Link: https://www.theguardian.com/us-news/2026/may/24/andrew-weissmann-donald-trump-liars-kingdom
+
+### 8. Centering Intentional, Analytic Student Learning with Responsible AI Fellow Dr. Kate Lockwood [9/10]
+**Source:** CSTA  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Dr. Kate Lockwood is in her tenth year of teaching high school computer science at St. Paul Academy in St.... The post Centering Intentional, Analytic Student Learning with Responsible AI Fellow Dr.
+
+Link: https://csteachers.org/centering-intentional-analytic-student-learning-with-responsible-ai-fellow-dr-kate-lockwood/
+
+### 9. Fixing America’s Crumbling School Infrastructure is Centerpiece of Congressional Campaign [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+America’s schools are crumbling. There’s black mold in buildings in Alaska and Maine. Classrooms in New Jersey and Texas lack proper heating and cooling. And there are persistent plumbing problems in Idaho and Pennsylvania.
+
+Link: https://www.the74million.org/article/fixing-americas-crumbling-school-infrastructure-is-centerpiece-of-congressional-campaign/
+
+### 10. The Sunday Papers [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Sundays are for setting up a fan fiction writing group with your fellow RPG dungeon masters. You gather in a nice living room that often reminds visitors of the beloved previous tenants, and you write something.
+
+Link: https://www.rockpapershotgun.com/the-sunday-papers-811
+
+### 11. ‘The knickers that get thrown are bigger now!’: Barry Manilow on fans, love, coming out - and turning 82 [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The great showman has spent the last 50 years on stage, followed by his adoring “fanilows” - but he’s not slowing down yet. Here, he talks about cancer, ridicule and roaring success His name is Barry, he is a showman – as we all know.
+
+Link: https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/25/barry-manilow-interview-fans-love-coming-out-turning-82
+
+### 12. On Trails is a wandering tale that blends hiking, science, and history [8/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Hiking is one of life's great joys. Turning off the screens and stepping out into nature for an extended period of time, perhaps even several days, is rejuvenating.
+
+Link: https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review
+
+### 13. Mind-bending photos by anonymous cousins show the pain and dreams of Afghan women [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -117,36 +135,18 @@ The young women make photos that look at life — how it is, how they wish it co
 
 Link: https://www.npr.org/2026/05/24/g-s1-123443/photos-afghanistan-women-taliban
 
-### 12. Whatever the mirror test tells us, beluga whales pass it [8/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-The white whales join the short, contested list of animals that see themselves.
-
-Link: https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/
-
-### 13. Destiny 2 players share their memories and reviews - positive and negative - as Bungie calls time [8/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Bungie fans are battling it out on Destiny 2 's Steam page, where unhappy fans are mounting a negative review campaign, and supporters are doing their best to mitigate it. Read more
-
-Link: https://www.eurogamer.net/destiny-2-cancelled-player-reviews
-
 ## YouTube
 
-### DeepSeek’s New AI Is A Game Changer [8/10]
-**Creator:** Two Minute Papers  
+### Airline ticket prices continue to rise as stalemate in Iran drags on [8/10]
+**Creator:** NPR  
 **Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://github.com/ailuntx/Thinking-with-Visual-Primitives https://huggingface.
+Air travel continues to get more expensive ahead of the busy summer season. A domestic flight in mid-May costs, on average, about $94 more than it did a year ago, according to Kayak. International flights have gone up even more.
 
-Link: https://www.youtube.com/watch?v=LpXhy2iiaQE
+Link: https://www.youtube.com/watch?v=F1mQoegwHGU
 
-### U.S. expanding use of private security at airports [10/10]
+### U.S. expanding use of private security at airports [9/10]
 **Creator:** NPR  
 **Verdict:** Watch it  
 **Why it matters:** Relevant to your current interest graph.
@@ -164,9 +164,9 @@ Type, tap, scroll, BREATHE! How our tech use affects our breath.
 
 Link: https://www.youtube.com/watch?v=5ValdwcHGsM
 
-### Trump-branded phones finally shipping to customers [7/10]
+### Trump-branded phones finally shipping to customers [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 Trump Mobile says its smartphones are beginning to ship to customers — nearly a year after the company first began taking orders.
@@ -209,33 +209,6 @@ The comedian and businessman Byron Allen is now going up against Jimmy Fallon an
 
 Link: https://www.youtube.com/watch?v=dJBDXGTL8ww
 
-### Byron Allen says CBS put no limits on his show replacing Stephen Colbert [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-There’s a new host taking over Stephen Colbert’s late-night time slot on CBS: Byron Allen.
-
-Link: https://www.youtube.com/watch?v=40ULpEoYyDU
-
-### Should Sony Bring "Quick Resume" To PlayStation 6? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/GHKbNNmzQOU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=qxeBKQiM3jg
-
-### Is Xbox Planning a "Disc To Digital" Game Transfer Option? [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=_R825BomWm0
-
 ### Are the "Console Wars" About to Kick Off Again? | Unpacked [7/10]
 **Creator:** Second Wind  
 **Verdict:** Probably worth watching  
@@ -262,33 +235,6 @@ Link: https://www.youtube.com/watch?v=54OsAXDnLqQ
 The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.
 
 Link: https://www.youtube.com/watch?v=ufmRGqHuMKY
-
-### Dream Pairings of Developers and IP | Firelink Podcast [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.
-
-Link: https://www.youtube.com/watch?v=UHpjYkdj2sg
-
-### Dark Souls 2 DLC Season w/ Jack and Jess -- Part 8 [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.
-
-Link: https://www.youtube.com/watch?v=TJV7kPjtS-I
-
-### Can We Actually Make Exotic Weapons... Exotic? | Semi-Ramblomatic [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.com/ember Video game weapons have a utility issue. Support us on Patreon: https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=WibIP5xB4zE
 
 ## Entertainment Recommendations
 
@@ -400,6 +346,24 @@ Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by M
 
 Link: https://www.youtube.com/watch?v=sEz074LTiV8
 
+### Millie Bobby Brown and Louis Partridge crack the case of the Enola Holmes 3 trailer drop date [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+SAVE THE DATE 💌 #EnolaHolmes3 #Netflix Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=JNSUtGlhHKU
+
+### Avatar: The Last Airbender Cast Recaps Season 1 with a Game of Two Truths & A Lie | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The cast of Avatar: The Last Airbender recaps Season 1 with a game of Two Truths & A Lie. Season 1 is now playing, and Season 2 is coming June 25, only on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=HmvHY3IK1UA
+
 ### Tip for meeting the boss, don't make it weird. Office Romance premieres June 5th #Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -498,24 +462,6 @@ Link: https://www.youtube.com/watch?v=bWtrFcerKE0
 In a small East Texas town, a young woman from a wealthy family falls for a local hog trapper. Their relationship appears perfect and within months she's pregnant and proudly showing off her baby bump all over social media.
 
 Link: https://www.youtube.com/watch?v=fzW61JgRbNk
-
-### Perfect Match: Season 4 | Sneak Peek | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-More swaps. More sparks. More drama. Reality stars from "Love Is Blind," "Love Island" and more shake up the game, but who'll find their perfect match? Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=VGzqkAB_-hQ
-
-### Voicemails for Isabelle | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Jill copes with her sister’s death by leaving her voicemails chronicling her chaotic life in San Francisco.
-
-Link: https://www.youtube.com/watch?v=9mi3YVYm3ZU
 
 ### Frog and Toad — Too Many Cookies | Season 1 Scene | Apple TV [7/10]
 **Source:** Apple TV  
