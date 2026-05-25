@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-25T09:01:27.752673Z
+Generated: 2026-05-25T14:00:01.784023Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are Middle East crisis live: Iran says progress made on many issues with US but warns deal not ‘imminent’, Guzman y Gomez faces class action from US workers over closed stores, and ‘Massive’ child abuse scandal in France as school staff investigated for violence and sexual assault.
+Today's sweep leans toward Democracy / anti-fascism, Games / criticism, Democracy / press freedom. The strongest items in this run are Middle East crisis live: Trump suggests countries in region should sign Abraham accords recognising Israel under any deal, The opening mission of 007 First Light leaked online, so IO have fought fire with fire by offering up the game's first 13 minutes, and The BHP files: World’s biggest miner BHP backtracks on climate action with key projects put on ice, leaked documents reveal.
 
 ## Briefing
 
@@ -18,25 +18,61 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. Middle East crisis live: Iran says progress made on many issues with US but warns deal not ‘imminent’ [10/10]
+### 1. Middle East crisis live: Trump suggests countries in region should sign Abraham accords recognising Israel under any deal [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Potential deal reportedly includes a 60-day ceasefire extension, reopening the strait of Hormuz and a plan for further nuclear talks US and Iran inch closer to peace deal as Trump faces criticism from GOP hawks Ebrahim Rezaei, the…
+Writing on social media, US president says countries should make settlement with Iran ‘a far more Historic Event’ Iran denies deal with US is imminent, despite some progress Ebrahim Rezaei, the spokesperson of the Iranian parliament’s…
 
 Link: https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz
 
-### 2. Guzman y Gomez faces class action from US workers over closed stores [10/10]
+### 2. The opening mission of 007 First Light leaked online, so IO have fought fire with fire by offering up the game's first 13 minutes [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+As is the case with most big name games that people are desperate to get their hands on, over the weekend the opening mission of 007 First Light leaked online due to someone seemingly acquiring a disc copy a touch early .
+
+Link: https://www.rockpapershotgun.com/the-opening-mission-of-007-first-light-leaked-online-so-io-have-fought-fire-with-fire-by-offering-up-the-games-first-13-minutes
+
+### 3. The BHP files: World’s biggest miner BHP backtracks on climate action with key projects put on ice, leaked documents reveal [10/10]
 **Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Mexican-themed Australian fast food chain accused of terminating staff without adequate pay or notice as it pulls out of the US American workers at Guzman y Gomez’s shuttered US stores have launched a class action lawsuit against the…
+Exclusive: Cache of internal documents leaked to the Guardian and the ABC’s Four Corners show multinational has war-gamed ways to massively delay decarbonisation Revealed: the internal BHP memo that slammed the brakes on world’s biggest…
 
-Link: https://www.theguardian.com/food/2026/may/25/gyg-class-action-workers-closed-chicago-stores-guzman-y-gomez
+Link: https://www.theguardian.com/world/2026/may/25/bhp-files-leak-mining-company-climate-action
 
-### 3. ‘Massive’ child abuse scandal in France as school staff investigated for violence and sexual assault [10/10]
+### 4. Opinion: Children Are Drowning. It’s Time We Bring in the Teachers [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+The first time a 5-year-old told me swimming wasn’t for him, I asked him what he meant. He shrugged. No one in his family had ever learned. It just wasn’t for people like them.
+
+Link: https://www.the74million.org/article/children-are-drowning-its-time-we-bring-in-the-teachers/
+
+### 5. Your first look at Unreal Engine 6 comes courtesy of a much shinier looking Rocket League teaser [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Epic Games have made no secret of the next release of Unreal Engine; they first shared some details about the follow-up back in 2024 , namely that it's being built around the idea of "interoperable content" that can be switched between any…
+
+Link: https://www.rockpapershotgun.com/your-first-look-at-unreal-engine-6-comes-courtesy-of-a-much-shinier-looking-rocket-league-teaser
+
+### 6. This big university system is embracing AI. Students and faculty aren't all on board [10/10]
+**Source:** NPR Tech  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+The California State University system offers an early look at what happens when an administration commits to a technology that its own community isn't convinced will improve education.
+
+Link: https://www.npr.org/2026/05/25/nx-s1-5772820/artificial-intelligence-education-technology-california-state-university
+
+### 7. ‘Massive’ child abuse scandal in France as school staff investigated for violence and sexual assault [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -45,97 +81,70 @@ Paris police looking into more than 100 allegations of mistreatment by ‘monito
 
 Link: https://www.theguardian.com/world/2026/may/25/massive-child-abuse-scandal-in-france-as-school-staff-investigated-for-violence-and-sexual-assault
 
-### 4. The Mandalorian and Grogu has lowest box office opening for a Star Wars film in Disney era [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Film starring Pedro Pascal next to ‘Baby Yoda’ took $165m globally on opening weekend, failing to surpass the opening of 2018 flop Solo The Mandalorian and Grogu may have blasted into first place at the box office – but its launch was far,…
-
-Link: https://www.theguardian.com/film/2026/may/25/the-mandalorian-and-grogu-has-lowest-box-office-opening-for-a-star-wars-film-in-disney-era
-
-### 5. Star Citizen tops $1 billion crowdfunding milestone as "$5000 JPEG" spaceship you cannot use yet goes on sale [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-It's official: Star Citizen , Cloud Imperium Games' multiplayer sci-fi sim, has now topped $1 billion in crowdfunding. Read more
-
-Link: https://www.eurogamer.net/star-citizen-tops-1-billion-sells-5000-unflyable-spaceship
-
-### 6. ‘Pompeii, but in the middle of a massive city’: the ice age fossil site hidden in Los Angeles [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-La Brea Tar Pits – the only urban, active ice age excavation site in world – gets a mammoth face lift for the first time in nearly 50 years Los Angeles is known for famous museums such as the Getty and the Lacma, but perhaps fewer people…
-
-Link: https://www.theguardian.com/us-news/2026/may/24/la-brea-tar-pits-museum
-
-### 7. Former prosecutor pursued by Trump calls for crackdown on election lies: ‘Lying can be held to account’ [9/10]
+### 8. Chemical tank crack eases explosion fears as 50,000 residents flee California [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Andrew Weissmann argues for new law to hold political liars like US president accountable for harming democracy Politicians must be held accountable if their lies damage democracy, according to a former US federal prosecutor and FBI…
+US officials hope damaged tank at California aerospace site will relieve pressure and avert blast risk A damaged chemical tank in southern California cracked over the weekend, which authorities were hopeful would relieve pressure and…
 
-Link: https://www.theguardian.com/us-news/2026/may/24/andrew-weissmann-donald-trump-liars-kingdom
+Link: https://www.theguardian.com/us-news/2026/may/25/chemical-tank-crack-california
 
-### 8. Centering Intentional, Analytic Student Learning with Responsible AI Fellow Dr. Kate Lockwood [9/10]
-**Source:** CSTA  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 9. The one change that worked: I struggled to get any work done – until I bought a kitchen timer [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Dr. Kate Lockwood is in her tenth year of teaching high school computer science at St. Paul Academy in St.... The post Centering Intentional, Analytic Student Learning with Responsible AI Fellow Dr.
+After years of procrastination, even the most trivial task felt like climbing a mountain.
 
-Link: https://csteachers.org/centering-intentional-analytic-student-learning-with-responsible-ai-fellow-dr-kate-lockwood/
+Link: https://www.theguardian.com/lifeandstyle/2026/may/25/the-one-change-that-worked-putting-things-off-pomodoro-timer
 
-### 9. Fixing America’s Crumbling School Infrastructure is Centerpiece of Congressional Campaign [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 10. ‘A masterclass in lesbian eroticism’: why Bound is my feelgood movie [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-America’s schools are crumbling. There’s black mold in buildings in Alaska and Maine. Classrooms in New Jersey and Texas lack proper heating and cooling. And there are persistent plumbing problems in Idaho and Pennsylvania.
+The latest in our ongoing series of writers celebrating their most rewatched comfort films is a pick for 1996’s revealing and relatable romantic thriller I’m not necessarily inclined towards what might typically be dubbed “feelgood”.
 
-Link: https://www.the74million.org/article/fixing-americas-crumbling-school-infrastructure-is-centerpiece-of-congressional-campaign/
+Link: https://www.theguardian.com/film/2026/may/25/why-bound-is-my-feelgood-movie
 
-### 10. The Sunday Papers [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 11. US's big bet on quantum computing may not be entirely legal [8/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Sundays are for setting up a fan fiction writing group with your fellow RPG dungeon masters. You gather in a nice living room that often reminds visitors of the beloved previous tenants, and you write something.
+Deal also launched the first quantum foundry company, but is there a need for it?
 
-Link: https://www.rockpapershotgun.com/the-sunday-papers-811
+Link: https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/
 
-### 11. Gamifying good health. That's the goal of this insurance company [8/10]
+### 12. In Beirut, refugee girls and women learn more than self-defense in martial arts class [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-You've heard of lower car insurance rates for good drivers. Now, one of the nation's oldest insurance company wants to incentivize good health and longevity with lower rates and bonuses for people who adopt and maintain healthy habits.
+In the male-dominated world of Palestinian refugee camps in Lebanon, a martial arts teacher offers women a way to empowerment.
 
-Link: https://www.npr.org/2026/05/25/nx-s1-5820938/gamifying-good-health-thats-the-goal-of-this-insurance-company
+Link: https://www.npr.org/2026/05/25/g-s1-120826/lebanon-women-martial-arts
 
-### 12. Sweden’s PM puts IVF at centre of re-election bid amid record low birthrate [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 13. An Incomplete List of Successful Anti-Data Center Legislation [7/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-Ulf Kristersson aims to expand state-funded IVF as Sweden grapples with lowest fertility rate since records began Sweden’s prime minister has promised to put IVF at the heart of his re-election campaign as he tries to win over female…
+No one wants to live next to a noisy computer warehouse and communities across the country are successfully fighting them.
 
-Link: https://www.theguardian.com/world/2026/may/25/sweden-pm-ivf-re-election-record-low-birthrate
-
-### 13. On Trails is a wandering tale that blends hiking, science, and history [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Hiking is one of life's great joys. Turning off the screens and stepping out into nature for an extended period of time, perhaps even several days, is rejuvenating.
-
-Link: https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review
+Link: https://www.404media.co/an-incomplete-list-of-successful-anti-data-center-legislation/
 
 ## YouTube
+
+### How campaign staffers are making money betting on their own candidates [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Campaign staffers are gaming prediction markets and betting on their own candidates to make money. One staffer told NPR they made "thousands" using insider information.
+
+Link: https://www.youtube.com/watch?v=PrBQOGImsA4
 
 ### Airline ticket prices continue to rise as stalemate in Iran drags on [8/10]
 **Creator:** NPR  
@@ -146,9 +155,9 @@ Air travel continues to get more expensive ahead of the busy summer season. A do
 
 Link: https://www.youtube.com/watch?v=F1mQoegwHGU
 
-### U.S. expanding use of private security at airports [9/10]
+### U.S. expanding use of private security at airports [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 The Trump administration wants private companies to play a bigger role in airport security. The TSA says it plans to announce the first two to three airports in its new Gold+ program later this year.
@@ -200,15 +209,6 @@ Byron Allen and his show, "Comics Unleashed," are moving from the late late nigh
 
 Link: https://www.youtube.com/watch?v=iVJC7RRdXvY
 
-### Byron Allen on Stephen Colbert and their love for Johnny Carson [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The comedian and businessman Byron Allen is now going up against Jimmy Fallon and Jimmy Kimmel in the coveted 11:35 p.m.
-
-Link: https://www.youtube.com/watch?v=dJBDXGTL8ww
-
 ### Are the "Console Wars" About to Kick Off Again? | Unpacked [7/10]
 **Creator:** Second Wind  
 **Verdict:** Probably worth watching  
@@ -217,15 +217,6 @@ Link: https://www.youtube.com/watch?v=dJBDXGTL8ww
 Both PlayStation and Xbox seem to be going under a refocusing effort at the moment. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
 Link: https://www.youtube.com/watch?v=dbQjehN4uis
-
-### Astral Marmot and Jesse Galena Answer Your TTRPG Questions | RPG Help Desk [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Jesse Galena and Astral Marmot are now happily taking any and all of your TTRPG questions. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=54OsAXDnLqQ
 
 ## Entertainment Recommendations
 
@@ -337,6 +328,15 @@ Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by M
 
 Link: https://www.youtube.com/watch?v=sEz074LTiV8
 
+### The Marked Woman | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+‘The Marked Woman’ starring Candela Peña, is a suspense thriller based on the novel of the same name. Directed by Gabe Ibáñez and written by Lara Sendim, the film follows an investigation driven by mystery and urgency.
+
+Link: https://www.youtube.com/watch?v=161b4xLkokE
+
 ### Millie Bobby Brown and Louis Partridge crack the case of the Enola Holmes 3 trailer drop date [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -444,15 +444,6 @@ Link: https://www.youtube.com/watch?v=IQrJPP9cEHQ
 Rudd (John Cena) has the perfect life – great job, loving family, and a thriving career as a real estate agent… until his little brother, Marcus (Eric Andre), crashes back into his world as a full-blown agent of chaos, stress-testing every…
 
 Link: https://www.youtube.com/watch?v=bWtrFcerKE0
-
-### Maternal Instinct | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-In a small East Texas town, a young woman from a wealthy family falls for a local hog trapper. Their relationship appears perfect and within months she's pregnant and proudly showing off her baby bump all over social media.
-
-Link: https://www.youtube.com/watch?v=fzW61JgRbNk
 
 ### Frog and Toad — Too Many Cookies | Season 1 Scene | Apple TV [7/10]
 **Source:** Apple TV  

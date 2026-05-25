@@ -1,29 +1,69 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-25T09:01:27.752673Z",
-  "generatedAtDisplay": "2026-05-25 05:01 AM EDT",
+  "generatedAt": "2026-05-25T14:00:01.784023Z",
+  "generatedAtDisplay": "2026-05-25 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are Middle East crisis live: Iran says progress made on many issues with US but warns deal not ‘imminent’, Guzman y Gomez faces class action from US workers over closed stores, and ‘Massive’ child abuse scandal in France as school staff investigated for violence and sexual assault.",
+  "summary": "Today's sweep leans toward Democracy / anti-fascism, Games / criticism, Democracy / press freedom. The strongest items in this run are Middle East crisis live: Trump suggests countries in region should sign Abraham accords recognising Israel under any deal, The opening mission of 007 First Light leaked online, so IO have fought fire with fire by offering up the game's first 13 minutes, and The BHP files: World’s biggest miner BHP backtracks on climate action with key projects put on ice, leaked documents reveal.",
   "mainItems": [
     {
-      "title": "Middle East crisis live: Iran says progress made on many issues with US but warns deal not ‘imminent’",
+      "title": "Middle East crisis live: Trump suggests countries in region should sign Abraham accords recognising Israel under any deal",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
       "url": "https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz",
-      "published": "2026-05-25T08:55:50+00:00",
-      "summary": "Potential deal reportedly includes a 60-day ceasefire extension, reopening the strait of Hormuz and a plan for further nuclear talks US and Iran inch closer to peace deal as Trump faces criticism from GOP hawks Ebrahim Rezaei, the…",
+      "published": "2026-05-25T13:55:00+00:00",
+      "summary": "Writing on social media, US president says countries should make settlement with Iran ‘a far more Historic Event’ Iran denies deal with US is imminent, despite some progress Ebrahim Rezaei, the spokesperson of the Iranian parliament’s…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Guzman y Gomez faces class action from US workers over closed stores",
+      "title": "The opening mission of 007 First Light leaked online, so IO have fought fire with fire by offering up the game's first 13 minutes",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/the-opening-mission-of-007-first-light-leaked-online-so-io-have-fought-fire-with-fire-by-offering-up-the-games-first-13-minutes",
+      "published": "2026-05-25T10:46:15+00:00",
+      "summary": "As is the case with most big name games that people are desperate to get their hands on, over the weekend the opening mission of 007 First Light leaked online due to someone seemingly acquiring a disc copy a touch early .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "The BHP files: World’s biggest miner BHP backtracks on climate action with key projects put on ice, leaked documents reveal",
       "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/food/2026/may/25/gyg-class-action-workers-closed-chicago-stores-guzman-y-gomez",
-      "published": "2026-05-25T05:38:14+00:00",
-      "summary": "Mexican-themed Australian fast food chain accused of terminating staff without adequate pay or notice as it pulls out of the US American workers at Guzman y Gomez’s shuttered US stores have launched a class action lawsuit against the…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/may/25/bhp-files-leak-mining-company-climate-action",
+      "published": "2026-05-25T10:30:25+00:00",
+      "summary": "Exclusive: Cache of internal documents leaked to the Guardian and the ABC’s Four Corners show multinational has war-gamed ways to massively delay decarbonisation Revealed: the internal BHP memo that slammed the brakes on world’s biggest…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Children Are Drowning. It’s Time We Bring in the Teachers",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/children-are-drowning-its-time-we-bring-in-the-teachers/",
+      "published": "2026-05-25T10:30:00+00:00",
+      "summary": "The first time a 5-year-old told me swimming wasn’t for him, I asked him what he meant. He shrugged. No one in his family had ever learned. It just wasn’t for people like them.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Your first look at Unreal Engine 6 comes courtesy of a much shinier looking Rocket League teaser",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/your-first-look-at-unreal-engine-6-comes-courtesy-of-a-much-shinier-looking-rocket-league-teaser",
+      "published": "2026-05-25T09:30:06+00:00",
+      "summary": "Epic Games have made no secret of the next release of Unreal Engine; they first shared some details about the follow-up back in 2024 , namely that it's being built around the idea of \"interoperable content\" that can be switched between any…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "This big university system is embracing AI. Students and faculty aren't all on board",
+      "source": "NPR Tech",
+      "category": "CS education / AI policy",
+      "url": "https://www.npr.org/2026/05/25/nx-s1-5772820/artificial-intelligence-education-technology-california-state-university",
+      "published": "2026-05-25T09:00:00+00:00",
+      "summary": "The California State University system offers an early look at what happens when an administration commits to a technology that its own community isn't convinced will improve education.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -37,107 +77,78 @@
       "score": 10
     },
     {
-      "title": "The Mandalorian and Grogu has lowest box office opening for a Star Wars film in Disney era",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/may/25/the-mandalorian-and-grogu-has-lowest-box-office-opening-for-a-star-wars-film-in-disney-era",
-      "published": "2026-05-25T03:44:11+00:00",
-      "summary": "Film starring Pedro Pascal next to ‘Baby Yoda’ took $165m globally on opening weekend, failing to surpass the opening of 2018 flop Solo The Mandalorian and Grogu may have blasted into first place at the box office – but its launch was far,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Star Citizen tops $1 billion crowdfunding milestone as \"$5000 JPEG\" spaceship you cannot use yet goes on sale",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/star-citizen-tops-1-billion-sells-5000-unflyable-spaceship",
-      "published": "2026-05-24T22:10:08+00:00",
-      "summary": "It's official: Star Citizen , Cloud Imperium Games' multiplayer sci-fi sim, has now topped $1 billion in crowdfunding. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "‘Pompeii, but in the middle of a massive city’: the ice age fossil site hidden in Los Angeles",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/24/la-brea-tar-pits-museum",
-      "published": "2026-05-24T15:00:01+00:00",
-      "summary": "La Brea Tar Pits – the only urban, active ice age excavation site in world – gets a mammoth face lift for the first time in nearly 50 years Los Angeles is known for famous museums such as the Getty and the Lacma, but perhaps fewer people…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Former prosecutor pursued by Trump calls for crackdown on election lies: ‘Lying can be held to account’",
+      "title": "Chemical tank crack eases explosion fears as 50,000 residents flee California",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/may/24/andrew-weissmann-donald-trump-liars-kingdom",
-      "published": "2026-05-24T11:00:56+00:00",
-      "summary": "Andrew Weissmann argues for new law to hold political liars like US president accountable for harming democracy Politicians must be held accountable if their lies damage democracy, according to a former US federal prosecutor and FBI…",
+      "url": "https://www.theguardian.com/us-news/2026/may/25/chemical-tank-crack-california",
+      "published": "2026-05-25T12:35:19+00:00",
+      "summary": "US officials hope damaged tank at California aerospace site will relieve pressure and avert blast risk A damaged chemical tank in southern California cracked over the weekend, which authorities were hopeful would relieve pressure and…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Centering Intentional, Analytic Student Learning with Responsible AI Fellow Dr. Kate Lockwood",
-      "source": "CSTA",
-      "category": "CS education / AI policy",
-      "url": "https://csteachers.org/centering-intentional-analytic-student-learning-with-responsible-ai-fellow-dr-kate-lockwood/",
-      "published": "2026-05-24T11:00:00+00:00",
-      "summary": "Dr. Kate Lockwood is in her tenth year of teaching high school computer science at St. Paul Academy in St.... The post Centering Intentional, Analytic Student Learning with Responsible AI Fellow Dr.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "title": "The one change that worked: I struggled to get any work done – until I bought a kitchen timer",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/25/the-one-change-that-worked-putting-things-off-pomodoro-timer",
+      "published": "2026-05-25T09:00:22+00:00",
+      "summary": "After years of procrastination, even the most trivial task felt like climbing a mountain.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Fixing America’s Crumbling School Infrastructure is Centerpiece of Congressional Campaign",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/fixing-americas-crumbling-school-infrastructure-is-centerpiece-of-congressional-campaign/",
-      "published": "2026-05-24T10:30:00+00:00",
-      "summary": "America’s schools are crumbling. There’s black mold in buildings in Alaska and Maine. Classrooms in New Jersey and Texas lack proper heating and cooling. And there are persistent plumbing problems in Idaho and Pennsylvania.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "‘A masterclass in lesbian eroticism’: why Bound is my feelgood movie",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/film/2026/may/25/why-bound-is-my-feelgood-movie",
+      "published": "2026-05-25T09:00:21+00:00",
+      "summary": "The latest in our ongoing series of writers celebrating their most rewatched comfort films is a pick for 1996’s revealing and relatable romantic thriller I’m not necessarily inclined towards what might typically be dubbed “feelgood”.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "The Sunday Papers",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-811",
-      "published": "2026-05-24T10:00:00+00:00",
-      "summary": "Sundays are for setting up a fan fiction writing group with your fellow RPG dungeon masters. You gather in a nice living room that often reminds visitors of the beloved previous tenants, and you write something.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
+      "title": "US's big bet on quantum computing may not be entirely legal",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+      "published": "2026-05-25T12:00:15+00:00",
+      "summary": "Deal also launched the first quantum foundry company, but is there a need for it?",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 8
     },
     {
-      "title": "Gamifying good health. That's the goal of this insurance company",
+      "title": "In Beirut, refugee girls and women learn more than self-defense in martial arts class",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/25/nx-s1-5820938/gamifying-good-health-thats-the-goal-of-this-insurance-company",
-      "published": "2026-05-25T08:41:49+00:00",
-      "summary": "You've heard of lower car insurance rates for good drivers. Now, one of the nation's oldest insurance company wants to incentivize good health and longevity with lower rates and bonuses for people who adopt and maintain healthy habits.",
+      "url": "https://www.npr.org/2026/05/25/g-s1-120826/lebanon-women-martial-arts",
+      "published": "2026-05-25T10:00:00+00:00",
+      "summary": "In the male-dominated world of Palestinian refugee camps in Lebanon, a martial arts teacher offers women a way to empowerment.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Sweden’s PM puts IVF at centre of re-election bid amid record low birthrate",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/may/25/sweden-pm-ivf-re-election-record-low-birthrate",
-      "published": "2026-05-25T05:00:18+00:00",
-      "summary": "Ulf Kristersson aims to expand state-funded IVF as Sweden grapples with lowest fertility rate since records began Sweden’s prime minister has promised to put IVF at the heart of his re-election campaign as he tries to win over female…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
-      "title": "On Trails is a wandering tale that blends hiking, science, and history",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review",
-      "published": "2026-05-24T15:13:58+00:00",
-      "summary": "Hiking is one of life's great joys. Turning off the screens and stepping out into nature for an extended period of time, perhaps even several days, is rejuvenating.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
+      "title": "An Incomplete List of Successful Anti-Data Center Legislation",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/an-incomplete-list-of-successful-anti-data-center-legislation/",
+      "published": "2026-05-25T13:00:30+00:00",
+      "summary": "No one wants to live next to a noisy computer warehouse and communities across the country are successfully fighting them.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
     }
   ],
   "youtube": [
+    {
+      "title": "How campaign staffers are making money betting on their own candidates",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=PrBQOGImsA4",
+      "published": "2026-05-25T11:30:25+00:00",
+      "summary": "Campaign staffers are gaming prediction markets and betting on their own candidates to make money. One staffer told NPR they made \"thousands\" using insider information.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
     {
       "title": "Airline ticket prices continue to rise as stalemate in Iran drags on",
       "source": "NPR",
@@ -157,8 +168,8 @@
       "published": "2026-05-24T11:30:16+00:00",
       "summary": "The Trump administration wants private companies to play a bigger role in airport security. The TSA says it plans to announce the first two to three airports in its new Gold+ program later this year.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "How our tech use affects our breath",
@@ -216,17 +227,6 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Byron Allen on Stephen Colbert and their love for Johnny Carson",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=dJBDXGTL8ww",
-      "published": "2026-05-23T00:30:28+00:00",
-      "summary": "The comedian and businessman Byron Allen is now going up against Jimmy Fallon and Jimmy Kimmel in the coveted 11:35 p.m.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
       "title": "Are the \"Console Wars\" About to Kick Off Again? | Unpacked",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -236,17 +236,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Astral Marmot and Jesse Galena Answer Your TTRPG Questions | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=54OsAXDnLqQ",
-      "published": "2026-05-22T10:00:33+00:00",
-      "summary": "Jesse Galena and Astral Marmot are now happily taking any and all of your TTRPG questions. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     }
   ],
   "trailers": [
@@ -346,6 +335,17 @@
       "published": "2026-05-20T16:30:28+00:00",
       "summary": "Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Marked Woman | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=161b4xLkokE",
+      "published": "2026-05-25T10:00:00+00:00",
+      "summary": "‘The Marked Woman’ starring Candela Peña, is a suspense thriller based on the novel of the same name. Directed by Gabe Ibáñez and written by Lara Sendim, the film follows an investigation driven by mystery and urgency.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
     },
@@ -482,17 +482,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Maternal Instinct | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=fzW61JgRbNk",
-      "published": "2026-05-20T11:00:00+00:00",
-      "summary": "In a small East Texas town, a young woman from a wealthy family falls for a local hog trapper. Their relationship appears perfect and within months she's pregnant and proudly showing off her baby bump all over social media.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "Frog and Toad — Too Many Cookies | Season 1 Scene | Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
@@ -594,7 +583,7 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 10,
+    "youtubeCount": 9,
     "trailerCount": 23,
     "sourceCount": 16
   }
