@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-25T05:00:01.484478Z
+Generated: 2026-05-25T09:01:27.752673Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are ‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana, The Mandalorian and Grogu has lowest box office opening for a Star Wars film in Disney era, and ‘There is profound disappointment in him’: mood in Russia turns against Putin.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are Middle East crisis live: Iran says progress made on many issues with US but warns deal not ‘imminent’, Guzman y Gomez faces class action from US workers over closed stores, and ‘Massive’ child abuse scandal in France as school staff investigated for violence and sexual assault.
 
 ## Briefing
 
@@ -18,16 +18,34 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. ‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana [10/10]
+### 1. Middle East crisis live: Iran says progress made on many issues with US but warns deal not ‘imminent’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Potential deal reportedly includes a 60-day ceasefire extension, reopening the strait of Hormuz and a plan for further nuclear talks US and Iran inch closer to peace deal as Trump faces criticism from GOP hawks Ebrahim Rezaei, the…
+
+Link: https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz
+
+### 2. Guzman y Gomez faces class action from US workers over closed stores [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Mexican-themed Australian fast food chain accused of terminating staff without adequate pay or notice as it pulls out of the US American workers at Guzman y Gomez’s shuttered US stores have launched a class action lawsuit against the…
+
+Link: https://www.theguardian.com/food/2026/may/25/gyg-class-action-workers-closed-chicago-stores-guzman-y-gomez
+
+### 3. ‘Massive’ child abuse scandal in France as school staff investigated for violence and sexual assault [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was…
+Paris police looking into more than 100 allegations of mistreatment by ‘monitors’ after parents’ groups said they had fought for years to be taken seriously France is facing a child abuse scandal as ‘monitors’ at dozens of state nursery…
 
-Link: https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court
+Link: https://www.theguardian.com/world/2026/may/25/massive-child-abuse-scandal-in-france-as-school-staff-investigated-for-violence-and-sexual-assault
 
-### 2. The Mandalorian and Grogu has lowest box office opening for a Star Wars film in Disney era [10/10]
+### 4. The Mandalorian and Grogu has lowest box office opening for a Star Wars film in Disney era [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -36,16 +54,7 @@ Film starring Pedro Pascal next to ‘Baby Yoda’ took $165m globally on openin
 
 Link: https://www.theguardian.com/film/2026/may/25/the-mandalorian-and-grogu-has-lowest-box-office-opening-for-a-star-wars-film-in-disney-era
 
-### 3. ‘There is profound disappointment in him’: mood in Russia turns against Putin [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Increasingly isolated president is determined to press on with Ukraine war, say well-placed sources, despite ailing economy Vladimir Putin pulled up to a hotel in central Moscow earlier in May in a Russian-made SUV, dressed casually in…
-
-Link: https://www.theguardian.com/world/ng-interactive/2026/may/24/there-is-profound-disappointment-in-him-mood-in-russia-turns-against-putin
-
-### 4. Star Citizen tops $1 billion crowdfunding milestone as "$5000 JPEG" spaceship you cannot use yet goes on sale [9/10]
+### 5. Star Citizen tops $1 billion crowdfunding milestone as "$5000 JPEG" spaceship you cannot use yet goes on sale [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -54,21 +63,12 @@ It's official: Star Citizen , Cloud Imperium Games' multiplayer sci-fi sim, has 
 
 Link: https://www.eurogamer.net/star-citizen-tops-1-billion-sells-5000-unflyable-spaceship
 
-### 5. ‘It’s taking all of our money’: truck drivers in Iowa lament gas price surge sparked by Trump’s Iran war [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-As the summer season warms up, long-haul truck drivers lament their bills and vendors worry about raising prices The self-proclaimed largest truck stop in the world offers drivers just about everything they might need during a break.
-
-Link: https://www.theguardian.com/us-news/2026/may/24/iowa-truck-stop-gas-prices
-
 ### 6. ‘Pompeii, but in the middle of a massive city’: the ice age fossil site hidden in Los Angeles [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-La Brea Tar Pits – the only urban, active ice age excavation site in world – gets a mammoth face lift for the first time in nearly 50 years Los Angeles is known for famous museum such as the Getty and the Lacma, but perhaps fewer people…
+La Brea Tar Pits – the only urban, active ice age excavation site in world – gets a mammoth face lift for the first time in nearly 50 years Los Angeles is known for famous museums such as the Getty and the Lacma, but perhaps fewer people…
 
 Link: https://www.theguardian.com/us-news/2026/may/24/la-brea-tar-pits-museum
 
@@ -108,16 +108,25 @@ Sundays are for setting up a fan fiction writing group with your fellow RPG dung
 
 Link: https://www.rockpapershotgun.com/the-sunday-papers-811
 
-### 11. ‘The knickers that get thrown are bigger now!’: Barry Manilow on fans, love, coming out - and turning 82 [8/10]
+### 11. Gamifying good health. That's the goal of this insurance company [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+You've heard of lower car insurance rates for good drivers. Now, one of the nation's oldest insurance company wants to incentivize good health and longevity with lower rates and bonuses for people who adopt and maintain healthy habits.
+
+Link: https://www.npr.org/2026/05/25/nx-s1-5820938/gamifying-good-health-thats-the-goal-of-this-insurance-company
+
+### 12. Sweden’s PM puts IVF at centre of re-election bid amid record low birthrate [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-The great showman has spent the last 50 years on stage, followed by his adoring “fanilows” - but he’s not slowing down yet. Here, he talks about cancer, ridicule and roaring success His name is Barry, he is a showman – as we all know.
+Ulf Kristersson aims to expand state-funded IVF as Sweden grapples with lowest fertility rate since records began Sweden’s prime minister has promised to put IVF at the heart of his re-election campaign as he tries to win over female…
 
-Link: https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/25/barry-manilow-interview-fans-love-coming-out-turning-82
+Link: https://www.theguardian.com/world/2026/may/25/sweden-pm-ivf-re-election-record-low-birthrate
 
-### 12. On Trails is a wandering tale that blends hiking, science, and history [8/10]
+### 13. On Trails is a wandering tale that blends hiking, science, and history [8/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -125,15 +134,6 @@ Link: https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/25/barry-
 Hiking is one of life's great joys. Turning off the screens and stepping out into nature for an extended period of time, perhaps even several days, is rejuvenating.
 
 Link: https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review
-
-### 13. Mind-bending photos by anonymous cousins show the pain and dreams of Afghan women [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The young women make photos that look at life — how it is, how they wish it could be — under Taliban rule. The images are on display at the Photoville Festival in Brooklyn, New York.
-
-Link: https://www.npr.org/2026/05/24/g-s1-123443/photos-afghanistan-women-taliban
 
 ## YouTube
 
@@ -226,15 +226,6 @@ Link: https://www.youtube.com/watch?v=dbQjehN4uis
 Jesse Galena and Astral Marmot are now happily taking any and all of your TTRPG questions. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=54OsAXDnLqQ
-
-### Dark Souls 2 DLC Season w/ Jack and Jess -- Part 9 [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.
-
-Link: https://www.youtube.com/watch?v=ufmRGqHuMKY
 
 ## Entertainment Recommendations
 
@@ -346,7 +337,7 @@ Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by M
 
 Link: https://www.youtube.com/watch?v=sEz074LTiV8
 
-### Millie Bobby Brown and Louis Partridge crack the case of the Enola Holmes 3 trailer drop date [10/10]
+### Millie Bobby Brown and Louis Partridge crack the case of the Enola Holmes 3 trailer drop date [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.

@@ -1,18 +1,38 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-25T05:00:01.484478Z",
-  "generatedAtDisplay": "2026-05-25 01:00 AM EDT",
+  "generatedAt": "2026-05-25T09:01:27.752673Z",
+  "generatedAtDisplay": "2026-05-25 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are ‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana, The Mandalorian and Grogu has lowest box office opening for a Star Wars film in Disney era, and ‘There is profound disappointment in him’: mood in Russia turns against Putin.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are Middle East crisis live: Iran says progress made on many issues with US but warns deal not ‘imminent’, Guzman y Gomez faces class action from US workers over closed stores, and ‘Massive’ child abuse scandal in France as school staff investigated for violence and sexual assault.",
   "mainItems": [
     {
-      "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
+      "title": "Middle East crisis live: Iran says progress made on many issues with US but warns deal not ‘imminent’",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz",
+      "published": "2026-05-25T08:55:50+00:00",
+      "summary": "Potential deal reportedly includes a 60-day ceasefire extension, reopening the strait of Hormuz and a plan for further nuclear talks US and Iran inch closer to peace deal as Trump faces criticism from GOP hawks Ebrahim Rezaei, the…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Guzman y Gomez faces class action from US workers over closed stores",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/food/2026/may/25/gyg-class-action-workers-closed-chicago-stores-guzman-y-gomez",
+      "published": "2026-05-25T05:38:14+00:00",
+      "summary": "Mexican-themed Australian fast food chain accused of terminating staff without adequate pay or notice as it pulls out of the US American workers at Guzman y Gomez’s shuttered US stores have launched a class action lawsuit against the…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "‘Massive’ child abuse scandal in France as school staff investigated for violence and sexual assault",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
-      "published": "2026-05-25T04:00:15+00:00",
-      "summary": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was…",
+      "url": "https://www.theguardian.com/world/2026/may/25/massive-child-abuse-scandal-in-france-as-school-staff-investigated-for-violence-and-sexual-assault",
+      "published": "2026-05-25T05:00:18+00:00",
+      "summary": "Paris police looking into more than 100 allegations of mistreatment by ‘monitors’ after parents’ groups said they had fought for years to be taken seriously France is facing a child abuse scandal as ‘monitors’ at dozens of state nursery…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -27,16 +47,6 @@
       "score": 10
     },
     {
-      "title": "‘There is profound disappointment in him’: mood in Russia turns against Putin",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/24/there-is-profound-disappointment-in-him-mood-in-russia-turns-against-putin",
-      "published": "2026-05-24T05:00:47+00:00",
-      "summary": "Increasingly isolated president is determined to press on with Ukraine war, say well-placed sources, despite ailing economy Vladimir Putin pulled up to a hotel in central Moscow earlier in May in a Russian-made SUV, dressed casually in…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
       "title": "Star Citizen tops $1 billion crowdfunding milestone as \"$5000 JPEG\" spaceship you cannot use yet goes on sale",
       "source": "Eurogamer",
       "category": "Games / criticism",
@@ -47,22 +57,12 @@
       "score": 9
     },
     {
-      "title": "‘It’s taking all of our money’: truck drivers in Iowa lament gas price surge sparked by Trump’s Iran war",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/24/iowa-truck-stop-gas-prices",
-      "published": "2026-05-24T15:16:44+00:00",
-      "summary": "As the summer season warms up, long-haul truck drivers lament their bills and vendors worry about raising prices The self-proclaimed largest truck stop in the world offers drivers just about everything they might need during a break.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
       "title": "‘Pompeii, but in the middle of a massive city’: the ice age fossil site hidden in Los Angeles",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/us-news/2026/may/24/la-brea-tar-pits-museum",
       "published": "2026-05-24T15:00:01+00:00",
-      "summary": "La Brea Tar Pits – the only urban, active ice age excavation site in world – gets a mammoth face lift for the first time in nearly 50 years Los Angeles is known for famous museum such as the Getty and the Lacma, but perhaps fewer people…",
+      "summary": "La Brea Tar Pits – the only urban, active ice age excavation site in world – gets a mammoth face lift for the first time in nearly 50 years Los Angeles is known for famous museums such as the Getty and the Lacma, but perhaps fewer people…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
@@ -107,12 +107,22 @@
       "score": 9
     },
     {
-      "title": "‘The knickers that get thrown are bigger now!’: Barry Manilow on fans, love, coming out - and turning 82",
+      "title": "Gamifying good health. That's the goal of this insurance company",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/05/25/nx-s1-5820938/gamifying-good-health-thats-the-goal-of-this-insurance-company",
+      "published": "2026-05-25T08:41:49+00:00",
+      "summary": "You've heard of lower car insurance rates for good drivers. Now, one of the nation's oldest insurance company wants to incentivize good health and longevity with lower rates and bonuses for people who adopt and maintain healthy habits.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Sweden’s PM puts IVF at centre of re-election bid amid record low birthrate",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/25/barry-manilow-interview-fans-love-coming-out-turning-82",
-      "published": "2026-05-25T04:00:16+00:00",
-      "summary": "The great showman has spent the last 50 years on stage, followed by his adoring “fanilows” - but he’s not slowing down yet. Here, he talks about cancer, ridicule and roaring success His name is Barry, he is a showman – as we all know.",
+      "url": "https://www.theguardian.com/world/2026/may/25/sweden-pm-ivf-re-election-record-low-birthrate",
+      "published": "2026-05-25T05:00:18+00:00",
+      "summary": "Ulf Kristersson aims to expand state-funded IVF as Sweden grapples with lowest fertility rate since records began Sweden’s prime minister has promised to put IVF at the heart of his re-election campaign as he tries to win over female…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 8
     },
@@ -124,16 +134,6 @@
       "published": "2026-05-24T15:13:58+00:00",
       "summary": "Hiking is one of life's great joys. Turning off the screens and stepping out into nature for an extended period of time, perhaps even several days, is rejuvenating.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
-    },
-    {
-      "title": "Mind-bending photos by anonymous cousins show the pain and dreams of Afghan women",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/24/g-s1-123443/photos-afghanistan-women-taliban",
-      "published": "2026-05-24T12:40:01+00:00",
-      "summary": "The young women make photos that look at life — how it is, how they wish it could be — under Taliban rule. The images are on display at the Photoville Festival in Brooklyn, New York.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
   ],
@@ -247,17 +247,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
-    },
-    {
-      "title": "Dark Souls 2 DLC Season w/ Jack and Jess -- Part 9",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=ufmRGqHuMKY",
-      "published": "2026-05-22T08:08:46+00:00",
-      "summary": "The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     }
   ],
   "trailers": [
@@ -368,7 +357,7 @@
       "published": "2026-05-24T17:22:21+00:00",
       "summary": "SAVE THE DATE 💌 #EnolaHolmes3 #Netflix Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -605,7 +594,7 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 11,
+    "youtubeCount": 10,
     "trailerCount": 23,
     "sourceCount": 16
   }
