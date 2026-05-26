@@ -1,78 +1,78 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-26T05:00:02.137723Z",
-  "generatedAtDisplay": "2026-05-26 01:00 AM EDT",
+  "generatedAt": "2026-05-26T09:01:36.418720Z",
+  "generatedAtDisplay": "2026-05-26 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are Ozzy Osbourne AI avatar will be ‘so tasteful’, Jack Osbourne says after fan backlash, This big university system is embracing AI. Students and faculty aren't all on board, and Explosion threat at southern California chemical tank eliminated, firefighters say.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are The Vivisectors by Missouri Williams review – twisted love story from a cult writer, US students on why they booed their pro-AI graduation speakers: ‘They’re not reading the room’, and Crossing the Wine Dark Sea by Emily Wilson review – a masterclass in translation.",
   "mainItems": [
     {
-      "title": "Ozzy Osbourne AI avatar will be ‘so tasteful’, Jack Osbourne says after fan backlash",
+      "title": "The Vivisectors by Missouri Williams review – twisted love story from a cult writer",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/music/2026/may/26/ozzy-osbourne-ai-avatar-backlash-jack-osbourne-response",
-      "published": "2026-05-26T01:40:43+00:00",
-      "summary": "Lifesize avatar of former Black Sabbath frontman will be created by tech companies Hyperreal and Proto Hologram A year after his death, Ozzy Osbourne is set to be recreated as a lifesized AI-powered avatar, his family have announced – but…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/books/2026/may/26/the-vivisectors-by-missouri-williams-review-twisted-love-story-from-a-cult-writer",
+      "published": "2026-05-26T08:00:50+00:00",
+      "summary": "Williams follows her prize-winning debut with a gothically overstuffed tale of a cynical young woman in a crumbling university town Missouri Williams’s darkly absurd and wilfully grotesque debut novel, The Doloriad , concerned itself with…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "This big university system is embracing AI. Students and faculty aren't all on board",
-      "source": "NPR Tech",
+      "title": "US students on why they booed their pro-AI graduation speakers: ‘They’re not reading the room’",
+      "source": "The Guardian US",
       "category": "CS education / AI policy",
-      "url": "https://www.npr.org/2026/05/25/nx-s1-5772820/artificial-intelligence-education-technology-california-state-university",
-      "published": "2026-05-25T09:00:00+00:00",
-      "summary": "The California State University system offers an early look at what happens when an administration commits to a technology that its own community isn't convinced will improve education.",
+      "url": "https://www.theguardian.com/technology/2026/may/26/students-boo-pro-ai-graduation-speakers",
+      "published": "2026-05-26T08:00:49+00:00",
+      "summary": "Recent college grads are not very fond of commencement speakers hyping up a technology they see as a threat to their career prospects When Jacob Pagel graduated from Middle Tennessee State University this spring, predictions about…",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "Explosion threat at southern California chemical tank eliminated, firefighters say",
+      "title": "Crossing the Wine Dark Sea by Emily Wilson review – a masterclass in translation",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/books/2026/may/26/crossing-the-wine-dark-sea-by-emily-wilson-review-a-masterclass-in-translation",
+      "published": "2026-05-26T06:00:48+00:00",
+      "summary": "The polarising translator of the Odyssey and the Iliad sets out her philosophy in this fascinating collection Emily Wilson’s translations of the Odyssey in 2017 and the Iliad in 2023 are now the standard English-language versions,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Family of missing woman hope raid on UK-based sect will bring answers",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/uk-news/2026/may/26/family-of-missing-woman-hope-raid-on-uk-based-sect-will-bring-answers",
+      "published": "2026-05-26T06:00:46+00:00",
+      "summary": "Seven years after Lisa Wiese went missing, a police raid on the Ahmadi Religion of Peace and Light has given her family a glimmer of hope As he watched the footage of a convoy of police vehicles driving through the security gates of the…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Embarrassment for Japan’: PM wants to cut sales tax but cash registers say no",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/may/26/japan-pm-sanae-takaichi-pledged-sales-tax-cut-systems-arent-designed",
+      "published": "2026-05-26T05:43:27+00:00",
+      "summary": "Sanae Takaichi pledged to suspend an 8% levy on food sales, but retailers say their systems aren’t designed for a tax of zero per cent The Japanese government has pledged to suspend an 8% sales tax on food but says it is being thwarted by…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Rubio repeats call that Ukraine war ‘needs to end’ after call with Russia’s Lavrov – Europe live",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/may/25/chemical-tank-crack-california",
-      "published": "2026-05-25T22:46:05+00:00",
-      "summary": "US officials credit overnight cooling and monitoring for stabilising tank after leak fears triggered mass evacuation Firefighters contending with an overheating tank of hazardous chemicals in southern California said they had eliminated…",
+      "url": "https://www.theguardian.com/world/live/2026/may/26/europe-ukraine-russia-lithuania-eu-heatwave-hungary-magyar-france-latest-news-updates",
+      "published": "2026-05-26T08:36:28+00:00",
+      "summary": "US secretary of state appears to downplay warnings from Russian counterpart to move diplomats out of Kyiv The French government said Tuesday that seven people were reported to have died in connection to the recent heatwave baking much of…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Searching for Solidarity at the Train Station",
-      "source": "The Nation",
-      "category": "Democracy / press freedom",
-      "url": "https://www.thenation.com/article/culture/mattia-filice-drive-review/",
-      "published": "2026-05-25T21:00:00+00:00",
-      "summary": "Sara Krolewski Mattia Filice’s Driver , a poetic novel about train conductors in France, offers an empathetic vision of working for the public. The post Searching for Solidarity at the Train Station appeared first on The Nation .",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Cox Media fined after bragging it spied on users through their phones",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine",
-      "published": "2026-05-25T18:28:30+00:00",
-      "summary": "An exceptionally weird controversy has come back to haunt Cox Media and a pair of marketing firms, which claimed they were secretly listening to users via phones and smart devices - despite little evidence they actually could.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Protesters clash with ICE agents outside New Jersey detention center",
+      "title": "Landmarks review – Lucrecia Martel’s beautiful account of an Indigenous murder case",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/25/new-jersey-ice-immigration-protest",
-      "published": "2026-05-25T18:25:00+00:00",
-      "summary": "Protesters say agents used pepper spray and batons in clash outside Delaney Hall where a hunger strike is under way Protesters outside a New Jersey migrant detention center where a hunger strike is under way alleged that US immigration…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Most of Bungie's staff were reportedly unaware of the decision to end active development on Destiny 2 until it went public",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/most-of-bungies-staff-were-reportedly-unaware-of-the-decision-to-end-active-development-on-destiny-2-until-it-went-public",
-      "published": "2026-05-25T14:37:46+00:00",
-      "summary": "Last week, Bungie made a half surprising, half the writing was on the wall decision to end active development on Destiny 2 .",
+      "url": "https://www.theguardian.com/film/2026/may/26/landmarks-review-lucrecia-martels-beautiful-account-of-an-indigenous-case",
+      "published": "2026-05-26T06:00:48+00:00",
+      "summary": "Martel’s documentary about the shooting of Javier Chocobar is a mannered and dignified work, laden with post-colonial tension and the weight of institutions The great doyenne of Argentine cinema, writer-director Lucrecia Martel (La…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
@@ -97,6 +97,16 @@
       "score": 9
     },
     {
+      "title": "Attacks from residents complicate the fight against a rare type of Ebola",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/05/26/nx-s1-5834815/attacks-complicate-fight-against-ebola",
+      "published": "2026-05-26T06:46:25+00:00",
+      "summary": "Three times in the past week, healthcare facilities have been attacked. On Sunday, angry young men stormed a hospital treating Ebola patients, forcing medical staff to evacuate them as gunfire rang out.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
       "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
       "source": "Ars Technica",
       "category": "AI / computing",
@@ -104,16 +114,6 @@
       "published": "2026-05-25T21:07:42+00:00",
       "summary": "In an age of AI, Pope looks for \"artisans of hope.\"",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
-    },
-    {
-      "title": "In Beirut, refugee girls and women learn more than self-defense in martial arts class",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/25/g-s1-120826/lebanon-women-martial-arts",
-      "published": "2026-05-25T10:00:00+00:00",
-      "summary": "In the male-dominated world of Palestinian refugee camps in Lebanon, a martial arts teacher offers women a way to empowerment.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -137,8 +137,395 @@
       "score": 7
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "DeepMind’s Insane AI Breakthroughs With CEO Demis Hassabis",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=huAwz_BR8WM",
+      "published": "2026-05-25T17:49:30+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Our Patreon if you wish to support us: https://www.patreon.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Gen Z outpacing millennials at owning a home in their 20s",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=-Samv37SJ5Y",
+      "published": "2026-05-25T15:30:00+00:00",
+      "summary": "Despite a historically unaffordable housing market, more Gen Zers in their 20s are managing to buy a home — and outpacing millennials when they were that age.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "How campaign staffers are making money betting on their own candidates",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=PrBQOGImsA4",
+      "published": "2026-05-25T11:30:25+00:00",
+      "summary": "Campaign staffers are gaming prediction markets and betting on their own candidates to make money. One staffer told NPR they made \"thousands\" using insider information.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Airline ticket prices continue to rise as stalemate in Iran drags on",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=F1mQoegwHGU",
+      "published": "2026-05-24T15:30:05+00:00",
+      "summary": "Air travel continues to get more expensive ahead of the busy summer season. A domestic flight in mid-May costs, on average, about $94 more than it did a year ago, according to Kayak. International flights have gone up even more.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "U.S. expanding use of private security at airports",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Xe5wjSx0e4Q",
+      "published": "2026-05-24T11:30:16+00:00",
+      "summary": "The Trump administration wants private companies to play a bigger role in airport security. The TSA says it plans to announce the first two to three airports in its new Gold+ program later this year.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "How our tech use affects our breath",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=5ValdwcHGsM",
+      "published": "2026-05-23T19:30:01+00:00",
+      "summary": "Type, tap, scroll, BREATHE! How our tech use affects our breath.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Trump-branded phones finally shipping to customers",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=XPG4J8vQ6Zk",
+      "published": "2026-05-23T15:30:26+00:00",
+      "summary": "Trump Mobile says its smartphones are beginning to ship to customers — nearly a year after the company first began taking orders.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "A reporter's journey back from the Ebola outbreak",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=bwBHq1VKauc",
+      "published": "2026-05-23T13:00:47+00:00",
+      "summary": "How is the United States responding to the Ebola outbreak? Global health reporter Michal Ruprecht documented his journey from Uganda — one of the countries affected by the public health emergency — to the U.S.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "How the Trump administration has shifted how the U.S. thinks about national security",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=1PDbhVxQ0k8",
+      "published": "2026-05-23T09:30:01+00:00",
+      "summary": "One of the Trump administration's most controversial figures, Sebastian Gorka, is the architect of a new counterterrorism strategy that marks a significant shift in priorities for the country's national intelligence apparatus.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Does Luna Abyss Scratch That FPS Itch? | Hot Monday Energy",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=jZMadCzJmgM",
+      "published": "2026-05-26T01:12:05+00:00",
+      "summary": "This week on Hidden Gems KC and Jess play Luna Abyss -- https://store.steampowered.com/app/1933000/Luna_Abyss/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Let's Talk About Metal Gear Solid | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=iSYlCzXvUVE",
+      "published": "2026-05-25T18:49:49+00:00",
+      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty chat about how the original 1998 Metal Gear Solid remains a singularly weird and wonderful experience.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Beautiful & Baffling Designs of Metal Gear Solid | Design Delve",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=9gNENiGkB6o",
+      "published": "2026-05-25T15:01:08+00:00",
+      "summary": "In today's episode, J & Ludo sneak into the world of Metal Gear Solid to see how its creative developers pushed boundaries cinematically and defined a genre for the PS1.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "RESIDENT EVIL – Zach Cregger on Survival Horror",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=N_KDtokTO1c",
+      "published": "2026-05-21T16:18:37+00:00",
+      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RESIDENT EVIL - Zach Cregger on Survival Horror",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=5gR1GTJPGqQ",
+      "published": "2026-05-21T16:00:09+00:00",
+      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY (2006) - 20th Anniversary - Official Trailer (HD)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=A0fgugC7ZCo",
+      "published": "2026-05-20T16:46:15+00:00",
+      "summary": "If you ain't first, you're last. 🏁 Ricky Bobby returns to the big screen. #TalladegaNights is back in theatres June 28, June 30, and July 1.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "The Death of Robin Hood | Official First Look | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ii1gTLxWukk",
+      "published": "2026-05-20T13:00:19+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Michael Sarnoski and starring Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett and Noah Jupe. THE DEATH OF ROBIN HOOD – In theaters June 19.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Tony | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=k1MVnzd2aVc",
+      "published": "2026-05-05T13:00:00+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas. TONY – In theaters this August.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "HER PRIVATE HELL - Official Teaser - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=iWqST_E9u_Q",
+      "published": "2026-05-18T14:00:27+00:00",
+      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "FIND YOUR FRIENDS | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=pT5y7-WwD8M",
+      "published": "2026-05-06T17:31:18+00:00",
+      "summary": "Amber and her four best girlfriends take a trip to escape the L.A. bubble and cut loose in Joshua Tree for the weekend. But upon arrival, they quickly realize the locals don’t want them there.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Built Different: Lee Cronin on Gore",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=NSilsgp90jE",
+      "published": "2026-05-22T18:37:15+00:00",
+      "summary": "It takes blood, guts, and heart to make a Gore horror movie. Lee Cronin unpacks the brutal horror subgenre. This is how he defines Gore, disrupts it, and takes it even further in Lee Cronin’s The Mummy.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Strung | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=sEz074LTiV8",
+      "published": "2026-05-20T16:30:28+00:00",
+      "summary": "Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Norway: The Dark Horse | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Z8pes4PRAUQ",
+      "published": "2026-05-26T07:00:00+00:00",
+      "summary": "Hope and history collide as an elite Norwegian squad fights to end a 26-year wait and earn a place at the 2026 World Cup in this rare-access documentary. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Marked Woman | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=161b4xLkokE",
+      "published": "2026-05-25T10:00:00+00:00",
+      "summary": "‘The Marked Woman’ starring Candela Peña, is a suspense thriller based on the novel of the same name. Directed by Gabe Ibáñez and written by Lara Sendim, the film follows an investigation driven by mystery and urgency.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Millie Bobby Brown and Louis Partridge crack the case of the Enola Holmes 3 trailer drop date",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=JNSUtGlhHKU",
+      "published": "2026-05-24T17:22:21+00:00",
+      "summary": "SAVE THE DATE 💌 #EnolaHolmes3 #Netflix Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Avatar: The Last Airbender Cast Recaps Season 1 with a Game of Two Truths & A Lie | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=HmvHY3IK1UA",
+      "published": "2026-05-24T17:00:00+00:00",
+      "summary": "The cast of Avatar: The Last Airbender recaps Season 1 with a game of Two Truths & A Lie. Season 1 is now playing, and Season 2 is coming June 25, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tip for meeting the boss, don't make it weird. Office Romance premieres June 5th #Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=_l1vDm14sLQ",
+      "published": "2026-05-22T13:00:36+00:00",
+      "summary": "Time to meet the boss, don't make it weird. Brett Goldstein, Jennifer Lopez and Betty Gilpin star in Office Romance premiering June 5. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "See U in Hell | Devil May Cry: Season 2 | Official Video | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=aQL3vWVC0jE",
+      "published": "2026-05-21T16:00:05+00:00",
+      "summary": "PRAY LIKE HELL!!! Official live action video for \"See U in Hell\" by Papa Roach, feat. Hanumankind, from the Netflix Series Devil May Cry 2. Watch the show live now: http://netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Same city, final chapter. merci, Paris. 💋 #EmilyInParis",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=91ung0bfqjc",
+      "published": "2026-05-21T15:15:24+00:00",
+      "summary": "emily in paris, emily in paris trailer, emily in paris final season, emily in paris season 6 Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Avatar: The Last Airbender: Season 2 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=M_Las484swM",
+      "published": "2026-05-21T13:00:04+00:00",
+      "summary": "Ready to rumble. Avatar: The Last Airbender Season 2 premieres on June 25, 2026 only on Netflix. Watch Avatar: The Last Airbender, only on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Avatar: The Last Airbender: Season 2 | Audio Described Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=PJtfS84s8Bs",
+      "published": "2026-05-21T13:00:02+00:00",
+      "summary": "Ready to rumble. Avatar: The Last Airbender Season 2 premieres on June 25, 2026 only on Netflix. Watch Avatar: The Last Airbender, only on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "7 days A Good Girl's Guide to Murder: Season 2",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=mUywzukSEWU",
+      "published": "2026-05-20T19:00:09+00:00",
+      "summary": "7 days until Pip & Ravi return and every clue becomes my entire personality Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Michael Jackson: The Verdict | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=rcp-j0StBR0",
+      "published": "2026-05-20T17:00:00+00:00",
+      "summary": "Told by key players who were inside the courtroom, this 3-part comprehensive docuseries dissects the trial of Michael Jackson and his complex legacy. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Welcome to the Boroughs | Official Commercial | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=5WCBnc4PQvI",
+      "published": "2026-05-20T16:00:00+00:00",
+      "summary": "Welcome to the Boroughs. A retirement community built upon something truly... remarkable. You’re in good hands here. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "One Hundred Years of Solitude: Part Two | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=IQrJPP9cEHQ",
+      "published": "2026-05-20T12:30:00+00:00",
+      "summary": "Macondo faces troubled times. The arrival of new inhabitants in the town will disrupt the peace and bring Úrsula Iguarán’s curse to fruition once and for all.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Frog and Toad — Too Many Cookies | Season 1 Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=3G4VyDarKUk",
+      "published": "2026-05-20T22:02:44+00:00",
+      "summary": "The iconic amphibian duo sit down for a sweet treat... or twelve. Frog and Toad is now streaming on Apple TV. #FrogandToad #Scene #AppleTV",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -229,8 +616,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 10
+    "youtubeCount": 12,
+    "trailerCount": 23,
+    "sourceCount": 17
   }
 }
