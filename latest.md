@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-26T09:01:36.418720Z
+Generated: 2026-05-26T14:00:02.645691Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are The Vivisectors by Missouri Williams review – twisted love story from a cult writer, US students on why they booed their pro-AI graduation speakers: ‘They’re not reading the room’, and Crossing the Wine Dark Sea by Emily Wilson review – a masterclass in translation.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are ‘BusPatrol’ Put AI Cameras in Tens of Thousands of School Buses. Now They Want to Give Cops Access, AI warfare is already here, and US senator says he was pepper sprayed by federal agents during protest at ICE facility.
 
 ## Briefing
 
@@ -18,88 +18,115 @@ Pinned from today's briefing, the kind of bread-nerd rabbit hole worth keeping.
 
 Link: https://www.kingarthurbaking.com/blog/2026/04/22/soft-sourdough-bread-recipes
 
-### 1. The Vivisectors by Missouri Williams review – twisted love story from a cult writer [10/10]
+### 1. ‘BusPatrol’ Put AI Cameras in Tens of Thousands of School Buses. Now They Want to Give Cops Access [10/10]
+**Source:** 404 Media  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+BusPatrol plans to scan the license plates of all vehicles the buses drive past, and then let law enforcement search that data. The plan would essentially turn school buses into roaming surveillance vehicles.
+
+Link: https://www.404media.co/buspatrol-put-ai-cameras-in-tens-of-thousands-of-school-buses-now-they-want-to-give-cops-access/
+
+### 2. AI warfare is already here [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines
+
+### 3. US senator says he was pepper sprayed by federal agents during protest at ICE facility [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Williams follows her prize-winning debut with a gothically overstuffed tale of a cynical young woman in a crumbling university town Missouri Williams’s darkly absurd and wilfully grotesque debut novel, The Doloriad , concerned itself with…
+Democrat Andy Kim says he saw ‘chaos’ at the New Jersey ICE facility amid ‘standoff’ between protesters and agents Andy Kim, a Democratic senator, said he was pepper sprayed by federal agents on Monday during a protest at a New Jersey…
 
-Link: https://www.theguardian.com/books/2026/may/26/the-vivisectors-by-missouri-williams-review-twisted-love-story-from-a-cult-writer
+Link: https://www.theguardian.com/us-news/2026/may/26/senator-pepper-sprayed-ice-facility-protest-new-jersey
 
-### 2. US students on why they booed their pro-AI graduation speakers: ‘They’re not reading the room’ [10/10]
-**Source:** The Guardian US  
+### 4. Opinion: With States’ Increasing Power Over Schools Comes Great Responsibility [10/10]
+**Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Recent college grads are not very fond of commencement speakers hyping up a technology they see as a threat to their career prospects When Jacob Pagel graduated from Middle Tennessee State University this spring, predictions about…
+A decades-long push to give states more authority over education has increasingly taken shape through initiatives such as the Trump administration’s proposed Make Education Great Again grant program.
 
-Link: https://www.theguardian.com/technology/2026/may/26/students-boo-pro-ai-graduation-speakers
+Link: https://www.the74million.org/article/with-states-increasing-power-over-schools-comes-great-responsibility/
 
-### 3. Crossing the Wine Dark Sea by Emily Wilson review – a masterclass in translation [10/10]
+### 5. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+As SpaceX and OpenAI race toward IPOs, a tiny circle of tech leaders tightens its grip on AI’s future Hello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian.
+
+Link: https://www.theguardian.com/technology/2026/may/25/musk-altman-ai-rivalry-ipo
+
+### 6. 007 First Light review [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The magic of 007 First Light is in the bluff. When IO Interactive 's young James Bond is caught out yet again trying to sneak through some restricted area, he has numerous ways to resolve the situation. Gadgets. Fists. Guns.
+
+Link: https://www.eurogamer.net/007-first-light-review
+
+### 7. Trump to undergo annual physical after year of public attention to health issues [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The polarising translator of the Odyssey and the Iliad sets out her philosophy in this fascinating collection Emily Wilson’s translations of the Odyssey in 2017 and the Iliad in 2023 are now the standard English-language versions,…
+US president, who turns 80 next month, frequently casts himself as fit but recent photos have added to questions about his health Sign up for the Breaking News US newsletter email Donald Trump, who turns 80 next month, will undergo his…
 
-Link: https://www.theguardian.com/books/2026/may/26/crossing-the-wine-dark-sea-by-emily-wilson-review-a-masterclass-in-translation
+Link: https://www.theguardian.com/us-news/2026/may/26/trump-annual-physical-health-issues
 
-### 4. Family of missing woman hope raid on UK-based sect will bring answers [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 8. Embracing AI in the Computer Science Classroom [10/10]
+**Source:** CSTA  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Seven years after Lisa Wiese went missing, a police raid on the Ahmadi Religion of Peace and Light has given her family a glimmer of hope As he watched the footage of a convoy of police vehicles driving through the security gates of the…
+The impact of widespread generative AI use is clear in our programming courses. Teachers are scrambling to adapt assignments, assessments,...
 
-Link: https://www.theguardian.com/uk-news/2026/may/26/family-of-missing-woman-hope-raid-on-uk-based-sect-will-bring-answers
+Link: https://csteachers.org/embracing-ai-in-the-computer-science-classroom/
 
-### 5. ‘Embarrassment for Japan’: PM wants to cut sales tax but cash registers say no [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Sanae Takaichi pledged to suspend an 8% levy on food sales, but retailers say their systems aren’t designed for a tax of zero per cent The Japanese government has pledged to suspend an 8% sales tax on food but says it is being thwarted by…
-
-Link: https://www.theguardian.com/world/2026/may/26/japan-pm-sanae-takaichi-pledged-sales-tax-cut-systems-arent-designed
-
-### 6. Rubio repeats call that Ukraine war ‘needs to end’ after call with Russia’s Lavrov – Europe live [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-US secretary of state appears to downplay warnings from Russian counterpart to move diplomats out of Kyiv The French government said Tuesday that seven people were reported to have died in connection to the recent heatwave baking much of…
-
-Link: https://www.theguardian.com/world/live/2026/may/26/europe-ukraine-russia-lithuania-eu-heatwave-hungary-magyar-france-latest-news-updates
-
-### 7. Landmarks review – Lucrecia Martel’s beautiful account of an Indigenous murder case [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Martel’s documentary about the shooting of Javier Chocobar is a mannered and dignified work, laden with post-colonial tension and the weight of institutions The great doyenne of Argentine cinema, writer-director Lucrecia Martel (La…
-
-Link: https://www.theguardian.com/film/2026/may/26/landmarks-review-lucrecia-martels-beautiful-account-of-an-indigenous-case
-
-### 8. The opening mission of 007 First Light leaked online, so IO have fought fire with fire by offering up the game's first 13 minutes [9/10]
+### 9. "It felt like we had needed couples therapy": Dishonored devs Arkane making Thief or Blade Runner games sounds ace, but might have sparked a creative director scrap [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-As is the case with most big name games that people are desperate to get their hands on, over the weekend the opening mission of 007 First Light leaked online due to someone seemingly acquiring a disc copy a touch early .
+Dishonored co-directors Raphael Colantonio and Harvey Smith seem like good mates.
 
-Link: https://www.rockpapershotgun.com/the-opening-mission-of-007-first-light-leaked-online-so-io-have-fought-fire-with-fire-by-offering-up-the-games-first-13-minutes
+Link: https://www.rockpapershotgun.com/it-felt-like-we-had-needed-couples-therapy-dishonored-devs-arkane-making-thief-or-blade-runner-games-sounds-ace-but-might-have-sparked-a-creative-director-scrap
 
-### 9. Opinion: Children Are Drowning. It’s Time We Bring in the Teachers [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 10. The camaraderie of the National Spelling Bee is a reminder of the beauty of community [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-The first time a 5-year-old told me swimming wasn’t for him, I asked him what he meant. He shrugged. No one in his family had ever learned. It just wasn’t for people like them.
+As always, the kids will be the stars of this year’s community.
 
-Link: https://www.the74million.org/article/children-are-drowning-its-time-we-bring-in-the-teachers/
+Link: https://www.theguardian.com/sport/2026/may/26/the-camaraderie-of-the-national-spelling-bee-is-a-reminder-of-the-beauty-of-community
 
-### 10. Attacks from residents complicate the fight against a rare type of Ebola [8/10]
+### 11. Hundreds of Marvel Rivals cheats named and shamed in "an immediate, targeted purge" [9/10]
+**Source:** Eurogamer  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+Nearly 500 Marvel Rivals players have been named, shamed and banned in "a targeted purge" by NetEase following their exploits after a recent game update. Read more
+
+Link: https://www.eurogamer.net/marvel-rivals-exploiters-cheats-named-shamed
+
+### 12. The Download: puncturing the AI jobs panic [9/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
+
+### 13. Attacks from residents complicate the fight against a rare type of Ebola [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -108,43 +135,25 @@ Three times in the past week, healthcare facilities have been attacked. On Sunda
 
 Link: https://www.npr.org/2026/05/26/nx-s1-5834815/attacks-complicate-fight-against-ebola
 
-### 11. Citing Gandalf, Pope Leo says we must "disarm" AI [8/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-In an age of AI, Pope looks for "artisans of hope."
-
-Link: https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/
-
-### 12. 11 unique hybrid dessert recipes : Because two desserts are better than one. [7/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-Some of the best recipe ideas just involve smashing two desserts into one.
-
-Link: https://www.kingarthurbaking.com/blog/2026/05/25/unique-hybrid-desserts
-
-### 13. An Incomplete List of Successful Anti-Data Center Legislation [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-No one wants to live next to a noisy computer warehouse and communities across the country are successfully fighting them.
-
-Link: https://www.404media.co/an-incomplete-list-of-successful-anti-data-center-legislation/
-
 ## YouTube
 
-### DeepMind’s Insane AI Breakthroughs With CEO Demis Hassabis [8/10]
+### DeepMind’s Insane AI Breakthroughs With CEO Demis Hassabis [9/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
+**Verdict:** Watch it  
 **Why it matters:** Relevant to your current interest graph.
 
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Our Patreon if you wish to support us: https://www.patreon.
+Thank you to Google DeepMind for the invite. 🙏 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Our Patreon if you wish to support us: https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=huAwz_BR8WM
+
+### The "Trick" that Compilers Use for Long Division - Computerphile [7/10]
+**Creator:** Computerphile  
+**Verdict:** Probably worth watching  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Long division can be arduous - division in general is something that even computer processors try to avoid with a simple technique. Matt Godbolt demos it and then shows how a simple C program can cause a compiler to employ this trick.
+
+Link: https://www.youtube.com/watch?v=-14t6_yu-7w
 
 ### Gen Z outpacing millennials at owning a home in their 20s [7/10]
 **Creator:** NPR  
@@ -200,27 +209,9 @@ Trump Mobile says its smartphones are beginning to ship to customers — nearly 
 
 Link: https://www.youtube.com/watch?v=XPG4J8vQ6Zk
 
-### A reporter's journey back from the Ebola outbreak [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-How is the United States responding to the Ebola outbreak? Global health reporter Michal Ruprecht documented his journey from Uganda — one of the countries affected by the public health emergency — to the U.S.
-
-Link: https://www.youtube.com/watch?v=bwBHq1VKauc
-
-### How the Trump administration has shifted how the U.S. thinks about national security [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-One of the Trump administration's most controversial figures, Sebastian Gorka, is the architect of a new counterterrorism strategy that marks a significant shift in priorities for the country's national intelligence apparatus.
-
-Link: https://www.youtube.com/watch?v=1PDbhVxQ0k8
-
-### Does Luna Abyss Scratch That FPS Itch? | Hot Monday Energy [7/10]
+### Does Luna Abyss Scratch That FPS Itch? | Hot Monday Energy [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Hidden Gems KC and Jess play Luna Abyss -- https://store.steampowered.com/app/1933000/Luna_Abyss/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.
@@ -309,15 +300,6 @@ Link: https://www.youtube.com/watch?v=A0fgugC7ZCo
 SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Michael Sarnoski and starring Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett and Noah Jupe. THE DEATH OF ROBIN HOOD – In theaters June 19.
 
 Link: https://www.youtube.com/watch?v=ii1gTLxWukk
-
-### Tony | Official Trailer HD | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas. TONY – In theaters this August.
-
-Link: https://www.youtube.com/watch?v=k1MVnzd2aVc
 
 ### HER PRIVATE HELL - Official Teaser - In Theaters July 24 [6/10]
 **Source:** NEON  

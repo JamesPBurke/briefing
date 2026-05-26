@@ -1,99 +1,129 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-26T09:01:36.418720Z",
-  "generatedAtDisplay": "2026-05-26 05:01 AM EDT",
+  "generatedAt": "2026-05-26T14:00:02.645691Z",
+  "generatedAtDisplay": "2026-05-26 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are The Vivisectors by Missouri Williams review – twisted love story from a cult writer, US students on why they booed their pro-AI graduation speakers: ‘They’re not reading the room’, and Crossing the Wine Dark Sea by Emily Wilson review – a masterclass in translation.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are ‘BusPatrol’ Put AI Cameras in Tens of Thousands of School Buses. Now They Want to Give Cops Access, AI warfare is already here, and US senator says he was pepper sprayed by federal agents during protest at ICE facility.",
   "mainItems": [
     {
-      "title": "The Vivisectors by Missouri Williams review – twisted love story from a cult writer",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/books/2026/may/26/the-vivisectors-by-missouri-williams-review-twisted-love-story-from-a-cult-writer",
-      "published": "2026-05-26T08:00:50+00:00",
-      "summary": "Williams follows her prize-winning debut with a gothically overstuffed tale of a cynical young woman in a crumbling university town Missouri Williams’s darkly absurd and wilfully grotesque debut novel, The Doloriad , concerned itself with…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "‘BusPatrol’ Put AI Cameras in Tens of Thousands of School Buses. Now They Want to Give Cops Access",
+      "source": "404 Media",
+      "category": "Democracy / press freedom",
+      "url": "https://www.404media.co/buspatrol-put-ai-cameras-in-tens-of-thousands-of-school-buses-now-they-want-to-give-cops-access/",
+      "published": "2026-05-26T13:49:22+00:00",
+      "summary": "BusPatrol plans to scan the license plates of all vehicles the buses drive past, and then let law enforcement search that data. The plan would essentially turn school buses into roaming surveillance vehicles.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "US students on why they booed their pro-AI graduation speakers: ‘They’re not reading the room’",
+      "title": "AI warfare is already here",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
+      "published": "2026-05-26T13:29:02+00:00",
+      "summary": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "US senator says he was pepper sprayed by federal agents during protest at ICE facility",
       "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/26/senator-pepper-sprayed-ice-facility-protest-new-jersey",
+      "published": "2026-05-26T13:12:08+00:00",
+      "summary": "Democrat Andy Kim says he saw ‘chaos’ at the New Jersey ICE facility amid ‘standoff’ between protesters and agents Andy Kim, a Democratic senator, said he was pepper sprayed by federal agents on Monday during a protest at a New Jersey…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: With States’ Increasing Power Over Schools Comes Great Responsibility",
+      "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/technology/2026/may/26/students-boo-pro-ai-graduation-speakers",
-      "published": "2026-05-26T08:00:49+00:00",
-      "summary": "Recent college grads are not very fond of commencement speakers hyping up a technology they see as a threat to their career prospects When Jacob Pagel graduated from Middle Tennessee State University this spring, predictions about…",
+      "url": "https://www.the74million.org/article/with-states-increasing-power-over-schools-comes-great-responsibility/",
+      "published": "2026-05-26T12:30:00+00:00",
+      "summary": "A decades-long push to give states more authority over education has increasingly taken shape through initiatives such as the Trump administration’s proposed Make Education Great Again grant program.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "Crossing the Wine Dark Sea by Emily Wilson review – a masterclass in translation",
+      "title": "Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/technology/2026/may/25/musk-altman-ai-rivalry-ipo",
+      "published": "2026-05-26T12:01:26+00:00",
+      "summary": "As SpaceX and OpenAI race toward IPOs, a tiny circle of tech leaders tightens its grip on AI’s future Hello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "007 First Light review",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/007-first-light-review",
+      "published": "2026-05-26T12:00:00+00:00",
+      "summary": "The magic of 007 First Light is in the bluff. When IO Interactive 's young James Bond is caught out yet again trying to sneak through some restricted area, he has numerous ways to resolve the situation. Gadgets. Fists. Guns.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Trump to undergo annual physical after year of public attention to health issues",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/books/2026/may/26/crossing-the-wine-dark-sea-by-emily-wilson-review-a-masterclass-in-translation",
-      "published": "2026-05-26T06:00:48+00:00",
-      "summary": "The polarising translator of the Odyssey and the Iliad sets out her philosophy in this fascinating collection Emily Wilson’s translations of the Odyssey in 2017 and the Iliad in 2023 are now the standard English-language versions,…",
+      "url": "https://www.theguardian.com/us-news/2026/may/26/trump-annual-physical-health-issues",
+      "published": "2026-05-26T11:53:37+00:00",
+      "summary": "US president, who turns 80 next month, frequently casts himself as fit but recent photos have added to questions about his health Sign up for the Breaking News US newsletter email Donald Trump, who turns 80 next month, will undergo his…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Family of missing woman hope raid on UK-based sect will bring answers",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/uk-news/2026/may/26/family-of-missing-woman-hope-raid-on-uk-based-sect-will-bring-answers",
-      "published": "2026-05-26T06:00:46+00:00",
-      "summary": "Seven years after Lisa Wiese went missing, a police raid on the Ahmadi Religion of Peace and Light has given her family a glimmer of hope As he watched the footage of a convoy of police vehicles driving through the security gates of the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Embracing AI in the Computer Science Classroom",
+      "source": "CSTA",
+      "category": "Education / pedagogy",
+      "url": "https://csteachers.org/embracing-ai-in-the-computer-science-classroom/",
+      "published": "2026-05-26T11:00:00+00:00",
+      "summary": "The impact of widespread generative AI use is clear in our programming courses. Teachers are scrambling to adapt assignments, assessments,...",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
-      "title": "‘Embarrassment for Japan’: PM wants to cut sales tax but cash registers say no",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/may/26/japan-pm-sanae-takaichi-pledged-sales-tax-cut-systems-arent-designed",
-      "published": "2026-05-26T05:43:27+00:00",
-      "summary": "Sanae Takaichi pledged to suspend an 8% levy on food sales, but retailers say their systems aren’t designed for a tax of zero per cent The Japanese government has pledged to suspend an 8% sales tax on food but says it is being thwarted by…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Rubio repeats call that Ukraine war ‘needs to end’ after call with Russia’s Lavrov – Europe live",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/live/2026/may/26/europe-ukraine-russia-lithuania-eu-heatwave-hungary-magyar-france-latest-news-updates",
-      "published": "2026-05-26T08:36:28+00:00",
-      "summary": "US secretary of state appears to downplay warnings from Russian counterpart to move diplomats out of Kyiv The French government said Tuesday that seven people were reported to have died in connection to the recent heatwave baking much of…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Landmarks review – Lucrecia Martel’s beautiful account of an Indigenous murder case",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/may/26/landmarks-review-lucrecia-martels-beautiful-account-of-an-indigenous-case",
-      "published": "2026-05-26T06:00:48+00:00",
-      "summary": "Martel’s documentary about the shooting of Javier Chocobar is a mannered and dignified work, laden with post-colonial tension and the weight of institutions The great doyenne of Argentine cinema, writer-director Lucrecia Martel (La…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "The opening mission of 007 First Light leaked online, so IO have fought fire with fire by offering up the game's first 13 minutes",
+      "title": "\"It felt like we had needed couples therapy\": Dishonored devs Arkane making Thief or Blade Runner games sounds ace, but might have sparked a creative director scrap",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/the-opening-mission-of-007-first-light-leaked-online-so-io-have-fought-fire-with-fire-by-offering-up-the-games-first-13-minutes",
-      "published": "2026-05-25T10:46:15+00:00",
-      "summary": "As is the case with most big name games that people are desperate to get their hands on, over the weekend the opening mission of 007 First Light leaked online due to someone seemingly acquiring a disc copy a touch early .",
+      "url": "https://www.rockpapershotgun.com/it-felt-like-we-had-needed-couples-therapy-dishonored-devs-arkane-making-thief-or-blade-runner-games-sounds-ace-but-might-have-sparked-a-creative-director-scrap",
+      "published": "2026-05-26T10:07:08+00:00",
+      "summary": "Dishonored co-directors Raphael Colantonio and Harvey Smith seem like good mates.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "The camaraderie of the National Spelling Bee is a reminder of the beauty of community",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/sport/2026/may/26/the-camaraderie-of-the-national-spelling-bee-is-a-reminder-of-the-beauty-of-community",
+      "published": "2026-05-26T10:00:48+00:00",
+      "summary": "As always, the kids will be the stars of this year’s community.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Hundreds of Marvel Rivals cheats named and shamed in \"an immediate, targeted purge\"",
+      "source": "Eurogamer",
+      "category": "Security / computing",
+      "url": "https://www.eurogamer.net/marvel-rivals-exploiters-cheats-named-shamed",
+      "published": "2026-05-26T13:08:33+00:00",
+      "summary": "Nearly 500 Marvel Rivals players have been named, shamed and banned in \"a targeted purge\" by NetEase following their exploits after a recent game update. Read more",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 9
     },
     {
-      "title": "Opinion: Children Are Drowning. It’s Time We Bring in the Teachers",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/children-are-drowning-its-time-we-bring-in-the-teachers/",
-      "published": "2026-05-25T10:30:00+00:00",
-      "summary": "The first time a 5-year-old told me swimming wasn’t for him, I asked him what he meant. He shrugged. No one in his family had ever learned. It just wasn’t for people like them.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "The Download: puncturing the AI jobs panic",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+      "published": "2026-05-26T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
@@ -105,36 +135,6 @@
       "summary": "Three times in the past week, healthcare facilities have been attacked. On Sunday, angry young men stormed a hospital treating Ebola patients, forcing medical staff to evacuate them as gunfire rang out.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
-      "published": "2026-05-25T21:07:42+00:00",
-      "summary": "In an age of AI, Pope looks for \"artisans of hope.\"",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
-    },
-    {
-      "title": "11 unique hybrid dessert recipes : Because two desserts are better than one.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/05/25/unique-hybrid-desserts",
-      "published": "2026-05-25T14:00:00+00:00",
-      "summary": "Some of the best recipe ideas just involve smashing two desserts into one.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
-      "score": 7
-    },
-    {
-      "title": "An Incomplete List of Successful Anti-Data Center Legislation",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/an-incomplete-list-of-successful-anti-data-center-legislation/",
-      "published": "2026-05-25T13:00:30+00:00",
-      "summary": "No one wants to live next to a noisy computer warehouse and communities across the country are successfully fighting them.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     }
   ],
   "youtube": [
@@ -144,10 +144,21 @@
       "category": "AI / YouTube",
       "url": "https://www.youtube.com/watch?v=huAwz_BR8WM",
       "published": "2026-05-25T17:49:30+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Our Patreon if you wish to support us: https://www.patreon.",
+      "summary": "Thank you to Google DeepMind for the invite. 🙏 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Our Patreon if you wish to support us: https://www.patreon.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "The \"Trick\" that Compilers Use for Long Division - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=-14t6_yu-7w",
+      "published": "2026-05-26T13:05:22+00:00",
+      "summary": "Long division can be arduous - division in general is something that even computer processors try to avoid with a simple technique. Matt Godbolt demos it and then shows how a simple C program can cause a compiler to employ this trick.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Gen Z outpacing millennials at owning a home in their 20s",
@@ -216,28 +227,6 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "A reporter's journey back from the Ebola outbreak",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=bwBHq1VKauc",
-      "published": "2026-05-23T13:00:47+00:00",
-      "summary": "How is the United States responding to the Ebola outbreak? Global health reporter Michal Ruprecht documented his journey from Uganda — one of the countries affected by the public health emergency — to the U.S.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "How the Trump administration has shifted how the U.S. thinks about national security",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=1PDbhVxQ0k8",
-      "published": "2026-05-23T09:30:01+00:00",
-      "summary": "One of the Trump administration's most controversial figures, Sebastian Gorka, is the architect of a new counterterrorism strategy that marks a significant shift in priorities for the country's national intelligence apparatus.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
       "title": "Does Luna Abyss Scratch That FPS Itch? | Hot Monday Energy",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -245,8 +234,8 @@
       "published": "2026-05-26T01:12:05+00:00",
       "summary": "This week on Hidden Gems KC and Jess play Luna Abyss -- https://store.steampowered.com/app/1933000/Luna_Abyss/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Let's Talk About Metal Gear Solid | Windbreaker Podcast",
@@ -315,17 +304,6 @@
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 6,
       "verdict": "Optional"
-    },
-    {
-      "title": "Tony | Official Trailer HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=k1MVnzd2aVc",
-      "published": "2026-05-05T13:00:00+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas. TONY – In theaters this August.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
     },
     {
       "title": "HER PRIVATE HELL - Official Teaser - In Theaters July 24",
@@ -616,8 +594,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 12,
-    "trailerCount": 23,
-    "sourceCount": 17
+    "youtubeCount": 11,
+    "trailerCount": 22,
+    "sourceCount": 20
   }
 }
