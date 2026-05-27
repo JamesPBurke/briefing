@@ -1,11 +1,61 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-27T14:00:02.194720Z",
-  "generatedAtDisplay": "2026-05-27 10:00 AM EDT",
+  "generatedAt": "2026-05-27T18:04:26.178786Z",
+  "generatedAtDisplay": "2026-05-27 02:04 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are One skydiver killed and one injured after midair collision in Washington state, Democrats say they were shut out of ‘fraud crackdown’ event hosted by JD Vance, and Biden sues justice department to block release of Hur interview audio.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Hegseth vows ‘surge’ of National Guard troops in Washington DC after Trump says ‘don’t lower the number’ – live, Nvidia kills Windows XP-era Control Panel \"after 20 years of dedicated service\", and Sony’s DualSense controllers are almost 30 percent off.",
   "mainItems": [
+    {
+      "title": "Hegseth vows ‘surge’ of National Guard troops in Washington DC after Trump says ‘don’t lower the number’ – live",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/27/donald-trump-republicans-texas-primary-midterms-iran-redistricting-latest-news-updates",
+      "published": "2026-05-27T17:42:28+00:00",
+      "summary": "Trump holds cabinet meeting at the White House as talks to end US-Iran war remain uncertain; defense secretary says troops to surge in nation’s capital this summer Sign up to the Breaking News US email President Trump is set to hold the…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Nvidia kills Windows XP-era Control Panel \"after 20 years of dedicated service\"",
+      "source": "Ars Technica",
+      "category": "Democracy / press freedom",
+      "url": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
+      "published": "2026-05-27T15:06:01+00:00",
+      "summary": "Nvidia says the Control Panel's features have been migrated to the Nvidia app.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Sony’s DualSense controllers are almost 30 percent off",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/gadgets/938029/sony-dualsense-wireless-edge-controller-ps5-pc-deal-sale",
+      "published": "2026-05-27T14:38:05+00:00",
+      "summary": "Sony has a tradition of marking down its PlayStation 5 hardware a couple of times a year, and one of those opportunities to save is here through June 10th.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Feds Are Offering New Money for Public School Kids. Why Would Dems Turn It Down?",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/feds-are-offering-new-money-for-public-school-kids-why-would-dems-turn-it-down/",
+      "published": "2026-05-27T14:30:00+00:00",
+      "summary": "In deciding to opt New York into the federal scholarship tax credit program, Gov.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "‘Lobotomized’: Character.AI Is Showing What AI Enshittification Looks Like",
+      "source": "404 Media",
+      "category": "Democracy / press freedom",
+      "url": "https://www.404media.co/lobotomized-character-ai-is-showing-what-ai-enshittification-looks-like/",
+      "published": "2026-05-27T14:20:52+00:00",
+      "summary": "Ads everywhere. Usage limits. Frustrating guardrails. Less model choice. Users of the Character.AI chatbot app are revolting after a series of changes they say have made the app worse.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "One skydiver killed and one injured after midair collision in Washington state",
       "source": "The Guardian US",
@@ -13,16 +63,6 @@
       "url": "https://www.theguardian.com/us-news/2026/may/27/skydiver-killed-injured-collision-washington-state",
       "published": "2026-05-27T13:52:51+00:00",
       "summary": "Randy Hubbs died and Nicole Klein was injured after the two collided during a group jump at West Plains Skydiving A skydiver was killed and another injured after the two collided midair during a group jump in Washington state, authorities…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Democrats say they were shut out of ‘fraud crackdown’ event hosted by JD Vance",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/27/democrats-cut-from-jd-vance-fraud-event",
-      "published": "2026-05-27T13:49:07+00:00",
-      "summary": "State attorneys general say their deputies were turned away despite Vance saying crackdown ‘shouldn’t be partisan’ Three Democratic state attorneys general said their deputies were turned away from a roundtable hosted by JD Vance on…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -37,36 +77,6 @@
       "score": 10
     },
     {
-      "title": "Pokémon game sales cross 515m units as The Pokémon Company looks to Winds and Waves next year, and TCG production is ramping up too",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/pokemon-games-tcg-sales-2026",
-      "published": "2026-05-27T11:43:08+00:00",
-      "summary": "Pokémon Winds and Waves will no doubt be huge when the two games launch on Nintendo Switch 2 in 2027, but Pokémon is thriving regardless of what's going on in the mainline series.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Tell us: have you been affected by the new US green card rules?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/27/tell-us-have-you-been-affected-by-the-new-us-green-card-rules",
-      "published": "2026-05-27T11:43:04+00:00",
-      "summary": "We would like to hear from people who have been affected by the rule change Foreigners seeking to adjust their immigration status in the US to secure green cards will have to do so from outside the country via the state department, the US…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Another GTA 5 multiplayer mod service is shutting down as Take-Two and Rockstar push to consolidate modding around FiveM",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/gta-5-rage-mp-mod-service-shutting-down",
-      "published": "2026-05-27T10:34:56+00:00",
-      "summary": "As we eagerly await GTA 6's marketing push to kick off, Grand Theft Auto 5 and GTA Online continue to make millions of dollars each month , so it's not surprising to see Take-Two push to consolidate multiplayer mods around FiveM, the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "Trump Plan Would Phase Out Rural Ed Fund; District Leaders Say It’s ‘Vital’",
       "source": "The 74",
       "category": "CS education / AI policy",
@@ -75,6 +85,36 @@
       "summary": "On the shores of Lake Ontario in northern New York, the 430-student Sackets Harbor Central School District depends on Rick Bice, the technology coordinator, to keep the internet on.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
+    },
+    {
+      "title": "The chaotic, unique, beautiful Lebanon I knew has been reduced to rubble. When will it end?",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/commentisfree/2026/may/27/chaotic-unique-beautiful-lebanon-reduced-rubble-israel-bombardment",
+      "published": "2026-05-27T10:00:24+00:00",
+      "summary": "Suspected war crimes happen almost daily as Israel continues its bombardment, which Unicef estimates is killing nearly 14 children a day.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "You can print, slice, and engrave using this desktop crafting machine",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter",
+      "published": "2026-05-27T17:40:01+00:00",
+      "summary": "xTool has announced a new multi-purpose crafting machine that could potentially be one of the most affordable ways to start an Etsy shop.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Sony’s first RGB TV is a statement piece",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/937879/sony-bravia-7-ii-review",
+      "published": "2026-05-27T16:48:23+00:00",
+      "summary": "The first wave of RGB LED TVs are fighting for their spot in the TV hierarchy.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
     },
     {
       "title": "Podcast: How Deepfakes Destroyed a High School",
@@ -87,36 +127,6 @@
       "score": 9
     },
     {
-      "title": "The Witcher 3 is getting another expansion, more than a decade after launch",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/entertainment/937970/the-witcher-3-songs-of-the-past-expansion",
-      "published": "2026-05-27T12:32:38+00:00",
-      "summary": "The fourth Witcher game may be a ways off, but fans won't be without Geralt of Rivia for long. CD Projekt Red just announced Songs of the Past, the third expansion for The Witcher 3, which will be launching in 2027.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: Schools Must Do the Hard Work If High-Dosage Tutoring Is to Help Every Student",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/schools-must-do-the-hard-work-if-high-dosage-tutoring-is-to-help-every-student/",
-      "published": "2026-05-26T16:30:00+00:00",
-      "summary": "There is a temptation in education to abandon projects rapidly and instead chase a new solution as a magic bullet for improving student outcomes.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Five villagers found alive in Laos cave as search continues for two missing",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/may/27/five-villagers-found-alive-in-laos-cave-as-search-continues-for-two-missing",
-      "published": "2026-05-27T13:44:48+00:00",
-      "summary": "Video appears to show divers discovering group sitting on a rock surrounded by flood water Rescuers have reached five of seven people who have been trapped for a week in a flooded, remote cave in Laos, after days spent navigating narrow,…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
       "title": "Researchers are building AI-powered robot labs. What does this mean for science?",
       "source": "NPR Tech",
       "category": "Science / computing",
@@ -125,451 +135,10 @@
       "summary": "Thanks to new technologies like artificial intelligence, scientists are increasingly freed from the constraints of the laboratory. It raises questions about how much humans should outsource to robots.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
-    },
-    {
-      "title": "Ey! Toy Story 5 Features Bad Bunny as Pizza & Alan Cumming as Evil Bullseye",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/toy-story-5-bad-bunny-alan-cumming/",
-      "published": "2026-05-26T17:54:13+00:00",
-      "summary": "We also have a final Toy Story 5 trailer, where Jessie leads the fight against the screens The post Ey! Toy Story 5 Features Bad Bunny as Pizza & Alan Cumming as Evil Bullseye appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
     }
   ],
-  "youtube": [
-    {
-      "title": "Google DeepMind CEO Likes Hard Questions",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=kIvvzCR5NjA",
-      "published": "2026-05-26T17:35:28+00:00",
-      "summary": "Full video: https://youtu.be/huAwz_BR8WM #shorts",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "DeepMind’s Insane AI Breakthroughs With CEO Demis Hassabis",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=huAwz_BR8WM",
-      "published": "2026-05-25T17:49:30+00:00",
-      "summary": "Thank you to Google DeepMind for the invite. 🙏 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Our Patreon if you wish to support us: https://www.patreon.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "The \"Trick\" that Compilers Use for Long Division - Computerphile",
-      "source": "Computerphile",
-      "category": "Science / computing",
-      "url": "https://www.youtube.com/watch?v=-14t6_yu-7w",
-      "published": "2026-05-26T13:05:22+00:00",
-      "summary": "Long division can be arduous - division in general is something that even computer processors try to avoid with a simple technique. Matt Godbolt demos it and then shows how a simple C program can cause a compiler to employ this trick.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Medical Historian Answers History of Medicine Questions | Tech Support | WIRED",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=Pjl8n8u9Xfw",
-      "published": "2026-05-26T16:00:09+00:00",
-      "summary": "Medical historian Richard Barnett joins WIRED to answer the internet’s burning questions about medical history.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Campaign staffers gaming prediction markets by betting on their own candidates",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=DEDJmVf4FgU",
-      "published": "2026-05-26T21:30:11+00:00",
-      "summary": "Campaign staffers are gaming prediction markets and betting on their own candidates to make money. One staffer told NPR they made \"thousands\" using insider information.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Labor union wants to reinstate telework for federal employees while gas prices remain high",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=EtasV7g6uSs",
-      "published": "2026-05-26T19:00:11+00:00",
-      "summary": "A labor union representing federal workers has asked the federal government to reinstate telework while gas prices remain high and members struggle to make ends meet.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Waymo suspends service on highways over floodwater concerns",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=Pe8A64VVX5Q",
-      "published": "2026-05-26T15:45:00+00:00",
-      "summary": "Waymo is suspending service on all freeways in the U.S. The move comes after one of the company's robotaxis was stranded by floodwaters in Atlanta.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Sen. Murphy says Democrats need to listen to Americans to win elections",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=zfRiUiJqBLc",
-      "published": "2026-05-26T14:35:35+00:00",
-      "summary": "Democrat Sen. Chris Murphy of Connecticut said his party must offer Americans bigger solutions to live a better life.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Gen Z outpacing millennials at owning a home in their 20s",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=-Samv37SJ5Y",
-      "published": "2026-05-25T15:30:00+00:00",
-      "summary": "Despite a historically unaffordable housing market, more Gen Zers in their 20s are managing to buy a home — and outpacing millennials when they were that age.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Airline ticket prices continue to rise as stalemate in Iran drags on",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=F1mQoegwHGU",
-      "published": "2026-05-24T15:30:05+00:00",
-      "summary": "Air travel continues to get more expensive ahead of the busy summer season. A domestic flight in mid-May costs, on average, about $94 more than it did a year ago, according to Kayak. International flights have gone up even more.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Arise Now, Ye Tarnished -- More Elden Ring Co-op w/ Jack and Jenna",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=Uxe6XVA6ISI",
-      "published": "2026-05-26T22:17:08+00:00",
-      "summary": "Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Everything Is Crab | Bytesized Review",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=COobuiy5A0c",
-      "published": "2026-05-26T18:00:08+00:00",
-      "summary": "Jess Hoops reviewed Everything is Crab, developed by Old Dreams Digital. Everything is Crab on Steam: https://store.steampowered.com/app/3526710/Everything_is_Crab_The_Animal_Evolution_Roguelite/ Support us on Patreon: https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "The Mandalorian and Grogu Is Content to be Content | The Backdrop",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=IlJ4UrpXJ9U",
-      "published": "2026-05-26T15:30:14+00:00",
-      "summary": "The Mandalorian and Grogu is quite something... Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Does Luna Abyss Scratch That FPS Itch? | Hot Monday Energy",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=jZMadCzJmgM",
-      "published": "2026-05-26T01:12:05+00:00",
-      "summary": "This week on Hidden Gems KC and Jess play Luna Abyss -- https://store.steampowered.com/app/1933000/Luna_Abyss/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Let's Talk About Metal Gear Solid | Windbreaker Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=iSYlCzXvUVE",
-      "published": "2026-05-25T18:49:49+00:00",
-      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty chat about how the original 1998 Metal Gear Solid remains a singularly weird and wonderful experience.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "The Beautiful & Baffling Designs of Metal Gear Solid | Design Delve",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=9gNENiGkB6o",
-      "published": "2026-05-25T15:01:08+00:00",
-      "summary": "In today's episode, J & Ludo sneak into the world of Metal Gear Solid to see how its creative developers pushed boundaries cinematically and defined a genre for the PS1.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "RESIDENT EVIL – Zach Cregger on Survival Horror",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=N_KDtokTO1c",
-      "published": "2026-05-21T16:18:37+00:00",
-      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "RESIDENT EVIL - Zach Cregger on Survival Horror",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=5gR1GTJPGqQ",
-      "published": "2026-05-21T16:00:09+00:00",
-      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY (2006) - 20th Anniversary - Official Trailer (HD)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=A0fgugC7ZCo",
-      "published": "2026-05-20T16:46:15+00:00",
-      "summary": "If you ain't first, you're last. 🏁 Ricky Bobby returns to the big screen. #TalladegaNights is back in theatres June 28, June 30, and July 1.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "Primetime | Official Teaser HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=Yrfrf53ttYY",
-      "published": "2026-05-27T13:00:08+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Coming Soon.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "The Death of Robin Hood | Official First Look | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=ii1gTLxWukk",
-      "published": "2026-05-20T13:00:19+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Michael Sarnoski and starring Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett and Noah Jupe. THE DEATH OF ROBIN HOOD – In theaters June 19.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "HER PRIVATE HELL - Official Teaser - In Theaters July 24",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=iWqST_E9u_Q",
-      "published": "2026-05-18T14:00:27+00:00",
-      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "FIND YOUR FRIENDS | Official Trailer | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=pT5y7-WwD8M",
-      "published": "2026-05-06T17:31:18+00:00",
-      "summary": "Amber and her four best girlfriends take a trip to escape the L.A. bubble and cut loose in Joshua Tree for the weekend. But upon arrival, they quickly realize the locals don’t want them there.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Built Different: Curry Barker on Supernatural Horror",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=ZpeiXao2MS4",
-      "published": "2026-05-26T18:01:01+00:00",
-      "summary": "Supernatural horror is a window into another nightmarish world. Curry Barker explains why we're all drawn in, and how Obsession goes even deeper GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Built Different: Lee Cronin on Gore",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=NSilsgp90jE",
-      "published": "2026-05-22T18:37:15+00:00",
-      "summary": "It takes blood, guts, and heart to make a Gore horror movie. Lee Cronin unpacks the brutal horror subgenre. This is how he defines Gore, disrupts it, and takes it even further in Lee Cronin’s The Mummy.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Strung | Official Trailer",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=sEz074LTiV8",
-      "published": "2026-05-20T16:30:28+00:00",
-      "summary": "Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Enola Holmes 3 | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=g1fq327snPU",
-      "published": "2026-05-27T12:00:00+00:00",
-      "summary": "Tis I do?! The critically-acclaimed ‘Enola Holmes’ franchise has returned, taking Enola far from London, where personal and professional dreams collide on a case more tangled and treacherous than any she has faced before.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Norway: The Dark Horse | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Z8pes4PRAUQ",
-      "published": "2026-05-26T07:00:00+00:00",
-      "summary": "Hope and history collide as an elite Norwegian squad fights to end a 26-year wait and earn a place at the 2026 World Cup in this rare-access documentary. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Marked Woman | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=161b4xLkokE",
-      "published": "2026-05-25T10:00:00+00:00",
-      "summary": "‘The Marked Woman’ starring Candela Peña, is a suspense thriller based on the novel of the same name. Directed by Gabe Ibáñez and written by Lara Sendim, the film follows an investigation driven by mystery and urgency.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Millie Bobby Brown and Louis Partridge crack the case of the Enola Holmes 3 trailer drop date",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=JNSUtGlhHKU",
-      "published": "2026-05-24T17:22:21+00:00",
-      "summary": "SAVE THE DATE 💌 #EnolaHolmes3 #Netflix Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Avatar: The Last Airbender Cast Recaps Season 1 with a Game of Two Truths & A Lie | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=HmvHY3IK1UA",
-      "published": "2026-05-24T17:00:00+00:00",
-      "summary": "The cast of Avatar: The Last Airbender recaps Season 1 with a game of Two Truths & A Lie. Season 1 is now playing, and Season 2 is coming June 25, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tip for meeting the boss, don't make it weird. Office Romance premieres June 5th #Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=_l1vDm14sLQ",
-      "published": "2026-05-22T13:00:36+00:00",
-      "summary": "Time to meet the boss, don't make it weird. Brett Goldstein, Jennifer Lopez and Betty Gilpin star in Office Romance premiering June 5. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "See U in Hell | Devil May Cry: Season 2 | Official Video | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=aQL3vWVC0jE",
-      "published": "2026-05-21T16:00:05+00:00",
-      "summary": "PRAY LIKE HELL!!! Official live action video for \"See U in Hell\" by Papa Roach, feat. Hanumankind, from the Netflix Series Devil May Cry 2. Watch the show live now: http://netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Same city, final chapter. merci, Paris. 💋 #EmilyInParis",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=91ung0bfqjc",
-      "published": "2026-05-21T15:15:24+00:00",
-      "summary": "emily in paris, emily in paris trailer, emily in paris final season, emily in paris season 6 Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Avatar: The Last Airbender: Season 2 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=M_Las484swM",
-      "published": "2026-05-21T13:00:04+00:00",
-      "summary": "Ready to rumble. Avatar: The Last Airbender Season 2 premieres on June 25, 2026 only on Netflix. Watch Avatar: The Last Airbender, only on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Avatar: The Last Airbender: Season 2 | Audio Described Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=PJtfS84s8Bs",
-      "published": "2026-05-21T13:00:02+00:00",
-      "summary": "Ready to rumble. Avatar: The Last Airbender Season 2 premieres on June 25, 2026 only on Netflix. Watch Avatar: The Last Airbender, only on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "7 days A Good Girl's Guide to Murder: Season 2",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=mUywzukSEWU",
-      "published": "2026-05-20T19:00:09+00:00",
-      "summary": "7 days until Pip & Ravi return and every clue becomes my entire personality Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Michael Jackson: The Verdict | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=rcp-j0StBR0",
-      "published": "2026-05-20T17:00:00+00:00",
-      "summary": "Told by key players who were inside the courtroom, this 3-part comprehensive docuseries dissects the trial of Michael Jackson and his complex legacy. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Frog and Toad — Too Many Cookies | Season 1 Scene | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=3G4VyDarKUk",
-      "published": "2026-05-20T22:02:44+00:00",
-      "summary": "The iconic amphibian duo sit down for a sweet treat... or twelve. Frog and Toad is now streaming on Apple TV. #FrogandToad #Scene #AppleTV",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -681,8 +250,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 16,
-    "trailerCount": 23,
-    "sourceCount": 19
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 6
   }
 }
