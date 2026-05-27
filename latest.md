@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-27T05:00:02.054546Z
+Generated: 2026-05-27T09:00:28.730710Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are ‘Planetary destruction on fast-forward’: witnessing the disappearance of Indonesia’s ‘eternity glaciers’, Trump-backed Ken Paxton ousts John Cornyn in heated Texas primary after scandal-plagued campaign, and The first, cinematic look at Marathon season 2 paints it as the horror game it always should have been.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are ‘It’s getting hotter and it’s not stopping’: dealing with the heat in five of Europe’s capitals, Iceland’s foreign minister fears ‘Brexit moment’ in EU accession referendum, and The first, cinematic look at Marathon season 2 paints it as the horror game it always should have been.
 
 ## Briefing
 
@@ -33,23 +33,23 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘Planetary destruction on fast-forward’: witnessing the disappearance of Indonesia’s ‘eternity glaciers’ [10/10]
+### 1. ‘It’s getting hotter and it’s not stopping’: dealing with the heat in five of Europe’s capitals [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Researchers racing to document Oceania’s last tropical glaciers found the remaining ‘eternal snow’ in Indonesia’s West Papua region has lost almost all its ice Mapping the last glaciers in Oceania – in pictures An expedition to document…
+Tourists and locals in Madrid, Paris, London, Dublin and Berlin share their experiences of the unseasonable May temperatures In recent days across parts of Europe, temperatures have soared, heat records have been broken and spring has felt…
 
-Link: https://www.theguardian.com/environment/2026/may/27/witnessing-the-disappearance-of-indonesia-eternity-glaciers
+Link: https://www.theguardian.com/environment/2026/may/27/its-getting-hotter-and-its-not-stopping-dealing-with-the-heat-in-five-of-europes-capitals
 
-### 2. Trump-backed Ken Paxton ousts John Cornyn in heated Texas primary after scandal-plagued campaign [10/10]
+### 2. Iceland’s foreign minister fears ‘Brexit moment’ in EU accession referendum [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Race had wide implications for Trump’s strength heading into midterms, where Paxton will face Democratic candidate James Talarico Ken Paxton, the Donald Trump-backed Texas attorney general, triumphed over incumbent John Cornyn in the…
+Þorgerður Katrín Gunnarsdóttir accuses opponents of fearmongering amid warnings over misinformation and AI Iceland’s foreign minister has said she fears her country faces a “Brexit moment” in its looming EU referendum amid warnings over…
 
-Link: https://www.theguardian.com/us-news/2026/may/26/ken-paxton-texas-senate-runoff
+Link: https://www.theguardian.com/world/2026/may/27/iceland-foreign-minister-thorgerthur-katrin-gunnarsdottir-brexit-moment-eu-accession-referendum
 
 ### 3. The first, cinematic look at Marathon season 2 paints it as the horror game it always should have been [10/10]
 **Source:** Rock Paper Shotgun  
@@ -60,7 +60,25 @@ Marathon is a horror game. Well, it should be, anyway (or I suppose in some ways
 
 Link: https://www.rockpapershotgun.com/the-first-cinematic-look-at-marathon-season-2-paints-it-as-the-horror-game-it-always-should-have-been
 
-### 4. Google Health is here, but a lot of people want their Fitbit app back instead [9/10]
+### 4. ‘BusPatrol’ Put AI Cameras in Tens of Thousands of School Buses. Now They Want to Give Cops Access [10/10]
+**Source:** 404 Media  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+BusPatrol plans to scan the license plates of all vehicles the buses drive past, and then let law enforcement search that data. The plan would essentially turn school buses into roaming surveillance vehicles.
+
+Link: https://www.404media.co/buspatrol-put-ai-cameras-in-tens-of-thousands-of-school-buses-now-they-want-to-give-cops-access/
+
+### 5. ‘Planetary destruction on fast-forward’: witnessing the disappearance of Indonesia’s ‘eternity glaciers’ [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Researchers racing to document Oceania’s last tropical glaciers found the remaining ‘eternal snow’ in Indonesia’s West Papua region has lost almost all its ice Mapping the last glaciers in Oceania – in pictures An expedition to document…
+
+Link: https://www.theguardian.com/environment/2026/may/27/witnessing-the-disappearance-of-indonesia-eternity-glaciers
+
+### 6. Google Health is here, but a lot of people want their Fitbit app back instead [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -69,7 +87,7 @@ The Fitbit app is no more.
 
 Link: https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai
 
-### 5. Opinion: Schools Must Do the Hard Work If High-Dosage Tutoring Is to Help Every Student [9/10]
+### 7. Opinion: Schools Must Do the Hard Work If High-Dosage Tutoring Is to Help Every Student [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -78,7 +96,7 @@ There is a temptation in education to abandon projects rapidly and instead chase
 
 Link: https://www.the74million.org/article/schools-must-do-the-hard-work-if-high-dosage-tutoring-is-to-help-every-student/
 
-### 6. Indiana Charters Show More Academic Growth Post-COVID Than Traditional Public Schools [9/10]
+### 8. Indiana Charters Show More Academic Growth Post-COVID Than Traditional Public Schools [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -87,25 +105,16 @@ Indiana’s charter school students have experienced greater academic growth in 
 
 Link: https://www.the74million.org/article/indiana-charters-show-more-academic-growth-post-covid-than-traditional-public-schools/
 
-### 7. Therapists are using AI to take notes. Is it a useful tool or a breach of trust? [9/10]
-**Source:** NPR Health  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-New companies are selling artificial intelligence assistance to mental health therapists. The AI tools can help with administration and recordkeeping, but some patients worry about their privacy.
-
-Link: https://www.npr.org/2026/05/26/nx-s1-5826943/talk-therapy-mental-health-ai-artificial-intelligence-privacy-trust
-
-### 8. One person killed and at least nine injured in implosion at Washington state packaging plant [8/10]
+### 9. Dissident detained in South Korea after fleeing China in rubber boat [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-According to the fire department, incident occurred when a tank containing white liquor, a chemical solution, ruptured Sign up for the Breaking News US newsletter email The implosion of a chemical tank at a Washington packaging plant early…
+Dong Guangping has tried to escape on several previous occasions after been jailed for his activism in China A Chinese dissident has washed up on the shores of South Korea after attempting to flee China in a rubber boat.
 
-Link: https://www.theguardian.com/us-news/2026/may/26/washington-state-packaging-plant-implosion
+Link: https://www.theguardian.com/world/2026/may/27/dissident-dong-guangping-south-korea-flee-china-rubber-boat
 
-### 9. Researchers are building AI-powered robot labs. What does this mean for science? [8/10]
+### 10. Researchers are building AI-powered robot labs. What does this mean for science? [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -114,7 +123,7 @@ Thanks to new technologies like artificial intelligence, scientists are increasi
 
 Link: https://www.npr.org/2026/05/26/nx-s1-5823706/researchers-are-building-ai-powered-robot-labs-what-does-this-mean-for-science
 
-### 10. Ey! Toy Story 5 Features Bad Bunny as Pizza & Alan Cumming as Evil Bullseye [8/10]
+### 11. Ey! Toy Story 5 Features Bad Bunny as Pizza & Alan Cumming as Evil Bullseye [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -123,7 +132,7 @@ We also have a final Toy Story 5 trailer, where Jessie leads the fight against t
 
 Link: https://reactormag.com/toy-story-5-bad-bunny-alan-cumming/
 
-### 11. Hundreds of Marvel Rivals cheats named and shamed in "an immediate, targeted purge" [8/10]
+### 12. Hundreds of Marvel Rivals cheats named and shamed in "an immediate, targeted purge" [8/10]
 **Source:** Eurogamer  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -131,15 +140,6 @@ Link: https://reactormag.com/toy-story-5-bad-bunny-alan-cumming/
 Nearly 500 Marvel Rivals players have been named, shamed and banned in "a targeted purge" by NetEase following their exploits after a recent game update. Read more
 
 Link: https://www.eurogamer.net/marvel-rivals-exploiters-cheats-named-shamed
-
-### 12. Attacks from residents complicate the fight against a rare type of Ebola [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Three times in the past week, healthcare facilities have been attacked. On Sunday, angry young men stormed a hospital treating Ebola patients, forcing medical staff to evacuate them as gunfire rang out.
-
-Link: https://www.npr.org/2026/05/26/nx-s1-5834815/attacks-complicate-fight-against-ebola
 
 ### 13. Millions of People Are Installing Malware on Their Partners’ Phones (with Zack Whittaker) [7/10]
 **Source:** 404 Media  
@@ -152,7 +152,158 @@ Link: https://www.404media.co/millions-of-people-are-installing-malware-on-their
 
 ## YouTube
 
-_No YouTube picks in this briefing._
+### Google DeepMind CEO Likes Hard Questions [7/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Full video: https://youtu.be/huAwz_BR8WM #shorts
+
+Link: https://www.youtube.com/watch?v=kIvvzCR5NjA
+
+### DeepMind’s Insane AI Breakthroughs With CEO Demis Hassabis [8/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Thank you to Google DeepMind for the invite. 🙏 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Our Patreon if you wish to support us: https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=huAwz_BR8WM
+
+### The "Trick" that Compilers Use for Long Division - Computerphile [6/10]
+**Creator:** Computerphile  
+**Verdict:** Summary is enough  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Long division can be arduous - division in general is something that even computer processors try to avoid with a simple technique. Matt Godbolt demos it and then shows how a simple C program can cause a compiler to employ this trick.
+
+Link: https://www.youtube.com/watch?v=-14t6_yu-7w
+
+### Medical Historian Answers History of Medicine Questions | Tech Support | WIRED [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Medical historian Richard Barnett joins WIRED to answer the internet’s burning questions about medical history.
+
+Link: https://www.youtube.com/watch?v=Pjl8n8u9Xfw
+
+### Campaign staffers gaming prediction markets by betting on their own candidates [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Campaign staffers are gaming prediction markets and betting on their own candidates to make money. One staffer told NPR they made "thousands" using insider information.
+
+Link: https://www.youtube.com/watch?v=DEDJmVf4FgU
+
+### Labor union wants to reinstate telework for federal employees while gas prices remain high [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+A labor union representing federal workers has asked the federal government to reinstate telework while gas prices remain high and members struggle to make ends meet.
+
+Link: https://www.youtube.com/watch?v=EtasV7g6uSs
+
+### Waymo suspends service on highways over floodwater concerns [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Waymo is suspending service on all freeways in the U.S. The move comes after one of the company's robotaxis was stranded by floodwaters in Atlanta.
+
+Link: https://www.youtube.com/watch?v=Pe8A64VVX5Q
+
+### Sen. Murphy says Democrats need to listen to Americans to win elections [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Democrat Sen. Chris Murphy of Connecticut said his party must offer Americans bigger solutions to live a better life.
+
+Link: https://www.youtube.com/watch?v=zfRiUiJqBLc
+
+### Gen Z outpacing millennials at owning a home in their 20s [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Despite a historically unaffordable housing market, more Gen Zers in their 20s are managing to buy a home — and outpacing millennials when they were that age.
+
+Link: https://www.youtube.com/watch?v=-Samv37SJ5Y
+
+### Airline ticket prices continue to rise as stalemate in Iran drags on [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Air travel continues to get more expensive ahead of the busy summer season. A domestic flight in mid-May costs, on average, about $94 more than it did a year ago, according to Kayak. International flights have gone up even more.
+
+Link: https://www.youtube.com/watch?v=F1mQoegwHGU
+
+### U.S. expanding use of private security at airports [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The Trump administration wants private companies to play a bigger role in airport security. The TSA says it plans to announce the first two to three airports in its new Gold+ program later this year.
+
+Link: https://www.youtube.com/watch?v=Xe5wjSx0e4Q
+
+### Arise Now, Ye Tarnished -- More Elden Ring Co-op w/ Jack and Jenna [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=Uxe6XVA6ISI
+
+### Everything Is Crab | Bytesized Review [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Jess Hoops reviewed Everything is Crab, developed by Old Dreams Digital. Everything is Crab on Steam: https://store.steampowered.com/app/3526710/Everything_is_Crab_The_Animal_Evolution_Roguelite/ Support us on Patreon: https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=COobuiy5A0c
+
+### The Mandalorian and Grogu Is Content to be Content | The Backdrop [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The Mandalorian and Grogu is quite something... Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=IlJ4UrpXJ9U
+
+### Does Luna Abyss Scratch That FPS Itch? | Hot Monday Energy [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Hidden Gems KC and Jess play Luna Abyss -- https://store.steampowered.com/app/1933000/Luna_Abyss/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=jZMadCzJmgM
+
+### Let's Talk About Metal Gear Solid | Windbreaker Podcast [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty chat about how the original 1998 Metal Gear Solid remains a singularly weird and wonderful experience.
+
+Link: https://www.youtube.com/watch?v=iSYlCzXvUVE
+
+### The Beautiful & Baffling Designs of Metal Gear Solid | Design Delve [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+In today's episode, J & Ludo sneak into the world of Metal Gear Solid to see how its creative developers pushed boundaries cinematically and defined a genre for the PS1.
+
+Link: https://www.youtube.com/watch?v=9gNENiGkB6o
 
 ## Entertainment Recommendations
 
@@ -183,4 +334,200 @@ _No YouTube picks in this briefing._
 
 ## Trailers / Previews
 
-_No trailer picks in this briefing._
+### RESIDENT EVIL – Zach Cregger on Survival Horror [9/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.
+
+Link: https://www.youtube.com/watch?v=N_KDtokTO1c
+
+### RESIDENT EVIL - Zach Cregger on Survival Horror [9/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.
+
+Link: https://www.youtube.com/watch?v=5gR1GTJPGqQ
+
+### TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY (2006) - 20th Anniversary - Official Trailer (HD) [7/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+If you ain't first, you're last. 🏁 Ricky Bobby returns to the big screen. #TalladegaNights is back in theatres June 28, June 30, and July 1.
+
+Link: https://www.youtube.com/watch?v=A0fgugC7ZCo
+
+### The Death of Robin Hood | Official First Look | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Michael Sarnoski and starring Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett and Noah Jupe. THE DEATH OF ROBIN HOOD – In theaters June 19.
+
+Link: https://www.youtube.com/watch?v=ii1gTLxWukk
+
+### HER PRIVATE HELL - Official Teaser - In Theaters July 24 [6/10]
+**Source:** NEON  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.
+
+Link: https://www.youtube.com/watch?v=iWqST_E9u_Q
+
+### FIND YOUR FRIENDS | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Amber and her four best girlfriends take a trip to escape the L.A. bubble and cut loose in Joshua Tree for the weekend. But upon arrival, they quickly realize the locals don’t want them there.
+
+Link: https://www.youtube.com/watch?v=pT5y7-WwD8M
+
+### Built Different: Curry Barker on Supernatural Horror [10/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Supernatural horror is a window into another nightmarish world. Curry Barker explains why we're all drawn in, and how Obsession goes even deeper GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
+
+Link: https://www.youtube.com/watch?v=ZpeiXao2MS4
+
+### Built Different: Lee Cronin on Gore [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+It takes blood, guts, and heart to make a Gore horror movie. Lee Cronin unpacks the brutal horror subgenre. This is how he defines Gore, disrupts it, and takes it even further in Lee Cronin’s The Mummy.
+
+Link: https://www.youtube.com/watch?v=NSilsgp90jE
+
+### Strung | Official Trailer [10/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.
+
+Link: https://www.youtube.com/watch?v=sEz074LTiV8
+
+### Norway: The Dark Horse | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Hope and history collide as an elite Norwegian squad fights to end a 26-year wait and earn a place at the 2026 World Cup in this rare-access documentary. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=Z8pes4PRAUQ
+
+### The Marked Woman | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+‘The Marked Woman’ starring Candela Peña, is a suspense thriller based on the novel of the same name. Directed by Gabe Ibáñez and written by Lara Sendim, the film follows an investigation driven by mystery and urgency.
+
+Link: https://www.youtube.com/watch?v=161b4xLkokE
+
+### Millie Bobby Brown and Louis Partridge crack the case of the Enola Holmes 3 trailer drop date [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+SAVE THE DATE 💌 #EnolaHolmes3 #Netflix Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=JNSUtGlhHKU
+
+### Avatar: The Last Airbender Cast Recaps Season 1 with a Game of Two Truths & A Lie | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The cast of Avatar: The Last Airbender recaps Season 1 with a game of Two Truths & A Lie. Season 1 is now playing, and Season 2 is coming June 25, only on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=HmvHY3IK1UA
+
+### Tip for meeting the boss, don't make it weird. Office Romance premieres June 5th #Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Time to meet the boss, don't make it weird. Brett Goldstein, Jennifer Lopez and Betty Gilpin star in Office Romance premiering June 5. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=_l1vDm14sLQ
+
+### See U in Hell | Devil May Cry: Season 2 | Official Video | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+PRAY LIKE HELL!!! Official live action video for "See U in Hell" by Papa Roach, feat. Hanumankind, from the Netflix Series Devil May Cry 2. Watch the show live now: http://netflix.
+
+Link: https://www.youtube.com/watch?v=aQL3vWVC0jE
+
+### Same city, final chapter. merci, Paris. 💋 #EmilyInParis [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+emily in paris, emily in paris trailer, emily in paris final season, emily in paris season 6 Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=91ung0bfqjc
+
+### Avatar: The Last Airbender: Season 2 | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Ready to rumble. Avatar: The Last Airbender Season 2 premieres on June 25, 2026 only on Netflix. Watch Avatar: The Last Airbender, only on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=M_Las484swM
+
+### Avatar: The Last Airbender: Season 2 | Audio Described Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Ready to rumble. Avatar: The Last Airbender Season 2 premieres on June 25, 2026 only on Netflix. Watch Avatar: The Last Airbender, only on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=PJtfS84s8Bs
+
+### 7 days A Good Girl's Guide to Murder: Season 2 [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+7 days until Pip & Ravi return and every clue becomes my entire personality Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=mUywzukSEWU
+
+### Michael Jackson: The Verdict | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Told by key players who were inside the courtroom, this 3-part comprehensive docuseries dissects the trial of Michael Jackson and his complex legacy. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=rcp-j0StBR0
+
+### Welcome to the Boroughs | Official Commercial | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Welcome to the Boroughs. A retirement community built upon something truly... remarkable. You’re in good hands here. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=5WCBnc4PQvI
+
+### Frog and Toad — Too Many Cookies | Season 1 Scene | Apple TV [7/10]
+**Source:** Apple TV  
+**Verdict:** Worth a glance  
+**Why it matters:** Relevant to your current interest graph.
+
+The iconic amphibian duo sit down for a sweet treat... or twelve. Frog and Toad is now streaming on Apple TV. #FrogandToad #Scene #AppleTV
+
+Link: https://www.youtube.com/watch?v=3G4VyDarKUk
