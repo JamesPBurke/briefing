@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-27T09:00:28.730710Z
+Generated: 2026-05-27T14:00:02.194720Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are ‘It’s getting hotter and it’s not stopping’: dealing with the heat in five of Europe’s capitals, Iceland’s foreign minister fears ‘Brexit moment’ in EU accession referendum, and The first, cinematic look at Marathon season 2 paints it as the horror game it always should have been.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are One skydiver killed and one injured after midair collision in Washington state, Democrats say they were shut out of ‘fraud crackdown’ event hosted by JD Vance, and Biden sues justice department to block release of Hur interview audio.
 
 ## Briefing
 
@@ -33,61 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘It’s getting hotter and it’s not stopping’: dealing with the heat in five of Europe’s capitals [10/10]
+### 1. One skydiver killed and one injured after midair collision in Washington state [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Tourists and locals in Madrid, Paris, London, Dublin and Berlin share their experiences of the unseasonable May temperatures In recent days across parts of Europe, temperatures have soared, heat records have been broken and spring has felt…
+Randy Hubbs died and Nicole Klein was injured after the two collided during a group jump at West Plains Skydiving A skydiver was killed and another injured after the two collided midair during a group jump in Washington state, authorities…
 
-Link: https://www.theguardian.com/environment/2026/may/27/its-getting-hotter-and-its-not-stopping-dealing-with-the-heat-in-five-of-europes-capitals
+Link: https://www.theguardian.com/us-news/2026/may/27/skydiver-killed-injured-collision-washington-state
 
-### 2. Iceland’s foreign minister fears ‘Brexit moment’ in EU accession referendum [10/10]
+### 2. Democrats say they were shut out of ‘fraud crackdown’ event hosted by JD Vance [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Þorgerður Katrín Gunnarsdóttir accuses opponents of fearmongering amid warnings over misinformation and AI Iceland’s foreign minister has said she fears her country faces a “Brexit moment” in its looming EU referendum amid warnings over…
+State attorneys general say their deputies were turned away despite Vance saying crackdown ‘shouldn’t be partisan’ Three Democratic state attorneys general said their deputies were turned away from a roundtable hosted by JD Vance on…
 
-Link: https://www.theguardian.com/world/2026/may/27/iceland-foreign-minister-thorgerthur-katrin-gunnarsdottir-brexit-moment-eu-accession-referendum
+Link: https://www.theguardian.com/us-news/2026/may/27/democrats-cut-from-jd-vance-fraud-event
 
-### 3. The first, cinematic look at Marathon season 2 paints it as the horror game it always should have been [10/10]
-**Source:** Rock Paper Shotgun  
+### 3. Biden sues justice department to block release of Hur interview audio [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Former president says disclosure of recordings tied to classified files inquiry would violate his privacy Joe Biden , the former president, has filed a lawsuit to try to prevent the justice department (DoJ) from releasing transcripts and…
+
+Link: https://www.theguardian.com/us-news/2026/may/27/biden-sues-justice-department-robert-hur
+
+### 4. Pokémon game sales cross 515m units as The Pokémon Company looks to Winds and Waves next year, and TCG production is ramping up too [10/10]
+**Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Marathon is a horror game. Well, it should be, anyway (or I suppose in some ways it already is ).
+Pokémon Winds and Waves will no doubt be huge when the two games launch on Nintendo Switch 2 in 2027, but Pokémon is thriving regardless of what's going on in the mainline series.
 
-Link: https://www.rockpapershotgun.com/the-first-cinematic-look-at-marathon-season-2-paints-it-as-the-horror-game-it-always-should-have-been
+Link: https://www.eurogamer.net/pokemon-games-tcg-sales-2026
 
-### 4. ‘BusPatrol’ Put AI Cameras in Tens of Thousands of School Buses. Now They Want to Give Cops Access [10/10]
-**Source:** 404 Media  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-BusPatrol plans to scan the license plates of all vehicles the buses drive past, and then let law enforcement search that data. The plan would essentially turn school buses into roaming surveillance vehicles.
-
-Link: https://www.404media.co/buspatrol-put-ai-cameras-in-tens-of-thousands-of-school-buses-now-they-want-to-give-cops-access/
-
-### 5. ‘Planetary destruction on fast-forward’: witnessing the disappearance of Indonesia’s ‘eternity glaciers’ [9/10]
+### 5. Tell us: have you been affected by the new US green card rules? [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Researchers racing to document Oceania’s last tropical glaciers found the remaining ‘eternal snow’ in Indonesia’s West Papua region has lost almost all its ice Mapping the last glaciers in Oceania – in pictures An expedition to document…
+We would like to hear from people who have been affected by the rule change Foreigners seeking to adjust their immigration status in the US to secure green cards will have to do so from outside the country via the state department, the US…
 
-Link: https://www.theguardian.com/environment/2026/may/27/witnessing-the-disappearance-of-indonesia-eternity-glaciers
+Link: https://www.theguardian.com/us-news/2026/may/27/tell-us-have-you-been-affected-by-the-new-us-green-card-rules
 
-### 6. Google Health is here, but a lot of people want their Fitbit app back instead [9/10]
+### 6. Another GTA 5 multiplayer mod service is shutting down as Take-Two and Rockstar push to consolidate modding around FiveM [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+As we eagerly await GTA 6's marketing push to kick off, Grand Theft Auto 5 and GTA Online continue to make millions of dollars each month , so it's not surprising to see Take-Two push to consolidate multiplayer mods around FiveM, the…
+
+Link: https://www.eurogamer.net/gta-5-rage-mp-mod-service-shutting-down
+
+### 7. Trump Plan Would Phase Out Rural Ed Fund; District Leaders Say It’s ‘Vital’ [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+On the shores of Lake Ontario in northern New York, the 430-student Sackets Harbor Central School District depends on Rick Bice, the technology coordinator, to keep the internet on.
+
+Link: https://www.the74million.org/article/trump-plan-would-phase-out-rural-ed-fund-district-leaders-say-its-vital/
+
+### 8. Podcast: How Deepfakes Destroyed a High School [9/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+How deepfakes rocked a high school; BusPatrol giving AI camera data to cops; and a big time crash out.
+
+Link: https://www.404media.co/podcast-how-deepfakes-destroyed-a-high-school/
+
+### 9. The Witcher 3 is getting another expansion, more than a decade after launch [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-The Fitbit app is no more.
+The fourth Witcher game may be a ways off, but fans won't be without Geralt of Rivia for long. CD Projekt Red just announced Songs of the Past, the third expansion for The Witcher 3, which will be launching in 2027.
 
-Link: https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai
+Link: https://www.theverge.com/entertainment/937970/the-witcher-3-songs-of-the-past-expansion
 
-### 7. Opinion: Schools Must Do the Hard Work If High-Dosage Tutoring Is to Help Every Student [9/10]
+### 10. Opinion: Schools Must Do the Hard Work If High-Dosage Tutoring Is to Help Every Student [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -96,25 +123,16 @@ There is a temptation in education to abandon projects rapidly and instead chase
 
 Link: https://www.the74million.org/article/schools-must-do-the-hard-work-if-high-dosage-tutoring-is-to-help-every-student/
 
-### 8. Indiana Charters Show More Academic Growth Post-COVID Than Traditional Public Schools [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Indiana’s charter school students have experienced greater academic growth in the years following the pandemic than their peers in traditional public schools, according to a new preliminary analysis.
-
-Link: https://www.the74million.org/article/indiana-charters-show-more-academic-growth-post-covid-than-traditional-public-schools/
-
-### 9. Dissident detained in South Korea after fleeing China in rubber boat [8/10]
+### 11. Five villagers found alive in Laos cave as search continues for two missing [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Dong Guangping has tried to escape on several previous occasions after been jailed for his activism in China A Chinese dissident has washed up on the shores of South Korea after attempting to flee China in a rubber boat.
+Video appears to show divers discovering group sitting on a rock surrounded by flood water Rescuers have reached five of seven people who have been trapped for a week in a flooded, remote cave in Laos, after days spent navigating narrow,…
 
-Link: https://www.theguardian.com/world/2026/may/27/dissident-dong-guangping-south-korea-flee-china-rubber-boat
+Link: https://www.theguardian.com/world/2026/may/27/five-villagers-found-alive-in-laos-cave-as-search-continues-for-two-missing
 
-### 10. Researchers are building AI-powered robot labs. What does this mean for science? [8/10]
+### 12. Researchers are building AI-powered robot labs. What does this mean for science? [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -123,7 +141,7 @@ Thanks to new technologies like artificial intelligence, scientists are increasi
 
 Link: https://www.npr.org/2026/05/26/nx-s1-5823706/researchers-are-building-ai-powered-robot-labs-what-does-this-mean-for-science
 
-### 11. Ey! Toy Story 5 Features Bad Bunny as Pizza & Alan Cumming as Evil Bullseye [8/10]
+### 13. Ey! Toy Story 5 Features Bad Bunny as Pizza & Alan Cumming as Evil Bullseye [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -131,24 +149,6 @@ Link: https://www.npr.org/2026/05/26/nx-s1-5823706/researchers-are-building-ai-p
 We also have a final Toy Story 5 trailer, where Jessie leads the fight against the screens The post Ey! Toy Story 5 Features Bad Bunny as Pizza & Alan Cumming as Evil Bullseye appeared first on Reactor .
 
 Link: https://reactormag.com/toy-story-5-bad-bunny-alan-cumming/
-
-### 12. Hundreds of Marvel Rivals cheats named and shamed in "an immediate, targeted purge" [8/10]
-**Source:** Eurogamer  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-Nearly 500 Marvel Rivals players have been named, shamed and banned in "a targeted purge" by NetEase following their exploits after a recent game update. Read more
-
-Link: https://www.eurogamer.net/marvel-rivals-exploiters-cheats-named-shamed
-
-### 13. Millions of People Are Installing Malware on Their Partners’ Phones (with Zack Whittaker) [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Joseph talks to Zack Whittaker all about stalkerware, the pervasive malware that ordinary people install on their partners' phones.
-
-Link: https://www.404media.co/millions-of-people-are-installing-malware-on-their-partners-phones-with-zack-whittaker/
 
 ## YouTube
 
@@ -188,9 +188,9 @@ Medical historian Richard Barnett joins WIRED to answer the internet’s burning
 
 Link: https://www.youtube.com/watch?v=Pjl8n8u9Xfw
 
-### Campaign staffers gaming prediction markets by betting on their own candidates [8/10]
+### Campaign staffers gaming prediction markets by betting on their own candidates [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Campaign staffers are gaming prediction markets and betting on their own candidates to make money. One staffer told NPR they made "thousands" using insider information.
@@ -242,18 +242,9 @@ Air travel continues to get more expensive ahead of the busy summer season. A do
 
 Link: https://www.youtube.com/watch?v=F1mQoegwHGU
 
-### U.S. expanding use of private security at airports [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The Trump administration wants private companies to play a bigger role in airport security. The TSA says it plans to announce the first two to three airports in its new Gold+ program later this year.
-
-Link: https://www.youtube.com/watch?v=Xe5wjSx0e4Q
-
-### Arise Now, Ye Tarnished -- More Elden Ring Co-op w/ Jack and Jenna [7/10]
+### Arise Now, Ye Tarnished -- More Elden Ring Co-op w/ Jack and Jenna [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
@@ -361,6 +352,15 @@ If you ain't first, you're last. 🏁 Ricky Bobby returns to the big screen. #Ta
 
 Link: https://www.youtube.com/watch?v=A0fgugC7ZCo
 
+### Primetime | Official Teaser HD | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Coming Soon.
+
+Link: https://www.youtube.com/watch?v=Yrfrf53ttYY
+
 ### The Death of Robin Hood | Official First Look | A24 [6/10]
 **Source:** A24  
 **Verdict:** Optional  
@@ -414,6 +414,15 @@ Link: https://www.youtube.com/watch?v=NSilsgp90jE
 Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.
 
 Link: https://www.youtube.com/watch?v=sEz074LTiV8
+
+### Enola Holmes 3 | Official Teaser | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Tis I do?! The critically-acclaimed ‘Enola Holmes’ franchise has returned, taking Enola far from London, where personal and professional dreams collide on a case more tangled and treacherous than any she has faced before.
+
+Link: https://www.youtube.com/watch?v=g1fq327snPU
 
 ### Norway: The Dark Horse | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
@@ -513,15 +522,6 @@ Link: https://www.youtube.com/watch?v=mUywzukSEWU
 Told by key players who were inside the courtroom, this 3-part comprehensive docuseries dissects the trial of Michael Jackson and his complex legacy. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=rcp-j0StBR0
-
-### Welcome to the Boroughs | Official Commercial | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Welcome to the Boroughs. A retirement community built upon something truly... remarkable. You’re in good hands here. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=5WCBnc4PQvI
 
 ### Frog and Toad — Too Many Cookies | Season 1 Scene | Apple TV [7/10]
 **Source:** Apple TV  

@@ -1,68 +1,98 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-27T09:00:28.730710Z",
-  "generatedAtDisplay": "2026-05-27 05:00 AM EDT",
+  "generatedAt": "2026-05-27T14:00:02.194720Z",
+  "generatedAtDisplay": "2026-05-27 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are ‘It’s getting hotter and it’s not stopping’: dealing with the heat in five of Europe’s capitals, Iceland’s foreign minister fears ‘Brexit moment’ in EU accession referendum, and The first, cinematic look at Marathon season 2 paints it as the horror game it always should have been.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are One skydiver killed and one injured after midair collision in Washington state, Democrats say they were shut out of ‘fraud crackdown’ event hosted by JD Vance, and Biden sues justice department to block release of Hur interview audio.",
   "mainItems": [
     {
-      "title": "‘It’s getting hotter and it’s not stopping’: dealing with the heat in five of Europe’s capitals",
+      "title": "One skydiver killed and one injured after midair collision in Washington state",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/environment/2026/may/27/its-getting-hotter-and-its-not-stopping-dealing-with-the-heat-in-five-of-europes-capitals",
-      "published": "2026-05-27T07:00:20+00:00",
-      "summary": "Tourists and locals in Madrid, Paris, London, Dublin and Berlin share their experiences of the unseasonable May temperatures In recent days across parts of Europe, temperatures have soared, heat records have been broken and spring has felt…",
+      "url": "https://www.theguardian.com/us-news/2026/may/27/skydiver-killed-injured-collision-washington-state",
+      "published": "2026-05-27T13:52:51+00:00",
+      "summary": "Randy Hubbs died and Nicole Klein was injured after the two collided during a group jump at West Plains Skydiving A skydiver was killed and another injured after the two collided midair during a group jump in Washington state, authorities…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Iceland’s foreign minister fears ‘Brexit moment’ in EU accession referendum",
+      "title": "Democrats say they were shut out of ‘fraud crackdown’ event hosted by JD Vance",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/may/27/iceland-foreign-minister-thorgerthur-katrin-gunnarsdottir-brexit-moment-eu-accession-referendum",
-      "published": "2026-05-27T05:00:19+00:00",
-      "summary": "Þorgerður Katrín Gunnarsdóttir accuses opponents of fearmongering amid warnings over misinformation and AI Iceland’s foreign minister has said she fears her country faces a “Brexit moment” in its looming EU referendum amid warnings over…",
+      "url": "https://www.theguardian.com/us-news/2026/may/27/democrats-cut-from-jd-vance-fraud-event",
+      "published": "2026-05-27T13:49:07+00:00",
+      "summary": "State attorneys general say their deputies were turned away despite Vance saying crackdown ‘shouldn’t be partisan’ Three Democratic state attorneys general said their deputies were turned away from a roundtable hosted by JD Vance on…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "The first, cinematic look at Marathon season 2 paints it as the horror game it always should have been",
-      "source": "Rock Paper Shotgun",
+      "title": "Biden sues justice department to block release of Hur interview audio",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/may/27/biden-sues-justice-department-robert-hur",
+      "published": "2026-05-27T13:19:37+00:00",
+      "summary": "Former president says disclosure of recordings tied to classified files inquiry would violate his privacy Joe Biden , the former president, has filed a lawsuit to try to prevent the justice department (DoJ) from releasing transcripts and…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Pokémon game sales cross 515m units as The Pokémon Company looks to Winds and Waves next year, and TCG production is ramping up too",
+      "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/the-first-cinematic-look-at-marathon-season-2-paints-it-as-the-horror-game-it-always-should-have-been",
-      "published": "2026-05-26T21:56:20+00:00",
-      "summary": "Marathon is a horror game. Well, it should be, anyway (or I suppose in some ways it already is ).",
+      "url": "https://www.eurogamer.net/pokemon-games-tcg-sales-2026",
+      "published": "2026-05-27T11:43:08+00:00",
+      "summary": "Pokémon Winds and Waves will no doubt be huge when the two games launch on Nintendo Switch 2 in 2027, but Pokémon is thriving regardless of what's going on in the mainline series.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "‘BusPatrol’ Put AI Cameras in Tens of Thousands of School Buses. Now They Want to Give Cops Access",
-      "source": "404 Media",
+      "title": "Tell us: have you been affected by the new US green card rules?",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.404media.co/buspatrol-put-ai-cameras-in-tens-of-thousands-of-school-buses-now-they-want-to-give-cops-access/",
-      "published": "2026-05-26T13:49:22+00:00",
-      "summary": "BusPatrol plans to scan the license plates of all vehicles the buses drive past, and then let law enforcement search that data. The plan would essentially turn school buses into roaming surveillance vehicles.",
+      "url": "https://www.theguardian.com/us-news/2026/may/27/tell-us-have-you-been-affected-by-the-new-us-green-card-rules",
+      "published": "2026-05-27T11:43:04+00:00",
+      "summary": "We would like to hear from people who have been affected by the rule change Foreigners seeking to adjust their immigration status in the US to secure green cards will have to do so from outside the country via the state department, the US…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "‘Planetary destruction on fast-forward’: witnessing the disappearance of Indonesia’s ‘eternity glaciers’",
-      "source": "The Guardian US",
+      "title": "Another GTA 5 multiplayer mod service is shutting down as Take-Two and Rockstar push to consolidate modding around FiveM",
+      "source": "Eurogamer",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/environment/2026/may/27/witnessing-the-disappearance-of-indonesia-eternity-glaciers",
-      "published": "2026-05-27T03:00:16+00:00",
-      "summary": "Researchers racing to document Oceania’s last tropical glaciers found the remaining ‘eternal snow’ in Indonesia’s West Papua region has lost almost all its ice Mapping the last glaciers in Oceania – in pictures An expedition to document…",
+      "url": "https://www.eurogamer.net/gta-5-rage-mp-mod-service-shutting-down",
+      "published": "2026-05-27T10:34:56+00:00",
+      "summary": "As we eagerly await GTA 6's marketing push to kick off, Grand Theft Auto 5 and GTA Online continue to make millions of dollars each month , so it's not surprising to see Take-Two push to consolidate multiplayer mods around FiveM, the…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Trump Plan Would Phase Out Rural Ed Fund; District Leaders Say It’s ‘Vital’",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/trump-plan-would-phase-out-rural-ed-fund-district-leaders-say-its-vital/",
+      "published": "2026-05-27T10:30:00+00:00",
+      "summary": "On the shores of Lake Ontario in northern New York, the 430-student Sackets Harbor Central School District depends on Rick Bice, the technology coordinator, to keep the internet on.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Podcast: How Deepfakes Destroyed a High School",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/podcast-how-deepfakes-destroyed-a-high-school/",
+      "published": "2026-05-27T13:02:37+00:00",
+      "summary": "How deepfakes rocked a high school; BusPatrol giving AI camera data to cops; and a big time crash out.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 9
     },
     {
-      "title": "Google Health is here, but a lot of people want their Fitbit app back instead",
+      "title": "The Witcher 3 is getting another expansion, more than a decade after launch",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
-      "published": "2026-05-26T19:00:15+00:00",
-      "summary": "The Fitbit app is no more.",
+      "url": "https://www.theverge.com/entertainment/937970/the-witcher-3-songs-of-the-past-expansion",
+      "published": "2026-05-27T12:32:38+00:00",
+      "summary": "The fourth Witcher game may be a ways off, but fans won't be without Geralt of Rivia for long. CD Projekt Red just announced Songs of the Past, the third expansion for The Witcher 3, which will be launching in 2027.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
@@ -77,22 +107,12 @@
       "score": 9
     },
     {
-      "title": "Indiana Charters Show More Academic Growth Post-COVID Than Traditional Public Schools",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/indiana-charters-show-more-academic-growth-post-covid-than-traditional-public-schools/",
-      "published": "2026-05-26T14:30:00+00:00",
-      "summary": "Indiana’s charter school students have experienced greater academic growth in the years following the pandemic than their peers in traditional public schools, according to a new preliminary analysis.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Dissident detained in South Korea after fleeing China in rubber boat",
+      "title": "Five villagers found alive in Laos cave as search continues for two missing",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/may/27/dissident-dong-guangping-south-korea-flee-china-rubber-boat",
-      "published": "2026-05-27T07:55:46+00:00",
-      "summary": "Dong Guangping has tried to escape on several previous occasions after been jailed for his activism in China A Chinese dissident has washed up on the shores of South Korea after attempting to flee China in a rubber boat.",
+      "url": "https://www.theguardian.com/world/2026/may/27/five-villagers-found-alive-in-laos-cave-as-search-continues-for-two-missing",
+      "published": "2026-05-27T13:44:48+00:00",
+      "summary": "Video appears to show divers discovering group sitting on a rock surrounded by flood water Rescuers have reached five of seven people who have been trapped for a week in a flooded, remote cave in Laos, after days spent navigating narrow,…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 8
     },
@@ -115,26 +135,6 @@
       "summary": "We also have a final Toy Story 5 trailer, where Jessie leads the fight against the screens The post Ey! Toy Story 5 Features Bad Bunny as Pizza & Alan Cumming as Evil Bullseye appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
-    },
-    {
-      "title": "Hundreds of Marvel Rivals cheats named and shamed in \"an immediate, targeted purge\"",
-      "source": "Eurogamer",
-      "category": "Security / computing",
-      "url": "https://www.eurogamer.net/marvel-rivals-exploiters-cheats-named-shamed",
-      "published": "2026-05-26T13:08:33+00:00",
-      "summary": "Nearly 500 Marvel Rivals players have been named, shamed and banned in \"a targeted purge\" by NetEase following their exploits after a recent game update. Read more",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 8
-    },
-    {
-      "title": "Millions of People Are Installing Malware on Their Partners’ Phones (with Zack Whittaker)",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/millions-of-people-are-installing-malware-on-their-partners-phones-with-zack-whittaker/",
-      "published": "2026-05-26T15:41:49+00:00",
-      "summary": "Joseph talks to Zack Whittaker all about stalkerware, the pervasive malware that ordinary people install on their partners' phones.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     }
   ],
   "youtube": [
@@ -190,8 +190,8 @@
       "published": "2026-05-26T21:30:11+00:00",
       "summary": "Campaign staffers are gaming prediction markets and betting on their own candidates to make money. One staffer told NPR they made \"thousands\" using insider information.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Labor union wants to reinstate telework for federal employees while gas prices remain high",
@@ -249,17 +249,6 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "U.S. expanding use of private security at airports",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=Xe5wjSx0e4Q",
-      "published": "2026-05-24T11:30:16+00:00",
-      "summary": "The Trump administration wants private companies to play a bigger role in airport security. The TSA says it plans to announce the first two to three airports in its new Gold+ program later this year.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
       "title": "Arise Now, Ye Tarnished -- More Elden Ring Co-op w/ Jack and Jenna",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -267,8 +256,8 @@
       "published": "2026-05-26T22:17:08+00:00",
       "summary": "Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Everything Is Crab | Bytesized Review",
@@ -361,6 +350,17 @@
       "verdict": "Worth a glance"
     },
     {
+      "title": "Primetime | Official Teaser HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Yrfrf53ttYY",
+      "published": "2026-05-27T13:00:08+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
       "title": "The Death of Robin Hood | Official First Look | A24",
       "source": "A24",
       "category": "Film / trailer",
@@ -423,6 +423,17 @@
       "published": "2026-05-20T16:30:28+00:00",
       "summary": "Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Enola Holmes 3 | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=g1fq327snPU",
+      "published": "2026-05-27T12:00:00+00:00",
+      "summary": "Tis I do?! The critically-acclaimed ‘Enola Holmes’ franchise has returned, taking Enola far from London, where personal and professional dreams collide on a case more tangled and treacherous than any she has faced before.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
     },
@@ -543,17 +554,6 @@
       "url": "https://www.youtube.com/watch?v=rcp-j0StBR0",
       "published": "2026-05-20T17:00:00+00:00",
       "summary": "Told by key players who were inside the courtroom, this 3-part comprehensive docuseries dissects the trial of Michael Jackson and his complex legacy. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Welcome to the Boroughs | Official Commercial | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=5WCBnc4PQvI",
-      "published": "2026-05-20T16:00:00+00:00",
-      "summary": "Welcome to the Boroughs. A retirement community built upon something truly... remarkable. You’re in good hands here. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
@@ -681,8 +681,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 17,
-    "trailerCount": 22,
-    "sourceCount": 20
+    "youtubeCount": 16,
+    "trailerCount": 23,
+    "sourceCount": 19
   }
 }
