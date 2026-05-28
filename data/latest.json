@@ -1,79 +1,89 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-28T09:00:57.815619Z",
-  "generatedAtDisplay": "2026-05-28 05:00 AM EDT",
+  "generatedAt": "2026-05-28T14:00:01.267067Z",
+  "generatedAtDisplay": "2026-05-28 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Science / computing. The strongest items in this run are ‘Seriously the best boss ever’: inside the world of Jeffrey Epstein’s assistant, US justice department reportedly opens criminal inquiry into Trump accuser E Jean Carroll, and Apple’s newest iPad Air is up to $100 off for the first time.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are Temu fined more than $230 million by EU over illegal product sales, Gemini for Google Home can now use your cameras to trigger automations, and US neo-Nazi plotted to kill journalist who reported on him, testimony reveals.",
   "mainItems": [
     {
-      "title": "‘Seriously the best boss ever’: inside the world of Jeffrey Epstein’s assistant",
-      "source": "The Guardian US",
+      "title": "Temu fined more than $230 million by EU over illegal product sales",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/news/2026/may/28/inside-the-world-of-jeffrey-epstein-assistant-lesley-groff",
-      "published": "2026-05-28T04:00:54+00:00",
-      "summary": "No one’s name appears in the Epstein files more than that of Lesley Groff, his assistant.",
+      "url": "https://www.theverge.com/policy/938792/temu-eu-dsa-fine-illegal-products",
+      "published": "2026-05-28T12:06:46+00:00",
+      "summary": "Temu has been fined €200 million (about $232 million) by the European Commission after it found that consumers are \"very likely to encounter illegal items\" on the popular Chinese e-commerce platform.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "US justice department reportedly opens criminal inquiry into Trump accuser E Jean Carroll",
+      "title": "Gemini for Google Home can now use your cameras to trigger automations",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/938771/google-home-gemini-ai-camera-automations",
+      "published": "2026-05-28T11:17:07+00:00",
+      "summary": "Google Home is rolling out a new Gemini-powered automation feature that can trigger smart home routines based on what your security cameras can see.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "US neo-Nazi plotted to kill journalist who reported on him, testimony reveals",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/28/neo-nazi-charged-journalism-murder-plot",
+      "published": "2026-05-28T11:00:19+00:00",
+      "summary": "Aiden Daniel Cuevas allegedly told undercover officer reporter ‘needed to be taken off the board’ An Alabama neo-Nazi accused of trying to start a paramilitary unit to take out “high value targets” aimed to kill a journalist who once…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "New Survey of Head Start Providers in 7 States Charts ICE’s Negative Impact",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/zero2eight/new-survey-of-head-start-providers-in-7-states-charts-ices-negative-impact/",
+      "published": "2026-05-28T10:30:00+00:00",
+      "summary": "This April, the parent of a Head Start student in Washington state went to an immigration office to turn in his paperwork. While there, he was detained.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Trump refiles $10bn lawsuit against WSJ over report on alleged Epstein ties",
       "source": "The Guardian US",
       "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/may/27/trump-doj-investigation-e-jean-carroll",
-      "published": "2026-05-28T01:45:02+00:00",
-      "summary": "Officials said to be examining whether Carroll committed perjury in 2022 deposition tied to lawsuits against president The Trump administration has opened a criminal investigation into E Jean Carroll, the writer who accused the president…",
+      "url": "https://www.theguardian.com/us-news/2026/may/28/trump-refiles-10bn-lawsuit-against-wsj-over-report-on-alleged-epstein-ties",
+      "published": "2026-05-28T10:15:17+00:00",
+      "summary": "Legal action claims newspaper tarnished reputation by describing card to Jeffrey Epstein as bearing his signature Donald Trump has refiled a defamation lawsuit seeking at least $10bn in damages against the Wall Street Journal over its…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Apple’s newest iPad Air is up to $100 off for the first time",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale",
-      "published": "2026-05-27T21:08:41+00:00",
-      "summary": "If you want an iPad that’s more powerful than the entry-level model but less expensive than the iPad Pro, the latest iPad Air is the one to buy, and it’s down to one its best prices to date.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
-      "published": "2026-05-27T19:59:40+00:00",
-      "summary": "Nvidia will invest $150 billion a year to make Taiwan an AI “epicenter.”",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "DOJ charges Google staffer over Polymarket trades netting $1.2 million",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/05/27/nx-s1-5836659/google-polymarket-insider-trading-doj-charges",
-      "published": "2026-05-27T23:35:11+00:00",
-      "summary": "It's the second known case of the federal government filing criminal charges against someone who allegedly used insider information to make a large profit on a prediction market site.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
-    },
-    {
-      "title": "A Google employee allegedly used inside information to win $1.2 million on Polymarket",
-      "source": "The Verge",
+      "title": "Inside the luxury hotel at the center of Trump’s deportation deal with Equatorial Guinea",
+      "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets",
-      "published": "2026-05-27T22:30:02+00:00",
-      "summary": "Federal prosecutors charged a Google employee with fraud after he allegedly made $1.2 million on Polymarket bets related to Search-related trends in 2025, as reported earlier by ABC News.",
+      "url": "https://www.theguardian.com/world/2026/may/28/hotel-trump-deportation-equatorial-guinea",
+      "published": "2026-05-28T13:17:46+00:00",
+      "summary": "Migrants sent from the US are being held at the Bamy hotel against their will and pressured to leave for their home countries Sign up for the Breaking News US newsletter email At first glance, the hotel looks like any other on this…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Roids were all the rage at the Enhanced Games",
-      "source": "The Verge",
+      "title": "The Download: climate tech goes public and the AI Hype Index returns",
+      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/features/937620/enhanced-games-performance-enhancing-drugs-science-health-sports",
-      "published": "2026-05-27T19:46:44+00:00",
-      "summary": "In Las Vegas, the blazing sun beats down on a makeshift Olympic-length pool. Cody Miller stands on the starting block of lane one. His arms are raised in victory.",
+      "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+      "published": "2026-05-28T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Climate tech companies are going public.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Bungie details Marathon Season 2 and the new Sentinel class, with a free-to-play week and special sale planned, too",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/marathon-season-2-rundown",
+      "published": "2026-05-28T09:21:17+00:00",
+      "summary": "Right after dropping the untimely news Destiny 2 won't be getting more support after June , Bungie is ramping up work on Marathon , with Season 2 introducing a spooky new map and mysterious new threats next week. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -87,24 +97,14 @@
       "score": 9
     },
     {
-      "title": "Alan Wake and Control \"should have sold more\", says Remedy's newly-appointed CEO, who promises he's not the evil exec people expected",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/remedy-alan-wake-control",
-      "published": "2026-05-27T16:17:24+00:00",
-      "summary": "While both games were critically acclaimed, Remedy's newly-appointed CEO believes Alan Wake and Control \"should have sold more\" and been more commercially successful than they were.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Trump Plan Would Phase Out Rural Ed Fund; District Leaders Say It’s ‘Vital’",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/trump-plan-would-phase-out-rural-ed-fund-district-leaders-say-its-vital/",
-      "published": "2026-05-27T10:30:00+00:00",
-      "summary": "On the shores of Lake Ontario in northern New York, the 430-student Sackets Harbor Central School District depends on Rick Bice, the technology coordinator, to keep the internet on.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
+      "title": "DOJ charges Google staffer over Polymarket trades netting $1.2 million",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/05/27/nx-s1-5836659/google-polymarket-insider-trading-doj-charges",
+      "published": "2026-05-27T23:35:11+00:00",
+      "summary": "It's the second known case of the federal government filing criminal charges against someone who allegedly used insider information to make a large profit on a prediction market site.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     },
     {
       "title": "Every X-Men ’97 Season 2 Trailer Easter Egg: “The Twelve,” Deadpool, and So Many Outfits",
@@ -117,14 +117,14 @@
       "score": 8
     },
     {
-      "title": "Podcast: How Deepfakes Destroyed a High School",
+      "title": "Headway Therapy Patients Forced to Scan Their Faces to Keep Getting Care",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/podcast-how-deepfakes-destroyed-a-high-school/",
-      "published": "2026-05-27T13:02:37+00:00",
-      "summary": "How deepfakes rocked a high school; BusPatrol giving AI camera data to cops; and a big time crash out.",
+      "url": "https://www.404media.co/headway-therapy-facial-scan-biometric-data-identity-verification/",
+      "published": "2026-05-28T13:53:25+00:00",
+      "summary": "A popular virtual therapy platform is telling providers and patients they'll have to do facial scanning soon, forcing some to choose between handing over their data and continuing care.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
     },
     {
       "title": "American Cancer Society says adults should start colorectal cancer screenings at 45",
@@ -172,7 +172,7 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "‘The Mandalorian & Grogu’ Cast Answer The 50 Most Searched Mando Questions",
+      "title": "Answering The 50 Most Searched Star Wars & Mandalorian Questions",
       "source": "WIRED",
       "category": "Tech / media",
       "url": "https://www.youtube.com/watch?v=nD-H_Yb4Iw4",
@@ -322,8 +322,8 @@
       "published": "2026-05-28T01:10:36+00:00",
       "summary": "NOTE: Nintendo hit us with a strike for showing the Star Fox Direct during our original Star Fox stream, but you can find the VOD here -- https://youtu.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Yahtzee Tries... Bubsy 4D and Schrodingers Cat Burglar",
@@ -333,8 +333,8 @@
       "published": "2026-05-27T22:09:18+00:00",
       "summary": "This week on Yahtzee Tries... Yahtzee and JM8 try out Bubsy 4D and Schrodingers Cat Burglar. BUBSY 4D -- https://store.steampowered.com/app/3237970/Bubsy_4D/ SCHRODINGER'S CAT BURGLAR -- https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Mina: The Hollower | Fully Ramblomatic",

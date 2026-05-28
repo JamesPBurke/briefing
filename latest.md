@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-28T09:00:57.815619Z
+Generated: 2026-05-28T14:00:01.267067Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Science / computing. The strongest items in this run are ‘Seriously the best boss ever’: inside the world of Jeffrey Epstein’s assistant, US justice department reportedly opens criminal inquiry into Trump accuser E Jean Carroll, and Apple’s newest iPad Air is up to $100 off for the first time.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are Temu fined more than $230 million by EU over illegal product sales, Gemini for Google Home can now use your cameras to trigger automations, and US neo-Nazi plotted to kill journalist who reported on him, testimony reveals.
 
 ## Briefing
 
@@ -33,70 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘Seriously the best boss ever’: inside the world of Jeffrey Epstein’s assistant [10/10]
+### 1. Temu fined more than $230 million by EU over illegal product sales [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Temu has been fined €200 million (about $232 million) by the European Commission after it found that consumers are "very likely to encounter illegal items" on the popular Chinese e-commerce platform.
+
+Link: https://www.theverge.com/policy/938792/temu-eu-dsa-fine-illegal-products
+
+### 2. Gemini for Google Home can now use your cameras to trigger automations [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Google Home is rolling out a new Gemini-powered automation feature that can trigger smart home routines based on what your security cameras can see.
+
+Link: https://www.theverge.com/tech/938771/google-home-gemini-ai-camera-automations
+
+### 3. US neo-Nazi plotted to kill journalist who reported on him, testimony reveals [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-No one’s name appears in the Epstein files more than that of Lesley Groff, his assistant.
+Aiden Daniel Cuevas allegedly told undercover officer reporter ‘needed to be taken off the board’ An Alabama neo-Nazi accused of trying to start a paramilitary unit to take out “high value targets” aimed to kill a journalist who once…
 
-Link: https://www.theguardian.com/news/2026/may/28/inside-the-world-of-jeffrey-epstein-assistant-lesley-groff
+Link: https://www.theguardian.com/us-news/2026/may/28/neo-nazi-charged-journalism-murder-plot
 
-### 2. US justice department reportedly opens criminal inquiry into Trump accuser E Jean Carroll [10/10]
+### 4. New Survey of Head Start Providers in 7 States Charts ICE’s Negative Impact [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+This April, the parent of a Head Start student in Washington state went to an immigration office to turn in his paperwork. While there, he was detained.
+
+Link: https://www.the74million.org/zero2eight/new-survey-of-head-start-providers-in-7-states-charts-ices-negative-impact/
+
+### 5. Trump refiles $10bn lawsuit against WSJ over report on alleged Epstein ties [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Officials said to be examining whether Carroll committed perjury in 2022 deposition tied to lawsuits against president The Trump administration has opened a criminal investigation into E Jean Carroll, the writer who accused the president…
+Legal action claims newspaper tarnished reputation by describing card to Jeffrey Epstein as bearing his signature Donald Trump has refiled a defamation lawsuit seeking at least $10bn in damages against the Wall Street Journal over its…
 
-Link: https://www.theguardian.com/us-news/2026/may/27/trump-doj-investigation-e-jean-carroll
+Link: https://www.theguardian.com/us-news/2026/may/28/trump-refiles-10bn-lawsuit-against-wsj-over-report-on-alleged-epstein-ties
 
-### 3. Apple’s newest iPad Air is up to $100 off for the first time [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-If you want an iPad that’s more powerful than the entry-level model but less expensive than the iPad Pro, the latest iPad Air is the one to buy, and it’s down to one its best prices to date.
-
-Link: https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale
-
-### 4. Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Nvidia will invest $150 billion a year to make Taiwan an AI “epicenter.”
-
-Link: https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/
-
-### 5. DOJ charges Google staffer over Polymarket trades netting $1.2 million [9/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-It's the second known case of the federal government filing criminal charges against someone who allegedly used insider information to make a large profit on a prediction market site.
-
-Link: https://www.npr.org/2026/05/27/nx-s1-5836659/google-polymarket-insider-trading-doj-charges
-
-### 6. A Google employee allegedly used inside information to win $1.2 million on Polymarket [9/10]
-**Source:** The Verge  
+### 6. Inside the luxury hotel at the center of Trump’s deportation deal with Equatorial Guinea [9/10]
+**Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Federal prosecutors charged a Google employee with fraud after he allegedly made $1.2 million on Polymarket bets related to Search-related trends in 2025, as reported earlier by ABC News.
+Migrants sent from the US are being held at the Bamy hotel against their will and pressured to leave for their home countries Sign up for the Breaking News US newsletter email At first glance, the hotel looks like any other on this…
 
-Link: https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets
+Link: https://www.theguardian.com/world/2026/may/28/hotel-trump-deportation-equatorial-guinea
 
-### 7. Roids were all the rage at the Enhanced Games [9/10]
-**Source:** The Verge  
+### 7. The Download: climate tech goes public and the AI Hype Index returns [9/10]
+**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-In Las Vegas, the blazing sun beats down on a makeshift Olympic-length pool. Cody Miller stands on the starting block of lane one. His arms are raised in victory.
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Climate tech companies are going public.
 
-Link: https://www.theverge.com/features/937620/enhanced-games-performance-enhancing-drugs-science-health-sports
+Link: https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/
 
-### 8. 4 Kansas School Districts Plan Legal Action Against State for Underfunding Public Education [9/10]
+### 8. Bungie details Marathon Season 2 and the new Sentinel class, with a free-to-play week and special sale planned, too [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Right after dropping the untimely news Destiny 2 won't be getting more support after June , Bungie is ramping up work on Marathon , with Season 2 introducing a spooky new map and mysterious new threats next week. Read more
+
+Link: https://www.eurogamer.net/marathon-season-2-rundown
+
+### 9. 4 Kansas School Districts Plan Legal Action Against State for Underfunding Public Education [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -105,23 +114,14 @@ TOPEKA, Kan. — Four Johnson County public school districts want to sue the sta
 
 Link: https://www.the74million.org/article/4-kansas-school-districts-plan-legal-action-against-state-for-underfunding-public-education/
 
-### 9. Alan Wake and Control "should have sold more", says Remedy's newly-appointed CEO, who promises he's not the evil exec people expected [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 10. DOJ charges Google staffer over Polymarket trades netting $1.2 million [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-While both games were critically acclaimed, Remedy's newly-appointed CEO believes Alan Wake and Control "should have sold more" and been more commercially successful than they were.
+It's the second known case of the federal government filing criminal charges against someone who allegedly used insider information to make a large profit on a prediction market site.
 
-Link: https://www.eurogamer.net/remedy-alan-wake-control
-
-### 10. Trump Plan Would Phase Out Rural Ed Fund; District Leaders Say It’s ‘Vital’ [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-On the shores of Lake Ontario in northern New York, the 430-student Sackets Harbor Central School District depends on Rick Bice, the technology coordinator, to keep the internet on.
-
-Link: https://www.the74million.org/article/trump-plan-would-phase-out-rural-ed-fund-district-leaders-say-its-vital/
+Link: https://www.npr.org/2026/05/27/nx-s1-5836659/google-polymarket-insider-trading-doj-charges
 
 ### 11. Every X-Men ’97 Season 2 Trailer Easter Egg: “The Twelve,” Deadpool, and So Many Outfits [8/10]
 **Source:** Reactor  
@@ -132,14 +132,14 @@ Emma Frost, Apocalypse, Jubilee goes anime... what else do we have to say? The p
 
 Link: https://reactormag.com/every-x-men-97-season-2-trailer-easter-egg/
 
-### 12. Podcast: How Deepfakes Destroyed a High School [8/10]
+### 12. Headway Therapy Patients Forced to Scan Their Faces to Keep Getting Care [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-How deepfakes rocked a high school; BusPatrol giving AI camera data to cops; and a big time crash out.
+A popular virtual therapy platform is telling providers and patients they'll have to do facial scanning soon, forcing some to choose between handing over their data and continuing care.
 
-Link: https://www.404media.co/podcast-how-deepfakes-destroyed-a-high-school/
+Link: https://www.404media.co/headway-therapy-facial-scan-biometric-data-identity-verification/
 
 ### 13. American Cancer Society says adults should start colorectal cancer screenings at 45 [7/10]
 **Source:** NPR Health  
@@ -179,7 +179,7 @@ Long division can be arduous - division in general is something that even comput
 
 Link: https://www.youtube.com/watch?v=-14t6_yu-7w
 
-### ‘The Mandalorian & Grogu’ Cast Answer The 50 Most Searched Mando Questions [7/10]
+### Answering The 50 Most Searched Star Wars & Mandalorian Questions [7/10]
 **Creator:** WIRED  
 **Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
@@ -296,18 +296,18 @@ Link: https://www.youtube.com/watch?v=LWwI0Qli1wY
 
 Link: https://www.youtube.com/watch?v=TghEPO7ltz4
 
-### Exploring Dinosaur Planet in Star Fox Adventures w/ KC and Marty [7/10]
+### Exploring Dinosaur Planet in Star Fox Adventures w/ KC and Marty [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 NOTE: Nintendo hit us with a strike for showing the Star Fox Direct during our original Star Fox stream, but you can find the VOD here -- https://youtu.
 
 Link: https://www.youtube.com/watch?v=Pp2phvTnBXg
 
-### Yahtzee Tries... Bubsy 4D and Schrodingers Cat Burglar [7/10]
+### Yahtzee Tries... Bubsy 4D and Schrodingers Cat Burglar [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Yahtzee Tries... Yahtzee and JM8 try out Bubsy 4D and Schrodingers Cat Burglar. BUBSY 4D -- https://store.steampowered.com/app/3237970/Bubsy_4D/ SCHRODINGER'S CAT BURGLAR -- https://store.steampowered.
