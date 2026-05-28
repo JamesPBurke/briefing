@@ -1,11 +1,21 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-28T05:00:02.468798Z",
-  "generatedAtDisplay": "2026-05-28 01:00 AM EDT",
+  "generatedAt": "2026-05-28T09:00:57.815619Z",
+  "generatedAtDisplay": "2026-05-28 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are US justice department reportedly opens criminal inquiry into Trump accuser E Jean Carroll, Apple’s newest iPad Air is up to $100 off for the first time, and Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Science / computing. The strongest items in this run are ‘Seriously the best boss ever’: inside the world of Jeffrey Epstein’s assistant, US justice department reportedly opens criminal inquiry into Trump accuser E Jean Carroll, and Apple’s newest iPad Air is up to $100 off for the first time.",
   "mainItems": [
+    {
+      "title": "‘Seriously the best boss ever’: inside the world of Jeffrey Epstein’s assistant",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/news/2026/may/28/inside-the-world-of-jeffrey-epstein-assistant-lesley-groff",
+      "published": "2026-05-28T04:00:54+00:00",
+      "summary": "No one’s name appears in the Epstein files more than that of Lesley Groff, his assistant.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "US justice department reportedly opens criminal inquiry into Trump accuser E Jean Carroll",
       "source": "The Guardian US",
@@ -37,46 +47,6 @@
       "score": 10
     },
     {
-      "title": "Roids were all the rage at the Enhanced Games",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/features/937620/enhanced-games-performance-enhancing-drugs-science-health-sports",
-      "published": "2026-05-27T19:46:44+00:00",
-      "summary": "In Las Vegas, the blazing sun beats down on a makeshift Olympic-length pool. Cody Miller stands on the starting block of lane one. His arms are raised in victory.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "4 Kansas School Districts Plan Legal Action Against State for Underfunding Public Education",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/4-kansas-school-districts-plan-legal-action-against-state-for-underfunding-public-education/",
-      "published": "2026-05-27T18:30:00+00:00",
-      "summary": "TOPEKA, Kan. — Four Johnson County public school districts want to sue the state of Kansas for more than 15 years of inadequate special education funding.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Valve raises Steam Deck prices by more than $200",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
-      "published": "2026-05-27T17:47:36+00:00",
-      "summary": "Valve has significantly increased the price of the Steam Deck - but now, it's also in stock. The 512GB Steam Deck OLED now costs $789, up from $549, while the 1TB model costs $949, up from $649.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘Lobotomized’: Character.AI Is Showing What AI Enshittification Looks Like",
-      "source": "404 Media",
-      "category": "Democracy / press freedom",
-      "url": "https://www.404media.co/lobotomized-character-ai-is-showing-what-ai-enshittification-looks-like/",
-      "published": "2026-05-27T14:20:52+00:00",
-      "summary": "Ads everywhere. Usage limits. Frustrating guardrails. Less model choice. Users of the Character.AI chatbot app are revolting after a series of changes they say have made the app worse.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "DOJ charges Google staffer over Polymarket trades netting $1.2 million",
       "source": "NPR Tech",
       "category": "Science / computing",
@@ -94,6 +64,26 @@
       "published": "2026-05-27T22:30:02+00:00",
       "summary": "Federal prosecutors charged a Google employee with fraud after he allegedly made $1.2 million on Polymarket bets related to Search-related trends in 2025, as reported earlier by ABC News.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Roids were all the rage at the Enhanced Games",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/features/937620/enhanced-games-performance-enhancing-drugs-science-health-sports",
+      "published": "2026-05-27T19:46:44+00:00",
+      "summary": "In Las Vegas, the blazing sun beats down on a makeshift Olympic-length pool. Cody Miller stands on the starting block of lane one. His arms are raised in victory.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "4 Kansas School Districts Plan Legal Action Against State for Underfunding Public Education",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/4-kansas-school-districts-plan-legal-action-against-state-for-underfunding-public-education/",
+      "published": "2026-05-27T18:30:00+00:00",
+      "summary": "TOPEKA, Kan. — Four Johnson County public school districts want to sue the state of Kansas for more than 15 years of inadequate special education funding.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
@@ -135,10 +125,517 @@
       "summary": "How deepfakes rocked a high school; BusPatrol giving AI camera data to cops; and a big time crash out.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
+    },
+    {
+      "title": "American Cancer Society says adults should start colorectal cancer screenings at 45",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/05/28/nx-s1-5836543/american-cancer-society-says-adults-should-start-colorectal-cancer-screenings-at-45",
+      "published": "2026-05-28T08:48:10+00:00",
+      "summary": "The American Cancer Society is changing its screening recommendations for colorectal cancer, suggesting adults begin screening at age 45 and adding blood-based tests as an option.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "Google DeepMind CEO Loves Hard Questions 🙂",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=kIvvzCR5NjA",
+      "published": "2026-05-26T17:35:28+00:00",
+      "summary": "Full video: https://youtu.be/huAwz_BR8WM #shorts",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "DeepMind’s Insane AI Breakthroughs With CEO Demis Hassabis",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=huAwz_BR8WM",
+      "published": "2026-05-25T17:49:30+00:00",
+      "summary": "Thank you to Google DeepMind for the invite. 🙏 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Our Patreon if you wish to support us: https://www.patreon.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "The \"Trick\" that Compilers Use for Long Division - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=-14t6_yu-7w",
+      "published": "2026-05-26T13:05:22+00:00",
+      "summary": "Long division can be arduous - division in general is something that even computer processors try to avoid with a simple technique. Matt Godbolt demos it and then shows how a simple C program can cause a compiler to employ this trick.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "‘The Mandalorian & Grogu’ Cast Answer The 50 Most Searched Mando Questions",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=nD-H_Yb4Iw4",
+      "published": "2026-05-27T16:02:03+00:00",
+      "summary": "WIRED tasks Pedro Pascal (The Mandalorian), Sigourney Weaver (Colonel Ward), Jon Favreau and Dave Filoni from _Star Wars: The Mandalorian and Grogu_ to answer the 50 most searched questions about _The Mandalorian and Grogu.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Medical Historian Answers History of Medicine Questions | Tech Support | WIRED",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=Pjl8n8u9Xfw",
+      "published": "2026-05-26T16:00:09+00:00",
+      "summary": "Medical historian Richard Barnett joins WIRED to answer the internet’s burning questions about medical history.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Protesters from blockade outside N.J. detention center amid detainee hunger strike",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=K4F46F93WqE",
+      "published": "2026-05-27T20:15:00+00:00",
+      "summary": "Protests continue outside a federal immigration detention center in Newark, N.J., where some detainees are on a hunger strike. Activists are also holding an around-the-clock vigil outside the facility while the strike continues.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Trump's DOJ mass-deletes info on Jan. 6 prosecutions",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=1WB8ZbeuBpo",
+      "published": "2026-05-27T19:00:31+00:00",
+      "summary": "The Department of Justice has been purging government websites of information about prosecutions related to the Jan. 6, 2021, attack on the U.S. Capitol, including information about violent assaults of police that day.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "How South Korea became the world's second biggest exporter of cosmetics",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=yWD_GL0CYRo",
+      "published": "2026-05-27T18:15:01+00:00",
+      "summary": "With a global \"K-beauty\" boom, South Korea became the world's second biggest exporter of cosmetics last year, surpassing the United States.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Hollywood could see its best summer since the pandemic",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=SrajpP90C8k",
+      "published": "2026-05-27T16:30:28+00:00",
+      "summary": "The Memorial Day weekend marked the start of Hollywood’s blockbuster season, and the industry could be poised to have its strongest summer since the pandemic.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Sen. Chris Murphy, D-Conn., talks about his new book, 'Crisis of the Common Good'",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=F42YpL_fEEU",
+      "published": "2026-05-27T16:00:01+00:00",
+      "summary": "Democrat Sen. Chris Murphy of Connecticut believes the U.S. has come under the spell of six cults. In his new book “Crisis of the Common Good,” Sen.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Campaign staffers gaming prediction markets by betting on their own candidates",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=DEDJmVf4FgU",
+      "published": "2026-05-26T21:30:11+00:00",
+      "summary": "Campaign staffers are gaming prediction markets and betting on their own candidates to make money. One staffer told NPR they made \"thousands\" using insider information.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Labor union wants to reinstate telework for federal employees while gas prices remain high",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=EtasV7g6uSs",
+      "published": "2026-05-26T19:00:11+00:00",
+      "summary": "A labor union representing federal workers has asked the federal government to reinstate telework while gas prices remain high and members struggle to make ends meet.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Waymo suspends service on highways over floodwater concerns",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Pe8A64VVX5Q",
+      "published": "2026-05-26T15:45:00+00:00",
+      "summary": "Waymo is suspending service on all freeways in the U.S. The move comes after one of the company's robotaxis was stranded by floodwaters in Atlanta.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Lego Batman: Legacy Of The Dark Knight - We Didn't Get Review Code So We Bought It",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=38bvfEEc98o",
+      "published": "2026-05-27T17:00:16+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The End of Destiny 2 Is Coming - But What About Bungie?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=LWwI0Qli1wY",
+      "published": "2026-05-27T16:00:10+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Sony Pulls Back From PC Ports... But Why?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=TghEPO7ltz4",
+      "published": "2026-05-27T15:00:18+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/GHKbNNmzQOU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Exploring Dinosaur Planet in Star Fox Adventures w/ KC and Marty",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=Pp2phvTnBXg",
+      "published": "2026-05-28T01:10:36+00:00",
+      "summary": "NOTE: Nintendo hit us with a strike for showing the Star Fox Direct during our original Star Fox stream, but you can find the VOD here -- https://youtu.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Yahtzee Tries... Bubsy 4D and Schrodingers Cat Burglar",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=qV3xA7L7a-Y",
+      "published": "2026-05-27T22:09:18+00:00",
+      "summary": "This week on Yahtzee Tries... Yahtzee and JM8 try out Bubsy 4D and Schrodingers Cat Burglar. BUBSY 4D -- https://store.steampowered.com/app/3237970/Bubsy_4D/ SCHRODINGER'S CAT BURGLAR -- https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Mina: The Hollower | Fully Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=A3eOjZnTtJY",
+      "published": "2026-05-27T16:00:32+00:00",
+      "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Mina: The Hollower. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Arise Now, Ye Tarnished -- More Elden Ring Co-op w/ Jack and Jenna",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=Uxe6XVA6ISI",
+      "published": "2026-05-26T22:17:08+00:00",
+      "summary": "Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Everything Is Crab | Bytesized Review",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=COobuiy5A0c",
+      "published": "2026-05-26T18:00:08+00:00",
+      "summary": "Jess Hoops reviewed Everything is Crab, developed by Old Dreams Digital. Everything is Crab on Steam: https://store.steampowered.com/app/3526710/Everything_is_Crab_The_Animal_Evolution_Roguelite/ Support us on Patreon: https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "The Mandalorian and Grogu Is Content to be Content | The Backdrop",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=IlJ4UrpXJ9U",
+      "published": "2026-05-26T15:30:14+00:00",
+      "summary": "The Mandalorian and Grogu is quite something... Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Does Luna Abyss Scratch That FPS Itch? | Hot Monday Energy",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=jZMadCzJmgM",
+      "published": "2026-05-26T01:12:05+00:00",
+      "summary": "This week on Hidden Gems KC and Jess play Luna Abyss -- https://store.steampowered.com/app/1933000/Luna_Abyss/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Let's Talk About Metal Gear Solid | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=iSYlCzXvUVE",
+      "published": "2026-05-25T18:49:49+00:00",
+      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty chat about how the original 1998 Metal Gear Solid remains a singularly weird and wonderful experience.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "RESIDENT EVIL – Zach Cregger on Survival Horror",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=N_KDtokTO1c",
+      "published": "2026-05-21T16:18:37+00:00",
+      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RESIDENT EVIL - Zach Cregger on Survival Horror",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=5gR1GTJPGqQ",
+      "published": "2026-05-21T16:00:09+00:00",
+      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY (2006) - 20th Anniversary - Official Trailer (HD)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=A0fgugC7ZCo",
+      "published": "2026-05-20T16:46:15+00:00",
+      "summary": "If you ain't first, you're last. 🏁 Ricky Bobby returns to the big screen. #TalladegaNights is back in theatres June 28, June 30, and July 1.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Primetime | Official Teaser HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Yrfrf53ttYY",
+      "published": "2026-05-27T13:00:08+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "The Death of Robin Hood | Official First Look | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ii1gTLxWukk",
+      "published": "2026-05-20T13:00:19+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Michael Sarnoski and starring Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett and Noah Jupe. THE DEATH OF ROBIN HOOD – In theaters June 19.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "HER PRIVATE HELL - Official Teaser - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=iWqST_E9u_Q",
+      "published": "2026-05-18T14:00:27+00:00",
+      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Built Different: Curry Barker on Supernatural Horror",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ZpeiXao2MS4",
+      "published": "2026-05-26T18:01:01+00:00",
+      "summary": "Supernatural horror is a window into another nightmarish world. Curry Barker explains why we're all drawn in, and how Obsession goes even deeper GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Built Different: Lee Cronin on Gore",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=NSilsgp90jE",
+      "published": "2026-05-22T18:37:15+00:00",
+      "summary": "It takes blood, guts, and heart to make a Gore horror movie. Lee Cronin unpacks the brutal horror subgenre. This is how he defines Gore, disrupts it, and takes it even further in Lee Cronin’s The Mummy.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Strung | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=sEz074LTiV8",
+      "published": "2026-05-20T16:30:28+00:00",
+      "summary": "Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Brazil ‘70: The Third Star | Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=reK5gYJPDBM",
+      "published": "2026-05-27T16:30:00+00:00",
+      "summary": "Step onto the pitch with the cast and crew of Brazil ’70: The Third Star. Discover the making of the miniseries that follows the 1970 Brazilian National Team’s journey to winning the World Cup in Mexico and securing their third world title.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Enola Holmes 3 | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=g1fq327snPU",
+      "published": "2026-05-27T12:00:00+00:00",
+      "summary": "Tis I do?! The critically-acclaimed ‘Enola Holmes’ franchise has returned, taking Enola far from London, where personal and professional dreams collide on a case more tangled and treacherous than any she has faced before.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Norway: The Dark Horse | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Z8pes4PRAUQ",
+      "published": "2026-05-26T07:00:00+00:00",
+      "summary": "Hope and history collide as an elite Norwegian squad fights to end a 26-year wait and earn a place at the 2026 World Cup in this rare-access documentary. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Marked Woman | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=161b4xLkokE",
+      "published": "2026-05-25T10:00:00+00:00",
+      "summary": "‘The Marked Woman’ starring Candela Peña, is a suspense thriller based on the novel of the same name. Directed by Gabe Ibáñez and written by Lara Sendim, the film follows an investigation driven by mystery and urgency.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Millie Bobby Brown and Louis Partridge crack the case of the Enola Holmes 3 trailer drop date",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=JNSUtGlhHKU",
+      "published": "2026-05-24T17:22:21+00:00",
+      "summary": "SAVE THE DATE 💌 #EnolaHolmes3 #Netflix Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Avatar: The Last Airbender Cast Recaps Season 1 with a Game of Two Truths & A Lie | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=HmvHY3IK1UA",
+      "published": "2026-05-24T17:00:00+00:00",
+      "summary": "The cast of Avatar: The Last Airbender recaps Season 1 with a game of Two Truths & A Lie. Season 1 is now playing, and Season 2 is coming June 25, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tip for meeting the boss, don't make it weird. Office Romance premieres June 5th #Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=_l1vDm14sLQ",
+      "published": "2026-05-22T13:00:36+00:00",
+      "summary": "Time to meet the boss, don't make it weird. Brett Goldstein, Jennifer Lopez and Betty Gilpin star in Office Romance premiering June 5. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "See U in Hell | Devil May Cry: Season 2 | Official Video | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=aQL3vWVC0jE",
+      "published": "2026-05-21T16:00:05+00:00",
+      "summary": "PRAY LIKE HELL!!! Official live action video for \"See U in Hell\" by Papa Roach, feat. Hanumankind, from the Netflix Series Devil May Cry 2. Watch the show live now: http://netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Same city, final chapter. merci, Paris. 💋 #EmilyInParis",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=91ung0bfqjc",
+      "published": "2026-05-21T15:15:24+00:00",
+      "summary": "emily in paris, emily in paris trailer, emily in paris final season, emily in paris season 6 Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Avatar: The Last Airbender: Season 2 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=M_Las484swM",
+      "published": "2026-05-21T13:00:04+00:00",
+      "summary": "Ready to rumble. Avatar: The Last Airbender Season 2 premieres on June 25, 2026 only on Netflix. Watch Avatar: The Last Airbender, only on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Avatar: The Last Airbender: Season 2 | Audio Described Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=PJtfS84s8Bs",
+      "published": "2026-05-21T13:00:02+00:00",
+      "summary": "Ready to rumble. Avatar: The Last Airbender Season 2 premieres on June 25, 2026 only on Netflix. Watch Avatar: The Last Airbender, only on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "7 days A Good Girl's Guide to Murder: Season 2",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=mUywzukSEWU",
+      "published": "2026-05-20T19:00:09+00:00",
+      "summary": "7 days until Pip & Ravi return and every clue becomes my entire personality Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -250,8 +747,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 8
+    "youtubeCount": 24,
+    "trailerCount": 21,
+    "sourceCount": 20
   }
 }
