@@ -1,11 +1,41 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-29T05:00:01.969863Z",
-  "generatedAtDisplay": "2026-05-29 01:00 AM EDT",
+  "generatedAt": "2026-05-29T09:01:52.502947Z",
+  "generatedAtDisplay": "2026-05-29 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are Shrey Parikh, 14, wins the Scripps Spelling Bee after a nail-biting 'spell-off', Federal jury finds army veteran and two other ICE protesters guilty of conspiracy, and Co-founder of Students for Trump arrested on domestic violence charges.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are 007 First Light truly 'earns the number', as critical acclaim leads to impressive sales milestone in just 24 hours, ‘Russia’s reckless behaviour is a danger to us all’, says Nato’s Rutte after drone hits Romania – Europe live, and Air pollution slows lung growth during childhood, UK study shows.",
   "mainItems": [
+    {
+      "title": "007 First Light truly 'earns the number', as critical acclaim leads to impressive sales milestone in just 24 hours",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/007-first-light-james-bond-sales-milestone-24-hours",
+      "published": "2026-05-29T08:50:37+00:00",
+      "summary": "IO Interactive 's Bond origin game 007 First Light has already reached an impressive milestone. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "‘Russia’s reckless behaviour is a danger to us all’, says Nato’s Rutte after drone hits Romania – Europe live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/live/2026/may/29/romania-ukraine-russia-galati-drone-strike-europe-live-breaking-news",
+      "published": "2026-05-29T08:18:20+00:00",
+      "summary": "‘We stand with our Nato ally’ says US as Romanian president says strike near Ukrainian border is ‘most serious security incident’ since start of war The incident comes just days after the Czech president, Petr Pavel, has urged Nato to…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Air pollution slows lung growth during childhood, UK study shows",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/environment/2026/may/29/air-pollution-slows-lung-growth-childhood-uk-study",
+      "published": "2026-05-29T05:00:41+00:00",
+      "summary": "Researchers find breathing more air pollution can slow lung development all the way up to early adulthood Research shows that air pollution is slowing the lung growth of children in the UK.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Shrey Parikh, 14, wins the Scripps Spelling Bee after a nail-biting 'spell-off'",
       "source": "NPR Education",
@@ -17,44 +47,24 @@
       "score": 10
     },
     {
-      "title": "Federal jury finds army veteran and two other ICE protesters guilty of conspiracy",
+      "title": "The US wants regime change in Cuba. But Havana’s European friends have deserted it too | Paul Taylor",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/28/ice-protesters-conspiracy-charges",
-      "published": "2026-05-29T00:58:04+00:00",
-      "summary": "Case involving June 2025 protest is escalation in Trump officials’ attack on first amendment rights, say experts A federal jury has found three protesters, including a US military veteran of the war in Afghanistan, guilty on felony…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/29/cuba-us-blockade-europe-spain",
+      "published": "2026-05-29T04:00:40+00:00",
+      "summary": "Spain led the opposition to Trump’s Iran war, but on the Cuba blockade, the challenge is absent For many Europeans of my generation, Cuba was as much a progressive cause as a country.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "Co-founder of Students for Trump arrested on domestic violence charges",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/28/co-founder-students-trump-arrested-domestic-violence",
-      "published": "2026-05-28T22:07:35+00:00",
-      "summary": "Ryan Fournier, 30, was charged with simple assault and threats to do bodily harm The co-founder of the group Students for Trump was arrested on Tuesday on domestic violence charges.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Federal inquiry into E Jean Carroll part of investigation into Reid Hoffman non-profit",
+      "title": "Bipartisan group of ex-federal judges challenges Trump’s $1.8bn ‘anti-weaponization’ fund",
       "source": "The Guardian US",
       "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/may/28/e-jean-carroll-doj-trump-reid-hoffman",
-      "published": "2026-05-28T20:42:24+00:00",
-      "summary": "According to people familiar with the matter, the LinkedIn founder, not Carroll, is primary subject of investigation The justice department’s inquiry into E Jean Carroll is part of an investigation into an entity backed by the LinkedIn…",
+      "url": "https://www.theguardian.com/us-news/2026/may/28/federal-judges-trump-anti-weaponization-fund",
+      "published": "2026-05-28T16:12:07+00:00",
+      "summary": "Lawsuit says settlement fund was ‘fraud on the court’ that would funnel taxpayer dollars to Trump allies Dozens of former federal judges have joined the push to thwart Donald Trump’s creation of a $1.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
-    },
-    {
-      "title": "Amidst ongoing legal proceedings, Rockstar devs have publicly formed a union with the IWGB",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/amidst-ongoing-legal-proceedings-rockstar-devs-have-publicly-formed-a-union-with-the-iwgb",
-      "published": "2026-05-28T22:17:49+00:00",
-      "summary": "Last year, more than 30 Rockstar Games staff members were fired in an act of alleged union busting by the GTA 6 developer. Rockstar claimed that this firing was because said devs were leaking features from upcoming games .",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
     },
     {
       "title": "LLMs believe false statements even after explicit warnings that they're false",
@@ -77,22 +87,12 @@
       "score": 9
     },
     {
-      "title": "New Survey of Head Start Providers in 7 States Charts ICE’s Negative Impact",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/zero2eight/new-survey-of-head-start-providers-in-7-states-charts-ices-negative-impact/",
-      "published": "2026-05-28T10:30:00+00:00",
-      "summary": "This April, the parent of a Head Start student in Washington state went to an immigration office to turn in his paperwork. While there, he was detained.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Blue Origin rocket explodes during test in latest setback for Jeff Bezos-owned company",
+      "title": "Trump: the boy who cried ‘peace’ in the Middle East – podcast",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/science/2026/may/29/blue-origin-rocket-explodes",
-      "published": "2026-05-29T02:38:07+00:00",
-      "summary": "No personnel were harmed in the incident, the company said on social media, calling the explosion an ‘anomaly’ Nasa’s plans to build a lunar base and return humans to the moon in the next two years, were thrown into jeopardy after a New…",
+      "url": "https://www.theguardian.com/politics/audio/2026/may/29/trump-the-boy-who-cried-peace-in-the-middle-east-podcast",
+      "published": "2026-05-29T04:00:40+00:00",
+      "summary": "On Saturday, Donald Trump said talks with Tehran were going well and an agreement to end the war was ‘largely negotiated’. On Sunday, the US launched strikes on Southern Iran.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 8
     },
@@ -148,9 +148,505 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The \"Trick\" that Compilers Use for Long Division - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=-14t6_yu-7w",
+      "published": "2026-05-26T13:05:22+00:00",
+      "summary": "Long division can be arduous - division in general is something that even computer processors try to avoid with a simple technique. Matt Godbolt demos it and then shows how a simple C program can cause a compiler to employ this trick.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Answering The 50 Most Searched Star Wars & Mandalorian Questions",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=nD-H_Yb4Iw4",
+      "published": "2026-05-27T16:02:03+00:00",
+      "summary": "WIRED tasks Pedro Pascal (The Mandalorian), Sigourney Weaver (Colonel Ward), Jon Favreau and Dave Filoni from _Star Wars: The Mandalorian and Grogu_ to answer the 50 most searched questions about _The Mandalorian and Grogu.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Medical Historian Answers History of Medicine Questions | Tech Support | WIRED",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=Pjl8n8u9Xfw",
+      "published": "2026-05-26T16:00:09+00:00",
+      "summary": "Medical historian Richard Barnett joins WIRED to answer the internet’s burning questions about medical history.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=IRXA6tcQSX0",
+      "published": "2026-05-28T23:00:05+00:00",
+      "summary": "A measles outbreak in Bangladesh is suspected to have killed more than 550 and sickened nearly 70,000. Bangladesh was getting measles under control until a new government upended vaccination efforts.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "DOJ opens investigation into Trump accuser E. Jean Carroll",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=YCjRtkgR_Tk",
+      "published": "2026-05-28T22:00:18+00:00",
+      "summary": "The Justice Department has opened an investigation into the writer E. Jean Carroll over potential perjury tied to her civil lawsuits against President Trump.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "U.S., Iran trade strikes / Trump 'won't rush' / Obama nuclear deal 2.0? | Sources & Methods",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=QdUOO3QgMws",
+      "published": "2026-05-28T21:56:32+00:00",
+      "summary": "Secretary of State Marco Rubio said this week that there's been \"some progress\" in current negotiations with Iran. But both sides exchanged fire this week, so what gives? Today, host Scott Detrow steps in for Mary Louise Kelly.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Officials open investigation into deadly paper mill implosion",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=_Qw_gsXF0Gw",
+      "published": "2026-05-28T18:00:09+00:00",
+      "summary": "Federal officials are opening an investigation into the deadly implosion of a chemical tank Tuesday at a paper mill in southern Washington state. At least two people are dead; nine others are missing and presumed dead.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "A recent airstrike in southern Lebanon targeting a Hezbollah fighter killed 13 more people",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=fmzO-9KwdQQ",
+      "published": "2026-05-28T15:15:08+00:00",
+      "summary": "Israeli airstrikes in Lebanon have taken a high toll on civilians. Almost 20 percent of the dead have been women, children or first responders, according to Lebanon’s ministry of health.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Protesters from blockade outside N.J. detention center amid detainee hunger strike",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=K4F46F93WqE",
+      "published": "2026-05-27T20:15:00+00:00",
+      "summary": "Protests continue outside a federal immigration detention center in Newark, N.J., where some detainees are on a hunger strike. Activists are also holding an around-the-clock vigil outside the facility while the strike continues.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Trump's DOJ mass-deletes info on Jan. 6 prosecutions",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=1WB8ZbeuBpo",
+      "published": "2026-05-27T19:00:31+00:00",
+      "summary": "The Department of Justice has been purging government websites of information about prosecutions related to the Jan. 6, 2021, attack on the U.S. Capitol, including information about violent assaults of police that day.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Guerrilla/Epic Games Alum Announces The Immense Engine - But What Is It?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=_nOZfk3tiEo",
+      "published": "2026-05-28T17:00:37+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/GHKbNNmzQOU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "PS5 Linux: Is It Any Kind Of Steam Machine Competitor?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=5fNOXWbhkno",
+      "published": "2026-05-28T16:00:33+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/GHKbNNmzQOU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Yoshi And The Mysterious Book On Switch 2 - Nintendo's First UE5 Game?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=sBu7HBMmP5Q",
+      "published": "2026-05-28T15:00:07+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Lego Batman: Legacy Of The Dark Knight - We Didn't Get Review Code So We Bought It",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=38bvfEEc98o",
+      "published": "2026-05-27T17:00:16+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The End of Destiny 2 Is Coming - But What About Bungie?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=LWwI0Qli1wY",
+      "published": "2026-05-27T16:00:10+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Sony Pulls Back From PC Ports... But Why?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=TghEPO7ltz4",
+      "published": "2026-05-27T15:00:18+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/GHKbNNmzQOU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Stop Watching This and Go Play Mina the Hollower and 007 First Light | Firelink Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=7VNV49dDtn8",
+      "published": "2026-05-29T01:26:48+00:00",
+      "summary": "This week on Firelink, Nick, KC, and Marty chat about the pair of excellent new releases in Mina the Hollower and 007 First Light, break down the insane price increases on Valve's Steam Deck, and marvel at The Witcher III getting a new…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Dork Tales' Kelly Clark Gushes About TTRPG Systems | RPG Help Desk w/ Jesse Galena",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=32Nwwe_maT8",
+      "published": "2026-05-28T16:47:28+00:00",
+      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.com/ember Look... we really like TTRPGs.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "More Dark Souls 2, Becoming Valedictorian of the First Sin w/ Jack and Jess -- Part 10",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=4WRY6chBLug",
+      "published": "2026-05-28T19:08:27+00:00",
+      "summary": "The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Mixtape Is a Reminder That Teenagers Suck and Always Have",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=ARuQVOGvPn0",
+      "published": "2026-05-28T15:00:12+00:00",
+      "summary": "Teenagers suck, and Mixtape is a great reminder of that. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Exploring Dinosaur Planet in Star Fox Adventures w/ KC and Marty",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=Pp2phvTnBXg",
+      "published": "2026-05-28T01:10:36+00:00",
+      "summary": "NOTE: Nintendo hit us with a strike for showing the Star Fox Direct during our original Star Fox stream, but you can find the VOD here -- https://youtu.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Yahtzee Tries... Bubsy 4D and Schrodingers Cat Burglar",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=qV3xA7L7a-Y",
+      "published": "2026-05-27T22:09:18+00:00",
+      "summary": "This week on Yahtzee Tries... Yahtzee and JM8 try out Bubsy 4D and Schrodingers Cat Burglar. BUBSY 4D -- https://store.steampowered.com/app/3237970/Bubsy_4D/ SCHRODINGER'S CAT BURGLAR -- https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Mina The Hollower | Fully Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=A3eOjZnTtJY",
+      "published": "2026-05-27T16:00:32+00:00",
+      "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Mina The Hollower. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Keep the Change | Adventure Is Nigh! - The Slow Walk Home | Ep. 2",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=3WSXNwCsm3o",
+      "published": "2026-05-27T14:37:38+00:00",
+      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
     }
   ],
-  "trailers": [],
+  "trailers": [
+    {
+      "title": "RESIDENT EVIL – Zach Cregger on Survival Horror",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=N_KDtokTO1c",
+      "published": "2026-05-21T16:18:37+00:00",
+      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RESIDENT EVIL - Zach Cregger on Survival Horror",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=5gR1GTJPGqQ",
+      "published": "2026-05-21T16:00:09+00:00",
+      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY (2006) - 20th Anniversary - Official Trailer (HD)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=A0fgugC7ZCo",
+      "published": "2026-05-20T16:46:15+00:00",
+      "summary": "If you ain't first, you're last. 🏁 Ricky Bobby returns to the big screen. #TalladegaNights is back in theatres June 28, June 30, and July 1.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Primetime | Official Teaser HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Yrfrf53ttYY",
+      "published": "2026-05-27T13:00:08+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "The Death of Robin Hood | Official First Look | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ii1gTLxWukk",
+      "published": "2026-05-20T13:00:19+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Michael Sarnoski and starring Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett and Noah Jupe. THE DEATH OF ROBIN HOOD – In theaters June 19.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "HER PRIVATE HELL - Official Teaser - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=iWqST_E9u_Q",
+      "published": "2026-05-18T14:00:27+00:00",
+      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Built Different: Curry Barker on Supernatural Horror",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ZpeiXao2MS4",
+      "published": "2026-05-26T18:01:01+00:00",
+      "summary": "Supernatural horror is a window into another nightmarish world. Curry Barker explains why we're all drawn in, and how Obsession goes even deeper GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Built Different: Lee Cronin on Gore",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=NSilsgp90jE",
+      "published": "2026-05-22T18:37:15+00:00",
+      "summary": "It takes blood, guts, and heart to make a Gore horror movie. Lee Cronin unpacks the brutal horror subgenre. This is how he defines Gore, disrupts it, and takes it even further in Lee Cronin’s The Mummy.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Strung | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=sEz074LTiV8",
+      "published": "2026-05-20T16:30:28+00:00",
+      "summary": "Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Mike Myers went full Shrek at the AFI Life Achievement Award: A Tribute to Eddie Murphy.",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=yUrwmYdWz2s",
+      "published": "2026-05-28T18:00:29+00:00",
+      "summary": "AFI Life Achievement Award: A Tribute to Eddie Murphy premieres May 31 on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "I Am Frankelda | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=diRwnGRr-Ko",
+      "published": "2026-05-28T15:00:00+00:00",
+      "summary": "Frankelda, a determined 19th-century Mexican writer, journeys into her subconscious to face the monsters she’s written about. Guided by a tormented prince, she must restore the balance between fiction and reality before it’s too late.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "In the Hand of Dante | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=cXA3Zgsky18",
+      "published": "2026-05-28T14:00:00+00:00",
+      "summary": "In the Hand of Dante follows the parallel lives of a New York author (Nick Tosches) in the 21st century who embarks on a violent journey after he is recruited by a mafia don to steal Italian poet Dante Alighieri’s The Divine Comedy written…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Brazil ‘70: The Third Star | Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=reK5gYJPDBM",
+      "published": "2026-05-27T16:30:00+00:00",
+      "summary": "Step onto the pitch with the cast and crew of Brazil ’70: The Third Star. Discover the making of the miniseries that follows the 1970 Brazilian National Team’s journey to winning the World Cup in Mexico and securing their third world title.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Enola Holmes 3 | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=g1fq327snPU",
+      "published": "2026-05-27T12:00:00+00:00",
+      "summary": "Tis I do?! The critically-acclaimed ‘Enola Holmes’ franchise has returned, taking Enola far from London, where personal and professional dreams collide on a case more tangled and treacherous than any she has faced before.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Norway: The Dark Horse | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Z8pes4PRAUQ",
+      "published": "2026-05-26T07:00:00+00:00",
+      "summary": "Hope and history collide as an elite Norwegian squad fights to end a 26-year wait and earn a place at the 2026 World Cup in this rare-access documentary. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Marked Woman | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=161b4xLkokE",
+      "published": "2026-05-25T10:00:00+00:00",
+      "summary": "‘The Marked Woman’ starring Candela Peña, is a suspense thriller based on the novel of the same name. Directed by Gabe Ibáñez and written by Lara Sendim, the film follows an investigation driven by mystery and urgency.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Millie Bobby Brown and Louis Partridge crack the case of the Enola Holmes 3 trailer drop date",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=JNSUtGlhHKU",
+      "published": "2026-05-24T17:22:21+00:00",
+      "summary": "SAVE THE DATE 💌 #EnolaHolmes3 #Netflix Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Avatar: The Last Airbender Cast Recaps Season 1 with a Game of Two Truths & A Lie | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=HmvHY3IK1UA",
+      "published": "2026-05-24T17:00:00+00:00",
+      "summary": "The cast of Avatar: The Last Airbender recaps Season 1 with a game of Two Truths & A Lie. Season 1 is now playing, and Season 2 is coming June 25, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tip for meeting the boss, don't make it weird. Office Romance premieres June 5th #Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=_l1vDm14sLQ",
+      "published": "2026-05-22T13:00:36+00:00",
+      "summary": "Time to meet the boss, don't make it weird. Brett Goldstein, Jennifer Lopez and Betty Gilpin star in Office Romance premiering June 5. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "See U in Hell | Devil May Cry: Season 2 | Official Video | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=aQL3vWVC0jE",
+      "published": "2026-05-21T16:00:05+00:00",
+      "summary": "PRAY LIKE HELL!!! Official live action video for \"See U in Hell\" by Papa Roach, feat. Hanumankind, from the Netflix Series Devil May Cry 2. Watch the show live now: http://netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Same city, final chapter. merci, Paris. 💋 #EmilyInParis",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=91ung0bfqjc",
+      "published": "2026-05-21T15:15:24+00:00",
+      "summary": "emily in paris, emily in paris trailer, emily in paris final season, emily in paris season 6 Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -262,8 +758,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 1,
-    "trailerCount": 0,
-    "sourceCount": 9
+    "youtubeCount": 25,
+    "trailerCount": 21,
+    "sourceCount": 19
   }
 }
