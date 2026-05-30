@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-30T05:00:01.981595Z
+Generated: 2026-05-30T09:01:09.308024Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Teacher Surprises His Students with NYC Flight, Acer’s launching a Linux handheld for streaming your PC games, and Texas Examines Use of National Teacher Certification for Incentive Pay.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Cape Fear: Amy Adams is incredible in this twisty remake of the classic Scorsese thriller, Acer’s launching a Linux handheld for streaming your PC games, and Foam rollers, Oura rings and the 'Spinefitter': the exact gear our fitness enthusiasts call 'a literal life-saver'.
 
 ## Briefing
 
@@ -33,14 +33,14 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Teacher Surprises His Students with NYC Flight [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 1. Cape Fear: Amy Adams is incredible in this twisty remake of the classic Scorsese thriller [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Luke Weston, an elementary school teacher and private plane pilot, surprised two of his students with an unforgettable flight up the Hudson River to catch spectacular views of Manhattan.
+Javier Bardem and his co-star are brilliant as the duelling pair at the heart of a dread-packed psychological drama – where evil lurks in plain sight The 1991 revenge thriller Cape Fear boasts many famous moments.
 
-Link: https://www.the74million.org/article/teacher-surprises-his-students-with-nyc-flight/
+Link: https://www.theguardian.com/tv-and-radio/2026/may/30/cape-fear-amy-adams-is-incredible-in-this-twisty-remake-of-the-classic-scorsese-thriller
 
 ### 2. Acer’s launching a Linux handheld for streaming your PC games [10/10]
 **Source:** The Verge  
@@ -51,34 +51,7 @@ The Acer Nitro Blaze Link might run on Linux, but it's no Steam Deck. Acer says 
 
 Link: https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld
 
-### 3. Texas Examines Use of National Teacher Certification for Incentive Pay [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Danielle Minnis can demonstrate what putting students first looks like after 20 years in the classroom, bolstered by rigorous self-evaluation. If children fall asleep during a lesson, change the pacing.
-
-Link: https://www.the74million.org/article/texas-examines-use-of-national-teacher-certification-for-incentive-pay/
-
-### 4. Microsoft delays Fable (again) to avoid GTA VI [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Microsoft has delayed its upcoming Fable reboot once again. The game was set to launch in autumn 2026, but Microsoft now says that Fable will come out in February 2027.
-
-Link: https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi
-
-### 5. DOJ sues states that rejected ICE requests for undercover license plates [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-DOJ keeps accusing ICE monitoring sites of doxing, but evidence remains scarce.
-
-Link: https://arstechnica.com/tech-policy/2026/05/doj-sues-states-that-rejected-ice-requests-for-undercover-license-plates/
-
-### 6. Foam rollers, Oura rings and the 'Spinefitter': the exact gear our fitness enthusiasts call 'a literal life-saver' [10/10]
+### 3. Foam rollers, Oura rings and the 'Spinefitter': the exact gear our fitness enthusiasts call 'a literal life-saver' [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -87,16 +60,34 @@ Oura rings, Bombas socks, Google Fitbit Air – the Filter’s favorite things f
 
 Link: https://www.theguardian.com/thefilter-us/2026/may/29/best-exercise-work-out-gear-sore-muscles
 
-### 7. She criticizes capitalism - and also gives investing advice: ‘It’s better to participate than working until we die’ [10/10]
+### 4. What we've been playing - "The following day, I kid you not, our TV broke" [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Hello and welcome back to our regular feature where we write a little about the games we've been playing.
+
+Link: https://www.eurogamer.net/what-weve-been-playing-our-tv-broke
+
+### 5. ‘There is no way to stop this’: ‘Biotech Barbie’ Cathy Tie on her mission to genetically modify babies [9/10]
 **Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Amanda Holden encourages her students to build the kind of wealth historically reserved for white men Amanda Holden is, in her words, an “ex-finance bro”.
+The Canadian entrepreneur has always pushed the boundaries of gene editing, once attempting to turn horses into unicorns.
 
-Link: https://www.theguardian.com/lifeandstyle/2026/may/29/how-to-build-wealth
+Link: https://www.theguardian.com/science/2026/may/30/there-is-no-way-to-stop-this-biotech-barbie-cathy-tie-on-her-mission-to-genetically-modify-babies
 
-### 8. Texas jury convicts Catholic priest of sexual assault after Guardian reporting [9/10]
+### 6. A broken economy and an emboldened regime: Iranians abandoned to endure fallout from war [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Some Iranians hoped foreign intervention would unseat the regime but instead the US-Israel war has damaged livelihoods and strengthened those in power As Donald Trump swung this week between threats of new military action against Iran and…
+
+Link: https://www.theguardian.com/news/ng-interactive/2026/may/30/iran-broken-economy-emboldened-regime-iranians-abandoned-fallout-of-war
+
+### 7. Texas jury convicts Catholic priest of sexual assault after Guardian reporting [9/10]
 **Source:** The Guardian US  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -105,23 +96,32 @@ Anthony Odiong was charged with exploiting his status to pursue sex with women h
 
 Link: https://www.theguardian.com/us-news/2026/may/29/texas-trial-catholic-priest-sexual-assault
 
-### 9. What if Trump invades Cuba? – Stateside with Kai and Carter [9/10]
+### 8. ‘The rug pulled out from everyone’: the chaos of Trump’s new green card rules [9/10]
 **Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-When the US indicted Raúl Castro recently, it was another step in the escalating pressure campaign the Trump administration is conducting against Cuba’s communist government.
+The policy memo issued last week requires many foreigners to obtain green cards through their home countries A new policy memo issued last week by US Citizenship and Immigration Services (USCIS), requiring many foreigners in the US to…
 
-Link: https://www.theguardian.com/us-news/video/2026/may/29/trump-cuba-invasion-stateside
+Link: https://www.theguardian.com/us-news/2026/may/29/trump-green-card-rules
 
-### 10. "They have the biggest bullsh*t detectors on the planet": How the unlikely EVE Online x Google DeepMind AI partnership landed with players [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 9. Teacher Surprises His Students with NYC Flight [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-The impact of generative AI upon PC gaming has proven controversial, which is my balanced journalist way of saying it’s been horrible.
+Luke Weston, an elementary school teacher and private plane pilot, surprised two of his students with an unforgettable flight up the Hudson River to catch spectacular views of Manhattan.
 
-Link: https://www.rockpapershotgun.com/they-have-the-biggest-bullsht-detectors-on-the-planet-how-the-unlikely-eve-online-x-google-deepmind-ai-partnership-landed-with-players
+Link: https://www.the74million.org/article/teacher-surprises-his-students-with-nyc-flight/
+
+### 10. House of the Dragon S3 trailer revels in dragons, fire, and blood [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+"The crown is a weight that crushes. You'll do things that spell death for all involved."
+
+Link: https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/
 
 ### 11. New Study Reveals the Manipulative ‘Dark Patterns’ of AI Chatbots [9/10]
 **Source:** 404 Media  
@@ -170,9 +170,9 @@ WIRED tasks Pedro Pascal (The Mandalorian), Sigourney Weaver (Colonel Ward), Jon
 
 Link: https://www.youtube.com/watch?v=nD-H_Yb4Iw4
 
-### Costco's fuel sales soar as consumers hunt for deals [9/10]
+### Costco's fuel sales soar as consumers hunt for deals [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Costco is getting lots of first-time visitors to its gas stations thanks to higher gas prices. The chain says between April and mid-May, it had its best five-week period on record for gas sales.
