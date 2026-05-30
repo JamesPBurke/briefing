@@ -1,39 +1,69 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-29T14:00:01.389036Z",
-  "generatedAtDisplay": "2026-05-29 10:00 AM EDT",
+  "generatedAt": "2026-05-30T05:00:01.981595Z",
+  "generatedAtDisplay": "2026-05-30 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Tech / media. The strongest items in this run are New Study Reveals the Manipulative ‘Dark Patterns’ of AI Chatbots, Fire in train car near New York City’s Penn Station injures five and disrupts service, and Student awarded CBS News scholarship explains why he called out network at event: ‘I had to do it’.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Teacher Surprises His Students with NYC Flight, Acer’s launching a Linux handheld for streaming your PC games, and Texas Examines Use of National Teacher Certification for Incentive Pay.",
   "mainItems": [
     {
-      "title": "New Study Reveals the Manipulative ‘Dark Patterns’ of AI Chatbots",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/new-study-reveals-the-manipulative-dark-patterns-of-ai-chatbots/",
-      "published": "2026-05-29T13:16:21+00:00",
-      "summary": "A new study by the Center for Democracy & Technology shows how chatbots like ChatGPT, Gemini, Replika and more can lead users down paths they didn't intend.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Teacher Surprises His Students with NYC Flight",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/teacher-surprises-his-students-with-nyc-flight/",
+      "published": "2026-05-29T20:48:45+00:00",
+      "summary": "Luke Weston, an elementary school teacher and private plane pilot, surprised two of his students with an unforgettable flight up the Hudson River to catch spectacular views of Manhattan.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
-      "title": "Fire in train car near New York City’s Penn Station injures five and disrupts service",
-      "source": "The Guardian US",
+      "title": "Acer’s launching a Linux handheld for streaming your PC games",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/29/new-york-penn-station-fire",
-      "published": "2026-05-29T13:02:20+00:00",
-      "summary": "Amtrak car caught fire in Hudson River tunnel resulting in overhead wire damage, according to New Jersey Transit A fire in a rail yard train car near New York’s Penn Station injured five people and disrupted service for many commuters…",
+      "url": "https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld",
+      "published": "2026-05-29T20:21:12+00:00",
+      "summary": "The Acer Nitro Blaze Link might run on Linux, but it's no Steam Deck. Acer says it's a \"streaming-first handheld and companion device,\" like a PlayStation Portal for your PC.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Student awarded CBS News scholarship explains why he called out network at event: ‘I had to do it’",
+      "title": "Texas Examines Use of National Teacher Certification for Incentive Pay",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/texas-examines-use-of-national-teacher-certification-for-incentive-pay/",
+      "published": "2026-05-29T18:30:00+00:00",
+      "summary": "Danielle Minnis can demonstrate what putting students first looks like after 20 years in the classroom, bolstered by rigorous self-evaluation. If children fall asleep during a lesson, change the pacing.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Microsoft delays Fable (again) to avoid GTA VI",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi",
+      "published": "2026-05-29T18:02:37+00:00",
+      "summary": "Microsoft has delayed its upcoming Fable reboot once again. The game was set to launch in autumn 2026, but Microsoft now says that Fable will come out in February 2027.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "DOJ sues states that rejected ICE requests for undercover license plates",
+      "source": "Ars Technica",
+      "category": "Democracy / press freedom",
+      "url": "https://arstechnica.com/tech-policy/2026/05/doj-sues-states-that-rejected-ice-requests-for-undercover-license-plates/",
+      "published": "2026-05-29T17:41:56+00:00",
+      "summary": "DOJ keeps accusing ICE monitoring sites of doxing, but evidence remains scarce.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Foam rollers, Oura rings and the 'Spinefitter': the exact gear our fitness enthusiasts call 'a literal life-saver'",
       "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/media/2026/may/29/student-cbs-scholarship-winner",
-      "published": "2026-05-29T12:00:50+00:00",
-      "summary": "Santiago Campos says he felt obligated to criticize the network’s direction, which ‘stains legacy of Mike Wallace’ Standing in front of the most powerful and well-known people in the television news business on Wednesday night, in a glitzy…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/thefilter-us/2026/may/29/best-exercise-work-out-gear-sore-muscles",
+      "published": "2026-05-29T14:15:52+00:00",
+      "summary": "Oura rings, Bombas socks, Google Fitbit Air – the Filter’s favorite things for looking and feeling good this summer Sign up for the Filter US newsletter, your weekly guide to buying fewer, better things Whether you’re haunted by the…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -47,108 +77,67 @@
       "score": 10
     },
     {
-      "title": "New York City sued over alleged racial discrimination in removal of children by protective services",
+      "title": "Texas jury convicts Catholic priest of sexual assault after Guardian reporting",
       "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/may/29/new-york-city-racial-discrimination-child-protective-services-lawsuit",
-      "published": "2026-05-29T12:00:49+00:00",
-      "summary": "Plaintiffs say children’s services uses ‘emergency removal’ disproportionately against Black and Latino families Sign up for the Breaking News US newsletter email On Thursday, two families filed a class-action lawsuit against the city of…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "\"We're determined to win justice for the 31 fired workers\" - Rockstar Games workers publicly launch union, as legal battle with the GTA 6 maker rages on",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/were-determined-to-win-justice-for-the-31-fired-workers-rockstar-games-workers-publicly-launch-union-as-legal-battle-with-the-gta-6-maker-rages-on",
-      "published": "2026-05-29T11:57:29+00:00",
-      "summary": "Developers at Rockstar Games have publicly announced a union known as the Rockstar Game Workers Union (RGWU), which is a subsidiary of the wider Independent Workers' Union of Great Britain (IWGB).",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Who Is Missing from AP CSP? Students with Disabilities",
-      "source": "CSTA",
-      "category": "Education / pedagogy",
-      "url": "https://csteachers.org/who-is-missing-from-ap-csp-students-with-disabilities/",
-      "published": "2026-05-29T11:00:00+00:00",
-      "summary": "As a former teacher now serving as a state lead, I try to keep one foot in both worlds. I... The post Who Is Missing from AP CSP? Students with Disabilities appeared first on Computer Science Teachers Association .",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Stop Killing Games-backed bill that'd bar publishers from switching off game servers without thinking of players passes California State Assembly vote",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/stop-killing-games-backed-bill-thatd-bar-publishers-from-switching-off-game-servers-without-thinking-of-players-passes-california-state-assembly-vote",
-      "published": "2026-05-29T10:00:00+00:00",
-      "summary": "A Californian bill backed by the Stop Killing Games campaign , which would see publishers shutting down servers for online games forced to provide full refunds or a version of the game players can keep on playing independently of said…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Acer’s answer to the MacBook Neo is a $699 laptop with Intel chips and 8GB of RAM",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-price-specs",
-      "published": "2026-05-29T13:35:06+00:00",
-      "summary": "Acer is aiming to take on the MacBook Neo more directly with a new Swift Air 14, a new 14-inch laptop that starts at $699.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "category": "Security / computing",
+      "url": "https://www.theguardian.com/us-news/2026/may/29/texas-trial-catholic-priest-sexual-assault",
+      "published": "2026-05-29T21:32:22+00:00",
+      "summary": "Anthony Odiong was charged with exploiting his status to pursue sex with women he was giving spiritual direction to A jury in Texas has convicted a Roman Catholic priest charged with illegally exploiting his status as a clergyman to pursue…",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 9
     },
     {
-      "title": "Stephen Colbert’s Late Show replacement is a depressing sign of the times",
+      "title": "What if Trump invades Cuba? – Stateside with Kai and Carter",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/29/stephen-colbert-late-show-replacement-byron-allen",
-      "published": "2026-05-29T11:00:48+00:00",
-      "summary": "After the politically incisive late-night host said his final goodnight last week, Byron Allen’s Comics Unleashed offered a grim look at where TV is heading The applause, dear God, the applause.",
+      "url": "https://www.theguardian.com/us-news/video/2026/may/29/trump-cuba-invasion-stateside",
+      "published": "2026-05-29T21:00:00+00:00",
+      "summary": "When the US indicted Raúl Castro recently, it was another step in the escalating pressure campaign the Trump administration is conducting against Cuba’s communist government.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "The U.S. government wants to treat any Americans with Ebola outside of the U.S.",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/28/nx-s1-5837353/the-u-s-government-wants-to-treat-any-americans-with-ebola-outside-of-the-u-s",
-      "published": "2026-05-28T20:46:13+00:00",
-      "summary": "The U.S. plans to try to keep Ebola out by keeping citizens who were potentially exposed in Kenya. This has some in Kenya frustrated and others worried it will deter aid workers from helping.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "title": "\"They have the biggest bullsh*t detectors on the planet\": How the unlikely EVE Online x Google DeepMind AI partnership landed with players",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/they-have-the-biggest-bullsht-detectors-on-the-planet-how-the-unlikely-eve-online-x-google-deepmind-ai-partnership-landed-with-players",
+      "published": "2026-05-29T16:30:00+00:00",
+      "summary": "The impact of generative AI upon PC gaming has proven controversial, which is my balanced journalist way of saying it’s been horrible.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
-      "title": "I Am Frankelda Trailer Takes Us to a Stop-Animated Underworld",
+      "title": "New Study Reveals the Manipulative ‘Dark Patterns’ of AI Chatbots",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/new-study-reveals-the-manipulative-dark-patterns-of-ai-chatbots/",
+      "published": "2026-05-29T13:16:21+00:00",
+      "summary": "A new study by the Center for Democracy & Technology shows how chatbots like ChatGPT, Gemini, Replika and more can lead users down paths they didn't intend.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9
+    },
+    {
+      "title": "10 Examples of Hard Science Fiction Video Games",
       "source": "Reactor",
       "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/i-am-frankelda-trailer-netflix/",
-      "published": "2026-05-28T19:34:20+00:00",
-      "summary": "The land feeds on nightmares, naturally The post I Am Frankelda Trailer Takes Us to a Stop-Animated Underworld appeared first on Reactor .",
+      "url": "https://reactormag.com/examples-hard-science-fiction-video-games/",
+      "published": "2026-05-29T14:00:00+00:00",
+      "summary": "Only science can save you in this hardcore hard sci-fi titles The post 10 Examples of Hard Science Fiction Video Games appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     },
     {
-      "title": "How pigeons exploit magnetic fields for navigation",
-      "source": "Ars Technica",
-      "category": "Security / computing",
-      "url": "https://arstechnica.com/science/2026/05/how-pigeons-exploit-magnetic-fields-for-navigation/",
-      "published": "2026-05-28T18:00:22+00:00",
-      "summary": "Iron-rich immune cells in the liver may act as sensors for magnetic fields, serving as an internal compass.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 8
+      "title": "Common myths about gut health",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/05/29/nx-s1-5826918/common-myths-about-gut-health",
+      "published": "2026-05-29T20:40:34+00:00",
+      "summary": "Marketers sell all kinds of tests and supplements to fix your gut health. But is any of this actually worth spending money on?",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
     }
   ],
   "youtube": [
-    {
-      "title": "Google DeepMind CEO Loves Hard Questions 🙂",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=kIvvzCR5NjA",
-      "published": "2026-05-26T17:35:28+00:00",
-      "summary": "Full video: https://youtu.be/huAwz_BR8WM #shorts",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
     {
       "title": "Human Readable Code - Computerphile",
       "source": "Computerphile",
@@ -157,8 +146,8 @@
       "published": "2026-05-29T13:30:12+00:00",
       "summary": "Knuth talked about \"Literate Programming\" over forty years ago, but what does it mean to have code that a developer and a client can agree on? Dr Robert Chatley of Imperial College London demonstrates how it might work.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "'Mandalorian and Grogu' Cast Answer The 50 Most Searched Star Wars & Mandalorian Questions",
@@ -172,12 +161,45 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Medical Historian Answers History of Medicine Questions | Tech Support | WIRED",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=Pjl8n8u9Xfw",
-      "published": "2026-05-26T16:00:09+00:00",
-      "summary": "Medical historian Richard Barnett joins WIRED to answer the internet’s burning questions about medical history.",
+      "title": "Costco's fuel sales soar as consumers hunt for deals",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=eGsVv65qR60",
+      "published": "2026-05-29T18:00:13+00:00",
+      "summary": "Costco is getting lots of first-time visitors to its gas stations thanks to higher gas prices. The chain says between April and mid-May, it had its best five-week period on record for gas sales.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Algorithm | For your right to be curious.",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=2Qs_bdUOlnA",
+      "published": "2026-05-29T15:07:44+00:00",
+      "summary": "People notice. People question. NPR takes your curiosity further. Hear more of this story on It’s Been a Minute from NPR. ------------------------------------------------------ Follow NPR elsewhere, too: • Instagram: https://www.instagram.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Receipt | For your right to be curious.",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=whva3D9tYLQ",
+      "published": "2026-05-29T15:07:40+00:00",
+      "summary": "People notice. People question. NPR takes your curiosity further. Hear more of this story on Planet Money from NPR. ------------------------------------------------------ Follow NPR elsewhere, too: • Instagram: https://www.instagram.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Flag | For your right to be curious.",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=7eb9g8uVO6U",
+      "published": "2026-05-29T15:07:31+00:00",
+      "summary": "People notice. People question. NPR takes your curiosity further. Hear more of this story on The NPR Politics Podcast. ------------------------------------------------------ Follow NPR elsewhere, too: • Instagram: https://www.instagram.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -194,48 +216,37 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "DOJ opens investigation into Trump accuser E. Jean Carroll",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=YCjRtkgR_Tk",
-      "published": "2026-05-28T22:00:18+00:00",
-      "summary": "The Justice Department has opened an investigation into the writer E. Jean Carroll over potential perjury tied to her civil lawsuits against President Trump.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Uncharted 4 - It's Been Ten Years - And It's Still Stunning",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=nmPXTBtWIXI",
+      "published": "2026-05-29T17:00:21+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Unreal Engine 6 Teased - So What Do We Think?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=NNSiIKlsXLs",
+      "published": "2026-05-29T16:00:17+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/jRfDuHfSCrE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Riven And Motorslice - Two Unreal Engine 5 Games We Highly Recommend",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=eoGKtjupDUQ",
+      "published": "2026-05-29T16:00:17+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 9,
       "verdict": "Watch it"
-    },
-    {
-      "title": "U.S., Iran trade strikes / Trump 'won't rush' / Obama nuclear deal 2.0? | Sources & Methods",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=QdUOO3QgMws",
-      "published": "2026-05-28T21:56:32+00:00",
-      "summary": "Secretary of State Marco Rubio said this week that there's been \"some progress\" in current negotiations with Iran. But both sides exchanged fire this week, so what gives? Today, host Scott Detrow steps in for Mary Louise Kelly.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Officials open investigation into deadly paper mill implosion",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=_Qw_gsXF0Gw",
-      "published": "2026-05-28T18:00:09+00:00",
-      "summary": "Federal officials are opening an investigation into the deadly implosion of a chemical tank Tuesday at a paper mill in southern Washington state. At least two people are dead; nine others are missing and presumed dead.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "A recent airstrike in southern Lebanon targeting a Hezbollah fighter killed 13 more people",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=fmzO-9KwdQQ",
-      "published": "2026-05-28T15:15:08+00:00",
-      "summary": "Israeli airstrikes in Lebanon have taken a high toll on civilians. Almost 20 percent of the dead have been women, children or first responders, according to Lebanon’s ministry of health.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     },
     {
       "title": "Guerrilla/Epic Games Alum Announces The Immense Engine - But What Is It?",
@@ -256,8 +267,8 @@
       "published": "2026-05-28T16:00:33+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/GHKbNNmzQOU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Yoshi And The Mysterious Book On Switch 2 - Nintendo's First UE5 Game?",
@@ -293,13 +304,13 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "Sony Pulls Back From PC Ports... But Why?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=TghEPO7ltz4",
-      "published": "2026-05-27T15:00:18+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/GHKbNNmzQOU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "title": "I’ve Played Dreadmoor… I’m Still Not Convinced | Unpacked",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=mJyFV22vWO4",
+      "published": "2026-05-29T15:00:11+00:00",
+      "summary": "When expectations don't match up with reality. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
     },
@@ -311,8 +322,8 @@
       "published": "2026-05-29T10:12:08+00:00",
       "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.com/ember Look... we really like TTRPGs.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Stop Watching This and Go Play Mina the Hollower and 007 First Light | Firelink Podcast",
@@ -322,8 +333,8 @@
       "published": "2026-05-29T01:26:48+00:00",
       "summary": "This week on Firelink, Nick, KC, and Marty chat about the pair of excellent new releases in Mina the Hollower and 007 First Light, break down the insane price increases on Valve's Steam Deck, and marvel at The Witcher III getting a new…",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "More Dark Souls 2, Becoming Valedictorian of the First Sin w/ Jack and Jess -- Part 10",
@@ -379,17 +390,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
-    },
-    {
-      "title": "Keep the Change | Adventure Is Nigh! - The Slow Walk Home | Ep. 2",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=3WSXNwCsm3o",
-      "published": "2026-05-27T14:37:38+00:00",
-      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
     }
   ],
   "trailers": [
@@ -500,7 +500,7 @@
       "published": "2026-05-29T10:00:00+00:00",
       "summary": "100 modern gladiators. One monumental arena. Welcome to Physical 100: Italy. In this unprecedented physical competition, 100 contestants face off in extreme challenges that push body and tenacity to the absolute limit.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -598,39 +598,6 @@
       "url": "https://www.youtube.com/watch?v=HmvHY3IK1UA",
       "published": "2026-05-24T17:00:00+00:00",
       "summary": "The cast of Avatar: The Last Airbender recaps Season 1 with a game of Two Truths & A Lie. Season 1 is now playing, and Season 2 is coming June 25, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tip for meeting the boss, don't make it weird. Office Romance premieres June 5th #Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=_l1vDm14sLQ",
-      "published": "2026-05-22T13:00:36+00:00",
-      "summary": "Time to meet the boss, don't make it weird. Brett Goldstein, Jennifer Lopez and Betty Gilpin star in Office Romance premiering June 5. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "See U in Hell | Devil May Cry: Season 2 | Official Video | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=aQL3vWVC0jE",
-      "published": "2026-05-21T16:00:05+00:00",
-      "summary": "PRAY LIKE HELL!!! Official live action video for \"See U in Hell\" by Papa Roach, feat. Hanumankind, from the Netflix Series Devil May Cry 2. Watch the show live now: http://netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Same city, final chapter. merci, Paris. 💋 #EmilyInParis",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=91ung0bfqjc",
-      "published": "2026-05-21T15:15:24+00:00",
-      "summary": "emily in paris, emily in paris trailer, emily in paris final season, emily in paris season 6 Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -748,7 +715,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 23,
-    "trailerCount": 22,
-    "sourceCount": 20
+    "trailerCount": 19,
+    "sourceCount": 18
   }
 }

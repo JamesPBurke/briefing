@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-29T14:00:01.389036Z
+Generated: 2026-05-30T05:00:01.981595Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Tech / media. The strongest items in this run are New Study Reveals the Manipulative ‘Dark Patterns’ of AI Chatbots, Fire in train car near New York City’s Penn Station injures five and disrupts service, and Student awarded CBS News scholarship explains why he called out network at event: ‘I had to do it’.
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Teacher Surprises His Students with NYC Flight, Acer’s launching a Linux handheld for streaming your PC games, and Texas Examines Use of National Teacher Certification for Incentive Pay.
 
 ## Briefing
 
@@ -33,34 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. New Study Reveals the Manipulative ‘Dark Patterns’ of AI Chatbots [10/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
+### 1. Teacher Surprises His Students with NYC Flight [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-A new study by the Center for Democracy & Technology shows how chatbots like ChatGPT, Gemini, Replika and more can lead users down paths they didn't intend.
+Luke Weston, an elementary school teacher and private plane pilot, surprised two of his students with an unforgettable flight up the Hudson River to catch spectacular views of Manhattan.
 
-Link: https://www.404media.co/new-study-reveals-the-manipulative-dark-patterns-of-ai-chatbots/
+Link: https://www.the74million.org/article/teacher-surprises-his-students-with-nyc-flight/
 
-### 2. Fire in train car near New York City’s Penn Station injures five and disrupts service [10/10]
+### 2. Acer’s launching a Linux handheld for streaming your PC games [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The Acer Nitro Blaze Link might run on Linux, but it's no Steam Deck. Acer says it's a "streaming-first handheld and companion device," like a PlayStation Portal for your PC.
+
+Link: https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld
+
+### 3. Texas Examines Use of National Teacher Certification for Incentive Pay [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Danielle Minnis can demonstrate what putting students first looks like after 20 years in the classroom, bolstered by rigorous self-evaluation. If children fall asleep during a lesson, change the pacing.
+
+Link: https://www.the74million.org/article/texas-examines-use-of-national-teacher-certification-for-incentive-pay/
+
+### 4. Microsoft delays Fable (again) to avoid GTA VI [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Microsoft has delayed its upcoming Fable reboot once again. The game was set to launch in autumn 2026, but Microsoft now says that Fable will come out in February 2027.
+
+Link: https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi
+
+### 5. DOJ sues states that rejected ICE requests for undercover license plates [10/10]
+**Source:** Ars Technica  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+DOJ keeps accusing ICE monitoring sites of doxing, but evidence remains scarce.
+
+Link: https://arstechnica.com/tech-policy/2026/05/doj-sues-states-that-rejected-ice-requests-for-undercover-license-plates/
+
+### 6. Foam rollers, Oura rings and the 'Spinefitter': the exact gear our fitness enthusiasts call 'a literal life-saver' [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Amtrak car caught fire in Hudson River tunnel resulting in overhead wire damage, according to New Jersey Transit A fire in a rail yard train car near New York’s Penn Station injured five people and disrupted service for many commuters…
+Oura rings, Bombas socks, Google Fitbit Air – the Filter’s favorite things for looking and feeling good this summer Sign up for the Filter US newsletter, your weekly guide to buying fewer, better things Whether you’re haunted by the…
 
-Link: https://www.theguardian.com/us-news/2026/may/29/new-york-penn-station-fire
+Link: https://www.theguardian.com/thefilter-us/2026/may/29/best-exercise-work-out-gear-sore-muscles
 
-### 3. Student awarded CBS News scholarship explains why he called out network at event: ‘I had to do it’ [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Santiago Campos says he felt obligated to criticize the network’s direction, which ‘stains legacy of Mike Wallace’ Standing in front of the most powerful and well-known people in the television news business on Wednesday night, in a glitzy…
-
-Link: https://www.theguardian.com/media/2026/may/29/student-cbs-scholarship-winner
-
-### 4. She criticizes capitalism - and also gives investing advice: ‘It’s better to participate than working until we die’ [10/10]
+### 7. She criticizes capitalism - and also gives investing advice: ‘It’s better to participate than working until we die’ [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -69,101 +96,65 @@ Amanda Holden encourages her students to build the kind of wealth historically r
 
 Link: https://www.theguardian.com/lifeandstyle/2026/may/29/how-to-build-wealth
 
-### 5. New York City sued over alleged racial discrimination in removal of children by protective services [10/10]
+### 8. Texas jury convicts Catholic priest of sexual assault after Guardian reporting [9/10]
 **Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-Plaintiffs say children’s services uses ‘emergency removal’ disproportionately against Black and Latino families Sign up for the Breaking News US newsletter email On Thursday, two families filed a class-action lawsuit against the city of…
+Anthony Odiong was charged with exploiting his status to pursue sex with women he was giving spiritual direction to A jury in Texas has convicted a Roman Catholic priest charged with illegally exploiting his status as a clergyman to pursue…
 
-Link: https://www.theguardian.com/us-news/2026/may/29/new-york-city-racial-discrimination-child-protective-services-lawsuit
+Link: https://www.theguardian.com/us-news/2026/may/29/texas-trial-catholic-priest-sexual-assault
 
-### 6. "We're determined to win justice for the 31 fired workers" - Rockstar Games workers publicly launch union, as legal battle with the GTA 6 maker rages on [10/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Developers at Rockstar Games have publicly announced a union known as the Rockstar Game Workers Union (RGWU), which is a subsidiary of the wider Independent Workers' Union of Great Britain (IWGB).
-
-Link: https://www.eurogamer.net/were-determined-to-win-justice-for-the-31-fired-workers-rockstar-games-workers-publicly-launch-union-as-legal-battle-with-the-gta-6-maker-rages-on
-
-### 7. Who Is Missing from AP CSP? Students with Disabilities [10/10]
-**Source:** CSTA  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-As a former teacher now serving as a state lead, I try to keep one foot in both worlds. I... The post Who Is Missing from AP CSP? Students with Disabilities appeared first on Computer Science Teachers Association .
-
-Link: https://csteachers.org/who-is-missing-from-ap-csp-students-with-disabilities/
-
-### 8. Stop Killing Games-backed bill that'd bar publishers from switching off game servers without thinking of players passes California State Assembly vote [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-A Californian bill backed by the Stop Killing Games campaign , which would see publishers shutting down servers for online games forced to provide full refunds or a version of the game players can keep on playing independently of said…
-
-Link: https://www.rockpapershotgun.com/stop-killing-games-backed-bill-thatd-bar-publishers-from-switching-off-game-servers-without-thinking-of-players-passes-california-state-assembly-vote
-
-### 9. Acer’s answer to the MacBook Neo is a $699 laptop with Intel chips and 8GB of RAM [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Acer is aiming to take on the MacBook Neo more directly with a new Swift Air 14, a new 14-inch laptop that starts at $699.
-
-Link: https://www.theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-price-specs
-
-### 10. Stephen Colbert’s Late Show replacement is a depressing sign of the times [9/10]
+### 9. What if Trump invades Cuba? – Stateside with Kai and Carter [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-After the politically incisive late-night host said his final goodnight last week, Byron Allen’s Comics Unleashed offered a grim look at where TV is heading The applause, dear God, the applause.
+When the US indicted Raúl Castro recently, it was another step in the escalating pressure campaign the Trump administration is conducting against Cuba’s communist government.
 
-Link: https://www.theguardian.com/tv-and-radio/2026/may/29/stephen-colbert-late-show-replacement-byron-allen
+Link: https://www.theguardian.com/us-news/video/2026/may/29/trump-cuba-invasion-stateside
 
-### 11. The U.S. government wants to treat any Americans with Ebola outside of the U.S. [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
+### 10. "They have the biggest bullsh*t detectors on the planet": How the unlikely EVE Online x Google DeepMind AI partnership landed with players [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The impact of generative AI upon PC gaming has proven controversial, which is my balanced journalist way of saying it’s been horrible.
+
+Link: https://www.rockpapershotgun.com/they-have-the-biggest-bullsht-detectors-on-the-planet-how-the-unlikely-eve-online-x-google-deepmind-ai-partnership-landed-with-players
+
+### 11. New Study Reveals the Manipulative ‘Dark Patterns’ of AI Chatbots [9/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-The U.S. plans to try to keep Ebola out by keeping citizens who were potentially exposed in Kenya. This has some in Kenya frustrated and others worried it will deter aid workers from helping.
+A new study by the Center for Democracy & Technology shows how chatbots like ChatGPT, Gemini, Replika and more can lead users down paths they didn't intend.
 
-Link: https://www.npr.org/2026/05/28/nx-s1-5837353/the-u-s-government-wants-to-treat-any-americans-with-ebola-outside-of-the-u-s
+Link: https://www.404media.co/new-study-reveals-the-manipulative-dark-patterns-of-ai-chatbots/
 
-### 12. I Am Frankelda Trailer Takes Us to a Stop-Animated Underworld [8/10]
+### 12. 10 Examples of Hard Science Fiction Video Games [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-The land feeds on nightmares, naturally The post I Am Frankelda Trailer Takes Us to a Stop-Animated Underworld appeared first on Reactor .
+Only science can save you in this hardcore hard sci-fi titles The post 10 Examples of Hard Science Fiction Video Games appeared first on Reactor .
 
-Link: https://reactormag.com/i-am-frankelda-trailer-netflix/
+Link: https://reactormag.com/examples-hard-science-fiction-video-games/
 
-### 13. How pigeons exploit magnetic fields for navigation [8/10]
-**Source:** Ars Technica  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+### 13. Common myths about gut health [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-Iron-rich immune cells in the liver may act as sensors for magnetic fields, serving as an internal compass.
+Marketers sell all kinds of tests and supplements to fix your gut health. But is any of this actually worth spending money on?
 
-Link: https://arstechnica.com/science/2026/05/how-pigeons-exploit-magnetic-fields-for-navigation/
+Link: https://www.npr.org/2026/05/29/nx-s1-5826918/common-myths-about-gut-health
 
 ## YouTube
 
-### Google DeepMind CEO Loves Hard Questions 🙂 [7/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Full video: https://youtu.be/huAwz_BR8WM #shorts
-
-Link: https://www.youtube.com/watch?v=kIvvzCR5NjA
-
-### Human Readable Code - Computerphile [7/10]
+### Human Readable Code - Computerphile [6/10]
 **Creator:** Computerphile  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
 Knuth talked about "Literate Programming" over forty years ago, but what does it mean to have code that a developer and a client can agree on? Dr Robert Chatley of Imperial College London demonstrates how it might work.
@@ -179,14 +170,41 @@ WIRED tasks Pedro Pascal (The Mandalorian), Sigourney Weaver (Colonel Ward), Jon
 
 Link: https://www.youtube.com/watch?v=nD-H_Yb4Iw4
 
-### Medical Historian Answers History of Medicine Questions | Tech Support | WIRED [7/10]
-**Creator:** WIRED  
+### Costco's fuel sales soar as consumers hunt for deals [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Costco is getting lots of first-time visitors to its gas stations thanks to higher gas prices. The chain says between April and mid-May, it had its best five-week period on record for gas sales.
+
+Link: https://www.youtube.com/watch?v=eGsVv65qR60
+
+### Algorithm | For your right to be curious. [7/10]
+**Creator:** NPR  
 **Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-Medical historian Richard Barnett joins WIRED to answer the internet’s burning questions about medical history.
+People notice. People question. NPR takes your curiosity further. Hear more of this story on It’s Been a Minute from NPR. ------------------------------------------------------ Follow NPR elsewhere, too: • Instagram: https://www.instagram.
 
-Link: https://www.youtube.com/watch?v=Pjl8n8u9Xfw
+Link: https://www.youtube.com/watch?v=2Qs_bdUOlnA
+
+### Receipt | For your right to be curious. [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+People notice. People question. NPR takes your curiosity further. Hear more of this story on Planet Money from NPR. ------------------------------------------------------ Follow NPR elsewhere, too: • Instagram: https://www.instagram.
+
+Link: https://www.youtube.com/watch?v=whva3D9tYLQ
+
+### Flag | For your right to be curious. [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+People notice. People question. NPR takes your curiosity further. Hear more of this story on The NPR Politics Podcast. ------------------------------------------------------ Follow NPR elsewhere, too: • Instagram: https://www.instagram.
+
+Link: https://www.youtube.com/watch?v=7eb9g8uVO6U
 
 ### More than 500 children have died in an outbreak that the world is virtually ignoring [6/10]
 **Creator:** NPR  
@@ -197,41 +215,32 @@ A measles outbreak in Bangladesh is suspected to have killed more than 550 and s
 
 Link: https://www.youtube.com/watch?v=IRXA6tcQSX0
 
-### DOJ opens investigation into Trump accuser E. Jean Carroll [9/10]
-**Creator:** NPR  
+### Uncharted 4 - It's Been Ten Years - And It's Still Stunning [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=nmPXTBtWIXI
+
+### Unreal Engine 6 Teased - So What Do We Think? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/jRfDuHfSCrE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=NNSiIKlsXLs
+
+### Riven And Motorslice - Two Unreal Engine 5 Games We Highly Recommend [9/10]
+**Creator:** Digital Foundry  
 **Verdict:** Watch it  
-**Why it matters:** Relevant to your current interest graph.
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
-The Justice Department has opened an investigation into the writer E. Jean Carroll over potential perjury tied to her civil lawsuits against President Trump.
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
-Link: https://www.youtube.com/watch?v=YCjRtkgR_Tk
-
-### U.S., Iran trade strikes / Trump 'won't rush' / Obama nuclear deal 2.0? | Sources & Methods [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Secretary of State Marco Rubio said this week that there's been "some progress" in current negotiations with Iran. But both sides exchanged fire this week, so what gives? Today, host Scott Detrow steps in for Mary Louise Kelly.
-
-Link: https://www.youtube.com/watch?v=QdUOO3QgMws
-
-### Officials open investigation into deadly paper mill implosion [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Federal officials are opening an investigation into the deadly implosion of a chemical tank Tuesday at a paper mill in southern Washington state. At least two people are dead; nine others are missing and presumed dead.
-
-Link: https://www.youtube.com/watch?v=_Qw_gsXF0Gw
-
-### A recent airstrike in southern Lebanon targeting a Hezbollah fighter killed 13 more people [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Israeli airstrikes in Lebanon have taken a high toll on civilians. Almost 20 percent of the dead have been women, children or first responders, according to Lebanon’s ministry of health.
-
-Link: https://www.youtube.com/watch?v=fmzO-9KwdQQ
+Link: https://www.youtube.com/watch?v=eoGKtjupDUQ
 
 ### Guerrilla/Epic Games Alum Announces The Immense Engine - But What Is It? [8/10]
 **Creator:** Digital Foundry  
@@ -242,9 +251,9 @@ Link: https://www.youtube.com/watch?v=fmzO-9KwdQQ
 
 Link: https://www.youtube.com/watch?v=_nOZfk3tiEo
 
-### PS5 Linux: Is It Any Kind Of Steam Machine Competitor? [8/10]
+### PS5 Linux: Is It Any Kind Of Steam Machine Competitor? [7/10]
 **Creator:** Digital Foundry  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/GHKbNNmzQOU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -278,27 +287,27 @@ Link: https://www.youtube.com/watch?v=38bvfEEc98o
 
 Link: https://www.youtube.com/watch?v=LWwI0Qli1wY
 
-### Sony Pulls Back From PC Ports... But Why? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/GHKbNNmzQOU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=TghEPO7ltz4
-
-### Dork Tales' Kelly Clark Gushes About TTRPG Systems | RPG Help Desk w/ Jesse Galena [8/10]
+### I’ve Played Dreadmoor… I’m Still Not Convinced | Unpacked [6/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+When expectations don't match up with reality. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=mJyFV22vWO4
+
+### Dork Tales' Kelly Clark Gushes About TTRPG Systems | RPG Help Desk w/ Jesse Galena [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.com/ember Look... we really like TTRPGs.
 
 Link: https://www.youtube.com/watch?v=32Nwwe_maT8
 
-### Stop Watching This and Go Play Mina the Hollower and 007 First Light | Firelink Podcast [9/10]
+### Stop Watching This and Go Play Mina the Hollower and 007 First Light | Firelink Podcast [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Firelink, Nick, KC, and Marty chat about the pair of excellent new releases in Mina the Hollower and 007 First Light, break down the insane price increases on Valve's Steam Deck, and marvel at The Witcher III getting a new…
@@ -349,15 +358,6 @@ Link: https://www.youtube.com/watch?v=qV3xA7L7a-Y
 This week on Fully Ramblomatic, Yahtzee reviewed Mina The Hollower. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
 Link: https://www.youtube.com/watch?v=A3eOjZnTtJY
-
-### Keep the Change | Adventure Is Nigh! - The Slow Walk Home | Ep. 2 [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.
-
-Link: https://www.youtube.com/watch?v=3WSXNwCsm3o
 
 ## Entertainment Recommendations
 
@@ -469,7 +469,7 @@ Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by M
 
 Link: https://www.youtube.com/watch?v=sEz074LTiV8
 
-### Physical 100: Italy | Official Trailer | Netflix [10/10]
+### Physical 100: Italy | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -558,30 +558,3 @@ Link: https://www.youtube.com/watch?v=JNSUtGlhHKU
 The cast of Avatar: The Last Airbender recaps Season 1 with a game of Two Truths & A Lie. Season 1 is now playing, and Season 2 is coming June 25, only on Netflix. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=HmvHY3IK1UA
-
-### Tip for meeting the boss, don't make it weird. Office Romance premieres June 5th #Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Time to meet the boss, don't make it weird. Brett Goldstein, Jennifer Lopez and Betty Gilpin star in Office Romance premiering June 5. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=_l1vDm14sLQ
-
-### See U in Hell | Devil May Cry: Season 2 | Official Video | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-PRAY LIKE HELL!!! Official live action video for "See U in Hell" by Papa Roach, feat. Hanumankind, from the Netflix Series Devil May Cry 2. Watch the show live now: http://netflix.
-
-Link: https://www.youtube.com/watch?v=aQL3vWVC0jE
-
-### Same city, final chapter. merci, Paris. 💋 #EmilyInParis [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-emily in paris, emily in paris trailer, emily in paris final season, emily in paris season 6 Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=91ung0bfqjc
