@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-30T09:01:09.308024Z
+Generated: 2026-05-30T14:00:02.556150Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Cape Fear: Amy Adams is incredible in this twisty remake of the classic Scorsese thriller, Acer’s launching a Linux handheld for streaming your PC games, and Foam rollers, Oura rings and the 'Spinefitter': the exact gear our fitness enthusiasts call 'a literal life-saver'.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are Chicago-to-Minneapolis United Airlines flight diverted after attempted cockpit breach, Why $1bn in Balkans energy contracts are going to an obscure company connected to Donald Trump, and Shackled, transferred, mocked: woman, 23, says she gave in to deportation after ‘humiliating’ ICE detention.
 
 ## Briefing
 
@@ -33,86 +33,86 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Cape Fear: Amy Adams is incredible in this twisty remake of the classic Scorsese thriller [10/10]
+### 1. Chicago-to-Minneapolis United Airlines flight diverted after attempted cockpit breach [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Javier Bardem and his co-star are brilliant as the duelling pair at the heart of a dread-packed psychological drama – where evil lurks in plain sight The 1991 revenge thriller Cape Fear boasts many famous moments.
+Plane landed in Wisconsin and ‘unruly passenger’ was taken into custody before flight continued to Minnesota A United Airlines flight bound for Minneapolis from Chicago was reportedly diverted after an “unruly passenger” tried to breach…
 
-Link: https://www.theguardian.com/tv-and-radio/2026/may/30/cape-fear-amy-adams-is-incredible-in-this-twisty-remake-of-the-classic-scorsese-thriller
+Link: https://www.theguardian.com/business/2026/may/30/chicago-minneapolis-united-airlines-flight-diverted-attempted-cockpit-breach
 
-### 2. Acer’s launching a Linux handheld for streaming your PC games [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The Acer Nitro Blaze Link might run on Linux, but it's no Steam Deck. Acer says it's a "streaming-first handheld and companion device," like a PlayStation Portal for your PC.
-
-Link: https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld
-
-### 3. Foam rollers, Oura rings and the 'Spinefitter': the exact gear our fitness enthusiasts call 'a literal life-saver' [10/10]
+### 2. Why $1bn in Balkans energy contracts are going to an obscure company connected to Donald Trump [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Oura rings, Bombas socks, Google Fitbit Air – the Filter’s favorite things for looking and feeling good this summer Sign up for the Filter US newsletter, your weekly guide to buying fewer, better things Whether you’re haunted by the…
+Guardian investigation shows how US presidency blurs line between policy and enrichment of American ruling family and those around it On a graffitied Sarajevo backstreet, a path leads past an overgrown patch of garden to a white door.
 
-Link: https://www.theguardian.com/thefilter-us/2026/may/29/best-exercise-work-out-gear-sore-muscles
+Link: https://www.theguardian.com/world/2026/may/30/why-1bn-in-balkans-energy-contracts-are-going-to-an-obscure-company-connected-to-donald-trump
 
-### 4. What we've been playing - "The following day, I kid you not, our TV broke" [9/10]
+### 3. Shackled, transferred, mocked: woman, 23, says she gave in to deportation after ‘humiliating’ ICE detention [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Exclusive: Ana María was happy working in the US with an open asylum case. But after ICE detained her for months, she said she requested to go back to her native country Ana María had been happy living in the US.
+
+Link: https://www.theguardian.com/us-news/2026/may/30/ice-detention-immigration-journey
+
+### 4. How Trout in the Classroom program brings hands-on ecology directly to students [10/10]
+**Source:** NPR Education  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+As teachers seek ways to keep students engaged in learning, a 30-year-old program offers one solution: raising tanks of trout right in the classroom. May say it's a perfect blend of hands-on science and fun.
+
+Link: https://www.npr.org/2026/05/30/nx-s1-5830023/how-trout-in-the-classroom-program-brings-hands-on-ecology-directly-to-students
+
+### 5. Bound by blood: new film highlights Jamaica’s outlawed obeah belief system [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Stew Peas focuses on obeah, an enduring African magic practice in Jamaica banned by colonisers in the 1700s A new movie from award-winning Jamaican film-maker Sosiessia Nixon shines a spotlight on Jamaica’s enduring west African-based…
+
+Link: https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition
+
+### 6. Americans echo Pope Leo’s concerns about AI: ‘It threatens workers, privacy and human life’ [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Guardian readers in the US spoke of fears about unregulated AI in response to the pope’s encyclical warning about the risks of the technology In his first major papal text since assuming leadership of the Catholic church last year, Pope…
+
+Link: https://www.theguardian.com/world/2026/may/30/pope-leo-ai-reaction
+
+### 7. The Crucial Elements for Embedding AI into the Classroom with Responsible AI Fellow Oommen Chris Jacob [10/10]
+**Source:** CSTA  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Oommen Chris Jacob is an accomplished leader, educator, and instructional technologist with over 17 years of experience in the New...
+
+Link: https://csteachers.org/the-crucial-elements-for-embedding-ai-into-the-classroom-with-responsible-ai-fellow-oommen-chris-jacob/
+
+### 8. French Open 2026: Sabalenka and Gauff in action, Osaka advances on day seven – live [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Updates from Saturday’s play at Roland Garros Fonseca fightback stuns Djokovic | Mail David Jovic absolutely obliterated her fellow American and the former world No 8 Emma Navarro in the previous round, and rediscovers some of that form…
+
+Link: https://www.theguardian.com/sport/live/2026/may/30/french-open-tennis-osaka-sabalenka-gauff-roland-garros-day-seven-live
+
+### 9. Diablo 4's next season is doing something bold with Mythical items that should pique the interest of casual players [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Hello and welcome back to our regular feature where we write a little about the games we've been playing.
+Diablo 4 developer Blizzard is seemingly not done making big changes to loot and itemisation in the game.
 
-Link: https://www.eurogamer.net/what-weve-been-playing-our-tv-broke
-
-### 5. ‘There is no way to stop this’: ‘Biotech Barbie’ Cathy Tie on her mission to genetically modify babies [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The Canadian entrepreneur has always pushed the boundaries of gene editing, once attempting to turn horses into unicorns.
-
-Link: https://www.theguardian.com/science/2026/may/30/there-is-no-way-to-stop-this-biotech-barbie-cathy-tie-on-her-mission-to-genetically-modify-babies
-
-### 6. A broken economy and an emboldened regime: Iranians abandoned to endure fallout from war [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Some Iranians hoped foreign intervention would unseat the regime but instead the US-Israel war has damaged livelihoods and strengthened those in power As Donald Trump swung this week between threats of new military action against Iran and…
-
-Link: https://www.theguardian.com/news/ng-interactive/2026/may/30/iran-broken-economy-emboldened-regime-iranians-abandoned-fallout-of-war
-
-### 7. Texas jury convicts Catholic priest of sexual assault after Guardian reporting [9/10]
-**Source:** The Guardian US  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-Anthony Odiong was charged with exploiting his status to pursue sex with women he was giving spiritual direction to A jury in Texas has convicted a Roman Catholic priest charged with illegally exploiting his status as a clergyman to pursue…
-
-Link: https://www.theguardian.com/us-news/2026/may/29/texas-trial-catholic-priest-sexual-assault
-
-### 8. ‘The rug pulled out from everyone’: the chaos of Trump’s new green card rules [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The policy memo issued last week requires many foreigners to obtain green cards through their home countries A new policy memo issued last week by US Citizenship and Immigration Services (USCIS), requiring many foreigners in the US to…
-
-Link: https://www.theguardian.com/us-news/2026/may/29/trump-green-card-rules
-
-### 9. Teacher Surprises His Students with NYC Flight [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Luke Weston, an elementary school teacher and private plane pilot, surprised two of his students with an unforgettable flight up the Hudson River to catch spectacular views of Manhattan.
-
-Link: https://www.the74million.org/article/teacher-surprises-his-students-with-nyc-flight/
+Link: https://www.eurogamer.net/diablo-4-patch-3-1-ptr-mythic-unique-major-change
 
 ### 10. House of the Dragon S3 trailer revels in dragons, fire, and blood [9/10]
 **Source:** Ars Technica  
@@ -123,25 +123,16 @@ Link: https://www.the74million.org/article/teacher-surprises-his-students-with-n
 
 Link: https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/
 
-### 11. New Study Reveals the Manipulative ‘Dark Patterns’ of AI Chatbots [9/10]
+### 11. ‘Highly Plausible’ Aliens on Europa Are Earthlings’ Descendants, Study Says [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-A new study by the Center for Democracy & Technology shows how chatbots like ChatGPT, Gemini, Replika and more can lead users down paths they didn't intend.
+A new study suggests that bacteria dispersed through space on dust grains could potentially arrive intact and alive on Jupiter’s moon Europa.
 
-Link: https://www.404media.co/new-study-reveals-the-manipulative-dark-patterns-of-ai-chatbots/
+Link: https://www.404media.co/highly-plausible-aliens-on-europa-are-earthlings-descendants-study-says/
 
-### 12. 10 Examples of Hard Science Fiction Video Games [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Only science can save you in this hardcore hard sci-fi titles The post 10 Examples of Hard Science Fiction Video Games appeared first on Reactor .
-
-Link: https://reactormag.com/examples-hard-science-fiction-video-games/
-
-### 13. Common myths about gut health [7/10]
+### 12. Common myths about gut health [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -149,6 +140,15 @@ Link: https://reactormag.com/examples-hard-science-fiction-video-games/
 Marketers sell all kinds of tests and supplements to fix your gut health. But is any of this actually worth spending money on?
 
 Link: https://www.npr.org/2026/05/29/nx-s1-5826918/common-myths-about-gut-health
+
+### 13. Backrooms Is the Best Nightmare You’ll Ever Have [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Liminal spaces are excellent for horror, but it's even better when the liminal space IS the horror. The post Backrooms Is the Best Nightmare You’ll Ever Have appeared first on Reactor .
+
+Link: https://reactormag.com/movie-review-backrooms-is-the-best-nightmare-youll-ever-have/
 
 ## YouTube
 
@@ -205,15 +205,6 @@ Link: https://www.youtube.com/watch?v=whva3D9tYLQ
 People notice. People question. NPR takes your curiosity further. Hear more of this story on The NPR Politics Podcast. ------------------------------------------------------ Follow NPR elsewhere, too: • Instagram: https://www.instagram.
 
 Link: https://www.youtube.com/watch?v=7eb9g8uVO6U
-
-### More than 500 children have died in an outbreak that the world is virtually ignoring [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-A measles outbreak in Bangladesh is suspected to have killed more than 550 and sickened nearly 70,000. Bangladesh was getting measles under control until a new government upended vaccination efforts.
-
-Link: https://www.youtube.com/watch?v=IRXA6tcQSX0
 
 ### Uncharted 4 - It's Been Ten Years - And It's Still Stunning [7/10]
 **Creator:** Digital Foundry  
