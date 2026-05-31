@@ -1,20 +1,60 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-30T14:00:02.556150Z",
-  "generatedAtDisplay": "2026-05-30 10:00 AM EDT",
+  "generatedAt": "2026-05-31T05:00:03.155992Z",
+  "generatedAtDisplay": "2026-05-31 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are Chicago-to-Minneapolis United Airlines flight diverted after attempted cockpit breach, Why $1bn in Balkans energy contracts are going to an obscure company connected to Donald Trump, and Shackled, transferred, mocked: woman, 23, says she gave in to deportation after ‘humiliating’ ICE detention.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, CS education / AI policy. The strongest items in this run are ‘Dire’ conditions at ICE facility severely violate human rights, lawsuit claims, Judge reopens Trump’s IRS suit to examine $1.8bn settlement with justice department, and Two of our favorite art TVs are more than 40 percent off this weekend.",
   "mainItems": [
     {
-      "title": "Chicago-to-Minneapolis United Airlines flight diverted after attempted cockpit breach",
+      "title": "‘Dire’ conditions at ICE facility severely violate human rights, lawsuit claims",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/may/30/lawsuit-camp-east-montana-texas-us-immigration-ice",
+      "published": "2026-05-30T20:21:07+00:00",
+      "summary": "At US’s largest immigration center, Texas’s Camp East Montana, plaintiffs allege ‘dangerous and abusive’ situation The first lawsuit relating to the largest immigration detention facility in the US was filed early on Saturday against…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Judge reopens Trump’s IRS suit to examine $1.8bn settlement with justice department",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/may/30/trump-irs-suit-reopened",
+      "published": "2026-05-30T19:23:39+00:00",
+      "summary": "Investigation to establish whether ‘anti-weaponization’ fund is ‘product of collusion and itself a fraud’ A federal judge has reopened Donald Trump ’s $10bn case against the Internal Revenue Service (IRS), after receiving a third-party…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Two of our favorite art TVs are more than 40 percent off this weekend",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal",
+      "published": "2026-05-30T20:07:22+00:00",
+      "summary": "Art TVs aren’t exactly known for being affordable, which is why Woot’s latest sale is notable. Now through June 26th, the retailer is discounting Samsung’s 2025 Frame TV and Hisense’s 2025 CanvasTV. The 65-inch CanvasTV is down to $779.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Tribal Students in Central Wyoming Release Small Fish in a Big Pond",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/tribal-students-in-central-wyoming-release-small-fish-in-a-big-pond/",
+      "published": "2026-05-30T16:30:00+00:00",
+      "summary": "RAY LAKE, Wyo. — There was a lot of giggling in the parking lot as teenagers plunged bare hands into coolers filled with small, slippery rainbow trout fry.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 9
+    },
+    {
+      "title": "‘America’s sweetheart’: exhibition explores Marilyn Monroe’s complex relationship to stardom",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/2026/may/30/chicago-minneapolis-united-airlines-flight-diverted-attempted-cockpit-breach",
-      "published": "2026-05-30T13:36:46+00:00",
-      "summary": "Plane landed in Wisconsin and ‘unruly passenger’ was taken into custody before flight continued to Minnesota A United Airlines flight bound for Minneapolis from Chicago was reportedly diverted after an “unruly passenger” tried to breach…",
+      "url": "https://www.theguardian.com/film/2026/may/30/marilyn-monroe-exhibition-los-angeles",
+      "published": "2026-05-30T15:00:22+00:00",
+      "summary": "The new exhibition at LA’s Academy museum features some of the star’s most intimate belongings that have never been available for public viewing There’s an unsettling moment in Marilyn Monroe: Hollywood Icon , a new exhibition opening in…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Why $1bn in Balkans energy contracts are going to an obscure company connected to Donald Trump",
@@ -24,7 +64,7 @@
       "published": "2026-05-30T12:00:19+00:00",
       "summary": "Guardian investigation shows how US presidency blurs line between policy and enrichment of American ruling family and those around it On a graffitied Sarajevo backstreet, a path leads past an overgrown patch of garden to a white door.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Shackled, transferred, mocked: woman, 23, says she gave in to deportation after ‘humiliating’ ICE detention",
@@ -34,37 +74,7 @@
       "published": "2026-05-30T12:00:18+00:00",
       "summary": "Exclusive: Ana María was happy working in the US with an open asylum case. But after ICE detained her for months, she said she requested to go back to her native country Ana María had been happy living in the US.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "How Trout in the Classroom program brings hands-on ecology directly to students",
-      "source": "NPR Education",
-      "category": "CS education / AI policy",
-      "url": "https://www.npr.org/2026/05/30/nx-s1-5830023/how-trout-in-the-classroom-program-brings-hands-on-ecology-directly-to-students",
-      "published": "2026-05-30T11:42:00+00:00",
-      "summary": "As teachers seek ways to keep students engaged in learning, a 30-year-old program offers one solution: raising tanks of trout right in the classroom. May say it's a perfect blend of hands-on science and fun.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Bound by blood: new film highlights Jamaica’s outlawed obeah belief system",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition",
-      "published": "2026-05-30T11:00:18+00:00",
-      "summary": "Stew Peas focuses on obeah, an enduring African magic practice in Jamaica banned by colonisers in the 1700s A new movie from award-winning Jamaican film-maker Sosiessia Nixon shines a spotlight on Jamaica’s enduring west African-based…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Americans echo Pope Leo’s concerns about AI: ‘It threatens workers, privacy and human life’",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/world/2026/may/30/pope-leo-ai-reaction",
-      "published": "2026-05-30T11:00:17+00:00",
-      "summary": "Guardian readers in the US spoke of fears about unregulated AI in response to the pope’s encyclical warning about the risks of the technology In his first major papal text since assuming leadership of the Catholic church last year, Pope…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "The Crucial Elements for Embedding AI into the Classroom with Responsible AI Fellow Oommen Chris Jacob",
@@ -74,37 +84,27 @@
       "published": "2026-05-30T11:00:00+00:00",
       "summary": "Oommen Chris Jacob is an accomplished leader, educator, and instructional technologist with over 17 years of experience in the New...",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "French Open 2026: Sabalenka and Gauff in action, Osaka advances on day seven – live",
+      "title": "Germany’s embattled nightlife scene welcomes plan to reclassify clubs",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/sport/live/2026/may/30/french-open-tennis-osaka-sabalenka-gauff-roland-garros-day-seven-live",
-      "published": "2026-05-30T13:57:01+00:00",
-      "summary": "Updates from Saturday’s play at Roland Garros Fonseca fightback stuns Djokovic | Mail David Jovic absolutely obliterated her fellow American and the former world No 8 Emma Navarro in the previous round, and rediscovers some of that form…",
+      "url": "https://www.theguardian.com/world/2026/may/31/germany-nightlife-scene-reclassify-clubs-berlin",
+      "published": "2026-05-31T04:00:37+00:00",
+      "summary": "There is hope that a change to building regulations could resurrect music clubs, which have been hit by rising rents, social shifts and noise disputes A move by the German government to reclassify nightclubs to distinguish them from…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
+      "score": 8
     },
     {
-      "title": "Diablo 4's next season is doing something bold with Mythical items that should pique the interest of casual players",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/diablo-4-patch-3-1-ptr-mythic-unique-major-change",
-      "published": "2026-05-30T10:54:05+00:00",
-      "summary": "Diablo 4 developer Blizzard is seemingly not done making big changes to loot and itemisation in the game.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "House of the Dragon S3 trailer revels in dragons, fire, and blood",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/",
-      "published": "2026-05-29T18:21:44+00:00",
-      "summary": "\"The crown is a weight that crushes. You'll do things that spell death for all involved.\"",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
+      "title": "After priest’s conviction for sexual assault, a Louisiana chapel he built removes his name",
+      "source": "The Guardian US",
+      "category": "Security / computing",
+      "url": "https://www.theguardian.com/us-news/2026/may/30/anthony-odiong-waco-texas-healing-chapel",
+      "published": "2026-05-30T16:57:04+00:00",
+      "summary": "Anthony Odiong was convicted of sexually abusing congregants; a chapel he helped found is distancing itself At the suburban New Orleans healing chapel he once helped build in his role as a Roman Catholic priest, Anthony Odiong’s name had…",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 8
     },
     {
       "title": "‘Highly Plausible’ Aliens on Europa Are Earthlings’ Descendants, Study Says",
@@ -117,23 +117,23 @@
       "score": 8
     },
     {
-      "title": "Common myths about gut health",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/05/29/nx-s1-5826918/common-myths-about-gut-health",
-      "published": "2026-05-29T20:40:34+00:00",
-      "summary": "Marketers sell all kinds of tests and supplements to fix your gut health. But is any of this actually worth spending money on?",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
+      "title": "Diablo 4's next season is doing something bold with Mythical items that should pique the interest of casual players",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/diablo-4-patch-3-1-ptr-mythic-unique-major-change",
+      "published": "2026-05-30T10:54:05+00:00",
+      "summary": "Diablo 4 developer Blizzard is seemingly not done making big changes to loot and itemisation in the game.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8
     },
     {
-      "title": "Backrooms Is the Best Nightmare You’ll Ever Have",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/movie-review-backrooms-is-the-best-nightmare-youll-ever-have/",
-      "published": "2026-05-29T16:00:00+00:00",
-      "summary": "Liminal spaces are excellent for horror, but it's even better when the liminal space IS the horror. The post Backrooms Is the Best Nightmare You’ll Ever Have appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "title": "Listen to the new Steam Controller buzz to the tune of Doom",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/940157/valve-steam-controller-singing-music-doom",
+      "published": "2026-05-30T19:16:25+00:00",
+      "summary": "You may have heard that Valve's new Steam Controller can ring like a telephone or do the Wilhelm scream. But did you know it can sing songs, too? Let me show you.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 7
     }
   ],
@@ -150,12 +150,12 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "'Mandalorian and Grogu' Cast Answer The 50 Most Searched Star Wars & Mandalorian Questions",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=nD-H_Yb4Iw4",
-      "published": "2026-05-27T16:02:03+00:00",
-      "summary": "WIRED tasks Pedro Pascal (The Mandalorian), Sigourney Weaver (Colonel Ward), Jon Favreau and Dave Filoni from _Star Wars: The Mandalorian and Grogu_ to answer the 50 most searched questions about _The Mandalorian and Grogu.",
+      "title": "How will Trump bring a final resolution to the war with Iran?",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=WBOMuLO1Z4Q",
+      "published": "2026-05-30T17:00:22+00:00",
+      "summary": "Throughout the war with Iran, the Trump administration has highlighted the threat that Iran's nuclear program presents to the U.S. and the world. To bring a final resolution to the war, the U.S.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -205,6 +205,39 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "007 First Light: State of Play Demo vs Final Game - They Fixed It!",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=s3MJLsFucYA",
+      "published": "2026-05-30T17:00:02+00:00",
+      "summary": "► Correction: we now understand that the \"RT Reflection\" in the State of Play clip is a planar reflection ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Xbox Series Consoles Could Run FSR 4.1 - So Will It Happen?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=9D01DrcDFUI",
+      "published": "2026-05-30T16:00:00+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/GHKbNNmzQOU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Unreal Engine 5 - FIVE Years Since The First Playable Demo - So What's Changed?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=dIh4BohMkOQ",
+      "published": "2026-05-30T15:00:13+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Uncharted 4 - It's Been Ten Years - And It's Still Stunning",
       "source": "Digital Foundry",
       "category": "Games / hardware",
@@ -212,8 +245,8 @@
       "published": "2026-05-29T17:00:21+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Unreal Engine 6 Teased - So What Do We Think?",
@@ -223,8 +256,8 @@
       "published": "2026-05-29T16:00:17+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/jRfDuHfSCrE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Riven And Motorslice - Two Unreal Engine 5 Games We Highly Recommend",
@@ -260,37 +293,15 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Yoshi And The Mysterious Book On Switch 2 - Nintendo's First UE5 Game?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=sBu7HBMmP5Q",
-      "published": "2026-05-28T15:00:07+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Lego Batman: Legacy Of The Dark Knight - We Didn't Get Review Code So We Bought It",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=38bvfEEc98o",
-      "published": "2026-05-27T17:00:16+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "The End of Destiny 2 Is Coming - But What About Bungie?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=LWwI0Qli1wY",
-      "published": "2026-05-27T16:00:10+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "Keep the Change | Adventure Is Nigh! - The Slow Walk Home | Ep. 2",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=3WSXNwCsm3o",
+      "published": "2026-05-30T16:00:06+00:00",
+      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "I’ve Played Dreadmoor… I’m Still Not Convinced | Unpacked",
@@ -343,39 +354,6 @@
       "url": "https://www.youtube.com/watch?v=ARuQVOGvPn0",
       "published": "2026-05-28T15:00:12+00:00",
       "summary": "Teenagers suck, and Mixtape is a great reminder of that. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Exploring Dinosaur Planet in Star Fox Adventures w/ KC and Marty",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=Pp2phvTnBXg",
-      "published": "2026-05-28T01:10:36+00:00",
-      "summary": "NOTE: Nintendo hit us with a strike for showing the Star Fox Direct during our original Star Fox stream, but you can find the VOD here -- https://youtu.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Yahtzee Tries... Bubsy 4D and Schrodingers Cat Burglar",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=qV3xA7L7a-Y",
-      "published": "2026-05-27T22:09:18+00:00",
-      "summary": "This week on Yahtzee Tries... Yahtzee and JM8 try out Bubsy 4D and Schrodingers Cat Burglar. BUBSY 4D -- https://store.steampowered.com/app/3237970/Bubsy_4D/ SCHRODINGER'S CAT BURGLAR -- https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Mina The Hollower | Fully Ramblomatic",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=A3eOjZnTtJY",
-      "published": "2026-05-27T16:00:32+00:00",
-      "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Mina The Hollower. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
@@ -703,8 +681,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 22,
+    "youtubeCount": 20,
     "trailerCount": 19,
-    "sourceCount": 18
+    "sourceCount": 15
   }
 }

@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-30T14:00:02.556150Z
+Generated: 2026-05-31T05:00:03.155992Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are Chicago-to-Minneapolis United Airlines flight diverted after attempted cockpit breach, Why $1bn in Balkans energy contracts are going to an obscure company connected to Donald Trump, and Shackled, transferred, mocked: woman, 23, says she gave in to deportation after ‘humiliating’ ICE detention.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, CS education / AI policy. The strongest items in this run are ‘Dire’ conditions at ICE facility severely violate human rights, lawsuit claims, Judge reopens Trump’s IRS suit to examine $1.8bn settlement with justice department, and Two of our favorite art TVs are more than 40 percent off this weekend.
 
 ## Briefing
 
@@ -33,16 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Chicago-to-Minneapolis United Airlines flight diverted after attempted cockpit breach [10/10]
+### 1. ‘Dire’ conditions at ICE facility severely violate human rights, lawsuit claims [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+At US’s largest immigration center, Texas’s Camp East Montana, plaintiffs allege ‘dangerous and abusive’ situation The first lawsuit relating to the largest immigration detention facility in the US was filed early on Saturday against…
+
+Link: https://www.theguardian.com/us-news/2026/may/30/lawsuit-camp-east-montana-texas-us-immigration-ice
+
+### 2. Judge reopens Trump’s IRS suit to examine $1.8bn settlement with justice department [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Investigation to establish whether ‘anti-weaponization’ fund is ‘product of collusion and itself a fraud’ A federal judge has reopened Donald Trump ’s $10bn case against the Internal Revenue Service (IRS), after receiving a third-party…
+
+Link: https://www.theguardian.com/us-news/2026/may/30/trump-irs-suit-reopened
+
+### 3. Two of our favorite art TVs are more than 40 percent off this weekend [9/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Art TVs aren’t exactly known for being affordable, which is why Woot’s latest sale is notable. Now through June 26th, the retailer is discounting Samsung’s 2025 Frame TV and Hisense’s 2025 CanvasTV. The 65-inch CanvasTV is down to $779.
+
+Link: https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal
+
+### 4. Tribal Students in Central Wyoming Release Small Fish in a Big Pond [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+RAY LAKE, Wyo. — There was a lot of giggling in the parking lot as teenagers plunged bare hands into coolers filled with small, slippery rainbow trout fry.
+
+Link: https://www.the74million.org/article/tribal-students-in-central-wyoming-release-small-fish-in-a-big-pond/
+
+### 5. ‘America’s sweetheart’: exhibition explores Marilyn Monroe’s complex relationship to stardom [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Plane landed in Wisconsin and ‘unruly passenger’ was taken into custody before flight continued to Minnesota A United Airlines flight bound for Minneapolis from Chicago was reportedly diverted after an “unruly passenger” tried to breach…
+The new exhibition at LA’s Academy museum features some of the star’s most intimate belongings that have never been available for public viewing There’s an unsettling moment in Marilyn Monroe: Hollywood Icon , a new exhibition opening in…
 
-Link: https://www.theguardian.com/business/2026/may/30/chicago-minneapolis-united-airlines-flight-diverted-attempted-cockpit-breach
+Link: https://www.theguardian.com/film/2026/may/30/marilyn-monroe-exhibition-los-angeles
 
-### 2. Why $1bn in Balkans energy contracts are going to an obscure company connected to Donald Trump [10/10]
+### 6. Why $1bn in Balkans energy contracts are going to an obscure company connected to Donald Trump [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,7 +87,7 @@ Guardian investigation shows how US presidency blurs line between policy and enr
 
 Link: https://www.theguardian.com/world/2026/may/30/why-1bn-in-balkans-energy-contracts-are-going-to-an-obscure-company-connected-to-donald-trump
 
-### 3. Shackled, transferred, mocked: woman, 23, says she gave in to deportation after ‘humiliating’ ICE detention [10/10]
+### 7. Shackled, transferred, mocked: woman, 23, says she gave in to deportation after ‘humiliating’ ICE detention [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -60,34 +96,7 @@ Exclusive: Ana María was happy working in the US with an open asylum case. But 
 
 Link: https://www.theguardian.com/us-news/2026/may/30/ice-detention-immigration-journey
 
-### 4. How Trout in the Classroom program brings hands-on ecology directly to students [10/10]
-**Source:** NPR Education  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-As teachers seek ways to keep students engaged in learning, a 30-year-old program offers one solution: raising tanks of trout right in the classroom. May say it's a perfect blend of hands-on science and fun.
-
-Link: https://www.npr.org/2026/05/30/nx-s1-5830023/how-trout-in-the-classroom-program-brings-hands-on-ecology-directly-to-students
-
-### 5. Bound by blood: new film highlights Jamaica’s outlawed obeah belief system [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Stew Peas focuses on obeah, an enduring African magic practice in Jamaica banned by colonisers in the 1700s A new movie from award-winning Jamaican film-maker Sosiessia Nixon shines a spotlight on Jamaica’s enduring west African-based…
-
-Link: https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition
-
-### 6. Americans echo Pope Leo’s concerns about AI: ‘It threatens workers, privacy and human life’ [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Guardian readers in the US spoke of fears about unregulated AI in response to the pope’s encyclical warning about the risks of the technology In his first major papal text since assuming leadership of the Catholic church last year, Pope…
-
-Link: https://www.theguardian.com/world/2026/may/30/pope-leo-ai-reaction
-
-### 7. The Crucial Elements for Embedding AI into the Classroom with Responsible AI Fellow Oommen Chris Jacob [10/10]
+### 8. The Crucial Elements for Embedding AI into the Classroom with Responsible AI Fellow Oommen Chris Jacob [9/10]
 **Source:** CSTA  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -96,32 +105,23 @@ Oommen Chris Jacob is an accomplished leader, educator, and instructional techno
 
 Link: https://csteachers.org/the-crucial-elements-for-embedding-ai-into-the-classroom-with-responsible-ai-fellow-oommen-chris-jacob/
 
-### 8. French Open 2026: Sabalenka and Gauff in action, Osaka advances on day seven – live [9/10]
+### 9. Germany’s embattled nightlife scene welcomes plan to reclassify clubs [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Updates from Saturday’s play at Roland Garros Fonseca fightback stuns Djokovic | Mail David Jovic absolutely obliterated her fellow American and the former world No 8 Emma Navarro in the previous round, and rediscovers some of that form…
+There is hope that a change to building regulations could resurrect music clubs, which have been hit by rising rents, social shifts and noise disputes A move by the German government to reclassify nightclubs to distinguish them from…
 
-Link: https://www.theguardian.com/sport/live/2026/may/30/french-open-tennis-osaka-sabalenka-gauff-roland-garros-day-seven-live
+Link: https://www.theguardian.com/world/2026/may/31/germany-nightlife-scene-reclassify-clubs-berlin
 
-### 9. Diablo 4's next season is doing something bold with Mythical items that should pique the interest of casual players [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 10. After priest’s conviction for sexual assault, a Louisiana chapel he built removes his name [8/10]
+**Source:** The Guardian US  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-Diablo 4 developer Blizzard is seemingly not done making big changes to loot and itemisation in the game.
+Anthony Odiong was convicted of sexually abusing congregants; a chapel he helped found is distancing itself At the suburban New Orleans healing chapel he once helped build in his role as a Roman Catholic priest, Anthony Odiong’s name had…
 
-Link: https://www.eurogamer.net/diablo-4-patch-3-1-ptr-mythic-unique-major-change
-
-### 10. House of the Dragon S3 trailer revels in dragons, fire, and blood [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-"The crown is a weight that crushes. You'll do things that spell death for all involved."
-
-Link: https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/
+Link: https://www.theguardian.com/us-news/2026/may/30/anthony-odiong-waco-texas-healing-chapel
 
 ### 11. ‘Highly Plausible’ Aliens on Europa Are Earthlings’ Descendants, Study Says [8/10]
 **Source:** 404 Media  
@@ -132,23 +132,23 @@ A new study suggests that bacteria dispersed through space on dust grains could 
 
 Link: https://www.404media.co/highly-plausible-aliens-on-europa-are-earthlings-descendants-study-says/
 
-### 12. Common myths about gut health [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
+### 12. Diablo 4's next season is doing something bold with Mythical items that should pique the interest of casual players [8/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Marketers sell all kinds of tests and supplements to fix your gut health. But is any of this actually worth spending money on?
+Diablo 4 developer Blizzard is seemingly not done making big changes to loot and itemisation in the game.
 
-Link: https://www.npr.org/2026/05/29/nx-s1-5826918/common-myths-about-gut-health
+Link: https://www.eurogamer.net/diablo-4-patch-3-1-ptr-mythic-unique-major-change
 
-### 13. Backrooms Is the Best Nightmare You’ll Ever Have [7/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+### 13. Listen to the new Steam Controller buzz to the tune of Doom [7/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Liminal spaces are excellent for horror, but it's even better when the liminal space IS the horror. The post Backrooms Is the Best Nightmare You’ll Ever Have appeared first on Reactor .
+You may have heard that Valve's new Steam Controller can ring like a telephone or do the Wilhelm scream. But did you know it can sing songs, too? Let me show you.
 
-Link: https://reactormag.com/movie-review-backrooms-is-the-best-nightmare-youll-ever-have/
+Link: https://www.theverge.com/games/940157/valve-steam-controller-singing-music-doom
 
 ## YouTube
 
@@ -161,14 +161,14 @@ Knuth talked about "Literate Programming" over forty years ago, but what does it
 
 Link: https://www.youtube.com/watch?v=SJocPm2E8eQ
 
-### 'Mandalorian and Grogu' Cast Answer The 50 Most Searched Star Wars & Mandalorian Questions [7/10]
-**Creator:** WIRED  
+### How will Trump bring a final resolution to the war with Iran? [7/10]
+**Creator:** NPR  
 **Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-WIRED tasks Pedro Pascal (The Mandalorian), Sigourney Weaver (Colonel Ward), Jon Favreau and Dave Filoni from _Star Wars: The Mandalorian and Grogu_ to answer the 50 most searched questions about _The Mandalorian and Grogu.
+Throughout the war with Iran, the Trump administration has highlighted the threat that Iran's nuclear program presents to the U.S. and the world. To bring a final resolution to the war, the U.S.
 
-Link: https://www.youtube.com/watch?v=nD-H_Yb4Iw4
+Link: https://www.youtube.com/watch?v=WBOMuLO1Z4Q
 
 ### Costco's fuel sales soar as consumers hunt for deals [8/10]
 **Creator:** NPR  
@@ -206,18 +206,45 @@ People notice. People question. NPR takes your curiosity further. Hear more of t
 
 Link: https://www.youtube.com/watch?v=7eb9g8uVO6U
 
-### Uncharted 4 - It's Been Ten Years - And It's Still Stunning [7/10]
+### 007 First Light: State of Play Demo vs Final Game - They Fixed It! [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Correction: we now understand that the "RT Reflection" in the State of Play clip is a planar reflection ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.
+
+Link: https://www.youtube.com/watch?v=s3MJLsFucYA
+
+### Xbox Series Consoles Could Run FSR 4.1 - So Will It Happen? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/GHKbNNmzQOU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=9D01DrcDFUI
+
+### Unreal Engine 5 - FIVE Years Since The First Playable Demo - So What's Changed? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=dIh4BohMkOQ
+
+### Uncharted 4 - It's Been Ten Years - And It's Still Stunning [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=nmPXTBtWIXI
 
-### Unreal Engine 6 Teased - So What Do We Think? [7/10]
+### Unreal Engine 6 Teased - So What Do We Think? [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/jRfDuHfSCrE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -251,32 +278,14 @@ Link: https://www.youtube.com/watch?v=_nOZfk3tiEo
 
 Link: https://www.youtube.com/watch?v=5fNOXWbhkno
 
-### Yoshi And The Mysterious Book On Switch 2 - Nintendo's First UE5 Game? [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### Keep the Change | Adventure Is Nigh! - The Slow Walk Home | Ep. 2 [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.
 
-Link: https://www.youtube.com/watch?v=sBu7HBMmP5Q
-
-### Lego Batman: Legacy Of The Dark Knight - We Didn't Get Review Code So We Bought It [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=38bvfEEc98o
-
-### The End of Destiny 2 Is Coming - But What About Bungie? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=LWwI0Qli1wY
+Link: https://www.youtube.com/watch?v=3WSXNwCsm3o
 
 ### I’ve Played Dreadmoor… I’m Still Not Convinced | Unpacked [6/10]
 **Creator:** Second Wind  
@@ -322,33 +331,6 @@ Link: https://www.youtube.com/watch?v=4WRY6chBLug
 Teenagers suck, and Mixtape is a great reminder of that. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
 Link: https://www.youtube.com/watch?v=ARuQVOGvPn0
-
-### Exploring Dinosaur Planet in Star Fox Adventures w/ KC and Marty [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-NOTE: Nintendo hit us with a strike for showing the Star Fox Direct during our original Star Fox stream, but you can find the VOD here -- https://youtu.
-
-Link: https://www.youtube.com/watch?v=Pp2phvTnBXg
-
-### Yahtzee Tries... Bubsy 4D and Schrodingers Cat Burglar [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Yahtzee Tries... Yahtzee and JM8 try out Bubsy 4D and Schrodingers Cat Burglar. BUBSY 4D -- https://store.steampowered.com/app/3237970/Bubsy_4D/ SCHRODINGER'S CAT BURGLAR -- https://store.steampowered.
-
-Link: https://www.youtube.com/watch?v=qV3xA7L7a-Y
-
-### Mina The Hollower | Fully Ramblomatic [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Fully Ramblomatic, Yahtzee reviewed Mina The Hollower. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
-
-Link: https://www.youtube.com/watch?v=A3eOjZnTtJY
 
 ## Entertainment Recommendations
 
