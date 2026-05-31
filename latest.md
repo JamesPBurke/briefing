@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-05-31T05:00:03.155992Z
+Generated: 2026-05-31T14:00:01.959427Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, CS education / AI policy. The strongest items in this run are ‘Dire’ conditions at ICE facility severely violate human rights, lawsuit claims, Judge reopens Trump’s IRS suit to examine $1.8bn settlement with justice department, and Two of our favorite art TVs are more than 40 percent off this weekend.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are The fall of John Cornyn mirrors the fall of the Republican party | Sidney Blumenthal, Trump’s cuts to intervention programs could increase violent crime, experts say, and After my mum died, I couldn’t face tackling the clothes she left behind. But wearing them has helped me celebrate the woman she was.
 
 ## Briefing
 
@@ -33,34 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘Dire’ conditions at ICE facility severely violate human rights, lawsuit claims [10/10]
+### 1. The fall of John Cornyn mirrors the fall of the Republican party | Sidney Blumenthal [10/10]
 **Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-At US’s largest immigration center, Texas’s Camp East Montana, plaintiffs allege ‘dangerous and abusive’ situation The first lawsuit relating to the largest immigration detention facility in the US was filed early on Saturday against…
-
-Link: https://www.theguardian.com/us-news/2026/may/30/lawsuit-camp-east-montana-texas-us-immigration-ice
-
-### 2. Judge reopens Trump’s IRS suit to examine $1.8bn settlement with justice department [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Investigation to establish whether ‘anti-weaponization’ fund is ‘product of collusion and itself a fraud’ A federal judge has reopened Donald Trump ’s $10bn case against the Internal Revenue Service (IRS), after receiving a third-party…
-
-Link: https://www.theguardian.com/us-news/2026/may/30/trump-irs-suit-reopened
-
-### 3. Two of our favorite art TVs are more than 40 percent off this weekend [9/10]
-**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Art TVs aren’t exactly known for being affordable, which is why Woot’s latest sale is notable. Now through June 26th, the retailer is discounting Samsung’s 2025 Frame TV and Hisense’s 2025 CanvasTV. The 65-inch CanvasTV is down to $779.
+The Texas senator was emblematic of the era between Reagan and Trump, as Republicans shifted from the party of business to a cult of personality The defeat of John Cornyn is a milestone in the downfall of the Republican party.
 
-Link: https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal
+Link: https://www.theguardian.com/commentisfree/2026/may/31/texas-john-cornyn-republicans
 
-### 4. Tribal Students in Central Wyoming Release Small Fish in a Big Pond [9/10]
+### 2. Trump’s cuts to intervention programs could increase violent crime, experts say [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Community programs are more effective at reducing violence than simply making arrests, advocates say Homicides in the US have fallen dramatically in recent years after a spike during the Covid-19 pandemic, but now some advocates for…
+
+Link: https://www.theguardian.com/us-news/2026/may/31/trump-federal-funding-cuts-crime
+
+### 3. After my mum died, I couldn’t face tackling the clothes she left behind. But wearing them has helped me celebrate the woman she was [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Sorting, wearing and even reworking some of Mum’s wardrobe has given me a way to keep her close Only my mum would insist on buying a designer swimsuit on her deathbed.
+
+Link: https://www.theguardian.com/fashion/2026/may/31/after-mum-died-sorting-wearing-reworking-her-clothes-keep-close
+
+### 4. Stop Killing Games consumer protection bill passes floor vote in California [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The California State Assembly has passed the Protect Our Games Act, a bill centred on protecting consumer rights as detailed by the Stop Killing Games movement. Read more
+
+Link: https://www.eurogamer.net/stop-killing-games-passes-floor-vote-california
+
+### 5. Bus driver charged in Virginia crash that killed five people [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Driver faces two counts of involuntary manslaughter in Friday crash that killed five and injured more than 40 others The driver of a motor coach bus that killed five people and injured more than 40 others after crashing in Virginia on…
+
+Link: https://www.theguardian.com/us-news/2026/may/31/virginia-bus-crash-driver-charged
+
+### 6. The doctor who came back from Gaza and is leading a New Jersey congressional race [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Frontrunner Adam Hamawy has gone from political nobody to endorsements from Bernie Sanders, AOC and Ilhan Omar Knocking on strangers’ doors on a warm May afternoon in Trenton, New Jersey, Adam Hamawy did not seem fazed when more than a few…
+
+Link: https://www.theguardian.com/us-news/2026/may/31/new-jersey-congress-adam-hamawy
+
+### 7. Daily pill can double survival time for world’s deadliest cancer, trial shows [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Experts hail daraxonrasib as ‘gamechanger’ for patients with advanced pancreatic cancer A daily pill can double survival time in patients with the world’s deadliest cancer, according to the results of a clinical trial that experts are…
+
+Link: https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial
+
+### 8. They call it stupid hot for a reason: Heat muddles animal brains [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+As temperatures rise, some creatures pick fights while others struggle to learn.
+
+Link: https://arstechnica.com/science/2026/05/they-call-it-stupid-hot-for-a-reason-heat-muddles-animal-brains/
+
+### 9. These AI models are free, private, and will never say 'no' [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Open-weight AI models with advanced capabilities and no safeguards are becoming much more accessible. While they can be useful, AI safety experts have concerns.
+
+Link: https://www.npr.org/2026/05/31/nx-s1-5816391/ai-safety-concerns-danger-open-weight-models-risks
+
+### 10. Tribal Students in Central Wyoming Release Small Fish in a Big Pond [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -69,86 +123,32 @@ RAY LAKE, Wyo. — There was a lot of giggling in the parking lot as teenagers p
 
 Link: https://www.the74million.org/article/tribal-students-in-central-wyoming-release-small-fish-in-a-big-pond/
 
-### 5. ‘America’s sweetheart’: exhibition explores Marilyn Monroe’s complex relationship to stardom [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 11. Experimental pill promises new hope for deadly pancreatic cancer [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-The new exhibition at LA’s Academy museum features some of the star’s most intimate belongings that have never been available for public viewing There’s an unsettling moment in Marilyn Monroe: Hollywood Icon , a new exhibition opening in…
+A novel pill helped people with advanced pancreatic cancer live longer, researchers reported Sunday, raising hopes of long-needed better treatments for one of the deadliest types of cancer.
 
-Link: https://www.theguardian.com/film/2026/may/30/marilyn-monroe-exhibition-los-angeles
+Link: https://www.npr.org/2026/05/31/nx-s1-5841859/experimental-pill-new-hope-pancreatic-cancer
 
-### 6. Why $1bn in Balkans energy contracts are going to an obscure company connected to Donald Trump [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Guardian investigation shows how US presidency blurs line between policy and enrichment of American ruling family and those around it On a graffitied Sarajevo backstreet, a path leads past an overgrown patch of garden to a white door.
-
-Link: https://www.theguardian.com/world/2026/may/30/why-1bn-in-balkans-energy-contracts-are-going-to-an-obscure-company-connected-to-donald-trump
-
-### 7. Shackled, transferred, mocked: woman, 23, says she gave in to deportation after ‘humiliating’ ICE detention [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Exclusive: Ana María was happy working in the US with an open asylum case. But after ICE detained her for months, she said she requested to go back to her native country Ana María had been happy living in the US.
-
-Link: https://www.theguardian.com/us-news/2026/may/30/ice-detention-immigration-journey
-
-### 8. The Crucial Elements for Embedding AI into the Classroom with Responsible AI Fellow Oommen Chris Jacob [9/10]
-**Source:** CSTA  
+### 12. Opinion: 3 to 1 in Favor — NYC Parents Weigh In on New Federal Scholarship Tax Credit [8/10]
+**Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Oommen Chris Jacob is an accomplished leader, educator, and instructional technologist with over 17 years of experience in the New...
+Earlier this month, New York Gov. Kathy Hochul indicated that she was planning to opt into the new Federal Scholarship Tax Credit.
 
-Link: https://csteachers.org/the-crucial-elements-for-embedding-ai-into-the-classroom-with-responsible-ai-fellow-oommen-chris-jacob/
+Link: https://www.the74million.org/article/3-to-1-in-favor-nyc-parents-weigh-in-on-new-federal-scholarship-tax-credit/
 
-### 9. Germany’s embattled nightlife scene welcomes plan to reclassify clubs [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-There is hope that a change to building regulations could resurrect music clubs, which have been hit by rising rents, social shifts and noise disputes A move by the German government to reclassify nightclubs to distinguish them from…
-
-Link: https://www.theguardian.com/world/2026/may/31/germany-nightlife-scene-reclassify-clubs-berlin
-
-### 10. After priest’s conviction for sexual assault, a Louisiana chapel he built removes his name [8/10]
-**Source:** The Guardian US  
+### 13. Microsoft is threatening legal action for disclosing exploits [8/10]
+**Source:** The Verge  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-Anthony Odiong was convicted of sexually abusing congregants; a chapel he helped found is distancing itself At the suburban New Orleans healing chapel he once helped build in his role as a Roman Catholic priest, Anthony Odiong’s name had…
+Microsoft is facing criticism for its handling of zero-day exploits. Someone going by the name Nightmare Eclipse has been publicly feuding with the company, posting proof-of-concept exploit code.
 
-Link: https://www.theguardian.com/us-news/2026/may/30/anthony-odiong-waco-texas-healing-chapel
-
-### 11. ‘Highly Plausible’ Aliens on Europa Are Earthlings’ Descendants, Study Says [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-A new study suggests that bacteria dispersed through space on dust grains could potentially arrive intact and alive on Jupiter’s moon Europa.
-
-Link: https://www.404media.co/highly-plausible-aliens-on-europa-are-earthlings-descendants-study-says/
-
-### 12. Diablo 4's next season is doing something bold with Mythical items that should pique the interest of casual players [8/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Diablo 4 developer Blizzard is seemingly not done making big changes to loot and itemisation in the game.
-
-Link: https://www.eurogamer.net/diablo-4-patch-3-1-ptr-mythic-unique-major-change
-
-### 13. Listen to the new Steam Controller buzz to the tune of Doom [7/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-You may have heard that Valve's new Steam Controller can ring like a telephone or do the Wilhelm scream. But did you know it can sing songs, too? Let me show you.
-
-Link: https://www.theverge.com/games/940157/valve-steam-controller-singing-music-doom
+Link: https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability
 
 ## YouTube
 
@@ -161,9 +161,18 @@ Knuth talked about "Literate Programming" over forty years ago, but what does it
 
 Link: https://www.youtube.com/watch?v=SJocPm2E8eQ
 
-### How will Trump bring a final resolution to the war with Iran? [7/10]
+### Study finds cash for pregnant women leads to healthier babies [8/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+A first-of-its-kind cash-aid program for pregnant women in Michigan has led to healthier babies at birth, with a new study finding a significant drop in admissions to the neonatal intensive care unit. Two years ago, Flint, Mich.
+
+Link: https://www.youtube.com/watch?v=T2mqTX6xAjc
+
+### How will Trump bring a final resolution to the war with Iran? [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 Throughout the war with Iran, the Trump administration has highlighted the threat that Iran's nuclear program presents to the U.S. and the world. To bring a final resolution to the war, the U.S.

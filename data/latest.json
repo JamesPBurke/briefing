@@ -1,39 +1,99 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-31T05:00:03.155992Z",
-  "generatedAtDisplay": "2026-05-31 01:00 AM EDT",
+  "generatedAt": "2026-05-31T14:00:01.959427Z",
+  "generatedAtDisplay": "2026-05-31 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, CS education / AI policy. The strongest items in this run are ‘Dire’ conditions at ICE facility severely violate human rights, lawsuit claims, Judge reopens Trump’s IRS suit to examine $1.8bn settlement with justice department, and Two of our favorite art TVs are more than 40 percent off this weekend.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are The fall of John Cornyn mirrors the fall of the Republican party | Sidney Blumenthal, Trump’s cuts to intervention programs could increase violent crime, experts say, and After my mum died, I couldn’t face tackling the clothes she left behind. But wearing them has helped me celebrate the woman she was.",
   "mainItems": [
     {
-      "title": "‘Dire’ conditions at ICE facility severely violate human rights, lawsuit claims",
+      "title": "The fall of John Cornyn mirrors the fall of the Republican party | Sidney Blumenthal",
       "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/may/30/lawsuit-camp-east-montana-texas-us-immigration-ice",
-      "published": "2026-05-30T20:21:07+00:00",
-      "summary": "At US’s largest immigration center, Texas’s Camp East Montana, plaintiffs allege ‘dangerous and abusive’ situation The first lawsuit relating to the largest immigration detention facility in the US was filed early on Saturday against…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Judge reopens Trump’s IRS suit to examine $1.8bn settlement with justice department",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/may/30/trump-irs-suit-reopened",
-      "published": "2026-05-30T19:23:39+00:00",
-      "summary": "Investigation to establish whether ‘anti-weaponization’ fund is ‘product of collusion and itself a fraud’ A federal judge has reopened Donald Trump ’s $10bn case against the Internal Revenue Service (IRS), after receiving a third-party…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Two of our favorite art TVs are more than 40 percent off this weekend",
-      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal",
-      "published": "2026-05-30T20:07:22+00:00",
-      "summary": "Art TVs aren’t exactly known for being affordable, which is why Woot’s latest sale is notable. Now through June 26th, the retailer is discounting Samsung’s 2025 Frame TV and Hisense’s 2025 CanvasTV. The 65-inch CanvasTV is down to $779.",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/31/texas-john-cornyn-republicans",
+      "published": "2026-05-31T13:00:51+00:00",
+      "summary": "The Texas senator was emblematic of the era between Reagan and Trump, as Republicans shifted from the party of business to a cult of personality The defeat of John Cornyn is a milestone in the downfall of the Republican party.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Trump’s cuts to intervention programs could increase violent crime, experts say",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/31/trump-federal-funding-cuts-crime",
+      "published": "2026-05-31T11:00:47+00:00",
+      "summary": "Community programs are more effective at reducing violence than simply making arrests, advocates say Homicides in the US have fallen dramatically in recent years after a spike during the Covid-19 pandemic, but now some advocates for…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "After my mum died, I couldn’t face tackling the clothes she left behind. But wearing them has helped me celebrate the woman she was",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/fashion/2026/may/31/after-mum-died-sorting-wearing-reworking-her-clothes-keep-close",
+      "published": "2026-05-31T11:00:46+00:00",
+      "summary": "Sorting, wearing and even reworking some of Mum’s wardrobe has given me a way to keep her close Only my mum would insist on buying a designer swimsuit on her deathbed.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Stop Killing Games consumer protection bill passes floor vote in California",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/stop-killing-games-passes-floor-vote-california",
+      "published": "2026-05-31T07:25:00+00:00",
+      "summary": "The California State Assembly has passed the Protect Our Games Act, a bill centred on protecting consumer rights as detailed by the Stop Killing Games movement. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Bus driver charged in Virginia crash that killed five people",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/31/virginia-bus-crash-driver-charged",
+      "published": "2026-05-31T13:42:45+00:00",
+      "summary": "Driver faces two counts of involuntary manslaughter in Friday crash that killed five and injured more than 40 others The driver of a motor coach bus that killed five people and injured more than 40 others after crashing in Virginia on…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "The doctor who came back from Gaza and is leading a New Jersey congressional race",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/may/31/new-jersey-congress-adam-hamawy",
+      "published": "2026-05-31T12:43:32+00:00",
+      "summary": "Frontrunner Adam Hamawy has gone from political nobody to endorsements from Bernie Sanders, AOC and Ilhan Omar Knocking on strangers’ doors on a warm May afternoon in Trenton, New Jersey, Adam Hamawy did not seem fazed when more than a few…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Daily pill can double survival time for world’s deadliest cancer, trial shows",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
+      "published": "2026-05-31T12:00:47+00:00",
+      "summary": "Experts hail daraxonrasib as ‘gamechanger’ for patients with advanced pancreatic cancer A daily pill can double survival time in patients with the world’s deadliest cancer, according to the results of a clinical trial that experts are…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "They call it stupid hot for a reason: Heat muddles animal brains",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/science/2026/05/they-call-it-stupid-hot-for-a-reason-heat-muddles-animal-brains/",
+      "published": "2026-05-31T10:00:07+00:00",
+      "summary": "As temperatures rise, some creatures pick fights while others struggle to learn.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "These AI models are free, private, and will never say 'no'",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/05/31/nx-s1-5816391/ai-safety-concerns-danger-open-weight-models-risks",
+      "published": "2026-05-31T09:00:00+00:00",
+      "summary": "Open-weight AI models with advanced capabilities and no safeguards are becoming much more accessible. While they can be useful, AI safety experts have concerns.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 9
     },
     {
@@ -47,94 +107,34 @@
       "score": 9
     },
     {
-      "title": "‘America’s sweetheart’: exhibition explores Marilyn Monroe’s complex relationship to stardom",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/may/30/marilyn-monroe-exhibition-los-angeles",
-      "published": "2026-05-30T15:00:22+00:00",
-      "summary": "The new exhibition at LA’s Academy museum features some of the star’s most intimate belongings that have never been available for public viewing There’s an unsettling moment in Marilyn Monroe: Hollywood Icon , a new exhibition opening in…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Why $1bn in Balkans energy contracts are going to an obscure company connected to Donald Trump",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/may/30/why-1bn-in-balkans-energy-contracts-are-going-to-an-obscure-company-connected-to-donald-trump",
-      "published": "2026-05-30T12:00:19+00:00",
-      "summary": "Guardian investigation shows how US presidency blurs line between policy and enrichment of American ruling family and those around it On a graffitied Sarajevo backstreet, a path leads past an overgrown patch of garden to a white door.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Shackled, transferred, mocked: woman, 23, says she gave in to deportation after ‘humiliating’ ICE detention",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/30/ice-detention-immigration-journey",
-      "published": "2026-05-30T12:00:18+00:00",
-      "summary": "Exclusive: Ana María was happy working in the US with an open asylum case. But after ICE detained her for months, she said she requested to go back to her native country Ana María had been happy living in the US.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "The Crucial Elements for Embedding AI into the Classroom with Responsible AI Fellow Oommen Chris Jacob",
-      "source": "CSTA",
-      "category": "Education / pedagogy",
-      "url": "https://csteachers.org/the-crucial-elements-for-embedding-ai-into-the-classroom-with-responsible-ai-fellow-oommen-chris-jacob/",
-      "published": "2026-05-30T11:00:00+00:00",
-      "summary": "Oommen Chris Jacob is an accomplished leader, educator, and instructional technologist with over 17 years of experience in the New...",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Germany’s embattled nightlife scene welcomes plan to reclassify clubs",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/may/31/germany-nightlife-scene-reclassify-clubs-berlin",
-      "published": "2026-05-31T04:00:37+00:00",
-      "summary": "There is hope that a change to building regulations could resurrect music clubs, which have been hit by rising rents, social shifts and noise disputes A move by the German government to reclassify nightclubs to distinguish them from…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
-      "title": "After priest’s conviction for sexual assault, a Louisiana chapel he built removes his name",
-      "source": "The Guardian US",
-      "category": "Security / computing",
-      "url": "https://www.theguardian.com/us-news/2026/may/30/anthony-odiong-waco-texas-healing-chapel",
-      "published": "2026-05-30T16:57:04+00:00",
-      "summary": "Anthony Odiong was convicted of sexually abusing congregants; a chapel he helped found is distancing itself At the suburban New Orleans healing chapel he once helped build in his role as a Roman Catholic priest, Anthony Odiong’s name had…",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 8
-    },
-    {
-      "title": "‘Highly Plausible’ Aliens on Europa Are Earthlings’ Descendants, Study Says",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/highly-plausible-aliens-on-europa-are-earthlings-descendants-study-says/",
-      "published": "2026-05-30T13:00:00+00:00",
-      "summary": "A new study suggests that bacteria dispersed through space on dust grains could potentially arrive intact and alive on Jupiter’s moon Europa.",
+      "title": "Experimental pill promises new hope for deadly pancreatic cancer",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/05/31/nx-s1-5841859/experimental-pill-new-hope-pancreatic-cancer",
+      "published": "2026-05-31T13:00:47+00:00",
+      "summary": "A novel pill helped people with advanced pancreatic cancer live longer, researchers reported Sunday, raising hopes of long-needed better treatments for one of the deadliest types of cancer.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Diablo 4's next season is doing something bold with Mythical items that should pique the interest of casual players",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/diablo-4-patch-3-1-ptr-mythic-unique-major-change",
-      "published": "2026-05-30T10:54:05+00:00",
-      "summary": "Diablo 4 developer Blizzard is seemingly not done making big changes to loot and itemisation in the game.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Opinion: 3 to 1 in Favor — NYC Parents Weigh In on New Federal Scholarship Tax Credit",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/3-to-1-in-favor-nyc-parents-weigh-in-on-new-federal-scholarship-tax-credit/",
+      "published": "2026-05-31T10:30:00+00:00",
+      "summary": "Earlier this month, New York Gov. Kathy Hochul indicated that she was planning to opt into the new Federal Scholarship Tax Credit.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 8
     },
     {
-      "title": "Listen to the new Steam Controller buzz to the tune of Doom",
+      "title": "Microsoft is threatening legal action for disclosing exploits",
       "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/940157/valve-steam-controller-singing-music-doom",
-      "published": "2026-05-30T19:16:25+00:00",
-      "summary": "You may have heard that Valve's new Steam Controller can ring like a telephone or do the Wilhelm scream. But did you know it can sing songs, too? Let me show you.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 7
+      "category": "Security / computing",
+      "url": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
+      "published": "2026-05-30T15:19:50+00:00",
+      "summary": "Microsoft is facing criticism for its handling of zero-day exploits. Someone going by the name Nightmare Eclipse has been publicly feuding with the company, posting proof-of-concept exploit code.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 8
     }
   ],
   "youtube": [
@@ -150,6 +150,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Study finds cash for pregnant women leads to healthier babies",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=T2mqTX6xAjc",
+      "published": "2026-05-31T13:00:35+00:00",
+      "summary": "A first-of-its-kind cash-aid program for pregnant women in Michigan has led to healthier babies at birth, with a new study finding a significant drop in admissions to the neonatal intensive care unit. Two years ago, Flint, Mich.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "How will Trump bring a final resolution to the war with Iran?",
       "source": "NPR",
       "category": "News / analysis",
@@ -157,8 +168,8 @@
       "published": "2026-05-30T17:00:22+00:00",
       "summary": "Throughout the war with Iran, the Trump administration has highlighted the threat that Iran's nuclear program presents to the U.S. and the world. To bring a final resolution to the war, the U.S.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Costco's fuel sales soar as consumers hunt for deals",
@@ -681,8 +692,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 20,
+    "youtubeCount": 21,
     "trailerCount": 19,
-    "sourceCount": 15
+    "sourceCount": 16
   }
 }
