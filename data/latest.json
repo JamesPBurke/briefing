@@ -1,11 +1,41 @@
 {
   "status": "ok",
-  "generatedAt": "2026-05-31T14:00:01.959427Z",
-  "generatedAtDisplay": "2026-05-31 10:00 AM EDT",
+  "generatedAt": "2026-05-31T18:01:03.228495Z",
+  "generatedAtDisplay": "2026-05-31 02:01 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are The fall of John Cornyn mirrors the fall of the Republican party | Sidney Blumenthal, Trump’s cuts to intervention programs could increase violent crime, experts say, and After my mum died, I couldn’t face tackling the clothes she left behind. But wearing them has helped me celebrate the woman she was.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Maryland Schoolyard Farm Showcases Community Resilience, United flight forced to turn around because of a Bluetooth speaker name, and Georgia town’s novel strategy to fight ICE jail plan impresses legal experts.",
   "mainItems": [
+    {
+      "title": "Maryland Schoolyard Farm Showcases Community Resilience",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/maryland-schoolyard-farm-showcases-community-resilience/",
+      "published": "2026-05-31T16:30:00+00:00",
+      "summary": "On a cool spring day recently, the 1-acre farm A. Mario Loiederman Middle School in Wheaton buzzed with activity.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "United flight forced to turn around because of a Bluetooth speaker name",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/transportation/940486/united-flight-236-bluetooth-speaker-name-bomb",
+      "published": "2026-05-31T15:50:02+00:00",
+      "summary": "United flight 236 from Newark to Palma de Mallorca on Saturday night was forced to turn around just an hour after takeoff due to security concerns around a Bluetooth signal.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Georgia town’s novel strategy to fight ICE jail plan impresses legal experts",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/may/31/georgia-ice-detention-center-social-circle",
+      "published": "2026-05-31T15:00:52+00:00",
+      "summary": "Town of Social Circle’s complaint invokes ‘public nuisance’ law that scholars say could have impact for other localities A small Georgia town’s federal lawsuit opposing the Trump administration’s plans to turn a warehouse into one of the…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
     {
       "title": "The fall of John Cornyn mirrors the fall of the Republican party | Sidney Blumenthal",
       "source": "The Guardian US",
@@ -17,34 +47,14 @@
       "score": 10
     },
     {
-      "title": "Trump’s cuts to intervention programs could increase violent crime, experts say",
+      "title": "The army doctor who came back from Gaza and is leading a New Jersey congressional race",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/31/trump-federal-funding-cuts-crime",
-      "published": "2026-05-31T11:00:47+00:00",
-      "summary": "Community programs are more effective at reducing violence than simply making arrests, advocates say Homicides in the US have fallen dramatically in recent years after a spike during the Covid-19 pandemic, but now some advocates for…",
+      "url": "https://www.theguardian.com/us-news/2026/may/31/new-jersey-congress-adam-hamawy",
+      "published": "2026-05-31T14:03:54+00:00",
+      "summary": "Frontrunner Adam Hamawy has gone from political nobody to endorsements from Bernie Sanders, AOC and Ilhan Omar Knocking on strangers’ doors on a warm May afternoon in Trenton, New Jersey, Adam Hamawy did not seem fazed when more than a few…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "After my mum died, I couldn’t face tackling the clothes she left behind. But wearing them has helped me celebrate the woman she was",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/fashion/2026/may/31/after-mum-died-sorting-wearing-reworking-her-clothes-keep-close",
-      "published": "2026-05-31T11:00:46+00:00",
-      "summary": "Sorting, wearing and even reworking some of Mum’s wardrobe has given me a way to keep her close Only my mum would insist on buying a designer swimsuit on her deathbed.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Stop Killing Games consumer protection bill passes floor vote in California",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/stop-killing-games-passes-floor-vote-california",
-      "published": "2026-05-31T07:25:00+00:00",
-      "summary": "The California State Assembly has passed the Protect Our Games Act, a bill centred on protecting consumer rights as detailed by the Stop Killing Games movement. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Bus driver charged in Virginia crash that killed five people",
@@ -57,33 +67,13 @@
       "score": 9
     },
     {
-      "title": "The doctor who came back from Gaza and is leading a New Jersey congressional race",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/may/31/new-jersey-congress-adam-hamawy",
-      "published": "2026-05-31T12:43:32+00:00",
-      "summary": "Frontrunner Adam Hamawy has gone from political nobody to endorsements from Bernie Sanders, AOC and Ilhan Omar Knocking on strangers’ doors on a warm May afternoon in Trenton, New Jersey, Adam Hamawy did not seem fazed when more than a few…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Daily pill can double survival time for world’s deadliest cancer, trial shows",
+      "title": "Anti-Muslim hate and antisemitism are twin crises. We must confront them together | Binairfer Nowrojee",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
-      "published": "2026-05-31T12:00:47+00:00",
-      "summary": "Experts hail daraxonrasib as ‘gamechanger’ for patients with advanced pancreatic cancer A daily pill can double survival time in patients with the world’s deadliest cancer, according to the results of a clinical trial that experts are…",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/31/islamophobia-antisemitism-muslim-jewish-communities",
+      "published": "2026-05-31T11:00:46+00:00",
+      "summary": "The two hatreds have rarely been seen as related dangers.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "They call it stupid hot for a reason: Heat muddles animal brains",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/science/2026/05/they-call-it-stupid-hot-for-a-reason-heat-muddles-animal-brains/",
-      "published": "2026-05-31T10:00:07+00:00",
-      "summary": "As temperatures rise, some creatures pick fights while others struggle to learn.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
@@ -97,14 +87,44 @@
       "score": 9
     },
     {
-      "title": "Tribal Students in Central Wyoming Release Small Fish in a Big Pond",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/tribal-students-in-central-wyoming-release-small-fish-in-a-big-pond/",
-      "published": "2026-05-30T16:30:00+00:00",
-      "summary": "RAY LAKE, Wyo. — There was a lot of giggling in the parking lot as teenagers plunged bare hands into coolers filled with small, slippery rainbow trout fry.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "title": "The Mothers of May’s 20-year struggle for justice after Brazil police rampage",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/may/31/brazil-mothers-of-may-police-victims",
+      "published": "2026-05-31T07:00:41+00:00",
+      "summary": "In 2006 police took revenge for deadly prison riots by killing more than 500 people in alleged shootouts that others call executions.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
+    },
+    {
+      "title": "Trump’s interior secretary dismisses calls to identify donors for ‘nonpartisan’ concert series",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/may/31/trump-interior-secretary-concert-series",
+      "published": "2026-05-31T16:04:43+00:00",
+      "summary": "Doug Burgum complains some musicians ‘segmented their audiences’ after artists back out of 250th anniversary event The Trump administration’s interior secretary, Doug Burgum, complained on Sunday that some musicians “seem to have segmented…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
+    },
+    {
+      "title": "WHO calls for community cooperation to contain Ebola outbreak in DRC",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak",
+      "published": "2026-05-31T15:49:47+00:00",
+      "summary": "Tedros Adhanom Ghebreyesus makes appeal after protests against protocols for handling victims’ bodies in Ituri province Containing the Ebola outbreak in the Democratic Republic of Congo requires community cooperation and is “everybody’s…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
+    },
+    {
+      "title": "Arsenal put Champions League anguish to one side with open-top bus parade",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/football/2026/may/31/arsenal-trophy-bus-parade-supporters-north-london-champions-league",
+      "published": "2026-05-31T15:47:25+00:00",
+      "summary": "Hundreds of thousands of fans line streets in London Gabriel pays tribute to supporters after final agony Gabriel Magalhães admitted Arsenal’s Champions League penalty shootout defeat was “painful”, but the Gunners quickly put the…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
     },
     {
       "title": "Experimental pill promises new hope for deadly pancreatic cancer",
@@ -115,472 +135,10 @@
       "summary": "A novel pill helped people with advanced pancreatic cancer live longer, researchers reported Sunday, raising hopes of long-needed better treatments for one of the deadliest types of cancer.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "Opinion: 3 to 1 in Favor — NYC Parents Weigh In on New Federal Scholarship Tax Credit",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/3-to-1-in-favor-nyc-parents-weigh-in-on-new-federal-scholarship-tax-credit/",
-      "published": "2026-05-31T10:30:00+00:00",
-      "summary": "Earlier this month, New York Gov. Kathy Hochul indicated that she was planning to opt into the new Federal Scholarship Tax Credit.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 8
-    },
-    {
-      "title": "Microsoft is threatening legal action for disclosing exploits",
-      "source": "The Verge",
-      "category": "Security / computing",
-      "url": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
-      "published": "2026-05-30T15:19:50+00:00",
-      "summary": "Microsoft is facing criticism for its handling of zero-day exploits. Someone going by the name Nightmare Eclipse has been publicly feuding with the company, posting proof-of-concept exploit code.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 8
     }
   ],
-  "youtube": [
-    {
-      "title": "Human Readable Code - Computerphile",
-      "source": "Computerphile",
-      "category": "Science / computing",
-      "url": "https://www.youtube.com/watch?v=SJocPm2E8eQ",
-      "published": "2026-05-29T13:30:12+00:00",
-      "summary": "Knuth talked about \"Literate Programming\" over forty years ago, but what does it mean to have code that a developer and a client can agree on? Dr Robert Chatley of Imperial College London demonstrates how it might work.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Study finds cash for pregnant women leads to healthier babies",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=T2mqTX6xAjc",
-      "published": "2026-05-31T13:00:35+00:00",
-      "summary": "A first-of-its-kind cash-aid program for pregnant women in Michigan has led to healthier babies at birth, with a new study finding a significant drop in admissions to the neonatal intensive care unit. Two years ago, Flint, Mich.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "How will Trump bring a final resolution to the war with Iran?",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=WBOMuLO1Z4Q",
-      "published": "2026-05-30T17:00:22+00:00",
-      "summary": "Throughout the war with Iran, the Trump administration has highlighted the threat that Iran's nuclear program presents to the U.S. and the world. To bring a final resolution to the war, the U.S.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Costco's fuel sales soar as consumers hunt for deals",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=eGsVv65qR60",
-      "published": "2026-05-29T18:00:13+00:00",
-      "summary": "Costco is getting lots of first-time visitors to its gas stations thanks to higher gas prices. The chain says between April and mid-May, it had its best five-week period on record for gas sales.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Algorithm | For your right to be curious.",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=2Qs_bdUOlnA",
-      "published": "2026-05-29T15:07:44+00:00",
-      "summary": "People notice. People question. NPR takes your curiosity further. Hear more of this story on It’s Been a Minute from NPR. ------------------------------------------------------ Follow NPR elsewhere, too: • Instagram: https://www.instagram.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Receipt | For your right to be curious.",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=whva3D9tYLQ",
-      "published": "2026-05-29T15:07:40+00:00",
-      "summary": "People notice. People question. NPR takes your curiosity further. Hear more of this story on Planet Money from NPR. ------------------------------------------------------ Follow NPR elsewhere, too: • Instagram: https://www.instagram.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Flag | For your right to be curious.",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=7eb9g8uVO6U",
-      "published": "2026-05-29T15:07:31+00:00",
-      "summary": "People notice. People question. NPR takes your curiosity further. Hear more of this story on The NPR Politics Podcast. ------------------------------------------------------ Follow NPR elsewhere, too: • Instagram: https://www.instagram.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "007 First Light: State of Play Demo vs Final Game - They Fixed It!",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=s3MJLsFucYA",
-      "published": "2026-05-30T17:00:02+00:00",
-      "summary": "► Correction: we now understand that the \"RT Reflection\" in the State of Play clip is a planar reflection ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Xbox Series Consoles Could Run FSR 4.1 - So Will It Happen?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=9D01DrcDFUI",
-      "published": "2026-05-30T16:00:00+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/GHKbNNmzQOU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Unreal Engine 5 - FIVE Years Since The First Playable Demo - So What's Changed?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=dIh4BohMkOQ",
-      "published": "2026-05-30T15:00:13+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Uncharted 4 - It's Been Ten Years - And It's Still Stunning",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=nmPXTBtWIXI",
-      "published": "2026-05-29T17:00:21+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Unreal Engine 6 Teased - So What Do We Think?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=NNSiIKlsXLs",
-      "published": "2026-05-29T16:00:17+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/jRfDuHfSCrE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Riven And Motorslice - Two Unreal Engine 5 Games We Highly Recommend",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=eoGKtjupDUQ",
-      "published": "2026-05-29T16:00:17+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Guerrilla/Epic Games Alum Announces The Immense Engine - But What Is It?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=_nOZfk3tiEo",
-      "published": "2026-05-28T17:00:37+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/GHKbNNmzQOU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "PS5 Linux: Is It Any Kind Of Steam Machine Competitor?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=5fNOXWbhkno",
-      "published": "2026-05-28T16:00:33+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/GHKbNNmzQOU ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Keep the Change | Adventure Is Nigh! - The Slow Walk Home | Ep. 2",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=3WSXNwCsm3o",
-      "published": "2026-05-30T16:00:06+00:00",
-      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "I’ve Played Dreadmoor… I’m Still Not Convinced | Unpacked",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=mJyFV22vWO4",
-      "published": "2026-05-29T15:00:11+00:00",
-      "summary": "When expectations don't match up with reality. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Dork Tales' Kelly Clark Gushes About TTRPG Systems | RPG Help Desk w/ Jesse Galena",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=32Nwwe_maT8",
-      "published": "2026-05-29T10:12:08+00:00",
-      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.com/ember Look... we really like TTRPGs.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Stop Watching This and Go Play Mina the Hollower and 007 First Light | Firelink Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=7VNV49dDtn8",
-      "published": "2026-05-29T01:26:48+00:00",
-      "summary": "This week on Firelink, Nick, KC, and Marty chat about the pair of excellent new releases in Mina the Hollower and 007 First Light, break down the insane price increases on Valve's Steam Deck, and marvel at The Witcher III getting a new…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "More Dark Souls 2, Becoming Valedictorian of the First Sin w/ Jack and Jess -- Part 10",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=4WRY6chBLug",
-      "published": "2026-05-28T19:08:27+00:00",
-      "summary": "The Rapier is the most overpowered weapon in Dark Soul 2. So naturally, Jack and Jess thought it would be a good idea to show off a run built around it.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Mixtape Is a Reminder That Teenagers Suck and Always Have",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=ARuQVOGvPn0",
-      "published": "2026-05-28T15:00:12+00:00",
-      "summary": "Teenagers suck, and Mixtape is a great reminder of that. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "RESIDENT EVIL – Zach Cregger on Survival Horror",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=N_KDtokTO1c",
-      "published": "2026-05-21T16:18:37+00:00",
-      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "RESIDENT EVIL - Zach Cregger on Survival Horror",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=5gR1GTJPGqQ",
-      "published": "2026-05-21T16:00:09+00:00",
-      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY (2006) - 20th Anniversary - Official Trailer (HD)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=A0fgugC7ZCo",
-      "published": "2026-05-20T16:46:15+00:00",
-      "summary": "If you ain't first, you're last. 🏁 Ricky Bobby returns to the big screen. #TalladegaNights is back in theatres June 28, June 30, and July 1.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "Primetime | Official Teaser HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=Yrfrf53ttYY",
-      "published": "2026-05-27T13:00:08+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Coming Soon.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "The Death of Robin Hood | Official First Look | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=ii1gTLxWukk",
-      "published": "2026-05-20T13:00:19+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Michael Sarnoski and starring Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett and Noah Jupe. THE DEATH OF ROBIN HOOD – In theaters June 19.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "HER PRIVATE HELL - Official Teaser - In Theaters July 24",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=iWqST_E9u_Q",
-      "published": "2026-05-18T14:00:27+00:00",
-      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "Built Different: Curry Barker on Supernatural Horror",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=ZpeiXao2MS4",
-      "published": "2026-05-26T18:01:01+00:00",
-      "summary": "Supernatural horror is a window into another nightmarish world. Curry Barker explains why we're all drawn in, and how Obsession goes even deeper GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Built Different: Lee Cronin on Gore",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=NSilsgp90jE",
-      "published": "2026-05-22T18:37:15+00:00",
-      "summary": "It takes blood, guts, and heart to make a Gore horror movie. Lee Cronin unpacks the brutal horror subgenre. This is how he defines Gore, disrupts it, and takes it even further in Lee Cronin’s The Mummy.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Strung | Official Trailer",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=sEz074LTiV8",
-      "published": "2026-05-20T16:30:28+00:00",
-      "summary": "Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Physical 100: Italy | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=e3n_g-wy4gQ",
-      "published": "2026-05-29T10:00:00+00:00",
-      "summary": "100 modern gladiators. One monumental arena. Welcome to Physical 100: Italy. In this unprecedented physical competition, 100 contestants face off in extreme challenges that push body and tenacity to the absolute limit.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Mike Myers went full Shrek at the AFI Life Achievement Award: A Tribute to Eddie Murphy.",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=yUrwmYdWz2s",
-      "published": "2026-05-28T18:00:29+00:00",
-      "summary": "AFI Life Achievement Award: A Tribute to Eddie Murphy premieres May 31 on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "I Am Frankelda | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=diRwnGRr-Ko",
-      "published": "2026-05-28T15:00:00+00:00",
-      "summary": "Frankelda, a determined 19th-century Mexican writer, journeys into her subconscious to face the monsters she’s written about. Guided by a tormented prince, she must restore the balance between fiction and reality before it’s too late.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "In the Hand of Dante | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=cXA3Zgsky18",
-      "published": "2026-05-28T14:00:00+00:00",
-      "summary": "In the Hand of Dante follows the parallel lives of a New York author (Nick Tosches) in the 21st century who embarks on a violent journey after he is recruited by a mafia don to steal Italian poet Dante Alighieri’s The Divine Comedy written…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Brazil ‘70: The Third Star | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=reK5gYJPDBM",
-      "published": "2026-05-27T16:30:00+00:00",
-      "summary": "Step onto the pitch with the cast and crew of Brazil ’70: The Third Star. Discover the making of the miniseries that follows the 1970 Brazilian National Team’s journey to winning the World Cup in Mexico and securing their third world title.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Enola Holmes 3 | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=g1fq327snPU",
-      "published": "2026-05-27T12:00:00+00:00",
-      "summary": "Tis I do?! The critically-acclaimed ‘Enola Holmes’ franchise has returned, taking Enola far from London, where personal and professional dreams collide on a case more tangled and treacherous than any she has faced before.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Norway: The Dark Horse | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Z8pes4PRAUQ",
-      "published": "2026-05-26T07:00:00+00:00",
-      "summary": "Hope and history collide as an elite Norwegian squad fights to end a 26-year wait and earn a place at the 2026 World Cup in this rare-access documentary. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Marked Woman | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=161b4xLkokE",
-      "published": "2026-05-25T10:00:00+00:00",
-      "summary": "‘The Marked Woman’ starring Candela Peña, is a suspense thriller based on the novel of the same name. Directed by Gabe Ibáñez and written by Lara Sendim, the film follows an investigation driven by mystery and urgency.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Millie Bobby Brown and Louis Partridge crack the case of the Enola Holmes 3 trailer drop date",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=JNSUtGlhHKU",
-      "published": "2026-05-24T17:22:21+00:00",
-      "summary": "SAVE THE DATE 💌 #EnolaHolmes3 #Netflix Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Avatar: The Last Airbender Cast Recaps Season 1 with a Game of Two Truths & A Lie | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=HmvHY3IK1UA",
-      "published": "2026-05-24T17:00:00+00:00",
-      "summary": "The cast of Avatar: The Last Airbender recaps Season 1 with a game of Two Truths & A Lie. Season 1 is now playing, and Season 2 is coming June 25, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -692,8 +250,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 21,
-    "trailerCount": 19,
-    "sourceCount": 16
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 5
   }
 }
