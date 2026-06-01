@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-01T05:00:02.511628Z
+Generated: 2026-06-01T14:00:02.510682Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark, Is there a pianist in the house? Audience member steps up to perform in La La Land in Sydney, and Dell is bringing back the XPS 13 as a MacBook Neo competitor — with a temporary discount to $599.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are "The live-action Smurfs movie paid for itself entirely through product placement" - Former Dragon Age boss suggests games can be funded another way, Free speech activists condemn UK entry ban for two leftwing US commentators, and LA’s storied fashion district in a slump – can the Olympics put it back on its feet?.
 
 ## Briefing
 
@@ -33,126 +33,126 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 1. "The live-action Smurfs movie paid for itself entirely through product placement" - Former Dragon Age boss suggests games can be funded another way [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Once upon a time, Microsoft had to write off $900 million betting an Arm-based Nvidia chip could power its first flagship Windows portable, the original Microsoft Surface. But today, it's trying again.
+Is there a better way to fund live service games that won't result in so many of them ending abruptly or being eventually turned off ? Former Dragon Age and Anthem executive producer Mark Darrah believes there is. Read more
 
-Link: https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures
+Link: https://www.eurogamer.net/dragon-age-mark-darrah-games-monetisation
 
-### 2. Is there a pianist in the house? Audience member steps up to perform in La La Land in Sydney [10/10]
+### 2. Free speech activists condemn UK entry ban for two leftwing US commentators [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Sterling Nasa had tickets to see Justin Hurwitz’s La La Land in Concert.
+Cenk Uygur and Hasan Piker, who have both been accused of propagating antisemitism, barred from visiting for event The UK is failing to protect freedom of speech, prominent activists have said, after the government banned two leftwing US…
 
-Link: https://www.theguardian.com/australia-news/2026/jun/01/audience-member-replaces-ill-keyboardist-sydney-la-land-justin-hurwitz
+Link: https://www.theguardian.com/media/2026/jun/01/us-political-commentators-say-banned-entering-uk-cenk-uygur-hasan-piker
 
-### 3. Dell is bringing back the XPS 13 as a MacBook Neo competitor — with a temporary discount to $599 [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Dell is making good on its tease from CES and finally announcing a new XPS 13.
-
-Link: https://www.theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price
-
-### 4. AMD’s new pitch: our old tech is so good you should just keep using it [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Computex 2026 is underway in Taiwan, and we're expecting all manner of flashy computers with jaw-dropping prices (or no prices at all) as the entire industry navigates RAMageddon. But for desktop PC gamers, AMD has a different pitch.
-
-Link: https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d
-
-### 5. United flight to Spain turns back midair after possible security threat [10/10]
+### 3. LA’s storied fashion district in a slump – can the Olympics put it back on its feet? [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Security came to inspect aircraft in Newark after report of Bluetooth device with a ‘certain four-letter word’ A United Airlines plane bound for Spain from Newark Liberty international airport turned around mid-flight on Saturday due to a…
+The neighborhood that makes America’s clothes has been buffeted by ICE raids and post-Covid problems – but leaders say hope is on the horizon Downtown Los Angeles’s fashion district, the largest apparel manufacturing hub in the United…
 
-Link: https://www.theguardian.com/us-news/2026/may/31/united-airlines-flight-turns-around-spain-newark-security
+Link: https://www.theguardian.com/us-news/2026/jun/01/los-angeles-fashion-district
 
-### 6. Georgia town’s novel strategy to fight ICE jail plan impresses legal experts [10/10]
+### 4. Opinion: Why Students Reach College Underprepared for Math — And What to Do About It [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+In recent years, particularly since the pandemic, countless news articles have bemoaned a crisis in math learning.
+
+Link: https://www.the74million.org/article/why-students-reach-college-underprepared-for-math-and-what-to-do-about-it/
+
+### 5. These are the first Nvidia RTX Spark laptops [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Nvidia has officially entered the world of consumer laptop chips with the RTX Spark, and several device makers already have hardware lined up for it.
+
+Link: https://www.theverge.com/gadgets/940794/first-nvidia-rtx-spark-laptops-roundup-computex-2026
+
+### 6. To die with dignity: my young husband’s final wish came with a $65,000 price tag [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Town of Social Circle’s complaint invokes ‘public nuisance’ law that scholars say could have impact for other localities A small Georgia town’s federal lawsuit opposing the Trump administration’s plans to turn a warehouse into one of the…
+My husband, Craig, didn’t want to spend his last days in the hospital. His fight with bladder cancer then became a battle to get him hospice care at home “This isn’t where I want to die,” my husband, Craig, whispered to me.
 
-Link: https://www.theguardian.com/us-news/2026/may/31/georgia-ice-detention-center-social-circle
+Link: https://www.theguardian.com/society/ng-interactive/2026/jun/01/home-hospice-cost
 
-### 7. The fall of John Cornyn mirrors the fall of the Republican party | Sidney Blumenthal [10/10]
+### 7. ‘Where are all the kids?’: questions arise over treatment of pregnant minors in Texas immigration facility [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The Texas senator was emblematic of the era between Reagan and Trump, as Republicans shifted from the party of business to a cult of personality The defeat of John Cornyn is a milestone in the downfall of the Republican party.
+The Trump administration may be deporting the US citizen infants born to unaccompanied girls formerly held at the San Benito ICE facility Representative Maxine Dexter has a lot of questions.
 
-Link: https://www.theguardian.com/commentisfree/2026/may/31/texas-john-cornyn-republicans
+Link: https://www.theguardian.com/us-news/2026/jun/01/pregnant-minors-texas-ice-facility
 
-### 8. ‘I felt I could smash my past up through sex’: the ruthlessness and redemption of Rupert Everett [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 8. Nvidia unveil their first all-in-one laptop processor, with support for DLSS, ray tracing, frame gen, and all those other RTX features you love and hate [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-‘Brash, disingenuous, lethal’: that’s how the 67-year-old actor describes his younger self. He lied to his partners, disrespected his audiences, betrayed his friends.
+After years of whispers around Nvidia maybe, possibly, perhaps getting into CPU-making, they’re making it official with RTX Spark: a fully integrated laptop SoC (System on a Chip), coming to thin 'n' lights in Autumn this year.
 
-Link: https://www.theguardian.com/film/2026/jun/01/rupert-everett-interview-rivals-madfabulous
+Link: https://www.rockpapershotgun.com/nvidia-unveil-their-first-all-in-one-laptop-processor-with-support-for-dlss-ray-tracing-frame-gen-and-all-those-other-rtx-features-you-love-and-hate
 
-### 9. Marcia Lucas, Star Wars’ Oscar-winning editor and unsung hero, dies at 80 [9/10]
+### 9. Nvidia launches ‘superchip’ putting AI power into laptops and PCs [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-‘Innovative artist’, who was married to George Lucas until 1983 and worked on several Martin Scorsese films, has died from metastatic cancer Marcia Lucas, who won an Oscar as editor of the 1977 film Star Wars and was part of a group of…
+Firm says its RTX Spark PC chip for Microsoft Windows will let AI agents replace the mouse and keyboard Business live – latest updates A new front has opened up in the battle for dominance in AI chips, as Nvidia said its latest development…
 
-Link: https://www.theguardian.com/film/2026/jun/01/marcia-lucas-star-wars-oscar-winning-editor-dies-80
+Link: https://www.theguardian.com/technology/2026/jun/01/nvidia-launches-chip-ai-laptops-pc-rtx-spark-microsoft-windows
 
-### 10. Maryland Schoolyard Farm Showcases Community Resilience [9/10]
+### 10. An OpenAI model solved a famous math problem that stumped humans for 80 years [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+I tried to explain OpenAI’s solution more clearly than OpenAI did.
+
+Link: https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/
+
+### 11. Oklahoma’s Schools Are Some of the Worst in the Nation. Can They Recover? [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-On a cool spring day recently, the 1-acre farm A. Mario Loiederman Middle School in Wheaton buzzed with activity.
+When Oklahoma’s education rankings make headlines, it’s usually not a good thing.
 
-Link: https://www.the74million.org/article/maryland-schoolyard-farm-showcases-community-resilience/
+Link: https://www.the74million.org/article/oklahomas-schools-are-some-of-the-worst-in-the-nation-can-they-recover/
 
-### 11. Stop Killing Games consumer protection bill passes floor vote in California [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The California State Assembly has passed the Protect Our Games Act, a bill centred on protecting consumer rights as detailed by the Stop Killing Games movement. Read more
-
-Link: https://www.eurogamer.net/stop-killing-games-passes-floor-vote-california
-
-### 12. How aid cuts are hampering the frontline response to the Ebola crisis [8/10]
+### 12. Confirmed Ebola cases in Congo reach 282 as survivors describe their recoveries [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Aid workers in Uganda are watching the Ebola crisis unfold in the neighboring Democratic Republic of Congo. They're doing what they can to prepare for an uptick in cases, but foreign aid cuts aren't helping.
+The outbreak remains focused in Congo's eastern Ituri province. Congo has reported over 1,000 suspected cases with the Bundibugyo virus, which has no approved treatment or vaccine.
 
-Link: https://www.npr.org/2026/05/31/nx-s1-5839197/ebola-crisis-outbreak-misinformation-democratic-republic-congo-uganda
+Link: https://www.npr.org/2026/06/01/g-s1-125143/ebola-updates
 
-### 13. These AI models are free, private, and will never say 'no' [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+### 13. Babylon 5 Rewatch: “Meditations on the Abyss” [6/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Open-weight AI models with advanced capabilities and no safeguards are becoming much more accessible. While they can be useful, AI safety experts have concerns.
+Lennier is sent on a secret mission, and Vir learns that he is the new Centauri ambassador to Babylon 5... The post Babylon 5 Rewatch: “Meditations on the Abyss” appeared first on Reactor .
 
-Link: https://www.npr.org/2026/05/31/nx-s1-5816391/ai-safety-concerns-danger-open-weight-models-risks
+Link: https://reactormag.com/babylon-5-rewatch-meditations-on-the-abyss/
 
 ## YouTube
 
-### Feynman vs. Einstein vs. Newton: Who Wins? 🧠🤔 #physics #ai #science #feynman #research [8/10]
+### Einstein vs Feynman, Who Wins? 🧠🤔 #physics #ai #science #feynman #research [8/10]
 **Creator:** Two Minute Papers  
 **Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
@@ -160,15 +160,6 @@ Link: https://www.npr.org/2026/05/31/nx-s1-5816391/ai-safety-concerns-danger-ope
 Check the pinned comment for the link to the full interview. In this quick clip, we explore which legendary scientist ranks higher among the experts.
 
 Link: https://www.youtube.com/watch?v=vsKH3oPwss4
-
-### Human Readable Code - Computerphile [6/10]
-**Creator:** Computerphile  
-**Verdict:** Summary is enough  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Knuth talked about "Literate Programming" over forty years ago, but what does it mean to have code that a developer and a client can agree on? Dr Robert Chatley of Imperial College London demonstrates how it might work.
-
-Link: https://www.youtube.com/watch?v=SJocPm2E8eQ
 
 ### Study finds cash for pregnant women leads to healthier babies [7/10]
 **Creator:** NPR  
@@ -214,15 +205,6 @@ Link: https://www.youtube.com/watch?v=2Qs_bdUOlnA
 People notice. People question. NPR takes your curiosity further. Hear more of this story on Planet Money from NPR. ------------------------------------------------------ Follow NPR elsewhere, too: • Instagram: https://www.instagram.
 
 Link: https://www.youtube.com/watch?v=whva3D9tYLQ
-
-### Flag | For your right to be curious. [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-People notice. People question. NPR takes your curiosity further. Hear more of this story on The NPR Politics Podcast. ------------------------------------------------------ Follow NPR elsewhere, too: • Instagram: https://www.instagram.
-
-Link: https://www.youtube.com/watch?v=7eb9g8uVO6U
 
 ### Epic Optimises Lumen GI For Lower-End Hardware... But How? [7/10]
 **Creator:** Digital Foundry  
@@ -322,15 +304,6 @@ Link: https://www.youtube.com/watch?v=3WSXNwCsm3o
 When expectations don't match up with reality. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
 Link: https://www.youtube.com/watch?v=mJyFV22vWO4
-
-### Dork Tales' Kelly Clark Gushes About TTRPG Systems | RPG Help Desk w/ Jesse Galena [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.com/ember Look... we really like TTRPGs.
-
-Link: https://www.youtube.com/watch?v=32Nwwe_maT8
 
 ## Entertainment Recommendations
 
