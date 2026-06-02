@@ -1,39 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-02T09:04:05.630263Z",
-  "generatedAtDisplay": "2026-06-02 05:04 AM EDT",
+  "generatedAt": "2026-06-02T14:00:02.248138Z",
+  "generatedAtDisplay": "2026-06-02 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Iowa shootings: gunman suspected of killing six relatives then himself, Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account, and The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands.",
+  "summary": "Today's sweep leans toward AI / computing, Democracy / press freedom, AI / privacy. The strongest items in this run are Voters cast ballots in several states as California governor primary goes down to the wire – live, Valve antitrust lawsuit reportedly reveals lengths Steam owner is willing to go to prevent cheaper prices elsewhere, and Gemini Spark is the most impressive and terrifying AI experience I’ve had yet.",
   "mainItems": [
     {
-      "title": "Iowa shootings: gunman suspected of killing six relatives then himself",
+      "title": "Voters cast ballots in several states as California governor primary goes down to the wire – live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/02/iowa-shooting-domestic-gunman-suspected-killing-relatives-then-himself",
-      "published": "2026-06-02T04:51:45+00:00",
-      "summary": "Police say four found dead in Muscatine home and two elsewhere in apparent ‘domestic-related dispute’ and suspect took own life while speaking to officers Authorities in Iowa are investigating the fatal shootings of six people who they…",
+      "url": "https://www.theguardian.com/us-news/live/2026/jun/02/donald-trump-primaries-midterms-california-governor-iran-latest-news-updates",
+      "published": "2026-06-02T13:57:12+00:00",
+      "summary": "California voters must decide top two candidates to advance in governor’s race; Iowa, Montana, New Jersey, South Dakota and New Mexico also hold primaries Sign up for the Breaking News US email California elections: governor, LA mayor and…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram",
-      "published": "2026-06-01T22:32:26+00:00",
-      "summary": "Breach confirmed by Meta raises concerns about how safe it is to rely on AI for key security measures such as passwords Hackers used Meta’s AI-powered support chatbot to infiltrate high-profile Instagram accounts, the company confirmed on…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Valve antitrust lawsuit reportedly reveals lengths Steam owner is willing to go to prevent cheaper prices elsewhere",
+      "source": "Eurogamer",
+      "category": "AI / privacy",
+      "url": "https://www.eurogamer.net/valve-antitrust-lawsuits-ubisoft-warner-bros-report",
+      "published": "2026-06-02T12:46:36+00:00",
+      "summary": "Steam is once again under fire. A new antitrust lawsuit has accused platform owner Valve of abusing its dominant position in the PC marketplace by aggressively pursuing developers - including major players like Ubisoft and Warner Bros.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands",
+      "title": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands",
-      "published": "2026-06-01T21:18:23+00:00",
-      "summary": "We may just have gotten an early look at the Google Pixel Watch 5 - and from an unusual source.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+      "published": "2026-06-02T12:38:08+00:00",
+      "summary": "According to every product demo from the last four years, planning a trip is a killer use case for AI.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "After a week of playing on nothing but Panther Lake laptops, it's safe to say that Intel has its gaming mojo back",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/after-a-week-of-playing-on-nothing-but-panther-lake-laptops-its-safe-to-say-that-intel-has-its-gaming-mojo-back",
+      "published": "2026-06-02T12:30:24+00:00",
+      "summary": "Intel have had a bit of a wild ride as of late.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Oklahoma Student Performance Is Declining. Charter Schools Are an Exception",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/oklahoma-student-performance-is-declining-charter-schools-are-an-exception/",
+      "published": "2026-06-02T12:30:00+00:00",
+      "summary": "A recent report from the University of Oklahoma documented the Sooner State’s “Fall to 48th” place on the National Assessment of Educational Progress.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "The Download: AI can run your admin department now",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+      "published": "2026-06-02T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Michigan found a way to reduce school vaccine waivers. Until it backfired",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/06/02/nx-s1-5823712/michigan-school-vaccine-exemptions-waivers-measles",
+      "published": "2026-06-02T09:00:00+00:00",
+      "summary": "A decade ago, Michigan had high rates of parents not vaccinating their children, so it required them to attend an in-person education class to get an exemption. It worked — until things got ugly.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 10
     },
     {
@@ -47,23 +87,13 @@
       "score": 10
     },
     {
-      "title": "Florida sues OpenAI and Sam Altman over alleged safety lapses",
-      "source": "NPR Tech",
-      "category": "AI / privacy",
-      "url": "https://www.npr.org/2026/06/01/nx-s1-5843132/openai-florida-lawsuit-safety-chatgpt",
-      "published": "2026-06-01T19:52:02+00:00",
-      "summary": "The lawsuit accuses the company of failing to warn users that ChatGPT could be dangerous and instead marketing it as safe and reliable.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "California Wants to Fix Undercounting of Native American Students",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/california-wants-to-fix-undercounting-of-native-american-students/",
-      "published": "2026-06-01T18:30:00+00:00",
-      "summary": "This story was originally published by CalMatters. Sign up for their newsletters. When Celestina Castillo filled out the ethnicity forms at her children’s school, she’d always check Latino and Native American.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "Google owner Alphabet to sell $80bn in stock to fund AI spending spree",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/technology/2026/jun/02/google-alphabet-sell-stock-ai-share-sale-berkshire-hathaway",
+      "published": "2026-06-02T12:33:23+00:00",
+      "summary": "Markets take note as world’s biggest equity fundraiser bids to garner more money than the three biggest-ever IPOs combined Business live – latest updates Kenneth Rogoff: will AI create a permanent underclass? Google’s parent company,…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -74,26 +104,6 @@
       "published": "2026-06-01T18:27:28+00:00",
       "summary": "The Anthropic IPO, and those of other AI-related firms like OpenAI, could be among the biggest in U.S. history.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
-    },
-    {
-      "title": "Blizzard surprises with meta-shaking StarCraft 2 update after years of quieter support and fixes - \"Some of these changes are wild\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/starcraft-2-meta-changes-update-2026",
-      "published": "2026-06-01T15:51:00+00:00",
-      "summary": "As one of the best real-time strategy games of all time, StarCraft 2 is far from dead, but 2020 marked the end of content development for Legacy of the Void and the base free multiplayer experience.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: Why Students Reach College Underprepared for Math — And What to Do About It",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/why-students-reach-college-underprepared-for-math-and-what-to-do-about-it/",
-      "published": "2026-06-01T12:30:00+00:00",
-      "summary": "In recent years, particularly since the pandemic, countless news articles have bemoaned a crisis in math learning.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 9
     },
     {
@@ -124,16 +134,6 @@
       "published": "2026-06-01T14:02:31+00:00",
       "summary": "Sledgehammers very useful in The Legend of Zelda; perhaps less so against dinosaurs The post The End of Oak Street Trailer: Forget Traveling to Distant Islands; Dinosaurs Come to You appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
-      "title": "Confirmed Ebola cases in Congo near 300 as survivors describe their recoveries",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/01/g-s1-125143/ebola-updates",
-      "published": "2026-06-01T10:52:34+00:00",
-      "summary": "The outbreak remains focused in Congo's eastern Ituri province. Congo has reported over 1,000 suspected cases with the Bundibugyo virus, which has no approved treatment or vaccine.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
   ],
@@ -172,7 +172,7 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Jake Sullivan: 'Hard to see' what U.S. has gained in Iran",
+      "title": "Jake Sullivan: 'Hard to see' what U.S. has gained in Iran | Sources & Methods",
       "source": "NPR",
       "category": "News / analysis",
       "url": "https://www.youtube.com/watch?v=UZP36lTxB8w",
@@ -304,6 +304,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Could Grogu Survive in the Backrooms?| The Rewind Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=x1G_PDjbpPA",
+      "published": "2026-06-02T13:02:30+00:00",
+      "summary": "This week on The Rewind, Jack is out, so Darren and Marty enlisted Nick and JM8 to come chat about The Mandalorian and Grogu, Backrooms, and everything else they've been watching.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "PlayStation State of Play Watchalong",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -322,8 +333,8 @@
       "published": "2026-06-02T01:11:15+00:00",
       "summary": "This week on Hidden Gems KC, Jess, and Jesse play Forbidden Solitaire -- https://store.steampowered.com/app/3414580/Forbidden_Solitaire/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Our Favorite Video Game Expansions and DLC | Windbreaker Podcast",
@@ -403,6 +414,17 @@
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 7,
       "verdict": "Worth a glance"
+    },
+    {
+      "title": "Onslaught | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=L24CYVpQ-LI",
+      "published": "2026-06-02T13:00:08+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Adam Wingard and starring Adria Arjona, Alex Pereira, Drew Starkey, Rebecca Hall, Reginald VelJohnson, Michael Biehn, Eric Wareheim and Dan Stevens. ONSLAUGHT – In Theaters September 4.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
     },
     {
       "title": "Primetime | Official Teaser HD | A24",
@@ -692,8 +714,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 21,
-    "trailerCount": 19,
-    "sourceCount": 19
+    "youtubeCount": 22,
+    "trailerCount": 20,
+    "sourceCount": 21
   }
 }

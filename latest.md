@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-02T09:04:05.630263Z
+Generated: 2026-06-02T14:00:02.248138Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Iowa shootings: gunman suspected of killing six relatives then himself, Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account, and The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands.
+Today's sweep leans toward AI / computing, Democracy / press freedom, AI / privacy. The strongest items in this run are Voters cast ballots in several states as California governor primary goes down to the wire – live, Valve antitrust lawsuit reportedly reveals lengths Steam owner is willing to go to prevent cheaper prices elsewhere, and Gemini Spark is the most impressive and terrifying AI experience I’ve had yet.
 
 ## Briefing
 
@@ -33,34 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Iowa shootings: gunman suspected of killing six relatives then himself [10/10]
+### 1. Voters cast ballots in several states as California governor primary goes down to the wire – live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Police say four found dead in Muscatine home and two elsewhere in apparent ‘domestic-related dispute’ and suspect took own life while speaking to officers Authorities in Iowa are investigating the fatal shootings of six people who they…
+California voters must decide top two candidates to advance in governor’s race; Iowa, Montana, New Jersey, South Dakota and New Mexico also hold primaries Sign up for the Breaking News US email California elections: governor, LA mayor and…
 
-Link: https://www.theguardian.com/us-news/2026/jun/02/iowa-shooting-domestic-gunman-suspected-killing-relatives-then-himself
+Link: https://www.theguardian.com/us-news/live/2026/jun/02/donald-trump-primaries-midterms-california-governor-iran-latest-news-updates
 
-### 2. Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 2. Valve antitrust lawsuit reportedly reveals lengths Steam owner is willing to go to prevent cheaper prices elsewhere [10/10]
+**Source:** Eurogamer  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Breach confirmed by Meta raises concerns about how safe it is to rely on AI for key security measures such as passwords Hackers used Meta’s AI-powered support chatbot to infiltrate high-profile Instagram accounts, the company confirmed on…
+Steam is once again under fire. A new antitrust lawsuit has accused platform owner Valve of abusing its dominant position in the PC marketplace by aggressively pursuing developers - including major players like Ubisoft and Warner Bros.
 
-Link: https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram
+Link: https://www.eurogamer.net/valve-antitrust-lawsuits-ubisoft-warner-bros-report
 
-### 3. The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands [10/10]
+### 3. Gemini Spark is the most impressive and terrifying AI experience I’ve had yet [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-We may just have gotten an early look at the Google Pixel Watch 5 - and from an unusual source.
+According to every product demo from the last four years, planning a trip is a killer use case for AI.
 
-Link: https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands
+Link: https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning
 
-### 4. Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts [10/10]
+### 4. After a week of playing on nothing but Panther Lake laptops, it's safe to say that Intel has its gaming mojo back [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Intel have had a bit of a wild ride as of late.
+
+Link: https://www.rockpapershotgun.com/after-a-week-of-playing-on-nothing-but-panther-lake-laptops-its-safe-to-say-that-intel-has-its-gaming-mojo-back
+
+### 5. Oklahoma Student Performance Is Declining. Charter Schools Are an Exception [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+A recent report from the University of Oklahoma documented the Sooner State’s “Fall to 48th” place on the National Assessment of Educational Progress.
+
+Link: https://www.the74million.org/article/oklahoma-student-performance-is-declining-charter-schools-are-an-exception/
+
+### 6. The Download: AI can run your admin department now [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/
+
+### 7. Michigan found a way to reduce school vaccine waivers. Until it backfired [10/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+A decade ago, Michigan had high rates of parents not vaccinating their children, so it required them to attend an in-person education class to get an exemption. It worked — until things got ugly.
+
+Link: https://www.npr.org/2026/06/02/nx-s1-5823712/michigan-school-vaccine-exemptions-waivers-measles
+
+### 8. Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts [10/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -69,25 +105,16 @@ Pricey Instagram handles were stolen and resold before Meta patched the exploit.
 
 Link: https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/
 
-### 5. Florida sues OpenAI and Sam Altman over alleged safety lapses [10/10]
-**Source:** NPR Tech  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 9. Google owner Alphabet to sell $80bn in stock to fund AI spending spree [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-The lawsuit accuses the company of failing to warn users that ChatGPT could be dangerous and instead marketing it as safe and reliable.
+Markets take note as world’s biggest equity fundraiser bids to garner more money than the three biggest-ever IPOs combined Business live – latest updates Kenneth Rogoff: will AI create a permanent underclass? Google’s parent company,…
 
-Link: https://www.npr.org/2026/06/01/nx-s1-5843132/openai-florida-lawsuit-safety-chatgpt
+Link: https://www.theguardian.com/technology/2026/jun/02/google-alphabet-sell-stock-ai-share-sale-berkshire-hathaway
 
-### 6. California Wants to Fix Undercounting of Native American Students [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-This story was originally published by CalMatters. Sign up for their newsletters. When Celestina Castillo filled out the ethnicity forms at her children’s school, she’d always check Latino and Native American.
-
-Link: https://www.the74million.org/article/california-wants-to-fix-undercounting-of-native-american-students/
-
-### 7. AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork [9/10]
+### 10. AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -96,25 +123,7 @@ The Anthropic IPO, and those of other AI-related firms like OpenAI, could be amo
 
 Link: https://www.npr.org/2026/06/01/nx-s1-5843199/anthropic-ipo-filing-ai-large
 
-### 8. Blizzard surprises with meta-shaking StarCraft 2 update after years of quieter support and fixes - "Some of these changes are wild" [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-As one of the best real-time strategy games of all time, StarCraft 2 is far from dead, but 2020 marked the end of content development for Legacy of the Void and the base free multiplayer experience.
-
-Link: https://www.eurogamer.net/starcraft-2-meta-changes-update-2026
-
-### 9. Opinion: Why Students Reach College Underprepared for Math — And What to Do About It [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-In recent years, particularly since the pandemic, countless news articles have bemoaned a crisis in math learning.
-
-Link: https://www.the74million.org/article/why-students-reach-college-underprepared-for-math-and-what-to-do-about-it/
-
-### 10. Amazon Shuts Down Internal AI Leaderboard After Employees Cheated [8/10]
+### 11. Amazon Shuts Down Internal AI Leaderboard After Employees Cheated [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -123,7 +132,7 @@ Employees admitted to 404 Media they had cheated to climb the leaderboard's rank
 
 Link: https://www.404media.co/amazon-shuts-down-internal-ai-leaderboard-after-employees-cheated/
 
-### 11. The 13 best recipes to bake in June : Berry-filled cakes and cobblers, seasonal pizza, chilled bars, and more. [8/10]
+### 12. The 13 best recipes to bake in June : Berry-filled cakes and cobblers, seasonal pizza, chilled bars, and more. [8/10]
 **Source:** King Arthur Baking  
 **Category:** Bread / food craft  
 **Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
@@ -132,7 +141,7 @@ It’s finally summer, which means it’s time to reacquaint yourself with the s
 
 Link: https://www.kingarthurbaking.com/blog/2026/06/01/best-june-recipes
 
-### 12. The End of Oak Street Trailer: Forget Traveling to Distant Islands; Dinosaurs Come to You [8/10]
+### 13. The End of Oak Street Trailer: Forget Traveling to Distant Islands; Dinosaurs Come to You [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -140,15 +149,6 @@ Link: https://www.kingarthurbaking.com/blog/2026/06/01/best-june-recipes
 Sledgehammers very useful in The Legend of Zelda; perhaps less so against dinosaurs The post The End of Oak Street Trailer: Forget Traveling to Distant Islands; Dinosaurs Come to You appeared first on Reactor .
 
 Link: https://reactormag.com/the-end-of-oak-street-trailer-2/
-
-### 13. Confirmed Ebola cases in Congo near 300 as survivors describe their recoveries [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The outbreak remains focused in Congo's eastern Ituri province. Congo has reported over 1,000 suspected cases with the Bundibugyo virus, which has no approved treatment or vaccine.
-
-Link: https://www.npr.org/2026/06/01/g-s1-125143/ebola-updates
 
 ## YouTube
 
@@ -179,7 +179,7 @@ Check the pinned comment for the link to the full interview. In this quick clip,
 
 Link: https://www.youtube.com/watch?v=vsKH3oPwss4
 
-### Jake Sullivan: 'Hard to see' what U.S. has gained in Iran [9/10]
+### Jake Sullivan: 'Hard to see' what U.S. has gained in Iran | Sources & Methods [9/10]
 **Creator:** NPR  
 **Verdict:** Watch it  
 **Why it matters:** Relevant to your current interest graph.
@@ -287,6 +287,15 @@ Link: https://www.youtube.com/watch?v=s3MJLsFucYA
 
 Link: https://www.youtube.com/watch?v=9D01DrcDFUI
 
+### Could Grogu Survive in the Backrooms?| The Rewind Podcast [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on The Rewind, Jack is out, so Darren and Marty enlisted Nick and JM8 to come chat about The Mandalorian and Grogu, Backrooms, and everything else they've been watching.
+
+Link: https://www.youtube.com/watch?v=x1G_PDjbpPA
+
 ### PlayStation State of Play Watchalong [8/10]
 **Creator:** Second Wind  
 **Verdict:** Worth watching  
@@ -296,9 +305,9 @@ Summer Game Fest (RIP E3) is here, and we're kicking this off with a Second Wind
 
 Link: https://www.youtube.com/watch?v=sVYCoQ5kIFA
 
-### Breaking the Law by Playing Forbidden Solitaire | Hot Monday Energy [8/10]
+### Breaking the Law by Playing Forbidden Solitaire | Hot Monday Energy [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Hidden Gems KC, Jess, and Jesse play Forbidden Solitaire -- https://store.steampowered.com/app/3414580/Forbidden_Solitaire/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.
@@ -396,6 +405,15 @@ Link: https://www.youtube.com/watch?v=5gR1GTJPGqQ
 If you ain't first, you're last. 🏁 Ricky Bobby returns to the big screen. #TalladegaNights is back in theatres June 28, June 30, and July 1.
 
 Link: https://www.youtube.com/watch?v=A0fgugC7ZCo
+
+### Onslaught | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From director Adam Wingard and starring Adria Arjona, Alex Pereira, Drew Starkey, Rebecca Hall, Reginald VelJohnson, Michael Biehn, Eric Wareheim and Dan Stevens. ONSLAUGHT – In Theaters September 4.
+
+Link: https://www.youtube.com/watch?v=L24CYVpQ-LI
 
 ### Primetime | Official Teaser HD | A24 [6/10]
 **Source:** A24  
