@@ -1,18 +1,18 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-02T05:00:02.151935Z",
-  "generatedAtDisplay": "2026-06-02 01:00 AM EDT",
+  "generatedAt": "2026-06-02T09:04:05.630263Z",
+  "generatedAtDisplay": "2026-06-02 05:04 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Trump reportedly mulling retreat from $1.8bn ‘anti-weaponization’ fund, Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account, and The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Iowa shootings: gunman suspected of killing six relatives then himself, Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account, and The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands.",
   "mainItems": [
     {
-      "title": "Trump reportedly mulling retreat from $1.8bn ‘anti-weaponization’ fund",
+      "title": "Iowa shootings: gunman suspected of killing six relatives then himself",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/01/senate-democrats-challenge-trump-slush-fund",
-      "published": "2026-06-02T01:52:28+00:00",
-      "summary": "Democrats decry president’s ‘most brazen act of self-dealing yet’ and vow to challenge fund in Congress Donald Trump is reconsidering whether to keep pressing for a $1.",
+      "url": "https://www.theguardian.com/us-news/2026/jun/02/iowa-shooting-domestic-gunman-suspected-killing-relatives-then-himself",
+      "published": "2026-06-02T04:51:45+00:00",
+      "summary": "Police say four found dead in Muscatine home and two elsewhere in apparent ‘domestic-related dispute’ and suspect took own life while speaking to officers Authorities in Iowa are investigating the fatal shootings of six people who they…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -47,12 +47,12 @@
       "score": 10
     },
     {
-      "title": "Gemini’s new AI agent is about as good as Google’s demo",
-      "source": "The Verge",
+      "title": "Florida sues OpenAI and Sam Altman over alleged safety lapses",
+      "source": "NPR Tech",
       "category": "AI / privacy",
-      "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
-      "published": "2026-06-01T19:54:52+00:00",
-      "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week.",
+      "url": "https://www.npr.org/2026/06/01/nx-s1-5843132/openai-florida-lawsuit-safety-chatgpt",
+      "published": "2026-06-01T19:52:02+00:00",
+      "summary": "The lawsuit accuses the company of failing to warn users that ChatGPT could be dangerous and instead marketing it as safe and reliable.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
@@ -97,16 +97,6 @@
       "score": 9
     },
     {
-      "title": "Obsession Director Wants an Anthology TV Series If He Can Explain a Major Plot Hole",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/obsession-director-anthology-series-sequel-plot-hole/",
-      "published": "2026-06-01T20:18:34+00:00",
-      "summary": "Curry Barker would love to helm an Obsession TV series, but there's at least one annoying detail in the way The post Obsession Director Wants an Anthology TV Series If He Can Explain a Major Plot Hole appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
       "title": "Amazon Shuts Down Internal AI Leaderboard After Employees Cheated",
       "source": "404 Media",
       "category": "Tech / media",
@@ -127,6 +117,16 @@
       "score": 8
     },
     {
+      "title": "The End of Oak Street Trailer: Forget Traveling to Distant Islands; Dinosaurs Come to You",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/the-end-of-oak-street-trailer-2/",
+      "published": "2026-06-01T14:02:31+00:00",
+      "summary": "Sledgehammers very useful in The Legend of Zelda; perhaps less so against dinosaurs The post The End of Oak Street Trailer: Forget Traveling to Distant Islands; Dinosaurs Come to You appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
+    },
+    {
       "title": "Confirmed Ebola cases in Congo near 300 as survivors describe their recoveries",
       "source": "NPR Health",
       "category": "Science / health",
@@ -138,6 +138,17 @@
     }
   ],
   "youtube": [
+    {
+      "title": "A Second Nobel Prize for AlphaFold? 🧬🏆 #alphafold #deepmind #nobelprize #science #ai",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=MOviZKtFeHM",
+      "published": "2026-06-02T07:13:59+00:00",
+      "summary": "Check the pinned comment for the link to the full interview. We're discussing whether a \"second order Nobel\" prize is on the horizon for AI-driven science.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
     {
       "title": "What Happens After A 1,000,000x AI Compute Leap? | Jeff Dean",
       "source": "Two Minute Papers",
@@ -161,6 +172,50 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "Jake Sullivan: 'Hard to see' what U.S. has gained in Iran",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=UZP36lTxB8w",
+      "published": "2026-06-01T21:26:31+00:00",
+      "summary": "Jake Sullivan, former National Security Advisor under President Biden, says it's hard to see what the United States gains in the war with Iran.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Left-wing commentators Hasan Piker, Cenk Uygur blocked from entering U.K.",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=ocXD3rZPCUs",
+      "published": "2026-06-01T20:30:03+00:00",
+      "summary": "The British government has blocked left-wing American commentators Hasan Piker and Cenk Uygur from entering the U.K. Both had both been scheduled to speak at events at London’s South by South West festival this week.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Anti-establishment candidate Graham Platner talks about his controversial past",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=7WNixTpzbQ8",
+      "published": "2026-06-01T20:00:03+00:00",
+      "summary": "The path to turning the Senate blue in this year's midterms runs, in part, through the state of Maine. Graham Platner — an oyster farmer and Marine Corps veteran — hopes to lead that charge.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Will Maine voters extend 'forgiveness' to another Graham Platner controversy?",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=TfRsS1rph9c",
+      "published": "2026-06-01T17:30:21+00:00",
+      "summary": "Graham Platner, an oyster farmer and military veteran, is the presumptive Democratic Senate candidate running to unseat five-term Republican Senator Susan Collins in the midterms.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Doom 2016 Tenth Anniversary - The Game That Put id Software Back On The Map",
       "source": "Digital Foundry",
       "category": "Games / hardware",
@@ -168,8 +223,8 @@
       "published": "2026-06-01T18:00:38+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Is Declining Software Quality To Blame For Sony Moving Away From PC?",
@@ -247,9 +302,285 @@
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 6,
       "verdict": "Summary is enough"
+    },
+    {
+      "title": "PlayStation State of Play Watchalong",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=sVYCoQ5kIFA",
+      "published": "2026-06-02T02:47:01+00:00",
+      "summary": "Summer Game Fest (RIP E3) is here, and we're kicking this off with a Second Wind watchalong PlayStation's big State of Play showcase, featuring Insomniac's Wolverine.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Breaking the Law by Playing Forbidden Solitaire | Hot Monday Energy",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=Mp0gVGVMGYg",
+      "published": "2026-06-02T01:11:15+00:00",
+      "summary": "This week on Hidden Gems KC, Jess, and Jesse play Forbidden Solitaire -- https://store.steampowered.com/app/3414580/Forbidden_Solitaire/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Our Favorite Video Game Expansions and DLC | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=CfDKPEOP1dY",
+      "published": "2026-06-01T19:06:50+00:00",
+      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty use the news of The Witcher III getting a new expansion 12 years (!) after its initial release to chat about their own personal favorite video game expansions and DLC…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "200+ Hours Later, Marathon Is Among My Favorite FPS Games",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=h08TDgpzJAY",
+      "published": "2026-06-01T15:00:39+00:00",
+      "summary": "Nick has been fully absorbed by Marathon since release, and it has quickly joined the roster of his favorite multiplayer FPS titles. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Thick as Thieves, Subnautica 2, Bubsy 4D, and Schrodingers Cat Burglar | Yahtzee Tries",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=r7QqCFRTOTY",
+      "published": "2026-05-31T16:00:28+00:00",
+      "summary": "This week on Yahtzee Tries, Yahtzee checked out Thick as Thieves, Subnautica 2, Bubsy 4D and Schrodingers Cat Burglar. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Keep the Change | Adventure Is Nigh! - The Slow Walk Home | Ep. 2",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=3WSXNwCsm3o",
+      "published": "2026-05-30T16:00:06+00:00",
+      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
     }
   ],
-  "trailers": [],
+  "trailers": [
+    {
+      "title": "RESIDENT EVIL – Zach Cregger on Survival Horror",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=N_KDtokTO1c",
+      "published": "2026-05-21T16:18:37+00:00",
+      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RESIDENT EVIL - Zach Cregger on Survival Horror",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=5gR1GTJPGqQ",
+      "published": "2026-05-21T16:00:09+00:00",
+      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY (2006) - 20th Anniversary - Official Trailer (HD)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=A0fgugC7ZCo",
+      "published": "2026-05-20T16:46:15+00:00",
+      "summary": "If you ain't first, you're last. 🏁 Ricky Bobby returns to the big screen. #TalladegaNights is back in theatres June 28, June 30, and July 1.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Primetime | Official Teaser HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Yrfrf53ttYY",
+      "published": "2026-05-27T13:00:08+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "The Death of Robin Hood | Official First Look | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ii1gTLxWukk",
+      "published": "2026-05-20T13:00:19+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Michael Sarnoski and starring Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett and Noah Jupe. THE DEATH OF ROBIN HOOD – In theaters June 19.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "HER PRIVATE HELL - Official Teaser - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=iWqST_E9u_Q",
+      "published": "2026-05-18T14:00:27+00:00",
+      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Built Different: Curry Barker on Supernatural Horror",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ZpeiXao2MS4",
+      "published": "2026-05-26T18:01:01+00:00",
+      "summary": "Supernatural horror is a window into another nightmarish world. Curry Barker explains why we're all drawn in, and how Obsession goes even deeper GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Built Different: Lee Cronin on Gore",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=NSilsgp90jE",
+      "published": "2026-05-22T18:37:15+00:00",
+      "summary": "It takes blood, guts, and heart to make a Gore horror movie. Lee Cronin unpacks the brutal horror subgenre. This is how he defines Gore, disrupts it, and takes it even further in Lee Cronin’s The Mummy.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Strung | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=sEz074LTiV8",
+      "published": "2026-05-20T16:30:28+00:00",
+      "summary": "Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "I Will Find You | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=mObRUsA7dPY",
+      "published": "2026-06-01T14:00:01+00:00",
+      "summary": "Every clue gets them closer to the truth. I Will Find You - the thrilling new mystery series from Harlan Coben, premieres June 18th, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tracy Morgan praises Eddie Murphy in AFI Life Achievement Award: A Tribute to Eddie Murphy",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=pZChOAyf-RE",
+      "published": "2026-05-31T14:00:30+00:00",
+      "summary": "“He’s my OG… and I think he’s my biological father.” Tracy Morgan praises Eddie Murphy in AFI Life Achievement Award: A Tribute to Eddie Murphy. Now playing. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Physical 100: Italy | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=e3n_g-wy4gQ",
+      "published": "2026-05-29T10:00:00+00:00",
+      "summary": "100 modern gladiators. One monumental arena. Welcome to Physical 100: Italy. In this unprecedented physical competition, 100 contestants face off in extreme challenges that push body and tenacity to the absolute limit.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Mike Myers went full Shrek at the AFI Life Achievement Award: A Tribute to Eddie Murphy.",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=yUrwmYdWz2s",
+      "published": "2026-05-28T18:00:29+00:00",
+      "summary": "AFI Life Achievement Award: A Tribute to Eddie Murphy premieres May 31 on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "I Am Frankelda | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=diRwnGRr-Ko",
+      "published": "2026-05-28T15:00:00+00:00",
+      "summary": "Frankelda, a determined 19th-century Mexican writer, journeys into her subconscious to face the monsters she’s written about. Guided by a tormented prince, she must restore the balance between fiction and reality before it’s too late.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "In the Hand of Dante | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=cXA3Zgsky18",
+      "published": "2026-05-28T14:00:00+00:00",
+      "summary": "In the Hand of Dante follows the parallel lives of a New York author (Nick Tosches) in the 21st century who embarks on a violent journey after he is recruited by a mafia don to steal Italian poet Dante Alighieri’s The Divine Comedy written…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Brazil ‘70: The Third Star | Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=reK5gYJPDBM",
+      "published": "2026-05-27T16:30:00+00:00",
+      "summary": "Step onto the pitch with the cast and crew of Brazil ’70: The Third Star. Discover the making of the miniseries that follows the 1970 Brazilian National Team’s journey to winning the World Cup in Mexico and securing their third world title.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Enola Holmes 3 | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=g1fq327snPU",
+      "published": "2026-05-27T12:00:00+00:00",
+      "summary": "Tis I do?! The critically-acclaimed ‘Enola Holmes’ franchise has returned, taking Enola far from London, where personal and professional dreams collide on a case more tangled and treacherous than any she has faced before.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Norway: The Dark Horse | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Z8pes4PRAUQ",
+      "published": "2026-05-26T07:00:00+00:00",
+      "summary": "Hope and history collide as an elite Norwegian squad fights to end a 26-year wait and earn a place at the 2026 World Cup in this rare-access documentary. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Marked Woman | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=161b4xLkokE",
+      "published": "2026-05-25T10:00:00+00:00",
+      "summary": "‘The Marked Woman’ starring Candela Peña, is a suspense thriller based on the novel of the same name. Directed by Gabe Ibáñez and written by Lara Sendim, the film follows an investigation driven by mystery and urgency.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -361,8 +692,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 10,
-    "trailerCount": 0,
-    "sourceCount": 12
+    "youtubeCount": 21,
+    "trailerCount": 19,
+    "sourceCount": 19
   }
 }
