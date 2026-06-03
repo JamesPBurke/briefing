@@ -1,60 +1,100 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-02T18:01:40.437418Z",
-  "generatedAtDisplay": "2026-06-02 02:01 PM EDT",
+  "generatedAt": "2026-06-03T05:00:01.996090Z",
+  "generatedAtDisplay": "2026-06-03 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / computing, Democracy / press freedom, AI / privacy. The strongest items in this run are Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more, Microsoft’s Project Solara is an OS for AI agent gadgets, and New Jersey sues Geo Group, private operator of Delaney Hall ICE facility.",
+  "summary": "Today's sweep leans toward AI / computing, Democracy / press freedom, Science / computing. The strongest items in this run are PlayStation State of Play June 2026: All the news and trailers, Remedy’s Control sequel launches in September, and You hunch over a screen all day. Six small upgrades to relax your tight neck and achy back.",
   "mainItems": [
     {
-      "title": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
+      "title": "PlayStation State of Play June 2026: All the news and trailers",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
-      "published": "2026-06-02T17:53:41+00:00",
-      "summary": "Microsoft’s annual developer conference is kicking off on June 2nd in San Francisco with the keynote presentation streaming live at 12:30PM ET / 9:30AM PT, and we will be following along here with everything as it’s announced.",
+      "url": "https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers",
+      "published": "2026-06-02T22:34:03+00:00",
+      "summary": "While the majority of Summer Game Fest takes place over the weekend, Sony is getting a jump on things with its next State of Play showcase, which airs on June 2nd at 5PM ET.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Microsoft’s Project Solara is an OS for AI agent gadgets",
+      "title": "Remedy’s Control sequel launches in September",
       "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
-      "published": "2026-06-02T17:46:30+00:00",
-      "summary": "Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from the ground up to power agent-driven experiences.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer",
+      "published": "2026-06-02T22:30:14+00:00",
+      "summary": "Control Resonant, the upcoming sequel to Remedy Entertainment's Control, will be released on September 24th, 2026, according to a trailer that premiered during Tuesday's PlayStation State of Play show.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "New Jersey sues Geo Group, private operator of Delaney Hall ICE facility",
+      "title": "You hunch over a screen all day. Six small upgrades to relax your tight neck and achy back",
       "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/jun/02/new-jersey-lawsuit-geo-group-delaney-hall-ice",
-      "published": "2026-06-02T17:41:03+00:00",
-      "summary": "State demands access for health inspectors amid reports of ‘inhumane conditions’ at site of protests and hunger strike Sign up for the Breaking News US newsletter email The attorney general of New Jersey on Tuesday filed a lawsuit against…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/thefilter-us/2026/jun/02/muscle-pain-relief-products",
+      "published": "2026-06-02T19:15:30+00:00",
+      "summary": "Find relief from back pain and muscle tension with picks our contributors love, like slip-on shoes and thick cushions Seven essential gadgets to live with when you have back pain, from grabbers to lap desks Sign up for the Filter US…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Trump goes after green cards",
+      "title": "Trump signs executive order to review AI models before they’re released",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/policy/941734/trump-green-cards-adjustment-of-status-uscis",
-      "published": "2026-06-02T16:25:45+00:00",
-      "summary": "On the Friday before Memorial Day, on the eve of a long weekend, the Trump administration announced that it was further gutting legal immigration. The Department of Homeland Security didn't use this language.",
+      "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+      "published": "2026-06-02T18:33:42+00:00",
+      "summary": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the…",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Cricut’s Joy 2 helps you personalize Father’s Day gifts, and it’s at its lowest price yet",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/941696/cricut-joy-2-rainbow-essential-bundle-deal-sale",
-      "published": "2026-06-02T16:11:07+00:00",
-      "summary": "If you’re looking for a way to add a personal touch to Father’s Day or graduation gifts, the Cricut Joy 2 can help you customize everything from water bottles and bookmarks to greeting cards and gift cards.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Trump signs AI safety order seeking voluntary review of new models",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/06/02/nx-s1-5844347/ai-safety-trump-executive-order",
+      "published": "2026-06-02T17:41:47+00:00",
+      "summary": "The order asks AI companies to voluntarily submit their most powerful models for the government to test up to 30 days before releasing them to the public.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 10
+    },
+    {
+      "title": "Google Is Quietly Buying Code From Play Store Developers to Train AI",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/",
+      "published": "2026-06-03T00:16:47+00:00",
+      "summary": "Google is trying to buy code from some Android developers as part of a \"confidential\" program.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9
+    },
+    {
+      "title": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
+      "source": "Ars Technica",
+      "category": "Linux / anti-obsolescence",
+      "url": "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
+      "published": "2026-06-02T22:51:10+00:00",
+      "summary": "One hardware announcement and several software highlights from Microsoft Build.",
+      "whyItMatters": "Relevant to humane computing, open-source practice, and repairability.",
+      "score": 9
+    },
+    {
+      "title": "Marvel's Wolverine is incredibly violent but Insomniac says it needed to be, and there's a way to turn off a lot of the gore",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/marvels-wolverine-violent-gore-insomniac-responds",
+      "published": "2026-06-02T22:30:00+00:00",
+      "summary": "One of the most striking things about the upcoming Marvel's Wolverine game is the level of sheer violence in it - something now underlined in a State of Play gameplay trailer aired tonight.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
+      "source": "Ars Technica",
+      "category": "AI / privacy",
+      "url": "https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/",
+      "published": "2026-06-02T20:17:41+00:00",
+      "summary": "Lawsuit: Ring cameras scan guests and passersby and use AI to identify faces.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
     },
     {
       "title": "Oklahoma Student Performance Is Declining. Charter Schools Are an Exception",
@@ -64,17 +104,7 @@
       "published": "2026-06-02T12:30:00+00:00",
       "summary": "A recent report from the University of Oklahoma documented the Sooner State’s “Fall to 48th” place on the National Assessment of Educational Progress.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "The Download: AI can run your admin department now",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
-      "published": "2026-06-02T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Michigan found a way to reduce school vaccine waivers. Until it backfired",
@@ -84,61 +114,65 @@
       "published": "2026-06-02T09:00:00+00:00",
       "summary": "A decade ago, Michigan had high rates of parents not vaccinating their children, so it required them to attend an in-person education class to get an exemption. It worked — until things got ugly.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10
-    },
-    {
-      "title": "Microsoft’s new developer-optimized Windows embraces Linux even more",
-      "source": "The Verge",
-      "category": "Linux / anti-obsolescence",
-      "url": "https://www.theverge.com/news/941314/microsoft-windows-11-developer-optimized-experience-linux",
-      "published": "2026-06-02T16:52:19+00:00",
-      "summary": "Microsoft is kicking off its Build developer conference today with a promise of making Windows a trusted platform for development.",
-      "whyItMatters": "Relevant to humane computing, open-source practice, and repairability.",
       "score": 9
     },
     {
-      "title": "Nvidia and Microsoft Researchers Say AI Agents Don't Care About Safety or Reliability",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/nvidia-and-microsoft-researchers-say-ai-agents-dont-care-about-safety-or-reliability/",
-      "published": "2026-06-02T15:03:17+00:00",
-      "summary": "The researchers compared AI to the near-sighted cartoon character Mr. Magoo, who can’t see he’s stumbling through dangerous situations.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "There are thousands of dirty old drill sites in Colorado. The state gave oil firms a $1bn pass",
+      "title": "Midterm primaries 2026 live: results and reaction as six states including California and Iowa cast ballots",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/jun/02/oil-well-sites-cleanup-colorado-chevron-oxy-civitas",
-      "published": "2026-06-02T14:00:24+00:00",
-      "summary": "Investigation reveals regulator let firms off the hook on cleanup bonds despite backlog that will take decades to clear When Christiaan van Woudenberg moved to Erie, Colorado , in 2007, he never imagined he would become an anti-fracking…",
+      "url": "https://www.theguardian.com/us-news/live/2026/jun/02/midterm-primary-election-results-california-iowa-montana-new-jersey-south-dakota-new-mexico-latest-updates",
+      "published": "2026-06-03T04:44:16+00:00",
+      "summary": "All the latest results and updates as New Jersey, South Dakota, New Mexico and Montana also vote in primaries California elections: governor, LA mayor and Congress at stake Iowa: Democrat Josh Turek to face Trump-backed Ashley Hinson in…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
+      "score": 8
     },
     {
-      "title": "Patriot missile shortage has created ‘window of vulnerability’ Russia is exploiting in Ukraine",
-      "source": "The Guardian US",
-      "category": "Security / computing",
-      "url": "https://www.theguardian.com/world/2026/jun/02/patriot-missile-shortage-window-vulnerability-russia-exploiting-ukraine",
-      "published": "2026-06-02T13:26:57+00:00",
-      "summary": "Countries that rely on US-made air defence system feel increasingly exposed as interceptor supplies dwindle Russia is exploiting a critical global shortage of air defence interceptor missiles as it ramps up its airstrikes against Ukraine,…",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 9
-    },
-    {
-      "title": "AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/06/01/nx-s1-5843199/anthropic-ipo-filing-ai-large",
-      "published": "2026-06-01T18:27:28+00:00",
-      "summary": "The Anthropic IPO, and those of other AI-related firms like OpenAI, could be among the biggest in U.S. history.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
+      "title": "Bugs Bunny Returns in Coyote vs. ACME Trailer",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/bugs-bunny-coyote-vs-acme-trailer/",
+      "published": "2026-06-02T18:07:07+00:00",
+      "summary": "The movie found a second life after getting shelved by Warner Bros. The post Bugs Bunny Returns in Coyote vs. ACME Trailer appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     }
   ],
   "youtube": [],
-  "trailers": [],
+  "trailers": [
+    {
+      "title": "Onslaught | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=L24CYVpQ-LI",
+      "published": "2026-06-02T13:00:08+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Adam Wingard and starring Adria Arjona, Alex Pereira, Drew Starkey, Rebecca Hall, Reginald VelJohnson, Michael Biehn, Eric Wareheim and Dan Stevens. ONSLAUGHT – In Theaters September 4.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Primetime | Official Teaser HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Yrfrf53ttYY",
+      "published": "2026-05-27T13:00:08+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "The Death of Robin Hood | Official First Look | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ii1gTLxWukk",
+      "published": "2026-05-20T13:00:19+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Michael Sarnoski and starring Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett and Noah Jupe. THE DEATH OF ROBIN HOOD – In theaters June 19.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -251,7 +285,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 7
+    "trailerCount": 3,
+    "sourceCount": 10
   }
 }
