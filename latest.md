@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-04T05:00:02.591395Z
+Generated: 2026-06-04T09:00:57.311573Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / open models. The strongest items in this run are I launched Cuba’s first independent magazine. And that’s when my troubles began, My year with the robots: how Joanna Stern let AI into her home, work – and heart, and Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM.
+Today's sweep leans toward Democracy / press freedom, Security / computing, Democracy / anti-fascism. The strongest items in this run are Here are our Xbox Game Pass games for June, ‘We have a shared sky and stars’: the Indigenous American artists challenging our relationship to the natural world, and My year with the robots: how Joanna Stern let AI into her home, work – and heart.
 
 ## Briefing
 
@@ -33,16 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. I launched Cuba’s first independent magazine. And that’s when my troubles began [10/10]
-**Source:** The Guardian US  
+### 1. Here are our Xbox Game Pass games for June [10/10]
+**Source:** Eurogamer  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-My friends and I wanted to tell the story of Cuban life, without interference. Before long, I was being isolated, monitored and interrogated A version of this essay was previously published in the Dial under the title The Sneeze .
+Microsoft has revealed the first batch of games coming to its Xbox Game Pass subscription service this June. Read more
 
-Link: https://www.theguardian.com/news/2026/jun/04/cuba-first-independent-magazine-sneeze-troubles-began-state-security
+Link: https://www.eurogamer.net/here-are-our-xbox-game-pass-games-for-june
 
-### 2. My year with the robots: how Joanna Stern let AI into her home, work – and heart [10/10]
+### 2. ‘We have a shared sky and stars’: the Indigenous American artists challenging our relationship to the natural world [10/10]
+**Source:** The Guardian US  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+As the largest display of Native North American art ever seen in Britain arrives in Yorkshire, its artists are asking timely questions about their history, our planet, and humanity’s place within it Hold to This Earth, the largest…
+
+Link: https://www.theguardian.com/artanddesign/2026/jun/04/hold-this-earth-indigenous-american-artists-yorkshire-sculpture-park
+
+### 3. My year with the robots: how Joanna Stern let AI into her home, work – and heart [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -50,15 +59,6 @@ Link: https://www.theguardian.com/news/2026/jun/04/cuba-first-independent-magazi
 In 2025, the tech journalist invited artificial intelligence to do nearly everything for her, including editing the book she was writing about the experiment.
 
 Link: https://www.theguardian.com/technology/2026/jun/04/my-year-with-robots-joanna-stern-ai
-
-### 3. Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM [10/10]
-**Source:** Ars Technica  
-**Category:** AI / open models  
-**Why it matters:** Relevant to local models, open tooling, and hands-on experimentation.
-
-Gemma 4 12B uses a new encoding scheme and token prediction to punch above its weight.
-
-Link: https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/
 
 ### 4. Trump plan to test AI models has a problem—US security teams were gutted by DOGE [10/10]
 **Source:** Ars Technica  
@@ -78,23 +78,23 @@ The insane Meta AI hack; Amazon's internal AI leaderboard; and our lawsuit again
 
 Link: https://www.404media.co/podcast-hackers-asked-meta-ai-to-let-them-in-it-worked/
 
-### 6. What happened when a tiny school district refused to ‘bend the knee’ to Trump and ICE [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 6. ‘Hold the Fort’ Trailer Pits New Homeowners Against an Onslaught of Monsters [9/10]
+**Source:** Bloody Disgusting  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-In Winooski, Vermont, where more than a third of children are English learners, a school superintendent is taking a stand to protect immigrant students On an April morning at Winooski high school, the day started with a writing prompt: Do…
+Sunrise Films has announced the official North American release of William Bagley‘s horror comedy Hold the Fort, and it’s accompanied by an energetic new trailer. Hold the Fort debuts on digital platforms on June 23.
 
-Link: https://www.theguardian.com/us-news/2026/jun/03/vermont-school-district-trump-ice
+Link: https://bloody-disgusting.com/movie/3954613/hold-the-fort-trailer-pits-new-homeowners-against-an-onslaught-of-monsters/
 
-### 7. Demand Is Booming for New No Tech, Repairable Tractor [9/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
+### 7. Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM [9/10]
+**Source:** Ars Technica  
+**Category:** AI / open models  
+**Why it matters:** Relevant to local models, open tooling, and hands-on experimentation.
 
-"There is consumer pressure to back away from technology that is unnecessary to perform everyday tasks."
+Gemma 4 12B uses a new encoding scheme and token prediction to punch above its weight.
 
-Link: https://www.404media.co/demand-is-booming-for-ursa-ag-new-no-tech-repairable-tractor/
+Link: https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/
 
 ### 8. Lego Batman: Legacy of the Dark Knight swoops onto Switch 2 this autumn, and its first major DLC arrives the same day [9/10]
 **Source:** Eurogamer  
@@ -105,7 +105,16 @@ After a bit of a wait, Switch 2 owners can get their hands on Lego Batman: Legac
 
 Link: https://www.eurogamer.net/lego-batman-legacy-of-the-dark-knight-switch-2-release-date
 
-### 9. Opinion: The Lasting Appeal of Homeschooling and Why Families Continue Post-Pandemic [9/10]
+### 9. Oklahoma Eases School Penalties for Chronic Student Absences [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+“Taylor dropped a new album.” “Resting up from my vacay.” “Netflix binge last night.
+
+Link: https://www.the74million.org/article/oklahoma-schools-have-a-chronic-absenteeism-problem-now-it-will-no-longer-count-against-them/
+
+### 10. Opinion: The Lasting Appeal of Homeschooling and Why Families Continue Post-Pandemic [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -114,32 +123,23 @@ When schools abruptly closed their doors at the onset of the COVID-19 pandemic i
 
 Link: https://www.the74million.org/article/the-lasting-appeal-of-homeschooling-and-why-families-continue-post-pandemic/
 
-### 10. Trump signs order requesting AI companies submit products for government review [9/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-President Trump is asking artificial intelligence firms to submit new models for government review. NPR's Leila Fadel speaks to Alondra Nelson, who worked on AI policy in the Biden administration.
-
-Link: https://www.npr.org/2026/06/03/nx-s1-5844558/trump-signs-order-requesting-ai-companies-submit-products-for-government-review
-
-### 11. Ultraprocessed foods are the new Tobacco War [8/10]
+### 11. With World Cup set to begin, public health officials hope to defend against germs [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Research published in the American Journal of Public Health details the connection between ultra processed foods and the tobacco industry when it comes to production, strategy and marketing.
+The World Cup gets underway next week and millions will pack huge stadiums to watch. Public health officials will be watching too, only they're looking for germs that could spread at these matches!
 
-Link: https://www.npr.org/2026/06/03/nx-s1-5839189/ultraprocessed-foods-are-the-new-tobacco-war
+Link: https://www.npr.org/2026/06/04/nx-s1-5844325/with-world-cup-set-to-begin-public-health-officials-hope-to-defend-against-germs
 
-### 12. The Dog Is Still in Danger in Final Supergirl Trailer [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+### 12. Demand Is Booming for New No Tech, Repairable Tractor [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-We also get more of Jason Momoa's Lobo The post The Dog Is Still in Danger in Final Supergirl Trailer appeared first on Reactor .
+"There is consumer pressure to back away from technology that is unnecessary to perform everyday tasks."
 
-Link: https://reactormag.com/final-supergirl-trailer/
+Link: https://www.404media.co/demand-is-booming-for-ursa-ag-new-no-tech-repairable-tractor/
 
 ### 13. How to make homemade pizza: a beginner’s guide : From pizza dough recipes to top tools and expert instruction, we have everything you need to make pizza at home. [7/10]
 **Source:** King Arthur Baking  
@@ -152,9 +152,72 @@ Link: https://www.kingarthurbaking.com/blog/2026/06/03/how-to-make-homemade-pizz
 
 ## YouTube
 
-### Bestselling author Ann Patchett on if she's considering retirement [8/10]
-**Creator:** NPR  
+### Meet the AI "Co-Scientist" Changing Everything 🤖🧪 #ai [8/10]
+**Creator:** Two Minute Papers  
 **Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Meet the AI "Co-Scientist" Changing Everything 🤖🧪 #ai
+
+Link: https://www.youtube.com/watch?v=iz7elwbqZVI
+
+### Claude Opus 4.8: Lying Machine No More? [8/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Anthropic's Opus 4.8: https://www.anthropic.
+
+Link: https://www.youtube.com/watch?v=ypL7kUiw_LM
+
+### A Second Nobel Prize for AlphaFold? 🧬🏆 #alphafold #deepmind #nobelprize #science #ai [7/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Check the pinned comment for the link to the full interview. We're discussing whether a "second order Nobel" prize is on the horizon for AI-driven science.
+
+Link: https://www.youtube.com/watch?v=MOviZKtFeHM
+
+### What Happens After A 1,000,000x AI Compute Leap? | Jeff Dean [8/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Thank you to Google for the invite! 🙏 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.
+
+Link: https://www.youtube.com/watch?v=yz6I23VRbdg
+
+### Why Is Grogu Still A Baby? [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Grogu is 50 years old. Grogu is a baby. These things are not mutually exclusive. Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.
+
+Link: https://www.youtube.com/watch?v=pdxAMyfC41o
+
+### 'Scary Movie' Cast Answer The 50 Most Searched Scary Movie Questions [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+WIRED tasks Anna Faris, Marlon Wayans and Shawn Wayans to answer the 50 most searched _Scary Movie_ questions. Watch more from WIRED | 50 Most Searched: https://youtube.
+
+Link: https://www.youtube.com/watch?v=zGdqYOCR-2M
+
+### Tom Scott Answers Content Creator Questions | Tech Support | WIRED [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+YouTuber Tom Scott joins WIRED to answer the internet’s burning content creator and YouTube strategy questions.
+
+Link: https://www.youtube.com/watch?v=bx6_jj9RxhI
+
+### Bestselling author Ann Patchett on if she's considering retirement [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Several of the characters in Ann Patchett's latest novel "Whistler" are nearing or have reached retirement. They tour museums during the week, host brunches and take afternoon sails.
@@ -170,9 +233,9 @@ Federal investigators are examining the prediction market trades of former New Y
 
 Link: https://www.youtube.com/watch?v=Gy7DQtIf9e0
 
-### The U.S. Embassy in India launched Trump-themed rickshaws to mark America's 250th birthday [7/10]
+### The U.S. Embassy in India launched Trump-themed rickshaws to mark America's 250th birthday [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 Delhi's rickshaws are plying the roads with a new message: "HAPPY BIRTHDAY AMERICA" emblazoned with Trump's face. Drivers were offered sweeteners to host the signs: tea bags, soda, and an empty plastic bottle.
@@ -214,6 +277,78 @@ Link: https://www.youtube.com/watch?v=m0Pk5XnIlBE
 Shenzhen is China’s tech capital—headquarters of Huawei, BYD and Tencent among others. It also has exceedingly crowded urban villages, which reveal the city’s very short history. In 1980 no city existed here at all, just farms and villages.
 
 Link: https://www.youtube.com/watch?v=D82dZoLjOVI
+
+### Did Any UE5 Shipping Games Match The Quality Of The Matrix Awakens? [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://www.youtube.com/watch?v=jRfDuHfSCrE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=rbzSlRfu8tQ
+
+### Why Our Xbox 007 First Light Review Is Late [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=2BvTx671_z8
+
+### Is RTX 4090 Destined To Become A "Fine Wine" GPU Legend? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://www.youtube.com/watch?v=jRfDuHfSCrE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=vIRPQ5JNMz4
+
+### 007 First Light Launches With Big DLSS/FSR Upscaling Issues [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=IXVPwiccY8I
+
+### Shocking Steam Deck Price Increases: What Does It Mean For Steam Machine? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=w8N-lllVcoU
+
+### Doom 2016 Tenth Anniversary - The Game That Put id Software Back On The Map [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=0a1wH_IYcHQ
+
+### Is Declining Software Quality To Blame For Sony Moving Away From PC? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://www.youtube.com/watch?v=jRfDuHfSCrE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=8W8JyhGJD9U
+
+### Steam: Monopolies Are A Bad Thing, So Why Does Valve Get A Pass? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://www.youtube.com/watch?v=jRfDuHfSCrE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=mX_Q7Zq1h9o
 
 ### Yahtzee Tries... Better Than Dead and Stonemachia [7/10]
 **Creator:** Second Wind  
@@ -306,6 +441,96 @@ Link: https://www.youtube.com/watch?v=h08TDgpzJAY
 - **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
 
 ## Trailers / Previews
+
+### RESIDENT EVIL – Zach Cregger on Survival Horror [9/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.
+
+Link: https://www.youtube.com/watch?v=N_KDtokTO1c
+
+### RESIDENT EVIL - Zach Cregger on Survival Horror [9/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.
+
+Link: https://www.youtube.com/watch?v=5gR1GTJPGqQ
+
+### TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY (2006) - 20th Anniversary - Official Trailer (HD) [7/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+If you ain't first, you're last. 🏁 Ricky Bobby returns to the big screen. #TalladegaNights is back in theatres June 28, June 30, and July 1.
+
+Link: https://www.youtube.com/watch?v=A0fgugC7ZCo
+
+### Onslaught | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From director Adam Wingard and starring Adria Arjona, Alex Pereira, Drew Starkey, Rebecca Hall, Reginald VelJohnson, Michael Biehn, Eric Wareheim and Dan Stevens. ONSLAUGHT – In Theaters September 4.
+
+Link: https://www.youtube.com/watch?v=L24CYVpQ-LI
+
+### Primetime | Official Teaser HD | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Coming Soon.
+
+Link: https://www.youtube.com/watch?v=Yrfrf53ttYY
+
+### The Death of Robin Hood | Official First Look | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Michael Sarnoski and starring Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett and Noah Jupe. THE DEATH OF ROBIN HOOD – In theaters June 19.
+
+Link: https://www.youtube.com/watch?v=ii1gTLxWukk
+
+### HER PRIVATE HELL - Official Teaser - In Theaters July 24 [6/10]
+**Source:** NEON  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.
+
+Link: https://www.youtube.com/watch?v=iWqST_E9u_Q
+
+### Built Different: Curry Barker on Supernatural Horror [10/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Supernatural horror is a window into another nightmarish world. Curry Barker explains why we're all drawn in, and how Obsession goes even deeper GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
+
+Link: https://www.youtube.com/watch?v=ZpeiXao2MS4
+
+### Built Different: Lee Cronin on Gore [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+It takes blood, guts, and heart to make a Gore horror movie. Lee Cronin unpacks the brutal horror subgenre. This is how he defines Gore, disrupts it, and takes it even further in Lee Cronin’s The Mummy.
+
+Link: https://www.youtube.com/watch?v=NSilsgp90jE
+
+### Strung | Official Trailer [10/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.
+
+Link: https://www.youtube.com/watch?v=sEz074LTiV8
 
 ### Oasis | Official Trailer | Netflix [9/10]
 **Source:** Netflix  

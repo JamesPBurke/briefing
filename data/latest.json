@@ -1,19 +1,29 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-04T05:00:02.591395Z",
-  "generatedAtDisplay": "2026-06-04 01:00 AM EDT",
+  "generatedAt": "2026-06-04T09:00:57.311573Z",
+  "generatedAtDisplay": "2026-06-04 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / open models. The strongest items in this run are I launched Cuba’s first independent magazine. And that’s when my troubles began, My year with the robots: how Joanna Stern let AI into her home, work – and heart, and Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Security / computing, Democracy / anti-fascism. The strongest items in this run are Here are our Xbox Game Pass games for June, ‘We have a shared sky and stars’: the Indigenous American artists challenging our relationship to the natural world, and My year with the robots: how Joanna Stern let AI into her home, work – and heart.",
   "mainItems": [
     {
-      "title": "I launched Cuba’s first independent magazine. And that’s when my troubles began",
-      "source": "The Guardian US",
+      "title": "Here are our Xbox Game Pass games for June",
+      "source": "Eurogamer",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/news/2026/jun/04/cuba-first-independent-magazine-sneeze-troubles-began-state-security",
-      "published": "2026-06-04T04:00:25+00:00",
-      "summary": "My friends and I wanted to tell the story of Cuban life, without interference. Before long, I was being isolated, monitored and interrogated A version of this essay was previously published in the Dial under the title The Sneeze .",
+      "url": "https://www.eurogamer.net/here-are-our-xbox-game-pass-games-for-june",
+      "published": "2026-06-04T08:17:17+00:00",
+      "summary": "Microsoft has revealed the first batch of games coming to its Xbox Game Pass subscription service this June. Read more",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘We have a shared sky and stars’: the Indigenous American artists challenging our relationship to the natural world",
+      "source": "The Guardian US",
+      "category": "Security / computing",
+      "url": "https://www.theguardian.com/artanddesign/2026/jun/04/hold-this-earth-indigenous-american-artists-yorkshire-sculpture-park",
+      "published": "2026-06-04T07:00:29+00:00",
+      "summary": "As the largest display of Native North American art ever seen in Britain arrives in Yorkshire, its artists are asking timely questions about their history, our planet, and humanity’s place within it Hold to This Earth, the largest…",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 10
     },
     {
@@ -24,16 +34,6 @@
       "published": "2026-06-04T04:00:25+00:00",
       "summary": "In 2025, the tech journalist invited artificial intelligence to do nearly everything for her, including editing the book she was writing about the experiment.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
-      "source": "Ars Technica",
-      "category": "AI / open models",
-      "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-      "published": "2026-06-03T19:10:03+00:00",
-      "summary": "Gemma 4 12B uses a new encoding scheme and token prediction to punch above its weight.",
-      "whyItMatters": "Relevant to local models, open tooling, and hands-on experimentation.",
       "score": 10
     },
     {
@@ -57,23 +57,23 @@
       "score": 10
     },
     {
-      "title": "What happened when a tiny school district refused to ‘bend the knee’ to Trump and ICE",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/jun/03/vermont-school-district-trump-ice",
-      "published": "2026-06-03T12:00:05+00:00",
-      "summary": "In Winooski, Vermont, where more than a third of children are English learners, a school superintendent is taking a stand to protect immigrant students On an April morning at Winooski high school, the day started with a writing prompt: Do…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "title": "‘Hold the Fort’ Trailer Pits New Homeowners Against an Onslaught of Monsters",
+      "source": "Bloody Disgusting",
+      "category": "Sci-fi / horror",
+      "url": "https://bloody-disgusting.com/movie/3954613/hold-the-fort-trailer-pits-new-homeowners-against-an-onslaught-of-monsters/",
+      "published": "2026-06-03T20:24:43+00:00",
+      "summary": "Sunrise Films has announced the official North American release of William Bagley‘s horror comedy Hold the Fort, and it’s accompanied by an energetic new trailer. Hold the Fort debuts on digital platforms on June 23.",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 9
     },
     {
-      "title": "Demand Is Booming for New No Tech, Repairable Tractor",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/demand-is-booming-for-ursa-ag-new-no-tech-repairable-tractor/",
-      "published": "2026-06-03T18:07:10+00:00",
-      "summary": "\"There is consumer pressure to back away from technology that is unnecessary to perform everyday tasks.\"",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
+      "source": "Ars Technica",
+      "category": "AI / open models",
+      "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
+      "published": "2026-06-03T19:10:03+00:00",
+      "summary": "Gemma 4 12B uses a new encoding scheme and token prediction to punch above its weight.",
+      "whyItMatters": "Relevant to local models, open tooling, and hands-on experimentation.",
       "score": 9
     },
     {
@@ -87,6 +87,16 @@
       "score": 9
     },
     {
+      "title": "Oklahoma Eases School Penalties for Chronic Student Absences",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/oklahoma-schools-have-a-chronic-absenteeism-problem-now-it-will-no-longer-count-against-them/",
+      "published": "2026-06-03T14:30:00+00:00",
+      "summary": "“Taylor dropped a new album.” “Resting up from my vacay.” “Netflix binge last night.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 9
+    },
+    {
       "title": "Opinion: The Lasting Appeal of Homeschooling and Why Families Continue Post-Pandemic",
       "source": "The 74",
       "category": "Education / pedagogy",
@@ -97,33 +107,23 @@
       "score": 9
     },
     {
-      "title": "Trump signs order requesting AI companies submit products for government review",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/06/03/nx-s1-5844558/trump-signs-order-requesting-ai-companies-submit-products-for-government-review",
-      "published": "2026-06-03T08:39:31+00:00",
-      "summary": "President Trump is asking artificial intelligence firms to submit new models for government review. NPR's Leila Fadel speaks to Alondra Nelson, who worked on AI policy in the Biden administration.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
-    },
-    {
-      "title": "Ultraprocessed foods are the new Tobacco War",
+      "title": "With World Cup set to begin, public health officials hope to defend against germs",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/03/nx-s1-5839189/ultraprocessed-foods-are-the-new-tobacco-war",
-      "published": "2026-06-03T19:51:25+00:00",
-      "summary": "Research published in the American Journal of Public Health details the connection between ultra processed foods and the tobacco industry when it comes to production, strategy and marketing.",
+      "url": "https://www.npr.org/2026/06/04/nx-s1-5844325/with-world-cup-set-to-begin-public-health-officials-hope-to-defend-against-germs",
+      "published": "2026-06-04T08:39:04+00:00",
+      "summary": "The World Cup gets underway next week and millions will pack huge stadiums to watch. Public health officials will be watching too, only they're looking for germs that could spread at these matches!",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "The Dog Is Still in Danger in Final Supergirl Trailer",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/final-supergirl-trailer/",
-      "published": "2026-06-03T17:49:54+00:00",
-      "summary": "We also get more of Jason Momoa's Lobo The post The Dog Is Still in Danger in Final Supergirl Trailer appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "title": "Demand Is Booming for New No Tech, Repairable Tractor",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/demand-is-booming-for-ursa-ag-new-no-tech-repairable-tractor/",
+      "published": "2026-06-03T18:07:10+00:00",
+      "summary": "\"There is consumer pressure to back away from technology that is unnecessary to perform everyday tasks.\"",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -139,6 +139,83 @@
   ],
   "youtube": [
     {
+      "title": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=iz7elwbqZVI",
+      "published": "2026-06-03T17:00:19+00:00",
+      "summary": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Claude Opus 4.8: Lying Machine No More?",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=ypL7kUiw_LM",
+      "published": "2026-06-03T13:49:31+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Anthropic's Opus 4.8: https://www.anthropic.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "A Second Nobel Prize for AlphaFold? 🧬🏆 #alphafold #deepmind #nobelprize #science #ai",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=MOviZKtFeHM",
+      "published": "2026-06-02T07:13:59+00:00",
+      "summary": "Check the pinned comment for the link to the full interview. We're discussing whether a \"second order Nobel\" prize is on the horizon for AI-driven science.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "What Happens After A 1,000,000x AI Compute Leap? | Jeff Dean",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=yz6I23VRbdg",
+      "published": "2026-06-01T15:41:22+00:00",
+      "summary": "Thank you to Google for the invite! 🙏 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Why Is Grogu Still A Baby?",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=pdxAMyfC41o",
+      "published": "2026-06-03T19:00:05+00:00",
+      "summary": "Grogu is 50 years old. Grogu is a baby. These things are not mutually exclusive. Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "'Scary Movie' Cast Answer The 50 Most Searched Scary Movie Questions",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=zGdqYOCR-2M",
+      "published": "2026-06-03T16:00:08+00:00",
+      "summary": "WIRED tasks Anna Faris, Marlon Wayans and Shawn Wayans to answer the 50 most searched _Scary Movie_ questions. Watch more from WIRED | 50 Most Searched: https://youtube.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Tom Scott Answers Content Creator Questions | Tech Support | WIRED",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=bx6_jj9RxhI",
+      "published": "2026-06-02T19:00:03+00:00",
+      "summary": "YouTuber Tom Scott joins WIRED to answer the internet’s burning content creator and YouTube strategy questions.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "Bestselling author Ann Patchett on if she's considering retirement",
       "source": "NPR",
       "category": "News / analysis",
@@ -146,8 +223,8 @@
       "published": "2026-06-03T19:00:25+00:00",
       "summary": "Several of the characters in Ann Patchett's latest novel \"Whistler\" are nearing or have reached retirement. They tour museums during the week, host brunches and take afternoon sails.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "DOJ investigating former Congressman George Santos for insider trading on Kalshi",
@@ -168,8 +245,8 @@
       "published": "2026-06-03T18:00:21+00:00",
       "summary": "Delhi's rickshaws are plying the roads with a new message: \"HAPPY BIRTHDAY AMERICA\" emblazoned with Trump's face. Drivers were offered sweeteners to host the signs: tea bags, soda, and an empty plastic bottle.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "New York Times correspondent Yeganeh Torbati speaks on the tension and hope in Iran",
@@ -212,6 +289,94 @@
       "published": "2026-06-03T15:30:37+00:00",
       "summary": "Shenzhen is China’s tech capital—headquarters of Huawei, BYD and Tencent among others. It also has exceedingly crowded urban villages, which reveal the city’s very short history. In 1980 no city existed here at all, just farms and villages.",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Did Any UE5 Shipping Games Match The Quality Of The Matrix Awakens?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=rbzSlRfu8tQ",
+      "published": "2026-06-03T18:00:14+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://www.youtube.com/watch?v=jRfDuHfSCrE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Why Our Xbox 007 First Light Review Is Late",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=2BvTx671_z8",
+      "published": "2026-06-03T16:00:31+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Is RTX 4090 Destined To Become A \"Fine Wine\" GPU Legend?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=vIRPQ5JNMz4",
+      "published": "2026-06-02T18:00:03+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://www.youtube.com/watch?v=jRfDuHfSCrE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "007 First Light Launches With Big DLSS/FSR Upscaling Issues",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=IXVPwiccY8I",
+      "published": "2026-06-02T17:00:24+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Shocking Steam Deck Price Increases: What Does It Mean For Steam Machine?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=w8N-lllVcoU",
+      "published": "2026-06-02T16:00:35+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Doom 2016 Tenth Anniversary - The Game That Put id Software Back On The Map",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=0a1wH_IYcHQ",
+      "published": "2026-06-01T18:00:38+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Is Declining Software Quality To Blame For Sony Moving Away From PC?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=8W8JyhGJD9U",
+      "published": "2026-06-01T17:00:13+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://www.youtube.com/watch?v=jRfDuHfSCrE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Steam: Monopolies Are A Bad Thing, So Why Does Valve Get A Pass?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=mX_Q7Zq1h9o",
+      "published": "2026-06-01T16:00:20+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://www.youtube.com/watch?v=jRfDuHfSCrE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 6,
       "verdict": "Summary is enough"
     },
@@ -294,6 +459,116 @@
     }
   ],
   "trailers": [
+    {
+      "title": "RESIDENT EVIL – Zach Cregger on Survival Horror",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=N_KDtokTO1c",
+      "published": "2026-05-21T16:18:37+00:00",
+      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RESIDENT EVIL - Zach Cregger on Survival Horror",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=5gR1GTJPGqQ",
+      "published": "2026-05-21T16:00:09+00:00",
+      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY (2006) - 20th Anniversary - Official Trailer (HD)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=A0fgugC7ZCo",
+      "published": "2026-05-20T16:46:15+00:00",
+      "summary": "If you ain't first, you're last. 🏁 Ricky Bobby returns to the big screen. #TalladegaNights is back in theatres June 28, June 30, and July 1.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Onslaught | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=L24CYVpQ-LI",
+      "published": "2026-06-02T13:00:08+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Adam Wingard and starring Adria Arjona, Alex Pereira, Drew Starkey, Rebecca Hall, Reginald VelJohnson, Michael Biehn, Eric Wareheim and Dan Stevens. ONSLAUGHT – In Theaters September 4.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Primetime | Official Teaser HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Yrfrf53ttYY",
+      "published": "2026-05-27T13:00:08+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "The Death of Robin Hood | Official First Look | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ii1gTLxWukk",
+      "published": "2026-05-20T13:00:19+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Michael Sarnoski and starring Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett and Noah Jupe. THE DEATH OF ROBIN HOOD – In theaters June 19.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "HER PRIVATE HELL - Official Teaser - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=iWqST_E9u_Q",
+      "published": "2026-05-18T14:00:27+00:00",
+      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Built Different: Curry Barker on Supernatural Horror",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ZpeiXao2MS4",
+      "published": "2026-05-26T18:01:01+00:00",
+      "summary": "Supernatural horror is a window into another nightmarish world. Curry Barker explains why we're all drawn in, and how Obsession goes even deeper GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Built Different: Lee Cronin on Gore",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=NSilsgp90jE",
+      "published": "2026-05-22T18:37:15+00:00",
+      "summary": "It takes blood, guts, and heart to make a Gore horror movie. Lee Cronin unpacks the brutal horror subgenre. This is how he defines Gore, disrupts it, and takes it even further in Lee Cronin’s The Mummy.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Strung | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=sEz074LTiV8",
+      "published": "2026-05-20T16:30:28+00:00",
+      "summary": "Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
     {
       "title": "Oasis | Official Trailer | Netflix",
       "source": "Netflix",
@@ -516,8 +791,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 14,
-    "trailerCount": 10,
-    "sourceCount": 12
+    "youtubeCount": 29,
+    "trailerCount": 20,
+    "sourceCount": 18
   }
 }
