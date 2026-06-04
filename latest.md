@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-04T09:00:57.311573Z
+Generated: 2026-06-04T14:00:02.166496Z
 
-Today's sweep leans toward Democracy / press freedom, Security / computing, Democracy / anti-fascism. The strongest items in this run are Here are our Xbox Game Pass games for June, ‘We have a shared sky and stars’: the Indigenous American artists challenging our relationship to the natural world, and My year with the robots: how Joanna Stern let AI into her home, work – and heart.
+Today's sweep leans toward Games / criticism, CS education / AI policy, AI / computing. The strongest items in this run are Marvel's Wolverine is a more linear game than Spider-Man - don't expect a city to explore or a base to nose around in, Opinion: First-Generation Student’s Journey From ‘Stain on the Carpet’ to Honors Grad, and AI leaders call for tougher protections against AI-aided bioweapons.
 
 ## Briefing
 
@@ -33,25 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Here are our Xbox Game Pass games for June [10/10]
+### 1. Marvel's Wolverine is a more linear game than Spider-Man - don't expect a city to explore or a base to nose around in [10/10]
 **Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+It sounds as though developer Insomniac's Wolverine game is far narrower in scope than its Spider-Man games.
+
+Link: https://www.eurogamer.net/marvels-wolverine-city-explore-base-length
+
+### 2. Opinion: First-Generation Student’s Journey From ‘Stain on the Carpet’ to Honors Grad [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+This story is part of our SPOTLIGHT series focusing on the state of education in Oklahoma. Read all our coverage and essays here. “Blah blah blah.
+
+Link: https://www.the74million.org/article/first-generation-students-journey-from-stain-on-the-carpet-to-honors-grad/
+
+### 3. AI leaders call for tougher protections against AI-aided bioweapons [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress
+
+### 4. The Download: AI-generated lawsuits and virtual power plants for data centers [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/
+
+### 5. Witcher devs' Project Hadar will make you feel all of the open-world emotions, a new job ad suggests, though sorry it still isn't a cosmic Japanese horror game [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+They might have proven they deal in secret extra DLC for decade-old RPG s this year, but for my money, Project Hadar remains the most mysterious game CD Projekt have in the works.
+
+Link: https://www.rockpapershotgun.com/witcher-devs-project-hadar-will-make-you-feel-all-of-the-open-world-emotions-a-new-job-ad-suggests-though-sorry-it-still-isnt-a-cosmic-japanese-horror-game
+
+### 6. At this Ohio High School, Students Can Skip Lectures and Work On Their Own [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Letting students decide how they learn is almost as important a goal of Mayfield High School near Cleveland as learning itself. The school lets students skip traditional classrooms and lectures if they don’t fit how a student learns best.
+
+Link: https://www.the74million.org/article/at-this-ohio-high-school-students-can-skip-lectures-and-work-on-their-own/
+
+### 7. Tense governor’s race in California unsettled as vote-counting continues [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Microsoft has revealed the first batch of games coming to its Xbox Game Pass subscription service this June. Read more
+State election officials continue to sift through uncounted primary ballots, which could take days or even weeks The California governor’s race remained unsettled Thursday, as state election officials continued to sift through uncounted…
 
-Link: https://www.eurogamer.net/here-are-our-xbox-game-pass-games-for-june
+Link: https://www.theguardian.com/us-news/2026/jun/04/california-governors-race
 
-### 2. ‘We have a shared sky and stars’: the Indigenous American artists challenging our relationship to the natural world [10/10]
-**Source:** The Guardian US  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+### 8. Screens are leaving schools fast, though some students with disabilities rely on them [10/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-As the largest display of Native North American art ever seen in Britain arrives in Yorkshire, its artists are asking timely questions about their history, our planet, and humanity’s place within it Hold to This Earth, the largest…
+Some students with disabilities rely on assistive technology to learn, and they worry it could be swept up in the movement to get screens out of schools.
 
-Link: https://www.theguardian.com/artanddesign/2026/jun/04/hold-this-earth-indigenous-american-artists-yorkshire-sculpture-park
+Link: https://www.npr.org/2026/06/04/nx-s1-5812850/screens-schools-students-with-disabilities
 
-### 3. My year with the robots: how Joanna Stern let AI into her home, work – and heart [10/10]
+### 9. My year with the robots: how Joanna Stern let AI into her home, work – and heart [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -60,34 +114,16 @@ In 2025, the tech journalist invited artificial intelligence to do nearly everyt
 
 Link: https://www.theguardian.com/technology/2026/jun/04/my-year-with-robots-joanna-stern-ai
 
-### 4. Trump plan to test AI models has a problem—US security teams were gutted by DOGE [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Critics say Trump plan to test AI models is short-sighted, performative.
-
-Link: https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/
-
-### 5. Podcast: Hackers Asked Meta AI To Let Them In. It Worked [10/10]
+### 10. Google Employees Internally Share Memes About How Its AI Sucks [9/10]
 **Source:** 404 Media  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-The insane Meta AI hack; Amazon's internal AI leaderboard; and our lawsuit against ICE.
+Google’s CEO says 75% of the company’s code is AI-generated. The people who write that code say the AI they’re using is overhyped.
 
-Link: https://www.404media.co/podcast-hackers-asked-meta-ai-to-let-them-in-it-worked/
+Link: https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/
 
-### 6. ‘Hold the Fort’ Trailer Pits New Homeowners Against an Onslaught of Monsters [9/10]
-**Source:** Bloody Disgusting  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Sunrise Films has announced the official North American release of William Bagley‘s horror comedy Hold the Fort, and it’s accompanied by an energetic new trailer. Hold the Fort debuts on digital platforms on June 23.
-
-Link: https://bloody-disgusting.com/movie/3954613/hold-the-fort-trailer-pits-new-homeowners-against-an-onslaught-of-monsters/
-
-### 7. Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM [9/10]
+### 11. Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM [9/10]
 **Source:** Ars Technica  
 **Category:** AI / open models  
 **Why it matters:** Relevant to local models, open tooling, and hands-on experimentation.
@@ -96,59 +132,23 @@ Gemma 4 12B uses a new encoding scheme and token prediction to punch above its w
 
 Link: https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/
 
-### 8. Lego Batman: Legacy of the Dark Knight swoops onto Switch 2 this autumn, and its first major DLC arrives the same day [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 12. A handful of American households pay for AI. Is the future free — or a subscription? [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-After a bit of a wait, Switch 2 owners can get their hands on Lego Batman: Legacy of the Dark Knight this autumn, publisher Warner Bros. has announced, as it joins the many other games arriving in September . Read more
+Just 3% of U.S. households pay for AI for personal use. Sign ups are growing — even though Americans have subscription fatigue.
 
-Link: https://www.eurogamer.net/lego-batman-legacy-of-the-dark-knight-switch-2-release-date
+Link: https://www.npr.org/2026/06/04/nx-s1-5791661/chatgpt-gemini-claude-subscription-revenue-openai
 
-### 9. Oklahoma Eases School Penalties for Chronic Student Absences [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 13. The Dog Is Still in Danger in Final Supergirl Trailer [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-“Taylor dropped a new album.” “Resting up from my vacay.” “Netflix binge last night.
+We also get more of Jason Momoa's Lobo The post The Dog Is Still in Danger in Final Supergirl Trailer appeared first on Reactor .
 
-Link: https://www.the74million.org/article/oklahoma-schools-have-a-chronic-absenteeism-problem-now-it-will-no-longer-count-against-them/
-
-### 10. Opinion: The Lasting Appeal of Homeschooling and Why Families Continue Post-Pandemic [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-When schools abruptly closed their doors at the onset of the COVID-19 pandemic in the spring of 2020, millions of students unexpectedly started learning at home, with or without the help of Zoom lessons.
-
-Link: https://www.the74million.org/article/the-lasting-appeal-of-homeschooling-and-why-families-continue-post-pandemic/
-
-### 11. With World Cup set to begin, public health officials hope to defend against germs [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The World Cup gets underway next week and millions will pack huge stadiums to watch. Public health officials will be watching too, only they're looking for germs that could spread at these matches!
-
-Link: https://www.npr.org/2026/06/04/nx-s1-5844325/with-world-cup-set-to-begin-public-health-officials-hope-to-defend-against-germs
-
-### 12. Demand Is Booming for New No Tech, Repairable Tractor [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-"There is consumer pressure to back away from technology that is unnecessary to perform everyday tasks."
-
-Link: https://www.404media.co/demand-is-booming-for-ursa-ag-new-no-tech-repairable-tractor/
-
-### 13. How to make homemade pizza: a beginner’s guide : From pizza dough recipes to top tools and expert instruction, we have everything you need to make pizza at home. [7/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-Why make homemade pizza when a hot pie is just a phone call (or app swipe) away? For one, it’s more affordable .
-
-Link: https://www.kingarthurbaking.com/blog/2026/06/03/how-to-make-homemade-pizza
+Link: https://reactormag.com/final-supergirl-trailer/
 
 ## YouTube
 
@@ -161,9 +161,9 @@ Meet the AI "Co-Scientist" Changing Everything 🤖🧪 #ai
 
 Link: https://www.youtube.com/watch?v=iz7elwbqZVI
 
-### Claude Opus 4.8: Lying Machine No More? [8/10]
+### Claude Opus 4.8: Lying Machine No More? [7/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Anthropic's Opus 4.8: https://www.anthropic.
@@ -187,6 +187,15 @@ Link: https://www.youtube.com/watch?v=MOviZKtFeHM
 Thank you to Google for the invite! 🙏 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.
 
 Link: https://www.youtube.com/watch?v=yz6I23VRbdg
+
+### Fuzzing Programs to Find Bugs - Computerphile [8/10]
+**Creator:** Computerphile  
+**Verdict:** Worth watching  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Fuzzing is a technique to find programming bugs by testing with random inputs - but there are smarter ways to go about it! Professor Alastair F Donaldson leads the Multicore Programming research group at Imperial College.
+
+Link: https://www.youtube.com/watch?v=kaD54VXxGrI
 
 ### Why Is Grogu Still A Baby? [7/10]
 **Creator:** WIRED  
@@ -350,9 +359,9 @@ Link: https://www.youtube.com/watch?v=8W8JyhGJD9U
 
 Link: https://www.youtube.com/watch?v=mX_Q7Zq1h9o
 
-### Yahtzee Tries... Better Than Dead and Stonemachia [7/10]
+### Yahtzee Tries... Better Than Dead and Stonemachia [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Yahtzee Tries... Yahtzee and JM8 try out Better Than Dead and Stonemachia. Better Than Dead -- https://store.steampowered.com/app/2599690/Better_Than_Dead/ Stonemachia -- https://store.steampowered.
@@ -468,6 +477,15 @@ Link: https://www.youtube.com/watch?v=5gR1GTJPGqQ
 If you ain't first, you're last. 🏁 Ricky Bobby returns to the big screen. #TalladegaNights is back in theatres June 28, June 30, and July 1.
 
 Link: https://www.youtube.com/watch?v=A0fgugC7ZCo
+
+### The Invite | Official Trailer 2 HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.
+
+Link: https://www.youtube.com/watch?v=nelkiuezJxg
 
 ### Onslaught | Official Trailer HD | A24 [8/10]
 **Source:** A24  
