@@ -1,19 +1,69 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-04T14:00:02.166496Z",
-  "generatedAtDisplay": "2026-06-04 10:00 AM EDT",
+  "generatedAt": "2026-06-04T18:02:01.833765Z",
+  "generatedAtDisplay": "2026-06-04 02:02 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Games / criticism, CS education / AI policy, AI / computing. The strongest items in this run are Marvel's Wolverine is a more linear game than Spider-Man - don't expect a city to explore or a base to nose around in, Opinion: First-Generation Student’s Journey From ‘Stain on the Carpet’ to Honors Grad, and AI leaders call for tougher protections against AI-aided bioweapons.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Tense governor’s race in California unsettled as vote-counting continues, John Bolton will reportedly plead guilty over mishandling classified documents, and Republicans urge investigation into two men accused of abuse by Epstein assistant.",
   "mainItems": [
     {
-      "title": "Marvel's Wolverine is a more linear game than Spider-Man - don't expect a city to explore or a base to nose around in",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/marvels-wolverine-city-explore-base-length",
-      "published": "2026-06-04T12:38:46+00:00",
-      "summary": "It sounds as though developer Insomniac's Wolverine game is far narrower in scope than its Spider-Man games.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Tense governor’s race in California unsettled as vote-counting continues",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jun/04/california-governors-race",
+      "published": "2026-06-04T17:36:09+00:00",
+      "summary": "State election officials continue to sift through uncounted primary ballots, which could take days or even weeks The California governor’s race remained unsettled Thursday, as state election officials continued to sift through uncounted…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "John Bolton will reportedly plead guilty over mishandling classified documents",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jun/04/john-bolton-pleads-guilty-classified-documents",
+      "published": "2026-06-04T17:10:03+00:00",
+      "summary": "Justice department filed charges against Trump’s former adviser in 2025 as part of onslaught against president’s critics US politics live – latest updates Sign up for the Breaking News US newsletter email John Bolton, the former US…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Republicans urge investigation into two men accused of abuse by Epstein assistant",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jun/04/republicans-doj-epstein-assistant-abuse-allegations",
+      "published": "2026-06-04T17:00:52+00:00",
+      "summary": "Hair stylist Frédéric Fekkai and ex-Miami Beach mayor Philip Levine accused in new testimony, lawmakers reveal Republican lawmakers have asked the Department of Justice to investigate sexual assault allegations involving two men made by…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Report: Tennessee Students Have Nearly Returned to Pre-COVID Math Achievement",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/report-tennessee-students-have-nearly-returned-to-pre-covid-math-achievement/",
+      "published": "2026-06-04T16:30:00+00:00",
+      "summary": "Tennessee students have nearly returned to pre-pandemic achievement levels in math and have also made significant improvements in reading, according to a recent report that charts how well schools have recovered from harmful closures.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Trump claims without proof Democrats are ‘trying to steal’ California primaries",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jun/04/trump-california-democrats-primaries",
+      "published": "2026-06-04T15:17:42+00:00",
+      "summary": "US president alleges there is ‘big cheating’ in elections for governor and Los Angeles mayor as results are pending Donald Trump has alleged without evidence that Democrats are cheating in California ’s primaries and claimed in a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "My SSN was exposed in a breach at Columbia—a school I have no connection with",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/tech-policy/2026/06/my-ssn-was-exposed-in-a-breach-at-columbia-a-school-i-have-no-connection-with/",
+      "published": "2026-06-04T13:48:51+00:00",
+      "summary": "Columbia admits last year’s data breach exposed victims beyond its students, staff.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
@@ -27,16 +77,6 @@
       "score": 10
     },
     {
-      "title": "AI leaders call for tougher protections against AI-aided bioweapons",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
-      "published": "2026-06-04T12:12:12+00:00",
-      "summary": "Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
       "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
       "source": "MIT Technology Review",
       "category": "AI / privacy",
@@ -47,36 +87,6 @@
       "score": 10
     },
     {
-      "title": "Witcher devs' Project Hadar will make you feel all of the open-world emotions, a new job ad suggests, though sorry it still isn't a cosmic Japanese horror game",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/witcher-devs-project-hadar-will-make-you-feel-all-of-the-open-world-emotions-a-new-job-ad-suggests-though-sorry-it-still-isnt-a-cosmic-japanese-horror-game",
-      "published": "2026-06-04T12:04:40+00:00",
-      "summary": "They might have proven they deal in secret extra DLC for decade-old RPG s this year, but for my money, Project Hadar remains the most mysterious game CD Projekt have in the works.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "At this Ohio High School, Students Can Skip Lectures and Work On Their Own",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/at-this-ohio-high-school-students-can-skip-lectures-and-work-on-their-own/",
-      "published": "2026-06-04T10:30:00+00:00",
-      "summary": "Letting students decide how they learn is almost as important a goal of Mayfield High School near Cleveland as learning itself. The school lets students skip traditional classrooms and lectures if they don’t fit how a student learns best.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Tense governor’s race in California unsettled as vote-counting continues",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/04/california-governors-race",
-      "published": "2026-06-04T10:04:57+00:00",
-      "summary": "State election officials continue to sift through uncounted primary ballots, which could take days or even weeks The California governor’s race remained unsettled Thursday, as state election officials continued to sift through uncounted…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "Screens are leaving schools fast, though some students with disabilities rely on them",
       "source": "NPR Health",
       "category": "Science / health",
@@ -84,16 +94,6 @@
       "published": "2026-06-04T09:00:00+00:00",
       "summary": "Some students with disabilities rely on assistive technology to learn, and they worry it could be swept up in the movement to get screens out of schools.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10
-    },
-    {
-      "title": "My year with the robots: how Joanna Stern let AI into her home, work – and heart",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/jun/04/my-year-with-robots-joanna-stern-ai",
-      "published": "2026-06-04T04:00:25+00:00",
-      "summary": "In 2025, the tech journalist invited artificial intelligence to do nearly everything for her, including editing the book she was writing about the experiment.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
@@ -117,6 +117,16 @@
       "score": 9
     },
     {
+      "title": "Trump’s Iran war messaging is not winning over Americans – or their representatives",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/jun/04/trump-iran-war-messaging-americans-congress",
+      "published": "2026-06-04T16:07:43+00:00",
+      "summary": "Trump, still negotiating to conclude the war, claims it’s already over. Some Republican lawmakers have had enough Donald Trump has two things to say about his war with Iran. The first is that it’s already over.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
+    },
+    {
       "title": "A handful of American households pay for AI. Is the future free — or a subscription?",
       "source": "NPR Tech",
       "category": "Science / computing",
@@ -125,583 +135,10 @@
       "summary": "Just 3% of U.S. households pay for AI for personal use. Sign ups are growing — even though Americans have subscription fatigue.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
-    },
-    {
-      "title": "The Dog Is Still in Danger in Final Supergirl Trailer",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/final-supergirl-trailer/",
-      "published": "2026-06-03T17:49:54+00:00",
-      "summary": "We also get more of Jason Momoa's Lobo The post The Dog Is Still in Danger in Final Supergirl Trailer appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
     }
   ],
-  "youtube": [
-    {
-      "title": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=iz7elwbqZVI",
-      "published": "2026-06-03T17:00:19+00:00",
-      "summary": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Claude Opus 4.8: Lying Machine No More?",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=ypL7kUiw_LM",
-      "published": "2026-06-03T13:49:31+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Anthropic's Opus 4.8: https://www.anthropic.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "A Second Nobel Prize for AlphaFold? 🧬🏆 #alphafold #deepmind #nobelprize #science #ai",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=MOviZKtFeHM",
-      "published": "2026-06-02T07:13:59+00:00",
-      "summary": "Check the pinned comment for the link to the full interview. We're discussing whether a \"second order Nobel\" prize is on the horizon for AI-driven science.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "What Happens After A 1,000,000x AI Compute Leap? | Jeff Dean",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=yz6I23VRbdg",
-      "published": "2026-06-01T15:41:22+00:00",
-      "summary": "Thank you to Google for the invite! 🙏 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Fuzzing Programs to Find Bugs - Computerphile",
-      "source": "Computerphile",
-      "category": "Science / computing",
-      "url": "https://www.youtube.com/watch?v=kaD54VXxGrI",
-      "published": "2026-06-04T13:30:15+00:00",
-      "summary": "Fuzzing is a technique to find programming bugs by testing with random inputs - but there are smarter ways to go about it! Professor Alastair F Donaldson leads the Multicore Programming research group at Imperial College.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Why Is Grogu Still A Baby?",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=pdxAMyfC41o",
-      "published": "2026-06-03T19:00:05+00:00",
-      "summary": "Grogu is 50 years old. Grogu is a baby. These things are not mutually exclusive. Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "'Scary Movie' Cast Answer The 50 Most Searched Scary Movie Questions",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=zGdqYOCR-2M",
-      "published": "2026-06-03T16:00:08+00:00",
-      "summary": "WIRED tasks Anna Faris, Marlon Wayans and Shawn Wayans to answer the 50 most searched _Scary Movie_ questions. Watch more from WIRED | 50 Most Searched: https://youtube.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Tom Scott Answers Content Creator Questions | Tech Support | WIRED",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=bx6_jj9RxhI",
-      "published": "2026-06-02T19:00:03+00:00",
-      "summary": "YouTuber Tom Scott joins WIRED to answer the internet’s burning content creator and YouTube strategy questions.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Bestselling author Ann Patchett on if she's considering retirement",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=s-rQjPV-Ddw",
-      "published": "2026-06-03T19:00:25+00:00",
-      "summary": "Several of the characters in Ann Patchett's latest novel \"Whistler\" are nearing or have reached retirement. They tour museums during the week, host brunches and take afternoon sails.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "DOJ investigating former Congressman George Santos for insider trading on Kalshi",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=Gy7DQtIf9e0",
-      "published": "2026-06-03T18:30:29+00:00",
-      "summary": "Federal investigators are examining the prediction market trades of former New York Republican Congressman George Santos — in the latest case that's raising questions about insider trading on the betting sites.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "The U.S. Embassy in India launched Trump-themed rickshaws to mark America's 250th birthday",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=JJDooYeWG0A",
-      "published": "2026-06-03T18:00:21+00:00",
-      "summary": "Delhi's rickshaws are plying the roads with a new message: \"HAPPY BIRTHDAY AMERICA\" emblazoned with Trump's face. Drivers were offered sweeteners to host the signs: tea bags, soda, and an empty plastic bottle.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "New York Times correspondent Yeganeh Torbati speaks on the tension and hope in Iran",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=7-qxeq98_ow",
-      "published": "2026-06-03T17:00:00+00:00",
-      "summary": "In the weeks and months that followed the initial U.S.-Israeli strikes on Iran, New York Times correspondent Yeganeh Torbati reported on how a sense of hope was still present in Tehran.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "6 killed in Iowa shootings authorities say stemmed from domestic dispute",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=GI7BObczsc0",
-      "published": "2026-06-03T16:30:18+00:00",
-      "summary": "At least six people are dead after a mass shooting at several locations in Muscatine, Iowa, Monday that authorities say appears to have been linked to a domestic dispute.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Ann Patchett on her new novel \"Whistler\" and her experience with maturing relationships",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=m0Pk5XnIlBE",
-      "published": "2026-06-03T15:45:33+00:00",
-      "summary": "Ann Patchett's new novel \"Whistler\" is the story of Daphne Fuller, a woman in her fifties, reconnecting with a stepfather she hasn't seen since she was nine, Eddie Triplett.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Exploring the urban villages of Shenzhen, the Chinese city known for tech",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=D82dZoLjOVI",
-      "published": "2026-06-03T15:30:37+00:00",
-      "summary": "Shenzhen is China’s tech capital—headquarters of Huawei, BYD and Tencent among others. It also has exceedingly crowded urban villages, which reveal the city’s very short history. In 1980 no city existed here at all, just farms and villages.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Did Any UE5 Shipping Games Match The Quality Of The Matrix Awakens?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=rbzSlRfu8tQ",
-      "published": "2026-06-03T18:00:14+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://www.youtube.com/watch?v=jRfDuHfSCrE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Why Our Xbox 007 First Light Review Is Late",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=2BvTx671_z8",
-      "published": "2026-06-03T16:00:31+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Is RTX 4090 Destined To Become A \"Fine Wine\" GPU Legend?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=vIRPQ5JNMz4",
-      "published": "2026-06-02T18:00:03+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://www.youtube.com/watch?v=jRfDuHfSCrE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "007 First Light Launches With Big DLSS/FSR Upscaling Issues",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=IXVPwiccY8I",
-      "published": "2026-06-02T17:00:24+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Shocking Steam Deck Price Increases: What Does It Mean For Steam Machine?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=w8N-lllVcoU",
-      "published": "2026-06-02T16:00:35+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Doom 2016 Tenth Anniversary - The Game That Put id Software Back On The Map",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=0a1wH_IYcHQ",
-      "published": "2026-06-01T18:00:38+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/My6i66QSha0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Is Declining Software Quality To Blame For Sony Moving Away From PC?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=8W8JyhGJD9U",
-      "published": "2026-06-01T17:00:13+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://www.youtube.com/watch?v=jRfDuHfSCrE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Steam: Monopolies Are A Bad Thing, So Why Does Valve Get A Pass?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=mX_Q7Zq1h9o",
-      "published": "2026-06-01T16:00:20+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://www.youtube.com/watch?v=jRfDuHfSCrE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Yahtzee Tries... Better Than Dead and Stonemachia",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=pk85E4coE9E",
-      "published": "2026-06-03T22:11:30+00:00",
-      "summary": "This week on Yahtzee Tries... Yahtzee and JM8 try out Better Than Dead and Stonemachia. Better Than Dead -- https://store.steampowered.com/app/2599690/Better_Than_Dead/ Stonemachia -- https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Lego Batman: Legacy of the Dark Knight | Fully Ramblomatic",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=6Qackci5wVo",
-      "published": "2026-06-03T16:00:20+00:00",
-      "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Lego Batman: Legacy of the Dark Knight. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "PlayStation State of Play Watchalong",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=sVYCoQ5kIFA",
-      "published": "2026-06-02T23:44:05+00:00",
-      "summary": "Summer Game Fest (RIP E3) is here, and we're kicking this off with a Second Wind watchalong PlayStation's big State of Play showcase, featuring Insomniac's Wolverine.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Could Grogu Survive in the Backrooms? | The Rewind Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=x1G_PDjbpPA",
-      "published": "2026-06-02T19:21:44+00:00",
-      "summary": "This week on The Rewind, Jack is out, so Darren and Marty enlisted Nick and JM8 to come chat about The Mandalorian and Grogu, Backrooms, and everything else they've been watching.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Breaking the Law by Playing Forbidden Solitaire | Hot Monday Energy",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=Mp0gVGVMGYg",
-      "published": "2026-06-02T01:11:15+00:00",
-      "summary": "This week on Hidden Gems KC, Jess, and Jesse play Forbidden Solitaire -- https://store.steampowered.com/app/3414580/Forbidden_Solitaire/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Our Favorite Video Game Expansions and DLC | Windbreaker Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=CfDKPEOP1dY",
-      "published": "2026-06-01T19:06:50+00:00",
-      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty use the news of The Witcher III getting a new expansion 12 years (!) after its initial release to chat about their own personal favorite video game expansions and DLC…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "200+ Hours Later, Marathon Is Among My Favorite FPS Games",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=h08TDgpzJAY",
-      "published": "2026-06-01T15:00:39+00:00",
-      "summary": "Nick has been fully absorbed by Marathon since release, and it has quickly joined the roster of his favorite multiplayer FPS titles. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "RESIDENT EVIL – Zach Cregger on Survival Horror",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=N_KDtokTO1c",
-      "published": "2026-05-21T16:18:37+00:00",
-      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "RESIDENT EVIL - Zach Cregger on Survival Horror",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=5gR1GTJPGqQ",
-      "published": "2026-05-21T16:00:09+00:00",
-      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY (2006) - 20th Anniversary - Official Trailer (HD)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=A0fgugC7ZCo",
-      "published": "2026-05-20T16:46:15+00:00",
-      "summary": "If you ain't first, you're last. 🏁 Ricky Bobby returns to the big screen. #TalladegaNights is back in theatres June 28, June 30, and July 1.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "The Invite | Official Trailer 2 HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=nelkiuezJxg",
-      "published": "2026-06-04T13:00:30+00:00",
-      "summary": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Onslaught | Official Trailer HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=L24CYVpQ-LI",
-      "published": "2026-06-02T13:00:08+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Adam Wingard and starring Adria Arjona, Alex Pereira, Drew Starkey, Rebecca Hall, Reginald VelJohnson, Michael Biehn, Eric Wareheim and Dan Stevens. ONSLAUGHT – In Theaters September 4.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Primetime | Official Teaser HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=Yrfrf53ttYY",
-      "published": "2026-05-27T13:00:08+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Coming Soon.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "The Death of Robin Hood | Official First Look | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=ii1gTLxWukk",
-      "published": "2026-05-20T13:00:19+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Michael Sarnoski and starring Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett and Noah Jupe. THE DEATH OF ROBIN HOOD – In theaters June 19.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "HER PRIVATE HELL - Official Teaser - In Theaters July 24",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=iWqST_E9u_Q",
-      "published": "2026-05-18T14:00:27+00:00",
-      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "Built Different: Curry Barker on Supernatural Horror",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=ZpeiXao2MS4",
-      "published": "2026-05-26T18:01:01+00:00",
-      "summary": "Supernatural horror is a window into another nightmarish world. Curry Barker explains why we're all drawn in, and how Obsession goes even deeper GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Built Different: Lee Cronin on Gore",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=NSilsgp90jE",
-      "published": "2026-05-22T18:37:15+00:00",
-      "summary": "It takes blood, guts, and heart to make a Gore horror movie. Lee Cronin unpacks the brutal horror subgenre. This is how he defines Gore, disrupts it, and takes it even further in Lee Cronin’s The Mummy.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Strung | Official Trailer",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=sEz074LTiV8",
-      "published": "2026-05-20T16:30:28+00:00",
-      "summary": "Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Oasis | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=PQ0DS3oyWUE",
-      "published": "2026-06-03T13:00:00+00:00",
-      "summary": "There are summers that change everything. And places designed to escape—even from the truth.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "America's Sweethearts: Dallas Cowboys Cheerleaders | Season 3 Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=0NWHhWdkqEM",
-      "published": "2026-06-02T16:00:00+00:00",
-      "summary": "A new batch of hopefuls face fierce competition, high expectations and even higher kicks as they vie for a spot with the Dallas Cowboys Cheerleaders. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tony Hinchcliffe: Man of the People | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=WRbcHKRB8Fw",
-      "published": "2026-06-02T15:00:00+00:00",
-      "summary": "Tony Hinchcliffe returns with another brutally unapologetic hour from comedy's favorite equal-opportunity offender.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "I Will Find You | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=mObRUsA7dPY",
-      "published": "2026-06-01T14:00:01+00:00",
-      "summary": "Every clue gets them closer to the truth. I Will Find You - the thrilling new mystery series from Harlan Coben, premieres June 18th, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tracy Morgan praises Eddie Murphy in AFI Life Achievement Award: A Tribute to Eddie Murphy",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=pZChOAyf-RE",
-      "published": "2026-05-31T14:00:30+00:00",
-      "summary": "“He’s my OG… and I think he’s my biological father.” Tracy Morgan praises Eddie Murphy in AFI Life Achievement Award: A Tribute to Eddie Murphy. Now playing. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Physical 100: Italy | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=e3n_g-wy4gQ",
-      "published": "2026-05-29T10:00:00+00:00",
-      "summary": "100 modern gladiators. One monumental arena. Welcome to Physical 100: Italy. In this unprecedented physical competition, 100 contestants face off in extreme challenges that push body and tenacity to the absolute limit.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Mike Myers went full Shrek at the AFI Life Achievement Award: A Tribute to Eddie Murphy.",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=yUrwmYdWz2s",
-      "published": "2026-05-28T18:00:29+00:00",
-      "summary": "AFI Life Achievement Award: A Tribute to Eddie Murphy premieres May 31 on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "I Am Frankelda | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=diRwnGRr-Ko",
-      "published": "2026-05-28T15:00:00+00:00",
-      "summary": "Frankelda, a determined 19th-century Mexican writer, journeys into her subconscious to face the monsters she’s written about. Guided by a tormented prince, she must restore the balance between fiction and reality before it’s too late.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "In the Hand of Dante | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=cXA3Zgsky18",
-      "published": "2026-05-28T14:00:00+00:00",
-      "summary": "In the Hand of Dante follows the parallel lives of a New York author (Nick Tosches) in the 21st century who embarks on a violent journey after he is recruited by a mafia don to steal Italian poet Dante Alighieri’s The Divine Comedy written…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Brazil ‘70: The Third Star | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=reK5gYJPDBM",
-      "published": "2026-05-27T16:30:00+00:00",
-      "summary": "Step onto the pitch with the cast and crew of Brazil ’70: The Third Star. Discover the making of the miniseries that follows the 1970 Brazilian National Team’s journey to winning the World Cup in Mexico and securing their third world title.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -813,8 +250,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 30,
-    "trailerCount": 21,
-    "sourceCount": 22
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 7
   }
 }
