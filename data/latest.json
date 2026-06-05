@@ -1,89 +1,99 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-05T05:00:02.673301Z",
-  "generatedAtDisplay": "2026-06-05 01:00 AM EDT",
+  "generatedAt": "2026-06-05T14:00:02.893190Z",
+  "generatedAtDisplay": "2026-06-05 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are US imposes new sanctions on Cuban president and Castro family members, Trump uses wartime powers to dole out $700m to ‘clean, beautiful’ coal, and Weingarten: Kids’ Attention Crisis Demands Widespread Curbs on AI and Tech.",
+  "summary": "Today's sweep leans toward Games / criticism, Democracy / press freedom, Education / pedagogy. The strongest items in this run are Opinion: How the ‘Southern Surge’ Passed Oklahoma By, Xbox boss Asha Sharma still can't seem to decide on a stance regarding console exclusivity, and Marathon Deluxe Edition discount offers free-trail players bonuses without the full game, confusion ensues.",
   "mainItems": [
     {
-      "title": "US imposes new sanctions on Cuban president and Castro family members",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
-      "published": "2026-06-05T01:07:15+00:00",
-      "summary": "US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’ The United States has announced fresh economic sanctions on Cuba’s president and some of his immediate family,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump uses wartime powers to dole out $700m to ‘clean, beautiful’ coal",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/04/trump-coal-defense-production-act",
-      "published": "2026-06-04T20:22:10+00:00",
-      "summary": "US president announces plans for two new coal plants, in Alaska and West Virginia, using Defense Production Act Donald Trump is using wartime presidential authority to hand $700m to coal-fired power plants in the US, the latest move by the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Weingarten: Kids’ Attention Crisis Demands Widespread Curbs on AI and Tech",
+      "title": "Opinion: How the ‘Southern Surge’ Passed Oklahoma By",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/weingarten-kids-attention-crisis-demands-widespread-curbs-on-ai-and-tech/",
-      "published": "2026-06-04T18:30:00+00:00",
-      "summary": "American Federation of Teachers President Randi Weingarten believes our schools are not ready for the “seismic shifts” that artificial intelligence is bringing. “We’re in the middle of an industrial revolution that’s bigger than the dot.",
+      "url": "https://www.the74million.org/article/how-the-southern-surge-passed-oklahoma-by/",
+      "published": "2026-06-05T12:30:00+00:00",
+      "summary": "In poorer states like Oklahoma, we’ve often heard a sardonic refrain whenever the conversation turns to bad news about health or education: “Thank God for Mississippi.” I grew up hearing that line.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
-      "title": "Amazon’s new plan for games: James Bond and AI Snoop Dogg",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna",
-      "published": "2026-06-04T17:01:15+00:00",
-      "summary": "Amazon's gaming strategy has never really been clear.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Xbox boss Asha Sharma still can't seem to decide on a stance regarding console exclusivity",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/xbox-exclusives-asha-sharma-interview",
+      "published": "2026-06-05T12:27:10+00:00",
+      "summary": "Newly-appointed Xbox CEO, Asha Sharma, has now spent over 100 days in her new role.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "My SSN was exposed in a breach at Columbia—a school I have no connection with",
-      "source": "Ars Technica",
+      "title": "Marathon Deluxe Edition discount offers free-trail players bonuses without the full game, confusion ensues",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/marathon-deluxe-edition-discount-change",
+      "published": "2026-06-05T12:16:54+00:00",
+      "summary": "Some confusion around Marathon's Deluxe edition appears to be popping up, as a discounted deluxe edition version of the game bought by many PlayStation users does not actually include the full game. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/tech-policy/2026/06/my-ssn-was-exposed-in-a-breach-at-columbia-a-school-i-have-no-connection-with/",
-      "published": "2026-06-04T13:48:51+00:00",
-      "summary": "Columbia admits last year’s data breach exposed victims beyond its students, staff.",
+      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+      "published": "2026-06-05T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "‘Unpredictable and extreme’: Asia braces for El Niño",
+      "title": "‘I would draw blood’: Jemaine Clement and Nicola Walker’s wild wrongcom about sexual betrayal",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/05/jemaine-clement-nicola-walker-interview-alice-and-steve-disney",
+      "published": "2026-06-05T12:00:34+00:00",
+      "summary": "What if your best mate slept with your child? The stars of Alice and Steve, the new taboo-busting comedy about friends at war, open up about drug-taking, iffy sex – and why British jokes are so hard to understand Alice and Steve, the new…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "US Senate passes $70bn immigration bill after clashes over settlement fund",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jun/05/senate-immigration-bill-funding",
+      "published": "2026-06-05T11:35:47+00:00",
+      "summary": "Senate votes 52-47 to fund ICE and border patrol for next three years, sending legislation to the House US politics live – latest updates The US Senate passed legislation to fund Donald Trump’s controversial immigration crackdown early on…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘We call it the P-word’: Chicago professor suspended after assignment mentions Palestinians",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/jun/05/professor-suspended-assignment-mentions-palestinians",
+      "published": "2026-06-05T11:00:34+00:00",
+      "summary": "School of the Art Institute of Chicago professor put under investigation after a student complained about a case study A tenured art therapy professor at the School of the Art Institute of Chicago (SAIC) was suspended from teaching and…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "‘Alligator Alcatraz’ detainees say guards deny them food and clean water until they sign English documents",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/environment/2026/jun/05/el-nino-asia-unpredictable-extreme-weather-climate-change-crisis",
-      "published": "2026-06-05T02:30:38+00:00",
-      "summary": "Weather models project a potentially strong El Niño this year, which could spell disaster for heatwave-hit India, drench China and hurt agriculture across south-east Asia The UN has warned that the world must prepare for the imminent…",
+      "url": "https://www.theguardian.com/us-news/2026/jun/05/alligator-alcatraz-detainees-denied-food-water",
+      "published": "2026-06-05T11:00:33+00:00",
+      "summary": "Detainees say they’re given ‘rotten’ water and denied meals for not signing papers in English that they don’t understand Detainees at Florida’s notorious “ Alligator Alcatraz ” immigration jail said guards were denying them food and fresh…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Weakened public health powers raise outbreak risks",
+      "title": "The World Cup vs. bugs, germs and heat: Here's the game plan",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/04/nx-s1-5846943/public-health-mandates-limits",
-      "published": "2026-06-04T20:36:34+00:00",
-      "summary": "Some jurisdictions have weakened their public health authorities in response to criticism of lockdowns, school closures, mask mandates, vaccine requirements and other COVID-era restrictions.",
+      "url": "https://www.npr.org/2026/06/05/nx-s1-5846403/world-cup-mosquitoes-ebola-heat",
+      "published": "2026-06-05T10:59:43+00:00",
+      "summary": "Despite a diminished federal presence, public health departments are preparing for common ailments that could afflict fans who gather for the event — and are keeping an eye on the Ebola outbreak, too.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "Rust's latest update asks you to say goodbye to your old outdated face and hello to your new, handsome one",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/rusts-latest-update-asks-you-to-say-goodbye-to-your-old-outdated-face-and-hello-to-your-new-handsome-one",
-      "published": "2026-06-04T20:33:02+00:00",
-      "summary": "It's time to say hello to your new face! This would be a creepy as all hell a sentence in just about any other context (perhaps it still is), but I am not a plastic surgeon, I am a person that writes about video games and the things they…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -97,16 +107,6 @@
       "score": 9
     },
     {
-      "title": "Opinion: First-Generation Student’s Journey From ‘Stain on the Carpet’ to Honors Grad",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/first-generation-students-journey-from-stain-on-the-carpet-to-honors-grad/",
-      "published": "2026-06-04T12:30:00+00:00",
-      "summary": "This story is part of our SPOTLIGHT series focusing on the state of education in Oklahoma. Read all our coverage and essays here. “Blah blah blah.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
       "title": "Satya Nadella ‘Not Sure’ Who Said Microsoft Wanted to Make Addictive AI, Is Looking for Guy Who Did This",
       "source": "404 Media",
       "category": "Tech / media",
@@ -117,24 +117,24 @@
       "score": 8
     },
     {
-      "title": "Seven Deeply Unsettling Nautical Horror and Fantasy Novels",
+      "title": "Devil in Silver: Aasif Mandvi Talks About Shooting Dr. Anand’s Major Scene",
       "source": "Reactor",
       "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/seven-deeply-unsettling-nautical-horror-and-fantasy-novels/",
-      "published": "2026-06-04T14:00:00+00:00",
-      "summary": "We've got mermaids, elder gods, ghost pirates, sunken cities, and more! The post Seven Deeply Unsettling Nautical Horror and Fantasy Novels appeared first on Reactor .",
+      "url": "https://reactormag.com/the-terror-devil-in-silver-aasif-mandvi-dr-anand-interview/",
+      "published": "2026-06-05T13:30:00+00:00",
+      "summary": "Reactor interviewed Mandvi about his character's journey over the course of the show. The post Devil in Silver : Aasif Mandvi Talks About Shooting Dr. Anand’s Major Scene appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
+      "score": 7
     },
     {
-      "title": "What do you actually get when you pay for AI?",
+      "title": "I wrote about George Santos. Then he made a violent threat and lied about it",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/06/04/nx-s1-5791661/chatgpt-gemini-claude-subscription-revenue-openai",
-      "published": "2026-06-04T09:00:00+00:00",
-      "summary": "Just 3% of U.S. households pay for AI for personal use. Sign ups are growing — even though Americans have subscription fatigue.",
+      "url": "https://www.npr.org/2026/06/04/nx-s1-5846966/george-santos-kalshi-threats",
+      "published": "2026-06-04T23:39:40+00:00",
+      "summary": "NPR reported on new federal investigations examining the former Congressman's bets on the prediction market site Kalshi. Then he threatened the NPR reporter who broke the story.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
+      "score": 7
     }
   ],
   "youtube": [
@@ -161,17 +161,6 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "A Second Nobel Prize for AlphaFold? 🧬🏆 #alphafold #deepmind #nobelprize #science #ai",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=MOviZKtFeHM",
-      "published": "2026-06-02T07:13:59+00:00",
-      "summary": "Check the pinned comment for the link to the full interview. We're discussing whether a \"second order Nobel\" prize is on the horizon for AI-driven science.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
       "title": "Fuzzing Programs to Find Bugs - Computerphile",
       "source": "Computerphile",
       "category": "Science / computing",
@@ -179,8 +168,8 @@
       "published": "2026-06-04T13:30:15+00:00",
       "summary": "Fuzzing is a technique to find programming bugs by testing with random inputs - but there are smarter ways to go about it! Professor Alastair F Donaldson leads the Multicore Programming research group at Imperial College.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Masters of the Universe Cast Answer The 50 Most Searched He-Man Questions",
@@ -227,6 +216,17 @@
       "verdict": "Worth watching"
     },
     {
+      "title": "What might an end to U.S.-backed military support mean for Israel?",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=j5dNoz8PRrc",
+      "published": "2026-06-05T13:30:17+00:00",
+      "summary": "Despite recent frustrations between President Donald Trump and Israeli Prime Minister Benjamin Netanyahu, the U.S.-Israel alliance remains strong. That relationship includes the U.S.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
       "title": "Trump, Netanyahu at odds / Elusive Iran deal",
       "source": "NPR",
       "category": "News / analysis",
@@ -245,8 +245,8 @@
       "published": "2026-06-04T20:00:07+00:00",
       "summary": "Former first lady Jill Biden is opening up about her experiences in the White House, and a pivotal moment that brought the end of that era: July 21, 2024, when President Joe Biden decided to end his bid for a second term.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Trump taps former private prisons executive to run ICE",
@@ -256,8 +256,8 @@
       "published": "2026-06-04T18:30:30+00:00",
       "summary": "President Trump has named David Venturella as the acting director of Immigration and Customs Enforcement. He was previously an executive with the private prison company, GEO Group.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Study: National Guard does little to reduce violent crime in D.C. despite $1.5 million cost",
@@ -267,8 +267,8 @@
       "published": "2026-06-04T18:00:38+00:00",
       "summary": "A new study suggests President Trump’s deployment of National Guard troops to Washington, D.C., has had little effect on violent crime, despite the high cost to U.S. taxpayers.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Bestselling author Ann Patchett on if she's considering retirement",
@@ -291,17 +291,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "The U.S. Embassy in India launched Trump-themed rickshaws to mark America's 250th birthday",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=JJDooYeWG0A",
-      "published": "2026-06-03T18:00:21+00:00",
-      "summary": "Delhi's rickshaws are plying the roads with a new message: \"HAPPY BIRTHDAY AMERICA\" emblazoned with Trump's face. Drivers were offered sweeteners to host the signs: tea bags, soda, and an empty plastic bottle.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
     },
     {
       "title": "COD Modern Warfare 4 Coming To Switch 2 on Day One - Reaction",
@@ -381,6 +370,28 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "Summer Game Fest 2026 Watchalong",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=R0oJMV2roVw",
+      "published": "2026-06-05T12:39:02+00:00",
+      "summary": "Join us in this watchalong Geoff Keighley's Summer Game Fest 2026 showcase. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Firing Off Every Single Bullet Imaginable in Astral Lords w/ Jack and Marty",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=10iMLjy6JYw",
+      "published": "2026-06-05T12:36:24+00:00",
+      "summary": "This video is brough to you by Astral Lords, available now on Steam -- https://bit.ly/Astral_Lords_SW If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "Summer Game Fest Predictions and Speculation | Firelink Podcast",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -388,8 +399,8 @@
       "published": "2026-06-05T02:35:29+00:00",
       "summary": "This week on Firelink, Nick, KC, and Marty give their thoughts on Tuesday's State of Play showcase before looking forward to this weekend's Summer Game Fest shenanigans.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Taking Your (Strange or Normal) TTRPG Questions | RPG Help Desk",
@@ -399,8 +410,8 @@
       "published": "2026-06-04T22:53:50+00:00",
       "summary": "Jesse Galena is chatting with YOU about whatever questions you have and a few ideas for future streams if folks are interested. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "The Last Dark Souls 2 Stream in the History of Dark Souls 2 Streams w/ Jack and Jess -- Finale",
@@ -410,8 +421,8 @@
       "published": "2026-06-04T19:12:29+00:00",
       "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.com/ember The Rapier is the most overpowered weapon in Dark Soul 2.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Bad Hints Are Worse Than No Hints | Semi-Ramblomatic",
@@ -442,28 +453,6 @@
       "url": "https://www.youtube.com/watch?v=6Qackci5wVo",
       "published": "2026-06-03T16:00:20+00:00",
       "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Lego Batman: Legacy of the Dark Knight. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "PlayStation State of Play Watchalong",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=sVYCoQ5kIFA",
-      "published": "2026-06-02T23:44:05+00:00",
-      "summary": "Summer Game Fest (RIP E3) is here, and we're kicking this off with a Second Wind watchalong PlayStation's big State of Play showcase, featuring Insomniac's Wolverine.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Could Grogu Survive in the Backrooms? | The Rewind Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=x1G_PDjbpPA",
-      "published": "2026-06-02T19:21:44+00:00",
-      "summary": "This week on The Rewind, Jack is out, so Darren and Marty enlisted Nick and JM8 to come chat about The Mandalorian and Grogu, Backrooms, and everything else they've been watching.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
@@ -802,7 +791,7 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 30,
+    "youtubeCount": 29,
     "trailerCount": 20,
     "sourceCount": 20
   }

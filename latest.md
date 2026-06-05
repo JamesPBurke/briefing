@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-05T05:00:02.673301Z
+Generated: 2026-06-05T14:00:02.893190Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are US imposes new sanctions on Cuban president and Castro family members, Trump uses wartime powers to dole out $700m to ‘clean, beautiful’ coal, and Weingarten: Kids’ Attention Crisis Demands Widespread Curbs on AI and Tech.
+Today's sweep leans toward Games / criticism, Democracy / press freedom, Education / pedagogy. The strongest items in this run are Opinion: How the ‘Southern Surge’ Passed Oklahoma By, Xbox boss Asha Sharma still can't seem to decide on a stance regarding console exclusivity, and Marathon Deluxe Edition discount offers free-trail players bonuses without the full game, confusion ensues.
 
 ## Briefing
 
@@ -33,79 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. US imposes new sanctions on Cuban president and Castro family members [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’ The United States has announced fresh economic sanctions on Cuba’s president and some of his immediate family,…
-
-Link: https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family
-
-### 2. Trump uses wartime powers to dole out $700m to ‘clean, beautiful’ coal [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-US president announces plans for two new coal plants, in Alaska and West Virginia, using Defense Production Act Donald Trump is using wartime presidential authority to hand $700m to coal-fired power plants in the US, the latest move by the…
-
-Link: https://www.theguardian.com/us-news/2026/jun/04/trump-coal-defense-production-act
-
-### 3. Weingarten: Kids’ Attention Crisis Demands Widespread Curbs on AI and Tech [10/10]
+### 1. Opinion: How the ‘Southern Surge’ Passed Oklahoma By [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-American Federation of Teachers President Randi Weingarten believes our schools are not ready for the “seismic shifts” that artificial intelligence is bringing. “We’re in the middle of an industrial revolution that’s bigger than the dot.
+In poorer states like Oklahoma, we’ve often heard a sardonic refrain whenever the conversation turns to bad news about health or education: “Thank God for Mississippi.” I grew up hearing that line.
 
-Link: https://www.the74million.org/article/weingarten-kids-attention-crisis-demands-widespread-curbs-on-ai-and-tech/
+Link: https://www.the74million.org/article/how-the-southern-surge-passed-oklahoma-by/
 
-### 4. Amazon’s new plan for games: James Bond and AI Snoop Dogg [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 2. Xbox boss Asha Sharma still can't seem to decide on a stance regarding console exclusivity [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Amazon's gaming strategy has never really been clear.
+Newly-appointed Xbox CEO, Asha Sharma, has now spent over 100 days in her new role.
 
-Link: https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna
+Link: https://www.eurogamer.net/xbox-exclusives-asha-sharma-interview
 
-### 5. My SSN was exposed in a breach at Columbia—a school I have no connection with [10/10]
-**Source:** Ars Technica  
+### 3. Marathon Deluxe Edition discount offers free-trail players bonuses without the full game, confusion ensues [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Some confusion around Marathon's Deluxe edition appears to be popping up, as a discounted deluxe edition version of the game bought by many PlayStation users does not actually include the full game. Read more
+
+Link: https://www.eurogamer.net/marathon-deluxe-edition-discount-change
+
+### 4. The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains [10/10]
+**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Columbia admits last year’s data breach exposed victims beyond its students, staff.
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
 
-Link: https://arstechnica.com/tech-policy/2026/06/my-ssn-was-exposed-in-a-breach-at-columbia-a-school-i-have-no-connection-with/
+Link: https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/
 
-### 6. ‘Unpredictable and extreme’: Asia braces for El Niño [9/10]
+### 5. ‘I would draw blood’: Jemaine Clement and Nicola Walker’s wild wrongcom about sexual betrayal [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+What if your best mate slept with your child? The stars of Alice and Steve, the new taboo-busting comedy about friends at war, open up about drug-taking, iffy sex – and why British jokes are so hard to understand Alice and Steve, the new…
+
+Link: https://www.theguardian.com/tv-and-radio/2026/jun/05/jemaine-clement-nicola-walker-interview-alice-and-steve-disney
+
+### 6. US Senate passes $70bn immigration bill after clashes over settlement fund [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Senate votes 52-47 to fund ICE and border patrol for next three years, sending legislation to the House US politics live – latest updates The US Senate passed legislation to fund Donald Trump’s controversial immigration crackdown early on…
+
+Link: https://www.theguardian.com/us-news/2026/jun/05/senate-immigration-bill-funding
+
+### 7. ‘We call it the P-word’: Chicago professor suspended after assignment mentions Palestinians [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+School of the Art Institute of Chicago professor put under investigation after a student complained about a case study A tenured art therapy professor at the School of the Art Institute of Chicago (SAIC) was suspended from teaching and…
+
+Link: https://www.theguardian.com/us-news/2026/jun/05/professor-suspended-assignment-mentions-palestinians
+
+### 8. ‘Alligator Alcatraz’ detainees say guards deny them food and clean water until they sign English documents [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Weather models project a potentially strong El Niño this year, which could spell disaster for heatwave-hit India, drench China and hurt agriculture across south-east Asia The UN has warned that the world must prepare for the imminent…
+Detainees say they’re given ‘rotten’ water and denied meals for not signing papers in English that they don’t understand Detainees at Florida’s notorious “ Alligator Alcatraz ” immigration jail said guards were denying them food and fresh…
 
-Link: https://www.theguardian.com/environment/2026/jun/05/el-nino-asia-unpredictable-extreme-weather-climate-change-crisis
+Link: https://www.theguardian.com/us-news/2026/jun/05/alligator-alcatraz-detainees-denied-food-water
 
-### 7. Weakened public health powers raise outbreak risks [9/10]
+### 9. The World Cup vs. bugs, germs and heat: Here's the game plan [9/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Some jurisdictions have weakened their public health authorities in response to criticism of lockdowns, school closures, mask mandates, vaccine requirements and other COVID-era restrictions.
+Despite a diminished federal presence, public health departments are preparing for common ailments that could afflict fans who gather for the event — and are keeping an eye on the Ebola outbreak, too.
 
-Link: https://www.npr.org/2026/06/04/nx-s1-5846943/public-health-mandates-limits
+Link: https://www.npr.org/2026/06/05/nx-s1-5846403/world-cup-mosquitoes-ebola-heat
 
-### 8. Rust's latest update asks you to say goodbye to your old outdated face and hello to your new, handsome one [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-It's time to say hello to your new face! This would be a creepy as all hell a sentence in just about any other context (perhaps it still is), but I am not a plastic surgeon, I am a person that writes about video games and the things they…
-
-Link: https://www.rockpapershotgun.com/rusts-latest-update-asks-you-to-say-goodbye-to-your-old-outdated-face-and-hello-to-your-new-handsome-one
-
-### 9. Elon Musk tries again to escape FTC audits of X data handling [9/10]
+### 10. Elon Musk tries again to escape FTC audits of X data handling [9/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -113,15 +122,6 @@ Link: https://www.rockpapershotgun.com/rusts-latest-update-asks-you-to-say-goodb
 Musk can't be trusted to protect X user privacy, public commenters warn FTC.
 
 Link: https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/
-
-### 10. Opinion: First-Generation Student’s Journey From ‘Stain on the Carpet’ to Honors Grad [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-This story is part of our SPOTLIGHT series focusing on the state of education in Oklahoma. Read all our coverage and essays here. “Blah blah blah.
-
-Link: https://www.the74million.org/article/first-generation-students-journey-from-stain-on-the-carpet-to-honors-grad/
 
 ### 11. Satya Nadella ‘Not Sure’ Who Said Microsoft Wanted to Make Addictive AI, Is Looking for Guy Who Did This [8/10]
 **Source:** 404 Media  
@@ -132,23 +132,23 @@ Microsoft's CEO seems unaware of what's going on at his own company.
 
 Link: https://www.404media.co/satya-nadella-not-sure-who-said-microsoft-wanted-to-make-addictive-ai-is-looking-for-guy-who-did-this/
 
-### 12. Seven Deeply Unsettling Nautical Horror and Fantasy Novels [8/10]
+### 12. Devil in Silver: Aasif Mandvi Talks About Shooting Dr. Anand’s Major Scene [7/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-We've got mermaids, elder gods, ghost pirates, sunken cities, and more! The post Seven Deeply Unsettling Nautical Horror and Fantasy Novels appeared first on Reactor .
+Reactor interviewed Mandvi about his character's journey over the course of the show. The post Devil in Silver : Aasif Mandvi Talks About Shooting Dr. Anand’s Major Scene appeared first on Reactor .
 
-Link: https://reactormag.com/seven-deeply-unsettling-nautical-horror-and-fantasy-novels/
+Link: https://reactormag.com/the-terror-devil-in-silver-aasif-mandvi-dr-anand-interview/
 
-### 13. What do you actually get when you pay for AI? [8/10]
+### 13. I wrote about George Santos. Then he made a violent threat and lied about it [7/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Just 3% of U.S. households pay for AI for personal use. Sign ups are growing — even though Americans have subscription fatigue.
+NPR reported on new federal investigations examining the former Congressman's bets on the prediction market site Kalshi. Then he threatened the NPR reporter who broke the story.
 
-Link: https://www.npr.org/2026/06/04/nx-s1-5791661/chatgpt-gemini-claude-subscription-revenue-openai
+Link: https://www.npr.org/2026/06/04/nx-s1-5846966/george-santos-kalshi-threats
 
 ## YouTube
 
@@ -170,18 +170,9 @@ Link: https://www.youtube.com/watch?v=iz7elwbqZVI
 
 Link: https://www.youtube.com/watch?v=ypL7kUiw_LM
 
-### A Second Nobel Prize for AlphaFold? 🧬🏆 #alphafold #deepmind #nobelprize #science #ai [7/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Check the pinned comment for the link to the full interview. We're discussing whether a "second order Nobel" prize is on the horizon for AI-driven science.
-
-Link: https://www.youtube.com/watch?v=MOviZKtFeHM
-
-### Fuzzing Programs to Find Bugs - Computerphile [8/10]
+### Fuzzing Programs to Find Bugs - Computerphile [7/10]
 **Creator:** Computerphile  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
 Fuzzing is a technique to find programming bugs by testing with random inputs - but there are smarter ways to go about it! Professor Alastair F Donaldson leads the Multicore Programming research group at Imperial College.
@@ -224,6 +215,15 @@ YouTuber Tom Scott joins WIRED to answer the internet’s burning content creato
 
 Link: https://www.youtube.com/watch?v=bx6_jj9RxhI
 
+### What might an end to U.S.-backed military support mean for Israel? [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Despite recent frustrations between President Donald Trump and Israeli Prime Minister Benjamin Netanyahu, the U.S.-Israel alliance remains strong. That relationship includes the U.S.
+
+Link: https://www.youtube.com/watch?v=j5dNoz8PRrc
+
 ### Trump, Netanyahu at odds / Elusive Iran deal [9/10]
 **Creator:** NPR  
 **Verdict:** Watch it  
@@ -233,27 +233,27 @@ President Trump and Israeli Prime Minister Benjamin Netanyahu started the war wi
 
 Link: https://www.youtube.com/watch?v=eMDaRJSWPZA
 
-### Jill Biden on why she left the room when former Pres. Biden asked Kamala Harris to run [9/10]
+### Jill Biden on why she left the room when former Pres. Biden asked Kamala Harris to run [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Former first lady Jill Biden is opening up about her experiences in the White House, and a pivotal moment that brought the end of that era: July 21, 2024, when President Joe Biden decided to end his bid for a second term.
 
 Link: https://www.youtube.com/watch?v=qDfsIwzvXR4
 
-### Trump taps former private prisons executive to run ICE [9/10]
+### Trump taps former private prisons executive to run ICE [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 President Trump has named David Venturella as the acting director of Immigration and Customs Enforcement. He was previously an executive with the private prison company, GEO Group.
 
 Link: https://www.youtube.com/watch?v=o-7U3rWTR_w
 
-### Study: National Guard does little to reduce violent crime in D.C. despite $1.5 million cost [7/10]
+### Study: National Guard does little to reduce violent crime in D.C. despite $1.5 million cost [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 A new study suggests President Trump’s deployment of National Guard troops to Washington, D.C., has had little effect on violent crime, despite the high cost to U.S. taxpayers.
@@ -277,15 +277,6 @@ Link: https://www.youtube.com/watch?v=s-rQjPV-Ddw
 Federal investigators are examining the prediction market trades of former New York Republican Congressman George Santos — in the latest case that's raising questions about insider trading on the betting sites.
 
 Link: https://www.youtube.com/watch?v=Gy7DQtIf9e0
-
-### The U.S. Embassy in India launched Trump-themed rickshaws to mark America's 250th birthday [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-Delhi's rickshaws are plying the roads with a new message: "HAPPY BIRTHDAY AMERICA" emblazoned with Trump's face. Drivers were offered sweeteners to host the signs: tea bags, soda, and an empty plastic bottle.
-
-Link: https://www.youtube.com/watch?v=JJDooYeWG0A
 
 ### COD Modern Warfare 4 Coming To Switch 2 on Day One - Reaction [7/10]
 **Creator:** Digital Foundry  
@@ -350,27 +341,45 @@ Link: https://www.youtube.com/watch?v=IXVPwiccY8I
 
 Link: https://www.youtube.com/watch?v=w8N-lllVcoU
 
-### Summer Game Fest Predictions and Speculation | Firelink Podcast [9/10]
+### Summer Game Fest 2026 Watchalong [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Join us in this watchalong Geoff Keighley's Summer Game Fest 2026 showcase. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=R0oJMV2roVw
+
+### Firing Off Every Single Bullet Imaginable in Astral Lords w/ Jack and Marty [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brough to you by Astral Lords, available now on Steam -- https://bit.ly/Astral_Lords_SW If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=10iMLjy6JYw
+
+### Summer Game Fest Predictions and Speculation | Firelink Podcast [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Firelink, Nick, KC, and Marty give their thoughts on Tuesday's State of Play showcase before looking forward to this weekend's Summer Game Fest shenanigans.
 
 Link: https://www.youtube.com/watch?v=5VQ-EImbtas
 
-### Taking Your (Strange or Normal) TTRPG Questions | RPG Help Desk [7/10]
+### Taking Your (Strange or Normal) TTRPG Questions | RPG Help Desk [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Jesse Galena is chatting with YOU about whatever questions you have and a few ideas for future streams if folks are interested. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=1oLaFMO0WMw
 
-### The Last Dark Souls 2 Stream in the History of Dark Souls 2 Streams w/ Jack and Jess -- Finale [8/10]
+### The Last Dark Souls 2 Stream in the History of Dark Souls 2 Streams w/ Jack and Jess -- Finale [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.com/ember The Rapier is the most overpowered weapon in Dark Soul 2.
@@ -403,24 +412,6 @@ Link: https://www.youtube.com/watch?v=pk85E4coE9E
 This week on Fully Ramblomatic, Yahtzee reviewed Lego Batman: Legacy of the Dark Knight. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
 Link: https://www.youtube.com/watch?v=6Qackci5wVo
-
-### PlayStation State of Play Watchalong [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Summer Game Fest (RIP E3) is here, and we're kicking this off with a Second Wind watchalong PlayStation's big State of Play showcase, featuring Insomniac's Wolverine.
-
-Link: https://www.youtube.com/watch?v=sVYCoQ5kIFA
-
-### Could Grogu Survive in the Backrooms? | The Rewind Podcast [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on The Rewind, Jack is out, so Darren and Marty enlisted Nick and JM8 to come chat about The Mandalorian and Grogu, Backrooms, and everything else they've been watching.
-
-Link: https://www.youtube.com/watch?v=x1G_PDjbpPA
 
 ## Entertainment Recommendations
 
