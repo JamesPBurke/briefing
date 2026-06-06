@@ -1,38 +1,58 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-06T14:00:02.353792Z",
-  "generatedAtDisplay": "2026-06-06 10:00 AM EDT",
+  "generatedAt": "2026-06-06T18:04:21.889905Z",
+  "generatedAtDisplay": "2026-06-06 02:04 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are Maja Chwalinska v Mirra Andreeva: French Open 2026 women’s singles final – live, All-white jury selected in murder trial over killing at 2025 Texas high school, and Drought and floods drove them from their homes. But hunger and poverty have followed them to a Mogadishu camp.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Stevie Nicks donates $3m to medical school to recognize her voice doctor, The cutest games from the Wholesome Direct 2026 showcase, and ‘It’s like they’re kidnapped there’: families tell of distress over ‘inhumane’ ICE jail.",
   "mainItems": [
     {
-      "title": "Maja Chwalinska v Mirra Andreeva: French Open 2026 women’s singles final – live",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/sport/live/2026/jun/06/maja-chwalinska-mirra-andreeva-french-open-2026-womens-singles-final-live",
-      "published": "2026-06-06T13:48:59+00:00",
-      "summary": "Game-by-game final updates from 2pm UK time Cobolli out to jump queue in men’s final against Zverev You can email Katy | Sign up for The Hotspot Road to the final.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "All-white jury selected in murder trial over killing at 2025 Texas high school",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/jun/06/trial-killing-2025-texas-high-school-track-meet",
-      "published": "2026-06-06T13:00:06+00:00",
-      "summary": "Karmelo Anthony, who is Black, is accused of stabbing Austin Metcalf, who was white, at track meet in an affluent Dallas suburb Sign up for the Breaking News US newsletter email After a 2025 high school track meet in Frisco, Texas , ended…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Drought and floods drove them from their homes. But hunger and poverty have followed them to a Mogadishu camp",
+      "title": "Stevie Nicks donates $3m to medical school to recognize her voice doctor",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/global-development/2026/jun/06/somalia-drought-floods-hunger-displaced-camps-war-aid",
-      "published": "2026-06-06T13:00:05+00:00",
-      "summary": "More than 6.5 million Somalis have been pushed to the brink of severe hunger as the climate crisis, fighting and cuts in aid leave a trail of despair For three years, Zeynab Ibrahim watched as her little town shrivelled up and died.",
+      "url": "https://www.theguardian.com/music/2026/jun/06/stevie-nicks-donates-ucs-medical-school",
+      "published": "2026-06-06T16:53:18+00:00",
+      "summary": "Musician donated to USC to help create endowed chair to recognize Dr Joseph Sugerman, who treated her for years Legendary singer-songwriter Stevie Nicks has given $3m to the University of Southern California’s medical school to recognize…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The cutest games from the Wholesome Direct 2026 showcase",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers",
+      "published": "2026-06-06T16:48:25+00:00",
+      "summary": "Every year at Summer Game Fest, nestled in between the splashy blockbuster showcases, the Wholesome Direct provides a nice change of pace.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘It’s like they’re kidnapped there’: families tell of distress over ‘inhumane’ ICE jail",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jun/07/ice-jail-new-jersey-delaney-hall",
+      "published": "2026-06-06T16:00:08+00:00",
+      "summary": "As detainees go on hunger strike over conditions at Delaney Hall, relatives describe concern for loved ones’ wellbeing In mid-May, Elder Guerra was showering inside the Delaney Hall immigration detention facility when he slipped and fell.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Party poopers: New Yorkers sniff at pet owners leaving behind animal waste",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jun/06/dog-poop-new-york-city-sidewalks",
+      "published": "2026-06-06T14:00:09+00:00",
+      "summary": "Increase in complaints about the hazardous eye sore has prompted city to take action to curb irresponsible owners Kumar Satya has lived in Manhattan’s Washington Heights neighborhood since 2017 and said he loves the local parks, how people…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Trump cries ‘steal’ over slow California vote count, but anti-fraud system works, say experts",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jun/06/california-slow-vote-count",
+      "published": "2026-06-06T14:00:08+00:00",
+      "summary": "State’s tortoise-like pace is byproduct of system of verifications and opportunities for voters to fix errors California’s slow vote counting has frustrated political observers eagerly awaiting results, and handed Donald Trump and others…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -57,34 +77,44 @@
       "score": 10
     },
     {
-      "title": "Trump is turning the organs of the state against his personal enemies. Look at E Jean Carroll | Moira Donegan",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/06/trump-e-jean-carroll-justice-department",
-      "published": "2026-06-06T10:00:03+00:00",
-      "summary": "The justice department decision to launch a criminal investigation into Carroll is a troubling, dark turn Donald Trump is accused of raping E Jean Carroll, the magazine writer, in the dressing room of a Manhattan department store sometime…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "ICE deported his dad. Now he’s graduating high school without him",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/06/his-dad-was-deported-high-school-graduation",
-      "published": "2026-06-06T10:00:01+00:00",
-      "summary": "Mark, 17, struggled to make it through senior year after his dad was deported to El Salvador.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Summer Game Fest Live 2026: The biggest news, trailers, and announcements",
+      "title": "GOG apologizes for emailing people Nazi symbols",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements",
-      "published": "2026-06-06T00:24:19+00:00",
-      "summary": "Geoff Keighley’s annual June showcase for videos games has officially happened, and it was a big one.",
+      "url": "https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun",
+      "published": "2026-06-06T17:59:37+00:00",
+      "summary": "GOG sent a newsletter about the game The End of the Sun on June 5th that included symbols associated with the Nazi SS.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
+      "score": 9
+    },
+    {
+      "title": "Suit filed against controversial planned Stratos datacenter project in Utah",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/jun/06/stratos-datacenter-utah-suit",
+      "published": "2026-06-06T15:46:05+00:00",
+      "summary": "Plan backed by Shark Tank’s Kevin O’Leary had footprint reduced but concerns remain over its health impacts Utah residents have teamed up with a progressive non-profit organization to sue over an under-development AI datacenter backed by…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
+    },
+    {
+      "title": "Bruised Democrats weigh how to win back voters, and regain power: ‘We’ve got to fight’",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/jun/06/democrats-win-back-voters",
+      "published": "2026-06-06T10:00:01+00:00",
+      "summary": "The party may reclaim the US House and even Senate, but primary candidates are far from united on how to move forward Across the country, in front yards and on main streets, at dairy breakfasts and inside breweries, voters are delivering a…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Gov. Ayotte Signs Bill to Give Retired Grandparents Access to State Childcare Scholarship",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/zero2eight/gov-ayotte-signs-bill-to-give-retired-grandparents-access-to-state-childcare-scholarship/",
+      "published": "2026-06-06T16:30:00+00:00",
+      "summary": "On Friday, New Hampshire Gov. Kelly Ayotte signed Senate Bill 608 into law, which allows retirees taking care of children to access the state’s childcare assistance program.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 8
     },
     {
       "title": "Scientists Discover Hidden Symmetry on Earth That Nobody Can Explain",
@@ -97,16 +127,6 @@
       "score": 8
     },
     {
-      "title": "UC Berkeley professor Zvezdelina Stankova explains push to reinstate standardized exams",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/06/06/nx-s1-5845846/uc-berkeley-professor-zvezdelina-stankova-explains-push-to-reinstate-standardized-exams",
-      "published": "2026-06-06T11:41:05+00:00",
-      "summary": "NPR's Eyder Peralta speaks with University of California, Berkeley math professor Zvezdelina Stankova about efforts to bring back standardized exams as part of the admissions process.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 8
-    },
-    {
       "title": "CDC report: Ebola outbreak could rival the worst on record unless world acts",
       "source": "NPR Health",
       "category": "Science / health",
@@ -114,26 +134,6 @@
       "published": "2026-06-05T20:35:06+00:00",
       "summary": "New modeling from the CDC shows that if measures aren't taken immediately, this outbreak could sicken more than 20,000 people in the next three months.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
-    },
-    {
-      "title": "How David Bowie Inspired Sam Reid’s Performance in The Vampire Lestat",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/david-bowie-sam-reid-the-vampire-lestat/",
-      "published": "2026-06-05T17:13:45+00:00",
-      "summary": "In a press conference hosted by the Television Critics Association, Sam Reid dished on his inspirations for Lestat's onstage persona The post How David Bowie Inspired Sam Reid’s Performance in The Vampire Lestat appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 7
-    },
-    {
-      "title": "A Personal TomDispatch Farewell",
-      "source": "The Nation",
-      "category": "Security / computing",
-      "url": "https://www.thenation.com/article/society/tomdispatch-farewell/",
-      "published": "2026-06-05T14:11:07+00:00",
-      "summary": "Tom Engelhardt After 24 years of incisive reporting and commentary on America's destructive imperial exploits, Tom is passing the torch. The post A Personal TomDispatch Farewell appeared first on The Nation .",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 7
     }
   ],
@@ -159,17 +159,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=iz7elwbqZVI",
-      "published": "2026-06-03T17:00:19+00:00",
-      "summary": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     },
     {
       "title": "Fuzzing Programs to Find Bugs - Computerphile",
@@ -238,15 +227,15 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Scary Movie Cast Answer The 50 Most Searched Scary Movie Questions",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=zGdqYOCR-2M",
-      "published": "2026-06-03T16:00:08+00:00",
-      "summary": "WIRED tasks Anna Faris, Marlon Wayans and Shawn Wayans to answer the 50 most searched _Scary Movie_ questions. Watch more from WIRED | 50 Most Searched: https://youtube.",
+      "title": "Trump administration dismantling deep-sea observation system",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=YZAiSvvOKI0",
+      "published": "2026-06-06T15:00:27+00:00",
+      "summary": "The Trump administration is dismantling a deep-sea observation system that provides data to scientists worldwide. The Ocean Observatories Initiative has provided real-time data on the world’s oceans for a decade.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Trump announces a new pedestrian bridge project near National Mall",
@@ -315,15 +304,26 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "What might an end to U.S.-backed military support mean for Israel?",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=j5dNoz8PRrc",
-      "published": "2026-06-05T13:30:17+00:00",
-      "summary": "Despite recent frustrations between President Donald Trump and Israeli Prime Minister Benjamin Netanyahu, the U.S.-Israel alliance remains strong. That relationship includes the U.S.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "What's The Point Of Nvidia's RTX Spark Laptops?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=afYogJmI5PA",
+      "published": "2026-06-06T16:00:25+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wjCwIkqPIaQ ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 8,
       "verdict": "Worth watching"
+    },
+    {
+      "title": "The Witcher 3 Is Getting A New Expansion + New Minimum PC Specs",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=KDKFKIbai64",
+      "published": "2026-06-06T15:00:12+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Marvel's Wolverine Full Gameplay Reveal Reaction",
@@ -344,8 +344,8 @@
       "published": "2026-06-05T16:00:01+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "COD Modern Warfare 4 Coming To Switch 2 on Day One - Reaction",
@@ -365,28 +365,6 @@
       "url": "https://www.youtube.com/watch?v=qQ_afd6jDz0",
       "published": "2026-06-04T16:00:35+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/OxIot1NRpyo ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Did Any UE5 Shipping Games Match The Quality Of The Matrix Awakens?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=rbzSlRfu8tQ",
-      "published": "2026-06-03T18:00:14+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://www.youtube.com/watch?v=jRfDuHfSCrE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Why Our Xbox 007 First Light Review Is Late",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=2BvTx671_z8",
-      "published": "2026-06-03T16:00:31+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -700,6 +678,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
+    },
+    {
+      "title": "Stillwater — Understanding Big Feelings | Season 4 Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=4ephDc26eFY",
+      "published": "2026-06-06T13:59:56+00:00",
+      "summary": "Stillwater explains to Addy how to deal with big emotions. Stillwater — Now Streaming #Stillwater #Scene #AppleTV",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
     }
   ],
   "recommendations": {
@@ -813,8 +802,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 31,
-    "trailerCount": 20,
-    "sourceCount": 20
+    "youtubeCount": 29,
+    "trailerCount": 21,
+    "sourceCount": 18
   }
 }
