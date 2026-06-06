@@ -1,68 +1,68 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-05T14:00:02.893190Z",
-  "generatedAtDisplay": "2026-06-05 10:00 AM EDT",
+  "generatedAt": "2026-06-06T05:00:02.729204Z",
+  "generatedAtDisplay": "2026-06-06 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Games / criticism, Democracy / press freedom, Education / pedagogy. The strongest items in this run are Opinion: How the ‘Southern Surge’ Passed Oklahoma By, Xbox boss Asha Sharma still can't seem to decide on a stance regarding console exclusivity, and Marathon Deluxe Edition discount offers free-trail players bonuses without the full game, confusion ensues.",
+  "summary": "Today's sweep leans toward Games / criticism, Democracy / press freedom, AI / computing. The strongest items in this run are Trump news at a glance: new intelligence director given green light to fire ‘a lot of people’, Brace yourself, Mr Bond: 007 First Light is getting some pirate king DLC alongside New Game+ and extra TacSim challenges, and Summer Game Fest Live 2026: The biggest news, trailers, and announcements.",
   "mainItems": [
     {
-      "title": "Opinion: How the ‘Southern Surge’ Passed Oklahoma By",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/how-the-southern-surge-passed-oklahoma-by/",
-      "published": "2026-06-05T12:30:00+00:00",
-      "summary": "In poorer states like Oklahoma, we’ve often heard a sardonic refrain whenever the conversation turns to bad news about health or education: “Thank God for Mississippi.” I grew up hearing that line.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Xbox boss Asha Sharma still can't seem to decide on a stance regarding console exclusivity",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/xbox-exclusives-asha-sharma-interview",
-      "published": "2026-06-05T12:27:10+00:00",
-      "summary": "Newly-appointed Xbox CEO, Asha Sharma, has now spent over 100 days in her new role.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Marathon Deluxe Edition discount offers free-trail players bonuses without the full game, confusion ensues",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/marathon-deluxe-edition-discount-change",
-      "published": "2026-06-05T12:16:54+00:00",
-      "summary": "Some confusion around Marathon's Deluxe edition appears to be popping up, as a discounted deluxe edition version of the game bought by many PlayStation users does not actually include the full game. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
-      "published": "2026-06-05T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "‘I would draw blood’: Jemaine Clement and Nicola Walker’s wild wrongcom about sexual betrayal",
+      "title": "Trump news at a glance: new intelligence director given green light to fire ‘a lot of people’",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/05/jemaine-clement-nicola-walker-interview-alice-and-steve-disney",
-      "published": "2026-06-05T12:00:34+00:00",
-      "summary": "What if your best mate slept with your child? The stars of Alice and Steve, the new taboo-busting comedy about friends at war, open up about drug-taking, iffy sex – and why British jokes are so hard to understand Alice and Steve, the new…",
+      "url": "https://www.theguardian.com/us-news/2026/jun/06/trump-news-latest-updates-today",
+      "published": "2026-06-06T01:09:32+00:00",
+      "summary": "Trump says Bill Pulte is ‘less shackled’ because he has only been appointed director of national intelligence temporarily.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "US Senate passes $70bn immigration bill after clashes over settlement fund",
-      "source": "The Guardian US",
+      "title": "Brace yourself, Mr Bond: 007 First Light is getting some pirate king DLC alongside New Game+ and extra TacSim challenges",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/brace-yourself-mr-bond-007-first-light-is-getting-some-pirate-king-dlc-alongside-new-game-and-extra-tacsim-challenges",
+      "published": "2026-06-06T00:39:39+00:00",
+      "summary": "Io Interactive's Hitmanly Bond adventure 007 First Light is getting some DLC, and the DLC involves PIRATES.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Summer Game Fest Live 2026: The biggest news, trailers, and announcements",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements",
+      "published": "2026-06-06T00:24:19+00:00",
+      "summary": "Geoff Keighley’s annual June showcase for videos games has officially happened, and it was a big one.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Day of the Devs 2026 - everything announced in the big Summer Game Fest indie showcase",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/day-of-the-devs-2026-everything-announced-summer-game-fest-indie-showcase",
+      "published": "2026-06-06T00:05:49+00:00",
+      "summary": "Summer Game Fest's glitzy flagship showcase might be over for another year, but that doesn't mean we're done just yet - far from it ! There'll be more bluster to come on Sunday when Microsoft shares its wares during the Xbox Games…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Square Enix reveal Final Fantasy 7: Revelation, the final part of the remake trilogy, coming to PC in 2027",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/square-enix-reveal-final-fantasy-7-revelation-the-final-part-of-the-remake-trilogy-coming-to-pc-in-2027",
+      "published": "2026-06-06T00:04:59+00:00",
+      "summary": "Square Enix have announced the third part of their Final Fantasy 7 action RPG remake trilogy. It's called Final Fantasy 7 Revelation, and it's out on all platforms including PC in spring 2027. Yep, there's no wait for a port this time.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Monster Hunter Ascendance is to Wilds what Iceborne was to Monster Hunter World, coming 2027",
+      "source": "Eurogamer",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/05/senate-immigration-bill-funding",
-      "published": "2026-06-05T11:35:47+00:00",
-      "summary": "Senate votes 52-47 to fund ICE and border patrol for next three years, sending legislation to the House US politics live – latest updates The US Senate passed legislation to fund Donald Trump’s controversial immigration crackdown early on…",
+      "url": "https://www.eurogamer.net/monster-hunter-ascendance-wilds-coming-2027",
+      "published": "2026-06-05T23:16:43+00:00",
+      "summary": "Monster Hunter Wilds ' first expansion, Ascendance, has finally been revealed. In a trailer at Summer Games Fest 2026, Capcom unveiled the future of the game with a massive new expansion called Ascendance. Read more",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -77,67 +77,78 @@
       "score": 10
     },
     {
-      "title": "‘Alligator Alcatraz’ detainees say guards deny them food and clean water until they sign English documents",
+      "title": "Anthony Head brought gravitas to Buffy and everything else he touched | Jesse Hassenger",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jun/05/alligator-alcatraz-detainees-denied-food-water",
-      "published": "2026-06-05T11:00:33+00:00",
-      "summary": "Detainees say they’re given ‘rotten’ water and denied meals for not signing papers in English that they don’t understand Detainees at Florida’s notorious “ Alligator Alcatraz ” immigration jail said guards were denying them food and fresh…",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance",
+      "published": "2026-06-05T19:11:14+00:00",
+      "summary": "The late actor was a charming and funny father figure, and sometime singer, in the cult TV show, one of his many roles that showed just how much he could do Anthony Head, Buffy the Vampire Slayer and Ted Lasso actor, dies aged 72 For…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "The World Cup vs. bugs, germs and heat: Here's the game plan",
+      "title": "Opinion: How the ‘Southern Surge’ Passed Oklahoma By",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/how-the-southern-surge-passed-oklahoma-by/",
+      "published": "2026-06-05T12:30:00+00:00",
+      "summary": "In poorer states like Oklahoma, we’ve often heard a sardonic refrain whenever the conversation turns to bad news about health or education: “Thank God for Mississippi.” I grew up hearing that line.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "CDC report: Ebola outbreak could rival the worst on record unless world acts",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/05/nx-s1-5846403/world-cup-mosquitoes-ebola-heat",
-      "published": "2026-06-05T10:59:43+00:00",
-      "summary": "Despite a diminished federal presence, public health departments are preparing for common ailments that could afflict fans who gather for the event — and are keeping an eye on the Ebola outbreak, too.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "Elon Musk tries again to escape FTC audits of X data handling",
-      "source": "Ars Technica",
-      "category": "AI / privacy",
-      "url": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
-      "published": "2026-06-04T19:49:12+00:00",
-      "summary": "Musk can't be trusted to protect X user privacy, public commenters warn FTC.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "Satya Nadella ‘Not Sure’ Who Said Microsoft Wanted to Make Addictive AI, Is Looking for Guy Who Did This",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/satya-nadella-not-sure-who-said-microsoft-wanted-to-make-addictive-ai-is-looking-for-guy-who-did-this/",
-      "published": "2026-06-04T22:03:02+00:00",
-      "summary": "Microsoft's CEO seems unaware of what's going on at his own company.",
+      "url": "https://www.npr.org/2026/06/05/nx-s1-5848082/ebola-virus-cdc-outbreak-democratic-republic-congo-uganda",
+      "published": "2026-06-05T20:35:06+00:00",
+      "summary": "New modeling from the CDC shows that if measures aren't taken immediately, this outbreak could sicken more than 20,000 people in the next three months.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Devil in Silver: Aasif Mandvi Talks About Shooting Dr. Anand’s Major Scene",
+      "title": "K-pop Fans Are Calling Out Creepy Deepfakes of Idols",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/k-pop-fans-deepfakes-ai-generated-idols/",
+      "published": "2026-06-05T14:52:30+00:00",
+      "summary": "With some fans making sexualized AI-generated images and videos of idols, the rest of the fandom is standing up against the behavior.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "How David Bowie Inspired Sam Reid’s Performance in The Vampire Lestat",
       "source": "Reactor",
       "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/the-terror-devil-in-silver-aasif-mandvi-dr-anand-interview/",
-      "published": "2026-06-05T13:30:00+00:00",
-      "summary": "Reactor interviewed Mandvi about his character's journey over the course of the show. The post Devil in Silver : Aasif Mandvi Talks About Shooting Dr. Anand’s Major Scene appeared first on Reactor .",
+      "url": "https://reactormag.com/david-bowie-sam-reid-the-vampire-lestat/",
+      "published": "2026-06-05T17:13:45+00:00",
+      "summary": "In a press conference hosted by the Television Critics Association, Sam Reid dished on his inspirations for Lestat's onstage persona The post How David Bowie Inspired Sam Reid’s Performance in The Vampire Lestat appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 7
     },
     {
-      "title": "I wrote about George Santos. Then he made a violent threat and lied about it",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/06/04/nx-s1-5846966/george-santos-kalshi-threats",
-      "published": "2026-06-04T23:39:40+00:00",
-      "summary": "NPR reported on new federal investigations examining the former Congressman's bets on the prediction market site Kalshi. Then he threatened the NPR reporter who broke the story.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "title": "A Personal TomDispatch Farewell",
+      "source": "The Nation",
+      "category": "Security / computing",
+      "url": "https://www.thenation.com/article/society/tomdispatch-farewell/",
+      "published": "2026-06-05T14:11:07+00:00",
+      "summary": "Tom Engelhardt After 24 years of incisive reporting and commentary on America's destructive imperial exploits, Tom is passing the torch. The post A Personal TomDispatch Farewell appeared first on The Nation .",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 7
     }
   ],
   "youtube": [
+    {
+      "title": "DeepMind’s New AI Found A Strange New Way To Think",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=Dkqzqw8rxXI",
+      "published": "2026-06-05T15:50:26+00:00",
+      "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://github.com/google-deepmind/alphaproof-nexus-results https://arxiv.org/html/2605.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
     {
       "title": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
       "source": "Two Minute Papers",
@@ -172,12 +183,34 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "Can The Mandalorian Beat Darth Vader?",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=hQ32BrCQ9Do",
+      "published": "2026-06-05T17:00:01+00:00",
+      "summary": "[heavy mechanical breathing] Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.com/wired-ytc-desc Want more WIRED? Get the magazine ►► https://subscribe.wired.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Who's Stronger: He-Man or Superman?",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=WRvp-POegQo",
+      "published": "2026-06-05T15:00:03+00:00",
+      "summary": "Thought it's happened in the DC Comics Universe, He-Man has only beaten Superman through magical enhancement or extenuating circumstances, never cleanly on his own, suggesting Superman has the edge.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Masters of the Universe Cast Answer The 50 Most Searched He-Man Questions",
       "source": "WIRED",
       "category": "Tech / media",
       "url": "https://www.youtube.com/watch?v=iYdg_caRxf8",
       "published": "2026-06-04T16:00:03+00:00",
-      "summary": "WIRED tasks Nicholas Galitzine (He-Man), Camila Mendes (Teela) and director Travis Knight to answer the 50 most searched _Masters of the Universe_ questions. _Masters of the Universe_ opens exclusively in U.S. theaters June 5, 2025.",
+      "summary": "WIRED tasks Nicholas Galitzine (He-Man), Camila Mendes (Teela) and director Travis Knight with answering the 50 most searched _Masters of the Universe_ questions. _Masters of the Universe_ opens exclusively in U.S. theaters June 5, 2025.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -205,15 +238,70 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Tom Scott Answers Content Creator Questions | Tech Support | WIRED",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=bx6_jj9RxhI",
-      "published": "2026-06-02T19:00:03+00:00",
-      "summary": "YouTuber Tom Scott joins WIRED to answer the internet’s burning content creator and YouTube strategy questions.",
+      "title": "Trump announces a new pedestrian bridge project near National Mall",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Ru9yBaj56kE",
+      "published": "2026-06-05T22:00:14+00:00",
+      "summary": "President Trump announced plans Thursday to build another project near the National Mall in Washington, D.C. A new pedestrian bridge or promenade would connect the Lincoln Memorial to the Potomac River.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Israel has killed at least 129 first responders and medical staff in its war with Hezbollah",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=fev7LpnIXLI",
+      "published": "2026-06-05T21:30:23+00:00",
+      "summary": "Israel has killed at least 129 first responders and medical staff in its war with Hezbollah, the Lebanese government says.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "New papers say tobacco company tactics are being used to sell ultra-processed foods",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=6_ChuQWLgGE",
+      "published": "2026-06-05T21:30:00+00:00",
+      "summary": "A series of papers published in the \"American Journal of Public Health\" argue ultra-processed foods are the new war on tobacco, as health advocates are saying it’s time to regulate them.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Netanyahu's actions could interfere with what Trump wants to achieve with Iran",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=YGXzZwjXDlo",
+      "published": "2026-06-05T20:30:07+00:00",
+      "summary": "President Trump has spent weeks trying to bring an end to the U.S.-Israel war with Iran. Meanwhile, Israeli Prime Minister Benjamin Netanyahu continues Israel's war with Lebanon and intermittent fighting in Gaza.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Jill Biden shares her perspective on her husband's decision to stay in the 2024 presidential race",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=XeOK7cIaNtM",
+      "published": "2026-06-05T14:15:20+00:00",
+      "summary": "How did Former President Joe Biden and First Lady Jill Biden balance deeply personal decisions, like his decision to stay in the 2024 presidential race as long as he did, with the national implications? Jill Biden writes about that and…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "U.S. aid cuts are affecting HIV/AIDS care in Sub-Saharan Africa",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=vJ_20MMeSaE",
+      "published": "2026-06-05T14:00:31+00:00",
+      "summary": "Massive gas shortages brought on by the U.S. war with Iran are making it harder for patients to seek medical attention and for doctors to visit them in Mozambique, where over 10 percent of the population lives with HIV.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "What might an end to U.S.-backed military support mean for Israel?",
@@ -223,74 +311,30 @@
       "published": "2026-06-05T13:30:17+00:00",
       "summary": "Despite recent frustrations between President Donald Trump and Israeli Prime Minister Benjamin Netanyahu, the U.S.-Israel alliance remains strong. That relationship includes the U.S.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Trump, Netanyahu at odds / Elusive Iran deal",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=eMDaRJSWPZA",
-      "published": "2026-06-04T22:01:42+00:00",
-      "summary": "President Trump and Israeli Prime Minister Benjamin Netanyahu started the war with Iran together, but they have different ideas for how to end it. Host Scott Detrow steps in for Mary Louise Kelly again this week.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Jill Biden on why she left the room when former Pres. Biden asked Kamala Harris to run",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=qDfsIwzvXR4",
-      "published": "2026-06-04T20:00:07+00:00",
-      "summary": "Former first lady Jill Biden is opening up about her experiences in the White House, and a pivotal moment that brought the end of that era: July 21, 2024, when President Joe Biden decided to end his bid for a second term.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
     },
     {
-      "title": "Trump taps former private prisons executive to run ICE",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=o-7U3rWTR_w",
-      "published": "2026-06-04T18:30:30+00:00",
-      "summary": "President Trump has named David Venturella as the acting director of Immigration and Customs Enforcement. He was previously an executive with the private prison company, GEO Group.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Study: National Guard does little to reduce violent crime in D.C. despite $1.5 million cost",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=3uNeTo4KpNI",
-      "published": "2026-06-04T18:00:38+00:00",
-      "summary": "A new study suggests President Trump’s deployment of National Guard troops to Washington, D.C., has had little effect on violent crime, despite the high cost to U.S. taxpayers.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Bestselling author Ann Patchett on if she's considering retirement",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=s-rQjPV-Ddw",
-      "published": "2026-06-03T19:00:25+00:00",
-      "summary": "Several of the characters in Ann Patchett's latest novel \"Whistler\" are nearing or have reached retirement. They tour museums during the week, host brunches and take afternoon sails.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Marvel's Wolverine Full Gameplay Reveal Reaction",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=KuRvP6p-jXc",
+      "published": "2026-06-05T16:00:09+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/OxIot1NRpyo ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
     },
     {
-      "title": "DOJ investigating former Congressman George Santos for insider trading on Kalshi",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=Gy7DQtIf9e0",
-      "published": "2026-06-03T18:30:29+00:00",
-      "summary": "Federal investigators are examining the prediction market trades of former New York Republican Congressman George Santos — in the latest case that's raising questions about insider trading on the betting sites.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "title": "Metal Gear Solid 4 on PS5 - One Hour Demo - Reaction",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=OSVkOBxeifY",
+      "published": "2026-06-05T16:00:01+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "COD Modern Warfare 4 Coming To Switch 2 on Day One - Reaction",
@@ -300,8 +344,8 @@
       "published": "2026-06-04T17:00:25+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "God of War Laufey 20 Minute Gameplay Demo - Reaction",
@@ -337,44 +381,11 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Is RTX 4090 Destined To Become A \"Fine Wine\" GPU Legend?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=vIRPQ5JNMz4",
-      "published": "2026-06-02T18:00:03+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://www.youtube.com/watch?v=jRfDuHfSCrE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "007 First Light Launches With Big DLSS/FSR Upscaling Issues",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=IXVPwiccY8I",
-      "published": "2026-06-02T17:00:24+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Shocking Steam Deck Price Increases: What Does It Mean For Steam Machine?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=w8N-lllVcoU",
-      "published": "2026-06-02T16:00:35+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
       "title": "Summer Game Fest 2026 Watchalong",
       "source": "Second Wind",
       "category": "Games / criticism",
       "url": "https://www.youtube.com/watch?v=R0oJMV2roVw",
-      "published": "2026-06-05T12:39:02+00:00",
+      "published": "2026-06-06T00:17:26+00:00",
       "summary": "Join us in this watchalong Geoff Keighley's Summer Game Fest 2026 showcase. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
@@ -385,11 +396,22 @@
       "source": "Second Wind",
       "category": "Games / criticism",
       "url": "https://www.youtube.com/watch?v=10iMLjy6JYw",
-      "published": "2026-06-05T12:36:24+00:00",
+      "published": "2026-06-05T19:12:54+00:00",
       "summary": "This video is brough to you by Astral Lords, available now on Steam -- https://bit.ly/Astral_Lords_SW If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
+    },
+    {
+      "title": "The End of Destiny | Unpacked",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=k8vrYeO60pg",
+      "published": "2026-06-05T15:00:14+00:00",
+      "summary": "This week on Unpacked we're taking a look at the sudden (or not so sudden) end of Destiny. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Summer Game Fest Predictions and Speculation | Firelink Podcast",
@@ -399,8 +421,8 @@
       "published": "2026-06-05T02:35:29+00:00",
       "summary": "This week on Firelink, Nick, KC, and Marty give their thoughts on Tuesday's State of Play showcase before looking forward to this weekend's Summer Game Fest shenanigans.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Taking Your (Strange or Normal) TTRPG Questions | RPG Help Desk",
@@ -442,17 +464,6 @@
       "url": "https://www.youtube.com/watch?v=pk85E4coE9E",
       "published": "2026-06-03T22:11:30+00:00",
       "summary": "This week on Yahtzee Tries... Yahtzee and JM8 try out Better Than Dead and Stonemachia. Better Than Dead -- https://store.steampowered.com/app/2599690/Better_Than_Dead/ Stonemachia -- https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Lego Batman: Legacy of the Dark Knight | Fully Ramblomatic",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=6Qackci5wVo",
-      "published": "2026-06-03T16:00:20+00:00",
-      "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Lego Batman: Legacy of the Dark Knight. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
@@ -581,6 +592,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "what can’t she do?? Office Romance is now playing",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=0mwreY8Z2J0",
+      "published": "2026-06-05T16:00:14+00:00",
+      "summary": "what can’t she do?? Office Romance is now playing Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Oasis | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -666,17 +688,6 @@
       "summary": "Frankelda, a determined 19th-century Mexican writer, journeys into her subconscious to face the monsters she’s written about. Guided by a tormented prince, she must restore the balance between fiction and reality before it’s too late.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "In the Hand of Dante | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=cXA3Zgsky18",
-      "published": "2026-05-28T14:00:00+00:00",
-      "summary": "In the Hand of Dante follows the parallel lives of a New York author (Nick Tosches) in the 21st century who embarks on a violent journey after he is recruited by a mafia don to steal Italian poet Dante Alighieri’s The Divine Comedy written…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
       "verdict": "Looks promising"
     }
   ],
@@ -791,7 +802,7 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 29,
+    "youtubeCount": 30,
     "trailerCount": 20,
     "sourceCount": 20
   }

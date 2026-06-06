@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-05T14:00:02.893190Z
+Generated: 2026-06-06T05:00:02.729204Z
 
-Today's sweep leans toward Games / criticism, Democracy / press freedom, Education / pedagogy. The strongest items in this run are Opinion: How the ‘Southern Surge’ Passed Oklahoma By, Xbox boss Asha Sharma still can't seem to decide on a stance regarding console exclusivity, and Marathon Deluxe Edition discount offers free-trail players bonuses without the full game, confusion ensues.
+Today's sweep leans toward Games / criticism, Democracy / press freedom, AI / computing. The strongest items in this run are Trump news at a glance: new intelligence director given green light to fire ‘a lot of people’, Brace yourself, Mr Bond: 007 First Light is getting some pirate king DLC alongside New Game+ and extra TacSim challenges, and Summer Game Fest Live 2026: The biggest news, trailers, and announcements.
 
 ## Briefing
 
@@ -33,59 +33,59 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Opinion: How the ‘Southern Surge’ Passed Oklahoma By [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 1. Trump news at a glance: new intelligence director given green light to fire ‘a lot of people’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-In poorer states like Oklahoma, we’ve often heard a sardonic refrain whenever the conversation turns to bad news about health or education: “Thank God for Mississippi.” I grew up hearing that line.
+Trump says Bill Pulte is ‘less shackled’ because he has only been appointed director of national intelligence temporarily.
 
-Link: https://www.the74million.org/article/how-the-southern-surge-passed-oklahoma-by/
+Link: https://www.theguardian.com/us-news/2026/jun/06/trump-news-latest-updates-today
 
-### 2. Xbox boss Asha Sharma still can't seem to decide on a stance regarding console exclusivity [10/10]
-**Source:** Eurogamer  
+### 2. Brace yourself, Mr Bond: 007 First Light is getting some pirate king DLC alongside New Game+ and extra TacSim challenges [10/10]
+**Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Newly-appointed Xbox CEO, Asha Sharma, has now spent over 100 days in her new role.
+Io Interactive's Hitmanly Bond adventure 007 First Light is getting some DLC, and the DLC involves PIRATES.
 
-Link: https://www.eurogamer.net/xbox-exclusives-asha-sharma-interview
+Link: https://www.rockpapershotgun.com/brace-yourself-mr-bond-007-first-light-is-getting-some-pirate-king-dlc-alongside-new-game-and-extra-tacsim-challenges
 
-### 3. Marathon Deluxe Edition discount offers free-trail players bonuses without the full game, confusion ensues [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Some confusion around Marathon's Deluxe edition appears to be popping up, as a discounted deluxe edition version of the game bought by many PlayStation users does not actually include the full game. Read more
-
-Link: https://www.eurogamer.net/marathon-deluxe-edition-discount-change
-
-### 4. The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains [10/10]
-**Source:** MIT Technology Review  
+### 3. Summer Game Fest Live 2026: The biggest news, trailers, and announcements [10/10]
+**Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+Geoff Keighley’s annual June showcase for videos games has officially happened, and it was a big one.
 
-Link: https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/
+Link: https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements
 
-### 5. ‘I would draw blood’: Jemaine Clement and Nicola Walker’s wild wrongcom about sexual betrayal [10/10]
-**Source:** The Guardian US  
+### 4. Day of the Devs 2026 - everything announced in the big Summer Game Fest indie showcase [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Summer Game Fest's glitzy flagship showcase might be over for another year, but that doesn't mean we're done just yet - far from it ! There'll be more bluster to come on Sunday when Microsoft shares its wares during the Xbox Games…
+
+Link: https://www.eurogamer.net/day-of-the-devs-2026-everything-announced-summer-game-fest-indie-showcase
+
+### 5. Square Enix reveal Final Fantasy 7: Revelation, the final part of the remake trilogy, coming to PC in 2027 [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Square Enix have announced the third part of their Final Fantasy 7 action RPG remake trilogy. It's called Final Fantasy 7 Revelation, and it's out on all platforms including PC in spring 2027. Yep, there's no wait for a port this time.
+
+Link: https://www.rockpapershotgun.com/square-enix-reveal-final-fantasy-7-revelation-the-final-part-of-the-remake-trilogy-coming-to-pc-in-2027
+
+### 6. Monster Hunter Ascendance is to Wilds what Iceborne was to Monster Hunter World, coming 2027 [10/10]
+**Source:** Eurogamer  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-What if your best mate slept with your child? The stars of Alice and Steve, the new taboo-busting comedy about friends at war, open up about drug-taking, iffy sex – and why British jokes are so hard to understand Alice and Steve, the new…
+Monster Hunter Wilds ' first expansion, Ascendance, has finally been revealed. In a trailer at Summer Games Fest 2026, Capcom unveiled the future of the game with a massive new expansion called Ascendance. Read more
 
-Link: https://www.theguardian.com/tv-and-radio/2026/jun/05/jemaine-clement-nicola-walker-interview-alice-and-steve-disney
-
-### 6. US Senate passes $70bn immigration bill after clashes over settlement fund [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Senate votes 52-47 to fund ICE and border patrol for next three years, sending legislation to the House US politics live – latest updates The US Senate passed legislation to fund Donald Trump’s controversial immigration crackdown early on…
-
-Link: https://www.theguardian.com/us-news/2026/jun/05/senate-immigration-bill-funding
+Link: https://www.eurogamer.net/monster-hunter-ascendance-wilds-coming-2027
 
 ### 7. ‘We call it the P-word’: Chicago professor suspended after assignment mentions Palestinians [10/10]
 **Source:** The Guardian US  
@@ -96,61 +96,70 @@ School of the Art Institute of Chicago professor put under investigation after a
 
 Link: https://www.theguardian.com/us-news/2026/jun/05/professor-suspended-assignment-mentions-palestinians
 
-### 8. ‘Alligator Alcatraz’ detainees say guards deny them food and clean water until they sign English documents [9/10]
+### 8. Anthony Head brought gravitas to Buffy and everything else he touched | Jesse Hassenger [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Detainees say they’re given ‘rotten’ water and denied meals for not signing papers in English that they don’t understand Detainees at Florida’s notorious “ Alligator Alcatraz ” immigration jail said guards were denying them food and fresh…
+The late actor was a charming and funny father figure, and sometime singer, in the cult TV show, one of his many roles that showed just how much he could do Anthony Head, Buffy the Vampire Slayer and Ted Lasso actor, dies aged 72 For…
 
-Link: https://www.theguardian.com/us-news/2026/jun/05/alligator-alcatraz-detainees-denied-food-water
+Link: https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance
 
-### 9. The World Cup vs. bugs, germs and heat: Here's the game plan [9/10]
+### 9. Opinion: How the ‘Southern Surge’ Passed Oklahoma By [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+In poorer states like Oklahoma, we’ve often heard a sardonic refrain whenever the conversation turns to bad news about health or education: “Thank God for Mississippi.” I grew up hearing that line.
+
+Link: https://www.the74million.org/article/how-the-southern-surge-passed-oklahoma-by/
+
+### 10. CDC report: Ebola outbreak could rival the worst on record unless world acts [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Despite a diminished federal presence, public health departments are preparing for common ailments that could afflict fans who gather for the event — and are keeping an eye on the Ebola outbreak, too.
+New modeling from the CDC shows that if measures aren't taken immediately, this outbreak could sicken more than 20,000 people in the next three months.
 
-Link: https://www.npr.org/2026/06/05/nx-s1-5846403/world-cup-mosquitoes-ebola-heat
+Link: https://www.npr.org/2026/06/05/nx-s1-5848082/ebola-virus-cdc-outbreak-democratic-republic-congo-uganda
 
-### 10. Elon Musk tries again to escape FTC audits of X data handling [9/10]
-**Source:** Ars Technica  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Musk can't be trusted to protect X user privacy, public commenters warn FTC.
-
-Link: https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/
-
-### 11. Satya Nadella ‘Not Sure’ Who Said Microsoft Wanted to Make Addictive AI, Is Looking for Guy Who Did This [8/10]
+### 11. K-pop Fans Are Calling Out Creepy Deepfakes of Idols [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-Microsoft's CEO seems unaware of what's going on at his own company.
+With some fans making sexualized AI-generated images and videos of idols, the rest of the fandom is standing up against the behavior.
 
-Link: https://www.404media.co/satya-nadella-not-sure-who-said-microsoft-wanted-to-make-addictive-ai-is-looking-for-guy-who-did-this/
+Link: https://www.404media.co/k-pop-fans-deepfakes-ai-generated-idols/
 
-### 12. Devil in Silver: Aasif Mandvi Talks About Shooting Dr. Anand’s Major Scene [7/10]
+### 12. How David Bowie Inspired Sam Reid’s Performance in The Vampire Lestat [7/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Reactor interviewed Mandvi about his character's journey over the course of the show. The post Devil in Silver : Aasif Mandvi Talks About Shooting Dr. Anand’s Major Scene appeared first on Reactor .
+In a press conference hosted by the Television Critics Association, Sam Reid dished on his inspirations for Lestat's onstage persona The post How David Bowie Inspired Sam Reid’s Performance in The Vampire Lestat appeared first on Reactor .
 
-Link: https://reactormag.com/the-terror-devil-in-silver-aasif-mandvi-dr-anand-interview/
+Link: https://reactormag.com/david-bowie-sam-reid-the-vampire-lestat/
 
-### 13. I wrote about George Santos. Then he made a violent threat and lied about it [7/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+### 13. A Personal TomDispatch Farewell [7/10]
+**Source:** The Nation  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-NPR reported on new federal investigations examining the former Congressman's bets on the prediction market site Kalshi. Then he threatened the NPR reporter who broke the story.
+Tom Engelhardt After 24 years of incisive reporting and commentary on America's destructive imperial exploits, Tom is passing the torch. The post A Personal TomDispatch Farewell appeared first on The Nation .
 
-Link: https://www.npr.org/2026/06/04/nx-s1-5846966/george-santos-kalshi-threats
+Link: https://www.thenation.com/article/society/tomdispatch-farewell/
 
 ## YouTube
+
+### DeepMind’s New AI Found A Strange New Way To Think [8/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://github.com/google-deepmind/alphaproof-nexus-results https://arxiv.org/html/2605.
+
+Link: https://www.youtube.com/watch?v=Dkqzqw8rxXI
 
 ### Meet the AI "Co-Scientist" Changing Everything 🤖🧪 #ai [7/10]
 **Creator:** Two Minute Papers  
@@ -179,12 +188,30 @@ Fuzzing is a technique to find programming bugs by testing with random inputs - 
 
 Link: https://www.youtube.com/watch?v=kaD54VXxGrI
 
+### Can The Mandalorian Beat Darth Vader? [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+[heavy mechanical breathing] Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.com/wired-ytc-desc Want more WIRED? Get the magazine ►► https://subscribe.wired.
+
+Link: https://www.youtube.com/watch?v=hQ32BrCQ9Do
+
+### Who's Stronger: He-Man or Superman? [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Thought it's happened in the DC Comics Universe, He-Man has only beaten Superman through magical enhancement or extenuating circumstances, never cleanly on his own, suggesting Superman has the edge.
+
+Link: https://www.youtube.com/watch?v=WRvp-POegQo
+
 ### Masters of the Universe Cast Answer The 50 Most Searched He-Man Questions [7/10]
 **Creator:** WIRED  
 **Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-WIRED tasks Nicholas Galitzine (He-Man), Camila Mendes (Teela) and director Travis Knight to answer the 50 most searched _Masters of the Universe_ questions. _Masters of the Universe_ opens exclusively in U.S. theaters June 5, 2025.
+WIRED tasks Nicholas Galitzine (He-Man), Camila Mendes (Teela) and director Travis Knight with answering the 50 most searched _Masters of the Universe_ questions. _Masters of the Universe_ opens exclusively in U.S. theaters June 5, 2025.
 
 Link: https://www.youtube.com/watch?v=iYdg_caRxf8
 
@@ -206,81 +233,90 @@ WIRED tasks Anna Faris, Marlon Wayans and Shawn Wayans to answer the 50 most sea
 
 Link: https://www.youtube.com/watch?v=zGdqYOCR-2M
 
-### Tom Scott Answers Content Creator Questions | Tech Support | WIRED [8/10]
-**Creator:** WIRED  
-**Verdict:** Worth watching  
+### Trump announces a new pedestrian bridge project near National Mall [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-YouTuber Tom Scott joins WIRED to answer the internet’s burning content creator and YouTube strategy questions.
+President Trump announced plans Thursday to build another project near the National Mall in Washington, D.C. A new pedestrian bridge or promenade would connect the Lincoln Memorial to the Potomac River.
 
-Link: https://www.youtube.com/watch?v=bx6_jj9RxhI
+Link: https://www.youtube.com/watch?v=Ru9yBaj56kE
 
-### What might an end to U.S.-backed military support mean for Israel? [9/10]
+### Israel has killed at least 129 first responders and medical staff in its war with Hezbollah [7/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Israel has killed at least 129 first responders and medical staff in its war with Hezbollah, the Lebanese government says.
+
+Link: https://www.youtube.com/watch?v=fev7LpnIXLI
+
+### New papers say tobacco company tactics are being used to sell ultra-processed foods [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+A series of papers published in the "American Journal of Public Health" argue ultra-processed foods are the new war on tobacco, as health advocates are saying it’s time to regulate them.
+
+Link: https://www.youtube.com/watch?v=6_ChuQWLgGE
+
+### Netanyahu's actions could interfere with what Trump wants to achieve with Iran [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+President Trump has spent weeks trying to bring an end to the U.S.-Israel war with Iran. Meanwhile, Israeli Prime Minister Benjamin Netanyahu continues Israel's war with Lebanon and intermittent fighting in Gaza.
+
+Link: https://www.youtube.com/watch?v=YGXzZwjXDlo
+
+### Jill Biden shares her perspective on her husband's decision to stay in the 2024 presidential race [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+How did Former President Joe Biden and First Lady Jill Biden balance deeply personal decisions, like his decision to stay in the 2024 presidential race as long as he did, with the national implications? Jill Biden writes about that and…
+
+Link: https://www.youtube.com/watch?v=XeOK7cIaNtM
+
+### U.S. aid cuts are affecting HIV/AIDS care in Sub-Saharan Africa [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Massive gas shortages brought on by the U.S. war with Iran are making it harder for patients to seek medical attention and for doctors to visit them in Mozambique, where over 10 percent of the population lives with HIV.
+
+Link: https://www.youtube.com/watch?v=vJ_20MMeSaE
+
+### What might an end to U.S.-backed military support mean for Israel? [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Despite recent frustrations between President Donald Trump and Israeli Prime Minister Benjamin Netanyahu, the U.S.-Israel alliance remains strong. That relationship includes the U.S.
 
 Link: https://www.youtube.com/watch?v=j5dNoz8PRrc
 
-### Trump, Netanyahu at odds / Elusive Iran deal [9/10]
-**Creator:** NPR  
-**Verdict:** Watch it  
-**Why it matters:** Relevant to your current interest graph.
-
-President Trump and Israeli Prime Minister Benjamin Netanyahu started the war with Iran together, but they have different ideas for how to end it. Host Scott Detrow steps in for Mary Louise Kelly again this week.
-
-Link: https://www.youtube.com/watch?v=eMDaRJSWPZA
-
-### Jill Biden on why she left the room when former Pres. Biden asked Kamala Harris to run [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Former first lady Jill Biden is opening up about her experiences in the White House, and a pivotal moment that brought the end of that era: July 21, 2024, when President Joe Biden decided to end his bid for a second term.
-
-Link: https://www.youtube.com/watch?v=qDfsIwzvXR4
-
-### Trump taps former private prisons executive to run ICE [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-President Trump has named David Venturella as the acting director of Immigration and Customs Enforcement. He was previously an executive with the private prison company, GEO Group.
-
-Link: https://www.youtube.com/watch?v=o-7U3rWTR_w
-
-### Study: National Guard does little to reduce violent crime in D.C. despite $1.5 million cost [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-A new study suggests President Trump’s deployment of National Guard troops to Washington, D.C., has had little effect on violent crime, despite the high cost to U.S. taxpayers.
-
-Link: https://www.youtube.com/watch?v=3uNeTo4KpNI
-
-### Bestselling author Ann Patchett on if she's considering retirement [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Several of the characters in Ann Patchett's latest novel "Whistler" are nearing or have reached retirement. They tour museums during the week, host brunches and take afternoon sails.
-
-Link: https://www.youtube.com/watch?v=s-rQjPV-Ddw
-
-### DOJ investigating former Congressman George Santos for insider trading on Kalshi [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Federal investigators are examining the prediction market trades of former New York Republican Congressman George Santos — in the latest case that's raising questions about insider trading on the betting sites.
-
-Link: https://www.youtube.com/watch?v=Gy7DQtIf9e0
-
-### COD Modern Warfare 4 Coming To Switch 2 on Day One - Reaction [7/10]
+### Marvel's Wolverine Full Gameplay Reveal Reaction [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/OxIot1NRpyo ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=KuRvP6p-jXc
+
+### Metal Gear Solid 4 on PS5 - One Hour Demo - Reaction [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=OSVkOBxeifY
+
+### COD Modern Warfare 4 Coming To Switch 2 on Day One - Reaction [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -314,33 +350,6 @@ Link: https://www.youtube.com/watch?v=rbzSlRfu8tQ
 
 Link: https://www.youtube.com/watch?v=2BvTx671_z8
 
-### Is RTX 4090 Destined To Become A "Fine Wine" GPU Legend? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://www.youtube.com/watch?v=jRfDuHfSCrE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=vIRPQ5JNMz4
-
-### 007 First Light Launches With Big DLSS/FSR Upscaling Issues [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=IXVPwiccY8I
-
-### Shocking Steam Deck Price Increases: What Does It Mean For Steam Machine? [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=w8N-lllVcoU
-
 ### Summer Game Fest 2026 Watchalong [8/10]
 **Creator:** Second Wind  
 **Verdict:** Worth watching  
@@ -359,9 +368,18 @@ This video is brough to you by Astral Lords, available now on Steam -- https://b
 
 Link: https://www.youtube.com/watch?v=10iMLjy6JYw
 
-### Summer Game Fest Predictions and Speculation | Firelink Podcast [8/10]
+### The End of Destiny | Unpacked [6/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Unpacked we're taking a look at the sudden (or not so sudden) end of Destiny. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=k8vrYeO60pg
+
+### Summer Game Fest Predictions and Speculation | Firelink Podcast [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Firelink, Nick, KC, and Marty give their thoughts on Tuesday's State of Play showcase before looking forward to this weekend's Summer Game Fest shenanigans.
@@ -403,15 +421,6 @@ Link: https://www.youtube.com/watch?v=em9o0RfVUnQ
 This week on Yahtzee Tries... Yahtzee and JM8 try out Better Than Dead and Stonemachia. Better Than Dead -- https://store.steampowered.com/app/2599690/Better_Than_Dead/ Stonemachia -- https://store.steampowered.
 
 Link: https://www.youtube.com/watch?v=pk85E4coE9E
-
-### Lego Batman: Legacy of the Dark Knight | Fully Ramblomatic [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Fully Ramblomatic, Yahtzee reviewed Lego Batman: Legacy of the Dark Knight. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
-
-Link: https://www.youtube.com/watch?v=6Qackci5wVo
 
 ## Entertainment Recommendations
 
@@ -541,6 +550,15 @@ Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by M
 
 Link: https://www.youtube.com/watch?v=sEz074LTiV8
 
+### what can’t she do?? Office Romance is now playing [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+what can’t she do?? Office Romance is now playing Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=0mwreY8Z2J0
+
 ### Oasis | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -612,12 +630,3 @@ Link: https://www.youtube.com/watch?v=yUrwmYdWz2s
 Frankelda, a determined 19th-century Mexican writer, journeys into her subconscious to face the monsters she’s written about. Guided by a tormented prince, she must restore the balance between fiction and reality before it’s too late.
 
 Link: https://www.youtube.com/watch?v=diRwnGRr-Ko
-
-### In the Hand of Dante | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-In the Hand of Dante follows the parallel lives of a New York author (Nick Tosches) in the 21st century who embarks on a violent journey after he is recruited by a mafia don to steal Italian poet Dante Alighieri’s The Divine Comedy written…
-
-Link: https://www.youtube.com/watch?v=cXA3Zgsky18
