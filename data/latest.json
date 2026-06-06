@@ -1,29 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-06T05:00:02.729204Z",
-  "generatedAtDisplay": "2026-06-06 01:00 AM EDT",
+  "generatedAt": "2026-06-06T14:00:02.353792Z",
+  "generatedAtDisplay": "2026-06-06 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Games / criticism, Democracy / press freedom, AI / computing. The strongest items in this run are Trump news at a glance: new intelligence director given green light to fire ‘a lot of people’, Brace yourself, Mr Bond: 007 First Light is getting some pirate king DLC alongside New Game+ and extra TacSim challenges, and Summer Game Fest Live 2026: The biggest news, trailers, and announcements.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are Maja Chwalinska v Mirra Andreeva: French Open 2026 women’s singles final – live, All-white jury selected in murder trial over killing at 2025 Texas high school, and Drought and floods drove them from their homes. But hunger and poverty have followed them to a Mogadishu camp.",
   "mainItems": [
     {
-      "title": "Trump news at a glance: new intelligence director given green light to fire ‘a lot of people’",
+      "title": "Maja Chwalinska v Mirra Andreeva: French Open 2026 women’s singles final – live",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/sport/live/2026/jun/06/maja-chwalinska-mirra-andreeva-french-open-2026-womens-singles-final-live",
+      "published": "2026-06-06T13:48:59+00:00",
+      "summary": "Game-by-game final updates from 2pm UK time Cobolli out to jump queue in men’s final against Zverev You can email Katy | Sign up for The Hotspot Road to the final.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "All-white jury selected in murder trial over killing at 2025 Texas high school",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/jun/06/trial-killing-2025-texas-high-school-track-meet",
+      "published": "2026-06-06T13:00:06+00:00",
+      "summary": "Karmelo Anthony, who is Black, is accused of stabbing Austin Metcalf, who was white, at track meet in an affluent Dallas suburb Sign up for the Breaking News US newsletter email After a 2025 high school track meet in Frisco, Texas , ended…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Drought and floods drove them from their homes. But hunger and poverty have followed them to a Mogadishu camp",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/06/trump-news-latest-updates-today",
-      "published": "2026-06-06T01:09:32+00:00",
-      "summary": "Trump says Bill Pulte is ‘less shackled’ because he has only been appointed director of national intelligence temporarily.",
+      "url": "https://www.theguardian.com/global-development/2026/jun/06/somalia-drought-floods-hunger-displaced-camps-war-aid",
+      "published": "2026-06-06T13:00:05+00:00",
+      "summary": "More than 6.5 million Somalis have been pushed to the brink of severe hunger as the climate crisis, fighting and cuts in aid leave a trail of despair For three years, Zeynab Ibrahim watched as her little town shrivelled up and died.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Brace yourself, Mr Bond: 007 First Light is getting some pirate king DLC alongside New Game+ and extra TacSim challenges",
-      "source": "Rock Paper Shotgun",
+      "title": "Opinion: How Time Spent Out of School Can Help Boost Attendance and Academic Success",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/how-time-spent-out-of-school-can-help-boost-attendance-and-academic-success/",
+      "published": "2026-06-06T10:30:00+00:00",
+      "summary": "Chronic absenteeism is one of the most persistent challenges facing schools today. A student is considered chronically absent after missing 10% of the school year, about 18 days in most districts. According to SchoolStatus, the U.S.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Studio behind Martha is Dead, the game too extreme for PlayStation, debuts gameplay from its psychological serial killer horror When Sirens Fall Silent",
+      "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/brace-yourself-mr-bond-007-first-light-is-getting-some-pirate-king-dlc-alongside-new-game-and-extra-tacsim-challenges",
-      "published": "2026-06-06T00:39:39+00:00",
-      "summary": "Io Interactive's Hitmanly Bond adventure 007 First Light is getting some DLC, and the DLC involves PIRATES.",
+      "url": "https://www.eurogamer.net/when-sirens-fall-silent-new-gameplay",
+      "published": "2026-06-06T10:10:44+00:00",
+      "summary": "LKA, the studio behind 2016's acclaimed The Town of Light and its controversial 2024 follow-up Martha is Dead, has shared first gameplay of its next project.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Trump is turning the organs of the state against his personal enemies. Look at E Jean Carroll | Moira Donegan",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/06/trump-e-jean-carroll-justice-department",
+      "published": "2026-06-06T10:00:03+00:00",
+      "summary": "The justice department decision to launch a criminal investigation into Carroll is a troubling, dark turn Donald Trump is accused of raping E Jean Carroll, the magazine writer, in the dressing room of a Manhattan department store sometime…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "ICE deported his dad. Now he’s graduating high school without him",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/06/his-dad-was-deported-high-school-graduation",
+      "published": "2026-06-06T10:00:01+00:00",
+      "summary": "Mark, 17, struggled to make it through senior year after his dad was deported to El Salvador.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -37,64 +87,24 @@
       "score": 10
     },
     {
-      "title": "Day of the Devs 2026 - everything announced in the big Summer Game Fest indie showcase",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/day-of-the-devs-2026-everything-announced-summer-game-fest-indie-showcase",
-      "published": "2026-06-06T00:05:49+00:00",
-      "summary": "Summer Game Fest's glitzy flagship showcase might be over for another year, but that doesn't mean we're done just yet - far from it ! There'll be more bluster to come on Sunday when Microsoft shares its wares during the Xbox Games…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
+      "title": "Scientists Discover Hidden Symmetry on Earth That Nobody Can Explain",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/scientists-discover-hidden-symmetry-on-earth-that-nobody-can-explain/",
+      "published": "2026-06-06T13:36:56+00:00",
+      "summary": "The north-south albedo symmetry may be fading as both hemispheres get darker.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
-      "title": "Square Enix reveal Final Fantasy 7: Revelation, the final part of the remake trilogy, coming to PC in 2027",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/square-enix-reveal-final-fantasy-7-revelation-the-final-part-of-the-remake-trilogy-coming-to-pc-in-2027",
-      "published": "2026-06-06T00:04:59+00:00",
-      "summary": "Square Enix have announced the third part of their Final Fantasy 7 action RPG remake trilogy. It's called Final Fantasy 7 Revelation, and it's out on all platforms including PC in spring 2027. Yep, there's no wait for a port this time.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Monster Hunter Ascendance is to Wilds what Iceborne was to Monster Hunter World, coming 2027",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/monster-hunter-ascendance-wilds-coming-2027",
-      "published": "2026-06-05T23:16:43+00:00",
-      "summary": "Monster Hunter Wilds ' first expansion, Ascendance, has finally been revealed. In a trailer at Summer Games Fest 2026, Capcom unveiled the future of the game with a massive new expansion called Ascendance. Read more",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘We call it the P-word’: Chicago professor suspended after assignment mentions Palestinians",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/jun/05/professor-suspended-assignment-mentions-palestinians",
-      "published": "2026-06-05T11:00:34+00:00",
-      "summary": "School of the Art Institute of Chicago professor put under investigation after a student complained about a case study A tenured art therapy professor at the School of the Art Institute of Chicago (SAIC) was suspended from teaching and…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Anthony Head brought gravitas to Buffy and everything else he touched | Jesse Hassenger",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance",
-      "published": "2026-06-05T19:11:14+00:00",
-      "summary": "The late actor was a charming and funny father figure, and sometime singer, in the cult TV show, one of his many roles that showed just how much he could do Anthony Head, Buffy the Vampire Slayer and Ted Lasso actor, dies aged 72 For…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: How the ‘Southern Surge’ Passed Oklahoma By",
-      "source": "The 74",
+      "title": "UC Berkeley professor Zvezdelina Stankova explains push to reinstate standardized exams",
+      "source": "NPR Education",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/how-the-southern-surge-passed-oklahoma-by/",
-      "published": "2026-06-05T12:30:00+00:00",
-      "summary": "In poorer states like Oklahoma, we’ve often heard a sardonic refrain whenever the conversation turns to bad news about health or education: “Thank God for Mississippi.” I grew up hearing that line.",
+      "url": "https://www.npr.org/2026/06/06/nx-s1-5845846/uc-berkeley-professor-zvezdelina-stankova-explains-push-to-reinstate-standardized-exams",
+      "published": "2026-06-06T11:41:05+00:00",
+      "summary": "NPR's Eyder Peralta speaks with University of California, Berkeley math professor Zvezdelina Stankova about efforts to bring back standardized exams as part of the admissions process.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
+      "score": 8
     },
     {
       "title": "CDC report: Ebola outbreak could rival the worst on record unless world acts",
@@ -104,17 +114,7 @@
       "published": "2026-06-05T20:35:06+00:00",
       "summary": "New modeling from the CDC shows that if measures aren't taken immediately, this outbreak could sicken more than 20,000 people in the next three months.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "K-pop Fans Are Calling Out Creepy Deepfakes of Idols",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/k-pop-fans-deepfakes-ai-generated-idols/",
-      "published": "2026-06-05T14:52:30+00:00",
-      "summary": "With some fans making sexualized AI-generated images and videos of idols, the rest of the fandom is standing up against the behavior.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
     },
     {
       "title": "How David Bowie Inspired Sam Reid’s Performance in The Vampire Lestat",
@@ -139,6 +139,17 @@
   ],
   "youtube": [
     {
+      "title": "AI Agents as \"Games Masters\"? 🎮🔥",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=82m7YqosdgU",
+      "published": "2026-06-06T06:20:46+00:00",
+      "summary": "Check the pinned comment for the link to the full interview. Could AI agents eventually become the \"Games Master\" driving your gaming storylines? We explore the concept of AI assisting players or creating dynamic, non-scripted narratives.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
       "title": "DeepMind’s New AI Found A Strange New Way To Think",
       "source": "Two Minute Papers",
       "category": "AI / YouTube",
@@ -161,17 +172,6 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Claude Opus 4.8: Lying Machine No More?",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=ypL7kUiw_LM",
-      "published": "2026-06-03T13:49:31+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Anthropic's Opus 4.8: https://www.anthropic.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
       "title": "Fuzzing Programs to Find Bugs - Computerphile",
       "source": "Computerphile",
       "category": "Science / computing",
@@ -181,6 +181,17 @@
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Who's The New He-Man?",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=6T_Jb5oYquY",
+      "published": "2026-06-06T13:00:03+00:00",
+      "summary": "Zac Efron? Zack Galifianakis? Wait, what? WIRED tasks Nicholas Galitzine (He-Man), Camila Mendes (Teela) and director Travis Knight to answer the 50 most searched _Masters of the Universe_ questions.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Can The Mandalorian Beat Darth Vader?",
@@ -245,8 +256,8 @@
       "published": "2026-06-05T22:00:14+00:00",
       "summary": "President Trump announced plans Thursday to build another project near the National Mall in Washington, D.C. A new pedestrian bridge or promenade would connect the Lincoln Memorial to the Potomac River.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Israel has killed at least 129 first responders and medical staff in its war with Hezbollah",
@@ -256,8 +267,8 @@
       "published": "2026-06-05T21:30:23+00:00",
       "summary": "Israel has killed at least 129 first responders and medical staff in its war with Hezbollah, the Lebanese government says.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "New papers say tobacco company tactics are being used to sell ultra-processed foods",
@@ -267,8 +278,8 @@
       "published": "2026-06-05T21:30:00+00:00",
       "summary": "A series of papers published in the \"American Journal of Public Health\" argue ultra-processed foods are the new war on tobacco, as health advocates are saying it’s time to regulate them.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Netanyahu's actions could interfere with what Trump wants to achieve with Iran",
@@ -278,8 +289,8 @@
       "published": "2026-06-05T20:30:07+00:00",
       "summary": "President Trump has spent weeks trying to bring an end to the U.S.-Israel war with Iran. Meanwhile, Israeli Prime Minister Benjamin Netanyahu continues Israel's war with Lebanon and intermittent fighting in Gaza.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Jill Biden shares her perspective on her husband's decision to stay in the 2024 presidential race",
@@ -388,8 +399,8 @@
       "published": "2026-06-06T00:17:26+00:00",
       "summary": "Join us in this watchalong Geoff Keighley's Summer Game Fest 2026 showcase. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Firing Off Every Single Bullet Imaginable in Astral Lords w/ Jack and Marty",
@@ -399,8 +410,8 @@
       "published": "2026-06-05T19:12:54+00:00",
       "summary": "This video is brough to you by Astral Lords, available now on Steam -- https://bit.ly/Astral_Lords_SW If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "The End of Destiny | Unpacked",
@@ -802,7 +813,7 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 30,
+    "youtubeCount": 31,
     "trailerCount": 20,
     "sourceCount": 20
   }

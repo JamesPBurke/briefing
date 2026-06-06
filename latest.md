@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-06T05:00:02.729204Z
+Generated: 2026-06-06T14:00:02.353792Z
 
-Today's sweep leans toward Games / criticism, Democracy / press freedom, AI / computing. The strongest items in this run are Trump news at a glance: new intelligence director given green light to fire ‘a lot of people’, Brace yourself, Mr Bond: 007 First Light is getting some pirate king DLC alongside New Game+ and extra TacSim challenges, and Summer Game Fest Live 2026: The biggest news, trailers, and announcements.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are Maja Chwalinska v Mirra Andreeva: French Open 2026 women’s singles final – live, All-white jury selected in murder trial over killing at 2025 Texas high school, and Drought and floods drove them from their homes. But hunger and poverty have followed them to a Mogadishu camp.
 
 ## Briefing
 
@@ -33,25 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Trump news at a glance: new intelligence director given green light to fire ‘a lot of people’ [10/10]
+### 1. Maja Chwalinska v Mirra Andreeva: French Open 2026 women’s singles final – live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Game-by-game final updates from 2pm UK time Cobolli out to jump queue in men’s final against Zverev You can email Katy | Sign up for The Hotspot Road to the final.
+
+Link: https://www.theguardian.com/sport/live/2026/jun/06/maja-chwalinska-mirra-andreeva-french-open-2026-womens-singles-final-live
+
+### 2. All-white jury selected in murder trial over killing at 2025 Texas high school [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Karmelo Anthony, who is Black, is accused of stabbing Austin Metcalf, who was white, at track meet in an affluent Dallas suburb Sign up for the Breaking News US newsletter email After a 2025 high school track meet in Frisco, Texas , ended…
+
+Link: https://www.theguardian.com/us-news/2026/jun/06/trial-killing-2025-texas-high-school-track-meet
+
+### 3. Drought and floods drove them from their homes. But hunger and poverty have followed them to a Mogadishu camp [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Trump says Bill Pulte is ‘less shackled’ because he has only been appointed director of national intelligence temporarily.
+More than 6.5 million Somalis have been pushed to the brink of severe hunger as the climate crisis, fighting and cuts in aid leave a trail of despair For three years, Zeynab Ibrahim watched as her little town shrivelled up and died.
 
-Link: https://www.theguardian.com/us-news/2026/jun/06/trump-news-latest-updates-today
+Link: https://www.theguardian.com/global-development/2026/jun/06/somalia-drought-floods-hunger-displaced-camps-war-aid
 
-### 2. Brace yourself, Mr Bond: 007 First Light is getting some pirate king DLC alongside New Game+ and extra TacSim challenges [10/10]
-**Source:** Rock Paper Shotgun  
+### 4. Opinion: How Time Spent Out of School Can Help Boost Attendance and Academic Success [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Chronic absenteeism is one of the most persistent challenges facing schools today. A student is considered chronically absent after missing 10% of the school year, about 18 days in most districts. According to SchoolStatus, the U.S.
+
+Link: https://www.the74million.org/article/how-time-spent-out-of-school-can-help-boost-attendance-and-academic-success/
+
+### 5. Studio behind Martha is Dead, the game too extreme for PlayStation, debuts gameplay from its psychological serial killer horror When Sirens Fall Silent [10/10]
+**Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Io Interactive's Hitmanly Bond adventure 007 First Light is getting some DLC, and the DLC involves PIRATES.
+LKA, the studio behind 2016's acclaimed The Town of Light and its controversial 2024 follow-up Martha is Dead, has shared first gameplay of its next project.
 
-Link: https://www.rockpapershotgun.com/brace-yourself-mr-bond-007-first-light-is-getting-some-pirate-king-dlc-alongside-new-game-and-extra-tacsim-challenges
+Link: https://www.eurogamer.net/when-sirens-fall-silent-new-gameplay
 
-### 3. Summer Game Fest Live 2026: The biggest news, trailers, and announcements [10/10]
+### 6. Trump is turning the organs of the state against his personal enemies. Look at E Jean Carroll | Moira Donegan [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The justice department decision to launch a criminal investigation into Carroll is a troubling, dark turn Donald Trump is accused of raping E Jean Carroll, the magazine writer, in the dressing room of a Manhattan department store sometime…
+
+Link: https://www.theguardian.com/commentisfree/2026/jun/06/trump-e-jean-carroll-justice-department
+
+### 7. ICE deported his dad. Now he’s graduating high school without him [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Mark, 17, struggled to make it through senior year after his dad was deported to El Salvador.
+
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/jun/06/his-dad-was-deported-high-school-graduation
+
+### 8. Summer Game Fest Live 2026: The biggest news, trailers, and announcements [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -60,61 +105,25 @@ Geoff Keighley’s annual June showcase for videos games has officially happened
 
 Link: https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements
 
-### 4. Day of the Devs 2026 - everything announced in the big Summer Game Fest indie showcase [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 9. Scientists Discover Hidden Symmetry on Earth That Nobody Can Explain [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-Summer Game Fest's glitzy flagship showcase might be over for another year, but that doesn't mean we're done just yet - far from it ! There'll be more bluster to come on Sunday when Microsoft shares its wares during the Xbox Games…
+The north-south albedo symmetry may be fading as both hemispheres get darker.
 
-Link: https://www.eurogamer.net/day-of-the-devs-2026-everything-announced-summer-game-fest-indie-showcase
+Link: https://www.404media.co/scientists-discover-hidden-symmetry-on-earth-that-nobody-can-explain/
 
-### 5. Square Enix reveal Final Fantasy 7: Revelation, the final part of the remake trilogy, coming to PC in 2027 [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Square Enix have announced the third part of their Final Fantasy 7 action RPG remake trilogy. It's called Final Fantasy 7 Revelation, and it's out on all platforms including PC in spring 2027. Yep, there's no wait for a port this time.
-
-Link: https://www.rockpapershotgun.com/square-enix-reveal-final-fantasy-7-revelation-the-final-part-of-the-remake-trilogy-coming-to-pc-in-2027
-
-### 6. Monster Hunter Ascendance is to Wilds what Iceborne was to Monster Hunter World, coming 2027 [10/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Monster Hunter Wilds ' first expansion, Ascendance, has finally been revealed. In a trailer at Summer Games Fest 2026, Capcom unveiled the future of the game with a massive new expansion called Ascendance. Read more
-
-Link: https://www.eurogamer.net/monster-hunter-ascendance-wilds-coming-2027
-
-### 7. ‘We call it the P-word’: Chicago professor suspended after assignment mentions Palestinians [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-School of the Art Institute of Chicago professor put under investigation after a student complained about a case study A tenured art therapy professor at the School of the Art Institute of Chicago (SAIC) was suspended from teaching and…
-
-Link: https://www.theguardian.com/us-news/2026/jun/05/professor-suspended-assignment-mentions-palestinians
-
-### 8. Anthony Head brought gravitas to Buffy and everything else he touched | Jesse Hassenger [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The late actor was a charming and funny father figure, and sometime singer, in the cult TV show, one of his many roles that showed just how much he could do Anthony Head, Buffy the Vampire Slayer and Ted Lasso actor, dies aged 72 For…
-
-Link: https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance
-
-### 9. Opinion: How the ‘Southern Surge’ Passed Oklahoma By [9/10]
-**Source:** The 74  
+### 10. UC Berkeley professor Zvezdelina Stankova explains push to reinstate standardized exams [8/10]
+**Source:** NPR Education  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-In poorer states like Oklahoma, we’ve often heard a sardonic refrain whenever the conversation turns to bad news about health or education: “Thank God for Mississippi.” I grew up hearing that line.
+NPR's Eyder Peralta speaks with University of California, Berkeley math professor Zvezdelina Stankova about efforts to bring back standardized exams as part of the admissions process.
 
-Link: https://www.the74million.org/article/how-the-southern-surge-passed-oklahoma-by/
+Link: https://www.npr.org/2026/06/06/nx-s1-5845846/uc-berkeley-professor-zvezdelina-stankova-explains-push-to-reinstate-standardized-exams
 
-### 10. CDC report: Ebola outbreak could rival the worst on record unless world acts [8/10]
+### 11. CDC report: Ebola outbreak could rival the worst on record unless world acts [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -122,15 +131,6 @@ Link: https://www.the74million.org/article/how-the-southern-surge-passed-oklahom
 New modeling from the CDC shows that if measures aren't taken immediately, this outbreak could sicken more than 20,000 people in the next three months.
 
 Link: https://www.npr.org/2026/06/05/nx-s1-5848082/ebola-virus-cdc-outbreak-democratic-republic-congo-uganda
-
-### 11. K-pop Fans Are Calling Out Creepy Deepfakes of Idols [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-With some fans making sexualized AI-generated images and videos of idols, the rest of the fandom is standing up against the behavior.
-
-Link: https://www.404media.co/k-pop-fans-deepfakes-ai-generated-idols/
 
 ### 12. How David Bowie Inspired Sam Reid’s Performance in The Vampire Lestat [7/10]
 **Source:** Reactor  
@@ -152,6 +152,15 @@ Link: https://www.thenation.com/article/society/tomdispatch-farewell/
 
 ## YouTube
 
+### AI Agents as "Games Masters"? 🎮🔥 [9/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Check the pinned comment for the link to the full interview. Could AI agents eventually become the "Games Master" driving your gaming storylines? We explore the concept of AI assisting players or creating dynamic, non-scripted narratives.
+
+Link: https://www.youtube.com/watch?v=82m7YqosdgU
+
 ### DeepMind’s New AI Found A Strange New Way To Think [8/10]
 **Creator:** Two Minute Papers  
 **Verdict:** Worth watching  
@@ -170,15 +179,6 @@ Meet the AI "Co-Scientist" Changing Everything 🤖🧪 #ai
 
 Link: https://www.youtube.com/watch?v=iz7elwbqZVI
 
-### Claude Opus 4.8: Lying Machine No More? [7/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Anthropic's Opus 4.8: https://www.anthropic.
-
-Link: https://www.youtube.com/watch?v=ypL7kUiw_LM
-
 ### Fuzzing Programs to Find Bugs - Computerphile [7/10]
 **Creator:** Computerphile  
 **Verdict:** Probably worth watching  
@@ -187,6 +187,15 @@ Link: https://www.youtube.com/watch?v=ypL7kUiw_LM
 Fuzzing is a technique to find programming bugs by testing with random inputs - but there are smarter ways to go about it! Professor Alastair F Donaldson leads the Multicore Programming research group at Imperial College.
 
 Link: https://www.youtube.com/watch?v=kaD54VXxGrI
+
+### Who's The New He-Man? [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Zac Efron? Zack Galifianakis? Wait, what? WIRED tasks Nicholas Galitzine (He-Man), Camila Mendes (Teela) and director Travis Knight to answer the 50 most searched _Masters of the Universe_ questions.
+
+Link: https://www.youtube.com/watch?v=6T_Jb5oYquY
 
 ### Can The Mandalorian Beat Darth Vader? [7/10]
 **Creator:** WIRED  
@@ -233,36 +242,36 @@ WIRED tasks Anna Faris, Marlon Wayans and Shawn Wayans to answer the 50 most sea
 
 Link: https://www.youtube.com/watch?v=zGdqYOCR-2M
 
-### Trump announces a new pedestrian bridge project near National Mall [7/10]
+### Trump announces a new pedestrian bridge project near National Mall [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 President Trump announced plans Thursday to build another project near the National Mall in Washington, D.C. A new pedestrian bridge or promenade would connect the Lincoln Memorial to the Potomac River.
 
 Link: https://www.youtube.com/watch?v=Ru9yBaj56kE
 
-### Israel has killed at least 129 first responders and medical staff in its war with Hezbollah [7/10]
+### Israel has killed at least 129 first responders and medical staff in its war with Hezbollah [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 Israel has killed at least 129 first responders and medical staff in its war with Hezbollah, the Lebanese government says.
 
 Link: https://www.youtube.com/watch?v=fev7LpnIXLI
 
-### New papers say tobacco company tactics are being used to sell ultra-processed foods [7/10]
+### New papers say tobacco company tactics are being used to sell ultra-processed foods [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 A series of papers published in the "American Journal of Public Health" argue ultra-processed foods are the new war on tobacco, as health advocates are saying it’s time to regulate them.
 
 Link: https://www.youtube.com/watch?v=6_ChuQWLgGE
 
-### Netanyahu's actions could interfere with what Trump wants to achieve with Iran [7/10]
+### Netanyahu's actions could interfere with what Trump wants to achieve with Iran [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 President Trump has spent weeks trying to bring an end to the U.S.-Israel war with Iran. Meanwhile, Israeli Prime Minister Benjamin Netanyahu continues Israel's war with Lebanon and intermittent fighting in Gaza.
@@ -350,18 +359,18 @@ Link: https://www.youtube.com/watch?v=rbzSlRfu8tQ
 
 Link: https://www.youtube.com/watch?v=2BvTx671_z8
 
-### Summer Game Fest 2026 Watchalong [8/10]
+### Summer Game Fest 2026 Watchalong [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Join us in this watchalong Geoff Keighley's Summer Game Fest 2026 showcase. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=R0oJMV2roVw
 
-### Firing Off Every Single Bullet Imaginable in Astral Lords w/ Jack and Marty [8/10]
+### Firing Off Every Single Bullet Imaginable in Astral Lords w/ Jack and Marty [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brough to you by Astral Lords, available now on Steam -- https://bit.ly/Astral_Lords_SW If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
