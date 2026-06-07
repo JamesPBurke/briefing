@@ -1,48 +1,78 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-06T18:04:21.889905Z",
-  "generatedAtDisplay": "2026-06-06 02:04 PM EDT",
+  "generatedAt": "2026-06-07T05:00:02.490866Z",
+  "generatedAtDisplay": "2026-06-07 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Stevie Nicks donates $3m to medical school to recognize her voice doctor, The cutest games from the Wholesome Direct 2026 showcase, and ‘It’s like they’re kidnapped there’: families tell of distress over ‘inhumane’ ICE jail.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Ukraine war briefing: Kyiv unleashes hundreds of drones on Russia after Putin rejected Zelenskyy meeting, Multiple people shot near street festival in Toledo, Ohio, authorities say, and Silent Hill 2 remake studio is back with more sci-fi horror, and this time it's taking Star Trek to a mysterious, hostile world.",
   "mainItems": [
     {
-      "title": "Stevie Nicks donates $3m to medical school to recognize her voice doctor",
+      "title": "Ukraine war briefing: Kyiv unleashes hundreds of drones on Russia after Putin rejected Zelenskyy meeting",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/music/2026/jun/06/stevie-nicks-donates-ucs-medical-school",
-      "published": "2026-06-06T16:53:18+00:00",
-      "summary": "Musician donated to USC to help create endowed chair to recognize Dr Joseph Sugerman, who treated her for years Legendary singer-songwriter Stevie Nicks has given $3m to the University of Southern California’s medical school to recognize…",
+      "url": "https://www.theguardian.com/world/2026/jun/07/ukraine-war-briefing-kyiv-unleashes-hundreds-of-drones-on-russia-after-putin-rejected-zelenskyy-meeting",
+      "published": "2026-06-07T01:11:17+00:00",
+      "summary": "Ukraine targets St Petersburg in wave of strikes; Keir Starmer to host Volodymyr Zelenskyy and EU leaders for talks.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "The cutest games from the Wholesome Direct 2026 showcase",
-      "source": "The Verge",
+      "title": "Multiple people shot near street festival in Toledo, Ohio, authorities say",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers",
-      "published": "2026-06-06T16:48:25+00:00",
-      "summary": "Every year at Summer Game Fest, nestled in between the splashy blockbuster showcases, the Wholesome Direct provides a nice change of pace.",
+      "url": "https://www.theguardian.com/us-news/2026/jun/06/toledo-ohio-shooting",
+      "published": "2026-06-07T00:04:43+00:00",
+      "summary": "A search for the suspects continues as victims are taken to nearby hospitals, police say A shooting near a community festival in Toledo, Ohio, wounded at least 12 people on Saturday, with police saying a search for the suspects was ongoing.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "‘It’s like they’re kidnapped there’: families tell of distress over ‘inhumane’ ICE jail",
-      "source": "The Guardian US",
+      "title": "Silent Hill 2 remake studio is back with more sci-fi horror, and this time it's taking Star Trek to a mysterious, hostile world",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/star-trek-shadow-frontier-bloober-team-announced",
+      "published": "2026-06-06T23:10:00+00:00",
+      "summary": "Well here's something that wasn't on my Summer Game Fest bingo card.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Silent Hill 2 remakers Bloober Team are boldly going where few horror devs have gone before in Star Trek: Shadow Frontier, a \"psychological thriller\" starring Ro Laren",
+      "source": "Rock Paper Shotgun",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/07/ice-jail-new-jersey-delaney-hall",
-      "published": "2026-06-06T16:00:08+00:00",
-      "summary": "As detainees go on hunger strike over conditions at Delaney Hall, relatives describe concern for loved ones’ wellbeing In mid-May, Elder Guerra was showering inside the Delaney Hall immigration detention facility when he slipped and fell.",
+      "url": "https://www.rockpapershotgun.com/silent-hill-2-remakers-bloober-team-are-boldly-going-where-few-horror-devs-have-gone-before-in-star-trek-shadow-frontier-a-psychological-thriller-starring-ro-laren",
+      "published": "2026-06-06T23:10:00+00:00",
+      "summary": "Here's one I wasn't quite expecting: Silent Hill 2 remake and Cronos: The New Dawn developers Bloober Team are working on a Star Trek game in collaboration with license owners Paramount.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Party poopers: New Yorkers sniff at pet owners leaving behind animal waste",
+      "title": "Judge dismisses Kennedy Center suit against musician who canceled",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/jun/06/judge-dismisses-kennedy-center-musician",
+      "published": "2026-06-06T21:01:06+00:00",
+      "summary": "Lawyer for Chuck Redd, who pulled out after Trump renamed center, called case ‘political retribution’ Jazz drummer and vibes player Chuck Redd has successfully resisted a breach of contract lawsuit brought against him after he canceled a…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Self-cloning strategy game The Alters is getting a 20 hour terraforming expansion that plays with the problem of age",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/self-cloning-strategy-game-the-alters-is-getting-a-20-hour-terraforming-expansion-that-plays-with-the-problem-of-age",
+      "published": "2026-06-06T21:00:00+00:00",
+      "summary": "Self-cloning sci-fi strategy game The Alters is getting a DLC expansion in which you terraform the world of the original game, using cryosleep to fast-forward the years, even as your hard-working alternate selves age and wither.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Trump pardons former Republican congressman convicted of insider trading",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/06/dog-poop-new-york-city-sidewalks",
-      "published": "2026-06-06T14:00:09+00:00",
-      "summary": "Increase in complaints about the hazardous eye sore has prompted city to take action to curb irresponsible owners Kumar Satya has lived in Manhattan’s Washington Heights neighborhood since 2017 and said he loves the local parks, how people…",
+      "url": "https://www.theguardian.com/us-news/2026/jun/06/trump-pardons-stephen-buyer-insider-trading",
+      "published": "2026-06-06T20:23:35+00:00",
+      "summary": "Donald Trump pardoned Stephen Buyer of Indiana, who served nearly two years in prison after conviction As his administration promotes what it calls a crackdown on fraud in states run by Democrats, Donald Trump once again used the pardon…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -57,6 +87,26 @@
       "score": 10
     },
     {
+      "title": "GOG apologizes for emailing people Nazi symbols",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun",
+      "published": "2026-06-06T23:26:00+00:00",
+      "summary": "GOG sent a newsletter about the game The End of the Sun on June 5th that included symbols associated with the Nazi SS.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "‘How do we know you won’t be the next John Fetterman?’: bruised Democrats weigh how to win back voters",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/jun/06/democrats-win-back-voters",
+      "published": "2026-06-06T18:07:06+00:00",
+      "summary": "The party may reclaim the US House and even Senate, but primary candidates are far from united on how to move forward Across the country, in front yards and on main streets, at dairy breakfasts and inside breweries, voters are delivering a…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
       "title": "Opinion: How Time Spent Out of School Can Help Boost Attendance and Academic Success",
       "source": "The 74",
       "category": "CS education / AI policy",
@@ -64,57 +114,7 @@
       "published": "2026-06-06T10:30:00+00:00",
       "summary": "Chronic absenteeism is one of the most persistent challenges facing schools today. A student is considered chronically absent after missing 10% of the school year, about 18 days in most districts. According to SchoolStatus, the U.S.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Studio behind Martha is Dead, the game too extreme for PlayStation, debuts gameplay from its psychological serial killer horror When Sirens Fall Silent",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/when-sirens-fall-silent-new-gameplay",
-      "published": "2026-06-06T10:10:44+00:00",
-      "summary": "LKA, the studio behind 2016's acclaimed The Town of Light and its controversial 2024 follow-up Martha is Dead, has shared first gameplay of its next project.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "GOG apologizes for emailing people Nazi symbols",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun",
-      "published": "2026-06-06T17:59:37+00:00",
-      "summary": "GOG sent a newsletter about the game The End of the Sun on June 5th that included symbols associated with the Nazi SS.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
-    },
-    {
-      "title": "Suit filed against controversial planned Stratos datacenter project in Utah",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/jun/06/stratos-datacenter-utah-suit",
-      "published": "2026-06-06T15:46:05+00:00",
-      "summary": "Plan backed by Shark Tank’s Kevin O’Leary had footprint reduced but concerns remain over its health impacts Utah residents have teamed up with a progressive non-profit organization to sue over an under-development AI datacenter backed by…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "Bruised Democrats weigh how to win back voters, and regain power: ‘We’ve got to fight’",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jun/06/democrats-win-back-voters",
-      "published": "2026-06-06T10:00:01+00:00",
-      "summary": "The party may reclaim the US House and even Senate, but primary candidates are far from united on how to move forward Across the country, in front yards and on main streets, at dairy breakfasts and inside breweries, voters are delivering a…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Gov. Ayotte Signs Bill to Give Retired Grandparents Access to State Childcare Scholarship",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/zero2eight/gov-ayotte-signs-bill-to-give-retired-grandparents-access-to-state-childcare-scholarship/",
-      "published": "2026-06-06T16:30:00+00:00",
-      "summary": "On Friday, New Hampshire Gov. Kelly Ayotte signed Senate Bill 608 into law, which allows retirees taking care of children to access the state’s childcare assistance program.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 8
     },
     {
       "title": "Scientists Discover Hidden Symmetry on Earth That Nobody Can Explain",
@@ -127,14 +127,14 @@
       "score": 8
     },
     {
-      "title": "CDC report: Ebola outbreak could rival the worst on record unless world acts",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/05/nx-s1-5848082/ebola-virus-cdc-outbreak-democratic-republic-congo-uganda",
-      "published": "2026-06-05T20:35:06+00:00",
-      "summary": "New modeling from the CDC shows that if measures aren't taken immediately, this outbreak could sicken more than 20,000 people in the next three months.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
+      "title": "UC Berkeley professor Zvezdelina Stankova explains push to reinstate standardized exams",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/06/06/nx-s1-5845846/uc-berkeley-professor-zvezdelina-stankova-explains-push-to-reinstate-standardized-exams",
+      "published": "2026-06-06T11:41:05+00:00",
+      "summary": "NPR's Eyder Peralta speaks with University of California, Berkeley math professor Zvezdelina Stankova about efforts to bring back standardized exams as part of the admissions process.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 8
     }
   ],
   "youtube": [
@@ -179,8 +179,8 @@
       "published": "2026-06-06T13:00:03+00:00",
       "summary": "Zac Efron? Zack Galifianakis? Wait, what? WIRED tasks Nicholas Galitzine (He-Man), Camila Mendes (Teela) and director Travis Knight to answer the 50 most searched _Masters of the Universe_ questions.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Can The Mandalorian Beat Darth Vader?",
@@ -216,17 +216,6 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Why Is Grogu Still A Baby?",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=pdxAMyfC41o",
-      "published": "2026-06-03T19:00:05+00:00",
-      "summary": "Grogu is 50 years old. Grogu is a baby. These things are not mutually exclusive. Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
       "title": "Trump administration dismantling deep-sea observation system",
       "source": "NPR",
       "category": "News / analysis",
@@ -234,8 +223,8 @@
       "published": "2026-06-06T15:00:27+00:00",
       "summary": "The Trump administration is dismantling a deep-sea observation system that provides data to scientists worldwide. The Ocean Observatories Initiative has provided real-time data on the world’s oceans for a decade.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Trump announces a new pedestrian bridge project near National Mall",
@@ -311,8 +300,8 @@
       "published": "2026-06-06T16:00:25+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wjCwIkqPIaQ ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "The Witcher 3 Is Getting A New Expansion + New Minimum PC Specs",
@@ -368,6 +357,17 @@
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Xbox Games Showcase Watchalong",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=N7cODgSgdXE",
+      "published": "2026-06-07T01:52:58+00:00",
+      "summary": "Join us in this watchalong of the Xbox Games Showcase. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "Summer Game Fest 2026 Watchalong",
@@ -445,17 +445,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Yahtzee Tries... Better Than Dead and Stonemachia",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=pk85E4coE9E",
-      "published": "2026-06-03T22:11:30+00:00",
-      "summary": "This week on Yahtzee Tries... Yahtzee and JM8 try out Better Than Dead and Stonemachia. Better Than Dead -- https://store.steampowered.com/app/2599690/Better_Than_Dead/ Stonemachia -- https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     }
   ],
   "trailers": [
@@ -581,6 +570,28 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Avatar: The Last Airbender: Season 2 | Meet Toph | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Lq9CyML-7Vs",
+      "published": "2026-06-06T18:30:00+00:00",
+      "summary": "The cast and creators of Avatar: The Last Airbender explain how Season 2 brought Toph Beifong to life. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Avatar: The Last Airbender: Season 2 | Audio Described Meet Toph | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=uQ8d_96AurQ",
+      "published": "2026-06-06T18:30:00+00:00",
+      "summary": "The cast and creators of Avatar: The Last Airbender explain how Season 2 brought Toph Beifong to life. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "what can’t she do?? Office Romance is now playing",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -644,39 +655,6 @@
       "summary": "“He’s my OG… and I think he’s my biological father.” Tracy Morgan praises Eddie Murphy in AFI Life Achievement Award: A Tribute to Eddie Murphy. Now playing. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Physical 100: Italy | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=e3n_g-wy4gQ",
-      "published": "2026-05-29T10:00:00+00:00",
-      "summary": "100 modern gladiators. One monumental arena. Welcome to Physical 100: Italy. In this unprecedented physical competition, 100 contestants face off in extreme challenges that push body and tenacity to the absolute limit.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Mike Myers went full Shrek at the AFI Life Achievement Award: A Tribute to Eddie Murphy.",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=yUrwmYdWz2s",
-      "published": "2026-05-28T18:00:29+00:00",
-      "summary": "AFI Life Achievement Award: A Tribute to Eddie Murphy premieres May 31 on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "I Am Frankelda | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=diRwnGRr-Ko",
-      "published": "2026-05-28T15:00:00+00:00",
-      "summary": "Frankelda, a determined 19th-century Mexican writer, journeys into her subconscious to face the monsters she’s written about. Guided by a tormented prince, she must restore the balance between fiction and reality before it’s too late.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -802,8 +780,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 29,
-    "trailerCount": 21,
-    "sourceCount": 18
+    "youtubeCount": 28,
+    "trailerCount": 20,
+    "sourceCount": 19
   }
 }

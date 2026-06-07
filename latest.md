@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-06T18:04:21.889905Z
+Generated: 2026-06-07T05:00:02.490866Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Stevie Nicks donates $3m to medical school to recognize her voice doctor, The cutest games from the Wholesome Direct 2026 showcase, and ‘It’s like they’re kidnapped there’: families tell of distress over ‘inhumane’ ICE jail.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Ukraine war briefing: Kyiv unleashes hundreds of drones on Russia after Putin rejected Zelenskyy meeting, Multiple people shot near street festival in Toledo, Ohio, authorities say, and Silent Hill 2 remake studio is back with more sci-fi horror, and this time it's taking Star Trek to a mysterious, hostile world.
 
 ## Briefing
 
@@ -33,43 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Stevie Nicks donates $3m to medical school to recognize her voice doctor [10/10]
+### 1. Ukraine war briefing: Kyiv unleashes hundreds of drones on Russia after Putin rejected Zelenskyy meeting [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Musician donated to USC to help create endowed chair to recognize Dr Joseph Sugerman, who treated her for years Legendary singer-songwriter Stevie Nicks has given $3m to the University of Southern California’s medical school to recognize…
+Ukraine targets St Petersburg in wave of strikes; Keir Starmer to host Volodymyr Zelenskyy and EU leaders for talks.
 
-Link: https://www.theguardian.com/music/2026/jun/06/stevie-nicks-donates-ucs-medical-school
+Link: https://www.theguardian.com/world/2026/jun/07/ukraine-war-briefing-kyiv-unleashes-hundreds-of-drones-on-russia-after-putin-rejected-zelenskyy-meeting
 
-### 2. The cutest games from the Wholesome Direct 2026 showcase [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Every year at Summer Game Fest, nestled in between the splashy blockbuster showcases, the Wholesome Direct provides a nice change of pace.
-
-Link: https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers
-
-### 3. ‘It’s like they’re kidnapped there’: families tell of distress over ‘inhumane’ ICE jail [10/10]
+### 2. Multiple people shot near street festival in Toledo, Ohio, authorities say [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-As detainees go on hunger strike over conditions at Delaney Hall, relatives describe concern for loved ones’ wellbeing In mid-May, Elder Guerra was showering inside the Delaney Hall immigration detention facility when he slipped and fell.
+A search for the suspects continues as victims are taken to nearby hospitals, police say A shooting near a community festival in Toledo, Ohio, wounded at least 12 people on Saturday, with police saying a search for the suspects was ongoing.
 
-Link: https://www.theguardian.com/us-news/2026/jun/07/ice-jail-new-jersey-delaney-hall
+Link: https://www.theguardian.com/us-news/2026/jun/06/toledo-ohio-shooting
 
-### 4. Party poopers: New Yorkers sniff at pet owners leaving behind animal waste [10/10]
+### 3. Silent Hill 2 remake studio is back with more sci-fi horror, and this time it's taking Star Trek to a mysterious, hostile world [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Well here's something that wasn't on my Summer Game Fest bingo card.
+
+Link: https://www.eurogamer.net/star-trek-shadow-frontier-bloober-team-announced
+
+### 4. Silent Hill 2 remakers Bloober Team are boldly going where few horror devs have gone before in Star Trek: Shadow Frontier, a "psychological thriller" starring Ro Laren [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Here's one I wasn't quite expecting: Silent Hill 2 remake and Cronos: The New Dawn developers Bloober Team are working on a Star Trek game in collaboration with license owners Paramount.
+
+Link: https://www.rockpapershotgun.com/silent-hill-2-remakers-bloober-team-are-boldly-going-where-few-horror-devs-have-gone-before-in-star-trek-shadow-frontier-a-psychological-thriller-starring-ro-laren
+
+### 5. Judge dismisses Kennedy Center suit against musician who canceled [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Lawyer for Chuck Redd, who pulled out after Trump renamed center, called case ‘political retribution’ Jazz drummer and vibes player Chuck Redd has successfully resisted a breach of contract lawsuit brought against him after he canceled a…
+
+Link: https://www.theguardian.com/us-news/2026/jun/06/judge-dismisses-kennedy-center-musician
+
+### 6. Self-cloning strategy game The Alters is getting a 20 hour terraforming expansion that plays with the problem of age [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Self-cloning sci-fi strategy game The Alters is getting a DLC expansion in which you terraform the world of the original game, using cryosleep to fast-forward the years, even as your hard-working alternate selves age and wither.
+
+Link: https://www.rockpapershotgun.com/self-cloning-strategy-game-the-alters-is-getting-a-20-hour-terraforming-expansion-that-plays-with-the-problem-of-age
+
+### 7. Trump pardons former Republican congressman convicted of insider trading [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Increase in complaints about the hazardous eye sore has prompted city to take action to curb irresponsible owners Kumar Satya has lived in Manhattan’s Washington Heights neighborhood since 2017 and said he loves the local parks, how people…
+Donald Trump pardoned Stephen Buyer of Indiana, who served nearly two years in prison after conviction As his administration promotes what it calls a crackdown on fraud in states run by Democrats, Donald Trump once again used the pardon…
 
-Link: https://www.theguardian.com/us-news/2026/jun/06/dog-poop-new-york-city-sidewalks
+Link: https://www.theguardian.com/us-news/2026/jun/06/trump-pardons-stephen-buyer-insider-trading
 
-### 5. Trump cries ‘steal’ over slow California vote count, but anti-fraud system works, say experts [10/10]
+### 8. Trump cries ‘steal’ over slow California vote count, but anti-fraud system works, say experts [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -78,25 +105,7 @@ State’s tortoise-like pace is byproduct of system of verifications and opportu
 
 Link: https://www.theguardian.com/us-news/2026/jun/06/california-slow-vote-count
 
-### 6. Opinion: How Time Spent Out of School Can Help Boost Attendance and Academic Success [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Chronic absenteeism is one of the most persistent challenges facing schools today. A student is considered chronically absent after missing 10% of the school year, about 18 days in most districts. According to SchoolStatus, the U.S.
-
-Link: https://www.the74million.org/article/how-time-spent-out-of-school-can-help-boost-attendance-and-academic-success/
-
-### 7. Studio behind Martha is Dead, the game too extreme for PlayStation, debuts gameplay from its psychological serial killer horror When Sirens Fall Silent [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-LKA, the studio behind 2016's acclaimed The Town of Light and its controversial 2024 follow-up Martha is Dead, has shared first gameplay of its next project.
-
-Link: https://www.eurogamer.net/when-sirens-fall-silent-new-gameplay
-
-### 8. GOG apologizes for emailing people Nazi symbols [9/10]
+### 9. GOG apologizes for emailing people Nazi symbols [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -105,16 +114,7 @@ GOG sent a newsletter about the game The End of the Sun on June 5th that include
 
 Link: https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun
 
-### 9. Suit filed against controversial planned Stratos datacenter project in Utah [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Plan backed by Shark Tank’s Kevin O’Leary had footprint reduced but concerns remain over its health impacts Utah residents have teamed up with a progressive non-profit organization to sue over an under-development AI datacenter backed by…
-
-Link: https://www.theguardian.com/us-news/2026/jun/06/stratos-datacenter-utah-suit
-
-### 10. Bruised Democrats weigh how to win back voters, and regain power: ‘We’ve got to fight’ [9/10]
+### 10. ‘How do we know you won’t be the next John Fetterman?’: bruised Democrats weigh how to win back voters [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -123,14 +123,14 @@ The party may reclaim the US House and even Senate, but primary candidates are f
 
 Link: https://www.theguardian.com/us-news/2026/jun/06/democrats-win-back-voters
 
-### 11. Gov. Ayotte Signs Bill to Give Retired Grandparents Access to State Childcare Scholarship [8/10]
+### 11. Opinion: How Time Spent Out of School Can Help Boost Attendance and Academic Success [9/10]
 **Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-On Friday, New Hampshire Gov. Kelly Ayotte signed Senate Bill 608 into law, which allows retirees taking care of children to access the state’s childcare assistance program.
+Chronic absenteeism is one of the most persistent challenges facing schools today. A student is considered chronically absent after missing 10% of the school year, about 18 days in most districts. According to SchoolStatus, the U.S.
 
-Link: https://www.the74million.org/zero2eight/gov-ayotte-signs-bill-to-give-retired-grandparents-access-to-state-childcare-scholarship/
+Link: https://www.the74million.org/article/how-time-spent-out-of-school-can-help-boost-attendance-and-academic-success/
 
 ### 12. Scientists Discover Hidden Symmetry on Earth That Nobody Can Explain [8/10]
 **Source:** 404 Media  
@@ -141,14 +141,14 @@ The north-south albedo symmetry may be fading as both hemispheres get darker.
 
 Link: https://www.404media.co/scientists-discover-hidden-symmetry-on-earth-that-nobody-can-explain/
 
-### 13. CDC report: Ebola outbreak could rival the worst on record unless world acts [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
+### 13. UC Berkeley professor Zvezdelina Stankova explains push to reinstate standardized exams [8/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-New modeling from the CDC shows that if measures aren't taken immediately, this outbreak could sicken more than 20,000 people in the next three months.
+NPR's Eyder Peralta speaks with University of California, Berkeley math professor Zvezdelina Stankova about efforts to bring back standardized exams as part of the admissions process.
 
-Link: https://www.npr.org/2026/06/05/nx-s1-5848082/ebola-virus-cdc-outbreak-democratic-republic-congo-uganda
+Link: https://www.npr.org/2026/06/06/nx-s1-5845846/uc-berkeley-professor-zvezdelina-stankova-explains-push-to-reinstate-standardized-exams
 
 ## YouTube
 
@@ -179,9 +179,9 @@ Fuzzing is a technique to find programming bugs by testing with random inputs - 
 
 Link: https://www.youtube.com/watch?v=kaD54VXxGrI
 
-### Who's The New He-Man? [8/10]
+### Who's The New He-Man? [7/10]
 **Creator:** WIRED  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Zac Efron? Zack Galifianakis? Wait, what? WIRED tasks Nicholas Galitzine (He-Man), Camila Mendes (Teela) and director Travis Knight to answer the 50 most searched _Masters of the Universe_ questions.
@@ -215,18 +215,9 @@ WIRED tasks Nicholas Galitzine (He-Man), Camila Mendes (Teela) and director Trav
 
 Link: https://www.youtube.com/watch?v=iYdg_caRxf8
 
-### Why Is Grogu Still A Baby? [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Grogu is 50 years old. Grogu is a baby. These things are not mutually exclusive. Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.
-
-Link: https://www.youtube.com/watch?v=pdxAMyfC41o
-
-### Trump administration dismantling deep-sea observation system [8/10]
+### Trump administration dismantling deep-sea observation system [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 The Trump administration is dismantling a deep-sea observation system that provides data to scientists worldwide. The Ocean Observatories Initiative has provided real-time data on the world’s oceans for a decade.
@@ -287,9 +278,9 @@ Massive gas shortages brought on by the U.S. war with Iran are making it harder 
 
 Link: https://www.youtube.com/watch?v=vJ_20MMeSaE
 
-### What's The Point Of Nvidia's RTX Spark Laptops? [8/10]
+### What's The Point Of Nvidia's RTX Spark Laptops? [7/10]
 **Creator:** Digital Foundry  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wjCwIkqPIaQ ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -340,6 +331,15 @@ Link: https://www.youtube.com/watch?v=w0gP4Zj-4wU
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/OxIot1NRpyo ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=qQ_afd6jDz0
+
+### Xbox Games Showcase Watchalong [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Join us in this watchalong of the Xbox Games Showcase. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=N7cODgSgdXE
 
 ### Summer Game Fest 2026 Watchalong [7/10]
 **Creator:** Second Wind  
@@ -403,15 +403,6 @@ Link: https://www.youtube.com/watch?v=w_d2RhT37IY
 Mina: The Hollower highlights an interesting dilemma reviewers run into as we play games. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
 Link: https://www.youtube.com/watch?v=em9o0RfVUnQ
-
-### Yahtzee Tries... Better Than Dead and Stonemachia [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Yahtzee Tries... Yahtzee and JM8 try out Better Than Dead and Stonemachia. Better Than Dead -- https://store.steampowered.com/app/2599690/Better_Than_Dead/ Stonemachia -- https://store.steampowered.
-
-Link: https://www.youtube.com/watch?v=pk85E4coE9E
 
 ## Entertainment Recommendations
 
@@ -541,6 +532,24 @@ Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by M
 
 Link: https://www.youtube.com/watch?v=sEz074LTiV8
 
+### Avatar: The Last Airbender: Season 2 | Meet Toph | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The cast and creators of Avatar: The Last Airbender explain how Season 2 brought Toph Beifong to life. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=Lq9CyML-7Vs
+
+### Avatar: The Last Airbender: Season 2 | Audio Described Meet Toph | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The cast and creators of Avatar: The Last Airbender explain how Season 2 brought Toph Beifong to life. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=uQ8d_96AurQ
+
 ### what can’t she do?? Office Romance is now playing [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -594,33 +603,6 @@ Link: https://www.youtube.com/watch?v=mObRUsA7dPY
 “He’s my OG… and I think he’s my biological father.” Tracy Morgan praises Eddie Murphy in AFI Life Achievement Award: A Tribute to Eddie Murphy. Now playing. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=pZChOAyf-RE
-
-### Physical 100: Italy | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-100 modern gladiators. One monumental arena. Welcome to Physical 100: Italy. In this unprecedented physical competition, 100 contestants face off in extreme challenges that push body and tenacity to the absolute limit.
-
-Link: https://www.youtube.com/watch?v=e3n_g-wy4gQ
-
-### Mike Myers went full Shrek at the AFI Life Achievement Award: A Tribute to Eddie Murphy. [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-AFI Life Achievement Award: A Tribute to Eddie Murphy premieres May 31 on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=yUrwmYdWz2s
-
-### I Am Frankelda | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Frankelda, a determined 19th-century Mexican writer, journeys into her subconscious to face the monsters she’s written about. Guided by a tormented prince, she must restore the balance between fiction and reality before it’s too late.
-
-Link: https://www.youtube.com/watch?v=diRwnGRr-Ko
 
 ### Stillwater — Understanding Big Feelings | Season 4 Scene | Apple TV [9/10]
 **Source:** Apple TV  
