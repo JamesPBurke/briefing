@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-07T09:01:14.992960Z
+Generated: 2026-06-07T14:00:01.580018Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Peru’s discontented voters face straight left-right choice in election runoff, Ukraine war briefing: Kyiv unleashes hundreds of drones on Russia after Putin rejected Zelenskyy meeting, and Silent Hill 2 remakers Bloober Team are boldly going where few horror devs have gone before in Star Trek: Shadow Frontier, a "psychological thriller" starring Ro Laren.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Simone Biles resting after serious health scare: ‘Almost dying wasn’t on my bingo card’, ‘Repression and resistance’: a historian uncovers the history of migrant protests in US detention, and School shooting survivor sues AI gun detection firm after system failed to spot weapon.
 
 ## Briefing
 
@@ -33,34 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Peru’s discontented voters face straight left-right choice in election runoff [10/10]
+### 1. Simone Biles resting after serious health scare: ‘Almost dying wasn’t on my bingo card’ [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Gymnast says experience was one of scariest of her life 29-year-old says she will give more details at later date Simone Biles suggested she came close to death after a medical emergency that left her in hospital.
+
+Link: https://www.theguardian.com/sport/2026/jun/07/simone-biles-resting-after-serious-health-scare-almost-dying-wasnt-on-my-bingo-card
+
+### 2. ‘Repression and resistance’: a historian uncovers the history of migrant protests in US detention [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Keiko Fujimori, the daughter of 1990s leader Alberto, is vying with a congressman to become country’s ninth president in a decade Peruvians go to the polls on Sunday in an election runoff that pits a perennial rightwing candidate, Keiko…
+As protests flare at New Jersey’s Delaney Hall, Jessica Ordaz examines the US’s complex relationship with migration and detention For more than two weeks, at least 300 detainees at the Delaney Hall immigration detention center have been on…
 
-Link: https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori
+Link: https://www.theguardian.com/us-news/2026/jun/07/us-migration-policy-detention-hunger-strikes
 
-### 2. Ukraine war briefing: Kyiv unleashes hundreds of drones on Russia after Putin rejected Zelenskyy meeting [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 3. School shooting survivor sues AI gun detection firm after system failed to spot weapon [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Ukraine targets St Petersburg in wave of strikes; Keir Starmer to host Volodymyr Zelenskyy and EU leaders for talks.
+How accurate does an AI system need to be?
 
-Link: https://www.theguardian.com/world/2026/jun/07/ukraine-war-briefing-kyiv-unleashes-hundreds-of-drones-on-russia-after-putin-rejected-zelenskyy-meeting
+Link: https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/
 
-### 3. Silent Hill 2 remakers Bloober Team are boldly going where few horror devs have gone before in Star Trek: Shadow Frontier, a "psychological thriller" starring Ro Laren [10/10]
+### 4. Artificial Intelligence Is Here To Stay. Are Hawaiʻi Schools Ready? [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+For many schools, it’s a race to keep up. Others are leading the pack. And some are unsure what to do with it.
+
+Link: https://www.the74million.org/article/artificial-intelligence-is-here-to-stay-are-hawai%ca%bbi-schools-ready/
+
+### 5. The Sunday Papers [10/10]
 **Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Sundays are for recovering after a late night of trailerblogging and oop, no, wait, there’s another two full-length showcases just this evening.
+
+Link: https://www.rockpapershotgun.com/the-sunday-papers-813-1
+
+### 6. Triple-action diabetes jab shown to reduce blood sugar and body weight [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Here's one I wasn't quite expecting: Silent Hill 2 remake and Cronos: The New Dawn developers Bloober Team are working on a Star Trek game in collaboration with license owners Paramount.
+Retatrutide is designed to control appetite and blood sugar but also increase body’s energy expenditure, unlike other drugs A new triple-action weekly jab for type 2 diabetes could significantly reduce blood sugar and body weight,…
 
-Link: https://www.rockpapershotgun.com/silent-hill-2-remakers-bloober-team-are-boldly-going-where-few-horror-devs-have-gone-before-in-star-trek-shadow-frontier-a-psychological-thriller-starring-ro-laren
+Link: https://www.theguardian.com/society/2026/jun/07/weekly-diabetes-jab-reduce-blood-sugar-levels-body-weight
 
-### 4. Trump pardons former Republican congressman convicted of insider trading [10/10]
+### 7. Trump pardons former Republican congressman convicted of insider trading [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,86 +96,59 @@ Donald Trump pardoned Stephen Buyer of Indiana, who served nearly two years in p
 
 Link: https://www.theguardian.com/us-news/2026/jun/06/trump-pardons-stephen-buyer-insider-trading
 
-### 5. Trump cries ‘steal’ over slow California vote count, but anti-fraud system works, say experts [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-State’s tortoise-like pace is byproduct of system of verifications and opportunities for voters to fix errors California’s slow vote counting has frustrated political observers eagerly awaiting results, and handed Donald Trump and others…
-
-Link: https://www.theguardian.com/us-news/2026/jun/06/california-slow-vote-count
-
-### 6. ICE deported his dad. Now he’s graduating high school without him [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Mark, 17, struggled to make it through senior year after his dad was deported to El Salvador.
-
-Link: https://www.theguardian.com/us-news/ng-interactive/2026/jun/06/his-dad-was-deported-high-school-graduation
-
-### 7. GOG apologizes for emailing people Nazi symbols [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-GOG sent a newsletter about the game The End of the Sun on June 5th that included symbols associated with the Nazi SS.
-
-Link: https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun
-
-### 8. Silent Hill 2 remake studio is back with more sci-fi horror, and this time it's taking Star Trek to a mysterious, hostile world [9/10]
+### 8. Xbox Games Showcase 2026 live report - all the news and announcements as Asha Sharma presents for the first time [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Well here's something that wasn't on my Summer Game Fest bingo card.
+The Xbox Games Showcase is today, Sunday 7th June, at 6pm BST (7pm CEST / 1pm EDT / 10am PDT), and we're covering all the news and announcements from live, right here, in this article. Read more
 
-Link: https://www.eurogamer.net/star-trek-shadow-frontier-bloober-team-announced
+Link: https://www.eurogamer.net/xbox-games-showcase-2026-live-report
 
-### 9. Judge dismisses Kennedy Center suit against musician who canceled [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Lawyer for Chuck Redd, who pulled out after Trump renamed center, called case ‘political retribution’ Jazz drummer and vibes player Chuck Redd has successfully resisted a breach of contract lawsuit brought against him after he canceled a…
-
-Link: https://www.theguardian.com/us-news/2026/jun/06/judge-dismisses-kennedy-center-musician
-
-### 10. Opinion: How Time Spent Out of School Can Help Boost Attendance and Academic Success [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Chronic absenteeism is one of the most persistent challenges facing schools today. A student is considered chronically absent after missing 10% of the school year, about 18 days in most districts. According to SchoolStatus, the U.S.
-
-Link: https://www.the74million.org/article/how-time-spent-out-of-school-can-help-boost-attendance-and-academic-success/
-
-### 11. Could this one man have been behind terrorist attacks on Jewish communities across Europe? [8/10]
+### 9. The best Steven Spielberg films, chosen by directors, critics and super-fans: ‘pure popcorn perfection’ [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Legal papers, expert investigations and social media posts tell story of how a 32-year-old Iraqi appeared to run ‘proxy’ campaign On Monday, a slightly dishevelled Iraqi man, shackled and dressed in beige prison overalls, was ushered into…
+From franchise hits to historical epics, joyous musicals to autobiographical family sagas: Steven Spielberg has done it all.
 
-Link: https://www.theguardian.com/news/ng-interactive/2026/jun/07/could-this-one-man-have-been-behind-terrorist-attacks-on-jewish-communities-across-europe
+Link: https://www.theguardian.com/film/ng-interactive/2026/jun/07/writers-choose-favourite-steven-spielberg-films-jaws-close-encounters-raiders-lost-ark
 
-### 12. Scientists Discover Hidden Symmetry on Earth That Nobody Can Explain [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
+### 10. Multiple people shot near street festival in Toledo, Ohio, authorities say [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+A search for the suspects continues as victims are taken to nearby hospitals, police say A shooting near a community festival in Toledo, Ohio, wounded at least 12 people on Saturday, with police saying a search for the suspects was ongoing.
+
+Link: https://www.theguardian.com/us-news/2026/jun/06/toledo-ohio-shooting
+
+### 11. Silent Hill 2 remakers Bloober Team are boldly going where few horror devs have gone before in Star Trek: Shadow Frontier, a "psychological thriller" starring Ro Laren [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Here's one I wasn't quite expecting: Silent Hill 2 remake and Cronos: The New Dawn developers Bloober Team are working on a Star Trek game in collaboration with license owners Paramount.
+
+Link: https://www.rockpapershotgun.com/silent-hill-2-remakers-bloober-team-are-boldly-going-where-few-horror-devs-have-gone-before-in-star-trek-shadow-frontier-a-psychological-thriller-starring-ro-laren
+
+### 12. It's one of the world's most isolated islands. Here come the bulldozers [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-The north-south albedo symmetry may be fading as both hemispheres get darker.
+The Indian government is spending $9 billion to create a megaport, airport and city on this remote island. Critics fear the impact on pristine forests and the lives of indigenous inhabitants.
 
-Link: https://www.404media.co/scientists-discover-hidden-symmetry-on-earth-that-nobody-can-explain/
+Link: https://www.npr.org/2026/06/07/g-s1-125586/island-isolated-india-great-nicobar-china-development
 
-### 13. UC Berkeley professor Zvezdelina Stankova explains push to reinstate standardized exams [8/10]
-**Source:** NPR Education  
+### 13. Gov. Ayotte Signs Bill to Give Retired Grandparents Access to State Childcare Scholarship [7/10]
+**Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-NPR's Eyder Peralta speaks with University of California, Berkeley math professor Zvezdelina Stankova about efforts to bring back standardized exams as part of the admissions process.
+On Friday, New Hampshire Gov. Kelly Ayotte signed Senate Bill 608 into law, which allows retirees taking care of children to access the state’s childcare assistance program.
 
-Link: https://www.npr.org/2026/06/06/nx-s1-5845846/uc-berkeley-professor-zvezdelina-stankova-explains-push-to-reinstate-standardized-exams
+Link: https://www.the74million.org/zero2eight/gov-ayotte-signs-bill-to-give-retired-grandparents-access-to-state-childcare-scholarship/
 
 ## YouTube
 
@@ -169,15 +169,6 @@ Link: https://www.youtube.com/watch?v=82m7YqosdgU
 ❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://github.com/google-deepmind/alphaproof-nexus-results https://arxiv.org/html/2605.
 
 Link: https://www.youtube.com/watch?v=Dkqzqw8rxXI
-
-### Fuzzing Programs to Find Bugs - Computerphile [7/10]
-**Creator:** Computerphile  
-**Verdict:** Probably worth watching  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Fuzzing is a technique to find programming bugs by testing with random inputs - but there are smarter ways to go about it! Professor Alastair F Donaldson leads the Multicore Programming research group at Imperial College.
-
-Link: https://www.youtube.com/watch?v=kaD54VXxGrI
 
 ### Who's The New He-Man? [7/10]
 **Creator:** WIRED  
@@ -604,7 +595,7 @@ Link: https://www.youtube.com/watch?v=mObRUsA7dPY
 
 Link: https://www.youtube.com/watch?v=pZChOAyf-RE
 
-### Stillwater — Understanding Big Feelings | Season 4 Scene | Apple TV [9/10]
+### Stillwater — Understanding Big Feelings | Season 4 Scene | Apple TV [8/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
