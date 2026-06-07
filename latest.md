@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-07T05:00:02.490866Z
+Generated: 2026-06-07T09:01:14.992960Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Ukraine war briefing: Kyiv unleashes hundreds of drones on Russia after Putin rejected Zelenskyy meeting, Multiple people shot near street festival in Toledo, Ohio, authorities say, and Silent Hill 2 remake studio is back with more sci-fi horror, and this time it's taking Star Trek to a mysterious, hostile world.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Peru’s discontented voters face straight left-right choice in election runoff, Ukraine war briefing: Kyiv unleashes hundreds of drones on Russia after Putin rejected Zelenskyy meeting, and Silent Hill 2 remakers Bloober Team are boldly going where few horror devs have gone before in Star Trek: Shadow Frontier, a "psychological thriller" starring Ro Laren.
 
 ## Briefing
 
@@ -33,7 +33,16 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Ukraine war briefing: Kyiv unleashes hundreds of drones on Russia after Putin rejected Zelenskyy meeting [10/10]
+### 1. Peru’s discontented voters face straight left-right choice in election runoff [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Keiko Fujimori, the daughter of 1990s leader Alberto, is vying with a congressman to become country’s ninth president in a decade Peruvians go to the polls on Sunday in an election runoff that pits a perennial rightwing candidate, Keiko…
+
+Link: https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori
+
+### 2. Ukraine war briefing: Kyiv unleashes hundreds of drones on Russia after Putin rejected Zelenskyy meeting [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,25 +51,7 @@ Ukraine targets St Petersburg in wave of strikes; Keir Starmer to host Volodymyr
 
 Link: https://www.theguardian.com/world/2026/jun/07/ukraine-war-briefing-kyiv-unleashes-hundreds-of-drones-on-russia-after-putin-rejected-zelenskyy-meeting
 
-### 2. Multiple people shot near street festival in Toledo, Ohio, authorities say [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-A search for the suspects continues as victims are taken to nearby hospitals, police say A shooting near a community festival in Toledo, Ohio, wounded at least 12 people on Saturday, with police saying a search for the suspects was ongoing.
-
-Link: https://www.theguardian.com/us-news/2026/jun/06/toledo-ohio-shooting
-
-### 3. Silent Hill 2 remake studio is back with more sci-fi horror, and this time it's taking Star Trek to a mysterious, hostile world [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Well here's something that wasn't on my Summer Game Fest bingo card.
-
-Link: https://www.eurogamer.net/star-trek-shadow-frontier-bloober-team-announced
-
-### 4. Silent Hill 2 remakers Bloober Team are boldly going where few horror devs have gone before in Star Trek: Shadow Frontier, a "psychological thriller" starring Ro Laren [10/10]
+### 3. Silent Hill 2 remakers Bloober Team are boldly going where few horror devs have gone before in Star Trek: Shadow Frontier, a "psychological thriller" starring Ro Laren [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,25 +60,7 @@ Here's one I wasn't quite expecting: Silent Hill 2 remake and Cronos: The New Da
 
 Link: https://www.rockpapershotgun.com/silent-hill-2-remakers-bloober-team-are-boldly-going-where-few-horror-devs-have-gone-before-in-star-trek-shadow-frontier-a-psychological-thriller-starring-ro-laren
 
-### 5. Judge dismisses Kennedy Center suit against musician who canceled [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Lawyer for Chuck Redd, who pulled out after Trump renamed center, called case ‘political retribution’ Jazz drummer and vibes player Chuck Redd has successfully resisted a breach of contract lawsuit brought against him after he canceled a…
-
-Link: https://www.theguardian.com/us-news/2026/jun/06/judge-dismisses-kennedy-center-musician
-
-### 6. Self-cloning strategy game The Alters is getting a 20 hour terraforming expansion that plays with the problem of age [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Self-cloning sci-fi strategy game The Alters is getting a DLC expansion in which you terraform the world of the original game, using cryosleep to fast-forward the years, even as your hard-working alternate selves age and wither.
-
-Link: https://www.rockpapershotgun.com/self-cloning-strategy-game-the-alters-is-getting-a-20-hour-terraforming-expansion-that-plays-with-the-problem-of-age
-
-### 7. Trump pardons former Republican congressman convicted of insider trading [10/10]
+### 4. Trump pardons former Republican congressman convicted of insider trading [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -96,7 +69,7 @@ Donald Trump pardoned Stephen Buyer of Indiana, who served nearly two years in p
 
 Link: https://www.theguardian.com/us-news/2026/jun/06/trump-pardons-stephen-buyer-insider-trading
 
-### 8. Trump cries ‘steal’ over slow California vote count, but anti-fraud system works, say experts [10/10]
+### 5. Trump cries ‘steal’ over slow California vote count, but anti-fraud system works, say experts [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -105,7 +78,16 @@ State’s tortoise-like pace is byproduct of system of verifications and opportu
 
 Link: https://www.theguardian.com/us-news/2026/jun/06/california-slow-vote-count
 
-### 9. GOG apologizes for emailing people Nazi symbols [9/10]
+### 6. ICE deported his dad. Now he’s graduating high school without him [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Mark, 17, struggled to make it through senior year after his dad was deported to El Salvador.
+
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/jun/06/his-dad-was-deported-high-school-graduation
+
+### 7. GOG apologizes for emailing people Nazi symbols [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -114,16 +96,25 @@ GOG sent a newsletter about the game The End of the Sun on June 5th that include
 
 Link: https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun
 
-### 10. ‘How do we know you won’t be the next John Fetterman?’: bruised Democrats weigh how to win back voters [9/10]
+### 8. Silent Hill 2 remake studio is back with more sci-fi horror, and this time it's taking Star Trek to a mysterious, hostile world [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Well here's something that wasn't on my Summer Game Fest bingo card.
+
+Link: https://www.eurogamer.net/star-trek-shadow-frontier-bloober-team-announced
+
+### 9. Judge dismisses Kennedy Center suit against musician who canceled [9/10]
 **Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-The party may reclaim the US House and even Senate, but primary candidates are far from united on how to move forward Across the country, in front yards and on main streets, at dairy breakfasts and inside breweries, voters are delivering a…
+Lawyer for Chuck Redd, who pulled out after Trump renamed center, called case ‘political retribution’ Jazz drummer and vibes player Chuck Redd has successfully resisted a breach of contract lawsuit brought against him after he canceled a…
 
-Link: https://www.theguardian.com/us-news/2026/jun/06/democrats-win-back-voters
+Link: https://www.theguardian.com/us-news/2026/jun/06/judge-dismisses-kennedy-center-musician
 
-### 11. Opinion: How Time Spent Out of School Can Help Boost Attendance and Academic Success [9/10]
+### 10. Opinion: How Time Spent Out of School Can Help Boost Attendance and Academic Success [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -131,6 +122,15 @@ Link: https://www.theguardian.com/us-news/2026/jun/06/democrats-win-back-voters
 Chronic absenteeism is one of the most persistent challenges facing schools today. A student is considered chronically absent after missing 10% of the school year, about 18 days in most districts. According to SchoolStatus, the U.S.
 
 Link: https://www.the74million.org/article/how-time-spent-out-of-school-can-help-boost-attendance-and-academic-success/
+
+### 11. Could this one man have been behind terrorist attacks on Jewish communities across Europe? [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Legal papers, expert investigations and social media posts tell story of how a 32-year-old Iraqi appeared to run ‘proxy’ campaign On Monday, a slightly dishevelled Iraqi man, shackled and dressed in beige prison overalls, was ushered into…
+
+Link: https://www.theguardian.com/news/ng-interactive/2026/jun/07/could-this-one-man-have-been-behind-terrorist-attacks-on-jewish-communities-across-europe
 
 ### 12. Scientists Discover Hidden Symmetry on Earth That Nobody Can Explain [8/10]
 **Source:** 404 Media  
@@ -152,9 +152,9 @@ Link: https://www.npr.org/2026/06/06/nx-s1-5845846/uc-berkeley-professor-zvezdel
 
 ## YouTube
 
-### AI Agents as "Games Masters"? 🎮🔥 [9/10]
+### AI Agents as "Games Masters"? 🎮🔥 [8/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Check the pinned comment for the link to the full interview. Could AI agents eventually become the "Games Master" driving your gaming storylines? We explore the concept of AI assisting players or creating dynamic, non-scripted narratives.
@@ -332,9 +332,9 @@ Link: https://www.youtube.com/watch?v=w0gP4Zj-4wU
 
 Link: https://www.youtube.com/watch?v=qQ_afd6jDz0
 
-### Xbox Games Showcase Watchalong [9/10]
+### Xbox Games Showcase Watchalong [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Join us in this watchalong of the Xbox Games Showcase. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
