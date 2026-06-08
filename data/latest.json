@@ -1,29 +1,119 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-07T18:03:20.852134Z",
-  "generatedAtDisplay": "2026-06-07 02:03 PM EDT",
+  "generatedAt": "2026-06-08T05:00:01.700793Z",
+  "generatedAtDisplay": "2026-06-08 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are Xbox Games Showcase 2026: All the news and trailers, Air fare rises ‘inevitable’ as airlines face extra $100bn jet fuel bill this year, and Nearly 84% of Detroit District High Schoolers Were Paid for Attendance This Year.",
+  "summary": "Today's sweep leans toward AI / computing, Democracy / press freedom, Games / criticism. The strongest items in this run are Alice and Steve review – Jemaine Clement and Nicola Walker’s icky comedy is dated and wrong, ‘My life is about beauty’: Julie Newmar at 92 on shocking the world as Catwoman – and caring for her son, and ‘The Epstein files are about more than men and money’: All the Rage, the ‘guerrilla’ play fuelled by 80 furious women.",
   "mainItems": [
+    {
+      "title": "Alice and Steve review – Jemaine Clement and Nicola Walker’s icky comedy is dated and wrong",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/08/alice-and-steve-review-jemaine-clement-and-nicola-walkers-icky-comedy-is-dated-and-wrong",
+      "published": "2026-06-08T04:00:18+00:00",
+      "summary": "This tale of a midlife man dating his best friend’s 26-year-old daughter is interminable, and so unconvincing that Clement looks embarrassed throughout I’ll be honest with you – committed pessimist that I am, pseudo-incest was still not a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘My life is about beauty’: Julie Newmar at 92 on shocking the world as Catwoman – and caring for her son",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/08/julie-newmar-92-catwoman-caring-for-her-son",
+      "published": "2026-06-08T04:00:16+00:00",
+      "summary": "She starred in Seven Brides for Seven Brothers, had to stoop when she danced with Fred Astaire, then became world-famous – and a gay icon – in the original Batman series. But her life behind the scenes has been just as interesting ...",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘The Epstein files are about more than men and money’: All the Rage, the ‘guerrilla’ play fuelled by 80 furious women",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/stage/2026/jun/08/epstein-files-men-money-all-the-rage-guerrilla-play",
+      "published": "2026-06-08T04:00:16+00:00",
+      "summary": "Enraged at how the victims of Jeffrey Epstein are being forgotten, more than 80 female and non-binary writers united – to create an epic drama fusing art, activism and anger.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Every day the policy changes’: chaos and confusion for Filipino workers over US immigration rules",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/jun/08/filipino-workers-us-trump-immigration-rules",
+      "published": "2026-06-08T00:07:53+00:00",
+      "summary": "The US relies on migrant workers in crucial sectors but shifting policies under Donald Trump create uncertainty and fear Jay*, a Filipino migrant, cares for an 82-year-old US veteran in San Francisco’s Bay Area who has suffered from a…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
     {
       "title": "Xbox Games Showcase 2026: All the news and trailers",
       "source": "The Verge",
       "category": "AI / computing",
       "url": "https://www.theverge.com/entertainment/944191/xbox-games-showcase-2026-news-trailers",
-      "published": "2026-06-07T18:00:16+00:00",
+      "published": "2026-06-07T19:42:39+00:00",
       "summary": "The console industry is in a weird place, and both Xbox and PlayStation have a chance to change the narrative a bit with their showcases at Summer Game Fest.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Air fare rises ‘inevitable’ as airlines face extra $100bn jet fuel bill this year",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/2026/jun/07/air-fare-rises-inevitable-as-airlines-face-extra-100bn-jet-fuel-bill-this-year",
-      "published": "2026-06-07T17:12:19+00:00",
-      "summary": "Iata summit in Brazil hears top executives say although jet fuel shortages are unlikely, industry-wide profits will halve BA boss: ‘Costly aviation taxes and rail tickets stunting UK tourism growth’ Airlines will have to spend an extra…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "The 7 biggest storylines from Summer Game Fest 2026",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
+      "published": "2026-06-07T18:45:33+00:00",
+      "summary": "The 2026 edition of Summer Game Fest just wrapped up, and it was surprisingly hectic.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Halo: Campaign Evolved arrives July 28th",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026",
+      "published": "2026-06-07T18:45:06+00:00",
+      "summary": "As part of its Xbox Games Showcase on Sunday, Microsoft revealed new details about Halo: Campaign Evolved, the upcoming remake of Halo: Combat Evolved's campaign mode. The remake will debut on Xbox Series S / X, PC, and PS5 on July 28th.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Minecraft Dungeons 2 gets a September release date",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer",
+      "published": "2026-06-07T18:44:42+00:00",
+      "summary": "Minecraft Dungeons 2, a sequel to Microsoft's dungeon crawler spinoff Minecraft Dungeons, will be released on September 29th. The company originally revealed the game in a brief trailer in March, promising a fall 2026 release window.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Crazy Taxi World Tour officially announced, Sega immediately upsets everyone by announcing it used generative AI",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/crazy-taxi-world-tour-officially-announced-sega-immediately-upsets-everyone-by-announcing-it-used-generative-ai",
+      "published": "2026-06-07T18:36:52+00:00",
+      "summary": "It's been a rollercoaster day for Crazy Taxi . Today, at Xbox's showcase, we saw the first trailer for the long-teased rebooted game in the series.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Metro 2039 goes to war with the underground's Führer in a moody first gameplay trailer, as February 2027 release window confirmed",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/metro-2039-gameplay-trailer-february-2027-release",
+      "published": "2026-06-07T17:31:02+00:00",
+      "summary": "Following Metro 2039's striking cinematic unveiling back in April, developer 4A Games has revealed first proper gameplay of its gritty post-apocalyptic horror shooter, narrowing down its previously announced \"winter\" release date to…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Fable gets a moody story trailer at the Xbox Games Showcase, coming to Xbox, PS5, and PC next February",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/fable-gets-a-moody-release-date-trailer-at-the-xbox-games-showcase-releasing-february-2027",
+      "published": "2026-06-07T17:18:50+00:00",
+      "summary": "Fable has just got a new release date trailer at the Xbox Games Showcase. It'll be releasing on Xbox Series X/S, PS5, and PC on the 23rd February, 2027. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -34,111 +124,496 @@
       "published": "2026-06-07T16:30:00+00:00",
       "summary": "Sign up for Chalkbeat Detroit’s free newsletter to keep up with the city’s public school system and Michigan education policy.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Scott Pelley says Bari Weiss wanted 60 Minutes to say Renee Good was ‘driving toward officer’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/media/2026/jun/07/scott-pelley-bari-weiss-renee-good-report",
-      "published": "2026-06-07T15:47:23+00:00",
-      "summary": "Fired journalist accuses CBS News chief of interfering with report because it echoed what Trump said of the shooting Fired CBS 60 Minutes anchor Scott Pelley has accused editorial management at his old network of interfering with a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Search for suspects continues after 12 people shot near festival in Toledo, Ohio",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/07/ohio-toledo-shooting-festival",
-      "published": "2026-06-07T14:17:47+00:00",
-      "summary": "Search enters second day after Saturday shooting that wounded 12, two reported in critical condition, police say Organizers of a festival in the historic center of Toledo, Ohio, have cancelled planned events on Sunday as police continue…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Manhole mystery grips New York – just what are city’s ‘mole people’ up to?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/07/new-york-manhole-mole-people",
-      "published": "2026-06-07T12:00:33+00:00",
-      "summary": "Video of figures clambering in and out of manholes sparks intrigue – and comparisons to crime-fighting turtles It started in early May.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Should we ditch the idea of three meals a day?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/books/2026/jun/07/should-we-ditch-the-idea-of-three-meals-a-day",
-      "published": "2026-06-07T11:00:33+00:00",
-      "summary": "Our rigid eating habits date to the Industrial Revolution – it’s time to embrace culinary spontaneity ‘One of the stupidest things in an earnest but stupid school of culinary thought is that each of the three daily meals should be…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Artificial Intelligence Is Here To Stay. Are Hawaiʻi Schools Ready?",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/artificial-intelligence-is-here-to-stay-are-hawai%ca%bbi-schools-ready/",
-      "published": "2026-06-07T10:30:00+00:00",
-      "summary": "For many schools, it’s a race to keep up. Others are leading the pack. And some are unsure what to do with it.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Persona 6 exists, and that’s all we know",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/entertainment/945256/persona-6-teaser",
-      "published": "2026-06-07T18:00:41+00:00",
-      "summary": "This year's Summer Game Fest turned out to be a good one for fans of Japanese RPGs. First, the conclusion of the Final Fantasy VII remake trilogy was announced at SGF Live, and now we have the long-awaited return of the Persona series.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "Gears of War: E-Day isn’t coming to the PS5",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/entertainment/945269/gears-of-war-e-day-ps5-launch",
-      "published": "2026-06-07T17:23:59+00:00",
-      "summary": "Apparently, the \"return of Xbox\" means a retreat from other platforms.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
-      "published": "2026-06-07T11:08:30+00:00",
-      "summary": "How accurate does an AI system need to be?",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "How do I know when I’ve hit perimenopause?",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/global/2026/jun/07/perimenopause-diagnose-how-to",
-      "published": "2026-06-07T16:00:02+00:00",
-      "summary": "Doctors say diagnosis is usually clinical and doesn’t rely on a blood test, with symptoms often starting in the mid-40s There’s a special frisson to period changes in your mid-forties.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
-      "title": "When U.S. foreign aid changed, AIDS workers in Africa felt it",
+      "title": "It's one of the world's most isolated islands. Here come the bulldozers",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/07/nx-s1-5837324/usaid-aids-africa",
-      "published": "2026-06-07T10:00:00+00:00",
-      "summary": "In South Africa and Mozambique, health care providers say cancellation or redirection of U.S. PEPFAR funding under the Trump administration have already endangered vulnerable people and cost lives.",
+      "url": "https://www.npr.org/2026/06/07/g-s1-125586/island-isolated-india-great-nicobar-china-development",
+      "published": "2026-06-07T11:51:18+00:00",
+      "summary": "The Indian government is spending $9 billion to create a megaport, airport and city on this remote island. Critics fear the impact on pristine forests and the lives of indigenous inhabitants.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "AI Agents as \"Games Masters\"? 🎮🔥",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=82m7YqosdgU",
+      "published": "2026-06-06T06:20:46+00:00",
+      "summary": "Check the pinned comment for the link to the full interview. Could AI agents eventually become the \"Games Master\" driving your gaming storylines? We explore the concept of AI assisting players or creating dynamic, non-scripted narratives.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "DeepMind’s New AI Found A Strange New Way To Think",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=Dkqzqw8rxXI",
+      "published": "2026-06-05T15:50:26+00:00",
+      "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://github.com/google-deepmind/alphaproof-nexus-results https://arxiv.org/html/2605.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Are The Mandalorian & Jedi Enemies?",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=FMGTCSuJKJs",
+      "published": "2026-06-07T16:00:07+00:00",
+      "summary": "Well...that's up to The Mandalorian, isn't it? Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Who's The New He-Man?",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=6T_Jb5oYquY",
+      "published": "2026-06-06T13:00:03+00:00",
+      "summary": "Zac Efron? Zack Galifianakis? Wait, what? WIRED tasks Nicholas Galitzine (He-Man), Camila Mendes (Teela) and director Travis Knight to answer the 50 most searched _Masters of the Universe_ questions.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Can The Mandalorian Beat Darth Vader?",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=hQ32BrCQ9Do",
+      "published": "2026-06-05T17:00:01+00:00",
+      "summary": "[heavy mechanical breathing] Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.com/wired-ytc-desc Want more WIRED? Get the magazine ►► https://subscribe.wired.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Who's Stronger: He-Man or Superman?",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=WRvp-POegQo",
+      "published": "2026-06-05T15:00:03+00:00",
+      "summary": "Thought it's happened in the DC Comics Universe, He-Man has only beaten Superman through magical enhancement or extenuating circumstances, never cleanly on his own, suggesting Superman has the edge.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Trump administration dismantling deep-sea observation system",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=YZAiSvvOKI0",
+      "published": "2026-06-06T15:00:27+00:00",
+      "summary": "The Trump administration is dismantling a deep-sea observation system that provides data to scientists worldwide. The Ocean Observatories Initiative has provided real-time data on the world’s oceans for a decade.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Trump announces a new pedestrian bridge project near National Mall",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Ru9yBaj56kE",
+      "published": "2026-06-05T22:00:14+00:00",
+      "summary": "President Trump announced plans Thursday to build another project near the National Mall in Washington, D.C. A new pedestrian bridge or promenade would connect the Lincoln Memorial to the Potomac River.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Israel has killed at least 129 first responders and medical staff in its war with Hezbollah",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=fev7LpnIXLI",
+      "published": "2026-06-05T21:30:23+00:00",
+      "summary": "Israel has killed at least 129 first responders and medical staff in its war with Hezbollah, the Lebanese government says.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "New papers say tobacco company tactics are being used to sell ultra-processed foods",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=6_ChuQWLgGE",
+      "published": "2026-06-05T21:30:00+00:00",
+      "summary": "A series of papers published in the \"American Journal of Public Health\" argue ultra-processed foods are the new war on tobacco, as health advocates are saying it’s time to regulate them.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Netanyahu's actions could interfere with what Trump wants to achieve with Iran",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=YGXzZwjXDlo",
+      "published": "2026-06-05T20:30:07+00:00",
+      "summary": "President Trump has spent weeks trying to bring an end to the U.S.-Israel war with Iran. Meanwhile, Israeli Prime Minister Benjamin Netanyahu continues Israel's war with Lebanon and intermittent fighting in Gaza.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Jill Biden shares her perspective on her husband's decision to stay in the 2024 presidential race",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=XeOK7cIaNtM",
+      "published": "2026-06-05T14:15:20+00:00",
+      "summary": "How did Former President Joe Biden and First Lady Jill Biden balance deeply personal decisions, like his decision to stay in the 2024 presidential race as long as he did, with the national implications? Jill Biden writes about that and…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "U.S. aid cuts are affecting HIV/AIDS care in Sub-Saharan Africa",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=vJ_20MMeSaE",
+      "published": "2026-06-05T14:00:31+00:00",
+      "summary": "Massive gas shortages brought on by the U.S. war with Iran are making it harder for patients to seek medical attention and for doctors to visit them in Mozambique, where over 10 percent of the population lives with HIV.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Will High Hardware Prices Force Developers To Improve Optimisation For Existing Kit?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=5WcJMQGPetU",
+      "published": "2026-06-07T16:00:06+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wjCwIkqPIaQ ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Ratchet And Clank Rift Apart: Five Year Anniversary + Still Looking Awesome",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=cbbXRWt54CI",
+      "published": "2026-06-07T15:00:18+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "What's The Point Of Nvidia's RTX Spark Laptops?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=afYogJmI5PA",
+      "published": "2026-06-06T16:00:25+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wjCwIkqPIaQ ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Witcher 3 Is Getting A New Expansion + New Minimum PC Specs",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=KDKFKIbai64",
+      "published": "2026-06-06T15:00:12+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Marvel's Wolverine Full Gameplay Reveal Reaction",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=KuRvP6p-jXc",
+      "published": "2026-06-05T16:00:09+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/OxIot1NRpyo ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Metal Gear Solid 4 on PS5 - One Hour Demo - Reaction",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=OSVkOBxeifY",
+      "published": "2026-06-05T16:00:01+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Xbox Games Showcase Watchalong",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=N7cODgSgdXE",
+      "published": "2026-06-07T21:00:18+00:00",
+      "summary": "Join us in this watchalong of the Xbox Games Showcase. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Summer Game Fest 2026 Watchalong",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=R0oJMV2roVw",
+      "published": "2026-06-06T00:17:26+00:00",
+      "summary": "Join us in this watchalong Geoff Keighley's Summer Game Fest 2026 showcase. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Firing Off Every Single Bullet Imaginable in Astral Lords w/ Jack and Marty",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=10iMLjy6JYw",
+      "published": "2026-06-05T19:12:54+00:00",
+      "summary": "This video is brough to you by Astral Lords, available now on Steam -- https://bit.ly/Astral_Lords_SW If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The End of Destiny | Unpacked",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=k8vrYeO60pg",
+      "published": "2026-06-05T15:00:14+00:00",
+      "summary": "This week on Unpacked we're taking a look at the sudden (or not so sudden) end of Destiny. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "RESIDENT EVIL – Zach Cregger on Survival Horror",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=N_KDtokTO1c",
+      "published": "2026-05-21T16:18:37+00:00",
+      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RESIDENT EVIL - Zach Cregger on Survival Horror",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=5gR1GTJPGqQ",
+      "published": "2026-05-21T16:00:09+00:00",
+      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY (2006) - 20th Anniversary - Official Trailer (HD)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=A0fgugC7ZCo",
+      "published": "2026-05-20T16:46:15+00:00",
+      "summary": "If you ain't first, you're last. 🏁 Ricky Bobby returns to the big screen. #TalladegaNights is back in theatres June 28, June 30, and July 1.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "The Invite | Official Trailer 2 HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=nelkiuezJxg",
+      "published": "2026-06-04T13:00:30+00:00",
+      "summary": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Onslaught | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=L24CYVpQ-LI",
+      "published": "2026-06-02T13:00:08+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Adam Wingard and starring Adria Arjona, Alex Pereira, Drew Starkey, Rebecca Hall, Reginald VelJohnson, Michael Biehn, Eric Wareheim and Dan Stevens. ONSLAUGHT – In Theaters September 4.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Primetime | Official Teaser HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Yrfrf53ttYY",
+      "published": "2026-05-27T13:00:08+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "The Death of Robin Hood | Official First Look | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ii1gTLxWukk",
+      "published": "2026-05-20T13:00:19+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Michael Sarnoski and starring Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett and Noah Jupe. THE DEATH OF ROBIN HOOD – In theaters June 19.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "HER PRIVATE HELL - Official Teaser - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=iWqST_E9u_Q",
+      "published": "2026-05-18T14:00:27+00:00",
+      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Built Different: Curry Barker on Supernatural Horror",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ZpeiXao2MS4",
+      "published": "2026-05-26T18:01:01+00:00",
+      "summary": "Supernatural horror is a window into another nightmarish world. Curry Barker explains why we're all drawn in, and how Obsession goes even deeper GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Built Different: Lee Cronin on Gore",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=NSilsgp90jE",
+      "published": "2026-05-22T18:37:15+00:00",
+      "summary": "It takes blood, guts, and heart to make a Gore horror movie. Lee Cronin unpacks the brutal horror subgenre. This is how he defines Gore, disrupts it, and takes it even further in Lee Cronin’s The Mummy.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Strung | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=sEz074LTiV8",
+      "published": "2026-05-20T16:30:28+00:00",
+      "summary": "Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Avatar: The Last Airbender: Season 2 | Meet Toph | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Lq9CyML-7Vs",
+      "published": "2026-06-06T18:30:00+00:00",
+      "summary": "The cast and creators of Avatar: The Last Airbender explain how Season 2 brought Toph Beifong to life. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Avatar: The Last Airbender: Season 2 | Audio Described Meet Toph | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=uQ8d_96AurQ",
+      "published": "2026-06-06T18:30:00+00:00",
+      "summary": "The cast and creators of Avatar: The Last Airbender explain how Season 2 brought Toph Beifong to life. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "what can’t she do?? Office Romance is now playing",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=0mwreY8Z2J0",
+      "published": "2026-06-05T16:00:14+00:00",
+      "summary": "what can’t she do?? Office Romance is now playing Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Oasis | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=PQ0DS3oyWUE",
+      "published": "2026-06-03T13:00:00+00:00",
+      "summary": "There are summers that change everything. And places designed to escape—even from the truth.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "America's Sweethearts: Dallas Cowboys Cheerleaders | Season 3 Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=0NWHhWdkqEM",
+      "published": "2026-06-02T16:00:00+00:00",
+      "summary": "A new batch of hopefuls face fierce competition, high expectations and even higher kicks as they vie for a spot with the Dallas Cowboys Cheerleaders. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tony Hinchcliffe: Man of the People | Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=WRbcHKRB8Fw",
+      "published": "2026-06-02T15:00:00+00:00",
+      "summary": "Tony Hinchcliffe returns with another brutally unapologetic hour from comedy's favorite equal-opportunity offender.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "I Will Find You | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=mObRUsA7dPY",
+      "published": "2026-06-01T14:00:01+00:00",
+      "summary": "Every clue gets them closer to the truth. I Will Find You - the thrilling new mystery series from Harlan Coben, premieres June 18th, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tracy Morgan praises Eddie Murphy in AFI Life Achievement Award: A Tribute to Eddie Murphy",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=pZChOAyf-RE",
+      "published": "2026-05-31T14:00:30+00:00",
+      "summary": "“He’s my OG… and I think he’s my biological father.” Tracy Morgan praises Eddie Murphy in AFI Life Achievement Award: A Tribute to Eddie Murphy. Now playing. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Stillwater — Understanding Big Feelings | Season 4 Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=4ephDc26eFY",
+      "published": "2026-06-06T13:59:56+00:00",
+      "summary": "Stillwater explains to Addy how to deal with big emotions. Stillwater — Now Streaming #Stillwater #Scene #AppleTV",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -250,8 +725,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 5
+    "youtubeCount": 23,
+    "trailerCount": 20,
+    "sourceCount": 16
   }
 }
