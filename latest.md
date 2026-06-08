@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-08T05:00:01.700793Z
+Generated: 2026-06-08T09:01:59.727305Z
 
-Today's sweep leans toward AI / computing, Democracy / press freedom, Games / criticism. The strongest items in this run are Alice and Steve review – Jemaine Clement and Nicola Walker’s icky comedy is dated and wrong, ‘My life is about beauty’: Julie Newmar at 92 on shocking the world as Catwoman – and caring for her son, and ‘The Epstein files are about more than men and money’: All the Rage, the ‘guerrilla’ play fuelled by 80 furious women.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are The Super Mario Galaxy Movie crosses $1 billion worldwide, but its predecessor still retains the video game adaptation crown, Those who championed free speech in the UK and US now wage war on it. And here’s why: Palestine | Mehdi Hasan, and Best of the World With Antoni Porowski review – the Queer Eye host’s travel show is daftly pointless.
 
 ## Briefing
 
@@ -33,7 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Alice and Steve review – Jemaine Clement and Nicola Walker’s icky comedy is dated and wrong [10/10]
+### 1. The Super Mario Galaxy Movie crosses $1 billion worldwide, but its predecessor still retains the video game adaptation crown [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Despite making the jump to video-on-demand on digital platforms last month, The Super Mario Galaxy Movie is still holding its theatrical position in cinemas in some locations.
+
+Link: https://www.eurogamer.net/the-super-mario-galaxy-movie-one-billion-box-office
+
+### 2. Those who championed free speech in the UK and US now wage war on it. And here’s why: Palestine | Mehdi Hasan [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+It was once an article of faith that even those who speak words we disagree with deserve protection.
+
+Link: https://www.theguardian.com/commentisfree/2026/jun/08/uk-us-champion-free-speech-war-palestine
+
+### 3. Best of the World With Antoni Porowski review – the Queer Eye host’s travel show is daftly pointless [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Like meaningless idioms and aimless encounters with small dogs? This is your show. Only the charm of its presenter renders this worldwide tour bearable Antoni Porowski is waving to us from the top of the Shard.
+
+Link: https://www.theguardian.com/tv-and-radio/2026/jun/08/best-of-the-world-with-antoni-porowski-review-the-queer-eye-hosts-travel-show-is-daftly-pointless
+
+### 4. A British Childhood by Frank Cottrell-Boyce review – are we raising a bookless generation? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+This clarion call about the loss of delight and safety in children’s lives is also a reminder of the sheer magic of reading Every day, on my walk to work, I pass a primary school. A group of little people are being dropped off by parents.
+
+Link: https://www.theguardian.com/books/2026/jun/08/a-british-childhood-by-frank-cottrell-boyce-review-are-we-raising-a-bookless-generation
+
+### 5. Japanese city shuts down nearly 100 schools after unprecedented bear sighting [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Police and hunters in Utsunomiya, 100km north of the capital, resume their search for animal that is not usually seen so close to Tokyo A city in Japan has closed all its 94 primary and secondary schools after a bear was spotted in the…
+
+Link: https://www.theguardian.com/world/2026/jun/08/utsunomiya-city-japan-bear-sighting-all-primary-secondary-schools-shut
+
+### 6. Alice and Steve review – Jemaine Clement and Nicola Walker’s icky comedy is dated and wrong [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,7 +87,7 @@ This tale of a midlife man dating his best friend’s 26-year-old daughter is in
 
 Link: https://www.theguardian.com/tv-and-radio/2026/jun/08/alice-and-steve-review-jemaine-clement-and-nicola-walkers-icky-comedy-is-dated-and-wrong
 
-### 2. ‘My life is about beauty’: Julie Newmar at 92 on shocking the world as Catwoman – and caring for her son [10/10]
+### 7. ‘My life is about beauty’: Julie Newmar at 92 on shocking the world as Catwoman – and caring for her son [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,16 +96,7 @@ She starred in Seven Brides for Seven Brothers, had to stoop when she danced wit
 
 Link: https://www.theguardian.com/lifeandstyle/2026/jun/08/julie-newmar-92-catwoman-caring-for-her-son
 
-### 3. ‘The Epstein files are about more than men and money’: All the Rage, the ‘guerrilla’ play fuelled by 80 furious women [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Enraged at how the victims of Jeffrey Epstein are being forgotten, more than 80 female and non-binary writers united – to create an epic drama fusing art, activism and anger.
-
-Link: https://www.theguardian.com/stage/2026/jun/08/epstein-files-men-money-all-the-rage-guerrilla-play
-
-### 4. ‘Every day the policy changes’: chaos and confusion for Filipino workers over US immigration rules [10/10]
+### 8. ‘Every day the policy changes’: chaos and confusion for Filipino workers over US immigration rules [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -69,7 +105,7 @@ The US relies on migrant workers in crucial sectors but shifting policies under 
 
 Link: https://www.theguardian.com/world/2026/jun/08/filipino-workers-us-trump-immigration-rules
 
-### 5. Xbox Games Showcase 2026: All the news and trailers [10/10]
+### 9. Xbox Games Showcase 2026: All the news and trailers [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -78,16 +114,7 @@ The console industry is in a weird place, and both Xbox and PlayStation have a c
 
 Link: https://www.theverge.com/entertainment/944191/xbox-games-showcase-2026-news-trailers
 
-### 6. The 7 biggest storylines from Summer Game Fest 2026 [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-The 2026 edition of Summer Game Fest just wrapped up, and it was surprisingly hectic.
-
-Link: https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories
-
-### 7. Halo: Campaign Evolved arrives July 28th [10/10]
+### 10. Halo: Campaign Evolved arrives July 28th [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -96,41 +123,14 @@ As part of its Xbox Games Showcase on Sunday, Microsoft revealed new details abo
 
 Link: https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026
 
-### 8. Minecraft Dungeons 2 gets a September release date [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Minecraft Dungeons 2, a sequel to Microsoft's dungeon crawler spinoff Minecraft Dungeons, will be released on September 29th. The company originally revealed the game in a brief trailer in March, promising a fall 2026 release window.
-
-Link: https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer
-
-### 9. Crazy Taxi World Tour officially announced, Sega immediately upsets everyone by announcing it used generative AI [10/10]
+### 11. Xbox has clarified its approach to console exclusive games, after last night's PS5 snub for Gears of War: E-Day and Clockwork Revolution caught many off guard [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-It's been a rollercoaster day for Crazy Taxi . Today, at Xbox's showcase, we saw the first trailer for the long-teased rebooted game in the series.
+Xbox has shed more light on the company's exclusivity strategy, after last night's showcase threw a few surprises our way. Read more
 
-Link: https://www.eurogamer.net/crazy-taxi-world-tour-officially-announced-sega-immediately-upsets-everyone-by-announcing-it-used-generative-ai
-
-### 10. Metro 2039 goes to war with the underground's Führer in a moody first gameplay trailer, as February 2027 release window confirmed [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Following Metro 2039's striking cinematic unveiling back in April, developer 4A Games has revealed first proper gameplay of its gritty post-apocalyptic horror shooter, narrowing down its previously announced "winter" release date to…
-
-Link: https://www.eurogamer.net/metro-2039-gameplay-trailer-february-2027-release
-
-### 11. Fable gets a moody story trailer at the Xbox Games Showcase, coming to Xbox, PS5, and PC next February [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Fable has just got a new release date trailer at the Xbox Games Showcase. It'll be releasing on Xbox Series X/S, PS5, and PC on the 23rd February, 2027. Read more
-
-Link: https://www.eurogamer.net/fable-gets-a-moody-release-date-trailer-at-the-xbox-games-showcase-releasing-february-2027
+Link: https://www.eurogamer.net/xbox-console-exclusive-strategy-clockwork-revolution-gears-of-war-e-day
 
 ### 12. Nearly 84% of Detroit District High Schoolers Were Paid for Attendance This Year [9/10]
 **Source:** The 74  

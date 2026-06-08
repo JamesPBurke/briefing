@@ -1,11 +1,61 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-08T05:00:01.700793Z",
-  "generatedAtDisplay": "2026-06-08 01:00 AM EDT",
+  "generatedAt": "2026-06-08T09:01:59.727305Z",
+  "generatedAtDisplay": "2026-06-08 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / computing, Democracy / press freedom, Games / criticism. The strongest items in this run are Alice and Steve review – Jemaine Clement and Nicola Walker’s icky comedy is dated and wrong, ‘My life is about beauty’: Julie Newmar at 92 on shocking the world as Catwoman – and caring for her son, and ‘The Epstein files are about more than men and money’: All the Rage, the ‘guerrilla’ play fuelled by 80 furious women.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are The Super Mario Galaxy Movie crosses $1 billion worldwide, but its predecessor still retains the video game adaptation crown, Those who championed free speech in the UK and US now wage war on it. And here’s why: Palestine | Mehdi Hasan, and Best of the World With Antoni Porowski review – the Queer Eye host’s travel show is daftly pointless.",
   "mainItems": [
+    {
+      "title": "The Super Mario Galaxy Movie crosses $1 billion worldwide, but its predecessor still retains the video game adaptation crown",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/the-super-mario-galaxy-movie-one-billion-box-office",
+      "published": "2026-06-08T08:58:08+00:00",
+      "summary": "Despite making the jump to video-on-demand on digital platforms last month, The Super Mario Galaxy Movie is still holding its theatrical position in cinemas in some locations.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Those who championed free speech in the UK and US now wage war on it. And here’s why: Palestine | Mehdi Hasan",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/08/uk-us-champion-free-speech-war-palestine",
+      "published": "2026-06-08T08:00:02+00:00",
+      "summary": "It was once an article of faith that even those who speak words we disagree with deserve protection.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Best of the World With Antoni Porowski review – the Queer Eye host’s travel show is daftly pointless",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/08/best-of-the-world-with-antoni-porowski-review-the-queer-eye-hosts-travel-show-is-daftly-pointless",
+      "published": "2026-06-08T07:00:04+00:00",
+      "summary": "Like meaningless idioms and aimless encounters with small dogs? This is your show. Only the charm of its presenter renders this worldwide tour bearable Antoni Porowski is waving to us from the top of the Shard.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "A British Childhood by Frank Cottrell-Boyce review – are we raising a bookless generation?",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/books/2026/jun/08/a-british-childhood-by-frank-cottrell-boyce-review-are-we-raising-a-bookless-generation",
+      "published": "2026-06-08T06:00:18+00:00",
+      "summary": "This clarion call about the loss of delight and safety in children’s lives is also a reminder of the sheer magic of reading Every day, on my walk to work, I pass a primary school. A group of little people are being dropped off by parents.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Japanese city shuts down nearly 100 schools after unprecedented bear sighting",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/jun/08/utsunomiya-city-japan-bear-sighting-all-primary-secondary-schools-shut",
+      "published": "2026-06-08T05:56:19+00:00",
+      "summary": "Police and hunters in Utsunomiya, 100km north of the capital, resume their search for animal that is not usually seen so close to Tokyo A city in Japan has closed all its 94 primary and secondary schools after a bear was spotted in the…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Alice and Steve review – Jemaine Clement and Nicola Walker’s icky comedy is dated and wrong",
       "source": "The Guardian US",
@@ -23,16 +73,6 @@
       "url": "https://www.theguardian.com/lifeandstyle/2026/jun/08/julie-newmar-92-catwoman-caring-for-her-son",
       "published": "2026-06-08T04:00:16+00:00",
       "summary": "She starred in Seven Brides for Seven Brothers, had to stoop when she danced with Fred Astaire, then became world-famous – and a gay icon – in the original Batman series. But her life behind the scenes has been just as interesting ...",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘The Epstein files are about more than men and money’: All the Rage, the ‘guerrilla’ play fuelled by 80 furious women",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/stage/2026/jun/08/epstein-files-men-money-all-the-rage-guerrilla-play",
-      "published": "2026-06-08T04:00:16+00:00",
-      "summary": "Enraged at how the victims of Jeffrey Epstein are being forgotten, more than 80 female and non-binary writers united – to create an epic drama fusing art, activism and anger.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -57,16 +97,6 @@
       "score": 10
     },
     {
-      "title": "The 7 biggest storylines from Summer Game Fest 2026",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
-      "published": "2026-06-07T18:45:33+00:00",
-      "summary": "The 2026 edition of Summer Game Fest just wrapped up, and it was surprisingly hectic.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
       "title": "Halo: Campaign Evolved arrives July 28th",
       "source": "The Verge",
       "category": "AI / computing",
@@ -77,44 +107,14 @@
       "score": 10
     },
     {
-      "title": "Minecraft Dungeons 2 gets a September release date",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer",
-      "published": "2026-06-07T18:44:42+00:00",
-      "summary": "Minecraft Dungeons 2, a sequel to Microsoft's dungeon crawler spinoff Minecraft Dungeons, will be released on September 29th. The company originally revealed the game in a brief trailer in March, promising a fall 2026 release window.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Crazy Taxi World Tour officially announced, Sega immediately upsets everyone by announcing it used generative AI",
+      "title": "Xbox has clarified its approach to console exclusive games, after last night's PS5 snub for Gears of War: E-Day and Clockwork Revolution caught many off guard",
       "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/crazy-taxi-world-tour-officially-announced-sega-immediately-upsets-everyone-by-announcing-it-used-generative-ai",
-      "published": "2026-06-07T18:36:52+00:00",
-      "summary": "It's been a rollercoaster day for Crazy Taxi . Today, at Xbox's showcase, we saw the first trailer for the long-teased rebooted game in the series.",
+      "url": "https://www.eurogamer.net/xbox-console-exclusive-strategy-clockwork-revolution-gears-of-war-e-day",
+      "published": "2026-06-08T09:00:42+00:00",
+      "summary": "Xbox has shed more light on the company's exclusivity strategy, after last night's showcase threw a few surprises our way. Read more",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Metro 2039 goes to war with the underground's Führer in a moody first gameplay trailer, as February 2027 release window confirmed",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/metro-2039-gameplay-trailer-february-2027-release",
-      "published": "2026-06-07T17:31:02+00:00",
-      "summary": "Following Metro 2039's striking cinematic unveiling back in April, developer 4A Games has revealed first proper gameplay of its gritty post-apocalyptic horror shooter, narrowing down its previously announced \"winter\" release date to…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Fable gets a moody story trailer at the Xbox Games Showcase, coming to Xbox, PS5, and PC next February",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/fable-gets-a-moody-release-date-trailer-at-the-xbox-games-showcase-releasing-february-2027",
-      "published": "2026-06-07T17:18:50+00:00",
-      "summary": "Fable has just got a new release date trailer at the Xbox Games Showcase. It'll be releasing on Xbox Series X/S, PS5, and PC on the 23rd February, 2027. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Nearly 84% of Detroit District High Schoolers Were Paid for Attendance This Year",
