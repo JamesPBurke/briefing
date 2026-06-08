@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-08T09:01:59.727305Z
+Generated: 2026-06-08T14:00:02.579665Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are The Super Mario Galaxy Movie crosses $1 billion worldwide, but its predecessor still retains the video game adaptation crown, Those who championed free speech in the UK and US now wage war on it. And here’s why: Palestine | Mehdi Hasan, and Best of the World With Antoni Porowski review – the Queer Eye host’s travel show is daftly pointless.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Uber tells London to get ready for robotaxis, "Trust that we're going to be smart about this" Amazon Game Studios boss says of 007 First Light sequels, while insisting he didn't confirm who'll publish them, and Yes, Gears of War: E-Day is bringing back Horde and Versus, even if they were barely mentioned.
 
 ## Briefing
 
@@ -33,16 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. The Super Mario Galaxy Movie crosses $1 billion worldwide, but its predecessor still retains the video game adaptation crown [10/10]
-**Source:** Eurogamer  
+### 1. Uber tells London to get ready for robotaxis [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Despite making the jump to video-on-demand on digital platforms last month, The Super Mario Galaxy Movie is still holding its theatrical position in cinemas in some locations.
+Uber is getting ready to put robotaxis on London's streets, opening an interest list for riders who want to be among the first to hail one of Wayve's autonomous vehicles when the service goes live later this year.
 
-Link: https://www.eurogamer.net/the-super-mario-galaxy-movie-one-billion-box-office
+Link: https://www.theverge.com/transportation/945614/uber-wayve-robotaxi-interest-list-launch-london
 
-### 2. Those who championed free speech in the UK and US now wage war on it. And here’s why: Palestine | Mehdi Hasan [10/10]
+### 2. "Trust that we're going to be smart about this" Amazon Game Studios boss says of 007 First Light sequels, while insisting he didn't confirm who'll publish them [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Last week, Amazon gaming general manager Jeff Gattis rather put the cat amongst the pigeons when talking about James Bond's future in games now IO Interactive's 007 First Light is out.
+
+Link: https://www.rockpapershotgun.com/trust-that-were-going-to-be-smart-about-this-amazon-game-studios-boss-says-of-007-first-light-sequels-while-insisting-he-didnt-confirm-wholl-publish-them
+
+### 3. Yes, Gears of War: E-Day is bringing back Horde and Versus, even if they were barely mentioned [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+As promised, Gears of War: E-Day developer The Coalition followed up the Xbox Games Showcase with a presentation entirely dedicated to the upcoming third-person shooter.
+
+Link: https://www.eurogamer.net/gears-of-war-e-day-horde-versus-confirmed
+
+### 4. Carcass Clad, the Mouthwashing team's next game, is a horrifying co-op tank game, announced at the PC Gaming Show [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The developers of Mouthwashing - the sci-fi horror hit - have announced their next game: Carcass Clad. Read more
+
+Link: https://www.eurogamer.net/carcass-clad-reveal-mouthwashing-next-game
+
+### 5. A religious hospital denied her a life-saving drug during an ectopic pregnancy. She lost her fertility [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Harmonie Perrone, 28, is suing Advocate Good Shepherd in Illinois, where reproductive rights are enshrined in law Harmonie Perrone, 28, knew she was probably having an ectopic pregnancy, and she knew exactly what she needed to do: seek…
+
+Link: https://www.theguardian.com/us-news/2026/jun/08/illinois-hospital-ectopic-pregnancy
+
+### 6. The spectacular collapse of a case against ICE protesters: ‘It’s not justice, but it is a win’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Though the federal government’s prosecution fell apart, the Broadview Six of Illinois say their lives have been upended Michael Rabbitt was 4,000 miles (6,400km) away from home last October, celebrating his 30th wedding anniversary in…
+
+Link: https://www.theguardian.com/us-news/2026/jun/08/chicago-broadview-six-trump-administration
+
+### 7. Aquatic Robots, Drones and Power Tools: STEM Spans All Grades in Oklahoma School [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Tulsa, Oklahoma, STEM teacher Jacqueline Lanning had long had her eye on the Dove Schools.
+
+Link: https://www.the74million.org/article/aquatic-robots-drones-and-power-tools-stem-spans-all-grades-in-oklahoma-school/
+
+### 8. Those who championed free speech in the UK and US now wage war on it. And here’s why: Palestine | Mehdi Hasan [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -51,104 +105,50 @@ It was once an article of faith that even those who speak words we disagree with
 
 Link: https://www.theguardian.com/commentisfree/2026/jun/08/uk-us-champion-free-speech-war-palestine
 
-### 3. Best of the World With Antoni Porowski review – the Queer Eye host’s travel show is daftly pointless [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Like meaningless idioms and aimless encounters with small dogs? This is your show. Only the charm of its presenter renders this worldwide tour bearable Antoni Porowski is waving to us from the top of the Shard.
-
-Link: https://www.theguardian.com/tv-and-radio/2026/jun/08/best-of-the-world-with-antoni-porowski-review-the-queer-eye-hosts-travel-show-is-daftly-pointless
-
-### 4. A British Childhood by Frank Cottrell-Boyce review – are we raising a bookless generation? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-This clarion call about the loss of delight and safety in children’s lives is also a reminder of the sheer magic of reading Every day, on my walk to work, I pass a primary school. A group of little people are being dropped off by parents.
-
-Link: https://www.theguardian.com/books/2026/jun/08/a-british-childhood-by-frank-cottrell-boyce-review-are-we-raising-a-bookless-generation
-
-### 5. Japanese city shuts down nearly 100 schools after unprecedented bear sighting [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Police and hunters in Utsunomiya, 100km north of the capital, resume their search for animal that is not usually seen so close to Tokyo A city in Japan has closed all its 94 primary and secondary schools after a bear was spotted in the…
-
-Link: https://www.theguardian.com/world/2026/jun/08/utsunomiya-city-japan-bear-sighting-all-primary-secondary-schools-shut
-
-### 6. Alice and Steve review – Jemaine Clement and Nicola Walker’s icky comedy is dated and wrong [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-This tale of a midlife man dating his best friend’s 26-year-old daughter is interminable, and so unconvincing that Clement looks embarrassed throughout I’ll be honest with you – committed pessimist that I am, pseudo-incest was still not a…
-
-Link: https://www.theguardian.com/tv-and-radio/2026/jun/08/alice-and-steve-review-jemaine-clement-and-nicola-walkers-icky-comedy-is-dated-and-wrong
-
-### 7. ‘My life is about beauty’: Julie Newmar at 92 on shocking the world as Catwoman – and caring for her son [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-She starred in Seven Brides for Seven Brothers, had to stoop when she danced with Fred Astaire, then became world-famous – and a gay icon – in the original Batman series. But her life behind the scenes has been just as interesting ...
-
-Link: https://www.theguardian.com/lifeandstyle/2026/jun/08/julie-newmar-92-catwoman-caring-for-her-son
-
-### 8. ‘Every day the policy changes’: chaos and confusion for Filipino workers over US immigration rules [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The US relies on migrant workers in crucial sectors but shifting policies under Donald Trump create uncertainty and fear Jay*, a Filipino migrant, cares for an 82-year-old US veteran in San Francisco’s Bay Area who has suffered from a…
-
-Link: https://www.theguardian.com/world/2026/jun/08/filipino-workers-us-trump-immigration-rules
-
-### 9. Xbox Games Showcase 2026: All the news and trailers [10/10]
+### 9. Xbox exclusives are back and more complicated than ever [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-The console industry is in a weird place, and both Xbox and PlayStation have a chance to change the narrative a bit with their showcases at Summer Game Fest.
+Two years ago, when Microsoft first revealed that it was bringing four Xbox-exclusive games to the PS5 and Nintendo Switch, it made the announcement far more complicated than necessary. That's not likely to improve anytime soon.
 
-Link: https://www.theverge.com/entertainment/944191/xbox-games-showcase-2026-news-trailers
+Link: https://www.theverge.com/report/945639/xbox-exclusives-strategy-complicated-confusing
 
-### 10. Halo: Campaign Evolved arrives July 28th [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 10. The Vampire Lestat: How Sam Reid Brought Jarda to Life [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-As part of its Xbox Games Showcase on Sunday, Microsoft revealed new details about Halo: Campaign Evolved, the upcoming remake of Halo: Combat Evolved's campaign mode. The remake will debut on Xbox Series S / X, PC, and PS5 on July 28th.
+Sam Reid plays more than one character in The Vampire Lestat; the actor explains how he prepped for the other one The post The Vampire Lestat : How Sam Reid Brought Jarda to Life appeared first on Reactor .
 
-Link: https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026
+Link: https://reactormag.com/the-vampire-lestat-sam-reid-jarda/
 
-### 11. Xbox has clarified its approach to console exclusive games, after last night's PS5 snub for Gears of War: E-Day and Clockwork Revolution caught many off guard [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Xbox has shed more light on the company's exclusivity strategy, after last night's showcase threw a few surprises our way. Read more
-
-Link: https://www.eurogamer.net/xbox-console-exclusive-strategy-clockwork-revolution-gears-of-war-e-day
-
-### 12. Nearly 84% of Detroit District High Schoolers Were Paid for Attendance This Year [9/10]
+### 11. Opinion: Three Schools, One Direction: Combining High School, College and CTE Work [8/10]
 **Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Sign up for Chalkbeat Detroit’s free newsletter to keep up with the city’s public school system and Michigan education policy.
+I’ve always thought about the future.
 
-Link: https://www.the74million.org/article/nearly-84-of-detroit-district-high-schoolers-were-paid-for-attendance-this-year/
+Link: https://www.the74million.org/article/three-schools-one-direction-combining-high-school-college-and-cte-work/
 
-### 13. It's one of the world's most isolated islands. Here come the bulldozers [8/10]
+### 12. In his book, self-described USAID 'whistleblower' talks about the agency and Ebola [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-The Indian government is spending $9 billion to create a megaport, airport and city on this remote island. Critics fear the impact on pristine forests and the lives of indigenous inhabitants.
+Nicholas Enrich, on staff at the U.S. Agency for International Aid under 4 administrations, talks about Into the Woodchipper: A Whistleblower's Account of How the Trump Administration Shredded USAID.
 
-Link: https://www.npr.org/2026/06/07/g-s1-125586/island-isolated-india-great-nicobar-china-development
+Link: https://www.npr.org/2026/06/08/g-s1-125269/ebola-usaid-outbreak-trump-musk-woodchipper-nicholas-enrich
+
+### 13. A Farmer Donated Land to Turn into a Park. The City Is Building a Massive Data Center Instead [7/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+In 1999, a farmer gave away 87 acres of land to a small Texas city to use as a park. The city sold to a data center developer for $10 million.
+
+Link: https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/
 
 ## YouTube
 
@@ -322,6 +322,15 @@ Link: https://www.youtube.com/watch?v=KuRvP6p-jXc
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=OSVkOBxeifY
+
+### Catching Yahtzee Up on the Big Summer Game Fest Announcements | Windbreaker Podcast [10/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.
+
+Link: https://www.youtube.com/watch?v=xsd06xiNI3s
 
 ### Xbox Games Showcase Watchalong [8/10]
 **Creator:** Second Wind  
