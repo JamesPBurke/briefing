@@ -1,11 +1,41 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-09T05:00:02.601189Z",
-  "generatedAtDisplay": "2026-06-09 01:00 AM EDT",
+  "generatedAt": "2026-06-09T09:01:08.969981Z",
+  "generatedAtDisplay": "2026-06-09 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Say hi to \"Siri AI\"—Apple announces new, more \"conversational\" voice assistant, Trump’s border czar threatens to send ‘more ICE agents than you’ve ever seen’ to New York City, and \"Chat is dead\": OpenAI preps overhaul of ChatGPT.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are KLM apologises after Paralympian denied onboard wheelchair on 11-hour flight, Let this be a warning – if Europe worries about Trump, it has even more reason to fear JD Vance | Gaby Hinsliff, and ‘You’re treated like this is the end’: Meet the dementia rebels – diagnosed and determined to change people’s minds.",
   "mainItems": [
+    {
+      "title": "KLM apologises after Paralympian denied onboard wheelchair on 11-hour flight",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/jun/09/klm-apologises-after-paralympian-denied-onboard-wheelchair-on-11-hour-flight",
+      "published": "2026-06-09T08:45:01+00:00",
+      "summary": "Athlete Hannah Babalola says she was told to use the toilet without an aisle chair or leave Cape Town to Amsterdam flight The Dutch airline KLM has offered “sincere apologies” to a Paralympic athlete who was denied access to an onboard…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Let this be a warning – if Europe worries about Trump, it has even more reason to fear JD Vance | Gaby Hinsliff",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/09/warning-europe-worries-trump-fear-jd-vance",
+      "published": "2026-06-09T07:00:48+00:00",
+      "summary": "His toxic Henry Nowak intervention fits a pattern. Vance has hard-right views, a disdain for European society – and he may yet become president Immigration is falling in Britain .",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "‘You’re treated like this is the end’: Meet the dementia rebels – diagnosed and determined to change people’s minds",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/society/2026/jun/09/dementia-rebels-diagnosed-determined-change-peoples-minds",
+      "published": "2026-06-09T04:00:45+00:00",
+      "summary": "Few things are more feared than a dementia diagnosis.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Say hi to \"Siri AI\"—Apple announces new, more \"conversational\" voice assistant",
       "source": "Ars Technica",
@@ -13,16 +43,6 @@
       "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
       "published": "2026-06-08T19:30:05+00:00",
       "summary": "New features coming this fall alongside two-tiered, Google-powered AI model overhaul.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump’s border czar threatens to send ‘more ICE agents than you’ve ever seen’ to New York City",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/08/ice-agents-new-york-city-tom-homan",
-      "published": "2026-06-08T16:11:11+00:00",
-      "summary": "Tom Homan says he made Kathy Hochul promise after governor signed bill protecting New Yorkers against ICE Donald Trump ’s hardline border czar has again threatened to dispatch a surge of immigration agents to New York City , as the…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -37,12 +57,22 @@
       "score": 10
     },
     {
-      "title": "OpenAI confidentially files for initial public offering on US stock market",
+      "title": "Official Gears of War: E-Day video gets taken down for including a PS5 logo, adding more fuel to the last-minute change theory",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/gears-of-war-e-day-video-taken-down-ps5-logo-exclusive",
+      "published": "2026-06-09T08:51:54+00:00",
+      "summary": "It's been an eventful few days for Xbox. Gears of War: E-Day was officially confirmed during the Xbox Games Showcase to be a console exclusive , hours after a PEGI rating for the PS5 version surfaced . Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "World’s first wind-powered underwater datacentre starts operating in China",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/jun/08/openai-ipo-files-for-public-stock-market",
-      "published": "2026-06-08T21:47:14+00:00",
-      "summary": "ChatGPT maker expected to be valued at more than $850bn, one of most highly valued listings in market history OpenAI has filed confidentially to go public on the US stock market, according to a company blogpost published on Monday.",
+      "url": "https://www.theguardian.com/world/2026/jun/09/worlds-first-wind-powered-underwater-datacentre-starts-operating-in-china",
+      "published": "2026-06-09T05:00:45+00:00",
+      "summary": "Datacentre off Shanghai coast uses less power and water than land-based equivalent The world’s first wind-powered underwater datacentre has started operations off the coast of Shanghai, as China presses forwards with solutions for energy…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
@@ -57,42 +87,12 @@
       "score": 9
     },
     {
-      "title": "Federal judge rules Trump’s $100,000 fee for H-1B visas unlawful",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/jun/08/trump-h-1b-visa-fee-invalidated",
-      "published": "2026-06-08T18:47:20+00:00",
-      "summary": "President dramatically raised cost of visa for highly skilled workers in executive order last year A US judge has invalidated Donald Trump’s $100,000 annual fee on H-1B visa applications, ruling it an unlawful tax that violated federal…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: How a Student Health Bill Got Tangled in Kansas Politics",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/how-a-student-health-bill-got-tangled-in-kansas-politics/",
-      "published": "2026-06-08T16:30:00+00:00",
-      "summary": "Just weeks after Kansas lawmakers passed legislation promoting daily recess and physical fitness in K-12 schools, Democratic Gov. Laura Kelly vetoed the measure.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Gothic remake lockpicking backlash raises the fascinating question of whether anybody really enjoys lockpicking in RPGs",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/gothic-remake-lockpicking-backlash-raises-the-fascinating-question-of-whether-anybody-really-enjoys-lockpicking-in-rpgs",
-      "published": "2026-06-08T16:11:22+00:00",
-      "summary": "Alkimia Interactive and THQ's Gothic remake launched over the weekend, and many are the complaints that the RPG's revised lockpicking system is far too hard.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "In these schools, the World Cup is a teachable moment",
+      "title": "Sweden set to ban mobile phones in schools",
       "source": "NPR Education",
       "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/06/08/nx-s1-5827114/in-these-schools-the-world-cup-is-a-teachable-moment",
-      "published": "2026-06-08T20:49:58+00:00",
-      "summary": "One school district outside Boston is turning the World Cup into a teachable moment, with elementary classes learning about different countries' languages, food and wildlife.",
+      "url": "https://www.npr.org/2026/06/09/g-s1-126967/sweden-set-to-ban-mobile-phones-in-schools",
+      "published": "2026-06-09T06:02:33+00:00",
+      "summary": "Long championed as a leader in adopting digital technology, Sweden is set to ban mobile phones in schools beginning in the fall for the next academic year.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 8
     },
@@ -137,8 +137,494 @@
       "score": 6
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "Don't Clickbait Your Videos, Folks",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=V3CylFxdp6E",
+      "published": "2026-06-08T22:30:02+00:00",
+      "summary": "YouTuber Tom Scott joins WIRED to answer the internet’s burning content creator and YouTube strategy questions.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "The Importance of a Great YouTube Intro",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=2yaN8BZXxsk",
+      "published": "2026-06-08T19:30:03+00:00",
+      "summary": "YouTuber Tom Scott joins WIRED to answer the internet’s burning content creator and YouTube strategy questions.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Tom Scott's Top Tip For YouTube Growth",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=tew4V_NSdnI",
+      "published": "2026-06-08T16:30:02+00:00",
+      "summary": "YouTuber Tom Scott joins WIRED to answer the internet’s burning content creator and YouTube strategy questions.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Are The Mandalorian & Jedi Enemies?",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=FMGTCSuJKJs",
+      "published": "2026-06-07T16:00:07+00:00",
+      "summary": "Well...that's up to The Mandalorian, isn't it? Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Who's The New He-Man?",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=6T_Jb5oYquY",
+      "published": "2026-06-06T13:00:03+00:00",
+      "summary": "Zac Efron? Zack Galifianakis? Wait, what? WIRED tasks Nicholas Galitzine (He-Man), Camila Mendes (Teela) and director Travis Knight to answer the 50 most searched _Masters of the Universe_ questions.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Russia's elite gather for Putin's pet project — an economic forum in St Petersburg",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=g7OQvKrL_0s",
+      "published": "2026-06-08T21:00:11+00:00",
+      "summary": "The St. Petersburg International Economic Forum — Russia's answer to Davos — opened last week under the shadow of Ukrainian drone attacks and growing economic uncertainty.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "\"Schmigadoon!\" wins best musical, \"Death of a Salesman\" lives on",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Uv7nTbd6skE",
+      "published": "2026-06-08T20:00:12+00:00",
+      "summary": "Broadway’s highest honors, the Tony Awards, were handed out last night at Radio City Music Hall in New York City.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Magnitude 7.8 quake kills at least 32 in the Philippines",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=_eZ3bup9ld0",
+      "published": "2026-06-08T17:30:11+00:00",
+      "summary": "At least 32 people have been killed after a powerful earthquake struck off the shore of the southern Philippines. More than 200 others have been injured and rescue efforts continue.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Trump administration dismantling deep-sea observation system",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=YZAiSvvOKI0",
+      "published": "2026-06-06T15:00:27+00:00",
+      "summary": "The Trump administration is dismantling a deep-sea observation system that provides data to scientists worldwide. The Ocean Observatories Initiative has provided real-time data on the world’s oceans for a decade.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Will Microsoft Drop Series S When Helix Arrives - And What About Series X?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=tIB1bUdPh_A",
+      "published": "2026-06-08T17:00:04+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wjCwIkqPIaQ ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Can Switch 2 Deliver Call of Duty Modern Warfare 4 At 60FPS?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=wbCqLTsK71Q",
+      "published": "2026-06-08T16:00:28+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wjCwIkqPIaQ ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Will High Hardware Prices Force Developers To Improve Optimisation For Existing Kit?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=5WcJMQGPetU",
+      "published": "2026-06-07T16:00:06+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wjCwIkqPIaQ ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Ratchet And Clank Rift Apart: Five Year Anniversary + Still Looking Awesome",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=cbbXRWt54CI",
+      "published": "2026-06-07T15:00:18+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "What's The Point Of Nvidia's RTX Spark Laptops?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=afYogJmI5PA",
+      "published": "2026-06-06T16:00:25+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wjCwIkqPIaQ ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Witcher 3 Is Getting A New Expansion + New Minimum PC Specs",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=KDKFKIbai64",
+      "published": "2026-06-06T15:00:12+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/Tv7lRp_rlq0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Saying \"MÖRK BORG Heresy Supreme\" Five Times Fast | Hot Monday Energy",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=0mJnRvCnads",
+      "published": "2026-06-09T01:17:05+00:00",
+      "summary": "This week on Hidden Gems KC, Jess, and Jesse play MÖRK BORG Heresy Supreme -- https://store.steampowered.com/app/3216800/MRK_BORG_Heresy_Supreme/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Catching Yahtzee Up on the Big Summer Game Fest Announcements | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=xsd06xiNI3s",
+      "published": "2026-06-08T19:03:51+00:00",
+      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Second Wind Channel Update - 100M Views, Patreon, and More!",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=tvng1HCO_oI",
+      "published": "2026-06-08T19:00:04+00:00",
+      "summary": "We've surpassed the 100M views milestone in less than three years, and it's that time of year again where we encourage more of you to join our Patreon! Support us on Patreon: https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "I Don’t Like 007 First Light's Level Design (and I'm Wrong) | Design Delve",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=Zz50_UTZcL0",
+      "published": "2026-06-08T15:00:26+00:00",
+      "summary": "In today's episode, J & Ludo compare the level design sensibilities of 007 First Light with Hitman: World of Assassination to see how the two compare and succeed at completely different goals. Support us on Patreon: https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Xbox Games Showcase Watchalong",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=N7cODgSgdXE",
+      "published": "2026-06-07T21:00:18+00:00",
+      "summary": "Join us in this watchalong of the Xbox Games Showcase. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "RESIDENT EVIL – Zach Cregger on Survival Horror",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=N_KDtokTO1c",
+      "published": "2026-05-21T16:18:37+00:00",
+      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RESIDENT EVIL - Zach Cregger on Survival Horror",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=5gR1GTJPGqQ",
+      "published": "2026-05-21T16:00:09+00:00",
+      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY (2006) - 20th Anniversary - Official Trailer (HD)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=A0fgugC7ZCo",
+      "published": "2026-05-20T16:46:15+00:00",
+      "summary": "If you ain't first, you're last. 🏁 Ricky Bobby returns to the big screen. #TalladegaNights is back in theatres June 28, June 30, and July 1.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "The Dog Stars | In Theaters August 28",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=h-AyrYcuL8U",
+      "published": "2026-06-08T19:54:02+00:00",
+      "summary": "THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters August 28. Full trailer online now.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Dog Stars | In Theaters August 28",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=mx15DclPXJQ",
+      "published": "2026-06-08T18:41:20+00:00",
+      "summary": "THE DOG STARS. Jacob Elordi. Ridley Scott. Full trailer online now.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Dog Stars | Official Trailer | In Theaters Aug 28",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=sVCrTJdNtSs",
+      "published": "2026-06-08T16:00:16+00:00",
+      "summary": "Fear the survivors. THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters August 28.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Invite | Official Trailer 2 HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=nelkiuezJxg",
+      "published": "2026-06-04T13:00:30+00:00",
+      "summary": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Onslaught | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=L24CYVpQ-LI",
+      "published": "2026-06-02T13:00:08+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Adam Wingard and starring Adria Arjona, Alex Pereira, Drew Starkey, Rebecca Hall, Reginald VelJohnson, Michael Biehn, Eric Wareheim and Dan Stevens. ONSLAUGHT – In Theaters September 4.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Primetime | Official Teaser HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Yrfrf53ttYY",
+      "published": "2026-05-27T13:00:08+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "The Death of Robin Hood | Official First Look | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ii1gTLxWukk",
+      "published": "2026-05-20T13:00:19+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Michael Sarnoski and starring Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett and Noah Jupe. THE DEATH OF ROBIN HOOD – In theaters June 19.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Built Different: Curry Barker on Supernatural Horror",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ZpeiXao2MS4",
+      "published": "2026-05-26T18:01:01+00:00",
+      "summary": "Supernatural horror is a window into another nightmarish world. Curry Barker explains why we're all drawn in, and how Obsession goes even deeper GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Built Different: Lee Cronin on Gore",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=NSilsgp90jE",
+      "published": "2026-05-22T18:37:15+00:00",
+      "summary": "It takes blood, guts, and heart to make a Gore horror movie. Lee Cronin unpacks the brutal horror subgenre. This is how he defines Gore, disrupts it, and takes it even further in Lee Cronin’s The Mummy.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Strung | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=sEz074LTiV8",
+      "published": "2026-05-20T16:30:28+00:00",
+      "summary": "Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The American Experiment | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=KM9XnXblZjk",
+      "published": "2026-06-08T15:30:00+00:00",
+      "summary": "As the United States approaches its 250th anniversary, the new five-part documentary series The American Experiment reexamines the improbable achievement that was the nation’s founding, and the radical question at the center of the…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Scooby-Doo Reveal #netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=-p7w41B1RjQ",
+      "published": "2026-06-08T14:00:01+00:00",
+      "summary": "Scooby-Doo Reveal Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Avatar: The Last Airbender: Season 2 | Meet Toph | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Lq9CyML-7Vs",
+      "published": "2026-06-06T18:30:00+00:00",
+      "summary": "The cast and creators of Avatar: The Last Airbender explain how Season 2 brought Toph Beifong to life. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Avatar: The Last Airbender: Season 2 | Audio Described Meet Toph | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=uQ8d_96AurQ",
+      "published": "2026-06-06T18:30:00+00:00",
+      "summary": "The cast and creators of Avatar: The Last Airbender explain how Season 2 brought Toph Beifong to life. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "what can’t she do?? Office Romance is now playing",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=0mwreY8Z2J0",
+      "published": "2026-06-05T16:00:14+00:00",
+      "summary": "what can’t she do?? Office Romance is now playing Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Oasis | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=PQ0DS3oyWUE",
+      "published": "2026-06-03T13:00:00+00:00",
+      "summary": "There are summers that change everything. And places designed to escape—even from the truth.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "America's Sweethearts: Dallas Cowboys Cheerleaders | Season 3 Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=0NWHhWdkqEM",
+      "published": "2026-06-02T16:00:00+00:00",
+      "summary": "A new batch of hopefuls face fierce competition, high expectations and even higher kicks as they vie for a spot with the Dallas Cowboys Cheerleaders. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tony Hinchcliffe: Man of the People | Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=WRbcHKRB8Fw",
+      "published": "2026-06-02T15:00:00+00:00",
+      "summary": "Tony Hinchcliffe returns with another brutally unapologetic hour from comedy's favorite equal-opportunity offender.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "I Will Find You | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=mObRUsA7dPY",
+      "published": "2026-06-01T14:00:01+00:00",
+      "summary": "Every clue gets them closer to the truth. I Will Find You - the thrilling new mystery series from Harlan Coben, premieres June 18th, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tracy Morgan praises Eddie Murphy in AFI Life Achievement Award: A Tribute to Eddie Murphy",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=pZChOAyf-RE",
+      "published": "2026-05-31T14:00:30+00:00",
+      "summary": "“He’s my OG… and I think he’s my biological father.” Tracy Morgan praises Eddie Murphy in AFI Life Achievement Award: A Tribute to Eddie Murphy. Now playing. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Stillwater — Understanding Big Feelings | Season 4 Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=4ephDc26eFY",
+      "published": "2026-06-06T13:59:56+00:00",
+      "summary": "Stillwater explains to Addy how to deal with big emotions. Stillwater — Now Streaming #Stillwater #Scene #AppleTV",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -250,8 +736,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 10
+    "youtubeCount": 20,
+    "trailerCount": 24,
+    "sourceCount": 19
   }
 }
