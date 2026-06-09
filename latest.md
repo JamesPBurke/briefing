@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-09T09:01:08.969981Z
+Generated: 2026-06-09T14:00:02.654723Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are KLM apologises after Paralympian denied onboard wheelchair on 11-hour flight, Let this be a warning – if Europe worries about Trump, it has even more reason to fear JD Vance | Gaby Hinsliff, and ‘You’re treated like this is the end’: Meet the dementia rebels – diagnosed and determined to change people’s minds.
+Today's sweep leans toward AI / computing, Democracy / press freedom, AI / privacy. The strongest items in this run are Nintendo Direct June 2026: All the news and trailers, Apple’s best AI idea looks a lot like vibe coding, and Apple says its AI is still private, even when it's running on Google's servers.
 
 ## Briefing
 
@@ -33,70 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. KLM apologises after Paralympian denied onboard wheelchair on 11-hour flight [10/10]
-**Source:** The Guardian US  
+### 1. Nintendo Direct June 2026: All the news and trailers [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Athlete Hannah Babalola says she was told to use the toilet without an aisle chair or leave Cape Town to Amsterdam flight The Dutch airline KLM has offered “sincere apologies” to a Paralympic athlete who was denied access to an onboard…
+After a week of video game news and trailers from PlayStation, Xbox, and most of the major publishers, it’s now Nintendo’s turn. And the next Nintendo Direct comes at an important time for the company.
 
-Link: https://www.theguardian.com/world/2026/jun/09/klm-apologises-after-paralympian-denied-onboard-wheelchair-on-11-hour-flight
+Link: https://www.theverge.com/entertainment/945806/nintendo-direct-june-2026-trailers-news
 
-### 2. Let this be a warning – if Europe worries about Trump, it has even more reason to fear JD Vance | Gaby Hinsliff [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 2. Apple’s best AI idea looks a lot like vibe coding [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-His toxic Henry Nowak intervention fits a pattern. Vance has hard-right views, a disdain for European society – and he may yet become president Immigration is falling in Britain .
+Most of Apple's current AI ideas are roughly the same as everyone else's AI ideas. A chatbot you can ask questions; quick ways to create or summarize text; bizarre, borderline creepy image-generation tools.
 
-Link: https://www.theguardian.com/commentisfree/2026/jun/09/warning-europe-worries-trump-fear-jd-vance
+Link: https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code
 
-### 3. ‘You’re treated like this is the end’: Meet the dementia rebels – diagnosed and determined to change people’s minds [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Few things are more feared than a dementia diagnosis.
-
-Link: https://www.theguardian.com/society/2026/jun/09/dementia-rebels-diagnosed-determined-change-peoples-minds
-
-### 4. Say hi to "Siri AI"—Apple announces new, more "conversational" voice assistant [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-New features coming this fall alongside two-tiered, Google-powered AI model overhaul.
-
-Link: https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/
-
-### 5. "Chat is dead": OpenAI preps overhaul of ChatGPT [10/10]
+### 3. Apple says its AI is still private, even when it's running on Google's servers [10/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-OpenAI to recast hit chatbot as a route to higher-margin products before a potential IPO.
+Some models run in Google's cloud, but without giving Google any kind of access.
 
-Link: https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/
+Link: https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/
 
-### 6. Official Gears of War: E-Day video gets taken down for including a PS5 logo, adding more fuel to the last-minute change theory [9/10]
+### 4. First Drive: The 2027 Rivian R2 entirely changes the EV game [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Rivian's second EV is the sub-$60,000 R2, and it was worth the wait.
+
+Link: https://arstechnica.com/cars/2026/06/first-drive-the-2027-rivian-r2-entirely-changes-the-ev-game/
+
+### 5. Apple’s AI pitch will live or die by its privacy promise [10/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+As expected, yesterday's WWDC keynote was mostly about AI. And also as expected, Apple tried to turn its late arrival into its sales pitch: it didn't rush into AI because it was taking its time to do things right.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc
+
+### 6. Following generative AI controversy, Crazy Taxi: World Tour lead clarifies how the tech is being used [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-It's been an eventful few days for Xbox. Gears of War: E-Day was officially confirmed during the Xbox Games Showcase to be a console exclusive , hours after a PEGI rating for the PS5 version surfaced . Read more
+Crazy Taxi : World Tour's reveal during the Xbox Games Showcase was a highlight, finally offering a look at the modern incarnation of the classic series.
 
-Link: https://www.eurogamer.net/gears-of-war-e-day-video-taken-down-ps5-logo-exclusive
+Link: https://www.eurogamer.net/crazy-taxi-world-tour-generative-ai-new-information
 
-### 7. World’s first wind-powered underwater datacentre starts operating in China [9/10]
+### 7. Opinion: The Financial Realities Faced by School Districts Are Worse Than You Think [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Most school district leaders know their finances are in serious trouble. Most of them are not saying so publicly. That combination — private alarm, public reassurance — is itself a major part of the problem.
+
+Link: https://www.the74million.org/article/the-financial-realities-school-districts-are-facing-are-worse-than-you-think/
+
+### 8. Trump ‘inventing fraud’ in California, experts warn as president ramps up baseless claims [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Datacentre off Shanghai coast uses less power and water than land-based equivalent The world’s first wind-powered underwater datacentre has started operations off the coast of Shanghai, as China presses forwards with solutions for energy…
+Critics say president using well-worn playbook – with loyalists in key positions ready to amplify his message Donald Trump is “inventing fraud” in California’s primary elections, and likely to ramp up unfounded allegations when more races…
 
-Link: https://www.theguardian.com/world/2026/jun/09/worlds-first-wind-powered-underwater-datacentre-starts-operating-in-china
+Link: https://www.theguardian.com/us-news/2026/jun/09/trump-election-california-fraud-claims
 
-### 8. Hey, Siri: Apple just announced a long-awaited AI update [9/10]
+### 9. Hey, Siri: Apple just announced a long-awaited AI update [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -105,16 +114,34 @@ At its annual developers' conference, Apple put the spotlight on new AI features
 
 Link: https://www.npr.org/2026/06/08/nx-s1-5847937/apple-wwdc-2026-siri-ai-tim-cook
 
-### 9. Sweden set to ban mobile phones in schools [8/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 10. Opinion: How a Student Health Bill Got Tangled in Kansas Politics [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Long championed as a leader in adopting digital technology, Sweden is set to ban mobile phones in schools beginning in the fall for the next academic year.
+Just weeks after Kansas lawmakers passed legislation promoting daily recess and physical fitness in K-12 schools, Democratic Gov. Laura Kelly vetoed the measure.
 
-Link: https://www.npr.org/2026/06/09/g-s1-126967/sweden-set-to-ban-mobile-phones-in-schools
+Link: https://www.the74million.org/article/how-a-student-health-bill-got-tangled-in-kansas-politics/
 
-### 10. It’s the End of the World Again in the Trailer for Ridley Scott’s The Dog Stars [8/10]
+### 11. “Sloppenheimer:” Amazon Employees Mock the Company’s AI on Slack [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Amazon employees have a Slack channel for memes where the mock and commiserate about the company’s faulty AI coding product.
+
+Link: https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/
+
+### 12. More Americans survive cancer. But the psychological impacts can persist for years [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Due to advancements in treatment and screening, more Americans are surviving cancer. But many are left with lingering mental health challenges like anxiety and depression.
+
+Link: https://www.npr.org/2026/06/09/nx-s1-5780010/iowa-cancer-survivor-depression-anxiety-guilt-undiagnosed-mental
+
+### 13. It’s the End of the World Again in the Trailer for Ridley Scott’s The Dog Stars [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -123,38 +150,11 @@ Nobody feels fine, though The post It’s the End of the World Again in the Trai
 
 Link: https://reactormag.com/ridley-scott-the-dog-stars-trailer/
 
-### 11. Microsoft Hacked to Deliver Malware to Claude and Gemini Users [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Microsoft took the highly unusual step of shutting down more than 70 of its own GitHub repositories after hackers pushed malware that would steal credentials from AI coding agent users.
-
-Link: https://www.404media.co/microsoft-hacked-to-deliver-malware-to-claude-and-gemini-users/
-
-### 12. In his book, self-described USAID 'whistleblower' talks about the agency and Ebola [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Nicholas Enrich, on staff at the U.S. Agency for International Aid under 4 administrations, talks about Into the Woodchipper: A Whistleblower's Account of How the Trump Administration Shredded USAID.
-
-Link: https://www.npr.org/2026/06/08/g-s1-125269/ebola-usaid-outbreak-trump-musk-woodchipper-nicholas-enrich
-
-### 13. This rule makes every pizza better : Toppings may go on last, but they’re the part of the pizza you should think of first. [6/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-Nothing destroys a pizza faster than an undercooked mushroom.
-
-Link: https://www.kingarthurbaking.com/blog/2026/06/08/homemade-pizza-toppings
-
 ## YouTube
 
-### Don't Clickbait Your Videos, Folks [8/10]
+### Don't Clickbait Your Videos, Folks [7/10]
 **Creator:** WIRED  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 YouTuber Tom Scott joins WIRED to answer the internet’s burning content creator and YouTube strategy questions.
@@ -187,15 +187,6 @@ Link: https://www.youtube.com/watch?v=tew4V_NSdnI
 Well...that's up to The Mandalorian, isn't it? Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.
 
 Link: https://www.youtube.com/watch?v=FMGTCSuJKJs
-
-### Who's The New He-Man? [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Zac Efron? Zack Galifianakis? Wait, what? WIRED tasks Nicholas Galitzine (He-Man), Camila Mendes (Teela) and director Travis Knight to answer the 50 most searched _Masters of the Universe_ questions.
-
-Link: https://www.youtube.com/watch?v=6T_Jb5oYquY
 
 ### Russia's elite gather for Putin's pet project — an economic forum in St Petersburg [7/10]
 **Creator:** NPR  
@@ -287,14 +278,23 @@ Link: https://www.youtube.com/watch?v=afYogJmI5PA
 
 Link: https://www.youtube.com/watch?v=KDKFKIbai64
 
-### Saying "MÖRK BORG Heresy Supreme" Five Times Fast | Hot Monday Energy [7/10]
+### Saying "MÖRK BORG Heresy Supreme" Five Times Fast | Hot Monday Energy [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Hidden Gems KC, Jess, and Jesse play MÖRK BORG Heresy Supreme -- https://store.steampowered.com/app/3216800/MRK_BORG_Heresy_Supreme/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=0mJnRvCnads
+
+### Nintendo Direct June 2026 Watchalong [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Join us in watching the first big Nintendo Direct of 2026. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=q3OR2cdX6co
 
 ### Catching Yahtzee Up on the Big Summer Game Fest Announcements | Windbreaker Podcast [9/10]
 **Creator:** Second Wind  
@@ -477,6 +477,15 @@ Link: https://www.youtube.com/watch?v=NSilsgp90jE
 Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.
 
 Link: https://www.youtube.com/watch?v=sEz074LTiV8
+
+### Enola Holmes 3 | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+It will take a Holmes, to save a Holmes.
+
+Link: https://www.youtube.com/watch?v=n_pEJjq-9xQ
 
 ### The American Experiment | Official Trailer | Netflix [8/10]
 **Source:** Netflix  
