@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-10T09:01:49.859891Z
+Generated: 2026-06-10T14:00:02.550029Z
 
-Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, AI / computing. The strongest items in this run are WhatsApp ordered to host rival AI assistants for free, A moment that changed me: I climbed a tower aged nine, alone – and discovered how I wanted to live, and After years of declines, young students show gains in reading and math.
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Games / criticism. The strongest items in this run are Opinion: For Struggling Middle and High Schoolers, All Reading Is Good Reading, Middle East peace talks in doubt as Iran says it needs to ‘reassess’ after overnight strikes, and Valve won't let retailers stock physical Steam gift cards anymore because "scammers have adapted" to whatever security measures they've tried.
 
 ## Briefing
 
@@ -33,7 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. WhatsApp ordered to host rival AI assistants for free [10/10]
+### 1. Opinion: For Struggling Middle and High Schoolers, All Reading Is Good Reading [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+During my first year as a fifth-grade teacher, I taught a student who had moved from the Dominican Republic three weeks before school started.
+
+Link: https://www.the74million.org/article/for-struggling-middle-and-high-schoolers-all-reading-is-good-reading/
+
+### 2. Middle East peace talks in doubt as Iran says it needs to ‘reassess’ after overnight strikes [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+US launches strikes in retaliation for downing of US army helicopter, while White House source says deal could still be close The future of peace talks in the Middle East have been thrown into question after Iran’s foreign ministry said it…
+
+Link: https://www.theguardian.com/world/2026/jun/10/middle-east-peace-talks-iran-strikes
+
+### 3. Valve won't let retailers stock physical Steam gift cards anymore because "scammers have adapted" to whatever security measures they've tried [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Valve have stopped producing physical Steam Gift Cards for retailers, meaning once the current stock runs out you won't see them anywhere out in the wild.
+
+Link: https://www.rockpapershotgun.com/valve-wont-let-retailers-stock-physical-steam-gift-cards-anymore-because-scammers-have-adapted-to-whatever-security-measures-theyve-tried
+
+### 4. Ex-NYC comptroller Brad Lander to stand trial after arrest at immigration court [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Brad Lander and 10 other elected officials were arrested by federal agents at ICE facility last September New York City Democrat Brad Lander , the former city comptroller, is scheduled to stand trial Wednesday in a New York City federal…
+
+Link: https://www.theguardian.com/us-news/2026/jun/10/brad-lander-trial-immigration-court
+
+### 5. Trump presses on with plan to install Bill Pulte as acting intelligence chief [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Lawmakers warn appointment of presidential loyalist will scuttle bipartisan agreement to renew Fisa surveillance law Donald Trump is pushing ahead with his controversial plan to install political loyalist Bill Pulte as acting director of…
+
+Link: https://www.theguardian.com/us-news/2026/jun/10/trump-bill-pulte-intelligence-director
+
+### 6. ICE denies having a protester database. But a letter to Congress sheds more light [10/10]
+**Source:** NPR Tech  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+In a previously unpublicized letter to Congress, the newly-departed head of ICE said the agency collects data on people suspected of potentially unlawful activity, which could include protesters.
+
+Link: https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs
+
+### 7. WhatsApp ordered to host rival AI assistants for free [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -42,7 +96,7 @@ Meta has been ordered by the European Commission to restore free WhatsApp access
 
 Link: https://www.theverge.com/tech/947516/meta-whatsapp-eu-third-party-ai-chatbot-ban-order
 
-### 2. A moment that changed me: I climbed a tower aged nine, alone – and discovered how I wanted to live [10/10]
+### 8. A moment that changed me: I climbed a tower aged nine, alone – and discovered how I wanted to live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -51,7 +105,7 @@ Up there by myself, I decided life might be best on my own. That thought has sha
 
 Link: https://www.theguardian.com/lifeandstyle/2026/jun/10/a-moment-that-changed-me-climbed-tower-aged-nine-discovered-how-i-wanted-to-live
 
-### 3. After years of declines, young students show gains in reading and math [10/10]
+### 9. After years of declines, young students show gains in reading and math [10/10]
 **Source:** NPR Education  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -60,43 +114,16 @@ Unscathed by pandemic-era school closures, the nation's 9-year-olds showed progr
 
 Link: https://www.npr.org/2026/06/10/nx-s1-5844932/naep-long-term-trends-reading-math
 
-### 4. Long-Term NAEP Shows Growth for 9-Year-Olds, More Disappointment for Teens [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 10. Podcast: Google Employees Meme About How Bad Their AI Is [9/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-Newly released data from America’s longest-running measure of student learning have delivered a decidedly split verdict on the state of schools.
+Memes at Google; Microsoft wants to make its new AI assistant addictive; and manipulating Reddit.
 
-Link: https://www.the74million.org/article/long-term-naep-shows-growth-for-nine-year-olds-more-disappointment-for-teens/
+Link: https://www.404media.co/podcast-google-employees-meme-about-how-bad-their-ai-is/
 
-### 5. Only one in 10 Europeans now see US as an ally, survey suggests [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Exclusive: poll across 15 countries finds ‘deep mistrust’, with majority doubting US would come to their aid in an attack European confidence in an American “security guarantee” has hit a historic low, a survey suggests, with only one in…
-
-Link: https://www.theguardian.com/world/2026/jun/10/only-one-in-10-europeans-now-see-us-as-an-ally-survey-suggests
-
-### 6. It was Britain’s most expensive house. Why is its only resident a homeless man who lives on the porch? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-2-8A Rutland Gate had jewel-encrusted bathroom suites and gold wastepaper bins in its 45 rooms, but has lain empty for years.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/jun/10/homeless-man-porch-rutland-gate
-
-### 7. House Republicans approve $70bn bill for Trump’s immigration crackdown [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Secure America Act passes largely along party lines in 214-212 vote, ending months-long standoff with Democrats House Republicans on Tuesday approved a $70bn bill funding through the duration of his term the agencies leading Donald Trump’s…
-
-Link: https://www.theguardian.com/us-news/2026/jun/09/house-immigration-bill-funding
-
-### 8. High-severity vulnerability in Linux caused by a single faulty character [9/10]
+### 11. High-severity vulnerability in Linux caused by a single faulty character [9/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -105,16 +132,7 @@ Use-after-free bug can be exploited to evade sandbox defenses.
 
 Link: https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/
 
-### 9. Following generative AI controversy, Crazy Taxi: World Tour lead clarifies how the tech is being used [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Crazy Taxi : World Tour's reveal during the Xbox Games Showcase was a highlight, finally offering a look at the modern incarnation of the classic series.
-
-Link: https://www.eurogamer.net/crazy-taxi-world-tour-generative-ai-new-information
-
-### 10. Whalefall Trailer Sees Austin Abrams Swallowed by Grief and/or a Sperm Whale [8/10]
+### 12. Whalefall Trailer Sees Austin Abrams Swallowed by Grief and/or a Sperm Whale [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -123,7 +141,7 @@ Spoiler: the whale is his dad (kinda) The post Whalefall Trailer Sees Austin Abr
 
 Link: https://reactormag.com/whalefall-trailer-austin-abrams/
 
-### 11. Big tobacco hooked us on ultra-processed foods. It might teach us how to cut back [8/10]
+### 13. Big tobacco hooked us on ultra-processed foods. It might teach us how to cut back [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -131,24 +149,6 @@ Link: https://reactormag.com/whalefall-trailer-austin-abrams/
 Research published in the American Journal of Public Health details the connection between ultra-processed foods and the tobacco industry when it comes to production, strategy and marketing.
 
 Link: https://www.npr.org/2026/06/09/nx-s1-5850364/why-ultra-processed-foods-could-become-the-new-war-on-tobacco
-
-### 12. FCC Wants to Kill Burner Phones By Forcing Telecoms to Get All Customers’ IDs [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-The FCC wants to legally force telecoms to collect new and renewing customers’ government issued identity number and physical address, impacting everyone from the privacy-conscious to domestic abuse survivors.
-
-Link: https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/
-
-### 13. How one cake — and its unexpected baker — helped shape my queer identity: My great-grandfather's pound cake showed me how to authentically express myself. [8/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-As a professional baker, baking is how I bring comfort to others. While my words sometimes fail, baking enables me to nurture the people closest to me; when I bake for someone, I do so because I care about them deeply.
-
-Link: https://www.kingarthurbaking.com/blog/2026/06/09/how-one-cake-and-its-unexpected-baker-helped-shape-my-queer-identity
 
 ## YouTube
 
@@ -188,9 +188,18 @@ Well...that's up to The Mandalorian, isn't it? Still haven’t subscribed to WIR
 
 Link: https://www.youtube.com/watch?v=FMGTCSuJKJs
 
-### Kenyans protest U.S. plans for Ebola quarantine center [8/10]
+### Protesters in Albania oppose plan for Trump family-linked resort [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Thousands of Albanians took to the streets last week, protesting a planned luxury resort that's connected to President Trump's daughter, Ivanka, and son-in-law, Jared Kushner.
+
+Link: https://www.youtube.com/watch?v=0kANId1CL9o
+
+### Kenyans protest U.S. plans for Ebola quarantine center [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 The World Health Organization says more than 100 confirmed ebola deaths have been reported in the Democratic Republic of the Congo. Protestors are rallying in Kenya against plans by the U.S.
@@ -370,6 +379,15 @@ Link: https://www.youtube.com/watch?v=N7cODgSgdXE
 
 ## Trailers / Previews
 
+### THE SOCIAL RECKONING – Official Teaser Trailer (HD) [9/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Every revolution begins with a reckoning. The Social Reckoning, a companion piece to The Social Network, is coming exclusively to theatres October 9.
+
+Link: https://www.youtube.com/watch?v=gM4LkaXwGuY
+
 ### RESIDENT EVIL – Zach Cregger on Survival Horror [9/10]
 **Source:** Sony Pictures Entertainment  
 **Verdict:** Looks promising  
@@ -460,15 +478,6 @@ SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring
 
 Link: https://www.youtube.com/watch?v=Yrfrf53ttYY
 
-### The Death of Robin Hood | Official First Look | A24 [6/10]
-**Source:** A24  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Michael Sarnoski and starring Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett and Noah Jupe. THE DEATH OF ROBIN HOOD – In theaters June 19.
-
-Link: https://www.youtube.com/watch?v=ii1gTLxWukk
-
 ### Once Upon a Time in Harlem - Official Teaser Trailer - In Select Theaters October 16 [8/10]
 **Source:** NEON  
 **Verdict:** Looks promising  
@@ -504,6 +513,15 @@ Link: https://www.youtube.com/watch?v=NSilsgp90jE
 Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.
 
 Link: https://www.youtube.com/watch?v=sEz074LTiV8
+
+### The Map of Longing | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+What if the map to finding yourself led you straight to the person who will change your life forever? ✨ Based on Alice Kellen's bestselling novel, The Map of Longing is one of the year’s most anticipated adaptations.
+
+Link: https://www.youtube.com/watch?v=qpXDZA7f3N4
 
 ### Outlast: The Jungle | Sneak Peek | Netflix [9/10]
 **Source:** Netflix  
@@ -594,15 +612,6 @@ Link: https://www.youtube.com/watch?v=PQ0DS3oyWUE
 A new batch of hopefuls face fierce competition, high expectations and even higher kicks as they vie for a spot with the Dallas Cowboys Cheerleaders. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=0NWHhWdkqEM
-
-### Tony Hinchcliffe: Man of the People | Sneak Peek | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Tony Hinchcliffe returns with another brutally unapologetic hour from comedy's favorite equal-opportunity offender.
-
-Link: https://www.youtube.com/watch?v=WRbcHKRB8Fw
 
 ### Camp Snoopy — Season 2 Official Trailer | Apple TV [9/10]
 **Source:** Apple TV  

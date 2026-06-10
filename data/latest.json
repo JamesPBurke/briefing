@@ -1,11 +1,71 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-10T09:01:49.859891Z",
-  "generatedAtDisplay": "2026-06-10 05:01 AM EDT",
+  "generatedAt": "2026-06-10T14:00:02.550029Z",
+  "generatedAtDisplay": "2026-06-10 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, AI / computing. The strongest items in this run are WhatsApp ordered to host rival AI assistants for free, A moment that changed me: I climbed a tower aged nine, alone – and discovered how I wanted to live, and After years of declines, young students show gains in reading and math.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Games / criticism. The strongest items in this run are Opinion: For Struggling Middle and High Schoolers, All Reading Is Good Reading, Middle East peace talks in doubt as Iran says it needs to ‘reassess’ after overnight strikes, and Valve won't let retailers stock physical Steam gift cards anymore because \"scammers have adapted\" to whatever security measures they've tried.",
   "mainItems": [
+    {
+      "title": "Opinion: For Struggling Middle and High Schoolers, All Reading Is Good Reading",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/for-struggling-middle-and-high-schoolers-all-reading-is-good-reading/",
+      "published": "2026-06-10T12:30:00+00:00",
+      "summary": "During my first year as a fifth-grade teacher, I taught a student who had moved from the Dominican Republic three weeks before school started.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Middle East peace talks in doubt as Iran says it needs to ‘reassess’ after overnight strikes",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/jun/10/middle-east-peace-talks-iran-strikes",
+      "published": "2026-06-10T12:22:01+00:00",
+      "summary": "US launches strikes in retaliation for downing of US army helicopter, while White House source says deal could still be close The future of peace talks in the Middle East have been thrown into question after Iran’s foreign ministry said it…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Valve won't let retailers stock physical Steam gift cards anymore because \"scammers have adapted\" to whatever security measures they've tried",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/valve-wont-let-retailers-stock-physical-steam-gift-cards-anymore-because-scammers-have-adapted-to-whatever-security-measures-theyve-tried",
+      "published": "2026-06-10T11:15:00+00:00",
+      "summary": "Valve have stopped producing physical Steam Gift Cards for retailers, meaning once the current stock runs out you won't see them anywhere out in the wild.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Ex-NYC comptroller Brad Lander to stand trial after arrest at immigration court",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jun/10/brad-lander-trial-immigration-court",
+      "published": "2026-06-10T11:00:18+00:00",
+      "summary": "Brad Lander and 10 other elected officials were arrested by federal agents at ICE facility last September New York City Democrat Brad Lander , the former city comptroller, is scheduled to stand trial Wednesday in a New York City federal…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Trump presses on with plan to install Bill Pulte as acting intelligence chief",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-bill-pulte-intelligence-director",
+      "published": "2026-06-10T10:00:16+00:00",
+      "summary": "Lawmakers warn appointment of presidential loyalist will scuttle bipartisan agreement to renew Fisa surveillance law Donald Trump is pushing ahead with his controversial plan to install political loyalist Bill Pulte as acting director of…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "ICE denies having a protester database. But a letter to Congress sheds more light",
+      "source": "NPR Tech",
+      "category": "Democracy / press freedom",
+      "url": "https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs",
+      "published": "2026-06-10T10:00:00+00:00",
+      "summary": "In a previously unpublicized letter to Congress, the newly-departed head of ICE said the agency collects data on people suspected of potentially unlawful activity, which could include protesters.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "WhatsApp ordered to host rival AI assistants for free",
       "source": "The Verge",
@@ -37,44 +97,14 @@
       "score": 10
     },
     {
-      "title": "Long-Term NAEP Shows Growth for 9-Year-Olds, More Disappointment for Teens",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/long-term-naep-shows-growth-for-nine-year-olds-more-disappointment-for-teens/",
-      "published": "2026-06-10T04:01:00+00:00",
-      "summary": "Newly released data from America’s longest-running measure of student learning have delivered a decidedly split verdict on the state of schools.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Only one in 10 Europeans now see US as an ally, survey suggests",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/jun/10/only-one-in-10-europeans-now-see-us-as-an-ally-survey-suggests",
-      "published": "2026-06-10T04:00:11+00:00",
-      "summary": "Exclusive: poll across 15 countries finds ‘deep mistrust’, with majority doubting US would come to their aid in an attack European confidence in an American “security guarantee” has hit a historic low, a survey suggests, with only one in…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "It was Britain’s most expensive house. Why is its only resident a homeless man who lives on the porch?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/10/homeless-man-porch-rutland-gate",
-      "published": "2026-06-10T04:00:09+00:00",
-      "summary": "2-8A Rutland Gate had jewel-encrusted bathroom suites and gold wastepaper bins in its 45 rooms, but has lain empty for years.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "House Republicans approve $70bn bill for Trump’s immigration crackdown",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/09/house-immigration-bill-funding",
-      "published": "2026-06-09T21:47:38+00:00",
-      "summary": "Secure America Act passes largely along party lines in 214-212 vote, ending months-long standoff with Democrats House Republicans on Tuesday approved a $70bn bill funding through the duration of his term the agencies leading Donald Trump’s…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "Podcast: Google Employees Meme About How Bad Their AI Is",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/podcast-google-employees-meme-about-how-bad-their-ai-is/",
+      "published": "2026-06-10T13:36:16+00:00",
+      "summary": "Memes at Google; Microsoft wants to make its new AI assistant addictive; and manipulating Reddit.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9
     },
     {
       "title": "High-severity vulnerability in Linux caused by a single faulty character",
@@ -84,16 +114,6 @@
       "published": "2026-06-09T15:12:43+00:00",
       "summary": "Use-after-free bug can be exploited to evade sandbox defenses.",
       "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 9
-    },
-    {
-      "title": "Following generative AI controversy, Crazy Taxi: World Tour lead clarifies how the tech is being used",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/crazy-taxi-world-tour-generative-ai-new-information",
-      "published": "2026-06-09T11:30:16+00:00",
-      "summary": "Crazy Taxi : World Tour's reveal during the Xbox Games Showcase was a highlight, finally offering a look at the modern incarnation of the classic series.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -114,26 +134,6 @@
       "published": "2026-06-09T17:02:24+00:00",
       "summary": "Research published in the American Journal of Public Health details the connection between ultra-processed foods and the tobacco industry when it comes to production, strategy and marketing.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "FCC Wants to Kill Burner Phones By Forcing Telecoms to Get All Customers’ IDs",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
-      "published": "2026-06-09T15:11:17+00:00",
-      "summary": "The FCC wants to legally force telecoms to collect new and renewing customers’ government issued identity number and physical address, impacting everyone from the privacy-conscious to domestic abuse survivors.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "How one cake — and its unexpected baker — helped shape my queer identity: My great-grandfather's pound cake showed me how to authentically express myself.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/06/09/how-one-cake-and-its-unexpected-baker-helped-shape-my-queer-identity",
-      "published": "2026-06-09T14:00:00+00:00",
-      "summary": "As a professional baker, baking is how I bring comfort to others. While my words sometimes fail, baking enables me to nurture the people closest to me; when I bake for someone, I do so because I care about them deeply.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
       "score": 8
     }
   ],
@@ -183,6 +183,17 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "Protesters in Albania oppose plan for Trump family-linked resort",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=0kANId1CL9o",
+      "published": "2026-06-10T11:00:01+00:00",
+      "summary": "Thousands of Albanians took to the streets last week, protesting a planned luxury resort that's connected to President Trump's daughter, Ivanka, and son-in-law, Jared Kushner.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Kenyans protest U.S. plans for Ebola quarantine center",
       "source": "NPR",
       "category": "News / analysis",
@@ -190,8 +201,8 @@
       "published": "2026-06-10T00:00:04+00:00",
       "summary": "The World Health Organization says more than 100 confirmed ebola deaths have been reported in the Democratic Republic of the Congo. Protestors are rallying in Kenya against plans by the U.S.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Russia's elite gather for Putin's pet project — an economic forum in St Petersburg",
@@ -372,6 +383,17 @@
   ],
   "trailers": [
     {
+      "title": "THE SOCIAL RECKONING – Official Teaser Trailer (HD)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=gM4LkaXwGuY",
+      "published": "2026-06-10T12:58:35+00:00",
+      "summary": "Every revolution begins with a reckoning. The Social Reckoning, a companion piece to The Social Network, is coming exclusively to theatres October 9.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "RESIDENT EVIL – Zach Cregger on Survival Horror",
       "source": "Sony Pictures Entertainment",
       "category": "Film / trailer",
@@ -482,17 +504,6 @@
       "verdict": "Optional"
     },
     {
-      "title": "The Death of Robin Hood | Official First Look | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=ii1gTLxWukk",
-      "published": "2026-05-20T13:00:19+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Michael Sarnoski and starring Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett and Noah Jupe. THE DEATH OF ROBIN HOOD – In theaters June 19.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
       "title": "Once Upon a Time in Harlem - Official Teaser Trailer - In Select Theaters October 16",
       "source": "NEON",
       "category": "Film / trailer",
@@ -533,6 +544,17 @@
       "published": "2026-05-20T16:30:28+00:00",
       "summary": "Don’t strike the wrong chord. Strung arrives June 26 on @peacock Directed by Malcom D. Lee Written by Alan B.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Map of Longing | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=qpXDZA7f3N4",
+      "published": "2026-06-10T10:00:00+00:00",
+      "summary": "What if the map to finding yourself led you straight to the person who will change your life forever? ✨ Based on Alice Kellen's bestselling novel, The Map of Longing is one of the year’s most anticipated adaptations.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
     },
@@ -644,17 +666,6 @@
       "summary": "A new batch of hopefuls face fierce competition, high expectations and even higher kicks as they vie for a spot with the Dallas Cowboys Cheerleaders. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tony Hinchcliffe: Man of the People | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=WRbcHKRB8Fw",
-      "published": "2026-06-02T15:00:00+00:00",
-      "summary": "Tony Hinchcliffe returns with another brutally unapologetic hour from comedy's favorite equal-opportunity offender.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -791,7 +802,7 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 21,
+    "youtubeCount": 22,
     "trailerCount": 28,
     "sourceCount": 21
   }
