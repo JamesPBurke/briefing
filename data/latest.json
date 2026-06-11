@@ -1,49 +1,69 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-11T09:01:17.130301Z",
-  "generatedAtDisplay": "2026-06-11 05:01 AM EDT",
+  "generatedAt": "2026-06-11T14:00:02.246577Z",
+  "generatedAtDisplay": "2026-06-11 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / privacy, Democracy / press freedom, CS education / AI policy. The strongest items in this run are Middle East crisis live: US and Iran trade strikes again, after Trump warns Tehran will ‘pay the price’ for stalled talks, Tortured, humiliated and killed: the women who disappear into Myanmar’s prisons, and Apple’s new Siri AI knows when to shut up.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Tech / media, Games / criticism. The strongest items in this run are Toronto police officer shot while investigating US consulate attack, Cash App’s launching a phone service, and Chatbots Keep Telling Stories About Lighthouse Keeper 'Elias Thorne'. We Might Know Why.",
   "mainItems": [
     {
-      "title": "Middle East crisis live: US and Iran trade strikes again, after Trump warns Tehran will ‘pay the price’ for stalled talks",
+      "title": "Toronto police officer shot while investigating US consulate attack",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis",
-      "published": "2026-06-11T08:35:09+00:00",
-      "summary": "US launches second round of airstrikes on Iran, and Tehran responds by targeting Bahrain, Kuwait and Jordan US strikes Iran for second day, as ceasefire appears close to collapse Three Indian seafarers were killed in a US attack on an oil…",
+      "url": "https://www.theguardian.com/world/2026/jun/11/toronto-police-shot-us-consulate-attack",
+      "published": "2026-06-11T13:49:06+00:00",
+      "summary": "Officer shot before 6am on Thursday while searching an apartment allegedly linked to March shooting in Toronto A Toronto police officer has been shot as police raided an apartment allegedly linked to the March attack on the US consulate.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Tortured, humiliated and killed: the women who disappear into Myanmar’s prisons",
-      "source": "The Guardian US",
+      "title": "Cash App’s launching a phone service",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/948181/cash-app-mobile",
+      "published": "2026-06-11T13:10:49+00:00",
+      "summary": "Cash App's AT&T-based MVNO will offer an unlimited 5G data plan for $40 per month including taxes and fees.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Chatbots Keep Telling Stories About Lighthouse Keeper 'Elias Thorne'. We Might Know Why",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/elias-thorne-chatbots-llms-chatgpt-lighthouse-keeper-story/",
+      "published": "2026-06-11T13:00:10+00:00",
+      "summary": "LLMs including ChatGPT, Gemini and Claude are obsessed with telling stories about lighthouse keepers and clockmakers, and one character named 'Elias Thorne' has made his way from chatbots to Amazon books.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10
+    },
+    {
+      "title": "Drums, cash grants, and bubbling capybaras: How Latin America's game dev creatives are outgrowing outsourcing",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/drums-cash-grants-and-bubbling-capybaras-how-latin-americas-game-dev-creatives-are-outgrowing-outsourcing",
+      "published": "2026-06-11T12:55:06+00:00",
+      "summary": "Easily missed among last week’s Summer Game Fest advert marathon was the Latin American Games Showcase : an exhibition that, at over eighty games strong, dwarfed the Keighley-fronted main event, yet has received only a small fraction of…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "A Delaware School Once Felt Like a ‘Prison.’ Now It’s a National Model",
+      "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/global-development/2026/jun/11/tortured-humiliated-and-killed-the-women-who-disappear-into-myanmars-prisons",
-      "published": "2026-06-11T04:00:06+00:00",
-      "summary": "The military junta has detained thousands of political prisoners since the 2021 coup, and a pattern of gender-based abuses is becoming clear In August 2021, news spread across a Myanmar protesters’ network that Thazin*, an activist and…",
+      "url": "https://www.the74million.org/article/a-delaware-school-once-felt-like-a-prison-now-its-a-national-model/",
+      "published": "2026-06-11T12:30:00+00:00",
+      "summary": "For years, many teachers at Frederick Douglass Elementary School didn’t know the names of all their students. Those were dark years before principal Carol Leveilee arrived at the Seaford, Delaware school.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "Apple’s new Siri AI knows when to shut up",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
-      "published": "2026-06-10T22:52:17+00:00",
-      "summary": "Apple's new Siri AI is finally here, and so far, it seems like it works. I have access and have been messing around with it, and my biggest impression so far is that Siri AI is quite curt - which I mean as a compliment.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Trump administration land gift to SpaceX would hurt Texas habitat, lawsuit says",
+      "title": "Trump’s claims about California vote-rigging are a grim preview of November | Moira Donegan",
       "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/jun/10/spacex-trump-administration-texas-land-swap",
-      "published": "2026-06-10T22:12:15+00:00",
-      "summary": "Environmental groups say exchange between US government and SpaceX would worsen ecological risks Sign up for the Breaking News US newsletter email Environmental groups on Wednesday sued in an attempt to stop the Trump administration from…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/11/trump-california-vote-rigging-claims",
+      "published": "2026-06-11T10:00:19+00:00",
+      "summary": "The ‘fraud’ he sees is in the very concept of democracy, in the idea that people who don’t agree with or fawn over him might have a say, too By now, it is an event as regular and predictable as the tides: a Democrat wins an election, and…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
@@ -67,24 +87,34 @@
       "score": 10
     },
     {
-      "title": "Wonky witch fable 1666: Amsterdam is the kind of sexy nonsense I want from Assassin's Creed: Hexe",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/wonky-witch-fable-1666-amsterdam-is-the-kind-of-sexy-nonsense-i-want-from-assassins-creed-hexe",
-      "published": "2026-06-10T19:22:31+00:00",
-      "summary": "There have been so many Assassin's Creed games, and so many games inspired by Assassin's Creed, that it's easy to forget that Assassin's Creed used to be Weird. Or Weird for a game of its scale, anyway.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "I went to the woods to drink surprisingly great espresso",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/942873/ikape-cera-portable-espresso-review",
+      "published": "2026-06-11T13:38:09+00:00",
+      "summary": "With summer's return, I'm again reminded of my limits as I head into the great outdoors: I can put up with a heavy, uncomfortable backpack, bug bites, mud, and even bland dehydrated food, but I will not forsake my morning brew.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "‘A Sea Change’: Public School Supporters See Potential in New Tax Credit",
+      "title": "Exclusive: 7 Things to Know About Microschools in 2026",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/a-sea-change-public-school-supporters-see-potential-in-new-tax-credit/",
-      "published": "2026-06-10T15:10:56+00:00",
-      "summary": "Federal, state and local. Historically, those are the three pots of funding districts have relied on to educate America’s students.",
+      "url": "https://www.the74million.org/article/exclusive-7-things-to-know-about-microschools-in-2026/",
+      "published": "2026-06-11T10:30:00+00:00",
+      "summary": "Microschool leaders are predominantly white educators and parents who left traditional public or private schools to build different educational options for kids.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
+    },
+    {
+      "title": "SpaceX is poised for blastoff with an IPO likely to break records",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk",
+      "published": "2026-06-11T09:00:00+00:00",
+      "summary": "Elon Musk's rocket company, recently merged with xAI, is aiming to raise $75 billion in its initial public stock offering. It's the first of a trio of mega-IPOs from AI companies expected this year.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     },
     {
       "title": "FDA approves new sunscreen ingredient",
@@ -97,26 +127,6 @@
       "score": 8
     },
     {
-      "title": "Children hit by parents more likely to bully others, research finds",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/education/2026/jun/11/children-hit-by-parents-more-likely-to-bully-others-research-finds",
-      "published": "2026-06-11T04:00:06+00:00",
-      "summary": "The UCL study also found physically punished children were more likely to struggle in school Children smacked by their parents struggle to get good exam results and are more likely to bully others, causing a negative impact on society,…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
-      "title": "The theory taking the rich by storm: China funds data center haters",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/06/10/nx-s1-5844328/us-china-data-centers-foreign-influence",
-      "published": "2026-06-10T20:01:52+00:00",
-      "summary": "Tech millionaires claim China is behind a wave of local opposition to U.S. data centers, while providing little direct evidence.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
       "title": "The Endless: You Can Go Home Again (But Maybe You Shouldn’t)",
       "source": "Reactor",
       "category": "Sci-fi / horror",
@@ -124,16 +134,6 @@
       "published": "2026-06-10T15:00:00+00:00",
       "summary": "A disturbingly cheery cult, cosmic horror, and classic Southern California weirdness. The post The Endless : You Can Go Home Again (But Maybe You Shouldn’t) appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
-      "title": "Podcast: Google Employees Meme About How Bad Their AI Is",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/podcast-google-employees-meme-about-how-bad-their-ai-is/",
-      "published": "2026-06-10T13:36:16+00:00",
-      "summary": "Memes at Google; Microsoft wants to make its new AI assistant addictive; and manipulating Reddit.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
   ],
@@ -205,6 +205,17 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "Investigating the killing of a Black teen at a Seattle protest | Embedded",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=RyymRenYj8c",
+      "published": "2026-06-11T09:00:34+00:00",
+      "summary": "In the summer of 2020, sixteen-year-old Antonio Mays Jr. traveled a thousand miles to join the racial justice movement of his generation. He arrived in Seattle during the Capitol Hill Occupied Protest, known as CHOP.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
       "title": "High gas prices could have political consequences in the midterm elections this fall",
       "source": "NPR",
       "category": "News / analysis",
@@ -258,17 +269,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 6,
       "verdict": "Summary is enough"
-    },
-    {
-      "title": "Kenyans protest U.S. plans for Ebola quarantine center",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=5qwFwbznlz8",
-      "published": "2026-06-10T00:00:04+00:00",
-      "summary": "The World Health Organization says more than 100 confirmed ebola deaths have been reported in the Democratic Republic of the Congo. Protestors are rallying in Kenya against plans by the U.S.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     },
     {
       "title": "Will A DIY Custom PC Build Be Cheaper Than Steam Machine?",
@@ -344,8 +344,8 @@
       "published": "2026-06-11T01:11:31+00:00",
       "summary": "For their next franchise revisit, KC and Marty are going to take a look at the Star Fox series. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Yahtzee Tries... Voidling Bound and Arms of God",
@@ -355,8 +355,8 @@
       "published": "2026-06-10T22:11:55+00:00",
       "summary": "This week on Yahtzee Tries... Yahtzee and Marty try out Voidling Bound and Arms of God. VOIDLING BOUND -- https://store.steampowered.com/app/2004680/Voidling_Bound/ ARMS OF GOD -- https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "007 First Light | Fully Ramblomatic",

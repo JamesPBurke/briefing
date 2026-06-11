@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-11T09:01:17.130301Z
+Generated: 2026-06-11T14:00:02.246577Z
 
-Today's sweep leans toward AI / privacy, Democracy / press freedom, CS education / AI policy. The strongest items in this run are Middle East crisis live: US and Iran trade strikes again, after Trump warns Tehran will ‘pay the price’ for stalled talks, Tortured, humiliated and killed: the women who disappear into Myanmar’s prisons, and Apple’s new Siri AI knows when to shut up.
+Today's sweep leans toward Democracy / press freedom, Tech / media, Games / criticism. The strongest items in this run are Toronto police officer shot while investigating US consulate attack, Cash App’s launching a phone service, and Chatbots Keep Telling Stories About Lighthouse Keeper 'Elias Thorne'. We Might Know Why.
 
 ## Briefing
 
@@ -33,43 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Middle East crisis live: US and Iran trade strikes again, after Trump warns Tehran will ‘pay the price’ for stalled talks [10/10]
+### 1. Toronto police officer shot while investigating US consulate attack [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-US launches second round of airstrikes on Iran, and Tehran responds by targeting Bahrain, Kuwait and Jordan US strikes Iran for second day, as ceasefire appears close to collapse Three Indian seafarers were killed in a US attack on an oil…
+Officer shot before 6am on Thursday while searching an apartment allegedly linked to March shooting in Toronto A Toronto police officer has been shot as police raided an apartment allegedly linked to the March attack on the US consulate.
 
-Link: https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis
+Link: https://www.theguardian.com/world/2026/jun/11/toronto-police-shot-us-consulate-attack
 
-### 2. Tortured, humiliated and killed: the women who disappear into Myanmar’s prisons [10/10]
-**Source:** The Guardian US  
+### 2. Cash App’s launching a phone service [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Cash App's AT&T-based MVNO will offer an unlimited 5G data plan for $40 per month including taxes and fees.
+
+Link: https://www.theverge.com/tech/948181/cash-app-mobile
+
+### 3. Chatbots Keep Telling Stories About Lighthouse Keeper 'Elias Thorne'. We Might Know Why [10/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+LLMs including ChatGPT, Gemini and Claude are obsessed with telling stories about lighthouse keepers and clockmakers, and one character named 'Elias Thorne' has made his way from chatbots to Amazon books.
+
+Link: https://www.404media.co/elias-thorne-chatbots-llms-chatgpt-lighthouse-keeper-story/
+
+### 4. Drums, cash grants, and bubbling capybaras: How Latin America's game dev creatives are outgrowing outsourcing [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Easily missed among last week’s Summer Game Fest advert marathon was the Latin American Games Showcase : an exhibition that, at over eighty games strong, dwarfed the Keighley-fronted main event, yet has received only a small fraction of…
+
+Link: https://www.rockpapershotgun.com/drums-cash-grants-and-bubbling-capybaras-how-latin-americas-game-dev-creatives-are-outgrowing-outsourcing
+
+### 5. A Delaware School Once Felt Like a ‘Prison.’ Now It’s a National Model [10/10]
+**Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-The military junta has detained thousands of political prisoners since the 2021 coup, and a pattern of gender-based abuses is becoming clear In August 2021, news spread across a Myanmar protesters’ network that Thazin*, an activist and…
+For years, many teachers at Frederick Douglass Elementary School didn’t know the names of all their students. Those were dark years before principal Carol Leveilee arrived at the Seaford, Delaware school.
 
-Link: https://www.theguardian.com/global-development/2026/jun/11/tortured-humiliated-and-killed-the-women-who-disappear-into-myanmars-prisons
+Link: https://www.the74million.org/article/a-delaware-school-once-felt-like-a-prison-now-its-a-national-model/
 
-### 3. Apple’s new Siri AI knows when to shut up [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Apple's new Siri AI is finally here, and so far, it seems like it works. I have access and have been messing around with it, and my biggest impression so far is that Siri AI is quite curt - which I mean as a compliment.
-
-Link: https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality
-
-### 4. Trump administration land gift to SpaceX would hurt Texas habitat, lawsuit says [10/10]
+### 6. Trump’s claims about California vote-rigging are a grim preview of November | Moira Donegan [10/10]
 **Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Environmental groups say exchange between US government and SpaceX would worsen ecological risks Sign up for the Breaking News US newsletter email Environmental groups on Wednesday sued in an attempt to stop the Trump administration from…
+The ‘fraud’ he sees is in the very concept of democracy, in the idea that people who don’t agree with or fawn over him might have a say, too By now, it is an event as regular and predictable as the tides: a Democrat wins an election, and…
 
-Link: https://www.theguardian.com/us-news/2026/jun/10/spacex-trump-administration-texas-land-swap
+Link: https://www.theguardian.com/commentisfree/2026/jun/11/trump-california-vote-rigging-claims
 
-### 5. Man sues Florida cops over arrest spurred by "93% match" in facial recognition [10/10]
+### 7. Man sues Florida cops over arrest spurred by "93% match" in facial recognition [10/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -78,7 +96,7 @@ Lawsuit: "Police let an error-prone AI system stand in for an investigation."
 
 Link: https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/
 
-### 6. Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster [10/10]
+### 8. Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster [10/10]
 **Source:** Ars Technica  
 **Category:** AI / open models  
 **Why it matters:** Relevant to local models, open tooling, and hands-on experimentation.
@@ -87,25 +105,34 @@ Diffusion AI is most common in image generation, but it can make text outputs mu
 
 Link: https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/
 
-### 7. Wonky witch fable 1666: Amsterdam is the kind of sexy nonsense I want from Assassin's Creed: Hexe [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 9. I went to the woods to drink surprisingly great espresso [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-There have been so many Assassin's Creed games, and so many games inspired by Assassin's Creed, that it's easy to forget that Assassin's Creed used to be Weird. Or Weird for a game of its scale, anyway.
+With summer's return, I'm again reminded of my limits as I head into the great outdoors: I can put up with a heavy, uncomfortable backpack, bug bites, mud, and even bland dehydrated food, but I will not forsake my morning brew.
 
-Link: https://www.rockpapershotgun.com/wonky-witch-fable-1666-amsterdam-is-the-kind-of-sexy-nonsense-i-want-from-assassins-creed-hexe
+Link: https://www.theverge.com/tech/942873/ikape-cera-portable-espresso-review
 
-### 8. ‘A Sea Change’: Public School Supporters See Potential in New Tax Credit [9/10]
+### 10. Exclusive: 7 Things to Know About Microschools in 2026 [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Federal, state and local. Historically, those are the three pots of funding districts have relied on to educate America’s students.
+Microschool leaders are predominantly white educators and parents who left traditional public or private schools to build different educational options for kids.
 
-Link: https://www.the74million.org/article/a-sea-change-public-school-supporters-see-potential-in-new-tax-credit/
+Link: https://www.the74million.org/article/exclusive-7-things-to-know-about-microschools-in-2026/
 
-### 9. FDA approves new sunscreen ingredient [8/10]
+### 11. SpaceX is poised for blastoff with an IPO likely to break records [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Elon Musk's rocket company, recently merged with xAI, is aiming to raise $75 billion in its initial public stock offering. It's the first of a trio of mega-IPOs from AI companies expected this year.
+
+Link: https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+
+### 12. FDA approves new sunscreen ingredient [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -114,25 +141,7 @@ The FDA approved a new sunscreen ingredient for the U.S. Bemotrizinol has long b
 
 Link: https://www.npr.org/2026/06/11/nx-s1-5853351/fda-approves-new-sunscreen-ingredient
 
-### 10. Children hit by parents more likely to bully others, research finds [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The UCL study also found physically punished children were more likely to struggle in school Children smacked by their parents struggle to get good exam results and are more likely to bully others, causing a negative impact on society,…
-
-Link: https://www.theguardian.com/education/2026/jun/11/children-hit-by-parents-more-likely-to-bully-others-research-finds
-
-### 11. The theory taking the rich by storm: China funds data center haters [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Tech millionaires claim China is behind a wave of local opposition to U.S. data centers, while providing little direct evidence.
-
-Link: https://www.npr.org/2026/06/10/nx-s1-5844328/us-china-data-centers-foreign-influence
-
-### 12. The Endless: You Can Go Home Again (But Maybe You Shouldn’t) [8/10]
+### 13. The Endless: You Can Go Home Again (But Maybe You Shouldn’t) [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -140,15 +149,6 @@ Link: https://www.npr.org/2026/06/10/nx-s1-5844328/us-china-data-centers-foreign
 A disturbingly cheery cult, cosmic horror, and classic Southern California weirdness. The post The Endless : You Can Go Home Again (But Maybe You Shouldn’t) appeared first on Reactor .
 
 Link: https://reactormag.com/the-endless-you-can-go-home-again-but-maybe-you-shouldnt/
-
-### 13. Podcast: Google Employees Meme About How Bad Their AI Is [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Memes at Google; Microsoft wants to make its new AI assistant addictive; and manipulating Reddit.
-
-Link: https://www.404media.co/podcast-google-employees-meme-about-how-bad-their-ai-is/
 
 ## YouTube
 
@@ -206,6 +206,15 @@ YouTuber Tom Scott joins WIRED to answer the internet’s burning content creato
 
 Link: https://www.youtube.com/watch?v=tew4V_NSdnI
 
+### Investigating the killing of a Black teen at a Seattle protest | Embedded [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+In the summer of 2020, sixteen-year-old Antonio Mays Jr. traveled a thousand miles to join the racial justice movement of his generation. He arrived in Seattle during the Capitol Hill Occupied Protest, known as CHOP.
+
+Link: https://www.youtube.com/watch?v=RyymRenYj8c
+
 ### High gas prices could have political consequences in the midterm elections this fall [7/10]
 **Creator:** NPR  
 **Verdict:** Probably worth watching  
@@ -250,15 +259,6 @@ Link: https://www.youtube.com/watch?v=scy2vBDQ97A
 Thousands of Albanians took to the streets last week, protesting a planned luxury resort that's connected to President Trump's daughter, Ivanka, and son-in-law, Jared Kushner.
 
 Link: https://www.youtube.com/watch?v=0kANId1CL9o
-
-### Kenyans protest U.S. plans for Ebola quarantine center [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The World Health Organization says more than 100 confirmed ebola deaths have been reported in the Democratic Republic of the Congo. Protestors are rallying in Kenya against plans by the U.S.
-
-Link: https://www.youtube.com/watch?v=5qwFwbznlz8
 
 ### Will A DIY Custom PC Build Be Cheaper Than Steam Machine? [7/10]
 **Creator:** Digital Foundry  
@@ -314,18 +314,18 @@ Link: https://www.youtube.com/watch?v=tIB1bUdPh_A
 
 Link: https://www.youtube.com/watch?v=wbCqLTsK71Q
 
-### Exploring Dinosaur Planet in Star Fox Adventures w/ KC and Marty -- Part 2 [7/10]
+### Exploring Dinosaur Planet in Star Fox Adventures w/ KC and Marty -- Part 2 [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 For their next franchise revisit, KC and Marty are going to take a look at the Star Fox series. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=2QCM5kqLBsA
 
-### Yahtzee Tries... Voidling Bound and Arms of God [7/10]
+### Yahtzee Tries... Voidling Bound and Arms of God [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Yahtzee Tries... Yahtzee and Marty try out Voidling Bound and Arms of God. VOIDLING BOUND -- https://store.steampowered.com/app/2004680/Voidling_Bound/ ARMS OF GOD -- https://store.steampowered.
