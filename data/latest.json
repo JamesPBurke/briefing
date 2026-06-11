@@ -1,89 +1,89 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-10T18:01:25.198000Z",
-  "generatedAtDisplay": "2026-06-10 02:01 PM EDT",
+  "generatedAt": "2026-06-11T05:00:02.094472Z",
+  "generatedAtDisplay": "2026-06-11 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Democracy / anti-fascism. The strongest items in this run are Trump says Bill Pulte will ‘execute the immediate downsizing’ of intelligence community in temporary role – live, Microsoft, like, totally gets why students are booing AI-pilled graduation speakers, and North Carolina Set to Nearly Double Remote Charter Academies Next Year.",
+  "summary": "Today's sweep leans toward AI / computing, AI / privacy, Democracy / press freedom. The strongest items in this run are Middle East crisis live: US and Iran trade strikes again, after Trump warns Tehran will ‘pay the price’ for stalled talks, Tortured, humiliated and killed: the women who disappear into Myanmar’s prisons, and Apple’s new Siri AI knows when to shut up.",
   "mainItems": [
     {
-      "title": "Trump says Bill Pulte will ‘execute the immediate downsizing’ of intelligence community in temporary role – live",
+      "title": "Middle East crisis live: US and Iran trade strikes again, after Trump warns Tehran will ‘pay the price’ for stalled talks",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/live/2026/jun/10/graham-platner-maine-democrats-senate-primary-donald-trump-us-politics-latest-news-updates",
-      "published": "2026-06-10T17:49:58+00:00",
-      "summary": "US president says he will look for a permanent director ‘with experience in National Security’ after backlash against Bill Pulte’s lacking record Sign up for the Breaking News US email Donald Trump ’s immigration crackdown is largely…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis",
+      "published": "2026-06-11T04:51:33+00:00",
+      "summary": "US launches second round of airstrikes on Iran, and Tehran responds by targeting Bahrain, Kuwait and Jordan US strikes Iran for second day, as ceasefire appears close to collapse Kuwait has closed its airspace after Iran announced new…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
-      "source": "The Verge",
+      "title": "Tortured, humiliated and killed: the women who disappear into Myanmar’s prisons",
+      "source": "The Guardian US",
       "category": "CS education / AI policy",
-      "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
-      "published": "2026-06-10T17:45:11+00:00",
-      "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out.",
+      "url": "https://www.theguardian.com/global-development/2026/jun/11/tortured-humiliated-and-killed-the-women-who-disappear-into-myanmars-prisons",
+      "published": "2026-06-11T04:00:06+00:00",
+      "summary": "The military junta has detained thousands of political prisoners since the 2021 coup, and a pattern of gender-based abuses is becoming clear In August 2021, news spread across a Myanmar protesters’ network that Thazin*, an activist and…",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "North Carolina Set to Nearly Double Remote Charter Academies Next Year",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/north-carolina-set-to-nearly-double-remote-charter-academies-next-year/",
-      "published": "2026-06-10T17:30:00+00:00",
-      "summary": "The number of remote charter academies operating in North Carolina is expected to nearly double next school year, according to state education officials.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
+      "title": "Apple’s new Siri AI knows when to shut up",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-      "published": "2026-06-10T17:26:56+00:00",
-      "summary": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now.",
+      "url": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
+      "published": "2026-06-10T22:52:17+00:00",
+      "summary": "Apple's new Siri AI is finally here, and so far, it seems like it works. I have access and have been messing around with it, and my biggest impression so far is that Siri AI is quite curt - which I mean as a compliment.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Bill Gates tells US House ‘I have never victimized anyone’ in Epstein testimony",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/10/bill-gates-testimony-jeffrey-epstein",
-      "published": "2026-06-10T17:12:53+00:00",
-      "summary": "Microsoft co-founder appears in closed-door session as part of lawmakers’ investigation into convicted sex offender Bill Gates is testifying in front of the House committee on oversight and reform on Wednesday, and told lawmakers in his…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump signs $70bn immigration act ensuring ICE funding through 2029",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-signs-70-billion-dollar-immigration-act-ice",
-      "published": "2026-06-10T16:52:01+00:00",
-      "summary": "Package allocates $38bn to ICE, $26bn to Customs and Border Protection and $5bn more to the DHS Sign up for the Breaking News US newsletter email Donald Trump signed a nearly $70bn immigration enforcement package into law on Wednesday…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Florida lawsuit alleges wrongful arrest after police AI facial recognition error",
+      "title": "Trump administration land gift to SpaceX would hurt Texas habitat, lawsuit says",
       "source": "The Guardian US",
       "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/jun/10/florida-lawsuit-ai-facial-recognition",
-      "published": "2026-06-10T16:27:23+00:00",
-      "summary": "Robert Dillon was arrested at home in Florida despite living 300 miles away, and charges were later dropped Sign up for the Breaking News US newsletter email A Florida man is suing several law enforcement agencies for his arrest and…",
+      "url": "https://www.theguardian.com/us-news/2026/jun/10/spacex-trump-administration-texas-land-swap",
+      "published": "2026-06-10T22:12:15+00:00",
+      "summary": "Environmental groups say exchange between US government and SpaceX would worsen ecological risks Sign up for the Breaking News US newsletter email Environmental groups on Wednesday sued in an attempt to stop the Trump administration from…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+      "title": "Man sues Florida cops over arrest spurred by \"93% match\" in facial recognition",
+      "source": "Ars Technica",
+      "category": "AI / privacy",
+      "url": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
+      "published": "2026-06-10T21:30:44+00:00",
+      "summary": "Lawsuit: \"Police let an error-prone AI system stand in for an investigation.\"",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
+      "source": "Ars Technica",
+      "category": "AI / open models",
+      "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+      "published": "2026-06-10T19:29:21+00:00",
+      "summary": "Diffusion AI is most common in image generation, but it can make text outputs much faster.",
+      "whyItMatters": "Relevant to local models, open tooling, and hands-on experimentation.",
+      "score": 10
+    },
+    {
+      "title": "Wonky witch fable 1666: Amsterdam is the kind of sexy nonsense I want from Assassin's Creed: Hexe",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/wonky-witch-fable-1666-amsterdam-is-the-kind-of-sexy-nonsense-i-want-from-assassins-creed-hexe",
+      "published": "2026-06-10T19:22:31+00:00",
+      "summary": "There have been so many Assassin's Creed games, and so many games inspired by Assassin's Creed, that it's easy to forget that Assassin's Creed used to be Weird. Or Weird for a game of its scale, anyway.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Claude Fable won’t answer basic biology questions",
       "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
-      "published": "2026-06-10T16:18:45+00:00",
-      "summary": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Search Services History\" setting.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+      "published": "2026-06-10T19:02:08+00:00",
+      "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
@@ -94,37 +94,37 @@
       "published": "2026-06-10T15:10:56+00:00",
       "summary": "Federal, state and local. Historically, those are the three pots of funding districts have relied on to educate America’s students.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "The Apple Watch Series 11 is back to its best price",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/947773/apple-watch-series-11-beats-studio-buds-plus-deal-sale",
-      "published": "2026-06-10T14:57:20+00:00",
-      "summary": "Apple’s upcoming watchOS 27 update will bring Siri AI and other exciting features to the Apple Watch Series 9 and newer Apple Watch models.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "No fairytale: what happened to the real children behind fiction’s best-loved characters?",
+      "title": "Trump news at a glance: president follows through on threats against Iran with fresh strikes",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/books/2026/jun/10/peter-pan-christopher-robin-alice-the-unsettling-stories-of-the-children-behind-fictions-most-enduring-tales",
-      "published": "2026-06-10T13:26:57+00:00",
-      "summary": "Peter Pan, Christopher Robin and Alice in Wonderland … being the star of a classic story might seem like a dream, but there’s a dark side, argues the author of The Children I’d loved the children for years before discovering they were real…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-news-at-a-glance-latest-updates-today",
+      "published": "2026-06-11T01:00:02+00:00",
+      "summary": "Two days of strikes followed downing of US Apache helicopter over the strait of Hormuz, which Trump has blamed on Iran – key US politics stories from Wednesday 10 June at a glance The US has launched new strikes against targets in Iran for…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
     },
     {
-      "title": "Opinion: For Struggling Middle and High Schoolers, All Reading Is Good Reading",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/for-struggling-middle-and-high-schoolers-all-reading-is-good-reading/",
-      "published": "2026-06-10T12:30:00+00:00",
-      "summary": "During my first year as a fifth-grade teacher, I taught a student who had moved from the Dominican Republic three weeks before school started.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "title": "The theory taking the rich by storm: China funds data center haters",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/06/10/nx-s1-5844328/us-china-data-centers-foreign-influence",
+      "published": "2026-06-10T20:01:52+00:00",
+      "summary": "Tech millionaires claim China is behind a wave of local opposition to U.S. data centers, while providing little direct evidence.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
+    },
+    {
+      "title": "Project Hail Mary Gets Streaming Release Date… on MGM+",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/project-hail-mary-streaming-release-date/",
+      "published": "2026-06-10T17:31:49+00:00",
+      "summary": "Amaze! The post Project Hail Mary Gets Streaming Release Date… on MGM+ appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     },
     {
       "title": "Podcast: Google Employees Meme About How Bad Their AI Is",
@@ -134,7 +134,7 @@
       "published": "2026-06-10T13:36:16+00:00",
       "summary": "Memes at Google; Microsoft wants to make its new AI assistant addictive; and manipulating Reddit.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
+      "score": 8
     }
   ],
   "youtube": [],
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 4
+    "sourceCount": 8
   }
 }

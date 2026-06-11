@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-10T18:01:25.198000Z
+Generated: 2026-06-11T05:00:02.094472Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Democracy / anti-fascism. The strongest items in this run are Trump says Bill Pulte will ‘execute the immediate downsizing’ of intelligence community in temporary role – live, Microsoft, like, totally gets why students are booing AI-pilled graduation speakers, and North Carolina Set to Nearly Double Remote Charter Academies Next Year.
+Today's sweep leans toward AI / computing, AI / privacy, Democracy / press freedom. The strongest items in this run are Middle East crisis live: US and Iran trade strikes again, after Trump warns Tehran will ‘pay the price’ for stalled talks, Tortured, humiliated and killed: the women who disappear into Myanmar’s prisons, and Apple’s new Siri AI knows when to shut up.
 
 ## Briefing
 
@@ -33,79 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Trump says Bill Pulte will ‘execute the immediate downsizing’ of intelligence community in temporary role – live [10/10]
+### 1. Middle East crisis live: US and Iran trade strikes again, after Trump warns Tehran will ‘pay the price’ for stalled talks [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-US president says he will look for a permanent director ‘with experience in National Security’ after backlash against Bill Pulte’s lacking record Sign up for the Breaking News US email Donald Trump ’s immigration crackdown is largely…
-
-Link: https://www.theguardian.com/us-news/live/2026/jun/10/graham-platner-maine-democrats-senate-primary-donald-trump-us-politics-latest-news-updates
-
-### 2. Microsoft, like, totally gets why students are booing AI-pilled graduation speakers [10/10]
-**Source:** The Verge  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out.
-
-Link: https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft
-
-### 3. North Carolina Set to Nearly Double Remote Charter Academies Next Year [10/10]
-**Source:** The 74  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The number of remote charter academies operating in North Carolina is expected to nearly double next school year, according to state education officials.
+US launches second round of airstrikes on Iran, and Tehran responds by targeting Bahrain, Kuwait and Jordan US strikes Iran for second day, as ceasefire appears close to collapse Kuwait has closed its airspace after Iran announced new…
 
-Link: https://www.the74million.org/article/north-carolina-set-to-nearly-double-remote-charter-academies-next-year/
+Link: https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis
 
-### 4. Google won’t just admit it’s feeding YouTube creators to its music AI [10/10]
+### 2. Tortured, humiliated and killed: the women who disappear into Myanmar’s prisons [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+The military junta has detained thousands of political prisoners since the 2021 coup, and a pattern of gender-based abuses is becoming clear In August 2021, news spread across a Myanmar protesters’ network that Thazin*, an activist and…
+
+Link: https://www.theguardian.com/global-development/2026/jun/11/tortured-humiliated-and-killed-the-women-who-disappear-into-myanmars-prisons
+
+### 3. Apple’s new Siri AI knows when to shut up [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now.
+Apple's new Siri AI is finally here, and so far, it seems like it works. I have access and have been messing around with it, and my biggest impression so far is that Siri AI is quite curt - which I mean as a compliment.
 
-Link: https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube
+Link: https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality
 
-### 5. Bill Gates tells US House ‘I have never victimized anyone’ in Epstein testimony [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Microsoft co-founder appears in closed-door session as part of lawmakers’ investigation into convicted sex offender Bill Gates is testifying in front of the House committee on oversight and reform on Wednesday, and told lawmakers in his…
-
-Link: https://www.theguardian.com/us-news/2026/jun/10/bill-gates-testimony-jeffrey-epstein
-
-### 6. Trump signs $70bn immigration act ensuring ICE funding through 2029 [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Package allocates $38bn to ICE, $26bn to Customs and Border Protection and $5bn more to the DHS Sign up for the Breaking News US newsletter email Donald Trump signed a nearly $70bn immigration enforcement package into law on Wednesday…
-
-Link: https://www.theguardian.com/us-news/2026/jun/10/trump-signs-70-billion-dollar-immigration-act-ice
-
-### 7. Florida lawsuit alleges wrongful arrest after police AI facial recognition error [10/10]
+### 4. Trump administration land gift to SpaceX would hurt Texas habitat, lawsuit says [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Robert Dillon was arrested at home in Florida despite living 300 miles away, and charges were later dropped Sign up for the Breaking News US newsletter email A Florida man is suing several law enforcement agencies for his arrest and…
+Environmental groups say exchange between US government and SpaceX would worsen ecological risks Sign up for the Breaking News US newsletter email Environmental groups on Wednesday sued in an attempt to stop the Trump administration from…
 
-Link: https://www.theguardian.com/us-news/2026/jun/10/florida-lawsuit-ai-facial-recognition
+Link: https://www.theguardian.com/us-news/2026/jun/10/spacex-trump-administration-texas-land-swap
 
-### 8. Google will save your Lens photos, Search Live recordings, and Translate audio for AI training [10/10]
+### 5. Man sues Florida cops over arrest spurred by "93% match" in facial recognition [10/10]
+**Source:** Ars Technica  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Lawsuit: "Police let an error-prone AI system stand in for an investigation."
+
+Link: https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/
+
+### 6. Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster [10/10]
+**Source:** Ars Technica  
+**Category:** AI / open models  
+**Why it matters:** Relevant to local models, open tooling, and hands-on experimentation.
+
+Diffusion AI is most common in image generation, but it can make text outputs much faster.
+
+Link: https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/
+
+### 7. Wonky witch fable 1666: Amsterdam is the kind of sexy nonsense I want from Assassin's Creed: Hexe [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+There have been so many Assassin's Creed games, and so many games inspired by Assassin's Creed, that it's easy to forget that Assassin's Creed used to be Weird. Or Weird for a game of its scale, anyway.
+
+Link: https://www.rockpapershotgun.com/wonky-witch-fable-1666-amsterdam-is-the-kind-of-sexy-nonsense-i-want-from-assassins-creed-hexe
+
+### 8. Claude Fable won’t answer basic biology questions [10/10]
 **Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new "Search Services History" setting.
+Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others.
 
-Link: https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio
+Link: https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions
 
-### 9. ‘A Sea Change’: Public School Supporters See Potential in New Tax Credit [10/10]
+### 9. ‘A Sea Change’: Public School Supporters See Potential in New Tax Credit [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -114,34 +114,34 @@ Federal, state and local. Historically, those are the three pots of funding dist
 
 Link: https://www.the74million.org/article/a-sea-change-public-school-supporters-see-potential-in-new-tax-credit/
 
-### 10. The Apple Watch Series 11 is back to its best price [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Apple’s upcoming watchOS 27 update will bring Siri AI and other exciting features to the Apple Watch Series 9 and newer Apple Watch models.
-
-Link: https://www.theverge.com/gadgets/947773/apple-watch-series-11-beats-studio-buds-plus-deal-sale
-
-### 11. No fairytale: what happened to the real children behind fiction’s best-loved characters? [10/10]
+### 10. Trump news at a glance: president follows through on threats against Iran with fresh strikes [8/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Peter Pan, Christopher Robin and Alice in Wonderland … being the star of a classic story might seem like a dream, but there’s a dark side, argues the author of The Children I’d loved the children for years before discovering they were real…
+Two days of strikes followed downing of US Apache helicopter over the strait of Hormuz, which Trump has blamed on Iran – key US politics stories from Wednesday 10 June at a glance The US has launched new strikes against targets in Iran for…
 
-Link: https://www.theguardian.com/books/2026/jun/10/peter-pan-christopher-robin-alice-the-unsettling-stories-of-the-children-behind-fictions-most-enduring-tales
+Link: https://www.theguardian.com/us-news/2026/jun/10/trump-news-at-a-glance-latest-updates-today
 
-### 12. Opinion: For Struggling Middle and High Schoolers, All Reading Is Good Reading [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 11. The theory taking the rich by storm: China funds data center haters [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-During my first year as a fifth-grade teacher, I taught a student who had moved from the Dominican Republic three weeks before school started.
+Tech millionaires claim China is behind a wave of local opposition to U.S. data centers, while providing little direct evidence.
 
-Link: https://www.the74million.org/article/for-struggling-middle-and-high-schoolers-all-reading-is-good-reading/
+Link: https://www.npr.org/2026/06/10/nx-s1-5844328/us-china-data-centers-foreign-influence
 
-### 13. Podcast: Google Employees Meme About How Bad Their AI Is [9/10]
+### 12. Project Hail Mary Gets Streaming Release Date… on MGM+ [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Amaze! The post Project Hail Mary Gets Streaming Release Date… on MGM+ appeared first on Reactor .
+
+Link: https://reactormag.com/project-hail-mary-streaming-release-date/
+
+### 13. Podcast: Google Employees Meme About How Bad Their AI Is [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -149,3 +149,38 @@ Link: https://www.the74million.org/article/for-struggling-middle-and-high-school
 Memes at Google; Microsoft wants to make its new AI assistant addictive; and manipulating Reddit.
 
 Link: https://www.404media.co/podcast-google-employees-meme-about-how-bad-their-ai-is/
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._
