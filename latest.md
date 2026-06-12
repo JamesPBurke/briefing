@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-12T09:00:45.636240Z
+Generated: 2026-06-12T14:00:02.687819Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Siri won’t be your AI girlfriend, Ariana Grande rebukes White House for using her music in ‘barbaric, inhumane’ ICE video, and ‘Spy turtles’ and ‘spy fish’ being used to monitor Chinese waters, Beijing claims.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are SpaceX is now public, The Nintendo DS is still the best gaming handheld for travel, and Middle East crisis live: Tehran would not cede control of Hormuz in deal with US, Iran state media report.
 
 ## Briefing
 
@@ -33,7 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Siri won’t be your AI girlfriend [10/10]
+### 1. SpaceX is now public [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+SpaceX is now a publicly traded company.
+
+Link: https://www.theverge.com/science/947926/spacex-ipo-stock-shares-trading-elon-musk
+
+### 2. The Nintendo DS is still the best gaming handheld for travel [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Even with the looming specter of rising prices, there's never been a better time for portable gaming.
+
+Link: https://www.theverge.com/games/942678/nintendo-ds-rules-for-travel
+
+### 3. Middle East crisis live: Tehran would not cede control of Hormuz in deal with US, Iran state media report [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Iran and the US said the countries are discussing draft text to a deal but there are still some key differences to overcome Full report: Trump claims US and Iran on verge of signing peace agreement Iran’s official Islamic Republic News…
+
+Link: https://www.theguardian.com/world/live/2026/jun/12/middle-east-crisis-live-us-iran-israel-lebanon-trump-hormuz-oil-peace-deal-doubt-latest-news-updates
+
+### 4. Texas’ Charter School Boom May Soon Bust, Experts Caution [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Texas charter schools recently saw their smallest enrollment bump in state history, signaling that similar forces crushing traditional public districts may soon hit them as well.
+
+Link: https://www.the74million.org/article/texas-charter-school-boom-may-soon-bust-experts-caution/
+
+### 5. Women held at much-denounced Ice detention camp sign on to hunger strike [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Nearly 40 women detained at Delaney Hall join striking men and outline demands ‘rooted in basic human rights’ Dozens of women detained inside the Delaney Hall immigration detention facility in New Jersey announced their participation in a…
+
+Link: https://www.theguardian.com/us-news/2026/jun/12/delaney-hall-ice-detention-strike
+
+### 6. I will always fear the idle genre but wizard school RPG Abracademia is more enchanting than most, with around 300 spells to learn [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+I'm not sure I can imagine greater horror than that of the "desktop idle sim". My computer's desktop already fills me with confusion and dismay.
+
+Link: https://www.rockpapershotgun.com/i-will-always-fear-the-idle-genre-but-wizard-school-rpg-abracademia-is-more-enchanting-than-most-with-around-300-spells-to-learn
+
+### 7. Assassin's Creed creator Patrice Désilets' new and witchy 1666: Amsterdam demo raises more questions than answers [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Few games have a history as turbulent as that of 1666: Amsterdam. This is the project Patrice Désilets - the founding director of the Assassin's Creed series - fought Ubisoft for.
+
+Link: https://www.eurogamer.net/1666-amsterdam-demo-patrice-desilets
+
+### 8. A powerful US surveillance law is set to expire – what happens now? [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Congress has failed to reauthorize section 702 of Foreign Intelligence Surveillance Act amid questions over its future Donald Trump’s bid to install a controversial ally as the country’s leading intelligence official has shone a light on…
+
+Link: https://www.theguardian.com/us-news/2026/jun/12/fisa-law-surveillance
+
+### 9. Siri won’t be your AI girlfriend [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -42,52 +114,7 @@ Our early testing has already shown that Siri AI knows when to shut up, and that
 
 Link: https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend
 
-### 2. Ariana Grande rebukes White House for using her music in ‘barbaric, inhumane’ ICE video [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Grande is the latest in a series of pop musicians including Sabrina Carpenter and SZA who have been angered by Trump administration videos Ariana Grande has rebuked Donald Trump’s White House over use of her music in a video documenting…
-
-Link: https://www.theguardian.com/music/2026/jun/12/ariana-grande-rebukes-white-house-music-ice-video
-
-### 3. ‘Spy turtles’ and ‘spy fish’ being used to monitor Chinese waters, Beijing claims [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Ministry says animals fitted with sensors by foreign agencies collect sensitive sea data, in ‘invisible secret war’ China’s ministry of state security has claimed that foreign espionage and intelligence agencies are using innovative new…
-
-Link: https://www.theguardian.com/world/2026/jun/12/china-spy-turtles-spy-fish-monitor-waters-claims
-
-### 4. Diane Keaton’s nail clippers for $960: what’s behind the new boom in celebrity estate auctions? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-With beloved stars’ personal items increasingly up for grabs after they die, a new generation of fans are bidding on everything from bowler hats to dog bowls From Diane Keaton’s bowler hats and polka dot scarfs, to Gene Hackman’s used…
-
-Link: https://www.theguardian.com/film/2026/jun/12/diane-keaton-dead-celebrity-auctions
-
-### 5. Here are the price-matching policies for Best Buy, GameStop, and others [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Nothing is more frustrating than buying a new pair of headphones, an OLED TV, or a laptop just to find out that you could have gotten it for cheaper somewhere else just a few days or weeks later.
-
-Link: https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft
-
-### 6. SpaceX to list on US stock market today after raising $75bn in largest IPO ever – business live [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Rolling coverage of SpaceX’s record-breaking initial public offering, after Elon Musk’s company is valued at $1.77tn in share offering SpaceX’s shares will be supported by a number of “forced buyers”, such as tracker funds.
-
-Link: https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates
-
-### 7. Superintendents Defend Transgender Student, Parental Rights Policies on Capitol Hill [9/10]
+### 10. Superintendents Defend Transgender Student, Parental Rights Policies on Capitol Hill [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -96,25 +123,16 @@ Three progressive superintendents defended their policies for parental involveme
 
 Link: https://www.the74million.org/article/superintendents-defend-transgender-student-parental-rights-policies-on-capitol-hill/
 
-### 8. Tapestry is a painterly grand strategy multiplayer war game where you plot your victory at the start of every match [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Grand strategy games are often these slow, methodical things that require you to take your time, a genre that feels better suited solo.
-
-Link: https://www.rockpapershotgun.com/tapestry-is-a-painterly-grand-strategy-multiplayer-war-game-where-you-plot-your-victory-at-the-start-of-every-match
-
-### 9. Chatbots Keep Telling Stories About Lighthouse Keeper 'Elias Thorne'. We Might Know Why [9/10]
+### 11. Software Update Automatically Turns off Amazon Delivery Drivers’ AC During Dangerous Summer Heat [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-LLMs including ChatGPT, Gemini and Claude are obsessed with telling stories about lighthouse keepers and clockmakers, and one character named 'Elias Thorne' has made his way from chatbots to Amazon books.
+A new software update is turning off the AC in Amazon delivery vans after 10 minutes or 30 seconds under certain conditions.
 
-Link: https://www.404media.co/elias-thorne-chatbots-llms-chatgpt-lighthouse-keeper-story/
+Link: https://www.404media.co/software-update-automatically-turns-off-amazon-delivery-drivers-ac-during-dangerous-summer-heat/
 
-### 10. Socioeconomic factors are becoming 'biologically embedded' in children's brains [8/10]
+### 12. Socioeconomic factors are becoming 'biologically embedded' in children's brains [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -123,7 +141,7 @@ A study of more than 2,300 9- to 10-year-olds found that socioeconomic factors e
 
 Link: https://www.npr.org/2026/06/11/nx-s1-5849937/child-brain-development-stress-sleep-neighborhood-economics
 
-### 11. Poetry From the Plague Pit: The Early Stories of Clive Barker and Joel Lane [8/10]
+### 13. Poetry From the Plague Pit: The Early Stories of Clive Barker and Joel Lane [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -131,24 +149,6 @@ Link: https://www.npr.org/2026/06/11/nx-s1-5849937/child-brain-development-stres
 At the height of Thatcherism and the AIDS crisis, two queer British horror writers began carving out their unique visions... The post Poetry From the Plague Pit: The Early Stories of Clive Barker and Joel Lane appeared first on Reactor .
 
 Link: https://reactormag.com/poetry-from-the-plague-pit-the-early-stories-of-clive-barker-and-joel-lane/
-
-### 12. To make your best summer fruit pies, start here : These pie tools and ingredients will have you baking like a pro. [8/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-The best way to bake with summer fruit is to turn it into a pie.
-
-Link: https://www.kingarthurbaking.com/blog/2026/06/11/best-pie-tools
-
-### 13. Exclusive: 7 Things to Know About Microschools in 2026 [8/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Microschool leaders are predominantly white educators and parents who left traditional public or private schools to build different educational options for kids.
-
-Link: https://www.the74million.org/article/exclusive-7-things-to-know-about-microschools-in-2026/
 
 ## YouTube
 
@@ -188,18 +188,18 @@ YouTuber Tom Scott joins WIRED to answer the internet’s burning content creato
 
 Link: https://www.youtube.com/watch?v=yLHQoTMHDIE
 
-### Gregg Berhalter played for the U.S. Men's National Team decades ago. Now, his son is set to play [8/10]
+### Gregg Berhalter played for the U.S. Men's National Team decades ago. Now, his son is set to play [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Gregg Berhalter coached the U.S. Men's National Team in 2022 in Qatar. He also played for the team in 2002 and 2006 as a defender. Now, his son, 25-year-old Sebastian Berhalter, is set play for team U.S.A. this summer.
 
 Link: https://www.youtube.com/watch?v=J52E0QglTnk
 
-### 94-year-old Moira Brown has traveled the world following Scotland’s national team for the World Cup [7/10]
+### 94-year-old Moira Brown has traveled the world following Scotland’s national team for the World Cup [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 Moira Brown, who will be 94 this year, has traveled the world following Scotland’s national team. World Cup tickets are the one thing she spends money on. This is her fourth in person.
@@ -215,18 +215,18 @@ Microsoft cofounder Bill Gates was on Capitol Hill Wednesday to testify about hi
 
 Link: https://www.youtube.com/watch?v=xgUFp0FbBt0
 
-### Native kids with disabilities were held in wooden boxes. Sweeping reforms are coming [7/10]
+### Native kids with disabilities were held in wooden boxes. Sweeping reforms are coming [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 Native kids with disabilities were held in boxes, prompting outrage and reforms. Officials in New York say the Salmon River district put children with disabilities in wooden boxes without telling parents.
 
 Link: https://www.youtube.com/watch?v=nBVRROdJnPw
 
-### Hegseth blocks promotions / National Guard surge / Downed Apache [9/10]
+### Hegseth blocks promotions / National Guard surge / Downed Apache [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 U.S. Secretary of Defense Pete Hegseth is blocking some promotions at the Pentagon, and a “summer surge” of National Guard troops heads to Washington.
@@ -305,6 +305,15 @@ Link: https://www.youtube.com/watch?v=h9CwdNkZBzo
 
 Link: https://www.youtube.com/watch?v=EmdwFv2JZ1U
 
+### Putting the "Care" in Characters | RPG Help Desk [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Towns. Villains. Characters.
+
+Link: https://www.youtube.com/watch?v=MWqAxitMQlg
+
 ### Highs (and Lows) of Summer Game Fest 2026 | Firelink Podcast [8/10]
 **Creator:** Second Wind  
 **Verdict:** Worth watching  
@@ -313,15 +322,6 @@ Link: https://www.youtube.com/watch?v=EmdwFv2JZ1U
 This week on Firelink, Nick, KC, and Marty chat about their favorite games of Summer Game Fest, refresh their Fantasy Critic draft, and bemoan yet another round of layoffs at Ubisoft and Xbox.
 
 Link: https://www.youtube.com/watch?v=balcfJrIWpE
-
-### Putting the "Care" in Characters | RPG Help Desk [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Towns. Villains. Characters.
-
-Link: https://www.youtube.com/watch?v=MWqAxitMQlg
 
 ### Starting Our Fallout 3 Adventure w/ Jack, Jess, and Marty -- Part 1 [7/10]
 **Creator:** Second Wind  

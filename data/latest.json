@@ -1,70 +1,100 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-12T09:00:45.636240Z",
-  "generatedAtDisplay": "2026-06-12 05:00 AM EDT",
+  "generatedAt": "2026-06-12T14:00:02.687819Z",
+  "generatedAtDisplay": "2026-06-12 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Siri won’t be your AI girlfriend, Ariana Grande rebukes White House for using her music in ‘barbaric, inhumane’ ICE video, and ‘Spy turtles’ and ‘spy fish’ being used to monitor Chinese waters, Beijing claims.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are SpaceX is now public, The Nintendo DS is still the best gaming handheld for travel, and Middle East crisis live: Tehran would not cede control of Hormuz in deal with US, Iran state media report.",
   "mainItems": [
+    {
+      "title": "SpaceX is now public",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/science/947926/spacex-ipo-stock-shares-trading-elon-musk",
+      "published": "2026-06-12T13:54:49+00:00",
+      "summary": "SpaceX is now a publicly traded company.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The Nintendo DS is still the best gaming handheld for travel",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/games/942678/nintendo-ds-rules-for-travel",
+      "published": "2026-06-12T13:46:33+00:00",
+      "summary": "Even with the looming specter of rising prices, there's never been a better time for portable gaming.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Middle East crisis live: Tehran would not cede control of Hormuz in deal with US, Iran state media report",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/live/2026/jun/12/middle-east-crisis-live-us-iran-israel-lebanon-trump-hormuz-oil-peace-deal-doubt-latest-news-updates",
+      "published": "2026-06-12T13:41:38+00:00",
+      "summary": "Iran and the US said the countries are discussing draft text to a deal but there are still some key differences to overcome Full report: Trump claims US and Iran on verge of signing peace agreement Iran’s official Islamic Republic News…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Texas’ Charter School Boom May Soon Bust, Experts Caution",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/texas-charter-school-boom-may-soon-bust-experts-caution/",
+      "published": "2026-06-12T12:30:00+00:00",
+      "summary": "Texas charter schools recently saw their smallest enrollment bump in state history, signaling that similar forces crushing traditional public districts may soon hit them as well.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Women held at much-denounced Ice detention camp sign on to hunger strike",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jun/12/delaney-hall-ice-detention-strike",
+      "published": "2026-06-12T12:00:44+00:00",
+      "summary": "Nearly 40 women detained at Delaney Hall join striking men and outline demands ‘rooted in basic human rights’ Dozens of women detained inside the Delaney Hall immigration detention facility in New Jersey announced their participation in a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "I will always fear the idle genre but wizard school RPG Abracademia is more enchanting than most, with around 300 spells to learn",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/i-will-always-fear-the-idle-genre-but-wizard-school-rpg-abracademia-is-more-enchanting-than-most-with-around-300-spells-to-learn",
+      "published": "2026-06-12T11:55:01+00:00",
+      "summary": "I'm not sure I can imagine greater horror than that of the \"desktop idle sim\". My computer's desktop already fills me with confusion and dismay.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Assassin's Creed creator Patrice Désilets' new and witchy 1666: Amsterdam demo raises more questions than answers",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/1666-amsterdam-demo-patrice-desilets",
+      "published": "2026-06-12T11:12:14+00:00",
+      "summary": "Few games have a history as turbulent as that of 1666: Amsterdam. This is the project Patrice Désilets - the founding director of the Assassin's Creed series - fought Ubisoft for.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "A powerful US surveillance law is set to expire – what happens now?",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/jun/12/fisa-law-surveillance",
+      "published": "2026-06-12T10:00:42+00:00",
+      "summary": "Congress has failed to reauthorize section 702 of Foreign Intelligence Surveillance Act amid questions over its future Donald Trump’s bid to install a controversial ally as the country’s leading intelligence official has shone a light on…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
     {
       "title": "Siri won’t be your AI girlfriend",
       "source": "The Verge",
       "category": "AI / computing",
       "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-      "published": "2026-06-12T08:50:19+00:00",
+      "published": "2026-06-12T09:27:41+00:00",
       "summary": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
-    },
-    {
-      "title": "Ariana Grande rebukes White House for using her music in ‘barbaric, inhumane’ ICE video",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/music/2026/jun/12/ariana-grande-rebukes-white-house-music-ice-video",
-      "published": "2026-06-12T08:41:26+00:00",
-      "summary": "Grande is the latest in a series of pop musicians including Sabrina Carpenter and SZA who have been angered by Trump administration videos Ariana Grande has rebuked Donald Trump’s White House over use of her music in a video documenting…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘Spy turtles’ and ‘spy fish’ being used to monitor Chinese waters, Beijing claims",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jun/12/china-spy-turtles-spy-fish-monitor-waters-claims",
-      "published": "2026-06-12T07:27:00+00:00",
-      "summary": "Ministry says animals fitted with sensors by foreign agencies collect sensitive sea data, in ‘invisible secret war’ China’s ministry of state security has claimed that foreign espionage and intelligence agencies are using innovative new…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Diane Keaton’s nail clippers for $960: what’s behind the new boom in celebrity estate auctions?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/jun/12/diane-keaton-dead-celebrity-auctions",
-      "published": "2026-06-12T06:00:37+00:00",
-      "summary": "With beloved stars’ personal items increasingly up for grabs after they die, a new generation of fans are bidding on everything from bowler hats to dog bowls From Diane Keaton’s bowler hats and polka dot scarfs, to Gene Hackman’s used…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Here are the price-matching policies for Best Buy, GameStop, and others",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft",
-      "published": "2026-06-11T17:14:28+00:00",
-      "summary": "Nothing is more frustrating than buying a new pair of headphones, an OLED TV, or a laptop just to find out that you could have gotten it for cheaper somewhere else just a few days or weeks later.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "SpaceX to list on US stock market today after raising $75bn in largest IPO ever – business live",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates",
-      "published": "2026-06-12T08:36:00+00:00",
-      "summary": "Rolling coverage of SpaceX’s record-breaking initial public offering, after Elon Musk’s company is valued at $1.77tn in share offering SpaceX’s shares will be supported by a number of “forced buyers”, such as tracker funds.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
     },
     {
       "title": "Superintendents Defend Transgender Student, Parental Rights Policies on Capitol Hill",
@@ -77,24 +107,14 @@
       "score": 9
     },
     {
-      "title": "Tapestry is a painterly grand strategy multiplayer war game where you plot your victory at the start of every match",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/tapestry-is-a-painterly-grand-strategy-multiplayer-war-game-where-you-plot-your-victory-at-the-start-of-every-match",
-      "published": "2026-06-11T17:13:07+00:00",
-      "summary": "Grand strategy games are often these slow, methodical things that require you to take your time, a genre that feels better suited solo.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Chatbots Keep Telling Stories About Lighthouse Keeper 'Elias Thorne'. We Might Know Why",
+      "title": "Software Update Automatically Turns off Amazon Delivery Drivers’ AC During Dangerous Summer Heat",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/elias-thorne-chatbots-llms-chatgpt-lighthouse-keeper-story/",
-      "published": "2026-06-11T13:00:10+00:00",
-      "summary": "LLMs including ChatGPT, Gemini and Claude are obsessed with telling stories about lighthouse keepers and clockmakers, and one character named 'Elias Thorne' has made his way from chatbots to Amazon books.",
+      "url": "https://www.404media.co/software-update-automatically-turns-off-amazon-delivery-drivers-ac-during-dangerous-summer-heat/",
+      "published": "2026-06-11T18:59:11+00:00",
+      "summary": "A new software update is turning off the AC in Amazon delivery vans after 10 minutes or 30 seconds under certain conditions.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
+      "score": 8
     },
     {
       "title": "Socioeconomic factors are becoming 'biologically embedded' in children's brains",
@@ -114,26 +134,6 @@
       "published": "2026-06-11T16:00:00+00:00",
       "summary": "At the height of Thatcherism and the AIDS crisis, two queer British horror writers began carving out their unique visions... The post Poetry From the Plague Pit: The Early Stories of Clive Barker and Joel Lane appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
-      "title": "To make your best summer fruit pies, start here : These pie tools and ingredients will have you baking like a pro.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/06/11/best-pie-tools",
-      "published": "2026-06-11T14:00:00+00:00",
-      "summary": "The best way to bake with summer fruit is to turn it into a pie.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
-      "score": 8
-    },
-    {
-      "title": "Exclusive: 7 Things to Know About Microschools in 2026",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/exclusive-7-things-to-know-about-microschools-in-2026/",
-      "published": "2026-06-11T10:30:00+00:00",
-      "summary": "Microschool leaders are predominantly white educators and parents who left traditional public or private schools to build different educational options for kids.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 8
     }
   ],
@@ -190,8 +190,8 @@
       "published": "2026-06-12T00:00:14+00:00",
       "summary": "Gregg Berhalter coached the U.S. Men's National Team in 2022 in Qatar. He also played for the team in 2002 and 2006 as a defender. Now, his son, 25-year-old Sebastian Berhalter, is set play for team U.S.A. this summer.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "94-year-old Moira Brown has traveled the world following Scotland’s national team for the World Cup",
@@ -201,8 +201,8 @@
       "published": "2026-06-11T22:15:12+00:00",
       "summary": "Moira Brown, who will be 94 this year, has traveled the world following Scotland’s national team. World Cup tickets are the one thing she spends money on. This is her fourth in person.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Bill Gates says he wasn't aware of Epstein's crimes",
@@ -223,8 +223,8 @@
       "published": "2026-06-11T21:30:00+00:00",
       "summary": "Native kids with disabilities were held in boxes, prompting outrage and reforms. Officials in New York say the Salmon River district put children with disabilities in wooden boxes without telling parents.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Hegseth blocks promotions / National Guard surge / Downed Apache",
@@ -234,8 +234,8 @@
       "published": "2026-06-11T21:04:07+00:00",
       "summary": "U.S. Secretary of Defense Pete Hegseth is blocking some promotions at the Pentagon, and a “summer surge” of National Guard troops heads to Washington.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Investigating the killing of a Black teen at a Seattle protest | Embedded",
@@ -326,6 +326,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Putting the \"Care\" in Characters | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=MWqAxitMQlg",
+      "published": "2026-06-12T10:25:19+00:00",
+      "summary": "Towns. Villains. Characters.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "Highs (and Lows) of Summer Game Fest 2026 | Firelink Podcast",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -335,17 +346,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Putting the \"Care\" in Characters | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=MWqAxitMQlg",
-      "published": "2026-06-11T16:39:02+00:00",
-      "summary": "Towns. Villains. Characters.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     },
     {
       "title": "Starting Our Fallout 3 Adventure w/ Jack, Jess, and Marty -- Part 1",
