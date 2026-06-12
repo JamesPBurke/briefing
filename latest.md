@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-11T14:00:02.246577Z
+Generated: 2026-06-12T05:00:02.311686Z
 
-Today's sweep leans toward Democracy / press freedom, Tech / media, Games / criticism. The strongest items in this run are Toronto police officer shot while investigating US consulate attack, Cash App’s launching a phone service, and Chatbots Keep Telling Stories About Lighthouse Keeper 'Elias Thorne'. We Might Know Why.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are Superintendents Defend Transgender Student, Parental Rights Policies on Capitol Hill, Roborock’s Q10 S5 Plus robovac is over half off, matching its best price to date, and Here are the price-matching policies for Best Buy, GameStop, and others.
 
 ## Briefing
 
@@ -33,25 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Toronto police officer shot while investigating US consulate attack [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 1. Superintendents Defend Transgender Student, Parental Rights Policies on Capitol Hill [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Officer shot before 6am on Thursday while searching an apartment allegedly linked to March shooting in Toronto A Toronto police officer has been shot as police raided an apartment allegedly linked to the March attack on the US consulate.
+Three progressive superintendents defended their policies for parental involvement and transgender inclusion during a congressional hearing Wednesday in which Republican lawmakers called them “pathetic” and said they should find other jobs.
 
-Link: https://www.theguardian.com/world/2026/jun/11/toronto-police-shot-us-consulate-attack
+Link: https://www.the74million.org/article/superintendents-defend-transgender-student-parental-rights-policies-on-capitol-hill/
 
-### 2. Cash App’s launching a phone service [10/10]
+### 2. Roborock’s Q10 S5 Plus robovac is over half off, matching its best price to date [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Cash App's AT&T-based MVNO will offer an unlimited 5G data plan for $40 per month including taxes and fees.
+Even at full price, the Roborock Q10 S5 Plus offers impressive value, boasting features typically reserved for pricier robovac models at a fraction of the price. That’s especially true today. It’s down to just $269.
 
-Link: https://www.theverge.com/tech/948181/cash-app-mobile
+Link: https://www.theverge.com/gadgets/948529/roborock-q10-s5-plus-robot-vacuum-mop-deal-sale
 
-### 3. Chatbots Keep Telling Stories About Lighthouse Keeper 'Elias Thorne'. We Might Know Why [10/10]
+### 3. Here are the price-matching policies for Best Buy, GameStop, and others [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Nothing is more frustrating than buying a new pair of headphones, an OLED TV, or a laptop just to find out that you could have gotten it for cheaper somewhere else just a few days or weeks later.
+
+Link: https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft
+
+### 4. Amazon’s Echo Hub gets a customizable new look and Ring’s AI features [9/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Amazon's rolling out a free software update for Echo Hub devices that gives the home screen a much-needed update to the interface it launched with in 2024.
+
+Link: https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign
+
+### 5. Military strikes on water facilities in Iran may constitute a war crime, experts say [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Strikes on Bemani damaged key water reservoir for 20,000 people living in area amid a historic drought in the country Military strikes that damaged two water storage facilities in southern Iran may constitute a war crime, military and…
+
+Link: https://www.theguardian.com/world/2026/jun/11/strikes-water-facilities-iran-war-crime-experts
+
+### 6. Tapestry is a painterly grand strategy multiplayer war game where you plot your victory at the start of every match [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Grand strategy games are often these slow, methodical things that require you to take your time, a genre that feels better suited solo.
+
+Link: https://www.rockpapershotgun.com/tapestry-is-a-painterly-grand-strategy-multiplayer-war-game-where-you-plot-your-victory-at-the-start-of-every-match
+
+### 7. Chatbots Keep Telling Stories About Lighthouse Keeper 'Elias Thorne'. We Might Know Why [9/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -60,61 +96,43 @@ LLMs including ChatGPT, Gemini and Claude are obsessed with telling stories abou
 
 Link: https://www.404media.co/elias-thorne-chatbots-llms-chatgpt-lighthouse-keeper-story/
 
-### 4. Drums, cash grants, and bubbling capybaras: How Latin America's game dev creatives are outgrowing outsourcing [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Easily missed among last week’s Summer Game Fest advert marathon was the Latin American Games Showcase : an exhibition that, at over eighty games strong, dwarfed the Keighley-fronted main event, yet has received only a small fraction of…
-
-Link: https://www.rockpapershotgun.com/drums-cash-grants-and-bubbling-capybaras-how-latin-americas-game-dev-creatives-are-outgrowing-outsourcing
-
-### 5. A Delaware School Once Felt Like a ‘Prison.’ Now It’s a National Model [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-For years, many teachers at Frederick Douglass Elementary School didn’t know the names of all their students. Those were dark years before principal Carol Leveilee arrived at the Seaford, Delaware school.
-
-Link: https://www.the74million.org/article/a-delaware-school-once-felt-like-a-prison-now-its-a-national-model/
-
-### 6. Trump’s claims about California vote-rigging are a grim preview of November | Moira Donegan [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The ‘fraud’ he sees is in the very concept of democracy, in the idea that people who don’t agree with or fawn over him might have a say, too By now, it is an event as regular and predictable as the tides: a Democrat wins an election, and…
-
-Link: https://www.theguardian.com/commentisfree/2026/jun/11/trump-california-vote-rigging-claims
-
-### 7. Man sues Florida cops over arrest spurred by "93% match" in facial recognition [10/10]
-**Source:** Ars Technica  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Lawsuit: "Police let an error-prone AI system stand in for an investigation."
-
-Link: https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/
-
-### 8. Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster [10/10]
-**Source:** Ars Technica  
-**Category:** AI / open models  
-**Why it matters:** Relevant to local models, open tooling, and hands-on experimentation.
-
-Diffusion AI is most common in image generation, but it can make text outputs much faster.
-
-Link: https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/
-
-### 9. I went to the woods to drink surprisingly great espresso [9/10]
+### 8. Blink’s six-piece outdoor camera kit is a great deal under $200 [8/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-With summer's return, I'm again reminded of my limits as I head into the great outdoors: I can put up with a heavy, uncomfortable backpack, bug bites, mud, and even bland dehydrated food, but I will not forsake my morning brew.
+You can save on a big set of outdoor security cameras ahead of Prime Day. Amazon has a five-pack of Blink cameras with a video doorbell included that’s marked down to $166.99.
 
-Link: https://www.theverge.com/tech/942873/ikape-cera-portable-espresso-review
+Link: https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale
 
-### 10. Exclusive: 7 Things to Know About Microschools in 2026 [9/10]
+### 9. Socioeconomic factors are becoming 'biologically embedded' in children's brains [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+A study of more than 2,300 9- to 10-year-olds found that socioeconomic factors explained most differences in the preteens' brain development.
+
+Link: https://www.npr.org/2026/06/11/nx-s1-5849937/child-brain-development-stress-sleep-neighborhood-economics
+
+### 10. Poetry From the Plague Pit: The Early Stories of Clive Barker and Joel Lane [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+At the height of Thatcherism and the AIDS crisis, two queer British horror writers began carving out their unique visions... The post Poetry From the Plague Pit: The Early Stories of Clive Barker and Joel Lane appeared first on Reactor .
+
+Link: https://reactormag.com/poetry-from-the-plague-pit-the-early-stories-of-clive-barker-and-joel-lane/
+
+### 11. To make your best summer fruit pies, start here : These pie tools and ingredients will have you baking like a pro. [8/10]
+**Source:** King Arthur Baking  
+**Category:** Bread / food craft  
+**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
+
+The best way to bake with summer fruit is to turn it into a pie.
+
+Link: https://www.kingarthurbaking.com/blog/2026/06/11/best-pie-tools
+
+### 12. Exclusive: 7 Things to Know About Microschools in 2026 [8/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -123,34 +141,25 @@ Microschool leaders are predominantly white educators and parents who left tradi
 
 Link: https://www.the74million.org/article/exclusive-7-things-to-know-about-microschools-in-2026/
 
-### 11. SpaceX is poised for blastoff with an IPO likely to break records [8/10]
+### 13. SpaceX blasts off with a record-breaking $75 billion IPO [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Elon Musk's rocket company, recently merged with xAI, is aiming to raise $75 billion in its initial public stock offering. It's the first of a trio of mega-IPOs from AI companies expected this year.
+Elon Musk's rocket company, recently merged with xAI, raised $75 billion in its initial public stock offering. It's the first of a trio of mega-IPOs from AI companies expected this year.
 
 Link: https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
 
-### 12. FDA approves new sunscreen ingredient [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
+## YouTube
+
+### LL Cool J's DNA Uncovered a Hidden Family Truth [9/10]
+**Creator:** WIRED  
+**Verdict:** Watch it  
 **Why it matters:** Relevant to your current interest graph.
 
-The FDA approved a new sunscreen ingredient for the U.S. Bemotrizinol has long been used in Europe and Asia. The chemical compound protects against UVA and UVB rays.
+_Finding Your Roots_ lead genetic genealogist CeCe Moore joins WIRED to answer the internet’s burning questions about genealogy. Can a person’s innocence or guilt be proven through Ancestry.
 
-Link: https://www.npr.org/2026/06/11/nx-s1-5853351/fda-approves-new-sunscreen-ingredient
-
-### 13. The Endless: You Can Go Home Again (But Maybe You Shouldn’t) [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-A disturbingly cheery cult, cosmic horror, and classic Southern California weirdness. The post The Endless : You Can Go Home Again (But Maybe You Shouldn’t) appeared first on Reactor .
-
-Link: https://reactormag.com/the-endless-you-can-go-home-again-but-maybe-you-shouldnt/
-
-## YouTube
+Link: https://www.youtube.com/watch?v=HzEV3JwUFuA
 
 ### The Best Thumbnails? Truth-bait. [7/10]
 **Creator:** WIRED  
@@ -179,36 +188,54 @@ YouTuber Tom Scott joins WIRED to answer the internet’s burning content creato
 
 Link: https://www.youtube.com/watch?v=yLHQoTMHDIE
 
-### Don't Clickbait Your Videos, Folks [7/10]
-**Creator:** WIRED  
+### Gregg Berhalter played for the U.S. Men's National Team decades ago. Now, his son is set to play [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Gregg Berhalter coached the U.S. Men's National Team in 2022 in Qatar. He also played for the team in 2002 and 2006 as a defender. Now, his son, 25-year-old Sebastian Berhalter, is set play for team U.S.A. this summer.
+
+Link: https://www.youtube.com/watch?v=J52E0QglTnk
+
+### 94-year-old Moira Brown has traveled the world following Scotland’s national team for the World Cup [7/10]
+**Creator:** NPR  
 **Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-YouTuber Tom Scott joins WIRED to answer the internet’s burning content creator and YouTube strategy questions.
+Moira Brown, who will be 94 this year, has traveled the world following Scotland’s national team. World Cup tickets are the one thing she spends money on. This is her fourth in person.
 
-Link: https://www.youtube.com/watch?v=V3CylFxdp6E
+Link: https://www.youtube.com/watch?v=beAQ9SPymKk
 
-### The Importance of a Great YouTube Intro [7/10]
-**Creator:** WIRED  
+### Bill Gates says he wasn't aware of Epstein's crimes [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Microsoft cofounder Bill Gates was on Capitol Hill Wednesday to testify about his relationship with Jeffrey Epstein. Gates told lawmakers he never witnessed or knew about any of Epstein's crimes.
+
+Link: https://www.youtube.com/watch?v=xgUFp0FbBt0
+
+### Native kids with disabilities were held in wooden boxes. Sweeping reforms are coming [7/10]
+**Creator:** NPR  
 **Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-YouTuber Tom Scott joins WIRED to answer the internet’s burning content creator and YouTube strategy questions.
+Native kids with disabilities were held in boxes, prompting outrage and reforms. Officials in New York say the Salmon River district put children with disabilities in wooden boxes without telling parents.
 
-Link: https://www.youtube.com/watch?v=2yaN8BZXxsk
+Link: https://www.youtube.com/watch?v=nBVRROdJnPw
 
-### Tom Scott's Top Tip For YouTube Growth [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-YouTuber Tom Scott joins WIRED to answer the internet’s burning content creator and YouTube strategy questions.
-
-Link: https://www.youtube.com/watch?v=tew4V_NSdnI
-
-### Investigating the killing of a Black teen at a Seattle protest | Embedded [9/10]
+### Hegseth blocks promotions / National Guard surge / Downed Apache [9/10]
 **Creator:** NPR  
 **Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+U.S. Secretary of Defense Pete Hegseth is blocking some promotions at the Pentagon, and a “summer surge” of National Guard troops heads to Washington.
+
+Link: https://www.youtube.com/watch?v=Vh746RDvXnI
+
+### Investigating the killing of a Black teen at a Seattle protest | Embedded [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 In the summer of 2020, sixteen-year-old Antonio Mays Jr. traveled a thousand miles to join the racial justice movement of his generation. He arrived in Seattle during the Capitol Hill Occupied Protest, known as CHOP.
@@ -224,54 +251,36 @@ High gas prices could have political consequences in the midterm elections this 
 
 Link: https://www.youtube.com/watch?v=XVw6IoCQqoA
 
-### Protests break out in Belfast after video circulates of a brutal street attack in Northern Ireland [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Protests erupted in Northern Ireland yesterday after graphic footage of a stabbing attack in the capital, Belfast, was shared widely online. A Sudanese man has been charged with attempted murder following the attack.
-
-Link: https://www.youtube.com/watch?v=fAqXvrpXn7I
-
-### War worsens economic pain in Sri Lanka [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Sri Lanka is thousands of miles from the Middle East, but the island of some 22 million people is deeply vulnerable to the impacts of the war that Israel and the U.S. launched on Iran on Feb. 28, because it imports two-thirds of its energy.
-
-Link: https://www.youtube.com/watch?v=GOzAbSxv2v0
-
-### Social Security checks could be slashed in 2032 if Congress doesn't act [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-A Social Security trust fund is now expected to run short of cash by 2032 — three months sooner than projected last year.
-
-Link: https://www.youtube.com/watch?v=scy2vBDQ97A
-
-### Protesters in Albania oppose plan for Trump family-linked resort [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-Thousands of Albanians took to the streets last week, protesting a planned luxury resort that's connected to President Trump's daughter, Ivanka, and son-in-law, Jared Kushner.
-
-Link: https://www.youtube.com/watch?v=0kANId1CL9o
-
-### Will A DIY Custom PC Build Be Cheaper Than Steam Machine? [7/10]
+### Resident Evil Veronica Debut Reaction - Capcom's Unbeaten Run Looks Set To Continue [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/1IT7sQ7pqsE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=BIg34NqF87s
+
+### Xbox Series X25 Console - Epic Fan Service - Just Transparent Green Plastic But We Want It [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/033V4rCJpDE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=YgcBJOouIGk
+
+### Will A DIY Custom PC Build Be Cheaper Than Steam Machine? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wjCwIkqPIaQ ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=y8tCVJIv-mM
 
-### Clockwork Revolution + Xbox Exclusivity - Is This The Right Strategy? [7/10]
+### Clockwork Revolution + Xbox Exclusivity - Is This The Right Strategy? [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/033V4rCJpDE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -296,23 +305,41 @@ Link: https://www.youtube.com/watch?v=h9CwdNkZBzo
 
 Link: https://www.youtube.com/watch?v=EmdwFv2JZ1U
 
-### Will Microsoft Drop Series S When Helix Arrives - And What About Series X? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### Highs (and Lows) of Summer Game Fest 2026 | Firelink Podcast [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wjCwIkqPIaQ ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+This week on Firelink, Nick, KC, and Marty chat about their favorite games of Summer Game Fest, refresh their Fantasy Critic draft, and bemoan yet another round of layoffs at Ubisoft and Xbox.
 
-Link: https://www.youtube.com/watch?v=tIB1bUdPh_A
+Link: https://www.youtube.com/watch?v=balcfJrIWpE
 
-### Can Switch 2 Deliver Call of Duty Modern Warfare 4 At 60FPS? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### Putting the "Care" in Characters | RPG Help Desk [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wjCwIkqPIaQ ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+Towns. Villains. Characters.
 
-Link: https://www.youtube.com/watch?v=wbCqLTsK71Q
+Link: https://www.youtube.com/watch?v=MWqAxitMQlg
+
+### Starting Our Fallout 3 Adventure w/ Jack, Jess, and Marty -- Part 1 [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=jLSnl5YEKYw
+
+### “Play It Three Days Early” Needs to Stop [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Marty digs into the trend of games giving early access to folks who buy the deluxe editions, why it sucks, and why it (sadly) won't be going away any time soon.
+
+Link: https://www.youtube.com/watch?v=uq1o2JG3JWY
 
 ### Exploring Dinosaur Planet in Star Fox Adventures w/ KC and Marty -- Part 2 [6/10]
 **Creator:** Second Wind  
@@ -332,9 +359,9 @@ This week on Yahtzee Tries... Yahtzee and Marty try out Voidling Bound and Arms 
 
 Link: https://www.youtube.com/watch?v=maTARMh9EZg
 
-### 007 First Light | Fully Ramblomatic [7/10]
+### 007 First Light | Fully Ramblomatic [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Fully Ramblomatic, Yahtzee reviewed 007 First Light. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
@@ -349,42 +376,6 @@ Link: https://www.youtube.com/watch?v=dWBgM0gctXA
 Join us in watching the first big Nintendo Direct of 2026. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=q3OR2cdX6co
-
-### What Backrooms Tells Us About the Future of Hollywood | The Backdrop [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The Backrooms and Obsession have both had incredible box office weekends on modest budgets... is it a sign of where Hollywood is going? Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.
-
-Link: https://www.youtube.com/watch?v=6jmgdS4tLwY
-
-### Saying "MÖRK BORG Heresy Supreme" Five Times Fast | Hot Monday Energy [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Hidden Gems KC, Jess, and Jesse play MÖRK BORG Heresy Supreme -- https://store.steampowered.com/app/3216800/MRK_BORG_Heresy_Supreme/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=0mJnRvCnads
-
-### Catching Yahtzee Up on the Big Summer Game Fest Announcements | Windbreaker Podcast [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.
-
-Link: https://www.youtube.com/watch?v=xsd06xiNI3s
-
-### Second Wind Channel Update - 100M Views, Patreon, and More! [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-We've surpassed the 100M views milestone in less than three years, and it's that time of year again where we encourage more of you to join our Patreon! Support us on Patreon: https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=tvng1HCO_oI
 
 ## Entertainment Recommendations
 
@@ -423,24 +414,6 @@ Link: https://www.youtube.com/watch?v=tvng1HCO_oI
 Every revolution begins with a reckoning. The Social Reckoning, a companion piece to The Social Network, is coming exclusively to theatres October 9.
 
 Link: https://www.youtube.com/watch?v=gM4LkaXwGuY
-
-### RESIDENT EVIL – Zach Cregger on Survival Horror [9/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.
-
-Link: https://www.youtube.com/watch?v=N_KDtokTO1c
-
-### RESIDENT EVIL - Zach Cregger on Survival Horror [9/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.
-
-Link: https://www.youtube.com/watch?v=5gR1GTJPGqQ
 
 ### Whalefall | Official Teaser | In Theaters October 16 [7/10]
 **Source:** 20th Century Studios  
@@ -541,6 +514,33 @@ It takes blood, guts, and heart to make a Gore horror movie. Lee Cronin unpacks 
 
 Link: https://www.youtube.com/watch?v=NSilsgp90jE
 
+### Avatar: The Last Airbender | Audio Described Season 1 Recap | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then, everything changed when the Fire Nation attacked. Avatar: The Last Airbender Season 2 premieres on June 25, 2026 only on Netflix.
+
+Link: https://www.youtube.com/watch?v=pvpgyLHL3l8
+
+### Avatar: The Last Airbender | Season 1 Recap | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then, everything changed when the Fire Nation attacked. Avatar: The Last Airbender Season 2 premieres on June 25, 2026 only on Netflix.
+
+Link: https://www.youtube.com/watch?v=6uyXiN6JH6Q
+
+### Little House on the Prairie | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The Ingalls’ journey begins. Little House on the Prairie, based on the beloved books, premieres July 9, only on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=jSds4Oi83Eg
+
 ### Worst Neighbor Ever | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -630,15 +630,6 @@ Link: https://www.youtube.com/watch?v=uQ8d_96AurQ
 what can’t she do?? Office Romance is now playing Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=0mwreY8Z2J0
-
-### Oasis | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-There are summers that change everything. And places designed to escape—even from the truth.
-
-Link: https://www.youtube.com/watch?v=PQ0DS3oyWUE
 
 ### Camp Snoopy — Season 2 Official Trailer | Apple TV [8/10]
 **Source:** Apple TV  

@@ -1,30 +1,70 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-11T14:00:02.246577Z",
-  "generatedAtDisplay": "2026-06-11 10:00 AM EDT",
+  "generatedAt": "2026-06-12T05:00:02.311686Z",
+  "generatedAtDisplay": "2026-06-12 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Tech / media, Games / criticism. The strongest items in this run are Toronto police officer shot while investigating US consulate attack, Cash App’s launching a phone service, and Chatbots Keep Telling Stories About Lighthouse Keeper 'Elias Thorne'. We Might Know Why.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are Superintendents Defend Transgender Student, Parental Rights Policies on Capitol Hill, Roborock’s Q10 S5 Plus robovac is over half off, matching its best price to date, and Here are the price-matching policies for Best Buy, GameStop, and others.",
   "mainItems": [
     {
-      "title": "Toronto police officer shot while investigating US consulate attack",
-      "source": "The Guardian US",
+      "title": "Superintendents Defend Transgender Student, Parental Rights Policies on Capitol Hill",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/superintendents-defend-transgender-student-parental-rights-policies-on-capitol-hill/",
+      "published": "2026-06-11T18:30:00+00:00",
+      "summary": "Three progressive superintendents defended their policies for parental involvement and transgender inclusion during a congressional hearing Wednesday in which Republican lawmakers called them “pathetic” and said they should find other jobs.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Roborock’s Q10 S5 Plus robovac is over half off, matching its best price to date",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jun/11/toronto-police-shot-us-consulate-attack",
-      "published": "2026-06-11T13:49:06+00:00",
-      "summary": "Officer shot before 6am on Thursday while searching an apartment allegedly linked to March shooting in Toronto A Toronto police officer has been shot as police raided an apartment allegedly linked to the March attack on the US consulate.",
+      "url": "https://www.theverge.com/gadgets/948529/roborock-q10-s5-plus-robot-vacuum-mop-deal-sale",
+      "published": "2026-06-11T17:42:29+00:00",
+      "summary": "Even at full price, the Roborock Q10 S5 Plus offers impressive value, boasting features typically reserved for pricier robovac models at a fraction of the price. That’s especially true today. It’s down to just $269.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Cash App’s launching a phone service",
+      "title": "Here are the price-matching policies for Best Buy, GameStop, and others",
       "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/948181/cash-app-mobile",
-      "published": "2026-06-11T13:10:49+00:00",
-      "summary": "Cash App's AT&T-based MVNO will offer an unlimited 5G data plan for $40 per month including taxes and fees.",
+      "url": "https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft",
+      "published": "2026-06-11T17:14:28+00:00",
+      "summary": "Nothing is more frustrating than buying a new pair of headphones, an OLED TV, or a laptop just to find out that you could have gotten it for cheaper somewhere else just a few days or weeks later.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "Amazon’s Echo Hub gets a customizable new look and Ring’s AI features",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
+      "published": "2026-06-11T22:12:08+00:00",
+      "summary": "Amazon's rolling out a free software update for Echo Hub devices that gives the home screen a much-needed update to the interface it launched with in 2024.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Military strikes on water facilities in Iran may constitute a war crime, experts say",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/jun/11/strikes-water-facilities-iran-war-crime-experts",
+      "published": "2026-06-11T20:30:15+00:00",
+      "summary": "Strikes on Bemani damaged key water reservoir for 20,000 people living in area amid a historic drought in the country Military strikes that damaged two water storage facilities in southern Iran may constitute a war crime, military and…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Tapestry is a painterly grand strategy multiplayer war game where you plot your victory at the start of every match",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/tapestry-is-a-painterly-grand-strategy-multiplayer-war-game-where-you-plot-your-victory-at-the-start-of-every-match",
+      "published": "2026-06-11T17:13:07+00:00",
+      "summary": "Grand strategy games are often these slow, methodical things that require you to take your time, a genre that feels better suited solo.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "Chatbots Keep Telling Stories About Lighthouse Keeper 'Elias Thorne'. We Might Know Why",
@@ -34,67 +74,47 @@
       "published": "2026-06-11T13:00:10+00:00",
       "summary": "LLMs including ChatGPT, Gemini and Claude are obsessed with telling stories about lighthouse keepers and clockmakers, and one character named 'Elias Thorne' has made his way from chatbots to Amazon books.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "Drums, cash grants, and bubbling capybaras: How Latin America's game dev creatives are outgrowing outsourcing",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/drums-cash-grants-and-bubbling-capybaras-how-latin-americas-game-dev-creatives-are-outgrowing-outsourcing",
-      "published": "2026-06-11T12:55:06+00:00",
-      "summary": "Easily missed among last week’s Summer Game Fest advert marathon was the Latin American Games Showcase : an exhibition that, at over eighty games strong, dwarfed the Keighley-fronted main event, yet has received only a small fraction of…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "A Delaware School Once Felt Like a ‘Prison.’ Now It’s a National Model",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/a-delaware-school-once-felt-like-a-prison-now-its-a-national-model/",
-      "published": "2026-06-11T12:30:00+00:00",
-      "summary": "For years, many teachers at Frederick Douglass Elementary School didn’t know the names of all their students. Those were dark years before principal Carol Leveilee arrived at the Seaford, Delaware school.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Trump’s claims about California vote-rigging are a grim preview of November | Moira Donegan",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/11/trump-california-vote-rigging-claims",
-      "published": "2026-06-11T10:00:19+00:00",
-      "summary": "The ‘fraud’ he sees is in the very concept of democracy, in the idea that people who don’t agree with or fawn over him might have a say, too By now, it is an event as regular and predictable as the tides: a Democrat wins an election, and…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Man sues Florida cops over arrest spurred by \"93% match\" in facial recognition",
-      "source": "Ars Technica",
-      "category": "AI / privacy",
-      "url": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
-      "published": "2026-06-10T21:30:44+00:00",
-      "summary": "Lawsuit: \"Police let an error-prone AI system stand in for an investigation.\"",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
-      "source": "Ars Technica",
-      "category": "AI / open models",
-      "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
-      "published": "2026-06-10T19:29:21+00:00",
-      "summary": "Diffusion AI is most common in image generation, but it can make text outputs much faster.",
-      "whyItMatters": "Relevant to local models, open tooling, and hands-on experimentation.",
-      "score": 10
-    },
-    {
-      "title": "I went to the woods to drink surprisingly great espresso",
+      "title": "Blink’s six-piece outdoor camera kit is a great deal under $200",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/942873/ikape-cera-portable-espresso-review",
-      "published": "2026-06-11T13:38:09+00:00",
-      "summary": "With summer's return, I'm again reminded of my limits as I head into the great outdoors: I can put up with a heavy, uncomfortable backpack, bug bites, mud, and even bland dehydrated food, but I will not forsake my morning brew.",
+      "url": "https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale",
+      "published": "2026-06-11T18:04:43+00:00",
+      "summary": "You can save on a big set of outdoor security cameras ahead of Prime Day. Amazon has a five-pack of Blink cameras with a video doorbell included that’s marked down to $166.99.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
+      "score": 8
+    },
+    {
+      "title": "Socioeconomic factors are becoming 'biologically embedded' in children's brains",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/06/11/nx-s1-5849937/child-brain-development-stress-sleep-neighborhood-economics",
+      "published": "2026-06-11T18:00:00+00:00",
+      "summary": "A study of more than 2,300 9- to 10-year-olds found that socioeconomic factors explained most differences in the preteens' brain development.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Poetry From the Plague Pit: The Early Stories of Clive Barker and Joel Lane",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/poetry-from-the-plague-pit-the-early-stories-of-clive-barker-and-joel-lane/",
+      "published": "2026-06-11T16:00:00+00:00",
+      "summary": "At the height of Thatcherism and the AIDS crisis, two queer British horror writers began carving out their unique visions... The post Poetry From the Plague Pit: The Early Stories of Clive Barker and Joel Lane appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
+    },
+    {
+      "title": "To make your best summer fruit pies, start here : These pie tools and ingredients will have you baking like a pro.",
+      "source": "King Arthur Baking",
+      "category": "Bread / food craft",
+      "url": "https://www.kingarthurbaking.com/blog/2026/06/11/best-pie-tools",
+      "published": "2026-06-11T14:00:00+00:00",
+      "summary": "The best way to bake with summer fruit is to turn it into a pie.",
+      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
+      "score": 8
     },
     {
       "title": "Exclusive: 7 Things to Know About Microschools in 2026",
@@ -104,40 +124,31 @@
       "published": "2026-06-11T10:30:00+00:00",
       "summary": "Microschool leaders are predominantly white educators and parents who left traditional public or private schools to build different educational options for kids.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
+      "score": 8
     },
     {
-      "title": "SpaceX is poised for blastoff with an IPO likely to break records",
+      "title": "SpaceX blasts off with a record-breaking $75 billion IPO",
       "source": "NPR Tech",
       "category": "Science / computing",
       "url": "https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk",
       "published": "2026-06-11T09:00:00+00:00",
-      "summary": "Elon Musk's rocket company, recently merged with xAI, is aiming to raise $75 billion in its initial public stock offering. It's the first of a trio of mega-IPOs from AI companies expected this year.",
+      "summary": "Elon Musk's rocket company, recently merged with xAI, raised $75 billion in its initial public stock offering. It's the first of a trio of mega-IPOs from AI companies expected this year.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "FDA approves new sunscreen ingredient",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/11/nx-s1-5853351/fda-approves-new-sunscreen-ingredient",
-      "published": "2026-06-11T08:47:46+00:00",
-      "summary": "The FDA approved a new sunscreen ingredient for the U.S. Bemotrizinol has long been used in Europe and Asia. The chemical compound protects against UVA and UVB rays.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "The Endless: You Can Go Home Again (But Maybe You Shouldn’t)",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/the-endless-you-can-go-home-again-but-maybe-you-shouldnt/",
-      "published": "2026-06-10T15:00:00+00:00",
-      "summary": "A disturbingly cheery cult, cosmic horror, and classic Southern California weirdness. The post The Endless : You Can Go Home Again (But Maybe You Shouldn’t) appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     }
   ],
   "youtube": [
+    {
+      "title": "LL Cool J's DNA Uncovered a Hidden Family Truth",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=HzEV3JwUFuA",
+      "published": "2026-06-11T18:30:01+00:00",
+      "summary": "_Finding Your Roots_ lead genetic genealogist CeCe Moore joins WIRED to answer the internet’s burning questions about genealogy. Can a person’s innocence or guilt be proven through Ancestry.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
     {
       "title": "The Best Thumbnails? Truth-bait.",
       "source": "WIRED",
@@ -172,37 +183,59 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Don't Clickbait Your Videos, Folks",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=V3CylFxdp6E",
-      "published": "2026-06-08T22:30:02+00:00",
-      "summary": "YouTuber Tom Scott joins WIRED to answer the internet’s burning content creator and YouTube strategy questions.",
+      "title": "Gregg Berhalter played for the U.S. Men's National Team decades ago. Now, his son is set to play",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=J52E0QglTnk",
+      "published": "2026-06-12T00:00:14+00:00",
+      "summary": "Gregg Berhalter coached the U.S. Men's National Team in 2022 in Qatar. He also played for the team in 2002 and 2006 as a defender. Now, his son, 25-year-old Sebastian Berhalter, is set play for team U.S.A. this summer.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "94-year-old Moira Brown has traveled the world following Scotland’s national team for the World Cup",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=beAQ9SPymKk",
+      "published": "2026-06-11T22:15:12+00:00",
+      "summary": "Moira Brown, who will be 94 this year, has traveled the world following Scotland’s national team. World Cup tickets are the one thing she spends money on. This is her fourth in person.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
     },
     {
-      "title": "The Importance of a Great YouTube Intro",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=2yaN8BZXxsk",
-      "published": "2026-06-08T19:30:03+00:00",
-      "summary": "YouTuber Tom Scott joins WIRED to answer the internet’s burning content creator and YouTube strategy questions.",
+      "title": "Bill Gates says he wasn't aware of Epstein's crimes",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=xgUFp0FbBt0",
+      "published": "2026-06-11T22:00:19+00:00",
+      "summary": "Microsoft cofounder Bill Gates was on Capitol Hill Wednesday to testify about his relationship with Jeffrey Epstein. Gates told lawmakers he never witnessed or knew about any of Epstein's crimes.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Native kids with disabilities were held in wooden boxes. Sweeping reforms are coming",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=nBVRROdJnPw",
+      "published": "2026-06-11T21:30:00+00:00",
+      "summary": "Native kids with disabilities were held in boxes, prompting outrage and reforms. Officials in New York say the Salmon River district put children with disabilities in wooden boxes without telling parents.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Tom Scott's Top Tip For YouTube Growth",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=tew4V_NSdnI",
-      "published": "2026-06-08T16:30:02+00:00",
-      "summary": "YouTuber Tom Scott joins WIRED to answer the internet’s burning content creator and YouTube strategy questions.",
+      "title": "Hegseth blocks promotions / National Guard surge / Downed Apache",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Vh746RDvXnI",
+      "published": "2026-06-11T21:04:07+00:00",
+      "summary": "U.S. Secretary of Defense Pete Hegseth is blocking some promotions at the Pentagon, and a “summer surge” of National Guard troops heads to Washington.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "Investigating the killing of a Black teen at a Seattle protest | Embedded",
@@ -212,8 +245,8 @@
       "published": "2026-06-11T09:00:34+00:00",
       "summary": "In the summer of 2020, sixteen-year-old Antonio Mays Jr. traveled a thousand miles to join the racial justice movement of his generation. He arrived in Seattle during the Capitol Hill Occupied Protest, known as CHOP.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "High gas prices could have political consequences in the midterm elections this fall",
@@ -227,48 +260,26 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Protests break out in Belfast after video circulates of a brutal street attack in Northern Ireland",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=fAqXvrpXn7I",
-      "published": "2026-06-10T18:00:02+00:00",
-      "summary": "Protests erupted in Northern Ireland yesterday after graphic footage of a stabbing attack in the capital, Belfast, was shared widely online. A Sudanese man has been charged with attempted murder following the attack.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Resident Evil Veronica Debut Reaction - Capcom's Unbeaten Run Looks Set To Continue",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=BIg34NqF87s",
+      "published": "2026-06-11T17:00:12+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/1IT7sQ7pqsE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Xbox Series X25 Console - Epic Fan Service - Just Transparent Green Plastic But We Want It",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=YgcBJOouIGk",
+      "published": "2026-06-11T16:00:35+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/033V4rCJpDE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "War worsens economic pain in Sri Lanka",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=GOzAbSxv2v0",
-      "published": "2026-06-10T17:30:11+00:00",
-      "summary": "Sri Lanka is thousands of miles from the Middle East, but the island of some 22 million people is deeply vulnerable to the impacts of the war that Israel and the U.S. launched on Iran on Feb. 28, because it imports two-thirds of its energy.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Social Security checks could be slashed in 2032 if Congress doesn't act",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=scy2vBDQ97A",
-      "published": "2026-06-10T15:45:16+00:00",
-      "summary": "A Social Security trust fund is now expected to run short of cash by 2032 — three months sooner than projected last year.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Protesters in Albania oppose plan for Trump family-linked resort",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=0kANId1CL9o",
-      "published": "2026-06-10T11:00:01+00:00",
-      "summary": "Thousands of Albanians took to the streets last week, protesting a planned luxury resort that's connected to President Trump's daughter, Ivanka, and son-in-law, Jared Kushner.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
     },
     {
       "title": "Will A DIY Custom PC Build Be Cheaper Than Steam Machine?",
@@ -278,8 +289,8 @@
       "published": "2026-06-10T17:00:32+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wjCwIkqPIaQ ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Clockwork Revolution + Xbox Exclusivity - Is This The Right Strategy?",
@@ -289,8 +300,8 @@
       "published": "2026-06-10T16:00:33+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/033V4rCJpDE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Gears of War E-Day Finally Revealed - UE5 Finally Lives Up To Its Promise",
@@ -315,26 +326,48 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "Will Microsoft Drop Series S When Helix Arrives - And What About Series X?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=tIB1bUdPh_A",
-      "published": "2026-06-08T17:00:04+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wjCwIkqPIaQ ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "Highs (and Lows) of Summer Game Fest 2026 | Firelink Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=balcfJrIWpE",
+      "published": "2026-06-12T01:04:59+00:00",
+      "summary": "This week on Firelink, Nick, KC, and Marty chat about their favorite games of Summer Game Fest, refresh their Fantasy Critic draft, and bemoan yet another round of layoffs at Ubisoft and Xbox.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
-      "title": "Can Switch 2 Deliver Call of Duty Modern Warfare 4 At 60FPS?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=wbCqLTsK71Q",
-      "published": "2026-06-08T16:00:28+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wjCwIkqPIaQ ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "Putting the \"Care\" in Characters | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=MWqAxitMQlg",
+      "published": "2026-06-11T16:39:02+00:00",
+      "summary": "Towns. Villains. Characters.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Starting Our Fallout 3 Adventure w/ Jack, Jess, and Marty -- Part 1",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=jLSnl5YEKYw",
+      "published": "2026-06-11T19:11:05+00:00",
+      "summary": "After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "“Play It Three Days Early” Needs to Stop",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=uq1o2JG3JWY",
+      "published": "2026-06-11T15:00:11+00:00",
+      "summary": "Marty digs into the trend of games giving early access to folks who buy the deluxe editions, why it sucks, and why it (sadly) won't be going away any time soon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Exploring Dinosaur Planet in Star Fox Adventures w/ KC and Marty -- Part 2",
@@ -366,8 +399,8 @@
       "published": "2026-06-10T16:00:15+00:00",
       "summary": "This week on Fully Ramblomatic, Yahtzee reviewed 007 First Light. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Nintendo Direct June 2026 Watchalong",
@@ -379,50 +412,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
-    },
-    {
-      "title": "What Backrooms Tells Us About the Future of Hollywood | The Backdrop",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=6jmgdS4tLwY",
-      "published": "2026-06-09T15:00:18+00:00",
-      "summary": "The Backrooms and Obsession have both had incredible box office weekends on modest budgets... is it a sign of where Hollywood is going? Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Saying \"MÖRK BORG Heresy Supreme\" Five Times Fast | Hot Monday Energy",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=0mJnRvCnads",
-      "published": "2026-06-09T01:17:05+00:00",
-      "summary": "This week on Hidden Gems KC, Jess, and Jesse play MÖRK BORG Heresy Supreme -- https://store.steampowered.com/app/3216800/MRK_BORG_Heresy_Supreme/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Catching Yahtzee Up on the Big Summer Game Fest Announcements | Windbreaker Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=xsd06xiNI3s",
-      "published": "2026-06-08T19:03:51+00:00",
-      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Second Wind Channel Update - 100M Views, Patreon, and More!",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=tvng1HCO_oI",
-      "published": "2026-06-08T19:00:04+00:00",
-      "summary": "We've surpassed the 100M views milestone in less than three years, and it's that time of year again where we encourage more of you to join our Patreon! Support us on Patreon: https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     }
   ],
   "trailers": [
@@ -433,28 +422,6 @@
       "url": "https://www.youtube.com/watch?v=gM4LkaXwGuY",
       "published": "2026-06-10T12:58:35+00:00",
       "summary": "Every revolution begins with a reckoning. The Social Reckoning, a companion piece to The Social Network, is coming exclusively to theatres October 9.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "RESIDENT EVIL – Zach Cregger on Survival Horror",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=N_KDtokTO1c",
-      "published": "2026-05-21T16:18:37+00:00",
-      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "RESIDENT EVIL - Zach Cregger on Survival Horror",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=5gR1GTJPGqQ",
-      "published": "2026-05-21T16:00:09+00:00",
-      "summary": "Zach Cregger talks survival horror and his vision for Resident Evil. From the mind behind Weapons and Barbarian, Resident Evil is in theatres 9.18. Filmed for IMAX. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 9,
       "verdict": "Looks promising"
@@ -581,6 +548,39 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Avatar: The Last Airbender | Audio Described Season 1 Recap | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=pvpgyLHL3l8",
+      "published": "2026-06-11T18:00:03+00:00",
+      "summary": "Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then, everything changed when the Fire Nation attacked. Avatar: The Last Airbender Season 2 premieres on June 25, 2026 only on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Avatar: The Last Airbender | Season 1 Recap | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=6uyXiN6JH6Q",
+      "published": "2026-06-11T18:00:00+00:00",
+      "summary": "Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then, everything changed when the Fire Nation attacked. Avatar: The Last Airbender Season 2 premieres on June 25, 2026 only on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Little House on the Prairie | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=jSds4Oi83Eg",
+      "published": "2026-06-11T15:00:03+00:00",
+      "summary": "The Ingalls’ journey begins. Little House on the Prairie, based on the beloved books, premieres July 9, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Worst Neighbor Ever | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -686,17 +686,6 @@
       "url": "https://www.youtube.com/watch?v=0mwreY8Z2J0",
       "published": "2026-06-05T16:00:14+00:00",
       "summary": "what can’t she do?? Office Romance is now playing Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Oasis | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=PQ0DS3oyWUE",
-      "published": "2026-06-03T13:00:00+00:00",
-      "summary": "There are summers that change everything. And places designed to escape—even from the truth.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
@@ -835,7 +824,7 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 26,
+    "youtubeCount": 25,
     "trailerCount": 27,
     "sourceCount": 20
   }
