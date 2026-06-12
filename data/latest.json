@@ -1,28 +1,48 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-12T05:00:02.311686Z",
-  "generatedAtDisplay": "2026-06-12 01:00 AM EDT",
+  "generatedAt": "2026-06-12T09:00:45.636240Z",
+  "generatedAtDisplay": "2026-06-12 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are Superintendents Defend Transgender Student, Parental Rights Policies on Capitol Hill, Roborock’s Q10 S5 Plus robovac is over half off, matching its best price to date, and Here are the price-matching policies for Best Buy, GameStop, and others.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Siri won’t be your AI girlfriend, Ariana Grande rebukes White House for using her music in ‘barbaric, inhumane’ ICE video, and ‘Spy turtles’ and ‘spy fish’ being used to monitor Chinese waters, Beijing claims.",
   "mainItems": [
     {
-      "title": "Superintendents Defend Transgender Student, Parental Rights Policies on Capitol Hill",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/superintendents-defend-transgender-student-parental-rights-policies-on-capitol-hill/",
-      "published": "2026-06-11T18:30:00+00:00",
-      "summary": "Three progressive superintendents defended their policies for parental involvement and transgender inclusion during a congressional hearing Wednesday in which Republican lawmakers called them “pathetic” and said they should find other jobs.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "title": "Siri won’t be your AI girlfriend",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "published": "2026-06-12T08:50:19+00:00",
+      "summary": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Roborock’s Q10 S5 Plus robovac is over half off, matching its best price to date",
-      "source": "The Verge",
+      "title": "Ariana Grande rebukes White House for using her music in ‘barbaric, inhumane’ ICE video",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/948529/roborock-q10-s5-plus-robot-vacuum-mop-deal-sale",
-      "published": "2026-06-11T17:42:29+00:00",
-      "summary": "Even at full price, the Roborock Q10 S5 Plus offers impressive value, boasting features typically reserved for pricier robovac models at a fraction of the price. That’s especially true today. It’s down to just $269.",
+      "url": "https://www.theguardian.com/music/2026/jun/12/ariana-grande-rebukes-white-house-music-ice-video",
+      "published": "2026-06-12T08:41:26+00:00",
+      "summary": "Grande is the latest in a series of pop musicians including Sabrina Carpenter and SZA who have been angered by Trump administration videos Ariana Grande has rebuked Donald Trump’s White House over use of her music in a video documenting…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Spy turtles’ and ‘spy fish’ being used to monitor Chinese waters, Beijing claims",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/jun/12/china-spy-turtles-spy-fish-monitor-waters-claims",
+      "published": "2026-06-12T07:27:00+00:00",
+      "summary": "Ministry says animals fitted with sensors by foreign agencies collect sensitive sea data, in ‘invisible secret war’ China’s ministry of state security has claimed that foreign espionage and intelligence agencies are using innovative new…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Diane Keaton’s nail clippers for $960: what’s behind the new boom in celebrity estate auctions?",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/film/2026/jun/12/diane-keaton-dead-celebrity-auctions",
+      "published": "2026-06-12T06:00:37+00:00",
+      "summary": "With beloved stars’ personal items increasingly up for grabs after they die, a new generation of fans are bidding on everything from bowler hats to dog bowls From Diane Keaton’s bowler hats and polka dot scarfs, to Gene Hackman’s used…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -37,23 +57,23 @@
       "score": 10
     },
     {
-      "title": "Amazon’s Echo Hub gets a customizable new look and Ring’s AI features",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
-      "published": "2026-06-11T22:12:08+00:00",
-      "summary": "Amazon's rolling out a free software update for Echo Hub devices that gives the home screen a much-needed update to the interface it launched with in 2024.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "SpaceX to list on US stock market today after raising $75bn in largest IPO ever – business live",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates",
+      "published": "2026-06-12T08:36:00+00:00",
+      "summary": "Rolling coverage of SpaceX’s record-breaking initial public offering, after Elon Musk’s company is valued at $1.77tn in share offering SpaceX’s shares will be supported by a number of “forced buyers”, such as tracker funds.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Military strikes on water facilities in Iran may constitute a war crime, experts say",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/jun/11/strikes-water-facilities-iran-war-crime-experts",
-      "published": "2026-06-11T20:30:15+00:00",
-      "summary": "Strikes on Bemani damaged key water reservoir for 20,000 people living in area amid a historic drought in the country Military strikes that damaged two water storage facilities in southern Iran may constitute a war crime, military and…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Superintendents Defend Transgender Student, Parental Rights Policies on Capitol Hill",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/superintendents-defend-transgender-student-parental-rights-policies-on-capitol-hill/",
+      "published": "2026-06-11T18:30:00+00:00",
+      "summary": "Three progressive superintendents defended their policies for parental involvement and transgender inclusion during a congressional hearing Wednesday in which Republican lawmakers called them “pathetic” and said they should find other jobs.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 9
     },
     {
@@ -75,16 +95,6 @@
       "summary": "LLMs including ChatGPT, Gemini and Claude are obsessed with telling stories about lighthouse keepers and clockmakers, and one character named 'Elias Thorne' has made his way from chatbots to Amazon books.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9
-    },
-    {
-      "title": "Blink’s six-piece outdoor camera kit is a great deal under $200",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale",
-      "published": "2026-06-11T18:04:43+00:00",
-      "summary": "You can save on a big set of outdoor security cameras ahead of Prime Day. Amazon has a five-pack of Blink cameras with a video doorbell included that’s marked down to $166.99.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
     },
     {
       "title": "Socioeconomic factors are becoming 'biologically embedded' in children's brains",
@@ -125,16 +135,6 @@
       "summary": "Microschool leaders are predominantly white educators and parents who left traditional public or private schools to build different educational options for kids.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 8
-    },
-    {
-      "title": "SpaceX blasts off with a record-breaking $75 billion IPO",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk",
-      "published": "2026-06-11T09:00:00+00:00",
-      "summary": "Elon Musk's rocket company, recently merged with xAI, raised $75 billion in its initial public stock offering. It's the first of a trio of mega-IPOs from AI companies expected this year.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
     }
   ],
   "youtube": [
@@ -146,8 +146,8 @@
       "published": "2026-06-11T18:30:01+00:00",
       "summary": "_Finding Your Roots_ lead genetic genealogist CeCe Moore joins WIRED to answer the internet’s burning questions about genealogy. Can a person’s innocence or guilt be proven through Ancestry.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "The Best Thumbnails? Truth-bait.",
@@ -333,8 +333,8 @@
       "published": "2026-06-12T01:04:59+00:00",
       "summary": "This week on Firelink, Nick, KC, and Marty chat about their favorite games of Summer Game Fest, refresh their Fantasy Critic draft, and bemoan yet another round of layoffs at Ubisoft and Xbox.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Putting the \"Care\" in Characters | RPG Help Desk",
@@ -355,8 +355,8 @@
       "published": "2026-06-11T19:11:05+00:00",
       "summary": "After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "“Play It Three Days Early” Needs to Stop",
@@ -826,6 +826,6 @@
     "mainCount": 13,
     "youtubeCount": 25,
     "trailerCount": 27,
-    "sourceCount": 20
+    "sourceCount": 19
   }
 }

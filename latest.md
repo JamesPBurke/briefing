@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-12T05:00:02.311686Z
+Generated: 2026-06-12T09:00:45.636240Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are Superintendents Defend Transgender Student, Parental Rights Policies on Capitol Hill, Roborock’s Q10 S5 Plus robovac is over half off, matching its best price to date, and Here are the price-matching policies for Best Buy, GameStop, and others.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Siri won’t be your AI girlfriend, Ariana Grande rebukes White House for using her music in ‘barbaric, inhumane’ ICE video, and ‘Spy turtles’ and ‘spy fish’ being used to monitor Chinese waters, Beijing claims.
 
 ## Briefing
 
@@ -33,25 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Superintendents Defend Transgender Student, Parental Rights Policies on Capitol Hill [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Three progressive superintendents defended their policies for parental involvement and transgender inclusion during a congressional hearing Wednesday in which Republican lawmakers called them “pathetic” and said they should find other jobs.
-
-Link: https://www.the74million.org/article/superintendents-defend-transgender-student-parental-rights-policies-on-capitol-hill/
-
-### 2. Roborock’s Q10 S5 Plus robovac is over half off, matching its best price to date [10/10]
+### 1. Siri won’t be your AI girlfriend [10/10]
 **Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design.
+
+Link: https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend
+
+### 2. Ariana Grande rebukes White House for using her music in ‘barbaric, inhumane’ ICE video [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Even at full price, the Roborock Q10 S5 Plus offers impressive value, boasting features typically reserved for pricier robovac models at a fraction of the price. That’s especially true today. It’s down to just $269.
+Grande is the latest in a series of pop musicians including Sabrina Carpenter and SZA who have been angered by Trump administration videos Ariana Grande has rebuked Donald Trump’s White House over use of her music in a video documenting…
 
-Link: https://www.theverge.com/gadgets/948529/roborock-q10-s5-plus-robot-vacuum-mop-deal-sale
+Link: https://www.theguardian.com/music/2026/jun/12/ariana-grande-rebukes-white-house-music-ice-video
 
-### 3. Here are the price-matching policies for Best Buy, GameStop, and others [10/10]
+### 3. ‘Spy turtles’ and ‘spy fish’ being used to monitor Chinese waters, Beijing claims [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Ministry says animals fitted with sensors by foreign agencies collect sensitive sea data, in ‘invisible secret war’ China’s ministry of state security has claimed that foreign espionage and intelligence agencies are using innovative new…
+
+Link: https://www.theguardian.com/world/2026/jun/12/china-spy-turtles-spy-fish-monitor-waters-claims
+
+### 4. Diane Keaton’s nail clippers for $960: what’s behind the new boom in celebrity estate auctions? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+With beloved stars’ personal items increasingly up for grabs after they die, a new generation of fans are bidding on everything from bowler hats to dog bowls From Diane Keaton’s bowler hats and polka dot scarfs, to Gene Hackman’s used…
+
+Link: https://www.theguardian.com/film/2026/jun/12/diane-keaton-dead-celebrity-auctions
+
+### 5. Here are the price-matching policies for Best Buy, GameStop, and others [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -60,25 +78,25 @@ Nothing is more frustrating than buying a new pair of headphones, an OLED TV, or
 
 Link: https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft
 
-### 4. Amazon’s Echo Hub gets a customizable new look and Ring’s AI features [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Amazon's rolling out a free software update for Echo Hub devices that gives the home screen a much-needed update to the interface it launched with in 2024.
-
-Link: https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign
-
-### 5. Military strikes on water facilities in Iran may constitute a war crime, experts say [9/10]
+### 6. SpaceX to list on US stock market today after raising $75bn in largest IPO ever – business live [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Strikes on Bemani damaged key water reservoir for 20,000 people living in area amid a historic drought in the country Military strikes that damaged two water storage facilities in southern Iran may constitute a war crime, military and…
+Rolling coverage of SpaceX’s record-breaking initial public offering, after Elon Musk’s company is valued at $1.77tn in share offering SpaceX’s shares will be supported by a number of “forced buyers”, such as tracker funds.
 
-Link: https://www.theguardian.com/world/2026/jun/11/strikes-water-facilities-iran-war-crime-experts
+Link: https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates
 
-### 6. Tapestry is a painterly grand strategy multiplayer war game where you plot your victory at the start of every match [9/10]
+### 7. Superintendents Defend Transgender Student, Parental Rights Policies on Capitol Hill [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Three progressive superintendents defended their policies for parental involvement and transgender inclusion during a congressional hearing Wednesday in which Republican lawmakers called them “pathetic” and said they should find other jobs.
+
+Link: https://www.the74million.org/article/superintendents-defend-transgender-student-parental-rights-policies-on-capitol-hill/
+
+### 8. Tapestry is a painterly grand strategy multiplayer war game where you plot your victory at the start of every match [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -87,7 +105,7 @@ Grand strategy games are often these slow, methodical things that require you to
 
 Link: https://www.rockpapershotgun.com/tapestry-is-a-painterly-grand-strategy-multiplayer-war-game-where-you-plot-your-victory-at-the-start-of-every-match
 
-### 7. Chatbots Keep Telling Stories About Lighthouse Keeper 'Elias Thorne'. We Might Know Why [9/10]
+### 9. Chatbots Keep Telling Stories About Lighthouse Keeper 'Elias Thorne'. We Might Know Why [9/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -96,16 +114,7 @@ LLMs including ChatGPT, Gemini and Claude are obsessed with telling stories abou
 
 Link: https://www.404media.co/elias-thorne-chatbots-llms-chatgpt-lighthouse-keeper-story/
 
-### 8. Blink’s six-piece outdoor camera kit is a great deal under $200 [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-You can save on a big set of outdoor security cameras ahead of Prime Day. Amazon has a five-pack of Blink cameras with a video doorbell included that’s marked down to $166.99.
-
-Link: https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale
-
-### 9. Socioeconomic factors are becoming 'biologically embedded' in children's brains [8/10]
+### 10. Socioeconomic factors are becoming 'biologically embedded' in children's brains [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -114,7 +123,7 @@ A study of more than 2,300 9- to 10-year-olds found that socioeconomic factors e
 
 Link: https://www.npr.org/2026/06/11/nx-s1-5849937/child-brain-development-stress-sleep-neighborhood-economics
 
-### 10. Poetry From the Plague Pit: The Early Stories of Clive Barker and Joel Lane [8/10]
+### 11. Poetry From the Plague Pit: The Early Stories of Clive Barker and Joel Lane [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -123,7 +132,7 @@ At the height of Thatcherism and the AIDS crisis, two queer British horror write
 
 Link: https://reactormag.com/poetry-from-the-plague-pit-the-early-stories-of-clive-barker-and-joel-lane/
 
-### 11. To make your best summer fruit pies, start here : These pie tools and ingredients will have you baking like a pro. [8/10]
+### 12. To make your best summer fruit pies, start here : These pie tools and ingredients will have you baking like a pro. [8/10]
 **Source:** King Arthur Baking  
 **Category:** Bread / food craft  
 **Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
@@ -132,7 +141,7 @@ The best way to bake with summer fruit is to turn it into a pie.
 
 Link: https://www.kingarthurbaking.com/blog/2026/06/11/best-pie-tools
 
-### 12. Exclusive: 7 Things to Know About Microschools in 2026 [8/10]
+### 13. Exclusive: 7 Things to Know About Microschools in 2026 [8/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -141,20 +150,11 @@ Microschool leaders are predominantly white educators and parents who left tradi
 
 Link: https://www.the74million.org/article/exclusive-7-things-to-know-about-microschools-in-2026/
 
-### 13. SpaceX blasts off with a record-breaking $75 billion IPO [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Elon Musk's rocket company, recently merged with xAI, raised $75 billion in its initial public stock offering. It's the first of a trio of mega-IPOs from AI companies expected this year.
-
-Link: https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
-
 ## YouTube
 
-### LL Cool J's DNA Uncovered a Hidden Family Truth [9/10]
+### LL Cool J's DNA Uncovered a Hidden Family Truth [8/10]
 **Creator:** WIRED  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 _Finding Your Roots_ lead genetic genealogist CeCe Moore joins WIRED to answer the internet’s burning questions about genealogy. Can a person’s innocence or guilt be proven through Ancestry.
@@ -305,9 +305,9 @@ Link: https://www.youtube.com/watch?v=h9CwdNkZBzo
 
 Link: https://www.youtube.com/watch?v=EmdwFv2JZ1U
 
-### Highs (and Lows) of Summer Game Fest 2026 | Firelink Podcast [9/10]
+### Highs (and Lows) of Summer Game Fest 2026 | Firelink Podcast [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Firelink, Nick, KC, and Marty chat about their favorite games of Summer Game Fest, refresh their Fantasy Critic draft, and bemoan yet another round of layoffs at Ubisoft and Xbox.
@@ -323,9 +323,9 @@ Towns. Villains. Characters.
 
 Link: https://www.youtube.com/watch?v=MWqAxitMQlg
 
-### Starting Our Fallout 3 Adventure w/ Jack, Jess, and Marty -- Part 1 [8/10]
+### Starting Our Fallout 3 Adventure w/ Jack, Jess, and Marty -- Part 1 [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
