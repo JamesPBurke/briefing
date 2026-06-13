@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-13T05:00:02.292209Z
+Generated: 2026-06-13T09:00:54.078815Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Anthropic shuts down Fable, Mythos models following Trump admin directive, US justice department approves $111bn merger of Paramount and Warner Bros Discovery, and Court denies emergency appeal to retain Trump’s name on Kennedy Center.
+Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Anthropic shuts down Fable, Mythos models following Trump admin directive, FBI raid of Ohio voting rights group stokes fear of pre-midterm crackdown, and The SpaceX IPO made Musk a trillionaire. The old rules of capitalism no longer apply | Robert Reich.
 
 ## Briefing
 
@@ -42,25 +42,7 @@ Commerce dept. worries that a Fable 5 "jailbreak" could be a national security t
 
 Link: https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/
 
-### 2. US justice department approves $111bn merger of Paramount and Warner Bros Discovery [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Deal still under UK scrutiny with new investigation, and could face lawsuit from state attorneys general Donald Trump ’s Department of Justice has decided to approve the $111bn merger of Paramount Skydance, controlled by the Ellison…
-
-Link: https://www.theguardian.com/us-news/2026/jun/12/paramount-warner-bros-merger
-
-### 3. Court denies emergency appeal to retain Trump’s name on Kennedy Center [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Justice department lawyers had appealed to stay a judge’s order to remove Trump’s name from facade An appeals court in Washington DC rejected an emergency appeal seeking to pause the removal of Donald Trump’s name from the facade of the…
-
-Link: https://www.theguardian.com/us-news/2026/jun/12/judge-denies-pause-trump-name-removal-kennedy-center
-
-### 4. FBI raid of Ohio voting rights group stokes fear of pre-midterm crackdown [10/10]
+### 2. FBI raid of Ohio voting rights group stokes fear of pre-midterm crackdown [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,16 +51,7 @@ Agents seized phones and laptops of Ohio Organizing Collaborative, a group that 
 
 Link: https://www.theguardian.com/us-news/2026/jun/12/fbi-raid-ohio-voting-group-election
 
-### 5. A Surprising Sliver of Hope in New NAEP Scores for the Lowest-Performing Kids [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-After years of bad news on student test scores, there’s finally a sliver of hope. The latest results from NAEP, the Nation’s Report Card, found gains in both reading and math for 9-year-olds.
-
-Link: https://www.the74million.org/article/a-surprising-sliver-of-hope-in-new-naep-scores-for-the-lowest-performing-kids/
-
-### 6. The SpaceX IPO made Musk a trillionaire. The old rules of capitalism no longer apply | Robert Reich [10/10]
+### 3. The SpaceX IPO made Musk a trillionaire. The old rules of capitalism no longer apply | Robert Reich [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -87,14 +60,41 @@ The economic principles taught in school aren’t as relevant as hype, connectio
 
 Link: https://www.theguardian.com/commentisfree/2026/jun/12/spacex-ipo-elon-musk-trillionaire
 
-### 7. Resident Evil Veronica team is adjusting the original's story so its remake fits better into the series as a whole [9/10]
+### 4. Trump asking Congress for symbolic expunging of his two impeachments [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+President is first in US history to be impeached twice, over abuse of power and inciting an insurrection Donald Trump is pressing Congress to erase one of the darkest chapters of his political career, urging Republicans to pass a…
+
+Link: https://www.theguardian.com/us-news/2026/jun/12/trump-congress-expunge-impeachments
+
+### 5. Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines [10/10]
+**Source:** Ars Technica  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Did chatbot abandon mental health guardrails when a vulnerable user pushed back?
+
+Link: https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/
+
+### 6. What we've been playing - "What might well be the best video game tutorial ever" [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-It's hard to believe there was a time when Resident Evil felt like it was on its last legs .
+Hello and welcome back to our regular feature where we write a little about the games we've been playing.
 
-Link: https://www.eurogamer.net/resident-evil-veronica-story-changes
+Link: https://www.eurogamer.net/what-weve-been-playing-best-tutorial-ever
+
+### 7. A Surprising Sliver of Hope in New NAEP Scores for the Lowest-Performing Kids [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+After years of bad news on student test scores, there’s finally a sliver of hope. The latest results from NAEP, the Nation’s Report Card, found gains in both reading and math for 9-year-olds.
+
+Link: https://www.the74million.org/article/a-surprising-sliver-of-hope-in-new-naep-scores-for-the-lowest-performing-kids/
 
 ### 8. Texas’ Charter School Boom May Soon Bust, Experts Caution [9/10]
 **Source:** The 74  
@@ -105,25 +105,16 @@ Texas charter schools recently saw their smallest enrollment bump in state histo
 
 Link: https://www.the74million.org/article/texas-charter-school-boom-may-soon-bust-experts-caution/
 
-### 9. Spencer Pratt concedes LA mayor race, but declares ‘war’ against advancing candidates [8/10]
+### 9. ‘Have you ever been around someone you just know is evil?’ Melinda French Gates on meeting Jeffrey Epstein, giving away billions, and her post-divorce peace [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-In video, The Hills actor, who did not contest the outcome of the election, said his campaign to ‘save’ LA was just starting Spencer Pratt appeared to concede the Los Angeles mayor’s race on Friday in a new video where he says “the…
+The philanthropist always saw Epstein for who he really was – despite his meetings with her then husband Bill Gates.
 
-Link: https://www.theguardian.com/us-news/2026/jun/12/spencer-pratt-concedes-la-mayor-race
+Link: https://www.theguardian.com/society/2026/jun/13/melinda-french-gates-interview-jeffrey-epstein-fighting-for-womens-health
 
-### 10. Disclosure Day Should Have Remained Undisclosed [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Please get us away from this era where we explain away all the wonder of the universe and treat the entire population of the world as a reaction meme. The post Disclosure Day Should Have Remained Undisclosed appeared first on Reactor .
-
-Link: https://reactormag.com/movie-review-disclosure-day-should-have-remained-undisclosed/
-
-### 11. SpaceX IPO makes history as largest ever. Stock gains 19% on first day [8/10]
+### 10. SpaceX IPO makes history as largest ever. Stock gains 19% on first day [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -132,7 +123,7 @@ The initial public offering from the rocket and AI company raised some $75 billi
 
 Link: https://www.npr.org/2026/06/12/nx-s1-5855004/stock-ai-spacex-ipo-elon-musk
 
-### 12. What would it take to stop women from bleeding to death after childbirth? [7/10]
+### 11. What would it take to stop women from bleeding to death after childbirth? [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -140,6 +131,15 @@ Link: https://www.npr.org/2026/06/12/nx-s1-5855004/stock-ai-spacex-ipo-elon-musk
 A newly published series of reports calls attention to a dire situation facing millions of women after childbirth — and the solutions that can prevent death from postpartum hemorrhage.
 
 Link: https://www.npr.org/2026/06/12/g-s1-127758/childbirth-postpartum-hemorrhage-bleeding
+
+### 12. Disclosure Day Should Have Remained Undisclosed [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Please get us away from this era where we explain away all the wonder of the universe and treat the entire population of the world as a reaction meme. The post Disclosure Day Should Have Remained Undisclosed appeared first on Reactor .
+
+Link: https://reactormag.com/movie-review-disclosure-day-should-have-remained-undisclosed/
 
 ### 13. ‘You Will Not Speak on Flock Tonight’: County Commissioner Refuses to Let Residents Opposing Flock Speak at Meeting [7/10]
 **Source:** 404 Media  
@@ -197,9 +197,9 @@ Israel warned the entire city to leave apart from a small section around the Chr
 
 Link: https://www.youtube.com/watch?v=BeLNMMe67pw
 
-### Here's what the US Men's National Team will need to do to win against Paraguay [8/10]
+### Here's what the US Men's National Team will need to do to win against Paraguay [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 The U.S. Men's National Team takes the field Friday night against Paraguay. Former head coach Gregg Berhalter says the first few minutes of the match will say a lot about mentality of this U.S. team.
