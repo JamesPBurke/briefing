@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-13T09:00:54.078815Z
+Generated: 2026-06-13T14:00:01.499135Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Anthropic shuts down Fable, Mythos models following Trump admin directive, FBI raid of Ohio voting rights group stokes fear of pre-midterm crackdown, and The SpaceX IPO made Musk a trillionaire. The old rules of capitalism no longer apply | Robert Reich.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are ‘We’re doing it all for them’: Radio Jornalera NJ exposes conditions faced by immigrants in detention, Anthropic to disable its most advanced AI models after US order limiting foreign access, and ‘Open season’ on ABC as FCC moves up public comment process for renewals.
 
 ## Briefing
 
@@ -33,7 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Anthropic shuts down Fable, Mythos models following Trump admin directive [10/10]
+### 1. ‘We’re doing it all for them’: Radio Jornalera NJ exposes conditions faced by immigrants in detention [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Grassroots outlet reports from New Jersey’s Delaney Hall – and helps family members connect with loved ones inside Sign up for the Breaking News US newsletter email One voice has rung out for local communities through the horror stories ,…
+
+Link: https://www.theguardian.com/us-news/2026/jun/13/radio-jornalera-new-jersey-immigration-detention-center
+
+### 2. Anthropic to disable its most advanced AI models after US order limiting foreign access [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Company said US government believes safeguards can be bypassed and product used to identify software vulnerabilities Anthropic said it will “abruptly disable” its most advanced AI models for all users after the US government ordered it to…
+
+Link: https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order
+
+### 3. ‘Open season’ on ABC as FCC moves up public comment process for renewals [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Order represents one of the most significant actions the Trump administration has taken against a media company Over the next few weeks, anyone in the US can plead their case that Disney’s ABC should not be permitted to renew its broadcast…
+
+Link: https://www.theguardian.com/media/2026/jun/13/abc-fcc-license-trump-kimmel
+
+### 4. ICE, borders and DHS: what’s in Trump’s $70bn immigration crackdown bill? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Bill signed into law by the president bankrolls his mass deportation campaign through the end of his second term Donald Trump signed a new law this week that gives the Department of Homeland Security (DHS) roughly $70bn in additional…
+
+Link: https://www.theguardian.com/us-news/2026/jun/13/ice-border-patrol-funding-bill
+
+### 5. "There's nothing worse than an AI-generated pitch": Bloober, Jagex, 11 bit and indie devs on the bruising hurdle of funding a videogame prototype [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Among the worries faced by game developers seeking a publisher is the gamble of a prototype – that is, "a playable build that meaningfully shows what’s good about your game – a proof of concept", in the summary of Suspicious Developments…
+
+Link: https://www.rockpapershotgun.com/theres-nothing-worse-than-an-ai-generated-pitch-bloober-jagex-11-bit-and-indie-devs-on-the-bruising-hurdle-of-funding-a-videogame-prototype
+
+### 6. Anthropic shuts down Fable, Mythos models following Trump admin directive [10/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -42,34 +87,7 @@ Commerce dept. worries that a Fable 5 "jailbreak" could be a national security t
 
 Link: https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/
 
-### 2. FBI raid of Ohio voting rights group stokes fear of pre-midterm crackdown [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Agents seized phones and laptops of Ohio Organizing Collaborative, a group that does voter registration work The FBI raided the office of a voting rights group in Ohio on Thursday, prompting immediate concerns the Trump administration is…
-
-Link: https://www.theguardian.com/us-news/2026/jun/12/fbi-raid-ohio-voting-group-election
-
-### 3. The SpaceX IPO made Musk a trillionaire. The old rules of capitalism no longer apply | Robert Reich [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The economic principles taught in school aren’t as relevant as hype, connections and total, arbitrary control Share your views on SpaceX’s stock market debut Elon Musk is now the world’s first trillionaire, after his SpaceX exploration and…
-
-Link: https://www.theguardian.com/commentisfree/2026/jun/12/spacex-ipo-elon-musk-trillionaire
-
-### 4. Trump asking Congress for symbolic expunging of his two impeachments [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-President is first in US history to be impeached twice, over abuse of power and inciting an insurrection Donald Trump is pressing Congress to erase one of the darkest chapters of his political career, urging Republicans to pass a…
-
-Link: https://www.theguardian.com/us-news/2026/jun/12/trump-congress-expunge-impeachments
-
-### 5. Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines [10/10]
+### 7. Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines [10/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -78,16 +96,7 @@ Did chatbot abandon mental health guardrails when a vulnerable user pushed back?
 
 Link: https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/
 
-### 6. What we've been playing - "What might well be the best video game tutorial ever" [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Hello and welcome back to our regular feature where we write a little about the games we've been playing.
-
-Link: https://www.eurogamer.net/what-weve-been-playing-best-tutorial-ever
-
-### 7. A Surprising Sliver of Hope in New NAEP Scores for the Lowest-Performing Kids [9/10]
+### 8. A Surprising Sliver of Hope in New NAEP Scores for the Lowest-Performing Kids [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -96,25 +105,25 @@ After years of bad news on student test scores, there’s finally a sliver of ho
 
 Link: https://www.the74million.org/article/a-surprising-sliver-of-hope-in-new-naep-scores-for-the-lowest-performing-kids/
 
-### 8. Texas’ Charter School Boom May Soon Bust, Experts Caution [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 9. Resident Evil Veronica team is adjusting the original's story so its remake fits better into the series as a whole [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Texas charter schools recently saw their smallest enrollment bump in state history, signaling that similar forces crushing traditional public districts may soon hit them as well.
+It's hard to believe there was a time when Resident Evil felt like it was on its last legs .
 
-Link: https://www.the74million.org/article/texas-charter-school-boom-may-soon-bust-experts-caution/
+Link: https://www.eurogamer.net/resident-evil-veronica-story-changes
 
-### 9. ‘Have you ever been around someone you just know is evil?’ Melinda French Gates on meeting Jeffrey Epstein, giving away billions, and her post-divorce peace [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 10. A plan to get lifesaving food to hungry kids was working well -- until it wasn't [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-The philanthropist always saw Epstein for who he really was – despite his meetings with her then husband Bill Gates.
+Through an innovative program, parents in Senegal had easy access to a therapeutic food that's a boon for malnourished kids. Now there are shortages. Health specialists say U.S. aid cuts are to blame.
 
-Link: https://www.theguardian.com/society/2026/jun/13/melinda-french-gates-interview-jeffrey-epstein-fighting-for-womens-health
+Link: https://www.npr.org/2026/06/13/nx-s1-5787791/malnourished-children-senegal-therapeutic-food-plumpynut
 
-### 10. SpaceX IPO makes history as largest ever. Stock gains 19% on first day [8/10]
+### 11. SpaceX IPO makes history as largest ever. Stock gains 19% on first day [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -122,15 +131,6 @@ Link: https://www.theguardian.com/society/2026/jun/13/melinda-french-gates-inter
 The initial public offering from the rocket and AI company raised some $75 billion, making the company one of the biggest in the world — and likely making Elon Musk a trillionaire.
 
 Link: https://www.npr.org/2026/06/12/nx-s1-5855004/stock-ai-spacex-ipo-elon-musk
-
-### 11. What would it take to stop women from bleeding to death after childbirth? [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-A newly published series of reports calls attention to a dire situation facing millions of women after childbirth — and the solutions that can prevent death from postpartum hemorrhage.
-
-Link: https://www.npr.org/2026/06/12/g-s1-127758/childbirth-postpartum-hemorrhage-bleeding
 
 ### 12. Disclosure Day Should Have Remained Undisclosed [7/10]
 **Source:** Reactor  
@@ -151,6 +151,15 @@ Link: https://reactormag.com/movie-review-disclosure-day-should-have-remained-un
 Link: https://www.404media.co/you-will-not-speak-on-flock-tonight-county-commissioner-refuses-to-let-residents-opposing-flock-speak-at-meeting/
 
 ## YouTube
+
+### TCP a : Ensuring Your Data Gets There & in the Right Order! - Computerphile [7/10]
+**Creator:** Computerphile  
+**Verdict:** Probably worth watching  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Continuing the deep dive down the network stack, Richard begins the story of TCP. Richard G Clegg is based at Queen Mary University London. Next in the playlist: https://youtu.be/nKVML4YaBqs RFC793 https://datatracker.ietf.
+
+Link: https://www.youtube.com/watch?v=IADOV8UZO34
 
 ### LL Cool J's DNA Uncovered a Hidden Family Truth [8/10]
 **Creator:** WIRED  
@@ -188,9 +197,18 @@ YouTuber Tom Scott joins WIRED to answer the internet’s burning content creato
 
 Link: https://www.youtube.com/watch?v=yLHQoTMHDIE
 
-### Israel is bombing the ancient city of Tyre in southern Lebanon in its fight with Hezbollah [7/10]
+### Amid wars in Iran and Europe, Trump remakes D.C. [8/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+There’s a lack of clarity around any potential peace deal with Iran. President Trump has claimed that a deal is close dozens of times, ever since the war began on Feb. 28. He's also called the negotiations “boring.
+
+Link: https://www.youtube.com/watch?v=mk99sPfO_Vo
+
+### Israel is bombing the ancient city of Tyre in southern Lebanon in its fight with Hezbollah [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 Israel warned the entire city to leave apart from a small section around the Christian district. NPR was at mass there Sunday, June 7. On Monday, the Israeli military warned residents there that they needed to leave as well.
@@ -223,24 +241,6 @@ Link: https://www.youtube.com/watch?v=bKfmRy6sIq4
 A popular (and generous) repayment plan ends, two new plans begin and many borrowers will see new loan limits.
 
 Link: https://www.youtube.com/watch?v=dS4oZK80fgE
-
-### Gregg Berhalter played for the U.S. Men's National Team decades ago. Now, his son is set to play [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Gregg Berhalter coached the U.S. Men's National Team in 2022 in Qatar. He also played for the team in 2002 and 2006 as a defender. Now, his son, 25-year-old Sebastian Berhalter, is set play for team U.S.A. this summer.
-
-Link: https://www.youtube.com/watch?v=J52E0QglTnk
-
-### 94-year-old Moira Brown has traveled the world following Scotland’s national team for the World Cup [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-Moira Brown, who will be 94 this year, has traveled the world following Scotland’s national team. World Cup tickets are the one thing she spends money on. This is her fourth in person.
-
-Link: https://www.youtube.com/watch?v=beAQ9SPymKk
 
 ### Switch 2 - Year One - The Best And The Worst Ports [7/10]
 **Creator:** Digital Foundry  
@@ -612,6 +612,15 @@ Link: https://www.youtube.com/watch?v=uQ8d_96AurQ
 what can’t she do?? Office Romance is now playing Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=0mwreY8Z2J0
+
+### Pluribus — Carol, Helen, and Zosia | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Helen's memory is Carol's greatest strength, and the hive's greatest weapon. “Breaking Bad” creator Vince Gilligan’s science fiction drama starring Emmy Award nominee Rhea Seehorn is now streaming on Apple TV. https://apple.
+
+Link: https://www.youtube.com/watch?v=mpfw2ZS8rW8
 
 ### Camp Snoopy — Season 2 Official Trailer | Apple TV [8/10]
 **Source:** Apple TV  
