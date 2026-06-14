@@ -1,11 +1,21 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-14T05:00:02.091473Z",
-  "generatedAtDisplay": "2026-06-14 01:00 AM EDT",
+  "generatedAt": "2026-06-14T09:01:28.371729Z",
+  "generatedAtDisplay": "2026-06-14 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Games / criticism, AI / computing, Democracy / anti-fascism. The strongest items in this run are Amazon security research reportedly led to the White House’s Anthropic Fable ban, Penguin Colony's demo shows life as a flightless bird is lonely, scary, awkward, and cosmically intriguing, and Microsoft reportedly considering restructuring Xbox into its own \"wholly-owned subsidiary\" and \"moving faster\" on releasing first-party games.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are British armed forces intercept Russian shadow fleet oil tanker in Channel, Amazon security research reportedly led to the White House’s Anthropic Fable ban, and Anthropic to disable its most advanced AI models after US order limiting foreign access.",
   "mainItems": [
+    {
+      "title": "British armed forces intercept Russian shadow fleet oil tanker in Channel",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/14/british-forces-intercept-russian-shadow-fleet-vessel-english-channel",
+      "published": "2026-06-14T08:31:26+00:00",
+      "summary": "Keir Starmer says operation involving UK armed forces has delivered ‘yet another blow’ to Russia and Putin British armed forces intercepted and boarded a Russian shadow fleet oil tanker in the Channel in the early hours of Sunday, Keir…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
       "source": "The Verge",
@@ -14,26 +24,6 @@
       "published": "2026-06-13T21:39:26+00:00",
       "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and…",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Penguin Colony's demo shows life as a flightless bird is lonely, scary, awkward, and cosmically intriguing",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/penguin-colonys-demo-shows-life-as-a-flightless-bird-is-lonely-scary-awkward-and-cosmically-intriguing",
-      "published": "2026-06-13T20:38:54+00:00",
-      "summary": "I'm going to go out on a limb and say that when you think of penguins and video games, Club Penguin is probably the one that comes to mind for you (or the Surf's Up adaptation if you're nasty).",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Microsoft reportedly considering restructuring Xbox into its own \"wholly-owned subsidiary\" and \"moving faster\" on releasing first-party games",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/microsoft-restructuring-xbox",
-      "published": "2026-06-13T20:30:47+00:00",
-      "summary": "A new report claims Microsoft is considering \"spinning out\" Xbox into its own company. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -47,6 +37,16 @@
       "score": 10
     },
     {
+      "title": "The Sunday Papers",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-814",
+      "published": "2026-06-14T09:00:00+00:00",
+      "summary": "Sundays are for testing the limits of the hunger for street furniture in your community. Since moving into the new flat, we've been taking things left behind by the previous owner down to the street one-by-one.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
       "title": "Vanillaware seemingly want their other games on PC too, but if you want that to happen, talk to their publishers",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
@@ -57,32 +57,22 @@
       "score": 9
     },
     {
-      "title": "Little Nightmares 3 – The Backstage wants you to meet The Puppeteer",
-      "source": "Eurogamer",
+      "title": "Penguin Colony's demo shows life as a flightless bird is lonely, scary, awkward, and cosmically intriguing",
+      "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/little-nightmares-3-backstage-dlc",
-      "published": "2026-06-13T17:45:51+00:00",
-      "summary": "Little Nightmares 3 – The Backstage – the DLC expansion announced during last week's Summer Game Fest festivities – is now available. Read more",
+      "url": "https://www.rockpapershotgun.com/penguin-colonys-demo-shows-life-as-a-flightless-bird-is-lonely-scary-awkward-and-cosmically-intriguing",
+      "published": "2026-06-13T20:38:54+00:00",
+      "summary": "I'm going to go out on a limb and say that when you think of penguins and video games, Club Penguin is probably the one that comes to mind for you (or the Surf's Up adaptation if you're nasty).",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "Review: Disclosure Day is big on action, light on ideas",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
-      "published": "2026-06-13T17:17:44+00:00",
-      "summary": "There's nothing new or surprising, but it's still an entertaining film from one of our greatest directors.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Whether you believe it or not, Final Fantasy 7 Revelation director Naoki Hamaguchi says the end's been planned from the start",
-      "source": "Rock Paper Shotgun",
+      "title": "Microsoft reportedly considering restructuring Xbox into its own \"wholly-owned subsidiary\" and \"moving faster\" on releasing first-party games",
+      "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/whether-you-believe-it-or-not-final-fantasy-7-revelation-director-naoki-hamaguchi-says-the-ends-been-planned-from-the-start",
-      "published": "2026-06-13T17:07:41+00:00",
-      "summary": "Generally when a game gets remade, you'll assume that it'll mostly be the same at least narratively, given how not normal can be with works that are considered uncomfortably sacred.",
+      "url": "https://www.eurogamer.net/microsoft-restructuring-xbox",
+      "published": "2026-06-13T20:30:47+00:00",
+      "summary": "A new report claims Microsoft is considering \"spinning out\" Xbox into its own company. Read more",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
@@ -103,6 +93,16 @@
       "url": "https://www.theguardian.com/commentisfree/2026/jun/13/momfluencers-ai-co-parenting",
       "published": "2026-06-13T12:00:13+00:00",
       "summary": "Women in heterosexual marriages continue to do most of the caregiving.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "\"There's nothing worse than an AI-generated pitch\": Bloober, Jagex, 11 bit and indie devs on the bruising hurdle of funding a videogame prototype",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/theres-nothing-worse-than-an-ai-generated-pitch-bloober-jagex-11-bit-and-indie-devs-on-the-bruising-hurdle-of-funding-a-videogame-prototype",
+      "published": "2026-06-13T11:00:00+00:00",
+      "summary": "Among the worries faced by game developers seeking a publisher is the gamble of a prototype – that is, \"a playable build that meaningfully shows what’s good about your game – a proof of concept\", in the summary of Suspicious Developments…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
@@ -168,8 +168,8 @@
       "published": "2026-06-13T18:00:10+00:00",
       "summary": "The Food and Drug Administration has approved a new sunscreen ingredient for the first time in decades. In the United States, sunscreen is regulated as an over the counter drug — not as a cosmetic — which can make new approvals tricky.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Amid wars in Iran and Europe, Trump remakes D.C.",
@@ -749,6 +749,6 @@
     "mainCount": 13,
     "youtubeCount": 19,
     "trailerCount": 26,
-    "sourceCount": 20
+    "sourceCount": 19
   }
 }
