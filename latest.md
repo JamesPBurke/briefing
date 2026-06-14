@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-14T09:01:28.371729Z
+Generated: 2026-06-14T14:00:02.587983Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are British armed forces intercept Russian shadow fleet oil tanker in Channel, Amazon security research reportedly led to the White House’s Anthropic Fable ban, and Anthropic to disable its most advanced AI models after US order limiting foreign access.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Welcome to California: land of plunder and hypocrisy | Mark Arax, Antidepressants and antipsychotics could serve as alternatives to opioids, study finds, and Jamaica’s beach access crisis: ‘We shouldn’t be forced to fight for what is already ours’.
 
 ## Briefing
 
@@ -33,16 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. British armed forces intercept Russian shadow fleet oil tanker in Channel [10/10]
+### 1. Welcome to California: land of plunder and hypocrisy | Mark Arax [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Keir Starmer says operation involving UK armed forces has delivered ‘yet another blow’ to Russia and Putin British armed forces intercepted and boarded a Russian shadow fleet oil tanker in the Channel in the early hours of Sunday, Keir…
+From gold to water, California’s wealth was built on extraction. The AI boom is reviving an old question: who pays the price? I was a fourth-grader in the public schools of California when I first learned about the Gold Rush.
+
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/jun/14/california-land-of-plunder-and-hypocrisy
+
+### 2. Antidepressants and antipsychotics could serve as alternatives to opioids, study finds [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Medications that target depression, anxiety and poor sleep could help treat pain without opioids’ addictive properties A range of other medications could serve as alternatives to powerful opioids for pain relief in emergency departments,…
+
+Link: https://www.theguardian.com/society/2026/jun/14/other-medications-opioids-alternatives-study
+
+### 3. Jamaica’s beach access crisis: ‘We shouldn’t be forced to fight for what is already ours’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Activists argue business model is ‘plantation tourism’ designed to benefit elite and disadvantage most Jamaicans Campaigners go to court to fight privatisation of Jamaican coast Devon Taylor remembers when the Mammee Bay shoreline in St…
+
+Link: https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-crisis-plantation-tourism
+
+### 4. Supporting Neurodiverse Students on Their Own Terms with IMPACT Fellow Shanna Bohrer [10/10]
+**Source:** CSTA  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Shanna Bohrer is a CTE teacher at Alabama Virtual Academy in Eufaula, AL. Shanna began teaching science 15 years ago,...
+
+Link: https://csteachers.org/supporting-neurodiverse-students-on-their-own-terms-with-impact-fellow-shanna-bohrer/
+
+### 5. British armed forces intercept Russian shadow fleet oil tanker in Channel [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Keir Starmer says operation involving National Crime Agency has delivered ‘yet another blow’ to Russia and Putin British armed forces intercepted and boarded a Russian shadow fleet oil tanker in the Channel in the early hours of Sunday,…
 
 Link: https://www.theguardian.com/uk-news/2026/jun/14/british-forces-intercept-russian-shadow-fleet-vessel-english-channel
 
-### 2. Amazon security research reportedly led to the White House’s Anthropic Fable ban [10/10]
+### 6. ‘It’s going to be extremely hot’: workers imperiled as sweltering World Cup temperatures are forecast [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+It could top 90F in several cities hosting World Cup games – and workers could pay the price with their health As the World Cup kicks off, labor advocates and scholars warn that the workers making the tournament possible could face serious…
+
+Link: https://www.theguardian.com/us-news/2026/jun/14/world-cup-heat-workers
+
+### 7. Amazon security research reportedly led to the White House’s Anthropic Fable ban [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -51,52 +96,25 @@ According to the Wall Street Journal, the export control directive that led to A
 
 Link: https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban
 
-### 3. Anthropic to disable its most advanced AI models after US order limiting foreign access [10/10]
+### 8. Dangerous hormone-disrupting chemicals found in US breast milk samples [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Company said US government believes safeguards can be bypassed and product used to identify software vulnerabilities Anthropic said it will “abruptly disable” its most advanced AI models for all users after the US government ordered it to…
+Study of mothers in Seattle underscores ‘widespread, systemic problem’ of chemical contamination, experts say Breast milk samples from mothers in Seattle contain alarming levels of dangerous hormone-disrupting chemicals, including BPA,…
 
-Link: https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order
+Link: https://www.theguardian.com/us-news/2026/jun/14/breast-milk-research-chemicals
 
-### 4. The Sunday Papers [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Sundays are for testing the limits of the hunger for street furniture in your community. Since moving into the new flat, we've been taking things left behind by the previous owner down to the street one-by-one.
-
-Link: https://www.rockpapershotgun.com/the-sunday-papers-814
-
-### 5. Vanillaware seemingly want their other games on PC too, but if you want that to happen, talk to their publishers [9/10]
+### 9. How Croakwood captures the challenge of a townbuilder like Anno but avoids the stress and pressure [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Vanillaware might not be a household name to some of you, but it's got a library that hangs up there with the best of them.
+If, like me, you walk through this world forever thinking about Chicken Run, you too may expect at any moment to discover the animal kingdom is actually made up of industrious town-building critters.
 
-Link: https://www.rockpapershotgun.com/vanillaware-seemingly-want-their-other-games-on-pc-too-but-if-you-want-that-to-happen-talk-to-their-publishers
+Link: https://www.rockpapershotgun.com/how-croakwood-captures-the-challenge-of-a-townbuilder-like-anno-but-avoids-the-stress-and-pressure
 
-### 6. Penguin Colony's demo shows life as a flightless bird is lonely, scary, awkward, and cosmically intriguing [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-I'm going to go out on a limb and say that when you think of penguins and video games, Club Penguin is probably the one that comes to mind for you (or the Surf's Up adaptation if you're nasty).
-
-Link: https://www.rockpapershotgun.com/penguin-colonys-demo-shows-life-as-a-flightless-bird-is-lonely-scary-awkward-and-cosmically-intriguing
-
-### 7. Microsoft reportedly considering restructuring Xbox into its own "wholly-owned subsidiary" and "moving faster" on releasing first-party games [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-A new report claims Microsoft is considering "spinning out" Xbox into its own company. Read more
-
-Link: https://www.eurogamer.net/microsoft-restructuring-xbox
-
-### 8. Wyoming Students Spend Less Time in PE. An Expert Wants to Change That. [9/10]
+### 10. Wyoming Students Spend Less Time in PE. An Expert Wants to Change That. [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -104,24 +122,6 @@ Link: https://www.eurogamer.net/microsoft-restructuring-xbox
 The squeak of sneakers on a gym floor and squawk of whistles are common school sounds during PE class.
 
 Link: https://www.the74million.org/article/wyoming-students-spend-less-time-in-pe-an-expert-wants-to-change-that/
-
-### 9. Momfluencers are co-parenting with AI. Is it better than a man? | Arwa Mahdawi [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Women in heterosexual marriages continue to do most of the caregiving.
-
-Link: https://www.theguardian.com/commentisfree/2026/jun/13/momfluencers-ai-co-parenting
-
-### 10. "There's nothing worse than an AI-generated pitch": Bloober, Jagex, 11 bit and indie devs on the bruising hurdle of funding a videogame prototype [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Among the worries faced by game developers seeking a publisher is the gamble of a prototype – that is, "a playable build that meaningfully shows what’s good about your game – a proof of concept", in the summary of Suspicious Developments…
-
-Link: https://www.rockpapershotgun.com/theres-nothing-worse-than-an-ai-generated-pitch-bloober-jagex-11-bit-and-indie-devs-on-the-bruising-hurdle-of-funding-a-videogame-prototype
 
 ### 11. Scientists Discover Vast Ancient ‘Necropolis’ Teeming With Strange New Creatures [8/10]
 **Source:** 404 Media  
@@ -141,14 +141,14 @@ As with most suits of this nature, the one Nintendo filed against Palworld devel
 
 Link: https://www.rockpapershotgun.com/nintendo-reportedly-look-set-to-net-so-little-from-their-palworld-lawsuit-youll-wonder-why-they-bothered
 
-### 13. A plan to get lifesaving food to hungry kids was working well -- until it wasn't [8/10]
+### 13. Want obesity drugs covered by insurance? Telehealth companies have a big say [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Through an innovative program, parents in Senegal had easy access to a therapeutic food that's a boon for malnourished kids. Now there are shortages. Health specialists say U.S. aid cuts are to blame.
+Telehealth companies offer lifestyle support so people taking obesity drugs can have the most success losing weight. But employers also want the telehealth providers to limit spending on the drugs.
 
-Link: https://www.npr.org/2026/06/13/nx-s1-5787791/malnourished-children-senegal-therapeutic-food-plumpynut
+Link: https://www.npr.org/2026/06/14/nx-s1-5805984/glp1-telehealth-weight-loss-drugs
 
 ## YouTube
 
@@ -268,6 +268,15 @@ Link: https://www.youtube.com/watch?v=BIg34NqF87s
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/033V4rCJpDE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=YgcBJOouIGk
+
+### Jumping Into Riot's 2XKO | Super Smash Sunday [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Our resident fighting game fans KC and El Cheshire are trying out Riot's 2XKO. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=X-5JlzSQISQ
 
 ### Old School Puzzle Dungeon | Adventure Is Nigh! - The Slow Walk Home | Ep. 3 [8/10]
 **Creator:** Second Wind  
