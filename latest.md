@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-14T14:00:02.587983Z
+Generated: 2026-06-15T05:00:01.366580Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Welcome to California: land of plunder and hypocrisy | Mark Arax, Antidepressants and antipsychotics could serve as alternatives to opioids, study finds, and Jamaica’s beach access crisis: ‘We shouldn’t be forced to fight for what is already ours’.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Ariana Grande review - glittering hits and powerhouse vocals in stunning return to stage, One reason US democracy is in trouble? Its supporters are moving elsewhere | Justin Gest, and Welcome to California: land of plunder and hypocrisy | Mark Arax.
 
 ## Briefing
 
@@ -33,7 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Welcome to California: land of plunder and hypocrisy | Mark Arax [10/10]
+### 1. Ariana Grande review - glittering hits and powerhouse vocals in stunning return to stage [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Crypto.
+
+Link: https://www.theguardian.com/music/2026/jun/14/ariana-grande-eternal-sunshine-tour-review-la
+
+### 2. One reason US democracy is in trouble? Its supporters are moving elsewhere | Justin Gest [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The recent exodus of people – voluntary and not – from the US threatens to worsen America’s authoritarian slippage The recent frenzy of attempts to redraw electoral districts is ultimately about voice and silence in US democracy.
+
+Link: https://www.theguardian.com/commentisfree/2026/jun/14/democracy-supporters-migration
+
+### 3. Welcome to California: land of plunder and hypocrisy | Mark Arax [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,25 +60,34 @@ From gold to water, California’s wealth was built on extraction. The AI boom i
 
 Link: https://www.theguardian.com/us-news/ng-interactive/2026/jun/14/california-land-of-plunder-and-hypocrisy
 
-### 2. Antidepressants and antipsychotics could serve as alternatives to opioids, study finds [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Medications that target depression, anxiety and poor sleep could help treat pain without opioids’ addictive properties A range of other medications could serve as alternatives to powerful opioids for pain relief in emergency departments,…
-
-Link: https://www.theguardian.com/society/2026/jun/14/other-medications-opioids-alternatives-study
-
-### 3. Jamaica’s beach access crisis: ‘We shouldn’t be forced to fight for what is already ours’ [10/10]
+### 4. JD Vance says he will discuss 2028 presidential run after midterm elections [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Activists argue business model is ‘plantation tourism’ designed to benefit elite and disadvantage most Jamaicans Campaigners go to court to fight privatisation of Jamaican coast Devon Taylor remembers when the Mammee Bay shoreline in St…
+Vice-president says he tries not to make decisions until he ‘absolutely must’ but has ‘no doubt’ Trump will support him JD Vance said that he will discuss a 2028 US presidential run with his wife after the 2026 midterms .
 
-Link: https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-crisis-plantation-tourism
+Link: https://www.theguardian.com/us-news/2026/jun/14/jd-vance-2028-presidential-campaign-midterms-talks
 
-### 4. Supporting Neurodiverse Students on Their Own Terms with IMPACT Fellow Shanna Bohrer [10/10]
+### 5. California Students Must Soon Learn Personal Finance to Graduate. Here’s How It Will Be Taught [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+This story was originally published by EdSource. Sign up for their daily newsletter.
+
+Link: https://www.the74million.org/article/california-students-must-soon-learn-personal-finance-to-graduate-heres-how-it-will-be-taught/
+
+### 6. A year after ICE raids terrorized Los Angeles, a rattled city counts its scars: ‘The arrests never really stopped’ [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Thousand of arrests last summer led to mass protests and some deaths – across the city, communities bear the scars Most people in Brian Gavidia’s life haven’t seemed to notice that a year has passed since armed federal immigration agents…
+
+Link: https://www.theguardian.com/us-news/2026/jun/14/one-year-later-los-angeles-ice-raids
+
+### 7. Supporting Neurodiverse Students on Their Own Terms with IMPACT Fellow Shanna Bohrer [9/10]
 **Source:** CSTA  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -69,79 +96,52 @@ Shanna Bohrer is a CTE teacher at Alabama Virtual Academy in Eufaula, AL. Shanna
 
 Link: https://csteachers.org/supporting-neurodiverse-students-on-their-own-terms-with-impact-fellow-shanna-bohrer/
 
-### 5. British armed forces intercept Russian shadow fleet oil tanker in Channel [10/10]
+### 8. The Sunday Papers [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Sundays are for testing the limits of the hunger for street furniture in your community. Since moving into the new flat, we've been taking things left behind by the previous owner down to the street one-by-one.
+
+Link: https://www.rockpapershotgun.com/the-sunday-papers-814
+
+### 9. Kyiv monastery set on fire in night of Russian attacks across Ukraine [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Keir Starmer says operation involving National Crime Agency has delivered ‘yet another blow’ to Russia and Putin British armed forces intercepted and boarded a Russian shadow fleet oil tanker in the Channel in the early hours of Sunday,…
+Dormition Cathedral of Kyiv Pechersk Lavra, one of Ukraine’s most significant religious sites, and residential buildings hit across capital Ukraine has come under a massive Russian missile and drone attack with waves of explosions echoing…
 
-Link: https://www.theguardian.com/uk-news/2026/jun/14/british-forces-intercept-russian-shadow-fleet-vessel-english-channel
+Link: https://www.theguardian.com/world/2026/jun/15/kyiv-pechersk-lavra-monastery-on-fire-russian-attacks-ukraine
 
-### 6. ‘It’s going to be extremely hot’: workers imperiled as sweltering World Cup temperatures are forecast [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-It could top 90F in several cities hosting World Cup games – and workers could pay the price with their health As the World Cup kicks off, labor advocates and scholars warn that the workers making the tournament possible could face serious…
-
-Link: https://www.theguardian.com/us-news/2026/jun/14/world-cup-heat-workers
-
-### 7. Amazon security research reportedly led to the White House’s Anthropic Fable ban [10/10]
+### 10. The FBI built a small town to simulate cyberattacks [8/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and…
+Last year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban
+Link: https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range
 
-### 8. Dangerous hormone-disrupting chemicals found in US breast milk samples [9/10]
+### 11. Pilot and 11 skydiving passengers killed in private plane crash in Missouri [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Study of mothers in Seattle underscores ‘widespread, systemic problem’ of chemical contamination, experts say Breast milk samples from mothers in Seattle contain alarming levels of dangerous hormone-disrupting chemicals, including BPA,…
+Crash reportedly occurred shortly after departure from Butler Memorial airport on Sunday morning Sign up for the Breaking News US newsletter email Twelve people were killed in a plane crash near Butler, Missouri , on Sunday.
 
-Link: https://www.theguardian.com/us-news/2026/jun/14/breast-milk-research-chemicals
+Link: https://www.theguardian.com/us-news/2026/jun/14/butler-missouri-plane-crash
 
-### 9. How Croakwood captures the challenge of a townbuilder like Anno but avoids the stress and pressure [9/10]
-**Source:** Rock Paper Shotgun  
+### 12. Forza Horizon 6 players advised to apply new patch to avoid losing save data and progress [8/10]
+**Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-If, like me, you walk through this world forever thinking about Chicken Run, you too may expect at any moment to discover the animal kingdom is actually made up of industrious town-building critters.
+Playground Games is investigating an issue where "game save progress may be lost or reset" in Forza Horizon 6 . Read more
 
-Link: https://www.rockpapershotgun.com/how-croakwood-captures-the-challenge-of-a-townbuilder-like-anno-but-avoids-the-stress-and-pressure
+Link: https://www.eurogamer.net/forza-horizon-6-lost-save-issues
 
-### 10. Wyoming Students Spend Less Time in PE. An Expert Wants to Change That. [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-The squeak of sneakers on a gym floor and squawk of whistles are common school sounds during PE class.
-
-Link: https://www.the74million.org/article/wyoming-students-spend-less-time-in-pe-an-expert-wants-to-change-that/
-
-### 11. Scientists Discover Vast Ancient ‘Necropolis’ Teeming With Strange New Creatures [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-A massive whale graveyard in the Indian Ocean contains the remains of hundreds of extinct whales dating back more than five million years, along with recent carcasses that support hotspots of seafloor life.
-
-Link: https://www.404media.co/scientists-discover-vast-ancient-necropolis-teeming-with-strange-new-creatures/
-
-### 12. Nintendo reportedly look set to net so little from their Palworld lawsuit you'll wonder why they bothered [8/10]
-**Source:** Rock Paper Shotgun  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-As with most suits of this nature, the one Nintendo filed against Palworld developer Pocketpair has been going on for a while now.
-
-Link: https://www.rockpapershotgun.com/nintendo-reportedly-look-set-to-net-so-little-from-their-palworld-lawsuit-youll-wonder-why-they-bothered
-
-### 13. Want obesity drugs covered by insurance? Telehealth companies have a big say [7/10]
+### 13. Primary care doctors raise alarm as telehealth companies get involved in obesity drugs [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -152,6 +152,15 @@ Link: https://www.npr.org/2026/06/14/nx-s1-5805984/glp1-telehealth-weight-loss-d
 
 ## YouTube
 
+### NVIDIA's New Free Al - A Gift To All Of Us [8/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Nemotron 3 Ultra paper is available here: https://research.nvidia.
+
+Link: https://www.youtube.com/watch?v=zJvN8PDX1is
+
 ### TCP a : Ensuring Your Data Gets There & in the Right Order! - Computerphile [6/10]
 **Creator:** Computerphile  
 **Verdict:** Summary is enough  
@@ -160,15 +169,6 @@ Link: https://www.npr.org/2026/06/14/nx-s1-5805984/glp1-telehealth-weight-loss-d
 Continuing the deep dive down the network stack, Richard begins the story of TCP. Richard G Clegg is based at Queen Mary University London. Next in the playlist: https://youtu.be/nKVML4YaBqs RFC793 https://datatracker.ietf.
 
 Link: https://www.youtube.com/watch?v=IADOV8UZO34
-
-### LL Cool J's DNA Uncovered a Hidden Family Truth [8/10]
-**Creator:** WIRED  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-_Finding Your Roots_ lead genetic genealogist CeCe Moore joins WIRED to answer the internet’s burning questions about genealogy. Can a person’s innocence or guilt be proven through Ancestry.
-
-Link: https://www.youtube.com/watch?v=HzEV3JwUFuA
 
 ### FDA OKs sunscreen ingredient long used in Europe and Asia [7/10]
 **Creator:** NPR  
@@ -206,9 +206,36 @@ The U.S. Men's National Team takes the field Friday night against Paraguay. Form
 
 Link: https://www.youtube.com/watch?v=1p-OkBDykdw
 
-### Persona 4 Revival + Persona 6 Reveal Reaction [7/10]
+### The Xbox "Reset" Memo Discussion - BIG Changes Are Coming [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/1IT7sQ7pqsE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=EmN1y8I33kk
+
+### Gen Atlas: The New Game From The Creator of Ico, Last Guardian + Shadow of the Colossus - Reaction [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/1IT7sQ7pqsE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=1NWiDh1kBuQ
+
+### Xbox Showcase Highlights: Senua, Spyro, Metro 2039, Crazy Taxi, Doom, Wo Long, Plague Tale [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/033V4rCJpDE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=-42xAnrYmcs
+
+### Persona 4 Revival + Persona 6 Reveal Reaction [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/033V4rCJpDE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -224,9 +251,9 @@ Link: https://www.youtube.com/watch?v=XlX7CzzGe6M
 
 Link: https://www.youtube.com/watch?v=NqdNXj6VyJg
 
-### Why We're Excited About Halo Campaign Evolved! [8/10]
+### Why We're Excited About Halo Campaign Evolved! [7/10]
 **Creator:** Digital Foundry  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/033V4rCJpDE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -251,36 +278,27 @@ Link: https://www.youtube.com/watch?v=Ub0xMm7UCwU
 
 Link: https://www.youtube.com/watch?v=Irxf4tF7KGk
 
-### Resident Evil Veronica Debut Reaction - Capcom's Unbeaten Run Looks Set To Continue [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/1IT7sQ7pqsE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=BIg34NqF87s
-
-### Xbox Series X25 Console - Epic Fan Service - Just Transparent Green Plastic But We Want It [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/033V4rCJpDE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=YgcBJOouIGk
-
-### Jumping Into Riot's 2XKO | Super Smash Sunday [8/10]
+### Jumping Into Riot's 2XKO | Super Smash Sunday [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Our resident fighting game fans KC and El Cheshire are trying out Riot's 2XKO. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=X-5JlzSQISQ
 
-### Old School Puzzle Dungeon | Adventure Is Nigh! - The Slow Walk Home | Ep. 3 [8/10]
+### Better Than Dead, Stonemachia, Voidling Bound, and Arms of God | Yahtzee Tries [6/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Yahtzee Tries, Yahtzee checked out Better Than Dead, Stonemachia, Voidling Bound ,and Arms of God Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.
+
+Link: https://www.youtube.com/watch?v=cUTlZfhd9bo
+
+### Old School Puzzle Dungeon | Adventure Is Nigh! - The Slow Walk Home | Ep. 3 [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.
@@ -304,33 +322,6 @@ Link: https://www.youtube.com/watch?v=eBBuixGJ9E8
 Towns. Villains. Characters.
 
 Link: https://www.youtube.com/watch?v=MWqAxitMQlg
-
-### Highs (and Lows) of Summer Game Fest 2026 | Firelink Podcast [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Firelink, Nick, KC, and Marty chat about their favorite games of Summer Game Fest, refresh their Fantasy Critic draft, and bemoan yet another round of layoffs at Ubisoft and Xbox.
-
-Link: https://www.youtube.com/watch?v=balcfJrIWpE
-
-### Starting Our Fallout 3 Adventure w/ Jack, Jess, and Marty -- Part 1 [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=jLSnl5YEKYw
-
-### “Play It Three Days Early” Needs to Stop [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Marty digs into the trend of games giving early access to folks who buy the deluxe editions, why it sucks, and why it (sadly) won't be going away any time soon.
-
-Link: https://www.youtube.com/watch?v=uq1o2JG3JWY
 
 ## Entertainment Recommendations
 
@@ -585,12 +576,3 @@ Link: https://www.youtube.com/watch?v=0mwreY8Z2J0
 Helen's memory is Carol's greatest strength, and the hive's greatest weapon. “Breaking Bad” creator Vince Gilligan’s science fiction drama starring Emmy Award nominee Rhea Seehorn is now streaming on Apple TV. https://apple.
 
 Link: https://www.youtube.com/watch?v=mpfw2ZS8rW8
-
-### Camp Snoopy — Season 2 Official Trailer | Apple TV [8/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Calling all Beagle Scouts. Camp Snoopy Season 2 — June 26 #CampSnoopy #Snoopy #AppleTV
-
-Link: https://www.youtube.com/watch?v=I9JOnEoOLmI
