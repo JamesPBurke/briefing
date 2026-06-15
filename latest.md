@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-15T05:00:01.366580Z
+Generated: 2026-06-15T09:01:48.197283Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Ariana Grande review - glittering hits and powerhouse vocals in stunning return to stage, One reason US democracy is in trouble? Its supporters are moving elsewhere | Justin Gest, and Welcome to California: land of plunder and hypocrisy | Mark Arax.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are As hype builds for Final Fantasy 7 Revelation, fans are flocking back to play (the heavily discounted) Remake and Rebirth on Steam, A new start after 60: I fell out of love with my job when it went online. So I’m beginning again – in nursing, and Europe is starting to break up with US big tech. But it’s still abiding by the Silicon Valley rulebook | Max von Thun.
 
 ## Briefing
 
@@ -33,34 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Ariana Grande review - glittering hits and powerhouse vocals in stunning return to stage [10/10]
+### 1. As hype builds for Final Fantasy 7 Revelation, fans are flocking back to play (the heavily discounted) Remake and Rebirth on Steam [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+It looks like that superb Final Fantasy 7 Revelation trailer at Summer Game Fest was just the ticket for Square Enix : between a blowout trailer showcasing a massive open world, some significant story beats, and refined combat, and a…
+
+Link: https://www.eurogamer.net/final-fantasy-7-remake-revelation
+
+### 2. A new start after 60: I fell out of love with my job when it went online. So I’m beginning again – in nursing [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Nick Dowling spent decades in manufacturing and consultancy.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/jun/15/a-new-start-after-60-job-online-nursing
+
+### 3. Europe is starting to break up with US big tech. But it’s still abiding by the Silicon Valley rulebook | Max von Thun [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Crypto.
+The European Commission has unveiled its plans for digital sovereignty. Its proposals betray a disappointing lack of vision Beti Hohler is a Slovenian national who lives in the Netherlands.
 
-Link: https://www.theguardian.com/music/2026/jun/14/ariana-grande-eternal-sunshine-tour-review-la
+Link: https://www.theguardian.com/commentisfree/2026/jun/15/europe-us-big-tech-silicon-valley-european-commission
 
-### 2. One reason US democracy is in trouble? Its supporters are moving elsewhere | Justin Gest [10/10]
+### 4. ‘I’m setting myself free from shame’: Laverne Cox on her brutal childhood and life as a trans woman in Trump’s America [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The recent exodus of people – voluntary and not – from the US threatens to worsen America’s authoritarian slippage The recent frenzy of attempts to redraw electoral districts is ultimately about voice and silence in US democracy.
+Before Orange Is the New Black made her a star, Cox endured bullying, abuse, harassment and violence.
 
-Link: https://www.theguardian.com/commentisfree/2026/jun/14/democracy-supporters-migration
+Link: https://www.theguardian.com/lifeandstyle/2026/jun/15/free-from-shame-laverne-cox-trans-woman-in-trump-america
 
-### 3. Welcome to California: land of plunder and hypocrisy | Mark Arax [10/10]
+### 5. Attacks on education, pupils and staff around the world up by 40%, says study [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Cases reported in 83 countries, with at least 10,600 students and staff killed, injured, abducted or arrested, GCPEA says Attacks on education globally have surged by 40% with more than 8,556 recorded incidents and 10,600 students and…
+
+Link: https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study
+
+### 6. EU leaders set to meet after deadly strikes on Ukraine, including Unesco-listed religious site in Kyiv – Europe live [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+G7 leaders to meet in Évian-les-Bains in France later today to discuss the most pressing issues, including Ukraine, Gaza, and Iran Kyiv monastery set on fire in night of Russian attacks across Ukraine Macron frames Évian G7 agenda in hope…
+
+Link: https://www.theguardian.com/world/live/2026/jun/15/eu-g7-ukraine-kyiv-russia-war-iran-zelenskyy-macron-trump-europe-latest-news-updates
+
+### 7. Under-16 social media ban announced by UK government [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+The UK is the latest country to follow Australia in implementing a total social media ban for children under 16, Prime Minister Keir Starmer has announced.
+
+Link: https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement
+
+### 8. ‘The Antarctic is the last frontier’: the quest to save Shackleton’s Endurance [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-From gold to water, California’s wealth was built on extraction. The AI boom is reviving an old question: who pays the price? I was a fourth-grader in the public schools of California when I first learned about the Gold Rush.
+Amid fears the wreck will be more accessible to explorers – and new species – as the climate warms, conservationists want to create the region’s first underwater protected area The harsh temperatures, treacherous currents and shifting pack…
 
-Link: https://www.theguardian.com/us-news/ng-interactive/2026/jun/14/california-land-of-plunder-and-hypocrisy
+Link: https://www.theguardian.com/environment/2026/jun/15/shackleton-endurance-shipwrecks-global-heating-antarctic-underwater-protected-area
 
-### 4. JD Vance says he will discuss 2028 presidential run after midterm elections [9/10]
+### 9. JD Vance says he will discuss 2028 presidential run after midterm elections [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,7 +114,7 @@ Vice-president says he tries not to make decisions until he ‘absolutely must�
 
 Link: https://www.theguardian.com/us-news/2026/jun/14/jd-vance-2028-presidential-campaign-midterms-talks
 
-### 5. California Students Must Soon Learn Personal Finance to Graduate. Here’s How It Will Be Taught [9/10]
+### 10. California Students Must Soon Learn Personal Finance to Graduate. Here’s How It Will Be Taught [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -78,16 +123,7 @@ This story was originally published by EdSource. Sign up for their daily newslet
 
 Link: https://www.the74million.org/article/california-students-must-soon-learn-personal-finance-to-graduate-heres-how-it-will-be-taught/
 
-### 6. A year after ICE raids terrorized Los Angeles, a rattled city counts its scars: ‘The arrests never really stopped’ [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Thousand of arrests last summer led to mass protests and some deaths – across the city, communities bear the scars Most people in Brian Gavidia’s life haven’t seemed to notice that a year has passed since armed federal immigration agents…
-
-Link: https://www.theguardian.com/us-news/2026/jun/14/one-year-later-los-angeles-ice-raids
-
-### 7. Supporting Neurodiverse Students on Their Own Terms with IMPACT Fellow Shanna Bohrer [9/10]
+### 11. Supporting Neurodiverse Students on Their Own Terms with IMPACT Fellow Shanna Bohrer [9/10]
 **Source:** CSTA  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -96,59 +132,23 @@ Shanna Bohrer is a CTE teacher at Alabama Virtual Academy in Eufaula, AL. Shanna
 
 Link: https://csteachers.org/supporting-neurodiverse-students-on-their-own-terms-with-impact-fellow-shanna-bohrer/
 
-### 8. The Sunday Papers [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Sundays are for testing the limits of the hunger for street furniture in your community. Since moving into the new flat, we've been taking things left behind by the previous owner down to the street one-by-one.
-
-Link: https://www.rockpapershotgun.com/the-sunday-papers-814
-
-### 9. Kyiv monastery set on fire in night of Russian attacks across Ukraine [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Dormition Cathedral of Kyiv Pechersk Lavra, one of Ukraine’s most significant religious sites, and residential buildings hit across capital Ukraine has come under a massive Russian missile and drone attack with waves of explosions echoing…
-
-Link: https://www.theguardian.com/world/2026/jun/15/kyiv-pechersk-lavra-monastery-on-fire-russian-attacks-ukraine
-
-### 10. The FBI built a small town to simulate cyberattacks [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Last year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training.
-
-Link: https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range
-
-### 11. Pilot and 11 skydiving passengers killed in private plane crash in Missouri [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Crash reportedly occurred shortly after departure from Butler Memorial airport on Sunday morning Sign up for the Breaking News US newsletter email Twelve people were killed in a plane crash near Butler, Missouri , on Sunday.
-
-Link: https://www.theguardian.com/us-news/2026/jun/14/butler-missouri-plane-crash
-
-### 12. Forza Horizon 6 players advised to apply new patch to avoid losing save data and progress [8/10]
+### 12. Mortal Shell 2 deconstructs the mechanics of Soulslikes even more effectively than its predecessor [8/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Playground Games is investigating an issue where "game save progress may be lost or reset" in Forza Horizon 6 . Read more
+Mortal Shell is an action game with the usual smattering of RPG elements; set in a grim medieval/gothic-esque world where everything is terrible and everyone is sad.
 
-Link: https://www.eurogamer.net/forza-horizon-6-lost-save-issues
+Link: https://www.eurogamer.net/mortal-shell-2-beta-impressions
 
-### 13. Primary care doctors raise alarm as telehealth companies get involved in obesity drugs [8/10]
+### 13. An inside look at the Ebola outbreak in eastern Democratic Republic of Congo [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Telehealth companies offer lifestyle support so people taking obesity drugs can have the most success losing weight. But employers also want the telehealth providers to limit spending on the drugs.
+In eastern Democratic Republic of Congo, an Ebola outbreak is reshaping life, with fear spreading faster than information and hospitals turning into places of urgent containment rather than care.
 
-Link: https://www.npr.org/2026/06/14/nx-s1-5805984/glp1-telehealth-weight-loss-drugs
+Link: https://www.npr.org/2026/06/15/nx-s1-5856414/an-inside-look-at-the-ebola-outbreak-in-eastern-democratic-republic-of-congo
 
 ## YouTube
 
@@ -278,9 +278,9 @@ Link: https://www.youtube.com/watch?v=Ub0xMm7UCwU
 
 Link: https://www.youtube.com/watch?v=Irxf4tF7KGk
 
-### Jumping Into Riot's 2XKO | Super Smash Sunday [7/10]
+### Jumping Into Riot's 2XKO | Super Smash Sunday [8/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Our resident fighting game fans KC and El Cheshire are trying out Riot's 2XKO. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
@@ -451,6 +451,24 @@ Supernatural horror is a window into another nightmarish world. Curry Barker exp
 
 Link: https://www.youtube.com/watch?v=ZpeiXao2MS4
 
+### Love is Blind: UK - After the Altar | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Weeks after the reunion of LIB UK S2, we catch up with where the couples and ex couples are now along with some favourites from season 1 as Megan and Kieran decide to bring everyone back together to celebrate Kieran's birthday Watch on…
+
+Link: https://www.youtube.com/watch?v=Rvj5J6eQYFo
+
+### Another Self: Season 3 | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Back where it all began, hand in hand one last time. Another Self season 3 is only on Netflix on June 24th. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=9h620asn9wg
+
 ### Avatar: The Last Airbender | Audio Described Season 1 Recap | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -549,24 +567,6 @@ Link: https://www.youtube.com/watch?v=-p7w41B1RjQ
 The cast and creators of Avatar: The Last Airbender explain how Season 2 brought Toph Beifong to life. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=Lq9CyML-7Vs
-
-### Avatar: The Last Airbender: Season 2 | Audio Described Meet Toph | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-The cast and creators of Avatar: The Last Airbender explain how Season 2 brought Toph Beifong to life. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=uQ8d_96AurQ
-
-### what can’t she do?? Office Romance is now playing [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-what can’t she do?? Office Romance is now playing Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=0mwreY8Z2J0
 
 ### Pluribus — Carol, Helen, and Zosia | Apple TV [10/10]
 **Source:** Apple TV  

@@ -1,40 +1,90 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-15T05:00:01.366580Z",
-  "generatedAtDisplay": "2026-06-15 01:00 AM EDT",
+  "generatedAt": "2026-06-15T09:01:48.197283Z",
+  "generatedAtDisplay": "2026-06-15 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are Ariana Grande review - glittering hits and powerhouse vocals in stunning return to stage, One reason US democracy is in trouble? Its supporters are moving elsewhere | Justin Gest, and Welcome to California: land of plunder and hypocrisy | Mark Arax.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are As hype builds for Final Fantasy 7 Revelation, fans are flocking back to play (the heavily discounted) Remake and Rebirth on Steam, A new start after 60: I fell out of love with my job when it went online. So I’m beginning again – in nursing, and Europe is starting to break up with US big tech. But it’s still abiding by the Silicon Valley rulebook | Max von Thun.",
   "mainItems": [
     {
-      "title": "Ariana Grande review - glittering hits and powerhouse vocals in stunning return to stage",
+      "title": "As hype builds for Final Fantasy 7 Revelation, fans are flocking back to play (the heavily discounted) Remake and Rebirth on Steam",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/final-fantasy-7-remake-revelation",
+      "published": "2026-06-15T08:39:42+00:00",
+      "summary": "It looks like that superb Final Fantasy 7 Revelation trailer at Summer Game Fest was just the ticket for Square Enix : between a blowout trailer showcasing a massive open world, some significant story beats, and refined combat, and a…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "A new start after 60: I fell out of love with my job when it went online. So I’m beginning again – in nursing",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/15/a-new-start-after-60-job-online-nursing",
+      "published": "2026-06-15T05:45:03+00:00",
+      "summary": "Nick Dowling spent decades in manufacturing and consultancy.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Europe is starting to break up with US big tech. But it’s still abiding by the Silicon Valley rulebook | Max von Thun",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/music/2026/jun/14/ariana-grande-eternal-sunshine-tour-review-la",
-      "published": "2026-06-14T17:35:30+00:00",
-      "summary": "Crypto.",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/15/europe-us-big-tech-silicon-valley-european-commission",
+      "published": "2026-06-15T04:00:03+00:00",
+      "summary": "The European Commission has unveiled its plans for digital sovereignty. Its proposals betray a disappointing lack of vision Beti Hohler is a Slovenian national who lives in the Netherlands.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "One reason US democracy is in trouble? Its supporters are moving elsewhere | Justin Gest",
+      "title": "‘I’m setting myself free from shame’: Laverne Cox on her brutal childhood and life as a trans woman in Trump’s America",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/14/democracy-supporters-migration",
-      "published": "2026-06-14T13:00:44+00:00",
-      "summary": "The recent exodus of people – voluntary and not – from the US threatens to worsen America’s authoritarian slippage The recent frenzy of attempts to redraw electoral districts is ultimately about voice and silence in US democracy.",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/15/free-from-shame-laverne-cox-trans-woman-in-trump-america",
+      "published": "2026-06-15T04:00:02+00:00",
+      "summary": "Before Orange Is the New Black made her a star, Cox endured bullying, abuse, harassment and violence.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Welcome to California: land of plunder and hypocrisy | Mark Arax",
+      "title": "Attacks on education, pupils and staff around the world up by 40%, says study",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study",
+      "published": "2026-06-15T04:00:01+00:00",
+      "summary": "Cases reported in 83 countries, with at least 10,600 students and staff killed, injured, abducted or arrested, GCPEA says Attacks on education globally have surged by 40% with more than 8,556 recorded incidents and 10,600 students and…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "EU leaders set to meet after deadly strikes on Ukraine, including Unesco-listed religious site in Kyiv – Europe live",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/live/2026/jun/15/eu-g7-ukraine-kyiv-russia-war-iran-zelenskyy-macron-trump-europe-latest-news-updates",
+      "published": "2026-06-15T08:20:59+00:00",
+      "summary": "G7 leaders to meet in Évian-les-Bains in France later today to discuss the most pressing issues, including Ukraine, Gaza, and Iran Kyiv monastery set on fire in night of Russian attacks across Ukraine Macron frames Évian G7 agenda in hope…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Under-16 social media ban announced by UK government",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement",
+      "published": "2026-06-15T08:19:09+00:00",
+      "summary": "The UK is the latest country to follow Australia in implementing a total social media ban for children under 16, Prime Minister Keir Starmer has announced.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "‘The Antarctic is the last frontier’: the quest to save Shackleton’s Endurance",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/14/california-land-of-plunder-and-hypocrisy",
-      "published": "2026-06-14T13:00:43+00:00",
-      "summary": "From gold to water, California’s wealth was built on extraction. The AI boom is reviving an old question: who pays the price? I was a fourth-grader in the public schools of California when I first learned about the Gold Rush.",
+      "url": "https://www.theguardian.com/environment/2026/jun/15/shackleton-endurance-shipwrecks-global-heating-antarctic-underwater-protected-area",
+      "published": "2026-06-15T06:00:04+00:00",
+      "summary": "Amid fears the wreck will be more accessible to explorers – and new species – as the climate warms, conservationists want to create the region’s first underwater protected area The harsh temperatures, treacherous currents and shifting pack…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "JD Vance says he will discuss 2028 presidential run after midterm elections",
@@ -57,16 +107,6 @@
       "score": 9
     },
     {
-      "title": "A year after ICE raids terrorized Los Angeles, a rattled city counts its scars: ‘The arrests never really stopped’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/14/one-year-later-los-angeles-ice-raids",
-      "published": "2026-06-14T16:13:14+00:00",
-      "summary": "Thousand of arrests last summer led to mass protests and some deaths – across the city, communities bear the scars Most people in Brian Gavidia’s life haven’t seemed to notice that a year has passed since armed federal immigration agents…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
       "title": "Supporting Neurodiverse Students on Their Own Terms with IMPACT Fellow Shanna Bohrer",
       "source": "CSTA",
       "category": "Education / pedagogy",
@@ -77,62 +117,22 @@
       "score": 9
     },
     {
-      "title": "The Sunday Papers",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-814",
-      "published": "2026-06-14T09:00:00+00:00",
-      "summary": "Sundays are for testing the limits of the hunger for street furniture in your community. Since moving into the new flat, we've been taking things left behind by the previous owner down to the street one-by-one.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Kyiv monastery set on fire in night of Russian attacks across Ukraine",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jun/15/kyiv-pechersk-lavra-monastery-on-fire-russian-attacks-ukraine",
-      "published": "2026-06-15T04:41:59+00:00",
-      "summary": "Dormition Cathedral of Kyiv Pechersk Lavra, one of Ukraine’s most significant religious sites, and residential buildings hit across capital Ukraine has come under a massive Russian missile and drone attack with waves of explosions echoing…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 8
-    },
-    {
-      "title": "The FBI built a small town to simulate cyberattacks",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
-      "published": "2026-06-14T20:35:41+00:00",
-      "summary": "Last year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
-    },
-    {
-      "title": "Pilot and 11 skydiving passengers killed in private plane crash in Missouri",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jun/14/butler-missouri-plane-crash",
-      "published": "2026-06-14T19:15:06+00:00",
-      "summary": "Crash reportedly occurred shortly after departure from Butler Memorial airport on Sunday morning Sign up for the Breaking News US newsletter email Twelve people were killed in a plane crash near Butler, Missouri , on Sunday.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
-      "title": "Forza Horizon 6 players advised to apply new patch to avoid losing save data and progress",
+      "title": "Mortal Shell 2 deconstructs the mechanics of Soulslikes even more effectively than its predecessor",
       "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/forza-horizon-6-lost-save-issues",
-      "published": "2026-06-14T15:14:15+00:00",
-      "summary": "Playground Games is investigating an issue where \"game save progress may be lost or reset\" in Forza Horizon 6 . Read more",
+      "url": "https://www.eurogamer.net/mortal-shell-2-beta-impressions",
+      "published": "2026-06-15T09:00:00+00:00",
+      "summary": "Mortal Shell is an action game with the usual smattering of RPG elements; set in a grim medieval/gothic-esque world where everything is terrible and everyone is sad.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8
     },
     {
-      "title": "Primary care doctors raise alarm as telehealth companies get involved in obesity drugs",
+      "title": "An inside look at the Ebola outbreak in eastern Democratic Republic of Congo",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/14/nx-s1-5805984/glp1-telehealth-weight-loss-drugs",
-      "published": "2026-06-14T09:00:00+00:00",
-      "summary": "Telehealth companies offer lifestyle support so people taking obesity drugs can have the most success losing weight. But employers also want the telehealth providers to limit spending on the drugs.",
+      "url": "https://www.npr.org/2026/06/15/nx-s1-5856414/an-inside-look-at-the-ebola-outbreak-in-eastern-democratic-republic-of-congo",
+      "published": "2026-06-15T08:43:08+00:00",
+      "summary": "In eastern Democratic Republic of Congo, an Ebola outbreak is reshaping life, with fear spreading faster than information and hospitals turning into places of urgent containment rather than care.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
@@ -297,11 +297,11 @@
       "source": "Second Wind",
       "category": "Games / criticism",
       "url": "https://www.youtube.com/watch?v=X-5JlzSQISQ",
-      "published": "2026-06-14T12:06:15+00:00",
+      "published": "2026-06-15T08:04:12+00:00",
       "summary": "Our resident fighting game fans KC and El Cheshire are trying out Riot's 2XKO. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Better Than Dead, Stonemachia, Voidling Bound, and Arms of God | Yahtzee Tries",
@@ -471,6 +471,28 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Love is Blind: UK - After the Altar | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Rvj5J6eQYFo",
+      "published": "2026-06-15T08:00:00+00:00",
+      "summary": "Weeks after the reunion of LIB UK S2, we catch up with where the couples and ex couples are now along with some favourites from season 1 as Megan and Kieran decide to bring everyone back together to celebrate Kieran's birthday Watch on…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Another Self: Season 3 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=9h620asn9wg",
+      "published": "2026-06-15T07:00:00+00:00",
+      "summary": "Back where it all began, hand in hand one last time. Another Self season 3 is only on Netflix on June 24th. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Avatar: The Last Airbender | Audio Described Season 1 Recap | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -589,28 +611,6 @@
       "summary": "The cast and creators of Avatar: The Last Airbender explain how Season 2 brought Toph Beifong to life. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Avatar: The Last Airbender: Season 2 | Audio Described Meet Toph | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=uQ8d_96AurQ",
-      "published": "2026-06-06T18:30:00+00:00",
-      "summary": "The cast and creators of Avatar: The Last Airbender explain how Season 2 brought Toph Beifong to life. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "what can’t she do?? Office Romance is now playing",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=0mwreY8Z2J0",
-      "published": "2026-06-05T16:00:14+00:00",
-      "summary": "what can’t she do?? Office Romance is now playing Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -738,6 +738,6 @@
     "mainCount": 13,
     "youtubeCount": 19,
     "trailerCount": 25,
-    "sourceCount": 19
+    "sourceCount": 18
   }
 }
