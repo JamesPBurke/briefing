@@ -1,137 +1,137 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-15T09:01:48.197283Z",
-  "generatedAtDisplay": "2026-06-15 05:01 AM EDT",
+  "generatedAt": "2026-06-15T14:00:03.319918Z",
+  "generatedAtDisplay": "2026-06-15 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are As hype builds for Final Fantasy 7 Revelation, fans are flocking back to play (the heavily discounted) Remake and Rebirth on Steam, A new start after 60: I fell out of love with my job when it went online. So I’m beginning again – in nursing, and Europe is starting to break up with US big tech. But it’s still abiding by the Silicon Valley rulebook | Max von Thun.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Nvidia G-Sync Pulsar monitors can successfully beat biology to hone motion clarity in games - though they're not yet worth the price, The OPSEC Rave Wave (with Imani Thompson), and Opinion: How a California District Is Transforming Education in a Rapidly Changing World.",
   "mainItems": [
     {
-      "title": "As hype builds for Final Fantasy 7 Revelation, fans are flocking back to play (the heavily discounted) Remake and Rebirth on Steam",
+      "title": "Nvidia G-Sync Pulsar monitors can successfully beat biology to hone motion clarity in games - though they're not yet worth the price",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/nvidia-g-sync-pulsar-monitors-can-successfully-beat-biology-to-hone-motion-clarity-in-games-though-theyre-not-yet-worth-the-price",
+      "published": "2026-06-15T13:50:55+00:00",
+      "summary": "Back when I first tried a G-Sync Pulsar monitor at an Nvidia shindig in February, I clung to the hope that maybe, finally , gaming display tech had made its first real breakthrough in years.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The OPSEC Rave Wave (with Imani Thompson)",
+      "source": "404 Media",
+      "category": "Democracy / press freedom",
+      "url": "https://www.404media.co/the-opsec-rave-wave-with-imani-thompson/",
+      "published": "2026-06-15T12:59:56+00:00",
+      "summary": "We get into how platforms have tried to make surveillance cute, why that damn Duolingo owl emotionally manipulates you, and why learning about privacy best practices when surrounded by community works.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: How a California District Is Transforming Education in a Rapidly Changing World",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/how-a-california-district-is-transforming-education-in-a-rapidly-changing-world/",
+      "published": "2026-06-15T12:30:00+00:00",
+      "summary": "Public education, in red and blue states alike, is being pulled apart by student disengagement, mental health needs, culture war battles, voucher expansion, budget uncertainty and the disruptive force of artificial intelligence.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Amid Marathon slump and Destiny 2 player resurgence, former Bungie employee claims studio was \"very close\" to shutting down before Sony's acquisition",
       "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/final-fantasy-7-remake-revelation",
-      "published": "2026-06-15T08:39:42+00:00",
-      "summary": "It looks like that superb Final Fantasy 7 Revelation trailer at Summer Game Fest was just the ticket for Square Enix : between a blowout trailer showcasing a massive open world, some significant story beats, and refined combat, and a…",
+      "url": "https://www.eurogamer.net/bungie-close-to-shutting-down-before-sony-acquisition-its-claimed",
+      "published": "2026-06-15T12:29:31+00:00",
+      "summary": "As we collectively witness the end of Destiny 2 following its final update, some fans have blamed the game's demise on Sony, suggesting the company didn't want to continue investing in the sci-fi loot shooter.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "A new start after 60: I fell out of love with my job when it went online. So I’m beginning again – in nursing",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/15/a-new-start-after-60-job-online-nursing",
-      "published": "2026-06-15T05:45:03+00:00",
-      "summary": "Nick Dowling spent decades in manufacturing and consultancy.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Europe is starting to break up with US big tech. But it’s still abiding by the Silicon Valley rulebook | Max von Thun",
+      "title": "Woman’s hypothermia death after her release by ICE is ruled a homicide",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/15/europe-us-big-tech-silicon-valley-european-commission",
-      "published": "2026-06-15T04:00:03+00:00",
-      "summary": "The European Commission has unveiled its plans for digital sovereignty. Its proposals betray a disappointing lack of vision Beti Hohler is a Slovenian national who lives in the Netherlands.",
+      "url": "https://www.theguardian.com/us-news/2026/jun/15/ice-immigration-haitian-woman-death",
+      "published": "2026-06-15T12:15:02+00:00",
+      "summary": "Daphy Michel, a vulnerable asylum seeker from Haiti, died at Pittsburgh bus shelter days after leaving federal custody A medical examiner has ruled the death of a Haitian asylum seeker in Pennsylvania after being released from federal…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "‘I’m setting myself free from shame’: Laverne Cox on her brutal childhood and life as a trans woman in Trump’s America",
+      "title": "This week in PC games: a trio of surreal shooters, a big Stellaris expansion, and a new RPG from Octopath Traveller devs",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-a-trio-of-surreal-shooters-a-big-stellaris-expansion-and-a-new-rpg-from-octopath-traveller-devs",
+      "published": "2026-06-15T11:15:10+00:00",
+      "summary": "\"The mid-summer dry spell\"? My friend, your naivete is exceeded only by your boorishness. You should be ashamed of yourself! This week is anything but dry.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Social media firms hit back as Starmer announces ban for under-16s in UK",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/15/free-from-shame-laverne-cox-trans-woman-in-trump-america",
-      "published": "2026-06-15T04:00:02+00:00",
-      "summary": "Before Orange Is the New Black made her a star, Cox endured bullying, abuse, harassment and violence.",
+      "url": "https://www.theguardian.com/media/2026/jun/15/social-media-ban-uk-under-16-starmer",
+      "published": "2026-06-15T11:02:51+00:00",
+      "summary": "Meta, YouTube and Snapchat say ban, which would stop children using their platforms, will drive them to ‘less safe services’ UK politics live – latest updates How will the ban work? UK parents: how do you feel about the ban? Britain’s…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Attacks on education, pupils and staff around the world up by 40%, says study",
+      "title": "Mr Monopoly vs Mr Burns: The Simpsons take over Monopoly Go",
       "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/games/2026/jun/15/mr-monopoly-vs-mr-burns-the-simpsons-take-over-monopoly-go",
+      "published": "2026-06-15T11:00:23+00:00",
+      "summary": "Bart and co’s latest video game venture involved the show’s writers, animators and voice talent – plus a showdown between the two infamous tycoons.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The Witcher 3 online mod adds multiplayer Gwent battles in its latest update, a bit like CD Projekt's Gwent game but with more losers being ridden around by winners",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/the-witcher-3-online-mod-adds-multiplayer-gwent-battles-in-its-latest-update-a-bit-like-cd-projekts-gwent-game-but-with-more-losers-being-ridden-around-by-winners",
+      "published": "2026-06-15T10:43:30+00:00",
+      "summary": "The Witcher 3 's multiplayer mod , the world's premier tool for forming big towers of multiple Geralts precariously perched atop each others' shoulders, has added another string to its bow.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Survey: Young People Turn to AI to Be ‘Their Real, Unfiltered Selves’",
+      "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study",
-      "published": "2026-06-15T04:00:01+00:00",
-      "summary": "Cases reported in 83 countries, with at least 10,600 students and staff killed, injured, abducted or arrested, GCPEA says Attacks on education globally have surged by 40% with more than 8,556 recorded incidents and 10,600 students and…",
+      "url": "https://www.the74million.org/article/survey-young-people-turn-to-ai-to-be-their-real-unfiltered-selves/",
+      "published": "2026-06-15T10:30:00+00:00",
+      "summary": "Alison Lee still remembers the conversation that helped her see why young people turn to the safety of artificial intelligence for companionship and belonging.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "EU leaders set to meet after deadly strikes on Ukraine, including Unesco-listed religious site in Kyiv – Europe live",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/live/2026/jun/15/eu-g7-ukraine-kyiv-russia-war-iran-zelenskyy-macron-trump-europe-latest-news-updates",
-      "published": "2026-06-15T08:20:59+00:00",
-      "summary": "G7 leaders to meet in Évian-les-Bains in France later today to discuss the most pressing issues, including Ukraine, Gaza, and Iran Kyiv monastery set on fire in night of Russian attacks across Ukraine Macron frames Évian G7 agenda in hope…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Under-16 social media ban announced by UK government",
-      "source": "The Verge",
+      "title": "The Download: cutting AC emissions, and nature’s drug designer",
+      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement",
-      "published": "2026-06-15T08:19:09+00:00",
-      "summary": "The UK is the latest country to follow Australia in implementing a total social media ban for children under 16, Prime Minister Keir Starmer has announced.",
+      "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
+      "published": "2026-06-15T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "‘The Antarctic is the last frontier’: the quest to save Shackleton’s Endurance",
+      "title": "Disclosure Day: alien conspiracies, car chases and a jaw-dropping climax – discuss with spoilers",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/environment/2026/jun/15/shackleton-endurance-shipwrecks-global-heating-antarctic-underwater-protected-area",
-      "published": "2026-06-15T06:00:04+00:00",
-      "summary": "Amid fears the wreck will be more accessible to explorers – and new species – as the climate warms, conservationists want to create the region’s first underwater protected area The harsh temperatures, treacherous currents and shifting pack…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/film/2026/jun/15/disclosure-day-alien-discussion-spoilers",
+      "published": "2026-06-15T10:00:24+00:00",
+      "summary": "Steven Spielberg’s sci-fi blockbuster is a non-stop thrill ride, but did it convince you that we are not alone? • This article contains spoilers for Disclosure Day Six months after a cryptic billboard reading “All Will Be Disclosed” popped…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "JD Vance says he will discuss 2028 presidential run after midterm elections",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/14/jd-vance-2028-presidential-campaign-midterms-talks",
-      "published": "2026-06-14T21:03:25+00:00",
-      "summary": "Vice-president says he tries not to make decisions until he ‘absolutely must’ but has ‘no doubt’ Trump will support him JD Vance said that he will discuss a 2028 US presidential run with his wife after the 2026 midterms .",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "California Students Must Soon Learn Personal Finance to Graduate. Here’s How It Will Be Taught",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/california-students-must-soon-learn-personal-finance-to-graduate-heres-how-it-will-be-taught/",
-      "published": "2026-06-14T16:30:00+00:00",
-      "summary": "This story was originally published by EdSource. Sign up for their daily newsletter.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Supporting Neurodiverse Students on Their Own Terms with IMPACT Fellow Shanna Bohrer",
-      "source": "CSTA",
-      "category": "Education / pedagogy",
-      "url": "https://csteachers.org/supporting-neurodiverse-students-on-their-own-terms-with-impact-fellow-shanna-bohrer/",
-      "published": "2026-06-14T11:00:00+00:00",
-      "summary": "Shanna Bohrer is a CTE teacher at Alabama Virtual Academy in Eufaula, AL. Shanna began teaching science 15 years ago,...",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Mortal Shell 2 deconstructs the mechanics of Soulslikes even more effectively than its predecessor",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/mortal-shell-2-beta-impressions",
-      "published": "2026-06-15T09:00:00+00:00",
-      "summary": "Mortal Shell is an action game with the usual smattering of RPG elements; set in a grim medieval/gothic-esque world where everything is terrible and everyone is sad.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8
-    },
-    {
-      "title": "An inside look at the Ebola outbreak in eastern Democratic Republic of Congo",
+      "title": "Inside Ebola country: NPR reports from eastern DR Congo's outbreak zone",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/15/nx-s1-5856414/an-inside-look-at-the-ebola-outbreak-in-eastern-democratic-republic-of-congo",
-      "published": "2026-06-15T08:43:08+00:00",
+      "url": "https://www.npr.org/2026/06/15/nx-s1-5856414/ebola-congo-bunia-health-crisis",
+      "published": "2026-06-15T09:00:00+00:00",
       "summary": "In eastern Democratic Republic of Congo, an Ebola outbreak is reshaping life, with fear spreading faster than information and hospitals turning into places of urgent containment rather than care.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
@@ -139,7 +139,7 @@
   ],
   "youtube": [
     {
-      "title": "NVIDIA's New Free Al - A Gift To All Of Us",
+      "title": "NVIDIA's New Free AI - A Gift To Humanity",
       "source": "Two Minute Papers",
       "category": "AI / YouTube",
       "url": "https://www.youtube.com/watch?v=zJvN8PDX1is",
@@ -293,6 +293,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Building Our Indie Game Mount Rushmore | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=cmiRr1m51Nc",
+      "published": "2026-06-15T13:07:03+00:00",
+      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty build their own personal Mount Rushmore of indie games. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
       "title": "Jumping Into Riot's 2XKO | Super Smash Sunday",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -335,17 +346,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Putting the \"Care\" in Characters | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=MWqAxitMQlg",
-      "published": "2026-06-12T10:25:19+00:00",
-      "summary": "Towns. Villains. Characters.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     }
   ],
   "trailers": [
@@ -467,6 +467,17 @@
       "published": "2026-05-26T18:01:01+00:00",
       "summary": "Supernatural horror is a window into another nightmarish world. Curry Barker explains why we're all drawn in, and how Obsession goes even deeper GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Last House | Greta Lee and Wagner Moura | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=MLxgaz2Zp1k",
+      "published": "2026-06-15T13:00:00+00:00",
+      "summary": "From director Louis Leterrier, starring Greta Lee and Wagner Moura.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
     },
@@ -603,17 +614,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Avatar: The Last Airbender: Season 2 | Meet Toph | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Lq9CyML-7Vs",
-      "published": "2026-06-06T18:30:00+00:00",
-      "summary": "The cast and creators of Avatar: The Last Airbender explain how Season 2 brought Toph Beifong to life. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "Pluribus — Carol, Helen, and Zosia | Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
@@ -738,6 +738,6 @@
     "mainCount": 13,
     "youtubeCount": 19,
     "trailerCount": 25,
-    "sourceCount": 18
+    "sourceCount": 19
   }
 }

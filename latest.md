@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-15T09:01:48.197283Z
+Generated: 2026-06-15T14:00:03.319918Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are As hype builds for Final Fantasy 7 Revelation, fans are flocking back to play (the heavily discounted) Remake and Rebirth on Steam, A new start after 60: I fell out of love with my job when it went online. So I’m beginning again – in nursing, and Europe is starting to break up with US big tech. But it’s still abiding by the Silicon Valley rulebook | Max von Thun.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Nvidia G-Sync Pulsar monitors can successfully beat biology to hone motion clarity in games - though they're not yet worth the price, The OPSEC Rave Wave (with Imani Thompson), and Opinion: How a California District Is Transforming Education in a Rapidly Changing World.
 
 ## Briefing
 
@@ -33,126 +33,126 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. As hype builds for Final Fantasy 7 Revelation, fans are flocking back to play (the heavily discounted) Remake and Rebirth on Steam [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-It looks like that superb Final Fantasy 7 Revelation trailer at Summer Game Fest was just the ticket for Square Enix : between a blowout trailer showcasing a massive open world, some significant story beats, and refined combat, and a…
-
-Link: https://www.eurogamer.net/final-fantasy-7-remake-revelation
-
-### 2. A new start after 60: I fell out of love with my job when it went online. So I’m beginning again – in nursing [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Nick Dowling spent decades in manufacturing and consultancy.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/jun/15/a-new-start-after-60-job-online-nursing
-
-### 3. Europe is starting to break up with US big tech. But it’s still abiding by the Silicon Valley rulebook | Max von Thun [10/10]
-**Source:** The Guardian US  
+### 1. Nvidia G-Sync Pulsar monitors can successfully beat biology to hone motion clarity in games - though they're not yet worth the price [10/10]
+**Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The European Commission has unveiled its plans for digital sovereignty. Its proposals betray a disappointing lack of vision Beti Hohler is a Slovenian national who lives in the Netherlands.
+Back when I first tried a G-Sync Pulsar monitor at an Nvidia shindig in February, I clung to the hope that maybe, finally , gaming display tech had made its first real breakthrough in years.
 
-Link: https://www.theguardian.com/commentisfree/2026/jun/15/europe-us-big-tech-silicon-valley-european-commission
+Link: https://www.rockpapershotgun.com/nvidia-g-sync-pulsar-monitors-can-successfully-beat-biology-to-hone-motion-clarity-in-games-though-theyre-not-yet-worth-the-price
 
-### 4. ‘I’m setting myself free from shame’: Laverne Cox on her brutal childhood and life as a trans woman in Trump’s America [10/10]
-**Source:** The Guardian US  
+### 2. The OPSEC Rave Wave (with Imani Thompson) [10/10]
+**Source:** 404 Media  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Before Orange Is the New Black made her a star, Cox endured bullying, abuse, harassment and violence.
+We get into how platforms have tried to make surveillance cute, why that damn Duolingo owl emotionally manipulates you, and why learning about privacy best practices when surrounded by community works.
 
-Link: https://www.theguardian.com/lifeandstyle/2026/jun/15/free-from-shame-laverne-cox-trans-woman-in-trump-america
+Link: https://www.404media.co/the-opsec-rave-wave-with-imani-thompson/
 
-### 5. Attacks on education, pupils and staff around the world up by 40%, says study [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Cases reported in 83 countries, with at least 10,600 students and staff killed, injured, abducted or arrested, GCPEA says Attacks on education globally have surged by 40% with more than 8,556 recorded incidents and 10,600 students and…
-
-Link: https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study
-
-### 6. EU leaders set to meet after deadly strikes on Ukraine, including Unesco-listed religious site in Kyiv – Europe live [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-G7 leaders to meet in Évian-les-Bains in France later today to discuss the most pressing issues, including Ukraine, Gaza, and Iran Kyiv monastery set on fire in night of Russian attacks across Ukraine Macron frames Évian G7 agenda in hope…
-
-Link: https://www.theguardian.com/world/live/2026/jun/15/eu-g7-ukraine-kyiv-russia-war-iran-zelenskyy-macron-trump-europe-latest-news-updates
-
-### 7. Under-16 social media ban announced by UK government [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-The UK is the latest country to follow Australia in implementing a total social media ban for children under 16, Prime Minister Keir Starmer has announced.
-
-Link: https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement
-
-### 8. ‘The Antarctic is the last frontier’: the quest to save Shackleton’s Endurance [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Amid fears the wreck will be more accessible to explorers – and new species – as the climate warms, conservationists want to create the region’s first underwater protected area The harsh temperatures, treacherous currents and shifting pack…
-
-Link: https://www.theguardian.com/environment/2026/jun/15/shackleton-endurance-shipwrecks-global-heating-antarctic-underwater-protected-area
-
-### 9. JD Vance says he will discuss 2028 presidential run after midterm elections [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Vice-president says he tries not to make decisions until he ‘absolutely must’ but has ‘no doubt’ Trump will support him JD Vance said that he will discuss a 2028 US presidential run with his wife after the 2026 midterms .
-
-Link: https://www.theguardian.com/us-news/2026/jun/14/jd-vance-2028-presidential-campaign-midterms-talks
-
-### 10. California Students Must Soon Learn Personal Finance to Graduate. Here’s How It Will Be Taught [9/10]
+### 3. Opinion: How a California District Is Transforming Education in a Rapidly Changing World [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-This story was originally published by EdSource. Sign up for their daily newsletter.
+Public education, in red and blue states alike, is being pulled apart by student disengagement, mental health needs, culture war battles, voucher expansion, budget uncertainty and the disruptive force of artificial intelligence.
 
-Link: https://www.the74million.org/article/california-students-must-soon-learn-personal-finance-to-graduate-heres-how-it-will-be-taught/
+Link: https://www.the74million.org/article/how-a-california-district-is-transforming-education-in-a-rapidly-changing-world/
 
-### 11. Supporting Neurodiverse Students on Their Own Terms with IMPACT Fellow Shanna Bohrer [9/10]
-**Source:** CSTA  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Shanna Bohrer is a CTE teacher at Alabama Virtual Academy in Eufaula, AL. Shanna began teaching science 15 years ago,...
-
-Link: https://csteachers.org/supporting-neurodiverse-students-on-their-own-terms-with-impact-fellow-shanna-bohrer/
-
-### 12. Mortal Shell 2 deconstructs the mechanics of Soulslikes even more effectively than its predecessor [8/10]
+### 4. Amid Marathon slump and Destiny 2 player resurgence, former Bungie employee claims studio was "very close" to shutting down before Sony's acquisition [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Mortal Shell is an action game with the usual smattering of RPG elements; set in a grim medieval/gothic-esque world where everything is terrible and everyone is sad.
+As we collectively witness the end of Destiny 2 following its final update, some fans have blamed the game's demise on Sony, suggesting the company didn't want to continue investing in the sci-fi loot shooter.
 
-Link: https://www.eurogamer.net/mortal-shell-2-beta-impressions
+Link: https://www.eurogamer.net/bungie-close-to-shutting-down-before-sony-acquisition-its-claimed
 
-### 13. An inside look at the Ebola outbreak in eastern Democratic Republic of Congo [8/10]
+### 5. Woman’s hypothermia death after her release by ICE is ruled a homicide [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Daphy Michel, a vulnerable asylum seeker from Haiti, died at Pittsburgh bus shelter days after leaving federal custody A medical examiner has ruled the death of a Haitian asylum seeker in Pennsylvania after being released from federal…
+
+Link: https://www.theguardian.com/us-news/2026/jun/15/ice-immigration-haitian-woman-death
+
+### 6. This week in PC games: a trio of surreal shooters, a big Stellaris expansion, and a new RPG from Octopath Traveller devs [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+"The mid-summer dry spell"? My friend, your naivete is exceeded only by your boorishness. You should be ashamed of yourself! This week is anything but dry.
+
+Link: https://www.rockpapershotgun.com/this-week-in-pc-games-a-trio-of-surreal-shooters-a-big-stellaris-expansion-and-a-new-rpg-from-octopath-traveller-devs
+
+### 7. Social media firms hit back as Starmer announces ban for under-16s in UK [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Meta, YouTube and Snapchat say ban, which would stop children using their platforms, will drive them to ‘less safe services’ UK politics live – latest updates How will the ban work? UK parents: how do you feel about the ban? Britain’s…
+
+Link: https://www.theguardian.com/media/2026/jun/15/social-media-ban-uk-under-16-starmer
+
+### 8. Mr Monopoly vs Mr Burns: The Simpsons take over Monopoly Go [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Bart and co’s latest video game venture involved the show’s writers, animators and voice talent – plus a showdown between the two infamous tycoons.
+
+Link: https://www.theguardian.com/games/2026/jun/15/mr-monopoly-vs-mr-burns-the-simpsons-take-over-monopoly-go
+
+### 9. The Witcher 3 online mod adds multiplayer Gwent battles in its latest update, a bit like CD Projekt's Gwent game but with more losers being ridden around by winners [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The Witcher 3 's multiplayer mod , the world's premier tool for forming big towers of multiple Geralts precariously perched atop each others' shoulders, has added another string to its bow.
+
+Link: https://www.rockpapershotgun.com/the-witcher-3-online-mod-adds-multiplayer-gwent-battles-in-its-latest-update-a-bit-like-cd-projekts-gwent-game-but-with-more-losers-being-ridden-around-by-winners
+
+### 10. Survey: Young People Turn to AI to Be ‘Their Real, Unfiltered Selves’ [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Alison Lee still remembers the conversation that helped her see why young people turn to the safety of artificial intelligence for companionship and belonging.
+
+Link: https://www.the74million.org/article/survey-young-people-turn-to-ai-to-be-their-real-unfiltered-selves/
+
+### 11. The Download: cutting AC emissions, and nature’s drug designer [9/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists aren’t so sure.
+
+Link: https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/
+
+### 12. Disclosure Day: alien conspiracies, car chases and a jaw-dropping climax – discuss with spoilers [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Steven Spielberg’s sci-fi blockbuster is a non-stop thrill ride, but did it convince you that we are not alone? • This article contains spoilers for Disclosure Day Six months after a cryptic billboard reading “All Will Be Disclosed” popped…
+
+Link: https://www.theguardian.com/film/2026/jun/15/disclosure-day-alien-discussion-spoilers
+
+### 13. Inside Ebola country: NPR reports from eastern DR Congo's outbreak zone [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
 In eastern Democratic Republic of Congo, an Ebola outbreak is reshaping life, with fear spreading faster than information and hospitals turning into places of urgent containment rather than care.
 
-Link: https://www.npr.org/2026/06/15/nx-s1-5856414/an-inside-look-at-the-ebola-outbreak-in-eastern-democratic-republic-of-congo
+Link: https://www.npr.org/2026/06/15/nx-s1-5856414/ebola-congo-bunia-health-crisis
 
 ## YouTube
 
-### NVIDIA's New Free Al - A Gift To All Of Us [8/10]
+### NVIDIA's New Free AI - A Gift To Humanity [8/10]
 **Creator:** Two Minute Papers  
 **Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
@@ -278,6 +278,15 @@ Link: https://www.youtube.com/watch?v=Ub0xMm7UCwU
 
 Link: https://www.youtube.com/watch?v=Irxf4tF7KGk
 
+### Building Our Indie Game Mount Rushmore | Windbreaker Podcast [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty build their own personal Mount Rushmore of indie games. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=cmiRr1m51Nc
+
 ### Jumping Into Riot's 2XKO | Super Smash Sunday [8/10]
 **Creator:** Second Wind  
 **Verdict:** Worth watching  
@@ -313,15 +322,6 @@ Link: https://www.youtube.com/watch?v=GtqJ8iPpn7k
 Studios keep getting caught using gen-ai, and the excuses keep getting worse. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
 Link: https://www.youtube.com/watch?v=eBBuixGJ9E8
-
-### Putting the "Care" in Characters | RPG Help Desk [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Towns. Villains. Characters.
-
-Link: https://www.youtube.com/watch?v=MWqAxitMQlg
 
 ## Entertainment Recommendations
 
@@ -451,6 +451,15 @@ Supernatural horror is a window into another nightmarish world. Curry Barker exp
 
 Link: https://www.youtube.com/watch?v=ZpeiXao2MS4
 
+### The Last House | Greta Lee and Wagner Moura | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+From director Louis Leterrier, starring Greta Lee and Wagner Moura.
+
+Link: https://www.youtube.com/watch?v=MLxgaz2Zp1k
+
 ### Love is Blind: UK - After the Altar | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -558,15 +567,6 @@ Link: https://www.youtube.com/watch?v=KM9XnXblZjk
 Scooby-Doo Reveal Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=-p7w41B1RjQ
-
-### Avatar: The Last Airbender: Season 2 | Meet Toph | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-The cast and creators of Avatar: The Last Airbender explain how Season 2 brought Toph Beifong to life. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=Lq9CyML-7Vs
 
 ### Pluribus — Carol, Helen, and Zosia | Apple TV [10/10]
 **Source:** Apple TV  
