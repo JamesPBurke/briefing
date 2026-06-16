@@ -1,79 +1,109 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-16T05:00:03.691289Z",
-  "generatedAtDisplay": "2026-06-16 01:00 AM EDT",
+  "generatedAt": "2026-06-16T14:00:02.650202Z",
+  "generatedAtDisplay": "2026-06-16 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Trump news at a glance: Long way to Friday and Iran peace deal signing, Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising, and Trump’s Anthropic shutdown just made the case for non-American AI.",
+  "summary": "Today's sweep leans toward Games / criticism, Democracy / press freedom, Education / pedagogy. The strongest items in this run are Here's your next batch of Xbox Game Pass games for June, What are we all playing this Steam Next Fest?, and Opinion: 5 Questions to Help Schools and Districts Make Smarter Ed Tech Decisions.",
   "mainItems": [
     {
-      "title": "Trump news at a glance: Long way to Friday and Iran peace deal signing",
-      "source": "The Guardian US",
+      "title": "Here's your next batch of Xbox Game Pass games for June",
+      "source": "Eurogamer",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/16/trump-news-latest-updates-today",
-      "published": "2026-06-16T01:51:01+00:00",
-      "summary": "‘A compromise deal packed with fudges’; Newsom says Trump weaponizing justice department against him.",
+      "url": "https://www.eurogamer.net/xbox-game-pass-more-games-june",
+      "published": "2026-06-16T13:45:36+00:00",
+      "summary": "Microsoft has revealed the next batch of games coming to its Xbox Game Pass subscription service this June and early July. Read more",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/",
-      "published": "2026-06-15T18:29:47+00:00",
-      "summary": "Fox plans to take over Roku's streaming hardware, OS, and FAST services.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "What are we all playing this Steam Next Fest?",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-steam-next-fest",
+      "published": "2026-06-16T13:04:00+00:00",
+      "summary": "Saturdays are for… Wait, wrong game round up post. This isn't a What are we all playing this weekend? , this is where we'll be shouting about the gems (and lumps of coal) we've discovered in this week's Steam Next Fest .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
-      "published": "2026-06-15T18:10:27+00:00",
-      "summary": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Key mission for Europe's commercial space enterprise scrubbed again",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/",
-      "published": "2026-06-15T23:40:38+00:00",
-      "summary": "Isar Aerospace is not hurting for money, but it is sorely lacking in the currency of flight experience.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "All the news about Anthropic’s new AI fight with the White House",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
-      "published": "2026-06-15T22:46:11+00:00",
-      "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Alaska rules Dan Sullivan cannot run against Dan Sullivan in key Senate race",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jun/15/dan-sullivan-alaska-primary-election-ballot",
-      "published": "2026-06-15T21:26:58+00:00",
-      "summary": "Elections chief says bid by ex-teacher to challenge senator with same name was filed ‘to confuse or mislead’ voters There will still be one Dan Sullivan on the ballot, but election officials in Alaska determined a second man by the same…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Mississippi High in Education, Last in Child Health Outcomes",
+      "title": "Opinion: 5 Questions to Help Schools and Districts Make Smarter Ed Tech Decisions",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/mississippi-high-in-education-last-in-child-health-outcomes/",
-      "published": "2026-06-15T18:30:00+00:00",
-      "summary": "Mississippi continues to outperform most of the nation in education, according to a new report, but health outcomes for children remain dismal. The 2026 KIDS COUNT Data Book, published annually by the Annie E.",
+      "url": "https://www.the74million.org/article/5-questions-to-help-schools-and-districts-make-smarter-ed-tech-decisions/",
+      "published": "2026-06-16T12:30:00+00:00",
+      "summary": "Over the past decade, school districts accumulated thousands of educational technology tools, often without clear evidence that they improved student outcomes.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "More than a thousand games in Steam Next Fest feature a generative AI disclosure of some kind",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/steam-next-fest-generative-ai-disclosure-thousands",
+      "published": "2026-06-16T12:16:10+00:00",
+      "summary": "Steam Next Fest is back on the PC's largest gaming store, offering a vast selection of demos for upcoming games. And many of these, it turns out, have generative AI disclosures present. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Beyond the classroom: South Carolina educators use food to teach Gullah Geechee culture",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/news/2026/jun/16/south-carolina-educators-food-gullah-geechee-culture",
+      "published": "2026-06-16T12:00:02+00:00",
+      "summary": "New programs in the state work to teach high school and college students about Gullah foodways through hands-on projects When students from Charleston county school of the arts in South Carolina entered a research institute on the African…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
+      "source": "Ars Technica",
+      "category": "Security / computing",
+      "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+      "published": "2026-06-16T11:15:46+00:00",
+      "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 10
+    },
+    {
+      "title": "Experts alarmed as Trump launches broad-front attack on US voting rights",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/jun/16/trump-voting-rights-elections",
+      "published": "2026-06-16T11:00:07+00:00",
+      "summary": "With election denialists installed in key positions, officials using series of measures to change voting rules The Trump administration is waging war on voting rights using justice department lawsuits, FBI investigations, and an executive…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Dutch children are unusually happy and healthy. Is it because of this walking ritual?",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/16/dutch-children-unusually-happy-healthy-avondvierdaagse-walking-festival",
+      "published": "2026-06-16T04:00:45+00:00",
+      "summary": "Once a year, Dutch kids, parents and teachers take part in a walking festival, heading out for four nights in a single week to explore their neighbourhoods, exercise and make friends.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Hackers Are Hijacking Entire Roblox Games Now",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/hackers-are-hijacking-entire-roblox-games-now/",
+      "published": "2026-06-16T13:00:49+00:00",
+      "summary": "Whereas Roblox hackers were previously focused on stealing players' high value items, some have taken over entire Roblox games, stealing their ownership and Robux in the process.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9
+    },
+    {
+      "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
+      "published": "2026-06-16T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
@@ -87,58 +117,481 @@
       "score": 9
     },
     {
-      "title": "Nintendo's latest Direct was reportedly 2026's most-watched Summer Game Fest showcase, and Zelda: Ocarina of Time's remake was the most-viewed trailer",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/nintendo-direct-june-2026-zelda-ocarina-of-time",
-      "published": "2026-06-15T15:23:57+00:00",
-      "summary": "June's Nintendo Direct presentation was reportedly this year's most-watched Summer Game Fest showcase. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: How a California District Is Transforming Education in a Rapidly Changing World",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/how-a-california-district-is-transforming-education-in-a-rapidly-changing-world/",
-      "published": "2026-06-15T12:30:00+00:00",
-      "summary": "Public education, in red and blue states alike, is being pulled apart by student disengagement, mental health needs, culture war battles, voucher expansion, budget uncertainty and the disruptive force of artificial intelligence.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Disclosure Day's Delusion Is That People Would Think Alien Videos Are Not AI",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/disclosure-days-delusion-that-people-would-think-alien-videos-are-not-ai/",
-      "published": "2026-06-15T18:11:50+00:00",
-      "summary": "The only plausible response to videos of aliens on television, at this point, would be cries of “that’s AI,” “fake,” and propaganda flowing in all directions.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Inside Ebola country: NPR reports from eastern DR Congo's outbreak zone",
+      "title": "Is a transparent fish the future of brain science? This center is betting on it",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/15/nx-s1-5856414/ebola-congo-bunia-health-crisis",
-      "published": "2026-06-15T09:00:00+00:00",
-      "summary": "In eastern Democratic Republic of Congo, an Ebola outbreak is reshaping life, with fear spreading faster than information and hospitals turning into places of urgent containment rather than care.",
+      "url": "https://www.npr.org/2026/06/16/nx-s1-5859393/ai-science-brain-humans-fruit-fly-danionella",
+      "published": "2026-06-16T09:00:00+00:00",
+      "summary": "One of the world's leading brain research centers is shifting away from fruit flies and toward a tiny, transparent fish. The goal: to understand how brains control the behavior of an animal or human.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "8 beloved regional pizza styles, from New Haven to Chicago: A (virtual) pizza road trip across the country.",
+      "title": "How to make Dot Cakes at home: Bring the latest cake craze to your own kitchen.",
       "source": "King Arthur Baking",
       "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/06/15/regional-pizza-styles",
-      "published": "2026-06-15T14:00:00+00:00",
-      "summary": "Pizza is a shapeshifter. What originally came to our shores from Italy has transformed and mutated in countless way across the US — it’s gotten thicker, thinner, much thinner, bigger, smaller, redder, whiter, and so much more.",
+      "url": "https://www.kingarthurbaking.com/blog/2026/06/17/how-to-make-dot-cakes-recipe",
+      "published": "2026-06-16T13:00:00+00:00",
+      "summary": "We don’t get behind every baking trend (just listen to me talk on a recent episode of our podcast about how much I dislike chocolate chip cookie croissants ), but as a devoted cake lover I’ve been paying attention to the latest viral baked…",
       "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
       "score": 7
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "NVIDIA's New Free AI - A Gift To Humanity",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=zJvN8PDX1is",
+      "published": "2026-06-14T15:27:17+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Nemotron 3 Ultra paper is available here: https://research.nvidia.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "TCP b : Additive Increase Multiplicative Decrease & 'Slow Start' - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=nKVML4YaBqs",
+      "published": "2026-06-15T14:33:58+00:00",
+      "summary": "Network Basics story continues with the second part of the TCP segment. Richard G Clegg is based at Queen Mary University London. Richard's Code: https://github.com/richardclegg/computerphile_demos/ RFC 5681 https://datatracker.ietf.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "FDA OKs sunscreen ingredient long used in Europe and Asia",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=eVax-_pWZJw",
+      "published": "2026-06-13T18:00:10+00:00",
+      "summary": "The Food and Drug Administration has approved a new sunscreen ingredient for the first time in decades. In the United States, sunscreen is regulated as an over the counter drug — not as a cosmetic — which can make new approvals tricky.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "What Is The Best \"Good Enough\" Console-Beating Gaming CPU?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=h90EbiEQQUw",
+      "published": "2026-06-15T17:00:26+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/zCBaZ1Wl6O4 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Switch 2 - Year One: The Hardware's Great... But There Are Issues",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=I9mOUfkboH4",
+      "published": "2026-06-15T16:00:01+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/aySCTfjCgMQ ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Xbox \"Reset\" Memo Discussion - BIG Changes Are Coming",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=EmN1y8I33kk",
+      "published": "2026-06-14T17:00:17+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/1IT7sQ7pqsE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Gen Atlas: The New Game From The Creator of Ico, Last Guardian + Shadow of the Colossus - Reaction",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=1NWiDh1kBuQ",
+      "published": "2026-06-14T16:00:26+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/1IT7sQ7pqsE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Xbox Showcase Highlights: Senua, Spyro, Metro 2039, Crazy Taxi, Doom, Wo Long, Plague Tale",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=-42xAnrYmcs",
+      "published": "2026-06-14T15:00:15+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/033V4rCJpDE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Persona 4 Revival + Persona 6 Reveal Reaction",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=XlX7CzzGe6M",
+      "published": "2026-06-13T17:00:31+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/033V4rCJpDE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Stellar Blade 2: Incredible Visuals - But Can The Final Game Deliver?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=NqdNXj6VyJg",
+      "published": "2026-06-13T16:00:32+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/1IT7sQ7pqsE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Why We're Excited About Halo Campaign Evolved!",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=YdH71R_9-tk",
+      "published": "2026-06-13T15:00:18+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/033V4rCJpDE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "2 Fights in 2 Tight Spaces Is a Very Good Video Game Title | Hot Monday Energy",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=d-ZFYnDrZFg",
+      "published": "2026-06-16T01:10:55+00:00",
+      "summary": "This week on Hidden Gems KC, Jess, and Jesse play 2 Fights in 2 Tight Spaces -- https://store.steampowered.com/app/3734890/2_Fights_in_2_Tight_Spaces/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Building Our Indie Game Mount Rushmore | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=cmiRr1m51Nc",
+      "published": "2026-06-15T18:59:10+00:00",
+      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty build their own personal Mount Rushmore of indie games. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Competing for a Minimum Wage Job at Sony | Game Arcadia",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=DbbQRoBXQac",
+      "published": "2026-06-15T15:00:19+00:00",
+      "summary": "At one point, Sony thought it would be a good idea to host a game show to get a minimum wage job... Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Jumping Into Riot's 2XKO | Super Smash Sunday",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=X-5JlzSQISQ",
+      "published": "2026-06-15T08:04:12+00:00",
+      "summary": "Our resident fighting game fans KC and El Cheshire are trying out Riot's 2XKO. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Better Than Dead, Stonemachia, Voidling Bound, and Arms of God | Yahtzee Tries",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=cUTlZfhd9bo",
+      "published": "2026-06-14T16:00:09+00:00",
+      "summary": "This week on Yahtzee Tries, Yahtzee checked out Better Than Dead, Stonemachia, Voidling Bound ,and Arms of God Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Old School Puzzle Dungeon | Adventure Is Nigh! - The Slow Walk Home | Ep. 3",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=GtqJ8iPpn7k",
+      "published": "2026-06-13T16:00:06+00:00",
+      "summary": "This video is brought to you by Ember, the digital roleplaying game world and TTRPG system from the creators of Foundry VTT: https://foundryvtt.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "THE SOCIAL RECKONING – Official Teaser Trailer (HD)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=gM4LkaXwGuY",
+      "published": "2026-06-10T12:58:35+00:00",
+      "summary": "Every revolution begins with a reckoning. The Social Reckoning, a companion piece to The Social Network, is coming exclusively to theatres October 9.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Whalefall | Official Teaser | In Theaters October 16",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=67ho3OxCmmM",
+      "published": "2026-06-09T16:00:21+00:00",
+      "summary": "The odds of being swallowed alive by a whale are not zero. Watch the new teaser for #Whalefall and see the film only in theaters October 16.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "The Dog Stars | In Theaters August 28",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=h-AyrYcuL8U",
+      "published": "2026-06-08T19:54:02+00:00",
+      "summary": "THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters August 28. Full trailer online now.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Dog Stars | In Theaters August 28",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=mx15DclPXJQ",
+      "published": "2026-06-08T18:41:20+00:00",
+      "summary": "THE DOG STARS. Jacob Elordi. Ridley Scott. Full trailer online now.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Dog Stars | Official Trailer | In Theaters Aug 28",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=sVCrTJdNtSs",
+      "published": "2026-06-08T16:00:16+00:00",
+      "summary": "Fear the survivors. THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters August 28.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Invite | Official Trailer 2 HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=nelkiuezJxg",
+      "published": "2026-06-04T13:00:30+00:00",
+      "summary": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Onslaught | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=L24CYVpQ-LI",
+      "published": "2026-06-02T13:00:08+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Adam Wingard and starring Adria Arjona, Alex Pereira, Drew Starkey, Rebecca Hall, Reginald VelJohnson, Michael Biehn, Eric Wareheim and Dan Stevens. ONSLAUGHT – In Theaters September 4.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Primetime | Official Teaser HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Yrfrf53ttYY",
+      "published": "2026-05-27T13:00:08+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Once Upon a Time in Harlem - Official Teaser Trailer - In Select Theaters October 16",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=zIjmgj5rbOY",
+      "published": "2026-06-09T15:05:57+00:00",
+      "summary": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Worst Neighbor Ever Season 2 | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=cWgSDtI5khA",
+      "published": "2026-06-10T17:03:12+00:00",
+      "summary": "You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on July 1. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Built Different: Curry Barker on Supernatural Horror",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ZpeiXao2MS4",
+      "published": "2026-05-26T18:01:01+00:00",
+      "summary": "Supernatural horror is a window into another nightmarish world. Curry Barker explains why we're all drawn in, and how Obsession goes even deeper GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Truthers | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=IvL0oT13djs",
+      "published": "2026-06-16T08:00:01+00:00",
+      "summary": "Following her mother's strange death, Ruth (Stéphanie Magnin) returns to her childhood home. There, she discovers that her father's (Jose Coronado) conspiracy theories hide something far darker than a simple retiree's obsession.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The voicemail that started it all. #VoicemailsforIsabelle premieres June 19",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=ZOQo6qPlbek",
+      "published": "2026-06-15T18:30:38+00:00",
+      "summary": "The voicemail that started it all. #VoicemailsforIsabelle premieres June 19 #ZoeyDeutch #NickRobinson Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "America's Sweethearts: Dallas Cowboys Cheerleaders | Season 3 Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=0IN0dulzxhI",
+      "published": "2026-06-15T18:00:00+00:00",
+      "summary": "Rookie candidates face fierce competition, high expectations and even higher kicks as they vie for a spot with the Dallas Cowboys Cheerleaders. Watch Season 3 of America's Sweethearts: Dallas Cowboys Cheerleaders JUNE 16, only on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Last House | Greta Lee and Wagner Moura | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=MLxgaz2Zp1k",
+      "published": "2026-06-15T13:00:00+00:00",
+      "summary": "From director Louis Leterrier, starring Greta Lee and Wagner Moura.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Love is Blind: UK - After the Altar | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Rvj5J6eQYFo",
+      "published": "2026-06-15T08:00:00+00:00",
+      "summary": "Weeks after the reunion of LIB UK S2, we catch up with where the couples and ex couples are now along with some favourites from season 1 as Megan and Kieran decide to bring everyone back together to celebrate Kieran's birthday Watch on…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Another Self: Season 3 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=9h620asn9wg",
+      "published": "2026-06-15T07:00:00+00:00",
+      "summary": "Back where it all began, hand in hand one last time. Another Self season 3 is only on Netflix on June 24th. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Avatar: The Last Airbender | Audio Described Season 1 Recap | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=pvpgyLHL3l8",
+      "published": "2026-06-11T18:00:03+00:00",
+      "summary": "Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then, everything changed when the Fire Nation attacked. Avatar: The Last Airbender Season 2 premieres on June 25, 2026 only on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Avatar: The Last Airbender | Season 1 Recap | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=6uyXiN6JH6Q",
+      "published": "2026-06-11T18:00:00+00:00",
+      "summary": "Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then, everything changed when the Fire Nation attacked. Avatar: The Last Airbender Season 2 premieres on June 25, 2026 only on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Little House on the Prairie | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=jSds4Oi83Eg",
+      "published": "2026-06-11T15:00:03+00:00",
+      "summary": "The Ingalls’ journey begins. Little House on the Prairie, based on the beloved books, premieres July 9, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Worst Neighbor Ever | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=W20YAjAtDnc",
+      "published": "2026-06-10T17:00:00+00:00",
+      "summary": "You think you know your neighbors? Think again. This new series features firsthand accounts of violence, intimidation, and harassment that are more shocking than ever.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Map of Longing | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=qpXDZA7f3N4",
+      "published": "2026-06-10T10:00:00+00:00",
+      "summary": "What if the map to finding yourself led you straight to the person who will change your life forever? ✨ Based on Alice Kellen's bestselling novel, The Map of Longing is one of the year’s most anticipated adaptations.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Outlast: The Jungle | Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=_69hNcNJzgI",
+      "published": "2026-06-09T15:00:00+00:00",
+      "summary": "In this ultimate survival game, the contestants must outlast not only the jungle and its elements but also the psychological and social challenges posed by their fellow competitors.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Case closed! A Good Girl’s Guide to Murder will return for Season 3 ❤️",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=_Xz7HelYw2Q",
+      "published": "2026-06-09T14:00:04+00:00",
+      "summary": "#netflix Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -250,8 +703,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 9
+    "youtubeCount": 17,
+    "trailerCount": 24,
+    "sourceCount": 21
   }
 }
