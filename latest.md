@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-17T09:02:20.558129Z
+Generated: 2026-06-17T14:00:02.448614Z
 
-Today's sweep leans toward CS education / AI policy, AI / privacy, Democracy / press freedom. The strongest items in this run are Study: Giving Kids Access to AI Tutors Doesn’t Mean They’ll Use Them, Trump’s DoJ intervenes to back Elon Musk in datacenter pollution lawsuit, and Fifteen people charged over alleged interference in Minnesota immigration crackdown.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Pakistan ends 'luxury tax' on menstrual products, contraceptives. Will prices drop?, Trump says ‘I am the boss’ at G7 summit as leaders agree ‘new steps to put pressure’ on Russia – Europe live, and "This is just the start" - Housemarque responds to Saros' slower sales versus Returnal's, and compares itself to one of the most beloved studios around.
 
 ## Briefing
 
@@ -33,7 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Study: Giving Kids Access to AI Tutors Doesn’t Mean They’ll Use Them [10/10]
+### 1. Pakistan ends 'luxury tax' on menstrual products, contraceptives. Will prices drop? [10/10]
+**Source:** NPR Health  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+In Pakistan, taxes on menstrual products can add up. Activists have long worked to change this. Now a new budget wipes out the 18% sales tax. But questions remain about the impact on prices.
+
+Link: https://www.npr.org/2026/06/17/g-s1-128442/menstrual-products-contraceptives-pakistan-luxury-tax
+
+### 2. Trump says ‘I am the boss’ at G7 summit as leaders agree ‘new steps to put pressure’ on Russia – Europe live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The moment was published by the White House after the US president walking into the summit for Wednesday morning’s session Rutte says the adjustment in the US pledge to the Nato Force Model is “not primarily about where forces and assets…
+
+Link: https://www.theguardian.com/world/live/2026/jun/17/g7-leaders-evian-donald-trump-ukraine-russia-war-iran-latest-news-updates
+
+### 3. "This is just the start" - Housemarque responds to Saros' slower sales versus Returnal's, and compares itself to one of the most beloved studios around [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Housemarque is a team with a long history of creating games for a certain type of audience. The Finnish studio, which started out making smaller, arcadey titles, has grown to be among the most prestigious PlayStation first-party studios.
+
+Link: https://www.eurogamer.net/housemarque-saros-returnal-sales-fromsoftware-ambitions
+
+### 4. International Teachers Needed in U.S. Classrooms Threatened by Visa Delays, Fees [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Thousands of foreign-born teachers leading classrooms throughout the United States now find their jobs and status in jeopardy because of the Trump administration’s campaign to constrict all forms of immigration.
+
+Link: https://www.the74million.org/article/international-teachers-needed-in-u-s-classrooms-threatened-by-visa-delays-fees/
+
+### 5. Study: Giving Kids Access to AI Tutors Doesn’t Mean They’ll Use Them [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -42,70 +78,43 @@ Ed tech companies routinely pitch AI tutoring platforms as a way to deliver pers
 
 Link: https://www.the74million.org/article/study-giving-kids-access-to-ai-tutors-doesnt-mean-theyll-use-them/
 
-### 2. Trump’s DoJ intervenes to back Elon Musk in datacenter pollution lawsuit [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Justice department urges judge to throw out suit brought by NAACP over xAI’s methane-gas turbines in Mississippi The Trump administration is coming to the defense of Elon Musk in a lawsuit over claims that his artificial intelligence…
-
-Link: https://www.theguardian.com/technology/2026/jun/16/elon-musk-xai-datacenters-trump-administration
-
-### 3. Fifteen people charged over alleged interference in Minnesota immigration crackdown [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Prosecutors claim defendants were part of Minneapolis-based ‘antifa’ groups that ‘violently oppose’ law enforcement Fifteen people in Minnesota were charged with conspiracy to impede or injure federal officers over their response to a…
-
-Link: https://www.theguardian.com/us-news/2026/jun/16/minnesota-immigration-enforcement-conspiracy-charges
-
-### 4. Critical Copilot vulnerability allowed hackers to steal 2FA code from users [10/10]
-**Source:** Ars Technica  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-SearchLeak exploit shows why the industry's approach to LLM security fails over and over.
-
-Link: https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/
-
-### 5. Education Department's two biggest responsibilities shifted to other federal agencies [9/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-The Trump administration says it is moving some of the Education Department's most important responsibilities, including oversight of special education and student civil rights, to other agencies.
-
-Link: https://www.npr.org/2026/06/17/nx-s1-5860751/education-departments-two-biggest-responsibilities-shifted-to-other-federal-agencies
-
-### 6. Fashion tycoon Bernard Arnault accused of stranglehold over French business press [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Arnault’s addition of leading weekly to stable of publications raises concerns about media ownership in France He is known as the “wolf in cashmere” – the owner of the world’s biggest luxury group whose brands including Louis Vuitton, Dior…
-
-Link: https://www.theguardian.com/business/2026/jun/17/fashion-tycoon-bernard-arnault-accused-of-stranglehold-over-french-business-press
-
-### 7. Naoki Hamaguchi explains why Final Fantasy 7 Revelation has that subtitle even if the game's central theme is "Resolve" [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-When Final Fantasy 7 Remake part two was officially revealed to be titled Rebirth, an immediate question arose for pretty much everyone: what will part three be called? That question has persisted since Rebirth came out, with way too many…
-
-Link: https://www.rockpapershotgun.com/naoki-hamaguchi-explains-why-final-fantasy-7-revelation-has-that-subtitle-even-if-the-games-central-theme-is-resolve
-
-### 8. Exclusive eBook: How AI is becoming the next military advisor [9/10]
+### 6. The Download: a reality check for geoengineering and the science of interoception [9/10]
 **Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-A collection of stories about how militaries are using AI models to make decisions.
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
 
-Link: https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/
+Link: https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/
 
-### 9. Shrek and Donkey Are at It Again in Shrek 5 Trailer [9/10]
+### 7. Windows and Linux users: The deadline to update Secure Boot keys is near [9/10]
+**Source:** Ars Technica  
+**Category:** Linux / anti-obsolescence  
+**Why it matters:** Relevant to humane computing, open-source practice, and repairability.
+
+What you need to know about the expiration of keys securing your machine's boot sequence.
+
+Link: https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/
+
+### 8. Florida couple given wrong embryo will retain permanent custody of their child [9/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Steven Mills and Tiffany Score reached an agreement with the biological parents of their child after fertility clinic’s mix-up A Florida couple who learned they had been given the wrong embryo after their newborn, Shea, appeared to be of a…
+
+Link: https://www.theguardian.com/us-news/2026/jun/17/florida-couple-wrong-embryo-permanent-custody
+
+### 9. They were forced into marriage and abused. Now women facing exploitation in China have a glimmer of hope [9/10]
+**Source:** The Guardian US  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+Female activists are working in the shadows to find and support vulnerable women they fear are being failed by authorities Last summer, Xiaocao, a softly spoken woman in her 40s, received a tip-off that in Lüliang, a small city in China’s…
+
+Link: https://www.theguardian.com/world/2026/jun/17/forced-marriage-exploitation-women-china
+
+### 10. Shrek and Donkey Are at It Again in Shrek 5 Trailer [9/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -114,7 +123,7 @@ That’s pretty much all there is to say about the fifth installment in the fran
 
 Link: https://reactormag.com/shrek-and-donkey-are-at-it-again-in-shrek-5-trailer/
 
-### 10. Anthropic incident leaves confusion about Trump administration's AI regulation [8/10]
+### 11. Anthropic incident leaves confusion about Trump administration's AI regulation [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -123,7 +132,7 @@ There's been a lot of confusion and disruption about the legal authority the Tru
 
 Link: https://www.npr.org/2026/06/16/nx-s1-5859275/anthropic-incident-leaves-confusion-about-trump-administrations-ai-regulation
 
-### 11. Hackers Publish Knicks and Madison Square Garden Data Online [8/10]
+### 12. Hackers Publish Knicks and Madison Square Garden Data Online [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -132,7 +141,7 @@ The data contains a list of "talent," including former Knicks players and coache
 
 Link: https://www.404media.co/hackers-publish-knicks-and-madison-square-garden-data-online/
 
-### 12. Winning strategy to prevent diabetes and related chronic diseases [7/10]
+### 13. Winning strategy to prevent diabetes and related chronic diseases [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -140,15 +149,6 @@ Link: https://www.404media.co/hackers-publish-knicks-and-madison-square-garden-d
 In the U.S., 115 million adults have prediabetes, which is tied to heart disease and other health problems. A 20-year follow-up to a landmark diabetes study shows lifestyle interventions cut the risk.
 
 Link: https://www.npr.org/2026/06/16/nx-s1-5859248/winning-strategy-to-prevent-diabetes-and-related-chronic-diseases
-
-### 13. How to make Dot Cakes at home: Bring the latest cake craze to your own kitchen. [7/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-We don’t get behind every baking trend (just listen to me talk on a recent episode of our podcast about how much I dislike chocolate chip cookie croissants ), but as a devoted cake lover I’ve been paying attention to the latest viral baked…
-
-Link: https://www.kingarthurbaking.com/blog/2026/06/17/how-to-make-dot-cakes-recipe
 
 ## YouTube
 
@@ -197,9 +197,9 @@ History Professor Jonathan Rees joins WIRED to answer the internet’s burning q
 
 Link: https://www.youtube.com/watch?v=8mkrHaLcxcA
 
-### In a new book, Georgia Democrat Sen. Raphael Warnock writes about how faith is applied to politics [8/10]
+### In a new book, Georgia Democrat Sen. Raphael Warnock writes about how faith is applied to politics [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 In a new book, Georgia Democrat Sen. Raphael Warnock asks how Republicans and Democrats are applying faith to their politics.
@@ -296,9 +296,9 @@ Link: https://www.youtube.com/watch?v=1NWiDh1kBuQ
 
 Link: https://www.youtube.com/watch?v=-42xAnrYmcs
 
-### Nick Plays the Sands of Time Trilogy for the First Time | Part 2 [7/10]
+### Nick Plays the Sands of Time Trilogy for the First Time | Part 2 [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 The community funded Nick playing the Sands of Time trilogy on stream for the first time. Join Nick and Jenna as they start the series today! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.
@@ -469,15 +469,6 @@ SUBSCRIBE: http://bit.ly/A24subscribe From director Adam Wingard and starring Ad
 
 Link: https://www.youtube.com/watch?v=L24CYVpQ-LI
 
-### Primetime | Official Teaser HD | A24 [6/10]
-**Source:** A24  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Coming Soon.
-
-Link: https://www.youtube.com/watch?v=Yrfrf53ttYY
-
 ### Once Upon a Time in Harlem - Official Teaser Trailer - In Select Theaters October 16 [7/10]
 **Source:** NEON  
 **Verdict:** Worth a glance  
@@ -495,6 +486,15 @@ Link: https://www.youtube.com/watch?v=zIjmgj5rbOY
 You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on July 1. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
 
 Link: https://www.youtube.com/watch?v=cWgSDtI5khA
+
+### Check out a sneak peek at AVATAR: THE LAST AIRBENDER Season 2, premiering June 25! [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Aang, meet Azula. Azula, meet the Avatar. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=hk-byPC1lsI
 
 ### Get ready for another trip... The Four Seasons is coming back for a Season 3! [10/10]
 **Source:** Netflix  
@@ -585,15 +585,6 @@ Link: https://www.youtube.com/watch?v=9h620asn9wg
 Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then, everything changed when the Fire Nation attacked. Avatar: The Last Airbender Season 2 premieres on June 25, 2026 only on Netflix.
 
 Link: https://www.youtube.com/watch?v=pvpgyLHL3l8
-
-### Avatar: The Last Airbender | Season 1 Recap | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then, everything changed when the Fire Nation attacked. Avatar: The Last Airbender Season 2 premieres on June 25, 2026 only on Netflix.
-
-Link: https://www.youtube.com/watch?v=6uyXiN6JH6Q
 
 ### Badging in. Production for Season 3 of #ThePitt has begun. [6/10]
 **Source:** HBO Max  
