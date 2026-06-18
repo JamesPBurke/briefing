@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-18T09:02:11.331103Z
+Generated: 2026-06-18T14:00:01.570584Z
 
-Today's sweep leans toward Democracy / press freedom, Science / computing, Security / computing. The strongest items in this run are Researchers find malware that may have aimed to slow down Iran's nuclear program, Can ecosystems ‘malfunction’?, and The malignant rise of OnlyFans managers: ‘It’s exploiting. It’s grooming. It’s predatory’.
+Today's sweep leans toward Games / criticism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are For some reason, Riot Games is creating a Valorant 'pub' in east London hosted by a British takeaway guy who likes to yell "bosh!", Supreme court to release opinions with several high-stakes rulings to come including birthright citizenship – US politics live, and Rockstar reveals the Grand Theft Auto 6 box art, which is quite nice I suppose, and pre-order dates for the game.
 
 ## Briefing
 
@@ -33,7 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Researchers find malware that may have aimed to slow down Iran's nuclear program [10/10]
+### 1. For some reason, Riot Games is creating a Valorant 'pub' in east London hosted by a British takeaway guy who likes to yell "bosh!" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Ever watched a Big John video ? He's a big guy from London who films himself eating food that'd probably floor me. I watched one video where he ordered three pies and two scoops of mash potato and some swamp-like sauce.
+
+Link: https://www.eurogamer.net/valorant-masters-pub-big-john-hackney-london
+
+### 2. Supreme court to release opinions with several high-stakes rulings to come including birthright citizenship – US politics live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Trump’s immigration agenda is on the supreme court docket with rulings still to come on birthright citizenship and TPS for Haitian and Syrian immigrants Sign up for the Breaking News US email Republican senator Lindsey Graham , a key Trump…
+
+Link: https://www.theguardian.com/us-news/live/2026/jun/18/supreme-court-birthright-citizenship-ruling-tps-mangione-iran-latest-updates
+
+### 3. Rockstar reveals the Grand Theft Auto 6 box art, which is quite nice I suppose, and pre-order dates for the game [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Rockstar Games has revealed the box art for Grand Theft Auto 6 , which looks a lot like you'd expect it to look, and it's revealed pre-order dates for the new game. Read more
+
+Link: https://www.eurogamer.net/rockstar-grand-theft-auto-6-gta-box-art
+
+### 4. Opinion: What School and District Leaders Need to Know Before They Invest in AI [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+The end of the fiscal year is near.
+
+Link: https://www.the74million.org/article/what-school-and-district-leaders-need-to-know-before-they-invest-in-ai/
+
+### 5. Photoshop and Premiere now have AI assistants [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps.
+
+Link: https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch
+
+### 6. Fortnite boss hopes to take on Roblox's massive everythingverse with a "very different" massive everythingverse, as Epic unveil genAI-infused Unreal Engine 6 [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Epic Games CEO Tim Sweeney, overseer of a company which fired over 1000 staff just a few months ago, has laid out his vision for the games industry's future during a "time of both crisis and opportunity".
+
+Link: https://www.rockpapershotgun.com/fortnite-boss-hopes-to-take-on-robloxs-massive-everythingverse-with-a-very-different-massive-everythingverse-as-epic-unveil-genai-infused-unreal-engine-6
+
+### 7. Girls Like Girls review – Sapphic teen romance is a precious and predictable yawn-a-thon [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Singer Hayley Kiyoko misses the mark in a meandering directorial debut packed with groan-inducing dialogue On 26 June 2015, the US supreme court finally declared gay marriage legal nationwide.
+
+Link: https://www.theguardian.com/film/2026/jun/18/girls-like-girls-movie-review
+
+### 8. Co-Designing for Belonging: An American Indian Education Partnership in Elementary CS [10/10]
+**Source:** CSTA  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+How a partnership grounded in Indigenous knowledge created richer CS learning—and how others can adapt the approach. Written by Alexandra...
+
+Link: https://csteachers.org/co-designing-for-belonging-an-american-indian-education-partnership-in-elementary-cs/
+
+### 9. Researchers find malware that may have aimed to slow down Iran's nuclear program [10/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -42,95 +114,23 @@ Cybersecurity researchers recently uncovered a cyber weapon that twisted math --
 
 Link: https://www.npr.org/2026/06/18/nx-s1-5861609/researchers-find-malware-that-may-have-aimed-to-slow-down-irans-nuclear-program
 
-### 2. Can ecosystems ‘malfunction’? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-We are told the natural world is ‘breaking down’.
-
-Link: https://www.theguardian.com/news/2026/jun/18/can-ecosystems-malfunction
-
-### 3. The malignant rise of OnlyFans managers: ‘It’s exploiting. It’s grooming. It’s predatory’ [10/10]
+### 10. Gig workers are endlessly exploited. AI could make more of us share their fate [10/10]
 **Source:** The Guardian US  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-As the pornography platform has exploded in popularity, a side industry has emerged: middlemen who encourage young women into the industry, then take a large cut of their earnings Markuss Hussle wants his online students to understand one…
+As companies integrate AI and hire fewer employees, a shift toward a ‘gig economy’ will commence In 2024, the buy-now-pay-later company Klarna announced that it would cut hundreds of customer service roles and begin using an artificial…
 
-Link: https://www.theguardian.com/society/2026/jun/18/malignant-rise-onlyfans-managers-exploiting-grooming-predatory
+Link: https://www.theguardian.com/technology/2026/jun/18/ai-threatens-gig-work-rise
 
-### 4. Trump administration seeks to halt first US reparations program for Black people [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-White House joined suit to stop city of Evanston, Illinois, from compensating victims of housing discrimination Sign up for the Breaking News US newsletter email The Trump administration has joined a lawsuit attempting to stop a…
-
-Link: https://www.theguardian.com/us-news/2026/jun/17/lawsuit-stop-reparations-evanston-illinois
-
-### 5. ICE Appears to Be Buying Immigrants’ Tax Identifiers from a Data Broker [10/10]
+### 11. Salesforce’s Internal AI Leaderboard Has Teams Competing for Little Trophies [8/10]
 **Source:** 404 Media  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-A $10 million procurement reviewed by 404 Media indicates ICE is buying records related to immigrants’ tax identifiers.
+The leaderboard, sorted by executive and the teams underneath them, has a feature that shows users which employees have not earned the badges. “click to see who 👀,” the leaderboard says.
 
-Link: https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/
-
-### 6. Dark Souls 2 seamless co-op mod is "close" to being playtest-ready, having morphed into one of its creator's "most complicated and ambitious projects to date" [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Prolific FromSoft game multiplayer modder Yui is "close" to being ready to open up alpha testing of their latest seamless co-op mod, this time for Dark Souls 2 .
-
-Link: https://www.rockpapershotgun.com/dark-souls-2-seamless-co-op-mod-is-close-to-being-playtest-ready-having-morphed-into-one-of-its-creators-most-complicated-and-ambitious-projects-to-date
-
-### 7. Big changes coming to student loans on July 1 [9/10]
-**Source:** NPR Education  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Starting on July 1, the federal government will make some big changes to how student loans can be repaid or forgiven.
-
-Link: https://www.npr.org/2026/06/18/nx-s1-5856432/big-changes-coming-to-student-loans-on-july-1
-
-### 8. Hulk, Punisher join Peter Parker in Spider-Man: Brand New Day trailer [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Peter Parker to Bruce Banner: "I didn't know you could get that big."
-
-Link: https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/
-
-### 9. As Spielberg confirms whether ET was ‘slimy or dry’, we enter a new age of the celebrity interview [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Veteran interviewees are forever trotting out the same anecdotes in response to unoriginal questions – until one fearless disruptor dared ask if ET had moist skin For the most part, Steven Spielberg has avoided most of the indignities of…
-
-Link: https://www.theguardian.com/film/2026/jun/18/steven-spielberg-et-was-moist-but-never-slimy
-
-### 10. Undocumented Kansas High School Graduates Find Themselves Increasingly Targeted [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-For 22 years, Kansas leaders protected a law allowing some undocumented students to pay in-state tuition to attend the state’s public colleges, universities and technical schools. Those days are over.
-
-Link: https://www.the74million.org/article/undocumented-kansas-high-school-graduates-find-themselves-increasingly-targeted/
-
-### 11. Windows and Linux users: The deadline to update Secure Boot keys is near [9/10]
-**Source:** Ars Technica  
-**Category:** Linux / anti-obsolescence  
-**Why it matters:** Relevant to humane computing, open-source practice, and repairability.
-
-What you need to know about the expiration of keys securing your machine's boot sequence.
-
-Link: https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/
+Link: https://www.404media.co/salesforces-internal-ai-leaderboard-has-teams-competing-for-little-trophies/
 
 ### 12. Spider-Man: Brand New Day Trailer Teases Mysterious New Villain [8/10]
 **Source:** Reactor  
@@ -141,14 +141,14 @@ The fourth Spider-Man film in the Marvel Cinematic Universe is set to premiere i
 
 Link: https://reactormag.com/spider-man-brand-new-day-trailer-2-villain/
 
-### 13. Podcast: The Government Wants to End Anonymity on Phones [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
+### 13. As America turns 250, one museum makes history possible to touch [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-The FCC's proposed changes to getting a phone plan; cops keep stalking with Flock; and a software update changes the AC in Amazon vans.
+Federal law requires most museums and other buildings to be accessible to people with disabilities. But access to what's actually inside is often still limited.
 
-Link: https://www.404media.co/podcast-the-government-wants-to-end-anonymity-on-phones/
+Link: https://www.npr.org/2026/06/18/nx-s1-5835738/museum-blind-disability-america-250
 
 ## YouTube
 
@@ -197,6 +197,24 @@ History Professor Jonathan Rees joins WIRED to answer the internet’s burning q
 
 Link: https://www.youtube.com/watch?v=8mkrHaLcxcA
 
+### The latest in medical technology? The kazoo. [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Writer Linda Stone, who coined the term "screen apnea," knows all too well that our technology can really mess with our breathing and our health.
+
+Link: https://www.youtube.com/watch?v=JRLZPIGRmf8
+
+### Vogue's Chloe Malle on her decision to tie the magazine's Summer edition to America's 250th birthday [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+American Vogue's new Head of Editorial Content Chloe Malle says she's not worried about backlash to the multicultural vision of America that she's bringing to its pages.
+
+Link: https://www.youtube.com/watch?v=0X8036CA3sY
+
 ### HHS defends holding hantavirus cruise ship passenger in quarantine [8/10]
 **Creator:** NPR  
 **Verdict:** Worth watching  
@@ -223,33 +241,6 @@ Link: https://www.youtube.com/watch?v=LTIRp3UWu9M
 The Deferred Action for Childhood Arrivals was billed as a temporary program. Now that it’s lasted more than a decade, most recipients are 31 and older — and still don't have a clear path to stay in the U.S.
 
 Link: https://www.youtube.com/watch?v=8L02hGpubZY
-
-### In a new book, Georgia Democrat Sen. Raphael Warnock writes about how faith is applied to politics [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-In a new book, Georgia Democrat Sen. Raphael Warnock asks how Republicans and Democrats are applying faith to their politics.
-
-Link: https://www.youtube.com/watch?v=Bmn9vT1PcGY
-
-### Here's what the inside of an Ebola ward looks like, at the epicenter of the outbreak in Congo [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Reporter Emmet Livingstone and visual journalist Arsene Mpiana bring us inside an Ebola ward in the epicenter of the outbreak in Ituri province, Democratic Republic of Congo.
-
-Link: https://www.youtube.com/watch?v=6zlXX6CjTBo
-
-### Newly repainted reflecting pool turns green from algae blooms [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-A little more than a week ago, President Trump declared that the renovation work being done to the Reflecting Pool on the National Mall had been completed.
-
-Link: https://www.youtube.com/watch?v=2wiXFABof1w
 
 ### If Steam Machine's Late, Why Not Upgrade The Spec? [7/10]
 **Creator:** Digital Foundry  
@@ -305,18 +296,18 @@ Link: https://www.youtube.com/watch?v=h90EbiEQQUw
 
 Link: https://www.youtube.com/watch?v=I9mOUfkboH4
 
-### Star Fox Adventures Has A+ Water w/ KC and Marty -- Part 3 [7/10]
+### Star Fox Adventures Has A+ Water w/ KC and Marty -- Part 3 [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 For their next franchise revisit, KC and Marty are going to take a look at the Star Fox series. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=In7fcw6CxTM
 
-### Yahtzee Tries... Next Fest Demos (Iron Nest, Screenbound, Order of the Sinking Star, and Ballgame) [8/10]
+### Yahtzee Tries... Next Fest Demos (Iron Nest, Screenbound, Order of the Sinking Star, and Ballgame) [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Yahtzee Tries... Yahtzee and Marty check out a handful of Steam Next Fest demos in Iron Nest, Screenbound, Order of the Sinking Star, and Ballgame. Iron Nest -- https://store.steampowered.
@@ -514,7 +505,16 @@ You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on J
 
 Link: https://www.youtube.com/watch?v=cWgSDtI5khA
 
-### The Amazing Digital Circus Finale | Official Trailer | Netflix [10/10]
+### 23 000 Lives | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+What can one person really change? Sometimes more than you might think. 23 000 Lives premieres July 17. Only on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=89dugTvBEWw
+
+### The Amazing Digital Circus Finale | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -603,15 +603,6 @@ Link: https://www.youtube.com/watch?v=0IN0dulzxhI
 From director Louis Leterrier, starring Greta Lee and Wagner Moura.
 
 Link: https://www.youtube.com/watch?v=MLxgaz2Zp1k
-
-### Love is Blind: UK - After the Altar | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Weeks after the reunion of LIB UK S2, we catch up with where the couples and ex couples are now along with some favourites from season 1 as Megan and Kieran decide to bring everyone back together to celebrate Kieran's birthday Watch on…
-
-Link: https://www.youtube.com/watch?v=Rvj5J6eQYFo
 
 ### A flawless proposal by Jessica Williams, with Sherry Cola subbing in for Derrick #2. #Shrinking [10/10]
 **Source:** Apple TV  
