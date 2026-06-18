@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-18T05:00:02.709334Z
+Generated: 2026-06-18T09:02:11.331103Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are Trump administration seeks to halt first US reparations program for Black people, Two California students swept out to sea and drowned while napping on beach, and Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”.
+Today's sweep leans toward Democracy / press freedom, Science / computing, Security / computing. The strongest items in this run are Researchers find malware that may have aimed to slow down Iran's nuclear program, Can ecosystems ‘malfunction’?, and The malignant rise of OnlyFans managers: ‘It’s exploiting. It’s grooming. It’s predatory’.
 
 ## Briefing
 
@@ -33,7 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Trump administration seeks to halt first US reparations program for Black people [10/10]
+### 1. Researchers find malware that may have aimed to slow down Iran's nuclear program [10/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Cybersecurity researchers recently uncovered a cyber weapon that twisted math -- likely to slow down Iran's nuclear program.
+
+Link: https://www.npr.org/2026/06/18/nx-s1-5861609/researchers-find-malware-that-may-have-aimed-to-slow-down-irans-nuclear-program
+
+### 2. Can ecosystems ‘malfunction’? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+We are told the natural world is ‘breaking down’.
+
+Link: https://www.theguardian.com/news/2026/jun/18/can-ecosystems-malfunction
+
+### 3. The malignant rise of OnlyFans managers: ‘It’s exploiting. It’s grooming. It’s predatory’ [10/10]
+**Source:** The Guardian US  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+As the pornography platform has exploded in popularity, a side industry has emerged: middlemen who encourage young women into the industry, then take a large cut of their earnings Markuss Hussle wants his online students to understand one…
+
+Link: https://www.theguardian.com/society/2026/jun/18/malignant-rise-onlyfans-managers-exploiting-grooming-predatory
+
+### 4. Trump administration seeks to halt first US reparations program for Black people [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -42,25 +69,7 @@ White House joined suit to stop city of Evanston, Illinois, from compensating vi
 
 Link: https://www.theguardian.com/us-news/2026/jun/17/lawsuit-stop-reparations-evanston-illinois
 
-### 2. Two California students swept out to sea and drowned while napping on beach [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Friends Harshita Nair, 21, and Mahial Sran, 20, were pulled out of water by rescue crews but died later at local hospitals Sign up for the Breaking News US newsletter email Two college students died after being swept out to sea from a…
-
-Link: https://www.theguardian.com/us-news/2026/jun/17/california-students-drowned-santa-cruz
-
-### 3. Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct” [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.
-
-Link: https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/
-
-### 4. ICE Appears to Be Buying Immigrants’ Tax Identifiers from a Data Broker [10/10]
+### 5. ICE Appears to Be Buying Immigrants’ Tax Identifiers from a Data Broker [10/10]
 **Source:** 404 Media  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,43 +78,43 @@ A $10 million procurement reviewed by 404 Media indicates ICE is buying records 
 
 Link: https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/
 
-### 5. Does more money make you happier? Yes – but not for the reasons you think, this money coach says [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 6. Dark Souls 2 seamless co-op mod is "close" to being playtest-ready, having morphed into one of its creator's "most complicated and ambitious projects to date" [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-After years of anxiety and burnout, finance expert Shang Saavedra says the path to financial freedom may start with your mindset Shang Saavedra was an immigrant family’s dream: She earned stellar grades and made her way to Harvard .
+Prolific FromSoft game multiplayer modder Yui is "close" to being ready to open up alpha testing of their latest seamless co-op mod, this time for Dark Souls 2 .
 
-Link: https://www.theguardian.com/lifeandstyle/2026/jun/17/money-coach-mental-health-wealth
+Link: https://www.rockpapershotgun.com/dark-souls-2-seamless-co-op-mod-is-close-to-being-playtest-ready-having-morphed-into-one-of-its-creators-most-complicated-and-ambitious-projects-to-date
 
-### 6. Trump signs Iran peace plan, claiming deal averts ‘worldwide depression’ [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 7. Big changes coming to student loans on July 1 [9/10]
+**Source:** NPR Education  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Details of the 14-point agreement revealed as senior US officials claim ‘major win’ despite significant concessions to Tehran Reaction: Donald Trump’s Iran deal met with anger, relief and incredulity Analysis: Trump’s Iran deal is result…
+Starting on July 1, the federal government will make some big changes to how student loans can be repaid or forgiven.
 
-Link: https://www.theguardian.com/world/2026/jun/17/trump-us-iran-war-mou-deal
+Link: https://www.npr.org/2026/06/18/nx-s1-5856432/big-changes-coming-to-student-loans-on-july-1
 
-### 7. US House staff visit Ghislaine Maxwell’s prison after claims of laptop and puppy [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Epstein associate’s lawyer rejected preferential treatment claims in January, saying ‘humane treatment isn’t special’ Staff from the House oversight and judiciary committees visited the Texas prison where Ghislaine Maxwell , the longtime…
-
-Link: https://www.theguardian.com/us-news/2026/jun/17/ghislaine-maxwell-prison-visit-epstein
-
-### 8. AI coding agents taught robots how to install GPUs and cut zip ties [9/10]
+### 8. Hulk, Punisher join Peter Parker in Spider-Man: Brand New Day trailer [9/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Nvidia's self-improvement program for robots enlists teams of AI coding agents.
+Peter Parker to Bruce Banner: "I didn't know you could get that big."
 
-Link: https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/
+Link: https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/
 
-### 9. Undocumented Kansas High School Graduates Find Themselves Increasingly Targeted [9/10]
+### 9. As Spielberg confirms whether ET was ‘slimy or dry’, we enter a new age of the celebrity interview [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Veteran interviewees are forever trotting out the same anecdotes in response to unoriginal questions – until one fearless disruptor dared ask if ET had moist skin For the most part, Steven Spielberg has avoided most of the indignities of…
+
+Link: https://www.theguardian.com/film/2026/jun/18/steven-spielberg-et-was-moist-but-never-slimy
+
+### 10. Undocumented Kansas High School Graduates Find Themselves Increasingly Targeted [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -113,15 +122,6 @@ Link: https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direc
 For 22 years, Kansas leaders protected a law allowing some undocumented students to pay in-state tuition to attend the state’s public colleges, universities and technical schools. Those days are over.
 
 Link: https://www.the74million.org/article/undocumented-kansas-high-school-graduates-find-themselves-increasingly-targeted/
-
-### 10. Fired Rockstar developers can bring blacklisting claims against the GTA 6 developer, UK tribunal rules as final trial looms [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-An employment tribunal in the UK has ruled against striking blacklisting claims levied against Rockstar Games by staff the GTA 6 studio abruptly fired last year from ongoing legal proceedings between the two sides.
-
-Link: https://www.rockpapershotgun.com/fired-rockstar-developers-can-bring-blacklisting-claims-against-the-gta-6-developer-uk-tribunal-rules-as-final-trial-looms
 
 ### 11. Windows and Linux users: The deadline to update Secure Boot keys is near [9/10]
 **Source:** Ars Technica  
@@ -197,9 +197,9 @@ History Professor Jonathan Rees joins WIRED to answer the internet’s burning q
 
 Link: https://www.youtube.com/watch?v=8mkrHaLcxcA
 
-### HHS defends holding hantavirus cruise ship passenger in quarantine [9/10]
+### HHS defends holding hantavirus cruise ship passenger in quarantine [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 The Department of Health and Human Services is defending a decision to continue holding a passenger from the cruise ship hit by a deadly hantavirus outbreak in a federal quarantine unit in Nebraska.
@@ -215,9 +215,9 @@ Federal prosecutors in Minneapolis have charged 15 people for allegedly conspiri
 
 Link: https://www.youtube.com/watch?v=LTIRp3UWu9M
 
-### Over a decade of DACA, but recipients still don't have a clear path to stay in the U.S. [7/10]
+### Over a decade of DACA, but recipients still don't have a clear path to stay in the U.S. [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 The Deferred Action for Childhood Arrivals was billed as a temporary program. Now that it’s lasted more than a decade, most recipients are 31 and older — and still don't have a clear path to stay in the U.S.
@@ -415,6 +415,33 @@ It’s happening... it’s really happening! Experience Shrek 5 only in theaters
 
 Link: https://www.youtube.com/watch?v=Swiz1XyfhcI
 
+### SPIDER-MAN: BRAND NEW DAY – New Trailer [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.
+
+Link: https://www.youtube.com/watch?v=Rv1dodCKgvE
+
+### SPIDER-MAN: BRAND NEW DAY – New Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.
+
+Link: https://www.youtube.com/watch?v=62bIsvRcPv0
+
+### THE SOCIAL RECKONING – Official Teaser Trailer (HD) [9/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Every revolution begins with a reckoning. The Social Reckoning, a companion piece to The Social Network, is coming exclusively to theatres October 9.
+
+Link: https://www.youtube.com/watch?v=gM4LkaXwGuY
+
 ### Whalefall | Official Teaser | In Theaters October 16 [7/10]
 **Source:** 20th Century Studios  
 **Verdict:** Worth a glance  
@@ -469,6 +496,24 @@ SUBSCRIBE: http://bit.ly/A24subscribe From director Adam Wingard and starring Ad
 
 Link: https://www.youtube.com/watch?v=L24CYVpQ-LI
 
+### Once Upon a Time in Harlem - Official Teaser Trailer - In Select Theaters October 16 [7/10]
+**Source:** NEON  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem…
+
+Link: https://www.youtube.com/watch?v=zIjmgj5rbOY
+
+### Worst Neighbor Ever Season 2 | Official Trailer [10/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on July 1. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
+
+Link: https://www.youtube.com/watch?v=cWgSDtI5khA
+
 ### The Amazing Digital Circus Finale | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -478,7 +523,7 @@ THE AMAZING DIGITAL CIRCUS: THE LAST ACT. Coming to Netflix on June 19th. Watch 
 
 Link: https://www.youtube.com/watch?v=5YvzStBaays
 
-### The East Palace | Official Teaser | Netflix [10/10]
+### The East Palace | Official Teaser | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -567,6 +612,15 @@ Link: https://www.youtube.com/watch?v=MLxgaz2Zp1k
 Weeks after the reunion of LIB UK S2, we catch up with where the couples and ex couples are now along with some favourites from season 1 as Megan and Kieran decide to bring everyone back together to celebrate Kieran's birthday Watch on…
 
 Link: https://www.youtube.com/watch?v=Rvj5J6eQYFo
+
+### A flawless proposal by Jessica Williams, with Sherry Cola subbing in for Derrick #2. #Shrinking [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Watch the Shrinking cast and special guests perform the full Season 3 finale on Apple TV's YouTube. https://youtube.com/live/zxIbwH6e0rk Shrinking Season 3 is now streaming on Apple TV https://apple.
+
+Link: https://www.youtube.com/watch?v=DcbJKiWPj48
 
 ### Badging in. Production for Season 3 of #ThePitt has begun. [6/10]
 **Source:** HBO Max  

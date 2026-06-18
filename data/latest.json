@@ -1,11 +1,41 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-18T05:00:02.709334Z",
-  "generatedAtDisplay": "2026-06-18 01:00 AM EDT",
+  "generatedAt": "2026-06-18T09:02:11.331103Z",
+  "generatedAtDisplay": "2026-06-18 05:02 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are Trump administration seeks to halt first US reparations program for Black people, Two California students swept out to sea and drowned while napping on beach, and Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Science / computing, Security / computing. The strongest items in this run are Researchers find malware that may have aimed to slow down Iran's nuclear program, Can ecosystems ‘malfunction’?, and The malignant rise of OnlyFans managers: ‘It’s exploiting. It’s grooming. It’s predatory’.",
   "mainItems": [
+    {
+      "title": "Researchers find malware that may have aimed to slow down Iran's nuclear program",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5861609/researchers-find-malware-that-may-have-aimed-to-slow-down-irans-nuclear-program",
+      "published": "2026-06-18T08:45:59+00:00",
+      "summary": "Cybersecurity researchers recently uncovered a cyber weapon that twisted math -- likely to slow down Iran's nuclear program.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 10
+    },
+    {
+      "title": "Can ecosystems ‘malfunction’?",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/news/2026/jun/18/can-ecosystems-malfunction",
+      "published": "2026-06-18T04:00:01+00:00",
+      "summary": "We are told the natural world is ‘breaking down’.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The malignant rise of OnlyFans managers: ‘It’s exploiting. It’s grooming. It’s predatory’",
+      "source": "The Guardian US",
+      "category": "Security / computing",
+      "url": "https://www.theguardian.com/society/2026/jun/18/malignant-rise-onlyfans-managers-exploiting-grooming-predatory",
+      "published": "2026-06-18T04:00:00+00:00",
+      "summary": "As the pornography platform has exploded in popularity, a side industry has emerged: middlemen who encourage young women into the industry, then take a large cut of their earnings Markuss Hussle wants his online students to understand one…",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 10
+    },
     {
       "title": "Trump administration seeks to halt first US reparations program for Black people",
       "source": "The Guardian US",
@@ -14,26 +44,6 @@
       "published": "2026-06-17T22:29:37+00:00",
       "summary": "White House joined suit to stop city of Evanston, Illinois, from compensating victims of housing discrimination Sign up for the Breaking News US newsletter email The Trump administration has joined a lawsuit attempting to stop a…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Two California students swept out to sea and drowned while napping on beach",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/jun/17/california-students-drowned-santa-cruz",
-      "published": "2026-06-17T20:06:11+00:00",
-      "summary": "Friends Harshita Nair, 21, and Mahial Sran, 20, were pulled out of water by rescue crews but died later at local hospitals Sign up for the Breaking News US newsletter email Two college students died after being swept out to sea from a…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
-      "published": "2026-06-17T19:43:13+00:00",
-      "summary": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -47,43 +57,43 @@
       "score": 10
     },
     {
-      "title": "Does more money make you happier? Yes – but not for the reasons you think, this money coach says",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/17/money-coach-mental-health-wealth",
-      "published": "2026-06-17T11:00:31+00:00",
-      "summary": "After years of anxiety and burnout, finance expert Shang Saavedra says the path to financial freedom may start with your mindset Shang Saavedra was an immigrant family’s dream: She earned stellar grades and made her way to Harvard .",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump signs Iran peace plan, claiming deal averts ‘worldwide depression’",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/jun/17/trump-us-iran-war-mou-deal",
-      "published": "2026-06-18T00:36:22+00:00",
-      "summary": "Details of the 14-point agreement revealed as senior US officials claim ‘major win’ despite significant concessions to Tehran Reaction: Donald Trump’s Iran deal met with anger, relief and incredulity Analysis: Trump’s Iran deal is result…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Dark Souls 2 seamless co-op mod is \"close\" to being playtest-ready, having morphed into one of its creator's \"most complicated and ambitious projects to date\"",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/dark-souls-2-seamless-co-op-mod-is-close-to-being-playtest-ready-having-morphed-into-one-of-its-creators-most-complicated-and-ambitious-projects-to-date",
+      "published": "2026-06-18T08:55:14+00:00",
+      "summary": "Prolific FromSoft game multiplayer modder Yui is \"close\" to being ready to open up alpha testing of their latest seamless co-op mod, this time for Dark Souls 2 .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "US House staff visit Ghislaine Maxwell’s prison after claims of laptop and puppy",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jun/17/ghislaine-maxwell-prison-visit-epstein",
-      "published": "2026-06-17T22:33:15+00:00",
-      "summary": "Epstein associate’s lawyer rejected preferential treatment claims in January, saying ‘humane treatment isn’t special’ Staff from the House oversight and judiciary committees visited the Texas prison where Ghislaine Maxwell , the longtime…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Big changes coming to student loans on July 1",
+      "source": "NPR Education",
+      "category": "CS education / AI policy",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5856432/big-changes-coming-to-student-loans-on-july-1",
+      "published": "2026-06-18T08:45:43+00:00",
+      "summary": "Starting on July 1, the federal government will make some big changes to how student loans can be repaid or forgiven.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 9
     },
     {
-      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+      "title": "Hulk, Punisher join Peter Parker in Spider-Man: Brand New Day trailer",
       "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-      "published": "2026-06-17T19:25:19+00:00",
-      "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents.",
+      "url": "https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/",
+      "published": "2026-06-18T06:37:59+00:00",
+      "summary": "Peter Parker to Bruce Banner: \"I didn't know you could get that big.\"",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "As Spielberg confirms whether ET was ‘slimy or dry’, we enter a new age of the celebrity interview",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/film/2026/jun/18/steven-spielberg-et-was-moist-but-never-slimy",
+      "published": "2026-06-18T06:00:05+00:00",
+      "summary": "Veteran interviewees are forever trotting out the same anecdotes in response to unoriginal questions – until one fearless disruptor dared ask if ET had moist skin For the most part, Steven Spielberg has avoided most of the indignities of…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -94,16 +104,6 @@
       "published": "2026-06-17T16:30:00+00:00",
       "summary": "For 22 years, Kansas leaders protected a law allowing some undocumented students to pay in-state tuition to attend the state’s public colleges, universities and technical schools. Those days are over.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Fired Rockstar developers can bring blacklisting claims against the GTA 6 developer, UK tribunal rules as final trial looms",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/fired-rockstar-developers-can-bring-blacklisting-claims-against-the-gta-6-developer-uk-tribunal-rules-as-final-trial-looms",
-      "published": "2026-06-17T16:01:50+00:00",
-      "summary": "An employment tribunal in the UK has ruled against striking blacklisting claims levied against Rockstar Games by staff the GTA 6 studio abruptly fired last year from ongoing legal proceedings between the two sides.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -201,8 +201,8 @@
       "published": "2026-06-17T23:00:03+00:00",
       "summary": "The Department of Health and Human Services is defending a decision to continue holding a passenger from the cruise ship hit by a deadly hantavirus outbreak in a federal quarantine unit in Nebraska.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Feds file charges against 15 ICE protesters in Minnesota",
@@ -223,8 +223,8 @@
       "published": "2026-06-17T21:00:23+00:00",
       "summary": "The Deferred Action for Childhood Arrivals was billed as a temporary program. Now that it’s lasted more than a decade, most recipients are 31 and older — and still don't have a clear path to stay in the U.S.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "In a new book, Georgia Democrat Sen. Raphael Warnock writes about how faith is applied to politics",
@@ -427,6 +427,39 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "SPIDER-MAN: BRAND NEW DAY – New Trailer",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Rv1dodCKgvE",
+      "published": "2026-06-17T19:27:30+00:00",
+      "summary": "The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY – New Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=62bIsvRcPv0",
+      "published": "2026-06-17T18:58:31+00:00",
+      "summary": "The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "THE SOCIAL RECKONING – Official Teaser Trailer (HD)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=gM4LkaXwGuY",
+      "published": "2026-06-10T12:58:35+00:00",
+      "summary": "Every revolution begins with a reckoning. The Social Reckoning, a companion piece to The Social Network, is coming exclusively to theatres October 9.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Whalefall | Official Teaser | In Theaters October 16",
       "source": "20th Century Studios",
       "category": "Film / trailer",
@@ -493,6 +526,28 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Once Upon a Time in Harlem - Official Teaser Trailer - In Select Theaters October 16",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=zIjmgj5rbOY",
+      "published": "2026-06-09T15:05:57+00:00",
+      "summary": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Worst Neighbor Ever Season 2 | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=cWgSDtI5khA",
+      "published": "2026-06-10T17:03:12+00:00",
+      "summary": "You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on July 1. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "The Amazing Digital Circus Finale | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -511,7 +566,7 @@
       "published": "2026-06-18T00:00:00+00:00",
       "summary": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders—can they unravel its dark secrets? The East Palace is coming July 17, only on Netflix #Netflix #TheEastPalace #동궁 Watch on…",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -609,6 +664,17 @@
       "url": "https://www.youtube.com/watch?v=Rvj5J6eQYFo",
       "published": "2026-06-15T08:00:00+00:00",
       "summary": "Weeks after the reunion of LIB UK S2, we catch up with where the couples and ex couples are now along with some favourites from season 1 as Megan and Kieran decide to bring everyone back together to celebrate Kieran's birthday Watch on…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "A flawless proposal by Jessica Williams, with Sherry Cola subbing in for Derrick #2. #Shrinking",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=DcbJKiWPj48",
+      "published": "2026-06-17T19:59:46+00:00",
+      "summary": "Watch the Shrinking cast and special guests perform the full Season 3 finale on Apple TV's YouTube. https://youtube.com/live/zxIbwH6e0rk Shrinking Season 3 is now streaming on Apple TV https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -737,7 +803,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 25,
-    "trailerCount": 19,
-    "sourceCount": 17
+    "trailerCount": 25,
+    "sourceCount": 23
   }
 }
