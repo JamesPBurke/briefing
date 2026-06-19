@@ -1,11 +1,31 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-19T05:00:02.954493Z",
-  "generatedAtDisplay": "2026-06-19 01:00 AM EDT",
+  "generatedAt": "2026-06-19T09:01:26.120058Z",
+  "generatedAtDisplay": "2026-06-19 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Science / computing. The strongest items in this run are Sugar review – Colin Farrell’s detective show is a luxurious labyrinth of noir, Mauricio Pochettino noncommittal on Christian Pulisic status for Australia game: ‘We’ll see’, and The interstellar dice-driven RPG Citizen Sleeper is free for the next week, so now you've got no excuse to not play it.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are On the trail of the dotcom queen: how Julie Meyer left a pattern of unpaid bills, missing funds and broken dreams in her wake, In the Hand of Dante review – Gerard Butler is jaw-dropping in bizarre Renaissance mafia reverie, and Sugar review – Colin Farrell’s detective show is a luxurious labyrinth of noir.",
   "mainItems": [
+    {
+      "title": "On the trail of the dotcom queen: how Julie Meyer left a pattern of unpaid bills, missing funds and broken dreams in her wake",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/business/2026/jun/19/julie-meyer-dotcom-queen-unpaid-bills-missing-funds-broken-dreams",
+      "published": "2026-06-19T07:00:26+00:00",
+      "summary": "Investigation: The entrepreneur was once the toast of London’s tech scene, a ‘global leader of tomorrow’ who starred on Dragons’ Den and promised untold riches for the startups she championed.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "In the Hand of Dante review – Gerard Butler is jaw-dropping in bizarre Renaissance mafia reverie",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/film/2026/jun/19/in-the-hand-of-dante-review-gerard-butler-julian-schnabel-martin-scorsese-al-pacino",
+      "published": "2026-06-19T06:00:25+00:00",
+      "summary": "Julian Schnabel’s combustible mix of lowlife cynicism and high art – along with cameos from Martin Scorsese and Al Pacino – powers this outrageous black comedy revolving around Dante’s Divine Comedy The worlds of Renaissance manuscript…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Sugar review – Colin Farrell’s detective show is a luxurious labyrinth of noir",
       "source": "The Guardian US",
@@ -17,34 +37,14 @@
       "score": 10
     },
     {
-      "title": "Mauricio Pochettino noncommittal on Christian Pulisic status for Australia game: ‘We’ll see’",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/football/2026/jun/18/usmnt-christian-pulisic-status-mauricio-pochettino",
-      "published": "2026-06-18T23:04:42+00:00",
-      "summary": "Pulisic has been training individually all week US face Australia at 3pm ET in Seattle on Friday World Cup newsletter | Daily podcast | Download the app US men’s national team head coach Mauricio Pochettino offered very little clarity on…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "The interstellar dice-driven RPG Citizen Sleeper is free for the next week, so now you've got no excuse to not play it",
+      "title": "Valve roll out a more detailed timeline for Steam Controller orders, giving you a clearer picture of when you'll hear about your reservation",
       "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/the-interstellar-dice-driven-rpg-citizen-sleeper-is-free-for-the-next-week-so-now-youve-got-no-excuse-to-not-play-it",
-      "published": "2026-06-18T17:05:52+00:00",
-      "summary": "Hurrah! Today is a very fine Thursday, as one of the most tightly written sci-fi RPGs around is available to pick up for free for around a week.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Researchers find malware that may have aimed to slow down Iran's nuclear program",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/06/18/nx-s1-5861609/researchers-find-malware-that-may-have-aimed-to-slow-down-irans-nuclear-program",
-      "published": "2026-06-18T08:45:59+00:00",
-      "summary": "Cybersecurity researchers recently uncovered a cyber weapon that twisted math -- likely to slow down Iran's nuclear program.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 10
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/valve-roll-out-a-more-detailed-timeline-for-steam-controller-orders-giving-you-a-clearer-picture-of-when-youll-hear-about-your-reservation",
+      "published": "2026-06-19T08:46:01+00:00",
+      "summary": "If you've put in an order for a Steam Controller and are still awaiting its arrival, a new system Valve have rolled out can offer you an estimate of when you should hear from them about your order.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "Barret Zoph is out at OpenAI again after just five months",
@@ -77,26 +77,6 @@
       "score": 9
     },
     {
-      "title": "You can now use the Game Boy Camera with your phone",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone",
-      "published": "2026-06-18T20:22:46+00:00",
-      "summary": "The $50 GB Operator is an accessory that lets you connect, play, and authenticate Game Boy, Game Boy Color, and Game Boy Advance cartridges on PCs and other devices. Now it's getting some new functionality for the Game Boy Camera.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "California Lawmakers Pass Budget With Billions More for Education as Newsom Negotiations Begin",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/california-lawmakers-pass-budget-with-billions-more-for-education-as-newsom-negotiations-begin/",
-      "published": "2026-06-18T18:30:00+00:00",
-      "summary": "Marking the start of two weeks of intensive negotiations, the Legislature passed a state budget Monday with higher revenue projections than those proposed by Gov.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
       "title": "Opinion: What School and District Leaders Need to Know Before They Invest in AI",
       "source": "The 74",
       "category": "CS education / AI policy",
@@ -107,12 +87,22 @@
       "score": 9
     },
     {
-      "title": "Spider-Man: Brand New Day’s Body-Hopping Villain Could Be One of These Marvel Characters",
+      "title": "Co-Designing for Belonging: An American Indian Education Partnership in Elementary CS",
+      "source": "CSTA",
+      "category": "Education / pedagogy",
+      "url": "https://csteachers.org/co-designing-for-belonging-an-american-indian-education-partnership-in-elementary-cs/",
+      "published": "2026-06-18T11:00:00+00:00",
+      "summary": "How a partnership grounded in Indigenous knowledge created richer CS learning—and how others can adapt the approach. Written by Alexandra...",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "The Ark Season 3 Trailer Sees Strife in the Skies and Planetside",
       "source": "Reactor",
       "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/spider-man-brand-new-day-new-villain-identity/",
-      "published": "2026-06-18T20:42:20+00:00",
-      "summary": "A few likely candidates for the identify of the unseen threat The post Spider-Man: Brand New Day ’s Body-Hopping Villain Could Be One of These Marvel Characters appeared first on Reactor .",
+      "url": "https://reactormag.com/the-ark-season-3-trailer/",
+      "published": "2026-06-18T18:51:08+00:00",
+      "summary": "Season 3 is set to premiere in July The post The Ark Season 3 Trailer Sees Strife in the Skies and Planetside appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     },
@@ -135,6 +125,16 @@
       "summary": "“The point of the paper is to formally show that we anthropomorphise too readily.\"",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
+    },
+    {
+      "title": "Snap plans to sell $2,000 AR glasses. Are they the future of wearable tech?",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5863068/snap-plans-to-sell-2-000-ar-glasses-are-they-the-future-of-wearable-tech",
+      "published": "2026-06-19T08:44:44+00:00",
+      "summary": "NPR's Steve Inskeep speaks with tech journalist Joanna Stern about the release of new augmented reality glasses from Snap and the future of wearable technology.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 7
     }
   ],
   "youtube": [
@@ -212,8 +212,8 @@
       "published": "2026-06-18T19:00:35+00:00",
       "summary": "Russian strikes have left cultural scars across Ukraine, damaging Kharkiv's art museum and Kyiv's Dormition Cathedral earlier this week.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "The mother of one of this year's World Cup's breakout stars will now be able to travel to the U.S.",
@@ -223,8 +223,8 @@
       "published": "2026-06-18T19:00:05+00:00",
       "summary": "The mother of one of this year's World Cup's breakout stars will now be able to travel to the U.S. to see her son play.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "The Great Green Wall's one of the world's most ambitious eco-projects. Is it working?",
@@ -234,8 +234,8 @@
       "published": "2026-06-18T18:00:05+00:00",
       "summary": "The Great Green Wall is a global effort with a multibillion dollar price tag. Among its aims: re-greening nearly 250 million acres, planting 4,000 miles of trees, helping farmers, creating jobs, sequestering carbon. Is it working?",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "How American Vogue is staying relevant in the internet age",
@@ -245,8 +245,8 @@
       "published": "2026-06-18T17:00:17+00:00",
       "summary": "American Vogue's new Head of Editorial Content Chloe Malle says she thinks Vogue's authority is more important in the internet age.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Luigi Mangione's legal team says they plan to pursue a psychiatric defense, during pre-trial hearing",
@@ -355,8 +355,8 @@
       "published": "2026-06-19T00:51:11+00:00",
       "summary": "This week on Firelink, Nick, KC, and Marty chat about the reports of a bloody summer for Xbox. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.fantasycritic.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Is It Thursday? Then We're Taking Your TTRPG Questions! | RPG Help Desk",
@@ -366,8 +366,8 @@
       "published": "2026-06-18T19:07:50+00:00",
       "summary": "We've got a few questions to cover from last time AND taking new questions from you. Jesse Galena is hosting like usual, but the name didn't fit into the first part of this, so this section only exists to add that name to the meta data.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Making Wasteland Pals in Fallout 3 w/ Jack, Jess, and Marty -- Part 2",
@@ -377,8 +377,8 @@
       "published": "2026-06-18T19:11:24+00:00",
       "summary": "After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "James Bond Needs Therapy | Semi-Ramblomatic",
@@ -837,6 +837,6 @@
     "mainCount": 13,
     "youtubeCount": 27,
     "trailerCount": 26,
-    "sourceCount": 23
+    "sourceCount": 24
   }
 }

@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-19T05:00:02.954493Z
+Generated: 2026-06-19T09:01:26.120058Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Science / computing. The strongest items in this run are Sugar review – Colin Farrell’s detective show is a luxurious labyrinth of noir, Mauricio Pochettino noncommittal on Christian Pulisic status for Australia game: ‘We’ll see’, and The interstellar dice-driven RPG Citizen Sleeper is free for the next week, so now you've got no excuse to not play it.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are On the trail of the dotcom queen: how Julie Meyer left a pattern of unpaid bills, missing funds and broken dreams in her wake, In the Hand of Dante review – Gerard Butler is jaw-dropping in bizarre Renaissance mafia reverie, and Sugar review – Colin Farrell’s detective show is a luxurious labyrinth of noir.
 
 ## Briefing
 
@@ -33,7 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Sugar review – Colin Farrell’s detective show is a luxurious labyrinth of noir [10/10]
+### 1. On the trail of the dotcom queen: how Julie Meyer left a pattern of unpaid bills, missing funds and broken dreams in her wake [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Investigation: The entrepreneur was once the toast of London’s tech scene, a ‘global leader of tomorrow’ who starred on Dragons’ Den and promised untold riches for the startups she championed.
+
+Link: https://www.theguardian.com/business/2026/jun/19/julie-meyer-dotcom-queen-unpaid-bills-missing-funds-broken-dreams
+
+### 2. In the Hand of Dante review – Gerard Butler is jaw-dropping in bizarre Renaissance mafia reverie [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Julian Schnabel’s combustible mix of lowlife cynicism and high art – along with cameos from Martin Scorsese and Al Pacino – powers this outrageous black comedy revolving around Dante’s Divine Comedy The worlds of Renaissance manuscript…
+
+Link: https://www.theguardian.com/film/2026/jun/19/in-the-hand-of-dante-review-gerard-butler-julian-schnabel-martin-scorsese-al-pacino
+
+### 3. Sugar review – Colin Farrell’s detective show is a luxurious labyrinth of noir [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -42,32 +60,14 @@ Each episode of this PI drama’s second season is a half-hour haze suffused wit
 
 Link: https://www.theguardian.com/tv-and-radio/2026/jun/19/sugar-review-colin-farrell-apple-tv-drama
 
-### 2. Mauricio Pochettino noncommittal on Christian Pulisic status for Australia game: ‘We’ll see’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Pulisic has been training individually all week US face Australia at 3pm ET in Seattle on Friday World Cup newsletter | Daily podcast | Download the app US men’s national team head coach Mauricio Pochettino offered very little clarity on…
-
-Link: https://www.theguardian.com/football/2026/jun/18/usmnt-christian-pulisic-status-mauricio-pochettino
-
-### 3. The interstellar dice-driven RPG Citizen Sleeper is free for the next week, so now you've got no excuse to not play it [10/10]
+### 4. Valve roll out a more detailed timeline for Steam Controller orders, giving you a clearer picture of when you'll hear about your reservation [9/10]
 **Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Hurrah! Today is a very fine Thursday, as one of the most tightly written sci-fi RPGs around is available to pick up for free for around a week.
+If you've put in an order for a Steam Controller and are still awaiting its arrival, a new system Valve have rolled out can offer you an estimate of when you should hear from them about your order.
 
-Link: https://www.rockpapershotgun.com/the-interstellar-dice-driven-rpg-citizen-sleeper-is-free-for-the-next-week-so-now-youve-got-no-excuse-to-not-play-it
-
-### 4. Researchers find malware that may have aimed to slow down Iran's nuclear program [10/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Cybersecurity researchers recently uncovered a cyber weapon that twisted math -- likely to slow down Iran's nuclear program.
-
-Link: https://www.npr.org/2026/06/18/nx-s1-5861609/researchers-find-malware-that-may-have-aimed-to-slow-down-irans-nuclear-program
+Link: https://www.rockpapershotgun.com/valve-roll-out-a-more-detailed-timeline-for-steam-controller-orders-giving-you-a-clearer-picture-of-when-youll-hear-about-your-reservation
 
 ### 5. Barret Zoph is out at OpenAI again after just five months [9/10]
 **Source:** The Verge  
@@ -96,25 +96,7 @@ The Epic Games Store is not very good. This is not a controversial thing to say,
 
 Link: https://www.rockpapershotgun.com/epics-plans-for-their-big-store-revamp-over-the-next-year-sound-like-theyll-at-long-last-meet-the-bare-minimum
 
-### 8. You can now use the Game Boy Camera with your phone [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The $50 GB Operator is an accessory that lets you connect, play, and authenticate Game Boy, Game Boy Color, and Game Boy Advance cartridges on PCs and other devices. Now it's getting some new functionality for the Game Boy Camera.
-
-Link: https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone
-
-### 9. California Lawmakers Pass Budget With Billions More for Education as Newsom Negotiations Begin [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Marking the start of two weeks of intensive negotiations, the Legislature passed a state budget Monday with higher revenue projections than those proposed by Gov.
-
-Link: https://www.the74million.org/article/california-lawmakers-pass-budget-with-billions-more-for-education-as-newsom-negotiations-begin/
-
-### 10. Opinion: What School and District Leaders Need to Know Before They Invest in AI [9/10]
+### 8. Opinion: What School and District Leaders Need to Know Before They Invest in AI [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -123,16 +105,25 @@ The end of the fiscal year is near.
 
 Link: https://www.the74million.org/article/what-school-and-district-leaders-need-to-know-before-they-invest-in-ai/
 
-### 11. Spider-Man: Brand New Day’s Body-Hopping Villain Could Be One of These Marvel Characters [8/10]
+### 9. Co-Designing for Belonging: An American Indian Education Partnership in Elementary CS [9/10]
+**Source:** CSTA  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+How a partnership grounded in Indigenous knowledge created richer CS learning—and how others can adapt the approach. Written by Alexandra...
+
+Link: https://csteachers.org/co-designing-for-belonging-an-american-indian-education-partnership-in-elementary-cs/
+
+### 10. The Ark Season 3 Trailer Sees Strife in the Skies and Planetside [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-A few likely candidates for the identify of the unseen threat The post Spider-Man: Brand New Day ’s Body-Hopping Villain Could Be One of These Marvel Characters appeared first on Reactor .
+Season 3 is set to premiere in July The post The Ark Season 3 Trailer Sees Strife in the Skies and Planetside appeared first on Reactor .
 
-Link: https://reactormag.com/spider-man-brand-new-day-new-villain-identity/
+Link: https://reactormag.com/the-ark-season-3-trailer/
 
-### 12. You're probably using too many skin care products. Here are the 3 essentials [8/10]
+### 11. You're probably using too many skin care products. Here are the 3 essentials [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -141,7 +132,7 @@ We asked half a dozen skin care experts: Which products do you really need to ke
 
 Link: https://www.npr.org/2026/06/18/nx-s1-5861903/essential-skin-care-products
 
-### 13. If AI Is Sentient Then So Is ‘Age of Empires II’ [8/10]
+### 12. If AI Is Sentient Then So Is ‘Age of Empires II’ [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -149,6 +140,15 @@ Link: https://www.npr.org/2026/06/18/nx-s1-5861903/essential-skin-care-products
 “The point of the paper is to formally show that we anthropomorphise too readily."
 
 Link: https://www.404media.co/if-ai-is-sentient-then-so-is-age-of-empires-ii/
+
+### 13. Snap plans to sell $2,000 AR glasses. Are they the future of wearable tech? [7/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+NPR's Steve Inskeep speaks with tech journalist Joanna Stern about the release of new augmented reality glasses from Snap and the future of wearable technology.
+
+Link: https://www.npr.org/2026/06/19/nx-s1-5863068/snap-plans-to-sell-2-000-ar-glasses-are-they-the-future-of-wearable-tech
 
 ## YouTube
 
@@ -206,36 +206,36 @@ History Professor Jonathan Rees joins WIRED to answer the internet’s burning q
 
 Link: https://www.youtube.com/watch?v=8mkrHaLcxcA
 
-### Russian strikes have left cultural scars across Ukraine [8/10]
+### Russian strikes have left cultural scars across Ukraine [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Russian strikes have left cultural scars across Ukraine, damaging Kharkiv's art museum and Kyiv's Dormition Cathedral earlier this week.
 
 Link: https://www.youtube.com/watch?v=_ObO7dAPsew
 
-### The mother of one of this year's World Cup's breakout stars will now be able to travel to the U.S. [8/10]
+### The mother of one of this year's World Cup's breakout stars will now be able to travel to the U.S. [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 The mother of one of this year's World Cup's breakout stars will now be able to travel to the U.S. to see her son play.
 
 Link: https://www.youtube.com/watch?v=oZukMUCmTyM
 
-### The Great Green Wall's one of the world's most ambitious eco-projects. Is it working? [9/10]
+### The Great Green Wall's one of the world's most ambitious eco-projects. Is it working? [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 The Great Green Wall is a global effort with a multibillion dollar price tag. Among its aims: re-greening nearly 250 million acres, planting 4,000 miles of trees, helping farmers, creating jobs, sequestering carbon. Is it working?
 
 Link: https://www.youtube.com/watch?v=0FO-LiZmFXY
 
-### How American Vogue is staying relevant in the internet age [7/10]
+### How American Vogue is staying relevant in the internet age [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 American Vogue's new Head of Editorial Content Chloe Malle says she thinks Vogue's authority is more important in the internet age.
@@ -323,27 +323,27 @@ Link: https://www.youtube.com/watch?v=Ezzyp59pHFs
 
 Link: https://www.youtube.com/watch?v=pMN3bOfU0wM
 
-### The Xbox News Is Infuriating, Devastating, and Exhausting | Firelink Podcast [9/10]
+### The Xbox News Is Infuriating, Devastating, and Exhausting | Firelink Podcast [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Firelink, Nick, KC, and Marty chat about the reports of a bloody summer for Xbox. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.fantasycritic.
 
 Link: https://www.youtube.com/watch?v=_FlmxcFQd7g
 
-### Is It Thursday? Then We're Taking Your TTRPG Questions! | RPG Help Desk [7/10]
+### Is It Thursday? Then We're Taking Your TTRPG Questions! | RPG Help Desk [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 We've got a few questions to cover from last time AND taking new questions from you. Jesse Galena is hosting like usual, but the name didn't fit into the first part of this, so this section only exists to add that name to the meta data.
 
 Link: https://www.youtube.com/watch?v=F6ber_pf9Eg
 
-### Making Wasteland Pals in Fallout 3 w/ Jack, Jess, and Marty -- Part 2 [8/10]
+### Making Wasteland Pals in Fallout 3 w/ Jack, Jess, and Marty -- Part 2 [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
