@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-19T09:01:26.120058Z
+Generated: 2026-06-19T14:00:02.599362Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are On the trail of the dotcom queen: how Julie Meyer left a pattern of unpaid bills, missing funds and broken dreams in her wake, In the Hand of Dante review – Gerard Butler is jaw-dropping in bizarre Renaissance mafia reverie, and Sugar review – Colin Farrell’s detective show is a luxurious labyrinth of noir.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are The Download: AI bottleneck debates, and BCI trials take off, ‘The purpose of the rule is fascism’: scientists fight back against planned Trump research cuts, and Pragmata's development team included a group of women known as the "Diana Police" to convincingly capture her child-like innocence.
 
 ## Briefing
 
@@ -33,86 +33,86 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. On the trail of the dotcom queen: how Julie Meyer left a pattern of unpaid bills, missing funds and broken dreams in her wake [10/10]
+### 1. The Download: AI bottleneck debates, and BCI trials take off [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/
+
+### 2. ‘The purpose of the rule is fascism’: scientists fight back against planned Trump research cuts [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Investigation: The entrepreneur was once the toast of London’s tech scene, a ‘global leader of tomorrow’ who starred on Dragons’ Den and promised untold riches for the startups she championed.
+Stand Up for Science founder says proposal to control how grants are spent would ‘dismantle US science ecosystem’ While waiting to board her flight home at Ronald Reagan Washington national airport recently, Colette Delawalla was reviewing…
 
-Link: https://www.theguardian.com/business/2026/jun/19/julie-meyer-dotcom-queen-unpaid-bills-missing-funds-broken-dreams
+Link: https://www.theguardian.com/us-news/2026/jun/19/trump-scientific-research-cuts
 
-### 2. In the Hand of Dante review – Gerard Butler is jaw-dropping in bizarre Renaissance mafia reverie [10/10]
+### 3. Pragmata's development team included a group of women known as the "Diana Police" to convincingly capture her child-like innocence [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Capcom's long-in-the-works space game Pragmata finally released in April, garnering plenty of praise for its gameplay and more.
+
+Link: https://www.eurogamer.net/capcom-pragmata-diana-police
+
+### 4. Call of Duty: Black Ops 1&2 PlayStation re-releases are not remasters, Activision confirms: here's why you should temper your expectations [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+In quite an unusual way, Call of Duty Black Ops series developer Treyarch announced on X that the original Black Ops and Black Ops 2 games are "being ported" to PlayStation.
+
+Link: https://www.eurogamer.net/black-ops-1-2-playstation-ports-not-remasters
+
+### 5. Sony removes mention of PC from PlayStation's annual business report, but has plenty to say about AI [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Sony has removed any mention of games coming to PC in its annual business environment and strategy report for PlayStation, but has added details on how it will utilise AI. Read more
+
+Link: https://www.eurogamer.net/sony-playstation-pc-ai-annual-report
+
+### 6. I’m a critical care doctor. I’ve never seen the US harm its children this deliberately | Robert B Shpiner [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Julian Schnabel’s combustible mix of lowlife cynicism and high art – along with cameos from Martin Scorsese and Al Pacino – powers this outrageous black comedy revolving around Dante’s Divine Comedy The worlds of Renaissance manuscript…
+At every stage of childhood, the Trump administration is withdrawing a protection. It is also dismantling the tools that would measure the harm A newborn’s first hours in a US hospital used to carry a quiet set of guarantees.
 
-Link: https://www.theguardian.com/film/2026/jun/19/in-the-hand-of-dante-review-gerard-butler-julian-schnabel-martin-scorsese-al-pacino
+Link: https://www.theguardian.com/commentisfree/2026/jun/19/trump-administration-healthcare-for-kids
 
-### 3. Sugar review – Colin Farrell’s detective show is a luxurious labyrinth of noir [10/10]
+### 7. A startup claims it broke through a bottleneck that’s holding back LLMs [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade.
+
+Link: https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/
+
+### 8. Opinion: For Students in Unstable Housing, Strong Relationships Need Strong Systems [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+When a student is in crisis, the hardest problems are easier to solve when someone already knows their story, and trust is already there.
+
+Link: https://www.the74million.org/article/for-students-in-unstable-housing-strong-relationships-need-strong-systems/
+
+### 9. Luca Guadagnino’s Sam Altman movie dropped by Amazon after it announces OpenAI partnership [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Each episode of this PI drama’s second season is a half-hour haze suffused with melancholy and distressed urban beauty. It’s the kind of show that could only exist on Apple TV Getting a TV show made isn’t easy.
+The web giant announced that Artificial, a biopic about the controversial tech executive, ‘will be better served if it were released by a different studio’ Artificial, Luca Guadagnino’s controversial Sam Altman biopic, which is poised for…
 
-Link: https://www.theguardian.com/tv-and-radio/2026/jun/19/sugar-review-colin-farrell-apple-tv-drama
-
-### 4. Valve roll out a more detailed timeline for Steam Controller orders, giving you a clearer picture of when you'll hear about your reservation [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-If you've put in an order for a Steam Controller and are still awaiting its arrival, a new system Valve have rolled out can offer you an estimate of when you should hear from them about your order.
-
-Link: https://www.rockpapershotgun.com/valve-roll-out-a-more-detailed-timeline-for-steam-controller-orders-giving-you-a-clearer-picture-of-when-youll-hear-about-your-reservation
-
-### 5. Barret Zoph is out at OpenAI again after just five months [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab
-
-### 6. Grammy-nominated music producer Tay Keith, who worked with Drake and Travis Scott, dies aged 29 [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Hip-hop producer behind Travis Scott’s Sicko Mode and Drake’s Nonstop has been found dead at home during a police welfare check The Grammy-nominated producer Tay Keith, who worked with Drake, Travis Scott and Beyoncé, has been found dead…
-
-Link: https://www.theguardian.com/music/2026/jun/19/tay-keith-music-producer-travis-scott-drake-death-grammy-nominated
-
-### 7. Epic's plans for their big store revamp over the next year sound like they'll at long last meet the bare minimum [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The Epic Games Store is not very good. This is not a controversial thing to say, I'm fairly certain, as the lack of features available within it feels a bit odd also eight years into the thing existing.
-
-Link: https://www.rockpapershotgun.com/epics-plans-for-their-big-store-revamp-over-the-next-year-sound-like-theyll-at-long-last-meet-the-bare-minimum
-
-### 8. Opinion: What School and District Leaders Need to Know Before They Invest in AI [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-The end of the fiscal year is near.
-
-Link: https://www.the74million.org/article/what-school-and-district-leaders-need-to-know-before-they-invest-in-ai/
-
-### 9. Co-Designing for Belonging: An American Indian Education Partnership in Elementary CS [9/10]
-**Source:** CSTA  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-How a partnership grounded in Indigenous knowledge created richer CS learning—and how others can adapt the approach. Written by Alexandra...
-
-Link: https://csteachers.org/co-designing-for-belonging-an-american-indian-education-partnership-in-elementary-cs/
+Link: https://www.theguardian.com/film/2026/jun/19/luca-guadagnino-sam-altman-movie-dropped-amazon-openai-artificial
 
 ### 10. The Ark Season 3 Trailer Sees Strife in the Skies and Planetside [8/10]
 **Source:** Reactor  
@@ -141,14 +141,14 @@ Link: https://www.npr.org/2026/06/18/nx-s1-5861903/essential-skin-care-products
 
 Link: https://www.404media.co/if-ai-is-sentient-then-so-is-age-of-empires-ii/
 
-### 13. Snap plans to sell $2,000 AR glasses. Are they the future of wearable tech? [7/10]
+### 13. Get with the times — here's what a 'Luddite' means today [7/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-NPR's Steve Inskeep speaks with tech journalist Joanna Stern about the release of new augmented reality glasses from Snap and the future of wearable technology.
+It's often a derogatory term used to describe digital dinosaurs and technophobes. That wasn't always the case. NPR's Word of the Week looks back at the not so backwards-looking Luddites.
 
-Link: https://www.npr.org/2026/06/19/nx-s1-5863068/snap-plans-to-sell-2-000-ar-glasses-are-they-the-future-of-wearable-tech
+Link: https://www.npr.org/2026/06/19/nx-s1-5853589/luddite-meaning-history-ai
 
 ## YouTube
 
@@ -170,9 +170,9 @@ With the UK planning to follow Australia in a ban on social media for under 16s,
 
 Link: https://www.youtube.com/watch?v=2jJeSgO_MGo
 
-### Is Weezer Demonic? [8/10]
+### Is Weezer Demonic? [7/10]
 **Creator:** WIRED  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Weezer's music is very powerful. Neutral-good kind of powerful. #Weezer #Rock #WIRED Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.
@@ -205,6 +205,15 @@ Link: https://www.youtube.com/watch?v=XpIjGAZA_To
 History Professor Jonathan Rees joins WIRED to answer the internet’s burning questions about the Industrial Revolution.
 
 Link: https://www.youtube.com/watch?v=8mkrHaLcxcA
+
+### U.K. bans social media for children under 16 [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+The British government has announced it is banning social media for children under 16. British Prime Minister Keir Starmer also announced restrictions on gaming services and livestreaming.
+
+Link: https://www.youtube.com/watch?v=AjNbOotTrGI
 
 ### Russian strikes have left cultural scars across Ukraine [7/10]
 **Creator:** NPR  
@@ -260,15 +269,6 @@ Writer Linda Stone, who coined the term "screen apnea," knows all too well that 
 
 Link: https://www.youtube.com/watch?v=JRLZPIGRmf8
 
-### Vogue's Chloe Malle on her decision to tie the magazine's Summer edition to America's 250th birthday [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-American Vogue's new Head of Editorial Content Chloe Malle says she's not worried about backlash to the multicultural vision of America that she's bringing to its pages.
-
-Link: https://www.youtube.com/watch?v=0X8036CA3sY
-
 ### Is God of War Laufey Actually Targeting PlayStation 6? [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
@@ -323,6 +323,15 @@ Link: https://www.youtube.com/watch?v=Ezzyp59pHFs
 
 Link: https://www.youtube.com/watch?v=pMN3bOfU0wM
 
+### Is It Thursday? Then We're Taking Your TTRPG Questions! | RPG Help Desk [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+We've got a few questions to cover from last time AND taking new questions from you. Jesse Galena is hosting like usual, but the name didn't fit into the first part of this, so this section only exists to add that name to the meta data.
+
+Link: https://www.youtube.com/watch?v=F6ber_pf9Eg
+
 ### The Xbox News Is Infuriating, Devastating, and Exhausting | Firelink Podcast [8/10]
 **Creator:** Second Wind  
 **Verdict:** Worth watching  
@@ -331,15 +340,6 @@ Link: https://www.youtube.com/watch?v=pMN3bOfU0wM
 This week on Firelink, Nick, KC, and Marty chat about the reports of a bloody summer for Xbox. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.fantasycritic.
 
 Link: https://www.youtube.com/watch?v=_FlmxcFQd7g
-
-### Is It Thursday? Then We're Taking Your TTRPG Questions! | RPG Help Desk [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-We've got a few questions to cover from last time AND taking new questions from you. Jesse Galena is hosting like usual, but the name didn't fit into the first part of this, so this section only exists to add that name to the meta data.
-
-Link: https://www.youtube.com/watch?v=F6ber_pf9Eg
 
 ### Making Wasteland Pals in Fallout 3 w/ Jack, Jess, and Marty -- Part 2 [7/10]
 **Creator:** Second Wind  

@@ -1,99 +1,99 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-19T09:01:26.120058Z",
-  "generatedAtDisplay": "2026-06-19 05:01 AM EDT",
+  "generatedAt": "2026-06-19T14:00:02.599362Z",
+  "generatedAtDisplay": "2026-06-19 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are On the trail of the dotcom queen: how Julie Meyer left a pattern of unpaid bills, missing funds and broken dreams in her wake, In the Hand of Dante review – Gerard Butler is jaw-dropping in bizarre Renaissance mafia reverie, and Sugar review – Colin Farrell’s detective show is a luxurious labyrinth of noir.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are The Download: AI bottleneck debates, and BCI trials take off, ‘The purpose of the rule is fascism’: scientists fight back against planned Trump research cuts, and Pragmata's development team included a group of women known as the \"Diana Police\" to convincingly capture her child-like innocence.",
   "mainItems": [
     {
-      "title": "On the trail of the dotcom queen: how Julie Meyer left a pattern of unpaid bills, missing funds and broken dreams in her wake",
+      "title": "The Download: AI bottleneck debates, and BCI trials take off",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+      "published": "2026-06-19T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "‘The purpose of the rule is fascism’: scientists fight back against planned Trump research cuts",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/2026/jun/19/julie-meyer-dotcom-queen-unpaid-bills-missing-funds-broken-dreams",
-      "published": "2026-06-19T07:00:26+00:00",
-      "summary": "Investigation: The entrepreneur was once the toast of London’s tech scene, a ‘global leader of tomorrow’ who starred on Dragons’ Den and promised untold riches for the startups she championed.",
+      "url": "https://www.theguardian.com/us-news/2026/jun/19/trump-scientific-research-cuts",
+      "published": "2026-06-19T12:00:31+00:00",
+      "summary": "Stand Up for Science founder says proposal to control how grants are spent would ‘dismantle US science ecosystem’ While waiting to board her flight home at Ronald Reagan Washington national airport recently, Colette Delawalla was reviewing…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "In the Hand of Dante review – Gerard Butler is jaw-dropping in bizarre Renaissance mafia reverie",
-      "source": "The Guardian US",
+      "title": "Pragmata's development team included a group of women known as the \"Diana Police\" to convincingly capture her child-like innocence",
+      "source": "Eurogamer",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/jun/19/in-the-hand-of-dante-review-gerard-butler-julian-schnabel-martin-scorsese-al-pacino",
-      "published": "2026-06-19T06:00:25+00:00",
-      "summary": "Julian Schnabel’s combustible mix of lowlife cynicism and high art – along with cameos from Martin Scorsese and Al Pacino – powers this outrageous black comedy revolving around Dante’s Divine Comedy The worlds of Renaissance manuscript…",
+      "url": "https://www.eurogamer.net/capcom-pragmata-diana-police",
+      "published": "2026-06-19T11:41:04+00:00",
+      "summary": "Capcom's long-in-the-works space game Pragmata finally released in April, garnering plenty of praise for its gameplay and more.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Sugar review – Colin Farrell’s detective show is a luxurious labyrinth of noir",
+      "title": "Call of Duty: Black Ops 1&2 PlayStation re-releases are not remasters, Activision confirms: here's why you should temper your expectations",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/black-ops-1-2-playstation-ports-not-remasters",
+      "published": "2026-06-19T11:10:17+00:00",
+      "summary": "In quite an unusual way, Call of Duty Black Ops series developer Treyarch announced on X that the original Black Ops and Black Ops 2 games are \"being ported\" to PlayStation.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Sony removes mention of PC from PlayStation's annual business report, but has plenty to say about AI",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/sony-playstation-pc-ai-annual-report",
+      "published": "2026-06-19T11:08:52+00:00",
+      "summary": "Sony has removed any mention of games coming to PC in its annual business environment and strategy report for PlayStation, but has added details on how it will utilise AI. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "I’m a critical care doctor. I’ve never seen the US harm its children this deliberately | Robert B Shpiner",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/19/trump-administration-healthcare-for-kids",
+      "published": "2026-06-19T11:00:31+00:00",
+      "summary": "At every stage of childhood, the Trump administration is withdrawing a protection. It is also dismantling the tools that would measure the harm A newborn’s first hours in a US hospital used to carry a quiet set of guarantees.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "published": "2026-06-19T10:40:24+00:00",
+      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: For Students in Unstable Housing, Strong Relationships Need Strong Systems",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/for-students-in-unstable-housing-strong-relationships-need-strong-systems/",
+      "published": "2026-06-19T10:30:00+00:00",
+      "summary": "When a student is in crisis, the hardest problems are easier to solve when someone already knows their story, and trust is already there.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Luca Guadagnino’s Sam Altman movie dropped by Amazon after it announces OpenAI partnership",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/19/sugar-review-colin-farrell-apple-tv-drama",
-      "published": "2026-06-19T04:00:22+00:00",
-      "summary": "Each episode of this PI drama’s second season is a half-hour haze suffused with melancholy and distressed urban beauty. It’s the kind of show that could only exist on Apple TV Getting a TV show made isn’t easy.",
+      "url": "https://www.theguardian.com/film/2026/jun/19/luca-guadagnino-sam-altman-movie-dropped-amazon-openai-artificial",
+      "published": "2026-06-19T13:21:01+00:00",
+      "summary": "The web giant announced that Artificial, a biopic about the controversial tech executive, ‘will be better served if it were released by a different studio’ Artificial, Luca Guadagnino’s controversial Sam Altman biopic, which is poised for…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Valve roll out a more detailed timeline for Steam Controller orders, giving you a clearer picture of when you'll hear about your reservation",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/valve-roll-out-a-more-detailed-timeline-for-steam-controller-orders-giving-you-a-clearer-picture-of-when-youll-hear-about-your-reservation",
-      "published": "2026-06-19T08:46:01+00:00",
-      "summary": "If you've put in an order for a Steam Controller and are still awaiting its arrival, a new system Valve have rolled out can offer you an estimate of when you should hear from them about your order.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Barret Zoph is out at OpenAI again after just five months",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-      "published": "2026-06-19T04:49:33+00:00",
-      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Grammy-nominated music producer Tay Keith, who worked with Drake and Travis Scott, dies aged 29",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/music/2026/jun/19/tay-keith-music-producer-travis-scott-drake-death-grammy-nominated",
-      "published": "2026-06-19T04:46:53+00:00",
-      "summary": "Hip-hop producer behind Travis Scott’s Sicko Mode and Drake’s Nonstop has been found dead at home during a police welfare check The Grammy-nominated producer Tay Keith, who worked with Drake, Travis Scott and Beyoncé, has been found dead…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Epic's plans for their big store revamp over the next year sound like they'll at long last meet the bare minimum",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/epics-plans-for-their-big-store-revamp-over-the-next-year-sound-like-theyll-at-long-last-meet-the-bare-minimum",
-      "published": "2026-06-18T21:53:29+00:00",
-      "summary": "The Epic Games Store is not very good. This is not a controversial thing to say, I'm fairly certain, as the lack of features available within it feels a bit odd also eight years into the thing existing.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: What School and District Leaders Need to Know Before They Invest in AI",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/what-school-and-district-leaders-need-to-know-before-they-invest-in-ai/",
-      "published": "2026-06-18T12:30:00+00:00",
-      "summary": "The end of the fiscal year is near.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Co-Designing for Belonging: An American Indian Education Partnership in Elementary CS",
-      "source": "CSTA",
-      "category": "Education / pedagogy",
-      "url": "https://csteachers.org/co-designing-for-belonging-an-american-indian-education-partnership-in-elementary-cs/",
-      "published": "2026-06-18T11:00:00+00:00",
-      "summary": "How a partnership grounded in Indigenous knowledge created richer CS learning—and how others can adapt the approach. Written by Alexandra...",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
@@ -127,12 +127,12 @@
       "score": 8
     },
     {
-      "title": "Snap plans to sell $2,000 AR glasses. Are they the future of wearable tech?",
+      "title": "Get with the times — here's what a 'Luddite' means today",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/06/19/nx-s1-5863068/snap-plans-to-sell-2-000-ar-glasses-are-they-the-future-of-wearable-tech",
-      "published": "2026-06-19T08:44:44+00:00",
-      "summary": "NPR's Steve Inskeep speaks with tech journalist Joanna Stern about the release of new augmented reality glasses from Snap and the future of wearable technology.",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5853589/luddite-meaning-history-ai",
+      "published": "2026-06-19T09:00:00+00:00",
+      "summary": "It's often a derogatory term used to describe digital dinosaurs and technophobes. That wasn't always the case. NPR's Word of the Week looks back at the not so backwards-looking Luddites.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 7
     }
@@ -168,8 +168,8 @@
       "published": "2026-06-19T00:00:01+00:00",
       "summary": "Weezer's music is very powerful. Neutral-good kind of powerful. #Weezer #Rock #WIRED Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Hey Siri, Play 'Island in the Sun'",
@@ -203,6 +203,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
+    },
+    {
+      "title": "U.K. bans social media for children under 16",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=AjNbOotTrGI",
+      "published": "2026-06-19T13:00:07+00:00",
+      "summary": "The British government has announced it is banning social media for children under 16. British Prime Minister Keir Starmer also announced restrictions on gaming services and livestreaming.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "Russian strikes have left cultural scars across Ukraine",
@@ -266,17 +277,6 @@
       "url": "https://www.youtube.com/watch?v=JRLZPIGRmf8",
       "published": "2026-06-18T13:00:16+00:00",
       "summary": "Writer Linda Stone, who coined the term \"screen apnea,\" knows all too well that our technology can really mess with our breathing and our health.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Vogue's Chloe Malle on her decision to tie the magazine's Summer edition to America's 250th birthday",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=0X8036CA3sY",
-      "published": "2026-06-18T13:00:15+00:00",
-      "summary": "American Vogue's new Head of Editorial Content Chloe Malle says she's not worried about backlash to the multicultural vision of America that she's bringing to its pages.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 6,
       "verdict": "Summary is enough"
@@ -348,6 +348,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Is It Thursday? Then We're Taking Your TTRPG Questions! | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=F6ber_pf9Eg",
+      "published": "2026-06-19T10:49:51+00:00",
+      "summary": "We've got a few questions to cover from last time AND taking new questions from you. Jesse Galena is hosting like usual, but the name didn't fit into the first part of this, so this section only exists to add that name to the meta data.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "The Xbox News Is Infuriating, Devastating, and Exhausting | Firelink Podcast",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -357,17 +368,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Is It Thursday? Then We're Taking Your TTRPG Questions! | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=F6ber_pf9Eg",
-      "published": "2026-06-18T19:07:50+00:00",
-      "summary": "We've got a few questions to cover from last time AND taking new questions from you. Jesse Galena is hosting like usual, but the name didn't fit into the first part of this, so this section only exists to add that name to the meta data.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     },
     {
       "title": "Making Wasteland Pals in Fallout 3 w/ Jack, Jess, and Marty -- Part 2",
@@ -837,6 +837,6 @@
     "mainCount": 13,
     "youtubeCount": 27,
     "trailerCount": 26,
-    "sourceCount": 24
+    "sourceCount": 23
   }
 }
