@@ -1,68 +1,38 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-19T14:00:02.599362Z",
-  "generatedAtDisplay": "2026-06-19 10:00 AM EDT",
+  "generatedAt": "2026-06-20T05:00:02.219418Z",
+  "generatedAtDisplay": "2026-06-20 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are The Download: AI bottleneck debates, and BCI trials take off, ‘The purpose of the rule is fascism’: scientists fight back against planned Trump research cuts, and Pragmata's development team included a group of women known as the \"Diana Police\" to convincingly capture her child-like innocence.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Opinion: Findings Offer a Math Playbook for California Schools, Revolt in small Georgia town appears to ward off ICE detention center, and The NTS Radio Player brings the best of internet radio to your hi-fi.",
   "mainItems": [
     {
-      "title": "The Download: AI bottleneck debates, and BCI trials take off",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-      "published": "2026-06-19T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "Opinion: Findings Offer a Math Playbook for California Schools",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/findings-offer-a-math-playbook-for-california-schools/",
+      "published": "2026-06-19T18:30:00+00:00",
+      "summary": "Math improvement rarely stalls because districts aren’t taking action. More often, it stalls because well-intentioned supports accumulate faster than schools can turn them into a coherent, actionable instructional plan.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "‘The purpose of the rule is fascism’: scientists fight back against planned Trump research cuts",
+      "title": "Revolt in small Georgia town appears to ward off ICE detention center",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/19/trump-scientific-research-cuts",
-      "published": "2026-06-19T12:00:31+00:00",
-      "summary": "Stand Up for Science founder says proposal to control how grants are spent would ‘dismantle US science ecosystem’ While waiting to board her flight home at Ronald Reagan Washington national airport recently, Colette Delawalla was reviewing…",
+      "url": "https://www.theguardian.com/us-news/2026/jun/19/georgia-federal-immigration-detention-center",
+      "published": "2026-06-19T17:32:40+00:00",
+      "summary": "Social Circle announces homeland security has canceled plans to convert warehouse to detain up to 10,000 people The small town of Social Circle in rural Georgia has announced that the Department of Homeland Security has cancelled plans to…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Pragmata's development team included a group of women known as the \"Diana Police\" to convincingly capture her child-like innocence",
-      "source": "Eurogamer",
+      "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/capcom-pragmata-diana-police",
-      "published": "2026-06-19T11:41:04+00:00",
-      "summary": "Capcom's long-in-the-works space game Pragmata finally released in April, garnering plenty of praise for its gameplay and more.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Call of Duty: Black Ops 1&2 PlayStation re-releases are not remasters, Activision confirms: here's why you should temper your expectations",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/black-ops-1-2-playstation-ports-not-remasters",
-      "published": "2026-06-19T11:10:17+00:00",
-      "summary": "In quite an unusual way, Call of Duty Black Ops series developer Treyarch announced on X that the original Black Ops and Black Ops 2 games are \"being ported\" to PlayStation.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Sony removes mention of PC from PlayStation's annual business report, but has plenty to say about AI",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/sony-playstation-pc-ai-annual-report",
-      "published": "2026-06-19T11:08:52+00:00",
-      "summary": "Sony has removed any mention of games coming to PC in its annual business environment and strategy report for PlayStation, but has added details on how it will utilise AI. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "I’m a critical care doctor. I’ve never seen the US harm its children this deliberately | Robert B Shpiner",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/19/trump-administration-healthcare-for-kids",
-      "published": "2026-06-19T11:00:31+00:00",
-      "summary": "At every stage of childhood, the Trump administration is withdrawing a protection. It is also dismantling the tools that would measure the harm A newborn’s first hours in a US hospital used to carry a quiet set of guarantees.",
+      "url": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
+      "published": "2026-06-19T16:40:19+00:00",
+      "summary": "NTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -77,6 +47,46 @@
       "score": 10
     },
     {
+      "title": "Nothing cancels this year’s CMF phone due to RAM prices",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
+      "published": "2026-06-19T21:28:39+00:00",
+      "summary": "Nothing's next budget phone is the latest victim of RAMageddon.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Biden’s bid to block release of recordings made with ghostwriter fails",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/jun/19/biden-recordings-release-bid-fails",
+      "published": "2026-06-19T20:32:39+00:00",
+      "summary": "Judge finds public interest outweighs privacy rights in request made by staffer at Heritage Foundation A federal judge on Friday rejected Joe Biden’s attempt to block the Trump administration from releasing to a conservative group the…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
+    },
+    {
+      "title": "Could ‘king in the north’ become Britain’s new prime minister?",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/politics/2026/jun/19/andy-burnham-could-king-north-become-britain-new-prime-minister",
+      "published": "2026-06-19T18:25:01+00:00",
+      "summary": "Makerfield victory gives Andy Burnham a path back to Westminster and a chance to challenge Keir Starmer Celebrations and a swift exit after a Burnham win ‘beyond our wildest dreams’ “We know no king but the King in the North”, declares the…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "\"An elevated lifestyle no matter what happens outside”: we need more horror games set in billionaire apocalypse bunkers",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/an-elevated-lifestyle-no-matter-what-happens-outside-we-need-more-horror-games-set-in-billionaire-apocalypse-bunkers",
+      "published": "2026-06-19T17:00:00+00:00",
+      "summary": "Billionaires rarely make for very interesting fabulists - they have people for that sort of thing - but in their obsession with securing a legacy, they do necessarily spend a lot of time in the realm of make-believe.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
       "title": "Opinion: For Students in Unstable Housing, Strong Relationships Need Strong Systems",
       "source": "The 74",
       "category": "Education / pedagogy",
@@ -84,47 +94,37 @@
       "published": "2026-06-19T10:30:00+00:00",
       "summary": "When a student is in crisis, the hardest problems are easier to solve when someone already knows their story, and trust is already there.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Luca Guadagnino’s Sam Altman movie dropped by Amazon after it announces OpenAI partnership",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/film/2026/jun/19/luca-guadagnino-sam-altman-movie-dropped-amazon-openai-artificial",
-      "published": "2026-06-19T13:21:01+00:00",
-      "summary": "The web giant announced that Artificial, a biopic about the controversial tech executive, ‘will be better served if it were released by a different studio’ Artificial, Luca Guadagnino’s controversial Sam Altman biopic, which is poised for…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "The Ark Season 3 Trailer Sees Strife in the Skies and Planetside",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/the-ark-season-3-trailer/",
-      "published": "2026-06-18T18:51:08+00:00",
-      "summary": "Season 3 is set to premiere in July The post The Ark Season 3 Trailer Sees Strife in the Skies and Planetside appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
-      "title": "You're probably using too many skin care products. Here are the 3 essentials",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/18/nx-s1-5861903/essential-skin-care-products",
-      "published": "2026-06-18T16:03:24+00:00",
-      "summary": "We asked half a dozen skin care experts: Which products do you really need to keep your skin healthy and attractive? Here's what they said.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "If AI Is Sentient Then So Is ‘Age of Empires II’",
+      "title": "Behind the Blog: Landfillcore and Go Knicks",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/if-ai-is-sentient-then-so-is-age-of-empires-ii/",
-      "published": "2026-06-18T14:22:58+00:00",
-      "summary": "“The point of the paper is to formally show that we anthropomorphise too readily.\"",
+      "url": "https://www.404media.co/behind-the-blog-landfillcore-and-go-knicks/",
+      "published": "2026-06-19T16:07:48+00:00",
+      "summary": "This week, we discuss questionable analysis, mysterious parcels, and the Knicks (sorta).",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
+    },
+    {
+      "title": "Slay the Spire 2 gets a patch for broken RNG after player turns in gruelling eight hour video exposé",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / design",
+      "url": "https://www.rockpapershotgun.com/slay-the-spire-2-gets-a-patch-for-broken-rng-after-player-turns-in-gruelling-eight-hour-video-expose",
+      "published": "2026-06-19T15:45:00+00:00",
+      "summary": "Slay the Spire 2 has received a major update that adds Steam Workshop support for mods alongside a proper monster bestiary for the Compendium. It also introduces a new boss, Aeonglass, in place of the much-berated Doormaker .",
+      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
+      "score": 7
+    },
+    {
+      "title": "Tick season is getting worse. Can managing deer help?",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5856461/tick-deer-alpha-gal-lonestar",
+      "published": "2026-06-19T13:00:00+00:00",
+      "summary": "Health officials and researchers hope that efforts to control deer populations, which serve as \"party buses\" for mating ticks, can reverse the tide of ticks and the illnesses they cause.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
     },
     {
       "title": "Get with the times — here's what a 'Luddite' means today",
@@ -139,26 +139,26 @@
   ],
   "youtube": [
     {
-      "title": "They Looked Inside Claude’s AI's Mind. It Got Weird",
+      "title": "Scientists Found A Better Language For AI Agents",
       "source": "Two Minute Papers",
       "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=l72ufA-4SzE",
-      "published": "2026-06-16T15:53:17+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://www.anthropic.com/research/natural-language-autoencoders https://transformer-circuits.pub/2026/nla/index.",
+      "url": "https://www.youtube.com/watch?v=dUmT0OIGoqE",
+      "published": "2026-06-19T14:06:00+00:00",
+      "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://recursivemas.github.io/ https://github.com/RecursiveMAS/RecursiveMAS Brain reading video: https://www.youtube.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
-      "title": "Is it Possible to Block Childrens' Access to Social Media? - Computerphile",
-      "source": "Computerphile",
-      "category": "Science / computing",
-      "url": "https://www.youtube.com/watch?v=2jJeSgO_MGo",
-      "published": "2026-06-16T14:30:04+00:00",
-      "summary": "With the UK planning to follow Australia in a ban on social media for under 16s, we ask how it might work? Dr Mike Pound is an Associate Professor at the University of Nottingham. Computerphile is supported by Jane Street.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "MrBallen Answers The Web’s Most Searched Questions",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=oOZAQ_pY6W8",
+      "published": "2026-06-19T16:00:05+00:00",
+      "summary": "Ex-Navy SEAL turned content creator @MrBallen visits WIRED to answer his most searched questions on Google.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Is Weezer Demonic?",
@@ -194,17 +194,6 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "History Professor Answers Industrial Revolution Questions | Tech Support | WIRED",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=8mkrHaLcxcA",
-      "published": "2026-06-16T18:38:01+00:00",
-      "summary": "History Professor Jonathan Rees joins WIRED to answer the internet’s burning questions about the Industrial Revolution.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
       "title": "U.K. bans social media for children under 16",
       "source": "NPR",
       "category": "News / analysis",
@@ -212,8 +201,8 @@
       "published": "2026-06-19T13:00:07+00:00",
       "summary": "The British government has announced it is banning social media for children under 16. British Prime Minister Keir Starmer also announced restrictions on gaming services and livestreaming.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Russian strikes have left cultural scars across Ukraine",
@@ -282,6 +271,39 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Did Xbox Series S \"Prepare\" Developers for Switch 2 Ports?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=TqDmi8J-JBM",
+      "published": "2026-06-19T17:00:34+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/1IT7sQ7pqsE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Fable Gets A 30-Minute Gameplay Demo - And Here's What We Think",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=7ZwXy7Mlbpc",
+      "published": "2026-06-19T16:00:05+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Xbox Studio Closure Reports: We've Got Big Worries",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=q4ohxNkYAAE",
+      "published": "2026-06-19T15:00:14+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Is God of War Laufey Actually Targeting PlayStation 6?",
       "source": "Digital Foundry",
       "category": "Games / hardware",
@@ -289,8 +311,8 @@
       "published": "2026-06-18T17:00:03+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/1IT7sQ7pqsE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Star Fox on Switch 2 Has A Demo... And Here's What We Think",
@@ -300,8 +322,8 @@
       "published": "2026-06-18T16:00:16+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "If Steam Machine's Late, Why Not Upgrade The Spec?",
@@ -326,26 +348,26 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "Should Xbox Return To A Console Exclusivity Strategy?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=Ezzyp59pHFs",
-      "published": "2026-06-16T17:00:35+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/1IT7sQ7pqsE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "Video Games Have Never Respected Death",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=fvMljTV2SHY",
+      "published": "2026-06-19T20:00:03+00:00",
+      "summary": "Video games have never respected death. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
-      "title": "Zelda: Ocarina of Time Remake Teased... So What Should We Expect?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=pMN3bOfU0wM",
-      "published": "2026-06-16T16:00:22+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "Microsoft Has Screwed the Employees of Xbox Yet Again | Unpacked",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=gwEjoYXT3s0",
+      "published": "2026-06-19T15:00:28+00:00",
+      "summary": "Xbox is once again changing direction, and the people taking the brunt of the blowback for it are the people who make the games. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "Is It Thursday? Then We're Taking Your TTRPG Questions! | RPG Help Desk",
@@ -355,8 +377,8 @@
       "published": "2026-06-19T10:49:51+00:00",
       "summary": "We've got a few questions to cover from last time AND taking new questions from you. Jesse Galena is hosting like usual, but the name didn't fit into the first part of this, so this section only exists to add that name to the meta data.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "The Xbox News Is Infuriating, Devastating, and Exhausting | Firelink Podcast",
@@ -366,8 +388,8 @@
       "published": "2026-06-19T00:51:11+00:00",
       "summary": "This week on Firelink, Nick, KC, and Marty chat about the reports of a bloody summer for Xbox. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.fantasycritic.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Making Wasteland Pals in Fallout 3 w/ Jack, Jess, and Marty -- Part 2",
@@ -412,28 +434,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Mixtape | Fully Ramblomatic",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=iIH5ZeFqdXs",
-      "published": "2026-06-17T16:00:27+00:00",
-      "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Mixtape. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Nick Plays the Sands of Time Trilogy for the First Time | Part 2",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=4rbC9uBmvZ4",
-      "published": "2026-06-16T22:15:26+00:00",
-      "summary": "The community funded Nick playing the Sands of Time trilogy on stream for the first time. Join Nick and Jenna as they start the series today! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     }
   ],
   "trailers": [
@@ -581,6 +581,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "#KyleCooke and #EricAndré behind the decks at the NYC premiere of #LittleBrother",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=13KcF6XOkyc",
+      "published": "2026-06-19T20:30:06+00:00",
+      "summary": "Kyle Cooke and Eric André behind the decks at the NYC premiere of LITTLE BROTHER Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Outer Banks: Season 5 | Official Teaser | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -677,28 +688,6 @@
       "summary": "Following her mother's strange death, Ruth (Stéphanie Magnin) returns to her childhood home. There, she discovers that her father's (Jose Coronado) conspiracy theories hide something far darker than a simple retiree's obsession.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The voicemail that started it all. #VoicemailsforIsabelle premieres June 19",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=ZOQo6qPlbek",
-      "published": "2026-06-15T18:30:38+00:00",
-      "summary": "The voicemail that started it all. #VoicemailsforIsabelle premieres June 19 #ZoeyDeutch #NickRobinson Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "America's Sweethearts: Dallas Cowboys Cheerleaders | Season 3 Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=0IN0dulzxhI",
-      "published": "2026-06-15T18:00:00+00:00",
-      "summary": "Rookie candidates face fierce competition, high expectations and even higher kicks as they vie for a spot with the Dallas Cowboys Cheerleaders. Watch Season 3 of America's Sweethearts: Dallas Cowboys Cheerleaders JUNE 16, only on Netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -836,7 +825,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 27,
-    "trailerCount": 26,
-    "sourceCount": 23
+    "trailerCount": 25,
+    "sourceCount": 22
   }
 }

@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-19T14:00:02.599362Z
+Generated: 2026-06-20T05:00:02.219418Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are The Download: AI bottleneck debates, and BCI trials take off, ‘The purpose of the rule is fascism’: scientists fight back against planned Trump research cuts, and Pragmata's development team included a group of women known as the "Diana Police" to convincingly capture her child-like innocence.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Opinion: Findings Offer a Math Playbook for California Schools, Revolt in small Georgia town appears to ward off ICE detention center, and The NTS Radio Player brings the best of internet radio to your hi-fi.
 
 ## Briefing
 
@@ -33,61 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. The Download: AI bottleneck debates, and BCI trials take off [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 1. Opinion: Findings Offer a Math Playbook for California Schools [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+Math improvement rarely stalls because districts aren’t taking action. More often, it stalls because well-intentioned supports accumulate faster than schools can turn them into a coherent, actionable instructional plan.
 
-Link: https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/
+Link: https://www.the74million.org/article/findings-offer-a-math-playbook-for-california-schools/
 
-### 2. ‘The purpose of the rule is fascism’: scientists fight back against planned Trump research cuts [10/10]
+### 2. Revolt in small Georgia town appears to ward off ICE detention center [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Stand Up for Science founder says proposal to control how grants are spent would ‘dismantle US science ecosystem’ While waiting to board her flight home at Ronald Reagan Washington national airport recently, Colette Delawalla was reviewing…
+Social Circle announces homeland security has canceled plans to convert warehouse to detain up to 10,000 people The small town of Social Circle in rural Georgia has announced that the Department of Homeland Security has cancelled plans to…
 
-Link: https://www.theguardian.com/us-news/2026/jun/19/trump-scientific-research-cuts
+Link: https://www.theguardian.com/us-news/2026/jun/19/georgia-federal-immigration-detention-center
 
-### 3. Pragmata's development team included a group of women known as the "Diana Police" to convincingly capture her child-like innocence [10/10]
-**Source:** Eurogamer  
+### 3. The NTS Radio Player brings the best of internet radio to your hi-fi [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Capcom's long-in-the-works space game Pragmata finally released in April, garnering plenty of praise for its gameplay and more.
+NTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup.
 
-Link: https://www.eurogamer.net/capcom-pragmata-diana-police
+Link: https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming
 
-### 4. Call of Duty: Black Ops 1&2 PlayStation re-releases are not remasters, Activision confirms: here's why you should temper your expectations [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-In quite an unusual way, Call of Duty Black Ops series developer Treyarch announced on X that the original Black Ops and Black Ops 2 games are "being ported" to PlayStation.
-
-Link: https://www.eurogamer.net/black-ops-1-2-playstation-ports-not-remasters
-
-### 5. Sony removes mention of PC from PlayStation's annual business report, but has plenty to say about AI [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Sony has removed any mention of games coming to PC in its annual business environment and strategy report for PlayStation, but has added details on how it will utilise AI. Read more
-
-Link: https://www.eurogamer.net/sony-playstation-pc-ai-annual-report
-
-### 6. I’m a critical care doctor. I’ve never seen the US harm its children this deliberately | Robert B Shpiner [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-At every stage of childhood, the Trump administration is withdrawing a protection. It is also dismantling the tools that would measure the harm A newborn’s first hours in a US hospital used to carry a quiet set of guarantees.
-
-Link: https://www.theguardian.com/commentisfree/2026/jun/19/trump-administration-healthcare-for-kids
-
-### 7. A startup claims it broke through a bottleneck that’s holding back LLMs [10/10]
+### 4. A startup claims it broke through a bottleneck that’s holding back LLMs [10/10]
 **Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -96,7 +69,43 @@ Miami-based AI startup Subquadratic came out of stealth mode last month with a h
 
 Link: https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/
 
-### 8. Opinion: For Students in Unstable Housing, Strong Relationships Need Strong Systems [10/10]
+### 5. Nothing cancels this year’s CMF phone due to RAM prices [9/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Nothing's next budget phone is the latest victim of RAMageddon.
+
+Link: https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices
+
+### 6. Biden’s bid to block release of recordings made with ghostwriter fails [9/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Judge finds public interest outweighs privacy rights in request made by staffer at Heritage Foundation A federal judge on Friday rejected Joe Biden’s attempt to block the Trump administration from releasing to a conservative group the…
+
+Link: https://www.theguardian.com/us-news/2026/jun/19/biden-recordings-release-bid-fails
+
+### 7. Could ‘king in the north’ become Britain’s new prime minister? [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Makerfield victory gives Andy Burnham a path back to Westminster and a chance to challenge Keir Starmer Celebrations and a swift exit after a Burnham win ‘beyond our wildest dreams’ “We know no king but the King in the North”, declares the…
+
+Link: https://www.theguardian.com/politics/2026/jun/19/andy-burnham-could-king-north-become-britain-new-prime-minister
+
+### 8. "An elevated lifestyle no matter what happens outside”: we need more horror games set in billionaire apocalypse bunkers [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Billionaires rarely make for very interesting fabulists - they have people for that sort of thing - but in their obsession with securing a legacy, they do necessarily spend a lot of time in the realm of make-believe.
+
+Link: https://www.rockpapershotgun.com/an-elevated-lifestyle-no-matter-what-happens-outside-we-need-more-horror-games-set-in-billionaire-apocalypse-bunkers
+
+### 9. Opinion: For Students in Unstable Housing, Strong Relationships Need Strong Systems [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -105,41 +114,32 @@ When a student is in crisis, the hardest problems are easier to solve when someo
 
 Link: https://www.the74million.org/article/for-students-in-unstable-housing-strong-relationships-need-strong-systems/
 
-### 9. Luca Guadagnino’s Sam Altman movie dropped by Amazon after it announces OpenAI partnership [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The web giant announced that Artificial, a biopic about the controversial tech executive, ‘will be better served if it were released by a different studio’ Artificial, Luca Guadagnino’s controversial Sam Altman biopic, which is poised for…
-
-Link: https://www.theguardian.com/film/2026/jun/19/luca-guadagnino-sam-altman-movie-dropped-amazon-openai-artificial
-
-### 10. The Ark Season 3 Trailer Sees Strife in the Skies and Planetside [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Season 3 is set to premiere in July The post The Ark Season 3 Trailer Sees Strife in the Skies and Planetside appeared first on Reactor .
-
-Link: https://reactormag.com/the-ark-season-3-trailer/
-
-### 11. You're probably using too many skin care products. Here are the 3 essentials [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-We asked half a dozen skin care experts: Which products do you really need to keep your skin healthy and attractive? Here's what they said.
-
-Link: https://www.npr.org/2026/06/18/nx-s1-5861903/essential-skin-care-products
-
-### 12. If AI Is Sentient Then So Is ‘Age of Empires II’ [8/10]
+### 10. Behind the Blog: Landfillcore and Go Knicks [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-“The point of the paper is to formally show that we anthropomorphise too readily."
+This week, we discuss questionable analysis, mysterious parcels, and the Knicks (sorta).
 
-Link: https://www.404media.co/if-ai-is-sentient-then-so-is-age-of-empires-ii/
+Link: https://www.404media.co/behind-the-blog-landfillcore-and-go-knicks/
+
+### 11. Slay the Spire 2 gets a patch for broken RNG after player turns in gruelling eight hour video exposé [7/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / design  
+**Why it matters:** Useful if you care about how games actually work as designed experiences.
+
+Slay the Spire 2 has received a major update that adds Steam Workshop support for mods alongside a proper monster bestiary for the Compendium. It also introduces a new boss, Aeonglass, in place of the much-berated Doormaker .
+
+Link: https://www.rockpapershotgun.com/slay-the-spire-2-gets-a-patch-for-broken-rng-after-player-turns-in-gruelling-eight-hour-video-expose
+
+### 12. Tick season is getting worse. Can managing deer help? [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Health officials and researchers hope that efforts to control deer populations, which serve as "party buses" for mating ticks, can reverse the tide of ticks and the illnesses they cause.
+
+Link: https://www.npr.org/2026/06/19/nx-s1-5856461/tick-deer-alpha-gal-lonestar
 
 ### 13. Get with the times — here's what a 'Luddite' means today [7/10]
 **Source:** NPR Tech  
@@ -152,23 +152,23 @@ Link: https://www.npr.org/2026/06/19/nx-s1-5853589/luddite-meaning-history-ai
 
 ## YouTube
 
-### They Looked Inside Claude’s AI's Mind. It Got Weird [7/10]
+### Scientists Found A Better Language For AI Agents [8/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Probably worth watching  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://www.anthropic.com/research/natural-language-autoencoders https://transformer-circuits.pub/2026/nla/index.
+❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://recursivemas.github.io/ https://github.com/RecursiveMAS/RecursiveMAS Brain reading video: https://www.youtube.
 
-Link: https://www.youtube.com/watch?v=l72ufA-4SzE
+Link: https://www.youtube.com/watch?v=dUmT0OIGoqE
 
-### Is it Possible to Block Childrens' Access to Social Media? - Computerphile [6/10]
-**Creator:** Computerphile  
-**Verdict:** Summary is enough  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+### MrBallen Answers The Web’s Most Searched Questions [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
 
-With the UK planning to follow Australia in a ban on social media for under 16s, we ask how it might work? Dr Mike Pound is an Associate Professor at the University of Nottingham. Computerphile is supported by Jane Street.
+Ex-Navy SEAL turned content creator @MrBallen visits WIRED to answer his most searched questions on Google.
 
-Link: https://www.youtube.com/watch?v=2jJeSgO_MGo
+Link: https://www.youtube.com/watch?v=oOZAQ_pY6W8
 
 ### Is Weezer Demonic? [7/10]
 **Creator:** WIRED  
@@ -197,18 +197,9 @@ Weezer visits WIRED to answer their most searched questions on Google.
 
 Link: https://www.youtube.com/watch?v=XpIjGAZA_To
 
-### History Professor Answers Industrial Revolution Questions | Tech Support | WIRED [8/10]
-**Creator:** WIRED  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-History Professor Jonathan Rees joins WIRED to answer the internet’s burning questions about the Industrial Revolution.
-
-Link: https://www.youtube.com/watch?v=8mkrHaLcxcA
-
-### U.K. bans social media for children under 16 [9/10]
+### U.K. bans social media for children under 16 [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 The British government has announced it is banning social media for children under 16. British Prime Minister Keir Starmer also announced restrictions on gaming services and livestreaming.
@@ -269,18 +260,45 @@ Writer Linda Stone, who coined the term "screen apnea," knows all too well that 
 
 Link: https://www.youtube.com/watch?v=JRLZPIGRmf8
 
-### Is God of War Laufey Actually Targeting PlayStation 6? [7/10]
+### Did Xbox Series S "Prepare" Developers for Switch 2 Ports? [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/1IT7sQ7pqsE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
-Link: https://www.youtube.com/watch?v=tAcC75NNTG0
+Link: https://www.youtube.com/watch?v=TqDmi8J-JBM
 
-### Star Fox on Switch 2 Has A Demo... And Here's What We Think [7/10]
+### Fable Gets A 30-Minute Gameplay Demo - And Here's What We Think [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=7ZwXy7Mlbpc
+
+### Xbox Studio Closure Reports: We've Got Big Worries [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=q4ohxNkYAAE
+
+### Is God of War Laufey Actually Targeting PlayStation 6? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/1IT7sQ7pqsE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=tAcC75NNTG0
+
+### Star Fox on Switch 2 Has A Demo... And Here's What We Think [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -305,36 +323,36 @@ Link: https://www.youtube.com/watch?v=BGBpAzw2gMU
 
 Link: https://www.youtube.com/watch?v=JR7o0fNC5Rg
 
-### Should Xbox Return To A Console Exclusivity Strategy? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/1IT7sQ7pqsE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=Ezzyp59pHFs
-
-### Zelda: Ocarina of Time Remake Teased... So What Should We Expect? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=pMN3bOfU0wM
-
-### Is It Thursday? Then We're Taking Your TTRPG Questions! | RPG Help Desk [7/10]
+### Video Games Have Never Respected Death [8/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Video games have never respected death. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=fvMljTV2SHY
+
+### Microsoft Has Screwed the Employees of Xbox Yet Again | Unpacked [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Xbox is once again changing direction, and the people taking the brunt of the blowback for it are the people who make the games. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.
+
+Link: https://www.youtube.com/watch?v=gwEjoYXT3s0
+
+### Is It Thursday? Then We're Taking Your TTRPG Questions! | RPG Help Desk [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 We've got a few questions to cover from last time AND taking new questions from you. Jesse Galena is hosting like usual, but the name didn't fit into the first part of this, so this section only exists to add that name to the meta data.
 
 Link: https://www.youtube.com/watch?v=F6ber_pf9Eg
 
-### The Xbox News Is Infuriating, Devastating, and Exhausting | Firelink Podcast [8/10]
+### The Xbox News Is Infuriating, Devastating, and Exhausting | Firelink Podcast [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Firelink, Nick, KC, and Marty chat about the reports of a bloody summer for Xbox. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.fantasycritic.
@@ -376,24 +394,6 @@ Link: https://www.youtube.com/watch?v=In7fcw6CxTM
 This week on Yahtzee Tries... Yahtzee and Marty check out a handful of Steam Next Fest demos in Iron Nest, Screenbound, Order of the Sinking Star, and Ballgame. Iron Nest -- https://store.steampowered.
 
 Link: https://www.youtube.com/watch?v=M0okSs9pvEc
-
-### Mixtape | Fully Ramblomatic [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Fully Ramblomatic, Yahtzee reviewed Mixtape. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
-
-Link: https://www.youtube.com/watch?v=iIH5ZeFqdXs
-
-### Nick Plays the Sands of Time Trilogy for the First Time | Part 2 [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The community funded Nick playing the Sands of Time trilogy on stream for the first time. Join Nick and Jenna as they start the series today! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.
-
-Link: https://www.youtube.com/watch?v=4rbC9uBmvZ4
 
 ## Entertainment Recommendations
 
@@ -541,6 +541,15 @@ You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on J
 
 Link: https://www.youtube.com/watch?v=cWgSDtI5khA
 
+### #KyleCooke and #EricAndré behind the decks at the NYC premiere of #LittleBrother [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Kyle Cooke and Eric André behind the decks at the NYC premiere of LITTLE BROTHER Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=13KcF6XOkyc
+
 ### Outer Banks: Season 5 | Official Teaser | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -621,24 +630,6 @@ Link: https://www.youtube.com/watch?v=UaLBYs9l8Vs
 Following her mother's strange death, Ruth (Stéphanie Magnin) returns to her childhood home. There, she discovers that her father's (Jose Coronado) conspiracy theories hide something far darker than a simple retiree's obsession.
 
 Link: https://www.youtube.com/watch?v=IvL0oT13djs
-
-### The voicemail that started it all. #VoicemailsforIsabelle premieres June 19 [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-The voicemail that started it all. #VoicemailsforIsabelle premieres June 19 #ZoeyDeutch #NickRobinson Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=ZOQo6qPlbek
-
-### America's Sweethearts: Dallas Cowboys Cheerleaders | Season 3 Sneak Peek | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Rookie candidates face fierce competition, high expectations and even higher kicks as they vie for a spot with the Dallas Cowboys Cheerleaders. Watch Season 3 of America's Sweethearts: Dallas Cowboys Cheerleaders JUNE 16, only on Netflix.
-
-Link: https://www.youtube.com/watch?v=0IN0dulzxhI
 
 ### A flawless proposal by Jessica Williams, with Sherry Cola subbing in for Derrick #2. #Shrinking [10/10]
 **Source:** Apple TV  
