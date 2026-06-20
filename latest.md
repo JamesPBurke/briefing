@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-20T09:01:41.200873Z
+Generated: 2026-06-20T14:00:02.002400Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are What are we all playing this weekend?, Revolt in small Georgia town appears to ward off ICE detention center, and The NTS Radio Player brings the best of internet radio to your hi-fi.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Science / health. The strongest items in this run are US treasury chief urged Trump not to host ‘Mr Bean on crack’ Zelenskyy, book says, ‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine, and ‘How do I deal with my rage? I put it in everything I do’: Killing Eve’s Sandra Oh on fury, friendship and hitting her prime in midlife.
 
 ## Briefing
 
@@ -33,25 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. What are we all playing this weekend? [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Saturdays are for realising that there are ASMR playlists for Frictional's Amnesia games.
-
-Link: https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-387
-
-### 2. Revolt in small Georgia town appears to ward off ICE detention center [10/10]
+### 1. US treasury chief urged Trump not to host ‘Mr Bean on crack’ Zelenskyy, book says [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Social Circle announces homeland security has canceled plans to convert warehouse to detain up to 10,000 people The small town of Social Circle in rural Georgia has announced that the Department of Homeland Security has cancelled plans to…
+Suggestion that Scott Bessent so described a world leader included in Regime Change, by New York Times reporters Scott Bessent, the US treasury secretary, advised Donald Trump not to host Volodymyr Zelenskyy in the Oval Office, having…
 
-Link: https://www.theguardian.com/us-news/2026/jun/19/georgia-federal-immigration-detention-center
+Link: https://www.theguardian.com/us-news/2026/jun/20/scott-bessent-volodymyr-zelenskyy-trump
 
-### 3. The NTS Radio Player brings the best of internet radio to your hi-fi [10/10]
+### 2. ‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Kennedy overrides CDC order saying an American who came into contact with hantavirus can self-quarantine The Trump administration is employing “authoritarian” and “unconstitutional” quarantine measures for at least one person who came into…
+
+Link: https://www.theguardian.com/world/2026/jun/20/rfk-jr-hantavirus-quarantine
+
+### 3. ‘How do I deal with my rage? I put it in everything I do’: Killing Eve’s Sandra Oh on fury, friendship and hitting her prime in midlife [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+It took a long time for the actor to find her groove – then the smash TV spy thriller changed everything.
+
+Link: https://www.theguardian.com/tv-and-radio/2026/jun/20/sandra-oh-interview-killing-eve-theatre
+
+### 4. How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+We asked people in the US about their customer service battles and hundreds responded on the financial and emotional costs Guardian readers from across the US wrote in to tell us about their battles with big companies, and the time,…
+
+Link: https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles
+
+### 5. These nuns spent a lifetime helping others. In their last years, who will help them? [10/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+The sisters of Uganda are teachers, health-care advocates and more. Those who are in their twilight of their life need help. Who will come to their aid?
+
+Link: https://www.npr.org/2026/06/20/g-s1-128632/nuns-convent-africa-hospice
+
+### 6. The NTS Radio Player brings the best of internet radio to your hi-fi [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -60,43 +87,25 @@ NTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player
 
 Link: https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming
 
-### 4. A startup claims it broke through a bottleneck that’s holding back LLMs [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade.
-
-Link: https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/
-
-### 5. What we've been playing - "And no I don't mean sexy Barry White songs" [9/10]
+### 7. Halo: Campaign Evolved PS5 players will require an Xbox account and gamertag to play – as well as PS Plus to play split-screen co-op [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Hello and welcome back to our regular feature where we write a little about the games we've been playing.
+Players will require an Xbox account and gamertag to Halo: Campaign Evolved on PS5. Read more
 
-Link: https://www.eurogamer.net/what-weve-been-playing-and-no-i-dont-mean-sexy-barry-white-songs
+Link: https://www.eurogamer.net/halo-campaign-evolved-ps5-xbox-account-gamertag-psplus
 
-### 6. Nothing cancels this year’s CMF phone due to RAM prices [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 8. Indianapolis Teacher Merit Pay in Charter Schools Gets Increasing Philanthropic Support [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Nothing's next budget phone is the latest victim of RAMageddon.
+Courtney Buuck thought there was some kind of mistake. When she learned that she received a $40,000 bonus payment on top of her base teacher’s salary last fall, she was in shock.
 
-Link: https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices
+Link: https://www.the74million.org/article/indianapolis-teacher-merit-pay-in-charter-schools-gets-increasing-philanthropic-support/
 
-### 7. Biden’s bid to block release of recordings made with ghostwriter fails [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Judge finds public interest outweighs privacy rights in request made by staffer at Heritage Foundation A federal judge on Friday rejected Joe Biden’s attempt to block the Trump administration from releasing to a conservative group the…
-
-Link: https://www.theguardian.com/us-news/2026/jun/19/biden-recordings-release-bid-fails
-
-### 8. Opinion: Findings Offer a Math Playbook for California Schools [9/10]
+### 9. Opinion: Findings Offer a Math Playbook for California Schools [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -105,34 +114,34 @@ Math improvement rarely stalls because districts aren’t taking action. More of
 
 Link: https://www.the74million.org/article/findings-offer-a-math-playbook-for-california-schools/
 
-### 9. Opinion: For Students in Unstable Housing, Strong Relationships Need Strong Systems [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 10. The film about Sam Altman has been dropped by Amazon MGM [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-When a student is in crisis, the hardest problems are easier to solve when someone already knows their story, and trust is already there.
+Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM.
 
-Link: https://www.the74million.org/article/for-students-in-unstable-housing-strong-relationships-need-strong-systems/
+Link: https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped
 
-### 10. ‘It’s a big mistake’: Israelis feel betrayed and angry after Iran peace deal [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-In ‘middle Israel’ there are fears Iran could rebuild stronger – and there is particular ire for Donald Trump In the Tree brasserie off Herzl Street in Rehovot, there was much that almost everyone agreed on.
-
-Link: https://www.theguardian.com/world/2026/jun/20/israelis-betrayed-angry-after-iran-peace-deal-donald-trump
-
-### 11. Behind the Blog: Landfillcore and Go Knicks [7/10]
+### 11. Scientists Propose Black Holes Don’t Exist, Are Something Much Stranger [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-This week, we discuss questionable analysis, mysterious parcels, and the Knicks (sorta).
+A seismic wave from the 2011 Tohoku-Oki earthquake bounced off the Earth’s core and hit Japan from below, shifting the entire mainland a quarter-inch eastward.
 
-Link: https://www.404media.co/behind-the-blog-landfillcore-and-go-knicks/
+Link: https://www.404media.co/scientists-propose-black-holes-dont-exist-are-something-much-stranger/
 
-### 12. Slay the Spire 2 gets a patch for broken RNG after player turns in gruelling eight hour video exposé [7/10]
+### 12. The Outer Worlds 2 studio Obsidian accused of "violating state wage and hour laws" for profit in California lawsuit [8/10]
+**Source:** Rock Paper Shotgun  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Obsidian Entertainment, developers of The Outer Worlds 2 and Avowed , have been sued in California for allegedly engaging "in a systematic pattern of wage and hour violations".
+
+Link: https://www.rockpapershotgun.com/the-outer-worlds-2-studio-obsidian-accused-of-violating-state-wage-and-hour-laws-for-profit-in-california-lawsuit
+
+### 13. Slay the Spire 2 gets a patch for broken RNG after player turns in gruelling eight hour video exposé [7/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / design  
 **Why it matters:** Useful if you care about how games actually work as designed experiences.
@@ -140,15 +149,6 @@ Link: https://www.404media.co/behind-the-blog-landfillcore-and-go-knicks/
 Slay the Spire 2 has received a major update that adds Steam Workshop support for mods alongside a proper monster bestiary for the Compendium. It also introduces a new boss, Aeonglass, in place of the much-berated Doormaker .
 
 Link: https://www.rockpapershotgun.com/slay-the-spire-2-gets-a-patch-for-broken-rng-after-player-turns-in-gruelling-eight-hour-video-expose
-
-### 13. Tick season is getting worse. Can managing deer help? [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Health officials and researchers hope that efforts to control deer populations, which serve as "party buses" for mating ticks, can reverse the tide of ticks and the illnesses they cause.
-
-Link: https://www.npr.org/2026/06/19/nx-s1-5856461/tick-deer-alpha-gal-lonestar
 
 ## YouTube
 

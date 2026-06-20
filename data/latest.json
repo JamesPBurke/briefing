@@ -1,29 +1,59 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-20T09:01:41.200873Z",
-  "generatedAtDisplay": "2026-06-20 05:01 AM EDT",
+  "generatedAt": "2026-06-20T14:00:02.002400Z",
+  "generatedAtDisplay": "2026-06-20 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are What are we all playing this weekend?, Revolt in small Georgia town appears to ward off ICE detention center, and The NTS Radio Player brings the best of internet radio to your hi-fi.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Science / health. The strongest items in this run are US treasury chief urged Trump not to host ‘Mr Bean on crack’ Zelenskyy, book says, ‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine, and ‘How do I deal with my rage? I put it in everything I do’: Killing Eve’s Sandra Oh on fury, friendship and hitting her prime in midlife.",
   "mainItems": [
     {
-      "title": "What are we all playing this weekend?",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-387",
-      "published": "2026-06-20T07:00:00+00:00",
-      "summary": "Saturdays are for realising that there are ASMR playlists for Frictional's Amnesia games.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "US treasury chief urged Trump not to host ‘Mr Bean on crack’ Zelenskyy, book says",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jun/20/scott-bessent-volodymyr-zelenskyy-trump",
+      "published": "2026-06-20T13:00:02+00:00",
+      "summary": "Suggestion that Scott Bessent so described a world leader included in Regime Change, by New York Times reporters Scott Bessent, the US treasury secretary, advised Donald Trump not to host Volodymyr Zelenskyy in the Oval Office, having…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Revolt in small Georgia town appears to ward off ICE detention center",
+      "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/jun/20/rfk-jr-hantavirus-quarantine",
+      "published": "2026-06-20T11:00:05+00:00",
+      "summary": "Kennedy overrides CDC order saying an American who came into contact with hantavirus can self-quarantine The Trump administration is employing “authoritarian” and “unconstitutional” quarantine measures for at least one person who came into…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "‘How do I deal with my rage? I put it in everything I do’: Killing Eve’s Sandra Oh on fury, friendship and hitting her prime in midlife",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/19/georgia-federal-immigration-detention-center",
-      "published": "2026-06-19T17:32:40+00:00",
-      "summary": "Social Circle announces homeland security has canceled plans to convert warehouse to detain up to 10,000 people The small town of Social Circle in rural Georgia has announced that the Department of Homeland Security has cancelled plans to…",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/20/sandra-oh-interview-killing-eve-theatre",
+      "published": "2026-06-20T11:00:05+00:00",
+      "summary": "It took a long time for the actor to find her groove – then the smash TV spy thriller changed everything.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles",
+      "published": "2026-06-20T11:00:03+00:00",
+      "summary": "We asked people in the US about their customer service battles and hundreds responded on the financial and emotional costs Guardian readers from across the US wrote in to tell us about their battles with big companies, and the time,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "These nuns spent a lifetime helping others. In their last years, who will help them?",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/06/20/g-s1-128632/nuns-convent-africa-hospice",
+      "published": "2026-06-20T10:45:09+00:00",
+      "summary": "The sisters of Uganda are teachers, health-care advocates and more. Those who are in their twilight of their life need help. Who will come to their aid?",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 10
     },
     {
@@ -37,43 +67,23 @@
       "score": 10
     },
     {
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "published": "2026-06-19T10:40:24+00:00",
-      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "What we've been playing - \"And no I don't mean sexy Barry White songs\"",
+      "title": "Halo: Campaign Evolved PS5 players will require an Xbox account and gamertag to play – as well as PS Plus to play split-screen co-op",
       "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-and-no-i-dont-mean-sexy-barry-white-songs",
-      "published": "2026-06-20T07:00:00+00:00",
-      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing.",
+      "url": "https://www.eurogamer.net/halo-campaign-evolved-ps5-xbox-account-gamertag-psplus",
+      "published": "2026-06-20T12:51:01+00:00",
+      "summary": "Players will require an Xbox account and gamertag to Halo: Campaign Evolved on PS5. Read more",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "Nothing cancels this year’s CMF phone due to RAM prices",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
-      "published": "2026-06-19T21:28:39+00:00",
-      "summary": "Nothing's next budget phone is the latest victim of RAMageddon.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Biden’s bid to block release of recordings made with ghostwriter fails",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/jun/19/biden-recordings-release-bid-fails",
-      "published": "2026-06-19T20:32:39+00:00",
-      "summary": "Judge finds public interest outweighs privacy rights in request made by staffer at Heritage Foundation A federal judge on Friday rejected Joe Biden’s attempt to block the Trump administration from releasing to a conservative group the…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "title": "Indianapolis Teacher Merit Pay in Charter Schools Gets Increasing Philanthropic Support",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/indianapolis-teacher-merit-pay-in-charter-schools-gets-increasing-philanthropic-support/",
+      "published": "2026-06-20T10:30:00+00:00",
+      "summary": "Courtney Buuck thought there was some kind of mistake. When she learned that she received a $40,000 bonus payment on top of her base teacher’s salary last fall, she was in shock.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
@@ -87,34 +97,34 @@
       "score": 9
     },
     {
-      "title": "Opinion: For Students in Unstable Housing, Strong Relationships Need Strong Systems",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/for-students-in-unstable-housing-strong-relationships-need-strong-systems/",
-      "published": "2026-06-19T10:30:00+00:00",
-      "summary": "When a student is in crisis, the hardest problems are easier to solve when someone already knows their story, and trust is already there.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "The film about Sam Altman has been dropped by Amazon MGM",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+      "published": "2026-06-19T14:58:45+00:00",
+      "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "‘It’s a big mistake’: Israelis feel betrayed and angry after Iran peace deal",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/jun/20/israelis-betrayed-angry-after-iran-peace-deal-donald-trump",
-      "published": "2026-06-20T05:00:55+00:00",
-      "summary": "In ‘middle Israel’ there are fears Iran could rebuild stronger – and there is particular ire for Donald Trump In the Tree brasserie off Herzl Street in Rehovot, there was much that almost everyone agreed on.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Scientists Propose Black Holes Don’t Exist, Are Something Much Stranger",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/scientists-propose-black-holes-dont-exist-are-something-much-stranger/",
+      "published": "2026-06-20T13:00:39+00:00",
+      "summary": "A seismic wave from the 2011 Tohoku-Oki earthquake bounced off the Earth’s core and hit Japan from below, shifting the entire mainland a quarter-inch eastward.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Behind the Blog: Landfillcore and Go Knicks",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/behind-the-blog-landfillcore-and-go-knicks/",
-      "published": "2026-06-19T16:07:48+00:00",
-      "summary": "This week, we discuss questionable analysis, mysterious parcels, and the Knicks (sorta).",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
+      "title": "The Outer Worlds 2 studio Obsidian accused of \"violating state wage and hour laws\" for profit in California lawsuit",
+      "source": "Rock Paper Shotgun",
+      "category": "AI / privacy",
+      "url": "https://www.rockpapershotgun.com/the-outer-worlds-2-studio-obsidian-accused-of-violating-state-wage-and-hour-laws-for-profit-in-california-lawsuit",
+      "published": "2026-06-19T16:02:34+00:00",
+      "summary": "Obsidian Entertainment, developers of The Outer Worlds 2 and Avowed , have been sued in California for allegedly engaging \"in a systematic pattern of wage and hour violations\".",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 8
     },
     {
       "title": "Slay the Spire 2 gets a patch for broken RNG after player turns in gruelling eight hour video exposé",
@@ -124,16 +134,6 @@
       "published": "2026-06-19T15:45:00+00:00",
       "summary": "Slay the Spire 2 has received a major update that adds Steam Workshop support for mods alongside a proper monster bestiary for the Compendium. It also introduces a new boss, Aeonglass, in place of the much-berated Doormaker .",
       "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
-      "score": 7
-    },
-    {
-      "title": "Tick season is getting worse. Can managing deer help?",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/19/nx-s1-5856461/tick-deer-alpha-gal-lonestar",
-      "published": "2026-06-19T13:00:00+00:00",
-      "summary": "Health officials and researchers hope that efforts to control deer populations, which serve as \"party buses\" for mating ticks, can reverse the tide of ticks and the illnesses they cause.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
   ],
@@ -826,6 +826,6 @@
     "mainCount": 13,
     "youtubeCount": 27,
     "trailerCount": 25,
-    "sourceCount": 22
+    "sourceCount": 21
   }
 }
