@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-20T05:00:02.219418Z
+Generated: 2026-06-20T09:01:41.200873Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Opinion: Findings Offer a Math Playbook for California Schools, Revolt in small Georgia town appears to ward off ICE detention center, and The NTS Radio Player brings the best of internet radio to your hi-fi.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are What are we all playing this weekend?, Revolt in small Georgia town appears to ward off ICE detention center, and The NTS Radio Player brings the best of internet radio to your hi-fi.
 
 ## Briefing
 
@@ -33,14 +33,14 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Opinion: Findings Offer a Math Playbook for California Schools [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 1. What are we all playing this weekend? [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Math improvement rarely stalls because districts aren’t taking action. More often, it stalls because well-intentioned supports accumulate faster than schools can turn them into a coherent, actionable instructional plan.
+Saturdays are for realising that there are ASMR playlists for Frictional's Amnesia games.
 
-Link: https://www.the74million.org/article/findings-offer-a-math-playbook-for-california-schools/
+Link: https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-387
 
 ### 2. Revolt in small Georgia town appears to ward off ICE detention center [10/10]
 **Source:** The Guardian US  
@@ -69,7 +69,16 @@ Miami-based AI startup Subquadratic came out of stealth mode last month with a h
 
 Link: https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/
 
-### 5. Nothing cancels this year’s CMF phone due to RAM prices [9/10]
+### 5. What we've been playing - "And no I don't mean sexy Barry White songs" [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Hello and welcome back to our regular feature where we write a little about the games we've been playing.
+
+Link: https://www.eurogamer.net/what-weve-been-playing-and-no-i-dont-mean-sexy-barry-white-songs
+
+### 6. Nothing cancels this year’s CMF phone due to RAM prices [9/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -78,7 +87,7 @@ Nothing's next budget phone is the latest victim of RAMageddon.
 
 Link: https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices
 
-### 6. Biden’s bid to block release of recordings made with ghostwriter fails [9/10]
+### 7. Biden’s bid to block release of recordings made with ghostwriter fails [9/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -87,23 +96,14 @@ Judge finds public interest outweighs privacy rights in request made by staffer 
 
 Link: https://www.theguardian.com/us-news/2026/jun/19/biden-recordings-release-bid-fails
 
-### 7. Could ‘king in the north’ become Britain’s new prime minister? [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 8. Opinion: Findings Offer a Math Playbook for California Schools [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Makerfield victory gives Andy Burnham a path back to Westminster and a chance to challenge Keir Starmer Celebrations and a swift exit after a Burnham win ‘beyond our wildest dreams’ “We know no king but the King in the North”, declares the…
+Math improvement rarely stalls because districts aren’t taking action. More often, it stalls because well-intentioned supports accumulate faster than schools can turn them into a coherent, actionable instructional plan.
 
-Link: https://www.theguardian.com/politics/2026/jun/19/andy-burnham-could-king-north-become-britain-new-prime-minister
-
-### 8. "An elevated lifestyle no matter what happens outside”: we need more horror games set in billionaire apocalypse bunkers [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Billionaires rarely make for very interesting fabulists - they have people for that sort of thing - but in their obsession with securing a legacy, they do necessarily spend a lot of time in the realm of make-believe.
-
-Link: https://www.rockpapershotgun.com/an-elevated-lifestyle-no-matter-what-happens-outside-we-need-more-horror-games-set-in-billionaire-apocalypse-bunkers
+Link: https://www.the74million.org/article/findings-offer-a-math-playbook-for-california-schools/
 
 ### 9. Opinion: For Students in Unstable Housing, Strong Relationships Need Strong Systems [9/10]
 **Source:** The 74  
@@ -114,7 +114,16 @@ When a student is in crisis, the hardest problems are easier to solve when someo
 
 Link: https://www.the74million.org/article/for-students-in-unstable-housing-strong-relationships-need-strong-systems/
 
-### 10. Behind the Blog: Landfillcore and Go Knicks [7/10]
+### 10. ‘It’s a big mistake’: Israelis feel betrayed and angry after Iran peace deal [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+In ‘middle Israel’ there are fears Iran could rebuild stronger – and there is particular ire for Donald Trump In the Tree brasserie off Herzl Street in Rehovot, there was much that almost everyone agreed on.
+
+Link: https://www.theguardian.com/world/2026/jun/20/israelis-betrayed-angry-after-iran-peace-deal-donald-trump
+
+### 11. Behind the Blog: Landfillcore and Go Knicks [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -123,7 +132,7 @@ This week, we discuss questionable analysis, mysterious parcels, and the Knicks 
 
 Link: https://www.404media.co/behind-the-blog-landfillcore-and-go-knicks/
 
-### 11. Slay the Spire 2 gets a patch for broken RNG after player turns in gruelling eight hour video exposé [7/10]
+### 12. Slay the Spire 2 gets a patch for broken RNG after player turns in gruelling eight hour video exposé [7/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / design  
 **Why it matters:** Useful if you care about how games actually work as designed experiences.
@@ -132,7 +141,7 @@ Slay the Spire 2 has received a major update that adds Steam Workshop support fo
 
 Link: https://www.rockpapershotgun.com/slay-the-spire-2-gets-a-patch-for-broken-rng-after-player-turns-in-gruelling-eight-hour-video-expose
 
-### 12. Tick season is getting worse. Can managing deer help? [7/10]
+### 13. Tick season is getting worse. Can managing deer help? [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -140,15 +149,6 @@ Link: https://www.rockpapershotgun.com/slay-the-spire-2-gets-a-patch-for-broken-
 Health officials and researchers hope that efforts to control deer populations, which serve as "party buses" for mating ticks, can reverse the tide of ticks and the illnesses they cause.
 
 Link: https://www.npr.org/2026/06/19/nx-s1-5856461/tick-deer-alpha-gal-lonestar
-
-### 13. Get with the times — here's what a 'Luddite' means today [7/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-It's often a derogatory term used to describe digital dinosaurs and technophobes. That wasn't always the case. NPR's Word of the Week looks back at the not so backwards-looking Luddites.
-
-Link: https://www.npr.org/2026/06/19/nx-s1-5853589/luddite-meaning-history-ai
 
 ## YouTube
 
@@ -541,7 +541,7 @@ You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on J
 
 Link: https://www.youtube.com/watch?v=cWgSDtI5khA
 
-### #KyleCooke and #EricAndré behind the decks at the NYC premiere of #LittleBrother [10/10]
+### #KyleCooke and #EricAndré behind the decks at the NYC premiere of #LittleBrother [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
