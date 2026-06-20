@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-20T14:00:02.002400Z
+Generated: 2026-06-20T23:50:47.077226Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Science / health. The strongest items in this run are US treasury chief urged Trump not to host ‘Mr Bean on crack’ Zelenskyy, book says, ‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine, and ‘How do I deal with my rage? I put it in everything I do’: Killing Eve’s Sandra Oh on fury, friendship and hitting her prime in midlife.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are As EA appear to renew the trademark for Ultima, its creator lies in wait to reclaim the game's copyright next year, Grand Canyon on ‘extreme heat’ watch, with temperatures set to soar, and To make Pragmata's Diana feel naturally childlike, a small group of women dubbed the "Diana Police" was set up to keep things in check.
 
 ## Briefing
 
@@ -33,34 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. US treasury chief urged Trump not to host ‘Mr Bean on crack’ Zelenskyy, book says [10/10]
+### 1. As EA appear to renew the trademark for Ultima, its creator lies in wait to reclaim the game's copyright next year [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+It's been a while since there's been a new Ultima! Just about eight years, in fact, and it wasn't even called Ultima (it was Underworld Ascendant, which we didn't review back in the day ).
+
+Link: https://www.rockpapershotgun.com/as-ea-appear-to-renew-the-trademark-for-ultima-its-creator-lies-in-wait-to-reclaim-the-games-copyright-next-year
+
+### 2. Grand Canyon on ‘extreme heat’ watch, with temperatures set to soar [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Suggestion that Scott Bessent so described a world leader included in Regime Change, by New York Times reporters Scott Bessent, the US treasury secretary, advised Donald Trump not to host Volodymyr Zelenskyy in the Oval Office, having…
+Temperatures could top 111F on Monday and Tuesday, after several recent deaths in park raise concerns over heat Extreme heat is set to hit lower parts of the Grand Canyon from Monday, the US National Weather Service (NWS) warned, with…
 
-Link: https://www.theguardian.com/us-news/2026/jun/20/scott-bessent-volodymyr-zelenskyy-trump
+Link: https://www.theguardian.com/us-news/2026/jun/20/grand-canyon-extreme-heat-watch
 
-### 2. ‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Kennedy overrides CDC order saying an American who came into contact with hantavirus can self-quarantine The Trump administration is employing “authoritarian” and “unconstitutional” quarantine measures for at least one person who came into…
-
-Link: https://www.theguardian.com/world/2026/jun/20/rfk-jr-hantavirus-quarantine
-
-### 3. ‘How do I deal with my rage? I put it in everything I do’: Killing Eve’s Sandra Oh on fury, friendship and hitting her prime in midlife [10/10]
-**Source:** The Guardian US  
+### 3. To make Pragmata's Diana feel naturally childlike, a small group of women dubbed the "Diana Police" was set up to keep things in check [10/10]
+**Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-It took a long time for the actor to find her groove – then the smash TV spy thriller changed everything.
+Despite being a dad game, a pseudo-genre that has its fair share of problems in the way it depicts father-child relationships, Pragmata generally seemed to approach all of this fairly well.
 
-Link: https://www.theguardian.com/tv-and-radio/2026/jun/20/sandra-oh-interview-killing-eve-theatre
+Link: https://www.rockpapershotgun.com/to-make-pragmatas-diana-feel-naturally-childlike-a-small-group-of-women-dubbed-the-diana-police-was-set-up-to-keep-things-in-check
 
-### 4. How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’ [10/10]
+### 4. ‘They have all the power’: investigation finds that 93% of ICE arrests targeted Latinos [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+430 ICE street arrests filed over a five-month period were clustered in predominantly Latino communities across New Jersey and New York Federal agents have arrested hundreds of immigrants off New York and New Jersey streets in recent…
+
+Link: https://www.theguardian.com/us-news/2026/jun/20/ice-investigation-new-york-new-jersey
+
+### 5. How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’ [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,7 +78,7 @@ We asked people in the US about their customer service battles and hundreds resp
 
 Link: https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles
 
-### 5. These nuns spent a lifetime helping others. In their last years, who will help them? [10/10]
+### 6. These nuns spent a lifetime helping others. In their last years, who will help them? [10/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -78,16 +87,43 @@ The sisters of Uganda are teachers, health-care advocates and more. Those who ar
 
 Link: https://www.npr.org/2026/06/20/g-s1-128632/nuns-convent-africa-hospice
 
-### 6. The NTS Radio Player brings the best of internet radio to your hi-fi [10/10]
-**Source:** The Verge  
+### 7. DOJ memo stokes fear among disability advocates of a return to institutionalization [9/10]
+**Source:** NPR Health  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-NTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup.
+The Justice Department's opinion challenges civil rights protections that have long treated the institutionalization of disabled Americans as a last resort.
 
-Link: https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming
+Link: https://www.npr.org/2026/06/20/nx-s1-5865100/doj-memo-trump-disability-civil-rights-institutionalization
 
-### 7. Halo: Campaign Evolved PS5 players will require an Xbox account and gamertag to play – as well as PS Plus to play split-screen co-op [9/10]
+### 8. Nothing succeeds like excess at Dolce & Gabbana’s Milan menswear show [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Italian house’s catwalk emphasised the brand’s ‘molto sexy’ look with flamboyant, sometimes revealing outfits Dolce & Gabbana leaned heavily into the art of theatrical misdirection on the second day of Milan fashion week as it aimed to…
+
+Link: https://www.theguardian.com/fashion/2026/jun/20/nothing-succeeds-like-excess-at-dolce-gabbanas-milan-menswear-show
+
+### 9. The Atlantic created a searchable database of the music used to train AI [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data
+
+### 10. Sony say goodbye to PC and hello to AI in their annual business report, which must be a good thing, right? [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Back in March, a report emerged claiming that Sony no longer had plans to release the likes of Ghost of Yōtei and other such singleplayer-only games on PC.
+
+Link: https://www.rockpapershotgun.com/sony-say-goodbye-to-pc-and-hello-to-ai-in-their-annual-business-report-which-must-be-a-good-thing-right
+
+### 11. Halo: Campaign Evolved PS5 players will require an Xbox account and gamertag to play – as well as PS Plus to play split-screen co-op [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -96,34 +132,16 @@ Players will require an Xbox account and gamertag to Halo: Campaign Evolved on P
 
 Link: https://www.eurogamer.net/halo-campaign-evolved-ps5-xbox-account-gamertag-psplus
 
-### 8. Indianapolis Teacher Merit Pay in Charter Schools Gets Increasing Philanthropic Support [9/10]
+### 12. State Education Officials Recommend Repealing, Replacing Compulsory School Attendance Rules [8/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Courtney Buuck thought there was some kind of mistake. When she learned that she received a $40,000 bonus payment on top of her base teacher’s salary last fall, she was in shock.
+To improve school attendance in a state with one of the nation’s highest absenteeism rates, Oregon education officials on Tuesday presented lawmakers with a plan to repeal existing attendance laws.
 
-Link: https://www.the74million.org/article/indianapolis-teacher-merit-pay-in-charter-schools-gets-increasing-philanthropic-support/
+Link: https://www.the74million.org/article/state-education-officials-recommend-repealing-replacing-compulsory-school-attendance-rules/
 
-### 9. Opinion: Findings Offer a Math Playbook for California Schools [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Math improvement rarely stalls because districts aren’t taking action. More often, it stalls because well-intentioned supports accumulate faster than schools can turn them into a coherent, actionable instructional plan.
-
-Link: https://www.the74million.org/article/findings-offer-a-math-playbook-for-california-schools/
-
-### 10. The film about Sam Altman has been dropped by Amazon MGM [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped
-
-### 11. Scientists Propose Black Holes Don’t Exist, Are Something Much Stranger [8/10]
+### 13. Scientists Propose Black Holes Don’t Exist, Are Something Much Stranger [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -132,38 +150,20 @@ A seismic wave from the 2011 Tohoku-Oki earthquake bounced off the Earth’s cor
 
 Link: https://www.404media.co/scientists-propose-black-holes-dont-exist-are-something-much-stranger/
 
-### 12. The Outer Worlds 2 studio Obsidian accused of "violating state wage and hour laws" for profit in California lawsuit [8/10]
-**Source:** Rock Paper Shotgun  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Obsidian Entertainment, developers of The Outer Worlds 2 and Avowed , have been sued in California for allegedly engaging "in a systematic pattern of wage and hour violations".
-
-Link: https://www.rockpapershotgun.com/the-outer-worlds-2-studio-obsidian-accused-of-violating-state-wage-and-hour-laws-for-profit-in-california-lawsuit
-
-### 13. Slay the Spire 2 gets a patch for broken RNG after player turns in gruelling eight hour video exposé [7/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / design  
-**Why it matters:** Useful if you care about how games actually work as designed experiences.
-
-Slay the Spire 2 has received a major update that adds Steam Workshop support for mods alongside a proper monster bestiary for the Compendium. It also introduces a new boss, Aeonglass, in place of the much-berated Doormaker .
-
-Link: https://www.rockpapershotgun.com/slay-the-spire-2-gets-a-patch-for-broken-rng-after-player-turns-in-gruelling-eight-hour-video-expose
-
 ## YouTube
 
-### Scientists Found A Better Language For AI Agents [8/10]
+### Scientists Found A Better Language For AI Agents [7/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 ❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://recursivemas.github.io/ https://github.com/RecursiveMAS/RecursiveMAS Brain reading video: https://www.youtube.
 
 Link: https://www.youtube.com/watch?v=dUmT0OIGoqE
 
-### MrBallen Answers The Web’s Most Searched Questions [8/10]
+### MrBallen Answers The Web’s Most Searched Questions [7/10]
 **Creator:** WIRED  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Ex-Navy SEAL turned content creator @MrBallen visits WIRED to answer his most searched questions on Google.
@@ -187,15 +187,6 @@ Link: https://www.youtube.com/watch?v=stnRfBinHY0
 Which Weezer song has the most iconic riff? #Weezer #Rock #WIRED Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.
 
 Link: https://www.youtube.com/watch?v=XAqXsCE9mRs
-
-### Weezer Answer The Web's Most Searched Questions [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Weezer visits WIRED to answer their most searched questions on Google.
-
-Link: https://www.youtube.com/watch?v=XpIjGAZA_To
 
 ### U.K. bans social media for children under 16 [8/10]
 **Creator:** NPR  
@@ -251,18 +242,36 @@ Luigi Mangione faces state and federal trials for the 2024 murder of an insuranc
 
 Link: https://www.youtube.com/watch?v=3_uA_eRR1Po
 
-### The latest in medical technology? The kazoo. [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-Writer Linda Stone, who coined the term "screen apnea," knows all too well that our technology can really mess with our breathing and our health.
-
-Link: https://www.youtube.com/watch?v=JRLZPIGRmf8
-
-### Did Xbox Series S "Prepare" Developers for Switch 2 Ports? [7/10]
+### Is Xbox Project Helix The Next 3DO? [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=DInQ_JczClo
+
+### Somehow The RTX 3060 Has Returned [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=9wzmdIstKoc
+
+### Switch 2 - Year One - The Digital Foundry Verdict [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/aySCTfjCgMQ ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=9qy5FDO-sp4
+
+### Did Xbox Series S "Prepare" Developers for Switch 2 Ports? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/1IT7sQ7pqsE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -278,9 +287,9 @@ Link: https://www.youtube.com/watch?v=TqDmi8J-JBM
 
 Link: https://www.youtube.com/watch?v=7ZwXy7Mlbpc
 
-### Xbox Studio Closure Reports: We've Got Big Worries [7/10]
+### Xbox Studio Closure Reports: We've Got Big Worries [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -305,36 +314,27 @@ Link: https://www.youtube.com/watch?v=tAcC75NNTG0
 
 Link: https://www.youtube.com/watch?v=h3vnefloDrg
 
-### If Steam Machine's Late, Why Not Upgrade The Spec? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/1IT7sQ7pqsE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=BGBpAzw2gMU
-
-### Nintendo Goes Heavy on Xenoblade Games - And They Look Good! [8/10]
-**Creator:** Digital Foundry  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=JR7o0fNC5Rg
-
-### Video Games Have Never Respected Death [8/10]
+### Jack and Marty's Breath of the Wild Lockout Bingo Super Cut [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Jack and Marty race to see whose the better Breath of the Wild player in this special lockout bingo event we held a couple months ago. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.
+
+Link: https://www.youtube.com/watch?v=XwTpi2IX32k
+
+### Video Games Have Never Respected Death [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Video games have never respected death. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
 Link: https://www.youtube.com/watch?v=fvMljTV2SHY
 
-### Microsoft Has Screwed the Employees of Xbox Yet Again | Unpacked [9/10]
+### Microsoft Has Screwed the Employees of Xbox Yet Again | Unpacked [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Xbox is once again changing direction, and the people taking the brunt of the blowback for it are the people who make the games. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.
@@ -385,15 +385,6 @@ Link: https://www.youtube.com/watch?v=XY56Tlad_wg
 For their next franchise revisit, KC and Marty are going to take a look at the Star Fox series. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=In7fcw6CxTM
-
-### Yahtzee Tries... Next Fest Demos (Iron Nest, Screenbound, Order of the Sinking Star, and Ballgame) [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Yahtzee Tries... Yahtzee and Marty check out a handful of Steam Next Fest demos in Iron Nest, Screenbound, Order of the Sinking Star, and Ballgame. Iron Nest -- https://store.steampowered.
-
-Link: https://www.youtube.com/watch?v=M0okSs9pvEc
 
 ## Entertainment Recommendations
 

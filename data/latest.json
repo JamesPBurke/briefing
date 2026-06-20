@@ -1,39 +1,49 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-20T14:00:02.002400Z",
-  "generatedAtDisplay": "2026-06-20 10:00 AM EDT",
+  "generatedAt": "2026-06-20T23:50:47.077226Z",
+  "generatedAtDisplay": "2026-06-20 07:50 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Science / health. The strongest items in this run are US treasury chief urged Trump not to host ‘Mr Bean on crack’ Zelenskyy, book says, ‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine, and ‘How do I deal with my rage? I put it in everything I do’: Killing Eve’s Sandra Oh on fury, friendship and hitting her prime in midlife.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are As EA appear to renew the trademark for Ultima, its creator lies in wait to reclaim the game's copyright next year, Grand Canyon on ‘extreme heat’ watch, with temperatures set to soar, and To make Pragmata's Diana feel naturally childlike, a small group of women dubbed the \"Diana Police\" was set up to keep things in check.",
   "mainItems": [
     {
-      "title": "US treasury chief urged Trump not to host ‘Mr Bean on crack’ Zelenskyy, book says",
+      "title": "As EA appear to renew the trademark for Ultima, its creator lies in wait to reclaim the game's copyright next year",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/as-ea-appear-to-renew-the-trademark-for-ultima-its-creator-lies-in-wait-to-reclaim-the-games-copyright-next-year",
+      "published": "2026-06-20T20:41:57+00:00",
+      "summary": "It's been a while since there's been a new Ultima! Just about eight years, in fact, and it wasn't even called Ultima (it was Underworld Ascendant, which we didn't review back in the day ).",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Grand Canyon on ‘extreme heat’ watch, with temperatures set to soar",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/20/scott-bessent-volodymyr-zelenskyy-trump",
-      "published": "2026-06-20T13:00:02+00:00",
-      "summary": "Suggestion that Scott Bessent so described a world leader included in Regime Change, by New York Times reporters Scott Bessent, the US treasury secretary, advised Donald Trump not to host Volodymyr Zelenskyy in the Oval Office, having…",
+      "url": "https://www.theguardian.com/us-news/2026/jun/20/grand-canyon-extreme-heat-watch",
+      "published": "2026-06-20T19:36:00+00:00",
+      "summary": "Temperatures could top 111F on Monday and Tuesday, after several recent deaths in park raise concerns over heat Extreme heat is set to hit lower parts of the Grand Canyon from Monday, the US National Weather Service (NWS) warned, with…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/jun/20/rfk-jr-hantavirus-quarantine",
-      "published": "2026-06-20T11:00:05+00:00",
-      "summary": "Kennedy overrides CDC order saying an American who came into contact with hantavirus can self-quarantine The Trump administration is employing “authoritarian” and “unconstitutional” quarantine measures for at least one person who came into…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "To make Pragmata's Diana feel naturally childlike, a small group of women dubbed the \"Diana Police\" was set up to keep things in check",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/to-make-pragmatas-diana-feel-naturally-childlike-a-small-group-of-women-dubbed-the-diana-police-was-set-up-to-keep-things-in-check",
+      "published": "2026-06-20T16:10:55+00:00",
+      "summary": "Despite being a dad game, a pseudo-genre that has its fair share of problems in the way it depicts father-child relationships, Pragmata generally seemed to approach all of this fairly well.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "‘How do I deal with my rage? I put it in everything I do’: Killing Eve’s Sandra Oh on fury, friendship and hitting her prime in midlife",
+      "title": "‘They have all the power’: investigation finds that 93% of ICE arrests targeted Latinos",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/20/sandra-oh-interview-killing-eve-theatre",
-      "published": "2026-06-20T11:00:05+00:00",
-      "summary": "It took a long time for the actor to find her groove – then the smash TV spy thriller changed everything.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/jun/20/ice-investigation-new-york-new-jersey",
+      "published": "2026-06-20T14:00:03+00:00",
+      "summary": "430 ICE street arrests filed over a five-month period were clustered in predominantly Latino communities across New Jersey and New York Federal agents have arrested hundreds of immigrants off New York and New Jersey streets in recent…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
@@ -57,14 +67,44 @@
       "score": 10
     },
     {
-      "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
-      "source": "The Verge",
+      "title": "DOJ memo stokes fear among disability advocates of a return to institutionalization",
+      "source": "NPR Health",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
-      "published": "2026-06-19T16:40:19+00:00",
-      "summary": "NTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup.",
+      "url": "https://www.npr.org/2026/06/20/nx-s1-5865100/doj-memo-trump-disability-civil-rights-institutionalization",
+      "published": "2026-06-20T20:33:14+00:00",
+      "summary": "The Justice Department's opinion challenges civil rights protections that have long treated the institutionalization of disabled Americans as a last resort.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
+    },
+    {
+      "title": "Nothing succeeds like excess at Dolce & Gabbana’s Milan menswear show",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/fashion/2026/jun/20/nothing-succeeds-like-excess-at-dolce-gabbanas-milan-menswear-show",
+      "published": "2026-06-20T18:55:57+00:00",
+      "summary": "Italian house’s catwalk emphasised the brand’s ‘molto sexy’ look with flamboyant, sometimes revealing outfits Dolce & Gabbana leaned heavily into the art of theatrical misdirection on the second day of Milan fashion week as it aimed to…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "published": "2026-06-20T18:46:48+00:00",
+      "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Sony say goodbye to PC and hello to AI in their annual business report, which must be a good thing, right?",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/sony-say-goodbye-to-pc-and-hello-to-ai-in-their-annual-business-report-which-must-be-a-good-thing-right",
+      "published": "2026-06-20T17:10:31+00:00",
+      "summary": "Back in March, a report emerged claiming that Sony no longer had plans to release the likes of Ghost of Yōtei and other such singleplayer-only games on PC.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "Halo: Campaign Evolved PS5 players will require an Xbox account and gamertag to play – as well as PS Plus to play split-screen co-op",
@@ -77,34 +117,14 @@
       "score": 9
     },
     {
-      "title": "Indianapolis Teacher Merit Pay in Charter Schools Gets Increasing Philanthropic Support",
+      "title": "State Education Officials Recommend Repealing, Replacing Compulsory School Attendance Rules",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/indianapolis-teacher-merit-pay-in-charter-schools-gets-increasing-philanthropic-support/",
-      "published": "2026-06-20T10:30:00+00:00",
-      "summary": "Courtney Buuck thought there was some kind of mistake. When she learned that she received a $40,000 bonus payment on top of her base teacher’s salary last fall, she was in shock.",
+      "url": "https://www.the74million.org/article/state-education-officials-recommend-repealing-replacing-compulsory-school-attendance-rules/",
+      "published": "2026-06-20T16:30:00+00:00",
+      "summary": "To improve school attendance in a state with one of the nation’s highest absenteeism rates, Oregon education officials on Tuesday presented lawmakers with a plan to repeal existing attendance laws.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: Findings Offer a Math Playbook for California Schools",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/findings-offer-a-math-playbook-for-california-schools/",
-      "published": "2026-06-19T18:30:00+00:00",
-      "summary": "Math improvement rarely stalls because districts aren’t taking action. More often, it stalls because well-intentioned supports accumulate faster than schools can turn them into a coherent, actionable instructional plan.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "The film about Sam Altman has been dropped by Amazon MGM",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "published": "2026-06-19T14:58:45+00:00",
-      "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
+      "score": 8
     },
     {
       "title": "Scientists Propose Black Holes Don’t Exist, Are Something Much Stranger",
@@ -115,26 +135,6 @@
       "summary": "A seismic wave from the 2011 Tohoku-Oki earthquake bounced off the Earth’s core and hit Japan from below, shifting the entire mainland a quarter-inch eastward.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "The Outer Worlds 2 studio Obsidian accused of \"violating state wage and hour laws\" for profit in California lawsuit",
-      "source": "Rock Paper Shotgun",
-      "category": "AI / privacy",
-      "url": "https://www.rockpapershotgun.com/the-outer-worlds-2-studio-obsidian-accused-of-violating-state-wage-and-hour-laws-for-profit-in-california-lawsuit",
-      "published": "2026-06-19T16:02:34+00:00",
-      "summary": "Obsidian Entertainment, developers of The Outer Worlds 2 and Avowed , have been sued in California for allegedly engaging \"in a systematic pattern of wage and hour violations\".",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 8
-    },
-    {
-      "title": "Slay the Spire 2 gets a patch for broken RNG after player turns in gruelling eight hour video exposé",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / design",
-      "url": "https://www.rockpapershotgun.com/slay-the-spire-2-gets-a-patch-for-broken-rng-after-player-turns-in-gruelling-eight-hour-video-expose",
-      "published": "2026-06-19T15:45:00+00:00",
-      "summary": "Slay the Spire 2 has received a major update that adds Steam Workshop support for mods alongside a proper monster bestiary for the Compendium. It also introduces a new boss, Aeonglass, in place of the much-berated Doormaker .",
-      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
-      "score": 7
     }
   ],
   "youtube": [
@@ -146,8 +146,8 @@
       "published": "2026-06-19T14:06:00+00:00",
       "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://recursivemas.github.io/ https://github.com/RecursiveMAS/RecursiveMAS Brain reading video: https://www.youtube.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "MrBallen Answers The Web’s Most Searched Questions",
@@ -157,8 +157,8 @@
       "published": "2026-06-19T16:00:05+00:00",
       "summary": "Ex-Navy SEAL turned content creator @MrBallen visits WIRED to answer his most searched questions on Google.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Is Weezer Demonic?",
@@ -178,17 +178,6 @@
       "url": "https://www.youtube.com/watch?v=XAqXsCE9mRs",
       "published": "2026-06-18T14:00:03+00:00",
       "summary": "Which Weezer song has the most iconic riff? #Weezer #Rock #WIRED Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Weezer Answer The Web's Most Searched Questions",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=XpIjGAZA_To",
-      "published": "2026-06-17T16:00:11+00:00",
-      "summary": "Weezer visits WIRED to answer their most searched questions on Google.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -260,15 +249,37 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "The latest in medical technology? The kazoo.",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=JRLZPIGRmf8",
-      "published": "2026-06-18T13:00:16+00:00",
-      "summary": "Writer Linda Stone, who coined the term \"screen apnea,\" knows all too well that our technology can really mess with our breathing and our health.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "Is Xbox Project Helix The Next 3DO?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=DInQ_JczClo",
+      "published": "2026-06-20T17:00:18+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Somehow The RTX 3060 Has Returned",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=9wzmdIstKoc",
+      "published": "2026-06-20T16:00:24+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Switch 2 - Year One - The Digital Foundry Verdict",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=9qy5FDO-sp4",
+      "published": "2026-06-20T15:00:13+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/aySCTfjCgMQ ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Did Xbox Series S \"Prepare\" Developers for Switch 2 Ports?",
@@ -278,8 +289,8 @@
       "published": "2026-06-19T17:00:34+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/1IT7sQ7pqsE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Fable Gets A 30-Minute Gameplay Demo - And Here's What We Think",
@@ -300,8 +311,8 @@
       "published": "2026-06-19T15:00:14+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Is God of War Laufey Actually Targeting PlayStation 6?",
@@ -326,26 +337,15 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "If Steam Machine's Late, Why Not Upgrade The Spec?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=BGBpAzw2gMU",
-      "published": "2026-06-17T17:00:35+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/1IT7sQ7pqsE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Nintendo Goes Heavy on Xenoblade Games - And They Look Good!",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=JR7o0fNC5Rg",
-      "published": "2026-06-17T16:00:35+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "title": "Jack and Marty's Breath of the Wild Lockout Bingo Super Cut",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=XwTpi2IX32k",
+      "published": "2026-06-20T16:00:37+00:00",
+      "summary": "Jack and Marty race to see whose the better Breath of the Wild player in this special lockout bingo event we held a couple months ago. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Video Games Have Never Respected Death",
@@ -355,8 +355,8 @@
       "published": "2026-06-19T20:00:03+00:00",
       "summary": "Video games have never respected death. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Microsoft Has Screwed the Employees of Xbox Yet Again | Unpacked",
@@ -366,8 +366,8 @@
       "published": "2026-06-19T15:00:28+00:00",
       "summary": "Xbox is once again changing direction, and the people taking the brunt of the blowback for it are the people who make the games. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Is It Thursday? Then We're Taking Your TTRPG Questions! | RPG Help Desk",
@@ -423,17 +423,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
-    },
-    {
-      "title": "Yahtzee Tries... Next Fest Demos (Iron Nest, Screenbound, Order of the Sinking Star, and Ballgame)",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=M0okSs9pvEc",
-      "published": "2026-06-17T22:10:12+00:00",
-      "summary": "This week on Yahtzee Tries... Yahtzee and Marty check out a handful of Steam Next Fest demos in Iron Nest, Screenbound, Order of the Sinking Star, and Ballgame. Iron Nest -- https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     }
   ],
   "trailers": [
@@ -824,7 +813,7 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 27,
+    "youtubeCount": 26,
     "trailerCount": 25,
     "sourceCount": 21
   }
