@@ -1,38 +1,18 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-20T23:50:47.077226Z",
-  "generatedAtDisplay": "2026-06-20 07:50 PM EDT",
+  "generatedAt": "2026-06-21T05:00:02.285680Z",
+  "generatedAtDisplay": "2026-06-21 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are As EA appear to renew the trademark for Ultima, its creator lies in wait to reclaim the game's copyright next year, Grand Canyon on ‘extreme heat’ watch, with temperatures set to soar, and To make Pragmata's Diana feel naturally childlike, a small group of women dubbed the \"Diana Police\" was set up to keep things in check.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Ukraine war briefing: Drones strike Russia’s Tyumen oil refinery 2,000km away, says Zelenskyy, ‘They have all the power’: investigation finds that 93% of ICE arrests targeted Latinos, and How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’.",
   "mainItems": [
     {
-      "title": "As EA appear to renew the trademark for Ultima, its creator lies in wait to reclaim the game's copyright next year",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/as-ea-appear-to-renew-the-trademark-for-ultima-its-creator-lies-in-wait-to-reclaim-the-games-copyright-next-year",
-      "published": "2026-06-20T20:41:57+00:00",
-      "summary": "It's been a while since there's been a new Ultima! Just about eight years, in fact, and it wasn't even called Ultima (it was Underworld Ascendant, which we didn't review back in the day ).",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Grand Canyon on ‘extreme heat’ watch, with temperatures set to soar",
+      "title": "Ukraine war briefing: Drones strike Russia’s Tyumen oil refinery 2,000km away, says Zelenskyy",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/20/grand-canyon-extreme-heat-watch",
-      "published": "2026-06-20T19:36:00+00:00",
-      "summary": "Temperatures could top 111F on Monday and Tuesday, after several recent deaths in park raise concerns over heat Extreme heat is set to hit lower parts of the Grand Canyon from Monday, the US National Weather Service (NWS) warned, with…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "To make Pragmata's Diana feel naturally childlike, a small group of women dubbed the \"Diana Police\" was set up to keep things in check",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/to-make-pragmatas-diana-feel-naturally-childlike-a-small-group-of-women-dubbed-the-diana-police-was-set-up-to-keep-things-in-check",
-      "published": "2026-06-20T16:10:55+00:00",
-      "summary": "Despite being a dad game, a pseudo-genre that has its fair share of problems in the way it depicts father-child relationships, Pragmata generally seemed to approach all of this fairly well.",
+      "url": "https://www.theguardian.com/world/2026/jun/21/ukraine-war-briefing-drones-strike-russia-tyumen-oil-refinery-2000km-away-says-zelenskyy",
+      "published": "2026-06-21T02:36:47+00:00",
+      "summary": "Reports from Siberia confirm attack, while Ukrainian president says new weapon has 3,000km range; occupied Crimea under attack.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -67,12 +47,22 @@
       "score": 10
     },
     {
-      "title": "DOJ memo stokes fear among disability advocates of a return to institutionalization",
-      "source": "NPR Health",
+      "title": "As EA appear to renew the trademark for Ultima, its creator lies in wait to reclaim the game's copyright next year",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/as-ea-appear-to-renew-the-trademark-for-ultima-its-creator-lies-in-wait-to-reclaim-the-games-copyright-next-year",
+      "published": "2026-06-20T20:41:57+00:00",
+      "summary": "It's been a while since there's been a new Ultima! Just about eight years, in fact, and it wasn't even called Ultima (it was Underworld Ascendant, which we didn't review back in the day ).",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Grand Canyon on ‘extreme heat’ watch, with temperatures set to soar",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/06/20/nx-s1-5865100/doj-memo-trump-disability-civil-rights-institutionalization",
-      "published": "2026-06-20T20:33:14+00:00",
-      "summary": "The Justice Department's opinion challenges civil rights protections that have long treated the institutionalization of disabled Americans as a last resort.",
+      "url": "https://www.theguardian.com/us-news/2026/jun/20/grand-canyon-extreme-heat-watch",
+      "published": "2026-06-20T19:36:00+00:00",
+      "summary": "Temperatures could top 111F on Monday and Tuesday, after several recent deaths in park raise concerns over heat Extreme heat is set to hit lower parts of the Grand Canyon from Monday, the US National Weather Service (NWS) warned, with…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
@@ -107,13 +97,23 @@
       "score": 9
     },
     {
-      "title": "Halo: Campaign Evolved PS5 players will require an Xbox account and gamertag to play – as well as PS Plus to play split-screen co-op",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/halo-campaign-evolved-ps5-xbox-account-gamertag-psplus",
-      "published": "2026-06-20T12:51:01+00:00",
-      "summary": "Players will require an Xbox account and gamertag to Halo: Campaign Evolved on PS5. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "To make Pragmata's Diana feel naturally childlike, a small group of women dubbed the \"Diana Police\" was set up to keep things in check",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/to-make-pragmatas-diana-feel-naturally-childlike-a-small-group-of-women-dubbed-the-diana-police-was-set-up-to-keep-things-in-check",
+      "published": "2026-06-20T16:10:55+00:00",
+      "summary": "Despite being a dad game, a pseudo-genre that has its fair share of problems in the way it depicts father-child relationships, Pragmata generally seemed to approach all of this fairly well.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "‘How do I deal with my rage? I put it in everything I do’: Killing Eve’s Sandra Oh on fury, friendship and hitting her prime in midlife",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/20/sandra-oh-interview-killing-eve-theatre",
+      "published": "2026-06-20T11:00:05+00:00",
+      "summary": "It took a long time for the actor to find her groove – then the smash TV spy thriller changed everything.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
@@ -344,8 +344,8 @@
       "published": "2026-06-20T16:00:37+00:00",
       "summary": "Jack and Marty race to see whose the better Breath of the Wild player in this special lockout bingo event we held a couple months ago. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Video Games Have Never Respected Death",
@@ -409,17 +409,6 @@
       "url": "https://www.youtube.com/watch?v=XY56Tlad_wg",
       "published": "2026-06-18T15:04:37+00:00",
       "summary": "On this week's Semi-Ramblomatic, Yahtzee unpacks the smugness (or lack thereof) of James Bond in 007 First Light. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Star Fox Adventures Has A+ Water w/ KC and Marty -- Part 3",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=In7fcw6CxTM",
-      "published": "2026-06-18T01:13:26+00:00",
-      "summary": "For their next franchise revisit, KC and Marty are going to take a look at the Star Fox series. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
@@ -813,8 +802,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 26,
+    "youtubeCount": 25,
     "trailerCount": 25,
-    "sourceCount": 21
+    "sourceCount": 20
   }
 }

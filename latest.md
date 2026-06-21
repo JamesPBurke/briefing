@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-20T23:50:47.077226Z
+Generated: 2026-06-21T05:00:02.285680Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are As EA appear to renew the trademark for Ultima, its creator lies in wait to reclaim the game's copyright next year, Grand Canyon on ‘extreme heat’ watch, with temperatures set to soar, and To make Pragmata's Diana feel naturally childlike, a small group of women dubbed the "Diana Police" was set up to keep things in check.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Ukraine war briefing: Drones strike Russia’s Tyumen oil refinery 2,000km away, says Zelenskyy, ‘They have all the power’: investigation finds that 93% of ICE arrests targeted Latinos, and How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’.
 
 ## Briefing
 
@@ -33,34 +33,16 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. As EA appear to renew the trademark for Ultima, its creator lies in wait to reclaim the game's copyright next year [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-It's been a while since there's been a new Ultima! Just about eight years, in fact, and it wasn't even called Ultima (it was Underworld Ascendant, which we didn't review back in the day ).
-
-Link: https://www.rockpapershotgun.com/as-ea-appear-to-renew-the-trademark-for-ultima-its-creator-lies-in-wait-to-reclaim-the-games-copyright-next-year
-
-### 2. Grand Canyon on ‘extreme heat’ watch, with temperatures set to soar [10/10]
+### 1. Ukraine war briefing: Drones strike Russia’s Tyumen oil refinery 2,000km away, says Zelenskyy [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Temperatures could top 111F on Monday and Tuesday, after several recent deaths in park raise concerns over heat Extreme heat is set to hit lower parts of the Grand Canyon from Monday, the US National Weather Service (NWS) warned, with…
+Reports from Siberia confirm attack, while Ukrainian president says new weapon has 3,000km range; occupied Crimea under attack.
 
-Link: https://www.theguardian.com/us-news/2026/jun/20/grand-canyon-extreme-heat-watch
+Link: https://www.theguardian.com/world/2026/jun/21/ukraine-war-briefing-drones-strike-russia-tyumen-oil-refinery-2000km-away-says-zelenskyy
 
-### 3. To make Pragmata's Diana feel naturally childlike, a small group of women dubbed the "Diana Police" was set up to keep things in check [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Despite being a dad game, a pseudo-genre that has its fair share of problems in the way it depicts father-child relationships, Pragmata generally seemed to approach all of this fairly well.
-
-Link: https://www.rockpapershotgun.com/to-make-pragmatas-diana-feel-naturally-childlike-a-small-group-of-women-dubbed-the-diana-police-was-set-up-to-keep-things-in-check
-
-### 4. ‘They have all the power’: investigation finds that 93% of ICE arrests targeted Latinos [10/10]
+### 2. ‘They have all the power’: investigation finds that 93% of ICE arrests targeted Latinos [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -69,7 +51,7 @@ Link: https://www.rockpapershotgun.com/to-make-pragmatas-diana-feel-naturally-ch
 
 Link: https://www.theguardian.com/us-news/2026/jun/20/ice-investigation-new-york-new-jersey
 
-### 5. How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’ [10/10]
+### 3. How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’ [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -78,7 +60,7 @@ We asked people in the US about their customer service battles and hundreds resp
 
 Link: https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles
 
-### 6. These nuns spent a lifetime helping others. In their last years, who will help them? [10/10]
+### 4. These nuns spent a lifetime helping others. In their last years, who will help them? [10/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -87,16 +69,25 @@ The sisters of Uganda are teachers, health-care advocates and more. Those who ar
 
 Link: https://www.npr.org/2026/06/20/g-s1-128632/nuns-convent-africa-hospice
 
-### 7. DOJ memo stokes fear among disability advocates of a return to institutionalization [9/10]
-**Source:** NPR Health  
+### 5. As EA appear to renew the trademark for Ultima, its creator lies in wait to reclaim the game's copyright next year [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+It's been a while since there's been a new Ultima! Just about eight years, in fact, and it wasn't even called Ultima (it was Underworld Ascendant, which we didn't review back in the day ).
+
+Link: https://www.rockpapershotgun.com/as-ea-appear-to-renew-the-trademark-for-ultima-its-creator-lies-in-wait-to-reclaim-the-games-copyright-next-year
+
+### 6. Grand Canyon on ‘extreme heat’ watch, with temperatures set to soar [9/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The Justice Department's opinion challenges civil rights protections that have long treated the institutionalization of disabled Americans as a last resort.
+Temperatures could top 111F on Monday and Tuesday, after several recent deaths in park raise concerns over heat Extreme heat is set to hit lower parts of the Grand Canyon from Monday, the US National Weather Service (NWS) warned, with…
 
-Link: https://www.npr.org/2026/06/20/nx-s1-5865100/doj-memo-trump-disability-civil-rights-institutionalization
+Link: https://www.theguardian.com/us-news/2026/jun/20/grand-canyon-extreme-heat-watch
 
-### 8. Nothing succeeds like excess at Dolce & Gabbana’s Milan menswear show [9/10]
+### 7. Nothing succeeds like excess at Dolce & Gabbana’s Milan menswear show [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -105,7 +96,7 @@ Italian house’s catwalk emphasised the brand’s ‘molto sexy’ look with fl
 
 Link: https://www.theguardian.com/fashion/2026/jun/20/nothing-succeeds-like-excess-at-dolce-gabbanas-milan-menswear-show
 
-### 9. The Atlantic created a searchable database of the music used to train AI [9/10]
+### 8. The Atlantic created a searchable database of the music used to train AI [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -114,7 +105,7 @@ Atlantic reporter Alex Reisner recently uncovered four datasets of music being u
 
 Link: https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data
 
-### 10. Sony say goodbye to PC and hello to AI in their annual business report, which must be a good thing, right? [9/10]
+### 9. Sony say goodbye to PC and hello to AI in their annual business report, which must be a good thing, right? [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -123,14 +114,23 @@ Back in March, a report emerged claiming that Sony no longer had plans to releas
 
 Link: https://www.rockpapershotgun.com/sony-say-goodbye-to-pc-and-hello-to-ai-in-their-annual-business-report-which-must-be-a-good-thing-right
 
-### 11. Halo: Campaign Evolved PS5 players will require an Xbox account and gamertag to play – as well as PS Plus to play split-screen co-op [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 10. To make Pragmata's Diana feel naturally childlike, a small group of women dubbed the "Diana Police" was set up to keep things in check [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Players will require an Xbox account and gamertag to Halo: Campaign Evolved on PS5. Read more
+Despite being a dad game, a pseudo-genre that has its fair share of problems in the way it depicts father-child relationships, Pragmata generally seemed to approach all of this fairly well.
 
-Link: https://www.eurogamer.net/halo-campaign-evolved-ps5-xbox-account-gamertag-psplus
+Link: https://www.rockpapershotgun.com/to-make-pragmatas-diana-feel-naturally-childlike-a-small-group-of-women-dubbed-the-diana-police-was-set-up-to-keep-things-in-check
+
+### 11. ‘How do I deal with my rage? I put it in everything I do’: Killing Eve’s Sandra Oh on fury, friendship and hitting her prime in midlife [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+It took a long time for the actor to find her groove – then the smash TV spy thriller changed everything.
+
+Link: https://www.theguardian.com/tv-and-radio/2026/jun/20/sandra-oh-interview-killing-eve-theatre
 
 ### 12. State Education Officials Recommend Repealing, Replacing Compulsory School Attendance Rules [8/10]
 **Source:** The 74  
@@ -314,9 +314,9 @@ Link: https://www.youtube.com/watch?v=tAcC75NNTG0
 
 Link: https://www.youtube.com/watch?v=h3vnefloDrg
 
-### Jack and Marty's Breath of the Wild Lockout Bingo Super Cut [7/10]
+### Jack and Marty's Breath of the Wild Lockout Bingo Super Cut [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Jack and Marty race to see whose the better Breath of the Wild player in this special lockout bingo event we held a couple months ago. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.
@@ -376,15 +376,6 @@ Link: https://www.youtube.com/watch?v=YptMK_dK2NA
 On this week's Semi-Ramblomatic, Yahtzee unpacks the smugness (or lack thereof) of James Bond in 007 First Light. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
 Link: https://www.youtube.com/watch?v=XY56Tlad_wg
-
-### Star Fox Adventures Has A+ Water w/ KC and Marty -- Part 3 [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-For their next franchise revisit, KC and Marty are going to take a look at the Star Fox series. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=In7fcw6CxTM
 
 ## Entertainment Recommendations
 
