@@ -1,29 +1,39 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-21T05:00:02.285680Z",
-  "generatedAtDisplay": "2026-06-21 01:00 AM EDT",
+  "generatedAt": "2026-06-21T09:00:51.421335Z",
+  "generatedAtDisplay": "2026-06-21 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Ukraine war briefing: Drones strike Russia’s Tyumen oil refinery 2,000km away, says Zelenskyy, ‘They have all the power’: investigation finds that 93% of ICE arrests targeted Latinos, and How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Science / health. The strongest items in this run are Condemned to plutocracy? The relentless rise of US inequality, Ukraine war briefing: Drones strike Russia’s Tyumen oil refinery 2,000km away, says Zelenskyy, and To the tablet and beyond: does Toy Story 5 go hard enough on technology?.",
   "mainItems": [
+    {
+      "title": "Condemned to plutocracy? The relentless rise of US inequality",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jun/21/us-inequality-plutocracy",
+      "published": "2026-06-21T08:00:25+00:00",
+      "summary": "Elon Musk is a beneficiary of America’s lopsided prosperity – does the country have any appetite for redistribution? As Barack Obama’s presidency was coming to a close, Jason Furman, then chairman of the president’s council of economic…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Ukraine war briefing: Drones strike Russia’s Tyumen oil refinery 2,000km away, says Zelenskyy",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/world/2026/jun/21/ukraine-war-briefing-drones-strike-russia-tyumen-oil-refinery-2000km-away-says-zelenskyy",
-      "published": "2026-06-21T02:36:47+00:00",
+      "published": "2026-06-21T06:37:38+00:00",
       "summary": "Reports from Siberia confirm attack, while Ukrainian president says new weapon has 3,000km range; occupied Crimea under attack.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "‘They have all the power’: investigation finds that 93% of ICE arrests targeted Latinos",
+      "title": "To the tablet and beyond: does Toy Story 5 go hard enough on technology?",
       "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/jun/20/ice-investigation-new-york-new-jersey",
-      "published": "2026-06-20T14:00:03+00:00",
-      "summary": "430 ICE street arrests filed over a five-month period were clustered in predominantly Latino communities across New Jersey and New York Federal agents have arrested hundreds of immigrants off New York and New Jersey streets in recent…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/21/toy-story-5-go-hard-enough-on-technology",
+      "published": "2026-06-21T05:00:21+00:00",
+      "summary": "The animated sequel sets up a tug-of-war between physical and digital play for children but is still eager not to be an anti-tech screed For more than 30 years, Pixar’s signature Toy Story series has been entertaining children while giving…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -67,26 +77,6 @@
       "score": 9
     },
     {
-      "title": "Nothing succeeds like excess at Dolce & Gabbana’s Milan menswear show",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/fashion/2026/jun/20/nothing-succeeds-like-excess-at-dolce-gabbanas-milan-menswear-show",
-      "published": "2026-06-20T18:55:57+00:00",
-      "summary": "Italian house’s catwalk emphasised the brand’s ‘molto sexy’ look with flamboyant, sometimes revealing outfits Dolce & Gabbana leaned heavily into the art of theatrical misdirection on the second day of Milan fashion week as it aimed to…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "The Atlantic created a searchable database of the music used to train AI",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-      "published": "2026-06-20T18:46:48+00:00",
-      "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
       "title": "Sony say goodbye to PC and hello to AI in their annual business report, which must be a good thing, right?",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
@@ -107,14 +97,24 @@
       "score": 9
     },
     {
-      "title": "‘How do I deal with my rage? I put it in everything I do’: Killing Eve’s Sandra Oh on fury, friendship and hitting her prime in midlife",
+      "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/20/sandra-oh-interview-killing-eve-theatre",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/jun/20/rfk-jr-hantavirus-quarantine",
       "published": "2026-06-20T11:00:05+00:00",
-      "summary": "It took a long time for the actor to find her groove – then the smash TV spy thriller changed everything.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "summary": "Kennedy overrides CDC order saying an American who came into contact with hantavirus can self-quarantine The Trump administration is employing “authoritarian” and “unconstitutional” quarantine measures for at least one person who came into…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
+    },
+    {
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "published": "2026-06-20T18:46:48+00:00",
+      "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 8
     },
     {
       "title": "State Education Officials Recommend Repealing, Replacing Compulsory School Attendance Rules",

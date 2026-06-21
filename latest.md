@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-21T05:00:02.285680Z
+Generated: 2026-06-21T09:00:51.421335Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Ukraine war briefing: Drones strike Russia’s Tyumen oil refinery 2,000km away, says Zelenskyy, ‘They have all the power’: investigation finds that 93% of ICE arrests targeted Latinos, and How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Science / health. The strongest items in this run are Condemned to plutocracy? The relentless rise of US inequality, Ukraine war briefing: Drones strike Russia’s Tyumen oil refinery 2,000km away, says Zelenskyy, and To the tablet and beyond: does Toy Story 5 go hard enough on technology?.
 
 ## Briefing
 
@@ -33,7 +33,16 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Ukraine war briefing: Drones strike Russia’s Tyumen oil refinery 2,000km away, says Zelenskyy [10/10]
+### 1. Condemned to plutocracy? The relentless rise of US inequality [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Elon Musk is a beneficiary of America’s lopsided prosperity – does the country have any appetite for redistribution? As Barack Obama’s presidency was coming to a close, Jason Furman, then chairman of the president’s council of economic…
+
+Link: https://www.theguardian.com/us-news/2026/jun/21/us-inequality-plutocracy
+
+### 2. Ukraine war briefing: Drones strike Russia’s Tyumen oil refinery 2,000km away, says Zelenskyy [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,16 +51,16 @@ Reports from Siberia confirm attack, while Ukrainian president says new weapon h
 
 Link: https://www.theguardian.com/world/2026/jun/21/ukraine-war-briefing-drones-strike-russia-tyumen-oil-refinery-2000km-away-says-zelenskyy
 
-### 2. ‘They have all the power’: investigation finds that 93% of ICE arrests targeted Latinos [10/10]
+### 3. To the tablet and beyond: does Toy Story 5 go hard enough on technology? [10/10]
 **Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-430 ICE street arrests filed over a five-month period were clustered in predominantly Latino communities across New Jersey and New York Federal agents have arrested hundreds of immigrants off New York and New Jersey streets in recent…
+The animated sequel sets up a tug-of-war between physical and digital play for children but is still eager not to be an anti-tech screed For more than 30 years, Pixar’s signature Toy Story series has been entertaining children while giving…
 
-Link: https://www.theguardian.com/us-news/2026/jun/20/ice-investigation-new-york-new-jersey
+Link: https://www.theguardian.com/news/ng-interactive/2026/jun/21/toy-story-5-go-hard-enough-on-technology
 
-### 3. How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’ [10/10]
+### 4. How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’ [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -60,7 +69,7 @@ We asked people in the US about their customer service battles and hundreds resp
 
 Link: https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles
 
-### 4. These nuns spent a lifetime helping others. In their last years, who will help them? [10/10]
+### 5. These nuns spent a lifetime helping others. In their last years, who will help them? [10/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -69,7 +78,7 @@ The sisters of Uganda are teachers, health-care advocates and more. Those who ar
 
 Link: https://www.npr.org/2026/06/20/g-s1-128632/nuns-convent-africa-hospice
 
-### 5. As EA appear to renew the trademark for Ultima, its creator lies in wait to reclaim the game's copyright next year [9/10]
+### 6. As EA appear to renew the trademark for Ultima, its creator lies in wait to reclaim the game's copyright next year [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -78,7 +87,7 @@ It's been a while since there's been a new Ultima! Just about eight years, in fa
 
 Link: https://www.rockpapershotgun.com/as-ea-appear-to-renew-the-trademark-for-ultima-its-creator-lies-in-wait-to-reclaim-the-games-copyright-next-year
 
-### 6. Grand Canyon on ‘extreme heat’ watch, with temperatures set to soar [9/10]
+### 7. Grand Canyon on ‘extreme heat’ watch, with temperatures set to soar [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -87,25 +96,7 @@ Temperatures could top 111F on Monday and Tuesday, after several recent deaths i
 
 Link: https://www.theguardian.com/us-news/2026/jun/20/grand-canyon-extreme-heat-watch
 
-### 7. Nothing succeeds like excess at Dolce & Gabbana’s Milan menswear show [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Italian house’s catwalk emphasised the brand’s ‘molto sexy’ look with flamboyant, sometimes revealing outfits Dolce & Gabbana leaned heavily into the art of theatrical misdirection on the second day of Milan fashion week as it aimed to…
-
-Link: https://www.theguardian.com/fashion/2026/jun/20/nothing-succeeds-like-excess-at-dolce-gabbanas-milan-menswear-show
-
-### 8. The Atlantic created a searchable database of the music used to train AI [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data
-
-### 9. Sony say goodbye to PC and hello to AI in their annual business report, which must be a good thing, right? [9/10]
+### 8. Sony say goodbye to PC and hello to AI in their annual business report, which must be a good thing, right? [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -114,7 +105,7 @@ Back in March, a report emerged claiming that Sony no longer had plans to releas
 
 Link: https://www.rockpapershotgun.com/sony-say-goodbye-to-pc-and-hello-to-ai-in-their-annual-business-report-which-must-be-a-good-thing-right
 
-### 10. To make Pragmata's Diana feel naturally childlike, a small group of women dubbed the "Diana Police" was set up to keep things in check [9/10]
+### 9. To make Pragmata's Diana feel naturally childlike, a small group of women dubbed the "Diana Police" was set up to keep things in check [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -123,14 +114,23 @@ Despite being a dad game, a pseudo-genre that has its fair share of problems in 
 
 Link: https://www.rockpapershotgun.com/to-make-pragmatas-diana-feel-naturally-childlike-a-small-group-of-women-dubbed-the-diana-police-was-set-up-to-keep-things-in-check
 
-### 11. ‘How do I deal with my rage? I put it in everything I do’: Killing Eve’s Sandra Oh on fury, friendship and hitting her prime in midlife [9/10]
+### 10. ‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine [9/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-It took a long time for the actor to find her groove – then the smash TV spy thriller changed everything.
+Kennedy overrides CDC order saying an American who came into contact with hantavirus can self-quarantine The Trump administration is employing “authoritarian” and “unconstitutional” quarantine measures for at least one person who came into…
 
-Link: https://www.theguardian.com/tv-and-radio/2026/jun/20/sandra-oh-interview-killing-eve-theatre
+Link: https://www.theguardian.com/world/2026/jun/20/rfk-jr-hantavirus-quarantine
+
+### 11. The Atlantic created a searchable database of the music used to train AI [8/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data
 
 ### 12. State Education Officials Recommend Repealing, Replacing Compulsory School Attendance Rules [8/10]
 **Source:** The 74  
