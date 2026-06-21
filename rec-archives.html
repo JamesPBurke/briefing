@@ -46,6 +46,23 @@
       color: var(--color-accent);
     }
     @media (max-width: 600px) {
+      .masthead-inner {
+        position: relative;
+        padding-bottom: 0.85rem;
+      }
+      .masthead-actions {
+        position: static;
+        transform: none;
+        width: 100%;
+        margin-top: 0.75rem;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+      }
+      .masthead-actions .btn-ghost {
+        display: inline-flex !important;
+        font-size: 0.85rem;
+        padding: 0.55rem 0.75rem;
+      }
       .source-pages-panel { padding: 16px; }
       .source-pages-links { flex-direction: column; }
       .source-page-link { width: 100%; }
