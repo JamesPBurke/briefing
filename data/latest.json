@@ -1,11 +1,51 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-21T09:00:51.421335Z",
-  "generatedAtDisplay": "2026-06-21 05:00 AM EDT",
+  "generatedAt": "2026-06-21T14:00:03.132746Z",
+  "generatedAtDisplay": "2026-06-21 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Science / health. The strongest items in this run are Condemned to plutocracy? The relentless rise of US inequality, Ukraine war briefing: Drones strike Russia’s Tyumen oil refinery 2,000km away, says Zelenskyy, and To the tablet and beyond: does Toy Story 5 go hard enough on technology?.",
+  "summary": "Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are ‘We want that bond to remain’: the program helping incarcerated fathers see their loved ones, El Niño is back with a vengeance – and fears of ‘Godzilla’ strength may be the least of our worries, and US-Iran talks in Switzerland get under way as strait of Hormuz remains closed.",
   "mainItems": [
+    {
+      "title": "‘We want that bond to remain’: the program helping incarcerated fathers see their loved ones",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/jun/21/california-incarcerated-fathers",
+      "published": "2026-06-21T13:00:34+00:00",
+      "summary": "Father’s Day event aims to help strengthen connections between parents and children and soothe mental health More than a hundred eager families poured into a prison visiting room on 13 June, having just endured a security search after…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "El Niño is back with a vengeance – and fears of ‘Godzilla’ strength may be the least of our worries",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/environment/2026/jun/21/el-nino-fears-godzilla-strength-hunger-famine",
+      "published": "2026-06-21T13:00:33+00:00",
+      "summary": "UN’s Word Food Programme and agriculture agency issue joint appeal for funds to avert global hunger crisis before it happens Adugna Woyessa was a little boy the first time drought tore his country apart.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "US-Iran talks in Switzerland get under way as strait of Hormuz remains closed",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/jun/21/us-iran-talks-jd-vance-switzerland-strait-of-hormuz-lebanon",
+      "published": "2026-06-21T12:25:52+00:00",
+      "summary": "JD Vance says talks aim to ‘make progress on the nuclear issue, make progress on the Lebanon ceasefire issue’ Middle East crisis – live updates Talks between Iran and the US aimed at building out the fragile interim deal to end the war…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘My mum says I’m not working class any more!’: Olivia Cooke on power, privilege, and dividing audiences in House of Dragon",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/21/olivia-cooke-interview-house-dragon-game-thrones-girlfriend",
+      "published": "2026-06-21T09:00:27+00:00",
+      "summary": "The actor has a knack for playing characters that test viewers’ loyalties.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Condemned to plutocracy? The relentless rise of US inequality",
       "source": "The Guardian US",
@@ -17,44 +57,54 @@
       "score": 10
     },
     {
-      "title": "Ukraine war briefing: Drones strike Russia’s Tyumen oil refinery 2,000km away, says Zelenskyy",
+      "title": "Chasing life goals is a recipe for disaster – so try these tiny experiments instead",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jun/21/ukraine-war-briefing-drones-strike-russia-tyumen-oil-refinery-2000km-away-says-zelenskyy",
-      "published": "2026-06-21T06:37:38+00:00",
-      "summary": "Reports from Siberia confirm attack, while Ukrainian president says new weapon has 3,000km range; occupied Crimea under attack.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "To the tablet and beyond: does Toy Story 5 go hard enough on technology?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/21/toy-story-5-go-hard-enough-on-technology",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/21/improve-career-health-relationships-experimental-mindset",
       "published": "2026-06-21T05:00:21+00:00",
-      "summary": "The animated sequel sets up a tug-of-war between physical and digital play for children but is still eager not to be an anti-tech screed For more than 30 years, Pixar’s signature Toy Story series has been entertaining children while giving…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "summary": "Whether its our careers, health or relationships, we often set the bar too high and end up feeling disappointed when it doesn’t work out.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’",
+      "title": "Keir Starmer expected to announce departure as prime minister on Monday",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles",
-      "published": "2026-06-20T11:00:03+00:00",
-      "summary": "We asked people in the US about their customer service battles and hundreds responded on the financial and emotional costs Guardian readers from across the US wrote in to tell us about their battles with big companies, and the time,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/politics/2026/jun/21/keir-starmer-expected-to-announce-departure-as-prime-minister-on-monday",
+      "published": "2026-06-21T13:44:16+00:00",
+      "summary": "Business secretary says Starmer is reflecting on ‘political realities’ amid overwhelming pressure from MPs UK politics – live updates Keir Starmer is expected to announce on Monday that he will step down as prime minister, after…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
-      "title": "These nuns spent a lifetime helping others. In their last years, who will help them?",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/20/g-s1-128632/nuns-convent-africa-hospice",
-      "published": "2026-06-20T10:45:09+00:00",
-      "summary": "The sisters of Uganda are teachers, health-care advocates and more. Those who are in their twilight of their life need help. Who will come to their aid?",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10
+      "title": "Big changes coming to student loans on July 1",
+      "source": "NPR Education",
+      "category": "CS education / AI policy",
+      "url": "https://www.npr.org/2026/06/21/nx-s1-5856432-e1/big-changes-coming-to-student-loans-on-july-1",
+      "published": "2026-06-21T12:06:15+00:00",
+      "summary": "Starting on July 1, the federal government will make some big changes to how student loans can be repaid or forgiven.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 9
+    },
+    {
+      "title": "Review: Widow's Bay is a boldly original take on comedic horror",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
+      "published": "2026-06-21T10:00:11+00:00",
+      "summary": "An eminently binge-able series that honors classic horror tropes while reinventing them in surprising ways",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "‘I hope I’m doing something important’: the Memphis observers tracking Trump’s anti-crime taskforce",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/jun/21/memphis-trump-taskforce",
+      "published": "2026-06-21T09:00:26+00:00",
+      "summary": "A small but dedicated band is keeping tabs on taskforce agents – here’s what the activist monitors have to say Nine months after Donald Trump ordered an anti-crime taskforce onto the streets of Memphis, a small band of dedicated observers…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
     },
     {
       "title": "As EA appear to renew the trademark for Ultima, its creator lies in wait to reclaim the game's copyright next year",
@@ -67,73 +117,23 @@
       "score": 9
     },
     {
-      "title": "Grand Canyon on ‘extreme heat’ watch, with temperatures set to soar",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/20/grand-canyon-extreme-heat-watch",
-      "published": "2026-06-20T19:36:00+00:00",
-      "summary": "Temperatures could top 111F on Monday and Tuesday, after several recent deaths in park raise concerns over heat Extreme heat is set to hit lower parts of the Grand Canyon from Monday, the US National Weather Service (NWS) warned, with…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Sony say goodbye to PC and hello to AI in their annual business report, which must be a good thing, right?",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/sony-say-goodbye-to-pc-and-hello-to-ai-in-their-annual-business-report-which-must-be-a-good-thing-right",
-      "published": "2026-06-20T17:10:31+00:00",
-      "summary": "Back in March, a report emerged claiming that Sony no longer had plans to release the likes of Ghost of Yōtei and other such singleplayer-only games on PC.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "To make Pragmata's Diana feel naturally childlike, a small group of women dubbed the \"Diana Police\" was set up to keep things in check",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/to-make-pragmatas-diana-feel-naturally-childlike-a-small-group-of-women-dubbed-the-diana-police-was-set-up-to-keep-things-in-check",
-      "published": "2026-06-20T16:10:55+00:00",
-      "summary": "Despite being a dad game, a pseudo-genre that has its fair share of problems in the way it depicts father-child relationships, Pragmata generally seemed to approach all of this fairly well.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/jun/20/rfk-jr-hantavirus-quarantine",
-      "published": "2026-06-20T11:00:05+00:00",
-      "summary": "Kennedy overrides CDC order saying an American who came into contact with hantavirus can self-quarantine The Trump administration is employing “authoritarian” and “unconstitutional” quarantine measures for at least one person who came into…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "The Atlantic created a searchable database of the music used to train AI",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-      "published": "2026-06-20T18:46:48+00:00",
-      "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
-    },
-    {
-      "title": "State Education Officials Recommend Repealing, Replacing Compulsory School Attendance Rules",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/state-education-officials-recommend-repealing-replacing-compulsory-school-attendance-rules/",
-      "published": "2026-06-20T16:30:00+00:00",
-      "summary": "To improve school attendance in a state with one of the nation’s highest absenteeism rates, Oregon education officials on Tuesday presented lawmakers with a plan to repeal existing attendance laws.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 8
-    },
-    {
-      "title": "Scientists Propose Black Holes Don’t Exist, Are Something Much Stranger",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/scientists-propose-black-holes-dont-exist-are-something-much-stranger/",
-      "published": "2026-06-20T13:00:39+00:00",
-      "summary": "A seismic wave from the 2011 Tohoku-Oki earthquake bounced off the Earth’s core and hit Japan from below, shifting the entire mainland a quarter-inch eastward.",
+      "title": "Recent studies show fathers' brains change after bringing home a new baby",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/06/21/nx-s1-5863148/recent-studies-show-fathers-brains-change-after-bringing-home-a-new-baby",
+      "published": "2026-06-21T12:06:11+00:00",
+      "summary": "NPR's Ayesha Rascoe talks to Washington Post journalist Richard Sima about how fathers' brains change after bringing home a new baby.",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Once a federal boarding school, local tribes now set the curriculum at the Santa Fe Indian School",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/06/21/nx-s1-5751916/once-a-federal-boarding-school-local-tribes-now-set-the-curriculum-at-the-santa-fe-indian-school",
+      "published": "2026-06-21T12:06:04+00:00",
+      "summary": "For more than a century, federal boarding schools worked to forcibly assimilate Native American children into white culture. We visit one school that has rewritten its legacy.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 8
     }
   ],
@@ -172,12 +172,12 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Hey Siri, Play 'Island in the Sun'",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=XAqXsCE9mRs",
-      "published": "2026-06-18T14:00:03+00:00",
-      "summary": "Which Weezer song has the most iconic riff? #Weezer #Rock #WIRED Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.",
+      "title": "Starter homes in a record number of U.S. cities now cost $1 million or more",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=mystVZ-WqLA",
+      "published": "2026-06-21T13:00:36+00:00",
+      "summary": "New data shows that starter homes in a record number of cities now cost $1 million or more.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -236,17 +236,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 6,
       "verdict": "Summary is enough"
-    },
-    {
-      "title": "Luigi Mangione's legal team says they plan to pursue a psychiatric defense, during pre-trial hearing",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=3_uA_eRR1Po",
-      "published": "2026-06-18T14:00:00+00:00",
-      "summary": "Luigi Mangione faces state and federal trials for the 2024 murder of an insurance company executive. His legal team plans to pursue a psychiatric defense, claiming Mangione was experiencing an extreme emotional disturbance.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     },
     {
       "title": "Is Xbox Project Helix The Next 3DO?",
@@ -802,8 +791,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 25,
+    "youtubeCount": 24,
     "trailerCount": 25,
-    "sourceCount": 20
+    "sourceCount": 19
   }
 }
