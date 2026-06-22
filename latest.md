@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-22T05:00:02.894045Z
+Generated: 2026-06-22T09:00:58.684912Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Trump news at a glance: President threatens to restart attacks on Iran even as Vance cites progress in talks, At least seven people killed in Chicago shootings as Trump renews military call, and ‘My mum says I’m not working class any more!’: Olivia Cooke on power, privilege, and dividing audiences in House of Dragon.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Despite state bans, abortions have almost doubled in the U.S., From mobile jungles to shadow art: how Dutch people try to beat the heat, and Trump news at a glance: President threatens to restart attacks on Iran even as Vance cites progress in talks.
 
 ## Briefing
 
@@ -33,7 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Trump news at a glance: President threatens to restart attacks on Iran even as Vance cites progress in talks [10/10]
+### 1. Despite state bans, abortions have almost doubled in the U.S. [10/10]
+**Source:** NPR Health  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Four years ago, the Supreme Court overturned Roe v. Wade. Yet there are nearly twice as many abortions in the U.S. as before. That's because abortion pills are now being prescribed online and mailed.
+
+Link: https://www.npr.org/2026/06/22/nx-s1-5860868/despite-state-bans-abortions-have-almost-doubled-in-the-u-s
+
+### 2. From mobile jungles to shadow art: how Dutch people try to beat the heat [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+A national heatwave plan has been activated to help people stay cool during the Netherlands’ increasingly hot summers Households in Amsterdam are being urged to hang their curtains outside their windows as health experts recommend simple…
+
+Link: https://www.theguardian.com/world/2026/jun/22/from-mobile-jungles-to-shadow-art-how-dutch-people-try-to-beat-the-heat
+
+### 3. Trump news at a glance: President threatens to restart attacks on Iran even as Vance cites progress in talks [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,7 +60,16 @@ Trump warning that Iran ‘won’t have a country’ if it closes strait of Horm
 
 Link: https://www.theguardian.com/us-news/2026/jun/22/trump-administration-latest-updates-today
 
-### 2. At least seven people killed in Chicago shootings as Trump renews military call [10/10]
+### 4. Cape Verde produce another World Cup shock as Varela strike seals Uruguay draw [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Wow. The continuation of Cape Verde’s fairytale may have serious repercussions for Marcelo Bielsa and Uruguay. The heroics of Cape Verde in holding Spain to a draw mean Uruguay should have been forewarned and forearmed in Florida.
+
+Link: https://www.theguardian.com/football/2026/jun/22/cape-verde-uruguay-world-cup-group-h-match-report
+
+### 5. At least seven people killed in Chicago shootings as Trump renews military call [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,25 +78,7 @@ Mayor says ‘violence has no place in our city’ as president criticizes gover
 
 Link: https://www.theguardian.com/us-news/2026/jun/21/chicago-shootings-trump
 
-### 3. ‘My mum says I’m not working class any more!’: Olivia Cooke on power, privilege, and dividing audiences in House of Dragon [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The actor has a knack for playing characters that test viewers’ loyalties.
-
-Link: https://www.theguardian.com/tv-and-radio/2026/jun/21/olivia-cooke-interview-house-dragon-game-thrones-girlfriend
-
-### 4. CD Projekt Red co-CEO admits it "indefinitely" "lost the faith" of some fans after Cyberpunk 2077 [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The Witcher 4 developer CD Projekt Red believes it's yet to complete its "full redemption arc" after the disastrous 2020 launch of its open-world action-adventure game, Cyberpunk 2077 . Read more
-
-Link: https://www.eurogamer.net/cd-projekt-red-admits-it-lost-the-faith-of-some-fans-indefinitely
-
-### 5. Man falls to his death during Madison Square Garden concert, police say [9/10]
+### 6. Man falls to his death during Madison Square Garden concert, police say [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -78,7 +87,7 @@ Officers find man, named as Paul Kueker, unconscious with injuries indicating a 
 
 Link: https://www.theguardian.com/us-news/2026/jun/21/man-dies-madison-square-garden-concert
 
-### 6. Gov. Landry, Legislative Leaders Push Back on Teacher Stipend Plan Opposition [9/10]
+### 7. Gov. Landry, Legislative Leaders Push Back on Teacher Stipend Plan Opposition [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -87,50 +96,41 @@ Gov. Jeff Landry and legislative leaders are pushing back on claims from public 
 
 Link: https://www.the74million.org/article/gov-landry-legislative-leaders-push-back-on-teacher-stipend-plan-opposition/
 
-### 7. ‘I hope I’m doing something important’: the Memphis observers tracking Trump’s anti-crime taskforce [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-A small but dedicated band is keeping tabs on taskforce agents – here’s what the activist monitors have to say Nine months after Donald Trump ordered an anti-crime taskforce onto the streets of Memphis, a small band of dedicated observers…
-
-Link: https://www.theguardian.com/us-news/2026/jun/21/memphis-trump-taskforce
-
-### 8. Condemned to plutocracy? The relentless rise of US inequality [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Elon Musk is a beneficiary of America’s lopsided prosperity – does the country have any appetite for redistribution? As Barack Obama’s presidency was coming to a close, Jason Furman, then chairman of the president’s council of economic…
-
-Link: https://www.theguardian.com/us-news/2026/jun/21/us-inequality-plutocracy
-
-### 9. Richer than Musk: Joyce Carol Oates on her 88 years of watching, writing, feeling and loving [8/10]
+### 8. Starmer announces resignation as prime minister and leader of the Labour party - UK politics live [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-The writer made headlines when she accused the world’s wealthiest man of lacking joy, culture, a sense of beauty … Meanwhile, her own life has been an attempt to understand and explain the world.
+The prime minister said a new leader will be in place before parliament returns in September Starmer expected to announce exit plan to clear way for Burnham to become PM ‘A shift has taken place’: Starmer faces the music after weekend of…
 
-Link: https://www.theguardian.com/books/2026/jun/22/joyce-carol-oates-richer-than-elon-musk-interview
+Link: https://www.theguardian.com/politics/live/2026/jun/22/keir-starmer-resignation-timeable-andy-burnham-labour-leadership-prime-minister-latest-news-updates
 
-### 10. Egypt claim their first World Cup win after roaring from behind to beat New Zealand [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Mohamed Salah inspired Egypt to their first-ever World Cup win as they came from a goal down ⁠to beat New Zealand 3-1 with a brilliant second-half display, moving top of Group G and boosting their hopes of reaching the knockout stage.
-
-Link: https://www.theguardian.com/football/2026/jun/22/new-zealand-egypt-world-cup-group-g-match-report
-
-### 11. Polymarket reportedly paid people to post fake videos of themselves placing bets [8/10]
-**Source:** The Verge  
+### 9. Inside the world’s deepest and longest subsea road tunnel [8/10]
+**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-According to a Wall Street Journal investigation, Polymarket has been paying people to film themselves placing fake bets and celebrating fake wins on social media.
+It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird.
 
-Link: https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets
+Link: https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/
+
+### 10. Iran hails ‘progress’ as first day of talks with US conclude after shaky start [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Mediators Pakistan and Qatar issue statement saying talks will run for rest of the week, as fighting in Lebanon continues to threaten deal Iran’s foreign minister has declared “progress” after the first day of talks between high-ranking…
+
+Link: https://www.theguardian.com/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel
+
+### 11. CD Projekt Red co-CEO admits it "indefinitely" "lost the faith" of some fans after Cyberpunk 2077 [8/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The Witcher 4 developer CD Projekt Red believes it's yet to complete its "full redemption arc" after the disastrous 2020 launch of its open-world action-adventure game, Cyberpunk 2077 . Read more
+
+Link: https://www.eurogamer.net/cd-projekt-red-admits-it-lost-the-faith-of-some-fans-indefinitely
 
 ### 12. Big changes coming to student loans on July 1 [8/10]
 **Source:** NPR Education  

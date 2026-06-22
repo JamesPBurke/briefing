@@ -1,11 +1,31 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-22T05:00:02.894045Z",
-  "generatedAtDisplay": "2026-06-22 01:00 AM EDT",
+  "generatedAt": "2026-06-22T09:00:58.684912Z",
+  "generatedAtDisplay": "2026-06-22 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Trump news at a glance: President threatens to restart attacks on Iran even as Vance cites progress in talks, At least seven people killed in Chicago shootings as Trump renews military call, and ‘My mum says I’m not working class any more!’: Olivia Cooke on power, privilege, and dividing audiences in House of Dragon.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Despite state bans, abortions have almost doubled in the U.S., From mobile jungles to shadow art: how Dutch people try to beat the heat, and Trump news at a glance: President threatens to restart attacks on Iran even as Vance cites progress in talks.",
   "mainItems": [
+    {
+      "title": "Despite state bans, abortions have almost doubled in the U.S.",
+      "source": "NPR Health",
+      "category": "Democracy / press freedom",
+      "url": "https://www.npr.org/2026/06/22/nx-s1-5860868/despite-state-bans-abortions-have-almost-doubled-in-the-u-s",
+      "published": "2026-06-22T08:52:31+00:00",
+      "summary": "Four years ago, the Supreme Court overturned Roe v. Wade. Yet there are nearly twice as many abortions in the U.S. as before. That's because abortion pills are now being prescribed online and mailed.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "From mobile jungles to shadow art: how Dutch people try to beat the heat",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/jun/22/from-mobile-jungles-to-shadow-art-how-dutch-people-try-to-beat-the-heat",
+      "published": "2026-06-22T04:00:50+00:00",
+      "summary": "A national heatwave plan has been activated to help people stay cool during the Netherlands’ increasingly hot summers Households in Amsterdam are being urged to hang their curtains outside their windows as health experts recommend simple…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
     {
       "title": "Trump news at a glance: President threatens to restart attacks on Iran even as Vance cites progress in talks",
       "source": "The Guardian US",
@@ -14,7 +34,17 @@
       "published": "2026-06-22T02:14:20+00:00",
       "summary": "Trump warning that Iran ‘won’t have a country’ if it closes strait of Hormuz contrasts with vice-president’s tone seeking to turn over ‘new leaf’ with Tehran – key US politics stories from Sunday 21 June Donald Trump threatened to ⁠resume…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
+    },
+    {
+      "title": "Cape Verde produce another World Cup shock as Varela strike seals Uruguay draw",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/football/2026/jun/22/cape-verde-uruguay-world-cup-group-h-match-report",
+      "published": "2026-06-22T00:28:46+00:00",
+      "summary": "Wow. The continuation of Cape Verde’s fairytale may have serious repercussions for Marcelo Bielsa and Uruguay. The heroics of Cape Verde in holding Spain to a draw mean Uruguay should have been forewarned and forearmed in Florida.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
       "title": "At least seven people killed in Chicago shootings as Trump renews military call",
@@ -24,26 +54,6 @@
       "published": "2026-06-21T23:07:26+00:00",
       "summary": "Mayor says ‘violence has no place in our city’ as president criticizes governor for not accepting national guard troops At least seven people have been killed and dozens injured in several shootings in Chicago since Friday, police said,…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘My mum says I’m not working class any more!’: Olivia Cooke on power, privilege, and dividing audiences in House of Dragon",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/21/olivia-cooke-interview-house-dragon-game-thrones-girlfriend",
-      "published": "2026-06-21T09:00:27+00:00",
-      "summary": "The actor has a knack for playing characters that test viewers’ loyalties.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "CD Projekt Red co-CEO admits it \"indefinitely\" \"lost the faith\" of some fans after Cyberpunk 2077",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/cd-projekt-red-admits-it-lost-the-faith-of-some-fans-indefinitely",
-      "published": "2026-06-21T19:42:49+00:00",
-      "summary": "The Witcher 4 developer CD Projekt Red believes it's yet to complete its \"full redemption arc\" after the disastrous 2020 launch of its open-world action-adventure game, Cyberpunk 2077 . Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -67,53 +77,43 @@
       "score": 9
     },
     {
-      "title": "‘I hope I’m doing something important’: the Memphis observers tracking Trump’s anti-crime taskforce",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/jun/21/memphis-trump-taskforce",
-      "published": "2026-06-21T09:00:26+00:00",
-      "summary": "A small but dedicated band is keeping tabs on taskforce agents – here’s what the activist monitors have to say Nine months after Donald Trump ordered an anti-crime taskforce onto the streets of Memphis, a small band of dedicated observers…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "Condemned to plutocracy? The relentless rise of US inequality",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/21/us-inequality-plutocracy",
-      "published": "2026-06-21T08:00:25+00:00",
-      "summary": "Elon Musk is a beneficiary of America’s lopsided prosperity – does the country have any appetite for redistribution? As Barack Obama’s presidency was coming to a close, Jason Furman, then chairman of the president’s council of economic…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Richer than Musk: Joyce Carol Oates on her 88 years of watching, writing, feeling and loving",
+      "title": "Starmer announces resignation as prime minister and leader of the Labour party - UK politics live",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/books/2026/jun/22/joyce-carol-oates-richer-than-elon-musk-interview",
-      "published": "2026-06-22T04:00:49+00:00",
-      "summary": "The writer made headlines when she accused the world’s wealthiest man of lacking joy, culture, a sense of beauty … Meanwhile, her own life has been an attempt to understand and explain the world.",
+      "url": "https://www.theguardian.com/politics/live/2026/jun/22/keir-starmer-resignation-timeable-andy-burnham-labour-leadership-prime-minister-latest-news-updates",
+      "published": "2026-06-22T08:53:18+00:00",
+      "summary": "The prime minister said a new leader will be in place before parliament returns in September Starmer expected to announce exit plan to clear way for Burnham to become PM ‘A shift has taken place’: Starmer faces the music after weekend of…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 8
     },
     {
-      "title": "Egypt claim their first World Cup win after roaring from behind to beat New Zealand",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/football/2026/jun/22/new-zealand-egypt-world-cup-group-g-match-report",
-      "published": "2026-06-22T03:11:14+00:00",
-      "summary": "Mohamed Salah inspired Egypt to their first-ever World Cup win as they came from a goal down ⁠to beat New Zealand 3-1 with a brilliant second-half display, moving top of Group G and boosting their hopes of reaching the knockout stage.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
-      "title": "Polymarket reportedly paid people to post fake videos of themselves placing bets",
-      "source": "The Verge",
+      "title": "Inside the world’s deepest and longest subsea road tunnel",
+      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
-      "published": "2026-06-21T17:20:38+00:00",
-      "summary": "According to a Wall Street Journal investigation, Polymarket has been paying people to film themselves placing fake bets and celebrating fake wins on social media.",
+      "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+      "published": "2026-06-22T08:00:00+00:00",
+      "summary": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 8
+    },
+    {
+      "title": "Iran hails ‘progress’ as first day of talks with US conclude after shaky start",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel",
+      "published": "2026-06-22T07:33:52+00:00",
+      "summary": "Mediators Pakistan and Qatar issue statement saying talks will run for rest of the week, as fighting in Lebanon continues to threaten deal Iran’s foreign minister has declared “progress” after the first day of talks between high-ranking…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
+    },
+    {
+      "title": "CD Projekt Red co-CEO admits it \"indefinitely\" \"lost the faith\" of some fans after Cyberpunk 2077",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/cd-projekt-red-admits-it-lost-the-faith-of-some-fans-indefinitely",
+      "published": "2026-06-21T19:42:49+00:00",
+      "summary": "The Witcher 4 developer CD Projekt Red believes it's yet to complete its \"full redemption arc\" after the disastrous 2020 launch of its open-world action-adventure game, Cyberpunk 2077 . Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8
     },
     {
