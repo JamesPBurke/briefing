@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-22T09:00:58.684912Z
+Generated: 2026-06-22T14:00:02.890441Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Despite state bans, abortions have almost doubled in the U.S., From mobile jungles to shadow art: how Dutch people try to beat the heat, and Trump news at a glance: President threatens to restart attacks on Iran even as Vance cites progress in talks.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Apple’s AirPods Max 2 are $150 off for the first time, Gothic 1 Remake review - the classic RPG returns with countless subtle improvements, and Geareo is an extremely pleasing clockwork building game with pull-out model kits and flippable paper manuals.
 
 ## Briefing
 
@@ -33,122 +33,122 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Despite state bans, abortions have almost doubled in the U.S. [10/10]
-**Source:** NPR Health  
+### 1. Apple’s AirPods Max 2 are $150 off for the first time [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Four years ago, the Supreme Court overturned Roe v. Wade. Yet there are nearly twice as many abortions in the U.S. as before. That's because abortion pills are now being prescribed online and mailed.
+Walmart has the Apple AirPods Max 2 in every color discounted to $399.99 (normally $549) during Walmart Deals, the lowest price we’ve seen yet by a long shot. Amazon currently has the starlight color selling at this price.
 
-Link: https://www.npr.org/2026/06/22/nx-s1-5860868/despite-state-bans-abortions-have-almost-doubled-in-the-u-s
+Link: https://www.theverge.com/gadgets/953322/apple-airpods-max-2-usbc-prime-day-walmart-deal-sale
 
-### 2. From mobile jungles to shadow art: how Dutch people try to beat the heat [9/10]
+### 2. Gothic 1 Remake review - the classic RPG returns with countless subtle improvements [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Old-timey German RPG Gothic had a few spiritual successors, but most were offshoots from the same studio. Thanks to pre-digital distribution limits of 2001, it was obscure in North America, which of course means it never existed.
+
+Link: https://www.rockpapershotgun.com/gothic-1-remake-review-the-classic-rpg-returns-with-countless-subtle-improvements
+
+### 3. Geareo is an extremely pleasing clockwork building game with pull-out model kits and flippable paper manuals [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Many are the games that feature "clockwork" objects, and all of them are liars. "Clockwork" in most games is a brass-edged cube with some images of moving gears on it.
+
+Link: https://www.rockpapershotgun.com/geareo-is-an-extremely-pleasing-clockwork-building-game-featuring-pull-out-model-kits-with-flippable-paper-manuals
+
+### 4. ‘A lot of our parents were paid by the hour’: a first-gen money coach’s blueprint for wealth [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-A national heatwave plan has been activated to help people stay cool during the Netherlands’ increasingly hot summers Households in Amsterdam are being urged to hang their curtains outside their windows as health experts recommend simple…
+Maria Melchor grew up undocumented in Connecticut. Now she’s helping other first-generation Americans build wealth Maria Melchor remembers her first paycheck: $1,414.
 
-Link: https://www.theguardian.com/world/2026/jun/22/from-mobile-jungles-to-shadow-art-how-dutch-people-try-to-beat-the-heat
+Link: https://www.theguardian.com/lifeandstyle/2026/jun/22/money-coach-blueprint-generational-wealth
 
-### 3. Trump news at a glance: President threatens to restart attacks on Iran even as Vance cites progress in talks [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Trump warning that Iran ‘won’t have a country’ if it closes strait of Hormuz contrasts with vice-president’s tone seeking to turn over ‘new leaf’ with Tehran – key US politics stories from Sunday 21 June Donald Trump threatened to ⁠resume…
-
-Link: https://www.theguardian.com/us-news/2026/jun/22/trump-administration-latest-updates-today
-
-### 4. Cape Verde produce another World Cup shock as Varela strike seals Uruguay draw [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Wow. The continuation of Cape Verde’s fairytale may have serious repercussions for Marcelo Bielsa and Uruguay. The heroics of Cape Verde in holding Spain to a draw mean Uruguay should have been forewarned and forearmed in Florida.
-
-Link: https://www.theguardian.com/football/2026/jun/22/cape-verde-uruguay-world-cup-group-h-match-report
-
-### 5. At least seven people killed in Chicago shootings as Trump renews military call [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Mayor says ‘violence has no place in our city’ as president criticizes governor for not accepting national guard troops At least seven people have been killed and dozens injured in several shootings in Chicago since Friday, police said,…
-
-Link: https://www.theguardian.com/us-news/2026/jun/21/chicago-shootings-trump
-
-### 6. Man falls to his death during Madison Square Garden concert, police say [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Officers find man, named as Paul Kueker, unconscious with injuries indicating a fall from an ‘elevated position’ A 51-year-old man fell to his death during a concert at Madison Square Garden in New York on Saturday night, police said.
-
-Link: https://www.theguardian.com/us-news/2026/jun/21/man-dies-madison-square-garden-concert
-
-### 7. Gov. Landry, Legislative Leaders Push Back on Teacher Stipend Plan Opposition [9/10]
-**Source:** The 74  
+### 5. Changing the Narrative with IMPACT Fellow Phet Pease [10/10]
+**Source:** CSTA  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Gov. Jeff Landry and legislative leaders are pushing back on claims from public school leaders that the governor’s plan to pay for teacher stipends with school operations funds would hurt public education across Louisiana.
+Khamphet “Phet” Pease is an award-winning STEM educator and robotics club advisor at Wilson Middle School in the San Diego...
 
-Link: https://www.the74million.org/article/gov-landry-legislative-leaders-push-back-on-teacher-stipend-plan-opposition/
+Link: https://csteachers.org/changing-the-narrative-with-impact-fellow-phet-pease/
 
-### 8. Starmer announces resignation as prime minister and leader of the Labour party - UK politics live [8/10]
+### 6. This week in PC games: synthpunk platforming, haunted house hoovering, and a game about growing a black hole [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Happy this week all! Please, please come save us from the tormenting sun.
+
+Link: https://www.rockpapershotgun.com/this-week-in-pc-games-synthpunk-platforming-haunted-house-hoovering-and-a-game-about-growing-a-black-hole
+
+### 7. Iowa Declared War on Chronic Absenteeism. Now It’s Gaining Some Ground [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Davenport, Iowa, superintendent TJ Schneckloth has an easy way of describing the impact of student absenteeism. “Take your favorite book,” he said. “Let me rip one page out and it’s no longer your favorite book.
+
+Link: https://www.the74million.org/article/iowa-declared-war-on-chronic-absenteeism-now-its-gaining-some-ground/
+
+### 8. CD Projekt boss "knows for a fact" a surge of games made purely with generative AI are coming, but doubts "whether this is really the path to follow" [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+As AI continues to be shoehorned into game development with more regularity, Michał Nowakowski - joint CEO of Witcher 4 developers CD Projekt - has said he "knows for a fact" games built purely with generative AI are on the way.
+
+Link: https://www.rockpapershotgun.com/cd-projekt-boss-knows-for-a-fact-a-surge-of-games-made-purely-with-generative-ai-are-coming-but-doubts-whether-this-is-really-the-path-to-follow
+
+### 9. The US re-legalized the death penalty 50 years ago. Is it working as intended? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The Marshall Project analyzed over 9,000 death sentences handed down since states brought the punishment back Fifty years ago, Americans set out on a polarizing mission: to find a just and fair way to punish the worst-of-the-worst crimes…
+
+Link: https://www.theguardian.com/world/2026/jun/22/us-death-penalty-50-years
+
+### 10. Tesla drivers crash into swimming pool and home in separate US incidents [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-The prime minister said a new leader will be in place before parliament returns in September Starmer expected to announce exit plan to clear way for Burnham to become PM ‘A shift has taken place’: Starmer faces the music after weekend of…
+Texas man using ‘automated driving assistance system’ crashed into house and Connecticut man drove into pool while trying to park Separate crashes in Texas and Connecticut involving Tesla electric vehicles left a woman dead when a car…
 
-Link: https://www.theguardian.com/politics/live/2026/jun/22/keir-starmer-resignation-timeable-andy-burnham-labour-leadership-prime-minister-latest-news-updates
+Link: https://www.theguardian.com/us-news/2026/jun/22/tesla-drivers-crash-swimming-pool-home
 
-### 9. Inside the world’s deepest and longest subsea road tunnel [8/10]
+### 11. The Download: record-breaking subsea tunnels and flexible data centers [9/10]
 **Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird.
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
 
-Link: https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/
+Link: https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/
 
-### 10. Iran hails ‘progress’ as first day of talks with US conclude after shaky start [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Mediators Pakistan and Qatar issue statement saying talks will run for rest of the week, as fighting in Lebanon continues to threaten deal Iran’s foreign minister has declared “progress” after the first day of talks between high-ranking…
-
-Link: https://www.theguardian.com/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel
-
-### 11. CD Projekt Red co-CEO admits it "indefinitely" "lost the faith" of some fans after Cyberpunk 2077 [8/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The Witcher 4 developer CD Projekt Red believes it's yet to complete its "full redemption arc" after the disastrous 2020 launch of its open-world action-adventure game, Cyberpunk 2077 . Read more
-
-Link: https://www.eurogamer.net/cd-projekt-red-admits-it-lost-the-faith-of-some-fans-indefinitely
-
-### 12. Big changes coming to student loans on July 1 [8/10]
-**Source:** NPR Education  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Starting on July 1, the federal government will make some big changes to how student loans can be repaid or forgiven.
-
-Link: https://www.npr.org/2026/06/21/nx-s1-5856432-e1/big-changes-coming-to-student-loans-on-july-1
-
-### 13. Recent studies show fathers' brains change after bringing home a new baby [8/10]
+### 12. Despite state bans, abortions have almost doubled. The reason? Pills via telehealth [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-NPR's Ayesha Rascoe talks to Washington Post journalist Richard Sima about how fathers' brains change after bringing home a new baby.
+States that have banned abortion are suing to stop mailing of abortion pills over state lines. But the telehealth providers say no matter the outcome, they can adapt, and so will their patients.
 
-Link: https://www.npr.org/2026/06/21/nx-s1-5863148/recent-studies-show-fathers-brains-change-after-bringing-home-a-new-baby
+Link: https://www.npr.org/2026/06/22/nx-s1-5863103/medication-abortion-telehealth-post-roe-dobbs
+
+### 13. An AI proxy war could reshape Congress — before Congress reshapes AI [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+The massive spending and heated rhetoric in midterm races reflect the AI industry's political fault lines and competing visions of what the future should look like.
+
+Link: https://www.npr.org/2026/06/22/nx-s1-5856359/ai-anthropic-congress-spending-openai-midterms-election
 
 ## YouTube
 
@@ -187,15 +187,6 @@ Link: https://www.youtube.com/watch?v=viYunAdLBck
 New data shows that starter homes in a record number of cities now cost $1 million or more.
 
 Link: https://www.youtube.com/watch?v=mystVZ-WqLA
-
-### U.K. bans social media for children under 16 [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The British government has announced it is banning social media for children under 16. British Prime Minister Keir Starmer also announced restrictions on gaming services and livestreaming.
-
-Link: https://www.youtube.com/watch?v=AjNbOotTrGI
 
 ### FSR 1's Fifth Anniversary: And How Far We've Come [7/10]
 **Creator:** Digital Foundry  
@@ -269,6 +260,15 @@ Link: https://www.youtube.com/watch?v=TqDmi8J-JBM
 
 Link: https://www.youtube.com/watch?v=7ZwXy7Mlbpc
 
+### Why Are Cards Everywhere In Games? | Windbreaker Podcast (ft. Jack Packard) [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+On this week’s episode of Windbreaker, Yahtzee is on holiday, so Jack is joinging JM8 and Marty to chat about the rise of card-based video games. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=OJVDeXzXjn8
+
 ### So I Walked Past Your Game at a Con... [8/10]
 **Creator:** Second Wind  
 **Verdict:** Worth watching  
@@ -304,15 +304,6 @@ Link: https://www.youtube.com/watch?v=fvMljTV2SHY
 Xbox is once again changing direction, and the people taking the brunt of the blowback for it are the people who make the games. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.
 
 Link: https://www.youtube.com/watch?v=gwEjoYXT3s0
-
-### Is It Thursday? Then We're Taking Your TTRPG Questions! | RPG Help Desk [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-We've got a few questions to cover from last time AND taking new questions from you. Jesse Galena is hosting like usual, but the name didn't fit into the first part of this, so this section only exists to add that name to the meta data.
-
-Link: https://www.youtube.com/watch?v=F6ber_pf9Eg
 
 ## Entertainment Recommendations
 
@@ -460,6 +451,15 @@ You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on J
 
 Link: https://www.youtube.com/watch?v=cWgSDtI5khA
 
+### Ricky Gervais Alley Cats | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Alley Cats is an adult comedy animation series from the razor-sharp mind of Ricky Gervais. It follows a gang of foul-mouthed feral cats who cause havoc while musing on the meaning of life and fighting for survival in a brutal human world.
+
+Link: https://www.youtube.com/watch?v=aIkRFKsoOiM
+
 ### #KyleCooke and #EricAndré behind the decks at the NYC premiere of #LittleBrother [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -540,15 +540,6 @@ Link: https://www.youtube.com/watch?v=locuQ-skySE
 Comedy icon Louis C.K. returns to New York City three years after his last special with a quintessential set that shows he's still a legend of the standup world. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=UaLBYs9l8Vs
-
-### The Truthers | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Following her mother's strange death, Ruth (Stéphanie Magnin) returns to her childhood home. There, she discovers that her father's (Jose Coronado) conspiracy theories hide something far darker than a simple retiree's obsession.
-
-Link: https://www.youtube.com/watch?v=IvL0oT13djs
 
 ### A flawless proposal by Jessica Williams, with Sherry Cola subbing in for Derrick #2. #Shrinking [10/10]
 **Source:** Apple TV  
