@@ -1,11 +1,71 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-23T14:00:02.244494Z",
-  "generatedAtDisplay": "2026-06-23 10:00 AM EDT",
+  "generatedAt": "2026-06-23T18:00:38.835360Z",
+  "generatedAtDisplay": "2026-06-23 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are \"This crisis was avoidable, but our bosses chose to drive blindly towards disaster\": French videogame union STJV call for national industry strike day, Hantavirus quarantine ends for Americans held for six weeks in Nebraska, and Middle East crisis live: Trump claims Iran has agreed to nuclear inspections ‘long into future’, accusing Tehran of ‘false statements’.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Sci-fi / horror, CS education / AI policy. The strongest items in this run are Netflix Brings Play-on-Tv Thriller ‘Unhinged’ to the Service June 30 [Trailer], Trailer for ‘Liminal Backrooms’ Focuses on Core Co-Op Gameplay Experience [Watch], and Texas anti-ICE protesters convicted of terrorism charges sentenced to at least 50 years in prison.",
   "mainItems": [
+    {
+      "title": "Netflix Brings Play-on-Tv Thriller ‘Unhinged’ to the Service June 30 [Trailer]",
+      "source": "Bloody Disgusting",
+      "category": "Democracy / press freedom",
+      "url": "https://bloody-disgusting.com/video-games/3957121/netflix-brings-play-on-tv-thriller-unhinged-to-the-service-june-30-trailer/",
+      "published": "2026-06-23T17:36:15+00:00",
+      "summary": "Netflix continues to venture into video games, announcing Unhinged, an immersive horror game that will launch on the streaming service on June 30.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Trailer for ‘Liminal Backrooms’ Focuses on Core Co-Op Gameplay Experience [Watch]",
+      "source": "Bloody Disgusting",
+      "category": "Sci-fi / horror",
+      "url": "https://bloody-disgusting.com/video-games/3957036/trailer-for-liminal-backrooms-focuses-on-core-co-op-gameplay-experience-watch/",
+      "published": "2026-06-23T17:32:13+00:00",
+      "summary": "Want more Backrooms content? The Unknown is offering just that with Liminal Backrooms, an upcoming co-op horror game set inside the Backrooms.",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 10
+    },
+    {
+      "title": "Texas anti-ICE protesters convicted of terrorism charges sentenced to at least 50 years in prison",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jun/23/prairieland-ice-protesters-texas-sentenced",
+      "published": "2026-06-23T17:01:18+00:00",
+      "summary": "Activists accused of being part of antifa face harsh sentences in case seen as test of Trump’s crackdown on dissent A group of Texas protesters convicted of terrorism charges received unusually harsh sentences of at least 50 years in…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "New York lawmaker says it’s ‘sad’ that a cafe banned him over his pro-Israel views",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jun/23/new-york-lawmaker-cafe-banned-pro-israel-view",
+      "published": "2026-06-23T16:44:53+00:00",
+      "summary": "Poetica Coffee in Brooklyn now faces DoJ investigation after sharing post criticizing Democrat Dan Goldman New York Democratic Congressman Dan Goldman has said it is “sad” that a Brooklyn coffee shop banned him over his views on Israel – a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Final Fantasy 7 Rebirth's subtle queer characters were all about presenting people \"inhabiting this world in an authentic manner\"",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/final-fantasy-7-rebirths-subtle-queer-characters-were-all-about-presenting-people-inhabiting-this-world-in-an-authentic-manner",
+      "published": "2026-06-23T16:34:07+00:00",
+      "summary": "I do sometimes shudder at the thought of how big Final Fantasy 7 Rebirth actually is, especially as someone who made a beeline for the main story on my playthrough for the most part.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "What Today’s College Students Need That Previous Generations Didn’t",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/what-todays-college-students-need-that-previous-generations-didnt/",
+      "published": "2026-06-23T16:30:00+00:00",
+      "summary": "For high school graduates about to head off to college the news is alarming: The degree they’re about to pursue might not land them the job they want.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
     {
       "title": "\"This crisis was avoidable, but our bosses chose to drive blindly towards disaster\": French videogame union STJV call for national industry strike day",
       "source": "Rock Paper Shotgun",
@@ -17,114 +77,54 @@
       "score": 10
     },
     {
-      "title": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/23/hantavirus-quarantine-ends-nebraska",
-      "published": "2026-06-23T13:34:29+00:00",
-      "summary": "The US health department said the enforced 42-day quarantine was necessary to protect the public Eight Americans quarantined for six weeks in Nebraska after they were exposed to a deadly hantavirus outbreak were released on Monday,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Middle East crisis live: Trump claims Iran has agreed to nuclear inspections ‘long into future’, accusing Tehran of ‘false statements’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/jun/23/iran-us-israel-lebanon-un-peace-deal-nuclear-iaea-frozen-assets-strait-of-hormuz-latest-news-updates",
-      "published": "2026-06-23T13:33:46+00:00",
-      "summary": "US president says Tehran has committed to ‘nuclear honesty’, while Iran’s foreign ministry says there are no plans for IAEA to inspect sites bombed by US and Israel last year Oman and Iran said in a statement that the two countries will…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "You’re only supposed to blow the bloody hooves off: AI Michael Caine narrates Odyssey audiobook",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/jun/23/youre-only-supposed-to-blow-the-bloody-hooves-off-ai-michael-caine-narrates-odyssey-audiobook",
-      "published": "2026-06-23T13:02:47+00:00",
-      "summary": "AI company ElevenLabs unveils its officially licensed replica of the iconic actor’s voice in a retelling of Homer’s epic poem, while director who previously recorded the star recalls real-life experience Next month, Christopher Nolan’s…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "New Trump book’s authors detail how they pried loose White House secrets: ‘We nearly killed ourselves’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/23/new-trump-book-regime-change",
-      "published": "2026-06-23T13:00:28+00:00",
-      "summary": "Maggie Haberman and Jonathan Swan, the reporters behind Regime Change, were up against an administration that is ‘very good at keeping secrets’ They cracked the White House situation room, unearthing secrets from the heart of a secretive…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The seven best anti-Prime Day deals we can find in the UK and US — no Amazon required",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/the-seven-best-anti-prime-day-deals-we-can-find-in-the-uk-and-us-no-amazon-required",
-      "published": "2026-06-23T13:00:00+00:00",
-      "summary": "Well, the big Prime Day deals bonanza has finally arrived, and we aren't going with it.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "AI in the classroom prompts tide of concern from US parents and experts",
+      "title": "Marco Rubio to meet Gulf allies amid division over US-Iran ceasefire deal",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/education/2026/jun/23/ai-us-schools-students",
-      "published": "2026-06-23T12:00:27+00:00",
-      "summary": "While tech companies and Trump have been pushing teachers to use AI in the classroom, many argue that there is little evidence that it would actually help children In October, Kelly Clancy’s son received an assignment in sixth grade at a…",
+      "url": "https://www.theguardian.com/world/2026/jun/23/marco-rubio-gulf-allies-us-iran-ceasefire-deal",
+      "published": "2026-06-23T13:07:02+00:00",
+      "summary": "US secretary of state to reassure UAE, Kuwait and Bahrain that his country remains committed to their security Middle East crisis live – latest updates US secretary of state Marco Rubio has said that no country – including Iran – would be…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Exclusive: Summer Program Boosts Learning for Tens of Thousands of Charter Kids",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/exclusive-summer-program-boosts-learning-for-tens-of-thousands-of-charter-kids/",
-      "published": "2026-06-23T10:30:00+00:00",
-      "summary": "BIRMINGHAM, Ala. — When Reneta Johnson, head of a small charter network here, asked students how they wanted to spend this summer, they said they like to make TikTok videos. That gave her an idea.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "New Accolades Trailer Coincides With Switch 2 Launch for ‘The Drifter’ [Watch]",
-      "source": "Bloody Disgusting",
-      "category": "Sci-fi / horror",
-      "url": "https://bloody-disgusting.com/video-games/3957028/new-accolades-trailer-coincides-with-switch-2-launch-for-the-drifter-watch/",
-      "published": "2026-06-23T13:30:22+00:00",
-      "summary": "With Powerhoof’s pulp adventure thriller The Drifter out now on the Nintendo Switch and Switch 2, the developer decided to drop a new accolades trailer to drive home just what fans on Steam have been enjoying for the past year.",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 9
-    },
-    {
-      "title": "The Download: the future of chipmaking and Anthropic’s government clash",
-      "source": "MIT Technology Review",
+      "title": "The best robot vacuum deals available during Prime Day",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
-      "published": "2026-06-23T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+      "published": "2026-06-23T17:42:13+00:00",
+      "summary": "If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "Why Some California Schools Get Three Times More Funding Than Others",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/why-some-california-schools-get-three-times-more-funding-than-others/",
-      "published": "2026-06-22T14:30:00+00:00",
-      "summary": "This story was originally published by CalMatters. Sign up for their newsletters. At Pinedale Elementary in Fresno, there’s almost no classroom aides, after-school tutors or behavioral counselors.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "'We Will Fight to Our Very Last Breath:' Township Leaders Vow to Fight Nuclear AI Data Center",
+      "title": "Wikipedia Cofounder Larry Sanger Banned From Site for ‘Canvassing’",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/we-will-fight-to-our-very-last-breath-township-leaders-vow-to-fight-nuclear-ai-data-center/",
-      "published": "2026-06-22T15:24:09+00:00",
-      "summary": "Michigan Governor Gretchen Whitmer and a proposed nuclear weapons AI data center in Michigan have earned the ire of community leaders.",
+      "url": "https://www.404media.co/wikipedia-cofounder-larry-sanger-banned-from-site-for-canvassaing/",
+      "published": "2026-06-23T15:36:31+00:00",
+      "summary": "“All he has done is try to start a right-wing/conservative pressure group within Wikipedia.”",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
+    },
+    {
+      "title": "Introducing the biggest new thing in sourdough baking : The Sourdough Sidekick is here!",
+      "source": "King Arthur Baking",
+      "category": "Bread / food craft",
+      "url": "https://cmsprod.kingarthurbaking.com/blog/2026/06/23/automatic-sourdough-feeder",
+      "published": "2026-06-23T14:00:00+00:00",
+      "summary": "I work from home, and I still find it challenging to feed my sourdough starter regularly. The post Introducing the biggest new thing in sourdough baking : The Sourdough Sidekick is here! appeared first on the King Arthur Blog .",
+      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
+      "score": 8
+    },
+    {
+      "title": "How Birth Order Determines Your Life",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/how-birth-order-determines-your-life/",
+      "published": "2026-06-23T14:37:37+00:00",
+      "summary": "How Birth Order Determines Your Life",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 7
     },
     {
       "title": "Trouble getting weight loss drugs covered by insurance? Here's what to know",
@@ -146,8 +146,19 @@
       "published": "2026-06-22T15:53:06+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://arxiv.org/abs/2602.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "U.S. ends HIV/AIDS funding for South Africa",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=WGNiNVk0KJ4",
+      "published": "2026-06-23T16:15:29+00:00",
+      "summary": "The State Department has confirmed that it plans to phase out by March HIV/AIDS funding to South Africa, where roughly 8 million people are living with the virus.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "We break down what has happened between the United States and Iran and where it leaves the region",
@@ -205,15 +216,37 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Starter homes in a record number of U.S. cities now cost $1 million or more",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=mystVZ-WqLA",
-      "published": "2026-06-21T13:00:36+00:00",
-      "summary": "New data shows that starter homes in a record number of cities now cost $1 million or more.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "Switch 2's Next Wave Of Third Party Games: Stellar Blade + More",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=7YNTEfJvy5Q",
+      "published": "2026-06-23T17:00:28+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "New GTA 6 Footage And The Case Of The Missing Ferris Wheel Reflection",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=U1fXpySVM84",
+      "published": "2026-06-23T16:00:39+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Steam Machine vs PlayStation 5 Performance Analysis",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=AfM4x4Bs2lA",
+      "published": "2026-06-23T14:00:28+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/WhWtLi_FqLo ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "ARM's DLSS-Like Mobile Tech Explained",
@@ -223,8 +256,8 @@
       "published": "2026-06-22T16:00:11+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Switch 2 Replaceable Battery EU Edition Confirmed",
@@ -234,8 +267,8 @@
       "published": "2026-06-22T15:00:24+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "FSR 1's Fifth Anniversary: And How Far We've Come",
@@ -271,37 +304,26 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "Is Xbox Project Helix The Next 3DO?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=DInQ_JczClo",
-      "published": "2026-06-20T17:00:18+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "Nick & Jenna Play the Sands of Time Trilogy for the First Time | Part 3",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=__cqMz7TbfI",
+      "published": "2026-06-23T16:18:49+00:00",
+      "summary": "The community funded Nick playing the Sands of Time trilogy on stream for the first time. Join Nick and Jenna as they start the series today! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
-      "title": "Somehow The RTX 3060 Has Returned",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=9wzmdIstKoc",
-      "published": "2026-06-20T16:00:24+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Switch 2 - Year One - The Digital Foundry Verdict",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=9qy5FDO-sp4",
-      "published": "2026-06-20T15:00:13+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/aySCTfjCgMQ ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "Every Single Video Game Is Afraid of GTA 6",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=UnMdxhvE_uM",
+      "published": "2026-06-23T15:00:17+00:00",
+      "summary": "Marty's latest video essay digs into the fact that now that Summer Game Fest is over and the fall video game release schedule is set, one thing is clear -- every single video game publisher and developer is afraid of Grand Theft Auto 6 and…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "The Adventures of Elliot Is an HD-2D Take on the Zelda Formula | Hot Monday Energy",
@@ -346,17 +368,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Jack and Marty's Breath of the Wild Lockout Bingo Super Cut",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=XwTpi2IX32k",
-      "published": "2026-06-20T16:00:37+00:00",
-      "summary": "Jack and Marty race to see whose the better Breath of the Wild player in this special lockout bingo event we held a couple months ago. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     }
   ],
   "trailers": [
@@ -488,6 +499,17 @@
       "url": "https://www.youtube.com/watch?v=nelkiuezJxg",
       "published": "2026-06-04T13:00:30+00:00",
       "summary": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Sheep in the Box - Official Trailer - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=j5mlc8TAPNw",
+      "published": "2026-06-23T16:08:02+00:00",
+      "summary": "In the near future, Otone and Kensuke, a grieving couple who have lost their son, take into their lives a humanoid identical to their late child.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 8,
       "verdict": "Looks promising"
@@ -636,17 +658,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Check out a sneak peek at AVATAR: THE LAST AIRBENDER Season 2, premiering June 25!",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=hk-byPC1lsI",
-      "published": "2026-06-17T12:00:36+00:00",
-      "summary": "Aang, meet Azula. Azula, meet the Avatar. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "Badging in. Production for Season 3 of #ThePitt has begun.",
       "source": "HBO Max",
       "category": "TV / trailer",
@@ -769,8 +780,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 20,
+    "youtubeCount": 21,
     "trailerCount": 27,
-    "sourceCount": 19
+    "sourceCount": 20
   }
 }

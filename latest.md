@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-23T14:00:02.244494Z
+Generated: 2026-06-23T18:00:38.835360Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are "This crisis was avoidable, but our bosses chose to drive blindly towards disaster": French videogame union STJV call for national industry strike day, Hantavirus quarantine ends for Americans held for six weeks in Nebraska, and Middle East crisis live: Trump claims Iran has agreed to nuclear inspections ‘long into future’, accusing Tehran of ‘false statements’.
+Today's sweep leans toward Democracy / press freedom, Sci-fi / horror, CS education / AI policy. The strongest items in this run are Netflix Brings Play-on-Tv Thriller ‘Unhinged’ to the Service June 30 [Trailer], Trailer for ‘Liminal Backrooms’ Focuses on Core Co-Op Gameplay Experience [Watch], and Texas anti-ICE protesters convicted of terrorism charges sentenced to at least 50 years in prison.
 
 ## Briefing
 
@@ -33,7 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. "This crisis was avoidable, but our bosses chose to drive blindly towards disaster": French videogame union STJV call for national industry strike day [10/10]
+### 1. Netflix Brings Play-on-Tv Thriller ‘Unhinged’ to the Service June 30 [Trailer] [10/10]
+**Source:** Bloody Disgusting  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Netflix continues to venture into video games, announcing Unhinged, an immersive horror game that will launch on the streaming service on June 30.
+
+Link: https://bloody-disgusting.com/video-games/3957121/netflix-brings-play-on-tv-thriller-unhinged-to-the-service-june-30-trailer/
+
+### 2. Trailer for ‘Liminal Backrooms’ Focuses on Core Co-Op Gameplay Experience [Watch] [10/10]
+**Source:** Bloody Disgusting  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Want more Backrooms content? The Unknown is offering just that with Liminal Backrooms, an upcoming co-op horror game set inside the Backrooms.
+
+Link: https://bloody-disgusting.com/video-games/3957036/trailer-for-liminal-backrooms-focuses-on-core-co-op-gameplay-experience-watch/
+
+### 3. Texas anti-ICE protesters convicted of terrorism charges sentenced to at least 50 years in prison [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Activists accused of being part of antifa face harsh sentences in case seen as test of Trump’s crackdown on dissent A group of Texas protesters convicted of terrorism charges received unusually harsh sentences of at least 50 years in…
+
+Link: https://www.theguardian.com/us-news/2026/jun/23/prairieland-ice-protesters-texas-sentenced
+
+### 4. New York lawmaker says it’s ‘sad’ that a cafe banned him over his pro-Israel views [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Poetica Coffee in Brooklyn now faces DoJ investigation after sharing post criticizing Democrat Dan Goldman New York Democratic Congressman Dan Goldman has said it is “sad” that a Brooklyn coffee shop banned him over his views on Israel – a…
+
+Link: https://www.theguardian.com/us-news/2026/jun/23/new-york-lawmaker-cafe-banned-pro-israel-view
+
+### 5. Final Fantasy 7 Rebirth's subtle queer characters were all about presenting people "inhabiting this world in an authentic manner" [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+I do sometimes shudder at the thought of how big Final Fantasy 7 Rebirth actually is, especially as someone who made a beeline for the main story on my playthrough for the most part.
+
+Link: https://www.rockpapershotgun.com/final-fantasy-7-rebirths-subtle-queer-characters-were-all-about-presenting-people-inhabiting-this-world-in-an-authentic-manner
+
+### 6. What Today’s College Students Need That Previous Generations Didn’t [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+For high school graduates about to head off to college the news is alarming: The degree they’re about to pursue might not land them the job they want.
+
+Link: https://www.the74million.org/article/what-todays-college-students-need-that-previous-generations-didnt/
+
+### 7. "This crisis was avoidable, but our bosses chose to drive blindly towards disaster": French videogame union STJV call for national industry strike day [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -42,104 +96,50 @@ The French Syndicat des Travailleureuses du Jeu Vidéo (STJV) union have called 
 
 Link: https://www.rockpapershotgun.com/this-crisis-was-avoidable-but-our-bosses-chose-to-drive-blindly-towards-disaster-french-videogame-union-stjv-call-for-national-industry-strike-day
 
-### 2. Hantavirus quarantine ends for Americans held for six weeks in Nebraska [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The US health department said the enforced 42-day quarantine was necessary to protect the public Eight Americans quarantined for six weeks in Nebraska after they were exposed to a deadly hantavirus outbreak were released on Monday,…
-
-Link: https://www.theguardian.com/us-news/2026/jun/23/hantavirus-quarantine-ends-nebraska
-
-### 3. Middle East crisis live: Trump claims Iran has agreed to nuclear inspections ‘long into future’, accusing Tehran of ‘false statements’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-US president says Tehran has committed to ‘nuclear honesty’, while Iran’s foreign ministry says there are no plans for IAEA to inspect sites bombed by US and Israel last year Oman and Iran said in a statement that the two countries will…
-
-Link: https://www.theguardian.com/world/live/2026/jun/23/iran-us-israel-lebanon-un-peace-deal-nuclear-iaea-frozen-assets-strait-of-hormuz-latest-news-updates
-
-### 4. You’re only supposed to blow the bloody hooves off: AI Michael Caine narrates Odyssey audiobook [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-AI company ElevenLabs unveils its officially licensed replica of the iconic actor’s voice in a retelling of Homer’s epic poem, while director who previously recorded the star recalls real-life experience Next month, Christopher Nolan’s…
-
-Link: https://www.theguardian.com/film/2026/jun/23/youre-only-supposed-to-blow-the-bloody-hooves-off-ai-michael-caine-narrates-odyssey-audiobook
-
-### 5. New Trump book’s authors detail how they pried loose White House secrets: ‘We nearly killed ourselves’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Maggie Haberman and Jonathan Swan, the reporters behind Regime Change, were up against an administration that is ‘very good at keeping secrets’ They cracked the White House situation room, unearthing secrets from the heart of a secretive…
-
-Link: https://www.theguardian.com/us-news/2026/jun/23/new-trump-book-regime-change
-
-### 6. The seven best anti-Prime Day deals we can find in the UK and US — no Amazon required [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Well, the big Prime Day deals bonanza has finally arrived, and we aren't going with it.
-
-Link: https://www.rockpapershotgun.com/the-seven-best-anti-prime-day-deals-we-can-find-in-the-uk-and-us-no-amazon-required
-
-### 7. AI in the classroom prompts tide of concern from US parents and experts [10/10]
+### 8. Marco Rubio to meet Gulf allies amid division over US-Iran ceasefire deal [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-While tech companies and Trump have been pushing teachers to use AI in the classroom, many argue that there is little evidence that it would actually help children In October, Kelly Clancy’s son received an assignment in sixth grade at a…
+US secretary of state to reassure UAE, Kuwait and Bahrain that his country remains committed to their security Middle East crisis live – latest updates US secretary of state Marco Rubio has said that no country – including Iran – would be…
 
-Link: https://www.theguardian.com/education/2026/jun/23/ai-us-schools-students
+Link: https://www.theguardian.com/world/2026/jun/23/marco-rubio-gulf-allies-us-iran-ceasefire-deal
 
-### 8. Exclusive: Summer Program Boosts Learning for Tens of Thousands of Charter Kids [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-BIRMINGHAM, Ala. — When Reneta Johnson, head of a small charter network here, asked students how they wanted to spend this summer, they said they like to make TikTok videos. That gave her an idea.
-
-Link: https://www.the74million.org/article/exclusive-summer-program-boosts-learning-for-tens-of-thousands-of-charter-kids/
-
-### 9. New Accolades Trailer Coincides With Switch 2 Launch for ‘The Drifter’ [Watch] [9/10]
-**Source:** Bloody Disgusting  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-With Powerhoof’s pulp adventure thriller The Drifter out now on the Nintendo Switch and Switch 2, the developer decided to drop a new accolades trailer to drive home just what fans on Steam have been enjoying for the past year.
-
-Link: https://bloody-disgusting.com/video-games/3957028/new-accolades-trailer-coincides-with-switch-2-launch-for-the-drifter-watch/
-
-### 10. The Download: the future of chipmaking and Anthropic’s government clash [9/10]
-**Source:** MIT Technology Review  
+### 9. The best robot vacuum deals available during Prime Day [9/10]
+**Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking.
 
-Link: https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/
+Link: https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026
 
-### 11. Why Some California Schools Get Three Times More Funding Than Others [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-This story was originally published by CalMatters. Sign up for their newsletters. At Pinedale Elementary in Fresno, there’s almost no classroom aides, after-school tutors or behavioral counselors.
-
-Link: https://www.the74million.org/article/why-some-california-schools-get-three-times-more-funding-than-others/
-
-### 12. 'We Will Fight to Our Very Last Breath:' Township Leaders Vow to Fight Nuclear AI Data Center [8/10]
+### 10. Wikipedia Cofounder Larry Sanger Banned From Site for ‘Canvassing’ [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-Michigan Governor Gretchen Whitmer and a proposed nuclear weapons AI data center in Michigan have earned the ire of community leaders.
+“All he has done is try to start a right-wing/conservative pressure group within Wikipedia.”
 
-Link: https://www.404media.co/we-will-fight-to-our-very-last-breath-township-leaders-vow-to-fight-nuclear-ai-data-center/
+Link: https://www.404media.co/wikipedia-cofounder-larry-sanger-banned-from-site-for-canvassaing/
+
+### 11. Introducing the biggest new thing in sourdough baking : The Sourdough Sidekick is here! [8/10]
+**Source:** King Arthur Baking  
+**Category:** Bread / food craft  
+**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
+
+I work from home, and I still find it challenging to feed my sourdough starter regularly. The post Introducing the biggest new thing in sourdough baking : The Sourdough Sidekick is here! appeared first on the King Arthur Blog .
+
+Link: https://cmsprod.kingarthurbaking.com/blog/2026/06/23/automatic-sourdough-feeder
+
+### 12. How Birth Order Determines Your Life [7/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+How Birth Order Determines Your Life
+
+Link: https://www.the74million.org/article/how-birth-order-determines-your-life/
 
 ### 13. Trouble getting weight loss drugs covered by insurance? Here's what to know [7/10]
 **Source:** NPR Health  
@@ -152,14 +152,23 @@ Link: https://www.npr.org/2026/06/23/nx-s1-5793971/weight-loss-glp1-insurance-co
 
 ## YouTube
 
-### DeepSeek Just Solved AI's Billion Dollar Problem [8/10]
+### DeepSeek Just Solved AI's Billion Dollar Problem [7/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://arxiv.org/abs/2602.
 
 Link: https://www.youtube.com/watch?v=mG4SmhWyeFA
+
+### U.S. ends HIV/AIDS funding for South Africa [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+The State Department has confirmed that it plans to phase out by March HIV/AIDS funding to South Africa, where roughly 8 million people are living with the virus.
+
+Link: https://www.youtube.com/watch?v=WGNiNVk0KJ4
 
 ### We break down what has happened between the United States and Iran and where it leaves the region [7/10]
 **Creator:** NPR  
@@ -206,27 +215,45 @@ Are you planning to meet aliens soon? NPR's Scott Simon, the host of NPR's Weeke
 
 Link: https://www.youtube.com/watch?v=viYunAdLBck
 
-### Starter homes in a record number of U.S. cities now cost $1 million or more [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-New data shows that starter homes in a record number of cities now cost $1 million or more.
-
-Link: https://www.youtube.com/watch?v=mystVZ-WqLA
-
-### ARM's DLSS-Like Mobile Tech Explained [8/10]
+### Switch 2's Next Wave Of Third Party Games: Stellar Blade + More [9/10]
 **Creator:** Digital Foundry  
-**Verdict:** Worth watching  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=7YNTEfJvy5Q
+
+### New GTA 6 Footage And The Case Of The Missing Ferris Wheel Reflection [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=U1fXpySVM84
+
+### Steam Machine vs PlayStation 5 Performance Analysis [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/WhWtLi_FqLo ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=AfM4x4Bs2lA
+
+### ARM's DLSS-Like Mobile Tech Explained [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=HX4-_WWeH_Y
 
-### Switch 2 Replaceable Battery EU Edition Confirmed [7/10]
+### Switch 2 Replaceable Battery EU Edition Confirmed [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -260,32 +287,23 @@ Link: https://www.youtube.com/watch?v=esQefa_nPY0
 
 Link: https://www.youtube.com/watch?v=4_HKsLDifMw
 
-### Is Xbox Project Helix The Next 3DO? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### Nick & Jenna Play the Sands of Time Trilogy for the First Time | Part 3 [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+The community funded Nick playing the Sands of Time trilogy on stream for the first time. Join Nick and Jenna as they start the series today! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.
 
-Link: https://www.youtube.com/watch?v=DInQ_JczClo
+Link: https://www.youtube.com/watch?v=__cqMz7TbfI
 
-### Somehow The RTX 3060 Has Returned [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### Every Single Video Game Is Afraid of GTA 6 [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+Marty's latest video essay digs into the fact that now that Summer Game Fest is over and the fall video game release schedule is set, one thing is clear -- every single video game publisher and developer is afraid of Grand Theft Auto 6 and…
 
-Link: https://www.youtube.com/watch?v=9wzmdIstKoc
-
-### Switch 2 - Year One - The Digital Foundry Verdict [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/aySCTfjCgMQ ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=9qy5FDO-sp4
+Link: https://www.youtube.com/watch?v=UnMdxhvE_uM
 
 ### The Adventures of Elliot Is an HD-2D Take on the Zelda Formula | Hot Monday Energy [6/10]
 **Creator:** Second Wind  
@@ -322,15 +340,6 @@ Link: https://www.youtube.com/watch?v=d6YpdcwKBd4
 Jesse Galena breaks down some helpful "do's" and "don'ts" when it comes to showing off your game at a convention like PAX. Demos Jesse mentioned and liked in this video -- Fright Train: https://store.steampowered.
 
 Link: https://www.youtube.com/watch?v=kImlJJpFqSs
-
-### Jack and Marty's Breath of the Wild Lockout Bingo Super Cut [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Jack and Marty race to see whose the better Breath of the Wild player in this special lockout bingo event we held a couple months ago. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.
-
-Link: https://www.youtube.com/watch?v=XwTpi2IX32k
 
 ## Entertainment Recommendations
 
@@ -469,6 +478,15 @@ From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz
 
 Link: https://www.youtube.com/watch?v=nelkiuezJxg
 
+### Sheep in the Box - Official Trailer - In Theaters July 24 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In the near future, Otone and Kensuke, a grieving couple who have lost their son, take into their lives a humanoid identical to their late child.
+
+Link: https://www.youtube.com/watch?v=j5mlc8TAPNw
+
 ### Once Upon a Time in Harlem - Official Teaser Trailer - In Select Theaters October 16 [7/10]
 **Source:** NEON  
 **Verdict:** Worth a glance  
@@ -585,15 +603,6 @@ Link: https://www.youtube.com/watch?v=5YvzStBaays
 A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders—can they unravel its dark secrets? The East Palace is coming July 17, only on Netflix #Netflix #TheEastPalace #동궁 Watch on…
 
 Link: https://www.youtube.com/watch?v=-0E39zVbEZc
-
-### Check out a sneak peek at AVATAR: THE LAST AIRBENDER Season 2, premiering June 25! [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Aang, meet Azula. Azula, meet the Avatar. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=hk-byPC1lsI
 
 ### Badging in. Production for Season 3 of #ThePitt has begun. [6/10]
 **Source:** HBO Max  
