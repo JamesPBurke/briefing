@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-22T18:01:57.607674Z
+Generated: 2026-06-23T05:00:01.938062Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Federal judge blocks Trump administration efforts to subpoena Minnesota governor Tim Walz and others – live, The Steam Machine is the start of an even more expensive future for game consoles, and Valve prices the Steam Machine at $1,049.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are ‘Nightmare’ shooting in Montreal leaves three dead including police officer and bystander, Andy Burnham prepares for power as emotional Keir Starmer bows out, and "It's too dangerous for us to speculate": Valve don't know if Steam Machine prices will drop in the future, after admitting that "some people are going to priced out".
 
 ## Briefing
 
@@ -33,61 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Federal judge blocks Trump administration efforts to subpoena Minnesota governor Tim Walz and others – live [10/10]
+### 1. ‘Nightmare’ shooting in Montreal leaves three dead including police officer and bystander [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Videos showed suspect armed with a long gun shooting at police in Côte-des-Neiges neighbourhood A suspect armed with a long gun opened fire on Monday at a Montreal hotel, killing a police officer before officers returned fire, killing him,…
+
+Link: https://www.theguardian.com/world/2026/jun/23/canada-montreal-shooting-gunman-three-killed-suspect-police-cote-des-neiges
+
+### 2. Andy Burnham prepares for power as emotional Keir Starmer bows out [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+New Makerfield MP could get keys to No 10 unopposed after British prime minister’s resignation paves way for successor Who is Andy Burnham, the ‘man of the people’ likely to be next UK prime minister? Keir Starmer has finally bowed to…
+
+Link: https://www.theguardian.com/politics/2026/jun/22/burnham-prepares-power-emotional-starmer-uk-prime-minister-resignation
+
+### 3. "It's too dangerous for us to speculate": Valve don't know if Steam Machine prices will drop in the future, after admitting that "some people are going to priced out" [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Well, that answers that .
+
+Link: https://www.rockpapershotgun.com/steam-machine-price-valve-interview
+
+### 4. Judge dismisses Trump administration lawsuit over LA sanctuary city policy [9/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+City hails victory after US officials sued over ordinance that limits LA’s cooperation with immigration authorities A California court has dismissed a lawsuit filed ⁠by Donald Trump’s administration against Los Angeles over a city…
+
+Link: https://www.theguardian.com/us-news/2026/jun/22/judge-trump-lawsuit-los-angeles-sanctuary-city
+
+### 5. Nvidia says its AI data center design runs hotter to use a lot less water [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has "eliminated massive…
+
+Link: https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling
+
+### 6. How to start strength training in midlife, according to female trainers 40 and over [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Judge criticized attempts to ‘harass and retaliate against’ Minnesota officials for refusal to aid federal immigration crackdown Sign up for the Breaking News US email California sued the Environmental Protection ⁠Agency ⁠on ​Monday after…
+Experts share a few tools, from dumbbells to resistance bands to cooling towels, to help women get stronger Summer running essentials: nine must-haves to stay cool while training for a half-marathon Sign up for the Filter US newsletter,…
 
-Link: https://www.theguardian.com/us-news/live/2026/jun/22/trump-reflecting-pool-vandalized-lincoln-memorial-iran-us-politics-latest-news-updates
+Link: https://www.theguardian.com/thefilter-us/2026/jun/22/workout-fitness-over-40
 
-### 2. The Steam Machine is the start of an even more expensive future for game consoles [10/10]
+### 7. Here’s how you can reserve a Steam Machine [9/10]
 **Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-It's no secret that just about every aspect of video games is getting more expensive.
+The Steam Machine is here, but getting one is a little complicated. Valve is taking preorders using a reservation system, which is intended to make the process more fair and harder for bots to exploit.
 
-Link: https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix
+Link: https://www.theverge.com/games/952191/valve-steam-machine-reservation-preorder-process
 
-### 3. Valve prices the Steam Machine at $1,049 [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 8. Steam Machine review: A singular living room PC that's more expensive than I'd like, but too special not to love [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-After months of waiting, Valve has finally announced that the Steam Machine, its new living room-friendly PC, will start at $1,049 and go on sale beginning June 29th.
+Have to say, it was more fun when the Steam Deck launched. That was a cool thing, afforded the space and the grace to just be a cool thing.
 
-Link: https://www.theverge.com/news/837022/valve-steam-machine-price-release-date
+Link: https://www.rockpapershotgun.com/steam-machine-review
 
-### 4. Iran agrees to UN nuclear inspectors’ return as part of agreement with US [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Other measures include Washington lifting sanctions on Tehran’s oil exports and reopening the strait of Hormuz Middle East crisis live – latest updates Iran has agreed to allow UN nuclear inspectors back into the country as part of an…
-
-Link: https://www.theguardian.com/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel
-
-### 5. Alberto Carvalho Resigns as LAUSD Superintendent After Four Months on Leave [10/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Superintendent Alberto Carvalho has resigned as leader of the Los Angeles Unified School District, four months after the FBI searched his home and office.
-
-Link: https://www.the74million.org/article/alberto-carvalho-resigns-as-lausd-superintendent-after-four-months-on-leave/
-
-### 6. Unhappy camper: man rescued after falling into toilet at California campsite [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Unidentified man fell into vault toilet at Camp Edison while trying to retrieve sunglasses he dropped, officials say An unhappy camper spent about 15 minutes submerged in sewage in the putrid tank of a California campground’s vault toilet…
-
-Link: https://www.theguardian.com/us-news/2026/jun/22/man-rescued-vault-toilet-california-campsite
-
-### 7. Why Some California Schools Get Three Times More Funding Than Others [10/10]
+### 9. Why Some California Schools Get Three Times More Funding Than Others [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -96,34 +114,7 @@ This story was originally published by CalMatters. Sign up for their newsletters
 
 Link: https://www.the74million.org/article/why-some-california-schools-get-three-times-more-funding-than-others/
 
-### 8. Free-Speech Fraud Bari Weiss Would Rather Deport Than Debate [10/10]
-**Source:** The Nation  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Jeet Heer As anti-war politics gain ground, Weiss's Free Press is pushing to remove Trita Parsi from the US. The post Free-Speech Fraud Bari Weiss Would Rather Deport Than Debate appeared first on The Nation .
-
-Link: https://www.thenation.com/article/society/bari-weiss-trita-parsi-free-press/
-
-### 9. How Anthropic may have talked itself into an AI export ban [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-The company warned about dangers of advanced AI far more than rival OpenAI.
-
-Link: https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/
-
-### 10. Changing the Narrative with IMPACT Fellow Phet Pease [10/10]
-**Source:** CSTA  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Khamphet “Phet” Pease is an award-winning STEM educator and robotics club advisor at Wilson Middle School in the San Diego...
-
-Link: https://csteachers.org/changing-the-narrative-with-impact-fellow-phet-pease/
-
-### 11. Iowa Declared War on Chronic Absenteeism. Now It’s Gaining Some Ground [10/10]
+### 10. Iowa Declared War on Chronic Absenteeism. Now It’s Gaining Some Ground [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -131,6 +122,15 @@ Link: https://csteachers.org/changing-the-narrative-with-impact-fellow-phet-peas
 Davenport, Iowa, superintendent TJ Schneckloth has an easy way of describing the impact of student absenteeism. “Take your favorite book,” he said. “Let me rip one page out and it’s no longer your favorite book.
 
 Link: https://www.the74million.org/article/iowa-declared-war-on-chronic-absenteeism-now-its-gaining-some-ground/
+
+### 11. Jenna Ortega Wants to Be Your Artificial Friend in Klara and the Sun Trailer [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+The movie from Taika Waititi is an adaptation of Kazuo Ishiguro’s book of the same name The post Jenna Ortega Wants to Be Your Artificial Friend in Klara and the Sun Trailer appeared first on Reactor .
+
+Link: https://reactormag.com/jenna-ortega-klara-and-the-sun-trailer/
 
 ### 12. 'We Will Fight to Our Very Last Breath:' Township Leaders Vow to Fight Nuclear AI Data Center [8/10]
 **Source:** 404 Media  
@@ -149,3 +149,45 @@ Link: https://www.404media.co/we-will-fight-to-our-very-last-breath-township-lea
 States that have banned abortion are suing to stop mailing of abortion pills over state lines. But the telehealth providers say no matter the outcome, they can adapt, and so will their patients.
 
 Link: https://www.npr.org/2026/06/22/nx-s1-5863103/medication-abortion-telehealth-post-roe-dobbs
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+### Once Upon a Time in Harlem - Official Teaser Trailer - In Select Theaters October 16 [7/10]
+**Source:** NEON  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem…
+
+Link: https://www.youtube.com/watch?v=zIjmgj5rbOY

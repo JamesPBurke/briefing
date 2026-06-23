@@ -1,70 +1,90 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-22T18:01:57.607674Z",
-  "generatedAtDisplay": "2026-06-22 02:01 PM EDT",
+  "generatedAt": "2026-06-23T05:00:01.938062Z",
+  "generatedAtDisplay": "2026-06-23 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Federal judge blocks Trump administration efforts to subpoena Minnesota governor Tim Walz and others – live, The Steam Machine is the start of an even more expensive future for game consoles, and Valve prices the Steam Machine at $1,049.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are ‘Nightmare’ shooting in Montreal leaves three dead including police officer and bystander, Andy Burnham prepares for power as emotional Keir Starmer bows out, and \"It's too dangerous for us to speculate\": Valve don't know if Steam Machine prices will drop in the future, after admitting that \"some people are going to priced out\".",
   "mainItems": [
     {
-      "title": "Federal judge blocks Trump administration efforts to subpoena Minnesota governor Tim Walz and others – live",
+      "title": "‘Nightmare’ shooting in Montreal leaves three dead including police officer and bystander",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/jun/23/canada-montreal-shooting-gunman-three-killed-suspect-police-cote-des-neiges",
+      "published": "2026-06-23T04:04:34+00:00",
+      "summary": "Videos showed suspect armed with a long gun shooting at police in Côte-des-Neiges neighbourhood A suspect armed with a long gun opened fire on Monday at a Montreal hotel, killing a police officer before officers returned fire, killing him,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Andy Burnham prepares for power as emotional Keir Starmer bows out",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/politics/2026/jun/22/burnham-prepares-power-emotional-starmer-uk-prime-minister-resignation",
+      "published": "2026-06-22T21:14:12+00:00",
+      "summary": "New Makerfield MP could get keys to No 10 unopposed after British prime minister’s resignation paves way for successor Who is Andy Burnham, the ‘man of the people’ likely to be next UK prime minister? Keir Starmer has finally bowed to…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "\"It's too dangerous for us to speculate\": Valve don't know if Steam Machine prices will drop in the future, after admitting that \"some people are going to priced out\"",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/steam-machine-price-valve-interview",
+      "published": "2026-06-22T18:01:51+00:00",
+      "summary": "Well, that answers that .",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Judge dismisses Trump administration lawsuit over LA sanctuary city policy",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/jun/22/judge-trump-lawsuit-los-angeles-sanctuary-city",
+      "published": "2026-06-23T02:10:44+00:00",
+      "summary": "City hails victory after US officials sued over ordinance that limits LA’s cooperation with immigration authorities A California court has dismissed a lawsuit filed ⁠by Donald Trump’s administration against Los Angeles over a city…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
+    },
+    {
+      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+      "published": "2026-06-22T23:24:32+00:00",
+      "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive…",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "How to start strength training in midlife, according to female trainers 40 and over",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/live/2026/jun/22/trump-reflecting-pool-vandalized-lincoln-memorial-iran-us-politics-latest-news-updates",
-      "published": "2026-06-22T17:55:44+00:00",
-      "summary": "Judge criticized attempts to ‘harass and retaliate against’ Minnesota officials for refusal to aid federal immigration crackdown Sign up for the Breaking News US email California sued the Environmental Protection ⁠Agency ⁠on ​Monday after…",
+      "url": "https://www.theguardian.com/thefilter-us/2026/jun/22/workout-fitness-over-40",
+      "published": "2026-06-22T19:15:19+00:00",
+      "summary": "Experts share a few tools, from dumbbells to resistance bands to cooling towels, to help women get stronger Summer running essentials: nine must-haves to stay cool while training for a half-marathon Sign up for the Filter US newsletter,…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "The Steam Machine is the start of an even more expensive future for game consoles",
+      "title": "Here’s how you can reserve a Steam Machine",
       "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix",
-      "published": "2026-06-22T17:40:16+00:00",
-      "summary": "It's no secret that just about every aspect of video games is getting more expensive.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "category": "Security / computing",
+      "url": "https://www.theverge.com/games/952191/valve-steam-machine-reservation-preorder-process",
+      "published": "2026-06-22T17:11:05+00:00",
+      "summary": "The Steam Machine is here, but getting one is a little complicated. Valve is taking preorders using a reservation system, which is intended to make the process more fair and harder for bots to exploit.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 9
     },
     {
-      "title": "Valve prices the Steam Machine at $1,049",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/news/837022/valve-steam-machine-price-release-date",
-      "published": "2026-06-22T17:14:20+00:00",
-      "summary": "After months of waiting, Valve has finally announced that the Steam Machine, its new living room-friendly PC, will start at $1,049 and go on sale beginning June 29th.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Iran agrees to UN nuclear inspectors’ return as part of agreement with US",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel",
-      "published": "2026-06-22T16:42:35+00:00",
-      "summary": "Other measures include Washington lifting sanctions on Tehran’s oil exports and reopening the strait of Hormuz Middle East crisis live – latest updates Iran has agreed to allow UN nuclear inspectors back into the country as part of an…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Alberto Carvalho Resigns as LAUSD Superintendent After Four Months on Leave",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/alberto-carvalho-resigns-as-lausd-superintendent-after-four-months-on-leave/",
-      "published": "2026-06-22T15:24:57+00:00",
-      "summary": "Superintendent Alberto Carvalho has resigned as leader of the Los Angeles Unified School District, four months after the FBI searched his home and office.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Unhappy camper: man rescued after falling into toilet at California campsite",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/22/man-rescued-vault-toilet-california-campsite",
-      "published": "2026-06-22T15:20:47+00:00",
-      "summary": "Unidentified man fell into vault toilet at Camp Edison while trying to retrieve sunglasses he dropped, officials say An unhappy camper spent about 15 minutes submerged in sewage in the putrid tank of a California campground’s vault toilet…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "Steam Machine review: A singular living room PC that's more expensive than I'd like, but too special not to love",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/steam-machine-review",
+      "published": "2026-06-22T17:00:19+00:00",
+      "summary": "Have to say, it was more fun when the Steam Deck launched. That was a cool thing, afforded the space and the grace to just be a cool thing.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "Why Some California Schools Get Three Times More Funding Than Others",
@@ -74,37 +94,7 @@
       "published": "2026-06-22T14:30:00+00:00",
       "summary": "This story was originally published by CalMatters. Sign up for their newsletters. At Pinedale Elementary in Fresno, there’s almost no classroom aides, after-school tutors or behavioral counselors.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Free-Speech Fraud Bari Weiss Would Rather Deport Than Debate",
-      "source": "The Nation",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.thenation.com/article/society/bari-weiss-trita-parsi-free-press/",
-      "published": "2026-06-22T14:12:00+00:00",
-      "summary": "Jeet Heer As anti-war politics gain ground, Weiss's Free Press is pushing to remove Trita Parsi from the US. The post Free-Speech Fraud Bari Weiss Would Rather Deport Than Debate appeared first on The Nation .",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "How Anthropic may have talked itself into an AI export ban",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
-      "published": "2026-06-22T13:45:24+00:00",
-      "summary": "The company warned about dangers of advanced AI far more than rival OpenAI.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Changing the Narrative with IMPACT Fellow Phet Pease",
-      "source": "CSTA",
-      "category": "Education / pedagogy",
-      "url": "https://csteachers.org/changing-the-narrative-with-impact-fellow-phet-pease/",
-      "published": "2026-06-22T11:00:00+00:00",
-      "summary": "Khamphet “Phet” Pease is an award-winning STEM educator and robotics club advisor at Wilson Middle School in the San Diego...",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Iowa Declared War on Chronic Absenteeism. Now It’s Gaining Some Ground",
@@ -114,7 +104,17 @@
       "published": "2026-06-22T10:30:00+00:00",
       "summary": "Davenport, Iowa, superintendent TJ Schneckloth has an easy way of describing the impact of student absenteeism. “Take your favorite book,” he said. “Let me rip one page out and it’s no longer your favorite book.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "score": 9
+    },
+    {
+      "title": "Jenna Ortega Wants to Be Your Artificial Friend in Klara and the Sun Trailer",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/jenna-ortega-klara-and-the-sun-trailer/",
+      "published": "2026-06-22T17:41:12+00:00",
+      "summary": "The movie from Taika Waititi is an adaptation of Kazuo Ishiguro’s book of the same name The post Jenna Ortega Wants to Be Your Artificial Friend in Klara and the Sun Trailer appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     },
     {
       "title": "'We Will Fight to Our Very Last Breath:' Township Leaders Vow to Fight Nuclear AI Data Center",
@@ -138,7 +138,19 @@
     }
   ],
   "youtube": [],
-  "trailers": [],
+  "trailers": [
+    {
+      "title": "Once Upon a Time in Harlem - Official Teaser Trailer - In Select Theaters October 16",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=zIjmgj5rbOY",
+      "published": "2026-06-09T15:05:57+00:00",
+      "summary": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -251,7 +263,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 0,
-    "trailerCount": 0,
+    "trailerCount": 1,
     "sourceCount": 8
   }
 }
