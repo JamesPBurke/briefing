@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-24T09:00:26.600554Z
+Generated: 2026-06-24T14:00:02.330555Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Why are crisis pregnancy centers saying they can 'rule out' ectopic pregnancy?, A moment that changed me: A telegram arrived – and I had to choose between my head and my heart, and Prime Day has some solid deals on Switch 2, PS5, and Xbox games.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Will Marathon's new PvE mode reignite interest around the fizzling game? Community reaction so far seems positive, Europe heatwave live: estimated 94 million people to experience temperatures above 35C today, and Podcast: If AI Is Sentient Then So Is ‘Age of Empires II.
 
 ## Briefing
 
@@ -33,88 +33,115 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Why are crisis pregnancy centers saying they can 'rule out' ectopic pregnancy? [10/10]
-**Source:** NPR Health  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-In at least 100 instances, Crisis Pregnancy Centers claim to be able to rule out ectopic pregnancy, according to a group calling on the New York Attorney General to investigate the practice.
-
-Link: https://www.npr.org/2026/06/24/nx-s1-5860744/why-are-crisis-pregnancy-centers-saying-they-can-rule-out-ectopic-pregnancy
-
-### 2. A moment that changed me: A telegram arrived – and I had to choose between my head and my heart [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Should I follow the man of my dreams to work in a club in Tehran? Or take up a place at an elite university? Thankfully, my dad gave me advice I’ve lived by ever since My parents did not expect me to land a place at university.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/jun/24/moment-changed-me-telegram-arrived-choose-head-heart
-
-### 3. Prime Day has some solid deals on Switch 2, PS5, and Xbox games [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-There are some some sizable discounts on new and recent hits from the last few years for the Nintendo Switch 2, PlayStation 5, and the Xbox Series X / S for Prime Day.
-
-Link: https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale
-
-### 4. Sharing a love for calculus [10/10]
-**Source:** MIT Technology Review  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.
-
-Link: https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/
-
-### 5. The best robot vacuum deals available during Prime Day [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking.
-
-Link: https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026
-
-### 6. England given reality check by stubborn Ghana to leave group in the balance [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-It was a talking point beforehand in the England dressing room, Harry Kane bringing it up; a message with it, too. At each of the previous three tournaments, the team had spluttered in game two.
-
-Link: https://www.theguardian.com/football/2026/jun/23/england-ghana-world-cup-group-l-match-report
-
-### 7. Marathon's mid-season 2 update brings in an experimental PvE mode that will let solo and duo runners take on Cryo Archive [9/10]
-**Source:** Rock Paper Shotgun  
+### 1. Will Marathon's new PvE mode reignite interest around the fizzling game? Community reaction so far seems positive [10/10]
+**Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-I have something to admit to you all. I'm not very good at Marathon . I like when the guns go pew pew, I like the weird sci-fi vibes, but the second I run into another person I'll be lucky if I make it out with all of my limbs intact.
+Bungie has revealed details of its upcoming Marathon PvE mode, which will allow players to explore the endgame Cryo Archive Map without the threat of other players. They'll instead face computer-controlled enemies.
 
-Link: https://www.rockpapershotgun.com/marathons-mid-season-2-update-brings-in-an-experimental-pve-mode-that-will-let-solo-and-duo-runners-take-on-cryo-archive
+Link: https://www.eurogamer.net/marathon-pve-mode-community-reaction
 
-### 8. Opinion: Lessons from Charters Where Every Student Graduates, Most of Them With a Plan [9/10]
+### 2. Europe heatwave live: estimated 94 million people to experience temperatures above 35C today [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+UK issues rare red heat alert as 68,000 households lose electricity in northern France and Italy puts warnings in place for 16 cities Tell us: how is the heatwave in the UK and across Europe affecting you? Grahame Madge, a Met Office…
+
+Link: https://www.theguardian.com/world/live/2026/jun/24/europe-heatwave-live-news-updates-uk-record-breaking-temperatures-italy-red-alert
+
+### 3. Podcast: If AI Is Sentient Then So Is ‘Age of Empires II [10/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+A surreal but compelling LLM experiment with Age of Empires II; how a Texas city sold land meant for a park to a data center company; and the Madison Square Garden hack.
+
+Link: https://www.404media.co/podcast-if-ai-is-sentient-then-so-is-age-of-empires-ii/
+
+### 4. I drove the Slate Truck — there’s more to it than EV minimalism [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+With its new pickup, Slate Auto is making a simple bet: price matters more than almost anything else.
+
+Link: https://www.theverge.com/transportation/955454/slate-truck-ev-price-drive-specs-minimalism
+
+### 5. Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles.
+
+Link: https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/
+
+### 6. The emergence of the web data infrastructure layer for AI [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale.
+
+Link: https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/
+
+### 7. Meta pauses employee tracker for AI training amid privacy concerns [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+About 1,600 workers signed petition against tool that tracked staff keystrokes, mouse clicks and computer screen content Mark Zuckerberg’s Meta has paused a program that tracked employees’ computer activity amid data privacy concerns and a…
+
+Link: https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns
+
+### 8. "We have to have free human expression in some capacity": Patreon CEO shares frustrations about getting adult content past payment processors [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Patreon CEO Jack Conte has shared his views on the difficulties of working with payment processors and networks such as Stripe and Mastercard, who have the power to enforce their ideas about 'adult content' on stores and platforms by…
+
+Link: https://www.rockpapershotgun.com/we-have-to-have-free-human-expression-in-some-capacity-patreon-ceo-shares-frustrations-about-getting-adult-content-past-payment-processors
+
+### 9. Florida District’s Goal: Reading Proficiency for 90% of 3rd Graders [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Last year, Indian River County tied for the highest scores in third grade reading across all Florida districts.
+
+Link: https://www.the74million.org/article/florida-districts-goal-reading-proficiency-for-90-of-3rd-graders/
+
+### 10. Opinion: Connecticut Charters Break Through in Historic Legislative Session [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-At the Charter School Growth Fund, graduation is our favorite time of year. It is when schools shine. We are reminded of what is possible when students, teachers and school leaders have excellence as their north star.
+Connecticut has long had among the most burdensome charter approval processes in the country, requiring both State Board of Education authorization and a separate legislative appropriation just to open a school.
 
-Link: https://www.the74million.org/article/lessons-from-charters-where-every-student-graduates-most-of-them-with-a-plan/
+Link: https://www.the74million.org/article/connecticut-charters-break-through-in-historic-legislative-session/
 
-### 9. Is AI 'one big bubble'? Behind the tech sell-off [8/10]
+### 11. Star Fox Review: Can't quite teach an old Fox new tricks [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Investors are selling off AI-related stocks as doubts are starting to surface over whether the massive spending on AI is worth the investment and whether it's "one big bubble."
+The Switch 2 Star Fox remake comes with high-effort visuals and a fun battle mode, but its campaign feels stuck in the past.
 
-Link: https://www.npr.org/2026/06/23/nx-s1-5867633/ai-selloff-tech-stocks-bubble-nasdaq
+Link: https://www.npr.org/2026/06/24/nx-s1-5868629/star-fox-remake-review-switch-2
 
-### 10. You Won’t Forget the Latest Forgotten Island Trailer [8/10]
+### 12. Inside the gold-mining town where the Ebola outbreak likely started [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+NPR reports from Mongbwalu in the Democratic Republic of Congo. The fight to contain the virus faces obstacles from lack of supplies to residents who doubt that the virus is real.
+
+Link: https://www.npr.org/2026/06/24/nx-s1-5863157/ebola-outbreak-democratic-republic-congo-health-crisis
+
+### 13. You Won’t Forget the Latest Forgotten Island Trailer [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -122,33 +149,6 @@ Link: https://www.npr.org/2026/06/23/nx-s1-5867633/ai-selloff-tech-stocks-bubble
 You might even be reminded of Dunkaroos once you meet Raww. The post You Won’t Forget the Latest Forgotten Island Trailer appeared first on Reactor .
 
 Link: https://reactormag.com/forgotten-island-trailer-2/
-
-### 11. Introducing the biggest new thing in sourdough baking : The Sourdough Sidekick is here! [8/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-I work from home, and I still find it challenging to feed my sourdough starter regularly. The post Introducing the biggest new thing in sourdough baking : The Sourdough Sidekick is here! appeared first on the King Arthur Blog .
-
-Link: https://www.kingarthurbaking.com/blog/2026/06/23/automatic-sourdough-feeder
-
-### 12. How to protect yourself from ticks [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-It's tick season, but how do you avoid the little arachnids? NPR asks two experts in tick bites and behavior.
-
-Link: https://www.npr.org/2026/06/24/nx-s1-5836468/how-to-protect-yourself-from-ticks
-
-### 13. Wikipedia Cofounder Larry Sanger Banned From Site for ‘Canvassing’ [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-“All he has done is try to start a right-wing/conservative pressure group within Wikipedia.”
-
-Link: https://www.404media.co/wikipedia-cofounder-larry-sanger-banned-from-site-for-canvassaing/
 
 ## YouTube
 
@@ -160,6 +160,15 @@ Link: https://www.404media.co/wikipedia-cofounder-larry-sanger-banned-from-site-
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://arxiv.org/abs/2602.
 
 Link: https://www.youtube.com/watch?v=mG4SmhWyeFA
+
+### Ukrainian drone operators test their piloting skills in military competition [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+As drones become the weapon of choice in the Russia-Ukraine war, a group of soldiers test their skills in an unusual competition.
+
+Link: https://www.youtube.com/watch?v=lC9AUllDICc
 
 ### Legendary music executive Clive Davis dies at 94 [6/10]
 **Creator:** NPR  
@@ -214,15 +223,6 @@ Link: https://www.youtube.com/watch?v=bGXx9KqXQCc
 The memorandum of understanding between the U.S. and Iran is signed. Now the two countries begin a lengthy negotiation period.
 
 Link: https://www.youtube.com/watch?v=GBP51wkjXAM
-
-### Keir Starmer resigning as U.K.'s prime minister [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-British Prime Minister Keir Starmer has resigned as head of the ruling Labor Party, paving the way for the United Kingdom to get its seventh prime minister in about a decade.
-
-Link: https://www.youtube.com/watch?v=DUjMc_Ol244
 
 ### Switch 2's Next Wave Of Third Party Games: Stellar Blade + More [8/10]
 **Creator:** Digital Foundry  
@@ -296,9 +296,9 @@ Link: https://www.youtube.com/watch?v=esQefa_nPY0
 
 Link: https://www.youtube.com/watch?v=4_HKsLDifMw
 
-### Nick & Jenna Play the Sands of Time Trilogy for the First Time | Part 3 [7/10]
+### Nick & Jenna Play the Sands of Time Trilogy for the First Time | Part 3 [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 The community funded Nick playing the Sands of Time trilogy on stream for the first time. Join Nick and Jenna as they start the series today! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.
@@ -514,6 +514,15 @@ You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on J
 
 Link: https://www.youtube.com/watch?v=cWgSDtI5khA
 
+### THE ONE PIECE | Official Teaser | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Eiichiro Oda’s manga "THE ONE PIECE" (originally serialized in Shueisha’s Weekly Shonen Jump in Japan) has become a cultural phenomenon with fans all around the globe, and now, it is being adapted as a new anime series, starting from the…
+
+Link: https://www.youtube.com/watch?v=3Gmo0EXHyKg
+
 ### Sakamoto Days | Season 2 Teaser Trailer | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -612,15 +621,6 @@ Link: https://www.youtube.com/watch?v=89dugTvBEWw
 THE AMAZING DIGITAL CIRCUS: THE LAST ACT. Coming to Netflix on June 19th. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=5YvzStBaays
-
-### The East Palace | Official Teaser | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders—can they unravel its dark secrets? The East Palace is coming July 17, only on Netflix #Netflix #TheEastPalace #동궁 Watch on…
-
-Link: https://www.youtube.com/watch?v=-0E39zVbEZc
 
 ### Badging in. Production for Season 3 of #ThePitt has begun. [6/10]
 **Source:** HBO Max  

@@ -1,99 +1,129 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-24T09:00:26.600554Z",
-  "generatedAtDisplay": "2026-06-24 05:00 AM EDT",
+  "generatedAt": "2026-06-24T14:00:02.330555Z",
+  "generatedAtDisplay": "2026-06-24 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Why are crisis pregnancy centers saying they can 'rule out' ectopic pregnancy?, A moment that changed me: A telegram arrived – and I had to choose between my head and my heart, and Prime Day has some solid deals on Switch 2, PS5, and Xbox games.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Will Marathon's new PvE mode reignite interest around the fizzling game? Community reaction so far seems positive, Europe heatwave live: estimated 94 million people to experience temperatures above 35C today, and Podcast: If AI Is Sentient Then So Is ‘Age of Empires II.",
   "mainItems": [
     {
-      "title": "Why are crisis pregnancy centers saying they can 'rule out' ectopic pregnancy?",
-      "source": "NPR Health",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/06/24/nx-s1-5860744/why-are-crisis-pregnancy-centers-saying-they-can-rule-out-ectopic-pregnancy",
-      "published": "2026-06-24T08:39:25+00:00",
-      "summary": "In at least 100 instances, Crisis Pregnancy Centers claim to be able to rule out ectopic pregnancy, according to a group calling on the New York Attorney General to investigate the practice.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Will Marathon's new PvE mode reignite interest around the fizzling game? Community reaction so far seems positive",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/marathon-pve-mode-community-reaction",
+      "published": "2026-06-24T13:39:05+00:00",
+      "summary": "Bungie has revealed details of its upcoming Marathon PvE mode, which will allow players to explore the endgame Cryo Archive Map without the threat of other players. They'll instead face computer-controlled enemies.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "A moment that changed me: A telegram arrived – and I had to choose between my head and my heart",
+      "title": "Europe heatwave live: estimated 94 million people to experience temperatures above 35C today",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/24/moment-changed-me-telegram-arrived-choose-head-heart",
-      "published": "2026-06-24T05:45:36+00:00",
-      "summary": "Should I follow the man of my dreams to work in a club in Tehran? Or take up a place at an elite university? Thankfully, my dad gave me advice I’ve lived by ever since My parents did not expect me to land a place at university.",
+      "url": "https://www.theguardian.com/world/live/2026/jun/24/europe-heatwave-live-news-updates-uk-record-breaking-temperatures-italy-red-alert",
+      "published": "2026-06-24T13:22:53+00:00",
+      "summary": "UK issues rare red heat alert as 68,000 households lose electricity in northern France and Italy puts warnings in place for 16 cities Tell us: how is the heatwave in the UK and across Europe affecting you? Grahame Madge, a Met Office…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Prime Day has some solid deals on Switch 2, PS5, and Xbox games",
+      "title": "Podcast: If AI Is Sentient Then So Is ‘Age of Empires II",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/podcast-if-ai-is-sentient-then-so-is-age-of-empires-ii/",
+      "published": "2026-06-24T13:03:21+00:00",
+      "summary": "A surreal but compelling LLM experiment with Age of Empires II; how a Texas city sold land meant for a park to a data center company; and the Madison Square Garden hack.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10
+    },
+    {
+      "title": "I drove the Slate Truck — there’s more to it than EV minimalism",
       "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale",
-      "published": "2026-06-24T01:45:42+00:00",
-      "summary": "There are some some sizable discounts on new and recent hits from the last few years for the Nintendo Switch 2, PlayStation 5, and the Xbox Series X / S for Prime Day.",
+      "url": "https://www.theverge.com/transportation/955454/slate-truck-ev-price-drive-specs-minimalism",
+      "published": "2026-06-24T12:26:27+00:00",
+      "summary": "With its new pickup, Slate Auto is making a simple bet: price matters more than almost anything else.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Sharing a love for calculus",
+      "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
       "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+      "published": "2026-06-24T12:00:00+00:00",
+      "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "published": "2026-06-24T11:59:54+00:00",
+      "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Meta pauses employee tracker for AI training amid privacy concerns",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns",
+      "published": "2026-06-24T11:38:33+00:00",
+      "summary": "About 1,600 workers signed petition against tool that tracked staff keystrokes, mouse clicks and computer screen content Mark Zuckerberg’s Meta has paused a program that tracked employees’ computer activity amid data privacy concerns and a…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "\"We have to have free human expression in some capacity\": Patreon CEO shares frustrations about getting adult content past payment processors",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.rockpapershotgun.com/we-have-to-have-free-human-expression-in-some-capacity-patreon-ceo-shares-frustrations-about-getting-adult-content-past-payment-processors",
+      "published": "2026-06-24T11:01:23+00:00",
+      "summary": "Patreon CEO Jack Conte has shared his views on the difficulties of working with payment processors and networks such as Stripe and Mastercard, who have the power to enforce their ideas about 'adult content' on stores and platforms by…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Florida District’s Goal: Reading Proficiency for 90% of 3rd Graders",
+      "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
-      "published": "2026-06-23T21:00:00+00:00",
-      "summary": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.",
+      "url": "https://www.the74million.org/article/florida-districts-goal-reading-proficiency-for-90-of-3rd-graders/",
+      "published": "2026-06-24T10:30:00+00:00",
+      "summary": "Last year, Indian River County tied for the highest scores in third grade reading across all Florida districts.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "The best robot vacuum deals available during Prime Day",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
-      "published": "2026-06-24T00:17:27+00:00",
-      "summary": "If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "England given reality check by stubborn Ghana to leave group in the balance",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/football/2026/jun/23/england-ghana-world-cup-group-l-match-report",
-      "published": "2026-06-23T22:15:10+00:00",
-      "summary": "It was a talking point beforehand in the England dressing room, Harry Kane bringing it up; a message with it, too. At each of the previous three tournaments, the team had spluttered in game two.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Marathon's mid-season 2 update brings in an experimental PvE mode that will let solo and duo runners take on Cryo Archive",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/marathons-mid-season-2-update-brings-in-an-experimental-pve-mode-that-will-let-solo-and-duo-runners-take-on-cryo-archive",
-      "published": "2026-06-23T21:52:47+00:00",
-      "summary": "I have something to admit to you all. I'm not very good at Marathon . I like when the guns go pew pew, I like the weird sci-fi vibes, but the second I run into another person I'll be lucky if I make it out with all of my limbs intact.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: Lessons from Charters Where Every Student Graduates, Most of Them With a Plan",
+      "title": "Opinion: Connecticut Charters Break Through in Historic Legislative Session",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/lessons-from-charters-where-every-student-graduates-most-of-them-with-a-plan/",
-      "published": "2026-06-23T18:30:00+00:00",
-      "summary": "At the Charter School Growth Fund, graduation is our favorite time of year. It is when schools shine. We are reminded of what is possible when students, teachers and school leaders have excellence as their north star.",
+      "url": "https://www.the74million.org/article/connecticut-charters-break-through-in-historic-legislative-session/",
+      "published": "2026-06-24T12:30:00+00:00",
+      "summary": "Connecticut has long had among the most burdensome charter approval processes in the country, requiring both State Board of Education authorization and a separate legislative appropriation just to open a school.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
-      "title": "Is AI 'one big bubble'? Behind the tech sell-off",
+      "title": "Star Fox Review: Can't quite teach an old Fox new tricks",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/06/23/nx-s1-5867633/ai-selloff-tech-stocks-bubble-nasdaq",
-      "published": "2026-06-23T19:31:54+00:00",
-      "summary": "Investors are selling off AI-related stocks as doubts are starting to surface over whether the massive spending on AI is worth the investment and whether it's \"one big bubble.\"",
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5868629/star-fox-remake-review-switch-2",
+      "published": "2026-06-24T12:00:00+00:00",
+      "summary": "The Switch 2 Star Fox remake comes with high-effort visuals and a fun battle mode, but its campaign feels stuck in the past.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 9
+    },
+    {
+      "title": "Inside the gold-mining town where the Ebola outbreak likely started",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5863157/ebola-outbreak-democratic-republic-congo-health-crisis",
+      "published": "2026-06-24T09:00:00+00:00",
+      "summary": "NPR reports from Mongbwalu in the Democratic Republic of Congo. The fight to contain the virus faces obstacles from lack of supplies to residents who doubt that the virus is real.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -105,36 +135,6 @@
       "summary": "You might even be reminded of Dunkaroos once you meet Raww. The post You Won’t Forget the Latest Forgotten Island Trailer appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
-    },
-    {
-      "title": "Introducing the biggest new thing in sourdough baking : The Sourdough Sidekick is here!",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/06/23/automatic-sourdough-feeder",
-      "published": "2026-06-23T14:00:00+00:00",
-      "summary": "I work from home, and I still find it challenging to feed my sourdough starter regularly. The post Introducing the biggest new thing in sourdough baking : The Sourdough Sidekick is here! appeared first on the King Arthur Blog .",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
-      "score": 8
-    },
-    {
-      "title": "How to protect yourself from ticks",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/24/nx-s1-5836468/how-to-protect-yourself-from-ticks",
-      "published": "2026-06-24T08:39:21+00:00",
-      "summary": "It's tick season, but how do you avoid the little arachnids? NPR asks two experts in tick bites and behavior.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
-    },
-    {
-      "title": "Wikipedia Cofounder Larry Sanger Banned From Site for ‘Canvassing’",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/wikipedia-cofounder-larry-sanger-banned-from-site-for-canvassaing/",
-      "published": "2026-06-23T15:36:31+00:00",
-      "summary": "“All he has done is try to start a right-wing/conservative pressure group within Wikipedia.”",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     }
   ],
   "youtube": [
@@ -148,6 +148,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Ukrainian drone operators test their piloting skills in military competition",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=lC9AUllDICc",
+      "published": "2026-06-24T10:30:33+00:00",
+      "summary": "As drones become the weapon of choice in the Russia-Ukraine war, a group of soldiers test their skills in an unusual competition.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "Legendary music executive Clive Davis dies at 94",
@@ -214,17 +225,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 6,
       "verdict": "Summary is enough"
-    },
-    {
-      "title": "Keir Starmer resigning as U.K.'s prime minister",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=DUjMc_Ol244",
-      "published": "2026-06-22T20:30:38+00:00",
-      "summary": "British Prime Minister Keir Starmer has resigned as head of the ruling Labor Party, paving the way for the United Kingdom to get its seventh prime minister in about a decade.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     },
     {
       "title": "Switch 2's Next Wave Of Third Party Games: Stellar Blade + More",
@@ -322,8 +322,8 @@
       "published": "2026-06-23T22:09:30+00:00",
       "summary": "The community funded Nick playing the Sands of Time trilogy on stream for the first time. Join Nick and Jenna as they start the series today! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Every Single Video Game Is Afraid of GTA 6",
@@ -548,6 +548,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "THE ONE PIECE | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=3Gmo0EXHyKg",
+      "published": "2026-06-24T13:00:00+00:00",
+      "summary": "Eiichiro Oda’s manga \"THE ONE PIECE\" (originally serialized in Shueisha’s Weekly Shonen Jump in Japan) has become a cultural phenomenon with fans all around the globe, and now, it is being adapted as a new anime series, starting from the…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Sakamoto Days | Season 2 Teaser Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -664,17 +675,6 @@
       "url": "https://www.youtube.com/watch?v=5YvzStBaays",
       "published": "2026-06-18T01:00:00+00:00",
       "summary": "THE AMAZING DIGITAL CIRCUS: THE LAST ACT. Coming to Netflix on June 19th. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The East Palace | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=-0E39zVbEZc",
-      "published": "2026-06-18T00:00:00+00:00",
-      "summary": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders—can they unravel its dark secrets? The East Palace is coming July 17, only on Netflix #Netflix #TheEastPalace #동궁 Watch on…",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
