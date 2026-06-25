@@ -1,19 +1,59 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-25T09:00:43.493456Z",
-  "generatedAtDisplay": "2026-06-25 05:00 AM EDT",
+  "generatedAt": "2026-06-25T14:00:01.599297Z",
+  "generatedAtDisplay": "2026-06-25 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are What training my chaotic dog taught me about power, control – and human beings, OpenAI and Broadcom announce chip designed for LLM inference at scale, and Microsoft introduces cheaper Surface devices with half the memory.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Pentagon restores mandatory flu shots for all recruits amid boot camp outbreak, Apple raises prices on Macs, iPads, and more by hundreds of dollars, and Leaks, price control, no second-hand sales: why Grand Theft Auto 6 physical editions won't come with a disc, according to experts.",
   "mainItems": [
     {
-      "title": "What training my chaotic dog taught me about power, control – and human beings",
+      "title": "Pentagon restores mandatory flu shots for all recruits amid boot camp outbreak",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/25/what-training-my-chaotic-dog-taught-me-about-power-control-and-human-beings",
-      "published": "2026-06-25T04:00:04+00:00",
-      "summary": "Our lovable yet unruly boxer Dusty forced me to wonder: if a dog has no morals, how do you teach it to be ‘good’? When I carried my beautiful two-month-old puppy into our home for the first time, I couldn’t have imagined the scene six…",
+      "url": "https://www.theguardian.com/us-news/2026/jun/25/pentagon-military-recruits-flu-vaccine-outbreak",
+      "published": "2026-06-25T13:38:18+00:00",
+      "summary": "Move comes after Hegseth made shot optional for military in April and Texas outbreak has sickened nearly 300 people The Pentagon has said that boot camps for all the military services are once again requiring the flu vaccination for all…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Apple raises prices on Macs, iPads, and more by hundreds of dollars",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/952162/apple-price-increase-ram-shortage",
+      "published": "2026-06-25T13:29:21+00:00",
+      "summary": "Apple is hiking the prices of its MacBooks, iPads, and other devices by hundreds of dollars in response to the ongoing memory and storage shortages.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Leaks, price control, no second-hand sales: why Grand Theft Auto 6 physical editions won't come with a disc, according to experts",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-physical-no-disc-experts",
+      "published": "2026-06-25T13:08:55+00:00",
+      "summary": "The overwhelming talking point this week surrounding the Grand Theft Auto 6 pre-order announcements - and details of the game's price and varying versions - has undeniably been the game box and what's inside it.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Would-be physician assistants deterred by strict caps on US student loans",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/jun/25/physician-assistants-us-federal-student-loans",
+      "published": "2026-06-25T11:00:13+00:00",
+      "summary": "Advocates condemn change that caps loans at $20,500 per year – less than half median annual cost of PA program Strict new caps on federal student loans are causing would-be physician assistants to reconsider training, groups representing…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "SEGA faces backlash as Sonic the Hedgehog ARG sneakily asks for consent to train gen-AI on your data",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/sega-sonic-arg-ai-model-training-data",
+      "published": "2026-06-25T09:42:44+00:00",
+      "summary": "Sega is facing backlash after a recent Sonic the Hedgehog alternate-reality game - a sort of marketing campaign that takes place online - was revealed to be training AI models on participant data. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -27,32 +67,12 @@
       "score": 10
     },
     {
-      "title": "Microsoft introduces cheaper Surface devices with half the memory",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/956504/microsoft-surface-pro-laptop-ram",
-      "published": "2026-06-24T21:39:00+00:00",
-      "summary": "Microsoft just added a cheaper 12-inch Surface Pro and 13-inch Surface Laptop to its lineup.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "GTA VI is a worrying sign for the future of physical games",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games",
-      "published": "2026-06-24T20:00:38+00:00",
-      "summary": "Rockstar Games has finally given Grand Theft Auto VI a price ahead of the game's November 19th launch. But while announcing that the game would cost $79.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘It’s like a furnace’: French struggle with heat-trap homes as climate inequality grows",
+      "title": "World Cup 2026: Car hits crowd in Mexico, Scotland face waiting game and more – live",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/jun/25/french-heat-trap-homes-climate-inequality-grows",
-      "published": "2026-06-25T05:00:04+00:00",
-      "summary": "Many of France’s buildings are not designed for hot weather – and low-income housing estates are suffering the worst Living in a sweltering, seventh-floor flat on a concrete housing estate south of Paris, Samira said she was feeling…",
+      "url": "https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live",
+      "published": "2026-06-25T13:49:00+00:00",
+      "summary": "⚽ Latest news from day 15 | Vehicle hits crowd in Mexico ⚽ World Cup Q&A: post your questions for our US team ⚽ Player guide | Bracketology | Golden Boot | Mail Taha Mauricio Pochettino’s US team are having a great time at home – but the…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
@@ -77,34 +97,14 @@
       "score": 9
     },
     {
-      "title": "\"We’re not trying to build Titanfall 3,\" Empulse CEO says, though its’s scratching my wallrunning FPS itch all the same",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/were-not-trying-to-build-titanfall-3-empulse-ceo-says-though-itss-scratching-my-wallrunning-fps-itch-all-the-same",
-      "published": "2026-06-24T14:15:51+00:00",
-      "summary": "Empulse developers 1047 Games are known first for their Splitgate series of Portal-inspired arena shooters, and perhaps known second for a daft red hat.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Podcast: If AI Is Sentient Then So Is ‘Age of Empires II",
+      "title": "Bodycam Shows Moment Cops Arrested a Man for Speaking Too Long at Data Center Meeting",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/podcast-if-ai-is-sentient-then-so-is-age-of-empires-ii/",
-      "published": "2026-06-24T13:03:21+00:00",
-      "summary": "A surreal but compelling LLM experiment with Age of Empires II; how a Texas city sold land meant for a park to a data center company; and the Madison Square Garden hack.",
+      "url": "https://www.404media.co/bodycam-footage-video-claremore-oklahoma-data-center-meeting/",
+      "published": "2026-06-25T13:47:00+00:00",
+      "summary": "We spoke to Darren Blanchard, the man arrested while speaking out against data centers at a community meeting. He's sharing the bodycam footage of his arrest for the first time with 404 Media.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
-    },
-    {
-      "title": "Florida District’s Goal: Reading Proficiency for 90% of 3rd Graders",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/florida-districts-goal-reading-proficiency-for-90-of-3rd-graders/",
-      "published": "2026-06-24T10:30:00+00:00",
-      "summary": "Last year, Indian River County tied for the highest scores in third grade reading across all Florida districts.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
+      "score": 8
     },
     {
       "title": "Despite AI bubble fears, memory chip makers work to fill insatiable demand",
@@ -127,13 +127,13 @@
       "score": 8
     },
     {
-      "title": "13 Fourth of July recipes for a summer celebration: Including lots of festive dessert ideas.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/06/24/4th-of-july-dessert-ideas",
-      "published": "2026-06-24T14:00:00+00:00",
-      "summary": "The Fourth of July is here, which means cookout season is upon us! And maybe this year, instead of rocket pops and s’mores (or in addition to rocket pops and s’mores) you try out one of the fruit-forward recipes on this list for your…",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
+      "title": "4 surprising things to know about abortion in America since Dobbs",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/06/25/nx-s1-5869560/abortion-dobbs-roe-rights-restrictions-anniversary-update",
+      "published": "2026-06-25T09:00:00+00:00",
+      "summary": "A confusing patchwork of state laws began to take shape hours after the Supreme Court ruled to overturn Roe v. Wade on June 24, 2022. Here's where things stand now on the abortion issue.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
   ],
@@ -326,6 +326,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Exploring Sunny Washington, D.C in Fallout 3 w/ Jack, Jess, and Marty -- Part 3",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=6h5Dwwa0cMw",
+      "published": "2026-06-25T13:27:25+00:00",
+      "summary": "After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "How Does Star Fox: Assault Hold Up in 2026? w/ KC and Marty",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -333,8 +344,8 @@
       "published": "2026-06-25T01:05:15+00:00",
       "summary": "For their next franchise revisit, KC and Marty are going to take a look at the Star Fox series. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Second Wind Plays Meccha Chameleon",
@@ -344,8 +355,8 @@
       "published": "2026-06-24T22:22:40+00:00",
       "summary": "Yahtzee is on holiday this week, so instead of your regular Yahtzee Tries stream, a bunch of us are going to play the new smash-hit indie Meccha Chameleon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "The 2026 Summer Game Drought Vote | Fully Ramblomatic",
@@ -401,17 +412,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "The Beautiful & Baffling Designs of Majora's Mask | Design Delve",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=d6YpdcwKBd4",
-      "published": "2026-06-22T15:00:00+00:00",
-      "summary": "In today's episode, J & Ludo dive into the timey-wimey world of The Legend of Zelda: Majora's Mask to see how Nintendo managed to create a complex and ever-looping world in a way that wouldn't overwhelm its players.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     }
   ],
   "trailers": [
@@ -535,17 +535,6 @@
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 6,
       "verdict": "Optional"
-    },
-    {
-      "title": "The Invite | Official Trailer 2 HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=nelkiuezJxg",
-      "published": "2026-06-04T13:00:30+00:00",
-      "summary": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
     },
     {
       "title": "Sheep in the Box - Official Trailer - In Theaters July 24",
@@ -713,17 +702,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "#KyleCooke and #EricAndré behind the decks at the NYC premiere of #LittleBrother",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=13KcF6XOkyc",
-      "published": "2026-06-19T20:30:06+00:00",
-      "summary": "Kyle Cooke and Eric André behind the decks at the NYC premiere of LITTLE BROTHER Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "Badging in. Production for Season 3 of #ThePitt has begun.",
       "source": "HBO Max",
       "category": "TV / trailer",
@@ -847,7 +825,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 25,
-    "trailerCount": 29,
+    "trailerCount": 27,
     "sourceCount": 22
   }
 }

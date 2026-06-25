@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-25T09:00:43.493456Z
+Generated: 2026-06-25T14:00:01.599297Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are What training my chaotic dog taught me about power, control – and human beings, OpenAI and Broadcom announce chip designed for LLM inference at scale, and Microsoft introduces cheaper Surface devices with half the memory.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Pentagon restores mandatory flu shots for all recruits amid boot camp outbreak, Apple raises prices on Macs, iPads, and more by hundreds of dollars, and Leaks, price control, no second-hand sales: why Grand Theft Auto 6 physical editions won't come with a disc, according to experts.
 
 ## Briefing
 
@@ -33,16 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. What training my chaotic dog taught me about power, control – and human beings [10/10]
+### 1. Pentagon restores mandatory flu shots for all recruits amid boot camp outbreak [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Our lovable yet unruly boxer Dusty forced me to wonder: if a dog has no morals, how do you teach it to be ‘good’? When I carried my beautiful two-month-old puppy into our home for the first time, I couldn’t have imagined the scene six…
+Move comes after Hegseth made shot optional for military in April and Texas outbreak has sickened nearly 300 people The Pentagon has said that boot camps for all the military services are once again requiring the flu vaccination for all…
 
-Link: https://www.theguardian.com/news/ng-interactive/2026/jun/25/what-training-my-chaotic-dog-taught-me-about-power-control-and-human-beings
+Link: https://www.theguardian.com/us-news/2026/jun/25/pentagon-military-recruits-flu-vaccine-outbreak
 
-### 2. OpenAI and Broadcom announce chip designed for LLM inference at scale [10/10]
+### 2. Apple raises prices on Macs, iPads, and more by hundreds of dollars [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Apple is hiking the prices of its MacBooks, iPads, and other devices by hundreds of dollars in response to the ongoing memory and storage shortages.
+
+Link: https://www.theverge.com/tech/952162/apple-price-increase-ram-shortage
+
+### 3. Leaks, price control, no second-hand sales: why Grand Theft Auto 6 physical editions won't come with a disc, according to experts [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The overwhelming talking point this week surrounding the Grand Theft Auto 6 pre-order announcements - and details of the game's price and varying versions - has undeniably been the game box and what's inside it.
+
+Link: https://www.eurogamer.net/grand-theft-auto-6-physical-no-disc-experts
+
+### 4. Would-be physician assistants deterred by strict caps on US student loans [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Advocates condemn change that caps loans at $20,500 per year – less than half median annual cost of PA program Strict new caps on federal student loans are causing would-be physician assistants to reconsider training, groups representing…
+
+Link: https://www.theguardian.com/us-news/2026/jun/25/physician-assistants-us-federal-student-loans
+
+### 5. SEGA faces backlash as Sonic the Hedgehog ARG sneakily asks for consent to train gen-AI on your data [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Sega is facing backlash after a recent Sonic the Hedgehog alternate-reality game - a sort of marketing campaign that takes place online - was revealed to be training AI models on participant data. Read more
+
+Link: https://www.eurogamer.net/sega-sonic-arg-ai-model-training-data
+
+### 6. OpenAI and Broadcom announce chip designed for LLM inference at scale [10/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -51,34 +87,16 @@ The silicon race is heating up amid the struggle to keep up with demand.
 
 Link: https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/
 
-### 3. Microsoft introduces cheaper Surface devices with half the memory [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Microsoft just added a cheaper 12-inch Surface Pro and 13-inch Surface Laptop to its lineup.
-
-Link: https://www.theverge.com/tech/956504/microsoft-surface-pro-laptop-ram
-
-### 4. GTA VI is a worrying sign for the future of physical games [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Rockstar Games has finally given Grand Theft Auto VI a price ahead of the game's November 19th launch. But while announcing that the game would cost $79.
-
-Link: https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games
-
-### 5. ‘It’s like a furnace’: French struggle with heat-trap homes as climate inequality grows [9/10]
+### 7. World Cup 2026: Car hits crowd in Mexico, Scotland face waiting game and more – live [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Many of France’s buildings are not designed for hot weather – and low-income housing estates are suffering the worst Living in a sweltering, seventh-floor flat on a concrete housing estate south of Paris, Samira said she was feeling…
+⚽ Latest news from day 15 | Vehicle hits crowd in Mexico ⚽ World Cup Q&A: post your questions for our US team ⚽ Player guide | Bracketology | Golden Boot | Mail Taha Mauricio Pochettino’s US team are having a great time at home – but the…
 
-Link: https://www.theguardian.com/world/2026/jun/25/french-heat-trap-homes-climate-inequality-grows
+Link: https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live
 
-### 6. FCC plans ID mandate that could block anonymous use of prepaid burner phones [9/10]
+### 8. FCC plans ID mandate that could block anonymous use of prepaid burner phones [9/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -87,7 +105,7 @@ Privacy advocates and domestic violence groups say ID mandate is a big mistake.
 
 Link: https://arstechnica.com/tech-policy/2026/06/fcc-plans-id-mandate-that-could-block-anonymous-use-of-prepaid-burner-phones/
 
-### 7. Iowa Audit Analyzes Impact of State’s Education Savings Account Program [9/10]
+### 9. Iowa Audit Analyzes Impact of State’s Education Savings Account Program [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -96,32 +114,14 @@ Nearly 79% of students who used Iowa’s funding program for K-12 private school
 
 Link: https://www.the74million.org/article/auditor-school-choice-cost-iowans-258-million/
 
-### 8. "We’re not trying to build Titanfall 3," Empulse CEO says, though its’s scratching my wallrunning FPS itch all the same [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Empulse developers 1047 Games are known first for their Splitgate series of Portal-inspired arena shooters, and perhaps known second for a daft red hat.
-
-Link: https://www.rockpapershotgun.com/were-not-trying-to-build-titanfall-3-empulse-ceo-says-though-itss-scratching-my-wallrunning-fps-itch-all-the-same
-
-### 9. Podcast: If AI Is Sentient Then So Is ‘Age of Empires II [9/10]
+### 10. Bodycam Shows Moment Cops Arrested a Man for Speaking Too Long at Data Center Meeting [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-A surreal but compelling LLM experiment with Age of Empires II; how a Texas city sold land meant for a park to a data center company; and the Madison Square Garden hack.
+We spoke to Darren Blanchard, the man arrested while speaking out against data centers at a community meeting. He's sharing the bodycam footage of his arrest for the first time with 404 Media.
 
-Link: https://www.404media.co/podcast-if-ai-is-sentient-then-so-is-age-of-empires-ii/
-
-### 10. Florida District’s Goal: Reading Proficiency for 90% of 3rd Graders [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Last year, Indian River County tied for the highest scores in third grade reading across all Florida districts.
-
-Link: https://www.the74million.org/article/florida-districts-goal-reading-proficiency-for-90-of-3rd-graders/
+Link: https://www.404media.co/bodycam-footage-video-claremore-oklahoma-data-center-meeting/
 
 ### 11. Despite AI bubble fears, memory chip makers work to fill insatiable demand [8/10]
 **Source:** NPR Tech  
@@ -141,14 +141,14 @@ There’s even a fart joke in there The post The Magic Faraway Tree Trailer Give
 
 Link: https://reactormag.com/magic-faraway-tree-trailer-2/
 
-### 13. 13 Fourth of July recipes for a summer celebration: Including lots of festive dessert ideas. [7/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
+### 13. 4 surprising things to know about abortion in America since Dobbs [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-The Fourth of July is here, which means cookout season is upon us! And maybe this year, instead of rocket pops and s’mores (or in addition to rocket pops and s’mores) you try out one of the fruit-forward recipes on this list for your…
+A confusing patchwork of state laws began to take shape hours after the Supreme Court ruled to overturn Roe v. Wade on June 24, 2022. Here's where things stand now on the abortion issue.
 
-Link: https://www.kingarthurbaking.com/blog/2026/06/24/4th-of-july-dessert-ideas
+Link: https://www.npr.org/2026/06/25/nx-s1-5869560/abortion-dobbs-roe-rights-restrictions-anniversary-update
 
 ## YouTube
 
@@ -305,18 +305,27 @@ Link: https://www.youtube.com/watch?v=HX4-_WWeH_Y
 
 Link: https://www.youtube.com/watch?v=ymyIUYR5IXE
 
-### How Does Star Fox: Assault Hold Up in 2026? w/ KC and Marty [7/10]
+### Exploring Sunny Washington, D.C in Fallout 3 w/ Jack, Jess, and Marty -- Part 3 [8/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=6h5Dwwa0cMw
+
+### How Does Star Fox: Assault Hold Up in 2026? w/ KC and Marty [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 For their next franchise revisit, KC and Marty are going to take a look at the Star Fox series. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=gXqfKjExLxE
 
-### Second Wind Plays Meccha Chameleon [7/10]
+### Second Wind Plays Meccha Chameleon [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Yahtzee is on holiday this week, so instead of your regular Yahtzee Tries stream, a bunch of us are going to play the new smash-hit indie Meccha Chameleon.
@@ -367,15 +376,6 @@ Link: https://www.youtube.com/watch?v=dpwxHjQ8IOg
 On this week’s episode of Windbreaker, Yahtzee is on holiday, so Jack is joinging JM8 and Marty to chat about the rise of card-based video games. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=OJVDeXzXjn8
-
-### The Beautiful & Baffling Designs of Majora's Mask | Design Delve [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-In today's episode, J & Ludo dive into the timey-wimey world of The Legend of Zelda: Majora's Mask to see how Nintendo managed to create a complex and ever-looping world in a way that wouldn't overwhelm its players.
-
-Link: https://www.youtube.com/watch?v=d6YpdcwKBd4
 
 ## Entertainment Recommendations
 
@@ -504,15 +504,6 @@ Link: https://www.youtube.com/watch?v=clyzHmBx43E
 From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.
 
 Link: https://www.youtube.com/watch?v=MrKYHdDzu0g
-
-### The Invite | Official Trailer 2 HD | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.
-
-Link: https://www.youtube.com/watch?v=nelkiuezJxg
 
 ### Sheep in the Box - Official Trailer - In Theaters July 24 [8/10]
 **Source:** NEON  
@@ -648,15 +639,6 @@ Link: https://www.youtube.com/watch?v=IQ_4HFA7YGQ
 Alley Cats is an adult comedy animation series from the razor-sharp mind of Ricky Gervais. It follows a gang of foul-mouthed feral cats who cause havoc while musing on the meaning of life and fighting for survival in a brutal human world.
 
 Link: https://www.youtube.com/watch?v=aIkRFKsoOiM
-
-### #KyleCooke and #EricAndré behind the decks at the NYC premiere of #LittleBrother [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Kyle Cooke and Eric André behind the decks at the NYC premiere of LITTLE BROTHER Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=13KcF6XOkyc
 
 ### Badging in. Production for Season 3 of #ThePitt has begun. [6/10]
 **Source:** HBO Max  
