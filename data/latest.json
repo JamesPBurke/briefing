@@ -1,11 +1,81 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-25T14:00:01.599297Z",
-  "generatedAtDisplay": "2026-06-25 10:00 AM EDT",
+  "generatedAt": "2026-06-25T18:00:57.533114Z",
+  "generatedAtDisplay": "2026-06-25 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Pentagon restores mandatory flu shots for all recruits amid boot camp outbreak, Apple raises prices on Macs, iPads, and more by hundreds of dollars, and Leaks, price control, no second-hand sales: why Grand Theft Auto 6 physical editions won't come with a disc, according to experts.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Democracy / anti-fascism. The strongest items in this run are Prime Day deals under $50 that are really worth it, This year’s Prime Day deals on Apple products are the best I’ve seen, and Here are all of the Apple price hikes.",
   "mainItems": [
+    {
+      "title": "Prime Day deals under $50 that are really worth it",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/951543/best-prime-day-deals-under-50",
+      "published": "2026-06-25T17:50:05+00:00",
+      "summary": "If you’re looking for a good deal without spending hundreds, Prime Day discounts have pushed some of our favorite products under $50. You can pick up everything from Nintendo Switch games to Bluetooth speakers while sticking to your budget.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+      "published": "2026-06-25T17:27:45+00:00",
+      "summary": "Amazon’s Prime Day is now in its third day, and whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Here are all of the Apple price hikes",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/956903/apple-price-increase-2026-macbook-ipad-mac-home-vision-pro",
+      "published": "2026-06-25T16:47:56+00:00",
+      "summary": "Following an interview with The Wall Street Journal earlier this month where Tim Cook hinted at upcoming price changes, Apple officially raised the prices on many of its hardware offerings today.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Historic’: Kansas City Public Schools Teachers Win 5% Raise",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/historic-kansas-city-public-schools-teachers-win-5-raise/",
+      "published": "2026-06-25T16:30:00+00:00",
+      "summary": "Kansas City Public Schools teachers will receive a 5% base salary raise after the school board approved a new collective bargaining agreement with the Kansas City Federation of Teachers, the district’s teachers union.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "US judge blocks Trump administration’s bid to restrict mail-in voting",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jun/25/judge-blocks-trump-bid-restrict-mail-ballots",
+      "published": "2026-06-25T15:29:11+00:00",
+      "summary": "Ruling comes amid drive by Republican administration to reshape rules around voting ahead of midterms The Trump administration’s plan to deny mail-in ballots to states that would not give their voter rolls to federal officials was blocked…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "US supreme court allows Trump administration to strip Haitians and Syrians of protected status",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/jun/25/supreme-court-haitians-syrians-temporary-protected-status",
+      "published": "2026-06-25T15:25:57+00:00",
+      "summary": "Decision affects hundreds of thousands of people who have permission to live and work in the US because their home countries are unsafe Sign up for the Breaking News US newsletter email The US supreme court on Thursday ruled in favor of…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Repositioning retail for the AI era",
+      "source": "MIT Technology Review",
+      "category": "Democracy / press freedom",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "published": "2026-06-25T14:22:59+00:00",
+      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Pentagon restores mandatory flu shots for all recruits amid boot camp outbreak",
       "source": "The Guardian US",
@@ -14,46 +84,6 @@
       "published": "2026-06-25T13:38:18+00:00",
       "summary": "Move comes after Hegseth made shot optional for military in April and Texas outbreak has sickened nearly 300 people The Pentagon has said that boot camps for all the military services are once again requiring the flu vaccination for all…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Apple raises prices on Macs, iPads, and more by hundreds of dollars",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/952162/apple-price-increase-ram-shortage",
-      "published": "2026-06-25T13:29:21+00:00",
-      "summary": "Apple is hiking the prices of its MacBooks, iPads, and other devices by hundreds of dollars in response to the ongoing memory and storage shortages.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Leaks, price control, no second-hand sales: why Grand Theft Auto 6 physical editions won't come with a disc, according to experts",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-physical-no-disc-experts",
-      "published": "2026-06-25T13:08:55+00:00",
-      "summary": "The overwhelming talking point this week surrounding the Grand Theft Auto 6 pre-order announcements - and details of the game's price and varying versions - has undeniably been the game box and what's inside it.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Would-be physician assistants deterred by strict caps on US student loans",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/jun/25/physician-assistants-us-federal-student-loans",
-      "published": "2026-06-25T11:00:13+00:00",
-      "summary": "Advocates condemn change that caps loans at $20,500 per year – less than half median annual cost of PA program Strict new caps on federal student loans are causing would-be physician assistants to reconsider training, groups representing…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "SEGA faces backlash as Sonic the Hedgehog ARG sneakily asks for consent to train gen-AI on your data",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/sega-sonic-arg-ai-model-training-data",
-      "published": "2026-06-25T09:42:44+00:00",
-      "summary": "Sega is facing backlash after a recent Sonic the Hedgehog alternate-reality game - a sort of marketing campaign that takes place online - was revealed to be training AI models on participant data. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -67,16 +97,6 @@
       "score": 10
     },
     {
-      "title": "World Cup 2026: Car hits crowd in Mexico, Scotland face waiting game and more – live",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live",
-      "published": "2026-06-25T13:49:00+00:00",
-      "summary": "⚽ Latest news from day 15 | Vehicle hits crowd in Mexico ⚽ World Cup Q&A: post your questions for our US team ⚽ Player guide | Bracketology | Golden Boot | Mail Taha Mauricio Pochettino’s US team are having a great time at home – but the…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
       "title": "FCC plans ID mandate that could block anonymous use of prepaid burner phones",
       "source": "Ars Technica",
       "category": "AI / privacy",
@@ -87,14 +107,14 @@
       "score": 9
     },
     {
-      "title": "Iowa Audit Analyzes Impact of State’s Education Savings Account Program",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/auditor-school-choice-cost-iowans-258-million/",
-      "published": "2026-06-24T16:30:00+00:00",
-      "summary": "Nearly 79% of students who used Iowa’s funding program for K-12 private schools were “already projected” to attend private schools, according to a report released Wednesday by Iowa Auditor Rob Sand.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
+      "title": "U.S. Supreme Court backs Monsanto in its fight against liability from popular weed killer",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/06/25/g-s1-120233/supreme-court-monsanto-roundup-decision",
+      "published": "2026-06-25T14:18:22+00:00",
+      "summary": "The central issue in the Roundup case, filed by Missouri resident John Durnell, was who decides what should appear on a pesticide or insecticide label—and whether a federal law overrides state claims.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "Bodycam Shows Moment Cops Arrested a Man for Speaking Too Long at Data Center Meeting",
@@ -115,604 +135,10 @@
       "summary": "Markets have been on edge about the AI investment boom, but earnings from the biggest U.S. memory chip maker, Micron, signal no end in sight to demand for the microchips at the heart of it all.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
-    },
-    {
-      "title": "The Magic Faraway Tree Trailer Gives Us the Film’s Plot and a Whole Lot of Whimsy",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/magic-faraway-tree-trailer-2/",
-      "published": "2026-06-24T21:59:45+00:00",
-      "summary": "There’s even a fart joke in there The post The Magic Faraway Tree Trailer Gives Us the Film’s Plot and a Whole Lot of Whimsy appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
-      "title": "4 surprising things to know about abortion in America since Dobbs",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/25/nx-s1-5869560/abortion-dobbs-roe-rights-restrictions-anniversary-update",
-      "published": "2026-06-25T09:00:00+00:00",
-      "summary": "A confusing patchwork of state laws began to take shape hours after the Supreme Court ruled to overturn Roe v. Wade on June 24, 2022. Here's where things stand now on the abortion issue.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     }
   ],
-  "youtube": [
-    {
-      "title": "DeepSeek Just Solved AI's Billion Dollar Problem",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=mG4SmhWyeFA",
-      "published": "2026-06-22T15:53:06+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://arxiv.org/abs/2602.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "MrBallen's Teachers Taunted Him For This",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=08sNIAe1-xE",
-      "published": "2026-06-24T15:30:03+00:00",
-      "summary": "Ex-Navy SEAL turned content creator MrBallen visits WIRED to answer his most searched questions on Google.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Mamdani-backed candidates sweep congressional primaries",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=nrP6tB_5RrA",
-      "published": "2026-06-24T21:00:28+00:00",
-      "summary": "It was a big night for New York City Mayor Zohran Mamdani, whose endorsed slate of congressional candidates swept their Democratic primaries Tuesday.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Former Vice President Mike Pence revisits the ideals of the Republican Party in a new book",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=pLsAhHNKr3o",
-      "published": "2026-06-24T20:00:22+00:00",
-      "summary": "In a new book, \"What Conservatives Believe,\" former Vice President Mike Pence revisits the ideals that once inspired a significant base of the Republican Party.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "It’s been five years since a beachfront condominium collapsed in Surfside, Fla., killing 98 people",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=aXbDQ0Du2DE",
-      "published": "2026-06-24T19:00:10+00:00",
-      "summary": "It’s been five years since a beachfront condominium collapsed in Surfside, Florida, killing 98 people. Families of the victims say not enough has been done to address the cause of the collapse, and are pushing for a permanent memorial.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Ukrainian drone operators test their piloting skills in military competition",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=lC9AUllDICc",
-      "published": "2026-06-24T10:30:33+00:00",
-      "summary": "As drones become the weapon of choice in the Russia-Ukraine war, a group of soldiers test their skills in an unusual competition.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Legendary music executive Clive Davis dies at 94",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=CWxVBdTX-Hk",
-      "published": "2026-06-23T21:00:15+00:00",
-      "summary": "The famed music executive Clive Davis has died. He was 94 years old. For decades, Davis shepherded the careers of stars including Aretha Franklin, Lou Reed and Whitney Houston.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Mike Pence on how the Republican party has changed under Donald Trump",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=iYgzC5trG3Y",
-      "published": "2026-06-23T19:18:24+00:00",
-      "summary": "Former Vice President Mike Pence says his conservative politics have remained consistent while the Republican party changed.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "U.S. ends HIV/AIDS funding for South Africa",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=WGNiNVk0KJ4",
-      "published": "2026-06-23T16:15:29+00:00",
-      "summary": "The State Department has confirmed that it plans to phase out by March HIV/AIDS funding to South Africa, where roughly 8 million people are living with the virus.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "RTX 50-Series Super Back In Contention? What Should We Expect?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=Qc8Jrlf15yg",
-      "published": "2026-06-24T17:00:28+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Gears of War E-Day + Unreal Engine 5.8 Reaction + Analysis",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=zBll1-iz5fQ",
-      "published": "2026-06-24T16:00:28+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Steam Machine vs DIY PC Build Performance: Ryzen 5 5600X, RX 6600, 7600, 9060 XT",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=IdyZLjWKCAM",
-      "published": "2026-06-24T14:00:22+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/WhWtLi_FqLo ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Switch 2's Next Wave Of Third Party Games: Stellar Blade + More",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=7YNTEfJvy5Q",
-      "published": "2026-06-23T17:00:28+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "New GTA 6 Footage And The Case Of The Missing Ferris Wheel Reflection",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=U1fXpySVM84",
-      "published": "2026-06-23T16:00:39+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Steam Machine vs PlayStation 5 Performance Analysis",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=AfM4x4Bs2lA",
-      "published": "2026-06-23T14:00:28+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/WhWtLi_FqLo ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "ARM's DLSS-Like Mobile Tech Explained",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=HX4-_WWeH_Y",
-      "published": "2026-06-22T16:00:11+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Switch 2 Replaceable Battery EU Edition Confirmed",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=ymyIUYR5IXE",
-      "published": "2026-06-22T15:00:24+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Exploring Sunny Washington, D.C in Fallout 3 w/ Jack, Jess, and Marty -- Part 3",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=6h5Dwwa0cMw",
-      "published": "2026-06-25T13:27:25+00:00",
-      "summary": "After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "How Does Star Fox: Assault Hold Up in 2026? w/ KC and Marty",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=gXqfKjExLxE",
-      "published": "2026-06-25T01:05:15+00:00",
-      "summary": "For their next franchise revisit, KC and Marty are going to take a look at the Star Fox series. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Second Wind Plays Meccha Chameleon",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=ilZe4CgcRNs",
-      "published": "2026-06-24T22:22:40+00:00",
-      "summary": "Yahtzee is on holiday this week, so instead of your regular Yahtzee Tries stream, a bunch of us are going to play the new smash-hit indie Meccha Chameleon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "The 2026 Summer Game Drought Vote | Fully Ramblomatic",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=hd_9FoYsLbU",
-      "published": "2026-06-24T16:00:04+00:00",
-      "summary": "It's time to vote for what game Yahtzee reviews for this Summer's Drought! If you want to vote on this year's game, support us over at Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Nick & Jenna Play the Sands of Time Trilogy for the First Time | Part 3",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=__cqMz7TbfI",
-      "published": "2026-06-23T22:09:30+00:00",
-      "summary": "The community funded Nick playing the Sands of Time trilogy on stream for the first time. Join Nick and Jenna as they start the series today! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Every Single Video Game Is Afraid of GTA 6",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=UnMdxhvE_uM",
-      "published": "2026-06-23T15:00:17+00:00",
-      "summary": "Marty's latest video essay digs into the fact that now that Summer Game Fest is over and the fall video game release schedule is set, one thing is clear -- every single video game publisher and developer is afraid of Grand Theft Auto 6 and…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "The Adventures of Elliot Is an HD-2D Take on the Zelda Formula | Hot Monday Energy",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=dpwxHjQ8IOg",
-      "published": "2026-06-23T01:19:13+00:00",
-      "summary": "This week on Hidden Gems KC, Jess, and Jesse play The Adventures of Elliot: The Millenium Tales -- https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Why Are Cards Everywhere In Games? | Windbreaker Podcast (ft. Jack Packard)",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=OJVDeXzXjn8",
-      "published": "2026-06-22T18:52:27+00:00",
-      "summary": "On this week’s episode of Windbreaker, Yahtzee is on holiday, so Jack is joinging JM8 and Marty to chat about the rise of card-based video games. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "Shrek 5 | Official Teaser Trailer",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=Swiz1XyfhcI",
-      "published": "2026-06-16T15:00:03+00:00",
-      "summary": "It’s happening... it’s really happening! Experience Shrek 5 only in theaters summer 2027.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "KLARA AND THE SUN – Official Trailer (4K)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=wixzainceAE",
-      "published": "2026-06-22T16:00:09+00:00",
-      "summary": "Meet Klara. Your new best (artificial) friend. 🌞 Jenna Ortega is Klara in Director Taika Waititi’s adaptation of Kazuo Ishiguro’s #KlaraAndTheSun - coming exclusively to theatres October 23. Watch the trailer now.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY – New Trailer",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=Rv1dodCKgvE",
-      "published": "2026-06-17T19:27:30+00:00",
-      "summary": "The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY – New Trailer (4K)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=62bIsvRcPv0",
-      "published": "2026-06-17T18:58:31+00:00",
-      "summary": "The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "THE SOCIAL RECKONING – Official Teaser Trailer (HD)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=gM4LkaXwGuY",
-      "published": "2026-06-10T12:58:35+00:00",
-      "summary": "Every revolution begins with a reckoning. The Social Reckoning, a companion piece to The Social Network, is coming exclusively to theatres October 9.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Whalefall | Official Teaser | In Theaters October 16",
-      "source": "20th Century Studios",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=67ho3OxCmmM",
-      "published": "2026-06-09T16:00:21+00:00",
-      "summary": "The odds of being swallowed alive by a whale are not zero. Watch the new teaser for #Whalefall and see the film only in theaters October 16.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "The Dog Stars | In Theaters August 28",
-      "source": "20th Century Studios",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=h-AyrYcuL8U",
-      "published": "2026-06-08T19:54:02+00:00",
-      "summary": "THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters August 28. Full trailer online now.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Dog Stars | In Theaters August 28",
-      "source": "20th Century Studios",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=mx15DclPXJQ",
-      "published": "2026-06-08T18:41:20+00:00",
-      "summary": "THE DOG STARS. Jacob Elordi. Ridley Scott. Full trailer online now.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Dog Stars | Official Trailer | In Theaters Aug 28",
-      "source": "20th Century Studios",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=sVCrTJdNtSs",
-      "published": "2026-06-08T16:00:16+00:00",
-      "summary": "Fear the survivors. THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters August 28.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Debut | Official Trailer HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=clyzHmBx43E",
-      "published": "2026-06-23T12:59:06+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Invite | Official First Look | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=MrKYHdDzu0g",
-      "published": "2026-06-18T14:00:23+00:00",
-      "summary": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "Sheep in the Box - Official Trailer - In Theaters July 24",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=j5mlc8TAPNw",
-      "published": "2026-06-23T16:08:02+00:00",
-      "summary": "In the near future, Otone and Kensuke, a grieving couple who have lost their son, take into their lives a humanoid identical to their late child.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Once Upon a Time in Harlem - Official Teaser Trailer - In Select Theaters October 16",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=zIjmgj5rbOY",
-      "published": "2026-06-09T15:05:57+00:00",
-      "summary": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem…",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "Worst Neighbor Ever Season 1 | Official Trailer",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=cWgSDtI5khA",
-      "published": "2026-06-10T17:03:12+00:00",
-      "summary": "You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on July 1. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Blood Sacrifice | Date Announcement | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Q6gx1QdkUJo",
-      "published": "2026-06-25T07:30:00+00:00",
-      "summary": "Time is running out! From George Kay, the creator behind global hit series Lupin and Hijack, comes Blood Sacrifice (previously titled The Case): A gripping new Swedish crime thriller series premiering on August 20 on Netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "My Life with the Walter Boys Season 3 drops August 6th—here is your first look! ✨",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Law7SMXtjkQ",
-      "published": "2026-06-24T20:00:20+00:00",
-      "summary": "mentally, we are already back on the ranch. My Life with the Walter Boys Season 3 drops August 6th—here is your first look! ✨ Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Quarterback: Season 3 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=rydp5C5QsPQ",
-      "published": "2026-06-24T15:00:00+00:00",
-      "summary": "The series follows Jayden Daniels, Joe Flacco, Baker Mayfield, and Cam Ward, pulling back the curtain on the grind, glory, and grit that define one of the game’s toughest jobs -- on and off the field. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Avatar: The Last Airbender | Sneak Peek: Season 2 Opening Sequence | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=iz3m_28xIIM",
-      "published": "2026-06-24T14:07:46+00:00",
-      "summary": "New season, new opening: water, earth, fire, air. Everything changed when the fire nation attacked. Avatar: The Last Airbender Season 2 premieres June 25, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "THE ONE PIECE | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=3Gmo0EXHyKg",
-      "published": "2026-06-24T13:00:00+00:00",
-      "summary": "Eiichiro Oda’s manga \"THE ONE PIECE\" (originally serialized in Shueisha’s Weekly Shonen Jump in Japan) has become a cultural phenomenon with fans all around the globe, and now, it is being adapted as a new anime series, starting from the…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Sakamoto Days | Season 2 Teaser Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=KqXEcl4Whj4",
-      "published": "2026-06-24T00:00:00+00:00",
-      "summary": "The hunt for Slur's database takes Sakamoto & Shin to the ultimate assassin training institution.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "#EricAndre is the heel #JohnCena never saw coming. #LittleBrother premieres June 26.",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=KVDTRHqL_1s",
-      "published": "2026-06-23T12:00:15+00:00",
-      "summary": "Eric André is the heel John Cena never saw coming. Little Brother premieres June 26. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Hot Ones: Extra Heat premieres July 13 #Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=oVg6s5VoF74",
-      "published": "2026-06-22T19:30:30+00:00",
-      "summary": "Hot Ones like you’ve never seen before. Hot Ones: Extra Heat premieres July 13, immediately following the T‑Mobile Home Run Derby at 8PM ET | 5PM PT live on Netflix. First up: Will Ferrell, Fortune Feimster, and Jimmy Tatro from The Hawk.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Netflix Playground | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Va83MtpbUto",
-      "published": "2026-06-22T17:00:00+00:00",
-      "summary": "NETFLIX PLAYGROUND! A world of games for little ones to play with Big Bird, Peppa, Gabby, HUNTR/X, and many more of their favorite characters. Available now! Download Netflix Playground: http://bit.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The American Experiment | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=mEfe4T6R6Z0",
-      "published": "2026-06-22T16:30:00+00:00",
-      "summary": "As the United States approaches its 250th anniversary, the new five-part documentary series from Luminant and Playtone reexamines the improbable achievement that was the nation’s founding, and the radical question at the center of the…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Long Live Imagination | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=IQ_4HFA7YGQ",
-      "published": "2026-06-22T16:00:00+00:00",
-      "summary": "Watch. Play. Grow. The preschool shows and games your kids love are available with your Netflix membership and ready to spark their next great adventure! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Ricky Gervais' Alley Cats | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=aIkRFKsoOiM",
-      "published": "2026-06-22T13:00:00+00:00",
-      "summary": "Alley Cats is an adult comedy animation series from the razor-sharp mind of Ricky Gervais. It follows a gang of foul-mouthed feral cats who cause havoc while musing on the meaning of life and fighting for survival in a brutal human world.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Badging in. Production for Season 3 of #ThePitt has begun.",
-      "source": "HBO Max",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=MMvNPdSWjEw",
-      "published": "2026-06-16T14:01:02+00:00",
-      "summary": "Badging in. Production for Season 3 of #ThePitt has begun.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Optional"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -824,8 +250,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 25,
-    "trailerCount": 27,
-    "sourceCount": 22
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 8
   }
 }
