@@ -1,50 +1,60 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-24T18:01:08.847550Z",
-  "generatedAtDisplay": "2026-06-24 02:01 PM EDT",
+  "generatedAt": "2026-06-25T05:00:02.633130Z",
+  "generatedAtDisplay": "2026-06-25 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Google’s new rules for the app store will allow alternative billing next week, Prime Day deals under $50 that are really worth it, and Google starts lowering Play Store fees, making good on Epic Games settlement.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are What training my chaotic dog taught me about power, control – and human beings, OpenAI and Broadcom announce chip designed for LLM inference at scale, and Microsoft introduces cheaper Surface devices with half the memory.",
   "mainItems": [
     {
-      "title": "Google’s new rules for the app store will allow alternative billing next week",
+      "title": "What training my chaotic dog taught me about power, control – and human beings",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/25/what-training-my-chaotic-dog-taught-me-about-power-control-and-human-beings",
+      "published": "2026-06-25T04:00:04+00:00",
+      "summary": "Our lovable yet unruly boxer Dusty forced me to wonder: if a dog has no morals, how do you teach it to be ‘good’? When I carried my beautiful two-month-old puppy into our home for the first time, I couldn’t have imagined the scene six…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
+      "published": "2026-06-24T22:28:18+00:00",
+      "summary": "The silicon race is heating up amid the struggle to keep up with demand.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Microsoft introduces cheaper Surface devices with half the memory",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/956504/microsoft-surface-pro-laptop-ram",
+      "published": "2026-06-24T21:39:00+00:00",
+      "summary": "Microsoft just added a cheaper 12-inch Surface Pro and 13-inch Surface Laptop to its lineup.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Google is finally opening the Play Store to outside payments",
       "source": "The Verge",
       "category": "AI / privacy",
       "url": "https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust",
-      "published": "2026-06-24T17:53:33+00:00",
+      "published": "2026-06-24T18:09:54+00:00",
       "summary": "While the court still hasn't signed off on the massive settlement resolving Epic's antitrust lawsuit against Google for having a monopoly over Android's app store with Google Play, the tech giant says it will start rolling out changes to…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Prime Day deals under $50 that are really worth it",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/951543/best-prime-day-deals-under-50",
-      "published": "2026-06-24T17:28:08+00:00",
-      "summary": "If you’re looking for a good deal without spending hundreds, Prime Day discounts have pushed some of our favorite products under $50. You can pick up everything from Nintendo Switch games to Bluetooth speakers while sticking to your budget.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Google starts lowering Play Store fees, making good on Epic Games settlement",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/google/2026/06/google-starts-lowering-play-store-fees-making-good-on-epic-games-settlement/",
-      "published": "2026-06-24T17:00:17+00:00",
-      "summary": "A few additional markets will get the lower fees this year ahead of a global rollout in 2027.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Elon Musk denies Tesla’s Autopilot caused crash that killed grandmother",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/tech-policy/2026/06/elon-musk-denies-teslas-autopilot-caused-crash-that-killed-grandmother/",
-      "published": "2026-06-24T16:40:32+00:00",
-      "summary": "Tesla, accused of failing to fix design flaws, blames driver pressing accelerator.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
+      "title": "Fidalgo caps Mexico rout as co-hosts maintain 100% record and send Czechia out",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/football/2026/jun/25/mexico-czechia-world-cup-2026-match-report",
+      "published": "2026-06-25T03:18:27+00:00",
+      "summary": "There are ways of leaving a tournament. You can go out with a sheen of glory, having gone to-to-toe with a great opponent. You can be unlucky and go home raging at referees and the fates.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
       "title": "Iowa Audit Analyzes Impact of State’s Education Savings Account Program",
@@ -54,17 +64,17 @@
       "published": "2026-06-24T16:30:00+00:00",
       "summary": "Nearly 79% of students who used Iowa’s funding program for K-12 private schools were “already projected” to attend private schools, according to a report released Wednesday by Iowa Auditor Rob Sand.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "Hope, Sadness and Uncertainty Follow After Carvalho Resigns as LAUSD Superintendent",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/hope-sadness-and-uncertainty-follow-after-carvalho-resigns-as-lausd-superintendent/",
-      "published": "2026-06-24T14:30:00+00:00",
-      "summary": "With Alberto Carvalho’s resignation now official, Los Angeles Unified faces a new challenge: finding a superintendent to lead the nation’s second-largest school district through mounting budget deficits, declining enrollment and political…",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "title": "\"We’re not trying to build Titanfall 3,\" Empulse CEO says, though its’s scratching my wallrunning FPS itch all the same",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/were-not-trying-to-build-titanfall-3-empulse-ceo-says-though-itss-scratching-my-wallrunning-fps-itch-all-the-same",
+      "published": "2026-06-24T14:15:51+00:00",
+      "summary": "Empulse developers 1047 Games are known first for their Splitgate series of Portal-inspired arena shooters, and perhaps known second for a daft red hat.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "Podcast: If AI Is Sentient Then So Is ‘Age of Empires II",
@@ -74,27 +84,7 @@
       "published": "2026-06-24T13:03:21+00:00",
       "summary": "A surreal but compelling LLM experiment with Age of Empires II; how a Texas city sold land meant for a park to a data center company; and the Madison Square Garden hack.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10
-    },
-    {
-      "title": "Darializa Avila Chevalier: pro-Palestinian doctoral student steps into politics with ‘faith in the future’",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/jun/24/darializa-avila-chevalier-win-new-york",
-      "published": "2026-06-24T12:10:22+00:00",
-      "summary": "Mamdani-backed candidate won New York’s 13th congressional district with no experience in office but ideas for how politics can ‘actually invest in life’ Mamdani-backed candidates sweep Democratic primaries in New York City In the months…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Israeli former leaders and security chiefs threaten legal action over ‘Jewish terrorism’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jun/24/israeli-former-leaders-security-chiefs-legal-action-jewish-terrorism-west-bank",
-      "published": "2026-06-24T10:53:26+00:00",
-      "summary": "Leaked letter to PM and military demands action to stop violence against Palestinians in occupied West Bank Dozens of Israelis from the country’s security, political and cultural elite have threatened legal action against their government…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Florida District’s Goal: Reading Proficiency for 90% of 3rd Graders",
@@ -104,27 +94,27 @@
       "published": "2026-06-24T10:30:00+00:00",
       "summary": "Last year, Indian River County tied for the highest scores in third grade reading across all Florida districts.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Want to continue living at home as you age? Here’s what to consider",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/global/2026/jun/24/ageing-at-home-cost-renovations-tips",
-      "published": "2026-06-24T16:00:49+00:00",
-      "summary": "Safety concerns, caregiving needs, and, of course, finances all come into play when considering aging-in-place at home My mom is the model boomer.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Star Fox Review: Can't quite teach an old Fox new tricks",
+      "title": "The Magic Faraway Tree Trailer Gives Us the Film’s Plot and a Whole Lot of Whimsy",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/magic-faraway-tree-trailer-2/",
+      "published": "2026-06-24T21:59:45+00:00",
+      "summary": "There’s even a fart joke in there The post The Magic Faraway Tree Trailer Gives Us the Film’s Plot and a Whole Lot of Whimsy appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
+    },
+    {
+      "title": "Meta plans to release AI-powered prediction market app, documents show",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/06/24/nx-s1-5868629/star-fox-remake-review-switch-2",
-      "published": "2026-06-24T12:00:00+00:00",
-      "summary": "The Switch 2 Star Fox remake comes with high-effort visuals and a fun battle mode, but its campaign feels stuck in the past.",
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5869486/meta-prediction-market-app-ai",
+      "published": "2026-06-24T18:39:06+00:00",
+      "summary": "The company is building an app separate from Facebook and Instagram where people can wager on the outcome of real-world events, using \"play money.\"",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
+      "score": 8
     },
     {
       "title": "Inside the gold-mining town where the Ebola outbreak likely started",
@@ -135,10 +125,242 @@
       "summary": "NPR reports from Mongbwalu in the Democratic Republic of Congo. The fight to contain the virus faces obstacles from lack of supplies to residents who doubt that the virus is real.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
+    },
+    {
+      "title": "13 Fourth of July recipes for a summer celebration: Including lots of festive dessert ideas.",
+      "source": "King Arthur Baking",
+      "category": "Bread / food craft",
+      "url": "https://www.kingarthurbaking.com/blog/2026/06/24/4th-of-july-dessert-ideas",
+      "published": "2026-06-24T14:00:00+00:00",
+      "summary": "The Fourth of July is here, which means cookout season is upon us! And maybe this year, instead of rocket pops and s’mores (or in addition to rocket pops and s’mores) you try out one of the fruit-forward recipes on this list for your…",
+      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
+      "score": 7
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "How Does Star Fox: Assault Hold Up in 2026? w/ KC and Marty",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=gXqfKjExLxE",
+      "published": "2026-06-25T01:05:15+00:00",
+      "summary": "For their next franchise revisit, KC and Marty are going to take a look at the Star Fox series. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Second Wind Plays Meccha Chameleon",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=ilZe4CgcRNs",
+      "published": "2026-06-24T22:22:40+00:00",
+      "summary": "Yahtzee is on holiday this week, so instead of your regular Yahtzee Tries stream, a bunch of us are going to play the new smash-hit indie Meccha Chameleon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The 2026 Summer Game Drought Vote | Fully Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=hd_9FoYsLbU",
+      "published": "2026-06-24T16:00:04+00:00",
+      "summary": "It's time to vote for what game Yahtzee reviews for this Summer's Drought! If you want to vote on this year's game, support us over at Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Nick & Jenna Play the Sands of Time Trilogy for the First Time | Part 3",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=__cqMz7TbfI",
+      "published": "2026-06-23T22:09:30+00:00",
+      "summary": "The community funded Nick playing the Sands of Time trilogy on stream for the first time. Join Nick and Jenna as they start the series today! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Every Single Video Game Is Afraid of GTA 6",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=UnMdxhvE_uM",
+      "published": "2026-06-23T15:00:17+00:00",
+      "summary": "Marty's latest video essay digs into the fact that now that Summer Game Fest is over and the fall video game release schedule is set, one thing is clear -- every single video game publisher and developer is afraid of Grand Theft Auto 6 and…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "The Adventures of Elliot Is an HD-2D Take on the Zelda Formula | Hot Monday Energy",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=dpwxHjQ8IOg",
+      "published": "2026-06-23T01:19:13+00:00",
+      "summary": "This week on Hidden Gems KC, Jess, and Jesse play The Adventures of Elliot: The Millenium Tales -- https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Why Are Cards Everywhere In Games? | Windbreaker Podcast (ft. Jack Packard)",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=OJVDeXzXjn8",
+      "published": "2026-06-22T18:52:27+00:00",
+      "summary": "On this week’s episode of Windbreaker, Yahtzee is on holiday, so Jack is joinging JM8 and Marty to chat about the rise of card-based video games. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Beautiful & Baffling Designs of Majora's Mask | Design Delve",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=d6YpdcwKBd4",
+      "published": "2026-06-22T15:00:00+00:00",
+      "summary": "In today's episode, J & Ludo dive into the timey-wimey world of The Legend of Zelda: Majora's Mask to see how Nintendo managed to create a complex and ever-looping world in a way that wouldn't overwhelm its players.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "My Life with the Walter Boys Season 3 drops August 6th—here is your first look! ✨",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Law7SMXtjkQ",
+      "published": "2026-06-24T20:00:20+00:00",
+      "summary": "mentally, we are already back on the ranch. My Life with the Walter Boys Season 3 drops August 6th—here is your first look! ✨ Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Quarterback: Season 3 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=rydp5C5QsPQ",
+      "published": "2026-06-24T15:00:00+00:00",
+      "summary": "The series follows Jayden Daniels, Joe Flacco, Baker Mayfield, and Cam Ward, pulling back the curtain on the grind, glory, and grit that define one of the game’s toughest jobs -- on and off the field. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Avatar: The Last Airbender | Sneak Peek: Season 2 Opening Sequence | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=iz3m_28xIIM",
+      "published": "2026-06-24T14:07:46+00:00",
+      "summary": "New season, new opening: water, earth, fire, air. Everything changed when the fire nation attacked. Avatar: The Last Airbender Season 2 premieres June 25, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "THE ONE PIECE | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=3Gmo0EXHyKg",
+      "published": "2026-06-24T13:00:00+00:00",
+      "summary": "Eiichiro Oda’s manga \"THE ONE PIECE\" (originally serialized in Shueisha’s Weekly Shonen Jump in Japan) has become a cultural phenomenon with fans all around the globe, and now, it is being adapted as a new anime series, starting from the…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Sakamoto Days | Season 2 Teaser Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=KqXEcl4Whj4",
+      "published": "2026-06-24T00:00:00+00:00",
+      "summary": "The hunt for Slur's database takes Sakamoto & Shin to the ultimate assassin training institution.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "#EricAndre is the heel #JohnCena never saw coming. #LittleBrother premieres June 26.",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=KVDTRHqL_1s",
+      "published": "2026-06-23T12:00:15+00:00",
+      "summary": "Eric André is the heel John Cena never saw coming. Little Brother premieres June 26. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Hot Ones: Extra Heat premieres July 13 #Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=oVg6s5VoF74",
+      "published": "2026-06-22T19:30:30+00:00",
+      "summary": "Hot Ones like you’ve never seen before. Hot Ones: Extra Heat premieres July 13, immediately following the T‑Mobile Home Run Derby at 8PM ET | 5PM PT live on Netflix. First up: Will Ferrell, Fortune Feimster, and Jimmy Tatro from The Hawk.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Netflix Playground | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Va83MtpbUto",
+      "published": "2026-06-22T17:00:00+00:00",
+      "summary": "NETFLIX PLAYGROUND! A world of games for little ones to play with Big Bird, Peppa, Gabby, HUNTR/X, and many more of their favorite characters. Available now! Download Netflix Playground: http://bit.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The American Experiment | Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=mEfe4T6R6Z0",
+      "published": "2026-06-22T16:30:00+00:00",
+      "summary": "As the United States approaches its 250th anniversary, the new five-part documentary series from Luminant and Playtone reexamines the improbable achievement that was the nation’s founding, and the radical question at the center of the…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Long Live Imagination | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=IQ_4HFA7YGQ",
+      "published": "2026-06-22T16:00:00+00:00",
+      "summary": "Watch. Play. Grow. The preschool shows and games your kids love are available with your Netflix membership and ready to spark their next great adventure! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Ricky Gervais' Alley Cats | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=aIkRFKsoOiM",
+      "published": "2026-06-22T13:00:00+00:00",
+      "summary": "Alley Cats is an adult comedy animation series from the razor-sharp mind of Ricky Gervais. It follows a gang of foul-mouthed feral cats who cause havoc while musing on the meaning of life and fighting for survival in a brutal human world.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "#KyleCooke and #EricAndré behind the decks at the NYC premiere of #LittleBrother",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=13KcF6XOkyc",
+      "published": "2026-06-19T20:30:06+00:00",
+      "summary": "Kyle Cooke and Eric André behind the decks at the NYC premiere of LITTLE BROTHER Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -250,8 +472,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 7
+    "youtubeCount": 8,
+    "trailerCount": 12,
+    "sourceCount": 12
   }
 }
