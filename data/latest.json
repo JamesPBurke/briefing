@@ -1,10 +1,10 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-25T05:00:02.633130Z",
-  "generatedAtDisplay": "2026-06-25 01:00 AM EDT",
+  "generatedAt": "2026-06-25T09:00:43.493456Z",
+  "generatedAtDisplay": "2026-06-25 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are What training my chaotic dog taught me about power, control – and human beings, OpenAI and Broadcom announce chip designed for LLM inference at scale, and Microsoft introduces cheaper Surface devices with half the memory.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are What training my chaotic dog taught me about power, control – and human beings, OpenAI and Broadcom announce chip designed for LLM inference at scale, and Microsoft introduces cheaper Surface devices with half the memory.",
   "mainItems": [
     {
       "title": "What training my chaotic dog taught me about power, control – and human beings",
@@ -37,23 +37,33 @@
       "score": 10
     },
     {
-      "title": "Google is finally opening the Play Store to outside payments",
+      "title": "GTA VI is a worrying sign for the future of physical games",
       "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust",
-      "published": "2026-06-24T18:09:54+00:00",
-      "summary": "While the court still hasn't signed off on the massive settlement resolving Epic's antitrust lawsuit against Google for having a monopoly over Android's app store with Google Play, the tech giant says it will start rolling out changes to…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games",
+      "published": "2026-06-24T20:00:38+00:00",
+      "summary": "Rockstar Games has finally given Grand Theft Auto VI a price ahead of the game's November 19th launch. But while announcing that the game would cost $79.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Fidalgo caps Mexico rout as co-hosts maintain 100% record and send Czechia out",
+      "title": "‘It’s like a furnace’: French struggle with heat-trap homes as climate inequality grows",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/football/2026/jun/25/mexico-czechia-world-cup-2026-match-report",
-      "published": "2026-06-25T03:18:27+00:00",
-      "summary": "There are ways of leaving a tournament. You can go out with a sheen of glory, having gone to-to-toe with a great opponent. You can be unlucky and go home raging at referees and the fates.",
+      "url": "https://www.theguardian.com/world/2026/jun/25/french-heat-trap-homes-climate-inequality-grows",
+      "published": "2026-06-25T05:00:04+00:00",
+      "summary": "Many of France’s buildings are not designed for hot weather – and low-income housing estates are suffering the worst Living in a sweltering, seventh-floor flat on a concrete housing estate south of Paris, Samira said she was feeling…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "FCC plans ID mandate that could block anonymous use of prepaid burner phones",
+      "source": "Ars Technica",
+      "category": "AI / privacy",
+      "url": "https://arstechnica.com/tech-policy/2026/06/fcc-plans-id-mandate-that-could-block-anonymous-use-of-prepaid-burner-phones/",
+      "published": "2026-06-24T19:45:37+00:00",
+      "summary": "Privacy advocates and domestic violence groups say ID mandate is a big mistake.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
     },
     {
@@ -97,6 +107,16 @@
       "score": 9
     },
     {
+      "title": "Despite AI bubble fears, memory chip makers work to fill insatiable demand",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/06/25/nx-s1-5869540/despite-ai-bubble-fears-memory-chip-makers-work-to-fill-insatiable-demand",
+      "published": "2026-06-25T08:45:15+00:00",
+      "summary": "Markets have been on edge about the AI investment boom, but earnings from the biggest U.S. memory chip maker, Micron, signal no end in sight to demand for the microchips at the heart of it all.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
+    },
+    {
       "title": "The Magic Faraway Tree Trailer Gives Us the Film’s Plot and a Whole Lot of Whimsy",
       "source": "Reactor",
       "category": "Sci-fi / horror",
@@ -104,26 +124,6 @@
       "published": "2026-06-24T21:59:45+00:00",
       "summary": "There’s even a fart joke in there The post The Magic Faraway Tree Trailer Gives Us the Film’s Plot and a Whole Lot of Whimsy appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
-      "title": "Meta plans to release AI-powered prediction market app, documents show",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/06/24/nx-s1-5869486/meta-prediction-market-app-ai",
-      "published": "2026-06-24T18:39:06+00:00",
-      "summary": "The company is building an app separate from Facebook and Instagram where people can wager on the outcome of real-world events, using \"play money.\"",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "Inside the gold-mining town where the Ebola outbreak likely started",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/24/nx-s1-5863157/ebola-outbreak-democratic-republic-congo-health-crisis",
-      "published": "2026-06-24T09:00:00+00:00",
-      "summary": "NPR reports from Mongbwalu in the Democratic Republic of Congo. The fight to contain the virus faces obstacles from lack of supplies to residents who doubt that the virus is real.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -138,6 +138,193 @@
     }
   ],
   "youtube": [
+    {
+      "title": "DeepSeek Just Solved AI's Billion Dollar Problem",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=mG4SmhWyeFA",
+      "published": "2026-06-22T15:53:06+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://arxiv.org/abs/2602.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "MrBallen's Teachers Taunted Him For This",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=08sNIAe1-xE",
+      "published": "2026-06-24T15:30:03+00:00",
+      "summary": "Ex-Navy SEAL turned content creator MrBallen visits WIRED to answer his most searched questions on Google.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Mamdani-backed candidates sweep congressional primaries",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=nrP6tB_5RrA",
+      "published": "2026-06-24T21:00:28+00:00",
+      "summary": "It was a big night for New York City Mayor Zohran Mamdani, whose endorsed slate of congressional candidates swept their Democratic primaries Tuesday.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Former Vice President Mike Pence revisits the ideals of the Republican Party in a new book",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=pLsAhHNKr3o",
+      "published": "2026-06-24T20:00:22+00:00",
+      "summary": "In a new book, \"What Conservatives Believe,\" former Vice President Mike Pence revisits the ideals that once inspired a significant base of the Republican Party.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "It’s been five years since a beachfront condominium collapsed in Surfside, Fla., killing 98 people",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=aXbDQ0Du2DE",
+      "published": "2026-06-24T19:00:10+00:00",
+      "summary": "It’s been five years since a beachfront condominium collapsed in Surfside, Florida, killing 98 people. Families of the victims say not enough has been done to address the cause of the collapse, and are pushing for a permanent memorial.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Ukrainian drone operators test their piloting skills in military competition",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=lC9AUllDICc",
+      "published": "2026-06-24T10:30:33+00:00",
+      "summary": "As drones become the weapon of choice in the Russia-Ukraine war, a group of soldiers test their skills in an unusual competition.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Legendary music executive Clive Davis dies at 94",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=CWxVBdTX-Hk",
+      "published": "2026-06-23T21:00:15+00:00",
+      "summary": "The famed music executive Clive Davis has died. He was 94 years old. For decades, Davis shepherded the careers of stars including Aretha Franklin, Lou Reed and Whitney Houston.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Mike Pence on how the Republican party has changed under Donald Trump",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=iYgzC5trG3Y",
+      "published": "2026-06-23T19:18:24+00:00",
+      "summary": "Former Vice President Mike Pence says his conservative politics have remained consistent while the Republican party changed.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "U.S. ends HIV/AIDS funding for South Africa",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=WGNiNVk0KJ4",
+      "published": "2026-06-23T16:15:29+00:00",
+      "summary": "The State Department has confirmed that it plans to phase out by March HIV/AIDS funding to South Africa, where roughly 8 million people are living with the virus.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "RTX 50-Series Super Back In Contention? What Should We Expect?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=Qc8Jrlf15yg",
+      "published": "2026-06-24T17:00:28+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Gears of War E-Day + Unreal Engine 5.8 Reaction + Analysis",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=zBll1-iz5fQ",
+      "published": "2026-06-24T16:00:28+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Steam Machine vs DIY PC Build Performance: Ryzen 5 5600X, RX 6600, 7600, 9060 XT",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=IdyZLjWKCAM",
+      "published": "2026-06-24T14:00:22+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/WhWtLi_FqLo ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Switch 2's Next Wave Of Third Party Games: Stellar Blade + More",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=7YNTEfJvy5Q",
+      "published": "2026-06-23T17:00:28+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "New GTA 6 Footage And The Case Of The Missing Ferris Wheel Reflection",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=U1fXpySVM84",
+      "published": "2026-06-23T16:00:39+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Steam Machine vs PlayStation 5 Performance Analysis",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=AfM4x4Bs2lA",
+      "published": "2026-06-23T14:00:28+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/WhWtLi_FqLo ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "ARM's DLSS-Like Mobile Tech Explained",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=HX4-_WWeH_Y",
+      "published": "2026-06-22T16:00:11+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Switch 2 Replaceable Battery EU Edition Confirmed",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=ymyIUYR5IXE",
+      "published": "2026-06-22T15:00:24+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
     {
       "title": "How Does Star Fox: Assault Hold Up in 2026? w/ KC and Marty",
       "source": "Second Wind",
@@ -228,6 +415,182 @@
     }
   ],
   "trailers": [
+    {
+      "title": "Shrek 5 | Official Teaser Trailer",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Swiz1XyfhcI",
+      "published": "2026-06-16T15:00:03+00:00",
+      "summary": "It’s happening... it’s really happening! Experience Shrek 5 only in theaters summer 2027.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "KLARA AND THE SUN – Official Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=wixzainceAE",
+      "published": "2026-06-22T16:00:09+00:00",
+      "summary": "Meet Klara. Your new best (artificial) friend. 🌞 Jenna Ortega is Klara in Director Taika Waititi’s adaptation of Kazuo Ishiguro’s #KlaraAndTheSun - coming exclusively to theatres October 23. Watch the trailer now.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY – New Trailer",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Rv1dodCKgvE",
+      "published": "2026-06-17T19:27:30+00:00",
+      "summary": "The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY – New Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=62bIsvRcPv0",
+      "published": "2026-06-17T18:58:31+00:00",
+      "summary": "The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "THE SOCIAL RECKONING – Official Teaser Trailer (HD)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=gM4LkaXwGuY",
+      "published": "2026-06-10T12:58:35+00:00",
+      "summary": "Every revolution begins with a reckoning. The Social Reckoning, a companion piece to The Social Network, is coming exclusively to theatres October 9.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Whalefall | Official Teaser | In Theaters October 16",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=67ho3OxCmmM",
+      "published": "2026-06-09T16:00:21+00:00",
+      "summary": "The odds of being swallowed alive by a whale are not zero. Watch the new teaser for #Whalefall and see the film only in theaters October 16.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "The Dog Stars | In Theaters August 28",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=h-AyrYcuL8U",
+      "published": "2026-06-08T19:54:02+00:00",
+      "summary": "THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters August 28. Full trailer online now.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Dog Stars | In Theaters August 28",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=mx15DclPXJQ",
+      "published": "2026-06-08T18:41:20+00:00",
+      "summary": "THE DOG STARS. Jacob Elordi. Ridley Scott. Full trailer online now.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Dog Stars | Official Trailer | In Theaters Aug 28",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=sVCrTJdNtSs",
+      "published": "2026-06-08T16:00:16+00:00",
+      "summary": "Fear the survivors. THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters August 28.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Debut | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=clyzHmBx43E",
+      "published": "2026-06-23T12:59:06+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Invite | Official First Look | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=MrKYHdDzu0g",
+      "published": "2026-06-18T14:00:23+00:00",
+      "summary": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "The Invite | Official Trailer 2 HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=nelkiuezJxg",
+      "published": "2026-06-04T13:00:30+00:00",
+      "summary": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Sheep in the Box - Official Trailer - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=j5mlc8TAPNw",
+      "published": "2026-06-23T16:08:02+00:00",
+      "summary": "In the near future, Otone and Kensuke, a grieving couple who have lost their son, take into their lives a humanoid identical to their late child.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Once Upon a Time in Harlem - Official Teaser Trailer - In Select Theaters October 16",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=zIjmgj5rbOY",
+      "published": "2026-06-09T15:05:57+00:00",
+      "summary": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Worst Neighbor Ever Season 1 | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=cWgSDtI5khA",
+      "published": "2026-06-10T17:03:12+00:00",
+      "summary": "You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on July 1. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Blood Sacrifice | Date Announcement | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Q6gx1QdkUJo",
+      "published": "2026-06-25T07:30:00+00:00",
+      "summary": "Time is running out! From George Kay, the creator behind global hit series Lupin and Hijack, comes Blood Sacrifice (previously titled The Case): A gripping new Swedish crime thriller series premiering on August 20 on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
     {
       "title": "My Life with the Walter Boys Season 3 drops August 6th—here is your first look! ✨",
       "source": "Netflix",
@@ -359,6 +722,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
+    },
+    {
+      "title": "Badging in. Production for Season 3 of #ThePitt has begun.",
+      "source": "HBO Max",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=MMvNPdSWjEw",
+      "published": "2026-06-16T14:01:02+00:00",
+      "summary": "Badging in. Production for Season 3 of #ThePitt has begun.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Optional"
     }
   ],
   "recommendations": {
@@ -472,8 +846,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 8,
-    "trailerCount": 12,
-    "sourceCount": 12
+    "youtubeCount": 25,
+    "trailerCount": 29,
+    "sourceCount": 22
   }
 }

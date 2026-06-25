@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-25T05:00:02.633130Z
+Generated: 2026-06-25T09:00:43.493456Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are What training my chaotic dog taught me about power, control – and human beings, OpenAI and Broadcom announce chip designed for LLM inference at scale, and Microsoft introduces cheaper Surface devices with half the memory.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are What training my chaotic dog taught me about power, control – and human beings, OpenAI and Broadcom announce chip designed for LLM inference at scale, and Microsoft introduces cheaper Surface devices with half the memory.
 
 ## Briefing
 
@@ -60,25 +60,34 @@ Microsoft just added a cheaper 12-inch Surface Pro and 13-inch Surface Laptop to
 
 Link: https://www.theverge.com/tech/956504/microsoft-surface-pro-laptop-ram
 
-### 4. Google is finally opening the Play Store to outside payments [10/10]
+### 4. GTA VI is a worrying sign for the future of physical games [10/10]
 **Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-While the court still hasn't signed off on the massive settlement resolving Epic's antitrust lawsuit against Google for having a monopoly over Android's app store with Google Play, the tech giant says it will start rolling out changes to…
+Rockstar Games has finally given Grand Theft Auto VI a price ahead of the game's November 19th launch. But while announcing that the game would cost $79.
 
-Link: https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust
+Link: https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games
 
-### 5. Fidalgo caps Mexico rout as co-hosts maintain 100% record and send Czechia out [9/10]
+### 5. ‘It’s like a furnace’: French struggle with heat-trap homes as climate inequality grows [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-There are ways of leaving a tournament. You can go out with a sheen of glory, having gone to-to-toe with a great opponent. You can be unlucky and go home raging at referees and the fates.
+Many of France’s buildings are not designed for hot weather – and low-income housing estates are suffering the worst Living in a sweltering, seventh-floor flat on a concrete housing estate south of Paris, Samira said she was feeling…
 
-Link: https://www.theguardian.com/football/2026/jun/25/mexico-czechia-world-cup-2026-match-report
+Link: https://www.theguardian.com/world/2026/jun/25/french-heat-trap-homes-climate-inequality-grows
 
-### 6. Iowa Audit Analyzes Impact of State’s Education Savings Account Program [9/10]
+### 6. FCC plans ID mandate that could block anonymous use of prepaid burner phones [9/10]
+**Source:** Ars Technica  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Privacy advocates and domestic violence groups say ID mandate is a big mistake.
+
+Link: https://arstechnica.com/tech-policy/2026/06/fcc-plans-id-mandate-that-could-block-anonymous-use-of-prepaid-burner-phones/
+
+### 7. Iowa Audit Analyzes Impact of State’s Education Savings Account Program [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -87,7 +96,7 @@ Nearly 79% of students who used Iowa’s funding program for K-12 private school
 
 Link: https://www.the74million.org/article/auditor-school-choice-cost-iowans-258-million/
 
-### 7. "We’re not trying to build Titanfall 3," Empulse CEO says, though its’s scratching my wallrunning FPS itch all the same [9/10]
+### 8. "We’re not trying to build Titanfall 3," Empulse CEO says, though its’s scratching my wallrunning FPS itch all the same [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -96,7 +105,7 @@ Empulse developers 1047 Games are known first for their Splitgate series of Port
 
 Link: https://www.rockpapershotgun.com/were-not-trying-to-build-titanfall-3-empulse-ceo-says-though-itss-scratching-my-wallrunning-fps-itch-all-the-same
 
-### 8. Podcast: If AI Is Sentient Then So Is ‘Age of Empires II [9/10]
+### 9. Podcast: If AI Is Sentient Then So Is ‘Age of Empires II [9/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -105,7 +114,7 @@ A surreal but compelling LLM experiment with Age of Empires II; how a Texas city
 
 Link: https://www.404media.co/podcast-if-ai-is-sentient-then-so-is-age-of-empires-ii/
 
-### 9. Florida District’s Goal: Reading Proficiency for 90% of 3rd Graders [9/10]
+### 10. Florida District’s Goal: Reading Proficiency for 90% of 3rd Graders [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -114,7 +123,16 @@ Last year, Indian River County tied for the highest scores in third grade readin
 
 Link: https://www.the74million.org/article/florida-districts-goal-reading-proficiency-for-90-of-3rd-graders/
 
-### 10. The Magic Faraway Tree Trailer Gives Us the Film’s Plot and a Whole Lot of Whimsy [8/10]
+### 11. Despite AI bubble fears, memory chip makers work to fill insatiable demand [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Markets have been on edge about the AI investment boom, but earnings from the biggest U.S. memory chip maker, Micron, signal no end in sight to demand for the microchips at the heart of it all.
+
+Link: https://www.npr.org/2026/06/25/nx-s1-5869540/despite-ai-bubble-fears-memory-chip-makers-work-to-fill-insatiable-demand
+
+### 12. The Magic Faraway Tree Trailer Gives Us the Film’s Plot and a Whole Lot of Whimsy [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -122,24 +140,6 @@ Link: https://www.the74million.org/article/florida-districts-goal-reading-profic
 There’s even a fart joke in there The post The Magic Faraway Tree Trailer Gives Us the Film’s Plot and a Whole Lot of Whimsy appeared first on Reactor .
 
 Link: https://reactormag.com/magic-faraway-tree-trailer-2/
-
-### 11. Meta plans to release AI-powered prediction market app, documents show [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-The company is building an app separate from Facebook and Instagram where people can wager on the outcome of real-world events, using "play money."
-
-Link: https://www.npr.org/2026/06/24/nx-s1-5869486/meta-prediction-market-app-ai
-
-### 12. Inside the gold-mining town where the Ebola outbreak likely started [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-NPR reports from Mongbwalu in the Democratic Republic of Congo. The fight to contain the virus faces obstacles from lack of supplies to residents who doubt that the virus is real.
-
-Link: https://www.npr.org/2026/06/24/nx-s1-5863157/ebola-outbreak-democratic-republic-congo-health-crisis
 
 ### 13. 13 Fourth of July recipes for a summer celebration: Including lots of festive dessert ideas. [7/10]
 **Source:** King Arthur Baking  
@@ -151,6 +151,159 @@ The Fourth of July is here, which means cookout season is upon us! And maybe thi
 Link: https://www.kingarthurbaking.com/blog/2026/06/24/4th-of-july-dessert-ideas
 
 ## YouTube
+
+### DeepSeek Just Solved AI's Billion Dollar Problem [7/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://arxiv.org/abs/2602.
+
+Link: https://www.youtube.com/watch?v=mG4SmhWyeFA
+
+### MrBallen's Teachers Taunted Him For This [9/10]
+**Creator:** WIRED  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Ex-Navy SEAL turned content creator MrBallen visits WIRED to answer his most searched questions on Google.
+
+Link: https://www.youtube.com/watch?v=08sNIAe1-xE
+
+### Mamdani-backed candidates sweep congressional primaries [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+It was a big night for New York City Mayor Zohran Mamdani, whose endorsed slate of congressional candidates swept their Democratic primaries Tuesday.
+
+Link: https://www.youtube.com/watch?v=nrP6tB_5RrA
+
+### Former Vice President Mike Pence revisits the ideals of the Republican Party in a new book [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+In a new book, "What Conservatives Believe," former Vice President Mike Pence revisits the ideals that once inspired a significant base of the Republican Party.
+
+Link: https://www.youtube.com/watch?v=pLsAhHNKr3o
+
+### It’s been five years since a beachfront condominium collapsed in Surfside, Fla., killing 98 people [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+It’s been five years since a beachfront condominium collapsed in Surfside, Florida, killing 98 people. Families of the victims say not enough has been done to address the cause of the collapse, and are pushing for a permanent memorial.
+
+Link: https://www.youtube.com/watch?v=aXbDQ0Du2DE
+
+### Ukrainian drone operators test their piloting skills in military competition [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+As drones become the weapon of choice in the Russia-Ukraine war, a group of soldiers test their skills in an unusual competition.
+
+Link: https://www.youtube.com/watch?v=lC9AUllDICc
+
+### Legendary music executive Clive Davis dies at 94 [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+The famed music executive Clive Davis has died. He was 94 years old. For decades, Davis shepherded the careers of stars including Aretha Franklin, Lou Reed and Whitney Houston.
+
+Link: https://www.youtube.com/watch?v=CWxVBdTX-Hk
+
+### Mike Pence on how the Republican party has changed under Donald Trump [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Former Vice President Mike Pence says his conservative politics have remained consistent while the Republican party changed.
+
+Link: https://www.youtube.com/watch?v=iYgzC5trG3Y
+
+### U.S. ends HIV/AIDS funding for South Africa [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The State Department has confirmed that it plans to phase out by March HIV/AIDS funding to South Africa, where roughly 8 million people are living with the virus.
+
+Link: https://www.youtube.com/watch?v=WGNiNVk0KJ4
+
+### RTX 50-Series Super Back In Contention? What Should We Expect? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=Qc8Jrlf15yg
+
+### Gears of War E-Day + Unreal Engine 5.8 Reaction + Analysis [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=zBll1-iz5fQ
+
+### Steam Machine vs DIY PC Build Performance: Ryzen 5 5600X, RX 6600, 7600, 9060 XT [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/WhWtLi_FqLo ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=IdyZLjWKCAM
+
+### Switch 2's Next Wave Of Third Party Games: Stellar Blade + More [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=7YNTEfJvy5Q
+
+### New GTA 6 Footage And The Case Of The Missing Ferris Wheel Reflection [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=U1fXpySVM84
+
+### Steam Machine vs PlayStation 5 Performance Analysis [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/WhWtLi_FqLo ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=AfM4x4Bs2lA
+
+### ARM's DLSS-Like Mobile Tech Explained [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=HX4-_WWeH_Y
+
+### Switch 2 Replaceable Battery EU Edition Confirmed [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=ymyIUYR5IXE
 
 ### How Does Star Fox: Assault Hold Up in 2026? w/ KC and Marty [7/10]
 **Creator:** Second Wind  
@@ -252,6 +405,150 @@ Link: https://www.youtube.com/watch?v=d6YpdcwKBd4
 - **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
 
 ## Trailers / Previews
+
+### Shrek 5 | Official Teaser Trailer [10/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+It’s happening... it’s really happening! Experience Shrek 5 only in theaters summer 2027.
+
+Link: https://www.youtube.com/watch?v=Swiz1XyfhcI
+
+### KLARA AND THE SUN – Official Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Meet Klara. Your new best (artificial) friend. 🌞 Jenna Ortega is Klara in Director Taika Waititi’s adaptation of Kazuo Ishiguro’s #KlaraAndTheSun - coming exclusively to theatres October 23. Watch the trailer now.
+
+Link: https://www.youtube.com/watch?v=wixzainceAE
+
+### SPIDER-MAN: BRAND NEW DAY – New Trailer [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.
+
+Link: https://www.youtube.com/watch?v=Rv1dodCKgvE
+
+### SPIDER-MAN: BRAND NEW DAY – New Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.
+
+Link: https://www.youtube.com/watch?v=62bIsvRcPv0
+
+### THE SOCIAL RECKONING – Official Teaser Trailer (HD) [9/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Every revolution begins with a reckoning. The Social Reckoning, a companion piece to The Social Network, is coming exclusively to theatres October 9.
+
+Link: https://www.youtube.com/watch?v=gM4LkaXwGuY
+
+### Whalefall | Official Teaser | In Theaters October 16 [7/10]
+**Source:** 20th Century Studios  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The odds of being swallowed alive by a whale are not zero. Watch the new teaser for #Whalefall and see the film only in theaters October 16.
+
+Link: https://www.youtube.com/watch?v=67ho3OxCmmM
+
+### The Dog Stars | In Theaters August 28 [8/10]
+**Source:** 20th Century Studios  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters August 28. Full trailer online now.
+
+Link: https://www.youtube.com/watch?v=h-AyrYcuL8U
+
+### The Dog Stars | In Theaters August 28 [8/10]
+**Source:** 20th Century Studios  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+THE DOG STARS. Jacob Elordi. Ridley Scott. Full trailer online now.
+
+Link: https://www.youtube.com/watch?v=mx15DclPXJQ
+
+### The Dog Stars | Official Trailer | In Theaters Aug 28 [8/10]
+**Source:** 20th Century Studios  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Fear the survivors. THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters August 28.
+
+Link: https://www.youtube.com/watch?v=sVCrTJdNtSs
+
+### The Debut | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.
+
+Link: https://www.youtube.com/watch?v=clyzHmBx43E
+
+### The Invite | Official First Look | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.
+
+Link: https://www.youtube.com/watch?v=MrKYHdDzu0g
+
+### The Invite | Official Trailer 2 HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.
+
+Link: https://www.youtube.com/watch?v=nelkiuezJxg
+
+### Sheep in the Box - Official Trailer - In Theaters July 24 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In the near future, Otone and Kensuke, a grieving couple who have lost their son, take into their lives a humanoid identical to their late child.
+
+Link: https://www.youtube.com/watch?v=j5mlc8TAPNw
+
+### Once Upon a Time in Harlem - Official Teaser Trailer - In Select Theaters October 16 [7/10]
+**Source:** NEON  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem…
+
+Link: https://www.youtube.com/watch?v=zIjmgj5rbOY
+
+### Worst Neighbor Ever Season 1 | Official Trailer [10/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on July 1. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
+
+Link: https://www.youtube.com/watch?v=cWgSDtI5khA
+
+### Blood Sacrifice | Date Announcement | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Time is running out! From George Kay, the creator behind global hit series Lupin and Hijack, comes Blood Sacrifice (previously titled The Case): A gripping new Swedish crime thriller series premiering on August 20 on Netflix.
+
+Link: https://www.youtube.com/watch?v=Q6gx1QdkUJo
 
 ### My Life with the Walter Boys Season 3 drops August 6th—here is your first look! ✨ [10/10]
 **Source:** Netflix  
@@ -360,3 +657,12 @@ Link: https://www.youtube.com/watch?v=aIkRFKsoOiM
 Kyle Cooke and Eric André behind the decks at the NYC premiere of LITTLE BROTHER Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=13KcF6XOkyc
+
+### Badging in. Production for Season 3 of #ThePitt has begun. [6/10]
+**Source:** HBO Max  
+**Verdict:** Optional  
+**Why it matters:** Relevant to your current interest graph.
+
+Badging in. Production for Season 3 of #ThePitt has begun.
+
+Link: https://www.youtube.com/watch?v=MMvNPdSWjEw
