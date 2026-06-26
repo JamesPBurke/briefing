@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-26T05:00:03.054769Z
+Generated: 2026-06-26T09:00:39.951878Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are California billionaire tax will appear on ballot after deadline for deal passes, This year’s Prime Day deals on Apple products are the best I’ve seen, and Phoebe Bridgers: Lost Boys review – ghosts, guns and guileless youth on generational songwriter’s return.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Bizarre questions and an all-male ‘jury’: woman strangled by US pilot in Britain tells of airbase trial, USA suffer late defeat to Turkey but eye Bosnia and Herzegovina in World Cup knockout stage, and ‘Kind of miracle solution’: How Paris is harnessing the Seine to replace air-con.
 
 ## Briefing
 
@@ -33,7 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. California billionaire tax will appear on ballot after deadline for deal passes [10/10]
+### 1. Bizarre questions and an all-male ‘jury’: woman strangled by US pilot in Britain tells of airbase trial [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Sarah Steele waives anonymity to call for greater scrutiny of how US military courts are allowed to ‘rip apart’ vulnerable witnesses in the UK Why did a US fighter pilot avoid British trial after strangling a woman in England? Explainer:…
+
+Link: https://www.theguardian.com/uk-news/2026/jun/26/male-jury-woman-strangled-by-us-pilot-britain-airbase-trial
+
+### 2. USA suffer late defeat to Turkey but eye Bosnia and Herzegovina in World Cup knockout stage [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The US men’s national team have already made history this summer.
+
+Link: https://www.theguardian.com/football/2026/jun/26/turkey-usa-world-cup-2026-match-report
+
+### 3. ‘Kind of miracle solution’: How Paris is harnessing the Seine to replace air-con [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+City plans to triple system of underground pipes that distribute chilled river water, reducing need for individual cooling units As heatwaves intensify across Europe, most cities are reaching for a familiar fix of more air conditioning.
+
+Link: https://www.theguardian.com/environment/2026/jun/26/underground-revolution-seine-cooling-network-paris-buildings-heat
+
+### 4. California billionaire tax will appear on ballot after deadline for deal passes [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,25 +69,16 @@ Proposal to introduce one-time tax of 5% will go to voters in November after bac
 
 Link: https://www.theguardian.com/technology/2026/jun/25/california-billionaire-tax-ballot
 
-### 2. This year’s Prime Day deals on Apple products are the best I’ve seen [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Amazon’s Prime Day is now in its third day, and whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount.
-
-Link: https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026
-
-### 3. Phoebe Bridgers: Lost Boys review – ghosts, guns and guileless youth on generational songwriter’s return [10/10]
+### 5. Phoebe Bridgers: Lost Boys review – ghosts, guns and guileless youth on generational songwriter’s return [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-(Dead Oceans) The US singer took years off after becoming ‘world-weary’ of public life – and in the meantime, her silvery balladry reshaped pop.
+(Dead Oceans) The US singer took years away from public life after her silvery balladry reshaped pop.
 
 Link: https://www.theguardian.com/music/2026/jun/26/phoebe-bridgers-lost-boys-review
 
-### 4. OpenAI will delay GPT-5.6 after Trump administration request [10/10]
+### 6. OpenAI will delay GPT-5.6 after Trump administration request [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -69,32 +87,14 @@ The Trump administration, apprehensive of potential security issues, has reporte
 
 Link: https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request
 
-### 5. Reflecting pool was cut with ‘sharp knife or razor’, National Park Service says [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 7. Repositioning retail for the AI era [10/10]
+**Source:** MIT Technology Review  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Senior official alleges in court filing that damage included about ‘70 fence post tops thrown’ into the pool A senior National Park Service (NPS) official has said a liner along the bottom of the Lincoln Memorial reflecting pool was “cut…
+Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice.
 
-Link: https://www.theguardian.com/us-news/2026/jun/25/reflecting-pool-national-park-service
-
-### 6. Reed Hastings on What It Will Take for AI to Be Different From Other Ed Tech [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Class Disrupted is an education podcast featuring author Michael Horn and Futre’s Diane Tavenner in conversation with educators, school leaders, students and other members of school communities as they investigate the challenges facing the…
-
-Link: https://www.the74million.org/article/reed-hastings-on-what-it-will-take-for-ai-to-be-different-from-other-edtech/
-
-### 7. Russia preparing possible ‘provocation’ in Baltic states or Poland, sources say [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Kremlin may attempt to test Nato cohesion as Russia comes under growing pressure from Ukraine, according to sources from two countries Two countries on Nato’s eastern flank have warned that Russia is preparing a possible “provocation” in…
-
-Link: https://www.theguardian.com/world/2026/jun/26/russia-provocation-baltic-states-poland
+Link: https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/
 
 ### 8. A year on from its launch, former Blizzard devs' Wildgate only has one last update left, but it's not shutting down [9/10]
 **Source:** Rock Paper Shotgun  
@@ -105,7 +105,16 @@ Welp, almost a year on from its launch, Wildgate's story is coming to an end. Fo
 
 Link: https://www.rockpapershotgun.com/a-year-on-from-its-launch-former-blizzard-devs-wildgate-only-has-one-last-update-left-but-its-not-shutting-down
 
-### 9. ‘Historic’: Kansas City Public Schools Teachers Win 5% Raise [9/10]
+### 9. Reed Hastings on What It Will Take for AI to Be Different From Other Ed Tech [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Class Disrupted is an education podcast featuring author Michael Horn and Futre’s Diane Tavenner in conversation with educators, school leaders, students and other members of school communities as they investigate the challenges facing the…
+
+Link: https://www.the74million.org/article/reed-hastings-on-what-it-will-take-for-ai-to-be-different-from-other-edtech/
+
+### 10. ‘Historic’: Kansas City Public Schools Teachers Win 5% Raise [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -114,7 +123,7 @@ Kansas City Public Schools teachers will receive a 5% base salary raise after th
 
 Link: https://www.the74million.org/article/historic-kansas-city-public-schools-teachers-win-5-raise/
 
-### 10. Practical Magic 2 Trailer Reveals the Curse Is Still There and the Kids Are in Trouble [8/10]
+### 11. Practical Magic 2 Trailer Reveals the Curse Is Still There and the Kids Are in Trouble [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -123,7 +132,7 @@ We also get a tattoo-covered Lee Pace The post Practical Magic 2 Trailer Reveals
 
 Link: https://reactormag.com/practical-magic-2-trailer-2-plot/
 
-### 11. Supreme Court backs Monsanto in its fight against liability from popular weed killer [8/10]
+### 12. Supreme Court backs Monsanto in its fight against liability from popular weed killer [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -132,7 +141,7 @@ The central issue in the Roundup case, filed by Missouri resident John Durnell, 
 
 Link: https://www.npr.org/2026/06/25/g-s1-120233/supreme-court-monsanto-roundup-decision
 
-### 12. Bodycam Shows Moment Cops Arrested a Man for Speaking Too Long at Data Center Meeting [8/10]
+### 13. Bodycam Shows Moment Cops Arrested a Man for Speaking Too Long at Data Center Meeting [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -140,15 +149,6 @@ Link: https://www.npr.org/2026/06/25/g-s1-120233/supreme-court-monsanto-roundup-
 We spoke to Darren Blanchard, the man arrested while speaking out against data centers at a community meeting. He's sharing the bodycam footage of his arrest for the first time with 404 Media.
 
 Link: https://www.404media.co/bodycam-footage-video-claremore-oklahoma-data-center-meeting/
-
-### 13. Despite AI bubble fears, memory chip makers work to fill insatiable demand [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Markets have been on edge about the AI investment boom, but earnings from the biggest U.S. memory chip maker, Micron, signal no end in sight to demand for the microchips at the heart of it all.
-
-Link: https://www.npr.org/2026/06/25/nx-s1-5869540/despite-ai-bubble-fears-memory-chip-makers-work-to-fill-insatiable-demand
 
 ## YouTube
 
@@ -161,9 +161,9 @@ Clever Hans was a horse that could do maths, or was it using some other trick? I
 
 Link: https://www.youtube.com/watch?v=0GQ2RP-25gM
 
-### Trepanning: The Original Lobotomy [8/10]
+### Trepanning: The Original Lobotomy [7/10]
 **Creator:** WIRED  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Medical historian Richard Barnett talks about trepanning, a neolithic approach to problem-solving. #History #LouisPasteur #AlexanderFleming Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.
@@ -242,7 +242,79 @@ Former Vice President Mike Pence says his conservative politics have remained co
 
 Link: https://www.youtube.com/watch?v=iYgzC5trG3Y
 
-### The Road to GTA 6 Has Begun | Firelink Podcast [10/10]
+### COD Black Ops 1 and 2 Are Coming To PlayStation [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=X473r3s6iTg
+
+### Say Hello To The $3000 PS5 8TB SSD [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=IPFyNV79FIk
+
+### RTX 50-Series Super Back In Contention? What Should We Expect? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=Qc8Jrlf15yg
+
+### Gears of War E-Day + Unreal Engine 5.8 Reaction + Analysis [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=zBll1-iz5fQ
+
+### Steam Machine vs DIY PC Build Performance: Ryzen 5 5600X, RX 6600, 7600, 9060 XT [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/WhWtLi_FqLo ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=IdyZLjWKCAM
+
+### Switch 2's Next Wave Of Third Party Games: Stellar Blade + More [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=7YNTEfJvy5Q
+
+### New GTA 6 Footage And The Case Of The Missing Ferris Wheel Reflection [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=U1fXpySVM84
+
+### Steam Machine vs PlayStation 5 Performance Analysis [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/WhWtLi_FqLo ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=AfM4x4Bs2lA
+
+### The Road to GTA 6 Has Begun | Firelink Podcast [9/10]
 **Creator:** Second Wind  
 **Verdict:** Watch it  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -251,9 +323,9 @@ This week on Firelink, KC and Marty chat about the details surrounding Grand The
 
 Link: https://www.youtube.com/watch?v=1YmEcsHVF64
 
-### Exploring Sunny Washington, D.C in Fallout 3 w/ Jack, Jess, and Marty -- Part 3 [8/10]
+### Exploring Sunny Washington, D.C in Fallout 3 w/ Jack, Jess, and Marty -- Part 3 [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
@@ -415,6 +487,24 @@ Fear the survivors. THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, J
 
 Link: https://www.youtube.com/watch?v=sVCrTJdNtSs
 
+### The Debut | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.
+
+Link: https://www.youtube.com/watch?v=clyzHmBx43E
+
+### The Invite | Official First Look | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.
+
+Link: https://www.youtube.com/watch?v=MrKYHdDzu0g
+
 ### Sheep in the Box - Official Trailer - In Theaters July 24 [8/10]
 **Source:** NEON  
 **Verdict:** Looks promising  
@@ -432,6 +522,15 @@ Link: https://www.youtube.com/watch?v=j5mlc8TAPNw
 A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem…
 
 Link: https://www.youtube.com/watch?v=zIjmgj5rbOY
+
+### Worst Neighbor Ever Season 1 | Official Trailer [10/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on July 1. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
+
+Link: https://www.youtube.com/watch?v=cWgSDtI5khA
 
 ### Ransom Canyon: Season 2 | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
@@ -540,3 +639,12 @@ Link: https://www.youtube.com/watch?v=Va83MtpbUto
 As the United States approaches its 250th anniversary, the new five-part documentary series from Luminant and Playtone reexamines the improbable achievement that was the nation’s founding, and the radical question at the center of the…
 
 Link: https://www.youtube.com/watch?v=mEfe4T6R6Z0
+
+### Badging in. Production for Season 3 of #ThePitt has begun. [6/10]
+**Source:** HBO Max  
+**Verdict:** Optional  
+**Why it matters:** Relevant to your current interest graph.
+
+Badging in. Production for Season 3 of #ThePitt has begun.
+
+Link: https://www.youtube.com/watch?v=MMvNPdSWjEw
