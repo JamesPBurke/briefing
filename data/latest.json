@@ -1,90 +1,90 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-26T09:00:39.951878Z",
-  "generatedAtDisplay": "2026-06-26 05:00 AM EDT",
+  "generatedAt": "2026-06-26T14:00:03.685380Z",
+  "generatedAtDisplay": "2026-06-26 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Bizarre questions and an all-male ‘jury’: woman strangled by US pilot in Britain tells of airbase trial, USA suffer late defeat to Turkey but eye Bosnia and Herzegovina in World Cup knockout stage, and ‘Kind of miracle solution’: How Paris is harnessing the Seine to replace air-con.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Ex-Trump adviser John Bolton expected to plead guilty in classified information case – US politics live, The Steam Machine knock-offs begin as Stim Machine attempts to offer a more powerful machine at the same price and shape, and Apple’s AirPods Max 2 headphones are still $150 off — for now.",
   "mainItems": [
     {
-      "title": "Bizarre questions and an all-male ‘jury’: woman strangled by US pilot in Britain tells of airbase trial",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/26/male-jury-woman-strangled-by-us-pilot-britain-airbase-trial",
-      "published": "2026-06-26T05:00:09+00:00",
-      "summary": "Sarah Steele waives anonymity to call for greater scrutiny of how US military courts are allowed to ‘rip apart’ vulnerable witnesses in the UK Why did a US fighter pilot avoid British trial after strangling a woman in England? Explainer:…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "USA suffer late defeat to Turkey but eye Bosnia and Herzegovina in World Cup knockout stage",
+      "title": "Ex-Trump adviser John Bolton expected to plead guilty in classified information case – US politics live",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/football/2026/jun/26/turkey-usa-world-cup-2026-match-report",
-      "published": "2026-06-26T04:55:18+00:00",
-      "summary": "The US men’s national team have already made history this summer.",
+      "url": "https://www.theguardian.com/us-news/live/2026/jun/26/trump-news-john-bolton-updates-today",
+      "published": "2026-06-26T13:12:18+00:00",
+      "summary": "Bolton to plead guilty charges that he unlawfully retained sensitive national security information in agreement that includes $2.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "‘Kind of miracle solution’: How Paris is harnessing the Seine to replace air-con",
-      "source": "The Guardian US",
+      "title": "The Steam Machine knock-offs begin as Stim Machine attempts to offer a more powerful machine at the same price and shape",
+      "source": "Eurogamer",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/environment/2026/jun/26/underground-revolution-seine-cooling-network-paris-buildings-heat",
-      "published": "2026-06-26T04:00:08+00:00",
-      "summary": "City plans to triple system of underground pipes that distribute chilled river water, reducing need for individual cooling units As heatwaves intensify across Europe, most cities are reaching for a familiar fix of more air conditioning.",
+      "url": "https://www.eurogamer.net/stim-machine-knock-off--steam-machine-on",
+      "published": "2026-06-26T13:08:48+00:00",
+      "summary": "The launch of the Steam Machine has officially given us the first attempt at a knock-off. The cheekily-named Stim Machine comes from a French hardware retailer, and it's taking an aim at Valve's mini-PC in a few key ways. Read more",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "California billionaire tax will appear on ballot after deadline for deal passes",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/technology/2026/jun/25/california-billionaire-tax-ballot",
-      "published": "2026-06-26T00:14:21+00:00",
-      "summary": "Proposal to introduce one-time tax of 5% will go to voters in November after backers decline to withdraw measure California’s billionaire tax, explained: what you need to know California voters will get to decide in November whether…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Phoebe Bridgers: Lost Boys review – ghosts, guns and guileless youth on generational songwriter’s return",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/music/2026/jun/26/phoebe-bridgers-lost-boys-review",
-      "published": "2026-06-25T23:00:03+00:00",
-      "summary": "(Dead Oceans) The US singer took years away from public life after her silvery balladry reshaped pop.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+      "title": "Apple’s AirPods Max 2 headphones are still $150 off — for now",
       "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-      "published": "2026-06-25T21:57:57+00:00",
-      "summary": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Repositioning retail for the AI era",
-      "source": "MIT Technology Review",
       "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-      "published": "2026-06-25T14:22:59+00:00",
-      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice.",
+      "url": "https://www.theverge.com/gadgets/957605/apple-airpods-max-2-headphones-prime-day-deal-sale",
+      "published": "2026-06-26T13:06:02+00:00",
+      "summary": "One of the best deals this ongoing Prime Day has been on Apple’s latest flagship headphones. The AirPods Max 2 are still available for a heavily discounted price of $399 ($150 off) at Walmart, even though they sold out at Amazon.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "A year on from its launch, former Blizzard devs' Wildgate only has one last update left, but it's not shutting down",
+      "title": "Clutch doesn't look like just a Forza Horizon clone, judging by its first lengthy livestream, though I'm concerned it might spread itself too thin",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/a-year-on-from-its-launch-former-blizzard-devs-wildgate-only-has-one-last-update-left-but-its-not-shutting-down",
-      "published": "2026-06-25T21:54:11+00:00",
-      "summary": "Welp, almost a year on from its launch, Wildgate's story is coming to an end. For a refresher, this is the sci-fi shooter from Moonshot Games led by Starcraft 2 lead designer Dustin Browder.",
+      "url": "https://www.rockpapershotgun.com/clutch-doesnt-look-like-just-a-forza-horizon-clone-judging-by-its-first-lengthy-livestream-though-im-concerned-it-might-spread-itself-too-thin",
+      "published": "2026-06-26T13:00:00+00:00",
+      "summary": "If there's one obvious criticism you can levy at Forza Horizon 6 , aside from who bankrolled it , it's that Playground Games' latest racer's very much an iterative sequel .",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
+      "score": 10
+    },
+    {
+      "title": "Samsung will soon start charging to access its smart home API",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/957597/samsung-smartthings-api-charges",
+      "published": "2026-06-26T12:38:18+00:00",
+      "summary": "From October this year Samsung will roll out a variety of new paid tiers for access to its SmartThings API, including a $4.99 monthly plan for \"non-commercial, individual developers.\" It won't just be developers that pay the price though.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Prime Day is offering rare discounts on Philips Hue smart lights",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale",
+      "published": "2026-06-26T12:20:44+00:00",
+      "summary": "Philips Hue products don’t often see major discounts, which makes this year’s Prime Day deals especially notable.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "\"Once Darth Vader came for you, you were just going to die\": We could have had an MMO about Jedi refugees hiding from the Empire, if Star Wars Galaxies had gone differently",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/once-darth-vader-came-for-you-you-were-just-going-to-die-we-could-have-had-an-mmo-about-jedi-refugees-hiding-from-the-empire-if-star-wars-galaxies-had-gone-differently",
+      "published": "2026-06-26T12:20:23+00:00",
+      "summary": "A long time ago in a games industry far, far away, a bunch of Sony Online Entertainment developers had the crazy idea of adding Jedi characters to an MMO without either robbing all the other classes of appeal, or nerfing the Force-wielders…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+      "published": "2026-06-26T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
     },
     {
       "title": "Reed Hastings on What It Will Take for AI to Be Different From Other Ed Tech",
@@ -107,6 +107,16 @@
       "score": 9
     },
     {
+      "title": "Australia plans to strengthen laws banning children from social media",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/06/26/g-s1-130375/australia-plans-to-strengthen-laws-banning-children-from-social-media",
+      "published": "2026-06-26T13:09:30+00:00",
+      "summary": "Observers said on Friday the government is responding to evidence that the ban on young children holding accounts on platforms including Facebook, Instagram and YouTube had failed since it came into force in December year.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
+    },
+    {
       "title": "Practical Magic 2 Trailer Reveals the Curse Is Still There and the Kids Are in Trouble",
       "source": "Reactor",
       "category": "Sci-fi / horror",
@@ -123,16 +133,6 @@
       "url": "https://www.npr.org/2026/06/25/g-s1-120233/supreme-court-monsanto-roundup-decision",
       "published": "2026-06-25T14:18:22+00:00",
       "summary": "The central issue in the Roundup case, filed by Missouri resident John Durnell, was who decides what should appear on a pesticide or insecticide label and whether a federal law overrides state claims.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Bodycam Shows Moment Cops Arrested a Man for Speaking Too Long at Data Center Meeting",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/bodycam-footage-video-claremore-oklahoma-data-center-meeting/",
-      "published": "2026-06-25T13:47:00+00:00",
-      "summary": "We spoke to Darren Blanchard, the man arrested while speaking out against data centers at a community meeting. He's sharing the bodycam footage of his arrest for the first time with 404 Media.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
@@ -179,8 +179,8 @@
       "published": "2026-06-25T21:56:47+00:00",
       "summary": "Another British prime minister is on his way out the door. That's six in 10 years. Now, the UK is once again looking for a new leader.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Mamdani-backed candidates sweep congressional primaries",
@@ -570,6 +570,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Kaulitz & Kaulitz: Season 3 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=g4qSaXDIyLg",
+      "published": "2026-06-26T13:00:00+00:00",
+      "summary": "The twins are back — with more feelings, more drama and an iconic pool party. Kaulitz & Kaulitz: Season 3, premieres July 23. Only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Ransom Canyon: Season 2 | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -688,17 +699,6 @@
       "summary": "NETFLIX PLAYGROUND! A world of games for little ones to play with Big Bird, Peppa, Gabby, HUNTR/X, and many more of their favorite characters. Available now! Download Netflix Playground: http://bit.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The American Experiment | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=mEfe4T6R6Z0",
-      "published": "2026-06-22T16:30:00+00:00",
-      "summary": "As the United States approaches its 250th anniversary, the new five-part documentary series from Luminant and Playtone reexamines the improbable achievement that was the nation’s founding, and the radical question at the center of the…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
       "verdict": "Looks promising"
     },
     {
@@ -826,6 +826,6 @@
     "mainCount": 13,
     "youtubeCount": 26,
     "trailerCount": 26,
-    "sourceCount": 20
+    "sourceCount": 21
   }
 }

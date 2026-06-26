@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-26T09:00:39.951878Z
+Generated: 2026-06-26T14:00:03.685380Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Bizarre questions and an all-male ‘jury’: woman strangled by US pilot in Britain tells of airbase trial, USA suffer late defeat to Turkey but eye Bosnia and Herzegovina in World Cup knockout stage, and ‘Kind of miracle solution’: How Paris is harnessing the Seine to replace air-con.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Ex-Trump adviser John Bolton expected to plead guilty in classified information case – US politics live, The Steam Machine knock-offs begin as Stim Machine attempts to offer a more powerful machine at the same price and shape, and Apple’s AirPods Max 2 headphones are still $150 off — for now.
 
 ## Briefing
 
@@ -33,77 +33,77 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Bizarre questions and an all-male ‘jury’: woman strangled by US pilot in Britain tells of airbase trial [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Sarah Steele waives anonymity to call for greater scrutiny of how US military courts are allowed to ‘rip apart’ vulnerable witnesses in the UK Why did a US fighter pilot avoid British trial after strangling a woman in England? Explainer:…
-
-Link: https://www.theguardian.com/uk-news/2026/jun/26/male-jury-woman-strangled-by-us-pilot-britain-airbase-trial
-
-### 2. USA suffer late defeat to Turkey but eye Bosnia and Herzegovina in World Cup knockout stage [10/10]
+### 1. Ex-Trump adviser John Bolton expected to plead guilty in classified information case – US politics live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-The US men’s national team have already made history this summer.
+Bolton to plead guilty charges that he unlawfully retained sensitive national security information in agreement that includes $2.
 
-Link: https://www.theguardian.com/football/2026/jun/26/turkey-usa-world-cup-2026-match-report
+Link: https://www.theguardian.com/us-news/live/2026/jun/26/trump-news-john-bolton-updates-today
 
-### 3. ‘Kind of miracle solution’: How Paris is harnessing the Seine to replace air-con [10/10]
-**Source:** The Guardian US  
+### 2. The Steam Machine knock-offs begin as Stim Machine attempts to offer a more powerful machine at the same price and shape [10/10]
+**Source:** Eurogamer  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-City plans to triple system of underground pipes that distribute chilled river water, reducing need for individual cooling units As heatwaves intensify across Europe, most cities are reaching for a familiar fix of more air conditioning.
+The launch of the Steam Machine has officially given us the first attempt at a knock-off. The cheekily-named Stim Machine comes from a French hardware retailer, and it's taking an aim at Valve's mini-PC in a few key ways. Read more
 
-Link: https://www.theguardian.com/environment/2026/jun/26/underground-revolution-seine-cooling-network-paris-buildings-heat
+Link: https://www.eurogamer.net/stim-machine-knock-off--steam-machine-on
 
-### 4. California billionaire tax will appear on ballot after deadline for deal passes [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Proposal to introduce one-time tax of 5% will go to voters in November after backers decline to withdraw measure California’s billionaire tax, explained: what you need to know California voters will get to decide in November whether…
-
-Link: https://www.theguardian.com/technology/2026/jun/25/california-billionaire-tax-ballot
-
-### 5. Phoebe Bridgers: Lost Boys review – ghosts, guns and guileless youth on generational songwriter’s return [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-(Dead Oceans) The US singer took years away from public life after her silvery balladry reshaped pop.
-
-Link: https://www.theguardian.com/music/2026/jun/26/phoebe-bridgers-lost-boys-review
-
-### 6. OpenAI will delay GPT-5.6 after Trump administration request [10/10]
+### 3. Apple’s AirPods Max 2 headphones are still $150 off — for now [10/10]
 **Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request
-
-### 7. Repositioning retail for the AI era [10/10]
-**Source:** MIT Technology Review  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice.
+One of the best deals this ongoing Prime Day has been on Apple’s latest flagship headphones. The AirPods Max 2 are still available for a heavily discounted price of $399 ($150 off) at Walmart, even though they sold out at Amazon.
 
-Link: https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/
+Link: https://www.theverge.com/gadgets/957605/apple-airpods-max-2-headphones-prime-day-deal-sale
 
-### 8. A year on from its launch, former Blizzard devs' Wildgate only has one last update left, but it's not shutting down [9/10]
+### 4. Clutch doesn't look like just a Forza Horizon clone, judging by its first lengthy livestream, though I'm concerned it might spread itself too thin [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Welp, almost a year on from its launch, Wildgate's story is coming to an end. For a refresher, this is the sci-fi shooter from Moonshot Games led by Starcraft 2 lead designer Dustin Browder.
+If there's one obvious criticism you can levy at Forza Horizon 6 , aside from who bankrolled it , it's that Playground Games' latest racer's very much an iterative sequel .
 
-Link: https://www.rockpapershotgun.com/a-year-on-from-its-launch-former-blizzard-devs-wildgate-only-has-one-last-update-left-but-its-not-shutting-down
+Link: https://www.rockpapershotgun.com/clutch-doesnt-look-like-just-a-forza-horizon-clone-judging-by-its-first-lengthy-livestream-though-im-concerned-it-might-spread-itself-too-thin
+
+### 5. Samsung will soon start charging to access its smart home API [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+From October this year Samsung will roll out a variety of new paid tiers for access to its SmartThings API, including a $4.99 monthly plan for "non-commercial, individual developers." It won't just be developers that pay the price though.
+
+Link: https://www.theverge.com/tech/957597/samsung-smartthings-api-charges
+
+### 6. Prime Day is offering rare discounts on Philips Hue smart lights [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Philips Hue products don’t often see major discounts, which makes this year’s Prime Day deals especially notable.
+
+Link: https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale
+
+### 7. "Once Darth Vader came for you, you were just going to die": We could have had an MMO about Jedi refugees hiding from the Empire, if Star Wars Galaxies had gone differently [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+A long time ago in a games industry far, far away, a bunch of Sony Online Entertainment developers had the crazy idea of adding Jedi characters to an MMO without either robbing all the other classes of appeal, or nerfing the Force-wielders…
+
+Link: https://www.rockpapershotgun.com/once-darth-vader-came-for-you-you-were-just-going-to-die-we-could-have-had-an-mmo-about-jedi-refugees-hiding-from-the-empire-if-star-wars-galaxies-had-gone-differently
+
+### 8. The Download: brain-melting heatwaves and unprecedented OpenAI restrictions [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why.
+
+Link: https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/
 
 ### 9. Reed Hastings on What It Will Take for AI to Be Different From Other Ed Tech [9/10]
 **Source:** The 74  
@@ -123,7 +123,16 @@ Kansas City Public Schools teachers will receive a 5% base salary raise after th
 
 Link: https://www.the74million.org/article/historic-kansas-city-public-schools-teachers-win-5-raise/
 
-### 11. Practical Magic 2 Trailer Reveals the Curse Is Still There and the Kids Are in Trouble [8/10]
+### 11. Australia plans to strengthen laws banning children from social media [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Observers said on Friday the government is responding to evidence that the ban on young children holding accounts on platforms including Facebook, Instagram and YouTube had failed since it came into force in December year.
+
+Link: https://www.npr.org/2026/06/26/g-s1-130375/australia-plans-to-strengthen-laws-banning-children-from-social-media
+
+### 12. Practical Magic 2 Trailer Reveals the Curse Is Still There and the Kids Are in Trouble [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -132,7 +141,7 @@ We also get a tattoo-covered Lee Pace The post Practical Magic 2 Trailer Reveals
 
 Link: https://reactormag.com/practical-magic-2-trailer-2-plot/
 
-### 12. Supreme Court backs Monsanto in its fight against liability from popular weed killer [8/10]
+### 13. Supreme Court backs Monsanto in its fight against liability from popular weed killer [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -140,15 +149,6 @@ Link: https://reactormag.com/practical-magic-2-trailer-2-plot/
 The central issue in the Roundup case, filed by Missouri resident John Durnell, was who decides what should appear on a pesticide or insecticide label and whether a federal law overrides state claims.
 
 Link: https://www.npr.org/2026/06/25/g-s1-120233/supreme-court-monsanto-roundup-decision
-
-### 13. Bodycam Shows Moment Cops Arrested a Man for Speaking Too Long at Data Center Meeting [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-We spoke to Darren Blanchard, the man arrested while speaking out against data centers at a community meeting. He's sharing the bodycam footage of his arrest for the first time with 404 Media.
-
-Link: https://www.404media.co/bodycam-footage-video-claremore-oklahoma-data-center-meeting/
 
 ## YouTube
 
@@ -179,9 +179,9 @@ Ex-Navy SEAL turned content creator MrBallen visits WIRED to answer his most sea
 
 Link: https://www.youtube.com/watch?v=08sNIAe1-xE
 
-### Starmer’s successor / Reset on UK-US relationship? / Strait latest [9/10]
+### Starmer’s successor / Reset on UK-US relationship? / Strait latest [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Another British prime minister is on his way out the door. That's six in 10 years. Now, the UK is once again looking for a new leader.
@@ -532,6 +532,15 @@ You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on J
 
 Link: https://www.youtube.com/watch?v=cWgSDtI5khA
 
+### Kaulitz & Kaulitz: Season 3 | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The twins are back — with more feelings, more drama and an iconic pool party. Kaulitz & Kaulitz: Season 3, premieres July 23. Only on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=g4qSaXDIyLg
+
 ### Ransom Canyon: Season 2 | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -630,15 +639,6 @@ Link: https://www.youtube.com/watch?v=oVg6s5VoF74
 NETFLIX PLAYGROUND! A world of games for little ones to play with Big Bird, Peppa, Gabby, HUNTR/X, and many more of their favorite characters. Available now! Download Netflix Playground: http://bit.
 
 Link: https://www.youtube.com/watch?v=Va83MtpbUto
-
-### The American Experiment | Sneak Peek | Netflix [8/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-As the United States approaches its 250th anniversary, the new five-part documentary series from Luminant and Playtone reexamines the improbable achievement that was the nation’s founding, and the radical question at the center of the…
-
-Link: https://www.youtube.com/watch?v=mEfe4T6R6Z0
 
 ### Badging in. Production for Season 3 of #ThePitt has begun. [6/10]
 **Source:** HBO Max  
