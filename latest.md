@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-27T14:00:03.034238Z
+Generated: 2026-06-27T18:00:53.995619Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Science / computing. The strongest items in this run are Why is Apple asking me to pay more for Big Tech’s AI obsession?, With Star Wars: Galactic Racer, former Burnout devs have built on N64 and PS2 classics to make what they call "the purest expression of gaming", and Police arrived to arrest her father for sexual abuse. But he was making it all up.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Apple wants permission to buy memory from a blacklisted Chinese supplier, Why is Apple asking me to pay more for Big Tech’s AI obsession?, and California officials unearth 117 dog bodies, many with bullet fragments, at ‘no-kill’ shelter.
 
 ## Briefing
 
@@ -33,7 +33,16 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Why is Apple asking me to pay more for Big Tech’s AI obsession? [10/10]
+### 1. Apple wants permission to buy memory from a blacklisted Chinese supplier [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army,…
+
+Link: https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt
+
+### 2. Why is Apple asking me to pay more for Big Tech’s AI obsession? [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,34 +51,34 @@ Tim Cook recently said price increases were "unavoidable" and described the comp
 
 Link: https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech
 
-### 2. With Star Wars: Galactic Racer, former Burnout devs have built on N64 and PS2 classics to make what they call "the purest expression of gaming" [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-"Racing is crying out for a bit of consequence," says Matt Webster, Fuse Games' founder and CEO, and former general manager at Burnout and Need For Speed developer Criterion.
-
-Link: https://www.eurogamer.net/star-wars-galactic-racer-former-burnout-devs-ps1-classic-purest-expression-of-gaming
-
-### 3. Police arrived to arrest her father for sexual abuse. But he was making it all up [10/10]
+### 3. California officials unearth 117 dog bodies, many with bullet fragments, at ‘no-kill’ shelter [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Mark described abusing his daughter in a chatroom. Then it turned out nothing he had posted was true – and he walked free.
+Police say they also found more than 600 dog collars in area where they suspect animals were killed Investigators uncovered 117 dead dogs at a northern California animal rescue sanctuary, with many of the canine remains having evidence of…
 
-Link: https://www.theguardian.com/society/2026/jun/27/my-dad-bragged-online-fantasy-sexual-abuse-made-it-up
+Link: https://www.theguardian.com/us-news/2026/jun/27/dog-bodies-bullets-california-animal-shelter
 
-### 4. Trump administration partially lifts restrictions for Anthropic to access to 2 AI models [10/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+### 4. Foodie in Fairbanks: the unexpected culinary scene in the middle of Alaska [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Anthropic pulled two new AI models offline after the Trump administration said they were too dangerous for foreigners to use. Rival OpenAI agreed to let the administration vet users of its newest model.
+Locals and visitors of the Golden Heart City have a plethora of food choices to choose from – Thai, Chinese, Korean and even Moldovan cuisine Charlie Boonprasert and Tutu Navachai arrived in Fairbanks in the 1980s, when their friend…
 
-Link: https://www.npr.org/2026/06/27/nx-s1-5871245/trump-administration-imposes-restrictions-for-anthropic-to-halt-access-to-2-ai-models
+Link: https://www.theguardian.com/us-news/2026/jun/27/fairbanks-alaska-resturant-food-scene
 
-### 5. Trump’s Board of Peace plans to grant itself sweeping immunity, documents show [10/10]
+### 5. JD Vance claims US holds all the cards in Iran and will win ‘either way’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Vice-president appeared on Bill Maher’s show hours before more military strikes were exchanged in strait of Hormuz JD Vance said on Friday that the US wins “either way” regarding negotiations with Iran , pointing to what he called the…
+
+Link: https://www.theguardian.com/us-news/2026/jun/27/jd-vance-bill-maher-iran-war
+
+### 6. Trump’s Board of Peace plans to grant itself sweeping immunity, documents show [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -78,7 +87,16 @@ Draft resolution seeks to shield board members and security forces from potentia
 
 Link: https://www.theguardian.com/law/2026/jun/27/board-of-peace-legal-immunity-un
 
-### 6. Trump threatens 100% tariff on European countries that impose digital tax [10/10]
+### 7. Police arrived to arrest her father for sexual abuse. But he was making it all up [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Mark described abusing his daughter in a chatroom. Then it turned out nothing he had posted was true – and he walked free.
+
+Link: https://www.theguardian.com/society/2026/jun/27/my-dad-bragged-online-fantasy-sexual-abuse-made-it-up
+
+### 8. Trump threatens 100% tariff on European countries that impose digital tax [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -86,24 +104,6 @@ Link: https://www.theguardian.com/law/2026/jun/27/board-of-peace-legal-immunity-
 US president says levy would be imposed immediately and supersede pre-existing trade deals with the country Donald Trump has threatened to place a 100% import tariff on any European country that imposes a tax on digital services from US…
 
 Link: https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax
-
-### 7. What Should Delaware Do With Half-Empty Schools? [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-More than a dozen Delaware public schools, mostly in New Castle County, are operating at less than 60% capacity, according to data from the Delaware Department of Education. Five of those are more than half empty.
-
-Link: https://www.the74million.org/article/what-should-delaware-do-with-half-empty-schools/
-
-### 8. Gracie the giraffe who wandered off in Texas found safe – for real this time [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Animal who went missing from private ranch for nearly two weeks had been falsely reported as found earlier in the week The search for a giraffe who absconded from a private game ranch in rural Texas and effectively went missing for nearly…
-
-Link: https://www.theguardian.com/world/2026/jun/27/gracie-giraffe-found-texas-ranch
 
 ### 9. NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI [9/10]
 **Source:** Ars Technica  
@@ -114,16 +114,34 @@ NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.
 
 Link: https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/
 
-### 10. Opinion: Harnessing the Power of Music for Students With Disabilities [9/10]
+### 10. World Cup 2026: England through, Scotland wait goes on and Spain hit by injuries – live [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+⚽ Latest news from the 16th and final day of the groups ⚽ Third-place table | Player guide | Golden Boot | Mail Alex Amid all the joy, there’s the treatment of Iran.
+
+Link: https://www.theguardian.com/football/live/2026/jun/27/world-cup-2026-news-live-england-panama-croatia-ghana-colombia-portugal-dr-congo-uzbekistan-live
+
+### 11. Connecticut Schools Double Down on Early Detection to Help Reading Scores [8/10]
 **Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-It’s the same picture, every year, when my family visits India. My uncle is sitting right in the middle of the gathering, and yet the conversation never touches him. He has cerebral palsy and depends entirely on others for daily life.
+The first step to solving a reading delay is knowing it exists. Decades of research have found that all children learn to read by developing the same core skills.
 
-Link: https://www.the74million.org/article/harnessing-the-power-of-music-for-students-with-disabilities/
+Link: https://www.the74million.org/zero2eight/connecticut-schools-double-down-on-early-detection-to-help-reading-scores/
 
-### 11. If a Lyme disease vaccine gets approved, how would it go over? We asked hunters [7/10]
+### 12. Scientists Think They’ve Uncovered the 15-Million-Year-Old Origin of Laughter [7/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Recordings of laughter from humans and other great apes suggest that the distinctive rhythm of "ha ha ha" emerged in a common ancestor that lived at least 15 million years ago.
+
+Link: https://www.404media.co/scientists-think-theyve-uncovered-the-15-million-year-old-origin-of-laughter/
+
+### 13. If a Lyme disease vaccine gets approved, how would it go over? We asked hunters [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -131,520 +149,3 @@ Link: https://www.the74million.org/article/harnessing-the-power-of-music-for-stu
 Drugmakers are working on a potential new shot to prevent the tick-borne illness. How might it fare in the era of vaccine skepticism?
 
 Link: https://www.npr.org/2026/06/27/nx-s1-5859907/lyme-disease-vaccine-hesitancy-rural-hunters
-
-### 12. Behind the Blog: Salesforce Beach [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-This week, we discuss talking aloud to computers, Cannes, and “Engineering Creativity: Guac Is Extra."
-
-Link: https://www.404media.co/behind-the-blog-salesforce-beach/
-
-### 13. Supergirl Should Be Ashamed of Itself [6/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-If the DCU wanted to assure us that it had the right stuff… this wasn’t the way to do it. The post Supergirl Should Be Ashamed of Itself appeared first on Reactor .
-
-Link: https://reactormag.com/movie-review-supergirl/
-
-## YouTube
-
-### Why AI is like a (Clever Hans) Horse - Computerphile [7/10]
-**Creator:** Computerphile  
-**Verdict:** Probably worth watching  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Clever Hans was a horse that could do maths, or was it using some other trick? Is AI music classification working like a 'Clever Hans?' David Kelly is based at Kings College London. His paper is in preprint here: https://arxiv.org/pdf/2601.
-
-Link: https://www.youtube.com/watch?v=0GQ2RP-25gM
-
-### ‘Jackass’ Cast Answer The 50 Most Searched Jackass Questions [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-WIRED tasks the cast of Jackass: Best and Last to answer the 50 most searched questions about Jackass. Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.
-
-Link: https://www.youtube.com/watch?v=JKdtx6szbwI
-
-### Trepanning: The Original Lobotomy [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Medical historian Richard Barnett talks about trepanning, a neolithic approach to problem-solving. #History #LouisPasteur #AlexanderFleming Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.
-
-Link: https://www.youtube.com/watch?v=hhWWpcIiib0
-
-### MrBallen's Teachers Taunted Him For This [8/10]
-**Creator:** WIRED  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Ex-Navy SEAL turned content creator MrBallen visits WIRED to answer his most searched questions on Google.
-
-Link: https://www.youtube.com/watch?v=08sNIAe1-xE
-
-### Headline With Keywords | Desk/Show/Series | NPR [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The Forest Service says it wants to close research hubs to save money. But our investigation shows the agency plans to close one facility that costs less than $1 a year to rent while keeping open one that costs $1 million.
-
-Link: https://www.youtube.com/watch?v=B-deJQGNS50
-
-### The pope's recent statements on AI align with concerns raised by tech writers like Karen Hao [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The pope's recent statements on AI align with concerns raised by tech writers like Karen Hao, author of “Empire of AI.
-
-Link: https://www.youtube.com/watch?v=lX2tjqVAMLg
-
-### A Ukrainian military unit launches long-range drones inside Russia to weaken Russia's war machine [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-NPR joins a Ukrainian military unit that launches long-range drones deep inside Russia, including Moscow, in an effort to weaken Russia's war machine.
-
-Link: https://www.youtube.com/watch?v=4PVlTg0SP6c
-
-### Trump can begin deportations of Syrian, Haitian TPS holders, Supreme Court says [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The Supreme Court gave the Trump administration the go-ahead to begin mass deportations of hundreds of thousands of Haitians who have been living and working legally in the U.S. for years.
-
-Link: https://www.youtube.com/watch?v=45MD0q-Kw2M
-
-### Viking chant inspiring Norway through the. World Cup [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-A Viking chant is inspiring the Norwegian team at the World Cup. Norwegian fans wearing Viking helmets, seated on a moving escalator in a Boston train station, pulling imaginary oars and chanting — it's become known as the Viking Row.
-
-Link: https://www.youtube.com/watch?v=tiuR4f52_00
-
-### Actor Ebon Moss-Bachrach from FX’s The Bear talks about his character's journey in the final season [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-FX’s The Bear has entered its fifth and final season.
-
-Link: https://www.youtube.com/watch?v=eeF-kXBe1zU
-
-### Two major earthquakes strike northern Venezuela [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Search and rescue crews are pulling survivors from the rubble after two powerful earthquakes struck Venezuela less than a minute apart last night.
-
-Link: https://www.youtube.com/watch?v=bHjKH6uAYs0
-
-### Unreal Engine 6 Is Making BIG Programming Changes [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=__2uLDd6qH8
-
-### The Intel/Nvidia Partnership: What's Happening + Where Does It Leave Arc? [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/1IT7sQ7pqsE ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=CSmyWQVRYF4
-
-### COD Black Ops 1 and 2 Are Coming To PlayStation [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=X473r3s6iTg
-
-### Say Hello To The $3000 PS5 8TB SSD [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=IPFyNV79FIk
-
-### RTX 50-Series Super Back In Contention? What Should We Expect? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=Qc8Jrlf15yg
-
-### Gears of War E-Day + Unreal Engine 5.8 Reaction + Analysis [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=zBll1-iz5fQ
-
-### Steam Machine vs DIY PC Build Performance: Ryzen 5 5600X, RX 6600, 7600, 9060 XT [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/WhWtLi_FqLo ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=IdyZLjWKCAM
-
-### This Game Sold 7 Million Copies in 12 Days | Unpacked [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-While the industry seems to be burning all around us, the success of games like Meccha Chameleon show that it's not all doom and gloom. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.
-
-Link: https://www.youtube.com/watch?v=yAAs2JHGG0Y
-
-### The Road to GTA 6 Has Begun | Firelink Podcast [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Firelink, KC and Marty chat about the details surrounding Grand Theft Auto VI's launch, Netflix's new horror game, and what they've been playing.
-
-Link: https://www.youtube.com/watch?v=1YmEcsHVF64
-
-### Exploring Sunny Washington, D.C in Fallout 3 w/ Jack, Jess, and Marty -- Part 3 [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=6h5Dwwa0cMw
-
-### Forza vs. Screamer: When Too Much Is Enough [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-KC's latest video digs into the differences between how Forza Horizon 6 and Screamer handle their respective racing mechanics. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.
-
-Link: https://www.youtube.com/watch?v=JB58JqWpwSE
-
-### How Does Star Fox: Assault Hold Up in 2026? w/ KC and Marty [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-For their next franchise revisit, KC and Marty are going to take a look at the Star Fox series. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=gXqfKjExLxE
-
-### Second Wind Plays Meccha Chameleon [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Yahtzee is on holiday this week, so instead of your regular Yahtzee Tries stream, a bunch of us are going to play the new smash-hit indie Meccha Chameleon.
-
-Link: https://www.youtube.com/watch?v=ilZe4CgcRNs
-
-### Family Matters | Adventure Is Nigh! - The Slow Walk Home | Ep. 4 [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Adventure Is Nigh! is powered by Foundry Virtual Tabletop, A Self-Hosted & Modern Roleplaying Platform: https://foundryvtt.com/ The stakes have never been higher for our heroes as they learn the nature of Sebastian Piss's plan. But first...
-
-Link: https://www.youtube.com/watch?v=DiM5svyfZdc
-
-### The 2026 Summer Game Drought Vote | Fully Ramblomatic [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-It's time to vote for what game Yahtzee reviews for this Summer's Drought! If you want to vote on this year's game, support us over at Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
-
-Link: https://www.youtube.com/watch?v=hd_9FoYsLbU
-
-## Entertainment Recommendations
-
-### Newer shows that look like a fit
-
-- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
-- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
-- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
-- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
-- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
-- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
-
-### Older shows you may have missed
-
-- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
-- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
-- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
-- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
-- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
-- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
-
-### Maggie + James overlap
-
-- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
-- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
-- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
-- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
-
-## Trailers / Previews
-
-### KLARA AND THE SUN – Official Trailer (4K) [8/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Meet Klara. Your new best (artificial) friend. 🌞 Jenna Ortega is Klara in Director Taika Waititi’s adaptation of Kazuo Ishiguro’s #KlaraAndTheSun - coming exclusively to theatres October 23. Watch the trailer now.
-
-Link: https://www.youtube.com/watch?v=wixzainceAE
-
-### SPIDER-MAN: BRAND NEW DAY – New Trailer [8/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.
-
-Link: https://www.youtube.com/watch?v=Rv1dodCKgvE
-
-### SPIDER-MAN: BRAND NEW DAY – New Trailer (4K) [8/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.
-
-Link: https://www.youtube.com/watch?v=62bIsvRcPv0
-
-### THE SOCIAL RECKONING – Official Teaser Trailer (HD) [9/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Every revolution begins with a reckoning. The Social Reckoning, a companion piece to The Social Network, is coming exclusively to theatres October 9.
-
-Link: https://www.youtube.com/watch?v=gM4LkaXwGuY
-
-### Whalefall | Official Teaser | In Theaters October 16 [7/10]
-**Source:** 20th Century Studios  
-**Verdict:** Worth a glance  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-The odds of being swallowed alive by a whale are not zero. Watch the new teaser for #Whalefall and see the film only in theaters October 16.
-
-Link: https://www.youtube.com/watch?v=67ho3OxCmmM
-
-### The Dog Stars | In Theaters August 28 [8/10]
-**Source:** 20th Century Studios  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters August 28. Full trailer online now.
-
-Link: https://www.youtube.com/watch?v=h-AyrYcuL8U
-
-### The Dog Stars | In Theaters August 28 [8/10]
-**Source:** 20th Century Studios  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-THE DOG STARS. Jacob Elordi. Ridley Scott. Full trailer online now.
-
-Link: https://www.youtube.com/watch?v=mx15DclPXJQ
-
-### The Dog Stars | Official Trailer | In Theaters Aug 28 [8/10]
-**Source:** 20th Century Studios  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Fear the survivors. THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters August 28.
-
-Link: https://www.youtube.com/watch?v=sVCrTJdNtSs
-
-### The Debut | Official Trailer HD | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.
-
-Link: https://www.youtube.com/watch?v=clyzHmBx43E
-
-### The Invite | Official First Look | A24 [6/10]
-**Source:** A24  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.
-
-Link: https://www.youtube.com/watch?v=MrKYHdDzu0g
-
-### Sheep in the Box - Official Trailer - In Theaters July 24 [8/10]
-**Source:** NEON  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-In the near future, Otone and Kensuke, a grieving couple who have lost their son, take into their lives a humanoid identical to their late child.
-
-Link: https://www.youtube.com/watch?v=j5mlc8TAPNw
-
-### Once Upon a Time in Harlem - Official Teaser Trailer - In Select Theaters October 16 [7/10]
-**Source:** NEON  
-**Verdict:** Worth a glance  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem…
-
-Link: https://www.youtube.com/watch?v=zIjmgj5rbOY
-
-### Worst Neighbor Ever Season 1 | Official Trailer [10/10]
-**Source:** Blumhouse  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on July 1. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
-
-Link: https://www.youtube.com/watch?v=cWgSDtI5khA
-
-### Is that...THE GREATEST EARTHBENDER IN THE WORLD?!?!? #AvatarTheLastAirbender #Netflix #Toph [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Is that...THE GREATEST EARTHBENDER IN THE WORLD?!?!? AVATAR: THE LAST AIRBENDER is now playing, only on Netflix! Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=w6rW8d6x5bE
-
-### John Cena and Eric André's new comedy Little Brother is now playing. #Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-A famous real estate agent's carefully curated world is upended when his eccentric "little brother" unexpectedly reappears. John Cena and Eric André's new comedy Little Brother is now playing. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=SPWjOdIj1Gk
-
-### The vast world of Avatar: The Last Airbender [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-The world of Avatar is bigger than ever Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=lRaGtDE35KM
-
-### Kaulitz & Kaulitz: Season 3 | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-The twins are back — with more feelings, more drama and an iconic pool party. Kaulitz & Kaulitz: Season 3, premieres July 23. Only on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=g4qSaXDIyLg
-
-### Ransom Canyon: Season 2 | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Welcome back to Ransom! The future of Ransom Canyon hangs in the balance as ranching dynasties continue to vie for power, and new faces arrive, threatening the lives and loves of this quaint, western town.
-
-Link: https://www.youtube.com/watch?v=2XKyPE92owY
-
-### Mary Beth Barone: Galaxy Brain | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Mary Beth Barone's first hour-long stand-up special Galaxy Brain arrives on Netflix July 28. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=LtK3kHAR63E
-
-### Blood Sacrifice | Date Announcement | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Time is running out! From George Kay, the creator behind global hit series Lupin and Hijack, comes Blood Sacrifice (previously titled The Case): A gripping new Swedish crime thriller series premiering on August 20 on Netflix.
-
-Link: https://www.youtube.com/watch?v=Q6gx1QdkUJo
-
-### My Life with the Walter Boys Season 3 drops August 6th—here is your first look! ✨ [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-mentally, we are already back on the ranch. My Life with the Walter Boys Season 3 drops August 6th—here is your first look! ✨ Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=Law7SMXtjkQ
-
-### Quarterback: Season 3 | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-The series follows Jayden Daniels, Joe Flacco, Baker Mayfield, and Cam Ward, pulling back the curtain on the grind, glory, and grit that define one of the game’s toughest jobs -- on and off the field. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=rydp5C5QsPQ
-
-### Avatar: The Last Airbender | Sneak Peek: Season 2 Opening Sequence | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-New season, new opening: water, earth, fire, air. Everything changed when the fire nation attacked. Avatar: The Last Airbender Season 2 premieres June 25, only on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=iz3m_28xIIM
-
-### THE ONE PIECE | Official Teaser | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Eiichiro Oda’s manga "THE ONE PIECE" (originally serialized in Shueisha’s Weekly Shonen Jump in Japan) has become a cultural phenomenon with fans all around the globe, and now, it is being adapted as a new anime series, starting from the…
-
-Link: https://www.youtube.com/watch?v=3Gmo0EXHyKg
-
-### Sakamoto Days | Season 2 Teaser Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-The hunt for Slur's database takes Sakamoto & Shin to the ultimate assassin training institution.
-
-Link: https://www.youtube.com/watch?v=KqXEcl4Whj4
-
-### 1 Hour of Widow’s Bay Ambience | Fog, Coastal Winds & Bells | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-One hour of Widow's Bay ambience where nothing bad happens and everything is fine. A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination.
-
-Link: https://www.youtube.com/watch?v=OUfX45m5UBU
