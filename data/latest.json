@@ -1,69 +1,89 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-27T09:00:47.204688Z",
-  "generatedAtDisplay": "2026-06-27 05:00 AM EDT",
+  "generatedAt": "2026-06-27T14:00:03.034238Z",
+  "generatedAtDisplay": "2026-06-27 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Australian man arrested in Thailand after 17-year-old’s body found in suitcase, Venice protest planned for US ambassador’s superyacht visit, and These are the best deals you can still get on MacBooks before Apple’s price hike kicks in.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Science / computing. The strongest items in this run are Why is Apple asking me to pay more for Big Tech’s AI obsession?, With Star Wars: Galactic Racer, former Burnout devs have built on N64 and PS2 classics to make what they call \"the purest expression of gaming\", and Police arrived to arrest her father for sexual abuse. But he was making it all up.",
   "mainItems": [
     {
-      "title": "Australian man arrested in Thailand after 17-year-old’s body found in suitcase",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jun/27/australian-man-arrested-in-thailand-after-17-year-olds-body-found-in-suitcase",
-      "published": "2026-06-27T05:53:31+00:00",
-      "summary": "The 46-year-old was stopped at about 9.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Venice protest planned for US ambassador’s superyacht visit",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jun/27/venice-protest-planned-us-ambassador-superyacht-tour-tilman-fertitta",
-      "published": "2026-06-27T05:00:34+00:00",
-      "summary": "Activists aim to repeat disruption of Jeff Bezos’s wedding when billionaire Tilman Fertitta drops anchor Protesters in Venice are planning to disrupt a visit by the billionaire US ambassador to Italy in his 117-metre superyacht, which they…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "These are the best deals you can still get on MacBooks before Apple’s price hike kicks in",
+      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
       "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
-      "published": "2026-06-27T04:23:19+00:00",
-      "summary": "Apple just raised the prices on Macs and iPads in response to the rising costs of memory chips, right in the middle of Amazon Prime Day.",
+      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "published": "2026-06-27T13:07:36+00:00",
+      "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Polygamous sect leader guilty of abuse after girls found in trailer on highway",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/26/polygamous-sect-leader-convicted",
-      "published": "2026-06-27T00:33:34+00:00",
-      "summary": "Self-proclaimed prophet Samuel Bateman already serving 50-year prison sentence over child sexual abuse A polygamous sect leader already serving a 50-year federal prison sentence for orchestrating sex involving children was convicted Friday…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Texas makes Bible passages required reading for millions of public school students",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jun/26/texas-bible-required-reading-public-school",
-      "published": "2026-06-26T19:32:50+00:00",
-      "summary": "Critics say mandating Bible reading for over 5m students breaches constitutional separation of church and state The Texas education board has approved a broad new statewide reading list that, for the first time, will make passages from the…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "What we've been playing - \"I can feel tears starting to prickle my eyes\"",
+      "title": "With Star Wars: Galactic Racer, former Burnout devs have built on N64 and PS2 classics to make what they call \"the purest expression of gaming\"",
       "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-i-can-feel-tears-starting-to-prickle-my-eyes",
-      "published": "2026-06-27T07:00:00+00:00",
-      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing.",
+      "url": "https://www.eurogamer.net/star-wars-galactic-racer-former-burnout-devs-ps1-classic-purest-expression-of-gaming",
+      "published": "2026-06-27T12:08:00+00:00",
+      "summary": "\"Racing is crying out for a bit of consequence,\" says Matt Webster, Fuse Games' founder and CEO, and former general manager at Burnout and Need For Speed developer Criterion.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Police arrived to arrest her father for sexual abuse. But he was making it all up",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/society/2026/jun/27/my-dad-bragged-online-fantasy-sexual-abuse-made-it-up",
+      "published": "2026-06-27T11:43:15+00:00",
+      "summary": "Mark described abusing his daughter in a chatroom. Then it turned out nothing he had posted was true – and he walked free.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Trump administration partially lifts restrictions for Anthropic to access to 2 AI models",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/06/27/nx-s1-5871245/trump-administration-imposes-restrictions-for-anthropic-to-halt-access-to-2-ai-models",
+      "published": "2026-06-27T11:40:32+00:00",
+      "summary": "Anthropic pulled two new AI models offline after the Trump administration said they were too dangerous for foreigners to use. Rival OpenAI agreed to let the administration vet users of its newest model.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 10
+    },
+    {
+      "title": "Trump’s Board of Peace plans to grant itself sweeping immunity, documents show",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/law/2026/jun/27/board-of-peace-legal-immunity-un",
+      "published": "2026-06-27T11:00:04+00:00",
+      "summary": "Draft resolution seeks to shield board members and security forces from potential prosecution for work in Gaza The UN -sanctioned Board of Peace announced by Donald Trump earlier this year to rule Gaza is planning a sweeping grant of legal…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Trump threatens 100% tariff on European countries that impose digital tax",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax",
+      "published": "2026-06-27T10:20:46+00:00",
+      "summary": "US president says levy would be imposed immediately and supersede pre-existing trade deals with the country Donald Trump has threatened to place a 100% import tariff on any European country that imposes a tax on digital services from US…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "What Should Delaware Do With Half-Empty Schools?",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/what-should-delaware-do-with-half-empty-schools/",
+      "published": "2026-06-27T10:30:00+00:00",
+      "summary": "More than a dozen Delaware public schools, mostly in New Castle County, are operating at less than 60% capacity, according to data from the Delaware Department of Education. Five of those are more than half empty.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "Gracie the giraffe who wandered off in Texas found safe – for real this time",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/jun/27/gracie-giraffe-found-texas-ranch",
+      "published": "2026-06-27T09:00:00+00:00",
+      "summary": "Animal who went missing from private ranch for nearly two weeks had been falsely reported as found earlier in the week The search for a giraffe who absconded from a private game ranch in rural Texas and effectively went missing for nearly…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -87,32 +107,12 @@
       "score": 9
     },
     {
-      "title": "Texas Quietly Began Work on Divisive History Curriculum a Year Ago",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/texas-quietly-began-work-on-divisive-history-curriculum-a-year-ago/",
-      "published": "2026-06-26T10:30:00+00:00",
-      "summary": "Updated The Texas State Board of Education on Friday adopted new social studies standards for the elementary and middle grades that take an America-first approach to history and feature Christianity more prominently than other faiths.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Australia plans to strengthen laws banning children from social media",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/06/26/g-s1-130375/australia-plans-to-strengthen-laws-banning-children-from-social-media",
-      "published": "2026-06-26T13:09:30+00:00",
-      "summary": "Observers said on Friday the government is responding to evidence that the ban on young children holding accounts on platforms including Facebook, Instagram and YouTube had failed since it came into force in December year.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "U.S. pledges generous earthquake relief to Venezuela",
+      "title": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/26/nx-s1-5870652/venezuela-earthquake-usaid-u-s-aid",
-      "published": "2026-06-26T17:42:40+00:00",
-      "summary": "Secretary of State Marco Rubio promised: \"We have a whole-of-government response. It'll be big; it'll be fast; and it'll be effective.\"",
+      "url": "https://www.npr.org/2026/06/27/nx-s1-5859907/lyme-disease-vaccine-hesitancy-rural-hunters",
+      "published": "2026-06-27T10:30:00+00:00",
+      "summary": "Drugmakers are working on a potential new shot to prevent the tick-borne illness. How might it fare in the era of vaccine skepticism?",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     },
@@ -183,6 +183,39 @@
       "verdict": "Worth watching"
     },
     {
+      "title": "Headline With Keywords | Desk/Show/Series | NPR",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=B-deJQGNS50",
+      "published": "2026-06-27T13:00:25+00:00",
+      "summary": "The Forest Service says it wants to close research hubs to save money. But our investigation shows the agency plans to close one facility that costs less than $1 a year to rent while keeping open one that costs $1 million.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "The pope's recent statements on AI align with concerns raised by tech writers like Karen Hao",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=lX2tjqVAMLg",
+      "published": "2026-06-27T13:00:16+00:00",
+      "summary": "The pope's recent statements on AI align with concerns raised by tech writers like Karen Hao, author of “Empire of AI.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "A Ukrainian military unit launches long-range drones inside Russia to weaken Russia's war machine",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=4PVlTg0SP6c",
+      "published": "2026-06-27T11:30:07+00:00",
+      "summary": "NPR joins a Ukrainian military unit that launches long-range drones deep inside Russia, including Moscow, in an effort to weaken Russia's war machine.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "Trump can begin deportations of Syrian, Haitian TPS holders, Supreme Court says",
       "source": "NPR",
       "category": "News / analysis",
@@ -190,8 +223,8 @@
       "published": "2026-06-26T22:00:38+00:00",
       "summary": "The Supreme Court gave the Trump administration the go-ahead to begin mass deportations of hundreds of thousands of Haitians who have been living and working legally in the U.S. for years.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Viking chant inspiring Norway through the. World Cup",
@@ -225,39 +258,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Israeli air strikes in southern Lebanon have damaged one of its best-known archaeological sites",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=NIM_XOAqcug",
-      "published": "2026-06-26T16:00:39+00:00",
-      "summary": "Israeli air strikes in southern Lebanon have damaged one of its best-known archaeological sites. The ancient port of Tyre is listed as a UNESCO World Heritage Site.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Starmer’s successor / Reset on UK-US relationship? / Strait latest | Sources & Methods",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=6vLPS5FI134",
-      "published": "2026-06-25T21:56:47+00:00",
-      "summary": "Another British prime minister is on his way out the door. That's six in 10 years. Now, the UK is once again looking for a new leader.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Mamdani-backed candidates sweep congressional primaries",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=nrP6tB_5RrA",
-      "published": "2026-06-24T21:00:28+00:00",
-      "summary": "It was a big night for New York City Mayor Zohran Mamdani, whose endorsed slate of congressional candidates swept their Democratic primaries Tuesday.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
     },
     {
       "title": "Unreal Engine 6 Is Making BIG Programming Changes",
@@ -700,6 +700,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
+    },
+    {
+      "title": "1 Hour of Widow’s Bay Ambience | Fog, Coastal Winds & Bells | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=OUfX45m5UBU",
+      "published": "2026-06-27T12:59:51+00:00",
+      "summary": "One hour of Widow's Bay ambience where nothing bad happens and everything is fine. A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
     }
   ],
   "recommendations": {
@@ -814,7 +825,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 26,
-    "trailerCount": 25,
-    "sourceCount": 20
+    "trailerCount": 26,
+    "sourceCount": 21
   }
 }

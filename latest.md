@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-27T09:00:47.204688Z
+Generated: 2026-06-27T14:00:03.034238Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Australian man arrested in Thailand after 17-year-old’s body found in suitcase, Venice protest planned for US ambassador’s superyacht visit, and These are the best deals you can still get on MacBooks before Apple’s price hike kicks in.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Science / computing. The strongest items in this run are Why is Apple asking me to pay more for Big Tech’s AI obsession?, With Star Wars: Galactic Racer, former Burnout devs have built on N64 and PS2 classics to make what they call "the purest expression of gaming", and Police arrived to arrest her father for sexual abuse. But he was making it all up.
 
 ## Briefing
 
@@ -33,61 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Australian man arrested in Thailand after 17-year-old’s body found in suitcase [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The 46-year-old was stopped at about 9.
-
-Link: https://www.theguardian.com/world/2026/jun/27/australian-man-arrested-in-thailand-after-17-year-olds-body-found-in-suitcase
-
-### 2. Venice protest planned for US ambassador’s superyacht visit [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Activists aim to repeat disruption of Jeff Bezos’s wedding when billionaire Tilman Fertitta drops anchor Protesters in Venice are planning to disrupt a visit by the billionaire US ambassador to Italy in his 117-metre superyacht, which they…
-
-Link: https://www.theguardian.com/world/2026/jun/27/venice-protest-planned-us-ambassador-superyacht-tour-tilman-fertitta
-
-### 3. These are the best deals you can still get on MacBooks before Apple’s price hike kicks in [10/10]
+### 1. Why is Apple asking me to pay more for Big Tech’s AI obsession? [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Apple just raised the prices on Macs and iPads in response to the rising costs of memory chips, right in the middle of Amazon Prime Day.
+Tim Cook recently said price increases were "unavoidable" and described the company's pricing as "unsustainable." The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749.
 
-Link: https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes
+Link: https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech
 
-### 4. Polygamous sect leader guilty of abuse after girls found in trailer on highway [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Self-proclaimed prophet Samuel Bateman already serving 50-year prison sentence over child sexual abuse A polygamous sect leader already serving a 50-year federal prison sentence for orchestrating sex involving children was convicted Friday…
-
-Link: https://www.theguardian.com/us-news/2026/jun/26/polygamous-sect-leader-convicted
-
-### 5. Texas makes Bible passages required reading for millions of public school students [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Critics say mandating Bible reading for over 5m students breaches constitutional separation of church and state The Texas education board has approved a broad new statewide reading list that, for the first time, will make passages from the…
-
-Link: https://www.theguardian.com/us-news/2026/jun/26/texas-bible-required-reading-public-school
-
-### 6. What we've been playing - "I can feel tears starting to prickle my eyes" [9/10]
+### 2. With Star Wars: Galactic Racer, former Burnout devs have built on N64 and PS2 classics to make what they call "the purest expression of gaming" [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Hello and welcome back to our regular feature where we write a little about the games we've been playing.
+"Racing is crying out for a bit of consequence," says Matt Webster, Fuse Games' founder and CEO, and former general manager at Burnout and Need For Speed developer Criterion.
 
-Link: https://www.eurogamer.net/what-weve-been-playing-i-can-feel-tears-starting-to-prickle-my-eyes
+Link: https://www.eurogamer.net/star-wars-galactic-racer-former-burnout-devs-ps1-classic-purest-expression-of-gaming
 
-### 7. NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI [9/10]
+### 3. Police arrived to arrest her father for sexual abuse. But he was making it all up [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Mark described abusing his daughter in a chatroom. Then it turned out nothing he had posted was true – and he walked free.
+
+Link: https://www.theguardian.com/society/2026/jun/27/my-dad-bragged-online-fantasy-sexual-abuse-made-it-up
+
+### 4. Trump administration partially lifts restrictions for Anthropic to access to 2 AI models [10/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Anthropic pulled two new AI models offline after the Trump administration said they were too dangerous for foreigners to use. Rival OpenAI agreed to let the administration vet users of its newest model.
+
+Link: https://www.npr.org/2026/06/27/nx-s1-5871245/trump-administration-imposes-restrictions-for-anthropic-to-halt-access-to-2-ai-models
+
+### 5. Trump’s Board of Peace plans to grant itself sweeping immunity, documents show [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Draft resolution seeks to shield board members and security forces from potential prosecution for work in Gaza The UN -sanctioned Board of Peace announced by Donald Trump earlier this year to rule Gaza is planning a sweeping grant of legal…
+
+Link: https://www.theguardian.com/law/2026/jun/27/board-of-peace-legal-immunity-un
+
+### 6. Trump threatens 100% tariff on European countries that impose digital tax [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+US president says levy would be imposed immediately and supersede pre-existing trade deals with the country Donald Trump has threatened to place a 100% import tariff on any European country that imposes a tax on digital services from US…
+
+Link: https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax
+
+### 7. What Should Delaware Do With Half-Empty Schools? [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+More than a dozen Delaware public schools, mostly in New Castle County, are operating at less than 60% capacity, according to data from the Delaware Department of Education. Five of those are more than half empty.
+
+Link: https://www.the74million.org/article/what-should-delaware-do-with-half-empty-schools/
+
+### 8. Gracie the giraffe who wandered off in Texas found safe – for real this time [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Animal who went missing from private ranch for nearly two weeks had been falsely reported as found earlier in the week The search for a giraffe who absconded from a private game ranch in rural Texas and effectively went missing for nearly…
+
+Link: https://www.theguardian.com/world/2026/jun/27/gracie-giraffe-found-texas-ranch
+
+### 9. NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI [9/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -96,7 +114,7 @@ NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.
 
 Link: https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/
 
-### 8. Opinion: Harnessing the Power of Music for Students With Disabilities [9/10]
+### 10. Opinion: Harnessing the Power of Music for Students With Disabilities [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -105,32 +123,14 @@ It’s the same picture, every year, when my family visits India. My uncle is si
 
 Link: https://www.the74million.org/article/harnessing-the-power-of-music-for-students-with-disabilities/
 
-### 9. Texas Quietly Began Work on Divisive History Curriculum a Year Ago [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Updated The Texas State Board of Education on Friday adopted new social studies standards for the elementary and middle grades that take an America-first approach to history and feature Christianity more prominently than other faiths.
-
-Link: https://www.the74million.org/article/texas-quietly-began-work-on-divisive-history-curriculum-a-year-ago/
-
-### 10. Australia plans to strengthen laws banning children from social media [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Observers said on Friday the government is responding to evidence that the ban on young children holding accounts on platforms including Facebook, Instagram and YouTube had failed since it came into force in December year.
-
-Link: https://www.npr.org/2026/06/26/g-s1-130375/australia-plans-to-strengthen-laws-banning-children-from-social-media
-
-### 11. U.S. pledges generous earthquake relief to Venezuela [7/10]
+### 11. If a Lyme disease vaccine gets approved, how would it go over? We asked hunters [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Secretary of State Marco Rubio promised: "We have a whole-of-government response. It'll be big; it'll be fast; and it'll be effective."
+Drugmakers are working on a potential new shot to prevent the tick-borne illness. How might it fare in the era of vaccine skepticism?
 
-Link: https://www.npr.org/2026/06/26/nx-s1-5870652/venezuela-earthquake-usaid-u-s-aid
+Link: https://www.npr.org/2026/06/27/nx-s1-5859907/lyme-disease-vaccine-hesitancy-rural-hunters
 
 ### 12. Behind the Blog: Salesforce Beach [7/10]
 **Source:** 404 Media  
@@ -188,9 +188,36 @@ Ex-Navy SEAL turned content creator MrBallen visits WIRED to answer his most sea
 
 Link: https://www.youtube.com/watch?v=08sNIAe1-xE
 
-### Trump can begin deportations of Syrian, Haitian TPS holders, Supreme Court says [8/10]
+### Headline With Keywords | Desk/Show/Series | NPR [8/10]
 **Creator:** NPR  
 **Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The Forest Service says it wants to close research hubs to save money. But our investigation shows the agency plans to close one facility that costs less than $1 a year to rent while keeping open one that costs $1 million.
+
+Link: https://www.youtube.com/watch?v=B-deJQGNS50
+
+### The pope's recent statements on AI align with concerns raised by tech writers like Karen Hao [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The pope's recent statements on AI align with concerns raised by tech writers like Karen Hao, author of “Empire of AI.
+
+Link: https://www.youtube.com/watch?v=lX2tjqVAMLg
+
+### A Ukrainian military unit launches long-range drones inside Russia to weaken Russia's war machine [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+NPR joins a Ukrainian military unit that launches long-range drones deep inside Russia, including Moscow, in an effort to weaken Russia's war machine.
+
+Link: https://www.youtube.com/watch?v=4PVlTg0SP6c
+
+### Trump can begin deportations of Syrian, Haitian TPS holders, Supreme Court says [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 The Supreme Court gave the Trump administration the go-ahead to begin mass deportations of hundreds of thousands of Haitians who have been living and working legally in the U.S. for years.
@@ -223,33 +250,6 @@ Link: https://www.youtube.com/watch?v=eeF-kXBe1zU
 Search and rescue crews are pulling survivors from the rubble after two powerful earthquakes struck Venezuela less than a minute apart last night.
 
 Link: https://www.youtube.com/watch?v=bHjKH6uAYs0
-
-### Israeli air strikes in southern Lebanon have damaged one of its best-known archaeological sites [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Israeli air strikes in southern Lebanon have damaged one of its best-known archaeological sites. The ancient port of Tyre is listed as a UNESCO World Heritage Site.
-
-Link: https://www.youtube.com/watch?v=NIM_XOAqcug
-
-### Starmer’s successor / Reset on UK-US relationship? / Strait latest | Sources & Methods [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Another British prime minister is on his way out the door. That's six in 10 years. Now, the UK is once again looking for a new leader.
-
-Link: https://www.youtube.com/watch?v=6vLPS5FI134
-
-### Mamdani-backed candidates sweep congressional primaries [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-It was a big night for New York City Mayor Zohran Mamdani, whose endorsed slate of congressional candidates swept their Democratic primaries Tuesday.
-
-Link: https://www.youtube.com/watch?v=nrP6tB_5RrA
 
 ### Unreal Engine 6 Is Making BIG Programming Changes [7/10]
 **Creator:** Digital Foundry  
@@ -639,3 +639,12 @@ Link: https://www.youtube.com/watch?v=3Gmo0EXHyKg
 The hunt for Slur's database takes Sakamoto & Shin to the ultimate assassin training institution.
 
 Link: https://www.youtube.com/watch?v=KqXEcl4Whj4
+
+### 1 Hour of Widow’s Bay Ambience | Fog, Coastal Winds & Bells | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+One hour of Widow's Bay ambience where nothing bad happens and everything is fine. A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination.
+
+Link: https://www.youtube.com/watch?v=OUfX45m5UBU
