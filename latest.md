@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-27T05:00:03.096316Z
+Generated: 2026-06-27T09:00:47.204688Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are These are the best deals you can still get on MacBooks before Apple’s price hike kicks in, Prime Day is almost over, but these are still the best Apple deals I’ve seen, and Polygamous sect leader guilty of abuse after girls found in trailer on highway.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Australian man arrested in Thailand after 17-year-old’s body found in suitcase, Venice protest planned for US ambassador’s superyacht visit, and These are the best deals you can still get on MacBooks before Apple’s price hike kicks in.
 
 ## Briefing
 
@@ -33,7 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. These are the best deals you can still get on MacBooks before Apple’s price hike kicks in [10/10]
+### 1. Australian man arrested in Thailand after 17-year-old’s body found in suitcase [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The 46-year-old was stopped at about 9.
+
+Link: https://www.theguardian.com/world/2026/jun/27/australian-man-arrested-in-thailand-after-17-year-olds-body-found-in-suitcase
+
+### 2. Venice protest planned for US ambassador’s superyacht visit [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Activists aim to repeat disruption of Jeff Bezos’s wedding when billionaire Tilman Fertitta drops anchor Protesters in Venice are planning to disrupt a visit by the billionaire US ambassador to Italy in his 117-metre superyacht, which they…
+
+Link: https://www.theguardian.com/world/2026/jun/27/venice-protest-planned-us-ambassador-superyacht-tour-tilman-fertitta
+
+### 3. These are the best deals you can still get on MacBooks before Apple’s price hike kicks in [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,16 +60,7 @@ Apple just raised the prices on Macs and iPads in response to the rising costs o
 
 Link: https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes
 
-### 2. Prime Day is almost over, but these are still the best Apple deals I’ve seen [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Amazon’s Prime Day is now in its final hours, but whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount.
-
-Link: https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026
-
-### 3. Polygamous sect leader guilty of abuse after girls found in trailer on highway [10/10]
+### 4. Polygamous sect leader guilty of abuse after girls found in trailer on highway [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -59,15 +68,6 @@ Link: https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-d
 Self-proclaimed prophet Samuel Bateman already serving 50-year prison sentence over child sexual abuse A polygamous sect leader already serving a 50-year federal prison sentence for orchestrating sex involving children was convicted Friday…
 
 Link: https://www.theguardian.com/us-news/2026/jun/26/polygamous-sect-leader-convicted
-
-### 4. Gavin Newsom urges a national 'billionaires' tax' while fighting one in California [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-California governor calls for national tax on super-wealthy and suggests the US should own a stake in AI companies US politics live – latest updates California’s governor, Gavin Newsom , called for a national “billionaires tax” on Friday…
-
-Link: https://www.theguardian.com/us-news/2026/jun/26/gavin-newsom-national-billionaires-tax
 
 ### 5. Texas makes Bible passages required reading for millions of public school students [10/10]
 **Source:** The Guardian US  
@@ -78,7 +78,16 @@ Critics say mandating Bible reading for over 5m students breaches constitutional
 
 Link: https://www.theguardian.com/us-news/2026/jun/26/texas-bible-required-reading-public-school
 
-### 6. NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI [9/10]
+### 6. What we've been playing - "I can feel tears starting to prickle my eyes" [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Hello and welcome back to our regular feature where we write a little about the games we've been playing.
+
+Link: https://www.eurogamer.net/what-weve-been-playing-i-can-feel-tears-starting-to-prickle-my-eyes
+
+### 7. NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI [9/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -86,15 +95,6 @@ Link: https://www.theguardian.com/us-news/2026/jun/26/texas-bible-required-readi
 NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.
 
 Link: https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/
-
-### 7. "I torture myself over every last detail": Stardew Valley's creator is having a real time of it with Haunted Chocolatier's recipe book interface [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Stardew Valley creator Eric 'ConcernedApe' Barone has released his latest reminder that yes, he's still working on Haunted Chocolatier , the action-RPG and life sim in which you run a sweetshop in a realm of ghosts.
-
-Link: https://www.rockpapershotgun.com/i-torture-myself-over-every-last-detail-stardew-valleys-creator-is-having-a-real-time-of-it-with-haunted-chocolatiers-recipe-book-interface
 
 ### 8. Opinion: Harnessing the Power of Music for Students With Disabilities [9/10]
 **Source:** The 74  
@@ -197,27 +197,27 @@ The Supreme Court gave the Trump administration the go-ahead to begin mass depor
 
 Link: https://www.youtube.com/watch?v=45MD0q-Kw2M
 
-### Viking chant inspiring Norway through the. World Cup [8/10]
+### Viking chant inspiring Norway through the. World Cup [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 A Viking chant is inspiring the Norwegian team at the World Cup. Norwegian fans wearing Viking helmets, seated on a moving escalator in a Boston train station, pulling imaginary oars and chanting — it's become known as the Viking Row.
 
 Link: https://www.youtube.com/watch?v=tiuR4f52_00
 
-### Actor Ebon Moss-Bachrach from FX’s The Bear talks about his character's journey in the final season [7/10]
+### Actor Ebon Moss-Bachrach from FX’s The Bear talks about his character's journey in the final season [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 FX’s The Bear has entered its fifth and final season.
 
 Link: https://www.youtube.com/watch?v=eeF-kXBe1zU
 
-### Two major earthquakes strike northern Venezuela [8/10]
+### Two major earthquakes strike northern Venezuela [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Search and rescue crews are pulling survivors from the rubble after two powerful earthquakes struck Venezuela less than a minute apart last night.
@@ -532,7 +532,7 @@ You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on J
 
 Link: https://www.youtube.com/watch?v=cWgSDtI5khA
 
-### Is that...THE GREATEST EARTHBENDER IN THE WORLD?!?!? #AvatarTheLastAirbender #Netflix #Toph [10/10]
+### Is that...THE GREATEST EARTHBENDER IN THE WORLD?!?!? #AvatarTheLastAirbender #Netflix #Toph [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.

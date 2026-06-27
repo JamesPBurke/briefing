@@ -1,11 +1,31 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-27T05:00:03.096316Z",
-  "generatedAtDisplay": "2026-06-27 01:00 AM EDT",
+  "generatedAt": "2026-06-27T09:00:47.204688Z",
+  "generatedAtDisplay": "2026-06-27 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are These are the best deals you can still get on MacBooks before Apple’s price hike kicks in, Prime Day is almost over, but these are still the best Apple deals I’ve seen, and Polygamous sect leader guilty of abuse after girls found in trailer on highway.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Australian man arrested in Thailand after 17-year-old’s body found in suitcase, Venice protest planned for US ambassador’s superyacht visit, and These are the best deals you can still get on MacBooks before Apple’s price hike kicks in.",
   "mainItems": [
+    {
+      "title": "Australian man arrested in Thailand after 17-year-old’s body found in suitcase",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/jun/27/australian-man-arrested-in-thailand-after-17-year-olds-body-found-in-suitcase",
+      "published": "2026-06-27T05:53:31+00:00",
+      "summary": "The 46-year-old was stopped at about 9.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Venice protest planned for US ambassador’s superyacht visit",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/jun/27/venice-protest-planned-us-ambassador-superyacht-tour-tilman-fertitta",
+      "published": "2026-06-27T05:00:34+00:00",
+      "summary": "Activists aim to repeat disruption of Jeff Bezos’s wedding when billionaire Tilman Fertitta drops anchor Protesters in Venice are planning to disrupt a visit by the billionaire US ambassador to Italy in his 117-metre superyacht, which they…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "These are the best deals you can still get on MacBooks before Apple’s price hike kicks in",
       "source": "The Verge",
@@ -13,16 +33,6 @@
       "url": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
       "published": "2026-06-27T04:23:19+00:00",
       "summary": "Apple just raised the prices on Macs and iPads in response to the rising costs of memory chips, right in the middle of Amazon Prime Day.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Prime Day is almost over, but these are still the best Apple deals I’ve seen",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "published": "2026-06-27T02:56:58+00:00",
-      "summary": "Amazon’s Prime Day is now in its final hours, but whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -37,16 +47,6 @@
       "score": 10
     },
     {
-      "title": "Gavin Newsom urges a national 'billionaires' tax' while fighting one in California",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/26/gavin-newsom-national-billionaires-tax",
-      "published": "2026-06-26T23:17:47+00:00",
-      "summary": "California governor calls for national tax on super-wealthy and suggests the US should own a stake in AI companies US politics live – latest updates California’s governor, Gavin Newsom , called for a national “billionaires tax” on Friday…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "Texas makes Bible passages required reading for millions of public school students",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
@@ -57,6 +57,16 @@
       "score": 10
     },
     {
+      "title": "What we've been playing - \"I can feel tears starting to prickle my eyes\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-i-can-feel-tears-starting-to-prickle-my-eyes",
+      "published": "2026-06-27T07:00:00+00:00",
+      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
       "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
       "source": "Ars Technica",
       "category": "AI / computing",
@@ -64,16 +74,6 @@
       "published": "2026-06-26T20:04:55+00:00",
       "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "\"I torture myself over every last detail\": Stardew Valley's creator is having a real time of it with Haunted Chocolatier's recipe book interface",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/i-torture-myself-over-every-last-detail-stardew-valleys-creator-is-having-a-real-time-of-it-with-haunted-chocolatiers-recipe-book-interface",
-      "published": "2026-06-26T16:45:00+00:00",
-      "summary": "Stardew Valley creator Eric 'ConcernedApe' Barone has released his latest reminder that yes, he's still working on Haunted Chocolatier , the action-RPG and life sim in which you run a sweetshop in a realm of ghosts.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -201,8 +201,8 @@
       "published": "2026-06-26T19:00:28+00:00",
       "summary": "A Viking chant is inspiring the Norwegian team at the World Cup. Norwegian fans wearing Viking helmets, seated on a moving escalator in a Boston train station, pulling imaginary oars and chanting — it's become known as the Viking Row.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Actor Ebon Moss-Bachrach from FX’s The Bear talks about his character's journey in the final season",
@@ -212,8 +212,8 @@
       "published": "2026-06-26T19:00:13+00:00",
       "summary": "FX’s The Bear has entered its fifth and final season.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Two major earthquakes strike northern Venezuela",
@@ -223,8 +223,8 @@
       "published": "2026-06-26T17:00:14+00:00",
       "summary": "Search and rescue crews are pulling survivors from the rubble after two powerful earthquakes struck Venezuela less than a minute apart last night.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Israeli air strikes in southern Lebanon have damaged one of its best-known archaeological sites",
@@ -577,7 +577,7 @@
       "published": "2026-06-26T19:00:34+00:00",
       "summary": "Is that...THE GREATEST EARTHBENDER IN THE WORLD?!?!? AVATAR: THE LAST AIRBENDER is now playing, only on Netflix! Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
