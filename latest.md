@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-28T09:00:21.458189Z
+Generated: 2026-06-28T14:00:02.681850Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are World Cup 2026: England win, Clarke quits Scotland and Iran denied at the last – live, David Sedaris on his Duolingo obsession: ‘“Today is the last day,” I told myself – but I was powerless to stop’, and Joy Malignant is a photobashed, dice-based RPG where every choice you make affects how your faceless body looks.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are World Cup 2026: England to face DRC, Clarke quits Scotland, South Korea president blasts team – live, French skydiving plane crashes near Nancy, reportedly killing all 11 onboard, and Spirit airlines is dead and a bus travel boom looks likely – but will Greyhounds ever be cool again?.
 
 ## Briefing
 
@@ -33,86 +33,86 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. World Cup 2026: England win, Clarke quits Scotland and Iran denied at the last – live [10/10]
+### 1. World Cup 2026: England to face DRC, Clarke quits Scotland, South Korea president blasts team – live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-⚽ All the latest news from as we reach the knockouts ⚽ Player guide | Power rankings | Golden Boot | Mail us After two wins in their first two games , Germany have emerged from a World Cup group phase for the first time since 2014, when…
+⚽ All the latest news from as we reach the knockouts ⚽ Player guide | Power rankings | Golden Boot | Mail us England reaction from our writers in New York/New Jersey. Bellingham can be dismissed a little by some as a player of moments.
 
 Link: https://www.theguardian.com/football/live/2026/jun/28/world-cup-2026-england-win-clarke-quits-scotland-and-iran-denied-at-the-last-live
 
-### 2. David Sedaris on his Duolingo obsession: ‘“Today is the last day,” I told myself – but I was powerless to stop’ [10/10]
+### 2. French skydiving plane crashes near Nancy, reportedly killing all 11 onboard [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Five pairs of students and instructors dead along with pilot after plane fell suddenly near aerodrome, says prefect A skydiving plane has crashed in north-eastern France , killing all 11 people onboard, according to the region’s prefect.
+
+Link: https://www.theguardian.com/world/2026/jun/28/french-skydiving-plane-crashes-near-nancy-killing-all-11-on-board-says-prefect
+
+### 3. Spirit airlines is dead and a bus travel boom looks likely – but will Greyhounds ever be cool again? [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-I decided to combine my need to top the leader table with my daily step count – which is how I found myself walking 10 miles a day while reading out sentences in Japanese, German, Spanish and French Hugh and I were driving from Washington,…
+For most Americans, riding a bus means abandoning expectations of basic dignity – but with an increase in ridership, that could change “It’s a grueling experience,” Greyhound bus enthusiast Miles Taylor explains.
 
-Link: https://www.theguardian.com/books/2026/jun/28/david-sedaris-duolingo-obsession-the-land-and-its-people-memoir
+Link: https://www.theguardian.com/us-news/2026/jun/28/spirit-airlines-greyhound-bus-travel-boom
 
-### 3. Joy Malignant is a photobashed, dice-based RPG where every choice you make affects how your faceless body looks [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 4. Opinion: In the Age of AI, Everyone Should Be Hiring Theater Kids [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-The thing about Citizen Sleeper is that I wish there was more of it. Not literally, necessarily, I'd never want that world to be exhausted of its setting, and my imagination is stronger than any threequel or otherwise.
+This spring, an estimated 3.9 million high school students — one of the largest classes in American history — graduated into a world their education never fully prepared them for.
 
-Link: https://www.rockpapershotgun.com/joy-malignant-is-a-photobashed-dice-based-rpg-where-every-choice-you-make-affects-how-your-faceless-body-looks
+Link: https://www.the74million.org/article/in-the-age-of-ai-everyone-should-be-hiring-theater-kids/
 
-### 4. Utah’s Cottonwood fire spreads overnight to cover 92,000 acres [10/10]
+### 5. Anti-ICE organizers shift focus to defend democracy from Trump assault [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Firefighters are battling the blaze in Fishlake national park that was stoked by strong winds and low humidity Hundreds of firefighters in Utah have struggled to suppress a wildfire that scorched an additional 20,000 acres (8,000 hectares)…
+Citizens in Minnesota using lessons learned from migrant crackdown to protect elections from president’s threats When thousands of immigration agents flooded Minnesota earlier this year, a loose network of neighbors sprang into action.
 
-Link: https://www.theguardian.com/us-news/2026/jun/27/firefighters-wildfire-fishlake-national-forest-central-utah
+Link: https://www.theguardian.com/us-news/2026/jun/28/ice-minnesota-defending-democracy
 
-### 5. Apple wants permission to buy memory from a blacklisted Chinese supplier [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 6. ‘Tech firms are losing the public’: social media age bans near tipping point [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army,…
+UK is latest country to set minimum age for social media access but big tech is fighting back globally against curbs Social media bans go global: big tech faces a reckoning after Australia’s crackdown Arturo Béjar, a former employee turned…
 
-Link: https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt
+Link: https://www.theguardian.com/world/2026/jun/28/tech-firms-are-losing-the-public-social-media-age-bans-near-tipping-point
 
-### 6. The AI bubble has further to run despite the looming crash [10/10]
+### 7. Prince Harry and family’s UK visit ‘pulled from under their feet at 11th hour’ [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-As tech firms make huge profits and investors fear losing out, both are doing their best to hold off the day of reckoning OpenAI staggers AI model release after White House request Every couple of decades, investors will ask themselves how…
+Duke reportedly fears his children will not get to meet king after government declines request for police protection The Duke of Sussex fears his children will not meet King Charles in the coming days after their UK visit was “pulled out…
 
-Link: https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets
+Link: https://www.theguardian.com/uk-news/2026/jun/28/prince-harry-uk-family-visit-refused-police-protection
 
-### 7. Trump’s Board of Peace plans to grant itself sweeping immunity, documents show [10/10]
+### 8. Good-faith lawsuit? LDS church in fight with podcaster over Mormon name [9/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Draft resolution seeks to shield board members and security forces from potential prosecution for work in Gaza The UN -sanctioned Board of Peace announced by Donald Trump earlier this year to rule Gaza is planning a sweeping grant of legal…
+Church sues excommunicated member over Mormon Stories podcast but John Dehlin says name free for all to use Trademark changes and copyright infringement disputes take many forms.
 
-Link: https://www.theguardian.com/law/2026/jun/27/board-of-peace-legal-immunity-un
+Link: https://www.theguardian.com/us-news/2026/jun/28/lds-church-mormon-lawsuit
 
-### 8. Trump says he will nominate Lance Schroyer as next ICE director [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 9. These church members disagree on politics. Together they're wiping out medical debt [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-Schroyer, whom Trump calls ‘a patriot’, led deportation campaign in Oklahoma under ICE-partnered program Donald ​Trump said on ⁠Saturday ⁠that ​he ‌will ‌nominate ‌Lance Schroyer as ‌the next director of US ​Immigration ⁠and ​Customs…
+Trinity Moravian Church, a politically diverse congregation in Winston-Salem, N. C., has been raising money to retire medical debt in the surrounding community.
 
-Link: https://www.theguardian.com/us-news/2026/jun/27/trump-nomination-ice-director-lance-schroyer
-
-### 9. With Star Wars: Galactic Racer, former Burnout devs have built on N64 and PS2 classics to make what they call "the purest expression of gaming" [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-"Racing is crying out for a bit of consequence," says Matt Webster, Fuse Games' founder and CEO, and former general manager at Burnout and Need For Speed developer Criterion.
-
-Link: https://www.eurogamer.net/star-wars-galactic-racer-former-burnout-devs-ps1-classic-purest-expression-of-gaming
+Link: https://www.npr.org/2026/06/28/nx-s1-5847966/medical-debt-politics-republican-democrat
 
 ### 10. Will the new student loan limits actually drive down tuition? Economists weigh in [8/10]
 **Source:** NPR Education  
@@ -132,7 +132,16 @@ I've seen lots of so-called "smart" bike locks over the years, but none so far c
 
 Link: https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review
 
-### 12. Scientists Think They’ve Uncovered the 15-Million-Year-Old Origin of Laughter [7/10]
+### 12. PlayStation is pulling "previously purchased" digital movies from users' libraries [8/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Sony has written to PlayStation customers to advise that hundreds of "previously purchased" digital movies previously available via its online store will "be removed" from video libraries later this year. Read more
+
+Link: https://www.eurogamer.net/playstation-to-remove-studio-canal-movies-from-libraries
+
+### 13. Scientists Think They’ve Uncovered the 15-Million-Year-Old Origin of Laughter [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -140,15 +149,6 @@ Link: https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review
 Recordings of laughter from humans and other great apes suggest that the distinctive rhythm of "ha ha ha" emerged in a common ancestor that lived at least 15 million years ago.
 
 Link: https://www.404media.co/scientists-think-theyve-uncovered-the-15-million-year-old-origin-of-laughter/
-
-### 13. If a Lyme disease vaccine gets approved, how would it go over? We asked hunters [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Drugmakers are working on a potential new shot to prevent the tick-borne illness. How might it fare in the era of vaccine skepticism?
-
-Link: https://www.npr.org/2026/06/27/nx-s1-5859907/lyme-disease-vaccine-hesitancy-rural-hunters
 
 ## YouTube
 
@@ -242,15 +242,6 @@ FX’s The Bear has entered its fifth and final season.
 
 Link: https://www.youtube.com/watch?v=eeF-kXBe1zU
 
-### Two major earthquakes strike northern Venezuela [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Search and rescue crews are pulling survivors from the rubble after two powerful earthquakes struck Venezuela less than a minute apart last night.
-
-Link: https://www.youtube.com/watch?v=bHjKH6uAYs0
-
 ### Pimax Dream Air: An Astonishing VR Headset - But It's Pricey [9/10]
 **Creator:** Digital Foundry  
 **Verdict:** Watch it  
@@ -304,6 +295,15 @@ Link: https://www.youtube.com/watch?v=X473r3s6iTg
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=IPFyNV79FIk
+
+### Jumping Into Riot's 2XKO | Super Smash Sunday [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Our resident fighting game fans KC and El Cheshire are trying out Riot's 2XKO. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=mc8F8DdsQl8
 
 ### Family Matters | Adventure Is Nigh! - The Slow Walk Home | Ep. 4 [6/10]
 **Creator:** Second Wind  
