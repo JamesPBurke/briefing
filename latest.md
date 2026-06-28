@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-28T05:00:03.374312Z
+Generated: 2026-06-28T09:00:21.458189Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Joy Malignant is a photobashed, dice-based RPG where every choice you make affects how your faceless body looks, Utah’s Cottonwood fire spreads overnight to cover 92,000 acres, and Oh no, that's Lenovo saying they think these RAM prices will be the new normal and may never go back to how they were.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are World Cup 2026: England win, Clarke quits Scotland and Iran denied at the last – live, David Sedaris on his Duolingo obsession: ‘“Today is the last day,” I told myself – but I was powerless to stop’, and Joy Malignant is a photobashed, dice-based RPG where every choice you make affects how your faceless body looks.
 
 ## Briefing
 
@@ -33,7 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Joy Malignant is a photobashed, dice-based RPG where every choice you make affects how your faceless body looks [10/10]
+### 1. World Cup 2026: England win, Clarke quits Scotland and Iran denied at the last – live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+⚽ All the latest news from as we reach the knockouts ⚽ Player guide | Power rankings | Golden Boot | Mail us After two wins in their first two games , Germany have emerged from a World Cup group phase for the first time since 2014, when…
+
+Link: https://www.theguardian.com/football/live/2026/jun/28/world-cup-2026-england-win-clarke-quits-scotland-and-iran-denied-at-the-last-live
+
+### 2. David Sedaris on his Duolingo obsession: ‘“Today is the last day,” I told myself – but I was powerless to stop’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+I decided to combine my need to top the leader table with my daily step count – which is how I found myself walking 10 miles a day while reading out sentences in Japanese, German, Spanish and French Hugh and I were driving from Washington,…
+
+Link: https://www.theguardian.com/books/2026/jun/28/david-sedaris-duolingo-obsession-the-land-and-its-people-memoir
+
+### 3. Joy Malignant is a photobashed, dice-based RPG where every choice you make affects how your faceless body looks [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,7 +60,7 @@ The thing about Citizen Sleeper is that I wish there was more of it. Not literal
 
 Link: https://www.rockpapershotgun.com/joy-malignant-is-a-photobashed-dice-based-rpg-where-every-choice-you-make-affects-how-your-faceless-body-looks
 
-### 2. Utah’s Cottonwood fire spreads overnight to cover 92,000 acres [10/10]
+### 4. Utah’s Cottonwood fire spreads overnight to cover 92,000 acres [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,16 +69,7 @@ Firefighters are battling the blaze in Fishlake national park that was stoked by
 
 Link: https://www.theguardian.com/us-news/2026/jun/27/firefighters-wildfire-fishlake-national-forest-central-utah
 
-### 3. Oh no, that's Lenovo saying they think these RAM prices will be the new normal and may never go back to how they were [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-That RAM crisis , huh? Surely it'll end sometime soon. Undoubtedly. We'll all be able to afford technology again, games consoles and computers won't be only for the 1%, and we can laugh about this silly point in history.
-
-Link: https://www.rockpapershotgun.com/oh-no-thats-lenovo-saying-they-think-these-ram-prices-will-be-the-new-normal-and-may-never-go-back-to-how-they-were
-
-### 4. Apple wants permission to buy memory from a blacklisted Chinese supplier [10/10]
+### 5. Apple wants permission to buy memory from a blacklisted Chinese supplier [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,7 +78,7 @@ Apple is looking to alleviate some of the pressure on its supply chain by seekin
 
 Link: https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt
 
-### 5. The AI bubble has further to run despite the looming crash [10/10]
+### 6. The AI bubble has further to run despite the looming crash [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -78,7 +87,7 @@ As tech firms make huge profits and investors fear losing out, both are doing th
 
 Link: https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets
 
-### 6. Trump’s Board of Peace plans to grant itself sweeping immunity, documents show [10/10]
+### 7. Trump’s Board of Peace plans to grant itself sweeping immunity, documents show [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -86,15 +95,6 @@ Link: https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firm
 Draft resolution seeks to shield board members and security forces from potential prosecution for work in Gaza The UN -sanctioned Board of Peace announced by Donald Trump earlier this year to rule Gaza is planning a sweeping grant of legal…
 
 Link: https://www.theguardian.com/law/2026/jun/27/board-of-peace-legal-immunity-un
-
-### 7. Bellingham and Kane strike as England seal top spot with World Cup win over Panama [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-England are not going to win the World Cup playing like this. They will not get very far in the knockout rounds unless they can sharpen up.
-
-Link: https://www.theguardian.com/football/2026/jun/27/england-panama-world-cup-group-l-match-report
 
 ### 8. Trump says he will nominate Lance Schroyer as next ICE director [9/10]
 **Source:** The Guardian US  
@@ -114,23 +114,23 @@ Link: https://www.theguardian.com/us-news/2026/jun/27/trump-nomination-ice-direc
 
 Link: https://www.eurogamer.net/star-wars-galactic-racer-former-burnout-devs-ps1-classic-purest-expression-of-gaming
 
-### 10. Margaret Atwood says the problem with AI is ‘garbage in, garbage out’ [8/10]
+### 10. Will the new student loan limits actually drive down tuition? Economists weigh in [8/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+The idea that there's a connection between federal student loans and what colleges charge dates back almost four decades. But it's unclear that link can lead to lower costs.
+
+Link: https://www.npr.org/2026/06/28/nx-s1-5805988/cost-education-student-loan-tuition-graduate-school
+
+### 11. TMD’s keyless bike lock is a $280 solution to a $60 problem [8/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal.
+I've seen lots of so-called "smart" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out
-
-### 11. What Should Delaware Do With Half-Empty Schools? [8/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-More than a dozen Delaware public schools, mostly in New Castle County, are operating at less than 60% capacity, according to data from the Delaware Department of Education. Five of those are more than half empty.
-
-Link: https://www.the74million.org/article/what-should-delaware-do-with-half-empty-schools/
+Link: https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review
 
 ### 12. Scientists Think They’ve Uncovered the 15-Million-Year-Old Origin of Laughter [7/10]
 **Source:** 404 Media  

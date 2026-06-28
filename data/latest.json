@@ -1,11 +1,31 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-28T05:00:03.374312Z",
-  "generatedAtDisplay": "2026-06-28 01:00 AM EDT",
+  "generatedAt": "2026-06-28T09:00:21.458189Z",
+  "generatedAtDisplay": "2026-06-28 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Joy Malignant is a photobashed, dice-based RPG where every choice you make affects how your faceless body looks, Utah’s Cottonwood fire spreads overnight to cover 92,000 acres, and Oh no, that's Lenovo saying they think these RAM prices will be the new normal and may never go back to how they were.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are World Cup 2026: England win, Clarke quits Scotland and Iran denied at the last – live, David Sedaris on his Duolingo obsession: ‘“Today is the last day,” I told myself – but I was powerless to stop’, and Joy Malignant is a photobashed, dice-based RPG where every choice you make affects how your faceless body looks.",
   "mainItems": [
+    {
+      "title": "World Cup 2026: England win, Clarke quits Scotland and Iran denied at the last – live",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/football/live/2026/jun/28/world-cup-2026-england-win-clarke-quits-scotland-and-iran-denied-at-the-last-live",
+      "published": "2026-06-28T08:41:39+00:00",
+      "summary": "⚽ All the latest news from as we reach the knockouts ⚽ Player guide | Power rankings | Golden Boot | Mail us After two wins in their first two games , Germany have emerged from a World Cup group phase for the first time since 2014, when…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "David Sedaris on his Duolingo obsession: ‘“Today is the last day,” I told myself – but I was powerless to stop’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/books/2026/jun/28/david-sedaris-duolingo-obsession-the-land-and-its-people-memoir",
+      "published": "2026-06-28T05:00:01+00:00",
+      "summary": "I decided to combine my need to top the leader table with my daily step count – which is how I found myself walking 10 miles a day while reading out sentences in Japanese, German, Spanish and French Hugh and I were driving from Washington,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Joy Malignant is a photobashed, dice-based RPG where every choice you make affects how your faceless body looks",
       "source": "Rock Paper Shotgun",
@@ -23,16 +43,6 @@
       "url": "https://www.theguardian.com/us-news/2026/jun/27/firefighters-wildfire-fishlake-national-forest-central-utah",
       "published": "2026-06-27T19:13:34+00:00",
       "summary": "Firefighters are battling the blaze in Fishlake national park that was stoked by strong winds and low humidity Hundreds of firefighters in Utah have struggled to suppress a wildfire that scorched an additional 20,000 acres (8,000 hectares)…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Oh no, that's Lenovo saying they think these RAM prices will be the new normal and may never go back to how they were",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/oh-no-thats-lenovo-saying-they-think-these-ram-prices-will-be-the-new-normal-and-may-never-go-back-to-how-they-were",
-      "published": "2026-06-27T18:07:55+00:00",
-      "summary": "That RAM crisis , huh? Surely it'll end sometime soon. Undoubtedly. We'll all be able to afford technology again, games consoles and computers won't be only for the 1%, and we can laugh about this silly point in history.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -67,16 +77,6 @@
       "score": 10
     },
     {
-      "title": "Bellingham and Kane strike as England seal top spot with World Cup win over Panama",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/football/2026/jun/27/england-panama-world-cup-group-l-match-report",
-      "published": "2026-06-27T22:56:26+00:00",
-      "summary": "England are not going to win the World Cup playing like this. They will not get very far in the knockout rounds unless they can sharpen up.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
       "title": "Trump says he will nominate Lance Schroyer as next ICE director",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
@@ -97,23 +97,23 @@
       "score": 9
     },
     {
-      "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-      "published": "2026-06-27T18:39:32+00:00",
-      "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "Will the new student loan limits actually drive down tuition? Economists weigh in",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/06/28/nx-s1-5805988/cost-education-student-loan-tuition-graduate-school",
+      "published": "2026-06-28T09:00:00+00:00",
+      "summary": "The idea that there's a connection between federal student loans and what colleges charge dates back almost four decades. But it's unclear that link can lead to lower costs.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 8
     },
     {
-      "title": "What Should Delaware Do With Half-Empty Schools?",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/what-should-delaware-do-with-half-empty-schools/",
-      "published": "2026-06-27T10:30:00+00:00",
-      "summary": "More than a dozen Delaware public schools, mostly in New Castle County, are operating at less than 60% capacity, according to data from the Delaware Department of Education. Five of those are more than half empty.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
+      "published": "2026-06-28T08:02:38+00:00",
+      "summary": "I've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 8
     },
     {
