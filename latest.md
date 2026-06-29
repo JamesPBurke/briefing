@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-29T05:00:02.793749Z
+Generated: 2026-06-29T14:00:02.420974Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are ‘Meet me at the dancing dogs tent!’ What’s behind Britain’s festival frenzy?, China’s Z.ai claims it can match Mythos on cybersecurity, and Sony Interactive Entertainment president and CEO hasn't given up on live-service games just yet.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are The largest RAM and storage component manufacturers are being sued for alleged price fixing and stoking "supracompetitive prices", Supreme court nears the end of its term with cases about Donald Trump’s power to be decided – US politics live, and Five people killed in shooting in northern Germany, police say – Europe live.
 
 ## Briefing
 
@@ -33,16 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘Meet me at the dancing dogs tent!’ What’s behind Britain’s festival frenzy? [10/10]
+### 1. The largest RAM and storage component manufacturers are being sued for alleged price fixing and stoking "supracompetitive prices" [10/10]
+**Source:** Eurogamer  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Samsung, SK Hynix and Micron - the three largest manufacturers of RAM and fast storage in the world, are being targeted in a class action lawsuit.
+
+Link: https://www.eurogamer.net/sk-hynix-micron-samsung-ram-price-fixing-lawsuit
+
+### 2. Supreme court nears the end of its term with cases about Donald Trump’s power to be decided – US politics live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-They used to mean crusties, hippies, all-male lineups, near riots and burning toilets. Now, from Dorset to Inverness, there’s a festival – and a costume – for everyone.
+Court expected to hand down decisions on several outstanding cases, wrapping up term that has focussed on Trump’s expansive claims of presidential power Sign up for the Breaking News US email The supreme court is due to release some of its…
 
-Link: https://www.theguardian.com/culture/2026/jun/29/britain-frenzy-festivals-riots-toilets
+Link: https://www.theguardian.com/us-news/live/2026/jun/29/supreme-court-donald-trump-administration-us-politics-latest-news-updates
 
-### 2. China’s Z.ai claims it can match Mythos on cybersecurity [10/10]
+### 3. Five people killed in shooting in northern Germany, police say – Europe live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+German police say two people were apprehended after ‘numerous’ shots were fired at a youth care facility in Stade Meanwhile, Ukraine is bracing to absorb the impact of the heatwave on its energy network, already pummelled by Russian…
+
+Link: https://www.theguardian.com/world/live/2026/jun/29/extreme-heat-europe-germany-poland-czechia-hungary-serbia-heatwave-nato-rutte-starmer-eu-latest-news-updates
+
+### 4. US lawsuit accuses Samsung, SK Hynix and Micron of worsening the RAM crisis by fixing memory prices and supply [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Chip makers Samsung, SK Hynix, and Micron have been accused of fixing RAM prices and supply, thereby exacerbating the effects of the ongoing memory crisis , in a US class action lawsuit.
+
+Link: https://www.rockpapershotgun.com/us-lawsuit-accuses-samsung-sk-hynix-and-micron-of-worsening-the-ram-crisis-by-fixing-memory-prices-and-supply
+
+### 5. The war against ‘woke’ could end US science as we know it [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+A sneaky rule change has the potential to blow up scientific research in the United States. But there's still time to fight it.
+
+Link: https://www.theverge.com/science/957630/omb-killing-science-budget-grants-research
+
+### 6. One person killed and one injured in shooting at California World Cup ‘fan zone’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+San Jose police say Sunday incident in area that has been hosting watch parties ‘is being investigated as a homicide’ One person was killed and another seriously injured on Sunday night ⁠in a shooting at a popular entertainment spot in San…
+
+Link: https://www.theguardian.com/us-news/2026/jun/29/california-world-cup-fan-zone-shooting
+
+### 7. Amid Steam Machine performance scrutiny, Valve removes '4K at 60FPS' claim [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Valve no longer claims the Steam Machine is capable of running games at 4K resolutions and 60 frames per second.
+
+Link: https://www.eurogamer.net/steam-machine-marketing-update-4k-60-fps-removed
+
+### 8. ‘It definitely trickles down’: Muslims in Texas suffer effects of Republicans’ hate speech [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Muslims say anti-Islamic rhetoric making everyday life difficult – and threats and harassment not uncommon Following a brutal Republican primary runoff in which Islamophobia took center stage , anti-Muslim hatred continues spilling into…
+
+Link: https://www.theguardian.com/us-news/2026/jun/29/texas-muslims-hate-speech
+
+### 9. China’s Z.ai claims it can match Mythos on cybersecurity [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -51,104 +114,41 @@ China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers h
 
 Link: https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity
 
-### 3. Sony Interactive Entertainment president and CEO hasn't given up on live-service games just yet [10/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 10. Texas will require students to read Bible passages [9/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Despite a raft of high-profile flops and cancellations, Sony Interactive Entertainment president Hideaki Nishino has reaffirmed the company's commitment to live-service games. Read more
+Texas students will be required to read Bible passages and learn about the role of Christianity in the state's history under new reading lists and social studies curriculum approved on Friday
 
-Link: https://www.eurogamer.net/sony-still-believes-in-live-service-games
+Link: https://www.npr.org/2026/06/29/nx-s1-5872725/texas-will-require-students-to-read-bible-passages
 
-### 4. ‘We’re up against forces that have all the money in the world’: Erin Brockovich on her battle against AI datacentres [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-In 1993, she squeezed a $333m settlement from a Californian energy company in a scandal over contaminated water.
-
-Link: https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres
-
-### 5. Heatwave and high humidity to blast much of US: ‘impactful to anyone’ [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Forecasters expect days of high temperatures in central and eastern US before Fourth of July and World Cup festivities A long and dangerous heatwave will blast a large swath of the central and eastern United States for the upcoming week,…
-
-Link: https://www.theguardian.com/us-news/2026/jun/28/heatwave-humidity-fourth-of-july-weather
-
-### 6. ‘I eat pasta almost every day’: a day in the life of a world champion pizza athlete [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Francis Tolu works at his family’s restaurant in Spain and also competes in pizza acrobatic contests internationally Francis Tolu is a freestyle pizza champion.
-
-Link: https://www.theguardian.com/wellness/2026/jun/28/francis-tolu-pizza-athlete
-
-### 7. Prosecutors used ChatGPT logs as evidence in the Palisades fire trial [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial
-
-### 8. Master your money: 11 experts share hard-earned tips to budget, invest and retire early [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-From building an investment portfolio to flying first class on miles, the pros share tricks for thriving in a shaky economy Despite what you might have heard, building wealth is not simply a matter of depriving yourself of lattes and…
-
-Link: https://www.theguardian.com/lifeandstyle/2026/jun/28/expert-personal-finance-money-tips
-
-### 9. Good-faith lawsuit? LDS church in fight with podcaster over Mormon name [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Church sues excommunicated member over Mormon Stories podcast but John Dehlin says name free for all to use Trademark changes and copyright infringement disputes take many forms.
-
-Link: https://www.theguardian.com/us-news/2026/jun/28/lds-church-mormon-lawsuit
-
-### 10. Opinion: In the Age of AI, Everyone Should Be Hiring Theater Kids [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-This spring, an estimated 3.9 million high school students — one of the largest classes in American history — graduated into a world their education never fully prepared them for.
-
-Link: https://www.the74million.org/article/in-the-age-of-ai-everyone-should-be-hiring-theater-kids/
-
-### 11. Tetris: World Builders is a new animated series for kids "inspired by the iconic falling blocks that have captivated players for generations" [8/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-A new animated series dedicated to the Tetris game is on the way to inspire children to take up STEAM careers – that is, STEM subjects (science, technology, engineering, and maths) combined with the arts. Read more
-
-Link: https://www.eurogamer.net/tetris-world-builders-animated-series
-
-### 12. These church members disagree on politics. Together they're wiping out medical debt [8/10]
+### 11. People are taking allergy and heartburn pills for PMS. Could it work? [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Trinity Moravian Church, a politically diverse congregation in Winston-Salem, N. C., has been raising money to retire medical debt in the surrounding community.
+Can the mix really help with premenstrual woes? Theoretically, the link between histamine and hormones could explain why the trendy DIY treatment seems to help some women.
 
-Link: https://www.npr.org/2026/06/28/nx-s1-5847966/medical-debt-politics-republican-democrat
+Link: https://www.npr.org/2026/06/29/nx-s1-5853867/pepcid-antihistamines-pms-pmdd
 
-### 13. Decision Time Has Come for Newsom’s Proposal To Shift Control of CA Department of Education [7/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 12. Australia to double potential fines over child social media accounts [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-The fate of Gov.
+Australia plans to double potential fines for social media platforms, including Facebook and Instagram, who fail to prevent Australian children from holding accounts.
 
-Link: https://www.the74million.org/article/decision-time-has-come-for-newsoms-proposal-to-shift-control-of-ca-doe/
+Link: https://www.npr.org/2026/06/29/nx-s1-5874576/australia-fines-child-social-media-accounts
+
+### 13. Inside Cannes, the Advertising Industry’s Biggest Party [7/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Reporting from Microsoft Gardens, next to Salesforce Beach, Amazon Port, and the Canva Creative Cabana.
+
+Link: https://www.404media.co/inside-cannes-the-advertising-industrys-biggest-party/
 
 ## YouTube
 
@@ -160,6 +160,15 @@ Link: https://www.the74million.org/article/decision-time-has-come-for-newsoms-pr
 WIRED tasks the cast of Jackass: Best and Last to answer the 50 most searched questions about Jackass. Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.
 
 Link: https://www.youtube.com/watch?v=JKdtx6szbwI
+
+### China eclipses the U.S. with its new supercomputer, now the fastest on Earth [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+A Chinese supercomputer is now considered the fastest on Earth, knocking the U.S. down a notch. The new No. 1 supercomputer is called LineShine, or ling1sheng4 in Chinese.
+
+Link: https://www.youtube.com/watch?v=3FnSZ4gklJk
 
 ### Deadly, record heatwave continues to grip Europe [8/10]
 **Creator:** NPR  
@@ -215,15 +224,6 @@ A Viking chant is inspiring the Norwegian team at the World Cup. Norwegian fans 
 
 Link: https://www.youtube.com/watch?v=tiuR4f52_00
 
-### Actor Ebon Moss-Bachrach from FX’s The Bear talks about his character's journey in the final season [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-FX’s The Bear has entered its fifth and final season.
-
-Link: https://www.youtube.com/watch?v=eeF-kXBe1zU
-
 ### DF Retro's PS1 Launch Special - One Of The Most Challenging Videos We've Ever Made [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
@@ -278,9 +278,18 @@ Link: https://www.youtube.com/watch?v=__2uLDd6qH8
 
 Link: https://www.youtube.com/watch?v=CSmyWQVRYF4
 
-### Jumping Into Riot's 2XKO | Super Smash Sunday [7/10]
+### The Art of the Time Loop | Windbreaker Podcast [8/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty gab about the art of the video game time loop. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=JzQGa1UHhp4
+
+### Jumping Into Riot's 2XKO | Super Smash Sunday [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Our resident fighting game fans KC and El Cheshire are trying out Riot's 2XKO. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
@@ -460,7 +469,16 @@ You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on J
 
 Link: https://www.youtube.com/watch?v=cWgSDtI5khA
 
-### can these fans solve the case of the Enola Holmes 3 premiere? #Netflix #EnolaHolmes [10/10]
+### The Bombing of Pan Am 103 | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The tragic bombing of a transatlantic flight over Scotland in 1988 unites the local police and the FBI in a hunt for the attackers. Based on a true story. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=5fYWCkoDSeU
+
+### can these fans solve the case of the Enola Holmes 3 premiere? #Netflix #EnolaHolmes [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -558,15 +576,6 @@ Link: https://www.youtube.com/watch?v=rydp5C5QsPQ
 New season, new opening: water, earth, fire, air. Everything changed when the fire nation attacked. Avatar: The Last Airbender Season 2 premieres June 25, only on Netflix. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=iz3m_28xIIM
-
-### THE ONE PIECE | Official Teaser | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Eiichiro Oda’s manga "THE ONE PIECE" (originally serialized in Shueisha’s Weekly Shonen Jump in Japan) has become a cultural phenomenon with fans all around the globe, and now, it is being adapted as a new anime series, starting from the…
-
-Link: https://www.youtube.com/watch?v=3Gmo0EXHyKg
 
 ### 1 Hour of Widow’s Bay Ambience | Fog, Coastal Winds & Bells | Apple TV [10/10]
 **Source:** Apple TV  

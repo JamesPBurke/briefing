@@ -1,19 +1,89 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-29T05:00:02.793749Z",
-  "generatedAtDisplay": "2026-06-29 01:00 AM EDT",
+  "generatedAt": "2026-06-29T14:00:02.420974Z",
+  "generatedAtDisplay": "2026-06-29 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are ‘Meet me at the dancing dogs tent!’ What’s behind Britain’s festival frenzy?, China’s Z.ai claims it can match Mythos on cybersecurity, and Sony Interactive Entertainment president and CEO hasn't given up on live-service games just yet.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are The largest RAM and storage component manufacturers are being sued for alleged price fixing and stoking \"supracompetitive prices\", Supreme court nears the end of its term with cases about Donald Trump’s power to be decided – US politics live, and Five people killed in shooting in northern Germany, police say – Europe live.",
   "mainItems": [
     {
-      "title": "‘Meet me at the dancing dogs tent!’ What’s behind Britain’s festival frenzy?",
+      "title": "The largest RAM and storage component manufacturers are being sued for alleged price fixing and stoking \"supracompetitive prices\"",
+      "source": "Eurogamer",
+      "category": "AI / privacy",
+      "url": "https://www.eurogamer.net/sk-hynix-micron-samsung-ram-price-fixing-lawsuit",
+      "published": "2026-06-29T13:54:03+00:00",
+      "summary": "Samsung, SK Hynix and Micron - the three largest manufacturers of RAM and fast storage in the world, are being targeted in a class action lawsuit.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Supreme court nears the end of its term with cases about Donald Trump’s power to be decided – US politics live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/culture/2026/jun/29/britain-frenzy-festivals-riots-toilets",
-      "published": "2026-06-29T04:00:28+00:00",
-      "summary": "They used to mean crusties, hippies, all-male lineups, near riots and burning toilets. Now, from Dorset to Inverness, there’s a festival – and a costume – for everyone.",
+      "url": "https://www.theguardian.com/us-news/live/2026/jun/29/supreme-court-donald-trump-administration-us-politics-latest-news-updates",
+      "published": "2026-06-29T13:46:19+00:00",
+      "summary": "Court expected to hand down decisions on several outstanding cases, wrapping up term that has focussed on Trump’s expansive claims of presidential power Sign up for the Breaking News US email The supreme court is due to release some of its…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Five people killed in shooting in northern Germany, police say – Europe live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/live/2026/jun/29/extreme-heat-europe-germany-poland-czechia-hungary-serbia-heatwave-nato-rutte-starmer-eu-latest-news-updates",
+      "published": "2026-06-29T13:39:47+00:00",
+      "summary": "German police say two people were apprehended after ‘numerous’ shots were fired at a youth care facility in Stade Meanwhile, Ukraine is bracing to absorb the impact of the heatwave on its energy network, already pummelled by Russian…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "US lawsuit accuses Samsung, SK Hynix and Micron of worsening the RAM crisis by fixing memory prices and supply",
+      "source": "Rock Paper Shotgun",
+      "category": "AI / privacy",
+      "url": "https://www.rockpapershotgun.com/us-lawsuit-accuses-samsung-sk-hynix-and-micron-of-worsening-the-ram-crisis-by-fixing-memory-prices-and-supply",
+      "published": "2026-06-29T12:24:48+00:00",
+      "summary": "Chip makers Samsung, SK Hynix, and Micron have been accused of fixing RAM prices and supply, thereby exacerbating the effects of the ongoing memory crisis , in a US class action lawsuit.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "The war against ‘woke’ could end US science as we know it",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/science/957630/omb-killing-science-budget-grants-research",
+      "published": "2026-06-29T12:16:26+00:00",
+      "summary": "A sneaky rule change has the potential to blow up scientific research in the United States. But there's still time to fight it.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "One person killed and one injured in shooting at California World Cup ‘fan zone’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/california-world-cup-fan-zone-shooting",
+      "published": "2026-06-29T12:11:09+00:00",
+      "summary": "San Jose police say Sunday incident in area that has been hosting watch parties ‘is being investigated as a homicide’ One person was killed and another seriously injured on Sunday night ⁠in a shooting at a popular entertainment spot in San…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Amid Steam Machine performance scrutiny, Valve removes '4K at 60FPS' claim",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/steam-machine-marketing-update-4k-60-fps-removed",
+      "published": "2026-06-29T11:01:03+00:00",
+      "summary": "Valve no longer claims the Steam Machine is capable of running games at 4K resolutions and 60 frames per second.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "‘It definitely trickles down’: Muslims in Texas suffer effects of Republicans’ hate speech",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/texas-muslims-hate-speech",
+      "published": "2026-06-29T11:00:43+00:00",
+      "summary": "Muslims say anti-Islamic rhetoric making everyday life difficult – and threats and harassment not uncommon Following a brutal Republican primary runoff in which Islamophobia took center stage , anti-Muslim hatred continues spilling into…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
@@ -27,113 +97,43 @@
       "score": 10
     },
     {
-      "title": "Sony Interactive Entertainment president and CEO hasn't given up on live-service games just yet",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/sony-still-believes-in-live-service-games",
-      "published": "2026-06-28T20:56:54+00:00",
-      "summary": "Despite a raft of high-profile flops and cancellations, Sony Interactive Entertainment president Hideaki Nishino has reaffirmed the company's commitment to live-service games. Read more",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘We’re up against forces that have all the money in the world’: Erin Brockovich on her battle against AI datacentres",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres",
-      "published": "2026-06-29T04:00:28+00:00",
-      "summary": "In 1993, she squeezed a $333m settlement from a Californian energy company in a scandal over contaminated water.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "title": "Texas will require students to read Bible passages",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/06/29/nx-s1-5872725/texas-will-require-students-to-read-bible-passages",
+      "published": "2026-06-29T08:41:41+00:00",
+      "summary": "Texas students will be required to read Bible passages and learn about the role of Christianity in the state's history under new reading lists and social studies curriculum approved on Friday",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
-      "title": "Heatwave and high humidity to blast much of US: ‘impactful to anyone’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/28/heatwave-humidity-fourth-of-july-weather",
-      "published": "2026-06-28T20:53:29+00:00",
-      "summary": "Forecasters expect days of high temperatures in central and eastern US before Fourth of July and World Cup festivities A long and dangerous heatwave will blast a large swath of the central and eastern United States for the upcoming week,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "‘I eat pasta almost every day’: a day in the life of a world champion pizza athlete",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/wellness/2026/jun/28/francis-tolu-pizza-athlete",
-      "published": "2026-06-28T16:00:16+00:00",
-      "summary": "Francis Tolu works at his family’s restaurant in Spain and also competes in pizza acrobatic contests internationally Francis Tolu is a freestyle pizza champion.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-      "published": "2026-06-28T14:12:06+00:00",
-      "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Master your money: 11 experts share hard-earned tips to budget, invest and retire early",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/28/expert-personal-finance-money-tips",
-      "published": "2026-06-28T13:00:09+00:00",
-      "summary": "From building an investment portfolio to flying first class on miles, the pros share tricks for thriving in a shaky economy Despite what you might have heard, building wealth is not simply a matter of depriving yourself of lattes and…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Good-faith lawsuit? LDS church in fight with podcaster over Mormon name",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/jun/28/lds-church-mormon-lawsuit",
-      "published": "2026-06-28T12:00:09+00:00",
-      "summary": "Church sues excommunicated member over Mormon Stories podcast but John Dehlin says name free for all to use Trademark changes and copyright infringement disputes take many forms.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: In the Age of AI, Everyone Should Be Hiring Theater Kids",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/in-the-age-of-ai-everyone-should-be-hiring-theater-kids/",
-      "published": "2026-06-28T10:30:00+00:00",
-      "summary": "This spring, an estimated 3.9 million high school students — one of the largest classes in American history — graduated into a world their education never fully prepared them for.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Tetris: World Builders is a new animated series for kids \"inspired by the iconic falling blocks that have captivated players for generations\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/tetris-world-builders-animated-series",
-      "published": "2026-06-28T21:21:54+00:00",
-      "summary": "A new animated series dedicated to the Tetris game is on the way to inspire children to take up STEAM careers – that is, STEM subjects (science, technology, engineering, and maths) combined with the arts. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8
-    },
-    {
-      "title": "These church members disagree on politics. Together they're wiping out medical debt",
+      "title": "People are taking allergy and heartburn pills for PMS. Could it work?",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/28/nx-s1-5847966/medical-debt-politics-republican-democrat",
-      "published": "2026-06-28T11:00:00+00:00",
-      "summary": "Trinity Moravian Church, a politically diverse congregation in Winston-Salem, N. C., has been raising money to retire medical debt in the surrounding community.",
+      "url": "https://www.npr.org/2026/06/29/nx-s1-5853867/pepcid-antihistamines-pms-pmdd",
+      "published": "2026-06-29T09:00:00+00:00",
+      "summary": "Can the mix really help with premenstrual woes? Theoretically, the link between histamine and hormones could explain why the trendy DIY treatment seems to help some women.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Decision Time Has Come for Newsom’s Proposal To Shift Control of CA Department of Education",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/decision-time-has-come-for-newsoms-proposal-to-shift-control-of-ca-doe/",
-      "published": "2026-06-28T16:30:00+00:00",
-      "summary": "The fate of Gov.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "Australia to double potential fines over child social media accounts",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/06/29/nx-s1-5874576/australia-fines-child-social-media-accounts",
+      "published": "2026-06-29T06:46:46+00:00",
+      "summary": "Australia plans to double potential fines for social media platforms, including Facebook and Instagram, who fail to prevent Australian children from holding accounts.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
+    },
+    {
+      "title": "Inside Cannes, the Advertising Industry’s Biggest Party",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/inside-cannes-the-advertising-industrys-biggest-party/",
+      "published": "2026-06-29T13:43:39+00:00",
+      "summary": "Reporting from Microsoft Gardens, next to Salesforce Beach, Amazon Port, and the Canva Creative Cabana.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
   ],
@@ -145,6 +145,17 @@
       "url": "https://www.youtube.com/watch?v=JKdtx6szbwI",
       "published": "2026-06-26T16:04:04+00:00",
       "summary": "WIRED tasks the cast of Jackass: Best and Last to answer the 50 most searched questions about Jackass. Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "China eclipses the U.S. with its new supercomputer, now the fastest on Earth",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=3FnSZ4gklJk",
+      "published": "2026-06-29T13:30:27+00:00",
+      "summary": "A Chinese supercomputer is now considered the fastest on Earth, knocking the U.S. down a notch. The new No. 1 supercomputer is called LineShine, or ling1sheng4 in Chinese.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -216,17 +227,6 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Actor Ebon Moss-Bachrach from FX’s The Bear talks about his character's journey in the final season",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=eeF-kXBe1zU",
-      "published": "2026-06-26T19:00:13+00:00",
-      "summary": "FX’s The Bear has entered its fifth and final season.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
       "title": "DF Retro's PS1 Launch Special - One Of The Most Challenging Videos We've Ever Made",
       "source": "Digital Foundry",
       "category": "Games / hardware",
@@ -293,15 +293,26 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "The Art of the Time Loop | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=JzQGa1UHhp4",
+      "published": "2026-06-29T13:24:33+00:00",
+      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty gab about the art of the video game time loop. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "Jumping Into Riot's 2XKO | Super Smash Sunday",
       "source": "Second Wind",
       "category": "Games / criticism",
       "url": "https://www.youtube.com/watch?v=mc8F8DdsQl8",
-      "published": "2026-06-28T12:44:51+00:00",
+      "published": "2026-06-29T07:30:40+00:00",
       "summary": "Our resident fighting game fans KC and El Cheshire are trying out Riot's 2XKO. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Next Fest Demos (Iron Nest, Screenbound, Order of the Sinking Star, and Ballgame) | Yahtzee Tries",
@@ -482,6 +493,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "The Bombing of Pan Am 103 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=5fYWCkoDSeU",
+      "published": "2026-06-29T12:30:00+00:00",
+      "summary": "The tragic bombing of a transatlantic flight over Scotland in 1988 unites the local police and the FBI in a hunt for the attackers. Based on a true story. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "can these fans solve the case of the Enola Holmes 3 premiere? #Netflix #EnolaHolmes",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -489,7 +511,7 @@
       "published": "2026-06-28T17:00:19+00:00",
       "summary": "can these fans solve the case of the Enola Holmes 3 premiere? Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -598,17 +620,6 @@
       "url": "https://www.youtube.com/watch?v=iz3m_28xIIM",
       "published": "2026-06-24T14:07:46+00:00",
       "summary": "New season, new opening: water, earth, fire, air. Everything changed when the fire nation attacked. Avatar: The Last Airbender Season 2 premieres June 25, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "THE ONE PIECE | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=3Gmo0EXHyKg",
-      "published": "2026-06-24T13:00:00+00:00",
-      "summary": "Eiichiro Oda’s manga \"THE ONE PIECE\" (originally serialized in Shueisha’s Weekly Shonen Jump in Japan) has become a cultural phenomenon with fans all around the globe, and now, it is being adapted as a new anime series, starting from the…",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -736,8 +747,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 18,
+    "youtubeCount": 19,
     "trailerCount": 26,
-    "sourceCount": 16
+    "sourceCount": 19
   }
 }
