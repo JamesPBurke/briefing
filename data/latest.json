@@ -1,119 +1,129 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-29T18:00:30.578298Z",
-  "generatedAtDisplay": "2026-06-29 02:00 PM EDT",
+  "generatedAt": "2026-06-30T05:00:01.904495Z",
+  "generatedAtDisplay": "2026-06-30 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are At $499, Apple’s M3-powered iPad Air is a good deal, Outcry over supreme court decision to grant Trump power to fire agency chiefs, and Incumbent VP, Top State Union Leaders Among Candidates for NEA President.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are ‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind, Director sentenced to more than two years for defrauding Netflix out of $11m, and Trump news at a glance: Trump tried to appeal E Jean Carroll verdict all the way to the supreme court. They passed.",
   "mainItems": [
     {
-      "title": "At $499, Apple’s M3-powered iPad Air is a good deal",
-      "source": "The Verge",
+      "title": "‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind",
+      "published": "2026-06-30T04:00:37+00:00",
+      "summary": "Since 2017, Iason Gabriel has worked at the tech giant, trying to anticipate – and think through – the impact of AI.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Director sentenced to more than two years for defrauding Netflix out of $11m",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/carl-rinsch-47-ronin-netflix-fraud",
+      "published": "2026-06-30T01:25:16+00:00",
+      "summary": "Carl Rinsch requested $11m for never-finished sci-fi series but diverted money to personal account, prosecutors said Hollywood writer-director Carl Rinsch was sentenced Monday to two-and-a-half years in prison after being convicted of…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Trump news at a glance: Trump tried to appeal E Jean Carroll verdict all the way to the supreme court. They passed",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale",
-      "published": "2026-06-29T17:49:12+00:00",
-      "summary": "Most of Apple’s price increases have gone into effect, resulting in iPads and other products costing hundreds more than they did a few days ago.",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/trump-news-at-a-glance-e-jean-carroll",
+      "published": "2026-06-30T01:03:17+00:00",
+      "summary": "The 2023 verdict found Trump liable for sexually ​abusing writer and then defaming her – key US politics stories from Monday 29 June at a glance The US supreme court on Monday declined Donald Trump’s request to review a New York jury’s…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Outcry over supreme court decision to grant Trump power to fire agency chiefs",
+      "title": "‘I didn’t lose hope’: how Cook Islands fisher survived eight days lost in the Pacific Ocean",
       "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/jun/30/cook-islands-fisher-how-survived-lost-pacific-ocean",
+      "published": "2026-06-30T00:29:20+00:00",
+      "summary": "After the engine on his small aluminium boat died, Junior Apiuta Apiuta battled loneliness, huge waves and bitter cold – but he never gave up For eight days drifting alone in the vast Pacific Ocean, Junior Apiuta Apiuta battled towering…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI is teasing new hardware… for Codex",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "published": "2026-06-29T18:52:41+00:00",
+      "summary": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Google warns EU's plans to weaken its monopoly could expose user data",
+      "source": "Ars Technica",
       "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-trump-agency-firings-slaughter-ftc",
-      "published": "2026-06-29T17:13:56+00:00",
-      "summary": "Legal and labor experts say Trump v Slaughter decision upends settled constitutional law in favor of ‘loyalty test’ As a reality TV show host, Donald Trump rose to fame with the catchphrase: “You’re fired!” On Monday, the US supreme court…",
+      "url": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
+      "published": "2026-06-29T18:21:31+00:00",
+      "summary": "The EU wants Google to share search data with competitors and open up AI on Android, but Google alleges major privacy risks.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Incumbent VP, Top State Union Leaders Among Candidates for NEA President",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/incumbent-vp-top-state-union-leaders-among-candidates-for-nea-president/",
-      "published": "2026-06-29T16:30:00+00:00",
-      "summary": "While the U.S. celebrates over the Fourth of July weekend, four candidates will be vying for the top post of the nation’s largest teachers union.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Lawmakers want to ban AI companies from selling your health data",
+      "title": "Sony’s next-gen PlayStation will go ‘beyond the living room’",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
-      "published": "2026-06-29T16:07:14+00:00",
-      "summary": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude.",
+      "url": "https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room",
+      "published": "2026-06-29T19:12:15+00:00",
+      "summary": "Sony hinted in a recent Q&A with investors that the next generation PlayStation will offer some kind of experience that lets you play games outside of your living room.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "US supreme court rules geofence warrants require constitutional privacy protections",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "published": "2026-06-29T15:23:19+00:00",
-      "summary": "Law enforcement’s use of warrants sweeping smartphone location data requires privacy protections, court rules US supreme court decisions – live updates The US supreme court has ruled that law enforcement’s use of sprawling warrants that…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "NYC Delays School AI Guidance After Backlash",
+      "title": "Alaska Districts Close 12 Schools This Year, Amid Severe Budget Cuts",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/nyc-delays-school-ai-guidance-after-backlash/",
-      "published": "2026-06-29T14:30:00+00:00",
-      "summary": "New York City education officials are hitting pause on releasing comprehensive artificial intelligence guidelines after their draft policy from March sparked fierce backlash.",
+      "url": "https://www.the74million.org/article/alaska-districts-close-12-schools-this-year-amid-severe-budget-cuts/",
+      "published": "2026-06-29T18:30:00+00:00",
+      "summary": "Alaska saw an unprecedented wave of school closures this year.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "‘Weaponizing ignorance’: Muslims bear brunt as Texas Republicans make hate mainstream",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/texas-muslims-hate-speech",
-      "published": "2026-06-29T11:00:43+00:00",
-      "summary": "Muslims say anti-Islamic rhetoric making everyday life difficult – and threats and harassment not uncommon Following a brutal Republican primary runoff in which Islamophobia took center stage , anti-Muslim hatred continues spilling into…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "What to wear in extreme heat: five tips for keeping it cool",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/wellness/article/2026/jun/29/what-clothing-to-wear-hot-summer-extreme-weather",
-      "published": "2026-06-29T17:39:35+00:00",
-      "summary": "People are trying to stay cool amid extreme heatwaves in Europe and the US. Experts say you can maximize comfort with smart clothing choices Western Europe is currently being scorched by the most severe heatwave in its history.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
-      "title": "Supreme Court allows firing of FTC commissioners, ends agency independence",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/policy/958974/supreme-court-slaughter-trump-decision-ftc-agency-independence",
-      "published": "2026-06-29T17:17:16+00:00",
-      "summary": "The Supreme Court just placed once-independent agencies more firmly under presidential control. The court ruled in Trump v.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Amid Steam Machine performance scrutiny, Valve removes '4K at 60FPS' claim",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/steam-machine-marketing-update-4k-60-fps-removed",
+      "published": "2026-06-29T11:01:03+00:00",
+      "summary": "Valve no longer claims the Steam Machine is capable of running games at 4K resolutions and 60 frames per second.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "Brazil v Japan: World Cup 2026 last 32 – live",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/football/live/2026/jun/29/brazil-v-japan-world-cup-2026-last-32-live",
-      "published": "2026-06-29T17:47:50+00:00",
-      "summary": "⚽ Kick-off time: 12pm local/1pm EDT/6pm BST/3am AET ⚽ Bracketology | Player guide | Golden Boot | Email Tim “Consensus,” exclaims Richard Hirst, “get thee behind me! If they weren’t called Brazil would we be so readily predicting victory…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Sing-along time at a memory cafe is a highlight for people dealing with dementia",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/06/29/nx-s1-5831294/sing-along-time-at-a-memory-cafe-is-a-highlight-for-people-dealing-with-dementia",
+      "published": "2026-06-29T20:07:55+00:00",
+      "summary": "Music tends to stay with people even as dementia claims other memories. In Vermont, Memory Cafes provide communities for both dementia patients and their caregivers.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "People are taking allergy and heartburn pills for PMS. Could it work?",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/29/nx-s1-5853867/pepcid-antihistamines-pms-pmdd",
-      "published": "2026-06-29T09:00:00+00:00",
-      "summary": "Can the mix really help with premenstrual woes? Theoretically, the link between histamine and hormones could explain why the trendy DIY treatment seems to help some women.",
+      "title": "Tidal Says It Won’t Pay Royalties for AI-Generated Music",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/tidal-says-it-wont-pay-royalties-for-ai-generated-music/",
+      "published": "2026-06-29T19:33:49+00:00",
+      "summary": "Spotify competitor Tidal built a reputation by collaborating with musicians and focusing on audio quality. How will it handle the era of AI-generated slop?",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Supergirl Director Explains Why the Movie Doesn’t Look Like Woman of Tomorrow",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/supergirl-writer-director-explain-woman-of-tomorrow-changes/",
+      "published": "2026-06-29T18:32:05+00:00",
+      "summary": "It turns out Craig Gillespie initially avoided looking at Woman of Tomorrow when crafting the film's visuals The post Supergirl Director Explains Why the Movie Doesn’t Look Like Woman of Tomorrow appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     },
     {
@@ -125,20 +135,209 @@
       "summary": "Australia plans to double potential fines for social media platforms, including Facebook and Instagram, who fail to prevent Australian children from holding accounts.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
-    },
-    {
-      "title": "Inside Cannes, the Advertising Industry’s Biggest Party",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/inside-cannes-the-advertising-industrys-biggest-party/",
-      "published": "2026-06-29T13:43:39+00:00",
-      "summary": "Reporting from Microsoft Gardens, next to Salesforce Beach, Amazon Port, and the Canva Creative Cabana.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     }
   ],
   "youtube": [],
-  "trailers": [],
+  "trailers": [
+    {
+      "title": "KLARA AND THE SUN – Official Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=wixzainceAE",
+      "published": "2026-06-22T16:00:09+00:00",
+      "summary": "Meet Klara. Your new best (artificial) friend. 🌞 Jenna Ortega is Klara in Director Taika Waititi’s adaptation of Kazuo Ishiguro’s #KlaraAndTheSun - coming exclusively to theatres October 23. Watch the trailer now.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY – New Trailer",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Rv1dodCKgvE",
+      "published": "2026-06-17T19:27:30+00:00",
+      "summary": "The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY – New Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=62bIsvRcPv0",
+      "published": "2026-06-17T18:58:31+00:00",
+      "summary": "The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "THE SOCIAL RECKONING – Official Teaser Trailer (HD)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=gM4LkaXwGuY",
+      "published": "2026-06-10T12:58:35+00:00",
+      "summary": "Every revolution begins with a reckoning. The Social Reckoning, a companion piece to The Social Network, is coming exclusively to theatres October 9.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Debut | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=clyzHmBx43E",
+      "published": "2026-06-23T12:59:06+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Invite | Official First Look | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=MrKYHdDzu0g",
+      "published": "2026-06-18T14:00:23+00:00",
+      "summary": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "The Ultimatum: Marry or Move On: Season 4 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=5PJbRJIcWKg",
+      "published": "2026-06-29T16:00:00+00:00",
+      "summary": "Is the grass greener on the other side? Six more couples test this theory by moving in with new potential partners for a revealing social experiment. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners 2 | Official Teaser #2 | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=QBlPg818lGI",
+      "published": "2026-06-29T15:30:00+00:00",
+      "summary": "New legends. Same Night City. CYBERPUNK: EDGERUNNERS 2 Cyberpunk: Edgerunners 2 presents a new standalone 10-episode story from the world of Cyberpunk 2077, coming this fall, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "A Toxic Love Story | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=9k9SYlMy9qs",
+      "published": "2026-06-29T15:00:00+00:00",
+      "summary": "In a glamorous California suburb, a young woman’s arrest for a violent fantasy plot becomes a sensational scandal, but the truth remains hidden behind a sophisticated web of deception.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Bombing of Pan Am 103 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=5fYWCkoDSeU",
+      "published": "2026-06-29T12:30:00+00:00",
+      "summary": "The tragic bombing of a transatlantic flight over Scotland in 1988 unites the local police and the FBI in a hunt for the attackers. Based on a true story. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "can these fans solve the case of the Enola Holmes 3 premiere? #Netflix #EnolaHolmes",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Mgcu7233OBM",
+      "published": "2026-06-28T17:00:19+00:00",
+      "summary": "can these fans solve the case of the Enola Holmes 3 premiere? Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Is that...THE GREATEST EARTHBENDER IN THE WORLD?!?!? #AvatarTheLastAirbender #Netflix #Toph",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=w6rW8d6x5bE",
+      "published": "2026-06-26T19:00:34+00:00",
+      "summary": "Is that...THE GREATEST EARTHBENDER IN THE WORLD?!?!? AVATAR: THE LAST AIRBENDER is now playing, only on Netflix! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "John Cena and Eric André's new comedy Little Brother is now playing. #Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=SPWjOdIj1Gk",
+      "published": "2026-06-26T16:00:23+00:00",
+      "summary": "A famous real estate agent's carefully curated world is upended when his eccentric \"little brother\" unexpectedly reappears. John Cena and Eric André's new comedy Little Brother is now playing. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The vast world of Avatar: The Last Airbender",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=lRaGtDE35KM",
+      "published": "2026-06-26T14:30:29+00:00",
+      "summary": "The world of Avatar is bigger than ever Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Kaulitz & Kaulitz: Season 3 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=g4qSaXDIyLg",
+      "published": "2026-06-26T13:00:00+00:00",
+      "summary": "The twins are back — with more feelings, more drama and an iconic pool party. Kaulitz & Kaulitz: Season 3, premieres July 23. Only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Ransom Canyon: Season 2 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=2XKyPE92owY",
+      "published": "2026-06-25T16:00:06+00:00",
+      "summary": "Welcome back to Ransom! The future of Ransom Canyon hangs in the balance as ranching dynasties continue to vie for power, and new faces arrive, threatening the lives and loves of this quaint, western town.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Mary Beth Barone: Galaxy Brain | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=LtK3kHAR63E",
+      "published": "2026-06-25T15:00:00+00:00",
+      "summary": "Mary Beth Barone's first hour-long stand-up special Galaxy Brain arrives on Netflix July 28. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Blood Sacrifice | Date Announcement | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Q6gx1QdkUJo",
+      "published": "2026-06-25T07:30:00+00:00",
+      "summary": "Time is running out! From George Kay, the creator behind global hit series Lupin and Hijack, comes Blood Sacrifice (previously titled The Case): A gripping new Swedish crime thriller series premiering on August 20 on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -251,7 +450,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 6
+    "trailerCount": 18,
+    "sourceCount": 12
   }
 }
