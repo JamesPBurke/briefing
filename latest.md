@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-06-30T05:00:01.904495Z
+Generated: 2026-06-30T14:00:02.824404Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are ‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind, Director sentenced to more than two years for defrauding Netflix out of $11m, and Trump news at a glance: Trump tried to appeal E Jean Carroll verdict all the way to the supreme court. They passed.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are ICE releases Texas nun intercepted walking to church dressed in her habit, Meet the lawyer who beat Elon Musk — twice, and GTA 6 makers have 10 working days to voluntarily recognise Rockstar IWGB Game Workers Union or it may go to a government tribunal.
 
 ## Briefing
 
@@ -33,52 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Since 2017, Iason Gabriel has worked at the tech giant, trying to anticipate – and think through – the impact of AI.
-
-Link: https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind
-
-### 2. Director sentenced to more than two years for defrauding Netflix out of $11m [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Carl Rinsch requested $11m for never-finished sci-fi series but diverted money to personal account, prosecutors said Hollywood writer-director Carl Rinsch was sentenced Monday to two-and-a-half years in prison after being convicted of…
-
-Link: https://www.theguardian.com/us-news/2026/jun/29/carl-rinsch-47-ronin-netflix-fraud
-
-### 3. Trump news at a glance: Trump tried to appeal E Jean Carroll verdict all the way to the supreme court. They passed [10/10]
+### 1. ICE releases Texas nun intercepted walking to church dressed in her habit [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The 2023 verdict found Trump liable for sexually ​abusing writer and then defaming her – key US politics stories from Monday 29 June at a glance The US supreme court on Monday declined Donald Trump’s request to review a New York jury’s…
+Diocese officials in south Texas say a nun was released after members of Congress intervened A Roman Catholic nun was released from the custody of US Immigration and Customs Enforcement ( ICE ) after the agency arrested her while she…
 
-Link: https://www.theguardian.com/us-news/2026/jun/29/trump-news-at-a-glance-e-jean-carroll
+Link: https://www.theguardian.com/us-news/2026/jun/30/ice-nun-detained-released-texas
 
-### 4. ‘I didn’t lose hope’: how Cook Islands fisher survived eight days lost in the Pacific Ocean [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-After the engine on his small aluminium boat died, Junior Apiuta Apiuta battled loneliness, huge waves and bitter cold – but he never gave up For eight days drifting alone in the vast Pacific Ocean, Junior Apiuta Apiuta battled towering…
-
-Link: https://www.theguardian.com/world/2026/jun/30/cook-islands-fisher-how-survived-lost-pacific-ocean
-
-### 5. OpenAI is teasing new hardware… for Codex [10/10]
+### 2. Meet the lawyer who beat Elon Musk — twice [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th.
+Watching Elon Musk fulminate at Bill Savitt during Musk v.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder
+Link: https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter
 
-### 6. Google warns EU's plans to weaken its monopoly could expose user data [10/10]
+### 3. GTA 6 makers have 10 working days to voluntarily recognise Rockstar IWGB Game Workers Union or it may go to a government tribunal [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The newly-formed Rockstar IWGB Game Workers Union are pushing for official recognition by Rockstar ahead of GTA 6's console release this November.
+
+Link: https://www.rockpapershotgun.com/gta-6-makers-have-10-working-days-to-voluntarily-recognise-rockstar-iwgb-game-workers-union-or-it-may-go-to-a-government-tribunal
+
+### 4. Opinion: As AI Advances, Student Voice Must Keep Pace [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+As I climbed the steps to the stage on the morning of my junior high graduation, I felt my heart racing. Just a few feet away stood a microphone and hundreds of eyes waiting for me to begin.
+
+Link: https://www.the74million.org/article/as-ai-advances-student-voice-must-keep-pace/
+
+### 5. Muskets in hand, historical re-enactors are in demand as US celebrates 250 years [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+‘Living historians’ have stepped back into the spotlight as US prepares to celebrate its semiquincentennial this week In 1972, a young man named Joe Ryan was teaching his middle school class in northern Westchester about the American…
+
+Link: https://www.theguardian.com/us-news/2026/jun/30/historical-re-enactors-america-250-birthday
+
+### 6. Agriculture is ready for AI, but its data isn’t [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.
+
+Link: https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/
+
+### 7. "We're talking about at least half a decade of horror": former Exodus lead explains why he wasn't keen on doing a Baldur's Gate 4 despite Hasbro offering the chance [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Nah. Nope. I'm good, thanks. None of those are exactly what former Archetype Entertainment studio head and BioWare veteran James Ohlen said when Hasbro asked him if he fancied making a Baldur's Gate 4, but they essentially capture the jist.
+
+Link: https://www.rockpapershotgun.com/were-talking-about-at-least-half-a-decade-of-horror-former-exodus-lead-explains-why-he-wasnt-keen-on-doing-a-baldurs-gate-4-despite-hasbro-offering-the-chance
+
+### 8. Scaling Equitable AI Learning with Responsible AI Fellow Tarquinn Curry [10/10]
+**Source:** CSTA  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Tarquinn Curry is a veteran educator with 22 years of teaching experience in Long Beach Unified School District. He currently...
+
+Link: https://csteachers.org/scaling-equitable-ai-learning-with-responsible-ai-fellow-tarquinn-curry/
+
+### 9. New Report Finds Five-Year Drop in Preschool Enrollment, but COVID’s Effects Loom [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+The percentage of 3- and 4-year-olds enrolled in school dropped during the most recently available five-year lookback window of federal data, though that picture is likely clouded by COVID-era school closures.
+
+Link: https://www.the74million.org/zero2eight/new-report-finds-five-year-drop-in-preschool-enrollment-but-covids-effects-loom/
+
+### 10. Google warns EU's plans to weaken its monopoly could expose user data [10/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -87,72 +123,214 @@ The EU wants Google to share search data with competitors and open up AI on Andr
 
 Link: https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/
 
-### 7. Sony’s next-gen PlayStation will go ‘beyond the living room’ [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Sony hinted in a recent Q&A with investors that the next generation PlayStation will offer some kind of experience that lets you play games outside of your living room.
-
-Link: https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room
-
-### 8. Alaska Districts Close 12 Schools This Year, Amid Severe Budget Cuts [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Alaska saw an unprecedented wave of school closures this year.
-
-Link: https://www.the74million.org/article/alaska-districts-close-12-schools-this-year-amid-severe-budget-cuts/
-
-### 9. Amid Steam Machine performance scrutiny, Valve removes '4K at 60FPS' claim [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Valve no longer claims the Steam Machine is capable of running games at 4K resolutions and 60 frames per second.
-
-Link: https://www.eurogamer.net/steam-machine-marketing-update-4k-60-fps-removed
-
-### 10. Sing-along time at a memory cafe is a highlight for people dealing with dementia [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Music tends to stay with people even as dementia claims other memories. In Vermont, Memory Cafes provide communities for both dementia patients and their caregivers.
-
-Link: https://www.npr.org/2026/06/29/nx-s1-5831294/sing-along-time-at-a-memory-cafe-is-a-highlight-for-people-dealing-with-dementia
-
-### 11. Tidal Says It Won’t Pay Royalties for AI-Generated Music [8/10]
+### 11. Companies Are Making Claude and Codex Talk Like Cavemen to Stop AI’s Soaring Costs [9/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-Spotify competitor Tidal built a reputation by collaborating with musicians and focusing on audio quality. How will it handle the era of AI-generated slop?
+A senior OpenAI employee has contributed code to the project, simply called 'caveman.'
 
-Link: https://www.404media.co/tidal-says-it-wont-pay-royalties-for-ai-generated-music/
+Link: https://www.404media.co/companies-are-making-claude-and-codex-talk-like-cavemen-to-stop-ais-soaring-costs/
 
-### 12. Supergirl Director Explains Why the Movie Doesn’t Look Like Woman of Tomorrow [8/10]
+### 12. After Trump's re-election, these U.S. scientists found jobs in the U.K. [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+More U.S. scientists are heading abroad. Three researchers explain why they decided to shift their research to universities in the U.K.
+
+Link: https://www.npr.org/2026/06/30/nx-s1-5875206/trumps-cuts-science-researchers-move-abroad
+
+### 13. Things Look Bleak in the Trailer for Robert Eggers’ Werwulf [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-It turns out Craig Gillespie initially avoided looking at Woman of Tomorrow when crafting the film's visuals The post Supergirl Director Explains Why the Movie Doesn’t Look Like Woman of Tomorrow appeared first on Reactor .
+Nobody ever asks "How wolf?" The post Things Look Bleak in the Trailer for Robert Eggers’ Werwulf appeared first on Reactor .
 
-Link: https://reactormag.com/supergirl-writer-director-explain-woman-of-tomorrow-changes/
-
-### 13. Australia to double potential fines over child social media accounts [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Australia plans to double potential fines for social media platforms, including Facebook and Instagram, who fail to prevent Australian children from holding accounts.
-
-Link: https://www.npr.org/2026/06/29/nx-s1-5874576/australia-fines-child-social-media-accounts
+Link: https://reactormag.com/robert-eggers-werwulf-trailer/
 
 ## YouTube
 
-_No YouTube picks in this briefing._
+### How far should the government go to protect America? | Sources & Methods [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+This September marks 25 years since terrorists hijacked planes and steered them into the twin towers of the World Trade Center. They steered a third plane into the Pentagon. A fourth was headed for the U.S.
+
+Link: https://www.youtube.com/watch?v=Utp5R3MMR3o
+
+### Three brothers in Zambia navigate life after they lost their parents to AIDS [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Three brothers say their mother and father died after losing access to their HIV medications. Now the boys are figuring out how to navigate life.
+
+Link: https://www.youtube.com/watch?v=romH2coH-8o
+
+### How the Trump Administration is quietly remaking U.S. immigration [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+President Trump campaigned on a promise of mass deportations. More than a year into his second term, the White House has taken a sweeping approach to curbing illegal and legal migration.
+
+Link: https://www.youtube.com/watch?v=K0j2sr6wJBw
+
+### FX’s 'The Bear' actor Ebon Moss-Bachrach reflects on the show’s storytelling [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+FX’s 'The Bear' has entered its fifth and final season.
+
+Link: https://www.youtube.com/watch?v=qCL-6PZJMDs
+
+### Search for survivors continues after earthquakes in Venezuela [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Venezuela's government says at least 1,450 people have been killed in last week’s double earthquakes. Tens of thousands remain missing. Rescue teams from multiple countries are working to find people who are still trapped.
+
+Link: https://www.youtube.com/watch?v=kavAt9Jfopc
+
+### Pentagon says reporters are no longer able to embed with members of the military [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+It's been weeks since the Pentagon has briefed the press on the war in Iran. That's a departure from decades of regular practice. Besides that, reporters are no longer able to embed with members of the military.
+
+Link: https://www.youtube.com/watch?v=YSnat7693q0
+
+### Tech writer Karen Hao explains how AI is devaluing and displacing human workers [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The pope's recent statements on AI align with concerns raised by tech writers like Karen Hao, author of “Empire of AI.
+
+Link: https://www.youtube.com/watch?v=ob--q9V_SO0
+
+### China eclipses the U.S. with its new supercomputer, now the fastest on Earth [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+A Chinese supercomputer is now considered the fastest on Earth, knocking the U.S. down a notch. The new No. 1 supercomputer is called LineShine, or ling1sheng4 in Chinese.
+
+Link: https://www.youtube.com/watch?v=3FnSZ4gklJk
+
+### Is Sega Making A Retro Handheld? And What Would We Want From It? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=I6BQlfmUc1I
+
+### Why Isn't Unified Memory Used In Steam Machine? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=oEY9oxX8T2M
+
+### DF Retro's PS1 Launch Special - One Of The Most Challenging Videos We've Ever Made [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Original PS1 Launch Video Here: https://www.youtube.com/watch?v=9SaAvYh22Ro ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.
+
+Link: https://www.youtube.com/watch?v=Vdu5Y6C-roo
+
+### What Actually Is Steam Machine's Target Audience? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=AFHSLFlzOEg
+
+### Pimax Dream Air: An Astonishing VR Headset - But It's Pricey [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/wvWlvuKhSbM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=wh4v4L-z3p4
+
+### Steam Machine's Massive Price-Point Hurts - But Compared To What? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=lJTddS1SRto
+
+### Nightmare Fishing in Umigari | Hot Monday Energy [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Hidden Gems KC, Jess, and Jesse play Umigari -- http://store.steampowered.com/app/3772960/UMIGARI/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=ZuoW4YpRWWc
+
+### 16 Games We Loved from Steam Next Fest [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Another Steam Next Fest has come and gone and we've got over a dozen games to share with you that we enjoyed! Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.
+
+Link: https://www.youtube.com/watch?v=gkK3LdQE7Xw
+
+### The Art of the Time Loop | Windbreaker Podcast [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty gab about the art of the video game time loop. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=JzQGa1UHhp4
+
+### Jumping Into Riot's 2XKO | Super Smash Sunday [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Our resident fighting game fans KC and El Cheshire are trying out Riot's 2XKO. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=mc8F8DdsQl8
+
+### Next Fest Demos (Iron Nest, Screenbound, Order of the Sinking Star, and Ballgame) | Yahtzee Tries [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Yahtzee Tries, Yahtzee checked out an assortment of demos from the recent Steam Next Fest: Iron Nest, Screenbound, Order of the Sinking Star, and Ballgame.
+
+Link: https://www.youtube.com/watch?v=pv6g7eFcJTk
+
+### Family Matters | Adventure Is Nigh! - The Slow Walk Home | Ep. 4 [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Adventure Is Nigh! is powered by Foundry Virtual Tabletop, A Self-Hosted & Modern Roleplaying Platform: https://foundryvtt.com/ The stakes have never been higher for our heroes as they learn the nature of Sebastian Piss's plan. But first...
+
+Link: https://www.youtube.com/watch?v=DiM5svyfZdc
 
 ## Entertainment Recommendations
 
@@ -219,6 +397,15 @@ Every revolution begins with a reckoning. The Social Reckoning, a companion piec
 
 Link: https://www.youtube.com/watch?v=gM4LkaXwGuY
 
+### Whalefall | Official Teaser | In Theaters October 16 [7/10]
+**Source:** 20th Century Studios  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The odds of being swallowed alive by a whale are not zero. Watch the new teaser for #Whalefall and see the film only in theaters October 16.
+
+Link: https://www.youtube.com/watch?v=67ho3OxCmmM
+
 ### The Debut | Official Trailer HD | A24 [8/10]
 **Source:** A24  
 **Verdict:** Looks promising  
@@ -236,6 +423,33 @@ Link: https://www.youtube.com/watch?v=clyzHmBx43E
 From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.
 
 Link: https://www.youtube.com/watch?v=MrKYHdDzu0g
+
+### Sheep in the Box - Official Trailer - In Theaters July 24 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In the near future, Otone and Kensuke, a grieving couple who have lost their son, take into their lives a humanoid identical to their late child.
+
+Link: https://www.youtube.com/watch?v=j5mlc8TAPNw
+
+### Once Upon a Time in Harlem - Official Teaser Trailer - In Select Theaters October 16 [7/10]
+**Source:** NEON  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem…
+
+Link: https://www.youtube.com/watch?v=zIjmgj5rbOY
+
+### Worst Neighbor Ever Season 1 | Official Trailer [10/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on July 1. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
+
+Link: https://www.youtube.com/watch?v=cWgSDtI5khA
 
 ### The Ultimatum: Marry or Move On: Season 4 | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
@@ -344,3 +558,12 @@ Link: https://www.youtube.com/watch?v=LtK3kHAR63E
 Time is running out! From George Kay, the creator behind global hit series Lupin and Hijack, comes Blood Sacrifice (previously titled The Case): A gripping new Swedish crime thriller series premiering on August 20 on Netflix.
 
 Link: https://www.youtube.com/watch?v=Q6gx1QdkUJo
+
+### 1 Hour of Widow’s Bay Ambience | Fog, Coastal Winds & Bells | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+One hour of Widow's Bay ambience where nothing bad happens and everything is fine. A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination.
+
+Link: https://www.youtube.com/watch?v=OUfX45m5UBU
