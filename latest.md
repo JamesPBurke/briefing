@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-01T05:00:02.807106Z
+Generated: 2026-07-01T14:00:01.505641Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Ocean surface temperatures hit a record high for June, Anthropic: US has lifted export controls on Fable and Mythos AI models after security risk fears, and Acer’s Swift Go 16 is a lot of laptop for $900.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are Sony will no longer produce discs for PlayStation games starting in January 2028, citing "consumer preferences" as the reason why, Sony is killing all physical PlayStation game discs, and US labor board more likely to dismiss worker and union charges under Trump, analysis finds.
 
 ## Briefing
 
@@ -33,95 +33,95 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Ocean surface temperatures hit a record high for June [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 1. Sony will no longer produce discs for PlayStation games starting in January 2028, citing "consumer preferences" as the reason why [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-European scientists warn of consequences for weather patterns, the global climate and marine life Temperatures on the ocean surface have hit a record high, raising fears of another burst of extreme heat this summer.
+Sony has announced today it's ceasing production of discs for PlayStation games, effective January 2028. Beyond that point, PlayStation games will be available digitally only.
 
-Link: https://www.theguardian.com/environment/2026/jul/01/ocean-surface-temperatures-hit-a-record-high-for-june
+Link: https://www.eurogamer.net/sony-ending-playstation-discs-physical-media-january-2028
 
-### 2. Anthropic: US has lifted export controls on Fable and Mythos AI models after security risk fears [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The AI company was forced earlier this month to suspend access to its Fable 5 and Mythos 5 models for all foreign nationals Anthropic has said the US commerce department has lifted export controls on its Fable and Mythos AI models, less…
-
-Link: https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted
-
-### 3. Acer’s Swift Go 16 is a lot of laptop for $900 [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-As high memory and storage prices have driven up the cost of everything from consoles to computers, finding a competent laptop for under $1,000 has become a challenge. Thankfully, the Acer Swift Go 16 AI is on sale for $899.
-
-Link: https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale
-
-### 4. Judge blocks rule to strip public service workers of student loan forgiveness [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Trump, who had signed an order to the effect, handed legal defeat after judge sided with Democratic-led states A federal judge on Tuesday blocked the Trump administration from implementing a new rule ⁠stripping public service workers of…
-
-Link: https://www.theguardian.com/us-news/2026/jun/30/trump-public-service-workers-student-loan-forgiveness
-
-### 5. Disassembling the Steam Machine suggests Valve are protecting its precious RAM by burying it under a dozen other parts [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-I, uh, completely took apart a Steam Machine by accident.
-
-Link: https://www.rockpapershotgun.com/disassembling-the-steam-machine-suggests-valve-are-protecting-its-precious-ram-by-burying-it-under-a-dozen-other-parts
-
-### 6. Anthropic’s long-sidelined Fable 5 is greenlit to return [9/10]
+### 2. Sony is killing all physical PlayStation game discs [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online.
+Sony has announced that from January 2028 it will entirely stop the production of physical discs for new PlayStation games.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back
+Link: https://www.theverge.com/games/960160/sony-playstation-disc-production-ending
 
-### 7. Green Suits is a surreal platformer stroke JRPG filled with Escher architecture and paranormal investigators [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 3. US labor board more likely to dismiss worker and union charges under Trump, analysis finds [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Sometimes I feel that my taste in media is a bit hard to pin down, given that I like shows like Twin Peaks and manga like Chainsaw Man, two series where their similarities mostly stop and start at featuring governmental figures.
+Report points to staffing shortages, procedural changes and lack of a board quorum as contributing factors Dismissals of unfair labor practice charges have surged at the National Labor Relations Board under Donald Trump , according to a…
 
-Link: https://www.rockpapershotgun.com/green-suits-is-a-surreal-platformer-stroke-jrpg-filled-with-escher-architecture-and-paranormal-investigators
+Link: https://www.theguardian.com/us-news/2026/jul/01/trump-labor-board-dismissals
 
-### 8. Lānaʻi School Relies on Temporary Power Lines for Years [9/10]
+### 4. Opinion: The Real Problem With ‘Gifted’ Education [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-After a power failure knocked out electricity in parts of Lānaʻi High and Elementary School in 2021, the state set up temporary electrical lines to get the lights back on. Five years later, the so-called temporary lines are still there.
+A version of this essay appeared on Matthew Yglesias’ Slow Boring, a site dedicated to offering pragmatic takes on politics and public policy.
 
-Link: https://www.the74million.org/article/lana%ca%bbi-school-relies-on-temporary-power-lines-for-years/
+Link: https://www.the74million.org/article/the-real-problem-with-gifted-education/
 
-### 9. Companies Are Making Claude and Codex Talk Like Cavemen to Stop AI’s Soaring Costs [9/10]
+### 5. ‘Tip of the iceberg’: nearly 500,000 New Yorkers lose health insurance due to Trump cuts [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+First of major coverage losses expected as a result of the ‘One Big Beautiful’ bill signed into law one year ago Nearly 500,000 moderate-income New Yorkers will be dumped from their health insurance plans on 1 July – the first of major…
+
+Link: https://www.theguardian.com/us-news/2026/jul/01/new-yorkers-lose-health-insurance-trump-cuts
+
+### 6. US supreme court rejects appeal from lawyer punished over effort to remove abusive priest [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Richard Trahant fined $400,000 over apparent violation of order in case of priest who admitted sexual misconduct The US supreme court has rejected an appeal from an attorney who was fined $400,000 after taking steps to get an abusive Roman…
+
+Link: https://www.theguardian.com/us-news/2026/jul/01/supreme-court-appeal-richard-trahant
+
+### 7. GTA 6 developer Rockstar accused of enforcing crunch, weaponising bonus payments, and ignoring a widening gender pay gap [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+As Rockstar employees move to pursue official union recognition following a series of high-profile sackings in 2025, new allegations are emerging related to Rockstar's treatment of its staff.
+
+Link: https://www.eurogamer.net/gta-6-rockstar-enforcing-crunch-weaponising-bonus-payments-ignoring-widening-gender-pay-gap
+
+### 8. "Low-effort slop": The creators of the Godot engine behind Slay the Spire 2 are cracking down on "vibe-coding" and now require genAI disclosures [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The foundation behind the open source Godot game engine have announced a crackdown on the use of generative AI by contributors, following a wave of "demoralizing", "low-effort slop" that has added to an already overwhelming quantity of…
+
+Link: https://www.rockpapershotgun.com/low-effort-slop-the-creators-of-the-godot-engine-behind-slay-the-spire-2-are-cracking-down-on-vibe-coding-and-now-require-genai-disclosures
+
+### 9. Apple ‘Hide My Email’ Vulnerability Reveals Peoples’ Real Email Addresses [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-A senior OpenAI employee has contributed code to the project, simply called 'caveman.'
+”Hide My Email users deserve to know that it may be possible for attackers to discover their hidden email addresses,” the person who reported the issue said.
 
-Link: https://www.404media.co/companies-are-making-claude-and-codex-talk-like-cavemen-to-stop-ais-soaring-costs/
+Link: https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/
 
-### 10. Opinion: As AI Advances, Student Voice Must Keep Pace [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 10. Worst Neighbor Ever review – this shocking look at real-life deaths just feels exploitative [8/10]
+**Source:** The Guardian US  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-As I climbed the steps to the stage on the morning of my junior high graduation, I felt my heart racing. Just a few feet away stood a microphone and hundreds of eyes waiting for me to begin.
+All of these tales of murdered residents are horrifying.
 
-Link: https://www.the74million.org/article/as-ai-advances-student-voice-must-keep-pace/
+Link: https://www.theguardian.com/tv-and-radio/2026/jul/01/worst-neighbor-ever-review-shocking-look-real-life-deaths-feels-exploitative
 
 ### 11. These church members disagree on politics. Together they're wiping out medical debt [8/10]
 **Source:** NPR Health  
@@ -151,6 +151,24 @@ Mark Zuckerberg met with Kalshi's CEO last year about a potential deal, but talk
 Link: https://www.npr.org/2026/06/30/nx-s1-5875468/meta-kalshi-prediction-market-acquisition-talks
 
 ## YouTube
+
+### This New AI Model Changes Everything [9/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers GLM 5.2: https://z.ai/blog/glm-5.
+
+Link: https://www.youtube.com/watch?v=qks6dGQFd_c
+
+### Bernie Sanders Answers Oligarchy Questions | Tech Support | WIRED [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Senator Bernie Sanders joins WIRED to answer the internet’s burning questions about the oligarchy.
+
+Link: https://www.youtube.com/watch?v=QZXPzxxdOzc
 
 ### How far should the government go to protect America? | Sources & Methods [8/10]
 **Creator:** NPR  
@@ -224,9 +242,9 @@ A Chinese supercomputer is now considered the fastest on Earth, knocking the U.S
 
 Link: https://www.youtube.com/watch?v=3FnSZ4gklJk
 
-### SteamOS Supporting Nvidia GPUs: It's Coming + It Could Be A Game Changer [9/10]
+### SteamOS Supporting Nvidia GPUs: It's Coming + It Could Be A Game Changer [8/10]
 **Creator:** Digital Foundry  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -287,9 +305,9 @@ Link: https://www.youtube.com/watch?v=Vdu5Y6C-roo
 
 Link: https://www.youtube.com/watch?v=AFHSLFlzOEg
 
-### Supergirl and Widow's Bay Impressions | The Rewind Podcast [8/10]
+### Supergirl and Widow's Bay Impressions | The Rewind Podcast [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on The Rewind, Jack, Darren, and Marty chat about Supergirl, Widow's Bay, and everything else they've been watching. If you enjoy hearing the crew ramble about movies and TV, consider supporting us over on Patreon -- https://www.
@@ -379,6 +397,60 @@ Link: https://www.youtube.com/watch?v=pv6g7eFcJTk
 
 ## Trailers / Previews
 
+### The Odyssey | Official Countdown Trailer [8/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The Odyssey - In Theaters 7 17 26 Christopher Nolan’s next film, The Odyssey, is a mythic action epic shot across the world using brand new IMAX® film technology.
+
+Link: https://www.youtube.com/watch?v=AyIZ9tiiN8I
+
+### KLARA AND THE SUN – Official Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Meet Klara. Your new best (artificial) friend. 🌞 Jenna Ortega is Klara in Director Taika Waititi’s adaptation of Kazuo Ishiguro’s #KlaraAndTheSun - coming exclusively to theatres October 23. Watch the trailer now.
+
+Link: https://www.youtube.com/watch?v=wixzainceAE
+
+### SPIDER-MAN: BRAND NEW DAY – New Trailer [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.
+
+Link: https://www.youtube.com/watch?v=Rv1dodCKgvE
+
+### SPIDER-MAN: BRAND NEW DAY – New Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.
+
+Link: https://www.youtube.com/watch?v=62bIsvRcPv0
+
+### The Debut | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.
+
+Link: https://www.youtube.com/watch?v=clyzHmBx43E
+
+### The Invite | Official First Look | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.
+
+Link: https://www.youtube.com/watch?v=MrKYHdDzu0g
+
 ### Her Private Hell - Official Trailer - In Theaters July 24 [8/10]
 **Source:** NEON  
 **Verdict:** Looks promising  
@@ -397,7 +469,16 @@ In the near future, Otone and Kensuke, a grieving couple who have lost their son
 
 Link: https://www.youtube.com/watch?v=j5mlc8TAPNw
 
-### The East Palace | Official Trailer | Netflix [10/10]
+### Worst Neighbor Ever Season 1 | Official Trailer [10/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on July 1. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
+
+Link: https://www.youtube.com/watch?v=cWgSDtI5khA
+
+### The East Palace | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -513,3 +594,30 @@ Link: https://www.youtube.com/watch?v=g4qSaXDIyLg
 Welcome back to Ransom! The future of Ransom Canyon hangs in the balance as ranching dynasties continue to vie for power, and new faces arrive, threatening the lives and loves of this quaint, western town.
 
 Link: https://www.youtube.com/watch?v=2XKyPE92owY
+
+### Silo — A Celebration of Origins | Season 3 | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A celebration of the Silo, brought to you by The Founders. Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, the new season of the sci-fi drama Silo Season 3 returns to Apple TV on July 3.
+
+Link: https://www.youtube.com/watch?v=Fuundb_BNzg
+
+### Tied up for the summer. #CampSnoopy Season 2 — Now Streaming [7/10]
+**Source:** Apple TV  
+**Verdict:** Worth a glance  
+**Why it matters:** Relevant to your current interest graph.
+
+Camp Snoopy Season 2 is now streaming on Apple TV #CampSnoopy #Snoopy #AppleTV
+
+Link: https://www.youtube.com/watch?v=BoyOpeE0-n8
+
+### 1 Hour of Widow’s Bay Ambience | Fog, Coastal Winds & Bells | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+One hour of Widow's Bay ambience where nothing bad happens and everything is fine. A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination.
+
+Link: https://www.youtube.com/watch?v=OUfX45m5UBU

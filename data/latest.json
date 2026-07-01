@@ -1,110 +1,110 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-01T05:00:02.807106Z",
-  "generatedAtDisplay": "2026-07-01 01:00 AM EDT",
+  "generatedAt": "2026-07-01T14:00:01.505641Z",
+  "generatedAtDisplay": "2026-07-01 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Ocean surface temperatures hit a record high for June, Anthropic: US has lifted export controls on Fable and Mythos AI models after security risk fears, and Acer’s Swift Go 16 is a lot of laptop for $900.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are Sony will no longer produce discs for PlayStation games starting in January 2028, citing \"consumer preferences\" as the reason why, Sony is killing all physical PlayStation game discs, and US labor board more likely to dismiss worker and union charges under Trump, analysis finds.",
   "mainItems": [
     {
-      "title": "Ocean surface temperatures hit a record high for June",
+      "title": "Sony will no longer produce discs for PlayStation games starting in January 2028, citing \"consumer preferences\" as the reason why",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/sony-ending-playstation-discs-physical-media-january-2028",
+      "published": "2026-07-01T12:29:34+00:00",
+      "summary": "Sony has announced today it's ceasing production of discs for PlayStation games, effective January 2028. Beyond that point, PlayStation games will be available digitally only.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Sony is killing all physical PlayStation game discs",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/960160/sony-playstation-disc-production-ending",
+      "published": "2026-07-01T12:20:17+00:00",
+      "summary": "Sony has announced that from January 2028 it will entirely stop the production of physical discs for new PlayStation games.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "US labor board more likely to dismiss worker and union charges under Trump, analysis finds",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/environment/2026/jul/01/ocean-surface-temperatures-hit-a-record-high-for-june",
-      "published": "2026-07-01T02:00:22+00:00",
-      "summary": "European scientists warn of consequences for weather patterns, the global climate and marine life Temperatures on the ocean surface have hit a record high, raising fears of another burst of extreme heat this summer.",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-labor-board-dismissals",
+      "published": "2026-07-01T11:00:33+00:00",
+      "summary": "Report points to staffing shortages, procedural changes and lack of a board quorum as contributing factors Dismissals of unfair labor practice charges have surged at the National Labor Relations Board under Donald Trump , according to a…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Anthropic: US has lifted export controls on Fable and Mythos AI models after security risk fears",
+      "title": "Opinion: The Real Problem With ‘Gifted’ Education",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/the-real-problem-with-gifted-education/",
+      "published": "2026-07-01T10:30:00+00:00",
+      "summary": "A version of this essay appeared on Matthew Yglesias’ Slow Boring, a site dedicated to offering pragmatic takes on politics and public policy.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "‘Tip of the iceberg’: nearly 500,000 New Yorkers lose health insurance due to Trump cuts",
       "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/new-yorkers-lose-health-insurance-trump-cuts",
+      "published": "2026-07-01T10:00:33+00:00",
+      "summary": "First of major coverage losses expected as a result of the ‘One Big Beautiful’ bill signed into law one year ago Nearly 500,000 moderate-income New Yorkers will be dumped from their health insurance plans on 1 July – the first of major…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "US supreme court rejects appeal from lawyer punished over effort to remove abusive priest",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/supreme-court-appeal-richard-trahant",
+      "published": "2026-07-01T10:00:32+00:00",
+      "summary": "Richard Trahant fined $400,000 over apparent violation of order in case of priest who admitted sexual misconduct The US supreme court has rejected an appeal from an attorney who was fined $400,000 after taking steps to get an abusive Roman…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "GTA 6 developer Rockstar accused of enforcing crunch, weaponising bonus payments, and ignoring a widening gender pay gap",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/gta-6-rockstar-enforcing-crunch-weaponising-bonus-payments-ignoring-widening-gender-pay-gap",
+      "published": "2026-07-01T09:57:13+00:00",
+      "summary": "As Rockstar employees move to pursue official union recognition following a series of high-profile sackings in 2025, new allegations are emerging related to Rockstar's treatment of its staff.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "\"Low-effort slop\": The creators of the Godot engine behind Slay the Spire 2 are cracking down on \"vibe-coding\" and now require genAI disclosures",
+      "source": "Rock Paper Shotgun",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
-      "published": "2026-07-01T01:51:08+00:00",
-      "summary": "The AI company was forced earlier this month to suspend access to its Fable 5 and Mythos 5 models for all foreign nationals Anthropic has said the US commerce department has lifted export controls on its Fable and Mythos AI models, less…",
+      "url": "https://www.rockpapershotgun.com/low-effort-slop-the-creators-of-the-godot-engine-behind-slay-the-spire-2-are-cracking-down-on-vibe-coding-and-now-require-genai-disclosures",
+      "published": "2026-07-01T09:32:14+00:00",
+      "summary": "The foundation behind the open source Godot game engine have announced a crackdown on the use of generative AI by contributors, following a wave of \"demoralizing\", \"low-effort slop\" that has added to an already overwhelming quantity of…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Acer’s Swift Go 16 is a lot of laptop for $900",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale",
-      "published": "2026-06-30T23:40:59+00:00",
-      "summary": "As high memory and storage prices have driven up the cost of everything from consoles to computers, finding a competent laptop for under $1,000 has become a challenge. Thankfully, the Acer Swift Go 16 AI is on sale for $899.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Judge blocks rule to strip public service workers of student loan forgiveness",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/30/trump-public-service-workers-student-loan-forgiveness",
-      "published": "2026-06-30T22:12:38+00:00",
-      "summary": "Trump, who had signed an order to the effect, handed legal defeat after judge sided with Democratic-led states A federal judge on Tuesday blocked the Trump administration from implementing a new rule ⁠stripping public service workers of…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Disassembling the Steam Machine suggests Valve are protecting its precious RAM by burying it under a dozen other parts",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/disassembling-the-steam-machine-suggests-valve-are-protecting-its-precious-ram-by-burying-it-under-a-dozen-other-parts",
-      "published": "2026-06-30T19:02:19+00:00",
-      "summary": "I, uh, completely took apart a Steam Machine by accident.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-      "published": "2026-07-01T04:46:05+00:00",
-      "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Green Suits is a surreal platformer stroke JRPG filled with Escher architecture and paranormal investigators",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/green-suits-is-a-surreal-platformer-stroke-jrpg-filled-with-escher-architecture-and-paranormal-investigators",
-      "published": "2026-06-30T22:03:20+00:00",
-      "summary": "Sometimes I feel that my taste in media is a bit hard to pin down, given that I like shows like Twin Peaks and manga like Chainsaw Man, two series where their similarities mostly stop and start at featuring governmental figures.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Lānaʻi School Relies on Temporary Power Lines for Years",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/lana%ca%bbi-school-relies-on-temporary-power-lines-for-years/",
-      "published": "2026-06-30T16:30:00+00:00",
-      "summary": "After a power failure knocked out electricity in parts of Lānaʻi High and Elementary School in 2021, the state set up temporary electrical lines to get the lights back on. Five years later, the so-called temporary lines are still there.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Companies Are Making Claude and Codex Talk Like Cavemen to Stop AI’s Soaring Costs",
+      "title": "Apple ‘Hide My Email’ Vulnerability Reveals Peoples’ Real Email Addresses",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/companies-are-making-claude-and-codex-talk-like-cavemen-to-stop-ais-soaring-costs/",
-      "published": "2026-06-30T13:33:16+00:00",
-      "summary": "A senior OpenAI employee has contributed code to the project, simply called 'caveman.'",
+      "url": "https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/",
+      "published": "2026-07-01T10:00:57+00:00",
+      "summary": "”Hide My Email users deserve to know that it may be possible for attackers to discover their hidden email addresses,” the person who reported the issue said.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9
+      "score": 8
     },
     {
-      "title": "Opinion: As AI Advances, Student Voice Must Keep Pace",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/as-ai-advances-student-voice-must-keep-pace/",
-      "published": "2026-06-30T12:30:00+00:00",
-      "summary": "As I climbed the steps to the stage on the morning of my junior high graduation, I felt my heart racing. Just a few feet away stood a microphone and hundreds of eyes waiting for me to begin.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
+      "title": "Worst Neighbor Ever review – this shocking look at real-life deaths just feels exploitative",
+      "source": "The Guardian US",
+      "category": "Security / computing",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/01/worst-neighbor-ever-review-shocking-look-real-life-deaths-feels-exploitative",
+      "published": "2026-07-01T07:00:28+00:00",
+      "summary": "All of these tales of murdered residents are horrifying.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 8
     },
     {
       "title": "These church members disagree on politics. Together they're wiping out medical debt",
@@ -138,6 +138,28 @@
     }
   ],
   "youtube": [
+    {
+      "title": "This New AI Model Changes Everything",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=qks6dGQFd_c",
+      "published": "2026-07-01T05:23:54+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers GLM 5.2: https://z.ai/blog/glm-5.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Bernie Sanders Answers Oligarchy Questions | Tech Support | WIRED",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=QZXPzxxdOzc",
+      "published": "2026-06-30T16:02:02+00:00",
+      "summary": "Senator Bernie Sanders joins WIRED to answer the internet’s burning questions about the oligarchy.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
     {
       "title": "How far should the government go to protect America? | Sources & Methods",
       "source": "NPR",
@@ -234,8 +256,8 @@
       "published": "2026-06-30T18:00:17+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "FSR 4 Arrives For RDNA 3 - And Steam Machine - And We've Tested It",
@@ -311,8 +333,8 @@
       "published": "2026-06-30T20:21:29+00:00",
       "summary": "This week on The Rewind, Jack, Darren, and Marty chat about Supergirl, Widow's Bay, and everything else they've been watching. If you enjoy hearing the crew ramble about movies and TV, consider supporting us over on Patreon -- https://www.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Is Supergirl the End of Superhero Movies? | The Backdrop",
@@ -383,6 +405,72 @@
   ],
   "trailers": [
     {
+      "title": "The Odyssey | Official Countdown Trailer",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=AyIZ9tiiN8I",
+      "published": "2026-07-01T12:30:05+00:00",
+      "summary": "The Odyssey - In Theaters 7 17 26 Christopher Nolan’s next film, The Odyssey, is a mythic action epic shot across the world using brand new IMAX® film technology.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "KLARA AND THE SUN – Official Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=wixzainceAE",
+      "published": "2026-06-22T16:00:09+00:00",
+      "summary": "Meet Klara. Your new best (artificial) friend. 🌞 Jenna Ortega is Klara in Director Taika Waititi’s adaptation of Kazuo Ishiguro’s #KlaraAndTheSun - coming exclusively to theatres October 23. Watch the trailer now.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY – New Trailer",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Rv1dodCKgvE",
+      "published": "2026-06-17T19:27:30+00:00",
+      "summary": "The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY – New Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=62bIsvRcPv0",
+      "published": "2026-06-17T18:58:31+00:00",
+      "summary": "The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Debut | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=clyzHmBx43E",
+      "published": "2026-06-23T12:59:06+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Invite | Official First Look | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=MrKYHdDzu0g",
+      "published": "2026-06-18T14:00:23+00:00",
+      "summary": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
       "title": "Her Private Hell - Official Trailer - In Theaters July 24",
       "source": "NEON",
       "category": "Film / trailer",
@@ -405,6 +493,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Worst Neighbor Ever Season 1 | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=cWgSDtI5khA",
+      "published": "2026-06-10T17:03:12+00:00",
+      "summary": "You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on July 1. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "The East Palace | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -412,7 +511,7 @@
       "published": "2026-07-01T00:00:01+00:00",
       "summary": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders—can they unravel its dark secrets? The East Palace is coming July 17, only on Netflix #Netflix #TheEastPalace #동궁 Watch on…",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -546,6 +645,39 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
+    },
+    {
+      "title": "Silo — A Celebration of Origins | Season 3 | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Fuundb_BNzg",
+      "published": "2026-07-01T00:08:50+00:00",
+      "summary": "A celebration of the Silo, brought to you by The Founders. Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, the new season of the sci-fi drama Silo Season 3 returns to Apple TV on July 3.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tied up for the summer. #CampSnoopy Season 2 — Now Streaming",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=BoyOpeE0-n8",
+      "published": "2026-06-30T13:59:50+00:00",
+      "summary": "Camp Snoopy Season 2 is now streaming on Apple TV #CampSnoopy #Snoopy #AppleTV",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "1 Hour of Widow’s Bay Ambience | Fog, Coastal Winds & Bells | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=OUfX45m5UBU",
+      "published": "2026-06-27T12:59:51+00:00",
+      "summary": "One hour of Widow's Bay ambience where nothing bad happens and everything is fine. A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
     }
   ],
   "recommendations": {
@@ -659,8 +791,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 22,
-    "trailerCount": 15,
-    "sourceCount": 13
+    "youtubeCount": 24,
+    "trailerCount": 25,
+    "sourceCount": 21
   }
 }
