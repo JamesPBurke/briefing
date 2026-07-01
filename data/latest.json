@@ -1,109 +1,109 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-01T14:00:01.505641Z",
-  "generatedAtDisplay": "2026-07-01 10:00 AM EDT",
+  "generatedAt": "2026-07-01T18:03:41.891929Z",
+  "generatedAtDisplay": "2026-07-01 02:03 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are Sony will no longer produce discs for PlayStation games starting in January 2028, citing \"consumer preferences\" as the reason why, Sony is killing all physical PlayStation game discs, and US labor board more likely to dismiss worker and union charges under Trump, analysis finds.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are A storm, overpriced food and a sad ferris wheel: inside Trump’s dreadful state fair, My favorite Kindle alternative is $30 off after a recent price increase, and LLMs are stuck in a groupthink groove. This startup is trying to get them out..",
   "mainItems": [
     {
-      "title": "Sony will no longer produce discs for PlayStation games starting in January 2028, citing \"consumer preferences\" as the reason why",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/sony-ending-playstation-discs-physical-media-january-2028",
-      "published": "2026-07-01T12:29:34+00:00",
-      "summary": "Sony has announced today it's ceasing production of discs for PlayStation games, effective January 2028. Beyond that point, PlayStation games will be available digitally only.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Sony is killing all physical PlayStation game discs",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/960160/sony-playstation-disc-production-ending",
-      "published": "2026-07-01T12:20:17+00:00",
-      "summary": "Sony has announced that from January 2028 it will entirely stop the production of physical discs for new PlayStation games.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "US labor board more likely to dismiss worker and union charges under Trump, analysis finds",
+      "title": "A storm, overpriced food and a sad ferris wheel: inside Trump’s dreadful state fair",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-labor-board-dismissals",
-      "published": "2026-07-01T11:00:33+00:00",
-      "summary": "Report points to staffing shortages, procedural changes and lack of a board quorum as contributing factors Dismissals of unfair labor practice charges have surged at the National Labor Relations Board under Donald Trump , according to a…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/donald-trump-great-american-state-fair",
+      "published": "2026-07-01T17:00:41+00:00",
+      "summary": "Attendance at the Great American State Fair is sparse and the heat is extreme, but at least you can pay $25 for a pretzel This was originally published in This Week in Trumpland.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Opinion: The Real Problem With ‘Gifted’ Education",
+      "title": "My favorite Kindle alternative is $30 off after a recent price increase",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale",
+      "published": "2026-07-01T16:28:40+00:00",
+      "summary": "Kobo recently raised the price of its Libra Colour e-reader to $259.99, but today’s deal effectively erases that hike. The company, Best Buy, and Target, are all selling it for its old $229.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "source": "MIT Technology Review",
+      "category": "Democracy / press freedom",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "published": "2026-07-01T14:35:16+00:00",
+      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Trump Wanted To Cut Ed Department Into Irrelevancy. New Report Shows How He Did It",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/the-real-problem-with-gifted-education/",
-      "published": "2026-07-01T10:30:00+00:00",
-      "summary": "A version of this essay appeared on Matthew Yglesias’ Slow Boring, a site dedicated to offering pragmatic takes on politics and public policy.",
+      "url": "https://www.the74million.org/article/trump-wanted-to-cut-ed-department-into-irrelevancy-new-report-shows-how-he-did-it/",
+      "published": "2026-07-01T14:30:00+00:00",
+      "summary": "The U.S. Department of Education may no longer be able to fully support students, it says in an internal report that lays bare the full extent of the Trump Administration’s first round of government cuts.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
-      "title": "‘Tip of the iceberg’: nearly 500,000 New Yorkers lose health insurance due to Trump cuts",
+      "title": "Xbox testing disc-to-digital feature that digitizes a physical game collection",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection",
+      "published": "2026-07-01T17:46:46+00:00",
+      "summary": "Microsoft will likely soon follow Sony and stop the production of physical discs for Xbox games.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Venezuelan police officers arrested over alleged looting after earthquakes",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/01/new-yorkers-lose-health-insurance-trump-cuts",
-      "published": "2026-07-01T10:00:33+00:00",
-      "summary": "First of major coverage losses expected as a result of the ‘One Big Beautiful’ bill signed into law one year ago Nearly 500,000 moderate-income New Yorkers will be dumped from their health insurance plans on 1 July – the first of major…",
+      "url": "https://www.theguardian.com/world/2026/jul/01/venezuela-police-officers-arrested-alleged-looting-after-earthquakes",
+      "published": "2026-07-01T14:27:15+00:00",
+      "summary": "Anger at authorities and government grows as local people, volunteers and rescue teams continue search for survivors Four Venezuelan police officers have been arrested and are facing dismissal after being accused of looting cash from the…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "US supreme court rejects appeal from lawyer punished over effort to remove abusive priest",
-      "source": "The Guardian US",
+      "title": "UK likely to intervene in Paramount takeover of Warner Bros. Discovery",
+      "source": "Ars Technica",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/01/supreme-court-appeal-richard-trahant",
-      "published": "2026-07-01T10:00:32+00:00",
-      "summary": "Richard Trahant fined $400,000 over apparent violation of order in case of priest who admitted sexual misconduct The US supreme court has rejected an appeal from an attorney who was fined $400,000 after taking steps to get an abusive Roman…",
+      "url": "https://arstechnica.com/tech-policy/2026/07/uk-likely-to-intervene-in-paramount-takeover-of-warner-bros-discovery/",
+      "published": "2026-07-01T13:24:39+00:00",
+      "summary": "The acquisition was approved without concessions by the Department of Justice in June.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "GTA 6 developer Rockstar accused of enforcing crunch, weaponising bonus payments, and ignoring a widening gender pay gap",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/gta-6-rockstar-enforcing-crunch-weaponising-bonus-payments-ignoring-widening-gender-pay-gap",
-      "published": "2026-07-01T09:57:13+00:00",
-      "summary": "As Rockstar employees move to pursue official union recognition following a series of high-profile sackings in 2025, new allegations are emerging related to Rockstar's treatment of its staff.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+      "published": "2026-07-01T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
     },
     {
-      "title": "\"Low-effort slop\": The creators of the Godot engine behind Slay the Spire 2 are cracking down on \"vibe-coding\" and now require genAI disclosures",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.rockpapershotgun.com/low-effort-slop-the-creators-of-the-godot-engine-behind-slay-the-spire-2-are-cracking-down-on-vibe-coding-and-now-require-genai-disclosures",
-      "published": "2026-07-01T09:32:14+00:00",
-      "summary": "The foundation behind the open source Godot game engine have announced a crackdown on the use of generative AI by contributors, following a wave of \"demoralizing\", \"low-effort slop\" that has added to an already overwhelming quantity of…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Apple ‘Hide My Email’ Vulnerability Reveals Peoples’ Real Email Addresses",
+      "title": "Scientists Asked AI to Impersonate 112 Public Figures. What Happened Next Is a ‘Dire’ Warning",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/",
-      "published": "2026-07-01T10:00:57+00:00",
-      "summary": "”Hide My Email users deserve to know that it may be possible for attackers to discover their hidden email addresses,” the person who reported the issue said.",
+      "url": "https://www.404media.co/untitled-28/",
+      "published": "2026-07-01T18:00:53+00:00",
+      "summary": "Researchers discovered that people found AI impersonators to be more authentic, coherent, and relevant than the real politicians, raising alarm bells around the potential for public deception.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Worst Neighbor Ever review – this shocking look at real-life deaths just feels exploitative",
+      "title": "Crypto, bibles and watches: how Trump made over $2bn last year - The Latest",
       "source": "The Guardian US",
-      "category": "Security / computing",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/01/worst-neighbor-ever-review-shocking-look-real-life-deaths-feels-exploitative",
-      "published": "2026-07-01T07:00:28+00:00",
-      "summary": "All of these tales of murdered residents are horrifying.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/news/video/2026/jul/01/crypto-bibles-and-watches-how-trump-made-over-2bn-last-year-the-latest",
+      "published": "2026-07-01T16:51:28+00:00",
+      "summary": "President Trump cashed in on more than $2bn from crypto and other businesses ventures last year.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 8
     },
     {
@@ -117,14 +117,14 @@
       "score": 8
     },
     {
-      "title": "Her Private Hell Trailer Will Make You Say “WTF?” (Complimentary)",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/her-private-hell-trailer-sci-fi/",
-      "published": "2026-06-30T18:31:51+00:00",
-      "summary": "I am seated The post Her Private Hell Trailer Will Make You Say “WTF?” (Complimentary) appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
+      "title": "The 12 best recipes to bake in July: Here’s what you should bake (or in some cases, freeze!) this month.",
+      "source": "King Arthur Baking",
+      "category": "Bread / food craft",
+      "url": "https://www.kingarthurbaking.com/blog/2026/07/01/best-july-recipes",
+      "published": "2026-07-01T13:00:00+00:00",
+      "summary": "People don’t talk about it, but July is actually one of the best months to bake.",
+      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
+      "score": 7
     },
     {
       "title": "Meta considered buying Kalshi before developing its own prediction market app",
@@ -137,549 +137,8 @@
       "score": 7
     }
   ],
-  "youtube": [
-    {
-      "title": "This New AI Model Changes Everything",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=qks6dGQFd_c",
-      "published": "2026-07-01T05:23:54+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers GLM 5.2: https://z.ai/blog/glm-5.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
-    },
-    {
-      "title": "Bernie Sanders Answers Oligarchy Questions | Tech Support | WIRED",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=QZXPzxxdOzc",
-      "published": "2026-06-30T16:02:02+00:00",
-      "summary": "Senator Bernie Sanders joins WIRED to answer the internet’s burning questions about the oligarchy.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "How far should the government go to protect America? | Sources & Methods",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=Utp5R3MMR3o",
-      "published": "2026-06-29T22:09:22+00:00",
-      "summary": "This September marks 25 years since terrorists hijacked planes and steered them into the twin towers of the World Trade Center. They steered a third plane into the Pentagon. A fourth was headed for the U.S.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Three brothers in Zambia navigate life after they lost their parents to AIDS",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=romH2coH-8o",
-      "published": "2026-06-29T20:00:29+00:00",
-      "summary": "Three brothers say their mother and father died after losing access to their HIV medications. Now the boys are figuring out how to navigate life.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "How the Trump Administration is quietly remaking U.S. immigration",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=K0j2sr6wJBw",
-      "published": "2026-06-29T20:00:15+00:00",
-      "summary": "President Trump campaigned on a promise of mass deportations. More than a year into his second term, the White House has taken a sweeping approach to curbing illegal and legal migration.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "FX’s 'The Bear' actor Ebon Moss-Bachrach reflects on the show’s storytelling",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=qCL-6PZJMDs",
-      "published": "2026-06-29T16:00:22+00:00",
-      "summary": "FX’s 'The Bear' has entered its fifth and final season.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Search for survivors continues after earthquakes in Venezuela",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=kavAt9Jfopc",
-      "published": "2026-06-29T15:45:35+00:00",
-      "summary": "Venezuela's government says at least 1,450 people have been killed in last week’s double earthquakes. Tens of thousands remain missing. Rescue teams from multiple countries are working to find people who are still trapped.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Pentagon says reporters are no longer able to embed with members of the military",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=YSnat7693q0",
-      "published": "2026-06-29T15:30:21+00:00",
-      "summary": "It's been weeks since the Pentagon has briefed the press on the war in Iran. That's a departure from decades of regular practice. Besides that, reporters are no longer able to embed with members of the military.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Tech writer Karen Hao explains how AI is devaluing and displacing human workers",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=ob--q9V_SO0",
-      "published": "2026-06-29T15:30:17+00:00",
-      "summary": "The pope's recent statements on AI align with concerns raised by tech writers like Karen Hao, author of “Empire of AI.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "China eclipses the U.S. with its new supercomputer, now the fastest on Earth",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=3FnSZ4gklJk",
-      "published": "2026-06-29T13:30:27+00:00",
-      "summary": "A Chinese supercomputer is now considered the fastest on Earth, knocking the U.S. down a notch. The new No. 1 supercomputer is called LineShine, or ling1sheng4 in Chinese.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "SteamOS Supporting Nvidia GPUs: It's Coming + It Could Be A Game Changer",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=V1FSAkl7dOA",
-      "published": "2026-06-30T18:00:17+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "FSR 4 Arrives For RDNA 3 - And Steam Machine - And We've Tested It",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=hs2ywnT_NqI",
-      "published": "2026-06-30T17:00:31+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "GTA 6: 63 New Screenshots Revealed - So What Have We Learned?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=LUp5APLmbH8",
-      "published": "2026-06-30T16:00:18+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Is Sega Making A Retro Handheld? And What Would We Want From It?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=I6BQlfmUc1I",
-      "published": "2026-06-29T17:00:17+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Why Isn't Unified Memory Used In Steam Machine?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=oEY9oxX8T2M",
-      "published": "2026-06-29T16:00:07+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "DF Retro's PS1 Launch Special - One Of The Most Challenging Videos We've Ever Made",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=Vdu5Y6C-roo",
-      "published": "2026-06-28T16:00:15+00:00",
-      "summary": "► Watch the Original PS1 Launch Video Here: https://www.youtube.com/watch?v=9SaAvYh22Ro ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "What Actually Is Steam Machine's Target Audience?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=AFHSLFlzOEg",
-      "published": "2026-06-28T15:00:33+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Supergirl and Widow's Bay Impressions | The Rewind Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=xcyjo714jjw",
-      "published": "2026-06-30T20:21:29+00:00",
-      "summary": "This week on The Rewind, Jack, Darren, and Marty chat about Supergirl, Widow's Bay, and everything else they've been watching. If you enjoy hearing the crew ramble about movies and TV, consider supporting us over on Patreon -- https://www.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Is Supergirl the End of Superhero Movies? | The Backdrop",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=dwIZoym8rWw",
-      "published": "2026-06-30T15:02:00+00:00",
-      "summary": "Supergirl brings a new kind of \"True Grit\" energy to the superhero genre. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Nightmare Fishing in Umigari | Hot Monday Energy",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=ZuoW4YpRWWc",
-      "published": "2026-06-30T12:57:22+00:00",
-      "summary": "This week on Hidden Gems KC, Jess, and Jesse play Umigari -- http://store.steampowered.com/app/3772960/UMIGARI/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "16 Games We Loved from Steam Next Fest",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=gkK3LdQE7Xw",
-      "published": "2026-06-29T18:30:11+00:00",
-      "summary": "Another Steam Next Fest has come and gone and we've got over a dozen games to share with you that we enjoyed! Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "The Art of the Time Loop | Windbreaker Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=JzQGa1UHhp4",
-      "published": "2026-06-29T18:20:57+00:00",
-      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty gab about the art of the video game time loop. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Jumping Into Riot's 2XKO | Super Smash Sunday",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=mc8F8DdsQl8",
-      "published": "2026-06-29T07:30:40+00:00",
-      "summary": "Our resident fighting game fans KC and El Cheshire are trying out Riot's 2XKO. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Next Fest Demos (Iron Nest, Screenbound, Order of the Sinking Star, and Ballgame) | Yahtzee Tries",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=pv6g7eFcJTk",
-      "published": "2026-06-28T15:00:27+00:00",
-      "summary": "This week on Yahtzee Tries, Yahtzee checked out an assortment of demos from the recent Steam Next Fest: Iron Nest, Screenbound, Order of the Sinking Star, and Ballgame.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "The Odyssey | Official Countdown Trailer",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=AyIZ9tiiN8I",
-      "published": "2026-07-01T12:30:05+00:00",
-      "summary": "The Odyssey - In Theaters 7 17 26 Christopher Nolan’s next film, The Odyssey, is a mythic action epic shot across the world using brand new IMAX® film technology.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "KLARA AND THE SUN – Official Trailer (4K)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=wixzainceAE",
-      "published": "2026-06-22T16:00:09+00:00",
-      "summary": "Meet Klara. Your new best (artificial) friend. 🌞 Jenna Ortega is Klara in Director Taika Waititi’s adaptation of Kazuo Ishiguro’s #KlaraAndTheSun - coming exclusively to theatres October 23. Watch the trailer now.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY – New Trailer",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=Rv1dodCKgvE",
-      "published": "2026-06-17T19:27:30+00:00",
-      "summary": "The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY – New Trailer (4K)",
-      "source": "Sony Pictures Entertainment",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=62bIsvRcPv0",
-      "published": "2026-06-17T18:58:31+00:00",
-      "summary": "The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Debut | Official Trailer HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=clyzHmBx43E",
-      "published": "2026-06-23T12:59:06+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Invite | Official First Look | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=MrKYHdDzu0g",
-      "published": "2026-06-18T14:00:23+00:00",
-      "summary": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "Her Private Hell - Official Trailer - In Theaters July 24",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=C7E-0t1TfzM",
-      "published": "2026-06-30T16:00:27+00:00",
-      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Sheep in the Box - Official Trailer - In Theaters July 24",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=j5mlc8TAPNw",
-      "published": "2026-06-23T16:08:02+00:00",
-      "summary": "In the near future, Otone and Kensuke, a grieving couple who have lost their son, take into their lives a humanoid identical to their late child.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Worst Neighbor Ever Season 1 | Official Trailer",
-      "source": "Blumhouse",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=cWgSDtI5khA",
-      "published": "2026-06-10T17:03:12+00:00",
-      "summary": "You never really know your neighbors. Worst Neighbor Ever comes to @Netflix on July 1. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The East Palace | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=wBUkNE1l9DU",
-      "published": "2026-07-01T00:00:01+00:00",
-      "summary": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders—can they unravel its dark secrets? The East Palace is coming July 17, only on Netflix #Netflix #TheEastPalace #동궁 Watch on…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Wonka's The Golden Ticket | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=oTSvnmTfLj8",
-      "published": "2026-06-30T16:00:00+00:00",
-      "summary": "Step into a world of pure imagination when the gates of the Chocolate Factory reopen this Fall. Wonka's The Golden Ticket, a new Netflix reality competition series, arrives on September 23. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "NEMESIS RENEWED FOR SEASON 2!",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=KTbC8ZnMfPA",
-      "published": "2026-06-30T15:00:30+00:00",
-      "summary": "This score isn’t settled... NEMESIS SEASON 2 IS COMING Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Ultimatum: Marry or Move On: Season 4 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=5PJbRJIcWKg",
-      "published": "2026-06-29T16:00:00+00:00",
-      "summary": "Is the grass greener on the other side? Six more couples test this theory by moving in with new potential partners for a revealing social experiment. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Cyberpunk: Edgerunners 2 | Official Teaser #2 | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=QBlPg818lGI",
-      "published": "2026-06-29T15:30:00+00:00",
-      "summary": "New legends. Same Night City. CYBERPUNK: EDGERUNNERS 2 Cyberpunk: Edgerunners 2 presents a new standalone 10-episode story from the world of Cyberpunk 2077, coming this fall, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "A Toxic Love Story | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=9k9SYlMy9qs",
-      "published": "2026-06-29T15:00:00+00:00",
-      "summary": "In a glamorous California suburb, a young woman’s arrest for a violent fantasy plot becomes a sensational scandal, but the truth remains hidden behind a sophisticated web of deception.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Bombing of Pan Am 103 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=5fYWCkoDSeU",
-      "published": "2026-06-29T12:30:00+00:00",
-      "summary": "The tragic bombing of a transatlantic flight over Scotland in 1988 unites the local police and the FBI in a hunt for the attackers. Based on a true story. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "can these fans solve the case of the Enola Holmes 3 premiere? #Netflix #EnolaHolmes",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Mgcu7233OBM",
-      "published": "2026-06-28T17:00:19+00:00",
-      "summary": "can these fans solve the case of the Enola Holmes 3 premiere? Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Is that...THE GREATEST EARTHBENDER IN THE WORLD?!?!? #AvatarTheLastAirbender #Netflix #Toph",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=w6rW8d6x5bE",
-      "published": "2026-06-26T19:00:34+00:00",
-      "summary": "Is that...THE GREATEST EARTHBENDER IN THE WORLD?!?!? AVATAR: THE LAST AIRBENDER is now playing, only on Netflix! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "John Cena and Eric André's new comedy Little Brother is now playing. #Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=SPWjOdIj1Gk",
-      "published": "2026-06-26T16:00:23+00:00",
-      "summary": "A famous real estate agent's carefully curated world is upended when his eccentric \"little brother\" unexpectedly reappears. John Cena and Eric André's new comedy Little Brother is now playing. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The vast world of Avatar: The Last Airbender",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=lRaGtDE35KM",
-      "published": "2026-06-26T14:30:29+00:00",
-      "summary": "The world of Avatar is bigger than ever Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Kaulitz & Kaulitz: Season 3 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=g4qSaXDIyLg",
-      "published": "2026-06-26T13:00:00+00:00",
-      "summary": "The twins are back — with more feelings, more drama and an iconic pool party. Kaulitz & Kaulitz: Season 3, premieres July 23. Only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Ransom Canyon: Season 2 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=2XKyPE92owY",
-      "published": "2026-06-25T16:00:06+00:00",
-      "summary": "Welcome back to Ransom! The future of Ransom Canyon hangs in the balance as ranching dynasties continue to vie for power, and new faces arrive, threatening the lives and loves of this quaint, western town.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Silo — A Celebration of Origins | Season 3 | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Fuundb_BNzg",
-      "published": "2026-07-01T00:08:50+00:00",
-      "summary": "A celebration of the Silo, brought to you by The Founders. Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, the new season of the sci-fi drama Silo Season 3 returns to Apple TV on July 3.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tied up for the summer. #CampSnoopy Season 2 — Now Streaming",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=BoyOpeE0-n8",
-      "published": "2026-06-30T13:59:50+00:00",
-      "summary": "Camp Snoopy Season 2 is now streaming on Apple TV #CampSnoopy #Snoopy #AppleTV",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "1 Hour of Widow’s Bay Ambience | Fog, Coastal Winds & Bells | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=OUfX45m5UBU",
-      "published": "2026-06-27T12:59:51+00:00",
-      "summary": "One hour of Widow's Bay ambience where nothing bad happens and everything is fine. A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -791,8 +250,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 24,
-    "trailerCount": 25,
-    "sourceCount": 21
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 9
   }
 }
