@@ -1,50 +1,80 @@
 {
   "status": "ok",
-  "generatedAt": "2026-06-30T18:00:24.338465Z",
-  "generatedAtDisplay": "2026-06-30 02:00 PM EDT",
+  "generatedAt": "2026-07-01T05:00:02.807106Z",
+  "generatedAtDisplay": "2026-07-01 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Democracy / anti-fascism. The strongest items in this run are Côte d’Ivoire v Norway: World Cup 2026 last 32 – live, Moto’s Tag 2 tracker is $20 for a limited time, and David Lammy to ask US about case of woman strangled by US fighter in UK.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Ocean surface temperatures hit a record high for June, Anthropic: US has lifted export controls on Fable and Mythos AI models after security risk fears, and Acer’s Swift Go 16 is a lot of laptop for $900.",
   "mainItems": [
     {
-      "title": "Côte d’Ivoire v Norway: World Cup 2026 last 32 – live",
+      "title": "Ocean surface temperatures hit a record high for June",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/environment/2026/jul/01/ocean-surface-temperatures-hit-a-record-high-for-june",
+      "published": "2026-07-01T02:00:22+00:00",
+      "summary": "European scientists warn of consequences for weather patterns, the global climate and marine life Temperatures on the ocean surface have hit a record high, raising fears of another burst of extreme heat this summer.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Anthropic: US has lifted export controls on Fable and Mythos AI models after security risk fears",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/football/live/2026/jun/30/cote-divoire-v-norway-world-cup-2026-last-32-live",
-      "published": "2026-06-30T17:50:54+00:00",
-      "summary": "⚽️ Kick-off time: 12pm local/1pm EDT/6pm BST/3am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Scott Pre-match postbag. “This one is an interesting game.",
+      "url": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
+      "published": "2026-07-01T01:51:08+00:00",
+      "summary": "The AI company was forced earlier this month to suspend access to its Fable 5 and Mythos 5 models for all foreign nationals Anthropic has said the US commerce department has lifted export controls on its Fable and Mythos AI models, less…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Moto’s Tag 2 tracker is $20 for a limited time",
+      "title": "Acer’s Swift Go 16 is a lot of laptop for $900",
       "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale",
-      "published": "2026-06-30T17:38:23+00:00",
-      "summary": "Announced at CES 2026, the Moto Tag 2 has finally arrived in the US. The Bluetooth tracker with improved battery life over its predecessor, plus UWB sensing for more accurate tracking, is available through Motorola’s site at a special $19.",
+      "url": "https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale",
+      "published": "2026-06-30T23:40:59+00:00",
+      "summary": "As high memory and storage prices have driven up the cost of everything from consoles to computers, finding a competent laptop for under $1,000 has become a challenge. Thankfully, the Acer Swift Go 16 AI is on sale for $899.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "David Lammy to ask US about case of woman strangled by US fighter in UK",
+      "title": "Judge blocks rule to strip public service workers of student loan forgiveness",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/30/david-lammy-to-ask-us-about-case-of-woman-strangled-by-us-fighter-in-uk",
-      "published": "2026-06-30T17:00:12+00:00",
-      "summary": "Parliament comments follow investigation revealing how man was tried at court martial on US airbase A US military worker killed my son in Britain, and still we fight for justice.",
+      "url": "https://www.theguardian.com/us-news/2026/jun/30/trump-public-service-workers-student-loan-forgiveness",
+      "published": "2026-06-30T22:12:38+00:00",
+      "summary": "Trump, who had signed an order to the effect, handed legal defeat after judge sided with Democratic-led states A federal judge on Tuesday blocked the Trump administration from implementing a new rule ⁠stripping public service workers of…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
-      "published": "2026-06-30T16:59:02+00:00",
-      "summary": "A year in, National Design Studio delays plan to update government web standards.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "Disassembling the Steam Machine suggests Valve are protecting its precious RAM by burying it under a dozen other parts",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/disassembling-the-steam-machine-suggests-valve-are-protecting-its-precious-ram-by-burying-it-under-a-dozen-other-parts",
+      "published": "2026-06-30T19:02:19+00:00",
+      "summary": "I, uh, completely took apart a Steam Machine by accident.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "published": "2026-07-01T04:46:05+00:00",
+      "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Green Suits is a surreal platformer stroke JRPG filled with Escher architecture and paranormal investigators",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/green-suits-is-a-surreal-platformer-stroke-jrpg-filled-with-escher-architecture-and-paranormal-investigators",
+      "published": "2026-06-30T22:03:20+00:00",
+      "summary": "Sometimes I feel that my taste in media is a bit hard to pin down, given that I like shows like Twin Peaks and manga like Chainsaw Man, two series where their similarities mostly stop and start at featuring governmental figures.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "Lānaʻi School Relies on Temporary Power Lines for Years",
@@ -54,37 +84,17 @@
       "published": "2026-06-30T16:30:00+00:00",
       "summary": "After a power failure knocked out electricity in parts of Lānaʻi High and Elementary School in 2021, the state set up temporary electrical lines to get the lights back on. Five years later, the so-called temporary lines are still there.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "US treasury secretary warns oil and gas companies to lower prices: ‘we’re watching’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/2026/jun/30/scott-bessent-oil-gas-companies-prices-warning",
-      "published": "2026-06-30T15:25:40+00:00",
-      "summary": "Scott Bessent says he ‘encourages them to be good actors’ after Trump ranted about prices not dropping fast enough Scott Bessent, the US treasury secretary, issued a veiled warning to oil and gas companies to lower their prices on Tuesday,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "More Than Half of Georgia Teachers Now Use Artificial Intelligence to Prepare for Class",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/more-than-half-of-georgia-teachers-now-use-artificial-intelligence-to-prepare-for-class/",
-      "published": "2026-06-30T14:30:00+00:00",
-      "summary": "Has your kid ever used artificial intelligence to answer homework questions that their teacher used artificial intelligence to write? It’s possible, according to a report from the Georgia Department of Audits and Accounts that found a…",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "ICE releases Texas nun intercepted walking to church dressed in her habit",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/30/ice-nun-detained-released-texas",
-      "published": "2026-06-30T13:10:21+00:00",
-      "summary": "Diocese officials in south Texas say a nun was released after members of Congress intervened A Roman Catholic nun was released from the custody of US Immigration and Customs Enforcement ( ICE ) after the agency arrested her while she…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "Companies Are Making Claude and Codex Talk Like Cavemen to Stop AI’s Soaring Costs",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/companies-are-making-claude-and-codex-talk-like-cavemen-to-stop-ais-soaring-costs/",
+      "published": "2026-06-30T13:33:16+00:00",
+      "summary": "A senior OpenAI employee has contributed code to the project, simply called 'caveman.'",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9
     },
     {
       "title": "Opinion: As AI Advances, Student Voice Must Keep Pace",
@@ -94,51 +104,450 @@
       "published": "2026-06-30T12:30:00+00:00",
       "summary": "As I climbed the steps to the stage on the morning of my junior high graduation, I felt my heart racing. Just a few feet away stood a microphone and hundreds of eyes waiting for me to begin.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Scaling Equitable AI Learning with Responsible AI Fellow Tarquinn Curry",
-      "source": "CSTA",
-      "category": "Education / pedagogy",
-      "url": "https://csteachers.org/scaling-equitable-ai-learning-with-responsible-ai-fellow-tarquinn-curry/",
-      "published": "2026-06-30T11:00:00+00:00",
-      "summary": "Tarquinn Curry is a veteran educator with 22 years of teaching experience in Long Beach Unified School District. He currently...",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Google warns EU's plans to weaken its monopoly could expose user data",
-      "source": "Ars Technica",
-      "category": "AI / privacy",
-      "url": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
-      "published": "2026-06-29T18:21:31+00:00",
-      "summary": "The EU wants Google to share search data with competitors and open up AI on Android, but Google alleges major privacy risks.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "County With 37 Data Centers Asks Schools to ‘Conserve Electricity’",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
-      "published": "2026-06-30T15:49:10+00:00",
-      "summary": "Henrico County is a major hub for data centers in Virginia. Its officials said it expects a 25% rise in electricity costs next year, and advised workers to close the blinds and turn off their computers to make up for it.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 9
     },
     {
-      "title": "After Trump's reelection, these U.S. scientists found jobs in the U.K.",
+      "title": "These church members disagree on politics. Together they're wiping out medical debt",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/30/nx-s1-5875206/trumps-cuts-science-researchers-move-abroad",
-      "published": "2026-06-30T10:00:00+00:00",
-      "summary": "More U.S. scientists are heading abroad. Three researchers explain why they decided to shift their research to universities in the U.K.",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5847966-e1/these-church-members-disagree-on-politics-together-theyre-wiping-out-medical-debt",
+      "published": "2026-06-30T20:54:21+00:00",
+      "summary": "Trinity Moravian Church, a politically diverse congregation in Winston-Salem, N. C., has been raising money to retire medical debt in the surrounding community.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
+    },
+    {
+      "title": "Her Private Hell Trailer Will Make You Say “WTF?” (Complimentary)",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/her-private-hell-trailer-sci-fi/",
+      "published": "2026-06-30T18:31:51+00:00",
+      "summary": "I am seated The post Her Private Hell Trailer Will Make You Say “WTF?” (Complimentary) appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
+    },
+    {
+      "title": "Meta considered buying Kalshi before developing its own prediction market app",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5875468/meta-kalshi-prediction-market-acquisition-talks",
+      "published": "2026-06-30T20:33:04+00:00",
+      "summary": "Mark Zuckerberg met with Kalshi's CEO last year about a potential deal, but talks did not move forward. Now Meta is making its own prediction market app.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 7
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "How far should the government go to protect America? | Sources & Methods",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Utp5R3MMR3o",
+      "published": "2026-06-29T22:09:22+00:00",
+      "summary": "This September marks 25 years since terrorists hijacked planes and steered them into the twin towers of the World Trade Center. They steered a third plane into the Pentagon. A fourth was headed for the U.S.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Three brothers in Zambia navigate life after they lost their parents to AIDS",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=romH2coH-8o",
+      "published": "2026-06-29T20:00:29+00:00",
+      "summary": "Three brothers say their mother and father died after losing access to their HIV medications. Now the boys are figuring out how to navigate life.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "How the Trump Administration is quietly remaking U.S. immigration",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=K0j2sr6wJBw",
+      "published": "2026-06-29T20:00:15+00:00",
+      "summary": "President Trump campaigned on a promise of mass deportations. More than a year into his second term, the White House has taken a sweeping approach to curbing illegal and legal migration.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "FX’s 'The Bear' actor Ebon Moss-Bachrach reflects on the show’s storytelling",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=qCL-6PZJMDs",
+      "published": "2026-06-29T16:00:22+00:00",
+      "summary": "FX’s 'The Bear' has entered its fifth and final season.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Search for survivors continues after earthquakes in Venezuela",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=kavAt9Jfopc",
+      "published": "2026-06-29T15:45:35+00:00",
+      "summary": "Venezuela's government says at least 1,450 people have been killed in last week’s double earthquakes. Tens of thousands remain missing. Rescue teams from multiple countries are working to find people who are still trapped.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Pentagon says reporters are no longer able to embed with members of the military",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=YSnat7693q0",
+      "published": "2026-06-29T15:30:21+00:00",
+      "summary": "It's been weeks since the Pentagon has briefed the press on the war in Iran. That's a departure from decades of regular practice. Besides that, reporters are no longer able to embed with members of the military.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Tech writer Karen Hao explains how AI is devaluing and displacing human workers",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=ob--q9V_SO0",
+      "published": "2026-06-29T15:30:17+00:00",
+      "summary": "The pope's recent statements on AI align with concerns raised by tech writers like Karen Hao, author of “Empire of AI.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "China eclipses the U.S. with its new supercomputer, now the fastest on Earth",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=3FnSZ4gklJk",
+      "published": "2026-06-29T13:30:27+00:00",
+      "summary": "A Chinese supercomputer is now considered the fastest on Earth, knocking the U.S. down a notch. The new No. 1 supercomputer is called LineShine, or ling1sheng4 in Chinese.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "SteamOS Supporting Nvidia GPUs: It's Coming + It Could Be A Game Changer",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=V1FSAkl7dOA",
+      "published": "2026-06-30T18:00:17+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "FSR 4 Arrives For RDNA 3 - And Steam Machine - And We've Tested It",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=hs2ywnT_NqI",
+      "published": "2026-06-30T17:00:31+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "GTA 6: 63 New Screenshots Revealed - So What Have We Learned?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=LUp5APLmbH8",
+      "published": "2026-06-30T16:00:18+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Is Sega Making A Retro Handheld? And What Would We Want From It?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=I6BQlfmUc1I",
+      "published": "2026-06-29T17:00:17+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Why Isn't Unified Memory Used In Steam Machine?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=oEY9oxX8T2M",
+      "published": "2026-06-29T16:00:07+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "DF Retro's PS1 Launch Special - One Of The Most Challenging Videos We've Ever Made",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=Vdu5Y6C-roo",
+      "published": "2026-06-28T16:00:15+00:00",
+      "summary": "► Watch the Original PS1 Launch Video Here: https://www.youtube.com/watch?v=9SaAvYh22Ro ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "What Actually Is Steam Machine's Target Audience?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=AFHSLFlzOEg",
+      "published": "2026-06-28T15:00:33+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Supergirl and Widow's Bay Impressions | The Rewind Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=xcyjo714jjw",
+      "published": "2026-06-30T20:21:29+00:00",
+      "summary": "This week on The Rewind, Jack, Darren, and Marty chat about Supergirl, Widow's Bay, and everything else they've been watching. If you enjoy hearing the crew ramble about movies and TV, consider supporting us over on Patreon -- https://www.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Is Supergirl the End of Superhero Movies? | The Backdrop",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=dwIZoym8rWw",
+      "published": "2026-06-30T15:02:00+00:00",
+      "summary": "Supergirl brings a new kind of \"True Grit\" energy to the superhero genre. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Nightmare Fishing in Umigari | Hot Monday Energy",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=ZuoW4YpRWWc",
+      "published": "2026-06-30T12:57:22+00:00",
+      "summary": "This week on Hidden Gems KC, Jess, and Jesse play Umigari -- http://store.steampowered.com/app/3772960/UMIGARI/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "16 Games We Loved from Steam Next Fest",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=gkK3LdQE7Xw",
+      "published": "2026-06-29T18:30:11+00:00",
+      "summary": "Another Steam Next Fest has come and gone and we've got over a dozen games to share with you that we enjoyed! Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "The Art of the Time Loop | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=JzQGa1UHhp4",
+      "published": "2026-06-29T18:20:57+00:00",
+      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty gab about the art of the video game time loop. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Jumping Into Riot's 2XKO | Super Smash Sunday",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=mc8F8DdsQl8",
+      "published": "2026-06-29T07:30:40+00:00",
+      "summary": "Our resident fighting game fans KC and El Cheshire are trying out Riot's 2XKO. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Next Fest Demos (Iron Nest, Screenbound, Order of the Sinking Star, and Ballgame) | Yahtzee Tries",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=pv6g7eFcJTk",
+      "published": "2026-06-28T15:00:27+00:00",
+      "summary": "This week on Yahtzee Tries, Yahtzee checked out an assortment of demos from the recent Steam Next Fest: Iron Nest, Screenbound, Order of the Sinking Star, and Ballgame.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "Her Private Hell - Official Trailer - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=C7E-0t1TfzM",
+      "published": "2026-06-30T16:00:27+00:00",
+      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Sheep in the Box - Official Trailer - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=j5mlc8TAPNw",
+      "published": "2026-06-23T16:08:02+00:00",
+      "summary": "In the near future, Otone and Kensuke, a grieving couple who have lost their son, take into their lives a humanoid identical to their late child.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The East Palace | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=wBUkNE1l9DU",
+      "published": "2026-07-01T00:00:01+00:00",
+      "summary": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders—can they unravel its dark secrets? The East Palace is coming July 17, only on Netflix #Netflix #TheEastPalace #동궁 Watch on…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Wonka's The Golden Ticket | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=oTSvnmTfLj8",
+      "published": "2026-06-30T16:00:00+00:00",
+      "summary": "Step into a world of pure imagination when the gates of the Chocolate Factory reopen this Fall. Wonka's The Golden Ticket, a new Netflix reality competition series, arrives on September 23. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "NEMESIS RENEWED FOR SEASON 2!",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=KTbC8ZnMfPA",
+      "published": "2026-06-30T15:00:30+00:00",
+      "summary": "This score isn’t settled... NEMESIS SEASON 2 IS COMING Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Ultimatum: Marry or Move On: Season 4 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=5PJbRJIcWKg",
+      "published": "2026-06-29T16:00:00+00:00",
+      "summary": "Is the grass greener on the other side? Six more couples test this theory by moving in with new potential partners for a revealing social experiment. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners 2 | Official Teaser #2 | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=QBlPg818lGI",
+      "published": "2026-06-29T15:30:00+00:00",
+      "summary": "New legends. Same Night City. CYBERPUNK: EDGERUNNERS 2 Cyberpunk: Edgerunners 2 presents a new standalone 10-episode story from the world of Cyberpunk 2077, coming this fall, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "A Toxic Love Story | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=9k9SYlMy9qs",
+      "published": "2026-06-29T15:00:00+00:00",
+      "summary": "In a glamorous California suburb, a young woman’s arrest for a violent fantasy plot becomes a sensational scandal, but the truth remains hidden behind a sophisticated web of deception.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Bombing of Pan Am 103 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=5fYWCkoDSeU",
+      "published": "2026-06-29T12:30:00+00:00",
+      "summary": "The tragic bombing of a transatlantic flight over Scotland in 1988 unites the local police and the FBI in a hunt for the attackers. Based on a true story. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "can these fans solve the case of the Enola Holmes 3 premiere? #Netflix #EnolaHolmes",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Mgcu7233OBM",
+      "published": "2026-06-28T17:00:19+00:00",
+      "summary": "can these fans solve the case of the Enola Holmes 3 premiere? Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Is that...THE GREATEST EARTHBENDER IN THE WORLD?!?!? #AvatarTheLastAirbender #Netflix #Toph",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=w6rW8d6x5bE",
+      "published": "2026-06-26T19:00:34+00:00",
+      "summary": "Is that...THE GREATEST EARTHBENDER IN THE WORLD?!?!? AVATAR: THE LAST AIRBENDER is now playing, only on Netflix! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "John Cena and Eric André's new comedy Little Brother is now playing. #Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=SPWjOdIj1Gk",
+      "published": "2026-06-26T16:00:23+00:00",
+      "summary": "A famous real estate agent's carefully curated world is upended when his eccentric \"little brother\" unexpectedly reappears. John Cena and Eric André's new comedy Little Brother is now playing. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The vast world of Avatar: The Last Airbender",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=lRaGtDE35KM",
+      "published": "2026-06-26T14:30:29+00:00",
+      "summary": "The world of Avatar is bigger than ever Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Kaulitz & Kaulitz: Season 3 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=g4qSaXDIyLg",
+      "published": "2026-06-26T13:00:00+00:00",
+      "summary": "The twins are back — with more feelings, more drama and an iconic pool party. Kaulitz & Kaulitz: Season 3, premieres July 23. Only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Ransom Canyon: Season 2 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=2XKyPE92owY",
+      "published": "2026-06-25T16:00:06+00:00",
+      "summary": "Welcome back to Ransom! The future of Ransom Canyon hangs in the balance as ranching dynasties continue to vie for power, and new faces arrive, threatening the lives and loves of this quaint, western town.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -250,8 +659,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 7
+    "youtubeCount": 22,
+    "trailerCount": 15,
+    "sourceCount": 13
   }
 }
