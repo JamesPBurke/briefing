@@ -1,29 +1,49 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-01T18:03:41.891929Z",
-  "generatedAtDisplay": "2026-07-01 02:03 PM EDT",
+  "generatedAt": "2026-07-02T05:00:02.503856Z",
+  "generatedAtDisplay": "2026-07-02 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are A storm, overpriced food and a sad ferris wheel: inside Trump’s dreadful state fair, My favorite Kindle alternative is $30 off after a recent price increase, and LLMs are stuck in a groupthink groove. This startup is trying to get them out..",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are AI summaries of Tripadvisor hotel reviews downplay serious complaints, investigation finds, The funeral for PlayStation discs has begun, and Trump attorney general plots crackdown on ‘birth tourism’ after supreme court ruling.",
   "mainItems": [
     {
-      "title": "A storm, overpriced food and a sad ferris wheel: inside Trump’s dreadful state fair",
+      "title": "AI summaries of Tripadvisor hotel reviews downplay serious complaints, investigation finds",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/01/donald-trump-great-american-state-fair",
-      "published": "2026-07-01T17:00:41+00:00",
-      "summary": "Attendance at the Great American State Fair is sparse and the heat is extreme, but at least you can pay $25 for a pretzel This was originally published in This Week in Trumpland.",
+      "url": "https://www.theguardian.com/business/2026/jul/02/ai-summaries-tripadvisor-hotel-reviews-downplay-serious-complaints",
+      "published": "2026-07-01T23:01:01+00:00",
+      "summary": "AI-generated overview found to gloss over allegations of sexual harassment and describes hotel being sued over hygiene as ‘spotless’ A hotel being sued for mass food poisonings was described as “spotless” and a resort where guests…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "My favorite Kindle alternative is $30 off after a recent price increase",
+      "title": "The funeral for PlayStation discs has begun",
       "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores",
+      "published": "2026-07-01T22:03:37+00:00",
+      "summary": "Cody Spencer, the co-owner of the small games retail chain Pink Gorilla Games, put it well when I asked about the impact of Sony's recent announcement that it will stop making discs for new games starting January 2028. \"It's sad to see.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Trump attorney general plots crackdown on ‘birth tourism’ after supreme court ruling",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale",
-      "published": "2026-07-01T16:28:40+00:00",
-      "summary": "Kobo recently raised the price of its Libra Colour e-reader to $259.99, but today’s deal effectively erases that hike. The company, Best Buy, and Target, are all selling it for its old $229.",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-birth-tourism-supreme-court",
+      "published": "2026-07-01T20:06:34+00:00",
+      "summary": "Todd Blanche to target tourists and migrants despite such births accounting for less than 1% of US babies born yearly A day after the US supreme court upheld the constitutional guarantee of birthright citizenship, the acting attorney…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: The $50 Billion Rural Healthcare Opportunity States Can’t Afford To Miss",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/the-50-billion-rural-healthcare-opportunity-states-cant-afford-to-miss/",
+      "published": "2026-07-01T18:30:00+00:00",
+      "summary": "Rural America has a healthcare crisis hiding in plain sight. Hospitals are closing. Nurses are retiring faster than they can be replaced.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -37,6 +57,36 @@
       "score": 10
     },
     {
+      "title": "Trump sees bond with ‘great he-man’ Theodore Roosevelt at lavish library opening",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-theodore-roosevelt-north-dakota",
+      "published": "2026-07-02T00:41:05+00:00",
+      "summary": "Bizarre 250th spectacle in North Dakota sees Trump take ride on red, white and blue train – and speak with hologram of 26th president The sound of YMCA by the Village People booming through the badlands of North Dakota could only mean one…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Ex-CIA head sues Trump administration to preserve records of inquiries into him",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/john-brennan-cia-sues-trump-administration",
+      "published": "2026-07-01T20:06:28+00:00",
+      "summary": "John Brennan demands record preservation to enable his defense if he’s indicted over ‘phantom criminal conduct’ US politics live – latest updates The former CIA director John Brennan sued the Trump administration on Wednesday, demanding a…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
+    },
+    {
+      "title": "Publisher Krafton finally agrees to pay bonuses to every Subnautica 2 staffer as Unknown Worlds CEO Ted Gill leaves again",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/krafton-to-pay-bonuses-to-all-subnautica-2-staffers",
+      "published": "2026-07-01T15:39:32+00:00",
+      "summary": "To most players, Subnautica 2 is one of 2026's hottest survival games after over four million players jumped into its dangerous waters and found an iterative but engrossing sequel .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
       "title": "Trump Wanted To Cut Ed Department Into Irrelevancy. New Report Shows How He Did It",
       "source": "The 74",
       "category": "Education / pedagogy",
@@ -44,77 +94,37 @@
       "published": "2026-07-01T14:30:00+00:00",
       "summary": "The U.S. Department of Education may no longer be able to fully support students, it says in an internal report that lays bare the full extent of the Trump Administration’s first round of government cuts.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Xbox testing disc-to-digital feature that digitizes a physical game collection",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection",
-      "published": "2026-07-01T17:46:46+00:00",
-      "summary": "Microsoft will likely soon follow Sony and stop the production of physical discs for Xbox games.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "Venezuelan police officers arrested over alleged looting after earthquakes",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jul/01/venezuela-police-officers-arrested-alleged-looting-after-earthquakes",
-      "published": "2026-07-01T14:27:15+00:00",
-      "summary": "Anger at authorities and government grows as local people, volunteers and rescue teams continue search for survivors Four Venezuelan police officers have been arrested and are facing dismissal after being accused of looting cash from the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "UK likely to intervene in Paramount takeover of Warner Bros. Discovery",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/tech-policy/2026/07/uk-likely-to-intervene-in-paramount-takeover-of-warner-bros-discovery/",
-      "published": "2026-07-01T13:24:39+00:00",
-      "summary": "The acquisition was approved without concessions by the Department of Justice in June.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-      "published": "2026-07-01T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Scientists Asked AI to Impersonate 112 Public Figures. What Happened Next Is a ‘Dire’ Warning",
+      "title": "Podcast: The AI Tokenpocalypse Is Here",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/untitled-28/",
-      "published": "2026-07-01T18:00:53+00:00",
-      "summary": "Researchers discovered that people found AI impersonators to be more authentic, coherent, and relevant than the real politicians, raising alarm bells around the potential for public deception.",
+      "url": "https://www.404media.co/podcast-the-ai-tokenpocalypse-is-here/",
+      "published": "2026-07-01T20:40:59+00:00",
+      "summary": "How companies are burning through their AI tokens; and the fake AI-generated flowers all over Etsy, eBay, and Amazon.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Crypto, bibles and watches: how Trump made over $2bn last year - The Latest",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/news/video/2026/jul/01/crypto-bibles-and-watches-how-trump-made-over-2bn-last-year-the-latest",
-      "published": "2026-07-01T16:51:28+00:00",
-      "summary": "President Trump cashed in on more than $2bn from crypto and other businesses ventures last year.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "The Best Sci-Fi, Fantasy, and Horror Movies and Shows Streaming This July",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/best-sci-fi-fantasy-horror-movies-shows-streaming-july-2026/",
+      "published": "2026-07-01T18:00:00+00:00",
+      "summary": "The best additions to ever-growing streaming libraries for July 2026 The post The Best Sci-Fi, Fantasy, and Horror Movies and Shows Streaming This July appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     },
     {
-      "title": "These church members disagree on politics. Together they're wiping out medical debt",
+      "title": "Lone star ticks are covering much of the U.S. Here's what you need to know",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/06/30/nx-s1-5847966-e1/these-church-members-disagree-on-politics-together-theyre-wiping-out-medical-debt",
-      "published": "2026-06-30T20:54:21+00:00",
-      "summary": "Trinity Moravian Church, a politically diverse congregation in Winston-Salem, N. C., has been raising money to retire medical debt in the surrounding community.",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5877341/lone-star-ticks-are-covering-much-of-the-u-s-heres-what-you-need-to-know",
+      "published": "2026-07-01T17:20:16+00:00",
+      "summary": "It's a tick that hunts you down and transmits a potentially dangerous allergy to red meat. The New Yorker writer Burkhard Bilger discusses the lone star tick and the risks of alpha-gal syndrome.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
     },
     {
       "title": "The 12 best recipes to bake in July: Here’s what you should bake (or in some cases, freeze!) this month.",
@@ -125,20 +135,143 @@
       "summary": "People don’t talk about it, but July is actually one of the best months to bake.",
       "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
       "score": 7
-    },
-    {
-      "title": "Meta considered buying Kalshi before developing its own prediction market app",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/06/30/nx-s1-5875468/meta-kalshi-prediction-market-acquisition-talks",
-      "published": "2026-06-30T20:33:04+00:00",
-      "summary": "Mark Zuckerberg met with Kalshi's CEO last year about a potential deal, but talks did not move forward. Now Meta is making its own prediction market app.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7
     }
   ],
   "youtube": [],
-  "trailers": [],
+  "trailers": [
+    {
+      "title": "The East Palace | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=wBUkNE1l9DU",
+      "published": "2026-07-01T00:00:01+00:00",
+      "summary": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders—can they unravel its dark secrets? The East Palace is coming July 17, only on Netflix #Netflix #TheEastPalace #동궁 Watch on…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Wonka's The Golden Ticket | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=oTSvnmTfLj8",
+      "published": "2026-06-30T16:00:00+00:00",
+      "summary": "Step into a world of pure imagination when the gates of the Chocolate Factory reopen this Fall. Wonka's The Golden Ticket, a new Netflix reality competition series, arrives on September 23. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "NEMESIS RENEWED FOR SEASON 2!",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=KTbC8ZnMfPA",
+      "published": "2026-06-30T15:00:30+00:00",
+      "summary": "This score isn’t settled... NEMESIS SEASON 2 IS COMING Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Ultimatum: Marry or Move On: Season 4 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=5PJbRJIcWKg",
+      "published": "2026-06-29T16:00:00+00:00",
+      "summary": "Is the grass greener on the other side? Six more couples test this theory by moving in with new potential partners for a revealing social experiment. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners 2 | Official Teaser #2 | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=QBlPg818lGI",
+      "published": "2026-06-29T15:30:00+00:00",
+      "summary": "New legends. Same Night City. CYBERPUNK: EDGERUNNERS 2 Cyberpunk: Edgerunners 2 presents a new standalone 10-episode story from the world of Cyberpunk 2077, coming this fall, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "A Toxic Love Story | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=9k9SYlMy9qs",
+      "published": "2026-06-29T15:00:00+00:00",
+      "summary": "In a glamorous California suburb, a young woman’s arrest for a violent fantasy plot becomes a sensational scandal, but the truth remains hidden behind a sophisticated web of deception.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Bombing of Pan Am 103 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=5fYWCkoDSeU",
+      "published": "2026-06-29T12:30:00+00:00",
+      "summary": "The tragic bombing of a transatlantic flight over Scotland in 1988 unites the local police and the FBI in a hunt for the attackers. Based on a true story. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "can these fans solve the case of the Enola Holmes 3 premiere? #Netflix #EnolaHolmes",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Mgcu7233OBM",
+      "published": "2026-06-28T17:00:19+00:00",
+      "summary": "can these fans solve the case of the Enola Holmes 3 premiere? Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Is that...THE GREATEST EARTHBENDER IN THE WORLD?!?!? #AvatarTheLastAirbender #Netflix #Toph",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=w6rW8d6x5bE",
+      "published": "2026-06-26T19:00:34+00:00",
+      "summary": "Is that...THE GREATEST EARTHBENDER IN THE WORLD?!?!? AVATAR: THE LAST AIRBENDER is now playing, only on Netflix! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "John Cena and Eric André's new comedy Little Brother is now playing. #Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=SPWjOdIj1Gk",
+      "published": "2026-06-26T16:00:23+00:00",
+      "summary": "A famous real estate agent's carefully curated world is upended when his eccentric \"little brother\" unexpectedly reappears. John Cena and Eric André's new comedy Little Brother is now playing. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The vast world of Avatar: The Last Airbender",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=lRaGtDE35KM",
+      "published": "2026-06-26T14:30:29+00:00",
+      "summary": "The world of Avatar is bigger than ever Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Kaulitz & Kaulitz: Season 3 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=g4qSaXDIyLg",
+      "published": "2026-06-26T13:00:00+00:00",
+      "summary": "The twins are back — with more feelings, more drama and an iconic pool party. Kaulitz & Kaulitz: Season 3, premieres July 23. Only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -251,7 +384,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 9
+    "trailerCount": 12,
+    "sourceCount": 10
   }
 }
