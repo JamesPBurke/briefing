@@ -1,40 +1,100 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-02T05:00:02.503856Z",
-  "generatedAtDisplay": "2026-07-02 01:00 AM EDT",
+  "generatedAt": "2026-07-02T14:00:02.103820Z",
+  "generatedAtDisplay": "2026-07-02 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are AI summaries of Tripadvisor hotel reviews downplay serious complaints, investigation finds, The funeral for PlayStation discs has begun, and Trump attorney general plots crackdown on ‘birth tourism’ after supreme court ruling.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are ‘A sanitized view of America’: inside Trump’s campaign to erase US history from national parks, ‘I can still hear the children’: Canada’s residential schools survivors welcome chance to reclaim sites, and ‘It was a massacre’: Haiti gangs carry out mass killings across the country.",
   "mainItems": [
     {
-      "title": "AI summaries of Tripadvisor hotel reviews downplay serious complaints, investigation finds",
+      "title": "‘A sanitized view of America’: inside Trump’s campaign to erase US history from national parks",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/2026/jul/02/ai-summaries-tripadvisor-hotel-reviews-downplay-serious-complaints",
-      "published": "2026-07-01T23:01:01+00:00",
-      "summary": "AI-generated overview found to gloss over allegations of sexual harassment and describes hotel being sued over hygiene as ‘spotless’ A hotel being sued for mass food poisonings was described as “spotless” and a resort where guests…",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/02/us-national-parks-history-censorship",
+      "published": "2026-07-02T13:00:14+00:00",
+      "summary": "Critics say the Trump administration is trying to rewrite and whitewash history by removing and altering scores of signs on public lands Jerry Bransford, a former US National Park Service (NPS) ranger, has always had a deep connection with…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "The funeral for PlayStation discs has begun",
-      "source": "The Verge",
+      "title": "‘I can still hear the children’: Canada’s residential schools survivors welcome chance to reclaim sites",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/jul/02/i-can-still-hear-the-children-canadas-residential-schools-survivors-welcome-chance-to-reclaim-sites",
+      "published": "2026-07-02T13:00:13+00:00",
+      "summary": "Former Mohawk Institute in Ontario latest to become a museum, as survivors hope preserving sites will prevent horrors they witnessed from being forgotten In the foyer of the former Mohawk Institute residential school, a plaque makes a…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "‘It was a massacre’: Haiti gangs carry out mass killings across the country",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/global-development/2026/jul/02/it-was-a-massacre-haiti-gangs-carry-out-mass-killings-across-the-country",
+      "published": "2026-07-02T13:00:13+00:00",
+      "summary": "The Guardian has found evidence of a massacre that left at least 70 civilians dead as the country’s security forces struggle to control even the main roads to the capital It is 2am when the gunshots begin.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Teaching AI to run with the turbines",
+      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores",
-      "published": "2026-07-01T22:03:37+00:00",
-      "summary": "Cody Spencer, the co-owner of the small games retail chain Pink Gorilla Games, put it well when I asked about the impact of Sony's recent announcement that it will stop making discs for new games starting January 2028. \"It's sad to see.",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "published": "2026-07-02T12:51:44+00:00",
+      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Trump attorney general plots crackdown on ‘birth tourism’ after supreme court ruling",
-      "source": "The Guardian US",
+      "title": "The Download: a startup has a solution for AI’s groupthink problem",
+      "source": "MIT Technology Review",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-birth-tourism-supreme-court",
-      "published": "2026-07-01T20:06:34+00:00",
-      "summary": "Todd Blanche to target tourists and migrants despite such births accounting for less than 1% of US babies born yearly A day after the US supreme court upheld the constitutional guarantee of birthright citizenship, the acting attorney…",
+      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+      "published": "2026-07-02T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "At least 20 dead as Russia launches massive drone and missile attack on Kyiv",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine",
+      "published": "2026-07-02T11:44:50+00:00",
+      "summary": "Ukraine capital targeted as Russia faces fuel shortages after long-range strikes against its oil refineries Europe live – latest updates At least 20 people have been killed and dozens injured overnight in Kyiv, local authorities have said…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Onimusha: Way of the Sword release date pushed forward, its devs deciding they'd rather fight vampires than cosmic entities and Scottish horrors",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/onimusha-way-of-the-sword-release-date-pushed-forward-its-devs-deciding-theyd-rather-fight-vampires-than-cosmic-entities-and-scottish-horrors",
+      "published": "2026-07-02T10:39:45+00:00",
+      "summary": "Ah, don't worry, we're not stressing about that.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "‘It is comforting to be haunted’: how attitudes to abortion have changed through the ages",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/news/2026/jul/02/it-is-comforting-to-be-haunted-how-attitudes-to-abortion-have-changed-through-the-ages",
+      "published": "2026-07-02T04:00:02+00:00",
+      "summary": "The abortion debate – the language of life, choice and rights – severs women, and their pain, from history. I don’t want to forget my abortion and I don’t want to forget theirs The physical fact of my abortion caught me off guard.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Before Brown v. Board, Another Segregation Case Changed Public Schools",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/before-brown-v-board-another-segregation-case-changed-public-schools/",
+      "published": "2026-07-02T10:30:00+00:00",
+      "summary": "This story was originally reported by Nadra Nittle of The 19th. Meet Nadra and read more of their reporting on gender, politics and policy.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
     },
     {
       "title": "Opinion: The $50 Billion Rural Healthcare Opportunity States Can’t Afford To Miss",
@@ -44,65 +104,15 @@
       "published": "2026-07-01T18:30:00+00:00",
       "summary": "Rural America has a healthcare crisis hiding in plain sight. Hospitals are closing. Nurses are retiring faster than they can be replaced.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "source": "MIT Technology Review",
-      "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "published": "2026-07-01T14:35:16+00:00",
-      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump sees bond with ‘great he-man’ Theodore Roosevelt at lavish library opening",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-theodore-roosevelt-north-dakota",
-      "published": "2026-07-02T00:41:05+00:00",
-      "summary": "Bizarre 250th spectacle in North Dakota sees Trump take ride on red, white and blue train – and speak with hologram of 26th president The sound of YMCA by the Village People booming through the badlands of North Dakota could only mean one…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Ex-CIA head sues Trump administration to preserve records of inquiries into him",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/jul/01/john-brennan-cia-sues-trump-administration",
-      "published": "2026-07-01T20:06:28+00:00",
-      "summary": "John Brennan demands record preservation to enable his defense if he’s indicted over ‘phantom criminal conduct’ US politics live – latest updates The former CIA director John Brennan sued the Trump administration on Wednesday, demanding a…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "Publisher Krafton finally agrees to pay bonuses to every Subnautica 2 staffer as Unknown Worlds CEO Ted Gill leaves again",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/krafton-to-pay-bonuses-to-all-subnautica-2-staffers",
-      "published": "2026-07-01T15:39:32+00:00",
-      "summary": "To most players, Subnautica 2 is one of 2026's hottest survival games after over four million players jumped into its dangerous waters and found an iterative but engrossing sequel .",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Trump Wanted To Cut Ed Department Into Irrelevancy. New Report Shows How He Did It",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/trump-wanted-to-cut-ed-department-into-irrelevancy-new-report-shows-how-he-did-it/",
-      "published": "2026-07-01T14:30:00+00:00",
-      "summary": "The U.S. Department of Education may no longer be able to fully support students, it says in an internal report that lays bare the full extent of the Trump Administration’s first round of government cuts.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Podcast: The AI Tokenpocalypse Is Here",
+      "title": "Companies Are Throttling Employees’ AI Use Because It’s Too Expensive",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/podcast-the-ai-tokenpocalypse-is-here/",
-      "published": "2026-07-01T20:40:59+00:00",
-      "summary": "How companies are burning through their AI tokens; and the fake AI-generated flowers all over Etsy, eBay, and Amazon.",
+      "url": "https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/",
+      "published": "2026-07-02T10:00:09+00:00",
+      "summary": "Sources and leaks from Amazon, Adobe, Atlassian, Citi, and more show what is really happening with AI right now: companies are trying to rein in AI use as costs spiral out of control.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -117,28 +127,349 @@
       "score": 8
     },
     {
-      "title": "Lone star ticks are covering much of the U.S. Here's what you need to know",
+      "title": "Going outside in this heat? Follow these guidelines to stay safe",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/01/nx-s1-5877341/lone-star-ticks-are-covering-much-of-the-u-s-heres-what-you-need-to-know",
-      "published": "2026-07-01T17:20:16+00:00",
-      "summary": "It's a tick that hunts you down and transmits a potentially dangerous allergy to red meat. The New Yorker writer Burkhard Bilger discusses the lone star tick and the risks of alpha-gal syndrome.",
+      "url": "https://www.npr.org/2026/07/02/nx-s1-5878429/heat-wave-stroke-exhaustion-prevention-safety",
+      "published": "2026-07-02T10:00:00+00:00",
+      "summary": "Man, it's a hot one! Don't go out in this summer's heat wave before you arm yourself with these tips and a really big water bottle.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
-    },
-    {
-      "title": "The 12 best recipes to bake in July: Here’s what you should bake (or in some cases, freeze!) this month.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/07/01/best-july-recipes",
-      "published": "2026-07-01T13:00:00+00:00",
-      "summary": "People don’t talk about it, but July is actually one of the best months to bake.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
       "score": 7
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "AI Just Entered A New Era",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=qks6dGQFd_c",
+      "published": "2026-07-01T05:23:54+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers GLM 5.2: https://z.ai/blog/glm-5.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Bernie Sanders Answers Oligarchy Questions | Tech Support | WIRED",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=QZXPzxxdOzc",
+      "published": "2026-06-30T16:02:02+00:00",
+      "summary": "Senator Bernie Sanders joins WIRED to answer the internet’s burning questions about the oligarchy.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Mara Brock Akil, creator of TV hits “Girlfriends” and “Being Mary Jane,” comes out with debut novel",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=kd7HflhHHqA",
+      "published": "2026-07-02T13:30:21+00:00",
+      "summary": "Mara Brock Akil is the creator behind a long list of TV hits from “Girlfriends” to “Being Mary Jane,” but her latest project is on the page. Her debut novel, “The Revelation of Dionne Daphne,\" tackles topics such as surviving sexual abuse.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Florida is expanding a state program to help pay for swim lessons, mainly for kids with autism",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=rEKOpqLqQuc",
+      "published": "2026-07-02T13:00:06+00:00",
+      "summary": "Florida is expanding a state program to help pay for swim lessons for its youngest, and it’s going to give priority to kids with autism because they are 160 times more likely than other children to drown.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Representatives on both sides succeeded in primary elections despite growing political polarization",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=LLhauRNK9Fg",
+      "published": "2026-07-01T18:00:03+00:00",
+      "summary": "Rep. Brian Fitzpatrick, R-Pa., and Rep. Tom Suozzi, D-N.Y., explain how they succeeded in recent primary elections despite growing political polarization.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Paraguay’s government declared a national holiday after the country’s World Cup upset over Germany",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=t6JbBb-FBjY",
+      "published": "2026-07-01T17:15:25+00:00",
+      "summary": "Germany is a four-time World Cup champion. Paraguay had not won a game outside of the group stage of the tournament in sixteen years.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "What's the best way to break a tie? We asked the fans.",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=6rG9th1dV6c",
+      "published": "2026-07-01T17:01:22+00:00",
+      "summary": "Say goodbye to ties! We're in the knockout rounds of the World Cup, where it's win or go home. If a game reaches a draw, teams will first play for another 30 minutes before resorting to to a tense penalty kick competition.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Trump abruptly canceled a signing ceremony for the largest housing affordability bill in decades",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=X9ADU6bkEyc",
+      "published": "2026-07-01T17:00:20+00:00",
+      "summary": "President Trump stunned Congress last week when he abruptly canceled a signing ceremony to pass the largest housing affordability bill in decades.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Xbox Series X Rising To $750, Series S To $500 - This Isn't Sustainable",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=p2QWqBPevrc",
+      "published": "2026-07-01T17:00:03+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "GTA 6: How Plausible Are The Latest Rumours/Leaks?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=uNai76KbL5w",
+      "published": "2026-07-01T16:00:25+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "SteamOS Supporting Nvidia GPUs: It's Coming + It Could Be A Game Changer",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=V1FSAkl7dOA",
+      "published": "2026-06-30T18:00:17+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "FSR 4 Arrives For RDNA 3 - And Steam Machine - And We've Tested It",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=hs2ywnT_NqI",
+      "published": "2026-06-30T17:00:31+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "GTA 6: 63 New Screenshots Revealed - So What Have We Learned?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=LUp5APLmbH8",
+      "published": "2026-06-30T16:00:18+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Is Sega Making A Retro Handheld? And What Would We Want From It?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=I6BQlfmUc1I",
+      "published": "2026-06-29T17:00:17+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Why Isn't Unified Memory Used In Steam Machine?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=oEY9oxX8T2M",
+      "published": "2026-06-29T16:00:07+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Finishing Star Fox: Assault + Showing Off Star Fox 2026 w/ KC and Marty",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=Esp7Y53njjM",
+      "published": "2026-07-02T01:07:31+00:00",
+      "summary": "For their next franchise revisit, KC and Marty are going to take a look at the Star Fox series. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Gothic 1 Remake | Fully Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=sZNl2otb7JU",
+      "published": "2026-07-01T16:00:02+00:00",
+      "summary": "This week on Fully Ramblomatic, Yahtzee reviewed the Gothic Remake. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Supergirl and Widow's Bay Impressions | The Rewind Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=xcyjo714jjw",
+      "published": "2026-06-30T20:21:29+00:00",
+      "summary": "This week on The Rewind, Jack, Darren, and Marty chat about Supergirl, Widow's Bay, and everything else they've been watching. If you enjoy hearing the crew ramble about movies and TV, consider supporting us over on Patreon -- https://www.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Is Supergirl the End of Superhero Movies? | The Backdrop",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=dwIZoym8rWw",
+      "published": "2026-06-30T15:02:00+00:00",
+      "summary": "Supergirl brings a new kind of \"True Grit\" energy to the superhero genre. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Nightmare Fishing in Umigari | Hot Monday Energy",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=ZuoW4YpRWWc",
+      "published": "2026-06-30T12:57:22+00:00",
+      "summary": "This week on Hidden Gems KC, Jess, and Jesse play Umigari -- http://store.steampowered.com/app/3772960/UMIGARI/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "16 Games We Loved from Steam Next Fest",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=gkK3LdQE7Xw",
+      "published": "2026-06-29T18:30:11+00:00",
+      "summary": "Another Steam Next Fest has come and gone and we've got over a dozen games to share with you that we enjoyed! Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "The Art of the Time Loop | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=JzQGa1UHhp4",
+      "published": "2026-06-29T18:20:57+00:00",
+      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty gab about the art of the video game time loop. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    }
+  ],
   "trailers": [
+    {
+      "title": "The Odyssey | Official Countdown Trailer",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=AyIZ9tiiN8I",
+      "published": "2026-07-01T12:30:05+00:00",
+      "summary": "The Odyssey - In Theaters 7 17 26 Christopher Nolan’s next film, The Odyssey, is a mythic action epic shot across the world using brand new IMAX® film technology.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "KLARA AND THE SUN – Official Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=wixzainceAE",
+      "published": "2026-06-22T16:00:09+00:00",
+      "summary": "Meet Klara. Your new best (artificial) friend. 🌞 Jenna Ortega is Klara in Director Taika Waititi’s adaptation of Kazuo Ishiguro’s #KlaraAndTheSun - coming exclusively to theatres October 23. Watch the trailer now.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY – New Trailer",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Rv1dodCKgvE",
+      "published": "2026-06-17T19:27:30+00:00",
+      "summary": "The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY – New Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=62bIsvRcPv0",
+      "published": "2026-06-17T18:58:31+00:00",
+      "summary": "The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Debut | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=clyzHmBx43E",
+      "published": "2026-06-23T12:59:06+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Invite | Official First Look | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=MrKYHdDzu0g",
+      "published": "2026-06-18T14:00:23+00:00",
+      "summary": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Her Private Hell - Official Trailer - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=C7E-0t1TfzM",
+      "published": "2026-06-30T16:00:27+00:00",
+      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Sheep in the Box - Official Trailer - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=j5mlc8TAPNw",
+      "published": "2026-06-23T16:08:02+00:00",
+      "summary": "In the near future, Otone and Kensuke, a grieving couple who have lost their son, take into their lives a humanoid identical to their late child.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
     {
       "title": "The East Palace | Official Trailer | Netflix",
       "source": "Netflix",
@@ -270,6 +601,61 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
+    },
+    {
+      "title": "Silo — A Celebration of Origins | Season 3 | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Fuundb_BNzg",
+      "published": "2026-07-02T00:59:07+00:00",
+      "summary": "A celebration of the Silo, brought to you by The Founders. Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo returns to Apple TV on July 3. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Widow's Bay — The Trolley Problem | Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Bd6eEuOh4lw",
+      "published": "2026-07-01T16:59:46+00:00",
+      "summary": "Waiting for an ordinary cup of tea to finish steeping, Tom poses an interesting moral dilemma to Ruth with no ulterior motive.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Camp Snoopy — Snoopy's Best Moments | Full Scenes | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=VK4I9WuwvyY",
+      "published": "2026-07-01T13:59:47+00:00",
+      "summary": "Listen up, Beagle Scouts! An all new season of Camp Snoopy is now streaming on Apple TV. Camp Snoopy Season 2 is now streaming on Apple TV #CampSnoopy #Snoopy #AppleTV",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Tied up for the summer. #CampSnoopy Season 2 — Now Streaming",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=BoyOpeE0-n8",
+      "published": "2026-06-30T13:59:50+00:00",
+      "summary": "Camp Snoopy Season 2 is now streaming on Apple TV #CampSnoopy #Snoopy #AppleTV",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "1 Hour of Widow’s Bay Ambience | Fog, Coastal Winds & Bells | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=OUfX45m5UBU",
+      "published": "2026-06-27T12:59:51+00:00",
+      "summary": "One hour of Widow's Bay ambience where nothing bad happens and everything is fine. A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
     }
   ],
   "recommendations": {
@@ -383,8 +769,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 12,
-    "sourceCount": 10
+    "youtubeCount": 22,
+    "trailerCount": 25,
+    "sourceCount": 18
   }
 }

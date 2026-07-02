@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-02T05:00:02.503856Z
+Generated: 2026-07-02T14:00:02.103820Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are AI summaries of Tripadvisor hotel reviews downplay serious complaints, investigation finds, The funeral for PlayStation discs has begun, and Trump attorney general plots crackdown on ‘birth tourism’ after supreme court ruling.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are ‘A sanitized view of America’: inside Trump’s campaign to erase US history from national parks, ‘I can still hear the children’: Canada’s residential schools survivors welcome chance to reclaim sites, and ‘It was a massacre’: Haiti gangs carry out mass killings across the country.
 
 ## Briefing
 
@@ -33,34 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. AI summaries of Tripadvisor hotel reviews downplay serious complaints, investigation finds [10/10]
+### 1. ‘A sanitized view of America’: inside Trump’s campaign to erase US history from national parks [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-AI-generated overview found to gloss over allegations of sexual harassment and describes hotel being sued over hygiene as ‘spotless’ A hotel being sued for mass food poisonings was described as “spotless” and a resort where guests…
+Critics say the Trump administration is trying to rewrite and whitewash history by removing and altering scores of signs on public lands Jerry Bransford, a former US National Park Service (NPS) ranger, has always had a deep connection with…
 
-Link: https://www.theguardian.com/business/2026/jul/02/ai-summaries-tripadvisor-hotel-reviews-downplay-serious-complaints
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/jul/02/us-national-parks-history-censorship
 
-### 2. The funeral for PlayStation discs has begun [10/10]
-**Source:** The Verge  
+### 2. ‘I can still hear the children’: Canada’s residential schools survivors welcome chance to reclaim sites [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Former Mohawk Institute in Ontario latest to become a museum, as survivors hope preserving sites will prevent horrors they witnessed from being forgotten In the foyer of the former Mohawk Institute residential school, a plaque makes a…
+
+Link: https://www.theguardian.com/world/2026/jul/02/i-can-still-hear-the-children-canadas-residential-schools-survivors-welcome-chance-to-reclaim-sites
+
+### 3. ‘It was a massacre’: Haiti gangs carry out mass killings across the country [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The Guardian has found evidence of a massacre that left at least 70 civilians dead as the country’s security forces struggle to control even the main roads to the capital It is 2am when the gunshots begin.
+
+Link: https://www.theguardian.com/global-development/2026/jul/02/it-was-a-massacre-haiti-gangs-carry-out-mass-killings-across-the-country
+
+### 4. Teaching AI to run with the turbines [10/10]
+**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Cody Spencer, the co-owner of the small games retail chain Pink Gorilla Games, put it well when I asked about the impact of Sony's recent announcement that it will stop making discs for new games starting January 2028. "It's sad to see.
+Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools.
 
-Link: https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores
+Link: https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/
 
-### 3. Trump attorney general plots crackdown on ‘birth tourism’ after supreme court ruling [10/10]
+### 5. The Download: a startup has a solution for AI’s groupthink problem [10/10]
+**Source:** MIT Technology Review  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out.
+
+Link: https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/
+
+### 6. At least 20 dead as Russia launches massive drone and missile attack on Kyiv [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Todd Blanche to target tourists and migrants despite such births accounting for less than 1% of US babies born yearly A day after the US supreme court upheld the constitutional guarantee of birthright citizenship, the acting attorney…
+Ukraine capital targeted as Russia faces fuel shortages after long-range strikes against its oil refineries Europe live – latest updates At least 20 people have been killed and dozens injured overnight in Kyiv, local authorities have said…
 
-Link: https://www.theguardian.com/us-news/2026/jul/01/trump-birth-tourism-supreme-court
+Link: https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine
 
-### 4. Opinion: The $50 Billion Rural Healthcare Opportunity States Can’t Afford To Miss [10/10]
+### 7. Onimusha: Way of the Sword release date pushed forward, its devs deciding they'd rather fight vampires than cosmic entities and Scottish horrors [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Ah, don't worry, we're not stressing about that.
+
+Link: https://www.rockpapershotgun.com/onimusha-way-of-the-sword-release-date-pushed-forward-its-devs-deciding-theyd-rather-fight-vampires-than-cosmic-entities-and-scottish-horrors
+
+### 8. ‘It is comforting to be haunted’: how attitudes to abortion have changed through the ages [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+The abortion debate – the language of life, choice and rights – severs women, and their pain, from history. I don’t want to forget my abortion and I don’t want to forget theirs The physical fact of my abortion caught me off guard.
+
+Link: https://www.theguardian.com/news/2026/jul/02/it-is-comforting-to-be-haunted-how-attitudes-to-abortion-have-changed-through-the-ages
+
+### 9. Before Brown v. Board, Another Segregation Case Changed Public Schools [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+This story was originally reported by Nadra Nittle of The 19th. Meet Nadra and read more of their reporting on gender, politics and policy.
+
+Link: https://www.the74million.org/article/before-brown-v-board-another-segregation-case-changed-public-schools/
+
+### 10. Opinion: The $50 Billion Rural Healthcare Opportunity States Can’t Afford To Miss [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -69,61 +123,16 @@ Rural America has a healthcare crisis hiding in plain sight. Hospitals are closi
 
 Link: https://www.the74million.org/article/the-50-billion-rural-healthcare-opportunity-states-cant-afford-to-miss/
 
-### 5. LLMs are stuck in a groupthink groove. This startup is trying to get them out. [10/10]
-**Source:** MIT Technology Review  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4.
-
-Link: https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/
-
-### 6. Trump sees bond with ‘great he-man’ Theodore Roosevelt at lavish library opening [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Bizarre 250th spectacle in North Dakota sees Trump take ride on red, white and blue train – and speak with hologram of 26th president The sound of YMCA by the Village People booming through the badlands of North Dakota could only mean one…
-
-Link: https://www.theguardian.com/us-news/2026/jul/01/trump-theodore-roosevelt-north-dakota
-
-### 7. Ex-CIA head sues Trump administration to preserve records of inquiries into him [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-John Brennan demands record preservation to enable his defense if he’s indicted over ‘phantom criminal conduct’ US politics live – latest updates The former CIA director John Brennan sued the Trump administration on Wednesday, demanding a…
-
-Link: https://www.theguardian.com/us-news/2026/jul/01/john-brennan-cia-sues-trump-administration
-
-### 8. Publisher Krafton finally agrees to pay bonuses to every Subnautica 2 staffer as Unknown Worlds CEO Ted Gill leaves again [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-To most players, Subnautica 2 is one of 2026's hottest survival games after over four million players jumped into its dangerous waters and found an iterative but engrossing sequel .
-
-Link: https://www.eurogamer.net/krafton-to-pay-bonuses-to-all-subnautica-2-staffers
-
-### 9. Trump Wanted To Cut Ed Department Into Irrelevancy. New Report Shows How He Did It [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-The U.S. Department of Education may no longer be able to fully support students, it says in an internal report that lays bare the full extent of the Trump Administration’s first round of government cuts.
-
-Link: https://www.the74million.org/article/trump-wanted-to-cut-ed-department-into-irrelevancy-new-report-shows-how-he-did-it/
-
-### 10. Podcast: The AI Tokenpocalypse Is Here [8/10]
+### 11. Companies Are Throttling Employees’ AI Use Because It’s Too Expensive [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-How companies are burning through their AI tokens; and the fake AI-generated flowers all over Etsy, eBay, and Amazon.
+Sources and leaks from Amazon, Adobe, Atlassian, Citi, and more show what is really happening with AI right now: companies are trying to rein in AI use as costs spiral out of control.
 
-Link: https://www.404media.co/podcast-the-ai-tokenpocalypse-is-here/
+Link: https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/
 
-### 11. The Best Sci-Fi, Fantasy, and Horror Movies and Shows Streaming This July [8/10]
+### 12. The Best Sci-Fi, Fantasy, and Horror Movies and Shows Streaming This July [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -132,27 +141,214 @@ The best additions to ever-growing streaming libraries for July 2026 The post Th
 
 Link: https://reactormag.com/best-sci-fi-fantasy-horror-movies-shows-streaming-july-2026/
 
-### 12. Lone star ticks are covering much of the U.S. Here's what you need to know [7/10]
+### 13. Going outside in this heat? Follow these guidelines to stay safe [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-It's a tick that hunts you down and transmits a potentially dangerous allergy to red meat. The New Yorker writer Burkhard Bilger discusses the lone star tick and the risks of alpha-gal syndrome.
+Man, it's a hot one! Don't go out in this summer's heat wave before you arm yourself with these tips and a really big water bottle.
 
-Link: https://www.npr.org/2026/07/01/nx-s1-5877341/lone-star-ticks-are-covering-much-of-the-u-s-heres-what-you-need-to-know
-
-### 13. The 12 best recipes to bake in July: Here’s what you should bake (or in some cases, freeze!) this month. [7/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-People don’t talk about it, but July is actually one of the best months to bake.
-
-Link: https://www.kingarthurbaking.com/blog/2026/07/01/best-july-recipes
+Link: https://www.npr.org/2026/07/02/nx-s1-5878429/heat-wave-stroke-exhaustion-prevention-safety
 
 ## YouTube
 
-_No YouTube picks in this briefing._
+### AI Just Entered A New Era [7/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers GLM 5.2: https://z.ai/blog/glm-5.
+
+Link: https://www.youtube.com/watch?v=qks6dGQFd_c
+
+### Bernie Sanders Answers Oligarchy Questions | Tech Support | WIRED [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Senator Bernie Sanders joins WIRED to answer the internet’s burning questions about the oligarchy.
+
+Link: https://www.youtube.com/watch?v=QZXPzxxdOzc
+
+### Mara Brock Akil, creator of TV hits “Girlfriends” and “Being Mary Jane,” comes out with debut novel [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Mara Brock Akil is the creator behind a long list of TV hits from “Girlfriends” to “Being Mary Jane,” but her latest project is on the page. Her debut novel, “The Revelation of Dionne Daphne," tackles topics such as surviving sexual abuse.
+
+Link: https://www.youtube.com/watch?v=kd7HflhHHqA
+
+### Florida is expanding a state program to help pay for swim lessons, mainly for kids with autism [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Florida is expanding a state program to help pay for swim lessons for its youngest, and it’s going to give priority to kids with autism because they are 160 times more likely than other children to drown.
+
+Link: https://www.youtube.com/watch?v=rEKOpqLqQuc
+
+### Representatives on both sides succeeded in primary elections despite growing political polarization [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Rep. Brian Fitzpatrick, R-Pa., and Rep. Tom Suozzi, D-N.Y., explain how they succeeded in recent primary elections despite growing political polarization.
+
+Link: https://www.youtube.com/watch?v=LLhauRNK9Fg
+
+### Paraguay’s government declared a national holiday after the country’s World Cup upset over Germany [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Germany is a four-time World Cup champion. Paraguay had not won a game outside of the group stage of the tournament in sixteen years.
+
+Link: https://www.youtube.com/watch?v=t6JbBb-FBjY
+
+### What's the best way to break a tie? We asked the fans. [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Say goodbye to ties! We're in the knockout rounds of the World Cup, where it's win or go home. If a game reaches a draw, teams will first play for another 30 minutes before resorting to to a tense penalty kick competition.
+
+Link: https://www.youtube.com/watch?v=6rG9th1dV6c
+
+### Trump abruptly canceled a signing ceremony for the largest housing affordability bill in decades [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+President Trump stunned Congress last week when he abruptly canceled a signing ceremony to pass the largest housing affordability bill in decades.
+
+Link: https://www.youtube.com/watch?v=X9ADU6bkEyc
+
+### Xbox Series X Rising To $750, Series S To $500 - This Isn't Sustainable [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=p2QWqBPevrc
+
+### GTA 6: How Plausible Are The Latest Rumours/Leaks? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=uNai76KbL5w
+
+### SteamOS Supporting Nvidia GPUs: It's Coming + It Could Be A Game Changer [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=V1FSAkl7dOA
+
+### FSR 4 Arrives For RDNA 3 - And Steam Machine - And We've Tested It [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=hs2ywnT_NqI
+
+### GTA 6: 63 New Screenshots Revealed - So What Have We Learned? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=LUp5APLmbH8
+
+### Is Sega Making A Retro Handheld? And What Would We Want From It? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/RfpsUXuNTc0 ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=I6BQlfmUc1I
+
+### Why Isn't Unified Memory Used In Steam Machine? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=oEY9oxX8T2M
+
+### Finishing Star Fox: Assault + Showing Off Star Fox 2026 w/ KC and Marty [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+For their next franchise revisit, KC and Marty are going to take a look at the Star Fox series. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=Esp7Y53njjM
+
+### Gothic 1 Remake | Fully Ramblomatic [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Fully Ramblomatic, Yahtzee reviewed the Gothic Remake. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=sZNl2otb7JU
+
+### Supergirl and Widow's Bay Impressions | The Rewind Podcast [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on The Rewind, Jack, Darren, and Marty chat about Supergirl, Widow's Bay, and everything else they've been watching. If you enjoy hearing the crew ramble about movies and TV, consider supporting us over on Patreon -- https://www.
+
+Link: https://www.youtube.com/watch?v=xcyjo714jjw
+
+### Is Supergirl the End of Superhero Movies? | The Backdrop [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Supergirl brings a new kind of "True Grit" energy to the superhero genre. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=dwIZoym8rWw
+
+### Nightmare Fishing in Umigari | Hot Monday Energy [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Hidden Gems KC, Jess, and Jesse play Umigari -- http://store.steampowered.com/app/3772960/UMIGARI/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=ZuoW4YpRWWc
+
+### 16 Games We Loved from Steam Next Fest [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Another Steam Next Fest has come and gone and we've got over a dozen games to share with you that we enjoyed! Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.
+
+Link: https://www.youtube.com/watch?v=gkK3LdQE7Xw
+
+### The Art of the Time Loop | Windbreaker Podcast [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty gab about the art of the video game time loop. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=JzQGa1UHhp4
 
 ## Entertainment Recommendations
 
@@ -182,6 +378,78 @@ _No YouTube picks in this briefing._
 - **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
 
 ## Trailers / Previews
+
+### The Odyssey | Official Countdown Trailer [8/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The Odyssey - In Theaters 7 17 26 Christopher Nolan’s next film, The Odyssey, is a mythic action epic shot across the world using brand new IMAX® film technology.
+
+Link: https://www.youtube.com/watch?v=AyIZ9tiiN8I
+
+### KLARA AND THE SUN – Official Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Meet Klara. Your new best (artificial) friend. 🌞 Jenna Ortega is Klara in Director Taika Waititi’s adaptation of Kazuo Ishiguro’s #KlaraAndTheSun - coming exclusively to theatres October 23. Watch the trailer now.
+
+Link: https://www.youtube.com/watch?v=wixzainceAE
+
+### SPIDER-MAN: BRAND NEW DAY – New Trailer [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.
+
+Link: https://www.youtube.com/watch?v=Rv1dodCKgvE
+
+### SPIDER-MAN: BRAND NEW DAY – New Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.
+
+Link: https://www.youtube.com/watch?v=62bIsvRcPv0
+
+### The Debut | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.
+
+Link: https://www.youtube.com/watch?v=clyzHmBx43E
+
+### The Invite | Official First Look | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.
+
+Link: https://www.youtube.com/watch?v=MrKYHdDzu0g
+
+### Her Private Hell - Official Trailer - In Theaters July 24 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.
+
+Link: https://www.youtube.com/watch?v=C7E-0t1TfzM
+
+### Sheep in the Box - Official Trailer - In Theaters July 24 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In the near future, Otone and Kensuke, a grieving couple who have lost their son, take into their lives a humanoid identical to their late child.
+
+Link: https://www.youtube.com/watch?v=j5mlc8TAPNw
 
 ### The East Palace | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
@@ -290,3 +558,48 @@ Link: https://www.youtube.com/watch?v=lRaGtDE35KM
 The twins are back — with more feelings, more drama and an iconic pool party. Kaulitz & Kaulitz: Season 3, premieres July 23. Only on Netflix. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=g4qSaXDIyLg
+
+### Silo — A Celebration of Origins | Season 3 | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A celebration of the Silo, brought to you by The Founders. Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo returns to Apple TV on July 3. https://apple.
+
+Link: https://www.youtube.com/watch?v=Fuundb_BNzg
+
+### Widow's Bay — The Trolley Problem | Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Waiting for an ordinary cup of tea to finish steeping, Tom poses an interesting moral dilemma to Ruth with no ulterior motive.
+
+Link: https://www.youtube.com/watch?v=Bd6eEuOh4lw
+
+### Camp Snoopy — Snoopy's Best Moments | Full Scenes | Apple TV [7/10]
+**Source:** Apple TV  
+**Verdict:** Worth a glance  
+**Why it matters:** Relevant to your current interest graph.
+
+Listen up, Beagle Scouts! An all new season of Camp Snoopy is now streaming on Apple TV. Camp Snoopy Season 2 is now streaming on Apple TV #CampSnoopy #Snoopy #AppleTV
+
+Link: https://www.youtube.com/watch?v=VK4I9WuwvyY
+
+### Tied up for the summer. #CampSnoopy Season 2 — Now Streaming [7/10]
+**Source:** Apple TV  
+**Verdict:** Worth a glance  
+**Why it matters:** Relevant to your current interest graph.
+
+Camp Snoopy Season 2 is now streaming on Apple TV #CampSnoopy #Snoopy #AppleTV
+
+Link: https://www.youtube.com/watch?v=BoyOpeE0-n8
+
+### 1 Hour of Widow’s Bay Ambience | Fog, Coastal Winds & Bells | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+One hour of Widow's Bay ambience where nothing bad happens and everything is fine. A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination.
+
+Link: https://www.youtube.com/watch?v=OUfX45m5UBU
