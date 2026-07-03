@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-03T05:00:03.278051Z
+Generated: 2026-07-03T09:01:03.200381Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are "I could feel myself coming apart at the seams": Suicide Squad leads on almost leaving the games industry after its failure, Malik Tillman’s bloody sock game rockets into US World Cup history, and The Download: a startup has a solution for AI’s groupthink problem.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are I love Baldur's Gate 3's queer representation, but triple-A games can still do so much more to explore lesbian stories with the depth they deserve, Spyware used against MEP investigating Pegasus abuses, report finds, and Silo review – this handsomely produced sci-fi drama grapples with the big questions.
 
 ## Briefing
 
@@ -33,25 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. "I could feel myself coming apart at the seams": Suicide Squad leads on almost leaving the games industry after its failure [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 1. I love Baldur's Gate 3's queer representation, but triple-A games can still do so much more to explore lesbian stories with the depth they deserve [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Crikey, remember Suicide Squad: Kill the Justice League ? That sure was a mess . It was a public mess too, one where there were seemingly some attempts to save the game, but none that could have shifted it away from its inherent flaws.
+Hello! Eurogamer's latest week of features celebrating the intersection of queer culture and gaming concludes today as Caelyn Ellis looks to a future where mainstream games might tell different kinds of lesbian stories.
 
-Link: https://www.rockpapershotgun.com/i-could-feel-myself-coming-apart-at-the-seams-suicide-squad-leads-on-almost-leaving-the-games-industry-after-its-failure
+Link: https://www.eurogamer.net/pride-week-baldurs-gate-3-lesbian-stories
 
-### 2. Malik Tillman’s bloody sock game rockets into US World Cup history [10/10]
+### 2. Spyware used against MEP investigating Pegasus abuses, report finds [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The midfielder had to work hard to win his place in Mauricio Pochettino’s squad for this tournament.
+Researchers say Stelios Kouloglou’s device was compromised after he joined European parliamentary committee NSO Group’s hacking software was repeatedly used against a member of the European parliament while he was conducting an…
 
-Link: https://www.theguardian.com/football/2026/jul/02/malik-tillman-free-kick-bloody-sock-broken-boot-usmnt-world-cup
+Link: https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds
 
-### 3. The Download: a startup has a solution for AI’s groupthink problem [10/10]
+### 3. Silo review – this handsomely produced sci-fi drama grapples with the big questions [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Rebecca Ferguson is still excellent in this unremittingly grey-green subterranean post-apocalypse.
+
+Link: https://www.theguardian.com/tv-and-radio/2026/jul/03/silo-review-rebecca-ferguson-sci-fi-apple-tv
+
+### 4. The Download: a startup has a solution for AI’s groupthink problem [10/10]
 **Source:** MIT Technology Review  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -60,25 +69,34 @@ This is today’s edition of The Download, our weekday newsletter that provides 
 
 Link: https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/
 
-### 4. Federal civil rights data holds schools accountable. Under Trump, it's 6 months late [10/10]
-**Source:** NPR Health  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 5. How young people feel about American identity, on the nation's 250th birthday [9/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-The Education Department has long collected civil rights data about things like bullying, harassment and disability services in schools, but it hasn't made the latest information public.
+NPR's Student Podcast Challenge asked students around the country to reflect on the nation's 250th anniversary. Here are our winners from the younger grades.
 
-Link: https://www.npr.org/2026/07/02/nx-s1-5859422/civil-rights-data-students-education
+Link: https://www.npr.org/2026/07/03/nx-s1-5869537/how-young-people-feel-about-american-identity-on-the-nations-250th-birthday
 
-### 5. Switzerland v Algeria: World Cup 2026 last 32 – live [9/10]
+### 6. US heatwave threatens 250th anniversary events and World Cup [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT ⚽️ Player guide | Bracketology | Golden Boot | Mail Martin The smallest details can make a difference at the World Cup.
+Weekend’s high temperatures and humidity ‘virtually impossible’ without climate crisis, researchers say The scorching heat blanketing much of the US this week would have been “virtually impossible” if not for the climate crisis,…
 
-Link: https://www.theguardian.com/football/live/2026/jul/03/fifa-world-cup-2026-live-switzerland-v-algeria-updates-sui-vs-alg-last-round-32-match-score-latest
+Link: https://www.theguardian.com/us-news/2026/jul/03/heatwave-world-cup-250th-anniversary
 
-### 6. Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home [9/10]
+### 7. Ali Khamenei’s six-day funeral expected to draw millions in Iran [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Huge scale of funeral for supreme leader across five cities is intended to relay message of resistance to rest of the world In the small hours of Friday the police roadblocks, stalls, posters and army vans were starting to appear across…
+
+Link: https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran
+
+### 8. Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -87,7 +105,7 @@ The man whose Tesla struck and killed a woman inside her Texas home last month i
 
 Link: https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges
 
-### 7. Tucker Carlson floats idea of new political party in the US in interview [9/10]
+### 9. Tucker Carlson floats idea of new political party in the US in interview [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -96,25 +114,16 @@ Former Fox News host further said he doesn’t ‘want to be a candidate’ for 
 
 Link: https://www.theguardian.com/us-news/2026/jul/02/tucker-carlson-new-political-party-idea-interview
 
-### 8. Brutal heatwave scorches eastern US ahead of Fourth of July weekend [9/10]
-**Source:** The Guardian US  
+### 10. "I could feel myself coming apart at the seams": Suicide Squad leads on almost leaving the games industry after its failure [9/10]
+**Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-National Weather Service warns heat index could reach 115F as heat grips midwest, Ohio valley and east coast Sign up for the Breaking News US newsletter email A “prolonged, dangerous heatwave” was sweeping across parts of the central and…
+Crikey, remember Suicide Squad: Kill the Justice League ? That sure was a mess . It was a public mess too, one where there were seemingly some attempts to save the game, but none that could have shifted it away from its inherent flaws.
 
-Link: https://www.theguardian.com/environment/2026/jul/02/heatwave-eastern-us
+Link: https://www.rockpapershotgun.com/i-could-feel-myself-coming-apart-at-the-seams-suicide-squad-leads-on-almost-leaving-the-games-industry-after-its-failure
 
-### 9. That's a bummer: Frictional's Soma follow-up Ontos has been delayed into 2027 [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-To be truthful, these days it's generally surprising when a game isn't delayed these days, whether that be for a month, months, or even a full year.
-
-Link: https://www.rockpapershotgun.com/thats-a-bummer-frictionals-soma-follow-up-ontos-has-been-delayed-into-2027
-
-### 10. Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC [9/10]
+### 11. Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC [9/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -122,15 +131,6 @@ Link: https://www.rockpapershotgun.com/thats-a-bummer-frictionals-soma-follow-up
 FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns.
 
 Link: https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/
-
-### 11. Opinion: While Washington Debates Screen Time, Many Students Lack Access Altogether [8/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Earlier this year, U.S. senators convened to grill experts on how social media, smartphones and other technologies are affecting children’s mental health and learning.
-
-Link: https://www.the74million.org/article/while-washington-debates-screen-time-many-students-lack-access-altogether/
 
 ### 12. Companies Are Throttling Employees’ AI Use Because It’s Too Expensive [8/10]
 **Source:** 404 Media  
@@ -287,27 +287,27 @@ Link: https://www.youtube.com/watch?v=hs2ywnT_NqI
 
 Link: https://www.youtube.com/watch?v=LUp5APLmbH8
 
-### PlayStation Just Dealt Game Preservation a Massive Blow | Firelink Podcast [9/10]
+### PlayStation Just Dealt Game Preservation a Massive Blow | Firelink Podcast [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Firelink, KC and Marty chat about Sony's decision to move away from physical games. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.fantasycritic.
 
 Link: https://www.youtube.com/watch?v=UnYhAPrkrMQ
 
-### Can Map Making Be Fun? Astral Marmot Shows How | RPG Help Desk [7/10]
+### Can Map Making Be Fun? Astral Marmot Shows How | RPG Help Desk [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Got questions or tips on making maps (world maps and battle maps)? Then Join us! Jesse Galena avoids making maps whenever possible, so we'll see if Astral Marmot's tips and methods change that.
 
 Link: https://www.youtube.com/watch?v=1IknM0E9aq4
 
-### More Fallout 3, Let's See What's Going on In Vault 112 w/ Jack, Jess, and Marty -- Part 4 [8/10]
+### More Fallout 3, Let's See What's Going on In Vault 112 w/ Jack, Jess, and Marty -- Part 4 [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
@@ -451,7 +451,7 @@ In the near future, Otone and Kensuke, a grieving couple who have lost their son
 
 Link: https://www.youtube.com/watch?v=j5mlc8TAPNw
 
-### Little House on the Prairie | Meet The Ingalls | Netflix [10/10]
+### Little House on the Prairie | Meet The Ingalls | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.

@@ -1,29 +1,39 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-03T05:00:03.278051Z",
-  "generatedAtDisplay": "2026-07-03 01:00 AM EDT",
+  "generatedAt": "2026-07-03T09:01:03.200381Z",
+  "generatedAtDisplay": "2026-07-03 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are \"I could feel myself coming apart at the seams\": Suicide Squad leads on almost leaving the games industry after its failure, Malik Tillman’s bloody sock game rockets into US World Cup history, and The Download: a startup has a solution for AI’s groupthink problem.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are I love Baldur's Gate 3's queer representation, but triple-A games can still do so much more to explore lesbian stories with the depth they deserve, Spyware used against MEP investigating Pegasus abuses, report finds, and Silo review – this handsomely produced sci-fi drama grapples with the big questions.",
   "mainItems": [
     {
-      "title": "\"I could feel myself coming apart at the seams\": Suicide Squad leads on almost leaving the games industry after its failure",
-      "source": "Rock Paper Shotgun",
+      "title": "I love Baldur's Gate 3's queer representation, but triple-A games can still do so much more to explore lesbian stories with the depth they deserve",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/pride-week-baldurs-gate-3-lesbian-stories",
+      "published": "2026-07-03T09:00:00+00:00",
+      "summary": "Hello! Eurogamer's latest week of features celebrating the intersection of queer culture and gaming concludes today as Caelyn Ellis looks to a future where mainstream games might tell different kinds of lesbian stories.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Spyware used against MEP investigating Pegasus abuses, report finds",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/i-could-feel-myself-coming-apart-at-the-seams-suicide-squad-leads-on-almost-leaving-the-games-industry-after-its-failure",
-      "published": "2026-07-02T20:26:20+00:00",
-      "summary": "Crikey, remember Suicide Squad: Kill the Justice League ? That sure was a mess . It was a public mess too, one where there were seemingly some attempts to save the game, but none that could have shifted it away from its inherent flaws.",
+      "url": "https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds",
+      "published": "2026-07-03T05:00:20+00:00",
+      "summary": "Researchers say Stelios Kouloglou’s device was compromised after he joined European parliamentary committee NSO Group’s hacking software was repeatedly used against a member of the European parliament while he was conducting an…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Malik Tillman’s bloody sock game rockets into US World Cup history",
+      "title": "Silo review – this handsomely produced sci-fi drama grapples with the big questions",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/football/2026/jul/02/malik-tillman-free-kick-bloody-sock-broken-boot-usmnt-world-cup",
-      "published": "2026-07-02T14:00:01+00:00",
-      "summary": "The midfielder had to work hard to win his place in Mauricio Pochettino’s squad for this tournament.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/03/silo-review-rebecca-ferguson-sci-fi-apple-tv",
+      "published": "2026-07-03T04:00:19+00:00",
+      "summary": "Rebecca Ferguson is still excellent in this unremittingly grey-green subterranean post-apocalypse.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
@@ -37,23 +47,33 @@
       "score": 10
     },
     {
-      "title": "Federal civil rights data holds schools accountable. Under Trump, it's 6 months late",
-      "source": "NPR Health",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/07/02/nx-s1-5859422/civil-rights-data-students-education",
-      "published": "2026-07-02T09:00:00+00:00",
-      "summary": "The Education Department has long collected civil rights data about things like bullying, harassment and disability services in schools, but it hasn't made the latest information public.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "How young people feel about American identity, on the nation's 250th birthday",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/07/03/nx-s1-5869537/how-young-people-feel-about-american-identity-on-the-nations-250th-birthday",
+      "published": "2026-07-03T08:11:31+00:00",
+      "summary": "NPR's Student Podcast Challenge asked students around the country to reflect on the nation's 250th anniversary. Here are our winners from the younger grades.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
     },
     {
-      "title": "Switzerland v Algeria: World Cup 2026 last 32 – live",
+      "title": "US heatwave threatens 250th anniversary events and World Cup",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/football/live/2026/jul/03/fifa-world-cup-2026-live-switzerland-v-algeria-updates-sui-vs-alg-last-round-32-match-score-latest",
-      "published": "2026-07-03T04:56:45+00:00",
-      "summary": "⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT ⚽️ Player guide | Bracketology | Golden Boot | Mail Martin The smallest details can make a difference at the World Cup.",
+      "url": "https://www.theguardian.com/us-news/2026/jul/03/heatwave-world-cup-250th-anniversary",
+      "published": "2026-07-03T07:01:21+00:00",
+      "summary": "Weekend’s high temperatures and humidity ‘virtually impossible’ without climate crisis, researchers say The scorching heat blanketing much of the US this week would have been “virtually impossible” if not for the climate crisis,…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Ali Khamenei’s six-day funeral expected to draw millions in Iran",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran",
+      "published": "2026-07-03T05:43:55+00:00",
+      "summary": "Huge scale of funeral for supreme leader across five cities is intended to relay message of resistance to rest of the world In the small hours of Friday the police roadblocks, stalls, posters and army vans were starting to appear across…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
@@ -77,23 +97,13 @@
       "score": 9
     },
     {
-      "title": "Brutal heatwave scorches eastern US ahead of Fourth of July weekend",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/environment/2026/jul/02/heatwave-eastern-us",
-      "published": "2026-07-02T20:16:14+00:00",
-      "summary": "National Weather Service warns heat index could reach 115F as heat grips midwest, Ohio valley and east coast Sign up for the Breaking News US newsletter email A “prolonged, dangerous heatwave” was sweeping across parts of the central and…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "That's a bummer: Frictional's Soma follow-up Ontos has been delayed into 2027",
+      "title": "\"I could feel myself coming apart at the seams\": Suicide Squad leads on almost leaving the games industry after its failure",
       "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/thats-a-bummer-frictionals-soma-follow-up-ontos-has-been-delayed-into-2027",
-      "published": "2026-07-02T17:07:52+00:00",
-      "summary": "To be truthful, these days it's generally surprising when a game isn't delayed these days, whether that be for a month, months, or even a full year.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/i-could-feel-myself-coming-apart-at-the-seams-suicide-squad-leads-on-almost-leaving-the-games-industry-after-its-failure",
+      "published": "2026-07-02T20:26:20+00:00",
+      "summary": "Crikey, remember Suicide Squad: Kill the Justice League ? That sure was a mess . It was a public mess too, one where there were seemingly some attempts to save the game, but none that could have shifted it away from its inherent flaws.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
@@ -105,16 +115,6 @@
       "summary": "FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
-    },
-    {
-      "title": "Opinion: While Washington Debates Screen Time, Many Students Lack Access Altogether",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/while-washington-debates-screen-time-many-students-lack-access-altogether/",
-      "published": "2026-07-02T16:30:00+00:00",
-      "summary": "Earlier this year, U.S. senators convened to grill experts on how social media, smartphones and other technologies are affecting children’s mental health and learning.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 8
     },
     {
       "title": "Companies Are Throttling Employees’ AI Use Because It’s Too Expensive",
@@ -311,8 +311,8 @@
       "published": "2026-07-03T02:57:34+00:00",
       "summary": "This week on Firelink, KC and Marty chat about Sony's decision to move away from physical games. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.fantasycritic.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Can Map Making Be Fun? Astral Marmot Shows How | RPG Help Desk",
@@ -322,8 +322,8 @@
       "published": "2026-07-02T19:09:07+00:00",
       "summary": "Got questions or tips on making maps (world maps and battle maps)? Then Join us! Jesse Galena avoids making maps whenever possible, so we'll see if Astral Marmot's tips and methods change that.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "More Fallout 3, Let's See What's Going on In Vault 112 w/ Jack, Jess, and Marty -- Part 4",
@@ -333,8 +333,8 @@
       "published": "2026-07-02T19:12:55+00:00",
       "summary": "After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Yahtzee Thinks Size Matters (Kinda) | Semi-Ramblomatic",
@@ -478,7 +478,7 @@
       "published": "2026-07-02T20:00:00+00:00",
       "summary": "The close-knit Ingalls family builds a new life on the Western frontier, where the joys of nature and the struggle for survival are deeply intertwined. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -771,6 +771,6 @@
     "mainCount": 13,
     "youtubeCount": 22,
     "trailerCount": 25,
-    "sourceCount": 20
+    "sourceCount": 21
   }
 }
