@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-03T09:01:03.200381Z
+Generated: 2026-07-03T14:00:03.199159Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are I love Baldur's Gate 3's queer representation, but triple-A games can still do so much more to explore lesbian stories with the depth they deserve, Spyware used against MEP investigating Pegasus abuses, report finds, and Silo review – this handsomely produced sci-fi drama grapples with the big questions.
+Today's sweep leans toward AI / computing, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Assassin's Creed Black Flag Resynced promises smooth handheld sailing with Steam Deck and Steam Machine verification, The Download: a smoking “endgame” and a new Elizabeth Bear story, and As the US turns 250, new citizens feel pride and unease: ‘It’s survival’.
 
 ## Briefing
 
@@ -33,7 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. I love Baldur's Gate 3's queer representation, but triple-A games can still do so much more to explore lesbian stories with the depth they deserve [10/10]
+### 1. Assassin's Creed Black Flag Resynced promises smooth handheld sailing with Steam Deck and Steam Machine verification [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+As nautical stabbist remake Assassin’s Creed Black Flag Resynced heaves into view of its July 9th release date, it’s already secured one piece of treasure.
+
+Link: https://www.rockpapershotgun.com/assassins-creed-black-flag-resynced-promises-smooth-handheld-sailing-with-steam-deck-and-steam-machine-verification
+
+### 2. The Download: a smoking “endgame” and a new Elizabeth Bear story [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway.
+
+Link: https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/
+
+### 3. As the US turns 250, new citizens feel pride and unease: ‘It’s survival’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Amid Trump’s immigration crackdown, thousands take the oath of allegiance in a US ‘not as welcoming as in the past’ In June, Yesica McKeone officially became a US citizen.
+
+Link: https://www.theguardian.com/us-news/2026/jul/03/new-us-citizens-250th-anniversary
+
+### 4. The UK’s generational tobacco ban might not work. I’m supporting it anyway. [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week.
+
+Link: https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/
+
+### 5. I love Baldur's Gate 3's queer representation, but triple-A games can still do so much more to explore lesbian stories with the depth they deserve [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -42,16 +78,7 @@ Hello! Eurogamer's latest week of features celebrating the intersection of queer
 
 Link: https://www.eurogamer.net/pride-week-baldurs-gate-3-lesbian-stories
 
-### 2. Spyware used against MEP investigating Pegasus abuses, report finds [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Researchers say Stelios Kouloglou’s device was compromised after he joined European parliamentary committee NSO Group’s hacking software was repeatedly used against a member of the European parliament while he was conducting an…
-
-Link: https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds
-
-### 3. Silo review – this handsomely produced sci-fi drama grapples with the big questions [10/10]
+### 6. Silo review – this handsomely produced sci-fi drama grapples with the big questions [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -60,95 +87,68 @@ Rebecca Ferguson is still excellent in this unremittingly grey-green subterranea
 
 Link: https://www.theguardian.com/tv-and-radio/2026/jul/03/silo-review-rebecca-ferguson-sci-fi-apple-tv
 
-### 4. The Download: a startup has a solution for AI’s groupthink problem [10/10]
-**Source:** MIT Technology Review  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out.
-
-Link: https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/
-
-### 5. How young people feel about American identity, on the nation's 250th birthday [9/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-NPR's Student Podcast Challenge asked students around the country to reflect on the nation's 250th anniversary. Here are our winners from the younger grades.
-
-Link: https://www.npr.org/2026/07/03/nx-s1-5869537/how-young-people-feel-about-american-identity-on-the-nations-250th-birthday
-
-### 6. US heatwave threatens 250th anniversary events and World Cup [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Weekend’s high temperatures and humidity ‘virtually impossible’ without climate crisis, researchers say The scorching heat blanketing much of the US this week would have been “virtually impossible” if not for the climate crisis,…
-
-Link: https://www.theguardian.com/us-news/2026/jul/03/heatwave-world-cup-250th-anniversary
-
-### 7. Ali Khamenei’s six-day funeral expected to draw millions in Iran [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Huge scale of funeral for supreme leader across five cities is intended to relay message of resistance to rest of the world In the small hours of Friday the police roadblocks, stalls, posters and army vans were starting to appear across…
-
-Link: https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran
-
-### 8. Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home [9/10]
+### 7. Anthropic wants to develop its own drugs [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11.
+At the event "The Briefing: AI for Science" earlier this week, Anthropic announced Claude Science, a new "AI workbench for scientists" that pulls fragmented tools and datasets into one environment, and generates figures and visuals.
 
-Link: https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges
+Link: https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development
 
-### 9. Tucker Carlson floats idea of new political party in the US in interview [9/10]
+### 8. Jon Prosser responds to Apple lawsuit by blaming the other guy [9/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+YouTuber Jon Prosser has finally filed a formal response to Apple's lawsuit made against him and another defendant over allegedly stealing iOS secrets.
+
+Link: https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak
+
+### 9. Democrats will have ‘field day’ with Trump inquiries if they win House, legal experts say [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Former Fox News host further said he doesn’t ‘want to be a candidate’ for president and aired frustration with Trump Tucker Carlson , the rightwing broadcaster, wants to help build a new political party in the United States, he said in an…
+Investigations into president and corruption charges will get heavy scrutiny if Democrats win majority in midterms Donald Trump’s presidency is facing investigations and corruption charges from a key House Democrat and ex-prosecutors,…
 
-Link: https://www.theguardian.com/us-news/2026/jul/02/tucker-carlson-new-political-party-idea-interview
+Link: https://www.theguardian.com/us-news/2026/jul/03/trump-investigations-democrats-midterms
 
-### 10. "I could feel myself coming apart at the seams": Suicide Squad leads on almost leaving the games industry after its failure [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Crikey, remember Suicide Squad: Kill the Justice League ? That sure was a mess . It was a public mess too, one where there were seemingly some attempts to save the game, but none that could have shifted it away from its inherent flaws.
-
-Link: https://www.rockpapershotgun.com/i-could-feel-myself-coming-apart-at-the-seams-suicide-squad-leads-on-almost-leaving-the-games-industry-after-its-failure
-
-### 11. Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC [9/10]
-**Source:** Ars Technica  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns.
-
-Link: https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/
-
-### 12. Companies Are Throttling Employees’ AI Use Because It’s Too Expensive [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Sources and leaks from Amazon, Adobe, Atlassian, Citi, and more show what is really happening with AI right now: companies are trying to rein in AI use as costs spiral out of control.
-
-Link: https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/
-
-### 13. Going outside in this heat? Follow these guidelines to stay safe [7/10]
+### 10. Former USAID head grieves its closure while hoping for its future [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Man, it's a hot one! Don't go out in this summer's heat wave before you arm yourself with these tips and a really big water bottle.
+Former USAID administrator reflects on a year since USAID's shutdown and the new direction of US foreign aid.
 
-Link: https://www.npr.org/2026/07/02/nx-s1-5878429/heat-wave-stroke-exhaustion-prevention-safety
+Link: https://www.npr.org/2026/07/03/nx-s1-5877408/former-usaid-head-grieves-its-closure-while-hoping-for-its-future
+
+### 11. What AI Earbuds Can’t Replace: The Value of Learning Another Language [8/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Your host in Osaka, Japan, slips on a pair of headphones and suddenly hears your words transformed into flawless Kansai Japanese. Even better, their reply in their native tongue comes through perfectly clear to you.
+
+Link: https://www.the74million.org/article/what-ai-earbuds-cant-replace-the-value-of-learning-another-language/
+
+### 12. Behind the Blog: With Blogs Like These, Who Needs a Private Jet [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+This week, we discuss the Supreme Court, the private jet, and AI on the TV.
+
+Link: https://www.404media.co/behind-the-blog-with-blogs-like-these-who-needs-a-private-jet/
+
+### 13. A hot summer trend in the sharing economy? Rental swimming pools [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+The Airbnb-style company Swimply said there have been about 275,000 private pool reservations so far this year.
+
+Link: https://www.npr.org/2026/07/03/nx-s1-5876505/swimming-pool-rental-sharing-economy-swimply
 
 ## YouTube
 
@@ -188,6 +188,15 @@ Senator Bernie Sanders joins WIRED to answer the internet’s burning questions 
 
 Link: https://www.youtube.com/watch?v=QZXPzxxdOzc
 
+### Egg producers reach settlement over price-fixing complaint [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Some of the country's biggest egg producers have settled a complaint that they artificially raised prices in recent years.
+
+Link: https://www.youtube.com/watch?v=LhXakA4CzdA
+
 ### Mara Brock Akil, creator of TV hits “Girlfriends” and “Being Mary Jane,” comes out with debut novel [6/10]
 **Creator:** NPR  
 **Verdict:** Summary is enough  
@@ -214,15 +223,6 @@ Link: https://www.youtube.com/watch?v=rEKOpqLqQuc
 Rep. Brian Fitzpatrick, R-Pa., and Rep. Tom Suozzi, D-N.Y., explain how they succeeded in recent primary elections despite growing political polarization.
 
 Link: https://www.youtube.com/watch?v=LLhauRNK9Fg
-
-### Paraguay’s government declared a national holiday after the country’s World Cup upset over Germany [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-Germany is a four-time World Cup champion. Paraguay had not won a game outside of the group stage of the tournament in sixteen years.
-
-Link: https://www.youtube.com/watch?v=t6JbBb-FBjY
 
 ### Sonic Frontiers Gets Ported To Switch 2 - And We've Tested It [7/10]
 **Creator:** Digital Foundry  
@@ -287,6 +287,15 @@ Link: https://www.youtube.com/watch?v=hs2ywnT_NqI
 
 Link: https://www.youtube.com/watch?v=LUp5APLmbH8
 
+### Can Map Making Be Fun? Astral Marmot Shows How | RPG Help Desk [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Got questions or tips on making maps (world maps and battle maps)? Then Join us! Jesse Galena avoids making maps whenever possible, so we'll see if Astral Marmot's tips and methods change that.
+
+Link: https://www.youtube.com/watch?v=1IknM0E9aq4
+
 ### PlayStation Just Dealt Game Preservation a Massive Blow | Firelink Podcast [8/10]
 **Creator:** Second Wind  
 **Verdict:** Worth watching  
@@ -295,15 +304,6 @@ Link: https://www.youtube.com/watch?v=LUp5APLmbH8
 This week on Firelink, KC and Marty chat about Sony's decision to move away from physical games. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.fantasycritic.
 
 Link: https://www.youtube.com/watch?v=UnYhAPrkrMQ
-
-### Can Map Making Be Fun? Astral Marmot Shows How | RPG Help Desk [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Got questions or tips on making maps (world maps and battle maps)? Then Join us! Jesse Galena avoids making maps whenever possible, so we'll see if Astral Marmot's tips and methods change that.
-
-Link: https://www.youtube.com/watch?v=1IknM0E9aq4
 
 ### More Fallout 3, Let's See What's Going on In Vault 112 w/ Jack, Jess, and Marty -- Part 4 [7/10]
 **Creator:** Second Wind  

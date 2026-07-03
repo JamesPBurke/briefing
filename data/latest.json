@@ -1,11 +1,51 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-03T09:01:03.200381Z",
-  "generatedAtDisplay": "2026-07-03 05:01 AM EDT",
+  "generatedAt": "2026-07-03T14:00:03.199159Z",
+  "generatedAtDisplay": "2026-07-03 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are I love Baldur's Gate 3's queer representation, but triple-A games can still do so much more to explore lesbian stories with the depth they deserve, Spyware used against MEP investigating Pegasus abuses, report finds, and Silo review – this handsomely produced sci-fi drama grapples with the big questions.",
+  "summary": "Today's sweep leans toward AI / computing, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Assassin's Creed Black Flag Resynced promises smooth handheld sailing with Steam Deck and Steam Machine verification, The Download: a smoking “endgame” and a new Elizabeth Bear story, and As the US turns 250, new citizens feel pride and unease: ‘It’s survival’.",
   "mainItems": [
+    {
+      "title": "Assassin's Creed Black Flag Resynced promises smooth handheld sailing with Steam Deck and Steam Machine verification",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/assassins-creed-black-flag-resynced-promises-smooth-handheld-sailing-with-steam-deck-and-steam-machine-verification",
+      "published": "2026-07-03T12:14:35+00:00",
+      "summary": "As nautical stabbist remake Assassin’s Creed Black Flag Resynced heaves into view of its July 9th release date, it’s already secured one piece of treasure.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "published": "2026-07-03T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "As the US turns 250, new citizens feel pride and unease: ‘It’s survival’",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/jul/03/new-us-citizens-250th-anniversary",
+      "published": "2026-07-03T11:00:27+00:00",
+      "summary": "Amid Trump’s immigration crackdown, thousands take the oath of allegiance in a US ‘not as welcoming as in the past’ In June, Yesica McKeone officially became a US citizen.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+      "published": "2026-07-03T09:00:00+00:00",
+      "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
     {
       "title": "I love Baldur's Gate 3's queer representation, but triple-A games can still do so much more to explore lesbian stories with the depth they deserve",
       "source": "Eurogamer",
@@ -14,16 +54,6 @@
       "published": "2026-07-03T09:00:00+00:00",
       "summary": "Hello! Eurogamer's latest week of features celebrating the intersection of queer culture and gaming concludes today as Caelyn Ellis looks to a future where mainstream games might tell different kinds of lesbian stories.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Spyware used against MEP investigating Pegasus abuses, report finds",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jul/03/spyware-used-against-mep-investigating-pegasus-abuses-report-finds",
-      "published": "2026-07-03T05:00:20+00:00",
-      "summary": "Researchers say Stelios Kouloglou’s device was compromised after he joined European parliamentary committee NSO Group’s hacking software was repeatedly used against a member of the European parliament while he was conducting an…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -37,104 +67,74 @@
       "score": 10
     },
     {
-      "title": "The Download: a startup has a solution for AI’s groupthink problem",
-      "source": "MIT Technology Review",
-      "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-      "published": "2026-07-02T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "How young people feel about American identity, on the nation's 250th birthday",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/07/03/nx-s1-5869537/how-young-people-feel-about-american-identity-on-the-nations-250th-birthday",
-      "published": "2026-07-03T08:11:31+00:00",
-      "summary": "NPR's Student Podcast Challenge asked students around the country to reflect on the nation's 250th anniversary. Here are our winners from the younger grades.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "US heatwave threatens 250th anniversary events and World Cup",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jul/03/heatwave-world-cup-250th-anniversary",
-      "published": "2026-07-03T07:01:21+00:00",
-      "summary": "Weekend’s high temperatures and humidity ‘virtually impossible’ without climate crisis, researchers say The scorching heat blanketing much of the US this week would have been “virtually impossible” if not for the climate crisis,…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Ali Khamenei’s six-day funeral expected to draw millions in Iran",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran",
-      "published": "2026-07-03T05:43:55+00:00",
-      "summary": "Huge scale of funeral for supreme leader across five cities is intended to relay message of resistance to rest of the world In the small hours of Friday the police roadblocks, stalls, posters and army vans were starting to appear across…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
+      "title": "Anthropic wants to develop its own drugs",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
-      "published": "2026-07-02T22:09:33+00:00",
-      "summary": "The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "published": "2026-07-03T13:56:52+00:00",
+      "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "Tucker Carlson floats idea of new political party in the US in interview",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/02/tucker-carlson-new-political-party-idea-interview",
-      "published": "2026-07-02T22:01:32+00:00",
-      "summary": "Former Fox News host further said he doesn’t ‘want to be a candidate’ for president and aired frustration with Trump Tucker Carlson , the rightwing broadcaster, wants to help build a new political party in the United States, he said in an…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "\"I could feel myself coming apart at the seams\": Suicide Squad leads on almost leaving the games industry after its failure",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/i-could-feel-myself-coming-apart-at-the-seams-suicide-squad-leads-on-almost-leaving-the-games-industry-after-its-failure",
-      "published": "2026-07-02T20:26:20+00:00",
-      "summary": "Crikey, remember Suicide Squad: Kill the Justice League ? That sure was a mess . It was a public mess too, one where there were seemingly some attempts to save the game, but none that could have shifted it away from its inherent flaws.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
-      "source": "Ars Technica",
+      "title": "Jon Prosser responds to Apple lawsuit by blaming the other guy",
+      "source": "The Verge",
       "category": "AI / privacy",
-      "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
-      "published": "2026-07-02T14:39:17+00:00",
-      "summary": "FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns.",
+      "url": "https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak",
+      "published": "2026-07-03T13:12:35+00:00",
+      "summary": "YouTuber Jon Prosser has finally filed a formal response to Apple's lawsuit made against him and another defendant over allegedly stealing iOS secrets.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
     },
     {
-      "title": "Companies Are Throttling Employees’ AI Use Because It’s Too Expensive",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/",
-      "published": "2026-07-02T10:00:09+00:00",
-      "summary": "Sources and leaks from Amazon, Adobe, Atlassian, Citi, and more show what is really happening with AI right now: companies are trying to rein in AI use as costs spiral out of control.",
+      "title": "Democrats will have ‘field day’ with Trump inquiries if they win House, legal experts say",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/03/trump-investigations-democrats-midterms",
+      "published": "2026-07-03T12:00:28+00:00",
+      "summary": "Investigations into president and corruption charges will get heavy scrutiny if Democrats win majority in midterms Donald Trump’s presidency is facing investigations and corruption charges from a key House Democrat and ex-prosecutors,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Former USAID head grieves its closure while hoping for its future",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/07/03/nx-s1-5877408/former-usaid-head-grieves-its-closure-while-hoping-for-its-future",
+      "published": "2026-07-03T11:00:00+00:00",
+      "summary": "Former USAID administrator reflects on a year since USAID's shutdown and the new direction of US foreign aid.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Going outside in this heat? Follow these guidelines to stay safe",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/02/nx-s1-5878429/heat-wave-stroke-exhaustion-prevention-safety",
-      "published": "2026-07-02T10:00:00+00:00",
-      "summary": "Man, it's a hot one! Don't go out in this summer's heat wave before you arm yourself with these tips and a really big water bottle.",
+      "title": "What AI Earbuds Can’t Replace: The Value of Learning Another Language",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/what-ai-earbuds-cant-replace-the-value-of-learning-another-language/",
+      "published": "2026-07-03T10:30:00+00:00",
+      "summary": "Your host in Osaka, Japan, slips on a pair of headphones and suddenly hears your words transformed into flawless Kansai Japanese. Even better, their reply in their native tongue comes through perfectly clear to you.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 8
+    },
+    {
+      "title": "Behind the Blog: With Blogs Like These, Who Needs a Private Jet",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/behind-the-blog-with-blogs-like-these-who-needs-a-private-jet/",
+      "published": "2026-07-03T10:00:02+00:00",
+      "summary": "This week, we discuss the Supreme Court, the private jet, and AI on the TV.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
+      "score": 8
+    },
+    {
+      "title": "A hot summer trend in the sharing economy? Rental swimming pools",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/07/03/nx-s1-5876505/swimming-pool-rental-sharing-economy-swimply",
+      "published": "2026-07-03T09:00:00+00:00",
+      "summary": "The Airbnb-style company Swimply said there have been about 275,000 private pool reservations so far this year.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     }
   ],
   "youtube": [
@@ -183,6 +183,17 @@
       "verdict": "Worth watching"
     },
     {
+      "title": "Egg producers reach settlement over price-fixing complaint",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=LhXakA4CzdA",
+      "published": "2026-07-03T13:00:35+00:00",
+      "summary": "Some of the country's biggest egg producers have settled a complaint that they artificially raised prices in recent years.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
       "title": "Mara Brock Akil, creator of TV hits “Girlfriends” and “Being Mary Jane,” comes out with debut novel",
       "source": "NPR",
       "category": "News / analysis",
@@ -214,17 +225,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Paraguay’s government declared a national holiday after the country’s World Cup upset over Germany",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=t6JbBb-FBjY",
-      "published": "2026-07-01T17:15:25+00:00",
-      "summary": "Germany is a four-time World Cup champion. Paraguay had not won a game outside of the group stage of the tournament in sixteen years.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
     },
     {
       "title": "Sonic Frontiers Gets Ported To Switch 2 - And We've Tested It",
@@ -304,6 +304,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Can Map Making Be Fun? Astral Marmot Shows How | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=1IknM0E9aq4",
+      "published": "2026-07-03T10:26:05+00:00",
+      "summary": "Got questions or tips on making maps (world maps and battle maps)? Then Join us! Jesse Galena avoids making maps whenever possible, so we'll see if Astral Marmot's tips and methods change that.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "PlayStation Just Dealt Game Preservation a Massive Blow | Firelink Podcast",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -313,17 +324,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Can Map Making Be Fun? Astral Marmot Shows How | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=1IknM0E9aq4",
-      "published": "2026-07-02T19:09:07+00:00",
-      "summary": "Got questions or tips on making maps (world maps and battle maps)? Then Join us! Jesse Galena avoids making maps whenever possible, so we'll see if Astral Marmot's tips and methods change that.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     },
     {
       "title": "More Fallout 3, Let's See What's Going on In Vault 112 w/ Jack, Jess, and Marty -- Part 4",
