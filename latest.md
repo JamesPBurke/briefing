@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-04T05:00:02.250589Z
+Generated: 2026-07-04T09:11:08.971164Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are A device that revives eyeballs from dead donors could make eye transplants possible, Two people dead and a third injured in shooting at Michigan shopping mall, and US heatwave threatens 250th anniversary events and World Cup.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Could the next great novel be written by AI (and would you even be able to tell)?, What we've been playing - "As a result, I lost all my best clothes and my Switch 2", and A device that revives eyeballs from dead donors could make eye transplants possible.
 
 ## Briefing
 
@@ -33,7 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. A device that revives eyeballs from dead donors could make eye transplants possible [10/10]
+### 1. Could the next great novel be written by AI (and would you even be able to tell)? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+As allegations of LLM use rock the literary and media worlds, linguists explain what really distinguishes human and machine language, while novelists including Jennifer Egan and Jeanette Winterson reflect on the future of fiction in an age…
+
+Link: https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt
+
+### 2. What we've been playing - "As a result, I lost all my best clothes and my Switch 2" [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Hello and welcome back to our regular feature where we write a little about the games we've been playing.
+
+Link: https://www.eurogamer.net/what-weve-been-playing-i-lost-my-best-clothes-and-switch-2
+
+### 3. A device that revives eyeballs from dead donors could make eye transplants possible [9/10]
 **Source:** MIT Technology Review  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -41,24 +59,6 @@ Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-d
 It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body.
 
 Link: https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/
-
-### 2. Two people dead and a third injured in shooting at Michigan shopping mall [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-A fight between two groups of young people who knew each other escalated into gunfire, police said A shooting altercation between two groups of young people at a shopping mall in Dearborn, Michigan, left two people dead and a third injured…
-
-Link: https://www.theguardian.com/us-news/2026/jul/03/two-people-dead-michigan-mall-shooting
-
-### 3. US heatwave threatens 250th anniversary events and World Cup [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Weekend’s high temperatures and humidity ‘virtually impossible’ without climate crisis, researchers say The scorching heat blanketing much of the US this week would have been “virtually impossible” if not for the climate crisis,…
-
-Link: https://www.theguardian.com/us-news/2026/jul/03/heatwave-world-cup-250th-anniversary
 
 ### 4. California Bill Aims To Enlist Educators and Parents in Preventing Youth Suicide [9/10]
 **Source:** The 74  
@@ -96,7 +96,25 @@ This is today’s edition of The Download, our weekday newsletter that provides 
 
 Link: https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/
 
-### 8. Slay the Spire 2 gets 15 powerful new multiplayer cards, while making life easier the first time you install a mod [8/10]
+### 8. ‘There’s excitement in the air’: how America fell back in love with indie cinemas [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+With unexpected programming and a community ethos, independent cinemas across the US are giving multiplexes a run for their money On a quiet street in New York City’s Ridgewood neighborhood stands an unassuming, windowless white building.
+
+Link: https://www.theguardian.com/film/2026/jul/04/america-indie-cinemas-revival
+
+### 9. Trump launches America’s 250th birthday celebrations with partisan attack [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+In a speech at Mount Rushmore on Friday evening, the US president claimed a resurgent ‘communist menace’ posed a severe threat to the country Donald Trump has kicked off America’s 250th birthday weekend with an extraordinary partisan…
+
+Link: https://www.theguardian.com/us-news/2026/jul/04/trump-launches-americas-250th-birthday-celebrations-with-partisan-attack
+
+### 10. Slay the Spire 2 gets 15 powerful new multiplayer cards, while making life easier the first time you install a mod [8/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / design  
 **Why it matters:** Useful if you care about how games actually work as designed experiences.
@@ -105,16 +123,7 @@ Slay the Spire 2 has received a bunch of potent new cards specifically for co-op
 
 Link: https://www.rockpapershotgun.com/slay-the-spire-2-gets-15-powerful-new-multiplayer-cards-while-making-life-easier-the-first-time-you-install-a-mod
 
-### 9. In Thailand’s sex tourism hub, bright lights flash, loud music blares – and underage girls are exploited [8/10]
-**Source:** The Guardian US  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-The death of a Thai girl has highlighted the dangers of the country’s illegal but ‘normalised’ sex tourism trade Sky Kanyarat was playing pool in the early hours of the morning in one of Thailand’s most famous red light districts when a…
-
-Link: https://www.theguardian.com/world/ng-interactive/2026/jul/03/thailand-sex-tourism-hub-girls-exploited-ntwnfb
-
-### 10. Former USAID head grieves its closure while hoping for its future [8/10]
+### 11. Former USAID head grieves its closure while hoping for its future [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -123,7 +132,7 @@ Former USAID administrator reflects on a year since USAID's shutdown and the new
 
 Link: https://www.npr.org/2026/07/03/nx-s1-5877408/former-usaid-head-grieves-its-closure-while-hoping-for-its-future
 
-### 11. Behind the Blog: With Blogs Like These, Who Needs a Private Jet [8/10]
+### 12. Behind the Blog: With Blogs Like These, Who Needs a Private Jet [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -131,15 +140,6 @@ Link: https://www.npr.org/2026/07/03/nx-s1-5877408/former-usaid-head-grieves-its
 This week, we discuss the Supreme Court, the private jet, and AI on the TV.
 
 Link: https://www.404media.co/behind-the-blog-with-blogs-like-these-who-needs-a-private-jet/
-
-### 12. A hot summer trend in the sharing economy? Rental swimming pools [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-The Airbnb-style company Swimply said there have been about 275,000 private pool reservations so far this year.
-
-Link: https://www.npr.org/2026/07/03/nx-s1-5876505/swimming-pool-rental-sharing-economy-swimply
 
 ### 13. What AI Earbuds Can’t Replace: The Value of Learning Another Language [7/10]
 **Source:** The 74  
@@ -160,15 +160,6 @@ Link: https://www.the74million.org/article/what-ai-earbuds-cant-replace-the-valu
 ❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://arxiv.org/abs/2506.06494 Sources: https://www.youtube.com/shorts/Tx7167DXr8U https://www.youtube.
 
 Link: https://www.youtube.com/watch?v=uO5cvkzh3P0
-
-### AI Just Entered A New Era [7/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers GLM 5.2: https://z.ai/blog/glm-5.
-
-Link: https://www.youtube.com/watch?v=qks6dGQFd_c
 
 ### Why AI Tokens are so Expensive - Computerphile [8/10]
 **Creator:** Computerphile  
@@ -197,9 +188,9 @@ _Enola Holmes_ co-stars Millie Bobby Brown & Louis Partridge visit WIRED to answ
 
 Link: https://www.youtube.com/watch?v=E1hfT0mDWgM
 
-### Acclaimed TV showrunner and writer Mara Brock Akil talks about her debut novel on sexual assault [8/10]
+### Acclaimed TV showrunner and writer Mara Brock Akil talks about her debut novel on sexual assault [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Acclaimed TV showrunner and writer, Mara Brock Akil says her debut novel, “The Revelation of Dionne Daphne," is an invitation to talk about difficult things.
@@ -296,9 +287,9 @@ Link: https://www.youtube.com/watch?v=p2QWqBPevrc
 
 Link: https://www.youtube.com/watch?v=uNai76KbL5w
 
-### Friday Meccha Chameleon Shenanigans [7/10]
+### Friday Meccha Chameleon Shenanigans [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Yahtzee missed our last Meccha Chameleon stream while he was on holiday, so he's joining us for another round of hide-and-seek. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
