@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-04T09:11:08.971164Z
+Generated: 2026-07-04T14:00:02.409606Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Could the next great novel be written by AI (and would you even be able to tell)?, What we've been playing - "As a result, I lost all my best clothes and my Switch 2", and A device that revives eyeballs from dead donors could make eye transplants possible.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Washington DC’s Fourth of July parade canceled due to soaring temperature, Now is the winter of your discontent, console blaggards: the RPS team reflect on PlayStation going digital-only, and ‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes.
 
 ## Briefing
 
@@ -33,7 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Could the next great novel be written by AI (and would you even be able to tell)? [10/10]
+### 1. Washington DC’s Fourth of July parade canceled due to soaring temperature [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+National Weather Service issued an extreme heat warning as high temperatures have paralyzed the east coast Organizers of Saturday’s Independence Day parade in Washington DC abruptly canceled the event late on the eve of the event, with…
+
+Link: https://www.theguardian.com/us-news/2026/jul/04/washington-dc-fourth-of-july-parade-canceled-extreme-heat
+
+### 2. Now is the winter of your discontent, console blaggards: the RPS team reflect on PlayStation going digital-only [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week brought the news that Sony will stop selling physical PlayStation games at the start of 2028 . Not just for their own games, but third-party, too.
+
+Link: https://www.rockpapershotgun.com/now-is-the-winter-of-your-discontent-console-blaggards-the-rps-team-reflect-on-playstation-going-digital-only
+
+### 3. ‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSF Fatima is losing count of the number of drone attacks on the besieged city of El Obeid in Sudan, but says the attacks this past…
+
+Link: https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes
+
+### 4. Born on the Fourth of July: mixed feelings for people who share a birthday with the US’s 250th anniversary [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Guardian readers on celebrating on Independence Day every year – and especially this year This Fourth of July, the United States will mark the 250th anniversary of its independence from Britain, a milestone that the Donald Trump…
+
+Link: https://www.theguardian.com/us-news/2026/jul/04/fourth-of-july-birthdays-250th-anniversary
+
+### 5. World Cup 2026 power rankings: undisputed No 1, co-hosts surge and giants fall [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+We assess the standing of the nations who played in the tournament’s last 32 before the next round of games begins Les Bleus look unstoppable – all six of our judges ranked them No 1.
+
+Link: https://www.theguardian.com/football/2026/jul/04/world-cup-2026-power-rankings-last-32
+
+### 6. What Mexico fans feel about the World Cup – and England [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Ahead of their crunch last-16 match, we spoke to Mexicans and people living in the country about their experience and expectations of their tournament Mexico face England in the round of 16 after four games, four wins and not a single goal…
+
+Link: https://www.theguardian.com/football/2026/jul/04/what-mexico-fans-feel-about-the-world-cup-and-england
+
+### 7. How AI is changing language [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,79 +96,43 @@ As allegations of LLM use rock the literary and media worlds, linguists explain 
 
 Link: https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt
 
-### 2. What we've been playing - "As a result, I lost all my best clothes and my Switch 2" [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Hello and welcome back to our regular feature where we write a little about the games we've been playing.
-
-Link: https://www.eurogamer.net/what-weve-been-playing-i-lost-my-best-clothes-and-switch-2
-
-### 3. A device that revives eyeballs from dead donors could make eye transplants possible [9/10]
-**Source:** MIT Technology Review  
+### 8. German riot police clash with protesters hoping to block far-right AfD conference [9/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body.
+Thousands of police deployed to Erfurt in central Germany as AfD holds conference on key Nazi date Riot police have clashed with opponents of the far-right Alternative für Deutschland (AfD) party on the streets of Erfurt in Germany, where…
 
-Link: https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/
+Link: https://www.theguardian.com/world/2026/jul/04/german-riot-police-clash-protesters-block-far-right-afd-conference
 
-### 4. California Bill Aims To Enlist Educators and Parents in Preventing Youth Suicide [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 9. CDC emails reveal challenges facing its next director [9/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-Before Michaella Huck graduated from high school in 2018, she struggled with depression and anxiety and didn’t know where to get help. She’d hear stories of students who died on “suicide hill” in her Los Angeles neighborhood of San Pedro.
+Emails from CDC officials released by Sen. Bernie Sanders reveal agency leaders dealing with political pressures during the Trump era and highlight challenges for the next director.
 
-Link: https://www.the74million.org/article/california-bill-aims-to-enlist-educators-and-parents-in-preventing-youth-suicide/
+Link: https://www.npr.org/2026/07/04/nx-s1-5876507/cdc-emails-reveal-challenges-facing-its-next-director
 
-### 5. Jon Prosser responds to Apple lawsuit by blaming the other guy [9/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-YouTuber Jon Prosser has finally filed a formal response to Apple's lawsuit made against him and another defendant over allegedly stealing iOS secrets.
-
-Link: https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak
-
-### 6. Assassin's Creed Black Flag Resynced promises smooth handheld sailing with Steam Deck and Steam Machine verification [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-As nautical stabbist remake Assassin’s Creed Black Flag Resynced heaves into view of its July 9th release date, it’s already secured one piece of treasure.
-
-Link: https://www.rockpapershotgun.com/assassins-creed-black-flag-resynced-promises-smooth-handheld-sailing-with-steam-deck-and-steam-machine-verification
-
-### 7. The Download: a smoking “endgame” and a new Elizabeth Bear story [9/10]
-**Source:** MIT Technology Review  
+### 10. When the ability to smell goes away [9/10]
+**Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway.
+Disturbances in this critical sense are often linked to problems with brain health.
 
-Link: https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/
+Link: https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/
 
-### 8. ‘There’s excitement in the air’: how America fell back in love with indie cinemas [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 11. SOLVED: The Case of the Missing Megalodon [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-With unexpected programming and a community ethos, independent cinemas across the US are giving multiplexes a run for their money On a quiet street in New York City’s Ridgewood neighborhood stands an unassuming, windowless white building.
+A short-statured human relative that lived on a lush island probably didn’t wield fire or hunt big game, but it did walk in the footsteps of dragons, according to a new study.
 
-Link: https://www.theguardian.com/film/2026/jul/04/america-indie-cinemas-revival
+Link: https://www.404media.co/solved-the-case-of-the-missing-megalodon/
 
-### 9. Trump launches America’s 250th birthday celebrations with partisan attack [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-In a speech at Mount Rushmore on Friday evening, the US president claimed a resurgent ‘communist menace’ posed a severe threat to the country Donald Trump has kicked off America’s 250th birthday weekend with an extraordinary partisan…
-
-Link: https://www.theguardian.com/us-news/2026/jul/04/trump-launches-americas-250th-birthday-celebrations-with-partisan-attack
-
-### 10. Slay the Spire 2 gets 15 powerful new multiplayer cards, while making life easier the first time you install a mod [8/10]
+### 12. Slay the Spire 2 gets 15 powerful new multiplayer cards, while making life easier the first time you install a mod [8/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / design  
 **Why it matters:** Useful if you care about how games actually work as designed experiences.
@@ -123,32 +141,14 @@ Slay the Spire 2 has received a bunch of potent new cards specifically for co-op
 
 Link: https://www.rockpapershotgun.com/slay-the-spire-2-gets-15-powerful-new-multiplayer-cards-while-making-life-easier-the-first-time-you-install-a-mod
 
-### 11. Former USAID head grieves its closure while hoping for its future [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Former USAID administrator reflects on a year since USAID's shutdown and the new direction of US foreign aid.
-
-Link: https://www.npr.org/2026/07/03/nx-s1-5877408/former-usaid-head-grieves-its-closure-while-hoping-for-its-future
-
-### 12. Behind the Blog: With Blogs Like These, Who Needs a Private Jet [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-This week, we discuss the Supreme Court, the private jet, and AI on the TV.
-
-Link: https://www.404media.co/behind-the-blog-with-blogs-like-these-who-needs-a-private-jet/
-
-### 13. What AI Earbuds Can’t Replace: The Value of Learning Another Language [7/10]
+### 13. State Museum Debuts Exhibit Highlighting SC’s Role in Revolutionary War [7/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Your host in Osaka, Japan, slips on a pair of headphones and suddenly hears your words transformed into flawless Kansai Japanese. Even better, their reply in their native tongue comes through perfectly clear to you.
+COLUMBIA, S.C. — Soon after Patriots defended Charles Town at Fort Moultrie in 1776, the regiment received a flag embroidered with acorns, a battle drum and an early version of the crescent that would eventually adorn the state flag.
 
-Link: https://www.the74million.org/article/what-ai-earbuds-cant-replace-the-value-of-learning-another-language/
+Link: https://www.the74million.org/article/state-museum-debuts-exhibit-highlighting-scs-role-in-revolutionary-war/
 
 ## YouTube
 

@@ -1,13 +1,73 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-04T09:11:08.971164Z",
-  "generatedAtDisplay": "2026-07-04 05:11 AM EDT",
+  "generatedAt": "2026-07-04T14:00:02.409606Z",
+  "generatedAtDisplay": "2026-07-04 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Could the next great novel be written by AI (and would you even be able to tell)?, What we've been playing - \"As a result, I lost all my best clothes and my Switch 2\", and A device that revives eyeballs from dead donors could make eye transplants possible.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Washington DC’s Fourth of July parade canceled due to soaring temperature, Now is the winter of your discontent, console blaggards: the RPS team reflect on PlayStation going digital-only, and ‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes.",
   "mainItems": [
     {
-      "title": "Could the next great novel be written by AI (and would you even be able to tell)?",
+      "title": "Washington DC’s Fourth of July parade canceled due to soaring temperature",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/washington-dc-fourth-of-july-parade-canceled-extreme-heat",
+      "published": "2026-07-04T13:31:41+00:00",
+      "summary": "National Weather Service issued an extreme heat warning as high temperatures have paralyzed the east coast Organizers of Saturday’s Independence Day parade in Washington DC abruptly canceled the event late on the eve of the event, with…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Now is the winter of your discontent, console blaggards: the RPS team reflect on PlayStation going digital-only",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/now-is-the-winter-of-your-discontent-console-blaggards-the-rps-team-reflect-on-playstation-going-digital-only",
+      "published": "2026-07-04T13:00:00+00:00",
+      "summary": "This week brought the news that Sony will stop selling physical PlayStation games at the start of 2028 . Not just for their own games, but third-party, too.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+      "published": "2026-07-04T12:43:43+00:00",
+      "summary": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSF Fatima is losing count of the number of drone attacks on the besieged city of El Obeid in Sudan, but says the attacks this past…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Born on the Fourth of July: mixed feelings for people who share a birthday with the US’s 250th anniversary",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/fourth-of-july-birthdays-250th-anniversary",
+      "published": "2026-07-04T11:00:11+00:00",
+      "summary": "Guardian readers on celebrating on Independence Day every year – and especially this year This Fourth of July, the United States will mark the 250th anniversary of its independence from Britain, a milestone that the Donald Trump…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "World Cup 2026 power rankings: undisputed No 1, co-hosts surge and giants fall",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/football/2026/jul/04/world-cup-2026-power-rankings-last-32",
+      "published": "2026-07-04T09:00:10+00:00",
+      "summary": "We assess the standing of the nations who played in the tournament’s last 32 before the next round of games begins Les Bleus look unstoppable – all six of our judges ranked them No 1.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "What Mexico fans feel about the World Cup – and England",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/football/2026/jul/04/what-mexico-fans-feel-about-the-world-cup-and-england",
+      "published": "2026-07-04T09:00:09+00:00",
+      "summary": "Ahead of their crunch last-16 match, we spoke to Mexicans and people living in the country about their experience and expectations of their tournament Mexico face England in the round of 16 after four games, four wins and not a single goal…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "How AI is changing language",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt",
@@ -17,83 +77,43 @@
       "score": 10
     },
     {
-      "title": "What we've been playing - \"As a result, I lost all my best clothes and my Switch 2\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-i-lost-my-best-clothes-and-switch-2",
-      "published": "2026-07-04T07:00:00+00:00",
-      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
-      "source": "MIT Technology Review",
+      "title": "German riot police clash with protesters hoping to block far-right AfD conference",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-      "published": "2026-07-03T17:34:37+00:00",
-      "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body.",
+      "url": "https://www.theguardian.com/world/2026/jul/04/german-riot-police-clash-protesters-block-far-right-afd-conference",
+      "published": "2026-07-04T13:17:50+00:00",
+      "summary": "Thousands of police deployed to Erfurt in central Germany as AfD holds conference on key Nazi date Riot police have clashed with opponents of the far-right Alternative für Deutschland (AfD) party on the streets of Erfurt in Germany, where…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
-      "title": "California Bill Aims To Enlist Educators and Parents in Preventing Youth Suicide",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/california-bill-aims-to-enlist-educators-and-parents-in-preventing-youth-suicide/",
-      "published": "2026-07-03T16:30:00+00:00",
-      "summary": "Before Michaella Huck graduated from high school in 2018, she struggled with depression and anxiety and didn’t know where to get help. She’d hear stories of students who died on “suicide hill” in her Los Angeles neighborhood of San Pedro.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "title": "CDC emails reveal challenges facing its next director",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/07/04/nx-s1-5876507/cdc-emails-reveal-challenges-facing-its-next-director",
+      "published": "2026-07-04T11:43:45+00:00",
+      "summary": "Emails from CDC officials released by Sen. Bernie Sanders reveal agency leaders dealing with political pressures during the Trump era and highlight challenges for the next director.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 9
     },
     {
-      "title": "Jon Prosser responds to Apple lawsuit by blaming the other guy",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak",
-      "published": "2026-07-03T13:12:35+00:00",
-      "summary": "YouTuber Jon Prosser has finally filed a formal response to Apple's lawsuit made against him and another defendant over allegedly stealing iOS secrets.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "Assassin's Creed Black Flag Resynced promises smooth handheld sailing with Steam Deck and Steam Machine verification",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/assassins-creed-black-flag-resynced-promises-smooth-handheld-sailing-with-steam-deck-and-steam-machine-verification",
-      "published": "2026-07-03T12:14:35+00:00",
-      "summary": "As nautical stabbist remake Assassin’s Creed Black Flag Resynced heaves into view of its July 9th release date, it’s already secured one piece of treasure.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-      "source": "MIT Technology Review",
+      "title": "When the ability to smell goes away",
+      "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
-      "published": "2026-07-03T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "url": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
+      "published": "2026-07-04T11:04:31+00:00",
+      "summary": "Disturbances in this critical sense are often linked to problems with brain health.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "‘There’s excitement in the air’: how America fell back in love with indie cinemas",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/film/2026/jul/04/america-indie-cinemas-revival",
-      "published": "2026-07-04T09:00:10+00:00",
-      "summary": "With unexpected programming and a community ethos, independent cinemas across the US are giving multiplexes a run for their money On a quiet street in New York City’s Ridgewood neighborhood stands an unassuming, windowless white building.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
-      "title": "Trump launches America’s 250th birthday celebrations with partisan attack",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/trump-launches-americas-250th-birthday-celebrations-with-partisan-attack",
-      "published": "2026-07-04T05:30:35+00:00",
-      "summary": "In a speech at Mount Rushmore on Friday evening, the US president claimed a resurgent ‘communist menace’ posed a severe threat to the country Donald Trump has kicked off America’s 250th birthday weekend with an extraordinary partisan…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "SOLVED: The Case of the Missing Megalodon",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/solved-the-case-of-the-missing-megalodon/",
+      "published": "2026-07-04T10:00:09+00:00",
+      "summary": "A short-statured human relative that lived on a lush island probably didn’t wield fire or hunt big game, but it did walk in the footsteps of dragons, according to a new study.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -107,32 +127,12 @@
       "score": 8
     },
     {
-      "title": "Former USAID head grieves its closure while hoping for its future",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/03/nx-s1-5877408/former-usaid-head-grieves-its-closure-while-hoping-for-its-future",
-      "published": "2026-07-03T11:00:00+00:00",
-      "summary": "Former USAID administrator reflects on a year since USAID's shutdown and the new direction of US foreign aid.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Behind the Blog: With Blogs Like These, Who Needs a Private Jet",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/behind-the-blog-with-blogs-like-these-who-needs-a-private-jet/",
-      "published": "2026-07-03T10:00:02+00:00",
-      "summary": "This week, we discuss the Supreme Court, the private jet, and AI on the TV.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "What AI Earbuds Can’t Replace: The Value of Learning Another Language",
+      "title": "State Museum Debuts Exhibit Highlighting SC’s Role in Revolutionary War",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/what-ai-earbuds-cant-replace-the-value-of-learning-another-language/",
-      "published": "2026-07-03T10:30:00+00:00",
-      "summary": "Your host in Osaka, Japan, slips on a pair of headphones and suddenly hears your words transformed into flawless Kansai Japanese. Even better, their reply in their native tongue comes through perfectly clear to you.",
+      "url": "https://www.the74million.org/article/state-museum-debuts-exhibit-highlighting-scs-role-in-revolutionary-war/",
+      "published": "2026-07-04T10:30:00+00:00",
+      "summary": "COLUMBIA, S.C. — Soon after Patriots defended Charles Town at Fort Moultrie in 1776, the regiment received a flag embroidered with acorns, a battle drum and an early version of the crescent that would eventually adorn the state flag.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 7
     }
@@ -782,6 +782,6 @@
     "mainCount": 13,
     "youtubeCount": 22,
     "trailerCount": 26,
-    "sourceCount": 20
+    "sourceCount": 18
   }
 }
