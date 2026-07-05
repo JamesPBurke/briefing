@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-05T05:00:02.525129Z
+Generated: 2026-07-05T09:00:16.063560Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Founder of prominent underground church released from prison in China, How AI is changing language, and Build a medieval castle piece by piece and then defend it from enemy knights in the city builder and RTS Bergfried.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Mysterious debris found on Queensland beaches could be ‘space balls’ – and may contain toxic rocket fuel, From ‘heat panic’ to ‘sacrificed at the altar’: Europe’s air conditioning culture wars heat up, and Sony assures developers they can still order some games on disc after 2027 – but there's a catch.
 
 ## Briefing
 
@@ -33,7 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Founder of prominent underground church released from prison in China [10/10]
+### 1. Mysterious debris found on Queensland beaches could be ‘space balls’ – and may contain toxic rocket fuel [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Australian Space Agency working to confirm origin of objects as space archaeologist says they may be connected to a rocket launch Get our breaking news email , free app or daily news podcast Six pieces of suspected space debris found…
+
+Link: https://www.theguardian.com/australia-news/2026/jul/05/mysterious-debris-found-on-queensland-beaches-could-be-space-balls-and-may-contain-toxic-rocket-fuel
+
+### 2. From ‘heat panic’ to ‘sacrificed at the altar’: Europe’s air conditioning culture wars heat up [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Cooling down has become political amid record highs, as experts say row is distracting from work of protecting lives As the afternoon heat rose to a dizzying 41.
+
+Link: https://www.theguardian.com/environment/2026/jul/05/europe-air-conditioning-culture-wars-heat-up
+
+### 3. Sony assures developers they can still order some games on disc after 2027 – but there's a catch [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Sony is reportedly informing developers that they can still order disc games beyond January 2028 providing the game releases before its cut-off date. Read more
+
+Link: https://www.eurogamer.net/playstation-will-print-discs-after-2028-catch
+
+### 4. The immorality of world leaders is contagious. Thank heavens for the pope | Simon Tisdall [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+In a political wasteland dominated by billionaires, war criminals and mega-corporations, the head of the Catholic church is a rare figure of moral leadership What do Donald Trump, Vladimir Putin and Benjamin Netanyahu have in common?…
+
+Link: https://www.theguardian.com/commentisfree/2026/jul/05/world-leaders-immorality-pope-leo-war-criminals-corporations-catholic-church
+
+### 5. Founder of prominent underground church released from prison in China [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -42,25 +78,7 @@ Ezra Jin, founder of Zion Church, lands in the US and reunites with family who a
 
 Link: https://www.theguardian.com/world/2026/jul/05/founder-of-prominent-underground-church-released-from-prison-in-china
 
-### 2. How AI is changing language [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-As allegations of LLM use rock the literary and media worlds, linguists explain what really distinguishes human and machine writing, while novelists including Jennifer Egan and Jeanette Winterson reflect on the future of fiction in an age…
-
-Link: https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt
-
-### 3. Build a medieval castle piece by piece and then defend it from enemy knights in the city builder and RTS Bergfried [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-How about a two-for-one today? Perhaps something from the RTS tower defence and city builder departments? Oh, and we'll throw in a medieval flavouring too, on the house.
-
-Link: https://www.rockpapershotgun.com/build-a-medieval-castle-piece-by-piece-and-then-defend-it-from-enemy-knights-in-the-city-builder-and-rts-bergfried
-
-### 4. Review: Supergirl is not the disaster its low box office suggests [9/10]
+### 6. Review: Supergirl is not the disaster its low box office suggests [9/10]
 **Source:** Ars Technica  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,7 +87,7 @@ It’s a pretty good movie, but it needed to be a great movie to thrive in an ov
 
 Link: https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/
 
-### 5. Dragon Age writer David Gaider's next game is a light-hearted heist RPG, if he can get the funding for it [9/10]
+### 7. Dragon Age writer David Gaider's next game is a light-hearted heist RPG, if he can get the funding for it [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -78,7 +96,7 @@ Since being founded back in 2017, Summerfall Studios have only managed to put ou
 
 Link: https://www.rockpapershotgun.com/dragon-age-writer-david-gaiders-next-game-is-a-light-hearted-heist-rpg-if-he-can-get-the-funding-for-it
 
-### 6. Now is the winter of your discontent, console blaggards: the RPS team reflect on PlayStation going digital-only [9/10]
+### 8. Now is the winter of your discontent, console blaggards: the RPS team reflect on PlayStation going digital-only [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -86,24 +104,6 @@ Link: https://www.rockpapershotgun.com/dragon-age-writer-david-gaiders-next-game
 This week brought the news that Sony will stop selling physical PlayStation games at the start of 2028 . Not just for their own games, but third-party, too.
 
 Link: https://www.rockpapershotgun.com/now-is-the-winter-of-your-discontent-console-blaggards-the-rps-team-reflect-on-playstation-going-digital-only
-
-### 7. World Cup 2026 power rankings: undisputed No 1, co-hosts surge and giants fall [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-We assess the standing of the nations who played in the tournament’s last 32 before the next round of games begins Les Bleus look unstoppable – all six of our judges ranked them No 1.
-
-Link: https://www.theguardian.com/football/2026/jul/04/world-cup-2026-power-rankings-last-32
-
-### 8. Trump hails ‘golden age of America’ in speech marking nation’s 250th anniversary [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-In late-night campaign-style speech in Washington DC, US president vows to take the US ‘to new levels’ Donald Trump has hailed the “unmatched achievement and unlimited potential” of the US in a triumphalist address marking the country’s…
-
-Link: https://www.theguardian.com/us-news/2026/jul/04/trump-speech-dc-evacuation-thunderstorm
 
 ### 9. White House deletes thousands of web pages about energy conservation as heatwave slams US [8/10]
 **Source:** The Verge  
