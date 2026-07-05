@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-05T09:00:16.063560Z
+Generated: 2026-07-05T14:00:02.266225Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Mysterious debris found on Queensland beaches could be ‘space balls’ – and may contain toxic rocket fuel, From ‘heat panic’ to ‘sacrificed at the altar’: Europe’s air conditioning culture wars heat up, and Sony assures developers they can still order some games on disc after 2027 – but there's a catch.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Education / pedagogy. The strongest items in this run are How Keurig saved — and ruined — your coffee, Nancy Pelosi’s husband could face charge after hitting parked car in California, and Shot by a robber, I was bleeding out on the way to hospital – and terrified the doctors would leave me to die.
 
 ## Briefing
 
@@ -33,34 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Mysterious debris found on Queensland beaches could be ‘space balls’ – and may contain toxic rocket fuel [10/10]
+### 1. How Keurig saved — and ruined — your coffee [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Before Keurig, the coffee in your office was almost certainly terrible. Old, burned, made by someone who would rather poorly eyeball than properly measure. Just altogether gross.
+
+Link: https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history
+
+### 2. Nancy Pelosi’s husband could face charge after hitting parked car in California [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Australian Space Agency working to confirm origin of objects as space archaeologist says they may be connected to a rocket launch Get our breaking news email , free app or daily news podcast Six pieces of suspected space debris found…
+Paul Pelosi could face misdemeanor charges over crash that left car with ‘major’ damage, authorities say The husband of former House speaker Nancy Pelosi was involved in a hit-and-run car crash in California that left a parked vehicle with…
 
-Link: https://www.theguardian.com/australia-news/2026/jul/05/mysterious-debris-found-on-queensland-beaches-could-be-space-balls-and-may-contain-toxic-rocket-fuel
+Link: https://www.theguardian.com/us-news/2026/jul/05/paul-pelosi-car-crash-california
 
-### 2. From ‘heat panic’ to ‘sacrificed at the altar’: Europe’s air conditioning culture wars heat up [10/10]
+### 3. Shot by a robber, I was bleeding out on the way to hospital – and terrified the doctors would leave me to die [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Jesús Piñero grew up with the sound of gunfire, but thought he would be safe on the bus taking him to his home in Caracas.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/jul/05/shot-by-a-robber-i-was-bleeding-out-on-the-way-to-hospital-and-terrified-the-doctors-would-leave-me-to-die
+
+### 4. ‘The risk is Russia becomes desperate’: the Swedish Baltic Sea island preparing for invasion [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Cooling down has become political amid record highs, as experts say row is distracting from work of protecting lives As the afternoon heat rose to a dizzying 41.
+Civilian resilience initiatives and young military conscripts are being readied should Putin hope to test Nato’s resolve Only four months ago, Ella Adman had just finished school and had never before held a gun.
 
-Link: https://www.theguardian.com/environment/2026/jul/05/europe-air-conditioning-culture-wars-heat-up
+Link: https://www.theguardian.com/world/2026/jul/05/gotland-russia-sweden-ramps-up-defence-baltic-sea-island
 
-### 3. Sony assures developers they can still order some games on disc after 2027 – but there's a catch [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 5. These high school students won NPR's America 250 Student Podcast Challenge [10/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Sony is reportedly informing developers that they can still order disc games beyond January 2028 providing the game releases before its cut-off date. Read more
+We asked students around the country to reflect on the phrase "life, liberty and the pursuit of happiness," and recorded what the high schoolers had to say. Note: This piece mentions self harm.
 
-Link: https://www.eurogamer.net/playstation-will-print-discs-after-2028-catch
+Link: https://www.npr.org/2026/07/05/nx-s1-5868595/these-high-school-students-won-nprs-america-250-student-podcast-challenge
 
-### 4. The immorality of world leaders is contagious. Thank heavens for the pope | Simon Tisdall [9/10]
+### 6. Bipartisan bill fails to protect US consumers from datacenters’ true costs, critics warn [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Experts say Ratepayer Protection Act ‘posing as a consumer protection measure’ and will raise prices on working people The bipartisan Ratepayer Protection Act , designed to shield individuals from soaring electricity prices amid the…
+
+Link: https://www.theguardian.com/us-news/2026/jul/05/ratepayer-protection-act-datacenters
+
+### 7. Feeling stuck? Try ‘productivity snacking’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Whether you’re learning guitar or trying to get fit, short bursts of effort can work wonders You could call it the tamest of mid-life crises, but as I turned 40 last year, I decided to devote myself to a long-neglected ambition – learning…
+
+Link: https://www.theguardian.com/books/2026/jul/05/feeling-stuck-try-productivity-snacking
+
+### 8. California School Libraries Blindsided by ‘Catastrophic’ Budget Cut [10/10]
+**Source:** The 74  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+This story was originally published by CalMatters. Sign up for their newsletters.
+
+Link: https://www.the74million.org/article/california-school-libraries-blindsided-by-catastrophic-budget-cut/
+
+### 9. At least eight shot, including four children, in New York’s Coney Island [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Incident took place late in the evening on Independence Day, reports say, with woman said to be in critical condition At ⁠least eight people, including four children, were shot and injured during the ⁠US ​Independence Day holiday in New…
+
+Link: https://www.theguardian.com/us-news/2026/jul/05/shooting-children-new-york-coney-island
+
+### 10. The immorality of world leaders is contagious. Thank heavens for the pope | Simon Tisdall [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -69,25 +123,7 @@ In a political wasteland dominated by billionaires, war criminals and mega-corpo
 
 Link: https://www.theguardian.com/commentisfree/2026/jul/05/world-leaders-immorality-pope-leo-war-criminals-corporations-catholic-church
 
-### 5. Founder of prominent underground church released from prison in China [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Ezra Jin, founder of Zion Church, lands in the US and reunites with family who are ‘overwhelmed with joy’ The founder of one of China’s most prominent underground churches has been released from prison and reunited with his family in the…
-
-Link: https://www.theguardian.com/world/2026/jul/05/founder-of-prominent-underground-church-released-from-prison-in-china
-
-### 6. Review: Supergirl is not the disaster its low box office suggests [9/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-It’s a pretty good movie, but it needed to be a great movie to thrive in an oversaturated superhero market.
-
-Link: https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/
-
-### 7. Dragon Age writer David Gaider's next game is a light-hearted heist RPG, if he can get the funding for it [9/10]
+### 11. Dragon Age writer David Gaider's next game is a light-hearted heist RPG, if he can get the funding for it [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -96,34 +132,16 @@ Since being founded back in 2017, Summerfall Studios have only managed to put ou
 
 Link: https://www.rockpapershotgun.com/dragon-age-writer-david-gaiders-next-game-is-a-light-hearted-heist-rpg-if-he-can-get-the-funding-for-it
 
-### 8. Now is the winter of your discontent, console blaggards: the RPS team reflect on PlayStation going digital-only [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week brought the news that Sony will stop selling physical PlayStation games at the start of 2028 . Not just for their own games, but third-party, too.
-
-Link: https://www.rockpapershotgun.com/now-is-the-winter-of-your-discontent-console-blaggards-the-rps-team-reflect-on-playstation-going-digital-only
-
-### 9. White House deletes thousands of web pages about energy conservation as heatwave slams US [8/10]
-**Source:** The Verge  
+### 12. Chemical accidents rise as Trump administration proposes weakening safety rules [8/10]
+**Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-The US Department of Energy reportedly deleted about 6,000 pages related to energy conservation as a historic heatwave tears across the country.
+Chemicals from accidents that injured or killed people increased by nearly 50 percent in recent years.
 
-Link: https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion
+Link: https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/
 
-### 10. Native Hawaiian Teens Learn To ‘Make Change’ for the Islands [8/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-A heavy, authoritative thud echoed through the Hawai‘i House chamber as Speaker Rilynn Kawaikoʻolilihilihiokalikolehua Perez brought down the gavel.
-
-Link: https://www.the74million.org/article/native-hawaiian-teens-learn-to-make-change-for-the-islands/
-
-### 11. Move over Chutes & Ladders: Schisto & Ladders has educational value plus worms [8/10]
+### 13. Move over Chutes & Ladders: Schisto & Ladders has educational value plus worms [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -131,24 +149,6 @@ Link: https://www.the74million.org/article/native-hawaiian-teens-learn-to-make-c
 Spread by parasitic worms that can infect via a splash of water, schistosomiasis causes debilitating symptoms. It hits kids hard. A board game teaches how to prevent it.
 
 Link: https://www.npr.org/2026/07/04/g-s1-129679/chutes-ladders-schistosomiasis-worms-parasites
-
-### 12. SOLVED: The Case of the Missing Megalodon [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-A short-statured human relative that lived on a lush island probably didn’t wield fire or hunt big game, but it did walk in the footsteps of dragons, according to a new study.
-
-Link: https://www.404media.co/solved-the-case-of-the-missing-megalodon/
-
-### 13. State Museum Debuts Exhibit Highlighting SC’s Role in Revolutionary War [6/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-COLUMBIA, S.C. — Soon after Patriots defended Charles Town at Fort Moultrie in 1776, the regiment received a flag embroidered with acorns, a battle drum and an early version of the crescent that would eventually adorn the state flag.
-
-Link: https://www.the74million.org/article/state-museum-debuts-exhibit-highlighting-scs-role-in-revolutionary-war/
 
 ## YouTube
 
@@ -206,23 +206,14 @@ Some of the country's biggest egg producers have settled a complaint that they a
 
 Link: https://www.youtube.com/watch?v=LhXakA4CzdA
 
-### Mara Brock Akil, creator of TV hits “Girlfriends” and “Being Mary Jane,” comes out with debut novel [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-Mara Brock Akil is the creator behind a long list of TV hits from “Girlfriends” to “Being Mary Jane,” but her latest project is on the page. Her debut novel, “The Revelation of Dionne Daphne," tackles topics such as surviving sexual abuse.
-
-Link: https://www.youtube.com/watch?v=kd7HflhHHqA
-
-### Florida is expanding a state program to help pay for swim lessons, mainly for kids with autism [7/10]
-**Creator:** NPR  
+### Big Delays On All Valve Hardware - What's Going On? [7/10]
+**Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
-Florida is expanding a state program to help pay for swim lessons for its youngest, and it’s going to give priority to kids with autism because they are 160 times more likely than other children to drown.
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
-Link: https://www.youtube.com/watch?v=rEKOpqLqQuc
+Link: https://www.youtube.com/watch?v=goDt-fQ0t0c
 
 ### GTA 6 - The "Code In A Box" Physical Release Presents Big Issues [7/10]
 **Creator:** Digital Foundry  
