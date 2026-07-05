@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-04T14:00:02.409606Z
+Generated: 2026-07-05T05:00:02.525129Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Washington DC’s Fourth of July parade canceled due to soaring temperature, Now is the winter of your discontent, console blaggards: the RPS team reflect on PlayStation going digital-only, and ‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Founder of prominent underground church released from prison in China, How AI is changing language, and Build a medieval castle piece by piece and then defend it from enemy knights in the city builder and RTS Bergfried.
 
 ## Briefing
 
@@ -33,16 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Washington DC’s Fourth of July parade canceled due to soaring temperature [10/10]
+### 1. Founder of prominent underground church released from prison in China [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Ezra Jin, founder of Zion Church, lands in the US and reunites with family who are ‘overwhelmed with joy’ The founder of one of China’s most prominent underground churches has been released from prison and reunited with his family in the…
+
+Link: https://www.theguardian.com/world/2026/jul/05/founder-of-prominent-underground-church-released-from-prison-in-china
+
+### 2. How AI is changing language [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-National Weather Service issued an extreme heat warning as high temperatures have paralyzed the east coast Organizers of Saturday’s Independence Day parade in Washington DC abruptly canceled the event late on the eve of the event, with…
+As allegations of LLM use rock the literary and media worlds, linguists explain what really distinguishes human and machine writing, while novelists including Jennifer Egan and Jeanette Winterson reflect on the future of fiction in an age…
 
-Link: https://www.theguardian.com/us-news/2026/jul/04/washington-dc-fourth-of-july-parade-canceled-extreme-heat
+Link: https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt
 
-### 2. Now is the winter of your discontent, console blaggards: the RPS team reflect on PlayStation going digital-only [10/10]
+### 3. Build a medieval castle piece by piece and then defend it from enemy knights in the city builder and RTS Bergfried [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+How about a two-for-one today? Perhaps something from the RTS tower defence and city builder departments? Oh, and we'll throw in a medieval flavouring too, on the house.
+
+Link: https://www.rockpapershotgun.com/build-a-medieval-castle-piece-by-piece-and-then-defend-it-from-enemy-knights-in-the-city-builder-and-rts-bergfried
+
+### 4. Review: Supergirl is not the disaster its low box office suggests [9/10]
+**Source:** Ars Technica  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+It’s a pretty good movie, but it needed to be a great movie to thrive in an oversaturated superhero market.
+
+Link: https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/
+
+### 5. Dragon Age writer David Gaider's next game is a light-hearted heist RPG, if he can get the funding for it [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Since being founded back in 2017, Summerfall Studios have only managed to put out a couple of games, 2023's Stray Gods: The Roleplaying Musical , and last year's Malys , a devil exercising deckbuilder.
+
+Link: https://www.rockpapershotgun.com/dragon-age-writer-david-gaiders-next-game-is-a-light-hearted-heist-rpg-if-he-can-get-the-funding-for-it
+
+### 6. Now is the winter of your discontent, console blaggards: the RPS team reflect on PlayStation going digital-only [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -51,25 +87,7 @@ This week brought the news that Sony will stop selling physical PlayStation game
 
 Link: https://www.rockpapershotgun.com/now-is-the-winter-of-your-discontent-console-blaggards-the-rps-team-reflect-on-playstation-going-digital-only
 
-### 3. ‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSF Fatima is losing count of the number of drone attacks on the besieged city of El Obeid in Sudan, but says the attacks this past…
-
-Link: https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes
-
-### 4. Born on the Fourth of July: mixed feelings for people who share a birthday with the US’s 250th anniversary [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Guardian readers on celebrating on Independence Day every year – and especially this year This Fourth of July, the United States will mark the 250th anniversary of its independence from Britain, a milestone that the Donald Trump…
-
-Link: https://www.theguardian.com/us-news/2026/jul/04/fourth-of-july-birthdays-250th-anniversary
-
-### 5. World Cup 2026 power rankings: undisputed No 1, co-hosts surge and giants fall [10/10]
+### 7. World Cup 2026 power rankings: undisputed No 1, co-hosts surge and giants fall [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -78,52 +96,43 @@ We assess the standing of the nations who played in the tournament’s last 32 b
 
 Link: https://www.theguardian.com/football/2026/jul/04/world-cup-2026-power-rankings-last-32
 
-### 6. What Mexico fans feel about the World Cup – and England [10/10]
+### 8. Trump hails ‘golden age of America’ in speech marking nation’s 250th anniversary [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Ahead of their crunch last-16 match, we spoke to Mexicans and people living in the country about their experience and expectations of their tournament Mexico face England in the round of 16 after four games, four wins and not a single goal…
+In late-night campaign-style speech in Washington DC, US president vows to take the US ‘to new levels’ Donald Trump has hailed the “unmatched achievement and unlimited potential” of the US in a triumphalist address marking the country’s…
 
-Link: https://www.theguardian.com/football/2026/jul/04/what-mexico-fans-feel-about-the-world-cup-and-england
+Link: https://www.theguardian.com/us-news/2026/jul/04/trump-speech-dc-evacuation-thunderstorm
 
-### 7. How AI is changing language [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 9. White House deletes thousands of web pages about energy conservation as heatwave slams US [8/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-As allegations of LLM use rock the literary and media worlds, linguists explain what really distinguishes human and machine language, while novelists including Jennifer Egan and Jeanette Winterson reflect on the future of fiction in an age…
+The US Department of Energy reportedly deleted about 6,000 pages related to energy conservation as a historic heatwave tears across the country.
 
-Link: https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt
+Link: https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion
 
-### 8. German riot police clash with protesters hoping to block far-right AfD conference [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 10. Native Hawaiian Teens Learn To ‘Make Change’ for the Islands [8/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Thousands of police deployed to Erfurt in central Germany as AfD holds conference on key Nazi date Riot police have clashed with opponents of the far-right Alternative für Deutschland (AfD) party on the streets of Erfurt in Germany, where…
+A heavy, authoritative thud echoed through the Hawai‘i House chamber as Speaker Rilynn Kawaikoʻolilihilihiokalikolehua Perez brought down the gavel.
 
-Link: https://www.theguardian.com/world/2026/jul/04/german-riot-police-clash-protesters-block-far-right-afd-conference
+Link: https://www.the74million.org/article/native-hawaiian-teens-learn-to-make-change-for-the-islands/
 
-### 9. CDC emails reveal challenges facing its next director [9/10]
+### 11. Move over Chutes & Ladders: Schisto & Ladders has educational value plus worms [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Emails from CDC officials released by Sen. Bernie Sanders reveal agency leaders dealing with political pressures during the Trump era and highlight challenges for the next director.
+Spread by parasitic worms that can infect via a splash of water, schistosomiasis causes debilitating symptoms. It hits kids hard. A board game teaches how to prevent it.
 
-Link: https://www.npr.org/2026/07/04/nx-s1-5876507/cdc-emails-reveal-challenges-facing-its-next-director
+Link: https://www.npr.org/2026/07/04/g-s1-129679/chutes-ladders-schistosomiasis-worms-parasites
 
-### 10. When the ability to smell goes away [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Disturbances in this critical sense are often linked to problems with brain health.
-
-Link: https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/
-
-### 11. SOLVED: The Case of the Missing Megalodon [8/10]
+### 12. SOLVED: The Case of the Missing Megalodon [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -132,16 +141,7 @@ A short-statured human relative that lived on a lush island probably didn’t wi
 
 Link: https://www.404media.co/solved-the-case-of-the-missing-megalodon/
 
-### 12. Slay the Spire 2 gets 15 powerful new multiplayer cards, while making life easier the first time you install a mod [8/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / design  
-**Why it matters:** Useful if you care about how games actually work as designed experiences.
-
-Slay the Spire 2 has received a bunch of potent new cards specifically for co-operative multiplayer.
-
-Link: https://www.rockpapershotgun.com/slay-the-spire-2-gets-15-powerful-new-multiplayer-cards-while-making-life-easier-the-first-time-you-install-a-mod
-
-### 13. State Museum Debuts Exhibit Highlighting SC’s Role in Revolutionary War [7/10]
+### 13. State Museum Debuts Exhibit Highlighting SC’s Role in Revolutionary War [6/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -152,9 +152,9 @@ Link: https://www.the74million.org/article/state-museum-debuts-exhibit-highlight
 
 ## YouTube
 
-### They Said This Will Never Run In Real Time [8/10]
+### They Said This Will Never Run In Real Time [7/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 ❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://arxiv.org/abs/2506.06494 Sources: https://www.youtube.com/shorts/Tx7167DXr8U https://www.youtube.
@@ -170,9 +170,9 @@ After changes to pricing structures for LLM powered code assistants, Mike looks 
 
 Link: https://www.youtube.com/watch?v=-0HRzXk8vlk
 
-### Millie Bobby Brown Tries To Move Things With Her Mind [8/10]
+### Millie Bobby Brown Tries To Move Things With Her Mind [7/10]
 **Creator:** WIRED  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 _Enola Holmes_ co-stars Millie Bobby Brown & Louis Partridge visit WIRED to answer their most searched questions on Google.
@@ -224,27 +224,36 @@ Florida is expanding a state program to help pay for swim lessons for its younge
 
 Link: https://www.youtube.com/watch?v=rEKOpqLqQuc
 
-### Representatives on both sides succeeded in primary elections despite growing political polarization [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Rep. Brian Fitzpatrick, R-Pa., and Rep. Tom Suozzi, D-N.Y., explain how they succeeded in recent primary elections despite growing political polarization.
-
-Link: https://www.youtube.com/watch?v=LLhauRNK9Fg
-
-### Is GTA 6 In Danger Of Being Over-Hyped? [7/10]
+### GTA 6 - The "Code In A Box" Physical Release Presents Big Issues [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
-Link: https://www.youtube.com/watch?v=0pDXuaW_aeA
+Link: https://www.youtube.com/watch?v=OcqI4WBgh1U
 
-### $1000 Next-Gen Consoles? Is This Sustainable? [8/10]
+### Is It Even Possible To Get Good PC Hardware Deals? Our Advice + Tips [8/10]
 **Creator:** Digital Foundry  
 **Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=FoLnFvTK5k4
+
+### Is GTA 6 In Danger Of Being Over-Hyped? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=0pDXuaW_aeA
+
+### $1000 Next-Gen Consoles? Is This Sustainable? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -268,24 +277,6 @@ Link: https://www.youtube.com/watch?v=kNABpPYez5s
 ► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=m_BCig8EkNM
-
-### Xbox Series X Rising To $750, Series S To $500 - This Isn't Sustainable [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=p2QWqBPevrc
-
-### GTA 6: How Plausible Are The Latest Rumours/Leaks? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=uNai76KbL5w
 
 ### Friday Meccha Chameleon Shenanigans [6/10]
 **Creator:** Second Wind  
@@ -340,15 +331,6 @@ Link: https://www.youtube.com/watch?v=tgiSiCorQg0
 A lot of times bigger doesn't mean better. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
 Link: https://www.youtube.com/watch?v=XO_UOQcBtMc
-
-### Finishing Star Fox: Assault + Showing Off Star Fox 2026 w/ KC and Marty [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-For their next franchise revisit, KC and Marty are going to take a look at the Star Fox series. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=Esp7Y53njjM
 
 ## Entertainment Recommendations
 
@@ -559,6 +541,15 @@ A famous real estate agent's carefully curated world is upended when his eccentr
 
 Link: https://www.youtube.com/watch?v=SPWjOdIj1Gk
 
+### Camp Snoopy — Icewater feat. Mayer Hawthorne | Singalong | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Stone Cold Snoopy. Season 2 of Camp Snoopy is now streaming on Apple TV, and "Icewater" by Mayer Hawthorne is now available on Apple Music. #CampSnoopy #Singalong #AppleTV
+
+Link: https://www.youtube.com/watch?v=zsxdJrUDQ9w
+
 ### Silo — Season 3 Opening Title Sequence | Apple TV [10/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
@@ -603,12 +594,3 @@ Link: https://www.youtube.com/watch?v=lDd_y7dTfFA
 Waiting for an ordinary cup of tea to finish steeping, Tom poses an interesting moral dilemma to Ruth with no ulterior motive.
 
 Link: https://www.youtube.com/watch?v=Bd6eEuOh4lw
-
-### Camp Snoopy — Snoopy's Best Moments | Full Scenes | Apple TV [7/10]
-**Source:** Apple TV  
-**Verdict:** Worth a glance  
-**Why it matters:** Relevant to your current interest graph.
-
-Listen up, Beagle Scouts! An all new season of Camp Snoopy is now streaming on Apple TV. Camp Snoopy Season 2 is now streaming on Apple TV #CampSnoopy #Snoopy #AppleTV
-
-Link: https://www.youtube.com/watch?v=VK4I9WuwvyY

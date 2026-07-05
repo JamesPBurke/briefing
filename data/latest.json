@@ -1,68 +1,18 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-04T14:00:02.409606Z",
-  "generatedAtDisplay": "2026-07-04 10:00 AM EDT",
+  "generatedAt": "2026-07-05T05:00:02.525129Z",
+  "generatedAtDisplay": "2026-07-05 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Washington DC’s Fourth of July parade canceled due to soaring temperature, Now is the winter of your discontent, console blaggards: the RPS team reflect on PlayStation going digital-only, and ‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Founder of prominent underground church released from prison in China, How AI is changing language, and Build a medieval castle piece by piece and then defend it from enemy knights in the city builder and RTS Bergfried.",
   "mainItems": [
     {
-      "title": "Washington DC’s Fourth of July parade canceled due to soaring temperature",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/washington-dc-fourth-of-july-parade-canceled-extreme-heat",
-      "published": "2026-07-04T13:31:41+00:00",
-      "summary": "National Weather Service issued an extreme heat warning as high temperatures have paralyzed the east coast Organizers of Saturday’s Independence Day parade in Washington DC abruptly canceled the event late on the eve of the event, with…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Now is the winter of your discontent, console blaggards: the RPS team reflect on PlayStation going digital-only",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/now-is-the-winter-of-your-discontent-console-blaggards-the-rps-team-reflect-on-playstation-going-digital-only",
-      "published": "2026-07-04T13:00:00+00:00",
-      "summary": "This week brought the news that Sony will stop selling physical PlayStation games at the start of 2028 . Not just for their own games, but third-party, too.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
-      "published": "2026-07-04T12:43:43+00:00",
-      "summary": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSF Fatima is losing count of the number of drone attacks on the besieged city of El Obeid in Sudan, but says the attacks this past…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Born on the Fourth of July: mixed feelings for people who share a birthday with the US’s 250th anniversary",
+      "title": "Founder of prominent underground church released from prison in China",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/fourth-of-july-birthdays-250th-anniversary",
-      "published": "2026-07-04T11:00:11+00:00",
-      "summary": "Guardian readers on celebrating on Independence Day every year – and especially this year This Fourth of July, the United States will mark the 250th anniversary of its independence from Britain, a milestone that the Donald Trump…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "World Cup 2026 power rankings: undisputed No 1, co-hosts surge and giants fall",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/football/2026/jul/04/world-cup-2026-power-rankings-last-32",
-      "published": "2026-07-04T09:00:10+00:00",
-      "summary": "We assess the standing of the nations who played in the tournament’s last 32 before the next round of games begins Les Bleus look unstoppable – all six of our judges ranked them No 1.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "What Mexico fans feel about the World Cup – and England",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/football/2026/jul/04/what-mexico-fans-feel-about-the-world-cup-and-england",
-      "published": "2026-07-04T09:00:09+00:00",
-      "summary": "Ahead of their crunch last-16 match, we spoke to Mexicans and people living in the country about their experience and expectations of their tournament Mexico face England in the round of 16 after four games, four wins and not a single goal…",
+      "url": "https://www.theguardian.com/world/2026/jul/05/founder-of-prominent-underground-church-released-from-prison-in-china",
+      "published": "2026-07-05T01:40:15+00:00",
+      "summary": "Ezra Jin, founder of Zion Church, lands in the US and reunites with family who are ‘overwhelmed with joy’ The founder of one of China’s most prominent underground churches has been released from prison and reunited with his family in the…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
@@ -72,39 +22,99 @@
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt",
       "published": "2026-07-04T08:00:07+00:00",
-      "summary": "As allegations of LLM use rock the literary and media worlds, linguists explain what really distinguishes human and machine language, while novelists including Jennifer Egan and Jeanette Winterson reflect on the future of fiction in an age…",
+      "summary": "As allegations of LLM use rock the literary and media worlds, linguists explain what really distinguishes human and machine writing, while novelists including Jennifer Egan and Jeanette Winterson reflect on the future of fiction in an age…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "German riot police clash with protesters hoping to block far-right AfD conference",
-      "source": "The Guardian US",
+      "title": "Build a medieval castle piece by piece and then defend it from enemy knights in the city builder and RTS Bergfried",
+      "source": "Rock Paper Shotgun",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jul/04/german-riot-police-clash-protesters-block-far-right-afd-conference",
-      "published": "2026-07-04T13:17:50+00:00",
-      "summary": "Thousands of police deployed to Erfurt in central Germany as AfD holds conference on key Nazi date Riot police have clashed with opponents of the far-right Alternative für Deutschland (AfD) party on the streets of Erfurt in Germany, where…",
+      "url": "https://www.rockpapershotgun.com/build-a-medieval-castle-piece-by-piece-and-then-defend-it-from-enemy-knights-in-the-city-builder-and-rts-bergfried",
+      "published": "2026-07-04T17:57:43+00:00",
+      "summary": "How about a two-for-one today? Perhaps something from the RTS tower defence and city builder departments? Oh, and we'll throw in a medieval flavouring too, on the house.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
-      "title": "CDC emails reveal challenges facing its next director",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/04/nx-s1-5876507/cdc-emails-reveal-challenges-facing-its-next-director",
-      "published": "2026-07-04T11:43:45+00:00",
-      "summary": "Emails from CDC officials released by Sen. Bernie Sanders reveal agency leaders dealing with political pressures during the Trump era and highlight challenges for the next director.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Review: Supergirl is not the disaster its low box office suggests",
+      "source": "Ars Technica",
+      "category": "Democracy / press freedom",
+      "url": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
+      "published": "2026-07-04T16:49:14+00:00",
+      "summary": "It’s a pretty good movie, but it needed to be a great movie to thrive in an oversaturated superhero market.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
-      "title": "When the ability to smell goes away",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
-      "published": "2026-07-04T11:04:31+00:00",
-      "summary": "Disturbances in this critical sense are often linked to problems with brain health.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "Dragon Age writer David Gaider's next game is a light-hearted heist RPG, if he can get the funding for it",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/dragon-age-writer-david-gaiders-next-game-is-a-light-hearted-heist-rpg-if-he-can-get-the-funding-for-it",
+      "published": "2026-07-04T16:03:44+00:00",
+      "summary": "Since being founded back in 2017, Summerfall Studios have only managed to put out a couple of games, 2023's Stray Gods: The Roleplaying Musical , and last year's Malys , a devil exercising deckbuilder.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
+    },
+    {
+      "title": "Now is the winter of your discontent, console blaggards: the RPS team reflect on PlayStation going digital-only",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/now-is-the-winter-of-your-discontent-console-blaggards-the-rps-team-reflect-on-playstation-going-digital-only",
+      "published": "2026-07-04T13:00:00+00:00",
+      "summary": "This week brought the news that Sony will stop selling physical PlayStation games at the start of 2028 . Not just for their own games, but third-party, too.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "World Cup 2026 power rankings: undisputed No 1, co-hosts surge and giants fall",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/football/2026/jul/04/world-cup-2026-power-rankings-last-32",
+      "published": "2026-07-04T09:00:10+00:00",
+      "summary": "We assess the standing of the nations who played in the tournament’s last 32 before the next round of games begins Les Bleus look unstoppable – all six of our judges ranked them No 1.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Trump hails ‘golden age of America’ in speech marking nation’s 250th anniversary",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/trump-speech-dc-evacuation-thunderstorm",
+      "published": "2026-07-04T23:38:25+00:00",
+      "summary": "In late-night campaign-style speech in Washington DC, US president vows to take the US ‘to new levels’ Donald Trump has hailed the “unmatched achievement and unlimited potential” of the US in a triumphalist address marking the country’s…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
+    },
+    {
+      "title": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion",
+      "published": "2026-07-04T17:15:24+00:00",
+      "summary": "The US Department of Energy reportedly deleted about 6,000 pages related to energy conservation as a historic heatwave tears across the country.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 8
+    },
+    {
+      "title": "Native Hawaiian Teens Learn To ‘Make Change’ for the Islands",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/native-hawaiian-teens-learn-to-make-change-for-the-islands/",
+      "published": "2026-07-04T16:30:00+00:00",
+      "summary": "A heavy, authoritative thud echoed through the Hawai‘i House chamber as Speaker Rilynn Kawaikoʻolilihilihiokalikolehua Perez brought down the gavel.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 8
+    },
+    {
+      "title": "Move over Chutes & Ladders: Schisto & Ladders has educational value plus worms",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/07/04/g-s1-129679/chutes-ladders-schistosomiasis-worms-parasites",
+      "published": "2026-07-04T15:51:49+00:00",
+      "summary": "Spread by parasitic worms that can infect via a splash of water, schistosomiasis causes debilitating symptoms. It hits kids hard. A board game teaches how to prevent it.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "SOLVED: The Case of the Missing Megalodon",
@@ -114,17 +124,7 @@
       "published": "2026-07-04T10:00:09+00:00",
       "summary": "A short-statured human relative that lived on a lush island probably didn’t wield fire or hunt big game, but it did walk in the footsteps of dragons, according to a new study.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Slay the Spire 2 gets 15 powerful new multiplayer cards, while making life easier the first time you install a mod",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / design",
-      "url": "https://www.rockpapershotgun.com/slay-the-spire-2-gets-15-powerful-new-multiplayer-cards-while-making-life-easier-the-first-time-you-install-a-mod",
-      "published": "2026-07-03T15:12:37+00:00",
-      "summary": "Slay the Spire 2 has received a bunch of potent new cards specifically for co-operative multiplayer.",
-      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
-      "score": 8
+      "score": 7
     },
     {
       "title": "State Museum Debuts Exhibit Highlighting SC’s Role in Revolutionary War",
@@ -134,7 +134,7 @@
       "published": "2026-07-04T10:30:00+00:00",
       "summary": "COLUMBIA, S.C. — Soon after Patriots defended Charles Town at Fort Moultrie in 1776, the regiment received a flag embroidered with acorns, a battle drum and an early version of the crescent that would eventually adorn the state flag.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 7
+      "score": 6
     }
   ],
   "youtube": [
@@ -146,8 +146,8 @@
       "published": "2026-07-03T17:19:59+00:00",
       "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://arxiv.org/abs/2506.06494 Sources: https://www.youtube.com/shorts/Tx7167DXr8U https://www.youtube.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Why AI Tokens are so Expensive - Computerphile",
@@ -168,8 +168,8 @@
       "published": "2026-07-03T16:00:13+00:00",
       "summary": "_Enola Holmes_ co-stars Millie Bobby Brown & Louis Partridge visit WIRED to answer their most searched questions on Google.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Millie Bobby Brown & Louis Partridge Answer The Web’s Most Searched Questions",
@@ -227,15 +227,26 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Representatives on both sides succeeded in primary elections despite growing political polarization",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=LLhauRNK9Fg",
-      "published": "2026-07-01T18:00:03+00:00",
-      "summary": "Rep. Brian Fitzpatrick, R-Pa., and Rep. Tom Suozzi, D-N.Y., explain how they succeeded in recent primary elections despite growing political polarization.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "GTA 6 - The \"Code In A Box\" Physical Release Presents Big Issues",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=OcqI4WBgh1U",
+      "published": "2026-07-04T16:00:06+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Is It Even Possible To Get Good PC Hardware Deals? Our Advice + Tips",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=FoLnFvTK5k4",
+      "published": "2026-07-04T15:00:38+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Is GTA 6 In Danger Of Being Over-Hyped?",
@@ -245,8 +256,8 @@
       "published": "2026-07-03T17:00:13+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "$1000 Next-Gen Consoles? Is This Sustainable?",
@@ -256,8 +267,8 @@
       "published": "2026-07-03T16:00:36+00:00",
       "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Sonic Frontiers Gets Ported To Switch 2 - And We've Tested It",
@@ -276,28 +287,6 @@
       "category": "Games / hardware",
       "url": "https://www.youtube.com/watch?v=m_BCig8EkNM",
       "published": "2026-07-02T16:00:14+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Xbox Series X Rising To $750, Series S To $500 - This Isn't Sustainable",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=p2QWqBPevrc",
-      "published": "2026-07-01T17:00:03+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "GTA 6: How Plausible Are The Latest Rumours/Leaks?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=uNai76KbL5w",
-      "published": "2026-07-01T16:00:25+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 6,
@@ -365,17 +354,6 @@
       "url": "https://www.youtube.com/watch?v=XO_UOQcBtMc",
       "published": "2026-07-02T15:00:02+00:00",
       "summary": "A lot of times bigger doesn't mean better. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Finishing Star Fox: Assault + Showing Off Star Fox 2026 w/ KC and Marty",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=Esp7Y53njjM",
-      "published": "2026-07-02T01:07:31+00:00",
-      "summary": "For their next franchise revisit, KC and Marty are going to take a look at the Star Fox series. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
@@ -603,6 +581,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Camp Snoopy — Icewater feat. Mayer Hawthorne | Singalong | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=zsxdJrUDQ9w",
+      "published": "2026-07-04T15:59:46+00:00",
+      "summary": "Stone Cold Snoopy. Season 2 of Camp Snoopy is now streaming on Apple TV, and \"Icewater\" by Mayer Hawthorne is now available on Apple Music. #CampSnoopy #Singalong #AppleTV",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Silo — Season 3 Opening Title Sequence | Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
@@ -656,17 +645,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
-    },
-    {
-      "title": "Camp Snoopy — Snoopy's Best Moments | Full Scenes | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=VK4I9WuwvyY",
-      "published": "2026-07-01T13:59:47+00:00",
-      "summary": "Listen up, Beagle Scouts! An all new season of Camp Snoopy is now streaming on Apple TV. Camp Snoopy Season 2 is now streaming on Apple TV #CampSnoopy #Snoopy #AppleTV",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Worth a glance"
     }
   ],
   "recommendations": {
@@ -780,8 +758,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 22,
+    "youtubeCount": 20,
     "trailerCount": 26,
-    "sourceCount": 18
+    "sourceCount": 19
   }
 }
