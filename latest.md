@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-06T05:00:01.689788Z
+Generated: 2026-07-06T09:01:29.054549Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are ‘It was pretty depressing when Stranger Things ended’: Finn Wolfhard on growing up on TV – and his new life in music, Sara Duterte: why is the Philippines vice-president facing an impeachment trial?, and ‘The risk is Russia becomes desperate’: the Swedish Baltic Sea island preparing for invasion.
+Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are Inside the Telegram ‘drug rape’ chat group that shocked Germany, Sabzi and thoran: Maunika Gowardhan’s recipes for Indian-style runner beans, and Ukraine hopes to sign ‘drone deals’ with seven Nato countries by end of year.
 
 ## Briefing
 
@@ -33,7 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘It was pretty depressing when Stranger Things ended’: Finn Wolfhard on growing up on TV – and his new life in music [10/10]
+### 1. Inside the Telegram ‘drug rape’ chat group that shocked Germany [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+The men, who drugged and secretly filmed their victims, were members of an online gang targeting mainly women of Chinese heritage Early last year, Ivy*, a Chinese student living in Germany, got a phone call from the police.
+
+Link: https://www.theguardian.com/global-development/2026/jul/06/telegram-chinese-men-germany-drugged-women-filmed-rape-court-chinese-diaspora-europe
+
+### 2. Sabzi and thoran: Maunika Gowardhan’s recipes for Indian-style runner beans [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The distinct spices of their respective regions make these approaches to runner beans uniquely different, but equally flavourful I always look forward to runner bean season, and especially to cooking them in stir-fries with Indian spices.
+
+Link: https://www.theguardian.com/food/2026/jul/06/sabzi-thoran-indian-style-runner-beans-recipes-maunika-gowardhan
+
+### 3. Ukraine hopes to sign ‘drone deals’ with seven Nato countries by end of year [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Kyiv offers expertise on how to develop radar systems and ground stations as it turns from buyer to security provider Ukraine hopes to sign major defence deals with at least seven Nato countries by the end of the year, according to a top…
+
+Link: https://www.theguardian.com/world/2026/jul/06/ukraine-drone-deals-seven-nato-countries-end-of-year
+
+### 4. ‘It was pretty depressing when Stranger Things ended’: Finn Wolfhard on growing up on TV – and his new life in music [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -42,25 +69,25 @@ The actor spent almost a decade fighting monsters – and making friends – on 
 
 Link: https://www.theguardian.com/lifeandstyle/2026/jul/06/it-was-pretty-depressing-when-stranger-things-ended-finn-wolfhard-on-growing-up-on-tv-and-his-new-life-in-music
 
-### 2. Sara Duterte: why is the Philippines vice-president facing an impeachment trial? [10/10]
+### 5. Death Stranding director Hideo Kojima "really sad" about Sony ending physical disc production, and says lack of media ownership has "frightening" possibilities [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Hideo Kojima has spoken about Sony's cessation of physical video game disc production , with the director behind Death Stranding expressing that the news made him feel "really sad". Read more
+
+Link: https://www.eurogamer.net/hideo-kojima-physical-media-really-sad
+
+### 6. Turkey blocks cruise ship carrying 2,000 LGBTQ+ passengers and a ‘furious’ Patti LuPone, citing ‘moral values’ [9/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Duterte – the daughter of former president Rodrigo Duterte – has previously denied charges against her The impeachment trial of Philippine vice-president Sara Duterte begins Monday, in a case that will determine whether she can run for the…
+Broadway star, who is performing on the vessel, expresses shock after authorities ban Scarlet Lady from docking in Kuşadası A cruise ship carrying 2,000 LGBTQ+ passengers and the Broadway performer Patti LuPone has been blocked from…
 
-Link: https://www.theguardian.com/world/2026/jul/06/sara-duterte-philippines-vice-president-impeachment-trial-explained
+Link: https://www.theguardian.com/world/2026/jul/06/turkey-blocks-lgbtq-cruise-ship-citing-moral-values-ntwnfb
 
-### 3. ‘The risk is Russia becomes desperate’: the Swedish Baltic Sea island preparing for invasion [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Civilian resilience initiatives and young military conscripts are being readied should Putin hope to test Nato’s resolve Only four months ago, Ella Adman had just finished school and had never before held a gun.
-
-Link: https://www.theguardian.com/world/2026/jul/05/gotland-russia-sweden-ramps-up-defence-baltic-sea-island
-
-### 4. England’s 10 men hang on after Kane penalty to beat Mexico in World Cup thriller [9/10]
+### 7. England’s 10 men hang on after Kane penalty to beat Mexico in World Cup thriller [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -69,7 +96,7 @@ File it as England’s finest World Cup knockout phase victory since 1966. There
 
 Link: https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup
 
-### 5. Coco Gauff beats race against curfew clock with late-night victory against Bencic [9/10]
+### 8. Coco Gauff beats race against curfew clock with late-night victory against Bencic [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -78,7 +105,7 @@ Gauff seals three-set win just two minutes before 11pm American ‘not used to r
 
 Link: https://www.theguardian.com/sport/2026/jul/05/coco-gauff-wimbledon-curfew-tennis-belinda-bencic
 
-### 6. Some of the nation’s rich are letting AI teach their kids [9/10]
+### 9. Some of the nation’s rich are letting AI teach their kids [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -87,7 +114,7 @@ Most Americans don't trust AI. It's proven that it doesn't know what safe toppin
 
 Link: https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep
 
-### 7. The Atlantic republishes JD Vance’s anti-Trump essay from 10 years ago [9/10]
+### 10. The Atlantic republishes JD Vance’s anti-Trump essay from 10 years ago [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -96,7 +123,7 @@ Magazine invites readers to judge Vance’s ‘assessment’ of Trump, whom he c
 
 Link: https://www.theguardian.com/us-news/2026/jul/05/atlantic-republishes-jd-vance-trump-essay
 
-### 8. Mississippi Focuses on Boosting Middle School Students’ Reading Scores [9/10]
+### 11. Mississippi Focuses on Boosting Middle School Students’ Reading Scores [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -105,25 +132,7 @@ Fourth grade literacy gains earned Mississippi national acclaim. But that achiev
 
 Link: https://www.the74million.org/article/mississippi-focuses-on-boosting-middle-school-students-reading-scores/
 
-### 9. Epic Games settles a court case against former contractor accused of leaking Fortnite collaborations [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Epic Games has settled a court case against a contractor accused of leaking Fortnite information. Read more
-
-Link: https://www.eurogamer.net/epic-games-fortnite-settles-leaker-contractor-lawsuit
-
-### 10. How Keurig saved — and ruined — your coffee [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Before Keurig, the coffee in your office was almost certainly terrible. Old, burned, made by someone who would rather poorly eyeball than properly measure. Just altogether gross.
-
-Link: https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history
-
-### 11. These high school students won NPR's America 250 Student Podcast Challenge [9/10]
+### 12. These high school students won NPR's America 250 Student Podcast Challenge [9/10]
 **Source:** NPR Education  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -132,23 +141,14 @@ We asked students around the country to reflect on the phrase "life, liberty and
 
 Link: https://www.npr.org/2026/07/05/nx-s1-5868595/these-high-school-students-won-nprs-america-250-student-podcast-challenge
 
-### 12. California School Libraries Blindsided by ‘Catastrophic’ Budget Cut [9/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-This story was originally published by CalMatters. Sign up for their newsletters.
-
-Link: https://www.the74million.org/article/california-school-libraries-blindsided-by-catastrophic-budget-cut/
-
-### 13. Construction is a man's game. These women are demolishing the barriers [7/10]
+### 13. Fast walkers in their 80s halve their risk of cognitive decline, study finds [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Women make up a miniscule 3% of construction workers in Kenya. But a nonprofit group is offering them a way to get into the game ... and to get ahead.
+A new study of people 80 and older with exceptional gaits, finds fast walkers have about a 50% lower risk of developing cognitive decline, showing the strong connection between physical health, strength and brain health.
 
-Link: https://www.npr.org/2026/07/05/g-s1-129643/construction-business-women-kenya
+Link: https://www.npr.org/2026/07/06/nx-s1-5877419/fast-walkers-in-their-80s-halve-their-risk-of-cognitive-decline-study-finds
 
 ## YouTube
 
