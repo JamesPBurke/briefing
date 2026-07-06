@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-06T09:01:29.054549Z
+Generated: 2026-07-06T14:00:02.882767Z
 
-Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are Inside the Telegram ‘drug rape’ chat group that shocked Germany, Sabzi and thoran: Maunika Gowardhan’s recipes for Indian-style runner beans, and Ukraine hopes to sign ‘drone deals’ with seven Nato countries by end of year.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Democrats to choose between progressive and establishment candidate in Michigan as McMorrow drops out of race – US politics live, Stop judging games by their sales figures, says Tekken's Katsuhiro Harada: “That’s exactly what you’d expect from someone who’s never actually developed games", and Opinion: The College Cost Fog Machine: We Need a New Transparency Compact.
 
 ## Briefing
 
@@ -33,122 +33,122 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Inside the Telegram ‘drug rape’ chat group that shocked Germany [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-The men, who drugged and secretly filmed their victims, were members of an online gang targeting mainly women of Chinese heritage Early last year, Ivy*, a Chinese student living in Germany, got a phone call from the police.
-
-Link: https://www.theguardian.com/global-development/2026/jul/06/telegram-chinese-men-germany-drugged-women-filmed-rape-court-chinese-diaspora-europe
-
-### 2. Sabzi and thoran: Maunika Gowardhan’s recipes for Indian-style runner beans [10/10]
+### 1. Democrats to choose between progressive and establishment candidate in Michigan as McMorrow drops out of race – US politics live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The distinct spices of their respective regions make these approaches to runner beans uniquely different, but equally flavourful I always look forward to runner bean season, and especially to cooking them in stir-fries with Indian spices.
+Candidate Abdul El-Sayed emerges as the party’s frontrunner in the primary campaign after Mallory McMorrow withdraws Sign up for the Breaking News US email Republican senator Ted Cruz is standing alongside Trump today.
 
-Link: https://www.theguardian.com/food/2026/jul/06/sabzi-thoran-indian-style-runner-beans-recipes-maunika-gowardhan
+Link: https://www.theguardian.com/us-news/live/2026/jul/06/donald-trump-democrats-michigan-mallory-mcmorrow-us-politics-latest-news-updates
 
-### 3. Ukraine hopes to sign ‘drone deals’ with seven Nato countries by end of year [10/10]
+### 2. Stop judging games by their sales figures, says Tekken's Katsuhiro Harada: “That’s exactly what you’d expect from someone who’s never actually developed games" [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+I don't think anybody reading these hallowed pages really judges games by their sales figures, but it's nice to hear that perspective affirmed by no less a Legendary Fightguy than Katsuhiro Harada, the former face of Tekken.
+
+Link: https://www.rockpapershotgun.com/stop-judging-games-by-their-sales-figures-says-tekkens-katsuhiro-harada-thats-exactly-what-youd-expect-from-someone-whos-never-actually-developed-games
+
+### 3. Opinion: The College Cost Fog Machine: We Need a New Transparency Compact [10/10]
+**Source:** The 74  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+A family shopping for college today knows more about the cost of a mortgage than the real price of a college degree. That confusion isn’t only a technical problem inside financial aid offices.
+
+Link: https://www.the74million.org/article/the-college-cost-fog-machine-we-need-a-new-transparency-compact/
+
+### 4. Conservative fight against license renewals for ABC stations heats up [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Kyiv offers expertise on how to develop radar systems and ground stations as it turns from buyer to security provider Ukraine hopes to sign major defence deals with at least seven Nato countries by the end of the year, according to a top…
+Prominent organizations accuse network of political, racial and sexual bias and supporting Chinese communist party A group of prominent conservative organizations has petitioned the Federal Communications Commission (FCC) to deny license…
 
-Link: https://www.theguardian.com/world/2026/jul/06/ukraine-drone-deals-seven-nato-countries-end-of-year
+Link: https://www.theguardian.com/media/2026/jul/06/abc-license-renewals-fcc
 
-### 4. ‘It was pretty depressing when Stranger Things ended’: Finn Wolfhard on growing up on TV – and his new life in music [10/10]
+### 5. Watchdog warns of risks to patients as private equity’s stake in US healthcare grows [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+New report details slew of ventures between private equity and nonprofits and calls for greater government oversight A watchdog group is calling for greater government oversight of joint ventures between private equity firms and non-profit…
+
+Link: https://www.theguardian.com/us-news/2026/jul/06/us-private-equity-healthcare-joint-ventures
+
+### 6. ‘Why take those jobs away?’: the unionized workers decrying Trump’s war on wind [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Workers proud of their efforts to grow renewable energy say US president pursuing ‘personal vendetta’ at their expense Donald Trump has blamed everything – from “national security” issues, the deaths of birds and whales , and cancer – in…
+
+Link: https://www.theguardian.com/environment/2026/jul/06/workers-unions-trump-wind-energy
+
+### 7. Buckingham Palace says Harry can no longer stay at royal residence on UK visit [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-The actor spent almost a decade fighting monsters – and making friends – on the hit Netflix show. Then, last year, it all came to an end. How’s he adjusting? Finn Wolfhard is remembering his first experience of celebrity.
+Fresh row erupts over Duke of Sussex’s trip, the buildup to which has been overshadowed by security dispute Just as it seemed there might be a period of peace, yet another row has broken out between Prince Harry and his family, with one…
 
-Link: https://www.theguardian.com/lifeandstyle/2026/jul/06/it-was-pretty-depressing-when-stranger-things-ended-finn-wolfhard-on-growing-up-on-tv-and-his-new-life-in-music
+Link: https://www.theguardian.com/uk-news/2026/jul/06/buckingham-palace-denies-prince-harry-to-stay-royal-residence-uk-visit-row-duke-of-sussex
 
-### 5. Death Stranding director Hideo Kojima "really sad" about Sony ending physical disc production, and says lack of media ownership has "frightening" possibilities [9/10]
+### 8. The first reactions to Cyberpunk: Edgerunners Season 2 are in, and CD Projekt Red and Studio Trigger seem to have another winner on their hands [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Hideo Kojima has spoken about Sony's cessation of physical video game disc production , with the director behind Death Stranding expressing that the news made him feel "really sad". Read more
+Last week brought us the stunning first proper trailer for Cyberpunk: Edgerunners Season 2 , which is introducing and following an all-new cast of characters and storyline (even if we're not leaving Night City).
 
-Link: https://www.eurogamer.net/hideo-kojima-physical-media-really-sad
+Link: https://www.eurogamer.net/cyberpunk-edgerunners-season-2-first-reactions
 
-### 6. Turkey blocks cruise ship carrying 2,000 LGBTQ+ passengers and a ‘furious’ Patti LuPone, citing ‘moral values’ [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Broadway star, who is performing on the vessel, expresses shock after authorities ban Scarlet Lady from docking in Kuşadası A cruise ship carrying 2,000 LGBTQ+ passengers and the Broadway performer Patti LuPone has been blocked from…
-
-Link: https://www.theguardian.com/world/2026/jul/06/turkey-blocks-lgbtq-cruise-ship-citing-moral-values-ntwnfb
-
-### 7. England’s 10 men hang on after Kane penalty to beat Mexico in World Cup thriller [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-File it as England’s finest World Cup knockout phase victory since 1966. There have not been a huge number of them; only nine previously, each a gripping drama in its own right. Yet it was the context of this one that set it apart.
-
-Link: https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup
-
-### 8. Coco Gauff beats race against curfew clock with late-night victory against Bencic [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Gauff seals three-set win just two minutes before 11pm American ‘not used to racing against time’ Coco Gauff’s dream of winning a first Wimbledon title is still alive after a hard-fought, race-against-time victory over Switzerland’s…
-
-Link: https://www.theguardian.com/sport/2026/jul/05/coco-gauff-wimbledon-curfew-tennis-belinda-bencic
-
-### 9. Some of the nation’s rich are letting AI teach their kids [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep
-
-### 10. The Atlantic republishes JD Vance’s anti-Trump essay from 10 years ago [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Magazine invites readers to judge Vance’s ‘assessment’ of Trump, whom he called ‘cultural heroin’ during first term The Atlantic on Saturday republished a JD Vance essay that dismissed Donald Trump as “cultural heroin” exactly 10 years…
-
-Link: https://www.theguardian.com/us-news/2026/jul/05/atlantic-republishes-jd-vance-trump-essay
-
-### 11. Mississippi Focuses on Boosting Middle School Students’ Reading Scores [9/10]
+### 9. Elementary Principals Are Getting a Crash Course in How Young Kids Learn Best [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Fourth grade literacy gains earned Mississippi national acclaim. But that achievement tapers off as students advance to higher grades. Lawmakers are putting millions toward changing that.
+When Joel Francik became principal of Central Elementary School in 2019, all of his prior education experience had been in middle school — first as a teacher, then as an assistant principal.
 
-Link: https://www.the74million.org/article/mississippi-focuses-on-boosting-middle-school-students-reading-scores/
+Link: https://www.the74million.org/zero2eight/elementary-principals-are-getting-a-crash-course-in-how-young-kids-learn-best/
 
-### 12. These high school students won NPR's America 250 Student Podcast Challenge [9/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 10. The one change that worked: I banned myself from social media – and my children have never been happier [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-We asked students around the country to reflect on the phrase "life, liberty and the pursuit of happiness," and recorded what the high schoolers had to say. Note: This piece mentions self harm.
+I used to think my phone helped me to relax.
 
-Link: https://www.npr.org/2026/07/05/nx-s1-5868595/these-high-school-students-won-nprs-america-250-student-podcast-challenge
+Link: https://www.theguardian.com/lifeandstyle/2026/jul/06/the-one-change-that-worked-i-banned-myself-from-social-media-and-my-children-have-never-been-happier
 
-### 13. Fast walkers in their 80s halve their risk of cognitive decline, study finds [8/10]
+### 11. How Keurig saved — and ruined — your coffee [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Before Keurig, the coffee in your office was almost certainly terrible. Old, burned, made by someone who would rather poorly eyeball than properly measure. Just altogether gross.
+
+Link: https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history
+
+### 12. The Download: South Korea’s hottest bachelors, and advancing eye transplants [9/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/
+
+### 13. Fast walkers in their 80s cut their risk of cognitive decline by half, a study finds [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-A new study of people 80 and older with exceptional gaits, finds fast walkers have about a 50% lower risk of developing cognitive decline, showing the strong connection between physical health, strength and brain health.
+A new study of people 80 and older with exceptional gaits finds fast walkers have about a 50% lower risk of cognitive decline, showing the connection between physical health and brain health.
 
-Link: https://www.npr.org/2026/07/06/nx-s1-5877419/fast-walkers-in-their-80s-halve-their-risk-of-cognitive-decline-study-finds
+Link: https://www.npr.org/2026/07/06/nx-s1-5877419/walk-pace-gait-brain-cognitive-health
 
 ## YouTube
 
@@ -179,15 +179,6 @@ Acclaimed TV showrunner and writer, Mara Brock Akil says her debut novel, “The
 
 Link: https://www.youtube.com/watch?v=T3sfZnTAlMM
 
-### Egg producers reach settlement over price-fixing complaint [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Some of the country's biggest egg producers have settled a complaint that they artificially raised prices in recent years.
-
-Link: https://www.youtube.com/watch?v=LhXakA4CzdA
-
 ### Will Valve Make A "Steam Machine Pro"...? [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
@@ -197,9 +188,9 @@ Link: https://www.youtube.com/watch?v=LhXakA4CzdA
 
 Link: https://www.youtube.com/watch?v=bdX1Wy3bqlQ
 
-### Big Delays On All Valve Hardware - What's Going On? [7/10]
+### Big Delays On All Valve Hardware - What's Going On? [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -268,15 +259,6 @@ Link: https://www.youtube.com/watch?v=rnYq03GH8So
 The developers finally get a much needed win when it comes to corporate accountability. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
 Link: https://www.youtube.com/watch?v=fZmN2L0ZbJU
-
-### Can Map Making Be Fun? Astral Marmot Shows How | RPG Help Desk [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Got questions or tips on making maps (world maps and battle maps)? Then Join us! Jesse Galena avoids making maps whenever possible, so we'll see if Astral Marmot's tips and methods change that.
-
-Link: https://www.youtube.com/watch?v=1IknM0E9aq4
 
 ## Entertainment Recommendations
 
