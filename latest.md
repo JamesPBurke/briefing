@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-07T05:00:01.581952Z
+Generated: 2026-07-07T09:00:26.376846Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Russian cities feel the pinch amid worsening fuel shortages, Details scarce as Mitch McConnell ‘continues recovery’ in hospital, and Princess Moss Elected NEA President With Votes From 50% of Assembly Members.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Madonna was always anti-nostalgia. But looking back on Confessions II has revitalised her music, US airman accused of exposing himself to 16-year-old girl avoided British trial, and ‘Bored? You’re never good enough to get bored!’ Oscar-winner Helen Hunt on great roles, unruly audiences and her RSC debut.
 
 ## Briefing
 
@@ -33,32 +33,32 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Russian cities feel the pinch amid worsening fuel shortages [10/10]
+### 1. Madonna was always anti-nostalgia. But looking back on Confessions II has revitalised her music [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Ukraine’s drone and missile campaign on oil infrastructure has brought impact of war to citizens of Moscow and elsewhere Five hours into the queue, tempers were already fraying at the gas station.
+The veteran pop diva has pressed rewind to move forward on her new record – and beneath the bangers fizz a host of emotionally charged memories • Confessions II review – nostalgic dancefloor trip sparks her most vital album in two decades…
 
-Link: https://www.theguardian.com/world/2026/jul/07/russia-cities-feel-pinch-amid-worsening-fuel-shortages
+Link: https://www.theguardian.com/music/2026/jul/07/madonna-nostalgia-confessions-ii
 
-### 2. Details scarce as Mitch McConnell ‘continues recovery’ in hospital [10/10]
+### 2. US airman accused of exposing himself to 16-year-old girl avoided British trial [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Staff decline to give updates on senator’s health and whether he will be at Capitol when Senate returns Staff for Mitch McConnell said last week that the Kentucky senator was “continuing his recovery” in a hospital while the Senate is out…
+Hannes Marschalek, who allegedly exposed his penis to four other women in Cambridgeshire, tried via US court martial A US airman who allegedly exposed himself to a 16-year-old girl and four young women in England was able to avoid the…
 
-Link: https://www.theguardian.com/us-news/2026/jul/06/mitch-mcconnell-health
+Link: https://www.theguardian.com/uk-news/2026/jul/07/us-airman-accused-of-exposing-himself-to-16-year-old-girl-court-martial
 
-### 3. Princess Moss Elected NEA President With Votes From 50% of Assembly Members [10/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 3. ‘Bored? You’re never good enough to get bored!’ Oscar-winner Helen Hunt on great roles, unruly audiences and her RSC debut [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Princess Moss was elected president of the National Education Association during its annual representative assembly on Sunday.
+The formidable actor talks about the challenge of finding meaty characters, tough times in the US – and co-starring with her dad’s hero Kenneth Branagh in The Cherry Orchard It’s lunchtime in Stratford-upon-Avon and Helen Hunt has 30…
 
-Link: https://www.the74million.org/article/princess-moss-elected-nea-president-with-votes-from-50-of-assembly-members/
+Link: https://www.theguardian.com/stage/2026/jul/07/helen-hunt-oscar-rsc-the-cherry-orchard-kenneth-branagh
 
 ### 4. ‘Why take those jobs away?’: the unionized workers decrying Trump’s war on wind [10/10]
 **Source:** The Guardian US  
@@ -69,32 +69,32 @@ Workers proud of their efforts to grow renewable energy say US president pursuin
 
 Link: https://www.theguardian.com/environment/2026/jul/06/workers-unions-trump-wind-energy
 
-### 5. Nato braces for difficult summit as Trump puts pressure on spending [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 5. Acclaimed PS5 roguelike shooter Saros gets a substantial free trial, but there's a catch [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Meeting of 32 member states comes at crucial time for alliance after tensions with US over Iran and Greenland Nato leaders will gather in Ankara on Tuesday after a turbulent six months.
+Saros, the latest game from the arcade-loving game creators at Housemarque, is getting a new two-and-half hour trial for anyone interested in trying it. Read more
 
-Link: https://www.theguardian.com/world/2026/jul/07/nato-braces-for-difficult-summit-as-trump-puts-pressure-on-spending
+Link: https://www.eurogamer.net/saros-two-hour-trial-playstation-plus-premium
 
-### 6. Dowry murders in India no longer spark public anger or debate, study finds [9/10]
+### 6. Fuel on the fire: why oil companies are profiting as the world gets dangerously hot [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Thousands of women are killed in dowry disputes each year, despite the practice being banned in 1961 Dowry deaths in India no longer provoke the public anger they once did, despite thousands of women’s lives still being lost every year,…
+The scientific consensus is that burning fossil fuels drives the climate crisis, yet the world’s biggest oil companies are planning to increase production As the world swelters in ever more dangerous heat, why are oil companies being…
 
-Link: https://www.theguardian.com/global-development/2026/jul/07/dowry-murders-in-india-no-longer-spark-public-anger-or-debate-study-finds
+Link: https://www.theguardian.com/environment/2026/jul/07/big-oil-companies-profiting-fossil-fuel-global-climate-change
 
-### 7. If colleges don't leave grads better off, federal financial aid could be on the line [9/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 7. China missile test: what do we know and why are countries in the region concerned? [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Republicans' new accountability test for colleges and universities will go into effect soon; the test will cut off federal aid to school programs whose graduates struggle to earn a reasonable living.
+Beijing described the test as ‘routine’, while the US, Australia and countries in the Pacific condemned the exercise China’s decision to conduct a missile test in the Pacific at short-notice has prompted swift condemnation from leaders…
 
-Link: https://www.npr.org/2026/07/06/nx-s1-5835631/if-colleges-dont-leave-grads-better-off-federal-financial-aid-could-be-on-the-line
+Link: https://www.theguardian.com/world/2026/jul/07/china-missile-test-where-when-timing-response-controversy
 
 ### 8. Your family’s $300 stake in OpenAI [9/10]
 **Source:** MIT Technology Review  
@@ -105,14 +105,14 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 
 Link: https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/
 
-### 9. Independent again: Double Fine and Compulsion react to leaving Xbox and taking all their games with them [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 9. New Jersey Invests Record Money in Preschool, But Serving Multilingual Learners is Another Story [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Psychonauts and Keeper developer Double Fine Productions, and South of Midnight and We Happy Few developer Compulsion Games, have reacted to their new futures as it's confirmed they will become independent developers again. Read more
+Peter Rosario has spent years watching his teachers help Spanish-speaking preschoolers sound out English words at La Casa de Don Pedro, a Newark-based nonprofit organization that offers support for immigrant families and contracts with…
 
-Link: https://www.eurogamer.net/double-fine-compulsion-games-statement-xbox-restructuring
+Link: https://www.the74million.org/article/new-jersey-invests-record-money-in-preschool-but-serving-multilingual-learners-is-another-story/
 
 ### 10. Elementary Principals Are Getting a Crash Course in How Young Kids Learn Best [9/10]
 **Source:** The 74  
@@ -123,14 +123,14 @@ When Joel Francik became principal of Central Elementary School in 2019, all of 
 
 Link: https://www.the74million.org/zero2eight/elementary-principals-are-getting-a-crash-course-in-how-young-kids-learn-best/
 
-### 11. What a divorce coach wishes couples knew before ending a marriage [8/10]
+### 11. Trump administration cancels grants aimed at reducing teen pregnancies [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Divorce is a tool, not a weapon, says Karen McNenny, author of a new book on the subject. She explains how to end a marriage while protecting your family and your mental health.
+The Trump administration has canceled all but a handful of grants meant to teach teenagers and caregivers about reducing teen pregnancies, arguing they are "normalizing sexual activity for minors."
 
-Link: https://www.npr.org/2026/07/07/nx-s1-5877797/end-marriage-good-terms-divorce
+Link: https://www.npr.org/2026/07/07/nx-s1-5875464/trump-administration-cancels-grants-aimed-at-reducing-teen-pregnancies
 
 ### 12. Apple TV Shares Mysterious First Teaser for Adaptation of William Gibson’s Sci-Fi Novel Neuromancer [8/10]
 **Source:** Reactor  
@@ -152,7 +152,131 @@ Link: https://www.npr.org/2026/07/06/nx-s1-5883978/supreme-court-texas-app-store
 
 ## YouTube
 
-_No YouTube picks in this briefing._
+### France faces another heat wave after the hottest June on record [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+France is in the midst of its third heat wave since the spring, and with summer barely underway.
+
+Link: https://www.youtube.com/watch?v=0o5qvq8jDKc
+
+### India's frustrated students demand the resignation of the country’s education minister [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+There’s a standoff underway between Indian protesters and authorities in the country’s capital of New Delhi.
+
+Link: https://www.youtube.com/watch?v=ukSs3cs0HbI
+
+### California bans "Sell by" food label to cut down on food waste [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+A new law in California is intended to help clear up some of the confusion among consumers over food expiration dates. Manufacturers currently use dozens of different variations of labeling like “Sell By,” “Freshest By,” and “Use By.
+
+Link: https://www.youtube.com/watch?v=F04-Z1sfXo8
+
+### Vatican declares society of St.Pius X in schism, excommunicates bishops [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The Vatican responded aggressively Thursday to a traditionalist society that consecrated bishops without the pope's consent, declaring the Society of St. Pius X had formally broken with the Catholic Church.
+
+Link: https://www.youtube.com/watch?v=Yg9OGXHJDxg
+
+### SteamOS 3.8 - Is Linux Ready To Take On Windows For Gaming? [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=jOWnumlWA7E
+
+### Where Did It Start To Go Wrong For Xbox? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=QOudL9rnqQU
+
+### Will Valve Make A "Steam Machine Pro"...? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=bdX1Wy3bqlQ
+
+### Big Delays On All Valve Hardware - What's Going On? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=goDt-fQ0t0c
+
+### GTA 6 - The "Code In A Box" Physical Release Presents Big Issues [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=OcqI4WBgh1U
+
+### Is It Even Possible To Get Good PC Hardware Deals? Our Advice + Tips [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=FoLnFvTK5k4
+
+### Stonemachia Is Chess, But Soulslike | Hot Monday Energy [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Hidden Gems KC, Jess, and Jesse play Stonemachia -- https://store.steampowered.com/app/2982610/Stonemachia/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=hKLS4ELFdFs
+
+### The British Games Are Coming! | Windbreaker Podcast [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty gab about the long history of British-developed video games. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=tLWa9TRul5E
+
+### The Beautiful & Baffling Designs of Myst | Design Delve [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+In today's episode, J & Ludo dive into the 1993 PNG paradise that is Myst. And how, in the service of modernization, the developers may have done more harm than good in the long run. Support us on Patreon: https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=jqlIBsEnajs
+
+### Modern AAA Gaming Offers No Time to Try [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+KC Nwosu's latest video uses IO Interactive's 007: First Light as a jumping off point to discuss the lack of risk-taking in modern AAA games. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.
+
+Link: https://www.youtube.com/watch?v=15k2zGBl5rY
 
 ## Entertainment Recommendations
 
@@ -183,4 +307,245 @@ _No YouTube picks in this briefing._
 
 ## Trailers / Previews
 
-_No trailer picks in this briefing._
+### The Odyssey | Official Countdown Trailer [8/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The Odyssey - In Theaters 7 17 26 Christopher Nolan’s next film, The Odyssey, is a mythic action epic shot across the world using brand new IMAX® film technology.
+
+Link: https://www.youtube.com/watch?v=AyIZ9tiiN8I
+
+### KLARA AND THE SUN – Official Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Meet Klara. Your new best (artificial) friend. 🌞 Jenna Ortega is Klara in Director Taika Waititi’s adaptation of Kazuo Ishiguro’s #KlaraAndTheSun - coming exclusively to theatres October 23. Watch the trailer now.
+
+Link: https://www.youtube.com/watch?v=wixzainceAE
+
+### SPIDER-MAN: BRAND NEW DAY – New Trailer [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.
+
+Link: https://www.youtube.com/watch?v=Rv1dodCKgvE
+
+### SPIDER-MAN: BRAND NEW DAY – New Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.
+
+Link: https://www.youtube.com/watch?v=62bIsvRcPv0
+
+### The Debut | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.
+
+Link: https://www.youtube.com/watch?v=clyzHmBx43E
+
+### The Invite | Official First Look | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.
+
+Link: https://www.youtube.com/watch?v=MrKYHdDzu0g
+
+### Her Private Hell - Official Trailer - In Theaters July 24 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.
+
+Link: https://www.youtube.com/watch?v=C7E-0t1TfzM
+
+### Sheep in the Box - Official Trailer - In Theaters July 24 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In the near future, Otone and Kensuke, a grieving couple who have lost their son, take into their lives a humanoid identical to their late child.
+
+Link: https://www.youtube.com/watch?v=j5mlc8TAPNw
+
+### NIGHTBORN | Official Trailer Feat. Rupert Grint, Seidi Haarla | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+With dreams of starting a perfect family, Saga and her British husband Jon move to the isolated house where she spent much of her childhood, deep in the Finnish forest.
+
+Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
+
+### Love in Slow Motion | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Can love be hiding where you least expect it? Haya has always kept love at arm’s length... until Jawad drops news she never saw coming.
+
+Link: https://www.youtube.com/watch?v=oCg2wXznjLo
+
+### STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+STEEL BALL RUN JoJo’s Bizarre Adventure 2nd & 3rd Stage (all 11 episodes) will premiere on Netflix each Friday, starting on September 25.
+
+Link: https://www.youtube.com/watch?v=43qoWFJbWF0
+
+### Little House on the Prairie | Meet The Ingalls | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The close-knit Ingalls family builds a new life on the Western frontier, where the joys of nature and the struggle for survival are deeply intertwined. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=2dQw6luieLE
+
+### The East Palace | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders—can they unravel its dark secrets? The East Palace is coming July 17, only on Netflix #Netflix #TheEastPalace #동궁 Watch on…
+
+Link: https://www.youtube.com/watch?v=wBUkNE1l9DU
+
+### Wonka's The Golden Ticket | Official Teaser | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Step into a world of pure imagination when the gates of the Chocolate Factory reopen this Fall. Wonka's The Golden Ticket, a new Netflix reality competition series, arrives on September 23. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=oTSvnmTfLj8
+
+### NEMESIS RENEWED FOR SEASON 2! [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+This score isn’t settled... NEMESIS SEASON 2 IS COMING Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=KTbC8ZnMfPA
+
+### The Ultimatum: Marry or Move On: Season 4 | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Is the grass greener on the other side? Six more couples test this theory by moving in with new potential partners for a revealing social experiment. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=5PJbRJIcWKg
+
+### Cyberpunk: Edgerunners 2 | Official Teaser #2 | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+New legends. Same Night City. CYBERPUNK: EDGERUNNERS 2 Cyberpunk: Edgerunners 2 presents a new standalone 10-episode story from the world of Cyberpunk 2077, coming this fall, only on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=QBlPg818lGI
+
+### A Toxic Love Story | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+In a glamorous California suburb, a young woman’s arrest for a violent fantasy plot becomes a sensational scandal, but the truth remains hidden behind a sophisticated web of deception.
+
+Link: https://www.youtube.com/watch?v=9k9SYlMy9qs
+
+### The Bombing of Pan Am 103 | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The tragic bombing of a transatlantic flight over Scotland in 1988 unites the local police and the FBI in a hunt for the attackers. Based on a true story. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=5fYWCkoDSeU
+
+### can these fans solve the case of the Enola Holmes 3 premiere? #Netflix #EnolaHolmes [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+can these fans solve the case of the Enola Holmes 3 premiere? Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=Mgcu7233OBM
+
+### Silo — Season 3 Origins | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.co/_Silo The truth has never been closer to the surface.
+
+Link: https://www.youtube.com/watch?v=7mpY41cyhLA
+
+### Silo — Charlotte's Mission | Season 3 Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.
+
+Link: https://www.youtube.com/watch?v=TFqwOs_MR_E
+
+### Widow's Bay — Patricia Interrupts Book Club | Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.
+
+Link: https://www.youtube.com/watch?v=joDvnreAYhk
+
+### The teenage years are upon them. A new season of Trying premieres July 8 on Apple TV. [9/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A new season of Trying premieres July 8 on Apple TV https://apple.co/_Trying Subscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube Follow Apple TV: Instagram: https://instagram.com/AppleTV TikTok: https://tiktok.
+
+Link: https://www.youtube.com/watch?v=U84f9hqXEVA
+
+### Camp Snoopy — Icewater feat. Mayer Hawthorne | Singalong | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Stone Cold Snoopy. Season 2 of Camp Snoopy is now streaming on Apple TV, and "Icewater" by Mayer Hawthorne is now available on Apple Music. #CampSnoopy #Singalong #AppleTV
+
+Link: https://www.youtube.com/watch?v=zsxdJrUDQ9w
+
+### Silo — Season 3 Opening Title Sequence | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.
+
+Link: https://www.youtube.com/watch?v=Z-o5zHPxwwA
+
+### Widow's Bay — For You | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+If you are watching this video, you have a very important job to do. A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.
+
+Link: https://www.youtube.com/watch?v=RDQrWFX3XMM

@@ -1,39 +1,39 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-07T05:00:01.581952Z",
-  "generatedAtDisplay": "2026-07-07 01:00 AM EDT",
+  "generatedAt": "2026-07-07T09:00:26.376846Z",
+  "generatedAtDisplay": "2026-07-07 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Russian cities feel the pinch amid worsening fuel shortages, Details scarce as Mitch McConnell ‘continues recovery’ in hospital, and Princess Moss Elected NEA President With Votes From 50% of Assembly Members.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Madonna was always anti-nostalgia. But looking back on Confessions II has revitalised her music, US airman accused of exposing himself to 16-year-old girl avoided British trial, and ‘Bored? You’re never good enough to get bored!’ Oscar-winner Helen Hunt on great roles, unruly audiences and her RSC debut.",
   "mainItems": [
     {
-      "title": "Russian cities feel the pinch amid worsening fuel shortages",
+      "title": "Madonna was always anti-nostalgia. But looking back on Confessions II has revitalised her music",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jul/07/russia-cities-feel-pinch-amid-worsening-fuel-shortages",
-      "published": "2026-07-07T04:00:29+00:00",
-      "summary": "Ukraine’s drone and missile campaign on oil infrastructure has brought impact of war to citizens of Moscow and elsewhere Five hours into the queue, tempers were already fraying at the gas station.",
+      "url": "https://www.theguardian.com/music/2026/jul/07/madonna-nostalgia-confessions-ii",
+      "published": "2026-07-07T07:34:19+00:00",
+      "summary": "The veteran pop diva has pressed rewind to move forward on her new record – and beneath the bangers fizz a host of emotionally charged memories • Confessions II review – nostalgic dancefloor trip sparks her most vital album in two decades…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Details scarce as Mitch McConnell ‘continues recovery’ in hospital",
+      "title": "US airman accused of exposing himself to 16-year-old girl avoided British trial",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/06/mitch-mcconnell-health",
-      "published": "2026-07-07T01:09:26+00:00",
-      "summary": "Staff decline to give updates on senator’s health and whether he will be at Capitol when Senate returns Staff for Mitch McConnell said last week that the Kentucky senator was “continuing his recovery” in a hospital while the Senate is out…",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/07/us-airman-accused-of-exposing-himself-to-16-year-old-girl-court-martial",
+      "published": "2026-07-07T05:00:30+00:00",
+      "summary": "Hannes Marschalek, who allegedly exposed his penis to four other women in Cambridgeshire, tried via US court martial A US airman who allegedly exposed himself to a 16-year-old girl and four young women in England was able to avoid the…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Princess Moss Elected NEA President With Votes From 50% of Assembly Members",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/princess-moss-elected-nea-president-with-votes-from-50-of-assembly-members/",
-      "published": "2026-07-06T19:30:21+00:00",
-      "summary": "Princess Moss was elected president of the National Education Association during its annual representative assembly on Sunday.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "‘Bored? You’re never good enough to get bored!’ Oscar-winner Helen Hunt on great roles, unruly audiences and her RSC debut",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/stage/2026/jul/07/helen-hunt-oscar-rsc-the-cherry-orchard-kenneth-branagh",
+      "published": "2026-07-07T04:00:28+00:00",
+      "summary": "The formidable actor talks about the challenge of finding meaty characters, tough times in the US – and co-starring with her dad’s hero Kenneth Branagh in The Cherry Orchard It’s lunchtime in Stratford-upon-Avon and Helen Hunt has 30…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
@@ -47,33 +47,33 @@
       "score": 10
     },
     {
-      "title": "Nato braces for difficult summit as Trump puts pressure on spending",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/jul/07/nato-braces-for-difficult-summit-as-trump-puts-pressure-on-spending",
-      "published": "2026-07-07T04:00:31+00:00",
-      "summary": "Meeting of 32 member states comes at crucial time for alliance after tensions with US over Iran and Greenland Nato leaders will gather in Ankara on Tuesday after a turbulent six months.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Acclaimed PS5 roguelike shooter Saros gets a substantial free trial, but there's a catch",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/saros-two-hour-trial-playstation-plus-premium",
+      "published": "2026-07-07T08:33:44+00:00",
+      "summary": "Saros, the latest game from the arcade-loving game creators at Housemarque, is getting a new two-and-half hour trial for anyone interested in trying it. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "Dowry murders in India no longer spark public anger or debate, study finds",
+      "title": "Fuel on the fire: why oil companies are profiting as the world gets dangerously hot",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/global-development/2026/jul/07/dowry-murders-in-india-no-longer-spark-public-anger-or-debate-study-finds",
-      "published": "2026-07-07T04:00:29+00:00",
-      "summary": "Thousands of women are killed in dowry disputes each year, despite the practice being banned in 1961 Dowry deaths in India no longer provoke the public anger they once did, despite thousands of women’s lives still being lost every year,…",
+      "url": "https://www.theguardian.com/environment/2026/jul/07/big-oil-companies-profiting-fossil-fuel-global-climate-change",
+      "published": "2026-07-07T06:00:31+00:00",
+      "summary": "The scientific consensus is that burning fossil fuels drives the climate crisis, yet the world’s biggest oil companies are planning to increase production As the world swelters in ever more dangerous heat, why are oil companies being…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
-      "title": "If colleges don't leave grads better off, federal financial aid could be on the line",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/07/06/nx-s1-5835631/if-colleges-dont-leave-grads-better-off-federal-financial-aid-could-be-on-the-line",
-      "published": "2026-07-06T20:40:30+00:00",
-      "summary": "Republicans' new accountability test for colleges and universities will go into effect soon; the test will cut off federal aid to school programs whose graduates struggle to earn a reasonable living.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "China missile test: what do we know and why are countries in the region concerned?",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/jul/07/china-missile-test-where-when-timing-response-controversy",
+      "published": "2026-07-07T05:59:13+00:00",
+      "summary": "Beijing described the test as ‘routine’, while the US, Australia and countries in the Pacific condemned the exercise China’s decision to conduct a missile test in the Pacific at short-notice has prompted swift condemnation from leaders…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
@@ -87,13 +87,13 @@
       "score": 9
     },
     {
-      "title": "Independent again: Double Fine and Compulsion react to leaving Xbox and taking all their games with them",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/double-fine-compulsion-games-statement-xbox-restructuring",
-      "published": "2026-07-06T15:59:25+00:00",
-      "summary": "Psychonauts and Keeper developer Double Fine Productions, and South of Midnight and We Happy Few developer Compulsion Games, have reacted to their new futures as it's confirmed they will become independent developers again. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "New Jersey Invests Record Money in Preschool, But Serving Multilingual Learners is Another Story",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/new-jersey-invests-record-money-in-preschool-but-serving-multilingual-learners-is-another-story/",
+      "published": "2026-07-06T14:30:00+00:00",
+      "summary": "Peter Rosario has spent years watching his teachers help Spanish-speaking preschoolers sound out English words at La Casa de Don Pedro, a Newark-based nonprofit organization that offers support for immigrant families and contracts with…",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
@@ -107,12 +107,12 @@
       "score": 9
     },
     {
-      "title": "What a divorce coach wishes couples knew before ending a marriage",
+      "title": "Trump administration cancels grants aimed at reducing teen pregnancies",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/07/nx-s1-5877797/end-marriage-good-terms-divorce",
-      "published": "2026-07-07T02:06:13+00:00",
-      "summary": "Divorce is a tool, not a weapon, says Karen McNenny, author of a new book on the subject. She explains how to end a marriage while protecting your family and your mental health.",
+      "url": "https://www.npr.org/2026/07/07/nx-s1-5875464/trump-administration-cancels-grants-aimed-at-reducing-teen-pregnancies",
+      "published": "2026-07-07T08:41:10+00:00",
+      "summary": "The Trump administration has canceled all but a handful of grants meant to teach teenagers and caregivers about reducing teen pregnancies, arguing they are \"normalizing sexual activity for minors.\"",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -137,8 +137,461 @@
       "score": 8
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "France faces another heat wave after the hottest June on record",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=0o5qvq8jDKc",
+      "published": "2026-07-06T20:00:03+00:00",
+      "summary": "France is in the midst of its third heat wave since the spring, and with summer barely underway.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "India's frustrated students demand the resignation of the country’s education minister",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=ukSs3cs0HbI",
+      "published": "2026-07-06T16:00:06+00:00",
+      "summary": "There’s a standoff underway between Indian protesters and authorities in the country’s capital of New Delhi.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "California bans \"Sell by\" food label to cut down on food waste",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=F04-Z1sfXo8",
+      "published": "2026-07-06T14:30:35+00:00",
+      "summary": "A new law in California is intended to help clear up some of the confusion among consumers over food expiration dates. Manufacturers currently use dozens of different variations of labeling like “Sell By,” “Freshest By,” and “Use By.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Vatican declares society of St.Pius X in schism, excommunicates bishops",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Yg9OGXHJDxg",
+      "published": "2026-07-06T14:00:40+00:00",
+      "summary": "The Vatican responded aggressively Thursday to a traditionalist society that consecrated bishops without the pope's consent, declaring the Society of St. Pius X had formally broken with the Catholic Church.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "SteamOS 3.8 - Is Linux Ready To Take On Windows For Gaming?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=jOWnumlWA7E",
+      "published": "2026-07-06T17:00:02+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Where Did It Start To Go Wrong For Xbox?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=QOudL9rnqQU",
+      "published": "2026-07-06T16:00:23+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Will Valve Make A \"Steam Machine Pro\"...?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=bdX1Wy3bqlQ",
+      "published": "2026-07-05T16:00:03+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Big Delays On All Valve Hardware - What's Going On?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=goDt-fQ0t0c",
+      "published": "2026-07-05T13:00:28+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "GTA 6 - The \"Code In A Box\" Physical Release Presents Big Issues",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=OcqI4WBgh1U",
+      "published": "2026-07-04T16:00:06+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Is It Even Possible To Get Good PC Hardware Deals? Our Advice + Tips",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=FoLnFvTK5k4",
+      "published": "2026-07-04T15:00:38+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Stonemachia Is Chess, But Soulslike | Hot Monday Energy",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=hKLS4ELFdFs",
+      "published": "2026-07-07T01:19:47+00:00",
+      "summary": "This week on Hidden Gems KC, Jess, and Jesse play Stonemachia -- https://store.steampowered.com/app/2982610/Stonemachia/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The British Games Are Coming! | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=tLWa9TRul5E",
+      "published": "2026-07-06T19:10:34+00:00",
+      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty gab about the long history of British-developed video games. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "The Beautiful & Baffling Designs of Myst | Design Delve",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=jqlIBsEnajs",
+      "published": "2026-07-06T15:00:29+00:00",
+      "summary": "In today's episode, J & Ludo dive into the 1993 PNG paradise that is Myst. And how, in the service of modernization, the developers may have done more harm than good in the long run. Support us on Patreon: https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Modern AAA Gaming Offers No Time to Try",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=15k2zGBl5rY",
+      "published": "2026-07-05T15:00:03+00:00",
+      "summary": "KC Nwosu's latest video uses IO Interactive's 007: First Light as a jumping off point to discuss the lack of risk-taking in modern AAA games. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "The Odyssey | Official Countdown Trailer",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=AyIZ9tiiN8I",
+      "published": "2026-07-01T12:30:05+00:00",
+      "summary": "The Odyssey - In Theaters 7 17 26 Christopher Nolan’s next film, The Odyssey, is a mythic action epic shot across the world using brand new IMAX® film technology.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "KLARA AND THE SUN – Official Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=wixzainceAE",
+      "published": "2026-06-22T16:00:09+00:00",
+      "summary": "Meet Klara. Your new best (artificial) friend. 🌞 Jenna Ortega is Klara in Director Taika Waititi’s adaptation of Kazuo Ishiguro’s #KlaraAndTheSun - coming exclusively to theatres October 23. Watch the trailer now.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY – New Trailer",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=Rv1dodCKgvE",
+      "published": "2026-06-17T19:27:30+00:00",
+      "summary": "The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY – New Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=62bIsvRcPv0",
+      "published": "2026-06-17T18:58:31+00:00",
+      "summary": "The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Debut | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=clyzHmBx43E",
+      "published": "2026-06-23T12:59:06+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Invite | Official First Look | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=MrKYHdDzu0g",
+      "published": "2026-06-18T14:00:23+00:00",
+      "summary": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "Her Private Hell - Official Trailer - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=C7E-0t1TfzM",
+      "published": "2026-06-30T16:00:27+00:00",
+      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Sheep in the Box - Official Trailer - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=j5mlc8TAPNw",
+      "published": "2026-06-23T16:08:02+00:00",
+      "summary": "In the near future, Otone and Kensuke, a grieving couple who have lost their son, take into their lives a humanoid identical to their late child.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "NIGHTBORN | Official Trailer Feat. Rupert Grint, Seidi Haarla | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=dWePsu_Kd9c",
+      "published": "2026-07-06T19:08:20+00:00",
+      "summary": "With dreams of starting a perfect family, Saga and her British husband Jon move to the isolated house where she spent much of her childhood, deep in the Finnish forest.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Love in Slow Motion | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=oCg2wXznjLo",
+      "published": "2026-07-07T08:00:00+00:00",
+      "summary": "Can love be hiding where you least expect it? Haya has always kept love at arm’s length... until Jawad drops news she never saw coming.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=43qoWFJbWF0",
+      "published": "2026-07-03T23:00:01+00:00",
+      "summary": "STEEL BALL RUN JoJo’s Bizarre Adventure 2nd & 3rd Stage (all 11 episodes) will premiere on Netflix each Friday, starting on September 25.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Little House on the Prairie | Meet The Ingalls | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=2dQw6luieLE",
+      "published": "2026-07-02T20:00:00+00:00",
+      "summary": "The close-knit Ingalls family builds a new life on the Western frontier, where the joys of nature and the struggle for survival are deeply intertwined. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The East Palace | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=wBUkNE1l9DU",
+      "published": "2026-07-01T00:00:01+00:00",
+      "summary": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders—can they unravel its dark secrets? The East Palace is coming July 17, only on Netflix #Netflix #TheEastPalace #동궁 Watch on…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Wonka's The Golden Ticket | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=oTSvnmTfLj8",
+      "published": "2026-06-30T16:00:00+00:00",
+      "summary": "Step into a world of pure imagination when the gates of the Chocolate Factory reopen this Fall. Wonka's The Golden Ticket, a new Netflix reality competition series, arrives on September 23. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "NEMESIS RENEWED FOR SEASON 2!",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=KTbC8ZnMfPA",
+      "published": "2026-06-30T15:00:30+00:00",
+      "summary": "This score isn’t settled... NEMESIS SEASON 2 IS COMING Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Ultimatum: Marry or Move On: Season 4 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=5PJbRJIcWKg",
+      "published": "2026-06-29T16:00:00+00:00",
+      "summary": "Is the grass greener on the other side? Six more couples test this theory by moving in with new potential partners for a revealing social experiment. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners 2 | Official Teaser #2 | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=QBlPg818lGI",
+      "published": "2026-06-29T15:30:00+00:00",
+      "summary": "New legends. Same Night City. CYBERPUNK: EDGERUNNERS 2 Cyberpunk: Edgerunners 2 presents a new standalone 10-episode story from the world of Cyberpunk 2077, coming this fall, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "A Toxic Love Story | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=9k9SYlMy9qs",
+      "published": "2026-06-29T15:00:00+00:00",
+      "summary": "In a glamorous California suburb, a young woman’s arrest for a violent fantasy plot becomes a sensational scandal, but the truth remains hidden behind a sophisticated web of deception.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Bombing of Pan Am 103 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=5fYWCkoDSeU",
+      "published": "2026-06-29T12:30:00+00:00",
+      "summary": "The tragic bombing of a transatlantic flight over Scotland in 1988 unites the local police and the FBI in a hunt for the attackers. Based on a true story. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "can these fans solve the case of the Enola Holmes 3 premiere? #Netflix #EnolaHolmes",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Mgcu7233OBM",
+      "published": "2026-06-28T17:00:19+00:00",
+      "summary": "can these fans solve the case of the Enola Holmes 3 premiere? Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Silo — Season 3 Origins | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=7mpY41cyhLA",
+      "published": "2026-07-06T21:59:56+00:00",
+      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.co/_Silo The truth has never been closer to the surface.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Silo — Charlotte's Mission | Season 3 Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=TFqwOs_MR_E",
+      "published": "2026-07-06T18:59:52+00:00",
+      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Widow's Bay — Patricia Interrupts Book Club | Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=joDvnreAYhk",
+      "published": "2026-07-06T17:59:48+00:00",
+      "summary": "A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The teenage years are upon them. A new season of Trying premieres July 8 on Apple TV.",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=U84f9hqXEVA",
+      "published": "2026-07-05T17:59:53+00:00",
+      "summary": "A new season of Trying premieres July 8 on Apple TV https://apple.co/_Trying Subscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube Follow Apple TV: Instagram: https://instagram.com/AppleTV TikTok: https://tiktok.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Camp Snoopy — Icewater feat. Mayer Hawthorne | Singalong | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=zsxdJrUDQ9w",
+      "published": "2026-07-04T15:59:46+00:00",
+      "summary": "Stone Cold Snoopy. Season 2 of Camp Snoopy is now streaming on Apple TV, and \"Icewater\" by Mayer Hawthorne is now available on Apple Music. #CampSnoopy #Singalong #AppleTV",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Silo — Season 3 Opening Title Sequence | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Z-o5zHPxwwA",
+      "published": "2026-07-03T18:59:57+00:00",
+      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Widow's Bay — For You | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=RDQrWFX3XMM",
+      "published": "2026-07-03T13:59:53+00:00",
+      "summary": "If you are watching this video, you have a very important job to do. A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -250,8 +703,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 8
+    "youtubeCount": 14,
+    "trailerCount": 27,
+    "sourceCount": 17
   }
 }
