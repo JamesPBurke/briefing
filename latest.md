@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-07T09:00:26.376846Z
+Generated: 2026-07-07T14:00:02.280288Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Madonna was always anti-nostalgia. But looking back on Confessions II has revitalised her music, US airman accused of exposing himself to 16-year-old girl avoided British trial, and ‘Bored? You’re never good enough to get bored!’ Oscar-winner Helen Hunt on great roles, unruly audiences and her RSC debut.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Paris court clears way for Marine Le Pen presidential election run but under conditions she rejects - Europe live, Medicaid billing allowed to resume for Planned Parenthood after being cut off, and Scientists Gave Mice Cocaine. This Is What It Did to Their Brains.
 
 ## Briefing
 
@@ -33,25 +33,97 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Madonna was always anti-nostalgia. But looking back on Confessions II has revitalised her music [10/10]
+### 1. Paris court clears way for Marine Le Pen presidential election run but under conditions she rejects - Europe live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The veteran pop diva has pressed rewind to move forward on her new record – and beneath the bangers fizz a host of emotionally charged memories • Confessions II review – nostalgic dancefloor trip sparks her most vital album in two decades…
+Judge shortens length of ineligibility to hold public office but orders Le Pen wear an electronic tag, something she has previously said would rule her out from running The opening speeches are now under way in Ankara, and you can watch…
 
-Link: https://www.theguardian.com/music/2026/jul/07/madonna-nostalgia-confessions-ii
+Link: https://www.theguardian.com/world/live/2026/jul/07/nato-summit-zelenskyy-trump-ukraine-rutte-defence-eu-spending-turkey-france-macron-le-pen-europe-latest-news-updates
 
-### 2. US airman accused of exposing himself to 16-year-old girl avoided British trial [10/10]
+### 2. Medicaid billing allowed to resume for Planned Parenthood after being cut off [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Hannes Marschalek, who allegedly exposed his penis to four other women in Cambridgeshire, tried via US court martial A US airman who allegedly exposed himself to a 16-year-old girl and four young women in England was able to avoid the…
+Defunding, mandated in Trump’s 2025 policy, has been blamed for closure of clinics as well as reduction in screenings for cancer and STDs Planned Parenthood and two smaller regional abortion providers are resuming billing Medicaid for…
 
-Link: https://www.theguardian.com/uk-news/2026/jul/07/us-airman-accused-of-exposing-himself-to-16-year-old-girl-court-martial
+Link: https://www.theguardian.com/us-news/2026/jul/07/medicaid-resumes-planned-parenthood
 
-### 3. ‘Bored? You’re never good enough to get bored!’ Oscar-winner Helen Hunt on great roles, unruly audiences and her RSC debut [10/10]
+### 3. Scientists Gave Mice Cocaine. This Is What It Did to Their Brains [10/10]
+**Source:** 404 Media  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Researchers found that a single dose left persistent changes to the genomes of neurons, a discovery that could have implications for treating addiction.
+
+Link: https://www.404media.co/mice-cocaine-research-addiction-fens-forum/
+
+### 4. The Outer Worlds and Fallout New Vegas studio Obsidian is reportedly losing a quarter of its staff in Xbox layoffs [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Obsidian, the legendary RPG studio behind The Outer Worlds , Avowed , Fallout New Vegas and other acclaimed games, is losing about a quarter of its workers. That is according to a new Kotaku report, citing sources familiar with the matter.
+
+Link: https://www.eurogamer.net/obsidian-xbox-layoffs-workforce-impact-25-percent-loss
+
+### 5. New York man sues ICE for sending officers to his house after he emailed agency head [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+David Streever had emailed acting ICE director after an immigration officer fatally shot Renee Good in Minneapolis An upstate New York resident sued US Immigration and Customs Enforcement ( ICE ) for sending federal officers to his house…
+
+Link: https://www.theguardian.com/us-news/2026/jul/07/new-york-man-sues-ice-email
+
+### 6. Opinion: We Asked Students What They Needed. Then We Built Around the Answer [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+As educators, we spend a lot of time talking about the things we think are important. Attendance. Graduation rates. Test scores. Yes, those things matter.
+
+Link: https://www.the74million.org/article/we-asked-students-what-they-needed-then-we-built-around-the-answer/
+
+### 7. While several Xbox studios regained independence or found new owners yesterday, Arkane's staff must negotiate their own future [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Yesterday, Xbox announced that they were spinning off five major studios in the course of the latest round of "historic" restructuring , with 1600 jobs instantly chopped and 1600 more layoffs to follow over the next financial year.
+
+Link: https://www.rockpapershotgun.com/while-several-xbox-studios-regained-independence-or-found-new-owners-yesterday-arkanes-staff-must-negotiate-their-own-future
+
+### 8. The Download: your stake in OpenAI, and the Treasury’s AI warning [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/
+
+### 9. ‘You’re Dead to Me’ Review: An Ambitious but Overcrowded Love Letter to ’90s Horror [9/10]
+**Source:** Bloody Disgusting  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+You’re Dead to Me, the new Gen-Z horror film from director Juan Pablo Arias Munoz, bills itself as a love letter to ’90s horror classics, and it launches into that vibe immediately with an opening sequence clearly modeled on the opening of…
+
+Link: https://bloody-disgusting.com/reviews/3958429/youre-dead-to-me-review-an-ambitious-but-overcrowded-love-letter-to-90s-horror/
+
+### 10. Prince Harry loses lawsuit against Mail publisher over phone-hacking claims [9/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Duke of Sussex and other prominent figures sued Associated Newspapers alleging it sourced stories using unlawful methods • Prince Harry court case - latest updates The Duke of Sussex and six other prominent figures have lost their case…
+
+Link: https://www.theguardian.com/media/2026/jul/07/prince-harry-lawsuit-mail-publisher-phone-hacking-claims
+
+### 11. ‘Bored? You’re never good enough to get bored!’ Oscar-winner Helen Hunt on great roles, unruly audiences and her RSC debut [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -60,86 +132,14 @@ The formidable actor talks about the challenge of finding meaty characters, toug
 
 Link: https://www.theguardian.com/stage/2026/jul/07/helen-hunt-oscar-rsc-the-cherry-orchard-kenneth-branagh
 
-### 4. ‘Why take those jobs away?’: the unionized workers decrying Trump’s war on wind [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Workers proud of their efforts to grow renewable energy say US president pursuing ‘personal vendetta’ at their expense Donald Trump has blamed everything – from “national security” issues, the deaths of birds and whales , and cancer – in…
-
-Link: https://www.theguardian.com/environment/2026/jul/06/workers-unions-trump-wind-energy
-
-### 5. Acclaimed PS5 roguelike shooter Saros gets a substantial free trial, but there's a catch [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Saros, the latest game from the arcade-loving game creators at Housemarque, is getting a new two-and-half hour trial for anyone interested in trying it. Read more
-
-Link: https://www.eurogamer.net/saros-two-hour-trial-playstation-plus-premium
-
-### 6. Fuel on the fire: why oil companies are profiting as the world gets dangerously hot [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The scientific consensus is that burning fossil fuels drives the climate crisis, yet the world’s biggest oil companies are planning to increase production As the world swelters in ever more dangerous heat, why are oil companies being…
-
-Link: https://www.theguardian.com/environment/2026/jul/07/big-oil-companies-profiting-fossil-fuel-global-climate-change
-
-### 7. China missile test: what do we know and why are countries in the region concerned? [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Beijing described the test as ‘routine’, while the US, Australia and countries in the Pacific condemned the exercise China’s decision to conduct a missile test in the Pacific at short-notice has prompted swift condemnation from leaders…
-
-Link: https://www.theguardian.com/world/2026/jul/07/china-missile-test-where-when-timing-response-controversy
-
-### 8. Your family’s $300 stake in OpenAI [9/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.
-
-Link: https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/
-
-### 9. New Jersey Invests Record Money in Preschool, But Serving Multilingual Learners is Another Story [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Peter Rosario has spent years watching his teachers help Spanish-speaking preschoolers sound out English words at La Casa de Don Pedro, a Newark-based nonprofit organization that offers support for immigrant families and contracts with…
-
-Link: https://www.the74million.org/article/new-jersey-invests-record-money-in-preschool-but-serving-multilingual-learners-is-another-story/
-
-### 10. Elementary Principals Are Getting a Crash Course in How Young Kids Learn Best [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-When Joel Francik became principal of Central Elementary School in 2019, all of his prior education experience had been in middle school — first as a teacher, then as an assistant principal.
-
-Link: https://www.the74million.org/zero2eight/elementary-principals-are-getting-a-crash-course-in-how-young-kids-learn-best/
-
-### 11. Trump administration cancels grants aimed at reducing teen pregnancies [8/10]
+### 12. There's no treatment designed for the Ebola strain ravaging DRC. But now there's hope [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-The Trump administration has canceled all but a handful of grants meant to teach teenagers and caregivers about reducing teen pregnancies, arguing they are "normalizing sexual activity for minors."
+The strain of the virus that's responsible for the current outbreak has no specific treatments or preventive measures. Three new clinical trials could provide possible breakthroughs.
 
-Link: https://www.npr.org/2026/07/07/nx-s1-5875464/trump-administration-cancels-grants-aimed-at-reducing-teen-pregnancies
-
-### 12. Apple TV Shares Mysterious First Teaser for Adaptation of William Gibson’s Sci-Fi Novel Neuromancer [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-The teaser certainly captures the look and feel of the novel The post Apple TV Shares Mysterious First Teaser for Adaptation of William Gibson’s Sci-Fi Novel Neuromancer appeared first on Reactor .
-
-Link: https://reactormag.com/apple-tv-first-teaser-william-gibson-sci-fi-novel-neuromancer/
+Link: https://www.npr.org/2026/07/07/g-s1-132218/theres-no-treatment-designed-for-the-ebola-strain-ravaging-drc-but-now-theres-hope
 
 ### 13. Supreme Court lets Texas restrict minors' access to app stores for the time being [8/10]
 **Source:** NPR Tech  
@@ -242,9 +242,9 @@ Link: https://www.youtube.com/watch?v=OcqI4WBgh1U
 
 Link: https://www.youtube.com/watch?v=FoLnFvTK5k4
 
-### Stonemachia Is Chess, But Soulslike | Hot Monday Energy [7/10]
+### Stonemachia Is Chess, But Soulslike | Hot Monday Energy [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Hidden Gems KC, Jess, and Jesse play Stonemachia -- https://store.steampowered.com/app/2982610/Stonemachia/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.
@@ -387,6 +387,15 @@ Link: https://www.youtube.com/watch?v=j5mlc8TAPNw
 With dreams of starting a perfect family, Saga and her British husband Jon move to the isolated house where she spent much of her childhood, deep in the Finnish forest.
 
 Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
+
+### The Final Problem | Date Announcement | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+An island off the coast of Mallorca, thirteen guests trapped in a hotel by a storm, and a death that changes everything. That’s how this new Netflix mystery series begins, based on the novel by Arturo Pérez-Reverte.
+
+Link: https://www.youtube.com/watch?v=CfjAUfv6F6o
 
 ### Love in Slow Motion | Official Trailer | Netflix [10/10]
 **Source:** Netflix  

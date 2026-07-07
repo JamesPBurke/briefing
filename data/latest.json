@@ -1,30 +1,110 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-07T09:00:26.376846Z",
-  "generatedAtDisplay": "2026-07-07 05:00 AM EDT",
+  "generatedAt": "2026-07-07T14:00:02.280288Z",
+  "generatedAtDisplay": "2026-07-07 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Madonna was always anti-nostalgia. But looking back on Confessions II has revitalised her music, US airman accused of exposing himself to 16-year-old girl avoided British trial, and ‘Bored? You’re never good enough to get bored!’ Oscar-winner Helen Hunt on great roles, unruly audiences and her RSC debut.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Paris court clears way for Marine Le Pen presidential election run but under conditions she rejects - Europe live, Medicaid billing allowed to resume for Planned Parenthood after being cut off, and Scientists Gave Mice Cocaine. This Is What It Did to Their Brains.",
   "mainItems": [
     {
-      "title": "Madonna was always anti-nostalgia. But looking back on Confessions II has revitalised her music",
+      "title": "Paris court clears way for Marine Le Pen presidential election run but under conditions she rejects - Europe live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/music/2026/jul/07/madonna-nostalgia-confessions-ii",
-      "published": "2026-07-07T07:34:19+00:00",
-      "summary": "The veteran pop diva has pressed rewind to move forward on her new record – and beneath the bangers fizz a host of emotionally charged memories • Confessions II review – nostalgic dancefloor trip sparks her most vital album in two decades…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/07/nato-summit-zelenskyy-trump-ukraine-rutte-defence-eu-spending-turkey-france-macron-le-pen-europe-latest-news-updates",
+      "published": "2026-07-07T13:56:18+00:00",
+      "summary": "Judge shortens length of ineligibility to hold public office but orders Le Pen wear an electronic tag, something she has previously said would rule her out from running The opening speeches are now under way in Ankara, and you can watch…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "US airman accused of exposing himself to 16-year-old girl avoided British trial",
+      "title": "Medicaid billing allowed to resume for Planned Parenthood after being cut off",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/07/us-airman-accused-of-exposing-himself-to-16-year-old-girl-court-martial",
-      "published": "2026-07-07T05:00:30+00:00",
-      "summary": "Hannes Marschalek, who allegedly exposed his penis to four other women in Cambridgeshire, tried via US court martial A US airman who allegedly exposed himself to a 16-year-old girl and four young women in England was able to avoid the…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/07/medicaid-resumes-planned-parenthood",
+      "published": "2026-07-07T12:51:43+00:00",
+      "summary": "Defunding, mandated in Trump’s 2025 policy, has been blamed for closure of clinics as well as reduction in screenings for cancer and STDs Planned Parenthood and two smaller regional abortion providers are resuming billing Medicaid for…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "Scientists Gave Mice Cocaine. This Is What It Did to Their Brains",
+      "source": "404 Media",
+      "category": "Democracy / press freedom",
+      "url": "https://www.404media.co/mice-cocaine-research-addiction-fens-forum/",
+      "published": "2026-07-07T12:49:05+00:00",
+      "summary": "Researchers found that a single dose left persistent changes to the genomes of neurons, a discovery that could have implications for treating addiction.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The Outer Worlds and Fallout New Vegas studio Obsidian is reportedly losing a quarter of its staff in Xbox layoffs",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/obsidian-xbox-layoffs-workforce-impact-25-percent-loss",
+      "published": "2026-07-07T12:43:27+00:00",
+      "summary": "Obsidian, the legendary RPG studio behind The Outer Worlds , Avowed , Fallout New Vegas and other acclaimed games, is losing about a quarter of its workers. That is according to a new Kotaku report, citing sources familiar with the matter.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "New York man sues ICE for sending officers to his house after he emailed agency head",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/07/new-york-man-sues-ice-email",
+      "published": "2026-07-07T12:42:15+00:00",
+      "summary": "David Streever had emailed acting ICE director after an immigration officer fatally shot Renee Good in Minneapolis An upstate New York resident sued US Immigration and Customs Enforcement ( ICE ) for sending federal officers to his house…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: We Asked Students What They Needed. Then We Built Around the Answer",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/we-asked-students-what-they-needed-then-we-built-around-the-answer/",
+      "published": "2026-07-07T12:30:00+00:00",
+      "summary": "As educators, we spend a lot of time talking about the things we think are important. Attendance. Graduation rates. Test scores. Yes, those things matter.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "While several Xbox studios regained independence or found new owners yesterday, Arkane's staff must negotiate their own future",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/while-several-xbox-studios-regained-independence-or-found-new-owners-yesterday-arkanes-staff-must-negotiate-their-own-future",
+      "published": "2026-07-07T12:27:31+00:00",
+      "summary": "Yesterday, Xbox announced that they were spinning off five major studios in the course of the latest round of \"historic\" restructuring , with 1600 jobs instantly chopped and 1600 more layoffs to follow over the next financial year.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+      "published": "2026-07-07T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "‘You’re Dead to Me’ Review: An Ambitious but Overcrowded Love Letter to ’90s Horror",
+      "source": "Bloody Disgusting",
+      "category": "Sci-fi / horror",
+      "url": "https://bloody-disgusting.com/reviews/3958429/youre-dead-to-me-review-an-ambitious-but-overcrowded-love-letter-to-90s-horror/",
+      "published": "2026-07-07T14:00:03+00:00",
+      "summary": "You’re Dead to Me, the new Gen-Z horror film from director Juan Pablo Arias Munoz, bills itself as a love letter to ’90s horror classics, and it launches into that vibe immediately with an opening sequence clearly modeled on the opening of…",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 9
+    },
+    {
+      "title": "Prince Harry loses lawsuit against Mail publisher over phone-hacking claims",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/media/2026/jul/07/prince-harry-lawsuit-mail-publisher-phone-hacking-claims",
+      "published": "2026-07-07T13:19:54+00:00",
+      "summary": "Duke of Sussex and other prominent figures sued Associated Newspapers alleging it sourced stories using unlawful methods • Prince Harry court case - latest updates The Duke of Sussex and six other prominent figures have lost their case…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
     },
     {
       "title": "‘Bored? You’re never good enough to get bored!’ Oscar-winner Helen Hunt on great roles, unruly audiences and her RSC debut",
@@ -34,96 +114,16 @@
       "published": "2026-07-07T04:00:28+00:00",
       "summary": "The formidable actor talks about the challenge of finding meaty characters, tough times in the US – and co-starring with her dad’s hero Kenneth Branagh in The Cherry Orchard It’s lunchtime in Stratford-upon-Avon and Helen Hunt has 30…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "‘Why take those jobs away?’: the unionized workers decrying Trump’s war on wind",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/environment/2026/jul/06/workers-unions-trump-wind-energy",
-      "published": "2026-07-06T11:00:01+00:00",
-      "summary": "Workers proud of their efforts to grow renewable energy say US president pursuing ‘personal vendetta’ at their expense Donald Trump has blamed everything – from “national security” issues, the deaths of birds and whales , and cancer – in…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Acclaimed PS5 roguelike shooter Saros gets a substantial free trial, but there's a catch",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/saros-two-hour-trial-playstation-plus-premium",
-      "published": "2026-07-07T08:33:44+00:00",
-      "summary": "Saros, the latest game from the arcade-loving game creators at Housemarque, is getting a new two-and-half hour trial for anyone interested in trying it. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "Fuel on the fire: why oil companies are profiting as the world gets dangerously hot",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/environment/2026/jul/07/big-oil-companies-profiting-fossil-fuel-global-climate-change",
-      "published": "2026-07-07T06:00:31+00:00",
-      "summary": "The scientific consensus is that burning fossil fuels drives the climate crisis, yet the world’s biggest oil companies are planning to increase production As the world swelters in ever more dangerous heat, why are oil companies being…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "China missile test: what do we know and why are countries in the region concerned?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jul/07/china-missile-test-where-when-timing-response-controversy",
-      "published": "2026-07-07T05:59:13+00:00",
-      "summary": "Beijing described the test as ‘routine’, while the US, Australia and countries in the Pacific condemned the exercise China’s decision to conduct a missile test in the Pacific at short-notice has prompted swift condemnation from leaders…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Your family’s $300 stake in OpenAI",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "published": "2026-07-06T18:00:00+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "New Jersey Invests Record Money in Preschool, But Serving Multilingual Learners is Another Story",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/new-jersey-invests-record-money-in-preschool-but-serving-multilingual-learners-is-another-story/",
-      "published": "2026-07-06T14:30:00+00:00",
-      "summary": "Peter Rosario has spent years watching his teachers help Spanish-speaking preschoolers sound out English words at La Casa de Don Pedro, a Newark-based nonprofit organization that offers support for immigrant families and contracts with…",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Elementary Principals Are Getting a Crash Course in How Young Kids Learn Best",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/zero2eight/elementary-principals-are-getting-a-crash-course-in-how-young-kids-learn-best/",
-      "published": "2026-07-06T10:30:00+00:00",
-      "summary": "When Joel Francik became principal of Central Elementary School in 2019, all of his prior education experience had been in middle school — first as a teacher, then as an assistant principal.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Trump administration cancels grants aimed at reducing teen pregnancies",
+      "title": "There's no treatment designed for the Ebola strain ravaging DRC. But now there's hope",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/07/nx-s1-5875464/trump-administration-cancels-grants-aimed-at-reducing-teen-pregnancies",
-      "published": "2026-07-07T08:41:10+00:00",
-      "summary": "The Trump administration has canceled all but a handful of grants meant to teach teenagers and caregivers about reducing teen pregnancies, arguing they are \"normalizing sexual activity for minors.\"",
+      "url": "https://www.npr.org/2026/07/07/g-s1-132218/theres-no-treatment-designed-for-the-ebola-strain-ravaging-drc-but-now-theres-hope",
+      "published": "2026-07-07T12:51:59+00:00",
+      "summary": "The strain of the virus that's responsible for the current outbreak has no specific treatments or preventive measures. Three new clinical trials could provide possible breakthroughs.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Apple TV Shares Mysterious First Teaser for Adaptation of William Gibson’s Sci-Fi Novel Neuromancer",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/apple-tv-first-teaser-william-gibson-sci-fi-novel-neuromancer/",
-      "published": "2026-07-06T20:53:11+00:00",
-      "summary": "The teaser certainly captures the look and feel of the novel The post Apple TV Shares Mysterious First Teaser for Adaptation of William Gibson’s Sci-Fi Novel Neuromancer appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     },
     {
@@ -256,8 +256,8 @@
       "published": "2026-07-07T01:19:47+00:00",
       "summary": "This week on Hidden Gems KC, Jess, and Jesse play Stonemachia -- https://store.steampowered.com/app/2982610/Stonemachia/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "The British Games Are Coming! | Windbreaker Podcast",
@@ -391,6 +391,17 @@
       "summary": "With dreams of starting a perfect family, Saga and her British husband Jon move to the isolated house where she spent much of her childhood, deep in the Finnish forest.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Final Problem | Date Announcement | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=CfjAUfv6F6o",
+      "published": "2026-07-07T13:00:00+00:00",
+      "summary": "An island off the coast of Mallorca, thirteen guests trapped in a hotel by a storm, and a death that changes everything. That’s how this new Netflix mystery series begins, based on the novel by Arturo Pérez-Reverte.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -704,7 +715,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 14,
-    "trailerCount": 27,
-    "sourceCount": 17
+    "trailerCount": 28,
+    "sourceCount": 19
   }
 }
