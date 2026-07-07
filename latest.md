@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-06T18:00:38.187347Z
+Generated: 2026-07-07T05:00:01.581952Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Millions join funeral procession for Iran’s supreme leader Ali Khamenei, Microsoft cuts 4,800 jobs as it revamps Xbox in latest wave of mass layoffs, and New Jersey Invests Record Money in Preschool, But Serving Multilingual Learners is Another Story.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Russian cities feel the pinch amid worsening fuel shortages, Details scarce as Mitch McConnell ‘continues recovery’ in hospital, and Princess Moss Elected NEA President With Votes From 50% of Assembly Members.
 
 ## Briefing
 
@@ -33,52 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Millions join funeral procession for Iran’s supreme leader Ali Khamenei [10/10]
+### 1. Russian cities feel the pinch amid worsening fuel shortages [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Crowds swelled through Tehran as mourners dressed in black carried flags proclaiming: ‘We will rise’ A crowd of millions assembled on Monday for the funeral procession of Iran’s assassinated supreme leader, Ali Khamenei .
-
-Link: https://www.theguardian.com/world/2026/jul/06/ali-khamenei-funeral-procession-iran-supreme-leader
-
-### 2. Microsoft cuts 4,800 jobs as it revamps Xbox in latest wave of mass layoffs [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Thousands of gaming jobs will be shed over the coming fiscal year as Microsoft continues to invest heavily in AI Microsoft said on Monday it was eliminating about 4,800 jobs – roughly 2% of its global workforce – in a cost-cutting move…
-
-Link: https://www.theguardian.com/technology/2026/jul/06/microsoft-cuts-jobs-xbox-overhaul-mass-layoffs
-
-### 3. New Jersey Invests Record Money in Preschool, But Serving Multilingual Learners is Another Story [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Peter Rosario has spent years watching his teachers help Spanish-speaking preschoolers sound out English words at La Casa de Don Pedro, a Newark-based nonprofit organization that offers support for immigrant families and contracts with…
-
-Link: https://www.the74million.org/article/new-jersey-invests-record-money-in-preschool-but-serving-multilingual-learners-is-another-story/
-
-### 4. UK regulator warns of "arms race" to keep up with AI use in financial services [10/10]
-**Source:** Ars Technica  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.
+Ukraine’s drone and missile campaign on oil infrastructure has brought impact of war to citizens of Moscow and elsewhere Five hours into the queue, tempers were already fraying at the gas station.
 
-Link: https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/
+Link: https://www.theguardian.com/world/2026/jul/07/russia-cities-feel-pinch-amid-worsening-fuel-shortages
 
-### 5. Opinion: The College Cost Fog Machine: We Need a New Transparency Compact [10/10]
+### 2. Details scarce as Mitch McConnell ‘continues recovery’ in hospital [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Staff decline to give updates on senator’s health and whether he will be at Capitol when Senate returns Staff for Mitch McConnell said last week that the Kentucky senator was “continuing his recovery” in a hospital while the Senate is out…
+
+Link: https://www.theguardian.com/us-news/2026/jul/06/mitch-mcconnell-health
+
+### 3. Princess Moss Elected NEA President With Votes From 50% of Assembly Members [10/10]
 **Source:** The 74  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-A family shopping for college today knows more about the cost of a mortgage than the real price of a college degree. That confusion isn’t only a technical problem inside financial aid offices.
+Princess Moss was elected president of the National Education Association during its annual representative assembly on Sunday.
 
-Link: https://www.the74million.org/article/the-college-cost-fog-machine-we-need-a-new-transparency-compact/
+Link: https://www.the74million.org/article/princess-moss-elected-nea-president-with-votes-from-50-of-assembly-members/
 
-### 6. ‘Why take those jobs away?’: the unionized workers decrying Trump’s war on wind [10/10]
+### 4. ‘Why take those jobs away?’: the unionized workers decrying Trump’s war on wind [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -87,16 +69,52 @@ Workers proud of their efforts to grow renewable energy say US president pursuin
 
 Link: https://www.theguardian.com/environment/2026/jul/06/workers-unions-trump-wind-energy
 
-### 7. Buckingham Palace says Harry can no longer stay at royal residence on UK visit [10/10]
+### 5. Nato braces for difficult summit as Trump puts pressure on spending [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Fresh row erupts over Duke of Sussex’s trip, the buildup to which has been overshadowed by security dispute It was about 9am when the news broke that a significant rapprochement had finally been reached: Prince Harry, once referred to as…
+Meeting of 32 member states comes at crucial time for alliance after tensions with US over Iran and Greenland Nato leaders will gather in Ankara on Tuesday after a turbulent six months.
 
-Link: https://www.theguardian.com/uk-news/2026/jul/06/buckingham-palace-denies-prince-harry-to-stay-royal-residence-uk-visit-row-duke-of-sussex
+Link: https://www.theguardian.com/world/2026/jul/07/nato-braces-for-difficult-summit-as-trump-puts-pressure-on-spending
 
-### 8. Elementary Principals Are Getting a Crash Course in How Young Kids Learn Best [10/10]
+### 6. Dowry murders in India no longer spark public anger or debate, study finds [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Thousands of women are killed in dowry disputes each year, despite the practice being banned in 1961 Dowry deaths in India no longer provoke the public anger they once did, despite thousands of women’s lives still being lost every year,…
+
+Link: https://www.theguardian.com/global-development/2026/jul/07/dowry-murders-in-india-no-longer-spark-public-anger-or-debate-study-finds
+
+### 7. If colleges don't leave grads better off, federal financial aid could be on the line [9/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Republicans' new accountability test for colleges and universities will go into effect soon; the test will cut off federal aid to school programs whose graduates struggle to earn a reasonable living.
+
+Link: https://www.npr.org/2026/07/06/nx-s1-5835631/if-colleges-dont-leave-grads-better-off-federal-financial-aid-could-be-on-the-line
+
+### 8. Your family’s $300 stake in OpenAI [9/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.
+
+Link: https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/
+
+### 9. Independent again: Double Fine and Compulsion react to leaving Xbox and taking all their games with them [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Psychonauts and Keeper developer Double Fine Productions, and South of Midnight and We Happy Few developer Compulsion Games, have reacted to their new futures as it's confirmed they will become independent developers again. Read more
+
+Link: https://www.eurogamer.net/double-fine-compulsion-games-statement-xbox-restructuring
+
+### 10. Elementary Principals Are Getting a Crash Course in How Young Kids Learn Best [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -105,47 +123,64 @@ When Joel Francik became principal of Central Elementary School in 2019, all of 
 
 Link: https://www.the74million.org/zero2eight/elementary-principals-are-getting-a-crash-course-in-how-young-kids-learn-best/
 
-### 9. How to start volunteering: ‘There are roles to fit all interests and skill sets’ [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Common misconceptions are that you don’t have the right skills, or you need to make a huge time commitment Many people want to do good in the world. They want to connect and give back to their communities.
-
-Link: https://www.theguardian.com/wellness/2026/jul/06/how-to-start-volunteering
-
-### 10. F1 in Britain: Automated software to blame for crushing expectations [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Sometimes races finish behind a safety car, but it's not always satisfying.
-
-Link: https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/
-
-### 11. Trump rings New York Stock Exchange bell to mark first trading day for ‘Trump accounts’ [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-US president rings bell from White House and showcases initiative that gives children a $1,000 investment account Donald Trump rang the bell of the New York Stock Exchange (NYSE) from the White House to mark the first trading day for Trump…
-
-Link: https://www.theguardian.com/us-news/2026/jul/06/trump-accounts-trading-day-new-york-stock-exchange
-
-### 12. How to throw a stress-free pizza party at home: Maximize your fun (and pizza). [9/10]
-**Source:** King Arthur Baking  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-In theory, at least, a pizza party is meant to be fun — I mean, it has party right in the name.
-
-Link: https://www.kingarthurbaking.com/blog/2026/07/06/pizza-party-ideas
-
-### 13. Fast walkers in their 80s cut their risk of cognitive decline by half, a study finds [8/10]
+### 11. What a divorce coach wishes couples knew before ending a marriage [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-A new study of people 80 and older with exceptional gaits finds fast walkers have about a 50% lower risk of cognitive decline, showing the connection between physical health and brain health.
+Divorce is a tool, not a weapon, says Karen McNenny, author of a new book on the subject. She explains how to end a marriage while protecting your family and your mental health.
 
-Link: https://www.npr.org/2026/07/06/nx-s1-5877419/walk-pace-gait-brain-cognitive-health
+Link: https://www.npr.org/2026/07/07/nx-s1-5877797/end-marriage-good-terms-divorce
+
+### 12. Apple TV Shares Mysterious First Teaser for Adaptation of William Gibson’s Sci-Fi Novel Neuromancer [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+The teaser certainly captures the look and feel of the novel The post Apple TV Shares Mysterious First Teaser for Adaptation of William Gibson’s Sci-Fi Novel Neuromancer appeared first on Reactor .
+
+Link: https://reactormag.com/apple-tv-first-teaser-william-gibson-sci-fi-novel-neuromancer/
+
+### 13. Supreme Court lets Texas restrict minors' access to app stores for the time being [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Texas' App Store Accountability Act requires minors to have their parents' permission to download most apps. The Supreme Court says the law can go into effect as lawsuits continue in lower courts.
+
+Link: https://www.npr.org/2026/07/06/nx-s1-5883978/supreme-court-texas-app-store-minors
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._

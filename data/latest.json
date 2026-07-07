@@ -1,58 +1,38 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-06T18:00:38.187347Z",
-  "generatedAtDisplay": "2026-07-06 02:00 PM EDT",
+  "generatedAt": "2026-07-07T05:00:01.581952Z",
+  "generatedAtDisplay": "2026-07-07 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Millions join funeral procession for Iran’s supreme leader Ali Khamenei, Microsoft cuts 4,800 jobs as it revamps Xbox in latest wave of mass layoffs, and New Jersey Invests Record Money in Preschool, But Serving Multilingual Learners is Another Story.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Russian cities feel the pinch amid worsening fuel shortages, Details scarce as Mitch McConnell ‘continues recovery’ in hospital, and Princess Moss Elected NEA President With Votes From 50% of Assembly Members.",
   "mainItems": [
     {
-      "title": "Millions join funeral procession for Iran’s supreme leader Ali Khamenei",
+      "title": "Russian cities feel the pinch amid worsening fuel shortages",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/jul/06/ali-khamenei-funeral-procession-iran-supreme-leader",
-      "published": "2026-07-06T17:25:12+00:00",
-      "summary": "Crowds swelled through Tehran as mourners dressed in black carried flags proclaiming: ‘We will rise’ A crowd of millions assembled on Monday for the funeral procession of Iran’s assassinated supreme leader, Ali Khamenei .",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Microsoft cuts 4,800 jobs as it revamps Xbox in latest wave of mass layoffs",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/jul/06/microsoft-cuts-jobs-xbox-overhaul-mass-layoffs",
-      "published": "2026-07-06T16:54:31+00:00",
-      "summary": "Thousands of gaming jobs will be shed over the coming fiscal year as Microsoft continues to invest heavily in AI Microsoft said on Monday it was eliminating about 4,800 jobs – roughly 2% of its global workforce – in a cost-cutting move…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "New Jersey Invests Record Money in Preschool, But Serving Multilingual Learners is Another Story",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/new-jersey-invests-record-money-in-preschool-but-serving-multilingual-learners-is-another-story/",
-      "published": "2026-07-06T14:30:00+00:00",
-      "summary": "Peter Rosario has spent years watching his teachers help Spanish-speaking preschoolers sound out English words at La Casa de Don Pedro, a Newark-based nonprofit organization that offers support for immigrant families and contracts with…",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
-      "source": "Ars Technica",
       "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
-      "published": "2026-07-06T14:17:42+00:00",
-      "summary": "FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.",
+      "url": "https://www.theguardian.com/world/2026/jul/07/russia-cities-feel-pinch-amid-worsening-fuel-shortages",
+      "published": "2026-07-07T04:00:29+00:00",
+      "summary": "Ukraine’s drone and missile campaign on oil infrastructure has brought impact of war to citizens of Moscow and elsewhere Five hours into the queue, tempers were already fraying at the gas station.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Opinion: The College Cost Fog Machine: We Need a New Transparency Compact",
+      "title": "Details scarce as Mitch McConnell ‘continues recovery’ in hospital",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/06/mitch-mcconnell-health",
+      "published": "2026-07-07T01:09:26+00:00",
+      "summary": "Staff decline to give updates on senator’s health and whether he will be at Capitol when Senate returns Staff for Mitch McConnell said last week that the Kentucky senator was “continuing his recovery” in a hospital while the Senate is out…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Princess Moss Elected NEA President With Votes From 50% of Assembly Members",
       "source": "The 74",
       "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/the-college-cost-fog-machine-we-need-a-new-transparency-compact/",
-      "published": "2026-07-06T12:30:00+00:00",
-      "summary": "A family shopping for college today knows more about the cost of a mortgage than the real price of a college degree. That confusion isn’t only a technical problem inside financial aid offices.",
+      "url": "https://www.the74million.org/article/princess-moss-elected-nea-president-with-votes-from-50-of-assembly-members/",
+      "published": "2026-07-06T19:30:21+00:00",
+      "summary": "Princess Moss was elected president of the National Education Association during its annual representative assembly on Sunday.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -67,14 +47,54 @@
       "score": 10
     },
     {
-      "title": "Buckingham Palace says Harry can no longer stay at royal residence on UK visit",
+      "title": "Nato braces for difficult summit as Trump puts pressure on spending",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/06/buckingham-palace-denies-prince-harry-to-stay-royal-residence-uk-visit-row-duke-of-sussex",
-      "published": "2026-07-06T10:55:30+00:00",
-      "summary": "Fresh row erupts over Duke of Sussex’s trip, the buildup to which has been overshadowed by security dispute It was about 9am when the news broke that a significant rapprochement had finally been reached: Prince Harry, once referred to as…",
+      "url": "https://www.theguardian.com/world/2026/jul/07/nato-braces-for-difficult-summit-as-trump-puts-pressure-on-spending",
+      "published": "2026-07-07T04:00:31+00:00",
+      "summary": "Meeting of 32 member states comes at crucial time for alliance after tensions with US over Iran and Greenland Nato leaders will gather in Ankara on Tuesday after a turbulent six months.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
+      "score": 9
+    },
+    {
+      "title": "Dowry murders in India no longer spark public anger or debate, study finds",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/global-development/2026/jul/07/dowry-murders-in-india-no-longer-spark-public-anger-or-debate-study-finds",
+      "published": "2026-07-07T04:00:29+00:00",
+      "summary": "Thousands of women are killed in dowry disputes each year, despite the practice being banned in 1961 Dowry deaths in India no longer provoke the public anger they once did, despite thousands of women’s lives still being lost every year,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "If colleges don't leave grads better off, federal financial aid could be on the line",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/07/06/nx-s1-5835631/if-colleges-dont-leave-grads-better-off-federal-financial-aid-could-be-on-the-line",
+      "published": "2026-07-06T20:40:30+00:00",
+      "summary": "Republicans' new accountability test for colleges and universities will go into effect soon; the test will cut off federal aid to school programs whose graduates struggle to earn a reasonable living.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "Your family’s $300 stake in OpenAI",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "published": "2026-07-06T18:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Independent again: Double Fine and Compulsion react to leaving Xbox and taking all their games with them",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/double-fine-compulsion-games-statement-xbox-restructuring",
+      "published": "2026-07-06T15:59:25+00:00",
+      "summary": "Psychonauts and Keeper developer Double Fine Productions, and South of Midnight and We Happy Few developer Compulsion Games, have reacted to their new futures as it's confirmed they will become independent developers again. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "Elementary Principals Are Getting a Crash Course in How Young Kids Learn Best",
@@ -84,56 +104,36 @@
       "published": "2026-07-06T10:30:00+00:00",
       "summary": "When Joel Francik became principal of Central Elementary School in 2019, all of his prior education experience had been in middle school — first as a teacher, then as an assistant principal.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "How to start volunteering: ‘There are roles to fit all interests and skill sets’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/wellness/2026/jul/06/how-to-start-volunteering",
-      "published": "2026-07-06T16:00:14+00:00",
-      "summary": "Common misconceptions are that you don’t have the right skills, or you need to make a huge time commitment Many people want to do good in the world. They want to connect and give back to their communities.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
-      "title": "F1 in Britain: Automated software to blame for crushing expectations",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/",
-      "published": "2026-07-06T15:45:55+00:00",
-      "summary": "Sometimes races finish behind a safety car, but it's not always satisfying.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Trump rings New York Stock Exchange bell to mark first trading day for ‘Trump accounts’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/06/trump-accounts-trading-day-new-york-stock-exchange",
-      "published": "2026-07-06T14:27:42+00:00",
-      "summary": "US president rings bell from White House and showcases initiative that gives children a $1,000 investment account Donald Trump rang the bell of the New York Stock Exchange (NYSE) from the White House to mark the first trading day for Trump…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "How to throw a stress-free pizza party at home: Maximize your fun (and pizza).",
-      "source": "King Arthur Baking",
-      "category": "Democracy / press freedom",
-      "url": "https://www.kingarthurbaking.com/blog/2026/07/06/pizza-party-ideas",
-      "published": "2026-07-06T14:00:00+00:00",
-      "summary": "In theory, at least, a pizza party is meant to be fun — I mean, it has party right in the name.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Fast walkers in their 80s cut their risk of cognitive decline by half, a study finds",
+      "title": "What a divorce coach wishes couples knew before ending a marriage",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/06/nx-s1-5877419/walk-pace-gait-brain-cognitive-health",
-      "published": "2026-07-06T09:00:00+00:00",
-      "summary": "A new study of people 80 and older with exceptional gaits finds fast walkers have about a 50% lower risk of cognitive decline, showing the connection between physical health and brain health.",
+      "url": "https://www.npr.org/2026/07/07/nx-s1-5877797/end-marriage-good-terms-divorce",
+      "published": "2026-07-07T02:06:13+00:00",
+      "summary": "Divorce is a tool, not a weapon, says Karen McNenny, author of a new book on the subject. She explains how to end a marriage while protecting your family and your mental health.",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Apple TV Shares Mysterious First Teaser for Adaptation of William Gibson’s Sci-Fi Novel Neuromancer",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/apple-tv-first-teaser-william-gibson-sci-fi-novel-neuromancer/",
+      "published": "2026-07-06T20:53:11+00:00",
+      "summary": "The teaser certainly captures the look and feel of the novel The post Apple TV Shares Mysterious First Teaser for Adaptation of William Gibson’s Sci-Fi Novel Neuromancer appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
+    },
+    {
+      "title": "Supreme Court lets Texas restrict minors' access to app stores for the time being",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/07/06/nx-s1-5883978/supreme-court-texas-app-store-minors",
+      "published": "2026-07-06T20:15:17+00:00",
+      "summary": "Texas' App Store Accountability Act requires minors to have their parents' permission to download most apps. The Supreme Court says the law can go into effect as lawsuits continue in lower courts.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
     }
   ],
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 5
+    "sourceCount": 8
   }
 }
