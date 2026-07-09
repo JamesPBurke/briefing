@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-08T14:00:03.104636Z
+Generated: 2026-07-09T05:00:02.009333Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Fi’s Starlink-enabled pet tracker found my dog when LTE couldn’t, Can AI equalize political campaign ads – or will it remain a tool for spreading lies?, and Marine Le Pen launches France presidential campaign after ban reduced.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Trump to ask US supreme court to reconsider birthright citizenship ruling, New Vegas devs Obsidian are reportedly working on a new Fallout game, and only Microsoft could make news I've waited half my life for taste this bitter, and 'Gratuitously cruel': How trans youth became political targets – Stateside with Kai and Carter.
 
 ## Briefing
 
@@ -33,34 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Fi’s Starlink-enabled pet tracker found my dog when LTE couldn’t [10/10]
-**Source:** The Verge  
+### 1. Trump to ask US supreme court to reconsider birthright citizenship ruling [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Fi Ultra is the first Starlink-enabled pet tracker you can buy. It expands on GPS and LTE trackers, adding automatic failover to T-Mobile's T-Satellite-branded direct-to-cell service when venturing into cellular dead zones.
+Request for rehearing comes after Fox News report of Texas hospital advertising maternity services in Mexico Donald Trump said on Wednesday he would ask the US supreme court to reconsider its ruling that the 14th amendment to the US…
 
-Link: https://www.theverge.com/tech/962224/fi-ultra-dog-tracker-starlink-t-satellite-specs-price-release-date
+Link: https://www.theguardian.com/us-news/2026/jul/08/trump-supreme-court-birthright-citizenship
 
-### 2. Can AI equalize political campaign ads – or will it remain a tool for spreading lies? [10/10]
+### 2. New Vegas devs Obsidian are reportedly working on a new Fallout game, and only Microsoft could make news I've waited half my life for taste this bitter [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+I rather like Fallout: New Vegas . It's one of my favourite games of all time, if not number one.
+
+Link: https://www.rockpapershotgun.com/new-vegas-devs-obsidian-are-reportedly-working-on-a-new-fallout-game-and-only-microsoft-could-make-news-ive-waited-half-my-life-for-taste-this-bitter
+
+### 3. 'Gratuitously cruel': How trans youth became political targets – Stateside with Kai and Carter [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Last week, the US supreme court ruled that Idaho and West Virginia can continue enforcing their bans on transgender athletes playing on girls’ and women's teams in schools.
+
+Link: https://www.theguardian.com/us-news/video/2026/jul/08/scotus-transgender-athletes-stateside-podcast
+
+### 4. Google pays $250K for Linux vulnerability allowing guest VM escapes [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Both vulnerabilities allow untrusted users to gain root privileges.
+
+Link: https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/
+
+### 5. Microsoft’s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+As part of Microsoft's big Xbox "reset," which includes layoffs affecting 3,200 staffers, jettisoning studios, and shifting investments to focus on "higher priority projects," Obsidian Entertainment is changing its plans.
+
+Link: https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs
+
+### 6. ‘He did not deserve to die’: family of man fatally shot by ICE agent speaks out [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Lorenzo Salgado Araujo was killed by agent in Texas while on his way to work, and family found out from news reports The family of a Mexican immigrant who was fatally shot by a federal immigration agent on Tuesday in Texas called for an…
+
+Link: https://www.theguardian.com/us-news/2026/jul/08/texas-ice-shooting-victim-son
+
+### 7. Hoosier Childcare Providers Slam Education Requirement Rollback [10/10]
+**Source:** The 74  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+About two-dozen Hoosier childcare providers and advocates overwhelmingly opposed looser statewide staff educational requirements during a Monday public hearing. “This is a profession.
+
+Link: https://www.the74million.org/zero2eight/hoosier-childcare-providers-slam-education-requirement-rollback/
+
+### 8. After losing to the Mail, Prince Harry seems doomed to a sad life in California. And he did it to himself | Stephen Bates [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+As the family travails worsen, it’s a wretched time to lose face and maybe millions of pounds to his tabloid tormentor. Epic battle, epic fail It really hasn’t been a very good week for Harry.
+
+Link: https://www.theguardian.com/commentisfree/2026/jul/08/prince-harry-daily-mail-royal-family
+
+### 9. Trump switches back to flying on older Air Force One for England trip instead of new Qatari jet [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Political campaigns are increasingly deploying AI and deepfakes to further their messaging, and the scale of spread has experts concerned From the comfort of his bed, Jonathan Rinaldi, a political candidate for a city council seat in…
+US president unexpectedly changed plans for flight to England after using Qatari-gifted aircraft to travel to Turkey Donald Trump flew from Turkey to England onboard the older Air Force One on Wednesday, rather than the new, Qatari-gifted…
 
-Link: https://www.theguardian.com/technology/2026/jul/08/ai-ads-political-campaigns
+Link: https://www.theguardian.com/us-news/2026/jul/08/trump-air-force-one-england-trip
 
-### 3. Marine Le Pen launches France presidential campaign after ban reduced [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Far-right leader plans to take part in 2027 race despite appeal court upholding her conviction for embezzlement The French far-right leader Marine Le Pen has launched her presidential campaign after a decision by a court of appeal…
-
-Link: https://www.theguardian.com/world/2026/jul/08/marine-le-pen-launches-france-presidential-campaign-court-decision-ban-electronic-tag
-
-### 4. Opinion: The Final Piece of the Ed-Tech Backlash Has Finally Arrived [10/10]
+### 10. Opinion: The Final Piece of the Ed-Tech Backlash Has Finally Arrived [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -69,52 +123,16 @@ I have been a high school teacher for almost three decades, spending almost all 
 
 Link: https://www.the74million.org/article/the-final-piece-of-the-ed-tech-backlash-has-finally-arrived/
 
-### 5. Microsoft is reportedly considering making more of its first-party games exclusive to Xbox [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 11. Dune: Part Three Trailer Takes Us 20 Years Forward, With Paul Atreides Now a Tyrant [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-More of Microsoft's future first-party titles may become Xbox exclusives, according to a new report. The company is said to be interested in giving customers a reason to choose Xbox consoles over other brands. Read more
+We also see the return of Duncan Idaho, Chani, Alia, and more… The post Dune: Part Three Trailer Takes Us 20 Years Forward, With Paul Atreides Now a Tyrant appeared first on Reactor .
 
-Link: https://www.eurogamer.net/microsoft-making-more-xbox-games-exclusive-to-give-reason-to-buy-the-console
+Link: https://reactormag.com/dune-part-three-trailer-paul-atreides/
 
-### 6. ICE raided their city, taking parents, spouses and friends. That’s not where it ends [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Three families in Los Angeles on the devastating aftermath of ICE detentions and deportations that overwhelmed their city last summer Last summer, Angelenos began to vanish.
-
-Link: https://www.theguardian.com/us-news/ng-interactive/2026/jul/08/ice-raided-their-city-thats-not-where-it-ends
-
-### 7. Items found behind a Georgia Cracker Barrel lead to charges in 1985 Ohio murder [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Modern forensic analysis leads to arrest in murder of traveling salesman John Warren, authorities say Items that were found discarded behind a Cracker Barrel restaurant in Georgia in 1985 have led to charges against a suspect in an Ohio…
-
-Link: https://www.theguardian.com/us-news/2026/jul/08/modern-forensic-evidence-1985-georgia-murder
-
-### 8. Blue Origin, for the first time, is expected to raise private capital [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-The company is raising $10 billion, leading to a valuation of $130 billion.
-
-Link: https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/
-
-### 9. Get spirited away to a weird, scary version of a Japanese town and take pictures of the oddities you find in SOMBRAS: negative frames [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-About a year and a half ago I bought a point and shoot 35mm film camera because I was getting a bit bored of taking photos on my phone in the name of capturing a memory, only to literally never look at them again.
-
-Link: https://www.rockpapershotgun.com/get-spirited-away-to-a-weird-scary-version-of-a-japanese-town-and-take-pictures-of-the-oddities-you-find-in-sombras-negative-frames
-
-### 10. What's behind the push to make peptide therapies more readily available [8/10]
+### 12. What's behind the push to make peptide therapies more readily available [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -123,52 +141,43 @@ Marketed for longevity and wellness benefits, the unproven therapies are sold th
 
 Link: https://www.npr.org/2026/07/08/nx-s1-5885073/fda-peptides-compounding-pharmacies
 
-### 11. Why AI companies are hiring philosophers to help develop their models [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-A growing number of AI labs have been hiring from a surprising pool of candidates: philosophers. NPR's Scott Detrow talks with Benjamin Sutherland, who recently wrote about this for The Economist.
-
-Link: https://www.npr.org/2026/07/07/nx-s1-5875184/why-ai-companies-are-hiring-philosophers-to-help-develop-their-models
-
-### 12. Avatar Aang: The Last Airbender Gets a Trailer and a Much Earlier Release Date [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-The animated film now lands on Paramount Plus this month The post Avatar Aang: The Last Airbender Gets a Trailer and a Much Earlier Release Date appeared first on Reactor .
-
-Link: https://reactormag.com/avatar-aang-the-last-airbender-trailer/
-
-### 13. 'Knockoff' Browser Extension Hides Sketchy Brands on Amazon [7/10]
+### 13. Porn Platform Gives Sex Workers Stake in the Company's Profits [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-"Sorry to brands like WNPETHOME, EHEYCIGA, YXYL, LU&MN, JOYIN, TOMY, GODONLIF, YOOJEE, LINGTENG, LANEIGE, VISCOO, BIODANCE, COOFANDY, BALENNZ, TOSY, and LUENX."
+One of the co-founders of MintStars, a subscription site used by adult content creators, announced she's giving her entire stake in the company to a pool for the platform's creators and to the nonprofit SWOP Behind Bars.
 
-Link: https://www.404media.co/knockoff-browser-extension-hides-sketchy-brands-on-amazon/
+Link: https://www.404media.co/mintstars-founder-giving-shares-to-creators/
 
 ## YouTube
 
-### DeepSeek's New AI Speed Hack Is Amazing [8/10]
+### DeepSeek's New AI Speed Hack Is Amazing [7/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek paper is available here: https://arxiv.org/abs/2607.
 
 Link: https://www.youtube.com/watch?v=1yBU41auQhw
 
-### History Professor Answers Corruption Questions | Tech Support | WIRED [9/10]
-**Creator:** WIRED  
-**Verdict:** Watch it  
+### Trump says ceasefire is 'over,' calls Iran 'scum' following fresh airstrikes overnight [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-Professor and scholar in fascism and authoritarianism Ruth Ben-Ghiat joins WIRED to answer the internet’s burning questions about dictatorships, corrupt governments and kleptocracy.
+President Trump says the ceasefire between the U.S. and Iran is “over” after U.S. forces carried out a new wave of strikes on Iranian military targets overnight.
 
-Link: https://www.youtube.com/watch?v=Q_2CPW2cbTk
+Link: https://www.youtube.com/watch?v=NdHtDZJzVUA
+
+### Crews work through the night to stabilize NYC high-rise [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Construction crews worked through the night to stabilize a high-rise building in Midtown Manhattan after officials said two of its support columns buckled.
+
+Link: https://www.youtube.com/watch?v=uEb3rRpJWuY
 
 ### Platner faces calls to withdraw from Maine's senate race over sexual assault allegations [7/10]
 **Creator:** NPR  
@@ -206,114 +215,6 @@ France is in the midst of its third heat wave since the spring, and with summer 
 
 Link: https://www.youtube.com/watch?v=0o5qvq8jDKc
 
-### India's frustrated students demand the resignation of the country’s education minister [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-There’s a standoff underway between Indian protesters and authorities in the country’s capital of New Delhi.
-
-Link: https://www.youtube.com/watch?v=ukSs3cs0HbI
-
-### Xbox "Disc2Digital" Program Leaks: What Do We Think? [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/vcpjiMcAyoU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=jHa-M6B6lIs
-
-### Sony Ends The Era Of PlayStation Discs - And It's A Massive Mistake [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/vcpjiMcAyoU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=Smqby0FWsM8
-
-### SteamOS 3.8 - Is Linux Ready To Take On Windows For Gaming? [8/10]
-**Creator:** Digital Foundry  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=jOWnumlWA7E
-
-### Where Did It Start To Go Wrong For Xbox? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=QOudL9rnqQU
-
-### Will Valve Make A "Steam Machine Pro"...? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=bdX1Wy3bqlQ
-
-### Elden Ring Is a Video Game That Jack and Jenna Are Going to Stream [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=Gs9xCPYxAZQ
-
-### Does Anybody Hold Power in House of the Dragon? | The Backdrop [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-In this episode of The Backdrop, Darren Mooney takes a look at House of the Dragon and its depiction of power through the lens of other works like Oppenheimer. Support us on Patreon: https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=Xnj9mPaGPko
-
-### Stonemachia Is Chess, But Soulslike | Hot Monday Energy [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Hidden Gems KC, Jess, and Jesse play Stonemachia -- https://store.steampowered.com/app/2982610/Stonemachia/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=hKLS4ELFdFs
-
-### The British Games Are Coming! | Windbreaker Podcast [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty gab about the long history of British-developed video games. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=tLWa9TRul5E
-
-### The Beautiful & Baffling Designs of Myst | Design Delve [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-In today's episode, J & Ludo dive into the 1993 PNG paradise that is Myst. And how, in the service of modernization, the developers may have done more harm than good in the long run. Support us on Patreon: https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=jqlIBsEnajs
-
-### Modern AAA Gaming Offers No Time to Try [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-KC Nwosu's latest video uses IO Interactive's 007: First Light as a jumping off point to discuss the lack of risk-taking in modern AAA games. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.
-
-Link: https://www.youtube.com/watch?v=15k2zGBl5rY
-
 ## Entertainment Recommendations
 
 ### Newer shows that look like a fit
@@ -343,97 +244,16 @@ Link: https://www.youtube.com/watch?v=15k2zGBl5rY
 
 ## Trailers / Previews
 
-### The Odyssey | Official Countdown Trailer [8/10]
-**Source:** Universal Pictures  
+### time to go back to the prairie! #LittleHouseOnThePrairie premieres tomorrow! [10/10]
+**Source:** Netflix  
 **Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+**Why it matters:** Relevant to your current interest graph.
 
-The Odyssey - In Theaters 7 17 26 Christopher Nolan’s next film, The Odyssey, is a mythic action epic shot across the world using brand new IMAX® film technology.
+time to go back to the prairie! #LittleHouseOnThePrairie premieres tomorrow! Watch on Netflix: https://www.netflix.
 
-Link: https://www.youtube.com/watch?v=AyIZ9tiiN8I
+Link: https://www.youtube.com/watch?v=I5l1SZyX1Qs
 
-### KLARA AND THE SUN – Official Trailer (4K) [8/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Meet Klara. Your new best (artificial) friend. 🌞 Jenna Ortega is Klara in Director Taika Waititi’s adaptation of Kazuo Ishiguro’s #KlaraAndTheSun - coming exclusively to theatres October 23. Watch the trailer now.
-
-Link: https://www.youtube.com/watch?v=wixzainceAE
-
-### SPIDER-MAN: BRAND NEW DAY – New Trailer [8/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.
-
-Link: https://www.youtube.com/watch?v=Rv1dodCKgvE
-
-### SPIDER-MAN: BRAND NEW DAY – New Trailer (4K) [8/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-The world may have forgotten Peter Parker, but he hasn't forgotten them. Watch the new trailer for #SpiderManBrandNewDay, in theatres July 31. Tickets on sale NOW. July 31, 2026 It's a BRAND NEW DAY for Peter Parker.
-
-Link: https://www.youtube.com/watch?v=62bIsvRcPv0
-
-### The Debut | Official Trailer HD | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.
-
-Link: https://www.youtube.com/watch?v=clyzHmBx43E
-
-### The Invite | Official First Look | A24 [6/10]
-**Source:** A24  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.
-
-Link: https://www.youtube.com/watch?v=MrKYHdDzu0g
-
-### The Wrong Girls - Official Trailer - In Theaters August 14 [8/10]
-**Source:** NEON  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.
-
-Link: https://www.youtube.com/watch?v=zrcg8YHSys8
-
-### Her Private Hell - Official Trailer - In Theaters July 24 [8/10]
-**Source:** NEON  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.
-
-Link: https://www.youtube.com/watch?v=C7E-0t1TfzM
-
-### Sheep in the Box - Official Trailer - In Theaters July 24 [8/10]
-**Source:** NEON  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-In the near future, Otone and Kensuke, a grieving couple who have lost their son, take into their lives a humanoid identical to their late child.
-
-Link: https://www.youtube.com/watch?v=j5mlc8TAPNw
-
-### NIGHTBORN | Official Trailer Feat. Rupert Grint, Seidi Haarla | Shudder [8/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-With dreams of starting a perfect family, Saga and her British husband Jon move to the isolated house where she spent much of her childhood, deep in the Finnish forest.
-
-Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
-
-### Elize: Shadows of a Woman | Official Trailer | Netflix [10/10]
+### Elize: Shadows of a Woman | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -513,66 +333,3 @@ Link: https://www.youtube.com/watch?v=oTSvnmTfLj8
 This score isn’t settled... NEMESIS SEASON 2 IS COMING Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=KTbC8ZnMfPA
-
-### The Ultimatum: Marry or Move On: Season 4 | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Is the grass greener on the other side? Six more couples test this theory by moving in with new potential partners for a revealing social experiment. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=5PJbRJIcWKg
-
-### Camp Snoopy — Celestial Camping Ambiance | Apple TV [8/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-30 minutes of shooting stars, smooth jazz, and camping ambiance with Snoopy and Friends. Camp Snoopy — Season 2 Now Streaming #Snoopy #Ambiance #AppleTV
-
-Link: https://www.youtube.com/watch?v=5_LdIqumetw
-
-### Silo — Season 3 Origins | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.co/_Silo The truth has never been closer to the surface.
-
-Link: https://www.youtube.com/watch?v=7mpY41cyhLA
-
-### Silo — Charlotte's Mission | Season 3 Scene | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.
-
-Link: https://www.youtube.com/watch?v=TFqwOs_MR_E
-
-### Widow's Bay — Patricia Interrupts Book Club | Scene | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.
-
-Link: https://www.youtube.com/watch?v=joDvnreAYhk
-
-### The teenage years are upon them. A new season of Trying premieres July 8 on Apple TV. [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-A new season of Trying premieres July 8 on Apple TV https://apple.co/_Trying Subscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube Follow Apple TV: Instagram: https://instagram.com/AppleTV TikTok: https://tiktok.
-
-Link: https://www.youtube.com/watch?v=U84f9hqXEVA
-
-### Camp Snoopy — Icewater feat. Mayer Hawthorne | Singalong | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Stone Cold Snoopy. Season 2 of Camp Snoopy is now streaming on Apple TV, and "Icewater" by Mayer Hawthorne is now available on Apple Music. #CampSnoopy #Singalong #AppleTV
-
-Link: https://www.youtube.com/watch?v=zsxdJrUDQ9w
