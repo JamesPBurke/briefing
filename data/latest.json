@@ -1,11 +1,71 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-09T14:00:02.570848Z",
-  "generatedAtDisplay": "2026-07-09 10:00 AM EDT",
+  "generatedAt": "2026-07-09T18:00:28.782503Z",
+  "generatedAtDisplay": "2026-07-09 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / computing, Democracy / press freedom, Games / criticism. The strongest items in this run are Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question, Trump says truce ‘over’ as Iran reports US attack near nuclear plant – Middle East crisis live, and Say hello to Claude Wrapped.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are \"A densely-packed open world game about death anxiety\": Bad Magpie's avian mischief channels a lot of heartache, OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’, and Finale: Takeaways from a Season of AI in Education.",
   "mainItems": [
+    {
+      "title": "\"A densely-packed open world game about death anxiety\": Bad Magpie's avian mischief channels a lot of heartache",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/a-densely-packed-open-world-game-about-death-anxiety-bad-magpies-avian-mischief-channels-a-lot-of-heartache",
+      "published": "2026-07-09T18:00:00+00:00",
+      "summary": "Do they sing the song, where you are from? One for sorrow, two for joy, three for a girl, four for a boy… I wouldn't put it past magpies themselves to have learned this superstitious ditty.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+      "published": "2026-07-09T17:32:30+00:00",
+      "summary": "About two weeks after OpenAI's GPT-5.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Finale: Takeaways from a Season of AI in Education",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/finale-takeaways-from-a-season-of-ai-in-education/",
+      "published": "2026-07-09T16:30:00+00:00",
+      "summary": "Class Disrupted is an education podcast featuring author Michael Horn and Futre’s Diane Tavenner in conversation with educators, school leaders, students and other members of school communities as they investigate the challenges facing the…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Palworld PSA: you might want to uninstall your mods if you've not played in a while ahead of its 1.0 launch",
+      "source": "Rock Paper Shotgun",
+      "category": "AI / privacy",
+      "url": "https://www.rockpapershotgun.com/palworld-psa-you-might-want-to-uninstall-your-mods-if-youve-not-played-in-a-while-ahead-of-its-10-launch",
+      "published": "2026-07-09T16:30:00+00:00",
+      "summary": "Well, would you look at that. Palworld is launching into 1.0 tomorrow! Somehow an entire two years and then some passed to get to this point, but here we almost are, several updates and a notable lawsuit later.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "‘We will never use them’: the California universities stockpiling AR-15s, grenades and submachine guns",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/09/california-universities-military-equipment",
+      "published": "2026-07-09T16:00:55+00:00",
+      "summary": "A 2021 state law allows campus police to own military equipment for civilian safety – students fear it may be used to quash dissent For many public colleges and universities in California, keeping their campuses safe includes owning…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Microsoft’s patch Tuesdays are about to get bigger",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
+      "published": "2026-07-09T14:55:37+00:00",
+      "summary": "Windows 11 updates could soon include fixes for more security issues at once.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
     {
       "title": "Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question",
       "source": "Eurogamer",
@@ -14,56 +74,6 @@
       "published": "2026-07-09T13:51:19+00:00",
       "summary": "Earlier this month, Sony announced that it's ending manufacturing of physical PlayStation discs beginning January 2028 .",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Trump says truce ‘over’ as Iran reports US attack near nuclear plant – Middle East crisis live",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/live/2026/jul/09/iran-us-middle-east-strikes-centcom-bahrain-kuwait-qatar-strait-of-hormuz-latest-news-updates",
-      "published": "2026-07-09T13:45:53+00:00",
-      "summary": "Sides exchange strikes with Iranian media saying attacks reported near facility in Bushehr Kuwait’s foreign ministry has issued a statement condemning the Iranian attacks against the country.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Say hello to Claude Wrapped",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-      "published": "2026-07-09T13:40:10+00:00",
-      "summary": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Character.AI wants a piece of the microdrama pie",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
-      "published": "2026-07-09T13:11:53+00:00",
-      "summary": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
-      "published": "2026-07-09T13:10:49+00:00",
-      "summary": "Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "‘New terrifying levels’: 10 people fatally shot by immigration officials in Trump’s second term",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/09/ice-immigration-shooting-deaths-trump",
-      "published": "2026-07-09T13:00:02+00:00",
-      "summary": "As Trump’s immigration crackdown continues, Lorenzo Salgado Araujo’s death marks another high-profile killing by ICE officers Early on Tuesday morning, 52-year-old Lorenzo Salgado Araujo took his coffee and a meal his wife had prepared for…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -77,32 +87,32 @@
       "score": 10
     },
     {
-      "title": "Sony, Bungie settle with ex-Marathon director they accused of \"predatory behaviour\", bringing $200m wrongful dismissal lawsuit to a close",
-      "source": "Eurogamer",
-      "category": "AI / privacy",
-      "url": "https://www.eurogamer.net/sony-bungie-marathon-director-lawsuit-settled",
-      "published": "2026-07-09T11:51:17+00:00",
-      "summary": "Ex-Marathon director Christopher Barrett has announced a settlement has been reached with Sony and Bungie, after he sued both companies for wrongful dismissal, claiming they had \"deliberately destroyed [his] reputation by falsely, and…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
+      "title": "The (Talking?) Cats Are in the Bags in the Trailer for The Wrong Girls",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/the-wrong-girls-trailer/",
+      "published": "2026-07-09T16:28:35+00:00",
+      "summary": "Just look at that stunning stoner garbage bag couture The post The (Talking?) Cats Are in the Bags in the Trailer for The Wrong Girls appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 9
     },
     {
-      "title": "Some Microschools in Limbo While Awaiting New Federal Tax Credit Rules",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/some-microschools-in-limbo-as-they-await-new-federal-tax-credit-rules/",
-      "published": "2026-07-09T10:30:00+00:00",
-      "summary": "Public schools are beginning to imagine ways they can benefit from the new Federal Scholarship Tax Credit, after the Treasury Department clarified last month that district students will be eligible for scholarships.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "title": "‘His legacy is cringe’: how Charlie Kirk became a meme among the young – even his supporters",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/jul/09/charlie-kirk-meme-young-supporters",
+      "published": "2026-07-09T11:00:03+00:00",
+      "summary": "Crude jokes about the Maga luminary are exploding online – less than a year after conservatives were suppressing any slander against him Ten months since his assassination , Charlie Kirk’s name and likeness are still proliferating online.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
-      "title": "LinkedIn and X Are Flooded With AI Spam, Browsing Data Suggests",
+      "title": "Farmers Finally Get a John Deere Right to Repair Agreement That Doesn’t Screw Them Over",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/linkedin-and-x-are-flooded-with-ai-spam-browsing-data-suggests/",
-      "published": "2026-07-09T13:22:11+00:00",
-      "summary": "An AI detection company found that amount of AI content that users actually see in their day-to-day browsing is shockingly high.",
+      "url": "https://www.404media.co/farmers-finally-get-a-john-deere-right-to-repair-agreement-that-doesnt-screw-them-over/",
+      "published": "2026-07-09T14:09:23+00:00",
+      "summary": "The FTC's settlement with John Deere actually has teeth, unlike previous settlements that largely maintained the status quo.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -117,22 +127,12 @@
       "score": 8
     },
     {
-      "title": "Dune: Part Three Trailer Takes Us 20 Years Forward, With Paul Atreides Now a Tyrant",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/dune-part-three-trailer-paul-atreides/",
-      "published": "2026-07-08T18:44:53+00:00",
-      "summary": "We also see the return of Duncan Idaho, Chani, Alia, and more… The post Dune: Part Three Trailer Takes Us 20 Years Forward, With Paul Atreides Now a Tyrant appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
-      "title": "A new proposal for organ donation sparks concern",
+      "title": "'Solo agers' are a growing group. Changes that would help them could help everyone",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/08/nx-s1-5883714/organ-transplant-death-donation",
-      "published": "2026-07-08T21:00:19+00:00",
-      "summary": "Should patients who choose euthanasia be able to die by having their vital organs removed for donation? The ethical concerns are substantial.",
+      "url": "https://www.npr.org/2026/07/09/nx-s1-5886348/solo-agers-demographics-caregiving-family-aging",
+      "published": "2026-07-09T15:58:19+00:00",
+      "summary": "Many older adults navigate aging on their own — without children or a spouse. An expert says this is \"a reality to be supported\" rather than a crisis to be solved.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
@@ -150,6 +150,28 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "Shor's Algorithm for Quantum Computing - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=k_kyepATqB8",
+      "published": "2026-07-09T13:57:10+00:00",
+      "summary": "We brought a computer scientist and a physicist together to talk about Shor's algorithm - a famous factorisation algorithm for that can break some currently used encryption techniques if implemented in the quantum realm.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Josh Johnson Answers The Web's Most Searched Questions",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=y14db1CjxCk",
+      "published": "2026-07-09T16:00:07+00:00",
+      "summary": "Comedian @JoshJohnsonComedy visits WIRED to answer his most searched questions on Google.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
       "title": "Dictator Historian Answers America's Biggest Question",
       "source": "WIRED",
       "category": "Tech / media",
@@ -157,8 +179,8 @@
       "published": "2026-07-08T16:00:13+00:00",
       "summary": "The internet asks, WIRED answers. Is American democracy going to die? Professor and scholar in fascism and authoritarianism Ruth Ben-Ghiat breaks down all of the key ingredients in a recipe for a dying democracy.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "History Professor Answers Corruption Questions | Tech Support | WIRED",
@@ -238,6 +260,17 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "Sony Is Closing Down The PS3 and Vita Digital Stores",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=5DjEwMXqkHk",
+      "published": "2026-07-09T16:00:31+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/vcpjiMcAyoU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "The Big Xbox Reset Is Awful - And Spells Doom For id Software",
       "source": "Digital Foundry",
       "category": "Games / hardware",
@@ -245,8 +278,8 @@
       "published": "2026-07-08T16:00:33+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/DeUV3IqEZRU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Ultrawide Displays: An Actual Game-Changer For The PC Experience [Sponsored]",
@@ -282,26 +315,26 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "SteamOS 3.8 - Is Linux Ready To Take On Windows For Gaming?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=jOWnumlWA7E",
-      "published": "2026-07-06T17:00:02+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "title": "Drinking (Mostly) Clean Water in Fallout 3 w/ Jack, Jess, and Marty -- Part 5",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=J9OKKjMuJFU",
+      "published": "2026-07-09T14:56:15+00:00",
+      "summary": "After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
     },
     {
-      "title": "Where Did It Start To Go Wrong For Xbox?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=QOudL9rnqQU",
-      "published": "2026-07-06T16:00:23+00:00",
-      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "What Are We Doing Here, Xbox? | Firelink Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=MPKkhXoV5xk",
+      "published": "2026-07-09T16:26:23+00:00",
+      "summary": "This week on Firelink, KC and Marty chat about the recent update in Xbox's big studio reset. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.fantasycritic.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "Yahtzee Tries... About Fishing and Moonlight Peaks",
@@ -322,8 +355,8 @@
       "published": "2026-07-08T16:00:07+00:00",
       "summary": "This week on Fully Ramblomatic, Yahtzee reviewed The Adventures of Elliot: The Millennium Tales. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Elden Ring Is a Video Game That Jack and Jenna Are Going to Stream",
@@ -368,27 +401,16 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "The Beautiful & Baffling Designs of Myst | Design Delve",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=jqlIBsEnajs",
-      "published": "2026-07-06T15:00:29+00:00",
-      "summary": "In today's episode, J & Ludo dive into the 1993 PNG paradise that is Myst. And how, in the service of modernization, the developers may have done more harm than good in the long run. Support us on Patreon: https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     }
   ],
   "trailers": [
     {
-      "title": "The Odyssey | Official Countdown Trailer",
+      "title": "One Night Only | A Look Inside",
       "source": "Universal Pictures",
       "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=AyIZ9tiiN8I",
-      "published": "2026-07-01T12:30:05+00:00",
-      "summary": "The Odyssey - In Theaters 7 17 26 Christopher Nolan’s next film, The Odyssey, is a mythic action epic shot across the world using brand new IMAX® film technology.",
+      "url": "https://www.youtube.com/watch?v=sNFnNF8gpJQ",
+      "published": "2026-07-09T15:08:28+00:00",
+      "summary": "What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but You and Easy A, celebrates modern romantic comedy on the big screen with a fresh, witty, swoony original…",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 8,
       "verdict": "Looks promising"
@@ -414,17 +436,6 @@
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 8,
       "verdict": "Looks promising"
-    },
-    {
-      "title": "The Invite | Official First Look | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=MrKYHdDzu0g",
-      "published": "2026-06-18T14:00:23+00:00",
-      "summary": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
     },
     {
       "title": "The Wrong Girls - Official Trailer - In Theaters August 14",
@@ -471,6 +482,28 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Stokes Twins! | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=YB1Ikd9sk00",
+      "published": "2026-07-09T16:00:00+00:00",
+      "summary": "Meet Alan and Alex Stokes, the internet’s most creative agents of chaos. Daring challenges, jaw-dropping pranks, and mind-blowing stunts. No rules. No limits. Watch Stokes Twins! on Netflix July 18. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Gentlemen: Season 2 | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=aOY7HTQlsSo",
+      "published": "2026-07-09T15:00:01+00:00",
+      "summary": "The Jungle is Expanding! Theo James returns as Eddie aka The Duke, and this time he's back with a new sense of ambition. To grow the empire, he extends his reach across borders, taking on the Italian mafia.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Tyler Perry’s Why Did I Get Married Again? | Official Teaser | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -478,7 +511,7 @@
       "published": "2026-07-09T12:00:00+00:00",
       "summary": "New generation. Same relationships. Same question. Watch Tyler Perry’s WHY DID I GET MARRIED AGAIN?, only on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -559,25 +592,14 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Little House on the Prairie | Meet The Ingalls | Netflix",
-      "source": "Netflix",
+      "title": "Snoopy Presents: There's No Place Like Home, Snoopy — Official Trailer | Apple TV",
+      "source": "Apple TV",
       "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=2dQw6luieLE",
-      "published": "2026-07-02T20:00:00+00:00",
-      "summary": "The close-knit Ingalls family builds a new life on the Western frontier, where the joys of nature and the struggle for survival are deeply intertwined. Watch on Netflix: https://www.netflix.",
+      "url": "https://www.youtube.com/watch?v=A-NQmpNsZIc",
+      "published": "2026-07-09T14:59:54+00:00",
+      "summary": "A house with good bones. Snoopy Presents: No Place Like Home, Snoopy — July 31 #AppleTV #Peanuts #Snoopy #Trailer #NoPlaceLikeHomeSnoopy",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The East Palace | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=wBUkNE1l9DU",
-      "published": "2026-07-01T00:00:01+00:00",
-      "summary": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders—can they unravel its dark secrets? The East Palace is coming July 17, only on Netflix #Netflix #TheEastPalace #동궁 Watch on…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
+      "score": 8,
       "verdict": "Looks promising"
     },
     {
@@ -633,17 +655,6 @@
       "summary": "A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The teenage years are upon them. A new season of Trying premieres July 8 on Apple TV.",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=U84f9hqXEVA",
-      "published": "2026-07-05T17:59:53+00:00",
-      "summary": "A new season of Trying premieres July 8 on Apple TV https://apple.co/_Trying Subscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube Follow Apple TV: Instagram: https://instagram.com/AppleTV TikTok: https://tiktok.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
       "verdict": "Looks promising"
     }
   ],
@@ -758,8 +769,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 22,
-    "trailerCount": 24,
-    "sourceCount": 20
+    "youtubeCount": 24,
+    "trailerCount": 23,
+    "sourceCount": 22
   }
 }

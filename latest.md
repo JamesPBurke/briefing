@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-09T14:00:02.570848Z
+Generated: 2026-07-09T18:00:28.782503Z
 
-Today's sweep leans toward AI / computing, Democracy / press freedom, Games / criticism. The strongest items in this run are Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question, Trump says truce ‘over’ as Iran reports US attack near nuclear plant – Middle East crisis live, and Say hello to Claude Wrapped.
+Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are "A densely-packed open world game about death anxiety": Bad Magpie's avian mischief channels a lot of heartache, OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’, and Finale: Takeaways from a Season of AI in Education.
 
 ## Briefing
 
@@ -33,7 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question [10/10]
+### 1. "A densely-packed open world game about death anxiety": Bad Magpie's avian mischief channels a lot of heartache [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Do they sing the song, where you are from? One for sorrow, two for joy, three for a girl, four for a boy… I wouldn't put it past magpies themselves to have learned this superstitious ditty.
+
+Link: https://www.rockpapershotgun.com/a-densely-packed-open-world-game-about-death-anxiety-bad-magpies-avian-mischief-channels-a-lot-of-heartache
+
+### 2. OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’ [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+About two weeks after OpenAI's GPT-5.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work
+
+### 3. Finale: Takeaways from a Season of AI in Education [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Class Disrupted is an education podcast featuring author Michael Horn and Futre’s Diane Tavenner in conversation with educators, school leaders, students and other members of school communities as they investigate the challenges facing the…
+
+Link: https://www.the74million.org/article/finale-takeaways-from-a-season-of-ai-in-education/
+
+### 4. Palworld PSA: you might want to uninstall your mods if you've not played in a while ahead of its 1.0 launch [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Well, would you look at that. Palworld is launching into 1.0 tomorrow! Somehow an entire two years and then some passed to get to this point, but here we almost are, several updates and a notable lawsuit later.
+
+Link: https://www.rockpapershotgun.com/palworld-psa-you-might-want-to-uninstall-your-mods-if-youve-not-played-in-a-while-ahead-of-its-10-launch
+
+### 5. ‘We will never use them’: the California universities stockpiling AR-15s, grenades and submachine guns [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+A 2021 state law allows campus police to own military equipment for civilian safety – students fear it may be used to quash dissent For many public colleges and universities in California, keeping their campuses safe includes owning…
+
+Link: https://www.theguardian.com/us-news/2026/jul/09/california-universities-military-equipment
+
+### 6. Microsoft’s patch Tuesdays are about to get bigger [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Windows 11 updates could soon include fixes for more security issues at once.
+
+Link: https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates
+
+### 7. Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -42,52 +96,7 @@ Earlier this month, Sony announced that it's ending manufacturing of physical Pl
 
 Link: https://www.eurogamer.net/retail-shop-games-cheaper-report-sony-ending-playstation-discs
 
-### 2. Trump says truce ‘over’ as Iran reports US attack near nuclear plant – Middle East crisis live [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Sides exchange strikes with Iranian media saying attacks reported near facility in Bushehr Kuwait’s foreign ministry has issued a statement condemning the Iranian attacks against the country.
-
-Link: https://www.theguardian.com/world/live/2026/jul/09/iran-us-middle-east-strikes-centcom-bahrain-kuwait-qatar-strait-of-hormuz-latest-news-updates
-
-### 3. Say hello to Claude Wrapped [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage
-
-### 4. Character.AI wants a piece of the microdrama pie [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.
-
-Link: https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video
-
-### 5. FL Studio 2026 turns its AI chatbot into your assistant engineer [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions.
-
-Link: https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot
-
-### 6. ‘New terrifying levels’: 10 people fatally shot by immigration officials in Trump’s second term [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-As Trump’s immigration crackdown continues, Lorenzo Salgado Araujo’s death marks another high-profile killing by ICE officers Early on Tuesday morning, 52-year-old Lorenzo Salgado Araujo took his coffee and a meal his wife had prepared for…
-
-Link: https://www.theguardian.com/us-news/2026/jul/09/ice-immigration-shooting-deaths-trump
-
-### 7. Opinion: In NYC District, Technology Works With Pencil and Paper To Help Kids Learn Math [10/10]
+### 8. Opinion: In NYC District, Technology Works With Pencil and Paper To Help Kids Learn Math [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -96,34 +105,34 @@ This may sound strange coming from the co-founder of an education technology com
 
 Link: https://www.the74million.org/article/in-nyc-district-technology-works-with-pencil-and-paper-to-help-kids-learn-math/
 
-### 8. Sony, Bungie settle with ex-Marathon director they accused of "predatory behaviour", bringing $200m wrongful dismissal lawsuit to a close [10/10]
-**Source:** Eurogamer  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 9. The (Talking?) Cats Are in the Bags in the Trailer for The Wrong Girls [9/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Ex-Marathon director Christopher Barrett has announced a settlement has been reached with Sony and Bungie, after he sued both companies for wrongful dismissal, claiming they had "deliberately destroyed [his] reputation by falsely, and…
+Just look at that stunning stoner garbage bag couture The post The (Talking?) Cats Are in the Bags in the Trailer for The Wrong Girls appeared first on Reactor .
 
-Link: https://www.eurogamer.net/sony-bungie-marathon-director-lawsuit-settled
+Link: https://reactormag.com/the-wrong-girls-trailer/
 
-### 9. Some Microschools in Limbo While Awaiting New Federal Tax Credit Rules [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 10. ‘His legacy is cringe’: how Charlie Kirk became a meme among the young – even his supporters [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Public schools are beginning to imagine ways they can benefit from the new Federal Scholarship Tax Credit, after the Treasury Department clarified last month that district students will be eligible for scholarships.
+Crude jokes about the Maga luminary are exploding online – less than a year after conservatives were suppressing any slander against him Ten months since his assassination , Charlie Kirk’s name and likeness are still proliferating online.
 
-Link: https://www.the74million.org/article/some-microschools-in-limbo-as-they-await-new-federal-tax-credit-rules/
+Link: https://www.theguardian.com/us-news/2026/jul/09/charlie-kirk-meme-young-supporters
 
-### 10. LinkedIn and X Are Flooded With AI Spam, Browsing Data Suggests [8/10]
+### 11. Farmers Finally Get a John Deere Right to Repair Agreement That Doesn’t Screw Them Over [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-An AI detection company found that amount of AI content that users actually see in their day-to-day browsing is shockingly high.
+The FTC's settlement with John Deere actually has teeth, unlike previous settlements that largely maintained the status quo.
 
-Link: https://www.404media.co/linkedin-and-x-are-flooded-with-ai-spam-browsing-data-suggests/
+Link: https://www.404media.co/farmers-finally-get-a-john-deere-right-to-repair-agreement-that-doesnt-screw-them-over/
 
-### 11. Campaign staffers keep trying to bet on races despite push to curb insider trading [8/10]
+### 12. Campaign staffers keep trying to bet on races despite push to curb insider trading [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -132,23 +141,14 @@ Kalshi says it has blocked "dozens" of trades from campaign insiders, but expert
 
 Link: https://www.npr.org/2026/07/09/nx-s1-5869569/kalshi-election-staffers-caught
 
-### 12. Dune: Part Three Trailer Takes Us 20 Years Forward, With Paul Atreides Now a Tyrant [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-We also see the return of Duncan Idaho, Chani, Alia, and more… The post Dune: Part Three Trailer Takes Us 20 Years Forward, With Paul Atreides Now a Tyrant appeared first on Reactor .
-
-Link: https://reactormag.com/dune-part-three-trailer-paul-atreides/
-
-### 13. A new proposal for organ donation sparks concern [7/10]
+### 13. 'Solo agers' are a growing group. Changes that would help them could help everyone [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Should patients who choose euthanasia be able to die by having their vital organs removed for donation? The ethical concerns are substantial.
+Many older adults navigate aging on their own — without children or a spouse. An expert says this is "a reality to be supported" rather than a crisis to be solved.
 
-Link: https://www.npr.org/2026/07/08/nx-s1-5883714/organ-transplant-death-donation
+Link: https://www.npr.org/2026/07/09/nx-s1-5886348/solo-agers-demographics-caregiving-family-aging
 
 ## YouTube
 
@@ -161,9 +161,27 @@ Link: https://www.npr.org/2026/07/08/nx-s1-5883714/organ-transplant-death-donati
 
 Link: https://www.youtube.com/watch?v=1yBU41auQhw
 
-### Dictator Historian Answers America's Biggest Question [9/10]
+### Shor's Algorithm for Quantum Computing - Computerphile [7/10]
+**Creator:** Computerphile  
+**Verdict:** Probably worth watching  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+We brought a computer scientist and a physicist together to talk about Shor's algorithm - a famous factorisation algorithm for that can break some currently used encryption techniques if implemented in the quantum realm.
+
+Link: https://www.youtube.com/watch?v=k_kyepATqB8
+
+### Josh Johnson Answers The Web's Most Searched Questions [9/10]
 **Creator:** WIRED  
 **Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Comedian @JoshJohnsonComedy visits WIRED to answer his most searched questions on Google.
+
+Link: https://www.youtube.com/watch?v=y14db1CjxCk
+
+### Dictator Historian Answers America's Biggest Question [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 The internet asks, WIRED answers. Is American democracy going to die? Professor and scholar in fascism and authoritarianism Ruth Ben-Ghiat breaks down all of the key ingredients in a recipe for a dying democracy.
@@ -233,9 +251,18 @@ France is in the midst of its third heat wave since the spring, and with summer 
 
 Link: https://www.youtube.com/watch?v=0o5qvq8jDKc
 
-### The Big Xbox Reset Is Awful - And Spells Doom For id Software [7/10]
+### Sony Is Closing Down The PS3 and Vita Digital Stores [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/vcpjiMcAyoU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=5DjEwMXqkHk
+
+### The Big Xbox Reset Is Awful - And Spells Doom For id Software [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/DeUV3IqEZRU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -269,23 +296,23 @@ Link: https://www.youtube.com/watch?v=jHa-M6B6lIs
 
 Link: https://www.youtube.com/watch?v=Smqby0FWsM8
 
-### SteamOS 3.8 - Is Linux Ready To Take On Windows For Gaming? [8/10]
-**Creator:** Digital Foundry  
+### Drinking (Mostly) Clean Water in Fallout 3 w/ Jack, Jess, and Marty -- Part 5 [8/10]
+**Creator:** Second Wind  
 **Verdict:** Worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
-Link: https://www.youtube.com/watch?v=jOWnumlWA7E
+Link: https://www.youtube.com/watch?v=J9OKKjMuJFU
 
-### Where Did It Start To Go Wrong For Xbox? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### What Are We Doing Here, Xbox? | Firelink Podcast [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+This week on Firelink, KC and Marty chat about the recent update in Xbox's big studio reset. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.fantasycritic.
 
-Link: https://www.youtube.com/watch?v=QOudL9rnqQU
+Link: https://www.youtube.com/watch?v=MPKkhXoV5xk
 
 ### Yahtzee Tries... About Fishing and Moonlight Peaks [6/10]
 **Creator:** Second Wind  
@@ -296,9 +323,9 @@ This week on Yahtzee Tries... Yahtzee and JM8 try out About Fishing and Moonligh
 
 Link: https://www.youtube.com/watch?v=UYQoMaM-6XI
 
-### The Adventures of Elliot: The Millennium Tales | Fully Ramblomatic [7/10]
+### The Adventures of Elliot: The Millennium Tales | Fully Ramblomatic [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Fully Ramblomatic, Yahtzee reviewed The Adventures of Elliot: The Millennium Tales. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
@@ -341,15 +368,6 @@ On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty gab about the l
 
 Link: https://www.youtube.com/watch?v=tLWa9TRul5E
 
-### The Beautiful & Baffling Designs of Myst | Design Delve [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-In today's episode, J & Ludo dive into the 1993 PNG paradise that is Myst. And how, in the service of modernization, the developers may have done more harm than good in the long run. Support us on Patreon: https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=jqlIBsEnajs
-
 ## Entertainment Recommendations
 
 ### Newer shows that look like a fit
@@ -379,14 +397,14 @@ Link: https://www.youtube.com/watch?v=jqlIBsEnajs
 
 ## Trailers / Previews
 
-### The Odyssey | Official Countdown Trailer [8/10]
+### One Night Only | A Look Inside [8/10]
 **Source:** Universal Pictures  
 **Verdict:** Looks promising  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
 
-The Odyssey - In Theaters 7 17 26 Christopher Nolan’s next film, The Odyssey, is a mythic action epic shot across the world using brand new IMAX® film technology.
+What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but You and Easy A, celebrates modern romantic comedy on the big screen with a fresh, witty, swoony original…
 
-Link: https://www.youtube.com/watch?v=AyIZ9tiiN8I
+Link: https://www.youtube.com/watch?v=sNFnNF8gpJQ
 
 ### KLARA AND THE SUN – Official Trailer (4K) [8/10]
 **Source:** Sony Pictures Entertainment  
@@ -405,15 +423,6 @@ Link: https://www.youtube.com/watch?v=wixzainceAE
 SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.
 
 Link: https://www.youtube.com/watch?v=clyzHmBx43E
-
-### The Invite | Official First Look | A24 [6/10]
-**Source:** A24  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.
-
-Link: https://www.youtube.com/watch?v=MrKYHdDzu0g
 
 ### The Wrong Girls - Official Trailer - In Theaters August 14 [8/10]
 **Source:** NEON  
@@ -451,7 +460,25 @@ With dreams of starting a perfect family, Saga and her British husband Jon move 
 
 Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
 
-### Tyler Perry’s Why Did I Get Married Again? | Official Teaser | Netflix [10/10]
+### Stokes Twins! | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Meet Alan and Alex Stokes, the internet’s most creative agents of chaos. Daring challenges, jaw-dropping pranks, and mind-blowing stunts. No rules. No limits. Watch Stokes Twins! on Netflix July 18. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=YB1Ikd9sk00
+
+### The Gentlemen: Season 2 | Official Teaser | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The Jungle is Expanding! Theo James returns as Eddie aka The Duke, and this time he's back with a new sense of ambition. To grow the empire, he extends his reach across borders, taking on the Italian mafia.
+
+Link: https://www.youtube.com/watch?v=aOY7HTQlsSo
+
+### Tyler Perry’s Why Did I Get Married Again? | Official Teaser | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -523,23 +550,14 @@ STEEL BALL RUN JoJo’s Bizarre Adventure 2nd & 3rd Stage (all 11 episodes) will
 
 Link: https://www.youtube.com/watch?v=43qoWFJbWF0
 
-### Little House on the Prairie | Meet The Ingalls | Netflix [9/10]
-**Source:** Netflix  
+### Snoopy Presents: There's No Place Like Home, Snoopy — Official Trailer | Apple TV [8/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-The close-knit Ingalls family builds a new life on the Western frontier, where the joys of nature and the struggle for survival are deeply intertwined. Watch on Netflix: https://www.netflix.
+A house with good bones. Snoopy Presents: No Place Like Home, Snoopy — July 31 #AppleTV #Peanuts #Snoopy #Trailer #NoPlaceLikeHomeSnoopy
 
-Link: https://www.youtube.com/watch?v=2dQw6luieLE
-
-### The East Palace | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders—can they unravel its dark secrets? The East Palace is coming July 17, only on Netflix #Netflix #TheEastPalace #동궁 Watch on…
-
-Link: https://www.youtube.com/watch?v=wBUkNE1l9DU
+Link: https://www.youtube.com/watch?v=A-NQmpNsZIc
 
 ### Widow's Bay now has more Emmy nominations than Martha's Vineyard. [10/10]
 **Source:** Apple TV  
@@ -585,12 +603,3 @@ Link: https://www.youtube.com/watch?v=TFqwOs_MR_E
 A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.
 
 Link: https://www.youtube.com/watch?v=joDvnreAYhk
-
-### The teenage years are upon them. A new season of Trying premieres July 8 on Apple TV. [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-A new season of Trying premieres July 8 on Apple TV https://apple.co/_Trying Subscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube Follow Apple TV: Instagram: https://instagram.com/AppleTV TikTok: https://tiktok.
-
-Link: https://www.youtube.com/watch?v=U84f9hqXEVA
