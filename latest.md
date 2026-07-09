@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-09T09:01:02.231059Z
+Generated: 2026-07-09T14:00:02.570848Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are ‘They said: wear angelic white’: British women who accused US airman of rape tell of American military trial, Graham Platner debacle puts Democrats in grave danger of blowing it in the midterms, and New Vegas devs Obsidian are reportedly working on a new Fallout game, and only Microsoft could make news I've waited half my life for taste this bitter.
+Today's sweep leans toward AI / computing, Democracy / press freedom, Games / criticism. The strongest items in this run are Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question, Trump says truce ‘over’ as Iran reports US attack near nuclear plant – Middle East crisis live, and Say hello to Claude Wrapped.
 
 ## Briefing
 
@@ -33,97 +33,106 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘They said: wear angelic white’: British women who accused US airman of rape tell of American military trial [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Two women who alleged they were raped by Tyrion Davis in Suffolk had to testify at an invasive court martial on a US base Minutes after fleeing the home of an American airman, Rebecca called 999 in tears to report that he had raped her.
-
-Link: https://www.theguardian.com/uk-news/2026/jul/09/british-women-accused-us-airman-rape-american-military-trial
-
-### 2. Graham Platner debacle puts Democrats in grave danger of blowing it in the midterms [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The meltdown in Maine’s Senate race risks the Democrats’ opportunity to turn Trump into a lame duck president. Two years ago Democrats had one job: stop Donald Trump from returning to the White House.
-
-Link: https://www.theguardian.com/us-news/2026/jul/08/graham-platner-debacle-puts-democrats-in-grave-danger-of-blowing-it-in-the-midterms
-
-### 3. New Vegas devs Obsidian are reportedly working on a new Fallout game, and only Microsoft could make news I've waited half my life for taste this bitter [10/10]
-**Source:** Rock Paper Shotgun  
+### 1. Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question [10/10]
+**Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-I rather like Fallout: New Vegas . It's one of my favourite games of all time, if not number one.
+Earlier this month, Sony announced that it's ending manufacturing of physical PlayStation discs beginning January 2028 .
 
-Link: https://www.rockpapershotgun.com/new-vegas-devs-obsidian-are-reportedly-working-on-a-new-fallout-game-and-only-microsoft-could-make-news-ive-waited-half-my-life-for-taste-this-bitter
+Link: https://www.eurogamer.net/retail-shop-games-cheaper-report-sony-ending-playstation-discs
 
-### 4. Google pays $250K for Linux vulnerability allowing guest VM escapes [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Both vulnerabilities allow untrusted users to gain root privileges.
-
-Link: https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/
-
-### 5. ‘He did not deserve to die’: family of man fatally shot by ICE agent speaks out [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Lorenzo Salgado Araujo was killed by agent in Texas while on his way to work, and family found out from news reports The family of a Mexican immigrant who was fatally shot by a federal immigration agent on Tuesday in Texas called for an…
-
-Link: https://www.theguardian.com/us-news/2026/jul/08/texas-ice-shooting-victim-son
-
-### 6. ChatGPT’s upgraded voice mode is better at shutting up [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like "talking to another person.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live
-
-### 7. After losing to the Mail, Prince Harry seems doomed to a sad life in California. And he did it to himself | Stephen Bates [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-As the family travails worsen, it’s a wretched time to lose face and maybe millions of pounds to his tabloid tormentor. Epic battle, epic fail It really hasn’t been a very good week for Harry.
-
-Link: https://www.theguardian.com/commentisfree/2026/jul/08/prince-harry-daily-mail-royal-family
-
-### 8. ‘I was a self-centred, entitled little horror ... arguably I still am’: cult psych rocker Robyn Hitchcock talks to Stewart Lee [9/10]
+### 2. Trump says truce ‘over’ as Iran reports US attack near nuclear plant – Middle East crisis live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Armed with a new album inspired by ‘dead English blokes’, the revered musician discusses writing nasty songs about his neighbours and how he’s finally made it in Nashville aged 73 ‘I owe a lot to a dead man’s cock.
+Sides exchange strikes with Iranian media saying attacks reported near facility in Bushehr Kuwait’s foreign ministry has issued a statement condemning the Iranian attacks against the country.
 
-Link: https://www.theguardian.com/music/2026/jul/09/robyn-hitchcock
+Link: https://www.theguardian.com/world/live/2026/jul/09/iran-us-middle-east-strikes-centcom-bahrain-kuwait-qatar-strait-of-hormuz-latest-news-updates
 
-### 9. NC High School Students Pitch Local Tech Companies at Annual Teamship Showcase [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 3. Say hello to Claude Wrapped [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Local technology companies may have solved some of their biggest problems after hearing from North Carolina high school students during the annual Teamship Showcase in Durham on June 25.
+The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI.
 
-Link: https://www.the74million.org/article/nc-high-school-students-pitch-local-tech-companies-at-annual-teamship-showcase/
+Link: https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage
 
-### 10. Opinion: The Final Piece of the Ed-Tech Backlash Has Finally Arrived [9/10]
+### 4. Character.AI wants a piece of the microdrama pie [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.
+
+Link: https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video
+
+### 5. FL Studio 2026 turns its AI chatbot into your assistant engineer [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions.
+
+Link: https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot
+
+### 6. ‘New terrifying levels’: 10 people fatally shot by immigration officials in Trump’s second term [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+As Trump’s immigration crackdown continues, Lorenzo Salgado Araujo’s death marks another high-profile killing by ICE officers Early on Tuesday morning, 52-year-old Lorenzo Salgado Araujo took his coffee and a meal his wife had prepared for…
+
+Link: https://www.theguardian.com/us-news/2026/jul/09/ice-immigration-shooting-deaths-trump
+
+### 7. Opinion: In NYC District, Technology Works With Pencil and Paper To Help Kids Learn Math [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-I have been a high school teacher for almost three decades, spending almost all that time teaching seniors about American civics.
+This may sound strange coming from the co-founder of an education technology company, but I think paper is a powerful technology in a classroom. Research on the science of learning consistently says so.
 
-Link: https://www.the74million.org/article/the-final-piece-of-the-ed-tech-backlash-has-finally-arrived/
+Link: https://www.the74million.org/article/in-nyc-district-technology-works-with-pencil-and-paper-to-help-kids-learn-math/
 
-### 11. Dune: Part Three Trailer Takes Us 20 Years Forward, With Paul Atreides Now a Tyrant [8/10]
+### 8. Sony, Bungie settle with ex-Marathon director they accused of "predatory behaviour", bringing $200m wrongful dismissal lawsuit to a close [10/10]
+**Source:** Eurogamer  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Ex-Marathon director Christopher Barrett has announced a settlement has been reached with Sony and Bungie, after he sued both companies for wrongful dismissal, claiming they had "deliberately destroyed [his] reputation by falsely, and…
+
+Link: https://www.eurogamer.net/sony-bungie-marathon-director-lawsuit-settled
+
+### 9. Some Microschools in Limbo While Awaiting New Federal Tax Credit Rules [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Public schools are beginning to imagine ways they can benefit from the new Federal Scholarship Tax Credit, after the Treasury Department clarified last month that district students will be eligible for scholarships.
+
+Link: https://www.the74million.org/article/some-microschools-in-limbo-as-they-await-new-federal-tax-credit-rules/
+
+### 10. LinkedIn and X Are Flooded With AI Spam, Browsing Data Suggests [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+An AI detection company found that amount of AI content that users actually see in their day-to-day browsing is shockingly high.
+
+Link: https://www.404media.co/linkedin-and-x-are-flooded-with-ai-spam-browsing-data-suggests/
+
+### 11. Campaign staffers keep trying to bet on races despite push to curb insider trading [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Kalshi says it has blocked "dozens" of trades from campaign insiders, but experts say the company's approach leaves lots of potential loopholes. NPR has found at least one trade that slipped through.
+
+Link: https://www.npr.org/2026/07/09/nx-s1-5869569/kalshi-election-staffers-caught
+
+### 12. Dune: Part Three Trailer Takes Us 20 Years Forward, With Paul Atreides Now a Tyrant [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -132,23 +141,14 @@ We also see the return of Duncan Idaho, Chani, Alia, and more… The post Dune: 
 
 Link: https://reactormag.com/dune-part-three-trailer-paul-atreides/
 
-### 12. What's behind the push to make peptide therapies more readily available [8/10]
+### 13. A new proposal for organ donation sparks concern [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Marketed for longevity and wellness benefits, the unproven therapies are sold through a grey market online. Compounding pharmacies say they should be able to make them legally to meet demand.
+Should patients who choose euthanasia be able to die by having their vital organs removed for donation? The ethical concerns are substantial.
 
-Link: https://www.npr.org/2026/07/08/nx-s1-5885073/fda-peptides-compounding-pharmacies
-
-### 13. Porn Platform Gives Sex Workers Stake in the Company's Profits [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-One of the co-founders of MintStars, a subscription site used by adult content creators, announced she's giving her entire stake in the company to a pool for the platform's creators and to the nonprofit SWOP Behind Bars.
-
-Link: https://www.404media.co/mintstars-founder-giving-shares-to-creators/
+Link: https://www.npr.org/2026/07/08/nx-s1-5883714/organ-transplant-death-donation
 
 ## YouTube
 
@@ -161,7 +161,7 @@ Link: https://www.404media.co/mintstars-founder-giving-shares-to-creators/
 
 Link: https://www.youtube.com/watch?v=1yBU41auQhw
 
-### Dictator Historian Answer's America's Biggest Question [9/10]
+### Dictator Historian Answers America's Biggest Question [9/10]
 **Creator:** WIRED  
 **Verdict:** Watch it  
 **Why it matters:** Relevant to your current interest graph.
@@ -287,9 +287,9 @@ Link: https://www.youtube.com/watch?v=jOWnumlWA7E
 
 Link: https://www.youtube.com/watch?v=QOudL9rnqQU
 
-### Yahtzee Tries... About Fishing and Moonlight Peaks [7/10]
+### Yahtzee Tries... About Fishing and Moonlight Peaks [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Yahtzee Tries... Yahtzee and JM8 try out About Fishing and Moonlight Peaks. About Fishing -- https://store.steampowered.com/app/3856530/About_Fishing/ Moonlight Peaks -- https://store.steampowered.
@@ -451,7 +451,25 @@ With dreams of starting a perfect family, Saga and her British husband Jon move 
 
 Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
 
-### time to go back to the prairie! #LittleHouseOnThePrairie premieres tomorrow! [10/10]
+### Tyler Perry’s Why Did I Get Married Again? | Official Teaser | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+New generation. Same relationships. Same question. Watch Tyler Perry’s WHY DID I GET MARRIED AGAIN?, only on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=t_QUYXwkwss
+
+### Death Inc. | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Life comes to an end. So does this series. RIP Death INC Netflix premieres the fourth and final season of the hit comedy created by Laura and Alberto Caballero on August 7, 2026.
+
+Link: https://www.youtube.com/watch?v=iaKzZkXLrrc
+
+### time to go back to the prairie! #LittleHouseOnThePrairie premieres tomorrow! [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -522,24 +540,6 @@ Link: https://www.youtube.com/watch?v=2dQw6luieLE
 A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders—can they unravel its dark secrets? The East Palace is coming July 17, only on Netflix #Netflix #TheEastPalace #동궁 Watch on…
 
 Link: https://www.youtube.com/watch?v=wBUkNE1l9DU
-
-### Wonka's The Golden Ticket | Official Teaser | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Step into a world of pure imagination when the gates of the Chocolate Factory reopen this Fall. Wonka's The Golden Ticket, a new Netflix reality competition series, arrives on September 23. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=oTSvnmTfLj8
-
-### NEMESIS RENEWED FOR SEASON 2! [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-This score isn’t settled... NEMESIS SEASON 2 IS COMING Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=KTbC8ZnMfPA
 
 ### Widow's Bay now has more Emmy nominations than Martha's Vineyard. [10/10]
 **Source:** Apple TV  

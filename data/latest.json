@@ -1,110 +1,120 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-09T09:01:02.231059Z",
-  "generatedAtDisplay": "2026-07-09 05:01 AM EDT",
+  "generatedAt": "2026-07-09T14:00:02.570848Z",
+  "generatedAtDisplay": "2026-07-09 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are ‘They said: wear angelic white’: British women who accused US airman of rape tell of American military trial, Graham Platner debacle puts Democrats in grave danger of blowing it in the midterms, and New Vegas devs Obsidian are reportedly working on a new Fallout game, and only Microsoft could make news I've waited half my life for taste this bitter.",
+  "summary": "Today's sweep leans toward AI / computing, Democracy / press freedom, Games / criticism. The strongest items in this run are Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question, Trump says truce ‘over’ as Iran reports US attack near nuclear plant – Middle East crisis live, and Say hello to Claude Wrapped.",
   "mainItems": [
     {
-      "title": "‘They said: wear angelic white’: British women who accused US airman of rape tell of American military trial",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/09/british-women-accused-us-airman-rape-american-military-trial",
-      "published": "2026-07-09T05:00:53+00:00",
-      "summary": "Two women who alleged they were raped by Tyrion Davis in Suffolk had to testify at an invasive court martial on a US base Minutes after fleeing the home of an American airman, Rebecca called 999 in tears to report that he had raped her.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Graham Platner debacle puts Democrats in grave danger of blowing it in the midterms",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/08/graham-platner-debacle-puts-democrats-in-grave-danger-of-blowing-it-in-the-midterms",
-      "published": "2026-07-09T03:26:02+00:00",
-      "summary": "The meltdown in Maine’s Senate race risks the Democrats’ opportunity to turn Trump into a lame duck president. Two years ago Democrats had one job: stop Donald Trump from returning to the White House.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "New Vegas devs Obsidian are reportedly working on a new Fallout game, and only Microsoft could make news I've waited half my life for taste this bitter",
-      "source": "Rock Paper Shotgun",
+      "title": "Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question",
+      "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/new-vegas-devs-obsidian-are-reportedly-working-on-a-new-fallout-game-and-only-microsoft-could-make-news-ive-waited-half-my-life-for-taste-this-bitter",
-      "published": "2026-07-08T21:37:05+00:00",
-      "summary": "I rather like Fallout: New Vegas . It's one of my favourite games of all time, if not number one.",
+      "url": "https://www.eurogamer.net/retail-shop-games-cheaper-report-sony-ending-playstation-discs",
+      "published": "2026-07-09T13:51:19+00:00",
+      "summary": "Earlier this month, Sony announced that it's ending manufacturing of physical PlayStation discs beginning January 2028 .",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
-      "source": "Ars Technica",
+      "title": "Trump says truce ‘over’ as Iran reports US attack near nuclear plant – Middle East crisis live",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/live/2026/jul/09/iran-us-middle-east-strikes-centcom-bahrain-kuwait-qatar-strait-of-hormuz-latest-news-updates",
+      "published": "2026-07-09T13:45:53+00:00",
+      "summary": "Sides exchange strikes with Iranian media saying attacks reported near facility in Bushehr Kuwait’s foreign ministry has issued a statement condemning the Iranian attacks against the country.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Say hello to Claude Wrapped",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
-      "published": "2026-07-08T19:01:19+00:00",
-      "summary": "Both vulnerabilities allow untrusted users to gain root privileges.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+      "published": "2026-07-09T13:40:10+00:00",
+      "summary": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "‘He did not deserve to die’: family of man fatally shot by ICE agent speaks out",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/08/texas-ice-shooting-victim-son",
-      "published": "2026-07-08T18:41:52+00:00",
-      "summary": "Lorenzo Salgado Araujo was killed by agent in Texas while on his way to work, and family found out from news reports The family of a Mexican immigrant who was fatally shot by a federal immigration agent on Tuesday in Texas called for an…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+      "title": "Character.AI wants a piece of the microdrama pie",
       "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-      "published": "2026-07-08T17:21:35+00:00",
-      "summary": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.",
+      "url": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
+      "published": "2026-07-09T13:11:53+00:00",
+      "summary": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "After losing to the Mail, Prince Harry seems doomed to a sad life in California. And he did it to himself | Stephen Bates",
+      "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+      "published": "2026-07-09T13:10:49+00:00",
+      "summary": "Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "‘New terrifying levels’: 10 people fatally shot by immigration officials in Trump’s second term",
       "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/09/ice-immigration-shooting-deaths-trump",
+      "published": "2026-07-09T13:00:02+00:00",
+      "summary": "As Trump’s immigration crackdown continues, Lorenzo Salgado Araujo’s death marks another high-profile killing by ICE officers Early on Tuesday morning, 52-year-old Lorenzo Salgado Araujo took his coffee and a meal his wife had prepared for…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: In NYC District, Technology Works With Pencil and Paper To Help Kids Learn Math",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/in-nyc-district-technology-works-with-pencil-and-paper-to-help-kids-learn-math/",
+      "published": "2026-07-09T12:30:00+00:00",
+      "summary": "This may sound strange coming from the co-founder of an education technology company, but I think paper is a powerful technology in a classroom. Research on the science of learning consistently says so.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Sony, Bungie settle with ex-Marathon director they accused of \"predatory behaviour\", bringing $200m wrongful dismissal lawsuit to a close",
+      "source": "Eurogamer",
       "category": "AI / privacy",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/08/prince-harry-daily-mail-royal-family",
-      "published": "2026-07-08T15:46:40+00:00",
-      "summary": "As the family travails worsen, it’s a wretched time to lose face and maybe millions of pounds to his tabloid tormentor. Epic battle, epic fail It really hasn’t been a very good week for Harry.",
+      "url": "https://www.eurogamer.net/sony-bungie-marathon-director-lawsuit-settled",
+      "published": "2026-07-09T11:51:17+00:00",
+      "summary": "Ex-Marathon director Christopher Barrett has announced a settlement has been reached with Sony and Bungie, after he sued both companies for wrongful dismissal, claiming they had \"deliberately destroyed [his] reputation by falsely, and…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "‘I was a self-centred, entitled little horror ... arguably I still am’: cult psych rocker Robyn Hitchcock talks to Stewart Lee",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/music/2026/jul/09/robyn-hitchcock",
-      "published": "2026-07-09T04:00:51+00:00",
-      "summary": "Armed with a new album inspired by ‘dead English blokes’, the revered musician discusses writing nasty songs about his neighbours and how he’s finally made it in Nashville aged 73 ‘I owe a lot to a dead man’s cock.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "NC High School Students Pitch Local Tech Companies at Annual Teamship Showcase",
+      "title": "Some Microschools in Limbo While Awaiting New Federal Tax Credit Rules",
       "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/nc-high-school-students-pitch-local-tech-companies-at-annual-teamship-showcase/",
-      "published": "2026-07-08T14:30:00+00:00",
-      "summary": "Local technology companies may have solved some of their biggest problems after hearing from North Carolina high school students during the annual Teamship Showcase in Durham on June 25.",
+      "url": "https://www.the74million.org/article/some-microschools-in-limbo-as-they-await-new-federal-tax-credit-rules/",
+      "published": "2026-07-09T10:30:00+00:00",
+      "summary": "Public schools are beginning to imagine ways they can benefit from the new Federal Scholarship Tax Credit, after the Treasury Department clarified last month that district students will be eligible for scholarships.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
+      "score": 10
     },
     {
-      "title": "Opinion: The Final Piece of the Ed-Tech Backlash Has Finally Arrived",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/the-final-piece-of-the-ed-tech-backlash-has-finally-arrived/",
-      "published": "2026-07-08T12:30:00+00:00",
-      "summary": "I have been a high school teacher for almost three decades, spending almost all that time teaching seniors about American civics.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
+      "title": "LinkedIn and X Are Flooded With AI Spam, Browsing Data Suggests",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/linkedin-and-x-are-flooded-with-ai-spam-browsing-data-suggests/",
+      "published": "2026-07-09T13:22:11+00:00",
+      "summary": "An AI detection company found that amount of AI content that users actually see in their day-to-day browsing is shockingly high.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Campaign staffers keep trying to bet on races despite push to curb insider trading",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/07/09/nx-s1-5869569/kalshi-election-staffers-caught",
+      "published": "2026-07-09T09:00:00+00:00",
+      "summary": "Kalshi says it has blocked \"dozens\" of trades from campaign insiders, but experts say the company's approach leaves lots of potential loopholes. NPR has found at least one trade that slipped through.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     },
     {
       "title": "Dune: Part Three Trailer Takes Us 20 Years Forward, With Paul Atreides Now a Tyrant",
@@ -117,22 +127,12 @@
       "score": 8
     },
     {
-      "title": "What's behind the push to make peptide therapies more readily available",
+      "title": "A new proposal for organ donation sparks concern",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/08/nx-s1-5885073/fda-peptides-compounding-pharmacies",
-      "published": "2026-07-08T10:00:00+00:00",
-      "summary": "Marketed for longevity and wellness benefits, the unproven therapies are sold through a grey market online. Compounding pharmacies say they should be able to make them legally to meet demand.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Porn Platform Gives Sex Workers Stake in the Company's Profits",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/mintstars-founder-giving-shares-to-creators/",
-      "published": "2026-07-08T15:51:42+00:00",
-      "summary": "One of the co-founders of MintStars, a subscription site used by adult content creators, announced she's giving her entire stake in the company to a pool for the platform's creators and to the nonprofit SWOP Behind Bars.",
+      "url": "https://www.npr.org/2026/07/08/nx-s1-5883714/organ-transplant-death-donation",
+      "published": "2026-07-08T21:00:19+00:00",
+      "summary": "Should patients who choose euthanasia be able to die by having their vital organs removed for donation? The ethical concerns are substantial.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
@@ -150,7 +150,7 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Dictator Historian Answer's America's Biggest Question",
+      "title": "Dictator Historian Answers America's Biggest Question",
       "source": "WIRED",
       "category": "Tech / media",
       "url": "https://www.youtube.com/watch?v=XVEMBw2jT9o",
@@ -311,8 +311,8 @@
       "published": "2026-07-08T22:08:30+00:00",
       "summary": "This week on Yahtzee Tries... Yahtzee and JM8 try out About Fishing and Moonlight Peaks. About Fishing -- https://store.steampowered.com/app/3856530/About_Fishing/ Moonlight Peaks -- https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "The Adventures of Elliot: The Millennium Tales | Fully Ramblomatic",
@@ -471,6 +471,28 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Tyler Perry’s Why Did I Get Married Again? | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=t_QUYXwkwss",
+      "published": "2026-07-09T12:00:00+00:00",
+      "summary": "New generation. Same relationships. Same question. Watch Tyler Perry’s WHY DID I GET MARRIED AGAIN?, only on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Death Inc. | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=iaKzZkXLrrc",
+      "published": "2026-07-09T09:00:00+00:00",
+      "summary": "Life comes to an end. So does this series. RIP Death INC Netflix premieres the fourth and final season of the hit comedy created by Laura and Alberto Caballero on August 7, 2026.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "time to go back to the prairie! #LittleHouseOnThePrairie premieres tomorrow!",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -478,7 +500,7 @@
       "published": "2026-07-08T22:00:17+00:00",
       "summary": "time to go back to the prairie! #LittleHouseOnThePrairie premieres tomorrow! Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -556,28 +578,6 @@
       "summary": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders—can they unravel its dark secrets? The East Palace is coming July 17, only on Netflix #Netflix #TheEastPalace #동궁 Watch on…",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Wonka's The Golden Ticket | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=oTSvnmTfLj8",
-      "published": "2026-06-30T16:00:00+00:00",
-      "summary": "Step into a world of pure imagination when the gates of the Chocolate Factory reopen this Fall. Wonka's The Golden Ticket, a new Netflix reality competition series, arrives on September 23. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "NEMESIS RENEWED FOR SEASON 2!",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=KTbC8ZnMfPA",
-      "published": "2026-06-30T15:00:30+00:00",
-      "summary": "This score isn’t settled... NEMESIS SEASON 2 IS COMING Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
       "verdict": "Looks promising"
     },
     {
