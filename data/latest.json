@@ -1,18 +1,28 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-09T05:00:02.009333Z",
-  "generatedAtDisplay": "2026-07-09 01:00 AM EDT",
+  "generatedAt": "2026-07-09T09:01:02.231059Z",
+  "generatedAtDisplay": "2026-07-09 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Trump to ask US supreme court to reconsider birthright citizenship ruling, New Vegas devs Obsidian are reportedly working on a new Fallout game, and only Microsoft could make news I've waited half my life for taste this bitter, and 'Gratuitously cruel': How trans youth became political targets – Stateside with Kai and Carter.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are ‘They said: wear angelic white’: British women who accused US airman of rape tell of American military trial, Graham Platner debacle puts Democrats in grave danger of blowing it in the midterms, and New Vegas devs Obsidian are reportedly working on a new Fallout game, and only Microsoft could make news I've waited half my life for taste this bitter.",
   "mainItems": [
     {
-      "title": "Trump to ask US supreme court to reconsider birthright citizenship ruling",
+      "title": "‘They said: wear angelic white’: British women who accused US airman of rape tell of American military trial",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/08/trump-supreme-court-birthright-citizenship",
-      "published": "2026-07-09T00:38:20+00:00",
-      "summary": "Request for rehearing comes after Fox News report of Texas hospital advertising maternity services in Mexico Donald Trump said on Wednesday he would ask the US supreme court to reconsider its ruling that the 14th amendment to the US…",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/09/british-women-accused-us-airman-rape-american-military-trial",
+      "published": "2026-07-09T05:00:53+00:00",
+      "summary": "Two women who alleged they were raped by Tyrion Davis in Suffolk had to testify at an invasive court martial on a US base Minutes after fleeing the home of an American airman, Rebecca called 999 in tears to report that he had raped her.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Graham Platner debacle puts Democrats in grave danger of blowing it in the midterms",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/08/graham-platner-debacle-puts-democrats-in-grave-danger-of-blowing-it-in-the-midterms",
+      "published": "2026-07-09T03:26:02+00:00",
+      "summary": "The meltdown in Maine’s Senate race risks the Democrats’ opportunity to turn Trump into a lame duck president. Two years ago Democrats had one job: stop Donald Trump from returning to the White House.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -27,32 +37,12 @@
       "score": 10
     },
     {
-      "title": "'Gratuitously cruel': How trans youth became political targets – Stateside with Kai and Carter",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/video/2026/jul/08/scotus-transgender-athletes-stateside-podcast",
-      "published": "2026-07-08T20:45:41+00:00",
-      "summary": "Last week, the US supreme court ruled that Idaho and West Virginia can continue enforcing their bans on transgender athletes playing on girls’ and women's teams in schools.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
       "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
       "source": "Ars Technica",
       "category": "AI / computing",
       "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
       "published": "2026-07-08T19:01:19+00:00",
       "summary": "Both vulnerabilities allow untrusted users to gain root privileges.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Microsoft’s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs",
-      "published": "2026-07-08T18:50:27+00:00",
-      "summary": "As part of Microsoft's big Xbox \"reset,\" which includes layoffs affecting 3,200 staffers, jettisoning studios, and shifting investments to focus on \"higher priority projects,\" Obsidian Entertainment is changing its plans.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
@@ -67,12 +57,12 @@
       "score": 10
     },
     {
-      "title": "Hoosier Childcare Providers Slam Education Requirement Rollback",
-      "source": "The 74",
+      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/zero2eight/hoosier-childcare-providers-slam-education-requirement-rollback/",
-      "published": "2026-07-08T18:30:00+00:00",
-      "summary": "About two-dozen Hoosier childcare providers and advocates overwhelmingly opposed looser statewide staff educational requirements during a Monday public hearing. “This is a profession.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+      "published": "2026-07-08T17:21:35+00:00",
+      "summary": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -87,13 +77,23 @@
       "score": 10
     },
     {
-      "title": "Trump switches back to flying on older Air Force One for England trip instead of new Qatari jet",
+      "title": "‘I was a self-centred, entitled little horror ... arguably I still am’: cult psych rocker Robyn Hitchcock talks to Stewart Lee",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jul/08/trump-air-force-one-england-trip",
-      "published": "2026-07-08T22:49:52+00:00",
-      "summary": "US president unexpectedly changed plans for flight to England after using Qatari-gifted aircraft to travel to Turkey Donald Trump flew from Turkey to England onboard the older Air Force One on Wednesday, rather than the new, Qatari-gifted…",
+      "url": "https://www.theguardian.com/music/2026/jul/09/robyn-hitchcock",
+      "published": "2026-07-09T04:00:51+00:00",
+      "summary": "Armed with a new album inspired by ‘dead English blokes’, the revered musician discusses writing nasty songs about his neighbours and how he’s finally made it in Nashville aged 73 ‘I owe a lot to a dead man’s cock.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "NC High School Students Pitch Local Tech Companies at Annual Teamship Showcase",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/nc-high-school-students-pitch-local-tech-companies-at-annual-teamship-showcase/",
+      "published": "2026-07-08T14:30:00+00:00",
+      "summary": "Local technology companies may have solved some of their biggest problems after hearing from North Carolina high school students during the annual Teamship Showcase in Durham on June 25.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 9
     },
     {
@@ -150,6 +150,28 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "Dictator Historian Answer's America's Biggest Question",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=XVEMBw2jT9o",
+      "published": "2026-07-08T16:00:13+00:00",
+      "summary": "The internet asks, WIRED answers. Is American democracy going to die? Professor and scholar in fascism and authoritarianism Ruth Ben-Ghiat breaks down all of the key ingredients in a recipe for a dying democracy.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "History Professor Answers Corruption Questions | Tech Support | WIRED",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=Q_2CPW2cbTk",
+      "published": "2026-07-07T16:00:05+00:00",
+      "summary": "Professor and scholar in fascism and authoritarianism Ruth Ben-Ghiat joins WIRED to answer the internet’s burning questions about dictatorships, corrupt governments and kleptocracy.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "Trump says ceasefire is 'over,' calls Iran 'scum' following fresh airstrikes overnight",
       "source": "NPR",
       "category": "News / analysis",
@@ -157,8 +179,8 @@
       "published": "2026-07-08T18:00:36+00:00",
       "summary": "President Trump says the ceasefire between the U.S. and Iran is “over” after U.S. forces carried out a new wave of strikes on Iranian military targets overnight.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Crews work through the night to stabilize NYC high-rise",
@@ -214,9 +236,240 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Big Xbox Reset Is Awful - And Spells Doom For id Software",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=kXFeNOwSVrM",
+      "published": "2026-07-08T16:00:33+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/DeUV3IqEZRU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Ultrawide Displays: An Actual Game-Changer For The PC Experience [Sponsored]",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=XyCk4S-gKeI",
+      "published": "2026-07-08T15:00:11+00:00",
+      "summary": "► Content Sponsored By MSI ► Watch the Full Video Here: https://youtu.be/_3bJ6FSGFnY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Xbox \"Disc2Digital\" Program Leaks: What Do We Think?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=jHa-M6B6lIs",
+      "published": "2026-07-07T17:00:04+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/vcpjiMcAyoU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Sony Ends The Era Of PlayStation Discs - And It's A Massive Mistake",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=Smqby0FWsM8",
+      "published": "2026-07-07T16:00:23+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/vcpjiMcAyoU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "SteamOS 3.8 - Is Linux Ready To Take On Windows For Gaming?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=jOWnumlWA7E",
+      "published": "2026-07-06T17:00:02+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Where Did It Start To Go Wrong For Xbox?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=QOudL9rnqQU",
+      "published": "2026-07-06T16:00:23+00:00",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Yahtzee Tries... About Fishing and Moonlight Peaks",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=UYQoMaM-6XI",
+      "published": "2026-07-08T22:08:30+00:00",
+      "summary": "This week on Yahtzee Tries... Yahtzee and JM8 try out About Fishing and Moonlight Peaks. About Fishing -- https://store.steampowered.com/app/3856530/About_Fishing/ Moonlight Peaks -- https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Adventures of Elliot: The Millennium Tales | Fully Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=iHd8Xgehe4o",
+      "published": "2026-07-08T16:00:07+00:00",
+      "summary": "This week on Fully Ramblomatic, Yahtzee reviewed The Adventures of Elliot: The Millennium Tales. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Elden Ring Is a Video Game That Jack and Jenna Are Going to Stream",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=Gs9xCPYxAZQ",
+      "published": "2026-07-07T22:10:15+00:00",
+      "summary": "Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Does Anybody Hold Power in House of the Dragon? | The Backdrop",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=Xnj9mPaGPko",
+      "published": "2026-07-07T15:01:14+00:00",
+      "summary": "In this episode of The Backdrop, Darren Mooney takes a look at House of the Dragon and its depiction of power through the lens of other works like Oppenheimer. Support us on Patreon: https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Stonemachia Is Chess, But Soulslike | Hot Monday Energy",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=hKLS4ELFdFs",
+      "published": "2026-07-07T01:19:47+00:00",
+      "summary": "This week on Hidden Gems KC, Jess, and Jesse play Stonemachia -- https://store.steampowered.com/app/2982610/Stonemachia/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "The British Games Are Coming! | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=tLWa9TRul5E",
+      "published": "2026-07-06T19:10:34+00:00",
+      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty gab about the long history of British-developed video games. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Beautiful & Baffling Designs of Myst | Design Delve",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=jqlIBsEnajs",
+      "published": "2026-07-06T15:00:29+00:00",
+      "summary": "In today's episode, J & Ludo dive into the 1993 PNG paradise that is Myst. And how, in the service of modernization, the developers may have done more harm than good in the long run. Support us on Patreon: https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     }
   ],
   "trailers": [
+    {
+      "title": "The Odyssey | Official Countdown Trailer",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=AyIZ9tiiN8I",
+      "published": "2026-07-01T12:30:05+00:00",
+      "summary": "The Odyssey - In Theaters 7 17 26 Christopher Nolan’s next film, The Odyssey, is a mythic action epic shot across the world using brand new IMAX® film technology.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "KLARA AND THE SUN – Official Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=wixzainceAE",
+      "published": "2026-06-22T16:00:09+00:00",
+      "summary": "Meet Klara. Your new best (artificial) friend. 🌞 Jenna Ortega is Klara in Director Taika Waititi’s adaptation of Kazuo Ishiguro’s #KlaraAndTheSun - coming exclusively to theatres October 23. Watch the trailer now.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Debut | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=clyzHmBx43E",
+      "published": "2026-06-23T12:59:06+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Invite | Official First Look | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=MrKYHdDzu0g",
+      "published": "2026-06-18T14:00:23+00:00",
+      "summary": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "The Wrong Girls - Official Trailer - In Theaters August 14",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=zrcg8YHSys8",
+      "published": "2026-07-07T16:00:10+00:00",
+      "summary": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Her Private Hell - Official Trailer - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=C7E-0t1TfzM",
+      "published": "2026-06-30T16:00:27+00:00",
+      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Sheep in the Box - Official Trailer - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=j5mlc8TAPNw",
+      "published": "2026-06-23T16:08:02+00:00",
+      "summary": "In the near future, Otone and Kensuke, a grieving couple who have lost their son, take into their lives a humanoid identical to their late child.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "NIGHTBORN | Official Trailer Feat. Rupert Grint, Seidi Haarla | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=dWePsu_Kd9c",
+      "published": "2026-07-06T19:08:20+00:00",
+      "summary": "With dreams of starting a perfect family, Saga and her British husband Jon move to the isolated house where she spent much of her childhood, deep in the Finnish forest.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
     {
       "title": "time to go back to the prairie! #LittleHouseOnThePrairie premieres tomorrow!",
       "source": "Netflix",
@@ -325,6 +578,72 @@
       "summary": "This score isn’t settled... NEMESIS SEASON 2 IS COMING Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Widow's Bay now has more Emmy nominations than Martha's Vineyard.",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=tka45fjIWuE",
+      "published": "2026-07-08T23:17:03+00:00",
+      "summary": "A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.co/_WidowsBay Subscribe to Apple TV’s YouTube channel: https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Camp Snoopy — Celestial Camping Ambiance | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=5_LdIqumetw",
+      "published": "2026-07-07T14:59:58+00:00",
+      "summary": "30 minutes of shooting stars, smooth jazz, and camping ambiance with Snoopy and Friends. Camp Snoopy — Season 2 Now Streaming #Snoopy #Ambiance #AppleTV",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Silo — Season 3 Origins | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=7mpY41cyhLA",
+      "published": "2026-07-06T21:59:56+00:00",
+      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.co/_Silo The truth has never been closer to the surface.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Silo — Charlotte's Mission | Season 3 Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=TFqwOs_MR_E",
+      "published": "2026-07-06T18:59:52+00:00",
+      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Widow's Bay — Patricia Interrupts Book Club | Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=joDvnreAYhk",
+      "published": "2026-07-06T17:59:48+00:00",
+      "summary": "A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The teenage years are upon them. A new season of Trying premieres July 8 on Apple TV.",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=U84f9hqXEVA",
+      "published": "2026-07-05T17:59:53+00:00",
+      "summary": "A new season of Trying premieres July 8 on Apple TV https://apple.co/_Trying Subscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube Follow Apple TV: Instagram: https://instagram.com/AppleTV TikTok: https://tiktok.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
       "verdict": "Looks promising"
     }
   ],
@@ -439,8 +758,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 7,
-    "trailerCount": 10,
-    "sourceCount": 11
+    "youtubeCount": 22,
+    "trailerCount": 24,
+    "sourceCount": 20
   }
 }

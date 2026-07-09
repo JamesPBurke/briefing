@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-09T05:00:02.009333Z
+Generated: 2026-07-09T09:01:02.231059Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Trump to ask US supreme court to reconsider birthright citizenship ruling, New Vegas devs Obsidian are reportedly working on a new Fallout game, and only Microsoft could make news I've waited half my life for taste this bitter, and 'Gratuitously cruel': How trans youth became political targets – Stateside with Kai and Carter.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are ‘They said: wear angelic white’: British women who accused US airman of rape tell of American military trial, Graham Platner debacle puts Democrats in grave danger of blowing it in the midterms, and New Vegas devs Obsidian are reportedly working on a new Fallout game, and only Microsoft could make news I've waited half my life for taste this bitter.
 
 ## Briefing
 
@@ -33,16 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Trump to ask US supreme court to reconsider birthright citizenship ruling [10/10]
+### 1. ‘They said: wear angelic white’: British women who accused US airman of rape tell of American military trial [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Request for rehearing comes after Fox News report of Texas hospital advertising maternity services in Mexico Donald Trump said on Wednesday he would ask the US supreme court to reconsider its ruling that the 14th amendment to the US…
+Two women who alleged they were raped by Tyrion Davis in Suffolk had to testify at an invasive court martial on a US base Minutes after fleeing the home of an American airman, Rebecca called 999 in tears to report that he had raped her.
 
-Link: https://www.theguardian.com/us-news/2026/jul/08/trump-supreme-court-birthright-citizenship
+Link: https://www.theguardian.com/uk-news/2026/jul/09/british-women-accused-us-airman-rape-american-military-trial
 
-### 2. New Vegas devs Obsidian are reportedly working on a new Fallout game, and only Microsoft could make news I've waited half my life for taste this bitter [10/10]
+### 2. Graham Platner debacle puts Democrats in grave danger of blowing it in the midterms [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The meltdown in Maine’s Senate race risks the Democrats’ opportunity to turn Trump into a lame duck president. Two years ago Democrats had one job: stop Donald Trump from returning to the White House.
+
+Link: https://www.theguardian.com/us-news/2026/jul/08/graham-platner-debacle-puts-democrats-in-grave-danger-of-blowing-it-in-the-midterms
+
+### 3. New Vegas devs Obsidian are reportedly working on a new Fallout game, and only Microsoft could make news I've waited half my life for taste this bitter [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -50,15 +59,6 @@ Link: https://www.theguardian.com/us-news/2026/jul/08/trump-supreme-court-birthr
 I rather like Fallout: New Vegas . It's one of my favourite games of all time, if not number one.
 
 Link: https://www.rockpapershotgun.com/new-vegas-devs-obsidian-are-reportedly-working-on-a-new-fallout-game-and-only-microsoft-could-make-news-ive-waited-half-my-life-for-taste-this-bitter
-
-### 3. 'Gratuitously cruel': How trans youth became political targets – Stateside with Kai and Carter [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Last week, the US supreme court ruled that Idaho and West Virginia can continue enforcing their bans on transgender athletes playing on girls’ and women's teams in schools.
-
-Link: https://www.theguardian.com/us-news/video/2026/jul/08/scotus-transgender-athletes-stateside-podcast
 
 ### 4. Google pays $250K for Linux vulnerability allowing guest VM escapes [10/10]
 **Source:** Ars Technica  
@@ -69,16 +69,7 @@ Both vulnerabilities allow untrusted users to gain root privileges.
 
 Link: https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/
 
-### 5. Microsoft’s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-As part of Microsoft's big Xbox "reset," which includes layoffs affecting 3,200 staffers, jettisoning studios, and shifting investments to focus on "higher priority projects," Obsidian Entertainment is changing its plans.
-
-Link: https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs
-
-### 6. ‘He did not deserve to die’: family of man fatally shot by ICE agent speaks out [10/10]
+### 5. ‘He did not deserve to die’: family of man fatally shot by ICE agent speaks out [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -87,16 +78,16 @@ Lorenzo Salgado Araujo was killed by agent in Texas while on his way to work, an
 
 Link: https://www.theguardian.com/us-news/2026/jul/08/texas-ice-shooting-victim-son
 
-### 7. Hoosier Childcare Providers Slam Education Requirement Rollback [10/10]
-**Source:** The 74  
+### 6. ChatGPT’s upgraded voice mode is better at shutting up [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-About two-dozen Hoosier childcare providers and advocates overwhelmingly opposed looser statewide staff educational requirements during a Monday public hearing. “This is a profession.
+OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like "talking to another person.
 
-Link: https://www.the74million.org/zero2eight/hoosier-childcare-providers-slam-education-requirement-rollback/
+Link: https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live
 
-### 8. After losing to the Mail, Prince Harry seems doomed to a sad life in California. And he did it to himself | Stephen Bates [10/10]
+### 7. After losing to the Mail, Prince Harry seems doomed to a sad life in California. And he did it to himself | Stephen Bates [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -105,14 +96,23 @@ As the family travails worsen, it’s a wretched time to lose face and maybe mil
 
 Link: https://www.theguardian.com/commentisfree/2026/jul/08/prince-harry-daily-mail-royal-family
 
-### 9. Trump switches back to flying on older Air Force One for England trip instead of new Qatari jet [9/10]
+### 8. ‘I was a self-centred, entitled little horror ... arguably I still am’: cult psych rocker Robyn Hitchcock talks to Stewart Lee [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-US president unexpectedly changed plans for flight to England after using Qatari-gifted aircraft to travel to Turkey Donald Trump flew from Turkey to England onboard the older Air Force One on Wednesday, rather than the new, Qatari-gifted…
+Armed with a new album inspired by ‘dead English blokes’, the revered musician discusses writing nasty songs about his neighbours and how he’s finally made it in Nashville aged 73 ‘I owe a lot to a dead man’s cock.
 
-Link: https://www.theguardian.com/us-news/2026/jul/08/trump-air-force-one-england-trip
+Link: https://www.theguardian.com/music/2026/jul/09/robyn-hitchcock
+
+### 9. NC High School Students Pitch Local Tech Companies at Annual Teamship Showcase [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Local technology companies may have solved some of their biggest problems after hearing from North Carolina high school students during the annual Teamship Showcase in Durham on June 25.
+
+Link: https://www.the74million.org/article/nc-high-school-students-pitch-local-tech-companies-at-annual-teamship-showcase/
 
 ### 10. Opinion: The Final Piece of the Ed-Tech Backlash Has Finally Arrived [9/10]
 **Source:** The 74  
@@ -161,9 +161,27 @@ Link: https://www.404media.co/mintstars-founder-giving-shares-to-creators/
 
 Link: https://www.youtube.com/watch?v=1yBU41auQhw
 
-### Trump says ceasefire is 'over,' calls Iran 'scum' following fresh airstrikes overnight [8/10]
-**Creator:** NPR  
+### Dictator Historian Answer's America's Biggest Question [9/10]
+**Creator:** WIRED  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+The internet asks, WIRED answers. Is American democracy going to die? Professor and scholar in fascism and authoritarianism Ruth Ben-Ghiat breaks down all of the key ingredients in a recipe for a dying democracy.
+
+Link: https://www.youtube.com/watch?v=XVEMBw2jT9o
+
+### History Professor Answers Corruption Questions | Tech Support | WIRED [8/10]
+**Creator:** WIRED  
 **Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Professor and scholar in fascism and authoritarianism Ruth Ben-Ghiat joins WIRED to answer the internet’s burning questions about dictatorships, corrupt governments and kleptocracy.
+
+Link: https://www.youtube.com/watch?v=Q_2CPW2cbTk
+
+### Trump says ceasefire is 'over,' calls Iran 'scum' following fresh airstrikes overnight [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 President Trump says the ceasefire between the U.S. and Iran is “over” after U.S. forces carried out a new wave of strikes on Iranian military targets overnight.
@@ -215,6 +233,123 @@ France is in the midst of its third heat wave since the spring, and with summer 
 
 Link: https://www.youtube.com/watch?v=0o5qvq8jDKc
 
+### The Big Xbox Reset Is Awful - And Spells Doom For id Software [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/DeUV3IqEZRU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=kXFeNOwSVrM
+
+### Ultrawide Displays: An Actual Game-Changer For The PC Experience [Sponsored] [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Content Sponsored By MSI ► Watch the Full Video Here: https://youtu.be/_3bJ6FSGFnY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.
+
+Link: https://www.youtube.com/watch?v=XyCk4S-gKeI
+
+### Xbox "Disc2Digital" Program Leaks: What Do We Think? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/vcpjiMcAyoU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=jHa-M6B6lIs
+
+### Sony Ends The Era Of PlayStation Discs - And It's A Massive Mistake [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/vcpjiMcAyoU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=Smqby0FWsM8
+
+### SteamOS 3.8 - Is Linux Ready To Take On Windows For Gaming? [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/65YNB4CfXgc ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=jOWnumlWA7E
+
+### Where Did It Start To Go Wrong For Xbox? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Watch the FULL Video Here: https://youtu.be/XEyuXkI5wBM ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=QOudL9rnqQU
+
+### Yahtzee Tries... About Fishing and Moonlight Peaks [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Yahtzee Tries... Yahtzee and JM8 try out About Fishing and Moonlight Peaks. About Fishing -- https://store.steampowered.com/app/3856530/About_Fishing/ Moonlight Peaks -- https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=UYQoMaM-6XI
+
+### The Adventures of Elliot: The Millennium Tales | Fully Ramblomatic [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Fully Ramblomatic, Yahtzee reviewed The Adventures of Elliot: The Millennium Tales. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=iHd8Xgehe4o
+
+### Elden Ring Is a Video Game That Jack and Jenna Are Going to Stream [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=Gs9xCPYxAZQ
+
+### Does Anybody Hold Power in House of the Dragon? | The Backdrop [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+In this episode of The Backdrop, Darren Mooney takes a look at House of the Dragon and its depiction of power through the lens of other works like Oppenheimer. Support us on Patreon: https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=Xnj9mPaGPko
+
+### Stonemachia Is Chess, But Soulslike | Hot Monday Energy [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Hidden Gems KC, Jess, and Jesse play Stonemachia -- https://store.steampowered.com/app/2982610/Stonemachia/ If you dig Hot Monday Energy, consider supporting us over on Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=hKLS4ELFdFs
+
+### The British Games Are Coming! | Windbreaker Podcast [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty gab about the long history of British-developed video games. If you dig the stuff we make, consider supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=tLWa9TRul5E
+
+### The Beautiful & Baffling Designs of Myst | Design Delve [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+In today's episode, J & Ludo dive into the 1993 PNG paradise that is Myst. And how, in the service of modernization, the developers may have done more harm than good in the long run. Support us on Patreon: https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=jqlIBsEnajs
+
 ## Entertainment Recommendations
 
 ### Newer shows that look like a fit
@@ -243,6 +378,78 @@ Link: https://www.youtube.com/watch?v=0o5qvq8jDKc
 - **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
 
 ## Trailers / Previews
+
+### The Odyssey | Official Countdown Trailer [8/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The Odyssey - In Theaters 7 17 26 Christopher Nolan’s next film, The Odyssey, is a mythic action epic shot across the world using brand new IMAX® film technology.
+
+Link: https://www.youtube.com/watch?v=AyIZ9tiiN8I
+
+### KLARA AND THE SUN – Official Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Meet Klara. Your new best (artificial) friend. 🌞 Jenna Ortega is Klara in Director Taika Waititi’s adaptation of Kazuo Ishiguro’s #KlaraAndTheSun - coming exclusively to theatres October 23. Watch the trailer now.
+
+Link: https://www.youtube.com/watch?v=wixzainceAE
+
+### The Debut | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.
+
+Link: https://www.youtube.com/watch?v=clyzHmBx43E
+
+### The Invite | Official First Look | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Penélope Cruz and Edward Norton. THE INVITE – In select theaters June 26 nationwide July 10.
+
+Link: https://www.youtube.com/watch?v=MrKYHdDzu0g
+
+### The Wrong Girls - Official Trailer - In Theaters August 14 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.
+
+Link: https://www.youtube.com/watch?v=zrcg8YHSys8
+
+### Her Private Hell - Official Trailer - In Theaters July 24 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.
+
+Link: https://www.youtube.com/watch?v=C7E-0t1TfzM
+
+### Sheep in the Box - Official Trailer - In Theaters July 24 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In the near future, Otone and Kensuke, a grieving couple who have lost their son, take into their lives a humanoid identical to their late child.
+
+Link: https://www.youtube.com/watch?v=j5mlc8TAPNw
+
+### NIGHTBORN | Official Trailer Feat. Rupert Grint, Seidi Haarla | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+With dreams of starting a perfect family, Saga and her British husband Jon move to the isolated house where she spent much of her childhood, deep in the Finnish forest.
+
+Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
 
 ### time to go back to the prairie! #LittleHouseOnThePrairie premieres tomorrow! [10/10]
 **Source:** Netflix  
@@ -333,3 +540,57 @@ Link: https://www.youtube.com/watch?v=oTSvnmTfLj8
 This score isn’t settled... NEMESIS SEASON 2 IS COMING Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=KTbC8ZnMfPA
+
+### Widow's Bay now has more Emmy nominations than Martha's Vineyard. [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.co/_WidowsBay Subscribe to Apple TV’s YouTube channel: https://apple.
+
+Link: https://www.youtube.com/watch?v=tka45fjIWuE
+
+### Camp Snoopy — Celestial Camping Ambiance | Apple TV [7/10]
+**Source:** Apple TV  
+**Verdict:** Worth a glance  
+**Why it matters:** Relevant to your current interest graph.
+
+30 minutes of shooting stars, smooth jazz, and camping ambiance with Snoopy and Friends. Camp Snoopy — Season 2 Now Streaming #Snoopy #Ambiance #AppleTV
+
+Link: https://www.youtube.com/watch?v=5_LdIqumetw
+
+### Silo — Season 3 Origins | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.co/_Silo The truth has never been closer to the surface.
+
+Link: https://www.youtube.com/watch?v=7mpY41cyhLA
+
+### Silo — Charlotte's Mission | Season 3 Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.
+
+Link: https://www.youtube.com/watch?v=TFqwOs_MR_E
+
+### Widow's Bay — Patricia Interrupts Book Club | Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.
+
+Link: https://www.youtube.com/watch?v=joDvnreAYhk
+
+### The teenage years are upon them. A new season of Trying premieres July 8 on Apple TV. [9/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A new season of Trying premieres July 8 on Apple TV https://apple.co/_Trying Subscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube Follow Apple TV: Instagram: https://instagram.com/AppleTV TikTok: https://tiktok.
+
+Link: https://www.youtube.com/watch?v=U84f9hqXEVA
