@@ -1,11 +1,31 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-10T05:00:03.002981Z",
-  "generatedAtDisplay": "2026-07-10 01:00 AM EDT",
+  "generatedAt": "2026-07-10T09:00:48.048108Z",
+  "generatedAtDisplay": "2026-07-10 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / design. The strongest items in this run are Monaco bomb mystery deepens as Ukraine’s security services are linked to murder of prime suspect, After years of Nintendo lawsuits and many millions of sales, Pokémon baiter Palworld is out in 1.0 today, and Man killed by ICE agents not intended target of immigration arrest, DHS says.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are Ebola death toll reaches 600, as new cases suspected in other parts of Congo, Transcendent by Laverne Cox review – success against the odds, and Monaco bomb mystery deepens as Ukraine’s security services are linked to murder of prime suspect.",
   "mainItems": [
+    {
+      "title": "Ebola death toll reaches 600, as new cases suspected in other parts of Congo",
+      "source": "NPR Health",
+      "category": "Democracy / press freedom",
+      "url": "https://www.npr.org/2026/07/10/g-s1-132930/ebola-outbreak-congo",
+      "published": "2026-07-10T06:33:38+00:00",
+      "summary": "New suspected cases of Ebola have been reported in parts of Congo that were previously unaffected, the government said, signaling the continued spread of the disease beyond the epicenter in Ituri.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Transcendent by Laverne Cox review – success against the odds",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/books/2026/jul/10/transcendent-by-laverne-cox-review-success-against-the-odds",
+      "published": "2026-07-10T06:00:12+00:00",
+      "summary": "The actor and activist tells the story of her brutal childhood in the deep south with eloquence and defiance When Laverne Cox was eight years old and growing up in Mobile, Alabama, she saved up her pocket money and bought herself a fan…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
     {
       "title": "Monaco bomb mystery deepens as Ukraine’s security services are linked to murder of prime suspect",
       "source": "The Guardian US",
@@ -37,26 +57,6 @@
       "score": 10
     },
     {
-      "title": "Slay the Spire meets Terra Nil in The Solace of Flowers, an \"eco-dystopian\" deckbuilder in which you cover corrupted islands with foxgloves, bees and, er, lions",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / design",
-      "url": "https://www.rockpapershotgun.com/slay-the-spire-meets-terra-nil-in-the-solace-of-flowers-an-eco-dystopian-deckbuilder-in-which-you-cover-corrupted-islands-with-foxgloves-bees-and-er-lions",
-      "published": "2026-07-09T18:57:15+00:00",
-      "summary": "The Solace of Flowers is another tactical roguelike deckbuilder, but wait! This one's also a sweet, grid-based gardening game, awash with daffodils, foxgloves, squirrels, honeybees, and other species of plant or creature I recognise from…",
-      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
-      "score": 10
-    },
-    {
-      "title": "OpenAI releases latest ChatGPT model after delay over White House cybersecurity concerns",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/jul/09/trump-administration-openai-chatgpt-cybersecurity",
-      "published": "2026-07-09T18:48:23+00:00",
-      "summary": "Staggered release of ChatGPT 5.6 follows similar restrictions on rival firm Anthropic’s latest AI models OpenAI released its latest advanced AI model, called ChatGPT 5.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
       "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
       "source": "The Verge",
       "category": "AI / computing",
@@ -65,6 +65,16 @@
       "summary": "About two weeks after OpenAI's GPT-5.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
+    },
+    {
+      "title": "No internet, no screen time? FCC weighs cutting subsidy that lowers school internet bills",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/07/10/nx-s1-5878405/fcc-erate-schools-internet-discount",
+      "published": "2026-07-10T09:00:00+00:00",
+      "summary": "Many schools rely on consumer fees funneled through the federal government to cut internet costs. FCC Chairman Brendan Carr called for ending this program before Donald Trump tapped him for the job.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
     },
     {
       "title": "In private call, Education Dept. tried, but failed, to reassure disability advocates",
@@ -77,13 +87,13 @@
       "score": 9
     },
     {
-      "title": "Market Share Continues to Hold Steady for NC Public Schools",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/market-share-declines-for-homeschools-increases-for-private-schools-holds-steady-for-public-schools-overall/",
-      "published": "2026-07-09T18:30:00+00:00",
-      "summary": "Public schools continued to serve more than 1.5 million students across North Carolina in the 2025-26 school year — or about 84% of market share, a percentage that is about the same as previous years.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "Slay the Spire meets Terra Nil in The Solace of Flowers, an \"eco-dystopian\" deckbuilder in which you cover corrupted islands with foxgloves, bees and, er, lions",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / design",
+      "url": "https://www.rockpapershotgun.com/slay-the-spire-meets-terra-nil-in-the-solace-of-flowers-an-eco-dystopian-deckbuilder-in-which-you-cover-corrupted-islands-with-foxgloves-bees-and-er-lions",
+      "published": "2026-07-09T18:57:15+00:00",
+      "summary": "The Solace of Flowers is another tactical roguelike deckbuilder, but wait! This one's also a sweet, grid-based gardening game, awash with daffodils, foxgloves, squirrels, honeybees, and other species of plant or creature I recognise from…",
+      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
       "score": 9
     },
     {
@@ -125,20 +135,496 @@
       "summary": "I volunteer to be seated The post All Five Hunger Games Movies Will Be in Theaters in September appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
-    },
-    {
-      "title": "Campaign staffers keep trying to bet on races despite push to curb insider trading",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/07/09/nx-s1-5869569/kalshi-election-staffers-caught",
-      "published": "2026-07-09T09:00:00+00:00",
-      "summary": "Kalshi says it has blocked \"dozens\" of trades from campaign insiders, but experts say the company's approach leaves lots of potential loopholes. NPR has found at least one trade that slipped through.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "DeepSeek's Absolutely Insane AI Speed Hack",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=1yBU41auQhw",
+      "published": "2026-07-07T16:33:29+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek paper is available here: https://arxiv.org/abs/2607.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Shor's Algorithm for Quantum Computing - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=k_kyepATqB8",
+      "published": "2026-07-09T13:57:10+00:00",
+      "summary": "We brought a computer scientist and a physicist together to talk about Shor's algorithm - a famous factorisation algorithm for that can break some currently used encryption techniques if implemented in the quantum realm.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Josh Johnson Answers The Web's Most Searched Questions",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=y14db1CjxCk",
+      "published": "2026-07-09T16:00:07+00:00",
+      "summary": "Comedian @JoshJohnsonComedy visits WIRED to answer his most searched questions on Google.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Dictator Historian Answers America's Biggest Question",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=XVEMBw2jT9o",
+      "published": "2026-07-08T16:00:13+00:00",
+      "summary": "The internet asks, WIRED answers. Is American democracy going to die? Professor and scholar in fascism and authoritarianism Ruth Ben-Ghiat breaks down all of the key ingredients in a recipe for a dying democracy.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "History Professor Answers Corruption Questions | Tech Support | WIRED",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=Q_2CPW2cbTk",
+      "published": "2026-07-07T16:00:05+00:00",
+      "summary": "Professor and scholar in fascism and authoritarianism Ruth Ben-Ghiat joins WIRED to answer the internet’s burning questions about dictatorships, corrupt governments and kleptocracy.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Waymo calls the cops on two teens drinking, shooting toy guns from driverless car",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Tadd7Vg4giI",
+      "published": "2026-07-09T21:15:03+00:00",
+      "summary": "The driverless car company Waymo called California police to report two 15-year-olds who were allegedly drinking alcohol and shooting toy guns inside one of their vehicles. Waymo's cars have an array of cameras inside and out.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Do you think defensive ⚽ players get enough credit?",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Fa6Kg5L5dks",
+      "published": "2026-07-09T19:19:02+00:00",
+      "summary": "Attackers like Messi, Mbappe and Haaland stand out for their game-winning goals, but overwhelmingly fans told us that goalkeepers and defenders deserve more attention.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Trump says ceasefire is 'over,' calls Iran 'scum' following fresh airstrikes overnight",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=NdHtDZJzVUA",
+      "published": "2026-07-08T18:00:36+00:00",
+      "summary": "President Trump says the ceasefire between the U.S. and Iran is “over” after U.S. forces carried out a new wave of strikes on Iranian military targets overnight.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Crews work through the night to stabilize NYC high-rise",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=uEb3rRpJWuY",
+      "published": "2026-07-08T16:00:26+00:00",
+      "summary": "Construction crews worked through the night to stabilize a high-rise building in Midtown Manhattan after officials said two of its support columns buckled.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Platner faces calls to withdraw from Maine's senate race over sexual assault allegations",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=KEll2LwOydw",
+      "published": "2026-07-07T18:00:24+00:00",
+      "summary": "A new allegation of sexual assault, reported by Politico on Monday, has shaken the campaign of the Maine Democrat seeking to unseat Republican Sen. Susan Collins.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Pastor Doug Wilson on why he believes the U.S. should be a Christian theocracy",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=ixVaa7NdhW4",
+      "published": "2026-07-07T15:00:10+00:00",
+      "summary": "Defense Secretary Pete Hegseth invited Pastor Doug Wilson to give a sermon at the Pentagon earlier this year. Wilson was invited as part of Hegseth’s monthly Christian worship service.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Sony Is Closing Down The PS3 and Vita Digital Stores",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=5DjEwMXqkHk",
+      "published": "2026-07-09T16:00:31+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/vcpjiMcAyoU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Big Xbox Reset Is Awful - And Spells Doom For id Software",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=kXFeNOwSVrM",
+      "published": "2026-07-08T16:00:33+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/DeUV3IqEZRU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Ultrawide Displays: An Actual Game-Changer For The PC Experience [Sponsored]",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=XyCk4S-gKeI",
+      "published": "2026-07-08T15:00:11+00:00",
+      "summary": "► Content Sponsored By MSI ► Watch the Full Video Here: https://youtu.be/_3bJ6FSGFnY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Xbox \"Disc2Digital\" Program Leaks: What Do We Think?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=jHa-M6B6lIs",
+      "published": "2026-07-07T17:00:04+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/vcpjiMcAyoU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Sony Ends The Era Of PlayStation Discs - And It's A Massive Mistake",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=Smqby0FWsM8",
+      "published": "2026-07-07T16:00:23+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/vcpjiMcAyoU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "What Are We Doing Here, Xbox? | Firelink Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=MPKkhXoV5xk",
+      "published": "2026-07-10T01:01:59+00:00",
+      "summary": "This week on Firelink, KC and Marty chat about the recent update in Xbox's big studio reset. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.fantasycritic.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Drinking (Mostly) Clean Water in Fallout 3 w/ Jack, Jess, and Marty -- Part 5",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=J9OKKjMuJFU",
+      "published": "2026-07-09T19:17:44+00:00",
+      "summary": "After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Yahtzee Tries... About Fishing and Moonlight Peaks",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=UYQoMaM-6XI",
+      "published": "2026-07-08T22:08:30+00:00",
+      "summary": "This week on Yahtzee Tries... Yahtzee and JM8 try out About Fishing and Moonlight Peaks. About Fishing -- https://store.steampowered.com/app/3856530/About_Fishing/ Moonlight Peaks -- https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "The Adventures of Elliot: The Millennium Tales | Fully Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=iHd8Xgehe4o",
+      "published": "2026-07-08T16:00:07+00:00",
+      "summary": "This week on Fully Ramblomatic, Yahtzee reviewed The Adventures of Elliot: The Millennium Tales. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Elden Ring Is a Video Game That Jack and Jenna Are Going to Stream",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=Gs9xCPYxAZQ",
+      "published": "2026-07-07T22:10:15+00:00",
+      "summary": "Jack and Jenna are going to attempt to get the seamless co-op mod working in Elden Ring. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Does Anybody Hold Power in House of the Dragon? | The Backdrop",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=Xnj9mPaGPko",
+      "published": "2026-07-07T15:01:14+00:00",
+      "summary": "In this episode of The Backdrop, Darren Mooney takes a look at House of the Dragon and its depiction of power through the lens of other works like Oppenheimer. Support us on Patreon: https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "One Night Only | A Look Inside",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=sNFnNF8gpJQ",
+      "published": "2026-07-09T15:08:28+00:00",
+      "summary": "What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but You and Easy A, celebrates modern romantic comedy on the big screen with a fresh, witty, swoony original…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "KLARA AND THE SUN – Official Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=wixzainceAE",
+      "published": "2026-06-22T16:00:09+00:00",
+      "summary": "Meet Klara. Your new best (artificial) friend. 🌞 Jenna Ortega is Klara in Director Taika Waititi’s adaptation of Kazuo Ishiguro’s #KlaraAndTheSun - coming exclusively to theatres October 23. Watch the trailer now.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Debut | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=clyzHmBx43E",
+      "published": "2026-06-23T12:59:06+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Wrong Girls - Official Trailer - In Theaters August 14",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=zrcg8YHSys8",
+      "published": "2026-07-07T16:00:10+00:00",
+      "summary": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Her Private Hell - Official Trailer - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=C7E-0t1TfzM",
+      "published": "2026-06-30T16:00:27+00:00",
+      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Sheep in the Box - Official Trailer - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=j5mlc8TAPNw",
+      "published": "2026-06-23T16:08:02+00:00",
+      "summary": "In the near future, Otone and Kensuke, a grieving couple who have lost their son, take into their lives a humanoid identical to their late child.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "NIGHTBORN | Official Trailer Feat. Rupert Grint, Seidi Haarla | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=dWePsu_Kd9c",
+      "published": "2026-07-06T19:08:20+00:00",
+      "summary": "With dreams of starting a perfect family, Saga and her British husband Jon move to the isolated house where she spent much of her childhood, deep in the Finnish forest.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Stokes Twins! | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=YB1Ikd9sk00",
+      "published": "2026-07-09T16:00:00+00:00",
+      "summary": "Meet Alan and Alex Stokes, the internet’s most creative agents of chaos. Daring challenges, jaw-dropping pranks, and mind-blowing stunts. No rules. No limits. Watch Stokes Twins! on Netflix July 18. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Gentlemen: Season 2 | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=aOY7HTQlsSo",
+      "published": "2026-07-09T15:00:01+00:00",
+      "summary": "The Jungle is Expanding! Theo James returns as Eddie aka The Duke, and this time he's back with a new sense of ambition. To grow the empire, he extends his reach across borders, taking on the Italian mafia.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tyler Perry’s Why Did I Get Married Again? | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=t_QUYXwkwss",
+      "published": "2026-07-09T12:00:00+00:00",
+      "summary": "New generation. Same relationships. Same question. Watch Tyler Perry’s WHY DID I GET MARRIED AGAIN?, only on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Death Inc. | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=iaKzZkXLrrc",
+      "published": "2026-07-09T09:00:00+00:00",
+      "summary": "Life comes to an end. So does this series. RIP Death INC Netflix premieres the fourth and final season of the hit comedy created by Laura and Alberto Caballero on August 7, 2026.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "time to go back to the prairie! #LittleHouseOnThePrairie premieres tomorrow!",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=I5l1SZyX1Qs",
+      "published": "2026-07-08T22:00:17+00:00",
+      "summary": "time to go back to the prairie! #LittleHouseOnThePrairie premieres tomorrow! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Elize: Shadows of a Woman | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=KiKnd3cusPo",
+      "published": "2026-07-08T13:30:00+00:00",
+      "summary": "A marriage destroyed by betrayal, jealousy, and violence.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Hot Ones: Extra Heat | Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=6uVDJtURIsM",
+      "published": "2026-07-07T15:00:00+00:00",
+      "summary": "Will Ferrell and “The Hawk” costars Jimmy Tatro and Fortune Feimster step up to face hot questions and even hotter wings in this exclusive special episode of Hot Ones: Extra Heat. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Final Problem | Date Announcement | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=CfjAUfv6F6o",
+      "published": "2026-07-07T13:00:00+00:00",
+      "summary": "An island off the coast of Mallorca, thirteen guests trapped in a hotel by a storm, and a death that changes everything. That’s how this new Netflix mystery series begins, based on the novel by Arturo Pérez-Reverte.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Love in Slow Motion | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=oCg2wXznjLo",
+      "published": "2026-07-07T08:00:00+00:00",
+      "summary": "Can love be hiding where you least expect it? Haya has always kept love at arm’s length... until Jawad drops news she never saw coming.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=43qoWFJbWF0",
+      "published": "2026-07-03T23:00:01+00:00",
+      "summary": "STEEL BALL RUN JoJo’s Bizarre Adventure 2nd & 3rd Stage (all 11 episodes) will premiere on Netflix each Friday, starting on September 25.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Snoopy Presents: There's No Place Like Home, Snoopy — Official Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=A-NQmpNsZIc",
+      "published": "2026-07-09T14:59:54+00:00",
+      "summary": "A house with good bones. Snoopy Presents: No Place Like Home, Snoopy — July 31 #AppleTV #Peanuts #Snoopy #Trailer #NoPlaceLikeHomeSnoopy",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Widow's Bay now has more Emmy nominations than Martha's Vineyard.",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=tka45fjIWuE",
+      "published": "2026-07-08T23:17:03+00:00",
+      "summary": "A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.co/_WidowsBay Subscribe to Apple TV’s YouTube channel: https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Camp Snoopy — Celestial Camping Ambiance | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=5_LdIqumetw",
+      "published": "2026-07-07T14:59:58+00:00",
+      "summary": "30 minutes of shooting stars, smooth jazz, and camping ambiance with Snoopy and Friends. Camp Snoopy — Season 2 Now Streaming #Snoopy #Ambiance #AppleTV",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Silo — Season 3 Origins | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=7mpY41cyhLA",
+      "published": "2026-07-06T21:59:56+00:00",
+      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.co/_Silo The truth has never been closer to the surface.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Silo — Charlotte's Mission | Season 3 Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=TFqwOs_MR_E",
+      "published": "2026-07-06T18:59:52+00:00",
+      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -250,8 +736,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 9
+    "youtubeCount": 22,
+    "trailerCount": 22,
+    "sourceCount": 22
   }
 }
