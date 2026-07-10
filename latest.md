@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-10T09:00:48.048108Z
+Generated: 2026-07-10T14:00:01.675395Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are Ebola death toll reaches 600, as new cases suspected in other parts of Congo, Transcendent by Laverne Cox review – success against the odds, and Monaco bomb mystery deepens as Ukraine’s security services are linked to murder of prime suspect.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are World Cup 2026: ‘violent disorder’ in London after France’s win over Morocco, Spain v Belgium buildup – live, Hooded Horse spaceship RPG C-Beams isn't just a riff on Blade Runner - it's a "modern version" of one of my favourite childhood space sims, and The Download: Claude’s inner workings and OpenAI’s “super app”.
 
 ## Briefing
 
@@ -33,16 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Ebola death toll reaches 600, as new cases suspected in other parts of Congo [10/10]
-**Source:** NPR Health  
+### 1. World Cup 2026: ‘violent disorder’ in London after France’s win over Morocco, Spain v Belgium buildup – live [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-New suspected cases of Ebola have been reported in parts of Congo that were previously unaffected, the government said, signaling the continued spread of the disease beyond the epicenter in Ituri.
+⚽ All the latest news as the quarter-finals continue ⚽ Player guide | Bracketology | Golden Boot | Email us A 17-year-old girl fell off a truck and died while celebrating France’s World Cup quarter final win over Morocco, emergency…
 
-Link: https://www.npr.org/2026/07/10/g-s1-132930/ebola-outbreak-congo
+Link: https://www.theguardian.com/football/live/2026/jul/10/world-cup-2026-france-power-on-quansah-ban-fallout-spain-v-belgium-buildup-live
 
-### 2. Transcendent by Laverne Cox review – success against the odds [10/10]
+### 2. Hooded Horse spaceship RPG C-Beams isn't just a riff on Blade Runner - it's a "modern version" of one of my favourite childhood space sims [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+For many decades, sci-fi buffs have debated the exact nature of the "C-beams" mentioned by Roy Batty/Rutger Hauer in Blade Runner 's legendary "tears in rain" soliloquy.
+
+Link: https://www.rockpapershotgun.com/hooded-horse-spaceship-rpg-c-beams-isnt-just-a-riff-on-blade-runner-its-a-modern-version-of-one-of-my-favourite-childhood-space-sims
+
+### 3. The Download: Claude’s inner workings and OpenAI’s “super app” [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/
+
+### 4. Instagram and Facebook will likely require a redesign after EU rules they’re ‘addictive’ [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Meta is in breach of the EU's Digital Services Act (DSA), a preliminary investigation has found, over the "addictive" design of Instagram and Facebook.
+
+Link: https://www.theverge.com/policy/963872/meta-eu-addictive-design-200b-fine-risk-digital-services-act-dsa
+
+### 5. Waymo called the cops on teen riders, raising privacy concerns [10/10]
+**Source:** NPR Tech  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Two 15-year-olds were allegedly drinking alcohol and shooting toy guns from a driverless taxi when the company disabled it and alerted police.
+
+Link: https://www.npr.org/2026/07/10/nx-s1-5886113/waymo-police-privacy-driverless-autonomous-vehicles
+
+### 6. Transcendent by Laverne Cox review – success against the odds [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -51,43 +87,16 @@ The actor and activist tells the story of her brutal childhood in the deep south
 
 Link: https://www.theguardian.com/books/2026/jul/10/transcendent-by-laverne-cox-review-success-against-the-odds
 
-### 3. Monaco bomb mystery deepens as Ukraine’s security services are linked to murder of prime suspect [10/10]
+### 7. The Batman Part II rumours hint he’s flying into even darker and weirder territory [9/10]
 **Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-Military intelligence officer admits witnessing killing of woman believed to have left explosive device outside oligarch’s home The case of a suspected bomber accused of targeting a Ukrainian oligarch has taken another murky turn, after…
+Introducing a new sadistic psychopath and a corrupt secret society of Gotham grandees would mean Harvey Dent takes a backseat to Victor Zsasz and the Court of Owls M att Reeves’ The Batman was a strange beast from the beginning.
 
-Link: https://www.theguardian.com/world/2026/jul/10/monaco-bomb-mystery-deepens-as-ukraines-security-services-are-linked-to-of-prime-suspect
+Link: https://www.theguardian.com/film/2026/jul/10/the-batman-part-ii-rumours-harvey-dent-victor-zsasz-court-of-owls
 
-### 4. After years of Nintendo lawsuits and many millions of sales, Pokémon baiter Palworld is out in 1.0 today [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Creature-catching game Palworld - the cheerfully macabre survival game that came out of nowhere in 2024 and has sold 40 million copies despite being roundly berated and, indeed, taken to court by Uncle Nintendo for riffing rather…
-
-Link: https://www.rockpapershotgun.com/after-years-of-nintendo-lawsuits-and-many-millions-of-sales-pokemon-baiter-palworld-is-out-in-10-today
-
-### 5. Man killed by ICE agents not intended target of immigration arrest, DHS says [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Agents seeking different person when they killed Lorenzo Salgado Araujo, Mexican who had lived in US for 35 years Lorenzo Salgado Araujo, a man killed by federal immigration agents during a traffic stop in Houston this week, was not the…
-
-Link: https://www.theguardian.com/us-news/2026/jul/09/houston-man-killed-ice-agents
-
-### 6. OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’ [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-About two weeks after OpenAI's GPT-5.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work
-
-### 7. No internet, no screen time? FCC weighs cutting subsidy that lowers school internet bills [9/10]
+### 8. No internet, no screen time? FCC weighs cutting subsidy that lowers school internet bills [9/10]
 **Source:** NPR Education  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -96,7 +105,7 @@ Many schools rely on consumer fees funneled through the federal government to cu
 
 Link: https://www.npr.org/2026/07/10/nx-s1-5878405/fcc-erate-schools-internet-discount
 
-### 8. In private call, Education Dept. tried, but failed, to reassure disability advocates [9/10]
+### 9. In private call, Education Dept. tried, but failed, to reassure disability advocates [9/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -105,7 +114,7 @@ The disability community has long worried about what would happen if special edu
 
 Link: https://www.npr.org/2026/07/09/nx-s1-5887650/education-department-special-ed-hhs
 
-### 9. Slay the Spire meets Terra Nil in The Solace of Flowers, an "eco-dystopian" deckbuilder in which you cover corrupted islands with foxgloves, bees and, er, lions [9/10]
+### 10. Slay the Spire meets Terra Nil in The Solace of Flowers, an "eco-dystopian" deckbuilder in which you cover corrupted islands with foxgloves, bees and, er, lions [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / design  
 **Why it matters:** Useful if you care about how games actually work as designed experiences.
@@ -114,7 +123,7 @@ The Solace of Flowers is another tactical roguelike deckbuilder, but wait! This 
 
 Link: https://www.rockpapershotgun.com/slay-the-spire-meets-terra-nil-in-the-solace-of-flowers-an-eco-dystopian-deckbuilder-in-which-you-cover-corrupted-islands-with-foxgloves-bees-and-er-lions
 
-### 10. Finale: Takeaways from a Season of AI in Education [9/10]
+### 11. Finale: Takeaways from a Season of AI in Education [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -122,15 +131,6 @@ Link: https://www.rockpapershotgun.com/slay-the-spire-meets-terra-nil-in-the-sol
 Class Disrupted is an education podcast featuring author Michael Horn and Futre’s Diane Tavenner in conversation with educators, school leaders, students and other members of school communities as they investigate the challenges facing the…
 
 Link: https://www.the74million.org/article/finale-takeaways-from-a-season-of-ai-in-education/
-
-### 11. Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Earlier this month, Sony announced that it's ending manufacturing of physical PlayStation discs beginning January 2028 .
-
-Link: https://www.eurogamer.net/retail-shop-games-cheaper-report-sony-ending-playstation-discs
 
 ### 12. Patreon Blocks Crawlers From Stealing Creators' Work for AI Training [8/10]
 **Source:** 404 Media  
@@ -170,6 +170,15 @@ We brought a computer scientist and a physicist together to talk about Shor's al
 
 Link: https://www.youtube.com/watch?v=k_kyepATqB8
 
+### Josh Johnson's Uncle Doesn't Believe in Kangaroos, Pass It On [9/10]
+**Creator:** WIRED  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Comedian Josh Johnson visits WIRED to answer his most searched questions on Google.
+
+Link: https://www.youtube.com/watch?v=lD_N8hbZn5o
+
 ### Josh Johnson Answers The Web's Most Searched Questions [8/10]
 **Creator:** WIRED  
 **Verdict:** Worth watching  
@@ -197,9 +206,9 @@ Professor and scholar in fascism and authoritarianism Ruth Ben-Ghiat joins WIRED
 
 Link: https://www.youtube.com/watch?v=Q_2CPW2cbTk
 
-### Waymo calls the cops on two teens drinking, shooting toy guns from driverless car [9/10]
+### Waymo calls the cops on two teens drinking, shooting toy guns from driverless car [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 The driverless car company Waymo called California police to report two 15-year-olds who were allegedly drinking alcohol and shooting toy guns inside one of their vehicles. Waymo's cars have an array of cameras inside and out.
@@ -442,6 +451,15 @@ With dreams of starting a perfect family, Saga and her British husband Jon move 
 
 Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
 
+### Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo invite you to The East Palace #Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+I can feel my spirits rising because an exciting new show is coming 😱 Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo are here to invite you to The East Palace, coming this July 17. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=x5fXTHnj-hc
+
 ### Stokes Twins! | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -522,15 +540,6 @@ Link: https://www.youtube.com/watch?v=CfjAUfv6F6o
 Can love be hiding where you least expect it? Haya has always kept love at arm’s length... until Jawad drops news she never saw coming.
 
 Link: https://www.youtube.com/watch?v=oCg2wXznjLo
-
-### STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-STEEL BALL RUN JoJo’s Bizarre Adventure 2nd & 3rd Stage (all 11 episodes) will premiere on Netflix each Friday, starting on September 25.
-
-Link: https://www.youtube.com/watch?v=43qoWFJbWF0
 
 ### Snoopy Presents: There's No Place Like Home, Snoopy — Official Trailer | Apple TV [8/10]
 **Source:** Apple TV  
