@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-11T09:00:27.827942Z
+Generated: 2026-07-11T14:00:01.528275Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are What we've been playing - "I can't sit and do nothing other than melt into my sofa", Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy, and Man who was killed by ICE in Texas never ‘weaponized’ his vehicle, witnesses say.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are Six-hour polygraphs, forced reassignments: inside homeland security’s campaign of fear, Are Detroit’s Health Hubs the Solution to DPSCD’s Chronic Absenteeism Problem?, and Mitch McConnell mystery deepens as health questions remain unanswered.
 
 ## Briefing
 
@@ -33,7 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. What we've been playing - "I can't sit and do nothing other than melt into my sofa" [10/10]
+### 1. Six-hour polygraphs, forced reassignments: inside homeland security’s campaign of fear [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The ruthless gutting and reforming of the Department of Homeland Security has traumatized both workers and the most vulnerable immigrants Federal officials tasked with implementing the Trump administration ’s “mass deportation” program…
+
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/jul/11/inside-homeland-security-campaign-of-fear
+
+### 2. Are Detroit’s Health Hubs the Solution to DPSCD’s Chronic Absenteeism Problem? [10/10]
+**Source:** The 74  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Upbeat on-hold music blared from Jerrica Mickens’ cellphone for nearly 50 minutes as she searched on her laptop for affordable housing for a parent in Detroit.
+
+Link: https://www.the74million.org/article/are-detroits-health-hubs-the-solution-to-dpscds-chronic-absenteeism-problem/
+
+### 3. Mitch McConnell mystery deepens as health questions remain unanswered [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Senator’s office has released only sparse details about hospital stay, leaving fevered speculation to fill vacuum Mystery surrounding Senator Mitch McConnell’s health is deepening as the US Congress prepares to return from recess next week.
+
+Link: https://www.theguardian.com/us-news/2026/jul/11/mitch-mcconnell-senator-health
+
+### 4. What we've been playing - "I can't sit and do nothing other than melt into my sofa" [10/10]
 **Source:** Eurogamer  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,25 +69,7 @@ Hello and welcome back to our regular feature where we write a little about the 
 
 Link: https://www.eurogamer.net/what-weve-been-playing-melt-into-my-sofa
 
-### 2. Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Meta was criticised for feature launched on Tuesday that automatically lets users generate images using content from public Instagram accounts Meta has said ⁠it is discontinuing an AI feature launched this week that allowed users to…
-
-Link: https://www.theguardian.com/technology/2026/jul/11/meta-ditches-muse-image-ai-feature-instagram-privacy
-
-### 3. Man who was killed by ICE in Texas never ‘weaponized’ his vehicle, witnesses say [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Lawyer says men who were riding in van are being pressured to self-deport as footage of incident is reportedly with investigators Sign up for the Breaking News US newsletter email The three men who were in the van when federal immigration…
-
-Link: https://www.theguardian.com/us-news/2026/jul/10/texas-man-ice-immigration
-
-### 4. Apple sues OpenAI for allegedly stealing hardware secrets [10/10]
+### 5. Apple sues OpenAI for allegedly stealing hardware secrets [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -69,25 +78,25 @@ Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance th
 
 Link: https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets
 
-### 5. ICE is threatening to deport witnesses of its latest shooting [10/10]
+### 6. Obsidian game director reacts to people "spouting off" about the studio and how it's not what it "used to be" [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+A director at Obsidian Entertainment has shared their thoughts about the "extremely difficult week" at the studio, stressing how hard it's been to see "a bunch of cold take artists coming out of the woodwork" and "spouting off" about "what…
+
+Link: https://www.eurogamer.net/obsidian-director-disputes-studio-not-what-it-used-to-be
+
+### 7. A tasty RPG that will make you very hungry [9/10]
 **Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic stop earlier this week.
-
-Link: https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo
-
-### 6. The Download: Claude’s inner workings and OpenAI’s “super app” [10/10]
-**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+Roleplaying games are often defined by excess.
 
-Link: https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/
+Link: https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch
 
-### 7. First Columbia Charter School Targets 2027 Opening Amid Lawsuit Over Missouri Law [9/10]
+### 8. First Columbia Charter School Targets 2027 Opening Amid Lawsuit Over Missouri Law [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -96,23 +105,14 @@ Kansas City-based Frontier Schools is on track to open Columbia’s first charte
 
 Link: https://www.the74million.org/article/first-columbia-charter-school-targets-2027-opening-amid-lawsuit-over-missouri-law/
 
-### 8. "Just too gay" - Robert Yang is battling censorship to launch a collection of his award-winning games on Steam and Itch, and it's completely free [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 9. Shy on the dance floor? Virtual reality 'partners' aim to help you find your groove [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Robert Yang, the award-winning designer behind the likes of The Tearoom and Rinse and Repeat, is battling increasingly restrictive rules adopted by digital storefronts to launch an "ongoing re-remaster" compilation of his short…
+VR dance lesson apps like Dance Guru and Trip the Light offer a judgment-free way to learn partner dancing.
 
-Link: https://www.eurogamer.net/robert-yang-radiator-forever-collection-steam-itch-free
-
-### 9. ‘Spermageddon’: is the world facing a male reproductive crisis? [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Reports of falling sperm counts and testosterone levels have fuelled fears over chemicals, pollution and modern lifestyles.
-
-Link: https://www.theguardian.com/society/ng-interactive/2026/jul/11/spermageddon-world-facing-male-reproductive-crisis
+Link: https://www.npr.org/2026/07/11/nx-s1-5882228/dance-virtual-reality-vr-app-augmented-world-expo-weddings
 
 ### 10. Dear Magical Girls combines a tale of burnout with a tactical defence puzzle in which you shape and reshape a field of sorcery [8/10]
 **Source:** Rock Paper Shotgun  
@@ -161,9 +161,9 @@ We brought a computer scientist and a physicist together to talk about Shor's al
 
 Link: https://www.youtube.com/watch?v=k_kyepATqB8
 
-### Josh Johnson's Uncle Doesn't Believe in Kangaroos, Pass It On [8/10]
+### Josh Johnson's Uncle Doesn't Believe in Kangaroos, Pass It On [7/10]
 **Creator:** WIRED  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Comedian Josh Johnson visits WIRED to answer his most searched questions on Google.
@@ -549,12 +549,3 @@ Link: https://www.youtube.com/watch?v=A-NQmpNsZIc
 A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.co/_WidowsBay Subscribe to Apple TV’s YouTube channel: https://apple.
 
 Link: https://www.youtube.com/watch?v=tka45fjIWuE
-
-### Camp Snoopy — Celestial Camping Ambiance | Apple TV [7/10]
-**Source:** Apple TV  
-**Verdict:** Worth a glance  
-**Why it matters:** Relevant to your current interest graph.
-
-30 minutes of shooting stars, smooth jazz, and camping ambiance with Snoopy and Friends. Camp Snoopy — Season 2 Now Streaming #Snoopy #Ambiance #AppleTV
-
-Link: https://www.youtube.com/watch?v=5_LdIqumetw

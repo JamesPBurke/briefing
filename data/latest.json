@@ -1,11 +1,41 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-11T09:00:27.827942Z",
-  "generatedAtDisplay": "2026-07-11 05:00 AM EDT",
+  "generatedAt": "2026-07-11T14:00:01.528275Z",
+  "generatedAtDisplay": "2026-07-11 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are What we've been playing - \"I can't sit and do nothing other than melt into my sofa\", Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy, and Man who was killed by ICE in Texas never ‘weaponized’ his vehicle, witnesses say.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / privacy. The strongest items in this run are Six-hour polygraphs, forced reassignments: inside homeland security’s campaign of fear, Are Detroit’s Health Hubs the Solution to DPSCD’s Chronic Absenteeism Problem?, and Mitch McConnell mystery deepens as health questions remain unanswered.",
   "mainItems": [
+    {
+      "title": "Six-hour polygraphs, forced reassignments: inside homeland security’s campaign of fear",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/11/inside-homeland-security-campaign-of-fear",
+      "published": "2026-07-11T11:00:48+00:00",
+      "summary": "The ruthless gutting and reforming of the Department of Homeland Security has traumatized both workers and the most vulnerable immigrants Federal officials tasked with implementing the Trump administration ’s “mass deportation” program…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Are Detroit’s Health Hubs the Solution to DPSCD’s Chronic Absenteeism Problem?",
+      "source": "The 74",
+      "category": "Democracy / press freedom",
+      "url": "https://www.the74million.org/article/are-detroits-health-hubs-the-solution-to-dpscds-chronic-absenteeism-problem/",
+      "published": "2026-07-11T10:30:00+00:00",
+      "summary": "Upbeat on-hold music blared from Jerrica Mickens’ cellphone for nearly 50 minutes as she searched on her laptop for affordable housing for a parent in Detroit.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Mitch McConnell mystery deepens as health questions remain unanswered",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/11/mitch-mcconnell-senator-health",
+      "published": "2026-07-11T09:00:46+00:00",
+      "summary": "Senator’s office has released only sparse details about hospital stay, leaving fevered speculation to fill vacuum Mystery surrounding Senator Mitch McConnell’s health is deepening as the US Congress prepares to return from recess next week.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "What we've been playing - \"I can't sit and do nothing other than melt into my sofa\"",
       "source": "Eurogamer",
@@ -13,26 +43,6 @@
       "url": "https://www.eurogamer.net/what-weve-been-playing-melt-into-my-sofa",
       "published": "2026-07-11T07:00:00+00:00",
       "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, everyone's hot again. Nice of you to notice, Bertie.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/technology/2026/jul/11/meta-ditches-muse-image-ai-feature-instagram-privacy",
-      "published": "2026-07-11T05:07:41+00:00",
-      "summary": "Meta was criticised for feature launched on Tuesday that automatically lets users generate images using content from public Instagram accounts Meta has said ⁠it is discontinuing an AI feature launched this week that allowed users to…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Man who was killed by ICE in Texas never ‘weaponized’ his vehicle, witnesses say",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/10/texas-man-ice-immigration",
-      "published": "2026-07-10T23:44:38+00:00",
-      "summary": "Lawyer says men who were riding in van are being pressured to self-deport as footage of incident is reportedly with investigators Sign up for the Breaking News US newsletter email The three men who were in the van when federal immigration…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -47,24 +57,24 @@
       "score": 10
     },
     {
-      "title": "ICE is threatening to deport witnesses of its latest shooting",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
-      "published": "2026-07-10T21:23:13+00:00",
-      "summary": "Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic stop earlier this week.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "Obsidian game director reacts to people \"spouting off\" about the studio and how it's not what it \"used to be\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/obsidian-director-disputes-studio-not-what-it-used-to-be",
+      "published": "2026-07-11T13:33:09+00:00",
+      "summary": "A director at Obsidian Entertainment has shared their thoughts about the \"extremely difficult week\" at the studio, stressing how hard it's been to see \"a bunch of cold take artists coming out of the woodwork\" and \"spouting off\" about \"what…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
-      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "source": "MIT Technology Review",
+      "title": "A tasty RPG that will make you very hungry",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-      "published": "2026-07-10T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "url": "https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch",
+      "published": "2026-07-11T12:37:53+00:00",
+      "summary": "Roleplaying games are often defined by excess.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "First Columbia Charter School Targets 2027 Opening Amid Lawsuit Over Missouri Law",
@@ -77,23 +87,13 @@
       "score": 9
     },
     {
-      "title": "\"Just too gay\" - Robert Yang is battling censorship to launch a collection of his award-winning games on Steam and Itch, and it's completely free",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/robert-yang-radiator-forever-collection-steam-itch-free",
-      "published": "2026-07-10T16:50:45+00:00",
-      "summary": "Robert Yang, the award-winning designer behind the likes of The Tearoom and Rinse and Repeat, is battling increasingly restrictive rules adopted by digital storefronts to launch an \"ongoing re-remaster\" compilation of his short…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "‘Spermageddon’: is the world facing a male reproductive crisis?",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/society/ng-interactive/2026/jul/11/spermageddon-world-facing-male-reproductive-crisis",
-      "published": "2026-07-11T06:09:36+00:00",
-      "summary": "Reports of falling sperm counts and testosterone levels have fuelled fears over chemicals, pollution and modern lifestyles.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Shy on the dance floor? Virtual reality 'partners' aim to help you find your groove",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5882228/dance-virtual-reality-vr-app-augmented-world-expo-weddings",
+      "published": "2026-07-11T09:00:00+00:00",
+      "summary": "VR dance lesson apps like Dance Guru and Trip the Light offer a judgment-free way to learn partner dancing.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
     },
     {
@@ -157,8 +157,8 @@
       "published": "2026-07-10T13:30:03+00:00",
       "summary": "Comedian Josh Johnson visits WIRED to answer his most searched questions on Google.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Josh Johnson Answers The Web's Most Searched Questions",
@@ -590,17 +590,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
-    },
-    {
-      "title": "Camp Snoopy — Celestial Camping Ambiance | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=5_LdIqumetw",
-      "published": "2026-07-07T14:59:58+00:00",
-      "summary": "30 minutes of shooting stars, smooth jazz, and camping ambiance with Snoopy and Friends. Camp Snoopy — Season 2 Now Streaming #Snoopy #Ambiance #AppleTV",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Worth a glance"
     }
   ],
   "recommendations": {
@@ -715,7 +704,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 21,
-    "trailerCount": 21,
+    "trailerCount": 20,
     "sourceCount": 21
   }
 }
