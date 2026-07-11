@@ -1,19 +1,29 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-11T05:00:02.845803Z",
-  "generatedAtDisplay": "2026-07-11 01:00 AM EDT",
+  "generatedAt": "2026-07-11T09:00:27.827942Z",
+  "generatedAtDisplay": "2026-07-11 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Trump-appointed judge dismisses seditious conspiracy case against Proud Boys, Man who was killed by ICE in Texas never ‘weaponized’ his vehicle, witnesses say, and Apple sues OpenAI for allegedly stealing hardware secrets.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are What we've been playing - \"I can't sit and do nothing other than melt into my sofa\", Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy, and Man who was killed by ICE in Texas never ‘weaponized’ his vehicle, witnesses say.",
   "mainItems": [
     {
-      "title": "Trump-appointed judge dismisses seditious conspiracy case against Proud Boys",
-      "source": "The Guardian US",
+      "title": "What we've been playing - \"I can't sit and do nothing other than melt into my sofa\"",
+      "source": "Eurogamer",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/10/proud-boys-seditious-conspiracy-case-dismissed",
-      "published": "2026-07-11T01:58:49+00:00",
-      "summary": "Judge says he’s granting request to dismiss prosecutions even though request is clearly based not on facts or the law A federal judge nominated by Donald Trump during his first term reluctantly agreed on Friday to grant the Department of…",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-melt-into-my-sofa",
+      "published": "2026-07-11T07:00:00+00:00",
+      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, everyone's hot again. Nice of you to notice, Bertie.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/technology/2026/jul/11/meta-ditches-muse-image-ai-feature-instagram-privacy",
+      "published": "2026-07-11T05:07:41+00:00",
+      "summary": "Meta was criticised for feature launched on Tuesday that automatically lets users generate images using content from public Instagram accounts Meta has said ⁠it is discontinuing an AI feature launched this week that allowed users to…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
@@ -47,16 +57,6 @@
       "score": 10
     },
     {
-      "title": "A decade later, Pokémon Go finally made good on its original promise",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
-      "published": "2026-07-10T19:57:23+00:00",
-      "summary": "When Niantic dropped the first Pokémon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pokémon like Mewtwo.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
       "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
       "source": "MIT Technology Review",
       "category": "AI / computing",
@@ -65,26 +65,6 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
-    },
-    {
-      "title": "Dear Magical Girls combines a tale of burnout with a tactical defence puzzle in which you shape and reshape a field of sorcery",
-      "source": "Rock Paper Shotgun",
-      "category": "Security / computing",
-      "url": "https://www.rockpapershotgun.com/dear-magical-girls-combines-a-tale-of-burnout-with-a-tactical-defence-puzzle-in-which-you-shape-and-reshape-a-field-of-sorcery",
-      "published": "2026-07-10T20:16:40+00:00",
-      "summary": "I am just savvy enough with anime and manga to hesitantly observe that there are at least two broad types of \"magic girl\" story.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 9
-    },
-    {
-      "title": "Guide a living landship through a deadly fungal world in Trailblazers, a roguelite colony sim inspired by Rimworld, Moebius, and Darkest Dungeon",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/guide-a-living-landship-through-a-deadly-fungal-world-in-trailblazers-a-roguelite-colony-sim-inspired-by-rimworld-moebius-and-darkest-dungeon",
-      "published": "2026-07-10T18:55:09+00:00",
-      "summary": "If you are fond of Nausicaa, Moebius , Andrei Tarkovski, Jeff Vandermeer, Rimworld , FTL: Faster Than Light , fungus, coral, and furiously bright colours in general, you may wish to take an interest in Trailblazers: Into The March - a…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
     },
     {
       "title": "First Columbia Charter School Targets 2027 Opening Amid Lawsuit Over Missouri Law",
@@ -97,13 +77,33 @@
       "score": 9
     },
     {
-      "title": "Bipartisan housing bill becomes law despite Trump’s refusal to sign it",
+      "title": "\"Just too gay\" - Robert Yang is battling censorship to launch a collection of his award-winning games on Steam and Itch, and it's completely free",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/robert-yang-radiator-forever-collection-steam-itch-free",
+      "published": "2026-07-10T16:50:45+00:00",
+      "summary": "Robert Yang, the award-winning designer behind the likes of The Tearoom and Rinse and Repeat, is battling increasingly restrictive rules adopted by digital storefronts to launch an \"ongoing re-remaster\" compilation of his short…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "‘Spermageddon’: is the world facing a male reproductive crisis?",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jul/10/housing-bill-becomes-law-without-trump-veto",
-      "published": "2026-07-11T04:23:34+00:00",
-      "summary": "President says he would refuse to sign housing bill without passage of voting legislation, but without veto it will still become law A major housing bill has automatically become law without Donald Trump ’s signature, after the president…",
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/jul/11/spermageddon-world-facing-male-reproductive-crisis",
+      "published": "2026-07-11T06:09:36+00:00",
+      "summary": "Reports of falling sperm counts and testosterone levels have fuelled fears over chemicals, pollution and modern lifestyles.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
+    },
+    {
+      "title": "Dear Magical Girls combines a tale of burnout with a tactical defence puzzle in which you shape and reshape a field of sorcery",
+      "source": "Rock Paper Shotgun",
+      "category": "Security / computing",
+      "url": "https://www.rockpapershotgun.com/dear-magical-girls-combines-a-tale-of-burnout-with-a-tactical-defence-puzzle-in-which-you-shape-and-reshape-a-field-of-sorcery",
+      "published": "2026-07-10T20:16:40+00:00",
+      "summary": "I am just savvy enough with anime and manga to hesitantly observe that there are at least two broad types of \"magic girl\" story.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 8
     },
     {
@@ -190,8 +190,8 @@
       "published": "2026-07-10T20:00:34+00:00",
       "summary": "A former Olympic canoeist pleaded not guilty today to a felony charge of damaging the Lincoln Memorial Reflecting Pool. In a crowded, stuffy courtroom today, David Hearn’s attorney entered his not guilty plea.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Who’s in President Trump’s ear when he’s making decisions on the war with Iran?",
@@ -201,8 +201,8 @@
       "published": "2026-07-10T19:00:05+00:00",
       "summary": "The US and Iran are again firing at each other, after President Trump said this week during the NATO summit that the ceasefire between the two countries is over. But he also said talks with Tehran continue.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Waymo calls the cops on two teens drinking, shooting toy guns from driverless car",
@@ -716,6 +716,6 @@
     "mainCount": 13,
     "youtubeCount": 21,
     "trailerCount": 21,
-    "sourceCount": 20
+    "sourceCount": 21
   }
 }

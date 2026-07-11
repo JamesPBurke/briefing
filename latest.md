@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-11T05:00:02.845803Z
+Generated: 2026-07-11T09:00:27.827942Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Trump-appointed judge dismisses seditious conspiracy case against Proud Boys, Man who was killed by ICE in Texas never ‘weaponized’ his vehicle, witnesses say, and Apple sues OpenAI for allegedly stealing hardware secrets.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are What we've been playing - "I can't sit and do nothing other than melt into my sofa", Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy, and Man who was killed by ICE in Texas never ‘weaponized’ his vehicle, witnesses say.
 
 ## Briefing
 
@@ -33,16 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Trump-appointed judge dismisses seditious conspiracy case against Proud Boys [10/10]
-**Source:** The Guardian US  
+### 1. What we've been playing - "I can't sit and do nothing other than melt into my sofa" [10/10]
+**Source:** Eurogamer  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Judge says he’s granting request to dismiss prosecutions even though request is clearly based not on facts or the law A federal judge nominated by Donald Trump during his first term reluctantly agreed on Friday to grant the Department of…
+Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, everyone's hot again. Nice of you to notice, Bertie.
 
-Link: https://www.theguardian.com/us-news/2026/jul/10/proud-boys-seditious-conspiracy-case-dismissed
+Link: https://www.eurogamer.net/what-weve-been-playing-melt-into-my-sofa
 
-### 2. Man who was killed by ICE in Texas never ‘weaponized’ his vehicle, witnesses say [10/10]
+### 2. Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Meta was criticised for feature launched on Tuesday that automatically lets users generate images using content from public Instagram accounts Meta has said ⁠it is discontinuing an AI feature launched this week that allowed users to…
+
+Link: https://www.theguardian.com/technology/2026/jul/11/meta-ditches-muse-image-ai-feature-instagram-privacy
+
+### 3. Man who was killed by ICE in Texas never ‘weaponized’ his vehicle, witnesses say [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,7 +60,7 @@ Lawyer says men who were riding in van are being pressured to self-deport as foo
 
 Link: https://www.theguardian.com/us-news/2026/jul/10/texas-man-ice-immigration
 
-### 3. Apple sues OpenAI for allegedly stealing hardware secrets [10/10]
+### 4. Apple sues OpenAI for allegedly stealing hardware secrets [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -60,7 +69,7 @@ Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance th
 
 Link: https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets
 
-### 4. ICE is threatening to deport witnesses of its latest shooting [10/10]
+### 5. ICE is threatening to deport witnesses of its latest shooting [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -68,15 +77,6 @@ Link: https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets
 Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic stop earlier this week.
 
 Link: https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo
-
-### 5. A decade later, Pokémon Go finally made good on its original promise [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-When Niantic dropped the first Pokémon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pokémon like Mewtwo.
-
-Link: https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026
 
 ### 6. The Download: Claude’s inner workings and OpenAI’s “super app” [10/10]
 **Source:** MIT Technology Review  
@@ -87,25 +87,7 @@ This is today’s edition of The Download, our weekday newsletter that provides 
 
 Link: https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/
 
-### 7. Dear Magical Girls combines a tale of burnout with a tactical defence puzzle in which you shape and reshape a field of sorcery [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-I am just savvy enough with anime and manga to hesitantly observe that there are at least two broad types of "magic girl" story.
-
-Link: https://www.rockpapershotgun.com/dear-magical-girls-combines-a-tale-of-burnout-with-a-tactical-defence-puzzle-in-which-you-shape-and-reshape-a-field-of-sorcery
-
-### 8. Guide a living landship through a deadly fungal world in Trailblazers, a roguelite colony sim inspired by Rimworld, Moebius, and Darkest Dungeon [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-If you are fond of Nausicaa, Moebius , Andrei Tarkovski, Jeff Vandermeer, Rimworld , FTL: Faster Than Light , fungus, coral, and furiously bright colours in general, you may wish to take an interest in Trailblazers: Into The March - a…
-
-Link: https://www.rockpapershotgun.com/guide-a-living-landship-through-a-deadly-fungal-world-in-trailblazers-a-roguelite-colony-sim-inspired-by-rimworld-moebius-and-darkest-dungeon
-
-### 9. First Columbia Charter School Targets 2027 Opening Amid Lawsuit Over Missouri Law [9/10]
+### 7. First Columbia Charter School Targets 2027 Opening Amid Lawsuit Over Missouri Law [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -114,14 +96,32 @@ Kansas City-based Frontier Schools is on track to open Columbia’s first charte
 
 Link: https://www.the74million.org/article/first-columbia-charter-school-targets-2027-opening-amid-lawsuit-over-missouri-law/
 
-### 10. Bipartisan housing bill becomes law despite Trump’s refusal to sign it [8/10]
+### 8. "Just too gay" - Robert Yang is battling censorship to launch a collection of his award-winning games on Steam and Itch, and it's completely free [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Robert Yang, the award-winning designer behind the likes of The Tearoom and Rinse and Repeat, is battling increasingly restrictive rules adopted by digital storefronts to launch an "ongoing re-remaster" compilation of his short…
+
+Link: https://www.eurogamer.net/robert-yang-radiator-forever-collection-steam-itch-free
+
+### 9. ‘Spermageddon’: is the world facing a male reproductive crisis? [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-President says he would refuse to sign housing bill without passage of voting legislation, but without veto it will still become law A major housing bill has automatically become law without Donald Trump ’s signature, after the president…
+Reports of falling sperm counts and testosterone levels have fuelled fears over chemicals, pollution and modern lifestyles.
 
-Link: https://www.theguardian.com/us-news/2026/jul/10/housing-bill-becomes-law-without-trump-veto
+Link: https://www.theguardian.com/society/ng-interactive/2026/jul/11/spermageddon-world-facing-male-reproductive-crisis
+
+### 10. Dear Magical Girls combines a tale of burnout with a tactical defence puzzle in which you shape and reshape a field of sorcery [8/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+I am just savvy enough with anime and manga to hesitantly observe that there are at least two broad types of "magic girl" story.
+
+Link: https://www.rockpapershotgun.com/dear-magical-girls-combines-a-tale-of-burnout-with-a-tactical-defence-puzzle-in-which-you-shape-and-reshape-a-field-of-sorcery
 
 ### 11. AI Fiction Is Easy to Detect Because It's Stupid and Bad, Research Finds [8/10]
 **Source:** 404 Media  
@@ -188,18 +188,18 @@ The internet asks, WIRED answers. Is American democracy going to die? Professor 
 
 Link: https://www.youtube.com/watch?v=XVEMBw2jT9o
 
-### Former Olympian pleads not guilty to vandalising D.C.'s reflecting pool [8/10]
+### Former Olympian pleads not guilty to vandalising D.C.'s reflecting pool [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 A former Olympic canoeist pleaded not guilty today to a felony charge of damaging the Lincoln Memorial Reflecting Pool. In a crowded, stuffy courtroom today, David Hearn’s attorney entered his not guilty plea.
 
 Link: https://www.youtube.com/watch?v=v_32KQaqL9Y
 
-### Who’s in President Trump’s ear when he’s making decisions on the war with Iran? [8/10]
+### Who’s in President Trump’s ear when he’s making decisions on the war with Iran? [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 The US and Iran are again firing at each other, after President Trump said this week during the NATO summit that the ceasefire between the two countries is over. But he also said talks with Tehran continue.
