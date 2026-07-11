@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-10T18:00:49.569399Z
+Generated: 2026-07-11T05:00:02.845803Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are World Cup 2026: ‘violent disorder’ in London after France’s win over Morocco; Spain v Belgium buildup; Jesus takes Portugal job – as it happened, One million women lost access to humanitarian support in past 18 months, UN report says, and The Download: Claude’s inner workings and OpenAI’s “super app”.
+Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Trump-appointed judge dismisses seditious conspiracy case against Proud Boys, Man who was killed by ICE in Texas never ‘weaponized’ his vehicle, witnesses say, and Apple sues OpenAI for allegedly stealing hardware secrets.
 
 ## Briefing
 
@@ -33,25 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. World Cup 2026: ‘violent disorder’ in London after France’s win over Morocco; Spain v Belgium buildup; Jesus takes Portugal job – as it happened [10/10]
+### 1. Trump-appointed judge dismisses seditious conspiracy case against Proud Boys [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-‘Violent disorder’ in London in the aftermath of France’s win over Morocco as Spain and Belgium build up towards quarterfinal showdown A 17-year-old girl fell off a truck and died while celebrating France’s World Cup quarter final win over…
+Judge says he’s granting request to dismiss prosecutions even though request is clearly based not on facts or the law A federal judge nominated by Donald Trump during his first term reluctantly agreed on Friday to grant the Department of…
 
-Link: https://www.theguardian.com/football/live/2026/jul/10/world-cup-2026-france-power-on-quansah-ban-fallout-spain-v-belgium-buildup-live
+Link: https://www.theguardian.com/us-news/2026/jul/10/proud-boys-seditious-conspiracy-case-dismissed
 
-### 2. One million women lost access to humanitarian support in past 18 months, UN report says [10/10]
+### 2. Man who was killed by ICE in Texas never ‘weaponized’ his vehicle, witnesses say [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-‘Organizations that have kept women and girls alive through the world’s worst crises risk becoming another casualty of war’ a UN Women chief says At least one million women and girls have lost access to humanitarian and other critical…
+Lawyer says men who were riding in van are being pressured to self-deport as footage of incident is reportedly with investigators Sign up for the Breaking News US newsletter email The three men who were in the van when federal immigration…
 
-Link: https://www.theguardian.com/world/2026/jul/10/one-million-women-without-humanitarian-support-un-report
+Link: https://www.theguardian.com/us-news/2026/jul/10/texas-man-ice-immigration
 
-### 3. The Download: Claude’s inner workings and OpenAI’s “super app” [10/10]
+### 3. Apple sues OpenAI for allegedly stealing hardware secrets [10/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans.
+
+Link: https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets
+
+### 4. ICE is threatening to deport witnesses of its latest shooting [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic stop earlier this week.
+
+Link: https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo
+
+### 5. A decade later, Pokémon Go finally made good on its original promise [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+When Niantic dropped the first Pokémon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pokémon like Mewtwo.
+
+Link: https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026
+
+### 6. The Download: Claude’s inner workings and OpenAI’s “super app” [10/10]
 **Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -60,92 +87,474 @@ This is today’s edition of The Download, our weekday newsletter that provides 
 
 Link: https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/
 
-### 4. Pressure mounts on Texas to address brutal heat crisis in prison cells [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 7. Dear Magical Girls combines a tale of burnout with a tactical defence puzzle in which you shape and reshape a field of sorcery [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
 
-State hit by new wrongful death lawsuit by family of Jason Wilson, who died in ‘brutally hot, un-airconditioned’ cell Texas, the state with the largest prison population in the US, is coming under mounting legal pressure to address the…
+I am just savvy enough with anime and manga to hesitantly observe that there are at least two broad types of "magic girl" story.
 
-Link: https://www.theguardian.com/us-news/2026/jul/10/texas-crisis-brutal-heat-prison-cells
+Link: https://www.rockpapershotgun.com/dear-magical-girls-combines-a-tale-of-burnout-with-a-tactical-defence-puzzle-in-which-you-shape-and-reshape-a-field-of-sorcery
 
-### 5. Waymo called the cops on teen riders, raising privacy concerns [10/10]
-**Source:** NPR Tech  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 8. Guide a living landship through a deadly fungal world in Trailblazers, a roguelite colony sim inspired by Rimworld, Moebius, and Darkest Dungeon [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Two 15-year-olds were allegedly drinking alcohol and shooting toy guns from a driverless taxi when the company disabled it and alerted police.
+If you are fond of Nausicaa, Moebius , Andrei Tarkovski, Jeff Vandermeer, Rimworld , FTL: Faster Than Light , fungus, coral, and furiously bright colours in general, you may wish to take an interest in Trailblazers: Into The March - a…
 
-Link: https://www.npr.org/2026/07/10/nx-s1-5886113/waymo-police-privacy-driverless-autonomous-vehicles
+Link: https://www.rockpapershotgun.com/guide-a-living-landship-through-a-deadly-fungal-world-in-trailblazers-a-roguelite-colony-sim-inspired-by-rimworld-moebius-and-darkest-dungeon
 
-### 6. Nvidia’s biggest RAM supplier just had a trillion-dollar debut on Wall Street [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.
-
-Link: https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut
-
-### 7. 5 Key Education Stories This Week: Future of College, ‘Rehumaning’ School & More [9/10]
+### 9. First Columbia Charter School Targets 2027 Opening Amid Lawsuit Over Missouri Law [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Here at The 74, we publish and syndicate more than 30 articles a week about how America’s education system is evolving in a bid to better serve its 74 million children.
+Kansas City-based Frontier Schools is on track to open Columbia’s first charter school in the fall of 2027. At this point, Frontier Schools has hired a contractor and is looking for possible locations for the charter school in the city.
 
-Link: https://www.the74million.org/article/5-key-education-stories-this-week-future-of-college-rehumaning-school-more/
+Link: https://www.the74million.org/article/first-columbia-charter-school-targets-2027-opening-amid-lawsuit-over-missouri-law/
 
-### 8. Disable auto-play and infinite scroll or risk massive fines, EU tells Meta [9/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Digital Services Act may force Meta to make big changes on its platforms.
-
-Link: https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/
-
-### 9. Disney Plus is reportedly looking into a free streaming tier [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Disney Plus is considering making some of its content free to watch, according to a report from Business Insider.
-
-Link: https://www.theverge.com/streaming/964056/disney-plus-free-tier-report
-
-### 10. ‘Math Wars’: New York Wants To Reform Math Instruction, but Experts Disagree on How [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-New York school districts will soon begin revamping math instruction under a new law aimed at improving test scores — but the effort comes amid sharp debate over how math should be taught.
-
-Link: https://www.the74million.org/article/math-wars-new-york-wants-to-reform-math-instruction-but-experts-disagree-on-how/
-
-### 11. In private call, Education Dept. tried, but failed, to reassure disability advocates [9/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The disability community has long worried about what would happen if special education oversight moved from the Education Department to another agency. Now, those moves are becoming more real.
-
-Link: https://www.npr.org/2026/07/09/nx-s1-5887650/education-department-special-ed-hhs
-
-### 12. Fast-spreading wildfire kills at least 12 in southern Spain [8/10]
+### 10. Bipartisan housing bill becomes law despite Trump’s refusal to sign it [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Twenty-three people missing and four Britons thought to be among those who died trying to flee Almería blaze ‘I had an incredible escape’: British woman tells of close encounter with wildfire At least 12 people have been killed and 23 are…
+President says he would refuse to sign housing bill without passage of voting legislation, but without veto it will still become law A major housing bill has automatically become law without Donald Trump ’s signature, after the president…
 
-Link: https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar
+Link: https://www.theguardian.com/us-news/2026/jul/10/housing-bill-becomes-law-without-trump-veto
 
-### 13. Patreon Blocks Crawlers From Stealing Creators' Work for AI Training [8/10]
+### 11. AI Fiction Is Easy to Detect Because It's Stupid and Bad, Research Finds [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-“Creators deserve credit, compensation, and consent. If that's not on the table, the crawlers can stay the fuck off Patreon," CEO Jack Conte wrote on Thursday.
+ChatGPT uses too many dream sequences and Gemini won’t stop describing characters.
 
-Link: https://www.404media.co/patreon-cloudflare-partnership-ai-crawlers/
+Link: https://www.404media.co/ai-fiction-is-easy-to-detect-because-its-stupid-and-bad-research-finds/
+
+### 12. What to Watch and Read This Weekend: Against My Better Judgment, Silo [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Plus: Come for the Hugo finalists, stay for the divisive reviews The post What to Watch and Read This Weekend: Against My Better Judgment, Silo appeared first on Reactor .
+
+Link: https://reactormag.com/what-to-watch-read-this-weekend-july-10-2026/
+
+### 13. Cyclospora outbreaks grow in the Midwest [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Michigan reports 1,250 cases of cyclospora and CDC surveillance shows cases in 17 states. The CDC has initiated a traceback investigation, as the source is not yet known.
+
+Link: https://www.npr.org/2026/07/10/nx-s1-5887517/cyclospora-outbreaks-grow-in-the-midwest
+
+## YouTube
+
+### Shor's Algorithm for Quantum Computing - Computerphile [6/10]
+**Creator:** Computerphile  
+**Verdict:** Summary is enough  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+We brought a computer scientist and a physicist together to talk about Shor's algorithm - a famous factorisation algorithm for that can break some currently used encryption techniques if implemented in the quantum realm.
+
+Link: https://www.youtube.com/watch?v=k_kyepATqB8
+
+### Josh Johnson's Uncle Doesn't Believe in Kangaroos, Pass It On [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Comedian Josh Johnson visits WIRED to answer his most searched questions on Google.
+
+Link: https://www.youtube.com/watch?v=lD_N8hbZn5o
+
+### Josh Johnson Answers The Web's Most Searched Questions [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Comedian @JoshJohnsonComedy visits WIRED to answer his most searched questions on Google.
+
+Link: https://www.youtube.com/watch?v=y14db1CjxCk
+
+### Dictator Historian Answers America's Biggest Question [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The internet asks, WIRED answers. Is American democracy going to die? Professor and scholar in fascism and authoritarianism Ruth Ben-Ghiat breaks down all of the key ingredients in a recipe for a dying democracy.
+
+Link: https://www.youtube.com/watch?v=XVEMBw2jT9o
+
+### Former Olympian pleads not guilty to vandalising D.C.'s reflecting pool [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+A former Olympic canoeist pleaded not guilty today to a felony charge of damaging the Lincoln Memorial Reflecting Pool. In a crowded, stuffy courtroom today, David Hearn’s attorney entered his not guilty plea.
+
+Link: https://www.youtube.com/watch?v=v_32KQaqL9Y
+
+### Who’s in President Trump’s ear when he’s making decisions on the war with Iran? [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The US and Iran are again firing at each other, after President Trump said this week during the NATO summit that the ceasefire between the two countries is over. But he also said talks with Tehran continue.
+
+Link: https://www.youtube.com/watch?v=8QLczbDsswA
+
+### Waymo calls the cops on two teens drinking, shooting toy guns from driverless car [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The driverless car company Waymo called California police to report two 15-year-olds who were allegedly drinking alcohol and shooting toy guns inside one of their vehicles. Waymo's cars have an array of cameras inside and out.
+
+Link: https://www.youtube.com/watch?v=Tadd7Vg4giI
+
+### Do you think defensive ⚽ players get enough credit? [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Attackers like Messi, Mbappe and Haaland stand out for their game-winning goals, but overwhelmingly fans told us that goalkeepers and defenders deserve more attention.
+
+Link: https://www.youtube.com/watch?v=Fa6Kg5L5dks
+
+### Trump says ceasefire is 'over,' calls Iran 'scum' following fresh airstrikes overnight [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+President Trump says the ceasefire between the U.S. and Iran is “over” after U.S. forces carried out a new wave of strikes on Iranian military targets overnight.
+
+Link: https://www.youtube.com/watch?v=NdHtDZJzVUA
+
+### Crews work through the night to stabilize NYC high-rise [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Construction crews worked through the night to stabilize a high-rise building in Midtown Manhattan after officials said two of its support columns buckled.
+
+Link: https://www.youtube.com/watch?v=uEb3rRpJWuY
+
+### The End of PlayStation Discs: Has Sony Actually Thought This Through? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/DeUV3IqEZRU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=1TSp9DfAqvk
+
+### FSR 4 on RDNA 3: Steam Machine, RX 7800 XT, RX 7900 XTX - Benchmarked [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/OkL1A7S6fBU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=xd9Edxpod2U
+
+### Sony Is Closing Down The PS3 and Vita Digital Stores [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/vcpjiMcAyoU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=5DjEwMXqkHk
+
+### The Big Xbox Reset Is Awful - And Spells Doom For id Software [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/DeUV3IqEZRU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=kXFeNOwSVrM
+
+### Ultrawide Displays: An Actual Game-Changer For The PC Experience [Sponsored] [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Content Sponsored By MSI ► Watch the Full Video Here: https://youtu.be/_3bJ6FSGFnY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.
+
+Link: https://www.youtube.com/watch?v=XyCk4S-gKeI
+
+### Stop Watching This and Go Watch Games Done Quick [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week has been home to the Summer Games Done Quick speedrunning charity event.
+
+Link: https://www.youtube.com/watch?v=WAWwzeh5T48
+
+### PlayStation Says the End of Physical Media Is Here, I Guess | Unpacked [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Sony has decided it's done with physical games. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=VbP1jTJdZZI
+
+### What Are We Doing Here, Xbox? | Firelink Podcast [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Firelink, KC and Marty chat about the recent update in Xbox's big studio reset. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.fantasycritic.
+
+Link: https://www.youtube.com/watch?v=MPKkhXoV5xk
+
+### Drinking (Mostly) Clean Water in Fallout 3 w/ Jack, Jess, and Marty -- Part 5 [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=J9OKKjMuJFU
+
+### Yahtzee Tries... About Fishing and Moonlight Peaks [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Yahtzee Tries... Yahtzee and JM8 try out About Fishing and Moonlight Peaks. About Fishing -- https://store.steampowered.com/app/3856530/About_Fishing/ Moonlight Peaks -- https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=UYQoMaM-6XI
+
+### The Adventures of Elliot: The Millennium Tales | Fully Ramblomatic [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Fully Ramblomatic, Yahtzee reviewed The Adventures of Elliot: The Millennium Tales. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=iHd8Xgehe4o
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+### One Night Only | Official Trailer [8/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+what would you do if you only had one night? __________________________________________________________ What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but…
+
+Link: https://www.youtube.com/watch?v=AvKoSR3O4NQ
+
+### One Night Only | A Look Inside [7/10]
+**Source:** Universal Pictures  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but You and Easy A, celebrates modern romantic comedy on the big screen with a fresh, witty, swoony original…
+
+Link: https://www.youtube.com/watch?v=sNFnNF8gpJQ
+
+### KLARA AND THE SUN – Official Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Meet Klara. Your new best (artificial) friend. 🌞 Jenna Ortega is Klara in Director Taika Waititi’s adaptation of Kazuo Ishiguro’s #KlaraAndTheSun - coming exclusively to theatres October 23. Watch the trailer now.
+
+Link: https://www.youtube.com/watch?v=wixzainceAE
+
+### The Debut | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.
+
+Link: https://www.youtube.com/watch?v=clyzHmBx43E
+
+### The Wrong Girls - Official Trailer - In Theaters August 14 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.
+
+Link: https://www.youtube.com/watch?v=zrcg8YHSys8
+
+### Her Private Hell - Official Trailer - In Theaters July 24 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.
+
+Link: https://www.youtube.com/watch?v=C7E-0t1TfzM
+
+### Sheep in the Box - Official Trailer - In Theaters July 24 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In the near future, Otone and Kensuke, a grieving couple who have lost their son, take into their lives a humanoid identical to their late child.
+
+Link: https://www.youtube.com/watch?v=j5mlc8TAPNw
+
+### NIGHTBORN | Official Trailer Feat. Rupert Grint, Seidi Haarla | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+With dreams of starting a perfect family, Saga and her British husband Jon move to the isolated house where she spent much of her childhood, deep in the Finnish forest.
+
+Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
+
+### Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo invite you to The East Palace #Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+I can feel my spirits rising because an exciting new show is coming 😱 Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo are here to invite you to The East Palace, coming this July 17. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=x5fXTHnj-hc
+
+### Stokes Twins! | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Meet Alan and Alex Stokes, the internet’s most creative agents of chaos. Daring challenges, jaw-dropping pranks, and mind-blowing stunts. No rules. No limits. Watch Stokes Twins! on Netflix July 18. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=YB1Ikd9sk00
+
+### The Gentlemen: Season 2 | Official Teaser | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The Jungle is Expanding! Theo James returns as Eddie aka The Duke, and this time he's back with a new sense of ambition. To grow the empire, he extends his reach across borders, taking on the Italian mafia.
+
+Link: https://www.youtube.com/watch?v=aOY7HTQlsSo
+
+### Tyler Perry’s Why Did I Get Married Again? | Official Teaser | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+New generation. Same relationships. Same question. Watch Tyler Perry’s WHY DID I GET MARRIED AGAIN?, only on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=t_QUYXwkwss
+
+### Death Inc. | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Life comes to an end. So does this series. RIP Death INC Netflix premieres the fourth and final season of the hit comedy created by Laura and Alberto Caballero on August 7, 2026.
+
+Link: https://www.youtube.com/watch?v=iaKzZkXLrrc
+
+### time to go back to the prairie! #LittleHouseOnThePrairie premieres tomorrow! [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+time to go back to the prairie! #LittleHouseOnThePrairie premieres tomorrow! Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=I5l1SZyX1Qs
+
+### Elize: Shadows of a Woman | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A marriage destroyed by betrayal, jealousy, and violence.
+
+Link: https://www.youtube.com/watch?v=KiKnd3cusPo
+
+### Hot Ones: Extra Heat | Sneak Peek | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Will Ferrell and “The Hawk” costars Jimmy Tatro and Fortune Feimster step up to face hot questions and even hotter wings in this exclusive special episode of Hot Ones: Extra Heat. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=6uVDJtURIsM
+
+### The Final Problem | Date Announcement | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+An island off the coast of Mallorca, thirteen guests trapped in a hotel by a storm, and a death that changes everything. That’s how this new Netflix mystery series begins, based on the novel by Arturo Pérez-Reverte.
+
+Link: https://www.youtube.com/watch?v=CfjAUfv6F6o
+
+### Love in Slow Motion | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Can love be hiding where you least expect it? Haya has always kept love at arm’s length... until Jawad drops news she never saw coming.
+
+Link: https://www.youtube.com/watch?v=oCg2wXznjLo
+
+### Snoopy Presents: There's No Place Like Home, Snoopy — Official Trailer | Apple TV [8/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A house with good bones. Snoopy Presents: No Place Like Home, Snoopy — July 31 #AppleTV #Peanuts #Snoopy #Trailer #NoPlaceLikeHomeSnoopy
+
+Link: https://www.youtube.com/watch?v=A-NQmpNsZIc
+
+### Widow's Bay now has more Emmy nominations than Martha's Vineyard. [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.co/_WidowsBay Subscribe to Apple TV’s YouTube channel: https://apple.
+
+Link: https://www.youtube.com/watch?v=tka45fjIWuE
+
+### Camp Snoopy — Celestial Camping Ambiance | Apple TV [7/10]
+**Source:** Apple TV  
+**Verdict:** Worth a glance  
+**Why it matters:** Relevant to your current interest graph.
+
+30 minutes of shooting stars, smooth jazz, and camping ambiance with Snoopy and Friends. Camp Snoopy — Season 2 Now Streaming #Snoopy #Ambiance #AppleTV
+
+Link: https://www.youtube.com/watch?v=5_LdIqumetw
