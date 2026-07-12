@@ -1,79 +1,99 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-12T05:00:03.793179Z",
-  "generatedAtDisplay": "2026-07-12 01:00 AM EDT",
+  "generatedAt": "2026-07-12T14:00:03.044650Z",
+  "generatedAtDisplay": "2026-07-12 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Toronto shooting: two dead and four injured at Salsa on St Clair street festival, Julián Álvarez’s extra-time stunner sinks 10-man Switzerland to send Argentina into semi-finals, and Digital Extremes finally reveal Warframe: Tau, the sci-fi shooter's long-awaited second solar system, and it's a gruesome place indeed.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Flash flooding in Missouri leaves one person dead as 200 campers are rescued, Tomb Raider: Legacy of Atlantis actor wraps up \"on the last official session\" of recording, and Zohran Mamdani riding high despite New York Post’s daily demonization.",
   "mainItems": [
     {
-      "title": "Toronto shooting: two dead and four injured at Salsa on St Clair street festival",
+      "title": "Flash flooding in Missouri leaves one person dead as 200 campers are rescued",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter",
-      "published": "2026-07-12T04:00:31+00:00",
-      "summary": "Police say two people exchanged gunfire in shooting that mayor called an ‘irresponsible act of violence’ in festival attended by families A shooting near a Toronto street festival killed two men and wounded four other people on Saturday…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/flash-flooding-in-missouri-leaves-one-person-dead-as-200-campers-are-rescued",
+      "published": "2026-07-12T13:31:26+00:00",
+      "summary": "Woman dies after her home is swept away as heavy rainfall batters parts of state, forcing rescues and evacuations A woman was found dead in Missouri on Saturday after heavy rainfall battered parts of the state the previous day, forcing…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Julián Álvarez’s extra-time stunner sinks 10-man Switzerland to send Argentina into semi-finals",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/football/2026/jul/12/switzerland-argentina-world-cup-quarter-final-match-report",
-      "published": "2026-07-12T03:58:37+00:00",
-      "summary": "Did anyone think they would do it the easy way? Argentina were labouring towards penalties with eight minutes of extra time left against a dogged, supremely organised 10-man Switzerland.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Digital Extremes finally reveal Warframe: Tau, the sci-fi shooter's long-awaited second solar system, and it's a gruesome place indeed",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/digital-extremes-finally-reveal-warframe-tau-the-sci-fi-shooters-long-awaited-second-solar-system-and-its-a-gruesome-place-indeed",
-      "published": "2026-07-11T22:21:54+00:00",
-      "summary": "Digital Extremes's venerable looty-shooty mechabody extravaganza Warframe is finally getting a full second solar system, after a warm-up flashback tour in last year's The Old Peace expansion.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "ICE are heavily armed killers. They’re also huge losers",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
-      "published": "2026-07-11T21:48:36+00:00",
-      "summary": "Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "You don’t need that giant fork. These 20 grilling tools will actually upgrade your outdoor cooking game",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/thefilter-us/2026/jul/11/best-grill-tools-tested-reviewed",
-      "published": "2026-07-11T17:15:55+00:00",
-      "summary": "If you’re looking to up your grilling skills this summer, investing in a handful of well-made essentials is all you need Sign up for the Filter US newsletter, your weekly guide to buying fewer, better things Whether you’re firing up the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump administration subpoenas New York Times journalists over new Air Force One reporting",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/11/justice-department-subpoenas-new-york-times-air-force-one",
-      "published": "2026-07-11T14:17:45+00:00",
-      "summary": "Outlet said journalists subpoenaed to testify before grand jury after story detailed security concerns with Qatar-gifted plane The Trump administration has issued subpoenas to several New York Times journalists after the newspaper reported…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Warframe's next major update blends Blade Runner, The Sopranos, and film noir in a whole new solar system, coming later this year",
+      "title": "Tomb Raider: Legacy of Atlantis actor wraps up \"on the last official session\" of recording",
       "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/warframe-tau-tennocon-reveal-blade-runner-sopranos",
-      "published": "2026-07-11T22:22:20+00:00",
-      "summary": "Digital Extremes has wrapped up this year's Tennocon Live event with a massive reveal trailer for Warframe 's next major update: Warframe: Tau.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-wraps-recording",
+      "published": "2026-07-12T13:23:34+00:00",
+      "summary": "Alix Wilton Regan, the new voice behind Crystal Dynamics and Flying Wild Hog's new Lara Croft, has confirmed she has finished up recording for Tomb Raider: Legacy of Atlantis. Read more",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Zohran Mamdani riding high despite New York Post’s daily demonization",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/zohran-mamdani-new-york-post",
+      "published": "2026-07-12T13:00:19+00:00",
+      "summary": "The media-savvy mayor’s popularity has only grown as the Murdoch-owned tabloid has thrown everything at him The rightwing New York Post has attacked Zohran Mamdani as a communist, a hater of the police, an antisemite, a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘People treat each other as disposable’: dating columnist turned novelist Annie Lord on love and sex in the age of apps",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/books/2026/jul/12/people-treat-each-other-as-disposable-dating-columnist-turned-novelist-annie-lord-on-love-and-sex-in-the-age-of-apps",
+      "published": "2026-07-12T11:00:17+00:00",
+      "summary": "Her breakup memoir and Vogue column made her the voice of modern dating.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Could fish be a secret ingredient for rice farmers to avoid disease and make more money?",
+      "source": "NPR Health",
+      "category": "Democracy / press freedom",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5803170/farmers-fish-rice-snails-tropical-disease",
+      "published": "2026-07-12T10:49:40+00:00",
+      "summary": "Farmers in Senegal are welcoming fish into their rice paddies. The hope is they'll fertilize the crop, be a source of food ... and eat the snails that carry parasitic worms.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Lindsey Graham, key ally of Donald Trump, has died after sudden illness, his office says",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-key-ally-of-donald-trump-has-died-after-sudden-illness-his-office-says",
+      "published": "2026-07-12T10:30:10+00:00",
+      "summary": "Republican served in Senate since 2003 and was sharp Trump critic before becoming one of his most loyal backers Lindsey Graham, a longtime US senator and key ally of Donald Trump, has died from a sudden illness, his office said on Sunday.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: How School-Based Kindness Training Can Help Support Students’ Mental Health",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/how-school-based-kindness-training-can-help-support-students-mental-health/",
+      "published": "2026-07-12T10:30:00+00:00",
+      "summary": "As school administrators map out curricula, schedules and priorities for the next school year, they should be thinking holistically about what kids actually need.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Tommy Robinson’s Musk-funded Russia trip spurs call to defend UK democracy",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/politics/2026/jul/12/tommy-robinson-musk-russia-trip-defend-uk-democracy-ed-davey",
+      "published": "2026-07-12T09:41:15+00:00",
+      "summary": "Ed Davey voices concern about the Musk family foundation taking the far-right activist on a visit to Moscow The UK must do more to defend its democracy after it emerged that Elon Musk’s family foundation had taken the far-right activist…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
+      "published": "2026-07-12T11:12:19+00:00",
+      "summary": "New climate evidence adds context to these long voyages.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
@@ -87,42 +107,22 @@
       "score": 9
     },
     {
-      "title": "Many Students Listen to Music To Focus and Stay Motivated While They Study – But It Doesn’t Always Help",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/many-students-listen-to-music-to-focus-and-stay-motivated-while-they-study-but-it-doesnt-always-help/",
-      "published": "2026-07-11T16:30:00+00:00",
-      "summary": "Walk into any college library and you will likely see students wearing headphones and listening to music. The idea that music can improve learning has been around for decades.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Hunter Biden wins $1.7m in suit over Iran bribery claim by ex-CEO of Overstock.com",
+      "title": "US and Iran exchange strikes as Tehran declares strait of Hormuz closed again",
       "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/jul/11/hunter-biden-defamation-suit",
-      "published": "2026-07-11T15:01:11+00:00",
-      "summary": "Biden sued Patrick Byrne for defamation over claim that he sought bribe to lobby his father to free $8bn in Iran assets A federal judge on Friday awarded Hunter Biden $1.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "A tasty RPG that will make you very hungry",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch",
-      "published": "2026-07-11T12:37:53+00:00",
-      "summary": "Roleplaying games are often defined by excess.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed",
+      "published": "2026-07-12T12:57:20+00:00",
+      "summary": "Tehran launches retaliatory attacks across region after hit on container ship draws US aerial bombardment Middle East crisis live – latest updates Iran has declared the strait of Hormuz closed after six days of hostilities with the US,…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 8
     },
     {
-      "title": "Shy on the dance floor? Virtual reality 'partners' aim to help you find your groove",
+      "title": "Getting campaign text messages ahead of midterms? There could be an AI bot behind it",
       "source": "NPR Tech",
       "category": "Science / computing",
-      "url": "https://www.npr.org/2026/07/11/nx-s1-5882228/dance-virtual-reality-vr-app-augmented-world-expo-weddings",
-      "published": "2026-07-11T09:00:00+00:00",
-      "summary": "VR dance lesson apps like Dance Guru and Trip the Light offer a judgment-free way to learn partner dancing.",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns",
+      "published": "2026-07-12T09:00:00+00:00",
+      "summary": "Taught to sound like a candidate, bots are engaging voters with personalized text messages making AI-generated texting conversations the latest tool political campaigns are using to connect.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
     },
@@ -138,17 +138,6 @@
     }
   ],
   "youtube": [
-    {
-      "title": "Shor's Algorithm for Quantum Computing - Computerphile",
-      "source": "Computerphile",
-      "category": "Science / computing",
-      "url": "https://www.youtube.com/watch?v=k_kyepATqB8",
-      "published": "2026-07-09T13:57:10+00:00",
-      "summary": "We brought a computer scientist and a physicist together to talk about Shor's algorithm - a famous factorisation algorithm for that can break some currently used encryption techniques if implemented in the quantum realm.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
     {
       "title": "Josh Johnson's Uncle Doesn't Believe in Kangaroos, Pass It On",
       "source": "WIRED",
@@ -179,8 +168,8 @@
       "published": "2026-07-11T18:00:03+00:00",
       "summary": "\"Dolly: A True Original Musical\" is coming to Broadway. The biographical show, which had a tryout in Nashville last summer, was announced by the country superstar, Dolly Parton herself, in a video Tuesday morning.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Study: Deaths caused by law enforcement soar over the last two decades",
@@ -291,6 +280,17 @@
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 6,
       "verdict": "Summary is enough"
+    },
+    {
+      "title": "Checking Out 2XKO, Riot's League of Legends Fighter | Super Smash Sunday",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=oZsr7ljKMhY",
+      "published": "2026-07-12T13:30:12+00:00",
+      "summary": "Our resident fighting game fans KC and El Cheshire are trying out Riot's 2XKO. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "There Goes the Bride | Adventure Is Nigh! - The Slow Walk Home | Ep. 5",
@@ -683,6 +683,6 @@
     "mainCount": 13,
     "youtubeCount": 19,
     "trailerCount": 20,
-    "sourceCount": 19
+    "sourceCount": 18
   }
 }

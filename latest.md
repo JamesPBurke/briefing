@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-12T05:00:03.793179Z
+Generated: 2026-07-12T14:00:03.044650Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Toronto shooting: two dead and four injured at Salsa on St Clair street festival, Julián Álvarez’s extra-time stunner sinks 10-man Switzerland to send Argentina into semi-finals, and Digital Extremes finally reveal Warframe: Tau, the sci-fi shooter's long-awaited second solar system, and it's a gruesome place indeed.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Flash flooding in Missouri leaves one person dead as 200 campers are rescued, Tomb Raider: Legacy of Atlantis actor wraps up "on the last official session" of recording, and Zohran Mamdani riding high despite New York Post’s daily demonization.
 
 ## Briefing
 
@@ -33,70 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Toronto shooting: two dead and four injured at Salsa on St Clair street festival [10/10]
+### 1. Flash flooding in Missouri leaves one person dead as 200 campers are rescued [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Police say two people exchanged gunfire in shooting that mayor called an ‘irresponsible act of violence’ in festival attended by families A shooting near a Toronto street festival killed two men and wounded four other people on Saturday…
+Woman dies after her home is swept away as heavy rainfall batters parts of state, forcing rescues and evacuations A woman was found dead in Missouri on Saturday after heavy rainfall battered parts of the state the previous day, forcing…
 
-Link: https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter
+Link: https://www.theguardian.com/us-news/2026/jul/12/flash-flooding-in-missouri-leaves-one-person-dead-as-200-campers-are-rescued
 
-### 2. Julián Álvarez’s extra-time stunner sinks 10-man Switzerland to send Argentina into semi-finals [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Did anyone think they would do it the easy way? Argentina were labouring towards penalties with eight minutes of extra time left against a dogged, supremely organised 10-man Switzerland.
-
-Link: https://www.theguardian.com/football/2026/jul/12/switzerland-argentina-world-cup-quarter-final-match-report
-
-### 3. Digital Extremes finally reveal Warframe: Tau, the sci-fi shooter's long-awaited second solar system, and it's a gruesome place indeed [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Digital Extremes's venerable looty-shooty mechabody extravaganza Warframe is finally getting a full second solar system, after a warm-up flashback tour in last year's The Old Peace expansion.
-
-Link: https://www.rockpapershotgun.com/digital-extremes-finally-reveal-warframe-tau-the-sci-fi-shooters-long-awaited-second-solar-system-and-its-a-gruesome-place-indeed
-
-### 4. ICE are heavily armed killers. They’re also huge losers [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks.
-
-Link: https://www.theverge.com/policy/964302/ice-donald-trump-killings
-
-### 5. You don’t need that giant fork. These 20 grilling tools will actually upgrade your outdoor cooking game [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-If you’re looking to up your grilling skills this summer, investing in a handful of well-made essentials is all you need Sign up for the Filter US newsletter, your weekly guide to buying fewer, better things Whether you’re firing up the…
-
-Link: https://www.theguardian.com/thefilter-us/2026/jul/11/best-grill-tools-tested-reviewed
-
-### 6. Trump administration subpoenas New York Times journalists over new Air Force One reporting [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Outlet said journalists subpoenaed to testify before grand jury after story detailed security concerns with Qatar-gifted plane The Trump administration has issued subpoenas to several New York Times journalists after the newspaper reported…
-
-Link: https://www.theguardian.com/us-news/2026/jul/11/justice-department-subpoenas-new-york-times-air-force-one
-
-### 7. Warframe's next major update blends Blade Runner, The Sopranos, and film noir in a whole new solar system, coming later this year [9/10]
+### 2. Tomb Raider: Legacy of Atlantis actor wraps up "on the last official session" of recording [10/10]
 **Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Digital Extremes has wrapped up this year's Tennocon Live event with a massive reveal trailer for Warframe 's next major update: Warframe: Tau.
+Alix Wilton Regan, the new voice behind Crystal Dynamics and Flying Wild Hog's new Lara Croft, has confirmed she has finished up recording for Tomb Raider: Legacy of Atlantis. Read more
 
-Link: https://www.eurogamer.net/warframe-tau-tennocon-reveal-blade-runner-sopranos
+Link: https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-wraps-recording
 
-### 8. "This is our Spider-Man 3" - Soulfame's Warsong update adds "edgelord" progression path later this year [9/10]
+### 3. Zohran Mamdani riding high despite New York Post’s daily demonization [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The media-savvy mayor’s popularity has only grown as the Murdoch-owned tabloid has thrown everything at him The rightwing New York Post has attacked Zohran Mamdani as a communist, a hater of the police, an antisemite, a…
+
+Link: https://www.theguardian.com/us-news/2026/jul/12/zohran-mamdani-new-york-post
+
+### 4. ‘People treat each other as disposable’: dating columnist turned novelist Annie Lord on love and sex in the age of apps [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Her breakup memoir and Vogue column made her the voice of modern dating.
+
+Link: https://www.theguardian.com/books/2026/jul/12/people-treat-each-other-as-disposable-dating-columnist-turned-novelist-annie-lord-on-love-and-sex-in-the-age-of-apps
+
+### 5. Could fish be a secret ingredient for rice farmers to avoid disease and make more money? [10/10]
+**Source:** NPR Health  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Farmers in Senegal are welcoming fish into their rice paddies. The hope is they'll fertilize the crop, be a source of food ... and eat the snails that carry parasitic worms.
+
+Link: https://www.npr.org/2026/07/12/nx-s1-5803170/farmers-fish-rice-snails-tropical-disease
+
+### 6. Lindsey Graham, key ally of Donald Trump, has died after sudden illness, his office says [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Republican served in Senate since 2003 and was sharp Trump critic before becoming one of his most loyal backers Lindsey Graham, a longtime US senator and key ally of Donald Trump, has died from a sudden illness, his office said on Sunday.
+
+Link: https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-key-ally-of-donald-trump-has-died-after-sudden-illness-his-office-says
+
+### 7. Opinion: How School-Based Kindness Training Can Help Support Students’ Mental Health [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+As school administrators map out curricula, schedules and priorities for the next school year, they should be thinking holistically about what kids actually need.
+
+Link: https://www.the74million.org/article/how-school-based-kindness-training-can-help-support-students-mental-health/
+
+### 8. Tommy Robinson’s Musk-funded Russia trip spurs call to defend UK democracy [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Ed Davey voices concern about the Musk family foundation taking the far-right activist on a visit to Moscow The UK must do more to defend its democracy after it emerged that Elon Musk’s family foundation had taken the far-right activist…
+
+Link: https://www.theguardian.com/politics/2026/jul/12/tommy-robinson-musk-russia-trip-defend-uk-democracy-ed-davey
+
+### 9. The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east? [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+New climate evidence adds context to these long voyages.
+
+Link: https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/
+
+### 10. "This is our Spider-Man 3" - Soulfame's Warsong update adds "edgelord" progression path later this year [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -105,41 +123,23 @@ Digital Extremes has revealed a lenghty new gameplay trailer for its fantasy act
 
 Link: https://www.eurogamer.net/soulframe-warsong-trailer-spiderman-3-edgy-mount-fishing
 
-### 9. Many Students Listen to Music To Focus and Stay Motivated While They Study – But It Doesn’t Always Help [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Walk into any college library and you will likely see students wearing headphones and listening to music. The idea that music can improve learning has been around for decades.
-
-Link: https://www.the74million.org/article/many-students-listen-to-music-to-focus-and-stay-motivated-while-they-study-but-it-doesnt-always-help/
-
-### 10. Hunter Biden wins $1.7m in suit over Iran bribery claim by ex-CEO of Overstock.com [9/10]
+### 11. US and Iran exchange strikes as Tehran declares strait of Hormuz closed again [8/10]
 **Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Biden sued Patrick Byrne for defamation over claim that he sought bribe to lobby his father to free $8bn in Iran assets A federal judge on Friday awarded Hunter Biden $1.
+Tehran launches retaliatory attacks across region after hit on container ship draws US aerial bombardment Middle East crisis live – latest updates Iran has declared the strait of Hormuz closed after six days of hostilities with the US,…
 
-Link: https://www.theguardian.com/us-news/2026/jul/11/hunter-biden-defamation-suit
+Link: https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed
 
-### 11. A tasty RPG that will make you very hungry [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Roleplaying games are often defined by excess.
-
-Link: https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch
-
-### 12. Shy on the dance floor? Virtual reality 'partners' aim to help you find your groove [8/10]
+### 12. Getting campaign text messages ahead of midterms? There could be an AI bot behind it [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-VR dance lesson apps like Dance Guru and Trip the Light offer a judgment-free way to learn partner dancing.
+Taught to sound like a candidate, bots are engaging voters with personalized text messages making AI-generated texting conversations the latest tool political campaigns are using to connect.
 
-Link: https://www.npr.org/2026/07/11/nx-s1-5882228/dance-virtual-reality-vr-app-augmented-world-expo-weddings
+Link: https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns
 
 ### 13. Scientists Solve Mystery of Bizarre ‘Alien Megastructure’ Star [7/10]
 **Source:** 404 Media  
@@ -151,15 +151,6 @@ For more than a decade, the strange light patterns emitted by “Tabby’s Star�
 Link: https://www.404media.co/scientists-solve-mystery-of-bizarre-alien-megastructure-star/
 
 ## YouTube
-
-### Shor's Algorithm for Quantum Computing - Computerphile [6/10]
-**Creator:** Computerphile  
-**Verdict:** Summary is enough  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-We brought a computer scientist and a physicist together to talk about Shor's algorithm - a famous factorisation algorithm for that can break some currently used encryption techniques if implemented in the quantum realm.
-
-Link: https://www.youtube.com/watch?v=k_kyepATqB8
 
 ### Josh Johnson's Uncle Doesn't Believe in Kangaroos, Pass It On [7/10]
 **Creator:** WIRED  
@@ -179,9 +170,9 @@ Comedian @JoshJohnsonComedy visits WIRED to answer his most searched questions o
 
 Link: https://www.youtube.com/watch?v=y14db1CjxCk
 
-### Dolly: A True Original Musical coming to Broadway [7/10]
+### Dolly: A True Original Musical coming to Broadway [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 "Dolly: A True Original Musical" is coming to Broadway. The biographical show, which had a tryout in Nashville last summer, was announced by the country superstar, Dolly Parton herself, in a video Tuesday morning.
@@ -277,6 +268,15 @@ Link: https://www.youtube.com/watch?v=xd9Edxpod2U
 ► Watch the Full Video Here: https://youtu.be/vcpjiMcAyoU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=5DjEwMXqkHk
+
+### Checking Out 2XKO, Riot's League of Legends Fighter | Super Smash Sunday [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Our resident fighting game fans KC and El Cheshire are trying out Riot's 2XKO. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=oZsr7ljKMhY
 
 ### There Goes the Bride | Adventure Is Nigh! - The Slow Walk Home | Ep. 5 [7/10]
 **Creator:** Second Wind  
