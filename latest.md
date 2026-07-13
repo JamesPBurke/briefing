@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-13T05:00:02.576939Z
+Generated: 2026-07-13T14:00:02.866671Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are ‘His blood is on Trump’s hands’: man killed by ICE in Texas mourned at vigil, ‘The fiercest of fighters’: Lindsey Graham remembered by politicians and foreign leaders after sudden death, and Zohran Mamdani riding high despite New York Post’s daily demonization.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are Amid Assassin's Creed Black Flag Resynced furore, Ubisoft's latest financial report removes widely mocked claim microtransactions make games "more fun", Person reported killed during ICE operation in Maine, state house speaker says – US politics live, and The Download: a donor conception cap and world models for AI.
 
 ## Briefing
 
@@ -33,52 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘His blood is on Trump’s hands’: man killed by ICE in Texas mourned at vigil [10/10]
+### 1. Amid Assassin's Creed Black Flag Resynced furore, Ubisoft's latest financial report removes widely mocked claim microtransactions make games "more fun" [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Did you know that microtransactions make games more fun? That might seem like a dubious statement, but it was one Ubisoft was more than happy to put its name to last year.
+
+Link: https://www.eurogamer.net/ubisoft-microtransactions-fun-claim-black-flag-resynced
+
+### 2. Person reported killed during ICE operation in Maine, state house speaker says – US politics live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Fatal shooting of Lorenzo Salgado Araujo, a Texas builder, renews outcry against Trump’s immigration crackdown The builder got up every morning long before dawn, left home to pick up his construction crew and then headed out to work on yet…
+Ryan Fecteau says person was reportedly shot in Biddeford, with authorities on the scene to investigate Sign up for the Breaking News US email Donald Trump is calling on every American flag in the country to be lowered for the week in…
 
-Link: https://www.theguardian.com/us-news/2026/jul/12/lorenzo-salgado-araujo-texas-killed-ice-vigil
+Link: https://www.theguardian.com/us-news/live/2026/jul/13/congress-capitol-lindsey-graham-trump-republicans-democrats-us-politics-latest-news-updates
 
-### 2. ‘The fiercest of fighters’: Lindsey Graham remembered by politicians and foreign leaders after sudden death [10/10]
+### 3. The Download: a donor conception cap and world models for AI [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/
+
+### 4. Ann Widdecombe death: counter-terrorism police take over investigation [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Trump says US senator was ‘a true American patriot’ while Zelenskyy says he’s ‘deeply saddened’ by his death Graham’s death triggers a scramble to replace him – what happens next? Lindsey Graham dies after sudden illness aged 71 Washington…
+Officers say decision made after ‘new information and evidence has come to light’ Counter-terrorism police are now leading the investigation into the death of the former MP and Reform spokesperson Ann Widdecombe in light of “new…
 
-Link: https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-death-tributes
+Link: https://www.theguardian.com/uk-news/2026/jul/13/ann-widdecombe-counter-terrorism-police-investigation
 
-### 3. Zohran Mamdani riding high despite New York Post’s daily demonization [10/10]
-**Source:** The Guardian US  
+### 5. This week in PC games: vert-ramping trains, a retold murder mystery, and Cthulhu’s new gig as an AI Director [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Merry Monday, readers. Edwin’s been struck down by a post-TennoCon lurgy, and we were only too happy to allow him some rest, provided he file his Soulframe and Warframe: Tau stories before collapsing into a feverish heap.
+
+Link: https://www.rockpapershotgun.com/this-week-in-pc-games-vert-ramping-trains-a-retold-murder-mystery-and-cthulhus-new-gig-as-an-ai-director
+
+### 6. Palworld barges Dota 2 aside as PC player counts skyrocket following the game's 1.0 release [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+After a long wait, Palworld has finally hit 1.0 on PC and consoles, and while it hasn't managed to replicate its massive 2.1m concurrent player peak from early 2024, it's currently one of the most played games on Steam . Read more
+
+Link: https://www.eurogamer.net/palworld-player-count-launch-weekend
+
+### 7. Nebraska Head Starts Use Vests With ‘Talk Pedometers’ To Boost Early Literacy [10/10]
+**Source:** The 74  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The media-savvy mayor’s popularity has only grown as the Murdoch-owned tabloid has thrown everything at him The rightwing New York Post has attacked Zohran Mamdani as a communist, a hater of the police, an antisemite, a…
+On a mid-June morning in the small city of Norfolk, Nebraska, a group of 2- and 3-year-olds clumsily ran around a playroom wearing identical purple cloth vests.
 
-Link: https://www.theguardian.com/us-news/2026/jul/12/zohran-mamdani-new-york-post
+Link: https://www.the74million.org/zero2eight/nebraska-head-starts-use-vests-with-talk-pedometers-to-boost-early-literacy/
 
-### 4. ‘More postmodern than ancient’: why the Odyssey is everywhere, from Oz to Westeros [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Christopher Nolan’s take on the Odyssey is set to break box-office records.
-
-Link: https://www.theguardian.com/culture/ng-interactive/2026/jul/12/christopher-nolan-odyssey-influence
-
-### 5. US launches new wave of strikes against Iran as Tehran says diplomacy has proven ‘futile’ [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-American and Iranian forces exchange heavy missile and drone attacks over control of strait of Hormuz, increasing pressure on truce The US military has launched a new wave of attacks against Iran amid the escalating standoff over the…
-
-Link: https://www.theguardian.com/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz
-
-### 6. Apple’s failed self-driving car program left a legacy of powerful AI chips [9/10]
+### 8. Apple’s failed self-driving car program left a legacy of powerful AI chips [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -87,68 +105,50 @@ Apple's self-driving car program never really got off the ground, but it may hav
 
 Link: https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra
 
-### 7. Summer Games Done Quick 2026 raises another $2.4 million for Doctors Without Borders [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Summer Games Done Quick (SGDQ) 2026 has finished up raising another $2.4 million (£1.8m) for Doctors Without Borders/Médecins Sans Frontières. Read more
-
-Link: https://www.eurogamer.net/sgdq-2026-raises-24-m
-
-### 8. Opinion: How School-Based Kindness Training Can Help Support Students’ Mental Health [9/10]
-**Source:** The 74  
+### 9. The Taliban’s war on education: ‘Nobody talks about what is happening to the boys’ [10/10]
+**Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-As school administrators map out curricula, schedules and priorities for the next school year, they should be thinking holistically about what kids actually need.
+Five years after the ultra-conservative Islamists retook Afghanistan, students describe male pupils being beaten for minor rule breaches and inexperienced teachers struggling to deliver lessons Before he leaves for Kabul University each…
 
-Link: https://www.the74million.org/article/how-school-based-kindness-training-can-help-support-students-mental-health/
+Link: https://www.theguardian.com/global-development/2026/jul/13/afghanistan-education-taliban-universities-teaching-students-religion-women-islam
 
-### 9. Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI [9/10]
+### 10. A journey down one of the last wild rivers in the American west: ‘The bullseye will always be on its back’ [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Software engineering was one of the best-paying professions in the US in 2022, but the advent of AI has disrupted it, leading to several layoffs and underemployment Every weekday, Matt, a software engineer, looks forward to his four-hour…
+As US water wars rage, a tributary of the Colorado River faces unprecedented pressure.
 
-Link: https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai
+Link: https://www.theguardian.com/us-news/2026/jul/13/yampa-river-colorado-wild-rivers-us
 
-### 10. Lorde says Ray-Ban Meta AI glasses are ‘not sexy’ [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy
-
-### 11. Campaign text messages could soon get more effective — and annoying [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Taught to sound like a candidate, bots are engaging voters with personalized text messages, making AI-generated texting conversations the latest tool political campaigns are using to connect.
-
-Link: https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns
-
-### 12. What to know about the cyclosporiasis outbreak hitting more than half of U.S. states [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-A surge of cases of the intestinal illness that causes diarrhea and nausea has been detected in 31 states, according to federal health authorities, but the source is still under investigation.
-
-Link: https://www.npr.org/2026/07/12/nx-s1-5890935/cyclosporiasis-outbreak-diarrhea-nausea-where-states-us
-
-### 13. In Mississippi, Summer Can Increase Risk of Hunger for 3 in 4 Kids Who Rely on In-School Meals [7/10]
+### 11. Opinion: The Science of Reading Goes to High School [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-For the third year in a row, Gov. Tate Reeves opted out of a state-federal partnership that would have given summer grocery benefits to roughly 320,000 Mississippi children who rely on free meals during the school year.
+For anyone who cares about student literacy, the past few years have given us reason to cheer.
 
-Link: https://www.the74million.org/article/in-mississippi-summer-can-increase-risk-of-hunger-for-3-in-4-kids-who-rely-on-in-school-meals/
+Link: https://www.the74million.org/article/the-science-of-reading-goes-to-high-school/
+
+### 12. Gretchen Carlson on her sexual harassment lawsuit against Roger Ailes: ‘I have absolutely no regrets’ [9/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Former Fox News anchor says she ‘immediately found purpose’ and has spent the last decade advocating for survivors’ rights When Gretchen Carlson sued Roger Ailes in 2016, alleging that he fired her for rejecting his sexual advances, she…
+
+Link: https://www.theguardian.com/media/2026/jul/13/gretchen-carlson-sexual-harassment-lawsuit
+
+### 13. Pythons' extreme biology may hold clues for treating human disease [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+These snakes can go for months without eating, grow and shrink the size of their hearts and jump start their metabolism on a dime.
+
+Link: https://www.npr.org/2026/07/13/nx-s1-5887668/pythons-metabolism-digestion-human-disease-treatment
 
 ## YouTube
 
@@ -161,18 +161,9 @@ Link: https://www.the74million.org/article/in-mississippi-summer-can-increase-ri
 
 Link: https://www.youtube.com/watch?v=Ae9q7KsRbuI
 
-### Josh Johnson's Uncle Doesn't Believe in Kangaroos, Pass It On [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Comedian Josh Johnson visits WIRED to answer his most searched questions on Google.
-
-Link: https://www.youtube.com/watch?v=lD_N8hbZn5o
-
-### Humanoid robot scales parts of Ecuador's tallest peak [8/10]
+### Humanoid robot scales parts of Ecuador's tallest peak [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 In Ecuador, a humanoid robot took part in a mission to climb the country’s tallest peak — a step toward robot-conducted research in harsh mountain conditions.
@@ -278,9 +269,18 @@ Link: https://www.youtube.com/watch?v=1TSp9DfAqvk
 
 Link: https://www.youtube.com/watch?v=xd9Edxpod2U
 
-### Checking Out 2XKO, Riot's League of Legends Fighter | Super Smash Sunday [7/10]
+### 2D vs 3D | Windbreaker Podcast [7/10]
 **Creator:** Second Wind  
 **Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty tackle the topic of 2D vs 3D -- our personal preferences, which genres work best in which, and the design freedoms/restrictions that stem from each.
+
+Link: https://www.youtube.com/watch?v=73NTNQyJI1w
+
+### Checking Out 2XKO, Riot's League of Legends Fighter | Super Smash Sunday [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Our resident fighting game fans KC and El Cheshire are trying out Riot's 2XKO. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
@@ -415,6 +415,15 @@ With dreams of starting a perfect family, Saga and her British husband Jon move 
 
 Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
 
+### All the Truth in My Lies | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A camper van, a campsite, and a bachelorette party. Marín, Coco, Blanca, Gus, Aroa, and Loren had the perfect plan... until the truth did what it does best: turning the ultimate summer getaway into an unforgettable disaster.
+
+Link: https://www.youtube.com/watch?v=jegXAXFegho
+
 ### Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo invite you to The East Palace #Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -486,24 +495,6 @@ Link: https://www.youtube.com/watch?v=KiKnd3cusPo
 Will Ferrell and “The Hawk” costars Jimmy Tatro and Fortune Feimster step up to face hot questions and even hotter wings in this exclusive special episode of Hot Ones: Extra Heat. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=6uVDJtURIsM
-
-### The Final Problem | Date Announcement | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-An island off the coast of Mallorca, thirteen guests trapped in a hotel by a storm, and a death that changes everything. That’s how this new Netflix mystery series begins, based on the novel by Arturo Pérez-Reverte.
-
-Link: https://www.youtube.com/watch?v=CfjAUfv6F6o
-
-### Love in Slow Motion | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Can love be hiding where you least expect it? Haya has always kept love at arm’s length... until Jawad drops news she never saw coming.
-
-Link: https://www.youtube.com/watch?v=oCg2wXznjLo
 
 ### Snoopy Presents: There's No Place Like Home, Snoopy — Official Trailer | Apple TV [8/10]
 **Source:** Apple TV  
