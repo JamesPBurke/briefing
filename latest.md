@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-13T18:01:09.163572Z
+Generated: 2026-07-14T05:00:02.212369Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Education / pedagogy. The strongest items in this run are The 6 wildest claims in Apple’s lawsuit against OpenAI, Hegseth announces joint taskforce with DoJ to target and prosecute press leaks, and US justice department investigating UAW president over corruption allegations.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are Sale of multimillion-dollar T rex skeleton is big headache for scientists, Ukraine war briefing: Zelenskyy seeks 300 Patriots to get through winter, and US refunds $81bn in Trump tariffs after supreme court ruled them illegal.
 
 ## Briefing
 
@@ -33,34 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. The 6 wildest claims in Apple’s lawsuit against OpenAI [10/10]
-**Source:** The Verge  
+### 1. Sale of multimillion-dollar T rex skeleton is big headache for scientists [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Palaeontologists warn before auction at Sotheby’s in New York that super-rich collectors are harming research With its dagger-like teeth, bone-crushing bite and behemothic size, the fearsome Tyrannosaurus rex ruled western North America…
+
+Link: https://www.theguardian.com/science/2026/jul/14/t-rex-skeleton-sothebys-auction-new-york-scientists
+
+### 2. Ukraine war briefing: Zelenskyy seeks 300 Patriots to get through winter [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Kyiv to anchor European alternative missile defence system called Freyja; more sanctions against Russian state hacking outfits.
+
+Link: https://www.theguardian.com/world/2026/jul/14/ukraine-war-briefing-zelenskyy-seeks-300-patriots-to-get-through-winter
+
+### 3. US refunds $81bn in Trump tariffs after supreme court ruled them illegal [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Government had been forced to pay back duties to companies that imported goods into the US that were hit by Trump’s tariffs The US government has already paid back tens of billions of dollars in tariffs it collected before the supreme…
+
+Link: https://www.theguardian.com/us-news/2026/jul/14/trump-tariffs-us-refunds
+
+### 4. Michigan health officials identify ‘potential source’ of parasite outbreak [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Authorities said inquiry into cyclosporiasis outbreak was continuing but early results pointed to salad greens and lettuce What is cyclosporiasis, the parasitic illness causing ‘explosive’ diarrhea? State health officials in Michigan said…
+
+Link: https://www.theguardian.com/us-news/2026/jul/13/cyclospora-outbreak-parasite-explosive-diarrhea
+
+### 5. ICE agents kill man in Maine as senator says victim not target of arrest [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Killing of man – identified by rights groups as 26-year-old Colombian – comes days after man killed by ICE in Texas US politics live – latest updates A federal immigration officer shot and killed a man in Biddeford, Maine on Monday, the…
+
+Link: https://www.theguardian.com/us-news/2026/jul/13/maine-ice-shooting-death
+
+### 6. Maine, 14 Other States Sue Trump Administration to Block School Mental Health Funding Cuts [10/10]
+**Source:** The 74  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples.
+Maine joined 15 states on Friday in suing the Trump administration to prevent millions of dollars in cuts to school-based mental health funding. The new lawsuit is part of an ongoing legal battle between Democratic-led states and the U.S.
 
-Link: https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims
+Link: https://www.the74million.org/article/maine-14-other-states-sue-trump-administration-to-block-school-mental-health-funding-cuts/
 
-### 2. Hegseth announces joint taskforce with DoJ to target and prosecute press leaks [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 7. Microsoft tests Windows Search without all the ads and fluff [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-US defense secretary says taskforce will ‘combat dangers’ of leaks in latest escalation of White House press crackdown The US defense secretary, ⁠Pete Hegseth, ​announced on Monday that the Pentagon and the US Department of Justice have…
+Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads.
 
-Link: https://www.theguardian.com/us-news/2026/jul/13/pete-hegseth-doj-taskforce-press-leaks
+Link: https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads
 
-### 3. US justice department investigating UAW president over corruption allegations [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Shawn Fain calls allegations ‘bogus’ and says attorney holds a ‘grudge’ against him over union’s ‘anti-war stance’ on Gaza The US Department of Justice is probing allegations against United Auto Workers (UAW) president Shawn Fain that he…
-
-Link: https://www.theguardian.com/us-news/2026/jul/13/justice-department-uaw-president-investigation
-
-### 4. States Try New Measures To Get Chronically Absent Students Back to Class [10/10]
+### 8. States Try New Measures To Get Chronically Absent Students Back to Class [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -69,68 +105,32 @@ This year, at least six states enacted laws trying to reduce the number of stude
 
 Link: https://www.the74million.org/article/states-try-new-measures-to-get-chronically-absent-students-back-to-class/
 
-### 5. US state attorneys general file lawsuit in effort to block Paramount merger [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 9. Games Done Quick announces and then quickly cancels SNK-sponsored stream because of company's Saudi ownership [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-A bipartisan group argue in lawsuit that $110bn merger would hurt competition and lead to thousands of job losses A bipartisan group of US state attorneys general are seeking to block the $110bn merger of Paramount Skydance and Warner Bros…
+Summer Games Done Quick 2026 is now over, and while it's been a grand time as usual, one of the group's post-event streams - dedicated to celebrating Metal Slug's 30th anniversary - was ended early after many viewers expressed…
 
-Link: https://www.theguardian.com/media/2026/jul/13/paramount-warner-bros-merger-lawsuit
+Link: https://www.eurogamer.net/games-done-quick-cancels-snk-sponsored-stream
 
-### 6. Stretch, be gentle and build flexibility: expert tips on doing the splits [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Doing a split may look impressive, but experts caution it should not be done without practice and it may not be for everyone On Love Island USA’s recent eighth season, contestant Kenzie Annis quickly distinguished herself with her ability…
-
-Link: https://www.theguardian.com/wellness/2026/jul/13/how-to-do-the-splits
-
-### 7. The Asus ROG Flow Z13 gaming tablet with 64GB RAM is down to $2,100 [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Almost all gaming laptops have gone up in price over the past year. Curiously, the surprisingly fast Asus ROG Flow Z13 gaming laptop/tablet combo has not. It’s actually gotten quite a bit cheaper recently.
-
-Link: https://www.theverge.com/gadgets/964652/asus-rog-flow-z13-switch-2-camera-amd-ryzen-ddr4-deal-sale
-
-### 8. Person killed in shooting involving ICE agents in Maine, reports say [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Shooting occurs days after man killed by immigration agent during traffic stop in Texas US politics live – latest updates A person was ⁠killed on Monday in a shooting involving US immigration officials in Maine , according to a statement…
-
-Link: https://www.theguardian.com/us-news/2026/jul/13/maine-ice-shooting-death
-
-### 9. Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Exclusive: Three men killed in incidents over past year allegedly involving G4S guards, who replaced in-house team after previous deaths Bereaved families and politicians have raised alarm about continued killings on Del Monte’s pineapple…
-
-Link: https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s
-
-### 10. The Download: a donor conception cap and world models for AI [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
-
-Link: https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/
-
-### 11. A journey down one of the last wild rivers in the American west: ‘The bullseye will always be on its back’ [9/10]
+### 10. Marco Rubio launches campaign to dismantle international criminal court [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-As US water wars rage, a tributary of the Colorado River faces unprecedented pressure.
+Trump’s secretary of state claims the global tribunal is interfering with US military and law enforcement operations Marco Rubio, the US secretary of state, launched a campaign to dismantle the international criminal court (ICC) on Monday,…
 
-Link: https://www.theguardian.com/us-news/2026/jul/13/yampa-river-colorado-wild-rivers-us
+Link: https://www.theguardian.com/us-news/2026/jul/13/marco-rubio-dismantle-international-criminal-court
+
+### 11. Crystal Lake Teaser Trailer Feels Closer to Widow’s Bay Than Friday the 13th [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+The Peacock series will re-imagine the story of Pamela Voorhees The post Crystal Lake Teaser Trailer Feels Closer to Widow’s Bay Than Friday the 13th appeared first on Reactor .
+
+Link: https://reactormag.com/crystal-lake-trailer-friday-the-13-peacock/
 
 ### 12. I Bought the $3,000 Fitness Suit That Electrocutes You. I’m Sending It Back [8/10]
 **Source:** 404 Media  
@@ -149,3 +149,45 @@ Link: https://www.404media.co/i-bought-the-3-000-fitness-suit-that-electrocutes-
 These snakes can go for months without eating, grow and shrink the size of their hearts and jump start their metabolism on a dime.
 
 Link: https://www.npr.org/2026/07/13/nx-s1-5887668/pythons-metabolism-digestion-human-disease-treatment
+
+## YouTube
+
+### Minecraft Was Missing One Brilliant Idea [7/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://xandergos.github.io/terrain-diffusion/ https://modrinth.com/mod/terrain-diffusion https://github.
+
+Link: https://www.youtube.com/watch?v=Ae9q7KsRbuI
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._

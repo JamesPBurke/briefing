@@ -1,40 +1,80 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-13T18:01:09.163572Z",
-  "generatedAtDisplay": "2026-07-13 02:01 PM EDT",
+  "generatedAt": "2026-07-14T05:00:02.212369Z",
+  "generatedAtDisplay": "2026-07-14 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Education / pedagogy. The strongest items in this run are The 6 wildest claims in Apple’s lawsuit against OpenAI, Hegseth announces joint taskforce with DoJ to target and prosecute press leaks, and US justice department investigating UAW president over corruption allegations.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are Sale of multimillion-dollar T rex skeleton is big headache for scientists, Ukraine war briefing: Zelenskyy seeks 300 Patriots to get through winter, and US refunds $81bn in Trump tariffs after supreme court ruled them illegal.",
   "mainItems": [
     {
-      "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
-      "source": "The Verge",
+      "title": "Sale of multimillion-dollar T rex skeleton is big headache for scientists",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/science/2026/jul/14/t-rex-skeleton-sothebys-auction-new-york-scientists",
+      "published": "2026-07-14T04:00:20+00:00",
+      "summary": "Palaeontologists warn before auction at Sotheby’s in New York that super-rich collectors are harming research With its dagger-like teeth, bone-crushing bite and behemothic size, the fearsome Tyrannosaurus rex ruled western North America…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy seeks 300 Patriots to get through winter",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/jul/14/ukraine-war-briefing-zelenskyy-seeks-300-patriots-to-get-through-winter",
+      "published": "2026-07-14T01:00:22+00:00",
+      "summary": "Kyiv to anchor European alternative missile defence system called Freyja; more sanctions against Russian state hacking outfits.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "US refunds $81bn in Trump tariffs after supreme court ruled them illegal",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/trump-tariffs-us-refunds",
+      "published": "2026-07-14T00:35:53+00:00",
+      "summary": "Government had been forced to pay back duties to companies that imported goods into the US that were hit by Trump’s tariffs The US government has already paid back tens of billions of dollars in tariffs it collected before the supreme…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Michigan health officials identify ‘potential source’ of parasite outbreak",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/13/cyclospora-outbreak-parasite-explosive-diarrhea",
+      "published": "2026-07-13T23:55:00+00:00",
+      "summary": "Authorities said inquiry into cyclosporiasis outbreak was continuing but early results pointed to salad greens and lettuce What is cyclosporiasis, the parasitic illness causing ‘explosive’ diarrhea? State health officials in Michigan said…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "ICE agents kill man in Maine as senator says victim not target of arrest",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/13/maine-ice-shooting-death",
+      "published": "2026-07-13T22:56:32+00:00",
+      "summary": "Killing of man – identified by rights groups as 26-year-old Colombian – comes days after man killed by ICE in Texas US politics live – latest updates A federal immigration officer shot and killed a man in Biddeford, Maine on Monday, the…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Maine, 14 Other States Sue Trump Administration to Block School Mental Health Funding Cuts",
+      "source": "The 74",
       "category": "AI / privacy",
-      "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-      "published": "2026-07-13T17:42:16+00:00",
-      "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples.",
+      "url": "https://www.the74million.org/article/maine-14-other-states-sue-trump-administration-to-block-school-mental-health-funding-cuts/",
+      "published": "2026-07-13T18:30:00+00:00",
+      "summary": "Maine joined 15 states on Friday in suing the Trump administration to prevent millions of dollars in cuts to school-based mental health funding. The new lawsuit is part of an ongoing legal battle between Democratic-led states and the U.S.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Hegseth announces joint taskforce with DoJ to target and prosecute press leaks",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/13/pete-hegseth-doj-taskforce-press-leaks",
-      "published": "2026-07-13T17:35:33+00:00",
-      "summary": "US defense secretary says taskforce will ‘combat dangers’ of leaks in latest escalation of White House press crackdown The US defense secretary, ⁠Pete Hegseth, ​announced on Monday that the Pentagon and the US Department of Justice have…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "US justice department investigating UAW president over corruption allegations",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/13/justice-department-uaw-president-investigation",
-      "published": "2026-07-13T17:18:47+00:00",
-      "summary": "Shawn Fain calls allegations ‘bogus’ and says attorney holds a ‘grudge’ against him over union’s ‘anti-war stance’ on Gaza The US Department of Justice is probing allegations against United Auto Workers (UAW) president Shawn Fain that he…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "Microsoft tests Windows Search without all the ads and fluff",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
+      "published": "2026-07-13T21:53:20+00:00",
+      "summary": "Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
     },
     {
       "title": "States Try New Measures To Get Chronically Absent Students Back to Class",
@@ -44,77 +84,37 @@
       "published": "2026-07-13T16:30:00+00:00",
       "summary": "This year, at least six states enacted laws trying to reduce the number of students chronically absent from school.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "US state attorneys general file lawsuit in effort to block Paramount merger",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/media/2026/jul/13/paramount-warner-bros-merger-lawsuit",
-      "published": "2026-07-13T16:21:01+00:00",
-      "summary": "A bipartisan group argue in lawsuit that $110bn merger would hurt competition and lead to thousands of job losses A bipartisan group of US state attorneys general are seeking to block the $110bn merger of Paramount Skydance and Warner Bros…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "Games Done Quick announces and then quickly cancels SNK-sponsored stream because of company's Saudi ownership",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/games-done-quick-cancels-snk-sponsored-stream",
+      "published": "2026-07-13T15:57:48+00:00",
+      "summary": "Summer Games Done Quick 2026 is now over, and while it's been a grand time as usual, one of the group's post-event streams - dedicated to celebrating Metal Slug's 30th anniversary - was ended early after many viewers expressed…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
-      "title": "Stretch, be gentle and build flexibility: expert tips on doing the splits",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/wellness/2026/jul/13/how-to-do-the-splits",
-      "published": "2026-07-13T16:00:04+00:00",
-      "summary": "Doing a split may look impressive, but experts caution it should not be done without practice and it may not be for everyone On Love Island USA’s recent eighth season, contestant Kenzie Annis quickly distinguished herself with her ability…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The Asus ROG Flow Z13 gaming tablet with 64GB RAM is down to $2,100",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/964652/asus-rog-flow-z13-switch-2-camera-amd-ryzen-ddr4-deal-sale",
-      "published": "2026-07-13T15:08:43+00:00",
-      "summary": "Almost all gaming laptops have gone up in price over the past year. Curiously, the surprisingly fast Asus ROG Flow Z13 gaming laptop/tablet combo has not. It’s actually gotten quite a bit cheaper recently.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Person killed in shooting involving ICE agents in Maine, reports say",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/13/maine-ice-shooting-death",
-      "published": "2026-07-13T14:42:05+00:00",
-      "summary": "Shooting occurs days after man killed by immigration agent during traffic stop in Texas US politics live – latest updates A person was ⁠killed on Monday in a shooting involving US immigration officials in Maine , according to a statement…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s",
-      "published": "2026-07-13T14:00:49+00:00",
-      "summary": "Exclusive: Three men killed in incidents over past year allegedly involving G4S guards, who replaced in-house team after previous deaths Bereaved families and politicians have raised alarm about continued killings on Del Monte’s pineapple…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The Download: a donor conception cap and world models for AI",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-      "published": "2026-07-13T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "A journey down one of the last wild rivers in the American west: ‘The bullseye will always be on its back’",
+      "title": "Marco Rubio launches campaign to dismantle international criminal court",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jul/13/yampa-river-colorado-wild-rivers-us",
-      "published": "2026-07-13T13:00:48+00:00",
-      "summary": "As US water wars rage, a tributary of the Colorado River faces unprecedented pressure.",
+      "url": "https://www.theguardian.com/us-news/2026/jul/13/marco-rubio-dismantle-international-criminal-court",
+      "published": "2026-07-14T01:39:26+00:00",
+      "summary": "Trump’s secretary of state claims the global tribunal is interfering with US military and law enforcement operations Marco Rubio, the US secretary of state, launched a campaign to dismantle the international criminal court (ICC) on Monday,…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
+      "score": 8
+    },
+    {
+      "title": "Crystal Lake Teaser Trailer Feels Closer to Widow’s Bay Than Friday the 13th",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/crystal-lake-trailer-friday-the-13-peacock/",
+      "published": "2026-07-13T19:52:44+00:00",
+      "summary": "The Peacock series will re-imagine the story of Pamela Voorhees The post Crystal Lake Teaser Trailer Feels Closer to Widow’s Bay Than Friday the 13th appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     },
     {
       "title": "I Bought the $3,000 Fitness Suit That Electrocutes You. I’m Sending It Back",
@@ -137,7 +137,19 @@
       "score": 7
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Minecraft Was Missing One Brilliant Idea",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
+      "published": "2026-07-12T15:48:43+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://xandergos.github.io/terrain-diffusion/ https://modrinth.com/mod/terrain-diffusion https://github.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    }
+  ],
   "trailers": [],
   "recommendations": {
     "new": [
@@ -250,8 +262,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
+    "youtubeCount": 1,
     "trailerCount": 0,
-    "sourceCount": 6
+    "sourceCount": 8
   }
 }
