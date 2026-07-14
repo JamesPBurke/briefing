@@ -1,19 +1,89 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-14T14:00:01.492966Z",
-  "generatedAtDisplay": "2026-07-14 10:00 AM EDT",
+  "generatedAt": "2026-07-14T18:00:17.876339Z",
+  "generatedAtDisplay": "2026-07-14 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are \"Ubisoft thinks that's what we deserve\": Assassin's Creed Black Flag Resynced's release followed by union strike over Ubisoft Barcelona layoffs, AI Made Cloning Games Easier Than Ever, and Opinion: America’s Public Schools Are Pushing 50. It’s Time To Act Like It.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Tech / media, CS education / AI policy. The strongest items in this run are Philips Hue’s budget-friendly Essential starter kit has hit a new low price, Opinion: Illinois District Shows What Can be Done about PTA Fundraising Inequities, and ICE pauses vehicle stops after deadly shootings in Texas and Maine.",
   "mainItems": [
     {
-      "title": "\"Ubisoft thinks that's what we deserve\": Assassin's Creed Black Flag Resynced's release followed by union strike over Ubisoft Barcelona layoffs",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/ubisoft-thinks-thats-what-we-deserve-assassins-creed-black-flag-resynceds-release-followed-by-union-strike-over-ubisoft-barcelona-layoffs",
-      "published": "2026-07-14T13:52:23+00:00",
-      "summary": "Following the release of Assassin’s Creed Black Flag Resynced , an undertaking by a bunch of Ubisoft studios based all over the world, union protests at one of said studios have kicked off over plans to lay off staff now the remake's out…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Philips Hue’s budget-friendly Essential starter kit has hit a new low price",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale",
+      "published": "2026-07-14T17:36:05+00:00",
+      "summary": "Although most of Prime Day’s unusually good Philips Hue deals have ended, a few remain, and some, including the black Philips Hue Twilight Sleep and Wake-Up Light, are even cheaper.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Illinois District Shows What Can be Done about PTA Fundraising Inequities",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/illinois-district-shows-what-can-be-done-about-pta-fundraising-inequities/",
+      "published": "2026-07-14T17:30:00+00:00",
+      "summary": "Too often, parents take for granted that their children’s school experience is fundamentally the same as what’s happening in all the district’s schools. It turns out that is often far from reality.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "ICE pauses vehicle stops after deadly shootings in Texas and Maine",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/ice-vehicle-stops-texas-maine-shootings",
+      "published": "2026-07-14T17:16:43+00:00",
+      "summary": "The deaths of Joan Sebastian Guerrero and Lorenzo Salgado Araujo have prompted calls for independent investigations Federal immigration officials have been instructed to stop pulling over vehicles until further notice, according to a…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Trump withdraws Hormuz tolls threat but says US will continue to blockade Iran",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/jul/14/us-strikes-iran-bahrain-jordan-uae-tankers",
+      "published": "2026-07-14T16:50:54+00:00",
+      "summary": "US hits targets in port cities of Bushehr and Bandar Abbas while Iran targets Bahrain and Jordan in retaliation Middle East crisis live – latest updates Donald Trump has backed down from a threat that ships would have to pay a 20% fee to…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Supreme court justices testify to House on budget request to increase security",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/supreme-court-justices-security-budget",
+      "published": "2026-07-14T16:33:39+00:00",
+      "summary": "Justices Elena Kagan and Amy Coney Barrett appear before House lawmakers to request more security for the judiciary Supreme court justices Elena Kagan and Amy Coney Barrett are testifying Tuesday in front of House lawmakers to discuss the…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Spotify is now an AI chatbot, too",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+      "published": "2026-07-14T15:47:36+00:00",
+      "summary": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Is the Best Game of the Year a Failure? (With Rob Zacny)",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/is-the-best-game-of-the-year-a-failure-with-rob-zacny/",
+      "published": "2026-07-14T15:05:20+00:00",
+      "summary": "Remap Radio’s Rob Zacny and Emanuel dive deep into their current favorite game, Marathon, and what its middling success says about the future of games.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10
+    },
+    {
+      "title": "Can Ethnic Studies Bridge the Achievement Gap? San Francisco Program Shows Gains",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/can-ethnic-studies-bridge-the-achievement-gap-san-francisco-program-shows-gains/",
+      "published": "2026-07-14T14:30:00+00:00",
+      "summary": "San Francisco high school students, particularly those with high needs, enrolled in ethnic study courses achieved higher GPAs, stronger academic gains in math and science, and failed fewer courses, according to a new report.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -37,44 +107,14 @@
       "score": 10
     },
     {
-      "title": "A delayed next generation of consoles is \"better for us\", says The Blood of Dawnwalker director, as price rises continue to plague the industry",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/next-gen-console-delay-blood-of-dawnwalker-developer",
-      "published": "2026-07-14T12:29:13+00:00",
-      "summary": "Konrad Tomaszkiewicz, the director of promising vampire-themed role-playing The Blood of Dawnwalker - and previously director of The Witcher 3: Wild Hunt - has said a delayed next-generation of consoles would be \"better\" for a studio like…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The Download: Claude’s inner workings, and the future of world models",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-      "published": "2026-07-14T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+      "title": "Meta accused of using biased AI targeting for mass layoffs",
       "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
-      "published": "2026-07-14T11:56:44+00:00",
-      "summary": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "‘Dagger in heart’: Rebecca Slaughter on how her supreme court case validated Trump’s purge to civil service",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/federal-officials-fired-by-trump-supreme-court-ruling",
-      "published": "2026-07-14T11:00:25+00:00",
-      "summary": "Slaughter, fired by Trump from the FTC in 2025, worries agencies will fear defying the US president Federal officials fired by the Trump administration are calling the recent supreme court decision a “dagger in the heart” of the civil…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+      "published": "2026-07-14T17:18:11+00:00",
+      "summary": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
     },
     {
       "title": "'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI",
@@ -84,47 +124,7 @@
       "published": "2026-07-14T10:30:00+00:00",
       "summary": "AI is moving beyond chatbots and into toys, dolls, and robots built to befriend children. A leading child-development expert says the technology offers real promise — but also risks crowding out the human relationships children need most.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 10
-    },
-    {
-      "title": "They Fight review – boxing drama is an emotional gutpunch",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/film/2026/jul/14/they-fight-movie-review-boxing-drama",
-      "published": "2026-07-14T09:00:26+00:00",
-      "summary": "Anchored by an indelible André Holland performance, the film finds tenderness and warmth amid its gritty Washington DC backdrop In the lineage of Creed and Million Dollar Baby, They Fight makes yet another compelling case for why boxing…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Hunter Biden says ‘rule of law prevailed’ in defamation lawsuit netting him $1.7m",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/hunter-biden-defamation-lawsuit",
-      "published": "2026-07-14T13:43:55+00:00",
-      "summary": "Biden sued ex-CEO of Overstock.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
-    },
-    {
-      "title": "States Try New Measures To Get Chronically Absent Students Back to Class",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/states-try-new-measures-to-get-chronically-absent-students-back-to-class/",
-      "published": "2026-07-13T16:30:00+00:00",
-      "summary": "This year, at least six states enacted laws trying to reduce the number of students chronically absent from school.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Crystal Lake Teaser Trailer Feels Closer to Widow’s Bay Than Friday the 13th",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/crystal-lake-trailer-friday-the-13-peacock/",
-      "published": "2026-07-13T19:52:44+00:00",
-      "summary": "The Peacock series will re-imagine the story of Pamela Voorhees The post Crystal Lake Teaser Trailer Feels Closer to Widow’s Bay Than Friday the 13th appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
     },
     {
       "title": "What is an aortic dissection?",
@@ -137,362 +137,8 @@
       "score": 7
     }
   ],
-  "youtube": [
-    {
-      "title": "Minecraft Was Missing One Brilliant Idea",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
-      "published": "2026-07-12T15:48:43+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://xandergos.github.io/terrain-diffusion/ https://modrinth.com/mod/terrain-diffusion https://github.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Palestinian shepherding communities face attacks in the West Bank",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=1yD_lLnHmik",
-      "published": "2026-07-14T13:00:11+00:00",
-      "summary": "Israel’s highest court has been unable to stop the demolition of a shepherding community by Jewish settlers in the occupied West Bank.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "McConnell breaks weeks of silence, says fall led to hospitalization",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=ZbE9VhYST-Y",
-      "published": "2026-07-13T18:00:30+00:00",
-      "summary": "Former Senate Majority Leader Mitch McConnell says he’s still recovering from a fall that led to a weekslong hospitalization. It’s the first update from the Kentucky Republican since persistent rumors surfaced about his well-being.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "At least 27 killed in Bangkok bar fire",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=_IdyuohtA9M",
-      "published": "2026-07-13T16:00:14+00:00",
-      "summary": "A fire that tore through a Bangkok bar on Sunday night has killed at least 27 people, authorities say, with dozens more injured.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Award-winning actor Don Cheadle on how to avoid scandal in Hollywood — or any workplace",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=_67kp62Nw2k",
-      "published": "2026-07-13T15:30:10+00:00",
-      "summary": "Don Cheadle shares some advice with Ayesha Rascoe, the host of NPR's Weekend Edition Sunday, on how to avoid scandal in Hollywood and, more broadly, any workplace.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Humanoid robot scales parts of Ecuador's tallest peak",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=9DzRcwrNAUM",
-      "published": "2026-07-12T17:00:06+00:00",
-      "summary": "In Ecuador, a humanoid robot took part in a mission to climb the country’s tallest peak — a step toward robot-conducted research in harsh mountain conditions.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "South Korean startups using AI to create videos of deceased relatives",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=IydjfANNazM",
-      "published": "2026-07-12T14:00:03+00:00",
-      "summary": "A new advanced-tech bereavement service is cropping up in South Korea. Tech startups have begun offering short simulated videos of deceased relatives.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Dolly: A True Original Musical coming to Broadway",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=DEfsCioDJuE",
-      "published": "2026-07-11T18:00:03+00:00",
-      "summary": "\"Dolly: A True Original Musical\" is coming to Broadway. The biographical show, which had a tryout in Nashville last summer, was announced by the country superstar, Dolly Parton herself, in a video Tuesday morning.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Study: Deaths caused by law enforcement soar over the last two decades",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=z3r0zsDUFT0",
-      "published": "2026-07-11T15:00:33+00:00",
-      "summary": "A new study finds the number of people in the U.S. who’ve died at the hands of law enforcement has risen significantly over the last couple of decades, with Black men — ages 18 to 29 — seeing the highest mortality rates.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Should Next-Gen Consoles Be Delayed Or Even Cancelled?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=21nj1OVvqG4",
-      "published": "2026-07-13T16:00:27+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/DeUV3IqEZRU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Is PlayStation 6 Still In The Design Phase? Can Specs Be Changed?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=4ap5mzPKdEc",
-      "published": "2026-07-12T16:00:35+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/DeUV3IqEZRU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Could PS5's PCIe M.2 Slot Be Used For An Extra GPU Instead?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=Ha05A-k2Sow",
-      "published": "2026-07-12T15:00:04+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/DeUV3IqEZRU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "FSR 4 on Steam Machine: A Game-Changer For 1440p Gaming?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=1cA8zH9E41Q",
-      "published": "2026-07-11T16:00:15+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/OkL1A7S6fBU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Report: Switch 2 Is Getting A New Display - Will It Solve The Persistence Problems?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=pecx-NV525A",
-      "published": "2026-07-11T15:00:24+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/vcpjiMcAyoU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Celebrating Spooky Witch Summer in Reka | Hot Monday Energy",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=Af8qXKBAKSQ",
-      "published": "2026-07-14T01:26:44+00:00",
-      "summary": "This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "2D vs 3D | Windbreaker Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=73NTNQyJI1w",
-      "published": "2026-07-13T18:54:54+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Checking Out 2XKO, Riot's League of Legends Fighter | Super Smash Sunday",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=oZsr7ljKMhY",
-      "published": "2026-07-13T08:26:49+00:00",
-      "summary": "Our resident fighting game fans KC and El Cheshire are trying out Riot's 2XKO. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "There Goes the Bride | Adventure Is Nigh! - The Slow Walk Home | Ep. 5",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=SntVrtaRkNk",
-      "published": "2026-07-11T16:00:06+00:00",
-      "summary": "Adventure Is Nigh! is powered by Foundry Virtual Tabletop, A Self-Hosted & Modern Roleplaying Platform: https://foundryvtt.com/ For more D&D actual play goodness, check out Rolling With Difficulty's new campaign, Hunting Party: https://www.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "One Night Only | Official Trailer",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=AvKoSR3O4NQ",
-      "published": "2026-07-10T23:02:23+00:00",
-      "summary": "what would you do if you only had one night? __________________________________________________________ What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but…",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "One Night Only | A Look Inside",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=sNFnNF8gpJQ",
-      "published": "2026-07-09T15:08:28+00:00",
-      "summary": "What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but You and Easy A, celebrates modern romantic comedy on the big screen with a fresh, witty, swoony original…",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "The Wrong Girls - Official Trailer - In Theaters August 14",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=zrcg8YHSys8",
-      "published": "2026-07-07T16:00:10+00:00",
-      "summary": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Her Private Hell - Official Trailer - In Theaters July 24",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=C7E-0t1TfzM",
-      "published": "2026-06-30T16:00:27+00:00",
-      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Sheep in the Box - Official Trailer - In Theaters July 24",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=j5mlc8TAPNw",
-      "published": "2026-06-23T16:08:02+00:00",
-      "summary": "In the near future, Otone and Kensuke, a grieving couple who have lost their son, take into their lives a humanoid identical to their late child.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "NIGHTBORN | Official Trailer Feat. Rupert Grint, Seidi Haarla | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=dWePsu_Kd9c",
-      "published": "2026-07-06T19:08:20+00:00",
-      "summary": "With dreams of starting a perfect family, Saga and her British husband Jon move to the isolated house where she spent much of her childhood, deep in the Finnish forest.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Whisper Man | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=ZHRR-1CKYIQ",
-      "published": "2026-07-14T13:00:00+00:00",
-      "summary": "The deadliest killers can’t be silenced. Based on the New York Times bestselling novel by Alex North.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Watch The Hawk cast tackle the wings of death. Now on Netflix.",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=u3AqZnc-lJY",
-      "published": "2026-07-14T03:30:05+00:00",
-      "summary": "Will Ferrell says getting hit in the nuts feels a lot like being on Hot Ones: Extra Heat. Watch The Hawk cast tackle the wings of death. Now on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "JORDAN WALKER HOME RUN DERBY WINNER #HRDerby",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=3McWorwiPIE",
-      "published": "2026-07-14T02:49:25+00:00",
-      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "All the Truth in My Lies | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=jegXAXFegho",
-      "published": "2026-07-13T12:00:00+00:00",
-      "summary": "A camper van, a campsite, and a bachelorette party. Marín, Coco, Blanca, Gus, Aroa, and Loren had the perfect plan... until the truth did what it does best: turning the ultimate summer getaway into an unforgettable disaster.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo invite you to The East Palace #Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=x5fXTHnj-hc",
-      "published": "2026-07-10T12:00:15+00:00",
-      "summary": "I can feel my spirits rising because an exciting new show is coming 😱 Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo are here to invite you to The East Palace, coming this July 17. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Mayday — Official Trailer | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=om5Un9X720M",
-      "published": "2026-07-14T12:59:55+00:00",
-      "summary": "Ryan Reynolds and Kenneth Branagh star in Mayday, an action comedy about a downed pilot and ex-KGB agent, premiering on Apple TV September 4, 2026. http://apple.co/_Mayday Song: “America” by Neil Diamond https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Snoopy Presents: There's No Place Like Home, Snoopy — Official Trailer | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=A-NQmpNsZIc",
-      "published": "2026-07-09T14:59:54+00:00",
-      "summary": "A house with good bones. Snoopy Presents: No Place Like Home, Snoopy — July 31 #AppleTV #Peanuts #Snoopy #Trailer #NoPlaceLikeHomeSnoopy",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Widow's Bay now has more Emmy nominations than Martha's Vineyard.",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=tka45fjIWuE",
-      "published": "2026-07-08T23:17:03+00:00",
-      "summary": "A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.co/_WidowsBay Subscribe to Apple TV’s YouTube channel: https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -604,8 +250,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 18,
-    "trailerCount": 14,
-    "sourceCount": 19
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 6
   }
 }
