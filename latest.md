@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-14T09:00:16.901072Z
+Generated: 2026-07-14T14:00:01.492966Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are PsiQuantum has a plan to make a massive quantum computer out of light, US refunds $81bn in Trump tariffs after supreme court ruled them illegal, and Bangkok bar fire: death toll reaches 30 as police investigate negligence as ‘primary theory’.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are "Ubisoft thinks that's what we deserve": Assassin's Creed Black Flag Resynced's release followed by union strike over Ubisoft Barcelona layoffs, AI Made Cloning Games Easier Than Ever, and Opinion: America’s Public Schools Are Pushing 50. It’s Time To Act Like It.
 
 ## Briefing
 
@@ -33,79 +33,97 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. PsiQuantum has a plan to make a massive quantum computer out of light [10/10]
+### 1. "Ubisoft thinks that's what we deserve": Assassin's Creed Black Flag Resynced's release followed by union strike over Ubisoft Barcelona layoffs [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Following the release of Assassin’s Creed Black Flag Resynced , an undertaking by a bunch of Ubisoft studios based all over the world, union protests at one of said studios have kicked off over plans to lay off staff now the remake's out…
+
+Link: https://www.rockpapershotgun.com/ubisoft-thinks-thats-what-we-deserve-assassins-creed-black-flag-resynceds-release-followed-by-union-strike-over-ubisoft-barcelona-layoffs
+
+### 2. AI Made Cloning Games Easier Than Ever [10/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Vibecoding has made it possible to create a cheap rip off of a video game in just a few hours.
+
+Link: https://www.404media.co/ai-made-cloning-games-easier-than-ever/
+
+### 3. Opinion: America’s Public Schools Are Pushing 50. It’s Time To Act Like It [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+The average public school building in America is now 49 years old. In more than half of U.S. school districts, those buildings require significant repairs or full replacement.
+
+Link: https://www.the74million.org/article/americas-public-schools-are-pushing-50-its-time-to-act-like-it/
+
+### 4. A delayed next generation of consoles is "better for us", says The Blood of Dawnwalker director, as price rises continue to plague the industry [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Konrad Tomaszkiewicz, the director of promising vampire-themed role-playing The Blood of Dawnwalker - and previously director of The Witcher 3: Wild Hunt - has said a delayed next-generation of consoles would be "better" for a studio like…
+
+Link: https://www.eurogamer.net/next-gen-console-delay-blood-of-dawnwalker-developer
+
+### 5. The Download: Claude’s inner workings, and the future of world models [10/10]
 **Source:** MIT Technology Review  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory.
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
 
-Link: https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/
+Link: https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/
 
-### 2. US refunds $81bn in Trump tariffs after supreme court ruled them illegal [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Government has been forced to pay back duties to companies that imported goods into the US that were hit by Trump’s tariffs Business live – latest updates The US government has already paid back tens of billions of dollars in tariffs it…
-
-Link: https://www.theguardian.com/us-news/2026/jul/14/trump-tariffs-us-refunds
-
-### 3. Bangkok bar fire: death toll reaches 30 as police investigate negligence as ‘primary theory’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Bar owner in Thailand offers ‘deepest apologies for this tragic incident’ as police investigate whether exits were either blocked or hard to access The Bangkok pub that has become the scene of the city’s deadliest blaze in 17 years has…
-
-Link: https://www.theguardian.com/world/2026/jul/14/bangkok-bar-pub-fire-death-toll-thailand
-
-### 4. Sale of multimillion-dollar T rex skeleton is big headache for scientists [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Palaeontologists warn before auction at Sotheby’s in New York that super-rich collectors are harming research With its dagger-like teeth, bone-crushing bite and behemothic size, the fearsome Tyrannosaurus rex ruled western North America…
-
-Link: https://www.theguardian.com/science/2026/jul/14/t-rex-skeleton-sothebys-auction-new-york-scientists
-
-### 5. ICE agents kill man in Maine as senator says victim not target of arrest [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Killing of man – identified by rights groups as 26-year-old Colombian – comes days after man killed by ICE in Texas US politics live – latest updates A federal immigration officer shot and killed a man in Biddeford, Maine on Monday, the…
-
-Link: https://www.theguardian.com/us-news/2026/jul/13/maine-ice-shooting-death
-
-### 6. Summer etiquette: 47 essential rules – from sex to sunloungers to shopping in swimming trunks [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-When is it OK to go shirtless? What time can you start drinking on holiday? And can you ask a stranger to apply your sunscreen? Experts explain the behaviour that’s hot this summer – and what’s really, really not Summer means a loosening…
-
-Link: https://www.theguardian.com/lifeandstyle/2026/jul/14/summer-etiquette-47-essential-rules-from-sex-to-sunloungers-to-shopping-in-swimming-trunks
-
-### 7. Microsoft tests Windows Search without all the ads and fluff [9/10]
+### 6. Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads.
+Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous.
 
-Link: https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads
+Link: https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog
 
-### 8. Maine, 14 Other States Sue Trump Administration to Block School Mental Health Funding Cuts [9/10]
-**Source:** The 74  
+### 7. ‘Dagger in heart’: Rebecca Slaughter on how her supreme court case validated Trump’s purge to civil service [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Slaughter, fired by Trump from the FTC in 2025, worries agencies will fear defying the US president Federal officials fired by the Trump administration are calling the recent supreme court decision a “dagger in the heart” of the civil…
+
+Link: https://www.theguardian.com/us-news/2026/jul/14/federal-officials-fired-by-trump-supreme-court-ruling
+
+### 8. 'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI [10/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+AI is moving beyond chatbots and into toys, dolls, and robots built to befriend children. A leading child-development expert says the technology offers real promise — but also risks crowding out the human relationships children need most.
+
+Link: https://www.npr.org/sections/planet-money/2026/07/14/g-s1-133066/the-trojan-teddy-bear-the-promise-and-peril-of-childhood-in-the-age-of-ai
+
+### 9. They Fight review – boxing drama is an emotional gutpunch [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Anchored by an indelible André Holland performance, the film finds tenderness and warmth amid its gritty Washington DC backdrop In the lineage of Creed and Million Dollar Baby, They Fight makes yet another compelling case for why boxing…
+
+Link: https://www.theguardian.com/film/2026/jul/14/they-fight-movie-review-boxing-drama
+
+### 10. Hunter Biden says ‘rule of law prevailed’ in defamation lawsuit netting him $1.7m [9/10]
+**Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Maine joined 15 states on Friday in suing the Trump administration to prevent millions of dollars in cuts to school-based mental health funding. The new lawsuit is part of an ongoing legal battle between Democratic-led states and the U.S.
+Biden sued ex-CEO of Overstock.
 
-Link: https://www.the74million.org/article/maine-14-other-states-sue-trump-administration-to-block-school-mental-health-funding-cuts/
+Link: https://www.theguardian.com/us-news/2026/jul/14/hunter-biden-defamation-lawsuit
 
-### 9. States Try New Measures To Get Chronically Absent Students Back to Class [9/10]
+### 11. States Try New Measures To Get Chronically Absent Students Back to Class [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -114,16 +132,7 @@ This year, at least six states enacted laws trying to reduce the number of stude
 
 Link: https://www.the74million.org/article/states-try-new-measures-to-get-chronically-absent-students-back-to-class/
 
-### 10. Games Done Quick announces and then quickly cancels SNK-sponsored stream because of company's Saudi ownership [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Summer Games Done Quick 2026 is now over, and while it's been a grand time as usual, one of the group's post-event streams - dedicated to celebrating Metal Slug's 30th anniversary - was ended early after many viewers expressed…
-
-Link: https://www.eurogamer.net/games-done-quick-cancels-snk-sponsored-stream
-
-### 11. Crystal Lake Teaser Trailer Feels Closer to Widow’s Bay Than Friday the 13th [8/10]
+### 12. Crystal Lake Teaser Trailer Feels Closer to Widow’s Bay Than Friday the 13th [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -132,23 +141,14 @@ The Peacock series will re-imagine the story of Pamela Voorhees The post Crystal
 
 Link: https://reactormag.com/crystal-lake-trailer-friday-the-13-peacock/
 
-### 12. I Bought the $3,000 Fitness Suit That Electrocutes You. I’m Sending It Back [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Celebrities like George Clooney have praised the expensive Katalyst suit. For me, it derailed my other exercises and made me reassess my obsession with fitness and efficiency.
-
-Link: https://www.404media.co/i-bought-the-3-000-fitness-suit-that-electrocutes-you-im-sending-it-back/
-
-### 13. Pythons' extreme biology may hold clues for treating human disease [7/10]
+### 13. What is an aortic dissection? [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-These snakes can go for months without eating, grow and shrink the size of their hearts and jump start their metabolism on a dime.
+NPR's A Martinez speaks with American Heart Association's volunteer president Dr. Manesh Patel about aortic dissection, the preliminary finding of what led to Sen. Lindsey Graham's death.
 
-Link: https://www.npr.org/2026/07/13/nx-s1-5887668/pythons-metabolism-digestion-human-disease-treatment
+Link: https://www.npr.org/2026/07/14/nx-s1-5891800/what-is-an-aortic-dissection
 
 ## YouTube
 
@@ -160,6 +160,15 @@ Link: https://www.npr.org/2026/07/13/nx-s1-5887668/pythons-metabolism-digestion-
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://xandergos.github.io/terrain-diffusion/ https://modrinth.com/mod/terrain-diffusion https://github.
 
 Link: https://www.youtube.com/watch?v=Ae9q7KsRbuI
+
+### Palestinian shepherding communities face attacks in the West Bank [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Israel’s highest court has been unable to stop the demolition of a shepherding community by Jewish settlers in the occupied West Bank.
+
+Link: https://www.youtube.com/watch?v=1yD_lLnHmik
 
 ### McConnell breaks weeks of silence, says fall led to hospitalization [8/10]
 **Creator:** NPR  
@@ -269,9 +278,9 @@ Link: https://www.youtube.com/watch?v=1cA8zH9E41Q
 
 Link: https://www.youtube.com/watch?v=pecx-NV525A
 
-### Celebrating Spooky Witch Summer in Reka | Hot Monday Energy [7/10]
+### Celebrating Spooky Witch Summer in Reka | Hot Monday Energy [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.
@@ -352,15 +361,6 @@ What if one messy night turns out to be the best thing that ever happened to you
 
 Link: https://www.youtube.com/watch?v=sNFnNF8gpJQ
 
-### The Debut | Official Trailer HD | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.
-
-Link: https://www.youtube.com/watch?v=clyzHmBx43E
-
 ### The Wrong Girls - Official Trailer - In Theaters August 14 [8/10]
 **Source:** NEON  
 **Verdict:** Looks promising  
@@ -396,6 +396,15 @@ Link: https://www.youtube.com/watch?v=j5mlc8TAPNw
 With dreams of starting a perfect family, Saga and her British husband Jon move to the isolated house where she spent much of her childhood, deep in the Finnish forest.
 
 Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
+
+### The Whisper Man | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The deadliest killers can’t be silenced. Based on the New York Times bestselling novel by Alex North.
+
+Link: https://www.youtube.com/watch?v=ZHRR-1CKYIQ
 
 ### Watch The Hawk cast tackle the wings of death. Now on Netflix. [10/10]
 **Source:** Netflix  
@@ -433,14 +442,14 @@ I can feel my spirits rising because an exciting new show is coming 😱 Nam Joo
 
 Link: https://www.youtube.com/watch?v=x5fXTHnj-hc
 
-### Stokes Twins! | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
+### Mayday — Official Trailer | Apple TV [10/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-Meet Alan and Alex Stokes, the internet’s most creative agents of chaos. Daring challenges, jaw-dropping pranks, and mind-blowing stunts. No rules. No limits. Watch Stokes Twins! on Netflix July 18. Watch on Netflix: https://www.netflix.
+Ryan Reynolds and Kenneth Branagh star in Mayday, an action comedy about a downed pilot and ex-KGB agent, premiering on Apple TV September 4, 2026. http://apple.co/_Mayday Song: “America” by Neil Diamond https://apple.
 
-Link: https://www.youtube.com/watch?v=YB1Ikd9sk00
+Link: https://www.youtube.com/watch?v=om5Un9X720M
 
 ### Snoopy Presents: There's No Place Like Home, Snoopy — Official Trailer | Apple TV [8/10]
 **Source:** Apple TV  

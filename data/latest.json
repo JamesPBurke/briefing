@@ -1,88 +1,108 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-14T09:00:16.901072Z",
-  "generatedAtDisplay": "2026-07-14 05:00 AM EDT",
+  "generatedAt": "2026-07-14T14:00:01.492966Z",
+  "generatedAtDisplay": "2026-07-14 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are PsiQuantum has a plan to make a massive quantum computer out of light, US refunds $81bn in Trump tariffs after supreme court ruled them illegal, and Bangkok bar fire: death toll reaches 30 as police investigate negligence as ‘primary theory’.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are \"Ubisoft thinks that's what we deserve\": Assassin's Creed Black Flag Resynced's release followed by union strike over Ubisoft Barcelona layoffs, AI Made Cloning Games Easier Than Ever, and Opinion: America’s Public Schools Are Pushing 50. It’s Time To Act Like It.",
   "mainItems": [
     {
-      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+      "title": "\"Ubisoft thinks that's what we deserve\": Assassin's Creed Black Flag Resynced's release followed by union strike over Ubisoft Barcelona layoffs",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/ubisoft-thinks-thats-what-we-deserve-assassins-creed-black-flag-resynceds-release-followed-by-union-strike-over-ubisoft-barcelona-layoffs",
+      "published": "2026-07-14T13:52:23+00:00",
+      "summary": "Following the release of Assassin’s Creed Black Flag Resynced , an undertaking by a bunch of Ubisoft studios based all over the world, union protests at one of said studios have kicked off over plans to lay off staff now the remake's out…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "AI Made Cloning Games Easier Than Ever",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/ai-made-cloning-games-easier-than-ever/",
+      "published": "2026-07-14T13:20:54+00:00",
+      "summary": "Vibecoding has made it possible to create a cheap rip off of a video game in just a few hours.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: America’s Public Schools Are Pushing 50. It’s Time To Act Like It",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/americas-public-schools-are-pushing-50-its-time-to-act-like-it/",
+      "published": "2026-07-14T12:30:00+00:00",
+      "summary": "The average public school building in America is now 49 years old. In more than half of U.S. school districts, those buildings require significant repairs or full replacement.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "A delayed next generation of consoles is \"better for us\", says The Blood of Dawnwalker director, as price rises continue to plague the industry",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/next-gen-console-delay-blood-of-dawnwalker-developer",
+      "published": "2026-07-14T12:29:13+00:00",
+      "summary": "Konrad Tomaszkiewicz, the director of promising vampire-themed role-playing The Blood of Dawnwalker - and previously director of The Witcher 3: Wild Hunt - has said a delayed next-generation of consoles would be \"better\" for a studio like…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The Download: Claude’s inner workings, and the future of world models",
       "source": "MIT Technology Review",
-      "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
-      "published": "2026-07-14T08:00:00+00:00",
-      "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "published": "2026-07-14T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "US refunds $81bn in Trump tariffs after supreme court ruled them illegal",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/trump-tariffs-us-refunds",
-      "published": "2026-07-14T07:03:02+00:00",
-      "summary": "Government has been forced to pay back duties to companies that imported goods into the US that were hit by Trump’s tariffs Business live – latest updates The US government has already paid back tens of billions of dollars in tariffs it…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Bangkok bar fire: death toll reaches 30 as police investigate negligence as ‘primary theory’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jul/14/bangkok-bar-pub-fire-death-toll-thailand",
-      "published": "2026-07-14T05:06:28+00:00",
-      "summary": "Bar owner in Thailand offers ‘deepest apologies for this tragic incident’ as police investigate whether exits were either blocked or hard to access The Bangkok pub that has become the scene of the city’s deadliest blaze in 17 years has…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Sale of multimillion-dollar T rex skeleton is big headache for scientists",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/science/2026/jul/14/t-rex-skeleton-sothebys-auction-new-york-scientists",
-      "published": "2026-07-14T04:00:20+00:00",
-      "summary": "Palaeontologists warn before auction at Sotheby’s in New York that super-rich collectors are harming research With its dagger-like teeth, bone-crushing bite and behemothic size, the fearsome Tyrannosaurus rex ruled western North America…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "ICE agents kill man in Maine as senator says victim not target of arrest",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/13/maine-ice-shooting-death",
-      "published": "2026-07-13T22:56:32+00:00",
-      "summary": "Killing of man – identified by rights groups as 26-year-old Colombian – comes days after man killed by ICE in Texas US politics live – latest updates A federal immigration officer shot and killed a man in Biddeford, Maine on Monday, the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Summer etiquette: 47 essential rules – from sex to sunloungers to shopping in swimming trunks",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/14/summer-etiquette-47-essential-rules-from-sex-to-sunloungers-to-shopping-in-swimming-trunks",
-      "published": "2026-07-14T04:00:20+00:00",
-      "summary": "When is it OK to go shirtless? What time can you start drinking on holiday? And can you ask a stranger to apply your sunscreen? Experts explain the behaviour that’s hot this summer – and what’s really, really not Summer means a loosening…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Microsoft tests Windows Search without all the ads and fluff",
+      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
-      "published": "2026-07-13T21:53:20+00:00",
-      "summary": "Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads.",
+      "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "published": "2026-07-14T11:56:44+00:00",
+      "summary": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
+      "score": 10
     },
     {
-      "title": "Maine, 14 Other States Sue Trump Administration to Block School Mental Health Funding Cuts",
-      "source": "The 74",
+      "title": "‘Dagger in heart’: Rebecca Slaughter on how her supreme court case validated Trump’s purge to civil service",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/federal-officials-fired-by-trump-supreme-court-ruling",
+      "published": "2026-07-14T11:00:25+00:00",
+      "summary": "Slaughter, fired by Trump from the FTC in 2025, worries agencies will fear defying the US president Federal officials fired by the Trump administration are calling the recent supreme court decision a “dagger in the heart” of the civil…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/sections/planet-money/2026/07/14/g-s1-133066/the-trojan-teddy-bear-the-promise-and-peril-of-childhood-in-the-age-of-ai",
+      "published": "2026-07-14T10:30:00+00:00",
+      "summary": "AI is moving beyond chatbots and into toys, dolls, and robots built to befriend children. A leading child-development expert says the technology offers real promise — but also risks crowding out the human relationships children need most.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 10
+    },
+    {
+      "title": "They Fight review – boxing drama is an emotional gutpunch",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/film/2026/jul/14/they-fight-movie-review-boxing-drama",
+      "published": "2026-07-14T09:00:26+00:00",
+      "summary": "Anchored by an indelible André Holland performance, the film finds tenderness and warmth amid its gritty Washington DC backdrop In the lineage of Creed and Million Dollar Baby, They Fight makes yet another compelling case for why boxing…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Hunter Biden says ‘rule of law prevailed’ in defamation lawsuit netting him $1.7m",
+      "source": "The Guardian US",
       "category": "AI / privacy",
-      "url": "https://www.the74million.org/article/maine-14-other-states-sue-trump-administration-to-block-school-mental-health-funding-cuts/",
-      "published": "2026-07-13T18:30:00+00:00",
-      "summary": "Maine joined 15 states on Friday in suing the Trump administration to prevent millions of dollars in cuts to school-based mental health funding. The new lawsuit is part of an ongoing legal battle between Democratic-led states and the U.S.",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/hunter-biden-defamation-lawsuit",
+      "published": "2026-07-14T13:43:55+00:00",
+      "summary": "Biden sued ex-CEO of Overstock.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
     },
@@ -97,16 +117,6 @@
       "score": 9
     },
     {
-      "title": "Games Done Quick announces and then quickly cancels SNK-sponsored stream because of company's Saudi ownership",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/games-done-quick-cancels-snk-sponsored-stream",
-      "published": "2026-07-13T15:57:48+00:00",
-      "summary": "Summer Games Done Quick 2026 is now over, and while it's been a grand time as usual, one of the group's post-event streams - dedicated to celebrating Metal Slug's 30th anniversary - was ended early after many viewers expressed…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
       "title": "Crystal Lake Teaser Trailer Feels Closer to Widow’s Bay Than Friday the 13th",
       "source": "Reactor",
       "category": "Sci-fi / horror",
@@ -117,22 +127,12 @@
       "score": 8
     },
     {
-      "title": "I Bought the $3,000 Fitness Suit That Electrocutes You. I’m Sending It Back",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/i-bought-the-3-000-fitness-suit-that-electrocutes-you-im-sending-it-back/",
-      "published": "2026-07-13T14:32:05+00:00",
-      "summary": "Celebrities like George Clooney have praised the expensive Katalyst suit. For me, it derailed my other exercises and made me reassess my obsession with fitness and efficiency.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Pythons' extreme biology may hold clues for treating human disease",
+      "title": "What is an aortic dissection?",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5887668/pythons-metabolism-digestion-human-disease-treatment",
-      "published": "2026-07-13T10:00:00+00:00",
-      "summary": "These snakes can go for months without eating, grow and shrink the size of their hearts and jump start their metabolism on a dime.",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5891800/what-is-an-aortic-dissection",
+      "published": "2026-07-14T09:02:11+00:00",
+      "summary": "NPR's A Martinez speaks with American Heart Association's volunteer president Dr. Manesh Patel about aortic dissection, the preliminary finding of what led to Sen. Lindsey Graham's death.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
@@ -148,6 +148,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Palestinian shepherding communities face attacks in the West Bank",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=1yD_lLnHmik",
+      "published": "2026-07-14T13:00:11+00:00",
+      "summary": "Israel’s highest court has been unable to stop the demolition of a shepherding community by Jewish settlers in the occupied West Bank.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "McConnell breaks weeks of silence, says fall led to hospitalization",
@@ -289,8 +300,8 @@
       "published": "2026-07-14T01:26:44+00:00",
       "summary": "This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "2D vs 3D | Windbreaker Podcast",
@@ -350,17 +361,6 @@
       "verdict": "Worth a glance"
     },
     {
-      "title": "The Debut | Official Trailer HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=clyzHmBx43E",
-      "published": "2026-06-23T12:59:06+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Jesse Eisenberg and starring Julianne Moore, Jesse Eisenberg, and Paul Giamatti. THE DEBUT – Coming Soon.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "The Wrong Girls - Official Trailer - In Theaters August 14",
       "source": "NEON",
       "category": "Film / trailer",
@@ -402,6 +402,17 @@
       "summary": "With dreams of starting a perfect family, Saga and her British husband Jon move to the isolated house where she spent much of her childhood, deep in the Finnish forest.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Whisper Man | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=ZHRR-1CKYIQ",
+      "published": "2026-07-14T13:00:00+00:00",
+      "summary": "The deadliest killers can’t be silenced. Based on the New York Times bestselling novel by Alex North.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -449,14 +460,14 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Stokes Twins! | Official Trailer | Netflix",
-      "source": "Netflix",
+      "title": "Mayday — Official Trailer | Apple TV",
+      "source": "Apple TV",
       "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=YB1Ikd9sk00",
-      "published": "2026-07-09T16:00:00+00:00",
-      "summary": "Meet Alan and Alex Stokes, the internet’s most creative agents of chaos. Daring challenges, jaw-dropping pranks, and mind-blowing stunts. No rules. No limits. Watch Stokes Twins! on Netflix July 18. Watch on Netflix: https://www.netflix.",
+      "url": "https://www.youtube.com/watch?v=om5Un9X720M",
+      "published": "2026-07-14T12:59:55+00:00",
+      "summary": "Ryan Reynolds and Kenneth Branagh star in Mayday, an action comedy about a downed pilot and ex-KGB agent, premiering on Apple TV September 4, 2026. http://apple.co/_Mayday Song: “America” by Neil Diamond https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -593,8 +604,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 17,
+    "youtubeCount": 18,
     "trailerCount": 14,
-    "sourceCount": 18
+    "sourceCount": 19
   }
 }
