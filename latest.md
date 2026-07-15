@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-15T05:00:03.905893Z
+Generated: 2026-07-15T09:00:40.255606Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Japan officials hunt bear that raided couple’s fridge amid string of break-ins, Google and Epic give up fighting — third-party Android app stores are coming next week, and Microsoft’s Secure Boot has been broken for a decade and no one noticed until now.
+Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Maryland police arrest alleged bank robber wielding stolen cat: ‘Tried to use her as an accessory’, Google and Epic give up fighting — third-party Android app stores are coming next week, and A moment that changed me: I started yoga – and saw my scoliosis in a surprising new light.
 
 ## Briefing
 
@@ -33,14 +33,14 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Japan officials hunt bear that raided couple’s fridge amid string of break-ins [10/10]
+### 1. Maryland police arrest alleged bank robber wielding stolen cat: ‘Tried to use her as an accessory’ [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Officials set up traps and electric fences after 14 break-ins recored in one town in two weeks, amid fears of a repeat offender Authorities are searching for a bear that sneaked into the home of an elderly couple and raided their fridge…
+Police say suspect stole three-and-a-half-month-old tuxedo kitten Magnolia before attempting to rob a PNC bank In this day and age, law enforcement agencies worldwide are accustomed to dealing with cat burglars – but now a Maryland police…
 
-Link: https://www.theguardian.com/world/2026/jul/15/japan-bear-raids-fridge
+Link: https://www.theguardian.com/us-news/2026/jul/15/maryland-bank-thief-cat
 
 ### 2. Google and Epic give up fighting — third-party Android app stores are coming next week [10/10]
 **Source:** The Verge  
@@ -51,14 +51,14 @@ Epic Games and Google have just jointly withdrawn their attempt to retroactively
 
 Link: https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play
 
-### 3. Microsoft’s Secure Boot has been broken for a decade and no one noticed until now [10/10]
-**Source:** Ars Technica  
+### 3. A moment that changed me: I started yoga – and saw my scoliosis in a surprising new light [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Old and forgotten "shims" Microsoft failed to revoke have made Secure Boot bypasses simple.
+As a teenager I declined a painful operation to straighten my spinal curvature, and it was a decision I sometimes regretted.
 
-Link: https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/
+Link: https://www.theguardian.com/lifeandstyle/2026/jul/15/a-moment-that-changed-me-i-started-yoga-and-saw-my-scoliosis-in-a-surprising-new-light
 
 ### 4. OpenAI may announce a ChatGPT smart speaker this year [10/10]
 **Source:** The Verge  
@@ -69,25 +69,7 @@ OpenAI's first device is set to be a smart speaker that lets you talk with ChatG
 
 Link: https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device
 
-### 5. Short Thousands of Bilingual Teachers, California Schools Turn to High School Students [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-California’s audacious goal of having half of all K-12 students enrolled in bilingual education programs by 2030 has encountered one big stumbling block — there aren’t enough qualified bilingual teachers.
-
-Link: https://www.the74million.org/article/short-thousands-of-bilingual-teachers-california-schools-turn-to-high-school-students/
-
-### 6. Opinion: Illinois District Shows What Can be Done about PTA Fundraising Inequities [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Too often, parents take for granted that their children’s school experience is fundamentally the same as what’s happening in all the district’s schools. It turns out that is often far from reality.
-
-Link: https://www.the74million.org/article/illinois-district-shows-what-can-be-done-about-pta-fundraising-inequities/
-
-### 7. Is the Best Game of the Year a Failure? (With Rob Zacny) [10/10]
+### 5. Is the Best Game of the Year a Failure? (With Rob Zacny) [10/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -96,23 +78,41 @@ Remap Radio’s Rob Zacny and Emanuel dive deep into their current favorite game
 
 Link: https://www.404media.co/is-the-best-game-of-the-year-a-failure-with-rob-zacny/
 
-### 8. ‘When she turns eight they will take her’: rising number of Afghan girls being sold into child marriage [9/10]
+### 6. Trump tells Iran that power plants, bridges will be targeted if no deal is made – Middle East crisis live [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Afghanistan is seeing a resurgence in underage brides and mothers as desperate families sell their children in order to eat Sima* is 18, but has already given birth four times. Her youngest is a newborn, the eldest is four.
+US strikes Iran for fourth consecutive day as Iran deputy foreign minister says interim deal all but ‘dismantled’ Trump again threatens to strike Iran’s power plants amid impasse over strait of Hormuz For a second day in row, US strikes…
 
-Link: https://www.theguardian.com/global-development/2026/jul/15/afghanistan-girls-sold-into-child-marriage
+Link: https://www.theguardian.com/world/live/2026/jul/15/us-iran-war-live-updates-strikes-trump-power-plants-bridges-middle-east-crisis-latest-news
 
-### 9. Deckbuilder Grail quells the fear in my heart of playing the wrong card by pinning all of the strategy on the deckbuilding [9/10]
-**Source:** Rock Paper Shotgun  
+### 7. Battlefield 6 is bringing back a feature we've not seen since Battlefield 2, and teasing a fitting Top Gun collab alongside it [9/10]
+**Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-There is an anxiety to deckbuilders that I don't find with many other games, in that I get incredibly stressed about which cards I should play. I feel this way about card games in real life too, for reasons I truly cannot understand.
+Battlefield Studios has released our first look at Season 4 in Battlefield 6 . This new trailer arrives a week ahead of Season 4's launch on 21st July, and shows plenty to be excited about. Read more
 
-Link: https://www.rockpapershotgun.com/deckbuilder-grail-quells-the-fear-in-my-heart-of-playing-the-wrong-card-by-pinning-all-of-the-strategy-on-the-deckbuilding
+Link: https://www.eurogamer.net/battlefield-6-season-4-reveal-trailer-new-jets-top-gun-tease
+
+### 8. Short Thousands of Bilingual Teachers, California Schools Turn to High School Students [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+California’s audacious goal of having half of all K-12 students enrolled in bilingual education programs by 2030 has encountered one big stumbling block — there aren’t enough qualified bilingual teachers.
+
+Link: https://www.the74million.org/article/short-thousands-of-bilingual-teachers-california-schools-turn-to-high-school-students/
+
+### 9. Opinion: Illinois District Shows What Can be Done about PTA Fundraising Inequities [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Too often, parents take for granted that their children’s school experience is fundamentally the same as what’s happening in all the district’s schools. It turns out that is often far from reality.
+
+Link: https://www.the74million.org/article/illinois-district-shows-what-can-be-done-about-pta-fundraising-inequities/
 
 ### 10. 'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI [9/10]
 **Source:** NPR Tech  
@@ -123,14 +123,14 @@ AI is moving beyond chatbots and into toys, dolls, and robots built to befriend 
 
 Link: https://www.npr.org/sections/planet-money/2026/07/14/g-s1-133066/the-trojan-teddy-bear-the-promise-and-peril-of-childhood-in-the-age-of-ai
 
-### 11. Christopher Nolan Says The Odyssey Addresses a Fantasy Movie Gap “That Hadn’t Been Filled” [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+### 11. Wheelchair users say lack of competition in repair market leads to long wait times [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-The director explains how his version of The Odyssey finally helps bring the story to life The post Christopher Nolan Says The Odyssey Addresses a Fantasy Movie Gap “That Hadn’t Been Filled” appeared first on Reactor .
+People who use wheelchairs say simple repairs can take months to complete and replacement parts can be very expensive. In part, they blame two private equity firms that control most of the market.
 
-Link: https://reactormag.com/christopher-nolan-the-odyssey-fantasy-gap/
+Link: https://www.npr.org/2026/07/15/nx-s1-5893492/wheelchair-users-say-lack-of-competition-in-repair-market-leads-to-long-wait-times
 
 ### 12. "They would feel a kind of sadness, right?": Slay the Spire 2 dev on using slightly rubbish placeholder art over AI [8/10]
 **Source:** Rock Paper Shotgun  
@@ -141,14 +141,14 @@ Those of you that have been playing Slay the Spire 2 in its current early access
 
 Link: https://www.rockpapershotgun.com/they-would-feel-a-kind-of-sadness-right-slay-the-spire-2-dev-on-using-slightly-rubbish-placeholder-art-over-ai
 
-### 13. What is an aortic dissection? [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
+### 13. Christopher Nolan Says The Odyssey Addresses a Fantasy Movie Gap “That Hadn’t Been Filled” [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-NPR's A Martinez speaks with American Heart Association's volunteer president Dr. Manesh Patel about aortic dissection, the preliminary finding of what led to Sen. Lindsey Graham's death.
+The director explains how his version of The Odyssey finally helps bring the story to life The post Christopher Nolan Says The Odyssey Addresses a Fantasy Movie Gap “That Hadn’t Been Filled” appeared first on Reactor .
 
-Link: https://www.npr.org/2026/07/14/nx-s1-5891800/what-is-an-aortic-dissection
+Link: https://reactormag.com/christopher-nolan-the-odyssey-fantasy-gap/
 
 ## YouTube
 
@@ -169,6 +169,177 @@ Link: https://www.youtube.com/watch?v=Ae9q7KsRbuI
 Forest conservation scientist Dominick DellaSala joins WIRED to answer the internet’s burning questions about trees.
 
 Link: https://www.youtube.com/watch?v=fLIZslgfIdQ
+
+### Trump slashes the size of two national monuments by 90% [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+President Trump has once again slashed the size of two national monuments in Utah. The sites feature ancient cliff dwellings and scenic canyons, as well as coal and uranium deposits.
+
+Link: https://www.youtube.com/watch?v=_KHPJRXxkYs
+
+### Some who lost jobs over Charlie Kirk posts get big payouts for First Amendment retaliation [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Some people lost their jobs over posts about Charlie Kirk. Now, they’re getting big payouts for their First Amendment rights.
+
+Link: https://www.youtube.com/watch?v=H7-i5-MleHo
+
+### Officials investigating second fatal ICE shooting in a week [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+An investigation is underway into the second fatal shooting by ICE agents in a week.
+
+Link: https://www.youtube.com/watch?v=tH15IAn0R1U
+
+### Palestinian shepherding communities face attacks in the West Bank [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Israel’s highest court has been unable to stop the demolition of a shepherding community by Jewish settlers in the occupied West Bank.
+
+Link: https://www.youtube.com/watch?v=1yD_lLnHmik
+
+### McConnell breaks weeks of silence, says fall led to hospitalization [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Former Senate Majority Leader Mitch McConnell says he’s still recovering from a fall that led to a weekslong hospitalization. It’s the first update from the Kentucky Republican since persistent rumors surfaced about his well-being.
+
+Link: https://www.youtube.com/watch?v=ZbE9VhYST-Y
+
+### At least 27 killed in Bangkok bar fire [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+A fire that tore through a Bangkok bar on Sunday night has killed at least 27 people, authorities say, with dozens more injured.
+
+Link: https://www.youtube.com/watch?v=_IdyuohtA9M
+
+### Award-winning actor Don Cheadle on how to avoid scandal in Hollywood — or any workplace [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Don Cheadle shares some advice with Ayesha Rascoe, the host of NPR's Weekend Edition Sunday, on how to avoid scandal in Hollywood and, more broadly, any workplace.
+
+Link: https://www.youtube.com/watch?v=_67kp62Nw2k
+
+### Humanoid robot scales parts of Ecuador's tallest peak [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+In Ecuador, a humanoid robot took part in a mission to climb the country’s tallest peak — a step toward robot-conducted research in harsh mountain conditions.
+
+Link: https://www.youtube.com/watch?v=9DzRcwrNAUM
+
+### Call of Duty Black Ops on PS5: The 1080p "It's Just There" Edition [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=oA_GRwGsS4g
+
+### id Software Lay-Offs Damage Control - Not Sure We're Buying It [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=EH1l_qVV81I
+
+### Should Next-Gen Consoles Be Delayed Or Even Cancelled? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/DeUV3IqEZRU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=21nj1OVvqG4
+
+### Is PlayStation 6 Still In The Design Phase? Can Specs Be Changed? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/DeUV3IqEZRU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=4ap5mzPKdEc
+
+### Could PS5's PCIe M.2 Slot Be Used For An Extra GPU Instead? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/DeUV3IqEZRU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=Ha05A-k2Sow
+
+### Polyarmory Is a Game About Dating Guns | Hot Monday Energy [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=UGi-IxgiOgs
+
+### Nick & Jenna Play the Sands of Time Trilogy for the First Time | Part 4 [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The community funded Nick playing the Sands of Time trilogy on stream for the first time. Join Nick and Jenna as they start the series today! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.
+
+Link: https://www.youtube.com/watch?v=us8nLJt9rXw
+
+### The Radical Subjectivity of Christopher Nolan | The Backdrop [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+In his latest video essay, Darren Mooney goes long on Christopher Nolan and how the director of The Odyssey uses practical filmmaking to capture an unreal world.
+
+Link: https://www.youtube.com/watch?v=zvu-Fzl9m5E
+
+### Celebrating Spooky Witch Summer in Reka | Hot Monday Energy [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=Af8qXKBAKSQ
+
+### 2D vs 3D | Windbreaker Podcast [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
+
+Link: https://www.youtube.com/watch?v=73NTNQyJI1w
+
+### Checking Out 2XKO, Riot's League of Legends Fighter | Super Smash Sunday [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Our resident fighting game fans KC and El Cheshire are trying out Riot's 2XKO. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=oZsr7ljKMhY
 
 ## Entertainment Recommendations
 
@@ -199,4 +370,155 @@ Link: https://www.youtube.com/watch?v=fLIZslgfIdQ
 
 ## Trailers / Previews
 
-_No trailer picks in this briefing._
+### One Night Only | Official Trailer [8/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+what would you do if you only had one night? __________________________________________________________ What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but…
+
+Link: https://www.youtube.com/watch?v=AvKoSR3O4NQ
+
+### One Night Only | A Look Inside [7/10]
+**Source:** Universal Pictures  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but You and Easy A, celebrates modern romantic comedy on the big screen with a fresh, witty, swoony original…
+
+Link: https://www.youtube.com/watch?v=sNFnNF8gpJQ
+
+### Trailer out now for The Dog Stars. [8/10]
+**Source:** 20th Century Studios  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Trailer out now for The Dog Stars.
+
+Link: https://www.youtube.com/watch?v=FTHEgEONSRs
+
+### The Dog Stars | In Theaters August 28 [8/10]
+**Source:** 20th Century Studios  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Ridley Scott returns with a bold new vision in THE DOG STARS. Starring Jacob Elordi, Margaret Qualley, & Josh Brolin. See the film only in theaters August 28. Watch the new trailer now.
+
+Link: https://www.youtube.com/watch?v=8FeiVAY5Y7Y
+
+### The Dog Stars | Official Trailer | In Theaters August 28 [8/10]
+**Source:** 20th Century Studios  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The world that was doesn’t exist. THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters and IMAX August 28.
+
+Link: https://www.youtube.com/watch?v=-xSxaE1ClEE
+
+### Tony | Official First Look | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas.
+
+Link: https://www.youtube.com/watch?v=GMQFLpETNkc
+
+### The Wrong Girls - Official Trailer - In Theaters August 14 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.
+
+Link: https://www.youtube.com/watch?v=zrcg8YHSys8
+
+### Her Private Hell - Official Trailer - In Theaters July 24 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.
+
+Link: https://www.youtube.com/watch?v=C7E-0t1TfzM
+
+### NIGHTBORN | Official Trailer Feat. Rupert Grint, Seidi Haarla | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+With dreams of starting a perfect family, Saga and her British husband Jon move to the isolated house where she spent much of her childhood, deep in the Finnish forest.
+
+Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
+
+### The Ultimatum: Marry or Move On: Season 4 | Sneak Peek | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Walk down the aisle or walk away forever? Six couples put love on the line and learn if they’re ready to wed after spending a month with a new partner. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=fZyYpd4N9cg
+
+### The Whisper Man | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The deadliest killers can’t be silenced. Based on the New York Times bestselling novel by Alex North.
+
+Link: https://www.youtube.com/watch?v=ZHRR-1CKYIQ
+
+### Watch The Hawk cast tackle the wings of death. Now on Netflix. [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Will Ferrell says getting hit in the nuts feels a lot like being on Hot Ones: Extra Heat. Watch The Hawk cast tackle the wings of death. Now on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=u3AqZnc-lJY
+
+### JORDAN WALKER HOME RUN DERBY WINNER #HRDerby [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
+
+Link: https://www.youtube.com/watch?v=3McWorwiPIE
+
+### All the Truth in My Lies | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A camper van, a campsite, and a bachelorette party. Marín, Coco, Blanca, Gus, Aroa, and Loren had the perfect plan... until the truth did what it does best: turning the ultimate summer getaway into an unforgettable disaster.
+
+Link: https://www.youtube.com/watch?v=jegXAXFegho
+
+### Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo invite you to The East Palace #Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+I can feel my spirits rising because an exciting new show is coming 😱 Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo are here to invite you to The East Palace, coming this July 17. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=x5fXTHnj-hc
+
+### Widow's Bay — Patricia: No Notes | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Kate O'Flynn stars as Patricia in Widow's Bay - the ultimate final girl, and hostess with the mostest. Please don't forget to RSVP to Sunset Cocktails.
+
+Link: https://www.youtube.com/watch?v=IW20mgWlXSE
+
+### Mayday — Official Trailer | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Ryan Reynolds and Kenneth Branagh star in Mayday, an action comedy about a downed pilot and ex-KGB agent, premiering on Apple TV September 4, 2026. http://apple.co/_Mayday Song: “America” by Neil Diamond https://apple.
+
+Link: https://www.youtube.com/watch?v=om5Un9X720M
