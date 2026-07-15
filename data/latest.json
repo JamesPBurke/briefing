@@ -1,19 +1,59 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-14T18:00:17.876339Z",
-  "generatedAtDisplay": "2026-07-14 02:00 PM EDT",
+  "generatedAt": "2026-07-15T05:00:03.905893Z",
+  "generatedAtDisplay": "2026-07-15 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Tech / media, CS education / AI policy. The strongest items in this run are Philips Hue’s budget-friendly Essential starter kit has hit a new low price, Opinion: Illinois District Shows What Can be Done about PTA Fundraising Inequities, and ICE pauses vehicle stops after deadly shootings in Texas and Maine.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Japan officials hunt bear that raided couple’s fridge amid string of break-ins, Google and Epic give up fighting — third-party Android app stores are coming next week, and Microsoft’s Secure Boot has been broken for a decade and no one noticed until now.",
   "mainItems": [
     {
-      "title": "Philips Hue’s budget-friendly Essential starter kit has hit a new low price",
-      "source": "The Verge",
+      "title": "Japan officials hunt bear that raided couple’s fridge amid string of break-ins",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale",
-      "published": "2026-07-14T17:36:05+00:00",
-      "summary": "Although most of Prime Day’s unusually good Philips Hue deals have ended, a few remain, and some, including the black Philips Hue Twilight Sleep and Wake-Up Light, are even cheaper.",
+      "url": "https://www.theguardian.com/world/2026/jul/15/japan-bear-raids-fridge",
+      "published": "2026-07-15T04:27:29+00:00",
+      "summary": "Officials set up traps and electric fences after 14 break-ins recored in one town in two weeks, amid fears of a repeat offender Authorities are searching for a bear that sneaked into the home of an elderly couple and raided their fridge…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
+      "published": "2026-07-15T04:16:33+00:00",
+      "summary": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival app stores inside of…",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
+      "source": "Ars Technica",
+      "category": "Democracy / press freedom",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
+      "published": "2026-07-14T22:20:48+00:00",
+      "summary": "Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI may announce a ChatGPT smart speaker this year",
+      "source": "The Verge",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "published": "2026-07-14T21:26:32+00:00",
+      "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Short Thousands of Bilingual Teachers, California Schools Turn to High School Students",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/short-thousands-of-bilingual-teachers-california-schools-turn-to-high-school-students/",
+      "published": "2026-07-14T18:30:00+00:00",
+      "summary": "California’s audacious goal of having half of all K-12 students enrolled in bilingual education programs by 2030 has encountered one big stumbling block — there aren’t enough qualified bilingual teachers.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -27,46 +67,6 @@
       "score": 10
     },
     {
-      "title": "ICE pauses vehicle stops after deadly shootings in Texas and Maine",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/ice-vehicle-stops-texas-maine-shootings",
-      "published": "2026-07-14T17:16:43+00:00",
-      "summary": "The deaths of Joan Sebastian Guerrero and Lorenzo Salgado Araujo have prompted calls for independent investigations Federal immigration officials have been instructed to stop pulling over vehicles until further notice, according to a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump withdraws Hormuz tolls threat but says US will continue to blockade Iran",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/jul/14/us-strikes-iran-bahrain-jordan-uae-tankers",
-      "published": "2026-07-14T16:50:54+00:00",
-      "summary": "US hits targets in port cities of Bushehr and Bandar Abbas while Iran targets Bahrain and Jordan in retaliation Middle East crisis live – latest updates Donald Trump has backed down from a threat that ships would have to pay a 20% fee to…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Supreme court justices testify to House on budget request to increase security",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/supreme-court-justices-security-budget",
-      "published": "2026-07-14T16:33:39+00:00",
-      "summary": "Justices Elena Kagan and Amy Coney Barrett appear before House lawmakers to request more security for the judiciary Supreme court justices Elena Kagan and Amy Coney Barrett are testifying Tuesday in front of House lawmakers to discuss the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Spotify is now an AI chatbot, too",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
-      "published": "2026-07-14T15:47:36+00:00",
-      "summary": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
       "title": "Is the Best Game of the Year a Failure? (With Rob Zacny)",
       "source": "404 Media",
       "category": "Tech / media",
@@ -77,43 +77,23 @@
       "score": 10
     },
     {
-      "title": "Can Ethnic Studies Bridge the Achievement Gap? San Francisco Program Shows Gains",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/can-ethnic-studies-bridge-the-achievement-gap-san-francisco-program-shows-gains/",
-      "published": "2026-07-14T14:30:00+00:00",
-      "summary": "San Francisco high school students, particularly those with high needs, enrolled in ethnic study courses achieved higher GPAs, stronger academic gains in math and science, and failed fewer courses, according to a new report.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "title": "‘When she turns eight they will take her’: rising number of Afghan girls being sold into child marriage",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/global-development/2026/jul/15/afghanistan-girls-sold-into-child-marriage",
+      "published": "2026-07-15T04:00:45+00:00",
+      "summary": "Afghanistan is seeing a resurgence in underage brides and mothers as desperate families sell their children in order to eat Sima* is 18, but has already given birth four times. Her youngest is a newborn, the eldest is four.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
-      "title": "AI Made Cloning Games Easier Than Ever",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/ai-made-cloning-games-easier-than-ever/",
-      "published": "2026-07-14T13:20:54+00:00",
-      "summary": "Vibecoding has made it possible to create a cheap rip off of a video game in just a few hours.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10
-    },
-    {
-      "title": "Opinion: America’s Public Schools Are Pushing 50. It’s Time To Act Like It",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/americas-public-schools-are-pushing-50-its-time-to-act-like-it/",
-      "published": "2026-07-14T12:30:00+00:00",
-      "summary": "The average public school building in America is now 49 years old. In more than half of U.S. school districts, those buildings require significant repairs or full replacement.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Meta accused of using biased AI targeting for mass layoffs",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-      "published": "2026-07-14T17:18:11+00:00",
-      "summary": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "title": "Deckbuilder Grail quells the fear in my heart of playing the wrong card by pinning all of the strategy on the deckbuilding",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/deckbuilder-grail-quells-the-fear-in-my-heart-of-playing-the-wrong-card-by-pinning-all-of-the-strategy-on-the-deckbuilding",
+      "published": "2026-07-14T22:01:32+00:00",
+      "summary": "There is an anxiety to deckbuilders that I don't find with many other games, in that I get incredibly stressed about which cards I should play. I feel this way about card games in real life too, for reasons I truly cannot understand.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -127,6 +107,26 @@
       "score": 9
     },
     {
+      "title": "Christopher Nolan Says The Odyssey Addresses a Fantasy Movie Gap “That Hadn’t Been Filled”",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/christopher-nolan-the-odyssey-fantasy-gap/",
+      "published": "2026-07-14T20:37:32+00:00",
+      "summary": "The director explains how his version of The Odyssey finally helps bring the story to life The post Christopher Nolan Says The Odyssey Addresses a Fantasy Movie Gap “That Hadn’t Been Filled” appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
+    },
+    {
+      "title": "\"They would feel a kind of sadness, right?\": Slay the Spire 2 dev on using slightly rubbish placeholder art over AI",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / design",
+      "url": "https://www.rockpapershotgun.com/they-would-feel-a-kind-of-sadness-right-slay-the-spire-2-dev-on-using-slightly-rubbish-placeholder-art-over-ai",
+      "published": "2026-07-14T16:02:12+00:00",
+      "summary": "Those of you that have been playing Slay the Spire 2 in its current early access form will have seen that some of the placeholder art looks, well, arguably bad. I am not necessarily making this argument! But it could be made.",
+      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
+      "score": 8
+    },
+    {
       "title": "What is an aortic dissection?",
       "source": "NPR Health",
       "category": "Science / health",
@@ -137,7 +137,30 @@
       "score": 7
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Minecraft Was Missing One Brilliant Idea",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
+      "published": "2026-07-12T15:48:43+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://xandergos.github.io/terrain-diffusion/ https://modrinth.com/mod/terrain-diffusion https://github.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Forest Ecologist Answers Tree Questions | Tech Support | WIRED",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=fLIZslgfIdQ",
+      "published": "2026-07-14T16:00:13+00:00",
+      "summary": "Forest conservation scientist Dominick DellaSala joins WIRED to answer the internet’s burning questions about trees.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    }
+  ],
   "trailers": [],
   "recommendations": {
     "new": [
@@ -250,8 +273,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
+    "youtubeCount": 2,
     "trailerCount": 0,
-    "sourceCount": 6
+    "sourceCount": 11
   }
 }
