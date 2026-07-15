@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-15T09:00:40.255606Z
+Generated: 2026-07-15T14:00:04.616238Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Maryland police arrest alleged bank robber wielding stolen cat: ‘Tried to use her as an accessory’, Google and Epic give up fighting — third-party Android app stores are coming next week, and A moment that changed me: I started yoga – and saw my scoliosis in a surprising new light.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Senate expected to grill Todd Blanche over Epstein files and cases against Trump’s political rivals in confirmation hearing – live, Muslim man stabbed multiple times in Utah over his religion, police say, and The rumoured Resident Evil 1 Remake reportedly entered pre-production last year.
 
 ## Briefing
 
@@ -33,16 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Maryland police arrest alleged bank robber wielding stolen cat: ‘Tried to use her as an accessory’ [10/10]
+### 1. Senate expected to grill Todd Blanche over Epstein files and cases against Trump’s political rivals in confirmation hearing – live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Police say suspect stole three-and-a-half-month-old tuxedo kitten Magnolia before attempting to rob a PNC bank In this day and age, law enforcement agencies worldwide are accustomed to dealing with cat burglars – but now a Maryland police…
+Trump’s nominee for attorney general – also his former personal defense lawyer – faces questions from senators as he attempts to take the top justice department role Sign up for the Breaking News US email During his opening remarks, Durbin…
 
-Link: https://www.theguardian.com/us-news/2026/jul/15/maryland-bank-thief-cat
+Link: https://www.theguardian.com/us-news/live/2026/jul/15/todd-blanche-attorney-general-senate-donald-trump-ice-darline-graham-lindsey-graham-us-politics-live-news
 
-### 2. Google and Epic give up fighting — third-party Android app stores are coming next week [10/10]
+### 2. Muslim man stabbed multiple times in Utah over his religion, police say [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Arrested suspect tells police he ‘intends to kill Muslims’ after alleged attack on kiosk worker at West Valley City mill A man was arrested in Utah for stabbing a Muslim ⁠man multiple times and ⁠stated that he targeted ​the victim because…
+
+Link: https://www.theguardian.com/us-news/2026/jul/15/muslim-man-stabbed-utah
+
+### 3. The rumoured Resident Evil 1 Remake reportedly entered pre-production last year [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The rumoured Resident Evil 1 Remake is back in the news again, thanks to new information from a longtime insider.
+
+Link: https://www.eurogamer.net/resident-evil-1-remake-pre-production-rumour
+
+### 4. Opinion: The Border Is Breaking My Students’ Hearts. It Broke Mine, Too [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+I run into a former student of mine, outside of school. “How are you, miss?” he asks.
+
+Link: https://www.the74million.org/article/the-border-is-breaking-my-students-hearts-it-broke-mine-too/
+
+### 5. Google and Epic give up fighting — third-party Android app stores are coming next week [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -51,25 +78,7 @@ Epic Games and Google have just jointly withdrawn their attempt to retroactively
 
 Link: https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play
 
-### 3. A moment that changed me: I started yoga – and saw my scoliosis in a surprising new light [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-As a teenager I declined a painful operation to straighten my spinal curvature, and it was a decision I sometimes regretted.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/jul/15/a-moment-that-changed-me-i-started-yoga-and-saw-my-scoliosis-in-a-surprising-new-light
-
-### 4. OpenAI may announce a ChatGPT smart speaker this year [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device
-
-### 5. Is the Best Game of the Year a Failure? (With Rob Zacny) [10/10]
+### 6. Is the Best Game of the Year a Failure? (With Rob Zacny) [10/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -78,25 +87,34 @@ Remap Radio’s Rob Zacny and Emanuel dive deep into their current favorite game
 
 Link: https://www.404media.co/is-the-best-game-of-the-year-a-failure-with-rob-zacny/
 
-### 6. Trump tells Iran that power plants, bridges will be targeted if no deal is made – Middle East crisis live [9/10]
+### 7. US launches ‘wave of strikes’ on Iran after Trump tells Iran that power plants, bridges will be targeted if no deal is made – Middle East crisis live [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-US strikes Iran for fourth consecutive day as Iran deputy foreign minister says interim deal all but ‘dismantled’ Trump again threatens to strike Iran’s power plants amid impasse over strait of Hormuz For a second day in row, US strikes…
+US strikes Iran for fourth consecutive day as Iran deputy foreign minister says interim deal all but ‘dismantled’ Trump again threatens to strike Iran’s power plants amid impasse over strait of Hormuz For a second day in a row, US strikes…
 
 Link: https://www.theguardian.com/world/live/2026/jul/15/us-iran-war-live-updates-strikes-trump-power-plants-bridges-middle-east-crisis-latest-news
 
-### 7. Battlefield 6 is bringing back a feature we've not seen since Battlefield 2, and teasing a fitting Top Gun collab alongside it [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 8. American AI is expensive. Some startups are turning to cheap Chinese models [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Battlefield Studios has released our first look at Season 4 in Battlefield 6 . This new trailer arrives a week ahead of Season 4's launch on 21st July, and shows plenty to be excited about. Read more
+AI is a fast-growing business expense. Some companies are cutting costs by switching to cheaper Chinese AI models.
 
-Link: https://www.eurogamer.net/battlefield-6-season-4-reveal-trailer-new-jets-top-gun-tease
+Link: https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models
 
-### 8. Short Thousands of Bilingual Teachers, California Schools Turn to High School Students [9/10]
+### 9. Lawsuit claims Meta's layoff decisions were made by AI, not humans [9/10]
+**Source:** Ars Technica  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Meta denies using AI to terminate workers with disabilities and medical problems.
+
+Link: https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/
+
+### 10. Short Thousands of Bilingual Teachers, California Schools Turn to High School Students [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -105,32 +123,14 @@ California’s audacious goal of having half of all K-12 students enrolled in bi
 
 Link: https://www.the74million.org/article/short-thousands-of-bilingual-teachers-california-schools-turn-to-high-school-students/
 
-### 9. Opinion: Illinois District Shows What Can be Done about PTA Fundraising Inequities [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Too often, parents take for granted that their children’s school experience is fundamentally the same as what’s happening in all the district’s schools. It turns out that is often far from reality.
-
-Link: https://www.the74million.org/article/illinois-district-shows-what-can-be-done-about-pta-fundraising-inequities/
-
-### 10. 'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI [9/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-AI is moving beyond chatbots and into toys, dolls, and robots built to befriend children. A leading child-development expert says the technology offers real promise — but also risks crowding out the human relationships children need most.
-
-Link: https://www.npr.org/sections/planet-money/2026/07/14/g-s1-133066/the-trojan-teddy-bear-the-promise-and-peril-of-childhood-in-the-age-of-ai
-
-### 11. Wheelchair users say lack of competition in repair market leads to long wait times [8/10]
+### 11. How to keep cool in this year's extreme summer heat even without air conditioning [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-People who use wheelchairs say simple repairs can take months to complete and replacement parts can be very expensive. In part, they blame two private equity firms that control most of the market.
+"Extreme heat" is in the forecast this summer. How do people cope if they don't have air conditioning? Here are suggestions from a heat researcher who grew up in a very hot, AC-less place.
 
-Link: https://www.npr.org/2026/07/15/nx-s1-5893492/wheelchair-users-say-lack-of-competition-in-repair-market-leads-to-long-wait-times
+Link: https://www.npr.org/2026/07/15/g-s1-133383/extreme-summer-heat-air-conditioning
 
 ### 12. "They would feel a kind of sadness, right?": Slay the Spire 2 dev on using slightly rubbish placeholder art over AI [8/10]
 **Source:** Rock Paper Shotgun  
@@ -161,6 +161,15 @@ Link: https://reactormag.com/christopher-nolan-the-odyssey-fantasy-gap/
 
 Link: https://www.youtube.com/watch?v=Ae9q7KsRbuI
 
+### How Trees Communicate [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Forest conservation scientist Dominick DellaSala joins WIRED to answer the internet’s burning questions about trees.
+
+Link: https://www.youtube.com/watch?v=cfhPGb4syvg
+
 ### Forest Ecologist Answers Tree Questions | Tech Support | WIRED [7/10]
 **Creator:** WIRED  
 **Verdict:** Probably worth watching  
@@ -170,18 +179,18 @@ Forest conservation scientist Dominick DellaSala joins WIRED to answer the inter
 
 Link: https://www.youtube.com/watch?v=fLIZslgfIdQ
 
-### Trump slashes the size of two national monuments by 90% [8/10]
+### Trump slashes the size of two national monuments by 90% [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 President Trump has once again slashed the size of two national monuments in Utah. The sites feature ancient cliff dwellings and scenic canyons, as well as coal and uranium deposits.
 
 Link: https://www.youtube.com/watch?v=_KHPJRXxkYs
 
-### Some who lost jobs over Charlie Kirk posts get big payouts for First Amendment retaliation [7/10]
+### Some who lost jobs over Charlie Kirk posts get big payouts for First Amendment retaliation [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 Some people lost their jobs over posts about Charlie Kirk. Now, they’re getting big payouts for their First Amendment rights.
@@ -233,15 +242,6 @@ Don Cheadle shares some advice with Ayesha Rascoe, the host of NPR's Weekend Edi
 
 Link: https://www.youtube.com/watch?v=_67kp62Nw2k
 
-### Humanoid robot scales parts of Ecuador's tallest peak [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-In Ecuador, a humanoid robot took part in a mission to climb the country’s tallest peak — a step toward robot-conducted research in harsh mountain conditions.
-
-Link: https://www.youtube.com/watch?v=9DzRcwrNAUM
-
 ### Call of Duty Black Ops on PS5: The 1080p "It's Just There" Edition [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
@@ -287,23 +287,23 @@ Link: https://www.youtube.com/watch?v=4ap5mzPKdEc
 
 Link: https://www.youtube.com/watch?v=Ha05A-k2Sow
 
-### Polyarmory Is a Game About Dating Guns | Hot Monday Energy [8/10]
+### Nick & Jenna Play the Sands of Time Trilogy for the First Time | Part 4 [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.
-
-Link: https://www.youtube.com/watch?v=UGi-IxgiOgs
-
-### Nick & Jenna Play the Sands of Time Trilogy for the First Time | Part 4 [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 The community funded Nick playing the Sands of Time trilogy on stream for the first time. Join Nick and Jenna as they start the series today! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.
 
 Link: https://www.youtube.com/watch?v=us8nLJt9rXw
+
+### Polyarmory Is a Game About Dating Guns | Hot Monday Energy [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=UGi-IxgiOgs
 
 ### The Radical Subjectivity of Christopher Nolan | The Backdrop [6/10]
 **Creator:** Second Wind  
@@ -451,6 +451,15 @@ With dreams of starting a perfect family, Saga and her British husband Jon move 
 
 Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
 
+### My Life With the Walter Boys: Season 3 | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+After a love triangle bombshell and family crisis rock The Walters, Jackie must navigate messy relationships and new personal ambitions in Silver Falls. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=_nneiDtbdbk
+
 ### The Ultimatum: Marry or Move On: Season 4 | Sneak Peek | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -496,15 +505,6 @@ A camper van, a campsite, and a bachelorette party. Marín, Coco, Blanca, Gus, A
 
 Link: https://www.youtube.com/watch?v=jegXAXFegho
 
-### Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo invite you to The East Palace #Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-I can feel my spirits rising because an exciting new show is coming 😱 Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo are here to invite you to The East Palace, coming this July 17. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=x5fXTHnj-hc
-
 ### Widow's Bay — Patricia: No Notes | Apple TV [10/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
@@ -514,7 +514,7 @@ Kate O'Flynn stars as Patricia in Widow's Bay - the ultimate final girl, and hos
 
 Link: https://www.youtube.com/watch?v=IW20mgWlXSE
 
-### Mayday — Official Trailer | Apple TV [10/10]
+### Mayday — Official Trailer | Apple TV [9/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.

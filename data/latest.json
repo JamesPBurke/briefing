@@ -1,19 +1,49 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-15T09:00:40.255606Z",
-  "generatedAtDisplay": "2026-07-15 05:00 AM EDT",
+  "generatedAt": "2026-07-15T14:00:04.616238Z",
+  "generatedAtDisplay": "2026-07-15 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Maryland police arrest alleged bank robber wielding stolen cat: ‘Tried to use her as an accessory’, Google and Epic give up fighting — third-party Android app stores are coming next week, and A moment that changed me: I started yoga – and saw my scoliosis in a surprising new light.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Senate expected to grill Todd Blanche over Epstein files and cases against Trump’s political rivals in confirmation hearing – live, Muslim man stabbed multiple times in Utah over his religion, police say, and The rumoured Resident Evil 1 Remake reportedly entered pre-production last year.",
   "mainItems": [
     {
-      "title": "Maryland police arrest alleged bank robber wielding stolen cat: ‘Tried to use her as an accessory’",
+      "title": "Senate expected to grill Todd Blanche over Epstein files and cases against Trump’s political rivals in confirmation hearing – live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/maryland-bank-thief-cat",
-      "published": "2026-07-15T08:00:49+00:00",
-      "summary": "Police say suspect stole three-and-a-half-month-old tuxedo kitten Magnolia before attempting to rob a PNC bank In this day and age, law enforcement agencies worldwide are accustomed to dealing with cat burglars – but now a Maryland police…",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/15/todd-blanche-attorney-general-senate-donald-trump-ice-darline-graham-lindsey-graham-us-politics-live-news",
+      "published": "2026-07-15T13:55:55+00:00",
+      "summary": "Trump’s nominee for attorney general – also his former personal defense lawyer – faces questions from senators as he attempts to take the top justice department role Sign up for the Breaking News US email During his opening remarks, Durbin…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Muslim man stabbed multiple times in Utah over his religion, police say",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/muslim-man-stabbed-utah",
+      "published": "2026-07-15T12:08:52+00:00",
+      "summary": "Arrested suspect tells police he ‘intends to kill Muslims’ after alleged attack on kiosk worker at West Valley City mill A man was arrested in Utah for stabbing a Muslim ⁠man multiple times and ⁠stated that he targeted ​the victim because…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The rumoured Resident Evil 1 Remake reportedly entered pre-production last year",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/resident-evil-1-remake-pre-production-rumour",
+      "published": "2026-07-15T11:15:46+00:00",
+      "summary": "The rumoured Resident Evil 1 Remake is back in the news again, thanks to new information from a longtime insider.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: The Border Is Breaking My Students’ Hearts. It Broke Mine, Too",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/the-border-is-breaking-my-students-hearts-it-broke-mine-too/",
+      "published": "2026-07-15T10:30:00+00:00",
+      "summary": "I run into a former student of mine, outside of school. “How are you, miss?” he asks.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
@@ -21,29 +51,9 @@
       "source": "The Verge",
       "category": "AI / computing",
       "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
-      "published": "2026-07-15T06:41:33+00:00",
+      "published": "2026-07-15T09:18:50+00:00",
       "summary": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival app stores inside of…",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "A moment that changed me: I started yoga – and saw my scoliosis in a surprising new light",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/15/a-moment-that-changed-me-i-started-yoga-and-saw-my-scoliosis-in-a-surprising-new-light",
-      "published": "2026-07-15T05:45:46+00:00",
-      "summary": "As a teenager I declined a painful operation to straighten my spinal curvature, and it was a decision I sometimes regretted.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "OpenAI may announce a ChatGPT smart speaker this year",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-      "published": "2026-07-14T21:26:32+00:00",
-      "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
@@ -57,23 +67,33 @@
       "score": 10
     },
     {
-      "title": "Trump tells Iran that power plants, bridges will be targeted if no deal is made – Middle East crisis live",
+      "title": "US launches ‘wave of strikes’ on Iran after Trump tells Iran that power plants, bridges will be targeted if no deal is made – Middle East crisis live",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
       "url": "https://www.theguardian.com/world/live/2026/jul/15/us-iran-war-live-updates-strikes-trump-power-plants-bridges-middle-east-crisis-latest-news",
-      "published": "2026-07-15T08:36:46+00:00",
-      "summary": "US strikes Iran for fourth consecutive day as Iran deputy foreign minister says interim deal all but ‘dismantled’ Trump again threatens to strike Iran’s power plants amid impasse over strait of Hormuz For a second day in row, US strikes…",
+      "published": "2026-07-15T13:41:35+00:00",
+      "summary": "US strikes Iran for fourth consecutive day as Iran deputy foreign minister says interim deal all but ‘dismantled’ Trump again threatens to strike Iran’s power plants amid impasse over strait of Hormuz For a second day in a row, US strikes…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Battlefield 6 is bringing back a feature we've not seen since Battlefield 2, and teasing a fitting Top Gun collab alongside it",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/battlefield-6-season-4-reveal-trailer-new-jets-top-gun-tease",
-      "published": "2026-07-15T08:33:39+00:00",
-      "summary": "Battlefield Studios has released our first look at Season 4 in Battlefield 6 . This new trailer arrives a week ahead of Season 4's launch on 21st July, and shows plenty to be excited about. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "American AI is expensive. Some startups are turning to cheap Chinese models",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models",
+      "published": "2026-07-15T09:00:00+00:00",
+      "summary": "AI is a fast-growing business expense. Some companies are cutting costs by switching to cheaper Chinese AI models.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 9
+    },
+    {
+      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+      "source": "Ars Technica",
+      "category": "AI / privacy",
+      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+      "published": "2026-07-14T20:05:53+00:00",
+      "summary": "Meta denies using AI to terminate workers with disabilities and medical problems.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
     },
     {
@@ -87,32 +107,12 @@
       "score": 9
     },
     {
-      "title": "Opinion: Illinois District Shows What Can be Done about PTA Fundraising Inequities",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/illinois-district-shows-what-can-be-done-about-pta-fundraising-inequities/",
-      "published": "2026-07-14T17:30:00+00:00",
-      "summary": "Too often, parents take for granted that their children’s school experience is fundamentally the same as what’s happening in all the district’s schools. It turns out that is often far from reality.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/sections/planet-money/2026/07/14/g-s1-133066/the-trojan-teddy-bear-the-promise-and-peril-of-childhood-in-the-age-of-ai",
-      "published": "2026-07-14T10:30:00+00:00",
-      "summary": "AI is moving beyond chatbots and into toys, dolls, and robots built to befriend children. A leading child-development expert says the technology offers real promise — but also risks crowding out the human relationships children need most.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
-    },
-    {
-      "title": "Wheelchair users say lack of competition in repair market leads to long wait times",
+      "title": "How to keep cool in this year's extreme summer heat even without air conditioning",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5893492/wheelchair-users-say-lack-of-competition-in-repair-market-leads-to-long-wait-times",
-      "published": "2026-07-15T08:49:42+00:00",
-      "summary": "People who use wheelchairs say simple repairs can take months to complete and replacement parts can be very expensive. In part, they blame two private equity firms that control most of the market.",
+      "url": "https://www.npr.org/2026/07/15/g-s1-133383/extreme-summer-heat-air-conditioning",
+      "published": "2026-07-15T11:19:28+00:00",
+      "summary": "\"Extreme heat\" is in the forecast this summer. How do people cope if they don't have air conditioning? Here are suggestions from a heat researcher who grew up in a very hot, AC-less place.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -150,6 +150,17 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "How Trees Communicate",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=cfhPGb4syvg",
+      "published": "2026-07-15T13:30:02+00:00",
+      "summary": "Forest conservation scientist Dominick DellaSala joins WIRED to answer the internet’s burning questions about trees.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "Forest Ecologist Answers Tree Questions | Tech Support | WIRED",
       "source": "WIRED",
       "category": "Tech / media",
@@ -168,8 +179,8 @@
       "published": "2026-07-14T22:00:30+00:00",
       "summary": "President Trump has once again slashed the size of two national monuments in Utah. The sites feature ancient cliff dwellings and scenic canyons, as well as coal and uranium deposits.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Some who lost jobs over Charlie Kirk posts get big payouts for First Amendment retaliation",
@@ -179,8 +190,8 @@
       "published": "2026-07-14T22:00:08+00:00",
       "summary": "Some people lost their jobs over posts about Charlie Kirk. Now, they’re getting big payouts for their First Amendment rights.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Officials investigating second fatal ICE shooting in a week",
@@ -233,17 +244,6 @@
       "url": "https://www.youtube.com/watch?v=_67kp62Nw2k",
       "published": "2026-07-13T15:30:10+00:00",
       "summary": "Don Cheadle shares some advice with Ayesha Rascoe, the host of NPR's Weekend Edition Sunday, on how to avoid scandal in Hollywood and, more broadly, any workplace.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Humanoid robot scales parts of Ecuador's tallest peak",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=9DzRcwrNAUM",
-      "published": "2026-07-12T17:00:06+00:00",
-      "summary": "In Ecuador, a humanoid robot took part in a mission to climb the country’s tallest peak — a step toward robot-conducted research in harsh mountain conditions.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -304,6 +304,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Nick & Jenna Play the Sands of Time Trilogy for the First Time | Part 4",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=us8nLJt9rXw",
+      "published": "2026-07-15T11:16:00+00:00",
+      "summary": "The community funded Nick playing the Sands of Time trilogy on stream for the first time. Join Nick and Jenna as they start the series today! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Polyarmory Is a Game About Dating Guns | Hot Monday Energy",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -311,19 +322,8 @@
       "published": "2026-07-15T00:23:10+00:00",
       "summary": "This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Nick & Jenna Play the Sands of Time Trilogy for the First Time | Part 4",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=us8nLJt9rXw",
-      "published": "2026-07-14T16:45:33+00:00",
-      "summary": "The community funded Nick playing the Sands of Time trilogy on stream for the first time. Join Nick and Jenna as they start the series today! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "The Radical Subjectivity of Christopher Nolan | The Backdrop",
@@ -471,6 +471,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "My Life With the Walter Boys: Season 3 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=_nneiDtbdbk",
+      "published": "2026-07-15T13:00:01+00:00",
+      "summary": "After a love triangle bombshell and family crisis rock The Walters, Jackie must navigate messy relationships and new personal ambitions in Silver Falls. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "The Ultimatum: Marry or Move On: Season 4 | Sneak Peek | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -526,17 +537,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo invite you to The East Palace #Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=x5fXTHnj-hc",
-      "published": "2026-07-10T12:00:15+00:00",
-      "summary": "I can feel my spirits rising because an exciting new show is coming 😱 Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo are here to invite you to The East Palace, coming this July 17. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "Widow's Bay — Patricia: No Notes | Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
@@ -555,7 +555,7 @@
       "published": "2026-07-14T12:59:55+00:00",
       "summary": "Ryan Reynolds and Kenneth Branagh star in Mayday, an action comedy about a downed pilot and ex-KGB agent, premiering on Apple TV September 4, 2026. http://apple.co/_Mayday Song: “America” by Neil Diamond https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     }
   ],
@@ -672,6 +672,6 @@
     "mainCount": 13,
     "youtubeCount": 21,
     "trailerCount": 17,
-    "sourceCount": 21
+    "sourceCount": 22
   }
 }
