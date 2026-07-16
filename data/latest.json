@@ -1,11 +1,71 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-16T14:00:02.937594Z",
-  "generatedAtDisplay": "2026-07-16 10:00 AM EDT",
+  "generatedAt": "2026-07-16T18:00:21.547172Z",
+  "generatedAtDisplay": "2026-07-16 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are ‘No company is going to go to jail for you’: Proton’s CTO on balancing privacy, policy, and trust, Iran accuses US of ‘barbaric’ strike near hospital as Kuwait says it is under attack – Middle East crisis live, and Ninja’s microwave air fryer could be the fix for soggy reheated pizza.",
+  "summary": "Today's sweep leans toward Games / criticism, Democracy / press freedom, AI / computing. The strongest items in this run are Marathon's experimental PvE roguelite mode is, bafflingly, only around for two weeks when it drops next week, Leavitt defends Trump’s fixation on lost 2020 election ahead of president’s primetime address – live, and Google is better at playing the AI regulations game.",
   "mainItems": [
+    {
+      "title": "Marathon's experimental PvE roguelite mode is, bafflingly, only around for two weeks when it drops next week",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/marathons-experimental-pve-roguelite-mode-is-bafflingly-only-around-for-two-weeks-when-it-drops-next-week",
+      "published": "2026-07-16T17:58:21+00:00",
+      "summary": "Marathon 's already announced mid-season 2 update is set to arrive next week, bringing with it the shooter's first proper, albeit experimental, PvE mode, Vault Breaker.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Leavitt defends Trump’s fixation on lost 2020 election ahead of president’s primetime address – live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/16/donald-trump-darline-graham-bukele-blanche-iran-ice-2020-election-speech-latest-news-updates",
+      "published": "2026-07-16T17:41:41+00:00",
+      "summary": "White House press secretary returns to briefing room to defend president amid reporting that his 9pm address will be about US elections Sign up for the Breaking News US email The average price of diesel fuel in the US has increased again…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Google is better at playing the AI regulations game",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
+      "published": "2026-07-16T17:41:02+00:00",
+      "summary": "Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Roblox will let people use AI to make games on their phone",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
+      "published": "2026-07-16T17:26:35+00:00",
+      "summary": "Roblox is about to let people make games with AI right inside its mobile app, which could make a platform that's already filled with content of questionable quality feel even more overloaded.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Report: Education Department Scaled Back Special Education Monitoring",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/report-education-department-scaled-back-special-education-monitoring/",
+      "published": "2026-07-16T16:30:00+00:00",
+      "summary": "Federal teams charged with making sure states are doing right by students with disabilities appear to have visited fewer than half of the states originally scheduled for review in 2025 and 2026. That information comes from U.S.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Roblox announce plans to let people AI generate basic games using text prompts stuck into a mobile app, but claim that won't fill their homepage with AI slop",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/roblox-announce-plans-to-let-people-ai-generate-basic-games-using-text-prompts-stuck-into-a-mobile-app-but-claim-that-wont-fill-their-homepage-with-ai-slop",
+      "published": "2026-07-16T15:32:31+00:00",
+      "summary": "\"Play is humanity's oldest technology for connection and learning,\" Roblox 's CEO yells at me through my monitor. \"Before agriculture, before commerce, before civilization, we played together.\" Right, so, where's this going? Oh.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
     {
       "title": "‘No company is going to go to jail for you’: Proton’s CTO on balancing privacy, policy, and trust",
       "source": "The Verge",
@@ -17,27 +77,7 @@
       "score": 10
     },
     {
-      "title": "Iran accuses US of ‘barbaric’ strike near hospital as Kuwait says it is under attack – Middle East crisis live",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates",
-      "published": "2026-07-16T13:32:41+00:00",
-      "summary": "Foreign ministry spokesman says children’s cancer hospital had to be evacuated in Ahvaz; Kuwait says it responding to renewed Iranian drone attacks US attacks oil tanker in strait of Hormuz as strikes reported in Tehran The Lebanese…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Ninja’s microwave air fryer could be the fix for soggy reheated pizza",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/966175/ninja-crispi-microwave-air-fryer-kitchen-appliance",
-      "published": "2026-07-16T13:04:34+00:00",
-      "summary": "Ninja has added everything from ice cream makers to double-decker toaster ovens to its extensive lineup of counter-clogging appliances, but it's only now introducing its first microwave.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Opinion: A Step-by-Step Guide on AI in Schools — How Much to Use and When",
+      "title": "Opinion: A Step-by-Step Guide to AI in Schools — How Much to Use and When",
       "source": "The 74",
       "category": "CS education / AI policy",
       "url": "https://www.the74million.org/article/a-step-by-step-guide-to-how-much-ai-to-use-in-schools-and-when/",
@@ -47,54 +87,24 @@
       "score": 10
     },
     {
-      "title": "Claude can now use your 1Password credentials for you",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-      "published": "2026-07-16T12:20:32+00:00",
-      "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-      "published": "2026-07-16T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "D&D players raise millions in real-life campaign against ‘corporate elite’",
+      "title": "‘A masterpiece in every way’: The Odyssey earns near universal acclaim as full reviews published",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/dungeons-dragons-tabletop-games-politics",
-      "published": "2026-07-16T11:00:36+00:00",
-      "summary": "Brennan Lee Mulligan’s Dungeons and Dragons push is part of a wider trend using tabletop games for political action Just before their election day, six Los Angeles city council candidates stood on stage at Hollywood’s Fonda Theatre.",
+      "url": "https://www.theguardian.com/film/2026/jul/16/the-odyssey-earns-near-universal-acclaim-as-full-reviews-published",
+      "published": "2026-07-16T17:16:03+00:00",
+      "summary": "Christopher Nolan’s epic was given five stars by the Guardian, Independent and Telegraph, while the New York Times called it a ‘monumental adaptation’ Christopher Nolan’s $250m Imax blockbuster version of Homer’s epic poem the Odyssey…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "Here are our PS Plus Premium and Extra games for July",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/playstation-plus-games-july",
-      "published": "2026-07-16T10:57:47+00:00",
-      "summary": "We're in the midst of a scorching summer.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Exclusive: Study Finds Boston Charters Fell Off in 2010s, Recovered During COVID",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/exclusive-study-finds-boston-charters-fell-off-in-2010s-recovered-during-covid/",
-      "published": "2026-07-16T10:30:00+00:00",
-      "summary": "Charter schools in Massachusetts have significantly accelerated student learning over the last quarter century, a newly released study shows.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "title": "Avatar Aang: The Last Airbender Heads to Select Theaters as Tickets Go on Sale",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/avatar-aang-the-last-airbender-theatrical-release-tickets/",
+      "published": "2026-07-16T16:01:33+00:00",
+      "summary": "Sorry to everyone who's not in NYC or LA The post Avatar Aang: The Last Airbender Heads to Select Theaters as Tickets Go on Sale appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     },
     {
       "title": "TrumpRx promised a supermarket for cheaper drugs but delivered a boutique",
@@ -107,37 +117,38 @@
       "score": 8
     },
     {
-      "title": "Westworld: It’s All Fun and Games Until the Robots Start Shooting",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/westworld-its-all-fun-and-games-until-the-robots-start-shooting/",
-      "published": "2026-07-15T15:00:00+00:00",
-      "summary": "Saddle up for a deep dive into the making of an iconic sci fi Western and its intriguing cinematic legacy... The post Westworld : It’s All Fun and Games Until the Robots Start Shooting appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
-      "title": "Podcast: We Are Living in a ‘ChatGPT Flyer Pandemic’",
+      "title": "Scientists Discover Planet Has Everything to Host ‘Earth-Like Life’ In Breakthrough",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/podcast-we-are-living-in-a-chatgpt-flyer-pandemic/",
-      "published": "2026-07-15T15:58:34+00:00",
-      "summary": "ChatGPT flyers are everywhere; how Waymo drove some kids to the cops; and a $3,000 suit that electrocutes your muscles.",
+      "url": "https://www.404media.co/scientists-discover-planet-has-everything-to-host-earth-like-life-in-breakthrough/",
+      "published": "2026-07-16T18:00:10+00:00",
+      "summary": "For the first time, scientists found that a rocky planet in the habitable zone of its star has an atmosphere. It’s the best place to look for alien biosignatures, scientists say.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     },
     {
-      "title": "Opinion: The Mismatch Between Childcare Policy and Parental Preferences",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/zero2eight/the-mismatch-between-childcare-policy-and-parental-preferences/",
-      "published": "2026-07-15T16:30:00+00:00",
-      "summary": "Family preferences on childcare arrangements vary, sometimes wildly, but many parents consistently report a desire to be able to care for their young children themselves and for trusted family, friends and neighbors to be able to do so.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 6
+      "title": "Officials probe whether White House teleprompter operator profited off Trump's words",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet",
+      "published": "2026-07-16T17:10:29+00:00",
+      "summary": "It's the first known instance of officials investigating suspected insider trading on a prediction market from inside the White House.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 7
     }
   ],
   "youtube": [
+    {
+      "title": "The Dangerous Illusion of AI Coding Skills",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
+      "published": "2026-07-16T15:39:17+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://www.anthropic.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
     {
       "title": "Anthropic Found Something That Shouldn't Exist",
       "source": "Two Minute Papers",
@@ -148,6 +159,28 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "GPS Hidden Messages - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=2Q6OvYjOJi0",
+      "published": "2026-07-16T14:32:23+00:00",
+      "summary": "Something odd was going on with the signals broadcast by the GPS satellites. Steven Murdoch of University College London explains how he used statistical analysis to work out what might be going on.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "‘The Odyssey’ Cast Answer The 50 Most Searched Questions",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=GkM5zdUHcaQ",
+      "published": "2026-07-16T16:00:07+00:00",
+      "summary": "WIRED tasks Matt Damon (Odysseus), Anne Hathaway (Penelope), Tom Holland (Telemachus) and Robert Pattinson (Antinous) to answer the 50 most searched questions about _The Odyssey.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "How Trees Communicate",
@@ -170,6 +203,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Hegseth announces plans to test soldiers for low testosterone",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=VICfY9WJRrE",
+      "published": "2026-07-16T16:45:30+00:00",
+      "summary": "Defense Secretary Pete Hegseth has announced plans to screen service members 30 and older for low testosterone.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "A promising tale from Senegal of fish, rice....and dangerous worms",
@@ -238,15 +282,26 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Some who lost jobs over Charlie Kirk posts get big payouts for First Amendment retaliation",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=H7-i5-MleHo",
-      "published": "2026-07-14T22:00:08+00:00",
-      "summary": "Some people lost their jobs over posts about Charlie Kirk. Now, they’re getting big payouts for their First Amendment rights.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "Assassin's Creed Black Flag Resynced - The PS5 Pro Difference",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=O22z4HOqEig",
+      "published": "2026-07-16T17:00:04+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Doom The Dark Ages Revelations DLC Is Superb + PS5 Pro PSSR2 Upgrade Tested",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=xraWH6QEtuM",
+      "published": "2026-07-16T16:00:31+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "PS5 \"Don't Kill The Disc\" Petition Crosses 250,000 Signatures",
@@ -267,8 +322,8 @@
       "published": "2026-07-15T17:00:12+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Call of Duty Black Ops on PS5: The 1080p \"It's Just There\" Edition",
@@ -293,15 +348,26 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "Should Next-Gen Consoles Be Delayed Or Even Cancelled?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=21nj1OVvqG4",
-      "published": "2026-07-13T16:00:27+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/DeUV3IqEZRU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "Fallout 3 Smooch a Super Mutant Speedrun w/ Jack, Jess, and Marty -- Part 6",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=YfNIRl-ORoQ",
+      "published": "2026-07-16T14:51:27+00:00",
+      "summary": "After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "The Modern Bum Camera Problem | Semi-Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=4VNYMGHS2mU",
+      "published": "2026-07-16T15:00:34+00:00",
+      "summary": "This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "Denshattack! Is a Wonderful Weeb Fever Dream w/ KC and Marty",
@@ -333,8 +399,8 @@
       "published": "2026-07-15T16:00:03+00:00",
       "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Nick & Jenna Play the Sands of Time Trilogy for the First Time | Part 4",
@@ -357,39 +423,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "The Radical Subjectivity of Christopher Nolan | The Backdrop",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=zvu-Fzl9m5E",
-      "published": "2026-07-14T14:59:00+00:00",
-      "summary": "In his latest video essay, Darren Mooney goes long on Christopher Nolan and how the director of The Odyssey uses practical filmmaking to capture an unreal world.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Celebrating Spooky Witch Summer in Reka | Hot Monday Energy",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=Af8qXKBAKSQ",
-      "published": "2026-07-14T01:26:44+00:00",
-      "summary": "This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "2D vs 3D | Windbreaker Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=73NTNQyJI1w",
-      "published": "2026-07-13T18:54:54+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
     }
   ],
   "trailers": [
@@ -758,8 +791,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 23,
+    "youtubeCount": 26,
     "trailerCount": 23,
-    "sourceCount": 20
+    "sourceCount": 21
   }
 }

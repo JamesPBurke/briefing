@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-16T14:00:02.937594Z
+Generated: 2026-07-16T18:00:21.547172Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are ‘No company is going to go to jail for you’: Proton’s CTO on balancing privacy, policy, and trust, Iran accuses US of ‘barbaric’ strike near hospital as Kuwait says it is under attack – Middle East crisis live, and Ninja’s microwave air fryer could be the fix for soggy reheated pizza.
+Today's sweep leans toward Games / criticism, Democracy / press freedom, AI / computing. The strongest items in this run are Marathon's experimental PvE roguelite mode is, bafflingly, only around for two weeks when it drops next week, Leavitt defends Trump’s fixation on lost 2020 election ahead of president’s primetime address – live, and Google is better at playing the AI regulations game.
 
 ## Briefing
 
@@ -33,7 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘No company is going to go to jail for you’: Proton’s CTO on balancing privacy, policy, and trust [10/10]
+### 1. Marathon's experimental PvE roguelite mode is, bafflingly, only around for two weeks when it drops next week [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Marathon 's already announced mid-season 2 update is set to arrive next week, bringing with it the shooter's first proper, albeit experimental, PvE mode, Vault Breaker.
+
+Link: https://www.rockpapershotgun.com/marathons-experimental-pve-roguelite-mode-is-bafflingly-only-around-for-two-weeks-when-it-drops-next-week
+
+### 2. Leavitt defends Trump’s fixation on lost 2020 election ahead of president’s primetime address – live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+White House press secretary returns to briefing room to defend president amid reporting that his 9pm address will be about US elections Sign up for the Breaking News US email The average price of diesel fuel in the US has increased again…
+
+Link: https://www.theguardian.com/us-news/live/2026/jul/16/donald-trump-darline-graham-bukele-blanche-iran-ice-2020-election-speech-latest-news-updates
+
+### 3. Google is better at playing the AI regulations game [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising.
+
+Link: https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai
+
+### 4. Roblox will let people use AI to make games on their phone [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Roblox is about to let people make games with AI right inside its mobile app, which could make a platform that's already filled with content of questionable quality feel even more overloaded.
+
+Link: https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games
+
+### 5. Report: Education Department Scaled Back Special Education Monitoring [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Federal teams charged with making sure states are doing right by students with disabilities appear to have visited fewer than half of the states originally scheduled for review in 2025 and 2026. That information comes from U.S.
+
+Link: https://www.the74million.org/article/report-education-department-scaled-back-special-education-monitoring/
+
+### 6. Roblox announce plans to let people AI generate basic games using text prompts stuck into a mobile app, but claim that won't fill their homepage with AI slop [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+"Play is humanity's oldest technology for connection and learning," Roblox 's CEO yells at me through my monitor. "Before agriculture, before commerce, before civilization, we played together." Right, so, where's this going? Oh.
+
+Link: https://www.rockpapershotgun.com/roblox-announce-plans-to-let-people-ai-generate-basic-games-using-text-prompts-stuck-into-a-mobile-app-but-claim-that-wont-fill-their-homepage-with-ai-slop
+
+### 7. ‘No company is going to go to jail for you’: Proton’s CTO on balancing privacy, policy, and trust [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -42,25 +96,7 @@ Today on Decoder, we’ve got the first of a two-part series on the systems that
 
 Link: https://www.theverge.com/podcast/966074/proton-cto-bart-butler-privacy-encryption-surveillance-age-verification
 
-### 2. Iran accuses US of ‘barbaric’ strike near hospital as Kuwait says it is under attack – Middle East crisis live [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Foreign ministry spokesman says children’s cancer hospital had to be evacuated in Ahvaz; Kuwait says it responding to renewed Iranian drone attacks US attacks oil tanker in strait of Hormuz as strikes reported in Tehran The Lebanese…
-
-Link: https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates
-
-### 3. Ninja’s microwave air fryer could be the fix for soggy reheated pizza [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Ninja has added everything from ice cream makers to double-decker toaster ovens to its extensive lineup of counter-clogging appliances, but it's only now introducing its first microwave.
-
-Link: https://www.theverge.com/tech/966175/ninja-crispi-microwave-air-fryer-kitchen-appliance
-
-### 4. Opinion: A Step-by-Step Guide on AI in Schools — How Much to Use and When [10/10]
+### 8. Opinion: A Step-by-Step Guide to AI in Schools — How Much to Use and When [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -69,52 +105,25 @@ Every few years, a new technology enters schools. Television beamed lessons from
 
 Link: https://www.the74million.org/article/a-step-by-step-guide-to-how-much-ai-to-use-in-schools-and-when/
 
-### 5. Claude can now use your 1Password credentials for you [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords.
-
-Link: https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration
-
-### 6. The Download: OpenAI unveils GPT-Red and heat pumps rise in the US [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
-
-Link: https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/
-
-### 7. D&D players raise millions in real-life campaign against ‘corporate elite’ [10/10]
+### 9. ‘A masterpiece in every way’: The Odyssey earns near universal acclaim as full reviews published [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Brennan Lee Mulligan’s Dungeons and Dragons push is part of a wider trend using tabletop games for political action Just before their election day, six Los Angeles city council candidates stood on stage at Hollywood’s Fonda Theatre.
+Christopher Nolan’s epic was given five stars by the Guardian, Independent and Telegraph, while the New York Times called it a ‘monumental adaptation’ Christopher Nolan’s $250m Imax blockbuster version of Homer’s epic poem the Odyssey…
 
-Link: https://www.theguardian.com/us-news/2026/jul/16/dungeons-dragons-tabletop-games-politics
+Link: https://www.theguardian.com/film/2026/jul/16/the-odyssey-earns-near-universal-acclaim-as-full-reviews-published
 
-### 8. Here are our PS Plus Premium and Extra games for July [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 10. Avatar Aang: The Last Airbender Heads to Select Theaters as Tickets Go on Sale [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-We're in the midst of a scorching summer.
+Sorry to everyone who's not in NYC or LA The post Avatar Aang: The Last Airbender Heads to Select Theaters as Tickets Go on Sale appeared first on Reactor .
 
-Link: https://www.eurogamer.net/playstation-plus-games-july
+Link: https://reactormag.com/avatar-aang-the-last-airbender-theatrical-release-tickets/
 
-### 9. Exclusive: Study Finds Boston Charters Fell Off in 2010s, Recovered During COVID [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Charter schools in Massachusetts have significantly accelerated student learning over the last quarter century, a newly released study shows.
-
-Link: https://www.the74million.org/article/exclusive-study-finds-boston-charters-fell-off-in-2010s-recovered-during-covid/
-
-### 10. TrumpRx promised a supermarket for cheaper drugs but delivered a boutique [8/10]
+### 11. TrumpRx promised a supermarket for cheaper drugs but delivered a boutique [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -123,34 +132,34 @@ President Trump said TrumpRx is the biggest thing to happen in healthcare in dec
 
 Link: https://www.npr.org/2026/07/16/nx-s1-5894947/trump-rx-medicine-drugs-health-care-pfizer-low-prices-gilead
 
-### 11. Westworld: It’s All Fun and Games Until the Robots Start Shooting [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Saddle up for a deep dive into the making of an iconic sci fi Western and its intriguing cinematic legacy... The post Westworld : It’s All Fun and Games Until the Robots Start Shooting appeared first on Reactor .
-
-Link: https://reactormag.com/westworld-its-all-fun-and-games-until-the-robots-start-shooting/
-
-### 12. Podcast: We Are Living in a ‘ChatGPT Flyer Pandemic’ [7/10]
+### 12. Scientists Discover Planet Has Everything to Host ‘Earth-Like Life’ In Breakthrough [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-ChatGPT flyers are everywhere; how Waymo drove some kids to the cops; and a $3,000 suit that electrocutes your muscles.
+For the first time, scientists found that a rocky planet in the habitable zone of its star has an atmosphere. It’s the best place to look for alien biosignatures, scientists say.
 
-Link: https://www.404media.co/podcast-we-are-living-in-a-chatgpt-flyer-pandemic/
+Link: https://www.404media.co/scientists-discover-planet-has-everything-to-host-earth-like-life-in-breakthrough/
 
-### 13. Opinion: The Mismatch Between Childcare Policy and Parental Preferences [6/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 13. Officials probe whether White House teleprompter operator profited off Trump's words [7/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Family preferences on childcare arrangements vary, sometimes wildly, but many parents consistently report a desire to be able to care for their young children themselves and for trusted family, friends and neighbors to be able to do so.
+It's the first known instance of officials investigating suspected insider trading on a prediction market from inside the White House.
 
-Link: https://www.the74million.org/zero2eight/the-mismatch-between-childcare-policy-and-parental-preferences/
+Link: https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet
 
 ## YouTube
+
+### The Dangerous Illusion of AI Coding Skills [8/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://www.anthropic.
+
+Link: https://www.youtube.com/watch?v=axOcn--n_lM
 
 ### Anthropic Found Something That Shouldn't Exist [7/10]
 **Creator:** Two Minute Papers  
@@ -160,6 +169,24 @@ Link: https://www.the74million.org/zero2eight/the-mismatch-between-childcare-pol
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://transformer-circuits.pub/2025/linebreaks/index.html Paper for reindeer vision change - https://royalsocietypublishing.
 
 Link: https://www.youtube.com/watch?v=0CqLVnx-2UM
+
+### GPS Hidden Messages - Computerphile [8/10]
+**Creator:** Computerphile  
+**Verdict:** Worth watching  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Something odd was going on with the signals broadcast by the GPS satellites. Steven Murdoch of University College London explains how he used statistical analysis to work out what might be going on.
+
+Link: https://www.youtube.com/watch?v=2Q6OvYjOJi0
+
+### ‘The Odyssey’ Cast Answer The 50 Most Searched Questions [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+WIRED tasks Matt Damon (Odysseus), Anne Hathaway (Penelope), Tom Holland (Telemachus) and Robert Pattinson (Antinous) to answer the 50 most searched questions about _The Odyssey.
+
+Link: https://www.youtube.com/watch?v=GkM5zdUHcaQ
 
 ### How Trees Communicate [7/10]
 **Creator:** WIRED  
@@ -178,6 +205,15 @@ Link: https://www.youtube.com/watch?v=cfhPGb4syvg
 Forest conservation scientist Dominick DellaSala joins WIRED to answer the internet’s burning questions about trees.
 
 Link: https://www.youtube.com/watch?v=fLIZslgfIdQ
+
+### Hegseth announces plans to test soldiers for low testosterone [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Defense Secretary Pete Hegseth has announced plans to screen service members 30 and older for low testosterone.
+
+Link: https://www.youtube.com/watch?v=VICfY9WJRrE
 
 ### A promising tale from Senegal of fish, rice....and dangerous worms [9/10]
 **Creator:** NPR  
@@ -233,14 +269,23 @@ President Trump has once again slashed the size of two national monuments in Uta
 
 Link: https://www.youtube.com/watch?v=_KHPJRXxkYs
 
-### Some who lost jobs over Charlie Kirk posts get big payouts for First Amendment retaliation [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
+### Assassin's Creed Black Flag Resynced - The PS5 Pro Difference [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
-Some people lost their jobs over posts about Charlie Kirk. Now, they’re getting big payouts for their First Amendment rights.
+► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
-Link: https://www.youtube.com/watch?v=H7-i5-MleHo
+Link: https://www.youtube.com/watch?v=O22z4HOqEig
+
+### Doom The Dark Ages Revelations DLC Is Superb + PS5 Pro PSSR2 Upgrade Tested [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=xraWH6QEtuM
 
 ### PS5 "Don't Kill The Disc" Petition Crosses 250,000 Signatures [8/10]
 **Creator:** Digital Foundry  
@@ -251,9 +296,9 @@ Link: https://www.youtube.com/watch?v=H7-i5-MleHo
 
 Link: https://www.youtube.com/watch?v=1VZCrL7R14A
 
-### John Carmack Weighs In On The id Software Lay-Offs Debacle [7/10]
+### John Carmack Weighs In On The id Software Lay-Offs Debacle [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -278,14 +323,23 @@ Link: https://www.youtube.com/watch?v=oA_GRwGsS4g
 
 Link: https://www.youtube.com/watch?v=EH1l_qVV81I
 
-### Should Next-Gen Consoles Be Delayed Or Even Cancelled? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### Fallout 3 Smooch a Super Mutant Speedrun w/ Jack, Jess, and Marty -- Part 6 [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Watch the Full Video Here: https://youtu.be/DeUV3IqEZRU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
-Link: https://www.youtube.com/watch?v=21nj1OVvqG4
+Link: https://www.youtube.com/watch?v=YfNIRl-ORoQ
+
+### The Modern Bum Camera Problem | Semi-Ramblomatic [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=4VNYMGHS2mU
 
 ### Denshattack! Is a Wonderful Weeb Fever Dream w/ KC and Marty [6/10]
 **Creator:** Second Wind  
@@ -305,9 +359,9 @@ This video is brought to you by PlayTracker, the app that tracks your cross-plat
 
 Link: https://www.youtube.com/watch?v=WOL9dnef7RE
 
-### Star Fox | Fully Ramblomatic [9/10]
+### Star Fox | Fully Ramblomatic [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
@@ -331,33 +385,6 @@ Link: https://www.youtube.com/watch?v=us8nLJt9rXw
 This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.
 
 Link: https://www.youtube.com/watch?v=UGi-IxgiOgs
-
-### The Radical Subjectivity of Christopher Nolan | The Backdrop [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-In his latest video essay, Darren Mooney goes long on Christopher Nolan and how the director of The Odyssey uses practical filmmaking to capture an unreal world.
-
-Link: https://www.youtube.com/watch?v=zvu-Fzl9m5E
-
-### Celebrating Spooky Witch Summer in Reka | Hot Monday Energy [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.
-
-Link: https://www.youtube.com/watch?v=Af8qXKBAKSQ
-
-### 2D vs 3D | Windbreaker Podcast [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
-
-Link: https://www.youtube.com/watch?v=73NTNQyJI1w
 
 ## Entertainment Recommendations
 
