@@ -1,28 +1,38 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-16T05:00:02.376299Z",
-  "generatedAtDisplay": "2026-07-16 01:00 AM EDT",
+  "generatedAt": "2026-07-16T09:00:33.932816Z",
+  "generatedAtDisplay": "2026-07-16 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are R Kelly formally appeals to Donald Trump to commute his 31-year prison sentence, New York Times files motion to quash justice department’s subpoenas, and xAI sues a man for using Grok to generate CSAM ‘deepfakes’.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are More than 500 feared dead after reports of two shipwrecks off Myanmar, UN says, The social media ban sceptic: are we getting it wrong on kids, tech and mental health?, and From Cambridge ‘impostor’ to New Labour star: Andy Burnham’s winding path to power.",
   "mainItems": [
     {
-      "title": "R Kelly formally appeals to Donald Trump to commute his 31-year prison sentence",
+      "title": "More than 500 feared dead after reports of two shipwrecks off Myanmar, UN says",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/r-kelly-donald-trump-appeal-commute-prison-sentence-ntwnfb",
-      "published": "2026-07-16T02:20:41+00:00",
-      "summary": "The R&B singer was found guilty of racketeering, sex trafficking and producing child abuse images, with his lawyer lobbying the US president for more than a year R Kelly has formally appealed to the US president, Donald Trump, for a…",
+      "url": "https://www.theguardian.com/world/2026/jul/16/hundreds-of-refugees-feared-dead-after-two-suspected-shipwrecks-off-myanmar-un",
+      "published": "2026-07-16T07:22:41+00:00",
+      "summary": "Vessels believed to have departed from Myanmar in late June, with mostly Muslim Rohingya minority onboard The United Nations has said more than 500 people are feared dead after reports of two large shipwrecks off Myanmar since late June.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "New York Times files motion to quash justice department’s subpoenas",
+      "title": "The social media ban sceptic: are we getting it wrong on kids, tech and mental health?",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/new-york-times-subpoenas-air-force-one",
-      "published": "2026-07-16T00:32:16+00:00",
-      "summary": "Journalists who had reported on security concerns around the new Air Force One, a gift from Qatar, received summons The New York Times on Wednesday filed a motion to quash subpoenas the justice department served journalists who reported on…",
+      "url": "https://www.theguardian.com/society/2026/jul/16/psychologist-candice-odgers-kids-tech-mental-health-social-media-bans",
+      "published": "2026-07-16T06:50:29+00:00",
+      "summary": "Psychologist Candice Odgers has studied adolescent mental health for 25 years.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "From Cambridge ‘impostor’ to New Labour star: Andy Burnham’s winding path to power",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/politics/ng-interactive/2026/jul/16/new-labour-andy-burnham-winding-path-to-power",
+      "published": "2026-07-16T05:30:14+00:00",
+      "summary": "In the first of a two-part profile, Daniel Boffey traces the incoming PM’s early forays into politics and his rise to prominence – ultimately leading to him leaving London for Manchester Andy Burnham had emerged victorious, but niggling…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -57,12 +67,12 @@
       "score": 10
     },
     {
-      "title": "Reducing ultra-processed foods could prevent thousands of heart disease deaths, study suggests",
+      "title": "The most beautiful act of resistance I’ve seen: Madrid tenants fighting landlords with art | Leah Pattem",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/society/2026/jul/15/reducing-ultra-processed-foods-could-prevent-thousands-of-heart-disease-deaths-study-suggests",
-      "published": "2026-07-15T22:01:05+00:00",
-      "summary": "Researchers in Canada say that UFPs could be ‘substantial and potentially preventable’ contributor to the disease Thousands of people could avoid dying of heart disease by reducing ultra-processed foods (UPFs), experts have said, as a…",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/16/madrid-landlords-art-investment-fund-creativity",
+      "published": "2026-07-16T04:00:14+00:00",
+      "summary": "When an investment fund bought their building, the residents of Tribulete 7 protested in the only way they knew how – through radical creativity Spain’s housing crisis finally came for the tenants of Madrid’s Calle Tribulete 7 when their…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
@@ -125,21 +135,11 @@
       "summary": "Hacked source code reveals how Suno scraped decades worth of music and podcasts from the internet to train its AI tool.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "American AI is expensive. Some startups are turning to cheap Chinese models",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models",
-      "published": "2026-07-15T09:00:00+00:00",
-      "summary": "AI is a fast-growing business expense. Some companies are cutting costs by switching to cheaper Chinese AI models.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
     }
   ],
   "youtube": [
     {
-      "title": "Claude's Brain Has A Secret... And Scientists Found It",
+      "title": "Anthropic Found Something That Shouldn't Exist",
       "source": "Two Minute Papers",
       "category": "AI / YouTube",
       "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
@@ -170,6 +170,138 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "House passes bill to make daylight saving time permanent",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=2cTv6BcbSaA",
+      "published": "2026-07-15T22:00:05+00:00",
+      "summary": "The House has voted to make daylight saving time permanent. The legislation now heads to the Senate. The bill passed with bipartisan support, by a vote of 308-117.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "New York Governor signs first-of-its-kind moratorium on large data center projects",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=YTuD550yeIY",
+      "published": "2026-07-15T21:00:28+00:00",
+      "summary": "New York Gov. Kathy Hochul signed an executive order placing a moratorium on large data center projects in the state — the first moratorium of its kind in the country.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Bill Maher on receiving the Mark Twain Prize for American Humor and his Catholic upbringing",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=iMzvVkjJwBA",
+      "published": "2026-07-15T20:45:00+00:00",
+      "summary": "Bill Maher just received the Mark Twain Prize for American Humor. Over the years, he has lashed out at the political right, the political left and people of every faith. He is an atheist who was raised Roman Catholic.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Trump slashes the size of two national monuments by 90%",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=_KHPJRXxkYs",
+      "published": "2026-07-14T22:00:30+00:00",
+      "summary": "President Trump has once again slashed the size of two national monuments in Utah. The sites feature ancient cliff dwellings and scenic canyons, as well as coal and uranium deposits.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Some who lost jobs over Charlie Kirk posts get big payouts for First Amendment retaliation",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=H7-i5-MleHo",
+      "published": "2026-07-14T22:00:08+00:00",
+      "summary": "Some people lost their jobs over posts about Charlie Kirk. Now, they’re getting big payouts for their First Amendment rights.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Officials investigating second fatal ICE shooting in a week",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=tH15IAn0R1U",
+      "published": "2026-07-14T20:00:35+00:00",
+      "summary": "An investigation is underway into the second fatal shooting by ICE agents in a week.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Palestinian shepherding communities face attacks in the West Bank",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=1yD_lLnHmik",
+      "published": "2026-07-14T13:00:11+00:00",
+      "summary": "Israel’s highest court has been unable to stop the demolition of a shepherding community by Jewish settlers in the occupied West Bank.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "PS5 \"Don't Kill The Disc\" Petition Crosses 250,000 Signatures",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=1VZCrL7R14A",
+      "published": "2026-07-15T17:00:29+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "John Carmack Weighs In On The id Software Lay-Offs Debacle",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=GUUUE82OxvM",
+      "published": "2026-07-15T17:00:12+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Call of Duty Black Ops on PS5: The 1080p \"It's Just There\" Edition",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=oA_GRwGsS4g",
+      "published": "2026-07-14T17:00:00+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "id Software Lay-Offs Damage Control - Not Sure We're Buying It",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=EH1l_qVV81I",
+      "published": "2026-07-14T16:00:29+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Should Next-Gen Consoles Be Delayed Or Even Cancelled?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=21nj1OVvqG4",
+      "published": "2026-07-13T16:00:27+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/DeUV3IqEZRU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Denshattack! Is a Wonderful Weeb Fever Dream w/ KC and Marty",
@@ -284,6 +416,83 @@
       "verdict": "Worth a glance"
     },
     {
+      "title": "Trailer out now for The Dog Stars.",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=FTHEgEONSRs",
+      "published": "2026-07-14T19:20:29+00:00",
+      "summary": "Trailer out now for The Dog Stars.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Dog Stars | In Theaters August 28",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=8FeiVAY5Y7Y",
+      "published": "2026-07-14T17:00:01+00:00",
+      "summary": "Ridley Scott returns with a bold new vision in THE DOG STARS. Starring Jacob Elordi, Margaret Qualley, & Josh Brolin. See the film only in theaters August 28. Watch the new trailer now.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Dog Stars | Official Trailer | In Theaters August 28",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=-xSxaE1ClEE",
+      "published": "2026-07-14T16:00:06+00:00",
+      "summary": "The world that was doesn’t exist. THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters and IMAX August 28.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tony | Official First Look | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=GMQFLpETNkc",
+      "published": "2026-07-14T14:00:12+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "The Wrong Girls - Official Trailer - In Theaters August 14",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=zrcg8YHSys8",
+      "published": "2026-07-07T16:00:10+00:00",
+      "summary": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Her Private Hell - Official Trailer - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=C7E-0t1TfzM",
+      "published": "2026-06-30T16:00:27+00:00",
+      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "NIGHTBORN | Official Trailer Feat. Rupert Grint, Seidi Haarla | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=dWePsu_Kd9c",
+      "published": "2026-07-06T19:08:20+00:00",
+      "summary": "With dreams of starting a perfect family, Saga and her British husband Jon move to the isolated house where she spent much of her childhood, deep in the Finnish forest.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "10 YEARS AGO TODAY #StrangerThings",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -302,7 +511,7 @@
       "published": "2026-07-15T18:00:00+00:00",
       "summary": "Honoring iconic comedian Bill Maher, The Kennedy Center Mark Twain Prize for American Humor ceremony arrives on Netflix July 21. Featuring Louis C.K.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -549,8 +758,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 11,
-    "trailerCount": 16,
-    "sourceCount": 15
+    "youtubeCount": 23,
+    "trailerCount": 23,
+    "sourceCount": 20
   }
 }
