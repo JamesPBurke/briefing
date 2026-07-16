@@ -1,39 +1,39 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-15T18:00:54.068551Z",
-  "generatedAtDisplay": "2026-07-15 02:00 PM EDT",
+  "generatedAt": "2026-07-16T05:00:02.376299Z",
+  "generatedAtDisplay": "2026-07-16 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Democrats grill Todd Blanche on ICE agents at polling sites and Kash Patel’s conduct at attorney general confirmation hearing – live, Search continues for three people missing after Alcatraz boating disaster, and Lucid’s bankruptcy rumor is a bad sign for the EV future.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are R Kelly formally appeals to Donald Trump to commute his 31-year prison sentence, New York Times files motion to quash justice department’s subpoenas, and xAI sues a man for using Grok to generate CSAM ‘deepfakes’.",
   "mainItems": [
     {
-      "title": "Democrats grill Todd Blanche on ICE agents at polling sites and Kash Patel’s conduct at attorney general confirmation hearing – live",
+      "title": "R Kelly formally appeals to Donald Trump to commute his 31-year prison sentence",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/15/todd-blanche-attorney-general-senate-donald-trump-ice-darline-graham-lindsey-graham-us-politics-live-news",
-      "published": "2026-07-15T17:52:27+00:00",
-      "summary": "Trump’s nominee for attorney general – also his former personal defense lawyer – faces questions from senators as he attempts to take the top justice department role Sign up for the Breaking News US email In his opening statement before…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/r-kelly-donald-trump-appeal-commute-prison-sentence-ntwnfb",
+      "published": "2026-07-16T02:20:41+00:00",
+      "summary": "The R&B singer was found guilty of racketeering, sex trafficking and producing child abuse images, with his lawyer lobbying the US president for more than a year R Kelly has formally appealed to the US president, Donald Trump, for a…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Search continues for three people missing after Alcatraz boating disaster",
+      "title": "New York Times files motion to quash justice department’s subpoenas",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/san-francisco-alcatraz-boat-capsized",
-      "published": "2026-07-15T17:25:36+00:00",
-      "summary": "One person dead after pontoon boat involved in memorial service capsized in San Francisco Bay on Tuesday Rescuers were still searching for three missing people on Wednesday after a boat involved in a memorial service sank in the cold,…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/new-york-times-subpoenas-air-force-one",
+      "published": "2026-07-16T00:32:16+00:00",
+      "summary": "Journalists who had reported on security concerns around the new Air Force One, a gift from Qatar, received summons The New York Times on Wednesday filed a motion to quash subpoenas the justice department served journalists who reported on…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Lucid’s bankruptcy rumor is a bad sign for the EV future",
+      "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
       "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/transportation/965924/lucids-bankruptcy-rumor-is-a-bad-sign-for-the-ev-future",
-      "published": "2026-07-15T17:17:56+00:00",
-      "summary": "Lucid Motors found itself in a tough bind this week, fending off bankruptcy rumors and watching its stock price plunge as a result.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "published": "2026-07-15T21:33:20+00:00",
+      "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM).",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
@@ -47,24 +47,34 @@
       "score": 10
     },
     {
-      "title": "Trump intelligence pick Jay Clayton refuses to say Biden won 2020 election",
+      "title": "The Odyssey review – Nolan goes god-tier with breathtaking epic of men, monsters and moral metamorphosis",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/jay-clayton-senate-intelligence-committee-hearing",
-      "published": "2026-07-15T15:48:53+00:00",
-      "summary": "Clayton, if confirmed, would replace Bill Pulte, and is facing senators for confirmation as the US’s top spy Jay Clayton, the US attorney for the southern district of New York, refused to say that Joe Biden won the 2020 election during his…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "category": "Tech / democracy",
+      "url": "https://www.theguardian.com/film/2026/jul/15/the-odyssey-review-christopher-nolan-matt-damon",
+      "published": "2026-07-15T16:00:00+00:00",
+      "summary": "Doing full justice to the Homeric legend, Christopher Nolan amasses an epic cast to convey the true cost of war with film-making of thrilling ambition A classicist’s verdict: soulful hero flatters our times as women and nuance pushed…",
+      "whyItMatters": "Relevant to platform accountability, governance, and public life.",
       "score": 10
     },
     {
-      "title": "Trump endorses MyPillow founder Mike Lindell in Minnesota governor’s race",
+      "title": "Reducing ultra-processed foods could prevent thousands of heart disease deaths, study suggests",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/trump-mike-lindell-minnesota-governor",
-      "published": "2026-07-15T14:52:22+00:00",
-      "summary": "Republican Trump ally has spent years promoting discredited claims about 2020 election Donald Trump has endorsed Mike Lindell’s bid for Minnesota governor, calling the MyPillow founder “one of America’s greatest and most hard working…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/society/2026/jul/15/reducing-ultra-processed-foods-could-prevent-thousands-of-heart-disease-deaths-study-suggests",
+      "published": "2026-07-15T22:01:05+00:00",
+      "summary": "Researchers in Canada say that UFPs could be ‘substantial and potentially preventable’ contributor to the disease Thousands of people could avoid dying of heart disease by reducing ultra-processed foods (UPFs), experts have said, as a…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "League of Legends Classic players clash against old-school skin cosmetics, as the faithfulness of the new game mode is called into question",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/league-of-legends-classic-skins-clash",
+      "published": "2026-07-15T15:28:17+00:00",
+      "summary": "League of Legends Classic has been revealed in earnest by Riot Games.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "Indiana Sets Standards for 4-Day School Week Waivers",
@@ -74,46 +84,16 @@
       "published": "2026-07-15T14:30:00+00:00",
       "summary": "Indiana K-12 schools must meet new standards before seeking approval to implement a four-day school week.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "OpenAI finally launches hardware… for Codex",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-      "published": "2026-07-15T13:30:33+00:00",
-      "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "8BitDo’s FlipPad is the most pocketable way to turn your phone into a Game Boy",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/964658/8bitdo-flippad-controller-gamepad-smartphone-price-hands-on-availability",
-      "published": "2026-07-15T12:31:10+00:00",
-      "summary": "Both 8BitDo and GameSir announced tiny gamepads designed to turn smartphones into Game Boy-inspired handhelds at CES 2026. GameSir released its Pocket Taco months ago, but the longer wait for 8BitDo's FlipPad has been well worth it.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Opinion: The Best Intervention Curriculum May Already Be in Your Classrooms",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/the-best-intervention-curriculum-may-already-be-in-your-classrooms/",
-      "published": "2026-07-15T12:30:00+00:00",
-      "summary": "Picture a second grader who is struggling to read at a school trying hard to fix that. He gets his regular classroom lessons, is pulled out for intervention during the day and works with a tutor.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
-      "title": "American AI is expensive. Some startups are turning to cheap Chinese models",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models",
-      "published": "2026-07-15T09:00:00+00:00",
-      "summary": "AI is a fast-growing business expense. Some companies are cutting costs by switching to cheaper Chinese AI models.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "title": "Opinion: The Border Is Breaking My Students’ Hearts. It Broke Mine, Too",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/the-border-is-breaking-my-students-hearts-it-broke-mine-too/",
+      "published": "2026-07-15T10:30:00+00:00",
+      "summary": "I run into a former student of mine, outside of school. “How are you, miss?” he asks.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
@@ -127,6 +107,16 @@
       "score": 8
     },
     {
+      "title": "Westworld: It’s All Fun and Games Until the Robots Start Shooting",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/westworld-its-all-fun-and-games-until-the-robots-start-shooting/",
+      "published": "2026-07-15T15:00:00+00:00",
+      "summary": "Saddle up for a deep dive into the making of an iconic sci fi Western and its intriguing cinematic legacy... The post Westworld : It’s All Fun and Games Until the Robots Start Shooting appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
+    },
+    {
       "title": "Hack Reveals Suno AI Music Generator Scraped YouTube, Deezer, and Genius",
       "source": "404 Media",
       "category": "Tech / media",
@@ -135,10 +125,319 @@
       "summary": "Hacked source code reveals how Suno scraped decades worth of music and podcasts from the internet to train its AI tool.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
+    },
+    {
+      "title": "American AI is expensive. Some startups are turning to cheap Chinese models",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models",
+      "published": "2026-07-15T09:00:00+00:00",
+      "summary": "AI is a fast-growing business expense. Some companies are cutting costs by switching to cheaper Chinese AI models.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "Claude's Brain Has A Secret... And Scientists Found It",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
+      "published": "2026-07-15T13:58:27+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://transformer-circuits.pub/2025/linebreaks/index.html Paper for reindeer vision change - https://royalsocietypublishing.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "How Trees Communicate",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=cfhPGb4syvg",
+      "published": "2026-07-15T13:30:02+00:00",
+      "summary": "Forest conservation scientist Dominick DellaSala joins WIRED to answer the internet’s burning questions about trees.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Forest Ecologist Answers Tree Questions | Tech Support | WIRED",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=fLIZslgfIdQ",
+      "published": "2026-07-14T16:00:13+00:00",
+      "summary": "Forest conservation scientist Dominick DellaSala joins WIRED to answer the internet’s burning questions about trees.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Denshattack! Is a Wonderful Weeb Fever Dream w/ KC and Marty",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=2zfDRdRdRnc",
+      "published": "2026-07-16T01:11:19+00:00",
+      "summary": "KC and Marty are taking a short break from Star Fox to show off the new indie Denshattack! -- https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Yahtzee Tries... D-topia and Rock Bottom",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=WOL9dnef7RE",
+      "published": "2026-07-15T22:08:14+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Star Fox | Fully Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=ZWO5aH-UNs8",
+      "published": "2026-07-15T16:00:03+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Nick & Jenna Play the Sands of Time Trilogy for the First Time | Part 4",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=us8nLJt9rXw",
+      "published": "2026-07-15T11:16:00+00:00",
+      "summary": "The community funded Nick playing the Sands of Time trilogy on stream for the first time. Join Nick and Jenna as they start the series today! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Polyarmory Is a Game About Dating Guns | Hot Monday Energy",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=UGi-IxgiOgs",
+      "published": "2026-07-15T00:23:10+00:00",
+      "summary": "This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Radical Subjectivity of Christopher Nolan | The Backdrop",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=zvu-Fzl9m5E",
+      "published": "2026-07-14T14:59:00+00:00",
+      "summary": "In his latest video essay, Darren Mooney goes long on Christopher Nolan and how the director of The Odyssey uses practical filmmaking to capture an unreal world.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Celebrating Spooky Witch Summer in Reka | Hot Monday Energy",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=Af8qXKBAKSQ",
+      "published": "2026-07-14T01:26:44+00:00",
+      "summary": "This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "2D vs 3D | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=73NTNQyJI1w",
+      "published": "2026-07-13T18:54:54+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "One Night Only | Official Trailer",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=AvKoSR3O4NQ",
+      "published": "2026-07-10T23:02:23+00:00",
+      "summary": "what would you do if you only had one night? __________________________________________________________ What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "One Night Only | A Look Inside",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=sNFnNF8gpJQ",
+      "published": "2026-07-09T15:08:28+00:00",
+      "summary": "What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but You and Easy A, celebrates modern romantic comedy on the big screen with a fresh, witty, swoony original…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "10 YEARS AGO TODAY #StrangerThings",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=eiNIkWcC4v0",
+      "published": "2026-07-16T01:00:06+00:00",
+      "summary": "10 YEARS AGO TODAY #StrangerThings Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Bill Maher: The Kennedy Center Mark Twain Prize for American Humor | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=QNvjTDLDTX0",
+      "published": "2026-07-15T18:00:00+00:00",
+      "summary": "Honoring iconic comedian Bill Maher, The Kennedy Center Mark Twain Prize for American Humor ceremony arrives on Netflix July 21. Featuring Louis C.K.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Nick DiGiovanni and Nick's Kitchen Announcement",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=rIHMxDFfPSo",
+      "published": "2026-07-15T16:00:17+00:00",
+      "summary": "Later this year, you can also get new episodes from Nick DiGiovanni & Nick's Kitchen on Netflix Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "A Child of My Own | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=8bggMB_AzEY",
+      "published": "2026-07-15T15:00:00+00:00",
+      "summary": "Alejandra wanted to be a mother more than anything in the world, but she couldn’t.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "My Life With the Walter Boys: Season 3 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=_nneiDtbdbk",
+      "published": "2026-07-15T13:00:01+00:00",
+      "summary": "After a love triangle bombshell and family crisis rock The Walters, Jackie must navigate messy relationships and new personal ambitions in Silver Falls. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Ultimatum: Marry or Move On: Season 4 | Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=fZyYpd4N9cg",
+      "published": "2026-07-14T16:00:00+00:00",
+      "summary": "Walk down the aisle or walk away forever? Six couples put love on the line and learn if they’re ready to wed after spending a month with a new partner. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Whisper Man | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=ZHRR-1CKYIQ",
+      "published": "2026-07-14T13:00:00+00:00",
+      "summary": "The deadliest killers can’t be silenced. Based on the New York Times bestselling novel by Alex North.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Watch The Hawk cast tackle the wings of death. Now on Netflix.",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=u3AqZnc-lJY",
+      "published": "2026-07-14T03:30:05+00:00",
+      "summary": "Will Ferrell says getting hit in the nuts feels a lot like being on Hot Ones: Extra Heat. Watch The Hawk cast tackle the wings of death. Now on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "JORDAN WALKER HOME RUN DERBY WINNER #HRDerby",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=3McWorwiPIE",
+      "published": "2026-07-14T02:49:25+00:00",
+      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Silo — Season 3 Memory | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=bP6B-whkx_w",
+      "published": "2026-07-16T00:29:56+00:00",
+      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Two pickleball paddles are better than one. #TheDink A new comedy movie, July 24 on Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=gmlbMB1_lcE",
+      "published": "2026-07-15T23:59:48+00:00",
+      "summary": "Premieres July 24 on Apple TV https://apple.co/_TheDink A new comedy movie with Ed Harris, Andy Roddick, Patton Oswalt, Chloe Fineman, Chris Parnell and Aaron Chen, with Ben Stiller. Subscribe to Apple TV’s YouTube channel: https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "It's good to be back. Watch every #MLS match live starting July 16 on Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=TyJdAgqTfjo",
+      "published": "2026-07-15T14:59:46+00:00",
+      "summary": "Subscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube Follow Apple TV: Instagram: https://instagram.com/AppleTV TikTok: https://tiktok.com/@AppleTV Facebook: https://facebook.com/AppleTV Threads: https://threads.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Widow's Bay — Patricia: No Notes | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=IW20mgWlXSE",
+      "published": "2026-07-14T21:59:53+00:00",
+      "summary": "Kate O'Flynn stars as Patricia in Widow's Bay - the ultimate final girl, and hostess with the mostest. Please don't forget to RSVP to Sunset Cocktails.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Mayday — Official Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=om5Un9X720M",
+      "published": "2026-07-14T12:59:55+00:00",
+      "summary": "Ryan Reynolds and Kenneth Branagh star in Mayday, an action comedy about a downed pilot and ex-KGB agent, premiering on Apple TV September 4, 2026. http://apple.co/_Mayday Song: “America” by Neil Diamond https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -250,8 +549,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 7
+    "youtubeCount": 11,
+    "trailerCount": 16,
+    "sourceCount": 15
   }
 }
