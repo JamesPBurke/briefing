@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-16T09:00:33.932816Z
+Generated: 2026-07-16T14:00:02.937594Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are More than 500 feared dead after reports of two shipwrecks off Myanmar, UN says, The social media ban sceptic: are we getting it wrong on kids, tech and mental health?, and From Cambridge ‘impostor’ to New Labour star: Andy Burnham’s winding path to power.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are ‘No company is going to go to jail for you’: Proton’s CTO on balancing privacy, policy, and trust, Iran accuses US of ‘barbaric’ strike near hospital as Kuwait says it is under attack – Middle East crisis live, and Ninja’s microwave air fryer could be the fix for soggy reheated pizza.
 
 ## Briefing
 
@@ -33,106 +33,97 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. More than 500 feared dead after reports of two shipwrecks off Myanmar, UN says [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Vessels believed to have departed from Myanmar in late June, with mostly Muslim Rohingya minority onboard The United Nations has said more than 500 people are feared dead after reports of two large shipwrecks off Myanmar since late June.
-
-Link: https://www.theguardian.com/world/2026/jul/16/hundreds-of-refugees-feared-dead-after-two-suspected-shipwrecks-off-myanmar-un
-
-### 2. The social media ban sceptic: are we getting it wrong on kids, tech and mental health? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Psychologist Candice Odgers has studied adolescent mental health for 25 years.
-
-Link: https://www.theguardian.com/society/2026/jul/16/psychologist-candice-odgers-kids-tech-mental-health-social-media-bans
-
-### 3. From Cambridge ‘impostor’ to New Labour star: Andy Burnham’s winding path to power [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-In the first of a two-part profile, Daniel Boffey traces the incoming PM’s early forays into politics and his rise to prominence – ultimately leading to him leaving London for Manchester Andy Burnham had emerged victorious, but niggling…
-
-Link: https://www.theguardian.com/politics/ng-interactive/2026/jul/16/new-labour-andy-burnham-winding-path-to-power
-
-### 4. xAI sues a man for using Grok to generate CSAM ‘deepfakes’ [10/10]
+### 1. ‘No company is going to go to jail for you’: Proton’s CTO on balancing privacy, policy, and trust [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM).
+Today on Decoder, we’ve got the first of a two-part series on the systems that run the world: I’m talking with Bart Butler, the CTO of Proton, the company that makes private and secure productivity software.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam
+Link: https://www.theverge.com/podcast/966074/proton-cto-bart-butler-privacy-encryption-surveillance-age-verification
 
-### 5. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6.
-
-Link: https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/
-
-### 6. The Odyssey review – Nolan goes god-tier with breathtaking epic of men, monsters and moral metamorphosis [10/10]
+### 2. Iran accuses US of ‘barbaric’ strike near hospital as Kuwait says it is under attack – Middle East crisis live [10/10]
 **Source:** The Guardian US  
-**Category:** Tech / democracy  
-**Why it matters:** Relevant to platform accountability, governance, and public life.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Doing full justice to the Homeric legend, Christopher Nolan amasses an epic cast to convey the true cost of war with film-making of thrilling ambition A classicist’s verdict: soulful hero flatters our times as women and nuance pushed…
+Foreign ministry spokesman says children’s cancer hospital had to be evacuated in Ahvaz; Kuwait says it responding to renewed Iranian drone attacks US attacks oil tanker in strait of Hormuz as strikes reported in Tehran The Lebanese…
 
-Link: https://www.theguardian.com/film/2026/jul/15/the-odyssey-review-christopher-nolan-matt-damon
+Link: https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates
 
-### 7. The most beautiful act of resistance I’ve seen: Madrid tenants fighting landlords with art | Leah Pattem [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 3. Ninja’s microwave air fryer could be the fix for soggy reheated pizza [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-When an investment fund bought their building, the residents of Tribulete 7 protested in the only way they knew how – through radical creativity Spain’s housing crisis finally came for the tenants of Madrid’s Calle Tribulete 7 when their…
+Ninja has added everything from ice cream makers to double-decker toaster ovens to its extensive lineup of counter-clogging appliances, but it's only now introducing its first microwave.
 
-Link: https://www.theguardian.com/commentisfree/2026/jul/16/madrid-landlords-art-investment-fund-creativity
+Link: https://www.theverge.com/tech/966175/ninja-crispi-microwave-air-fryer-kitchen-appliance
 
-### 8. League of Legends Classic players clash against old-school skin cosmetics, as the faithfulness of the new game mode is called into question [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-League of Legends Classic has been revealed in earnest by Riot Games.
-
-Link: https://www.eurogamer.net/league-of-legends-classic-skins-clash
-
-### 9. Indiana Sets Standards for 4-Day School Week Waivers [9/10]
+### 4. Opinion: A Step-by-Step Guide on AI in Schools — How Much to Use and When [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Indiana K-12 schools must meet new standards before seeking approval to implement a four-day school week.
+Every few years, a new technology enters schools. Television beamed lessons from the best teachers into classrooms. Computers and the internet gave students access to a wealth of information, right at their fingertips.
 
-Link: https://www.the74million.org/article/indiana-sets-standards-for-4-day-school-week-waivers/
+Link: https://www.the74million.org/article/a-step-by-step-guide-to-how-much-ai-to-use-in-schools-and-when/
 
-### 10. Opinion: The Border Is Breaking My Students’ Hearts. It Broke Mine, Too [9/10]
+### 5. Claude can now use your 1Password credentials for you [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords.
+
+Link: https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration
+
+### 6. The Download: OpenAI unveils GPT-Red and heat pumps rise in the US [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/
+
+### 7. D&D players raise millions in real-life campaign against ‘corporate elite’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Brennan Lee Mulligan’s Dungeons and Dragons push is part of a wider trend using tabletop games for political action Just before their election day, six Los Angeles city council candidates stood on stage at Hollywood’s Fonda Theatre.
+
+Link: https://www.theguardian.com/us-news/2026/jul/16/dungeons-dragons-tabletop-games-politics
+
+### 8. Here are our PS Plus Premium and Extra games for July [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+We're in the midst of a scorching summer.
+
+Link: https://www.eurogamer.net/playstation-plus-games-july
+
+### 9. Exclusive: Study Finds Boston Charters Fell Off in 2010s, Recovered During COVID [10/10]
 **Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-I run into a former student of mine, outside of school. “How are you, miss?” he asks.
+Charter schools in Massachusetts have significantly accelerated student learning over the last quarter century, a newly released study shows.
 
-Link: https://www.the74million.org/article/the-border-is-breaking-my-students-hearts-it-broke-mine-too/
+Link: https://www.the74million.org/article/exclusive-study-finds-boston-charters-fell-off-in-2010s-recovered-during-covid/
 
-### 11. Cancer disparities researchers say federal funding changes have disrupted their work [8/10]
+### 10. TrumpRx promised a supermarket for cheaper drugs but delivered a boutique [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-In a survey, 93% of cancer researchers who study disparities said federal policy changes have affected them. Funding is harder to come by and they worry it's slowing progress in their field.
+President Trump said TrumpRx is the biggest thing to happen in healthcare in decades. But an NPR analysis finds drugmakers are only offering deals on a few of their medicines.
 
-Link: https://www.npr.org/2026/07/15/nx-s1-5893653/cancer-disparities-gaps-research-funding-grant-disruptions
+Link: https://www.npr.org/2026/07/16/nx-s1-5894947/trump-rx-medicine-drugs-health-care-pfizer-low-prices-gilead
 
-### 12. Westworld: It’s All Fun and Games Until the Robots Start Shooting [8/10]
+### 11. Westworld: It’s All Fun and Games Until the Robots Start Shooting [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -141,20 +132,29 @@ Saddle up for a deep dive into the making of an iconic sci fi Western and its in
 
 Link: https://reactormag.com/westworld-its-all-fun-and-games-until-the-robots-start-shooting/
 
-### 13. Hack Reveals Suno AI Music Generator Scraped YouTube, Deezer, and Genius [8/10]
+### 12. Podcast: We Are Living in a ‘ChatGPT Flyer Pandemic’ [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-Hacked source code reveals how Suno scraped decades worth of music and podcasts from the internet to train its AI tool.
+ChatGPT flyers are everywhere; how Waymo drove some kids to the cops; and a $3,000 suit that electrocutes your muscles.
 
-Link: https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/
+Link: https://www.404media.co/podcast-we-are-living-in-a-chatgpt-flyer-pandemic/
+
+### 13. Opinion: The Mismatch Between Childcare Policy and Parental Preferences [6/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Family preferences on childcare arrangements vary, sometimes wildly, but many parents consistently report a desire to be able to care for their young children themselves and for trusted family, friends and neighbors to be able to do so.
+
+Link: https://www.the74million.org/zero2eight/the-mismatch-between-childcare-policy-and-parental-preferences/
 
 ## YouTube
 
-### Anthropic Found Something That Shouldn't Exist [8/10]
+### Anthropic Found Something That Shouldn't Exist [7/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://transformer-circuits.pub/2025/linebreaks/index.html Paper for reindeer vision change - https://royalsocietypublishing.
@@ -179,9 +179,27 @@ Forest conservation scientist Dominick DellaSala joins WIRED to answer the inter
 
 Link: https://www.youtube.com/watch?v=fLIZslgfIdQ
 
-### House passes bill to make daylight saving time permanent [7/10]
+### A promising tale from Senegal of fish, rice....and dangerous worms [9/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Farmers in Senegal are welcoming fish into their rice paddies. The hope is they'll fertilize the crop, be a source of food...and eat the snails that carry parasitic worms.
+
+Link: https://www.youtube.com/watch?v=LRjraCdE2oA
+
+### Bill Maher shares more details about his dinner with President Trump last year [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Bill Maher shares more details about what his dinner with President Trump last year revealed about his personality. Trump has since called the comedian a “highly overrated lightweight.
+
+Link: https://www.youtube.com/watch?v=SohlyhMg1hQ
+
+### House passes bill to make daylight saving time permanent [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 The House has voted to make daylight saving time permanent. The legislation now heads to the Senate. The bill passed with bipartisan support, by a vote of 308-117.
@@ -224,30 +242,12 @@ Some people lost their jobs over posts about Charlie Kirk. Now, they’re gettin
 
 Link: https://www.youtube.com/watch?v=H7-i5-MleHo
 
-### Officials investigating second fatal ICE shooting in a week [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-An investigation is underway into the second fatal shooting by ICE agents in a week.
-
-Link: https://www.youtube.com/watch?v=tH15IAn0R1U
-
-### Palestinian shepherding communities face attacks in the West Bank [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Israel’s highest court has been unable to stop the demolition of a shepherding community by Jewish settlers in the occupied West Bank.
-
-Link: https://www.youtube.com/watch?v=1yD_lLnHmik
-
-### PS5 "Don't Kill The Disc" Petition Crosses 250,000 Signatures [7/10]
+### PS5 "Don't Kill The Disc" Petition Crosses 250,000 Signatures [8/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
-► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+► Find the Petition Here: https://www.change.org/p/don-t-kill-the-disc-tell-sony-to-keep-physical-playstation-games ► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.
 
 Link: https://www.youtube.com/watch?v=1VZCrL7R14A
 
@@ -287,18 +287,18 @@ Link: https://www.youtube.com/watch?v=EH1l_qVV81I
 
 Link: https://www.youtube.com/watch?v=21nj1OVvqG4
 
-### Denshattack! Is a Wonderful Weeb Fever Dream w/ KC and Marty [7/10]
+### Denshattack! Is a Wonderful Weeb Fever Dream w/ KC and Marty [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 KC and Marty are taking a short break from Star Fox to show off the new indie Denshattack! -- https://store.steampowered.
 
 Link: https://www.youtube.com/watch?v=2zfDRdRdRnc
 
-### Yahtzee Tries... D-topia and Rock Bottom [9/10]
+### Yahtzee Tries... D-topia and Rock Bottom [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
@@ -469,7 +469,7 @@ With dreams of starting a perfect family, Saga and her British husband Jon move 
 
 Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
 
-### 10 YEARS AGO TODAY #StrangerThings [10/10]
+### 10 YEARS AGO TODAY #StrangerThings [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.

@@ -1,118 +1,108 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-16T09:00:33.932816Z",
-  "generatedAtDisplay": "2026-07-16 05:00 AM EDT",
+  "generatedAt": "2026-07-16T14:00:02.937594Z",
+  "generatedAtDisplay": "2026-07-16 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are More than 500 feared dead after reports of two shipwrecks off Myanmar, UN says, The social media ban sceptic: are we getting it wrong on kids, tech and mental health?, and From Cambridge ‘impostor’ to New Labour star: Andy Burnham’s winding path to power.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are ‘No company is going to go to jail for you’: Proton’s CTO on balancing privacy, policy, and trust, Iran accuses US of ‘barbaric’ strike near hospital as Kuwait says it is under attack – Middle East crisis live, and Ninja’s microwave air fryer could be the fix for soggy reheated pizza.",
   "mainItems": [
     {
-      "title": "More than 500 feared dead after reports of two shipwrecks off Myanmar, UN says",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jul/16/hundreds-of-refugees-feared-dead-after-two-suspected-shipwrecks-off-myanmar-un",
-      "published": "2026-07-16T07:22:41+00:00",
-      "summary": "Vessels believed to have departed from Myanmar in late June, with mostly Muslim Rohingya minority onboard The United Nations has said more than 500 people are feared dead after reports of two large shipwrecks off Myanmar since late June.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The social media ban sceptic: are we getting it wrong on kids, tech and mental health?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/society/2026/jul/16/psychologist-candice-odgers-kids-tech-mental-health-social-media-bans",
-      "published": "2026-07-16T06:50:29+00:00",
-      "summary": "Psychologist Candice Odgers has studied adolescent mental health for 25 years.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "From Cambridge ‘impostor’ to New Labour star: Andy Burnham’s winding path to power",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/politics/ng-interactive/2026/jul/16/new-labour-andy-burnham-winding-path-to-power",
-      "published": "2026-07-16T05:30:14+00:00",
-      "summary": "In the first of a two-part profile, Daniel Boffey traces the incoming PM’s early forays into politics and his rise to prominence – ultimately leading to him leaving London for Manchester Andy Burnham had emerged victorious, but niggling…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
+      "title": "‘No company is going to go to jail for you’: Proton’s CTO on balancing privacy, policy, and trust",
       "source": "The Verge",
       "category": "AI / privacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-      "published": "2026-07-15T21:33:20+00:00",
-      "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM).",
+      "url": "https://www.theverge.com/podcast/966074/proton-cto-bart-butler-privacy-encryption-surveillance-age-verification",
+      "published": "2026-07-16T13:59:05+00:00",
+      "summary": "Today on Decoder, we’ve got the first of a two-part series on the systems that run the world: I’m talking with Bart Butler, the CTO of Proton, the company that makes private and secure productivity software.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "source": "MIT Technology Review",
+      "title": "Iran accuses US of ‘barbaric’ strike near hospital as Kuwait says it is under attack – Middle East crisis live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates",
+      "published": "2026-07-16T13:32:41+00:00",
+      "summary": "Foreign ministry spokesman says children’s cancer hospital had to be evacuated in Ahvaz; Kuwait says it responding to renewed Iranian drone attacks US attacks oil tanker in strait of Hormuz as strikes reported in Tehran The Lebanese…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Ninja’s microwave air fryer could be the fix for soggy reheated pizza",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/966175/ninja-crispi-microwave-air-fryer-kitchen-appliance",
+      "published": "2026-07-16T13:04:34+00:00",
+      "summary": "Ninja has added everything from ice cream makers to double-decker toaster ovens to its extensive lineup of counter-clogging appliances, but it's only now introducing its first microwave.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: A Step-by-Step Guide on AI in Schools — How Much to Use and When",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/a-step-by-step-guide-to-how-much-ai-to-use-in-schools-and-when/",
+      "published": "2026-07-16T12:30:00+00:00",
+      "summary": "Every few years, a new technology enters schools. Television beamed lessons from the best teachers into classrooms. Computers and the internet gave students access to a wealth of information, right at their fingertips.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Claude can now use your 1Password credentials for you",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "published": "2026-07-15T17:09:37+00:00",
-      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6.",
+      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "published": "2026-07-16T12:20:32+00:00",
+      "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "The Odyssey review – Nolan goes god-tier with breathtaking epic of men, monsters and moral metamorphosis",
-      "source": "The Guardian US",
-      "category": "Tech / democracy",
-      "url": "https://www.theguardian.com/film/2026/jul/15/the-odyssey-review-christopher-nolan-matt-damon",
-      "published": "2026-07-15T16:00:00+00:00",
-      "summary": "Doing full justice to the Homeric legend, Christopher Nolan amasses an epic cast to convey the true cost of war with film-making of thrilling ambition A classicist’s verdict: soulful hero flatters our times as women and nuance pushed…",
-      "whyItMatters": "Relevant to platform accountability, governance, and public life.",
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "published": "2026-07-16T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "The most beautiful act of resistance I’ve seen: Madrid tenants fighting landlords with art | Leah Pattem",
+      "title": "D&D players raise millions in real-life campaign against ‘corporate elite’",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/16/madrid-landlords-art-investment-fund-creativity",
-      "published": "2026-07-16T04:00:14+00:00",
-      "summary": "When an investment fund bought their building, the residents of Tribulete 7 protested in the only way they knew how – through radical creativity Spain’s housing crisis finally came for the tenants of Madrid’s Calle Tribulete 7 when their…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/dungeons-dragons-tabletop-games-politics",
+      "published": "2026-07-16T11:00:36+00:00",
+      "summary": "Brennan Lee Mulligan’s Dungeons and Dragons push is part of a wider trend using tabletop games for political action Just before their election day, six Los Angeles city council candidates stood on stage at Hollywood’s Fonda Theatre.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
+      "score": 10
     },
     {
-      "title": "League of Legends Classic players clash against old-school skin cosmetics, as the faithfulness of the new game mode is called into question",
+      "title": "Here are our PS Plus Premium and Extra games for July",
       "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/league-of-legends-classic-skins-clash",
-      "published": "2026-07-15T15:28:17+00:00",
-      "summary": "League of Legends Classic has been revealed in earnest by Riot Games.",
+      "url": "https://www.eurogamer.net/playstation-plus-games-july",
+      "published": "2026-07-16T10:57:47+00:00",
+      "summary": "We're in the midst of a scorching summer.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
+      "score": 10
     },
     {
-      "title": "Indiana Sets Standards for 4-Day School Week Waivers",
+      "title": "Exclusive: Study Finds Boston Charters Fell Off in 2010s, Recovered During COVID",
       "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/indiana-sets-standards-for-4-day-school-week-waivers/",
-      "published": "2026-07-15T14:30:00+00:00",
-      "summary": "Indiana K-12 schools must meet new standards before seeking approval to implement a four-day school week.",
+      "url": "https://www.the74million.org/article/exclusive-study-finds-boston-charters-fell-off-in-2010s-recovered-during-covid/",
+      "published": "2026-07-16T10:30:00+00:00",
+      "summary": "Charter schools in Massachusetts have significantly accelerated student learning over the last quarter century, a newly released study shows.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
+      "score": 10
     },
     {
-      "title": "Opinion: The Border Is Breaking My Students’ Hearts. It Broke Mine, Too",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/the-border-is-breaking-my-students-hearts-it-broke-mine-too/",
-      "published": "2026-07-15T10:30:00+00:00",
-      "summary": "I run into a former student of mine, outside of school. “How are you, miss?” he asks.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Cancer disparities researchers say federal funding changes have disrupted their work",
+      "title": "TrumpRx promised a supermarket for cheaper drugs but delivered a boutique",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5893653/cancer-disparities-gaps-research-funding-grant-disruptions",
-      "published": "2026-07-15T15:16:35+00:00",
-      "summary": "In a survey, 93% of cancer researchers who study disparities said federal policy changes have affected them. Funding is harder to come by and they worry it's slowing progress in their field.",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5894947/trump-rx-medicine-drugs-health-care-pfizer-low-prices-gilead",
+      "published": "2026-07-16T09:00:00+00:00",
+      "summary": "President Trump said TrumpRx is the biggest thing to happen in healthcare in decades. But an NPR analysis finds drugmakers are only offering deals on a few of their medicines.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -127,14 +117,24 @@
       "score": 8
     },
     {
-      "title": "Hack Reveals Suno AI Music Generator Scraped YouTube, Deezer, and Genius",
+      "title": "Podcast: We Are Living in a ‘ChatGPT Flyer Pandemic’",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/",
-      "published": "2026-07-15T13:59:38+00:00",
-      "summary": "Hacked source code reveals how Suno scraped decades worth of music and podcasts from the internet to train its AI tool.",
+      "url": "https://www.404media.co/podcast-we-are-living-in-a-chatgpt-flyer-pandemic/",
+      "published": "2026-07-15T15:58:34+00:00",
+      "summary": "ChatGPT flyers are everywhere; how Waymo drove some kids to the cops; and a $3,000 suit that electrocutes your muscles.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
+    },
+    {
+      "title": "Opinion: The Mismatch Between Childcare Policy and Parental Preferences",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/zero2eight/the-mismatch-between-childcare-policy-and-parental-preferences/",
+      "published": "2026-07-15T16:30:00+00:00",
+      "summary": "Family preferences on childcare arrangements vary, sometimes wildly, but many parents consistently report a desire to be able to care for their young children themselves and for trusted family, friends and neighbors to be able to do so.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 6
     }
   ],
   "youtube": [
@@ -146,8 +146,8 @@
       "published": "2026-07-15T13:58:27+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://transformer-circuits.pub/2025/linebreaks/index.html Paper for reindeer vision change - https://royalsocietypublishing.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "How Trees Communicate",
@@ -172,6 +172,28 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "A promising tale from Senegal of fish, rice....and dangerous worms",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=LRjraCdE2oA",
+      "published": "2026-07-16T13:00:21+00:00",
+      "summary": "Farmers in Senegal are welcoming fish into their rice paddies. The hope is they'll fertilize the crop, be a source of food...and eat the snails that carry parasitic worms.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Bill Maher shares more details about his dinner with President Trump last year",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=SohlyhMg1hQ",
+      "published": "2026-07-16T12:00:23+00:00",
+      "summary": "Bill Maher shares more details about what his dinner with President Trump last year revealed about his personality. Trump has since called the comedian a “highly overrated lightweight.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "House passes bill to make daylight saving time permanent",
       "source": "NPR",
       "category": "News / analysis",
@@ -179,8 +201,8 @@
       "published": "2026-07-15T22:00:05+00:00",
       "summary": "The House has voted to make daylight saving time permanent. The legislation now heads to the Senate. The bill passed with bipartisan support, by a vote of 308-117.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "New York Governor signs first-of-its-kind moratorium on large data center projects",
@@ -227,37 +249,15 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "Officials investigating second fatal ICE shooting in a week",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=tH15IAn0R1U",
-      "published": "2026-07-14T20:00:35+00:00",
-      "summary": "An investigation is underway into the second fatal shooting by ICE agents in a week.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Palestinian shepherding communities face attacks in the West Bank",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=1yD_lLnHmik",
-      "published": "2026-07-14T13:00:11+00:00",
-      "summary": "Israel’s highest court has been unable to stop the demolition of a shepherding community by Jewish settlers in the occupied West Bank.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
       "title": "PS5 \"Don't Kill The Disc\" Petition Crosses 250,000 Signatures",
       "source": "Digital Foundry",
       "category": "Games / hardware",
       "url": "https://www.youtube.com/watch?v=1VZCrL7R14A",
       "published": "2026-07-15T17:00:29+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "summary": "► Find the Petition Here: https://www.change.org/p/don-t-kill-the-disc-tell-sony-to-keep-physical-playstation-games ► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "John Carmack Weighs In On The id Software Lay-Offs Debacle",
@@ -311,8 +311,8 @@
       "published": "2026-07-16T01:11:19+00:00",
       "summary": "KC and Marty are taking a short break from Star Fox to show off the new indie Denshattack! -- https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Yahtzee Tries... D-topia and Rock Bottom",
@@ -322,8 +322,8 @@
       "published": "2026-07-15T22:08:14+00:00",
       "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Star Fox | Fully Ramblomatic",
@@ -500,7 +500,7 @@
       "published": "2026-07-16T01:00:06+00:00",
       "summary": "10 YEARS AGO TODAY #StrangerThings Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
