@@ -1,100 +1,110 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-17T09:00:28.227188Z",
-  "generatedAtDisplay": "2026-07-17 05:00 AM EDT",
+  "generatedAt": "2026-07-17T14:00:05.106666Z",
+  "generatedAtDisplay": "2026-07-17 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / privacy. The strongest items in this run are How Trump’s address was bluntly aimed at destabilizing the US electoral system, Fortnite is getting a bunch of AI-powered ‘personas’, and Bill Giving $10,000 Bonuses to NYC Paraprofessionals Heads to Mayor’s Desk.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Burnham declares he is ready to ‘beat Britain’s new right’ as he becomes Labour leader, FCC took pricey gifts from Paramount as the company needed approval for deals, and The new Marvel's Wolverine cinematic trailer has been swarmed by PlayStation fans still angry at Sony ditching discs.",
   "mainItems": [
     {
-      "title": "How Trump’s address was bluntly aimed at destabilizing the US electoral system",
+      "title": "Burnham declares he is ready to ‘beat Britain’s new right’ as he becomes Labour leader",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/trump-address-us-elections",
-      "published": "2026-07-17T03:18:40+00:00",
-      "summary": "US president using office and intelligence agencies to try to undermine confidence in elections before midterms Donald Trump used the imprimatur of the presidency and United States intelligence agencies to try to undermine confidence in…",
+      "url": "https://www.theguardian.com/politics/2026/jul/17/andy-burnham-becomes-labour-leader-final-step-towards-uk-pm",
+      "published": "2026-07-17T13:46:33+00:00",
+      "summary": "Former Greater Manchester mayor, who will take over as PM on Monday, says country ‘crying out for a new politics’ UK politics live – latest updates Andy Burnham has declared himself ready to “beat Britain’s new right” with a fresh, united…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
-      "source": "The Verge",
+      "title": "FCC took pricey gifts from Paramount as the company needed approval for deals",
+      "source": "Ars Technica",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
-      "published": "2026-07-16T21:31:58+00:00",
-      "summary": "Get ready for more AI characters in Fortnite.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/fcc-took-pricey-gifts-from-paramount-as-the-company-needed-approval-for-deals/",
+      "published": "2026-07-17T11:15:55+00:00",
+      "summary": "FCC chair has been gifted at least $63,000 worth of tickets by CBS or its parent company.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Bill Giving $10,000 Bonuses to NYC Paraprofessionals Heads to Mayor’s Desk",
+      "title": "The new Marvel's Wolverine cinematic trailer has been swarmed by PlayStation fans still angry at Sony ditching discs",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/marvels-wolverine-story-trailer-sony-disc-outrage",
+      "published": "2026-07-17T11:14:54+00:00",
+      "summary": "A cinematic trailer has been released for Insomniac Game's upcoming mutant action romp: Marvel's Wolverine.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "‘Laws were broken’: multistate effort to stop Paramount’s $111bn merger heads to court",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/media/2026/jul/17/paramount-warner-bros-merger",
+      "published": "2026-07-17T11:00:06+00:00",
+      "summary": "Attorneys general from 12 states are suing to block the Paramount-Warner Bros deal they say violates antitrust law A last-ditch effort to block the merger between Paramount Skydance and Warner Bros Discovery (WBD) is heading to court as 12…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Five Tips for Teachers on Bringing Homer to High Schoolers",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/bill-giving-10000-bonuses-to-nyc-paraprofessionals-heads-to-mayors-desk/",
-      "published": "2026-07-16T21:09:43+00:00",
-      "summary": "A bill to provide $10,000 bonuses to New York City’s full-time paraprofessionals is headed to Mayor Zohran Mamdani’s desk after it was approved by City Council members Thursday.",
+      "url": "https://www.the74million.org/article/five-tips-for-teachers-on-bringing-homer-to-high-schoolers/",
+      "published": "2026-07-17T10:30:00+00:00",
+      "summary": "I stand alone on a stage in front of 200 high school freshmen. They’re looking at their phones, talking to one other, laughing — paying attention to anything but me.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
-      "title": "It's official: EU will force Google to share search data and open up AI on Android",
-      "source": "Ars Technica",
-      "category": "AI / privacy",
-      "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-      "published": "2026-07-16T20:41:45+00:00",
-      "summary": "Google says these changes could endanger user privacy and security.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Google is better than Apple at playing the AI regulations game",
+      "title": "Netflix says around 300 titles used generative AI",
       "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
-      "published": "2026-07-16T19:41:51+00:00",
-      "summary": "Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising.",
+      "url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
+      "published": "2026-07-17T10:07:36+00:00",
+      "summary": "Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Roblox will let people use AI to make games on their phone",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
-      "published": "2026-07-16T17:26:35+00:00",
-      "summary": "Roblox is about to let people make games with AI right inside its mobile app, which could make a platform that's already filled with content of questionable quality feel even more overloaded.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "‘Adversarial clothing’: are garments designed to confuse facial recognition systems about to go mainstream?",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/fashion/2026/jul/17/adversarial-clothing-are-garments-designed-to-confuse-facial-recognition-systems-about-to-go-mainstream",
+      "published": "2026-07-17T09:00:05+00:00",
+      "summary": "Designers say that as well as offering a degree of protection from surveillance, their clothes make a powerful fashion statement about the importance of privacy As facial recognition technology is rolled out across Britain’s public spaces,…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Castlevania Belmont's Curse could just be a gaming classic whipped back into shape",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/castlevania-belmonts-curse-preview",
-      "published": "2026-07-17T07:00:23+00:00",
-      "summary": "Castlevania Belmont's Curse is a grand return to the series' platformer roots. Developed by Konami and Evil Empire, it's a gothic cathedral built with new material, upon the strongest of genre foundations.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Even Microsoft couldn’t make Windows 11 work well on 8GB of RAM",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/966937/microsoft-surface-laptop-13-inch-8gb-ram-2026-review",
+      "published": "2026-07-17T13:27:29+00:00",
+      "summary": "Last year, Microsoft's 13-inch Surface Laptop quickly became one of my favorite thin-and-light Windows notebooks.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "‘I’m sorry but I’m unable to speak’: hero of India’s Cockroach party weakens on 19th day of hunger strike",
+      "title": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/global-development/2026/jul/17/indian-protester-hunger-strike-modi-government-sonam-wangchuk",
-      "published": "2026-07-17T03:00:56+00:00",
-      "summary": "The climate activist and engineer Sonam Wangchuk, who has become the figurehead of anti-government protests in Delhi, is resisting calls to end his fast until the education minister resigns As night falls on day 18 of his hunger strike,…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
+      "published": "2026-07-17T13:49:33+00:00",
+      "summary": "109 million people face another day of poor air quality as smoke from blazes in Ontario drifts over the US Sign up for the Breaking News US newsletter email Tens of millions of Americans face another day of smoky skies, irritated eyes and…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
+      "score": 8
     },
     {
-      "title": "Opinion: A Step-by-Step Guide to AI in Schools — How Much to Use and When",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/a-step-by-step-guide-to-how-much-ai-to-use-in-schools-and-when/",
-      "published": "2026-07-16T12:30:00+00:00",
-      "summary": "Every few years, a new technology enters schools. Television beamed lessons from the best teachers into classrooms. Computers and the internet gave students access to a wealth of information, right at their fingertips.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
+      "title": "Trump's team says 'no children' died from USAID cuts. Consider these 3 cases",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/07/17/g-s1-133651/usaid-elon-musk-rubio-deaths",
+      "published": "2026-07-17T10:37:02+00:00",
+      "summary": "Both Marco Rubio and Elon Musk, who led the effort to sunset the foreign aid agency, have said that no deaths have been linked to the cutting of its funding. These parents tell a different story.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
@@ -105,16 +115,6 @@
       "summary": "American-led restrictions have blocked China from accessing some of the world's most advanced technologies, spurring China's efforts to build its own know-how and intensifying the tech race between the world's two biggest economies.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
-    },
-    {
-      "title": "FDA approves new cholesterol-lowering drug",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5896183/fda-approves-new-cholesterol-lowering-drug",
-      "published": "2026-07-17T08:42:38+00:00",
-      "summary": "The Food and Drug Administration has approved a powerful new kind of cholesterol-lowering drug.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     },
     {
       "title": "Scientists Discover Planet Has Everything to Host ‘Earth-Like Life’ In Breakthrough",
@@ -348,6 +348,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "How to Run a Successful One-Shot w/ Sophia Ricciardi from Rolling with Difficulty | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=TUoIdAYPkQU",
+      "published": "2026-07-17T10:29:06+00:00",
+      "summary": "You've gotta treat a one-shot differently than a campaign. The pacing, the content, the payoffs. Everything needs to be on a tighter timetable but still be satisfying.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "Modern Games That Changed the Industry | Firelink Podcast",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -357,17 +368,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "How to Run a Successful One-Shot w/ Sophia Ricciardi from Rolling with Difficulty | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=TUoIdAYPkQU",
-      "published": "2026-07-16T18:53:18+00:00",
-      "summary": "You've gotta treat a one-shot differently than a campaign. The pacing, the content, the payoffs. Everything needs to be on a tighter timetable but still be satisfying.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     },
     {
       "title": "Fallout 3 Smooch a Super Mutant Speedrun w/ Jack, Jess, and Marty -- Part 6",
@@ -537,6 +537,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "One Hundred Years of Solitude: Part Two | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=F7iKrcc5L3M",
+      "published": "2026-07-17T12:00:00+00:00",
+      "summary": "Macondo is changing. New inhabitants, its connection to the world and the destiny of the Buendía family will hasten the town’s downfall. One Hundred Years of Solitude: Part Two, coming to Netflix August 5 and the Grand Finale on August 26.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Kevin Hart Meets the Bachelor Party Crew | 72 Hours | Sneak Peek | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -631,17 +642,6 @@
       "url": "https://www.youtube.com/watch?v=u3AqZnc-lJY",
       "published": "2026-07-14T03:30:05+00:00",
       "summary": "Will Ferrell says getting hit in the nuts feels a lot like being on Hot Ones: Extra Heat. Watch The Hawk cast tackle the wings of death. Now on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "JORDAN WALKER HOME RUN DERBY WINNER #HRDerby",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=3McWorwiPIE",
-      "published": "2026-07-14T02:49:25+00:00",
-      "summary": "About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"

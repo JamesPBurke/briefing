@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-17T09:00:28.227188Z
+Generated: 2026-07-17T14:00:05.106666Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / privacy. The strongest items in this run are How Trump’s address was bluntly aimed at destabilizing the US electoral system, Fortnite is getting a bunch of AI-powered ‘personas’, and Bill Giving $10,000 Bonuses to NYC Paraprofessionals Heads to Mayor’s Desk.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Burnham declares he is ready to ‘beat Britain’s new right’ as he becomes Labour leader, FCC took pricey gifts from Paramount as the company needed approval for deals, and The new Marvel's Wolverine cinematic trailer has been swarmed by PlayStation fans still angry at Sony ditching discs.
 
 ## Briefing
 
@@ -33,88 +33,97 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. How Trump’s address was bluntly aimed at destabilizing the US electoral system [10/10]
+### 1. Burnham declares he is ready to ‘beat Britain’s new right’ as he becomes Labour leader [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-US president using office and intelligence agencies to try to undermine confidence in elections before midterms Donald Trump used the imprimatur of the presidency and United States intelligence agencies to try to undermine confidence in…
+Former Greater Manchester mayor, who will take over as PM on Monday, says country ‘crying out for a new politics’ UK politics live – latest updates Andy Burnham has declared himself ready to “beat Britain’s new right” with a fresh, united…
 
-Link: https://www.theguardian.com/us-news/2026/jul/16/trump-address-us-elections
+Link: https://www.theguardian.com/politics/2026/jul/17/andy-burnham-becomes-labour-leader-final-step-towards-uk-pm
 
-### 2. Fortnite is getting a bunch of AI-powered ‘personas’ [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Get ready for more AI characters in Fortnite.
-
-Link: https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas
-
-### 3. Bill Giving $10,000 Bonuses to NYC Paraprofessionals Heads to Mayor’s Desk [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-A bill to provide $10,000 bonuses to New York City’s full-time paraprofessionals is headed to Mayor Zohran Mamdani’s desk after it was approved by City Council members Thursday.
-
-Link: https://www.the74million.org/article/bill-giving-10000-bonuses-to-nyc-paraprofessionals-heads-to-mayors-desk/
-
-### 4. It's official: EU will force Google to share search data and open up AI on Android [10/10]
+### 2. FCC took pricey gifts from Paramount as the company needed approval for deals [10/10]
 **Source:** Ars Technica  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Google says these changes could endanger user privacy and security.
-
-Link: https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/
-
-### 5. Google is better than Apple at playing the AI regulations game [10/10]
-**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising.
+FCC chair has been gifted at least $63,000 worth of tickets by CBS or its parent company.
 
-Link: https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai
+Link: https://arstechnica.com/tech-policy/2026/07/fcc-took-pricey-gifts-from-paramount-as-the-company-needed-approval-for-deals/
 
-### 6. Roblox will let people use AI to make games on their phone [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Roblox is about to let people make games with AI right inside its mobile app, which could make a platform that's already filled with content of questionable quality feel even more overloaded.
-
-Link: https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games
-
-### 7. Castlevania Belmont's Curse could just be a gaming classic whipped back into shape [9/10]
+### 3. The new Marvel's Wolverine cinematic trailer has been swarmed by PlayStation fans still angry at Sony ditching discs [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Castlevania Belmont's Curse is a grand return to the series' platformer roots. Developed by Konami and Evil Empire, it's a gothic cathedral built with new material, upon the strongest of genre foundations.
+A cinematic trailer has been released for Insomniac Game's upcoming mutant action romp: Marvel's Wolverine.
 
-Link: https://www.eurogamer.net/castlevania-belmonts-curse-preview
+Link: https://www.eurogamer.net/marvels-wolverine-story-trailer-sony-disc-outrage
 
-### 8. ‘I’m sorry but I’m unable to speak’: hero of India’s Cockroach party weakens on 19th day of hunger strike [9/10]
+### 4. ‘Laws were broken’: multistate effort to stop Paramount’s $111bn merger heads to court [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Attorneys general from 12 states are suing to block the Paramount-Warner Bros deal they say violates antitrust law A last-ditch effort to block the merger between Paramount Skydance and Warner Bros Discovery (WBD) is heading to court as 12…
+
+Link: https://www.theguardian.com/media/2026/jul/17/paramount-warner-bros-merger
+
+### 5. Opinion: Five Tips for Teachers on Bringing Homer to High Schoolers [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+I stand alone on a stage in front of 200 high school freshmen. They’re looking at their phones, talking to one other, laughing — paying attention to anything but me.
+
+Link: https://www.the74million.org/article/five-tips-for-teachers-on-bringing-homer-to-high-schoolers/
+
+### 6. Netflix says around 300 titles used generative AI [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production.
+
+Link: https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings
+
+### 7. ‘Adversarial clothing’: are garments designed to confuse facial recognition systems about to go mainstream? [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Designers say that as well as offering a degree of protection from surveillance, their clothes make a powerful fashion statement about the importance of privacy As facial recognition technology is rolled out across Britain’s public spaces,…
+
+Link: https://www.theguardian.com/fashion/2026/jul/17/adversarial-clothing-are-garments-designed-to-confuse-facial-recognition-systems-about-to-go-mainstream
+
+### 8. Even Microsoft couldn’t make Windows 11 work well on 8GB of RAM [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Last year, Microsoft's 13-inch Surface Laptop quickly became one of my favorite thin-and-light Windows notebooks.
+
+Link: https://www.theverge.com/tech/966937/microsoft-surface-laptop-13-inch-8gb-ram-2026-review
+
+### 9. More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-The climate activist and engineer Sonam Wangchuk, who has become the figurehead of anti-government protests in Delhi, is resisting calls to end his fast until the education minister resigns As night falls on day 18 of his hunger strike,…
+109 million people face another day of poor air quality as smoke from blazes in Ontario drifts over the US Sign up for the Breaking News US newsletter email Tens of millions of Americans face another day of smoky skies, irritated eyes and…
 
-Link: https://www.theguardian.com/global-development/2026/jul/17/indian-protester-hunger-strike-modi-government-sonam-wangchuk
+Link: https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east
 
-### 9. Opinion: A Step-by-Step Guide to AI in Schools — How Much to Use and When [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 10. Trump's team says 'no children' died from USAID cuts. Consider these 3 cases [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-Every few years, a new technology enters schools. Television beamed lessons from the best teachers into classrooms. Computers and the internet gave students access to a wealth of information, right at their fingertips.
+Both Marco Rubio and Elon Musk, who led the effort to sunset the foreign aid agency, have said that no deaths have been linked to the cutting of its funding. These parents tell a different story.
 
-Link: https://www.the74million.org/article/a-step-by-step-guide-to-how-much-ai-to-use-in-schools-and-when/
+Link: https://www.npr.org/2026/07/17/g-s1-133651/usaid-elon-musk-rubio-deaths
 
-### 10. China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access [8/10]
+### 11. China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -122,15 +131,6 @@ Link: https://www.the74million.org/article/a-step-by-step-guide-to-how-much-ai-t
 American-led restrictions have blocked China from accessing some of the world's most advanced technologies, spurring China's efforts to build its own know-how and intensifying the tech race between the world's two biggest economies.
 
 Link: https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access
-
-### 11. FDA approves new cholesterol-lowering drug [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-The Food and Drug Administration has approved a powerful new kind of cholesterol-lowering drug.
-
-Link: https://www.npr.org/2026/07/17/nx-s1-5896183/fda-approves-new-cholesterol-lowering-drug
 
 ### 12. Scientists Discover Planet Has Everything to Host ‘Earth-Like Life’ In Breakthrough [7/10]
 **Source:** 404 Media  
@@ -323,6 +323,15 @@ Link: https://www.youtube.com/watch?v=oA_GRwGsS4g
 
 Link: https://www.youtube.com/watch?v=EH1l_qVV81I
 
+### How to Run a Successful One-Shot w/ Sophia Ricciardi from Rolling with Difficulty | RPG Help Desk [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+You've gotta treat a one-shot differently than a campaign. The pacing, the content, the payoffs. Everything needs to be on a tighter timetable but still be satisfying.
+
+Link: https://www.youtube.com/watch?v=TUoIdAYPkQU
+
 ### Modern Games That Changed the Industry | Firelink Podcast [8/10]
 **Creator:** Second Wind  
 **Verdict:** Worth watching  
@@ -331,15 +340,6 @@ Link: https://www.youtube.com/watch?v=EH1l_qVV81I
 This week on Firelink, Nick, KC, and Marty chat about recent games that changed the industry. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.fantasycritic.
 
 Link: https://www.youtube.com/watch?v=yCNkkYIrS5o
-
-### How to Run a Successful One-Shot w/ Sophia Ricciardi from Rolling with Difficulty | RPG Help Desk [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-You've gotta treat a one-shot differently than a campaign. The pacing, the content, the payoffs. Everything needs to be on a tighter timetable but still be satisfying.
-
-Link: https://www.youtube.com/watch?v=TUoIdAYPkQU
 
 ### Fallout 3 Smooch a Super Mutant Speedrun w/ Jack, Jess, and Marty -- Part 6 [7/10]
 **Creator:** Second Wind  
@@ -505,6 +505,15 @@ With dreams of starting a perfect family, Saga and her British husband Jon move 
 
 Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
 
+### One Hundred Years of Solitude: Part Two | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Macondo is changing. New inhabitants, its connection to the world and the destiny of the Buendía family will hasten the town’s downfall. One Hundred Years of Solitude: Part Two, coming to Netflix August 5 and the Grand Finale on August 26.
+
+Link: https://www.youtube.com/watch?v=F7iKrcc5L3M
+
 ### Kevin Hart Meets the Bachelor Party Crew | 72 Hours | Sneak Peek | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -585,15 +594,6 @@ Link: https://www.youtube.com/watch?v=ZHRR-1CKYIQ
 Will Ferrell says getting hit in the nuts feels a lot like being on Hot Ones: Extra Heat. Watch The Hawk cast tackle the wings of death. Now on Netflix. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=u3AqZnc-lJY
-
-### JORDAN WALKER HOME RUN DERBY WINNER #HRDerby [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-About Netflix: Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages.
-
-Link: https://www.youtube.com/watch?v=3McWorwiPIE
 
 ### Silo — Season 3 Memory | Apple TV [10/10]
 **Source:** Apple TV  
