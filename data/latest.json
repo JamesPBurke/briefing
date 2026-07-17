@@ -1,10 +1,10 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-17T05:00:02.799956Z",
-  "generatedAtDisplay": "2026-07-17 01:00 AM EDT",
+  "generatedAt": "2026-07-17T09:00:28.227188Z",
+  "generatedAtDisplay": "2026-07-17 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / privacy. The strongest items in this run are How Trump’s address was bluntly aimed at destabilizing the US electoral system, Thousands of Google workers demand layoff protections amid AI boom in petition to CEO, and Fortnite is getting a bunch of AI-powered ‘personas’.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / privacy. The strongest items in this run are How Trump’s address was bluntly aimed at destabilizing the US electoral system, Fortnite is getting a bunch of AI-powered ‘personas’, and Bill Giving $10,000 Bonuses to NYC Paraprofessionals Heads to Mayor’s Desk.",
   "mainItems": [
     {
       "title": "How Trump’s address was bluntly aimed at destabilizing the US electoral system",
@@ -13,16 +13,6 @@
       "url": "https://www.theguardian.com/us-news/2026/jul/16/trump-address-us-elections",
       "published": "2026-07-17T03:18:40+00:00",
       "summary": "US president using office and intelligence agencies to try to undermine confidence in elections before midterms Donald Trump used the imprimatur of the presidency and United States intelligence agencies to try to undermine confidence in…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Thousands of Google workers demand layoff protections amid AI boom in petition to CEO",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/technology/2026/jul/16/google-workers-layoff-protections-ai",
-      "published": "2026-07-16T22:22:06+00:00",
-      "summary": "The petition to Sundar Pichai, the CEO, included more than 4,500 signatures and included calls for buyout options Google workers on Thursday delivered a petition calling for layoff protections as tech giants continue to slash their…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -57,32 +47,42 @@
       "score": 10
     },
     {
-      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
-      "source": "Ars Technica",
+      "title": "Google is better than Apple at playing the AI regulations game",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
+      "published": "2026-07-16T19:41:51+00:00",
+      "summary": "Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Roblox will let people use AI to make games on their phone",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
-      "published": "2026-07-16T19:18:23+00:00",
-      "summary": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools.",
+      "url": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
+      "published": "2026-07-16T17:26:35+00:00",
+      "summary": "Roblox is about to let people make games with AI right inside its mobile app, which could make a platform that's already filled with content of questionable quality feel even more overloaded.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Marathon's experimental PvE roguelite mode is, bafflingly, only around for two weeks when it drops next week",
-      "source": "Rock Paper Shotgun",
+      "title": "Castlevania Belmont's Curse could just be a gaming classic whipped back into shape",
+      "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/marathons-experimental-pve-roguelite-mode-is-bafflingly-only-around-for-two-weeks-when-it-drops-next-week",
-      "published": "2026-07-16T17:58:21+00:00",
-      "summary": "Marathon 's already announced mid-season 2 update is set to arrive next week, bringing with it the shooter's first proper, albeit experimental, PvE mode, Vault Breaker.",
+      "url": "https://www.eurogamer.net/castlevania-belmonts-curse-preview",
+      "published": "2026-07-17T07:00:23+00:00",
+      "summary": "Castlevania Belmont's Curse is a grand return to the series' platformer roots. Developed by Konami and Evil Empire, it's a gothic cathedral built with new material, upon the strongest of genre foundations.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "White House teleprompter operator put on leave over alleged bets on Trump speeches",
+      "title": "‘I’m sorry but I’m unable to speak’: hero of India’s Cockroach party weakens on 19th day of hunger strike",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/trump-teleprompter-operator-kalshi-bets",
-      "published": "2026-07-16T21:04:17+00:00",
-      "summary": "Karoline Leavitt calls apparent bets on Kalshi prediction platform ‘deeply unfortunate and frankly a disgrace’ Donald Trump’s longtime teleprompter operator has been placed on administrative leave, the White House said on Thursday, after…",
+      "url": "https://www.theguardian.com/global-development/2026/jul/17/indian-protester-hunger-strike-modi-government-sonam-wangchuk",
+      "published": "2026-07-17T03:00:56+00:00",
+      "summary": "The climate activist and engineer Sonam Wangchuk, who has become the figurehead of anti-government protests in Delhi, is resisting calls to end his fast until the education minister resigns As night falls on day 18 of his hunger strike,…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
@@ -97,14 +97,24 @@
       "score": 9
     },
     {
-      "title": "TrumpRx promised a supermarket for cheaper drugs but delivered a boutique",
+      "title": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access",
+      "published": "2026-07-17T07:17:04+00:00",
+      "summary": "American-led restrictions have blocked China from accessing some of the world's most advanced technologies, spurring China's efforts to build its own know-how and intensifying the tech race between the world's two biggest economies.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
+    },
+    {
+      "title": "FDA approves new cholesterol-lowering drug",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5894947/trump-rx-medicine-drugs-health-care-pfizer-low-prices-gilead",
-      "published": "2026-07-16T09:00:00+00:00",
-      "summary": "President Trump said TrumpRx is the biggest thing to happen in healthcare in decades. But an NPR analysis finds drugmakers are only offering deals on a few of their medicines.",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5896183/fda-approves-new-cholesterol-lowering-drug",
+      "published": "2026-07-17T08:42:38+00:00",
+      "summary": "The Food and Drug Administration has approved a powerful new kind of cholesterol-lowering drug.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
     },
     {
       "title": "Scientists Discover Planet Has Everything to Host ‘Earth-Like Life’ In Breakthrough",
@@ -114,16 +124,6 @@
       "published": "2026-07-16T18:00:10+00:00",
       "summary": "For the first time, scientists found that a rocky planet in the habitable zone of its star has an atmosphere. It’s the best place to look for alien biosignatures, scientists say.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
-    },
-    {
-      "title": "Officials probe whether White House teleprompter operator profited off Trump's words",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet",
-      "published": "2026-07-16T17:10:29+00:00",
-      "summary": "It's the first known instance of officials investigating suspected insider trading on a prediction market from inside the White House.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 7
     },
     {
@@ -355,8 +355,8 @@
       "published": "2026-07-17T01:08:57+00:00",
       "summary": "This week on Firelink, Nick, KC, and Marty chat about recent games that changed the industry. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.fantasycritic.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "How to Run a Successful One-Shot w/ Sophia Ricciardi from Rolling with Difficulty | RPG Help Desk",
@@ -366,8 +366,8 @@
       "published": "2026-07-16T18:53:18+00:00",
       "summary": "You've gotta treat a one-shot differently than a campaign. The pacing, the content, the payoffs. Everything needs to be on a tighter timetable but still be satisfying.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Fallout 3 Smooch a Super Mutant Speedrun w/ Jack, Jess, and Marty -- Part 6",
@@ -377,8 +377,8 @@
       "published": "2026-07-16T18:57:17+00:00",
       "summary": "After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "The Modern Bum Camera Problem | Semi-Ramblomatic",
@@ -544,7 +544,7 @@
       "published": "2026-07-16T20:00:00+00:00",
       "summary": "They accidentally added him to their bachelor party group chat... now what? Kevin Hart meets the gang — Marcello Hernández, Mason Gooding, Kam Patterson, and Ben Marshall — in 72 Hours, premiering on Netflix on July 24th.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {

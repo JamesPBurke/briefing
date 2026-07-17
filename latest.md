@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-17T05:00:02.799956Z
+Generated: 2026-07-17T09:00:28.227188Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / privacy. The strongest items in this run are How Trump’s address was bluntly aimed at destabilizing the US electoral system, Thousands of Google workers demand layoff protections amid AI boom in petition to CEO, and Fortnite is getting a bunch of AI-powered ‘personas’.
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / privacy. The strongest items in this run are How Trump’s address was bluntly aimed at destabilizing the US electoral system, Fortnite is getting a bunch of AI-powered ‘personas’, and Bill Giving $10,000 Bonuses to NYC Paraprofessionals Heads to Mayor’s Desk.
 
 ## Briefing
 
@@ -42,16 +42,7 @@ US president using office and intelligence agencies to try to undermine confiden
 
 Link: https://www.theguardian.com/us-news/2026/jul/16/trump-address-us-elections
 
-### 2. Thousands of Google workers demand layoff protections amid AI boom in petition to CEO [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The petition to Sundar Pichai, the CEO, included more than 4,500 signatures and included calls for buyout options Google workers on Thursday delivered a petition calling for layoff protections as tech giants continue to slash their…
-
-Link: https://www.theguardian.com/technology/2026/jul/16/google-workers-layoff-protections-ai
-
-### 3. Fortnite is getting a bunch of AI-powered ‘personas’ [10/10]
+### 2. Fortnite is getting a bunch of AI-powered ‘personas’ [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -60,7 +51,7 @@ Get ready for more AI characters in Fortnite.
 
 Link: https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas
 
-### 4. Bill Giving $10,000 Bonuses to NYC Paraprofessionals Heads to Mayor’s Desk [10/10]
+### 3. Bill Giving $10,000 Bonuses to NYC Paraprofessionals Heads to Mayor’s Desk [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -69,7 +60,7 @@ A bill to provide $10,000 bonuses to New York City’s full-time paraprofessiona
 
 Link: https://www.the74million.org/article/bill-giving-10000-bonuses-to-nyc-paraprofessionals-heads-to-mayors-desk/
 
-### 5. It's official: EU will force Google to share search data and open up AI on Android [10/10]
+### 4. It's official: EU will force Google to share search data and open up AI on Android [10/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -78,32 +69,41 @@ Google says these changes could endanger user privacy and security.
 
 Link: https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/
 
-### 6. Linus Torvalds to critics of AI coding in Linux: "Fork it. Or just walk away." [10/10]
-**Source:** Ars Technica  
+### 5. Google is better than Apple at playing the AI regulations game [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising.
+
+Link: https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai
+
+### 6. Roblox will let people use AI to make games on their phone [10/10]
+**Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Creator says he will "very loudly ignore" those arguing for a ban on AI tools.
+Roblox is about to let people make games with AI right inside its mobile app, which could make a platform that's already filled with content of questionable quality feel even more overloaded.
 
-Link: https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/
+Link: https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games
 
-### 7. Marathon's experimental PvE roguelite mode is, bafflingly, only around for two weeks when it drops next week [10/10]
-**Source:** Rock Paper Shotgun  
+### 7. Castlevania Belmont's Curse could just be a gaming classic whipped back into shape [9/10]
+**Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Marathon 's already announced mid-season 2 update is set to arrive next week, bringing with it the shooter's first proper, albeit experimental, PvE mode, Vault Breaker.
+Castlevania Belmont's Curse is a grand return to the series' platformer roots. Developed by Konami and Evil Empire, it's a gothic cathedral built with new material, upon the strongest of genre foundations.
 
-Link: https://www.rockpapershotgun.com/marathons-experimental-pve-roguelite-mode-is-bafflingly-only-around-for-two-weeks-when-it-drops-next-week
+Link: https://www.eurogamer.net/castlevania-belmonts-curse-preview
 
-### 8. White House teleprompter operator put on leave over alleged bets on Trump speeches [9/10]
+### 8. ‘I’m sorry but I’m unable to speak’: hero of India’s Cockroach party weakens on 19th day of hunger strike [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Karoline Leavitt calls apparent bets on Kalshi prediction platform ‘deeply unfortunate and frankly a disgrace’ Donald Trump’s longtime teleprompter operator has been placed on administrative leave, the White House said on Thursday, after…
+The climate activist and engineer Sonam Wangchuk, who has become the figurehead of anti-government protests in Delhi, is resisting calls to end his fast until the education minister resigns As night falls on day 18 of his hunger strike,…
 
-Link: https://www.theguardian.com/us-news/2026/jul/16/trump-teleprompter-operator-kalshi-bets
+Link: https://www.theguardian.com/global-development/2026/jul/17/indian-protester-hunger-strike-modi-government-sonam-wangchuk
 
 ### 9. Opinion: A Step-by-Step Guide to AI in Schools — How Much to Use and When [9/10]
 **Source:** The 74  
@@ -114,16 +114,25 @@ Every few years, a new technology enters schools. Television beamed lessons from
 
 Link: https://www.the74million.org/article/a-step-by-step-guide-to-how-much-ai-to-use-in-schools-and-when/
 
-### 10. TrumpRx promised a supermarket for cheaper drugs but delivered a boutique [8/10]
+### 10. China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+American-led restrictions have blocked China from accessing some of the world's most advanced technologies, spurring China's efforts to build its own know-how and intensifying the tech race between the world's two biggest economies.
+
+Link: https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access
+
+### 11. FDA approves new cholesterol-lowering drug [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-President Trump said TrumpRx is the biggest thing to happen in healthcare in decades. But an NPR analysis finds drugmakers are only offering deals on a few of their medicines.
+The Food and Drug Administration has approved a powerful new kind of cholesterol-lowering drug.
 
-Link: https://www.npr.org/2026/07/16/nx-s1-5894947/trump-rx-medicine-drugs-health-care-pfizer-low-prices-gilead
+Link: https://www.npr.org/2026/07/17/nx-s1-5896183/fda-approves-new-cholesterol-lowering-drug
 
-### 11. Scientists Discover Planet Has Everything to Host ‘Earth-Like Life’ In Breakthrough [7/10]
+### 12. Scientists Discover Planet Has Everything to Host ‘Earth-Like Life’ In Breakthrough [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -131,15 +140,6 @@ Link: https://www.npr.org/2026/07/16/nx-s1-5894947/trump-rx-medicine-drugs-healt
 For the first time, scientists found that a rocky planet in the habitable zone of its star has an atmosphere. It’s the best place to look for alien biosignatures, scientists say.
 
 Link: https://www.404media.co/scientists-discover-planet-has-everything-to-host-earth-like-life-in-breakthrough/
-
-### 12. Officials probe whether White House teleprompter operator profited off Trump's words [7/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-It's the first known instance of officials investigating suspected insider trading on a prediction market from inside the White House.
-
-Link: https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet
 
 ### 13. Avatar Aang: The Last Airbender Heads to Select Theaters as Tickets Go on Sale [7/10]
 **Source:** Reactor  
@@ -323,27 +323,27 @@ Link: https://www.youtube.com/watch?v=oA_GRwGsS4g
 
 Link: https://www.youtube.com/watch?v=EH1l_qVV81I
 
-### Modern Games That Changed the Industry | Firelink Podcast [9/10]
+### Modern Games That Changed the Industry | Firelink Podcast [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Firelink, Nick, KC, and Marty chat about recent games that changed the industry. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.fantasycritic.
 
 Link: https://www.youtube.com/watch?v=yCNkkYIrS5o
 
-### How to Run a Successful One-Shot w/ Sophia Ricciardi from Rolling with Difficulty | RPG Help Desk [8/10]
+### How to Run a Successful One-Shot w/ Sophia Ricciardi from Rolling with Difficulty | RPG Help Desk [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 You've gotta treat a one-shot differently than a campaign. The pacing, the content, the payoffs. Everything needs to be on a tighter timetable but still be satisfying.
 
 Link: https://www.youtube.com/watch?v=TUoIdAYPkQU
 
-### Fallout 3 Smooch a Super Mutant Speedrun w/ Jack, Jess, and Marty -- Part 6 [8/10]
+### Fallout 3 Smooch a Super Mutant Speedrun w/ Jack, Jess, and Marty -- Part 6 [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
@@ -505,7 +505,7 @@ With dreams of starting a perfect family, Saga and her British husband Jon move 
 
 Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
 
-### Kevin Hart Meets the Bachelor Party Crew | 72 Hours | Sneak Peek | Netflix [10/10]
+### Kevin Hart Meets the Bachelor Party Crew | 72 Hours | Sneak Peek | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
