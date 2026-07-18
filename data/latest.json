@@ -1,11 +1,51 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-18T09:01:00.944013Z",
-  "generatedAtDisplay": "2026-07-18 05:01 AM EDT",
+  "generatedAt": "2026-07-18T14:00:02.838952Z",
+  "generatedAtDisplay": "2026-07-18 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Netflix's games strategy might be a mess, but Oxenfree studio's ingenious new chiller-thriller shows it has a secret weapon, ‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices, and DHS secretary doubles down on Trump’s baseless 2020 election claims.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak, Wife of US heir and activist donor on fighting his extradition to US: ‘It’s incredible that this can happen’, and Hawaiʻi Teachers Take Learning Outside in Summer Workshop.",
   "mainItems": [
+    {
+      "title": "Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/society/2026/jul/18/trump-cyclosporiasis-outbreak",
+      "published": "2026-07-18T13:32:17+00:00",
+      "summary": "Experts say layoffs, reduced disease surveillance and Medicaid cuts have made the foodborne parasite more difficult to track and contain As soon as Michigan detected the first sign of cyclosporiasis cases in late June, health officials…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Wife of US heir and activist donor on fighting his extradition to US: ‘It’s incredible that this can happen’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/18/fergie-chambers-stella-schnabel-spain-extradition",
+      "published": "2026-07-18T11:00:04+00:00",
+      "summary": "Stella Schnabel says Trump administration is falsely accusing James ‘Fergie’ Chambers of contributing to Hamas Although her husband, James “Fergie” Chambers, had been locked up in Spain for nearly a week, Stella Schnabel didn’t break down…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Hawaiʻi Teachers Take Learning Outside in Summer Workshop",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/hawai%ca%bbi-teachers-take-learning-outside-in-summer-workshop/",
+      "published": "2026-07-18T10:30:00+00:00",
+      "summary": "During the school year, Mānoa Heritage Center hosts students of all ages learning about native plants, Hawaiian culture and history.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Why is Trump risking midterm disaster by resuming an already unpopular war with Iran?",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/jul/18/trump-iran-war-political-midterm-risk",
+      "published": "2026-07-18T09:00:02+00:00",
+      "summary": "Less than a month after hailing a ceasefire, Trump resumed strikes on Iran, a move experts warn could prolong the war and hurt Republicans ahead of midterms For half a century, Donald Trump has performed a public high-wire act based on…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Netflix's games strategy might be a mess, but Oxenfree studio's ingenious new chiller-thriller shows it has a secret weapon",
       "source": "Eurogamer",
@@ -17,83 +57,33 @@
       "score": 10
     },
     {
-      "title": "‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
-      "published": "2026-07-18T05:00:50+00:00",
-      "summary": "As the climate crisis fuels more intense blazes, pushing them to new parts of the world, those tackling them are forced to ration resources and decide which to fight César Alcaraz had only just become a firefighter in the late 1990s when…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "DHS secretary doubles down on Trump’s baseless 2020 election claims",
+      "title": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/markwayne-mullin-trump-baseless-election-claims",
-      "published": "2026-07-17T19:10:38+00:00",
-      "summary": "Markwayne Mullin at presser repeated many of Trump’s unverified claims from controversial primetime speech Markwayne Mullin, the US homeland security secretary, doubled down on Donald Trump ’s unsubstantiated election claims on Friday amid…",
+      "url": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
+      "published": "2026-07-18T13:14:57+00:00",
+      "summary": "As Cuba swelters under six-month oil blockade imposed by US, tempers are fraying and unrest is growing When Cuba’s national grid collapses, as it did for the third time in 10 days on Tuesday, a collective groan spreads across its cities…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "ICE to Pay Thomson Reuters $125 Million to Find ‘Voter Fraud’",
-      "source": "404 Media",
-      "category": "Democracy / press freedom",
-      "url": "https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/",
-      "published": "2026-07-17T15:35:37+00:00",
-      "summary": "A new procurement record says ICE wants access to personal data, including names, Social Security numbers, and ethnicity, to investigate in part what the agency calls “voters fraud.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Smart glasses are deeply creepy. Why are celebrities like Kylie Jenner endorsing them?",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/17/ai-meta-smart-glasses",
-      "published": "2026-07-17T12:00:07+00:00",
-      "summary": "Meta touts safety features – but for women, the dangers of these recording devices are obvious Imagine if every time you left the house, you couldn’t be sure that the stranger you met at a bar – or even the person walking by you in the…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "What we've been playing - \"He takes great joy out of my suffering\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-he-takes-great-joy-out-of-my-suffering",
-      "published": "2026-07-18T07:00:00+00:00",
-      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "San Francisco police find wreckage of boat that sank as body identified",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/san-francisco-boat-wreckage-alcatraz",
-      "published": "2026-07-18T00:39:46+00:00",
-      "summary": "Tondra Madruga named as second victim in deadly capsizing as police continue search for two missing people Police on Friday discovered the wreckage of a boat that sank this week in the San Francisco Bay after recovering the body of a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "ICE shared Medicaid data it wasn't supposed to have with Palantir",
-      "source": "NPR Health",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data",
-      "published": "2026-07-17T23:32:02+00:00",
-      "summary": "The revelations came out in a federal court case brought by Democratic states challenging ICE's access to Medicaid data to aid in deportation efforts.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Apple’s plot to crush OpenAI",
-      "source": "The Verge",
+      "title": "Will AI fix prior authorization—or make it worse?",
+      "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "published": "2026-07-17T17:41:32+00:00",
-      "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done.",
+      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+      "published": "2026-07-18T11:18:25+00:00",
+      "summary": "The government is piloting a program that uses AI for insurance-coverage decisions.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Connecticut Sues, Again, Over Withheld School Mental Health Grants",
+      "source": "The 74",
+      "category": "AI / privacy",
+      "url": "https://www.the74million.org/article/connecticut-sues-again-over-withheld-school-mental-health-grants/",
+      "published": "2026-07-17T16:30:00+00:00",
+      "summary": "Connecticut Attorney General William Tong is again joining a lawsuit against the U.S. Department of Education as it continues trying to end federal grants for school-based mental health services.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
     },
     {
@@ -107,12 +97,22 @@
       "score": 9
     },
     {
-      "title": "You're Invited: 404 Media's Third Anniversary Live Podcast and Party!",
+      "title": "Engineers develop a bird-scale flapping robot for aerial-aquatic travel",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5885040-e1/engineers-develop-a-bird-scale-flapping-robot-for-aerial-aquatic-travel",
+      "published": "2026-07-18T11:42:13+00:00",
+      "summary": "Researchers have developed a new kind of robot that flies through the air, swims through the water, and transitions between the two realms.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
+    },
+    {
+      "title": "Ancient Princesses Were Weapon-Wielding Badasses, Scientists Discover",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/three-years/",
-      "published": "2026-07-17T16:15:53+00:00",
-      "summary": "We're celebrating with TWO NIGHTS of good times: A live taping of the podcast, and a party the following night! Paid 404 Media subscribers get free and discounted access. Details below.",
+      "url": "https://www.404media.co/ancient-princesses-were-weapon-wielding-badasses-scientists-discover/",
+      "published": "2026-07-18T10:00:29+00:00",
+      "summary": "The mummified remains of 4,000-year-old Egyptian royals suggest that they were buried with weapons because they could use them, not for symbolic reasons.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -145,17 +145,6 @@
       "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
       "published": "2026-07-16T15:39:17+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://www.anthropic.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Anthropic Found Something That Shouldn't Exist",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
-      "published": "2026-07-15T13:58:27+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://transformer-circuits.pub/2025/linebreaks/index.html Paper for reindeer vision change - https://royalsocietypublishing.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -194,12 +183,23 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "How Trees Communicate",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=cfhPGb4syvg",
-      "published": "2026-07-15T13:30:02+00:00",
-      "summary": "Forest conservation scientist Dominick DellaSala joins WIRED to answer the internet’s burning questions about trees.",
+      "title": "Ceasefire between the U.S. and Iran seems to have collapsed. Is a negotiated settlement possible?",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=_9OEXEHoSwI",
+      "published": "2026-07-18T13:00:23+00:00",
+      "summary": "The ceasefire between the U.S. and Iran seems to have collapsed this week with bombings escalating, the Strait of Hormuz all but closing and the U.S. reinstating its naval blockade.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Hunter Biden on his journey to recovery and his father's pardon of him after tax and gun convictions",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=3EGGQcqs_Rc",
+      "published": "2026-07-18T12:00:37+00:00",
+      "summary": "Hunter Biden has been all over the internet in recent months, including appearances with some of his harshest critics, such as ultra-conservative podcasters Candace Owens and Nick Fuentes.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -236,39 +236,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Lawmakers, Epstein survivors challenge Trump's AG nominee",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=c3eenDAfFWc",
-      "published": "2026-07-16T18:00:04+00:00",
-      "summary": "Survivors of convicted sex offender Jeffrey Epstein’s abuse are speaking out against the nomination of Todd Blanche for attorney general.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Hegseth announces plans to test soldiers for low testosterone",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=VICfY9WJRrE",
-      "published": "2026-07-16T16:45:30+00:00",
-      "summary": "Defense Secretary Pete Hegseth has announced plans to screen service members 30 and older for low testosterone.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "A promising tale from Senegal of fish, rice....and dangerous worms",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=LRjraCdE2oA",
-      "published": "2026-07-16T13:00:21+00:00",
-      "summary": "Farmers in Senegal are welcoming fish into their rice paddies. The hope is they'll fertilize the crop, be a source of food...and eat the snails that carry parasitic worms.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
     },
     {
       "title": "Xbox Reset: Will Project Helix Still Run Steam Games?",
@@ -526,6 +493,28 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "The deadliest killers can’t be silenced. Watch The Whisper Man on August 28, only on Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=5njn-_ySY5w",
+      "published": "2026-07-18T13:00:29+00:00",
+      "summary": "The deadliest killers can’t be silenced. #RobertDeNiro, #AdamScott & #MichelleMonaghan star in The Whisper Man, August 28. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Starring Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo. THE EAST PALACE is now playing.",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=xfG3Q9reHBg",
+      "published": "2026-07-18T12:00:28+00:00",
+      "summary": "Starring Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo. THE EAST PALACE is now playing. #Netflix Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "One Hundred Years of Solitude: Part Two | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -611,28 +600,6 @@
       "summary": "Walk down the aisle or walk away forever? Six couples put love on the line and learn if they’re ready to wed after spending a month with a new partner. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Whisper Man | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=ZHRR-1CKYIQ",
-      "published": "2026-07-14T13:00:00+00:00",
-      "summary": "The deadliest killers can’t be silenced. Based on the New York Times bestselling novel by Alex North.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Watch The Hawk cast tackle the wings of death. Now on Netflix.",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=u3AqZnc-lJY",
-      "published": "2026-07-14T03:30:05+00:00",
-      "summary": "Will Ferrell says getting hit in the nuts feels a lot like being on Hot Ones: Extra Heat. Watch The Hawk cast tackle the wings of death. Now on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -791,8 +758,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 25,
+    "youtubeCount": 22,
     "trailerCount": 24,
-    "sourceCount": 20
+    "sourceCount": 21
   }
 }

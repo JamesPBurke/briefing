@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-18T09:01:00.944013Z
+Generated: 2026-07-18T14:00:02.838952Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Netflix's games strategy might be a mess, but Oxenfree studio's ingenious new chiller-thriller shows it has a secret weapon, ‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices, and DHS secretary doubles down on Trump’s baseless 2020 election claims.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak, Wife of US heir and activist donor on fighting his extradition to US: ‘It’s incredible that this can happen’, and Hawaiʻi Teachers Take Learning Outside in Summer Workshop.
 
 ## Briefing
 
@@ -33,7 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Netflix's games strategy might be a mess, but Oxenfree studio's ingenious new chiller-thriller shows it has a secret weapon [10/10]
+### 1. Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Experts say layoffs, reduced disease surveillance and Medicaid cuts have made the foodborne parasite more difficult to track and contain As soon as Michigan detected the first sign of cyclosporiasis cases in late June, health officials…
+
+Link: https://www.theguardian.com/society/2026/jul/18/trump-cyclosporiasis-outbreak
+
+### 2. Wife of US heir and activist donor on fighting his extradition to US: ‘It’s incredible that this can happen’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Stella Schnabel says Trump administration is falsely accusing James ‘Fergie’ Chambers of contributing to Hamas Although her husband, James “Fergie” Chambers, had been locked up in Spain for nearly a week, Stella Schnabel didn’t break down…
+
+Link: https://www.theguardian.com/us-news/2026/jul/18/fergie-chambers-stella-schnabel-spain-extradition
+
+### 3. Hawaiʻi Teachers Take Learning Outside in Summer Workshop [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+During the school year, Mānoa Heritage Center hosts students of all ages learning about native plants, Hawaiian culture and history.
+
+Link: https://www.the74million.org/article/hawai%ca%bbi-teachers-take-learning-outside-in-summer-workshop/
+
+### 4. Why is Trump risking midterm disaster by resuming an already unpopular war with Iran? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Less than a month after hailing a ceasefire, Trump resumed strikes on Iran, a move experts warn could prolong the war and hurt Republicans ahead of midterms For half a century, Donald Trump has performed a public high-wire act based on…
+
+Link: https://www.theguardian.com/world/2026/jul/18/trump-iran-war-political-midterm-risk
+
+### 5. Netflix's games strategy might be a mess, but Oxenfree studio's ingenious new chiller-thriller shows it has a secret weapon [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -42,79 +78,34 @@ I still vividly recall the moment in No More Heroes when my Wii Remote rang for 
 
 Link: https://www.eurogamer.net/netflixs-games-strategy-might-be-a-mess-but-oxenfree-studios-ingenious-new-chiller-thriller-shows-it-has-a-secret-weapon
 
-### 2. ‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-As the climate crisis fuels more intense blazes, pushing them to new parts of the world, those tackling them are forced to ration resources and decide which to fight César Alcaraz had only just become a firefighter in the late 1990s when…
-
-Link: https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season
-
-### 3. DHS secretary doubles down on Trump’s baseless 2020 election claims [10/10]
+### 6. Cuba edges toward breakdown as power cuts and US meddling push society to brink [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Markwayne Mullin at presser repeated many of Trump’s unverified claims from controversial primetime speech Markwayne Mullin, the US homeland security secretary, doubled down on Donald Trump ’s unsubstantiated election claims on Friday amid…
+As Cuba swelters under six-month oil blockade imposed by US, tempers are fraying and unrest is growing When Cuba’s national grid collapses, as it did for the third time in 10 days on Tuesday, a collective groan spreads across its cities…
 
-Link: https://www.theguardian.com/us-news/2026/jul/17/markwayne-mullin-trump-baseless-election-claims
+Link: https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink
 
-### 4. ICE to Pay Thomson Reuters $125 Million to Find ‘Voter Fraud’ [10/10]
-**Source:** 404 Media  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-A new procurement record says ICE wants access to personal data, including names, Social Security numbers, and ethnicity, to investigate in part what the agency calls “voters fraud.
-
-Link: https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/
-
-### 5. Smart glasses are deeply creepy. Why are celebrities like Kylie Jenner endorsing them? [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Meta touts safety features – but for women, the dangers of these recording devices are obvious Imagine if every time you left the house, you couldn’t be sure that the stranger you met at a bar – or even the person walking by you in the…
-
-Link: https://www.theguardian.com/commentisfree/2026/jul/17/ai-meta-smart-glasses
-
-### 6. What we've been playing - "He takes great joy out of my suffering" [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Hello and welcome back to our regular feature where we write a little about the games we've been playing.
-
-Link: https://www.eurogamer.net/what-weve-been-playing-he-takes-great-joy-out-of-my-suffering
-
-### 7. San Francisco police find wreckage of boat that sank as body identified [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Tondra Madruga named as second victim in deadly capsizing as police continue search for two missing people Police on Friday discovered the wreckage of a boat that sank this week in the San Francisco Bay after recovering the body of a…
-
-Link: https://www.theguardian.com/us-news/2026/jul/17/san-francisco-boat-wreckage-alcatraz
-
-### 8. ICE shared Medicaid data it wasn't supposed to have with Palantir [9/10]
-**Source:** NPR Health  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The revelations came out in a federal court case brought by Democratic states challenging ICE's access to Medicaid data to aid in deportation efforts.
-
-Link: https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data
-
-### 9. Apple’s plot to crush OpenAI [9/10]
-**Source:** The Verge  
+### 7. Will AI fix prior authorization—or make it worse? [9/10]
+**Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done.
+The government is piloting a program that uses AI for insurance-coverage decisions.
 
-Link: https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast
+Link: https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/
 
-### 10. California Allocates Dedicated Funding to Identify Homeless Students [9/10]
+### 8. Connecticut Sues, Again, Over Withheld School Mental Health Grants [9/10]
+**Source:** The 74  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Connecticut Attorney General William Tong is again joining a lawsuit against the U.S. Department of Education as it continues trying to end federal grants for school-based mental health services.
+
+Link: https://www.the74million.org/article/connecticut-sues-again-over-withheld-school-mental-health-grants/
+
+### 9. California Allocates Dedicated Funding to Identify Homeless Students [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -123,14 +114,23 @@ California’s latest budget includes $116 million over three years to help scho
 
 Link: https://www.the74million.org/article/california-allocates-dedicated-funding-to-identify-homeless-students/
 
-### 11. You're Invited: 404 Media's Third Anniversary Live Podcast and Party! [8/10]
+### 10. Engineers develop a bird-scale flapping robot for aerial-aquatic travel [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Researchers have developed a new kind of robot that flies through the air, swims through the water, and transitions between the two realms.
+
+Link: https://www.npr.org/2026/07/18/nx-s1-5885040-e1/engineers-develop-a-bird-scale-flapping-robot-for-aerial-aquatic-travel
+
+### 11. Ancient Princesses Were Weapon-Wielding Badasses, Scientists Discover [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-We're celebrating with TWO NIGHTS of good times: A live taping of the podcast, and a party the following night! Paid 404 Media subscribers get free and discounted access. Details below.
+The mummified remains of 4,000-year-old Egyptian royals suggest that they were buried with weapons because they could use them, not for symbolic reasons.
 
-Link: https://www.404media.co/three-years/
+Link: https://www.404media.co/ancient-princesses-were-weapon-wielding-badasses-scientists-discover/
 
 ### 12. Wildfire smoke is like smoking 'half a pack a day.' Here's how to protect yourself [8/10]
 **Source:** NPR Health  
@@ -161,15 +161,6 @@ Link: https://reactormag.com/what-to-watch-read-this-weekend-july-17-2026/
 
 Link: https://www.youtube.com/watch?v=axOcn--n_lM
 
-### Anthropic Found Something That Shouldn't Exist [7/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://transformer-circuits.pub/2025/linebreaks/index.html Paper for reindeer vision change - https://royalsocietypublishing.
-
-Link: https://www.youtube.com/watch?v=0CqLVnx-2UM
-
 ### GPS Hidden Messages - Computerphile [7/10]
 **Creator:** Computerphile  
 **Verdict:** Probably worth watching  
@@ -197,14 +188,23 @@ WIRED tasks Matt Damon (Odysseus), Anne Hathaway (Penelope), Tom Holland (Telema
 
 Link: https://www.youtube.com/watch?v=GkM5zdUHcaQ
 
-### How Trees Communicate [7/10]
-**Creator:** WIRED  
+### Ceasefire between the U.S. and Iran seems to have collapsed. Is a negotiated settlement possible? [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The ceasefire between the U.S. and Iran seems to have collapsed this week with bombings escalating, the Strait of Hormuz all but closing and the U.S. reinstating its naval blockade.
+
+Link: https://www.youtube.com/watch?v=_9OEXEHoSwI
+
+### Hunter Biden on his journey to recovery and his father's pardon of him after tax and gun convictions [7/10]
+**Creator:** NPR  
 **Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-Forest conservation scientist Dominick DellaSala joins WIRED to answer the internet’s burning questions about trees.
+Hunter Biden has been all over the internet in recent months, including appearances with some of his harshest critics, such as ultra-conservative podcasters Candace Owens and Nick Fuentes.
 
-Link: https://www.youtube.com/watch?v=cfhPGb4syvg
+Link: https://www.youtube.com/watch?v=3EGGQcqs_Rc
 
 ### Dangerous wildfire smoke blankets parts of the U.S. [7/10]
 **Creator:** NPR  
@@ -232,33 +232,6 @@ Link: https://www.youtube.com/watch?v=Jp5BLdIfOxs
 The stage for the world cup final is set. Argentina will play for a second consecutive title, and Spain comes back to the final for the the first time since their win in 2010.
 
 Link: https://www.youtube.com/watch?v=-RzCmqFBk10
-
-### Lawmakers, Epstein survivors challenge Trump's AG nominee [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Survivors of convicted sex offender Jeffrey Epstein’s abuse are speaking out against the nomination of Todd Blanche for attorney general.
-
-Link: https://www.youtube.com/watch?v=c3eenDAfFWc
-
-### Hegseth announces plans to test soldiers for low testosterone [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Defense Secretary Pete Hegseth has announced plans to screen service members 30 and older for low testosterone.
-
-Link: https://www.youtube.com/watch?v=VICfY9WJRrE
-
-### A promising tale from Senegal of fish, rice....and dangerous worms [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Farmers in Senegal are welcoming fish into their rice paddies. The hope is they'll fertilize the crop, be a source of food...and eat the snails that carry parasitic worms.
-
-Link: https://www.youtube.com/watch?v=LRjraCdE2oA
 
 ### Xbox Reset: Will Project Helix Still Run Steam Games? [8/10]
 **Creator:** Digital Foundry  
@@ -496,6 +469,24 @@ With dreams of starting a perfect family, Saga and her British husband Jon move 
 
 Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
 
+### The deadliest killers can’t be silenced. Watch The Whisper Man on August 28, only on Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The deadliest killers can’t be silenced. #RobertDeNiro, #AdamScott & #MichelleMonaghan star in The Whisper Man, August 28. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=5njn-_ySY5w
+
+### Starring Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo. THE EAST PALACE is now playing. [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Starring Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo. THE EAST PALACE is now playing. #Netflix Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=xfG3Q9reHBg
+
 ### One Hundred Years of Solitude: Part Two | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -567,24 +558,6 @@ Link: https://www.youtube.com/watch?v=_nneiDtbdbk
 Walk down the aisle or walk away forever? Six couples put love on the line and learn if they’re ready to wed after spending a month with a new partner. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=fZyYpd4N9cg
-
-### The Whisper Man | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-The deadliest killers can’t be silenced. Based on the New York Times bestselling novel by Alex North.
-
-Link: https://www.youtube.com/watch?v=ZHRR-1CKYIQ
-
-### Watch The Hawk cast tackle the wings of death. Now on Netflix. [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Will Ferrell says getting hit in the nuts feels a lot like being on Hot Ones: Extra Heat. Watch The Hawk cast tackle the wings of death. Now on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=u3AqZnc-lJY
 
 ### Silo — Season 3 Memory | Apple TV [10/10]
 **Source:** Apple TV  
