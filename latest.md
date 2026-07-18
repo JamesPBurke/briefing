@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-18T05:00:02.228555Z
+Generated: 2026-07-18T09:01:00.944013Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are San Francisco police find wreckage of boat that sank as body identified, ICE shared Medicaid data it wasn't supposed to have with Palantir, and DHS secretary doubles down on Trump’s baseless 2020 election claims.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Netflix's games strategy might be a mess, but Oxenfree studio's ingenious new chiller-thriller shows it has a secret weapon, ‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices, and DHS secretary doubles down on Trump’s baseless 2020 election claims.
 
 ## Briefing
 
@@ -33,23 +33,23 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. San Francisco police find wreckage of boat that sank as body identified [10/10]
+### 1. Netflix's games strategy might be a mess, but Oxenfree studio's ingenious new chiller-thriller shows it has a secret weapon [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+I still vividly recall the moment in No More Heroes when my Wii Remote rang for the first time.
+
+Link: https://www.eurogamer.net/netflixs-games-strategy-might-be-a-mess-but-oxenfree-studios-ingenious-new-chiller-thriller-shows-it-has-a-secret-weapon
+
+### 2. ‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Tondra Madruga named as second victim in deadly capsizing as police continue search for two missing people Police on Friday discovered the wreckage of a boat that sank this week in the San Francisco Bay after recovering the body of a…
+As the climate crisis fuels more intense blazes, pushing them to new parts of the world, those tackling them are forced to ration resources and decide which to fight César Alcaraz had only just become a firefighter in the late 1990s when…
 
-Link: https://www.theguardian.com/us-news/2026/jul/17/san-francisco-boat-wreckage-alcatraz
-
-### 2. ICE shared Medicaid data it wasn't supposed to have with Palantir [10/10]
-**Source:** NPR Health  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The revelations came out in a federal court case brought by Democratic states challenging ICE's access to Medicaid data to aid in deportation efforts.
-
-Link: https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data
+Link: https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season
 
 ### 3. DHS secretary doubles down on Trump’s baseless 2020 election claims [10/10]
 **Source:** The Guardian US  
@@ -60,16 +60,7 @@ Markwayne Mullin at presser repeated many of Trump’s unverified claims from co
 
 Link: https://www.theguardian.com/us-news/2026/jul/17/markwayne-mullin-trump-baseless-election-claims
 
-### 4. Florida man arrested for allegedly stealing over $200,000 in crypto using Steam game malware [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Federal authorities have arrested a Florida man suspected of stealing at least $220,000 in crypto through malware-infected Steam games, as reported earlier by local news outlet Local10.
-
-Link: https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest
-
-### 5. ICE to Pay Thomson Reuters $125 Million to Find ‘Voter Fraud’ [10/10]
+### 4. ICE to Pay Thomson Reuters $125 Million to Find ‘Voter Fraud’ [10/10]
 **Source:** 404 Media  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -78,7 +69,7 @@ A new procurement record says ICE wants access to personal data, including names
 
 Link: https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/
 
-### 6. Smart glasses are deeply creepy. Why are celebrities like Kylie Jenner endorsing them? [10/10]
+### 5. Smart glasses are deeply creepy. Why are celebrities like Kylie Jenner endorsing them? [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -87,25 +78,43 @@ Meta touts safety features – but for women, the dangers of these recording dev
 
 Link: https://www.theguardian.com/commentisfree/2026/jul/17/ai-meta-smart-glasses
 
-### 7. ‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt duped Sitting on his porch in Teshie near Accra,…
-
-Link: https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art
-
-### 8. "I feel totally unbothered" - Deborah Ann Woll doesn't care about the trolls taking shots at God Of War Laufey [9/10]
+### 6. What we've been playing - "He takes great joy out of my suffering" [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Since it was announced at the beginning of June, God of War Laufey has been receiving an unexpected amount of negative criticism.
+Hello and welcome back to our regular feature where we write a little about the games we've been playing.
 
-Link: https://www.eurogamer.net/god-of-war-laufey-deborah-ann-woll-unbothered
+Link: https://www.eurogamer.net/what-weve-been-playing-he-takes-great-joy-out-of-my-suffering
 
-### 9. California Allocates Dedicated Funding to Identify Homeless Students [9/10]
+### 7. San Francisco police find wreckage of boat that sank as body identified [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Tondra Madruga named as second victim in deadly capsizing as police continue search for two missing people Police on Friday discovered the wreckage of a boat that sank this week in the San Francisco Bay after recovering the body of a…
+
+Link: https://www.theguardian.com/us-news/2026/jul/17/san-francisco-boat-wreckage-alcatraz
+
+### 8. ICE shared Medicaid data it wasn't supposed to have with Palantir [9/10]
+**Source:** NPR Health  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The revelations came out in a federal court case brought by Democratic states challenging ICE's access to Medicaid data to aid in deportation efforts.
+
+Link: https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data
+
+### 9. Apple’s plot to crush OpenAI [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done.
+
+Link: https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast
+
+### 10. California Allocates Dedicated Funding to Identify Homeless Students [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -114,7 +123,7 @@ California’s latest budget includes $116 million over three years to help scho
 
 Link: https://www.the74million.org/article/california-allocates-dedicated-funding-to-identify-homeless-students/
 
-### 10. You're Invited: 404 Media's Third Anniversary Live Podcast and Party! [8/10]
+### 11. You're Invited: 404 Media's Third Anniversary Live Podcast and Party! [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -123,7 +132,7 @@ We're celebrating with TWO NIGHTS of good times: A live taping of the podcast, a
 
 Link: https://www.404media.co/three-years/
 
-### 11. Wildfire smoke is like smoking 'half a pack a day.' Here's how to protect yourself [8/10]
+### 12. Wildfire smoke is like smoking 'half a pack a day.' Here's how to protect yourself [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -131,15 +140,6 @@ Link: https://www.404media.co/three-years/
 As Canadian wildfires spread smoke across the U.S. the air pollution is dangerous to health. But there are ways to protect yourself. Here's what to know .
 
 Link: https://www.npr.org/2026/07/17/g-s1-134227/wildfire-smoke-canada-us
-
-### 12. China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-American-led restrictions have blocked China from accessing some of the world's most advanced technologies, spurring China's efforts to build its own know-how and intensifying the tech race between the world's two biggest economies.
-
-Link: https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access
 
 ### 13. What to Watch and Read This Weekend: The Air Is Smoke, the Lettuce Is Bad, but the Vampire Is Lestat [7/10]
 **Source:** Reactor  
@@ -206,27 +206,27 @@ Forest conservation scientist Dominick DellaSala joins WIRED to answer the inter
 
 Link: https://www.youtube.com/watch?v=cfhPGb4syvg
 
-### Dangerous wildfire smoke blankets parts of the U.S. [8/10]
+### Dangerous wildfire smoke blankets parts of the U.S. [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Wildfire smoke from Canada is seeping into large parts of the United States, pushing air quality to unhealthy levels from the Dakotas to the Midwest and East Coast.
 
 Link: https://www.youtube.com/watch?v=3lzzHBnNf_8
 
-### Taco Bell's shredded lettuce linked to Cyclospora outbreak [8/10]
+### Taco Bell's shredded lettuce linked to Cyclospora outbreak [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Lettuce grown in Mexico has been linked to a multistate outbreak of Cyclospora, and the Food and Drug Administration is warning not to eat shredded iceberg lettuce served at Taco Bell locations in the impacted states.
 
 Link: https://www.youtube.com/watch?v=Jp5BLdIfOxs
 
-### Argentina will play for a second consecutive title in the World Cup [8/10]
+### Argentina will play for a second consecutive title in the World Cup [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 The stage for the world cup final is set. Argentina will play for a second consecutive title, and Spain comes back to the final for the the first time since their win in 2010.
@@ -260,9 +260,9 @@ Farmers in Senegal are welcoming fish into their rice paddies. The hope is they'
 
 Link: https://www.youtube.com/watch?v=LRjraCdE2oA
 
-### Xbox Reset: Will Project Helix Still Run Steam Games? [9/10]
+### Xbox Reset: Will Project Helix Still Run Steam Games? [8/10]
 **Creator:** Digital Foundry  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
