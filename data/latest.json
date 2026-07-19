@@ -1,11 +1,71 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-19T09:00:20.475113Z",
-  "generatedAtDisplay": "2026-07-19 05:00 AM EDT",
+  "generatedAt": "2026-07-19T14:00:04.776495Z",
+  "generatedAtDisplay": "2026-07-19 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Forbidden Solitaire is a wonderful reminder games are powerful cultural artefacts that demand to be preserved, Dozens of Russian missiles pound Kyiv in major attack, and I ghosted a problematic friend. Now I feel terrible, but also relieved | Ask Annalisa Barbieri.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are World Cup 2026: Spain v Argentina final buildup; England win 10-goal thriller – live, The truth about migraines: what causes them – and how to find relief, and ‘Life happens here’: How Houston’s changing East End neighborhood rallied after an ICE killing.",
   "mainItems": [
+    {
+      "title": "World Cup 2026: Spain v Argentina final buildup; England win 10-goal thriller – live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/football/live/2026/jul/19/world-cup-2026-spain-v-argentina-final-buildup-england-win-10-goal-thriller-live",
+      "published": "2026-07-19T13:50:16+00:00",
+      "summary": "⚽ World Cup final starts at 3pm EST, 8pm BST, 5am AEST ⚽ Player guide | Golden Boot | Follow on TikTok | Mail us Watching England against France – though, of course, defensive intensity was lower – it was still noticeable how dangerous…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The truth about migraines: what causes them – and how to find relief",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/19/banging-headache-mysteries-migraine-treatments",
+      "published": "2026-07-19T13:00:27+00:00",
+      "summary": "Over the last decade, the understanding of these devastating headaches has grown enormously, as has the understanding of what can be done to treat them We’ve been trying to cure migraines – without much success, until relatively recently –…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "‘Life happens here’: How Houston’s changing East End neighborhood rallied after an ICE killing",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/houston-community-rally-for-lorenzo-salgado-araujo",
+      "published": "2026-07-19T12:00:27+00:00",
+      "summary": "The murder of Lorenzo Salgado Araujo shook Magnolia Park, but strengthened bonds in a barrio grappling with gentrification and a history of police violence The vigil on Canal Street has grown every night since 7 July.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Could AI be conscious?",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
+      "published": "2026-07-19T11:00:25+00:00",
+      "summary": "Experts believe it’s at least possible.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "‘White men get to fail’: Graham Platner collapse illuminates toxic double standard in US politics",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/graham-platner-double-standard-politics",
+      "published": "2026-07-19T10:00:23+00:00",
+      "summary": "Expectations that prioritize privileged identities keep women and people of color from even running for office Since Kamala Harris’s defeat to Donald Trump in 2024, Democrats have chased candidates who exude an ever-elusive “authenticity”.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The Sunday Papers",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-819",
+      "published": "2026-07-19T10:00:00+00:00",
+      "summary": "Sundays are for realising that there's a car in Japan's Super GT racing series this year which is sponsored by horse girl game Umamusume Pretty Derby. Here it is .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
     {
       "title": "Forbidden Solitaire is a wonderful reminder games are powerful cultural artefacts that demand to be preserved",
       "source": "Eurogamer",
@@ -14,26 +74,6 @@
       "published": "2026-07-19T09:00:00+00:00",
       "summary": "Not so long ago, I found a stash of my old ZX Spectrum games in the attic.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Dozens of Russian missiles pound Kyiv in major attack",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack",
-      "published": "2026-07-19T08:35:16+00:00",
-      "summary": "At least one death with authorities reporting fires and damage to offices and homes, while Ukraine’s forces earlier hit logistics warehouses in Russia Russia has carried out one of its biggest-ever ballistic missile attacks on Kyiv,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "I ghosted a problematic friend. Now I feel terrible, but also relieved | Ask Annalisa Barbieri",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/19/ghosted-problematic-friend-feel-terrible-but-relieved",
-      "published": "2026-07-19T05:00:18+00:00",
-      "summary": "Your friend gave you little choice but to end your relationship. You were right to prioritise your own wellbeing I had a friend who I always felt on edge around, but I tried to push past that and give them an opportunity.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -57,13 +97,13 @@
       "score": 10
     },
     {
-      "title": "Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff",
+      "title": "Trump is invoking foreign election interference to justify his own | Jamil Smith",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/football/2026/jul/19/england-france-world-cup-third-place-playoff-match-report",
-      "published": "2026-07-18T23:05:21+00:00",
-      "summary": "Where to start with this rollercoaster of a match? Thomas Tuchel had promised a reaction but he could not have imagined the manner of the response from England, albeit against a France team firmly on their sunloungers during an incredible…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/19/trump-foreign-election-interference",
+      "published": "2026-07-19T11:00:27+00:00",
+      "summary": "The president no longer treats the people who defeated him as voters. He treats them as suspects There is a version of this country in which Donald Trump tells Americans the truth he has been handed: that their elections are secure.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -77,23 +117,13 @@
       "score": 9
     },
     {
-      "title": "Hawaiʻi Teachers Take Learning Outside in Summer Workshop",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/hawai%ca%bbi-teachers-take-learning-outside-in-summer-workshop/",
-      "published": "2026-07-18T10:30:00+00:00",
-      "summary": "During the school year, Mānoa Heritage Center hosts students of all ages learning about native plants, Hawaiian culture and history.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Israel threatens to seize ancient water reservoirs near Bethlehem",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/jul/19/israel-threatens-to-seize-ancient-water-reservoirs-near-bethlehem",
-      "published": "2026-07-19T06:00:19+00:00",
-      "summary": "Solomon’s Pools date back to the second century BCE, and have become a source of recreation for nearby Bethlehem Israel is threatening to seize ancient water reservoirs near Bethlehem, in what would be a significant escalation in an…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "The Clapper was a bad smart home gadget — and a viral sensation",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/podcast/967642/the-clapper-version-history",
+      "published": "2026-07-19T13:28:26+00:00",
+      "summary": "Clap on. Clap off. Well, more like, Clap, pause for half a beat but no longer because otherwise it'll stop hearing you, clap again because you waited too long, clap louder and faster, that didn't work, clap two more times, and suddenly: on.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 8
     },
     {
@@ -103,36 +133,6 @@
       "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke",
       "published": "2026-07-18T18:15:42+00:00",
       "summary": "Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Google is open-sourcing its 3D emoji",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
-      "published": "2026-07-18T16:40:55+00:00",
-      "summary": "Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
-    },
-    {
-      "title": "Engineers develop a bird-scale flapping robot for aerial-aquatic travel",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5885040-e1/engineers-develop-a-bird-scale-flapping-robot-for-aerial-aquatic-travel",
-      "published": "2026-07-18T11:42:13+00:00",
-      "summary": "Researchers have developed a new kind of robot that flies through the air, swims through the water, and transitions between the two realms.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "Ancient Princesses Were Weapon-Wielding Badasses, Scientists Discover",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/ancient-princesses-were-weapon-wielding-badasses-scientists-discover/",
-      "published": "2026-07-18T10:00:29+00:00",
-      "summary": "The mummified remains of 4,000-year-old Egyptian royals suggest that they were buried with weapons because they could use them, not for symbolic reasons.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
@@ -181,6 +181,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "China bars AI chatbots' companionship features",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=tnBXBwJbX6g",
+      "published": "2026-07-19T13:00:34+00:00",
+      "summary": "In China, many have had to say goodbye to their virtual friends and partners, as several big AI companies have suspended their AI companionship features.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "Hunter Biden says he has nothing left to hide",
@@ -725,8 +736,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 21,
+    "youtubeCount": 22,
     "trailerCount": 22,
-    "sourceCount": 20
+    "sourceCount": 19
   }
 }
