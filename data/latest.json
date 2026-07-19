@@ -1,30 +1,80 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-18T14:00:02.838952Z",
-  "generatedAtDisplay": "2026-07-18 10:00 AM EDT",
+  "generatedAt": "2026-07-19T05:00:02.652288Z",
+  "generatedAtDisplay": "2026-07-19 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak, Wife of US heir and activist donor on fighting his extradition to US: ‘It’s incredible that this can happen’, and Hawaiʻi Teachers Take Learning Outside in Summer Workshop.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff, Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’, and \"During the training sequence, we make a false promise\": IO Interactive on the ensemble James Bond game that 007 First Light never was.",
   "mainItems": [
     {
-      "title": "Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak",
+      "title": "Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/society/2026/jul/18/trump-cyclosporiasis-outbreak",
-      "published": "2026-07-18T13:32:17+00:00",
-      "summary": "Experts say layoffs, reduced disease surveillance and Medicaid cuts have made the foodborne parasite more difficult to track and contain As soon as Michigan detected the first sign of cyclosporiasis cases in late June, health officials…",
+      "url": "https://www.theguardian.com/football/2026/jul/19/england-france-world-cup-third-place-playoff-match-report",
+      "published": "2026-07-18T23:05:21+00:00",
+      "summary": "Where to start with this rollercoaster of a match? Thomas Tuchel had promised a reaction but he could not have imagined the manner of the response from England, albeit against a France team firmly on their sunloungers during an incredible…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Wife of US heir and activist donor on fighting his extradition to US: ‘It’s incredible that this can happen’",
-      "source": "The Guardian US",
+      "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/18/fergie-chambers-stella-schnabel-spain-extradition",
-      "published": "2026-07-18T11:00:04+00:00",
-      "summary": "Stella Schnabel says Trump administration is falsely accusing James ‘Fergie’ Chambers of contributing to Hamas Although her husband, James “Fergie” Chambers, had been locked up in Spain for nearly a week, Stella Schnabel didn’t break down…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "published": "2026-07-18T20:54:42+00:00",
+      "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "\"During the training sequence, we make a false promise\": IO Interactive on the ensemble James Bond game that 007 First Light never was",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/during-the-training-sequence-we-make-a-false-promise-io-interactive-on-the-ensemble-james-bond-game-that-007-first-light-never-was",
+      "published": "2026-07-18T21:55:09+00:00",
+      "summary": "It sounds like IO Interactive's take on the world of James Bond in 007 First Light was going to be quite different at first. Where the game as it currently is focuses on just Mr.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "You're probably not going to see everything your friend does in The Blood of Dawnwalker, and its director is just fine with that",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/youre-probably-not-going-to-see-everything-your-friend-does-in-the-blood-of-dawnwalker-and-its-director-is-just-fine-with-that",
+      "published": "2026-07-18T20:29:05+00:00",
+      "summary": "The Blood of Dawnwalker is, if done well, a game that might not land with everybody. For one, there's the lack of a traditional main story quest , and then there's the fact that you only have 30 in-game days and nights to beat it .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Mississippi Teachers Say the Process to Buy Classroom Supplies Is Worse",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/teachers-say-the-process-to-buy-classroom-supplies-is-worse/",
+      "published": "2026-07-18T16:30:00+00:00",
+      "summary": "Weeks before the first day of school, teachers across Mississippi say state leaders have made it more difficult for them to access money for classroom supplies.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
+      "published": "2026-07-18T15:24:42+00:00",
+      "summary": "As the climate crisis fuels more intense blazes, pushing them to new parts of the world, those tackling them are forced to ration resources and decide which to fight César Alcaraz had only just become a firefighter in the late 1990s when…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
+      "published": "2026-07-18T14:26:16+00:00",
+      "summary": "Carter Sherman has been covering sex, gender, and the complex personal and national politics that accompany them for years. She was a senior reporter for Vice and has written for Elle, Ms. magazine, and Los Angeles magazine as well.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
     },
     {
       "title": "Hawaiʻi Teachers Take Learning Outside in Summer Workshop",
@@ -34,67 +84,37 @@
       "published": "2026-07-18T10:30:00+00:00",
       "summary": "During the school year, Mānoa Heritage Center hosts students of all ages learning about native plants, Hawaiian culture and history.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "Why is Trump risking midterm disaster by resuming an already unpopular war with Iran?",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jul/18/trump-iran-war-political-midterm-risk",
-      "published": "2026-07-18T09:00:02+00:00",
-      "summary": "Less than a month after hailing a ceasefire, Trump resumed strikes on Iran, a move experts warn could prolong the war and hurt Republicans ahead of midterms For half a century, Donald Trump has performed a public high-wire act based on…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Netflix's games strategy might be a mess, but Oxenfree studio's ingenious new chiller-thriller shows it has a secret weapon",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/netflixs-games-strategy-might-be-a-mess-but-oxenfree-studios-ingenious-new-chiller-thriller-shows-it-has-a-secret-weapon",
-      "published": "2026-07-18T09:00:00+00:00",
-      "summary": "I still vividly recall the moment in No More Heroes when my Wii Remote rang for the first time.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
+      "title": "Two US troops killed and one missing in Jordan after Iranian attacks",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
-      "published": "2026-07-18T13:14:57+00:00",
-      "summary": "As Cuba swelters under six-month oil blockade imposed by US, tempers are fraying and unrest is growing When Cuba’s national grid collapses, as it did for the third time in 10 days on Tuesday, a collective groan spreads across its cities…",
+      "url": "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict",
+      "published": "2026-07-19T04:41:49+00:00",
+      "summary": "Sirens sound in Bahrain and Kuwait accuses Tehran of targeting civilian sites and infrastructure as Iran strikes US allies The US retaliated against Iran’s Revolutionary Guard (IRGC) after two American troops were killed and one was…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
+      "score": 8
     },
     {
-      "title": "Will AI fix prior authorization—or make it worse?",
-      "source": "Ars Technica",
+      "title": "Google might not kneecap the Pixel 11a with an old processor",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-      "published": "2026-07-18T11:18:25+00:00",
-      "summary": "The government is piloting a program that uses AI for insurance-coverage decisions.",
+      "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
+      "published": "2026-07-18T18:25:08+00:00",
+      "summary": "Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pixel 10a shipped with the previous generation Tensor G4.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
+      "score": 8
     },
     {
-      "title": "Connecticut Sues, Again, Over Withheld School Mental Health Grants",
-      "source": "The 74",
-      "category": "AI / privacy",
-      "url": "https://www.the74million.org/article/connecticut-sues-again-over-withheld-school-mental-health-grants/",
-      "published": "2026-07-17T16:30:00+00:00",
-      "summary": "Connecticut Attorney General William Tong is again joining a lawsuit against the U.S. Department of Education as it continues trying to end federal grants for school-based mental health services.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "California Allocates Dedicated Funding to Identify Homeless Students",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/california-allocates-dedicated-funding-to-identify-homeless-students/",
-      "published": "2026-07-17T14:30:00+00:00",
-      "summary": "California’s latest budget includes $116 million over three years to help schools identify and support students experiencing homelessness — the first time the state has dedicated funding specifically for this purpose.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
+      "title": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke",
+      "published": "2026-07-18T18:15:42+00:00",
+      "summary": "Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "Engineers develop a bird-scale flapping robot for aerial-aquatic travel",
@@ -115,26 +135,6 @@
       "summary": "The mummified remains of 4,000-year-old Egyptian royals suggest that they were buried with weapons because they could use them, not for symbolic reasons.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "Wildfire smoke is like smoking 'half a pack a day.' Here's how to protect yourself",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/17/g-s1-134227/wildfire-smoke-canada-us",
-      "published": "2026-07-17T15:24:49+00:00",
-      "summary": "As Canadian wildfires spread smoke across the U.S. the air pollution is dangerous to health. But there are ways to protect yourself. Here's what to know .",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "What to Watch and Read This Weekend: The Air Is Smoke, the Lettuce Is Bad, but the Vampire Is Lestat",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/what-to-watch-read-this-weekend-july-17-2026/",
-      "published": "2026-07-17T14:41:40+00:00",
-      "summary": "Plus: Major outlets are apparently still shocked that women read fantasy The post What to Watch and Read This Weekend: The Air Is Smoke, the Lettuce Is Bad, but the Vampire Is Lestat appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 7
     }
   ],
   "youtube": [
@@ -183,6 +183,28 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "Hunter Biden says he has nothing left to hide",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=CR0eDBKN2xQ",
+      "published": "2026-07-18T18:00:10+00:00",
+      "summary": "Hunter Biden has been all over the internet in recent months, including appearances with some of his harshest critics, such as ultra-conservative podcasters Candace Owens and Nick Fuentes.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "T.rex fossil sold to mystery bidder for record $50.1 million",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=lz-336rQ7QE",
+      "published": "2026-07-18T15:00:36+00:00",
+      "summary": "The bones of a Tyrannosaurus rex nicknamed Gus sold for a record $50.1 million this week. The sale beat a Stegosaurus skeleton that sold for almost $45 million 2 years ago.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
       "title": "Ceasefire between the U.S. and Iran seems to have collapsed. Is a negotiated settlement possible?",
       "source": "NPR",
       "category": "News / analysis",
@@ -190,8 +212,8 @@
       "published": "2026-07-18T13:00:23+00:00",
       "summary": "The ceasefire between the U.S. and Iran seems to have collapsed this week with bombings escalating, the Strait of Hormuz all but closing and the U.S. reinstating its naval blockade.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Hunter Biden on his journey to recovery and his father's pardon of him after tax and gun convictions",
@@ -201,8 +223,8 @@
       "published": "2026-07-18T12:00:37+00:00",
       "summary": "Hunter Biden has been all over the internet in recent months, including appearances with some of his harshest critics, such as ultra-conservative podcasters Candace Owens and Nick Fuentes.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Dangerous wildfire smoke blankets parts of the U.S.",
@@ -227,13 +249,24 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Argentina will play for a second consecutive title in the World Cup",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=-RzCmqFBk10",
-      "published": "2026-07-17T19:00:06+00:00",
-      "summary": "The stage for the world cup final is set. Argentina will play for a second consecutive title, and Spain comes back to the final for the the first time since their win in 2010.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Five Years of Steam Deck: Was It A Game-Changer?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=kha-Q4aiWq8",
+      "published": "2026-07-18T16:00:05+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Will Cancelling PlayStation Plus Make Sony Re-Think Killing Discs?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=3KbajahBM28",
+      "published": "2026-07-18T15:00:37+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
     },
@@ -256,8 +289,8 @@
       "published": "2026-07-17T16:00:30+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Assassin's Creed Black Flag Resynced - The PS5 Pro Difference",
@@ -282,28 +315,6 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "PS5 \"Don't Kill The Disc\" Petition Crosses 250,000 Signatures",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=1VZCrL7R14A",
-      "published": "2026-07-15T17:00:29+00:00",
-      "summary": "► Find the Petition Here: https://www.change.org/p/don-t-kill-the-disc-tell-sony-to-keep-physical-playstation-games ► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "John Carmack Weighs In On The id Software Lay-Offs Debacle",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=GUUUE82OxvM",
-      "published": "2026-07-15T17:00:12+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
       "title": "We Can’t Look Away from the Layoffs | Unpacked",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -311,8 +322,8 @@
       "published": "2026-07-17T15:00:13+00:00",
       "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "How to Run a Successful One-Shot w/ Sophia Ricciardi from Rolling with Difficulty | RPG Help Desk",
@@ -357,28 +368,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Denshattack! Is a Wonderful Weeb Fever Dream w/ KC and Marty",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=2zfDRdRdRnc",
-      "published": "2026-07-16T01:11:19+00:00",
-      "summary": "KC and Marty are taking a short break from Star Fox to show off the new indie Denshattack! -- https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Yahtzee Tries... D-topia and Rock Bottom",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=WOL9dnef7RE",
-      "published": "2026-07-15T22:08:14+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
     }
   ],
   "trailers": [
@@ -390,8 +379,8 @@
       "published": "2026-07-17T17:42:34+00:00",
       "summary": "What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but You and Easy A, celebrates modern romantic comedy on the big screen with a fresh, witty, swoony original…",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
+      "score": 7,
+      "verdict": "Worth a glance"
     },
     {
       "title": "some love languages are impossible to miss. one night only is in theaters august 7.",
@@ -493,6 +482,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "bad habits with the cast of 72 HOURS #Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=qWIwxta3xss",
+      "published": "2026-07-18T14:00:10+00:00",
+      "summary": "#72Hours Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "The deadliest killers can’t be silenced. Watch The Whisper Man on August 28, only on Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -500,7 +500,7 @@
       "published": "2026-07-18T13:00:29+00:00",
       "summary": "The deadliest killers can’t be silenced. #RobertDeNiro, #AdamScott & #MichelleMonaghan star in The Whisper Man, August 28. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -511,7 +511,7 @@
       "published": "2026-07-18T12:00:28+00:00",
       "summary": "Starring Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo. THE EAST PALACE is now playing. #Netflix Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -581,28 +581,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "My Life With the Walter Boys: Season 3 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=_nneiDtbdbk",
-      "published": "2026-07-15T13:00:01+00:00",
-      "summary": "After a love triangle bombshell and family crisis rock The Walters, Jackie must navigate messy relationships and new personal ambitions in Silver Falls. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Ultimatum: Marry or Move On: Season 4 | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=fZyYpd4N9cg",
-      "published": "2026-07-14T16:00:00+00:00",
-      "summary": "Walk down the aisle or walk away forever? Six couples put love on the line and learn if they’re ready to wed after spending a month with a new partner. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "Silo — Season 3 Memory | Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
@@ -633,17 +611,6 @@
       "summary": "Subscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube Follow Apple TV: Instagram: https://instagram.com/AppleTV TikTok: https://tiktok.com/@AppleTV Facebook: https://facebook.com/AppleTV Threads: https://threads.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Widow's Bay — Patricia: No Notes | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=IW20mgWlXSE",
-      "published": "2026-07-14T21:59:53+00:00",
-      "summary": "Kate O'Flynn stars as Patricia in Widow's Bay - the ultimate final girl, and hostess with the mostest. Please don't forget to RSVP to Sunset Cocktails.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
       "verdict": "Looks promising"
     }
   ],
@@ -758,8 +725,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 22,
-    "trailerCount": 24,
-    "sourceCount": 21
+    "youtubeCount": 21,
+    "trailerCount": 22,
+    "sourceCount": 20
   }
 }
