@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-19T05:00:02.652288Z
+Generated: 2026-07-19T09:00:20.475113Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff, Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’, and "During the training sequence, we make a false promise": IO Interactive on the ensemble James Bond game that 007 First Light never was.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Forbidden Solitaire is a wonderful reminder games are powerful cultural artefacts that demand to be preserved, Dozens of Russian missiles pound Kyiv in major attack, and I ghosted a problematic friend. Now I feel terrible, but also relieved | Ask Annalisa Barbieri.
 
 ## Briefing
 
@@ -33,16 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff [10/10]
+### 1. Forbidden Solitaire is a wonderful reminder games are powerful cultural artefacts that demand to be preserved [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Not so long ago, I found a stash of my old ZX Spectrum games in the attic.
+
+Link: https://www.eurogamer.net/forbidden-solitaire-90s-cd-rom-game-preservation
+
+### 2. Dozens of Russian missiles pound Kyiv in major attack [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Where to start with this rollercoaster of a match? Thomas Tuchel had promised a reaction but he could not have imagined the manner of the response from England, albeit against a France team firmly on their sunloungers during an incredible…
+At least one death with authorities reporting fires and damage to offices and homes, while Ukraine’s forces earlier hit logistics warehouses in Russia Russia has carried out one of its biggest-ever ballistic missile attacks on Kyiv,…
 
-Link: https://www.theguardian.com/football/2026/jul/19/england-france-world-cup-third-place-playoff-match-report
+Link: https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack
 
-### 2. Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’ [10/10]
+### 3. I ghosted a problematic friend. Now I feel terrible, but also relieved | Ask Annalisa Barbieri [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Your friend gave you little choice but to end your relationship. You were right to prioritise your own wellbeing I had a friend who I always felt on edge around, but I tried to push past that and give them an opportunity.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/jul/19/ghosted-problematic-friend-feel-terrible-but-relieved
+
+### 4. One week, two killings: Trump’s immigration crackdown turns deadly – again [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The fatal shootings of two men, both killed in their vehicles by ICE agents, have rekindled anger over the US’s militarized deportation push Lorenzo Salgado Araujo, 52, was driving to work with his brother and two other passengers in…
+
+Link: https://www.theguardian.com/news/ng-interactive/2026/jul/19/ice-killings-immigration-crackdown
+
+### 5. Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’ [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,25 +78,16 @@ Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 Op
 
 Link: https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation
 
-### 3. "During the training sequence, we make a false promise": IO Interactive on the ensemble James Bond game that 007 First Light never was [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 6. Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-It sounds like IO Interactive's take on the world of James Bond in 007 First Light was going to be quite different at first. Where the game as it currently is focuses on just Mr.
+Where to start with this rollercoaster of a match? Thomas Tuchel had promised a reaction but he could not have imagined the manner of the response from England, albeit against a France team firmly on their sunloungers during an incredible…
 
-Link: https://www.rockpapershotgun.com/during-the-training-sequence-we-make-a-false-promise-io-interactive-on-the-ensemble-james-bond-game-that-007-first-light-never-was
+Link: https://www.theguardian.com/football/2026/jul/19/england-france-world-cup-third-place-playoff-match-report
 
-### 4. You're probably not going to see everything your friend does in The Blood of Dawnwalker, and its director is just fine with that [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The Blood of Dawnwalker is, if done well, a game that might not land with everybody. For one, there's the lack of a traditional main story quest , and then there's the fact that you only have 30 in-game days and nights to beat it .
-
-Link: https://www.rockpapershotgun.com/youre-probably-not-going-to-see-everything-your-friend-does-in-the-blood-of-dawnwalker-and-its-director-is-just-fine-with-that
-
-### 5. Mississippi Teachers Say the Process to Buy Classroom Supplies Is Worse [9/10]
+### 7. Mississippi Teachers Say the Process to Buy Classroom Supplies Is Worse [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -77,24 +95,6 @@ Link: https://www.rockpapershotgun.com/youre-probably-not-going-to-see-everythin
 Weeks before the first day of school, teachers across Mississippi say state leaders have made it more difficult for them to access money for classroom supplies.
 
 Link: https://www.the74million.org/article/teachers-say-the-process-to-buy-classroom-supplies-is-worse/
-
-### 6. ‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-As the climate crisis fuels more intense blazes, pushing them to new parts of the world, those tackling them are forced to ration resources and decide which to fight César Alcaraz had only just become a firefighter in the late 1990s when…
-
-Link: https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season
-
-### 7. The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Carter Sherman has been covering sex, gender, and the complex personal and national politics that accompany them for years. She was a senior reporter for Vice and has written for Elle, Ms. magazine, and Los Angeles magazine as well.
-
-Link: https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview
 
 ### 8. Hawaiʻi Teachers Take Learning Outside in Summer Workshop [9/10]
 **Source:** The 74  
@@ -105,25 +105,16 @@ During the school year, Mānoa Heritage Center hosts students of all ages learni
 
 Link: https://www.the74million.org/article/hawai%ca%bbi-teachers-take-learning-outside-in-summer-workshop/
 
-### 9. Two US troops killed and one missing in Jordan after Iranian attacks [8/10]
+### 9. Israel threatens to seize ancient water reservoirs near Bethlehem [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Sirens sound in Bahrain and Kuwait accuses Tehran of targeting civilian sites and infrastructure as Iran strikes US allies The US retaliated against Iran’s Revolutionary Guard (IRGC) after two American troops were killed and one was…
+Solomon’s Pools date back to the second century BCE, and have become a source of recreation for nearby Bethlehem Israel is threatening to seize ancient water reservoirs near Bethlehem, in what would be a significant escalation in an…
 
-Link: https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict
+Link: https://www.theguardian.com/world/2026/jul/19/israel-threatens-to-seize-ancient-water-reservoirs-near-bethlehem
 
-### 10. Google might not kneecap the Pixel 11a with an old processor [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pixel 10a shipped with the previous generation Tensor G4.
-
-Link: https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak
-
-### 11. Air quality improving in Northeast, while wildfire smoke hangs over Midwest [8/10]
+### 10. Air quality improving in Northeast, while wildfire smoke hangs over Midwest [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -131,6 +122,15 @@ Link: https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak
 Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada.
 
 Link: https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke
+
+### 11. Google is open-sourcing its 3D emoji [8/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday.
+
+Link: https://www.theverge.com/design/967606/google-open-source-3d-emoji
 
 ### 12. Engineers develop a bird-scale flapping robot for aerial-aquatic travel [8/10]
 **Source:** NPR Tech  
@@ -188,9 +188,9 @@ WIRED tasks Matt Damon (Odysseus), Anne Hathaway (Penelope), Tom Holland (Telema
 
 Link: https://www.youtube.com/watch?v=GkM5zdUHcaQ
 
-### Hunter Biden says he has nothing left to hide [7/10]
+### Hunter Biden says he has nothing left to hide [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 Hunter Biden has been all over the internet in recent months, including appearances with some of his harshest critics, such as ultra-conservative podcasters Candace Owens and Nick Fuentes.

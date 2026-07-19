@@ -1,18 +1,48 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-19T05:00:02.652288Z",
-  "generatedAtDisplay": "2026-07-19 01:00 AM EDT",
+  "generatedAt": "2026-07-19T09:00:20.475113Z",
+  "generatedAtDisplay": "2026-07-19 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff, Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’, and \"During the training sequence, we make a false promise\": IO Interactive on the ensemble James Bond game that 007 First Light never was.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Forbidden Solitaire is a wonderful reminder games are powerful cultural artefacts that demand to be preserved, Dozens of Russian missiles pound Kyiv in major attack, and I ghosted a problematic friend. Now I feel terrible, but also relieved | Ask Annalisa Barbieri.",
   "mainItems": [
     {
-      "title": "Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff",
+      "title": "Forbidden Solitaire is a wonderful reminder games are powerful cultural artefacts that demand to be preserved",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/forbidden-solitaire-90s-cd-rom-game-preservation",
+      "published": "2026-07-19T09:00:00+00:00",
+      "summary": "Not so long ago, I found a stash of my old ZX Spectrum games in the attic.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Dozens of Russian missiles pound Kyiv in major attack",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/football/2026/jul/19/england-france-world-cup-third-place-playoff-match-report",
-      "published": "2026-07-18T23:05:21+00:00",
-      "summary": "Where to start with this rollercoaster of a match? Thomas Tuchel had promised a reaction but he could not have imagined the manner of the response from England, albeit against a France team firmly on their sunloungers during an incredible…",
+      "url": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack",
+      "published": "2026-07-19T08:35:16+00:00",
+      "summary": "At least one death with authorities reporting fires and damage to offices and homes, while Ukraine’s forces earlier hit logistics warehouses in Russia Russia has carried out one of its biggest-ever ballistic missile attacks on Kyiv,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "I ghosted a problematic friend. Now I feel terrible, but also relieved | Ask Annalisa Barbieri",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/19/ghosted-problematic-friend-feel-terrible-but-relieved",
+      "published": "2026-07-19T05:00:18+00:00",
+      "summary": "Your friend gave you little choice but to end your relationship. You were right to prioritise your own wellbeing I had a friend who I always felt on edge around, but I tried to push past that and give them an opportunity.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "One week, two killings: Trump’s immigration crackdown turns deadly – again",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/19/ice-killings-immigration-crackdown",
+      "published": "2026-07-19T05:00:17+00:00",
+      "summary": "The fatal shootings of two men, both killed in their vehicles by ICE agents, have rekindled anger over the US’s militarized deportation push Lorenzo Salgado Araujo, 52, was driving to work with his brother and two other passengers in…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -27,23 +57,13 @@
       "score": 10
     },
     {
-      "title": "\"During the training sequence, we make a false promise\": IO Interactive on the ensemble James Bond game that 007 First Light never was",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/during-the-training-sequence-we-make-a-false-promise-io-interactive-on-the-ensemble-james-bond-game-that-007-first-light-never-was",
-      "published": "2026-07-18T21:55:09+00:00",
-      "summary": "It sounds like IO Interactive's take on the world of James Bond in 007 First Light was going to be quite different at first. Where the game as it currently is focuses on just Mr.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "You're probably not going to see everything your friend does in The Blood of Dawnwalker, and its director is just fine with that",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/youre-probably-not-going-to-see-everything-your-friend-does-in-the-blood-of-dawnwalker-and-its-director-is-just-fine-with-that",
-      "published": "2026-07-18T20:29:05+00:00",
-      "summary": "The Blood of Dawnwalker is, if done well, a game that might not land with everybody. For one, there's the lack of a traditional main story quest , and then there's the fact that you only have 30 in-game days and nights to beat it .",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/football/2026/jul/19/england-france-world-cup-third-place-playoff-match-report",
+      "published": "2026-07-18T23:05:21+00:00",
+      "summary": "Where to start with this rollercoaster of a match? Thomas Tuchel had promised a reaction but he could not have imagined the manner of the response from England, albeit against a France team firmly on their sunloungers during an incredible…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
@@ -57,26 +77,6 @@
       "score": 9
     },
     {
-      "title": "‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
-      "published": "2026-07-18T15:24:42+00:00",
-      "summary": "As the climate crisis fuels more intense blazes, pushing them to new parts of the world, those tackling them are forced to ration resources and decide which to fight César Alcaraz had only just become a firefighter in the late 1990s when…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
-      "published": "2026-07-18T14:26:16+00:00",
-      "summary": "Carter Sherman has been covering sex, gender, and the complex personal and national politics that accompany them for years. She was a senior reporter for Vice and has written for Elle, Ms. magazine, and Los Angeles magazine as well.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
       "title": "Hawaiʻi Teachers Take Learning Outside in Summer Workshop",
       "source": "The 74",
       "category": "CS education / AI policy",
@@ -87,23 +87,13 @@
       "score": 9
     },
     {
-      "title": "Two US troops killed and one missing in Jordan after Iranian attacks",
+      "title": "Israel threatens to seize ancient water reservoirs near Bethlehem",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict",
-      "published": "2026-07-19T04:41:49+00:00",
-      "summary": "Sirens sound in Bahrain and Kuwait accuses Tehran of targeting civilian sites and infrastructure as Iran strikes US allies The US retaliated against Iran’s Revolutionary Guard (IRGC) after two American troops were killed and one was…",
+      "url": "https://www.theguardian.com/world/2026/jul/19/israel-threatens-to-seize-ancient-water-reservoirs-near-bethlehem",
+      "published": "2026-07-19T06:00:19+00:00",
+      "summary": "Solomon’s Pools date back to the second century BCE, and have become a source of recreation for nearby Bethlehem Israel is threatening to seize ancient water reservoirs near Bethlehem, in what would be a significant escalation in an…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
-      "title": "Google might not kneecap the Pixel 11a with an old processor",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
-      "published": "2026-07-18T18:25:08+00:00",
-      "summary": "Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pixel 10a shipped with the previous generation Tensor G4.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 8
     },
     {
@@ -114,6 +104,16 @@
       "published": "2026-07-18T18:15:42+00:00",
       "summary": "Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada.",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Google is open-sourcing its 3D emoji",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
+      "published": "2026-07-18T16:40:55+00:00",
+      "summary": "Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 8
     },
     {
@@ -190,8 +190,8 @@
       "published": "2026-07-18T18:00:10+00:00",
       "summary": "Hunter Biden has been all over the internet in recent months, including appearances with some of his harshest critics, such as ultra-conservative podcasters Candace Owens and Nick Fuentes.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "T.rex fossil sold to mystery bidder for record $50.1 million",
