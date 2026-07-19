@@ -1,18 +1,78 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-19T14:00:04.776495Z",
-  "generatedAtDisplay": "2026-07-19 10:00 AM EDT",
+  "generatedAt": "2026-07-19T18:00:57.494757Z",
+  "generatedAtDisplay": "2026-07-19 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are World Cup 2026: Spain v Argentina final buildup; England win 10-goal thriller – live, The truth about migraines: what causes them – and how to find relief, and ‘Life happens here’: How Houston’s changing East End neighborhood rallied after an ICE killing.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Earthquake in Peru leaves at least five dead, Baldur's Gate 3, Clair Obscur actor Jennifer English withdraws from Tides of Annihilation to \"look after her mental and physical health\", and Second person dies in legionnaires’ disease outbreak in New York City.",
   "mainItems": [
     {
-      "title": "World Cup 2026: Spain v Argentina final buildup; England win 10-goal thriller – live",
+      "title": "Earthquake in Peru leaves at least five dead",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/football/live/2026/jul/19/world-cup-2026-spain-v-argentina-final-buildup-england-win-10-goal-thriller-live",
-      "published": "2026-07-19T13:50:16+00:00",
-      "summary": "⚽ World Cup final starts at 3pm EST, 8pm BST, 5am AEST ⚽ Player guide | Golden Boot | Follow on TikTok | Mail us Watching England against France – though, of course, defensive intensity was lower – it was still noticeable how dangerous…",
+      "url": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
+      "published": "2026-07-19T17:12:47+00:00",
+      "summary": "More than 20 injured and 300 displaced after buildings collapse near Sicaya A 5.5-magnitude earthquake shook the Andes region of Peru, killing at least five people, authorities said Sunday.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Baldur's Gate 3, Clair Obscur actor Jennifer English withdraws from Tides of Annihilation to \"look after her mental and physical health\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/jennifer-english-leaves-tides-of-annihilation",
+      "published": "2026-07-19T16:57:42+00:00",
+      "summary": "The award-winning actor, Jennifer English, has withdrawn from Eclipse Glow Games' action game Tides of Annihilation to \"look after [her] mental and physical health\". Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Second person dies in legionnaires’ disease outbreak in New York City",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/legionnaires-disease-deaths-new-york-city",
+      "published": "2026-07-19T16:51:24+00:00",
+      "summary": "Outbreak has sickened dozens in the city but officials say they believe source of outbreak ‘has likely been eliminated’ A second person has died amid a legionnaires’ disease outbreak that has sickened dozens of people in New York City ,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Book Bans, Censorship and Funding Fears Challenge Ohio Public School Librarians",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/book-bans-censorship-and-funding-fears-challenge-ohio-public-school-librarians/",
+      "published": "2026-07-19T16:30:00+00:00",
+      "summary": "Public school librarians in Ohio are raising alarms about book bans and funding cuts. School librarians have been navigating challenges in their work as long as they’ve been among the stacks in their local districts.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "US boxer Hannah Rapp struck and killed by driver while cycling, police say",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/boxer-hannah-rapp-dies-struck-by-car",
+      "published": "2026-07-19T16:06:23+00:00",
+      "summary": "Investigators arrest 31-year-old man identified as Charles Medina in connection with death of Rapp who was 26 US boxer Hannah Rapp, who in June fought for the World Boxing Council (WBC) women’s featherweight championship, was killed on…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Palworld is once again dominating Steam this weekend, clocking up almost 1m concurrent players",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/palworld-almost-hits-1-million-concurrents-again",
+      "published": "2026-07-19T15:51:45+00:00",
+      "summary": "Palworld is once again one of the most played games on Steam this weekend. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Rise in overseas surrogates ‘increases risk of stateless babies’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/19/rise-overseas-surrogates-increases-risk-stateless-babies-experts-warn",
+      "published": "2026-07-19T15:00:29+00:00",
+      "summary": "Calls grow for global regulation as rising numbers of westerners use surrogates in countries with different laws Why Mexico is at the heart of ethical debate over global surrogacy The rise in the use of surrogates abroad is leaving more…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -27,16 +87,6 @@
       "score": 10
     },
     {
-      "title": "‘Life happens here’: How Houston’s changing East End neighborhood rallied after an ICE killing",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/19/houston-community-rally-for-lorenzo-salgado-araujo",
-      "published": "2026-07-19T12:00:27+00:00",
-      "summary": "The murder of Lorenzo Salgado Araujo shook Magnolia Park, but strengthened bonds in a barrio grappling with gentrification and a history of police violence The vigil on Canal Street has grown every night since 7 July.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "Could AI be conscious?",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
@@ -44,26 +94,6 @@
       "published": "2026-07-19T11:00:25+00:00",
       "summary": "Experts believe it’s at least possible.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "‘White men get to fail’: Graham Platner collapse illuminates toxic double standard in US politics",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/19/graham-platner-double-standard-politics",
-      "published": "2026-07-19T10:00:23+00:00",
-      "summary": "Expectations that prioritize privileged identities keep women and people of color from even running for office Since Kamala Harris’s defeat to Donald Trump in 2024, Democrats have chased candidates who exude an ever-elusive “authenticity”.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The Sunday Papers",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-819",
-      "published": "2026-07-19T10:00:00+00:00",
-      "summary": "Sundays are for realising that there's a car in Japan's Super GT racing series this year which is sponsored by horse girl game Umamusume Pretty Derby. Here it is .",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
@@ -77,54 +107,14 @@
       "score": 10
     },
     {
-      "title": "One week, two killings: Trump’s immigration crackdown turns deadly – again",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/19/ice-killings-immigration-crackdown",
-      "published": "2026-07-19T05:00:17+00:00",
-      "summary": "The fatal shootings of two men, both killed in their vehicles by ICE agents, have rekindled anger over the US’s militarized deportation push Lorenzo Salgado Araujo, 52, was driving to work with his brother and two other passengers in…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "published": "2026-07-18T20:54:42+00:00",
-      "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump is invoking foreign election interference to justify his own | Jamil Smith",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/19/trump-foreign-election-interference",
-      "published": "2026-07-19T11:00:27+00:00",
-      "summary": "The president no longer treats the people who defeated him as voters. He treats them as suspects There is a version of this country in which Donald Trump tells Americans the truth he has been handed: that their elections are secure.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Mississippi Teachers Say the Process to Buy Classroom Supplies Is Worse",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/teachers-say-the-process-to-buy-classroom-supplies-is-worse/",
-      "published": "2026-07-18T16:30:00+00:00",
-      "summary": "Weeks before the first day of school, teachers across Mississippi say state leaders have made it more difficult for them to access money for classroom supplies.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "The Clapper was a bad smart home gadget — and a viral sensation",
+      "title": "Orchid is a delightfully retro and approachable hipster synth",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/podcast/967642/the-clapper-version-history",
-      "published": "2026-07-19T13:28:26+00:00",
-      "summary": "Clap on. Clap off. Well, more like, Clap, pause for half a beat but no longer because otherwise it'll stop hearing you, clap again because you waited too long, clap louder and faster, that didn't work, clap two more times, and suddenly: on.",
+      "url": "https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review",
+      "published": "2026-07-19T14:58:03+00:00",
+      "summary": "In 2017, I bought an old Magnus chord organ off Craigslist for $10. It's one of my favorite music gear purchases.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
+      "score": 9
     },
     {
       "title": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
@@ -135,31 +125,19 @@
       "summary": "Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
+    },
+    {
+      "title": "NYC’s Mayor Asked for Parents’ Opinions on Schools. Here’s What Some Have to Say",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/nycs-mayor-asked-for-parents-opinions-on-schools-heres-what-some-have-to-say/",
+      "published": "2026-07-19T10:30:00+00:00",
+      "summary": "When Zohran Mamdani became mayor of New York City, he vowed to gather community feedback on how the public schools are working.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 7
     }
   ],
   "youtube": [
-    {
-      "title": "Claude Just Revealed AI's Biggest Problem",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
-      "published": "2026-07-16T15:39:17+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://www.anthropic.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "GPS Hidden Messages - Computerphile",
-      "source": "Computerphile",
-      "category": "Science / computing",
-      "url": "https://www.youtube.com/watch?v=2Q6OvYjOJi0",
-      "published": "2026-07-16T14:32:23+00:00",
-      "summary": "Something odd was going on with the signals broadcast by the GPS satellites. Steven Murdoch of University College London explains how he used statistical analysis to work out what might be going on.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
     {
       "title": "Mythology Expert Breaks Down Every Ancient Greek Constellation",
       "source": "WIRED",
@@ -172,15 +150,15 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "‘The Odyssey’ Cast Answer The 50 Most Searched Questions",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=GkM5zdUHcaQ",
-      "published": "2026-07-16T16:00:07+00:00",
-      "summary": "WIRED tasks Matt Damon (Odysseus), Anne Hathaway (Penelope), Tom Holland (Telemachus) and Robert Pattinson (Antinous) to answer the 50 most searched questions about _The Odyssey.",
+      "title": "More Americans using credit or savings to pay for groceries",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=GqcnLwxoRQU",
+      "published": "2026-07-19T15:00:10+00:00",
+      "summary": "Food prices have jumped 30% over the last five years, and new research shows more people in the U.S. are using credit — or dipping into their savings — to pay for groceries.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "China bars AI chatbots' companionship features",
@@ -249,13 +227,24 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Taco Bell's shredded lettuce linked to Cyclospora outbreak",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=Jp5BLdIfOxs",
-      "published": "2026-07-17T20:00:30+00:00",
-      "summary": "Lettuce grown in Mexico has been linked to a multistate outbreak of Cyclospora, and the Food and Drug Administration is warning not to eat shredded iceberg lettuce served at Taco Bell locations in the impacted states.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Which PlayStation 3 Games Deserve A Full Remake?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=aqy8Ai9oUCg",
+      "published": "2026-07-19T16:00:05+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Will Project Helix Get A Disc Drive To Counter Sony?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=YX-TplmaRN4",
+      "published": "2026-07-19T15:00:19+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 7,
       "verdict": "Probably worth watching"
     },
@@ -278,8 +267,8 @@
       "published": "2026-07-18T15:00:37+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Xbox Reset: Will Project Helix Still Run Steam Games?",
@@ -298,28 +287,6 @@
       "category": "Games / hardware",
       "url": "https://www.youtube.com/watch?v=p9WchNLp9og",
       "published": "2026-07-17T16:00:30+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Assassin's Creed Black Flag Resynced - The PS5 Pro Difference",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=O22z4HOqEig",
-      "published": "2026-07-16T17:00:04+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Doom The Dark Ages Revelations DLC Is Superb + PS5 Pro PSSR2 Upgrade Tested",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=xraWH6QEtuM",
-      "published": "2026-07-16T16:00:31+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 6,
@@ -365,17 +332,6 @@
       "url": "https://www.youtube.com/watch?v=YfNIRl-ORoQ",
       "published": "2026-07-16T18:57:17+00:00",
       "summary": "After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "The Modern Bum Camera Problem | Semi-Ramblomatic",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=4VNYMGHS2mU",
-      "published": "2026-07-16T15:00:34+00:00",
-      "summary": "This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -736,8 +692,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 22,
+    "youtubeCount": 18,
     "trailerCount": 22,
-    "sourceCount": 19
+    "sourceCount": 16
   }
 }

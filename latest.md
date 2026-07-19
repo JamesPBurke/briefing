@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-19T14:00:04.776495Z
+Generated: 2026-07-19T18:00:57.494757Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are World Cup 2026: Spain v Argentina final buildup; England win 10-goal thriller – live, The truth about migraines: what causes them – and how to find relief, and ‘Life happens here’: How Houston’s changing East End neighborhood rallied after an ICE killing.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Earthquake in Peru leaves at least five dead, Baldur's Gate 3, Clair Obscur actor Jennifer English withdraws from Tides of Annihilation to "look after her mental and physical health", and Second person dies in legionnaires’ disease outbreak in New York City.
 
 ## Briefing
 
@@ -33,16 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. World Cup 2026: Spain v Argentina final buildup; England win 10-goal thriller – live [10/10]
+### 1. Earthquake in Peru leaves at least five dead [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-⚽ World Cup final starts at 3pm EST, 8pm BST, 5am AEST ⚽ Player guide | Golden Boot | Follow on TikTok | Mail us Watching England against France – though, of course, defensive intensity was lower – it was still noticeable how dangerous…
+More than 20 injured and 300 displaced after buildings collapse near Sicaya A 5.5-magnitude earthquake shook the Andes region of Peru, killing at least five people, authorities said Sunday.
 
-Link: https://www.theguardian.com/football/live/2026/jul/19/world-cup-2026-spain-v-argentina-final-buildup-england-win-10-goal-thriller-live
+Link: https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people
 
-### 2. The truth about migraines: what causes them – and how to find relief [10/10]
+### 2. Baldur's Gate 3, Clair Obscur actor Jennifer English withdraws from Tides of Annihilation to "look after her mental and physical health" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The award-winning actor, Jennifer English, has withdrawn from Eclipse Glow Games' action game Tides of Annihilation to "look after [her] mental and physical health". Read more
+
+Link: https://www.eurogamer.net/jennifer-english-leaves-tides-of-annihilation
+
+### 3. Second person dies in legionnaires’ disease outbreak in New York City [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Outbreak has sickened dozens in the city but officials say they believe source of outbreak ‘has likely been eliminated’ A second person has died amid a legionnaires’ disease outbreak that has sickened dozens of people in New York City ,…
+
+Link: https://www.theguardian.com/us-news/2026/jul/19/legionnaires-disease-deaths-new-york-city
+
+### 4. Book Bans, Censorship and Funding Fears Challenge Ohio Public School Librarians [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Public school librarians in Ohio are raising alarms about book bans and funding cuts. School librarians have been navigating challenges in their work as long as they’ve been among the stacks in their local districts.
+
+Link: https://www.the74million.org/article/book-bans-censorship-and-funding-fears-challenge-ohio-public-school-librarians/
+
+### 5. US boxer Hannah Rapp struck and killed by driver while cycling, police say [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Investigators arrest 31-year-old man identified as Charles Medina in connection with death of Rapp who was 26 US boxer Hannah Rapp, who in June fought for the World Boxing Council (WBC) women’s featherweight championship, was killed on…
+
+Link: https://www.theguardian.com/us-news/2026/jul/19/boxer-hannah-rapp-dies-struck-by-car
+
+### 6. Palworld is once again dominating Steam this weekend, clocking up almost 1m concurrent players [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Palworld is once again one of the most played games on Steam this weekend. Read more
+
+Link: https://www.eurogamer.net/palworld-almost-hits-1-million-concurrents-again
+
+### 7. Rise in overseas surrogates ‘increases risk of stateless babies’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Calls grow for global regulation as rising numbers of westerners use surrogates in countries with different laws Why Mexico is at the heart of ethical debate over global surrogacy The rise in the use of surrogates abroad is leaving more…
+
+Link: https://www.theguardian.com/lifeandstyle/2026/jul/19/rise-overseas-surrogates-increases-risk-stateless-babies-experts-warn
+
+### 8. The truth about migraines: what causes them – and how to find relief [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -51,16 +105,7 @@ Over the last decade, the understanding of these devastating headaches has grown
 
 Link: https://www.theguardian.com/lifeandstyle/2026/jul/19/banging-headache-mysteries-migraine-treatments
 
-### 3. ‘Life happens here’: How Houston’s changing East End neighborhood rallied after an ICE killing [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The murder of Lorenzo Salgado Araujo shook Magnolia Park, but strengthened bonds in a barrio grappling with gentrification and a history of police violence The vigil on Canal Street has grown every night since 7 July.
-
-Link: https://www.theguardian.com/us-news/2026/jul/19/houston-community-rally-for-lorenzo-salgado-araujo
-
-### 4. Could AI be conscious? [10/10]
+### 9. Could AI be conscious? [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -69,25 +114,7 @@ Experts believe it’s at least possible.
 
 Link: https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious
 
-### 5. ‘White men get to fail’: Graham Platner collapse illuminates toxic double standard in US politics [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Expectations that prioritize privileged identities keep women and people of color from even running for office Since Kamala Harris’s defeat to Donald Trump in 2024, Democrats have chased candidates who exude an ever-elusive “authenticity”.
-
-Link: https://www.theguardian.com/us-news/2026/jul/19/graham-platner-double-standard-politics
-
-### 6. The Sunday Papers [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Sundays are for realising that there's a car in Japan's Super GT racing series this year which is sponsored by horse girl game Umamusume Pretty Derby. Here it is .
-
-Link: https://www.rockpapershotgun.com/the-sunday-papers-819
-
-### 7. Forbidden Solitaire is a wonderful reminder games are powerful cultural artefacts that demand to be preserved [10/10]
+### 10. Forbidden Solitaire is a wonderful reminder games are powerful cultural artefacts that demand to be preserved [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -96,52 +123,16 @@ Not so long ago, I found a stash of my old ZX Spectrum games in the attic.
 
 Link: https://www.eurogamer.net/forbidden-solitaire-90s-cd-rom-game-preservation
 
-### 8. One week, two killings: Trump’s immigration crackdown turns deadly – again [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The fatal shootings of two men, both killed in their vehicles by ICE agents, have rekindled anger over the US’s militarized deportation push Lorenzo Salgado Araujo, 52, was driving to work with his brother and two other passengers in…
-
-Link: https://www.theguardian.com/news/ng-interactive/2026/jul/19/ice-killings-immigration-crackdown
-
-### 9. Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’ [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation
-
-### 10. Trump is invoking foreign election interference to justify his own | Jamil Smith [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-The president no longer treats the people who defeated him as voters. He treats them as suspects There is a version of this country in which Donald Trump tells Americans the truth he has been handed: that their elections are secure.
-
-Link: https://www.theguardian.com/commentisfree/2026/jul/19/trump-foreign-election-interference
-
-### 11. Mississippi Teachers Say the Process to Buy Classroom Supplies Is Worse [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Weeks before the first day of school, teachers across Mississippi say state leaders have made it more difficult for them to access money for classroom supplies.
-
-Link: https://www.the74million.org/article/teachers-say-the-process-to-buy-classroom-supplies-is-worse/
-
-### 12. The Clapper was a bad smart home gadget — and a viral sensation [8/10]
+### 11. Orchid is a delightfully retro and approachable hipster synth [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Clap on. Clap off. Well, more like, Clap, pause for half a beat but no longer because otherwise it'll stop hearing you, clap again because you waited too long, clap louder and faster, that didn't work, clap two more times, and suddenly: on.
+In 2017, I bought an old Magnus chord organ off Craigslist for $10. It's one of my favorite music gear purchases.
 
-Link: https://www.theverge.com/podcast/967642/the-clapper-version-history
+Link: https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review
 
-### 13. Air quality improving in Northeast, while wildfire smoke hangs over Midwest [8/10]
+### 12. Air quality improving in Northeast, while wildfire smoke hangs over Midwest [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -150,25 +141,16 @@ Wildfire smoke and unhealthy air persist and shift direction, as Trump demands e
 
 Link: https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke
 
+### 13. NYC’s Mayor Asked for Parents’ Opinions on Schools. Here’s What Some Have to Say [7/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+When Zohran Mamdani became mayor of New York City, he vowed to gather community feedback on how the public schools are working.
+
+Link: https://www.the74million.org/article/nycs-mayor-asked-for-parents-opinions-on-schools-heres-what-some-have-to-say/
+
 ## YouTube
-
-### Claude Just Revealed AI's Biggest Problem [7/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://www.anthropic.
-
-Link: https://www.youtube.com/watch?v=axOcn--n_lM
-
-### GPS Hidden Messages - Computerphile [7/10]
-**Creator:** Computerphile  
-**Verdict:** Probably worth watching  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Something odd was going on with the signals broadcast by the GPS satellites. Steven Murdoch of University College London explains how he used statistical analysis to work out what might be going on.
-
-Link: https://www.youtube.com/watch?v=2Q6OvYjOJi0
 
 ### Mythology Expert Breaks Down Every Ancient Greek Constellation [7/10]
 **Creator:** WIRED  
@@ -179,14 +161,14 @@ Mythology expert and Professor of classics Peter Meineck deep dives into all 48 
 
 Link: https://www.youtube.com/watch?v=TnpGfdEkV4Q
 
-### ‘The Odyssey’ Cast Answer The 50 Most Searched Questions [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
+### More Americans using credit or savings to pay for groceries [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
 **Why it matters:** Relevant to your current interest graph.
 
-WIRED tasks Matt Damon (Odysseus), Anne Hathaway (Penelope), Tom Holland (Telemachus) and Robert Pattinson (Antinous) to answer the 50 most searched questions about _The Odyssey.
+Food prices have jumped 30% over the last five years, and new research shows more people in the U.S. are using credit — or dipping into their savings — to pay for groceries.
 
-Link: https://www.youtube.com/watch?v=GkM5zdUHcaQ
+Link: https://www.youtube.com/watch?v=GqcnLwxoRQU
 
 ### China bars AI chatbots' companionship features [9/10]
 **Creator:** NPR  
@@ -242,14 +224,23 @@ Wildfire smoke from Canada is seeping into large parts of the United States, pus
 
 Link: https://www.youtube.com/watch?v=3lzzHBnNf_8
 
-### Taco Bell's shredded lettuce linked to Cyclospora outbreak [7/10]
-**Creator:** NPR  
+### Which PlayStation 3 Games Deserve A Full Remake? [9/10]
+**Creator:** Digital Foundry  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=aqy8Ai9oUCg
+
+### Will Project Helix Get A Disc Drive To Counter Sony? [7/10]
+**Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
-Lettuce grown in Mexico has been linked to a multistate outbreak of Cyclospora, and the Food and Drug Administration is warning not to eat shredded iceberg lettuce served at Taco Bell locations in the impacted states.
+► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
-Link: https://www.youtube.com/watch?v=Jp5BLdIfOxs
+Link: https://www.youtube.com/watch?v=YX-TplmaRN4
 
 ### Five Years of Steam Deck: Was It A Game-Changer? [7/10]
 **Creator:** Digital Foundry  
@@ -260,9 +251,9 @@ Link: https://www.youtube.com/watch?v=Jp5BLdIfOxs
 
 Link: https://www.youtube.com/watch?v=kha-Q4aiWq8
 
-### Will Cancelling PlayStation Plus Make Sony Re-Think Killing Discs? [7/10]
+### Will Cancelling PlayStation Plus Make Sony Re-Think Killing Discs? [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -286,24 +277,6 @@ Link: https://www.youtube.com/watch?v=XuD8YvO0eIM
 ► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=p9WchNLp9og
-
-### Assassin's Creed Black Flag Resynced - The PS5 Pro Difference [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=O22z4HOqEig
-
-### Doom The Dark Ages Revelations DLC Is Superb + PS5 Pro PSSR2 Upgrade Tested [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=xraWH6QEtuM
 
 ### We Can’t Look Away from the Layoffs | Unpacked [8/10]
 **Creator:** Second Wind  
@@ -340,15 +313,6 @@ Link: https://www.youtube.com/watch?v=yCNkkYIrS5o
 After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=YfNIRl-ORoQ
-
-### The Modern Bum Camera Problem | Semi-Ramblomatic [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.
-
-Link: https://www.youtube.com/watch?v=4VNYMGHS2mU
 
 ## Entertainment Recommendations
 
