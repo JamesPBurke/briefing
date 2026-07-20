@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-20T14:00:04.198563Z
+Generated: 2026-07-20T18:01:03.779722Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are US identifies soldiers killed in Iranian attack in Jordan after ninth night of strikes – Middle East crisis live, UK games retailer Game entered administration owing £16m, thanks to fierce competition, consumer trends, and "uncertainty associated with Brexit", and China delivers a one-two punch to America’s AI dominance.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Suspect held after explosion at FBI building in New York City, Trump says Iran ‘will pay’ for killing soldiers ‘many times over’ after Pezeshkian says country fighting ‘full-scale war’ – Middle East crisis live, and Ukraine’s army chief expected to lose job after week of protests.
 
 ## Briefing
 
@@ -33,61 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. US identifies soldiers killed in Iranian attack in Jordan after ninth night of strikes – Middle East crisis live [10/10]
+### 1. Suspect held after explosion at FBI building in New York City [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-US military says it is ‘holding Iran accountable’ as maritime agency reports a vessel on fire in strait US military identifies two soldiers killed in Iranian attack on Jordan The price of oil jumped in early Asian trade on Monday after the…
+Three people reported injured after incendiary device allegedly thrown at building also housing ICE field office Authorities in New York City are investigating an explosion on Monday morning outside an FBI building in lower Manhattan that…
+
+Link: https://www.theguardian.com/us-news/2026/jul/20/new-york-explosion-fbi-ice
+
+### 2. Trump says Iran ‘will pay’ for killing soldiers ‘many times over’ after Pezeshkian says country fighting ‘full-scale war’ – Middle East crisis live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+A number of US military service members were killed in action over the weekend in Jordan US expands Iran offensive as diplomats claim talks ongoing The price of oil jumped in early Asian trade on Monday after the US carried out its latest…
 
 Link: https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news
 
-### 2. UK games retailer Game entered administration owing £16m, thanks to fierce competition, consumer trends, and "uncertainty associated with Brexit" [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 3. Ukraine’s army chief expected to lose job after week of protests [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Insight into the fall of British high street video game retailer Game going into administration has been brought to light in a new report.
+Volodymyr Zelenskyy’s chief of staff hints government may be about to sack Oleksandr Syrskyi Ukraine’s commander in chief Oleksandr Syrskyi is widely expected to lose his job amid signs that Volodymyr Zelenskyy has bowed to pressure from…
 
-Link: https://www.eurogamer.net/uk-retailer-game-administration
+Link: https://www.theguardian.com/world/2026/jul/20/ukraine-army-chief-oleksandr-syrskyi-expected-lose-job-week-protests
 
-### 3. China delivers a one-two punch to America’s AI dominance [10/10]
+### 4. LG’s glossy OLED gaming monitor is rare to find under $400 [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+If you’ve been thinking about upgrading your gaming monitor, LG’s 27-inch 27GX704A-B pairs a glossy WOLED panel with a fast refresh rate, and it’s currently on sale for $379.
+
+Link: https://www.theverge.com/gadgets/967993/lg-27-inch-ultragear-glossy-oled-gaming-monitor-deal-sale
+
+### 5. Contrary to Common Belief, The Poorest School Districts Outspend The Wealthiest [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+There’s a prevailing principle in the U.S. that funding disparities are at the root of education inequality, with poorer districts receiving less money than their wealthier counterparts.
+
+Link: https://www.the74million.org/article/contrary-to-common-belief-the-poorest-school-districts-outspend-the-wealthiest/
+
+### 6. The AirPods Max 2 are down to their second-best price [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+There are a ton of deals available to shop today thanks to Best Buy’s “Black Friday in July” sale lasting all week.
+
+Link: https://www.theverge.com/gadgets/967822/airpods-max-2-logitech-superstrike-kodak-charmera-deal-sale
+
+### 7. LG’s monitors come with an unwanted addition for Windows: McAfee pop-up ads [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost.
+A video from Gamers Nexus explains how, after connecting a new LG UltraGear monitor to a PC running Windows 11 for the first time, Windows Update is silently installing LG driver updates and the LG Monitor App Installer, without so much as…
 
-Link: https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen
+Link: https://www.theverge.com/tech/967983/lg-monitors-mcafee-adware-gamers-nexus
 
-### 4. FDA says review of Taylor Farms lettuce shows cyclospora finding was false positive [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 8. FBI accuse Steam user of stealing over $220,000 via malware-infected games like BlockBlasters, Lunara and Dashverse [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Spokesperson for Taylor Fresh Foods told Reuters ‌that the company was informed FDA made a mistake What is the parasitic illness cyclosporiasis? How to properly clean produce to help avoid cyclospora The US Food and Drug ⁠Administration…
+A Florida-based student has been arrested by the FBI after allegedly stealing over $220,000 in cryptocurrency by means of malware-packed free games on Steam. Read more
 
-Link: https://www.theguardian.com/us-news/2026/jul/20/fda-taylor-farms-lettuce-cyclospora-false-positive
+Link: https://www.rockpapershotgun.com/fbi-accuse-steam-user-of-stealing-over-220000-via-malware-infected-games-like-blockblasters-lunara-and-dashverse
 
-### 5. Beyond grep: The case for a context-rich AI coding harness [10/10]
+### 9. AliExpress hit with record $625M fine after failing to make EU-ordered fixes [10/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Augment Code's Vinay Perneti talks models, harnesses, and context.
+Online retailer AliExpress says it's shocked by largest DSA fine yet.
 
-Link: https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/
+Link: https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/
 
-### 6. AliExpress fined almost $630 million over illegal product sales [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-AliExpress has been hit with a €550 million (about $629 million) fine for violating Europe's Digital Services Act (DSA) rules by failing to prevent illegal, unsafe, or counterfeit products from being sold on the e-commerce platform.
-
-Link: https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products
-
-### 7. Experts warn of rise in sadistic online exploitation of vulnerable children [10/10]
+### 10. Experts warn of rise in sadistic online exploitation of vulnerable children [10/10]
 **Source:** The Guardian US  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -96,7 +123,7 @@ Global increase in cases of predators coercing children to harm themselves or pr
 
 Link: https://www.theguardian.com/technology/2026/jul/20/online-exploitation-children-warning
 
-### 8. High school math teacher seeks to win US House seat in Minnesota by emphasizing affordability [10/10]
+### 11. High school math teacher seeks to win US House seat in Minnesota by emphasizing affordability [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -105,41 +132,14 @@ Jake Johnson grew up relying on government assistance.
 
 Link: https://www.theguardian.com/us-news/2026/jul/20/jake-johnson-minnesota-interview
 
-### 9. From Music Teacher to National Union Leader: Top Takeaways From New NEA Chief [10/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 12. The Avengers: Doomsday Trailer Is Here To Remind You How Many People Are in This Movie [9/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Princess Moss has been a leader of the National Education Association since 2014, but soon she will implement her own plans for the union as incoming president. One of her top goals when she takes office Sept.
+It's gonna take a minute for these Avengers to assemble, no? The post The Avengers: Doomsday Trailer Is Here To Remind You How Many People Are in This Movie appeared first on Reactor .
 
-Link: https://www.the74million.org/article/from-music-teacher-to-national-union-leader-top-takeaways-from-new-nea-chief/
-
-### 10. So distressed you can't think straight? Lower the intensity with these 4 skills [10/10]
-**Source:** NPR Health  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-A clinical psychologist shares effective strategies to quickly de-escalate stress and anxiety. That includes dunking your head into a bowl of ice water to trigger your mammalian dive reflex.
-
-Link: https://www.npr.org/2026/07/20/nx-s1-5894845/so-distressed-you-cant-think-straight-lower-the-intensity-with-these-4-skills
-
-### 11. How the Trump administration's new rules could affect international students [9/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-The Trump administration is placing new restrictions on international student visas. Here's how they could impact the fall semester.
-
-Link: https://www.npr.org/2026/07/20/nx-s1-5896300/how-the-trump-administrations-new-rules-could-affect-international-students
-
-### 12. Book Bans, Censorship and Funding Fears Challenge Ohio Public School Librarians [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Public school librarians in Ohio are raising alarms about book bans and funding cuts. School librarians have been navigating challenges in their work as long as they’ve been among the stacks in their local districts.
-
-Link: https://www.the74million.org/article/book-bans-censorship-and-funding-fears-challenge-ohio-public-school-librarians/
+Link: https://reactormag.com/avengers-doomsday-trailer-cast/
 
 ### 13. At least 930 people have died in Congo's Ebola outbreak [8/10]
 **Source:** NPR Health  
@@ -151,15 +151,6 @@ Congo's health ministry said the deaths were recorded out of the 2,344 cases con
 Link: https://www.npr.org/2026/07/20/g-s1-134548/ebola-congo-deaths
 
 ## YouTube
-
-### Every Ancient Greek Constellation Explained [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Mythology expert and Professor of classics Peter Meineck deep dives into all 48 of the constellations the ancient Greeks used in the night sky; including Orion, Canis Major, Boötes, Ursa Major and Taurus constellations as featured in _The…
-
-Link: https://www.youtube.com/watch?v=TnpGfdEkV4Q
 
 ### More Americans using credit or savings to pay for groceries [8/10]
 **Creator:** NPR  
@@ -224,6 +215,24 @@ Wildfire smoke from Canada is seeping into large parts of the United States, pus
 
 Link: https://www.youtube.com/watch?v=3lzzHBnNf_8
 
+### Will Buying Physical GTA 6 "Code In A Box" Send A Message To Sony About Ending Discs? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=SvE5MCwjOf4
+
+### Is Nintendo The Only Platform Holder That Doesn't Lay Off Devs & Annoy Its Userbase? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=e7hnVat_tIY
+
 ### Which PlayStation 3 Games Deserve A Full Remake? [8/10]
 **Creator:** Digital Foundry  
 **Verdict:** Worth watching  
@@ -233,9 +242,9 @@ Link: https://www.youtube.com/watch?v=3lzzHBnNf_8
 
 Link: https://www.youtube.com/watch?v=aqy8Ai9oUCg
 
-### Will Project Helix Get A Disc Drive To Counter Sony? [7/10]
+### Will Project Helix Get A Disc Drive To Counter Sony? [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -260,24 +269,6 @@ Link: https://www.youtube.com/watch?v=kha-Q4aiWq8
 
 Link: https://www.youtube.com/watch?v=3KbajahBM28
 
-### Xbox Reset: Will Project Helix Still Run Steam Games? [8/10]
-**Creator:** Digital Foundry  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=XuD8YvO0eIM
-
-### More Evidence For RTX 50-Series Super GPUs Has Arrived [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=p9WchNLp9og
-
 ### Let’s Make Yahtzee and JM8 Choose Their Favorites | Windbreaker Podcast [7/10]
 **Creator:** Second Wind  
 **Verdict:** Probably worth watching  
@@ -287,14 +278,14 @@ This video is brought to you by Polyarmory: High Calibre Love, the world's only 
 
 Link: https://www.youtube.com/watch?v=4qgHiu5b-3w
 
-### We Can’t Look Away from the Layoffs | Unpacked [8/10]
+### How Black Flag Fakes the Density of its Open World | Design Delve [9/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Watch it  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
 
-Link: https://www.youtube.com/watch?v=SLTBjj3TNJo
+Link: https://www.youtube.com/watch?v=w6JMtfp-Tcg
 
 ## Entertainment Recommendations
 
@@ -415,6 +406,15 @@ With dreams of starting a perfect family, Saga and her British husband Jon move 
 
 Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
 
+### LEGO ONE PIECE | Official Teaser Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The ALMOST true story of Captain Usopp the Brave! The Straw Hats are back in this new 2-part Lego special event, only on Netflix September 29th. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=NfcWSGZdnAs
+
 ### bad habits with the cast of 72 HOURS #Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -477,24 +477,6 @@ Link: https://www.youtube.com/watch?v=eiNIkWcC4v0
 Honoring iconic comedian Bill Maher, The Kennedy Center Mark Twain Prize for American Humor ceremony arrives on Netflix July 21. Featuring Louis C.K.
 
 Link: https://www.youtube.com/watch?v=QNvjTDLDTX0
-
-### Nick DiGiovanni and Nick's Kitchen Announcement [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Later this year, you can also get new episodes from Nick DiGiovanni & Nick's Kitchen on Netflix Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=rIHMxDFfPSo
-
-### A Child of My Own | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Alejandra wanted to be a mother more than anything in the world, but she couldn’t.
-
-Link: https://www.youtube.com/watch?v=8bggMB_AzEY
 
 ### Silo — Season 3 Memory | Apple TV [10/10]
 **Source:** Apple TV  

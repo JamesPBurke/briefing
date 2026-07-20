@@ -1,69 +1,99 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-20T14:00:04.198563Z",
-  "generatedAtDisplay": "2026-07-20 10:00 AM EDT",
+  "generatedAt": "2026-07-20T18:01:03.779722Z",
+  "generatedAtDisplay": "2026-07-20 02:01 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are US identifies soldiers killed in Iranian attack in Jordan after ninth night of strikes – Middle East crisis live, UK games retailer Game entered administration owing £16m, thanks to fierce competition, consumer trends, and \"uncertainty associated with Brexit\", and China delivers a one-two punch to America’s AI dominance.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Suspect held after explosion at FBI building in New York City, Trump says Iran ‘will pay’ for killing soldiers ‘many times over’ after Pezeshkian says country fighting ‘full-scale war’ – Middle East crisis live, and Ukraine’s army chief expected to lose job after week of protests.",
   "mainItems": [
     {
-      "title": "US identifies soldiers killed in Iranian attack in Jordan after ninth night of strikes – Middle East crisis live",
+      "title": "Suspect held after explosion at FBI building in New York City",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
-      "published": "2026-07-20T13:43:09+00:00",
-      "summary": "US military says it is ‘holding Iran accountable’ as maritime agency reports a vessel on fire in strait US military identifies two soldiers killed in Iranian attack on Jordan The price of oil jumped in early Asian trade on Monday after the…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/new-york-explosion-fbi-ice",
+      "published": "2026-07-20T17:46:33+00:00",
+      "summary": "Three people reported injured after incendiary device allegedly thrown at building also housing ICE field office Authorities in New York City are investigating an explosion on Monday morning outside an FBI building in lower Manhattan that…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "UK games retailer Game entered administration owing £16m, thanks to fierce competition, consumer trends, and \"uncertainty associated with Brexit\"",
-      "source": "Eurogamer",
+      "title": "Trump says Iran ‘will pay’ for killing soldiers ‘many times over’ after Pezeshkian says country fighting ‘full-scale war’ – Middle East crisis live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
+      "published": "2026-07-20T17:23:22+00:00",
+      "summary": "A number of US military service members were killed in action over the weekend in Jordan US expands Iran offensive as diplomats claim talks ongoing The price of oil jumped in early Asian trade on Monday after the US carried out its latest…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Ukraine’s army chief expected to lose job after week of protests",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/jul/20/ukraine-army-chief-oleksandr-syrskyi-expected-lose-job-week-protests",
+      "published": "2026-07-20T17:21:26+00:00",
+      "summary": "Volodymyr Zelenskyy’s chief of staff hints government may be about to sack Oleksandr Syrskyi Ukraine’s commander in chief Oleksandr Syrskyi is widely expected to lose his job amid signs that Volodymyr Zelenskyy has bowed to pressure from…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "LG’s glossy OLED gaming monitor is rare to find under $400",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/967993/lg-27-inch-ultragear-glossy-oled-gaming-monitor-deal-sale",
+      "published": "2026-07-20T16:34:24+00:00",
+      "summary": "If you’ve been thinking about upgrading your gaming monitor, LG’s 27-inch 27GX704A-B pairs a glossy WOLED panel with a fast refresh rate, and it’s currently on sale for $379.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Contrary to Common Belief, The Poorest School Districts Outspend The Wealthiest",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/contrary-to-common-belief-the-poorest-school-districts-outspend-the-wealthiest/",
+      "published": "2026-07-20T16:33:27+00:00",
+      "summary": "There’s a prevailing principle in the U.S. that funding disparities are at the root of education inequality, with poorer districts receiving less money than their wealthier counterparts.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "The AirPods Max 2 are down to their second-best price",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/967822/airpods-max-2-logitech-superstrike-kodak-charmera-deal-sale",
+      "published": "2026-07-20T16:29:50+00:00",
+      "summary": "There are a ton of deals available to shop today thanks to Best Buy’s “Black Friday in July” sale lasting all week.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "LG’s monitors come with an unwanted addition for Windows: McAfee pop-up ads",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/967983/lg-monitors-mcafee-adware-gamers-nexus",
+      "published": "2026-07-20T16:22:33+00:00",
+      "summary": "A video from Gamers Nexus explains how, after connecting a new LG UltraGear monitor to a PC running Windows 11 for the first time, Windows Update is silently installing LG driver updates and the LG Monitor App Installer, without so much as…",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "FBI accuse Steam user of stealing over $220,000 via malware-infected games like BlockBlasters, Lunara and Dashverse",
+      "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/uk-retailer-game-administration",
-      "published": "2026-07-20T13:35:25+00:00",
-      "summary": "Insight into the fall of British high street video game retailer Game going into administration has been brought to light in a new report.",
+      "url": "https://www.rockpapershotgun.com/fbi-accuse-steam-user-of-stealing-over-220000-via-malware-infected-games-like-blockblasters-lunara-and-dashverse",
+      "published": "2026-07-20T15:43:24+00:00",
+      "summary": "A Florida-based student has been arrested by the FBI after allegedly stealing over $220,000 in cryptocurrency by means of malware-packed free games on Steam. Read more",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "China delivers a one-two punch to America’s AI dominance",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "published": "2026-07-20T12:47:44+00:00",
-      "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "FDA says review of Taylor Farms lettuce shows cyclospora finding was false positive",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/20/fda-taylor-farms-lettuce-cyclospora-false-positive",
-      "published": "2026-07-20T12:20:00+00:00",
-      "summary": "Spokesperson for Taylor Fresh Foods told Reuters ‌that the company was informed FDA made a mistake What is the parasitic illness cyclosporiasis? How to properly clean produce to help avoid cyclospora The US Food and Drug ⁠Administration…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Beyond grep: The case for a context-rich AI coding harness",
+      "title": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
       "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
-      "published": "2026-07-20T11:20:10+00:00",
-      "summary": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/",
+      "published": "2026-07-20T15:32:45+00:00",
+      "summary": "Online retailer AliExpress says it's shocked by largest DSA fine yet.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "AliExpress fined almost $630 million over illegal product sales",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products",
-      "published": "2026-07-20T11:16:32+00:00",
-      "summary": "AliExpress has been hit with a €550 million (about $629 million) fine for violating Europe's Digital Services Act (DSA) rules by failing to prevent illegal, unsafe, or counterfeit products from being sold on the e-commerce platform.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -87,43 +117,13 @@
       "score": 10
     },
     {
-      "title": "From Music Teacher to National Union Leader: Top Takeaways From New NEA Chief",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/from-music-teacher-to-national-union-leader-top-takeaways-from-new-nea-chief/",
-      "published": "2026-07-20T10:30:00+00:00",
-      "summary": "Princess Moss has been a leader of the National Education Association since 2014, but soon she will implement her own plans for the union as incoming president. One of her top goals when she takes office Sept.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "So distressed you can't think straight? Lower the intensity with these 4 skills",
-      "source": "NPR Health",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/07/20/nx-s1-5894845/so-distressed-you-cant-think-straight-lower-the-intensity-with-these-4-skills",
-      "published": "2026-07-20T09:00:00+00:00",
-      "summary": "A clinical psychologist shares effective strategies to quickly de-escalate stress and anxiety. That includes dunking your head into a bowl of ice water to trigger your mammalian dive reflex.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "How the Trump administration's new rules could affect international students",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/07/20/nx-s1-5896300/how-the-trump-administrations-new-rules-could-affect-international-students",
-      "published": "2026-07-20T08:41:50+00:00",
-      "summary": "The Trump administration is placing new restrictions on international student visas. Here's how they could impact the fall semester.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Book Bans, Censorship and Funding Fears Challenge Ohio Public School Librarians",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/book-bans-censorship-and-funding-fears-challenge-ohio-public-school-librarians/",
-      "published": "2026-07-19T16:30:00+00:00",
-      "summary": "Public school librarians in Ohio are raising alarms about book bans and funding cuts. School librarians have been navigating challenges in their work as long as they’ve been among the stacks in their local districts.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "title": "The Avengers: Doomsday Trailer Is Here To Remind You How Many People Are in This Movie",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/avengers-doomsday-trailer-cast/",
+      "published": "2026-07-20T14:00:14+00:00",
+      "summary": "It's gonna take a minute for these Avengers to assemble, no? The post The Avengers: Doomsday Trailer Is Here To Remind You How Many People Are in This Movie appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 9
     },
     {
@@ -138,17 +138,6 @@
     }
   ],
   "youtube": [
-    {
-      "title": "Every Ancient Greek Constellation Explained",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=TnpGfdEkV4Q",
-      "published": "2026-07-17T16:00:16+00:00",
-      "summary": "Mythology expert and Professor of classics Peter Meineck deep dives into all 48 of the constellations the ancient Greeks used in the night sky; including Orion, Canis Major, Boötes, Ursa Major and Taurus constellations as featured in _The…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
     {
       "title": "More Americans using credit or savings to pay for groceries",
       "source": "NPR",
@@ -227,6 +216,28 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "Will Buying Physical GTA 6 \"Code In A Box\" Send A Message To Sony About Ending Discs?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=SvE5MCwjOf4",
+      "published": "2026-07-20T16:00:29+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Is Nintendo The Only Platform Holder That Doesn't Lay Off Devs & Annoy Its Userbase?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=e7hnVat_tIY",
+      "published": "2026-07-20T16:00:06+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Which PlayStation 3 Games Deserve A Full Remake?",
       "source": "Digital Foundry",
       "category": "Games / hardware",
@@ -245,8 +256,8 @@
       "published": "2026-07-19T15:00:19+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Five Years of Steam Deck: Was It A Game-Changer?",
@@ -271,28 +282,6 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "Xbox Reset: Will Project Helix Still Run Steam Games?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=XuD8YvO0eIM",
-      "published": "2026-07-17T17:00:20+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "More Evidence For RTX 50-Series Super GPUs Has Arrived",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=p9WchNLp9og",
-      "published": "2026-07-17T16:00:30+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
       "title": "Let’s Make Yahtzee and JM8 Choose Their Favorites | Windbreaker Podcast",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -304,15 +293,15 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "We Can’t Look Away from the Layoffs | Unpacked",
+      "title": "How Black Flag Fakes the Density of its Open World | Design Delve",
       "source": "Second Wind",
       "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=SLTBjj3TNJo",
-      "published": "2026-07-17T15:00:13+00:00",
+      "url": "https://www.youtube.com/watch?v=w6JMtfp-Tcg",
+      "published": "2026-07-20T15:00:33+00:00",
       "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 9,
+      "verdict": "Watch it"
     }
   ],
   "trailers": [
@@ -427,6 +416,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "LEGO ONE PIECE | Official Teaser Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=NfcWSGZdnAs",
+      "published": "2026-07-20T16:00:00+00:00",
+      "summary": "The ALMOST true story of Captain Usopp the Brave! The Straw Hats are back in this new 2-part Lego special event, only on Netflix September 29th. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "bad habits with the cast of 72 HOURS #Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -499,28 +499,6 @@
       "url": "https://www.youtube.com/watch?v=QNvjTDLDTX0",
       "published": "2026-07-15T18:00:00+00:00",
       "summary": "Honoring iconic comedian Bill Maher, The Kennedy Center Mark Twain Prize for American Humor ceremony arrives on Netflix July 21. Featuring Louis C.K.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Nick DiGiovanni and Nick's Kitchen Announcement",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=rIHMxDFfPSo",
-      "published": "2026-07-15T16:00:17+00:00",
-      "summary": "Later this year, you can also get new episodes from Nick DiGiovanni & Nick's Kitchen on Netflix Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "A Child of My Own | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=8bggMB_AzEY",
-      "published": "2026-07-15T15:00:00+00:00",
-      "summary": "Alejandra wanted to be a mother more than anything in the world, but she couldn’t.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
@@ -670,8 +648,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 16,
-    "trailerCount": 22,
-    "sourceCount": 18
+    "youtubeCount": 15,
+    "trailerCount": 21,
+    "sourceCount": 17
   }
 }
