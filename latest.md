@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-20T09:00:31.403829Z
+Generated: 2026-07-20T14:00:04.198563Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Iran vows not a ‘single drop’ of oil or gas will pass strait of Hormuz as US carries out ninth night of strikes – Middle East crisis live, AI is more likely than humans to form biases when hiring, and How the Trump administration's new rules could affect international students.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are US identifies soldiers killed in Iranian attack in Jordan after ninth night of strikes – Middle East crisis live, UK games retailer Game entered administration owing £16m, thanks to fierce competition, consumer trends, and "uncertainty associated with Brexit", and China delivers a one-two punch to America’s AI dominance.
 
 ## Briefing
 
@@ -33,25 +33,97 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Iran vows not a ‘single drop’ of oil or gas will pass strait of Hormuz as US carries out ninth night of strikes – Middle East crisis live [10/10]
+### 1. US identifies soldiers killed in Iranian attack in Jordan after ninth night of strikes – Middle East crisis live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-US military says it is ‘holding Iran accountable’ as maritime agency reports a vessel on fire in strait US launches ninth night of Iran strikes as strait of Hormuz standoff sees oil price pass $90 a barrel The price of oil jumped in early…
+US military says it is ‘holding Iran accountable’ as maritime agency reports a vessel on fire in strait US military identifies two soldiers killed in Iranian attack on Jordan The price of oil jumped in early Asian trade on Monday after the…
 
 Link: https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news
 
-### 2. AI is more likely than humans to form biases when hiring [10/10]
-**Source:** MIT Technology Review  
+### 2. UK games retailer Game entered administration owing £16m, thanks to fierce competition, consumer trends, and "uncertainty associated with Brexit" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Insight into the fall of British high street video game retailer Game going into administration has been brought to light in a new report.
+
+Link: https://www.eurogamer.net/uk-retailer-game-administration
+
+### 3. China delivers a one-two punch to America’s AI dominance [10/10]
+**Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data.
+China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost.
 
-Link: https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/
+Link: https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen
 
-### 3. How the Trump administration's new rules could affect international students [9/10]
+### 4. FDA says review of Taylor Farms lettuce shows cyclospora finding was false positive [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Spokesperson for Taylor Fresh Foods told Reuters ‌that the company was informed FDA made a mistake What is the parasitic illness cyclosporiasis? How to properly clean produce to help avoid cyclospora The US Food and Drug ⁠Administration…
+
+Link: https://www.theguardian.com/us-news/2026/jul/20/fda-taylor-farms-lettuce-cyclospora-false-positive
+
+### 5. Beyond grep: The case for a context-rich AI coding harness [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Augment Code's Vinay Perneti talks models, harnesses, and context.
+
+Link: https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/
+
+### 6. AliExpress fined almost $630 million over illegal product sales [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+AliExpress has been hit with a €550 million (about $629 million) fine for violating Europe's Digital Services Act (DSA) rules by failing to prevent illegal, unsafe, or counterfeit products from being sold on the e-commerce platform.
+
+Link: https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products
+
+### 7. Experts warn of rise in sadistic online exploitation of vulnerable children [10/10]
+**Source:** The Guardian US  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+Global increase in cases of predators coercing children to harm themselves or produce child sexual abuse material Cases of predators coercing children into producing sexual photos and videos of themselves have surged globally in the past…
+
+Link: https://www.theguardian.com/technology/2026/jul/20/online-exploitation-children-warning
+
+### 8. High school math teacher seeks to win US House seat in Minnesota by emphasizing affordability [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Jake Johnson grew up relying on government assistance.
+
+Link: https://www.theguardian.com/us-news/2026/jul/20/jake-johnson-minnesota-interview
+
+### 9. From Music Teacher to National Union Leader: Top Takeaways From New NEA Chief [10/10]
+**Source:** The 74  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Princess Moss has been a leader of the National Education Association since 2014, but soon she will implement her own plans for the union as incoming president. One of her top goals when she takes office Sept.
+
+Link: https://www.the74million.org/article/from-music-teacher-to-national-union-leader-top-takeaways-from-new-nea-chief/
+
+### 10. So distressed you can't think straight? Lower the intensity with these 4 skills [10/10]
+**Source:** NPR Health  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+A clinical psychologist shares effective strategies to quickly de-escalate stress and anxiety. That includes dunking your head into a bowl of ice water to trigger your mammalian dive reflex.
+
+Link: https://www.npr.org/2026/07/20/nx-s1-5894845/so-distressed-you-cant-think-straight-lower-the-intensity-with-these-4-skills
+
+### 11. How the Trump administration's new rules could affect international students [9/10]
 **Source:** NPR Education  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -60,70 +132,7 @@ The Trump administration is placing new restrictions on international student vi
 
 Link: https://www.npr.org/2026/07/20/nx-s1-5896300/how-the-trump-administrations-new-rules-could-affect-international-students
 
-### 4. Shania Twain: Little Miss Twain review – rootsy revival strays from the dirt track to the middle of the road [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-(Republic Nashville) The country legend’s seventh album revisits her troubled early life but plays it safe with zany humour and fluffy songs about young love ‘When I was a kid, I started on stages just like this,” Shania Twain told the 200…
-
-Link: https://www.theguardian.com/music/2026/jul/20/shania-twain-little-miss-twain-review
-
-### 5. Changing face of the Peloponnese: backdrop to The Odyssey braces for tourism surge [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Tracing a journey across the Peloponnese, taking as its starting point the locations of Christopher Nolan’s new film.
-
-Link: https://www.theguardian.com/artanddesign/2026/jul/20/peloponnese-greece-the-odyssey-tourism-development-environment
-
-### 6. A Sudden Flicker of Light by David Thomson review – a brilliantly eccentric history of the movies [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-From the golden age of Hollywood to harder times today, this is a rapturous account of more than a century of cinema Film critic, historian and author of more than 40 books, David Thomson is back with another three-hour free jazz solo on…
-
-Link: https://www.theguardian.com/books/2026/jul/20/a-sudden-flicker-of-light-by-david-thomson-review-a-brilliantly-eccentric-history-of-the-movies
-
-### 7. ‘Everything I know about evil I learned in that small town’: John Carpenter on terrifying the world with Halloween, The Thing and The Fog [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-At 78, the king of horror and sci-fi movies is as much of a rebel as ever.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/jul/20/everything-i-know-about-evil-i-learned-in-that-small-town-john-carpenter-on-terrifying-the-world-with-halloween-the-thing-and-the-fog
-
-### 8. Five family members found dead after flash flood in Utah canyon, police say [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Victims were Provo’s fire captain, his wife and their three sons, who were hiking in Bicknell amid heavy rains Five family members who had set out for a day of hiking were killed after a flash flood swept through canyons of southern Utah…
-
-Link: https://www.theguardian.com/us-news/2026/jul/19/utah-flash-flood-deaths-family
-
-### 9. The grueling, 630-mile road race where the only fuel is sunlight [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-On July 19th, dozens of teams of high school students will begin a five-day, 630-mile road race from Fort Worth to Fort Stockton in Texas. But this is not your typical contest.
-
-Link: https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas
-
-### 10. Baldur's Gate 3, Clair Obscur actor Jennifer English withdraws from Tides of Annihilation to "look after her mental and physical health" [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The award-winning actor, Jennifer English, has withdrawn from Eclipse Glow Games' action game Tides of Annihilation to "look after [her] mental and physical health". Read more
-
-Link: https://www.eurogamer.net/jennifer-english-leaves-tides-of-annihilation
-
-### 11. Book Bans, Censorship and Funding Fears Challenge Ohio Public School Librarians [9/10]
+### 12. Book Bans, Censorship and Funding Fears Challenge Ohio Public School Librarians [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -132,32 +141,23 @@ Public school librarians in Ohio are raising alarms about book bans and funding 
 
 Link: https://www.the74million.org/article/book-bans-censorship-and-funding-fears-challenge-ohio-public-school-librarians/
 
-### 12. Palworld is once again dominating Steam this weekend, clocking up almost 1m concurrent players [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Palworld is once again one of the most played games on Steam this weekend. Read more
-
-Link: https://www.eurogamer.net/palworld-almost-hits-1-million-concurrents-again
-
-### 13. New study finds avocado oil products may contain cheaper oils [8/10]
+### 13. At least 930 people have died in Congo's Ebola outbreak [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Sales of avocado oil and products made with it are booming as consumers willingly pay a premium, drawn by the oil's health halo. New research finds many products actually contain other, cheaper oils.
+Congo's health ministry said the deaths were recorded out of the 2,344 cases confirmed as of Saturday. Thirty-seven new deaths were recorded in the previous 24 hours in one of the highest totals.
 
-Link: https://www.npr.org/2026/07/20/nx-s1-5896063/new-study-finds-avocado-oil-products-may-contain-cheaper-oils
+Link: https://www.npr.org/2026/07/20/g-s1-134548/ebola-congo-deaths
 
 ## YouTube
 
-### Mythology Expert Breaks Down Every Ancient Greek Constellation [7/10]
+### Every Ancient Greek Constellation Explained [7/10]
 **Creator:** WIRED  
 **Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-Mythology expert and Professor of classics Peter Meineck deep dives into all 48 of the constellations the ancient Greeks used in the night sky.
+Mythology expert and Professor of classics Peter Meineck deep dives into all 48 of the constellations the ancient Greeks used in the night sky; including Orion, Canis Major, Boötes, Ursa Major and Taurus constellations as featured in _The…
 
 Link: https://www.youtube.com/watch?v=TnpGfdEkV4Q
 
@@ -278,6 +278,15 @@ Link: https://www.youtube.com/watch?v=XuD8YvO0eIM
 
 Link: https://www.youtube.com/watch?v=p9WchNLp9og
 
+### Let’s Make Yahtzee and JM8 Choose Their Favorites | Windbreaker Podcast [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=4qgHiu5b-3w
+
 ### We Can’t Look Away from the Layoffs | Unpacked [8/10]
 **Creator:** Second Wind  
 **Verdict:** Worth watching  
@@ -286,15 +295,6 @@ Link: https://www.youtube.com/watch?v=p9WchNLp9og
 This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
 
 Link: https://www.youtube.com/watch?v=SLTBjj3TNJo
-
-### How to Run a Successful One-Shot w/ Sophia Ricciardi from Rolling with Difficulty | RPG Help Desk [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-You've gotta treat a one-shot differently than a campaign. The pacing, the content, the payoffs. Everything needs to be on a tighter timetable but still be satisfying.
-
-Link: https://www.youtube.com/watch?v=TUoIdAYPkQU
 
 ## Entertainment Recommendations
 
