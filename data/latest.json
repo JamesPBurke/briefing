@@ -1,20 +1,70 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-19T18:00:57.494757Z",
-  "generatedAtDisplay": "2026-07-19 02:00 PM EDT",
+  "generatedAt": "2026-07-20T05:00:03.671563Z",
+  "generatedAtDisplay": "2026-07-20 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Earthquake in Peru leaves at least five dead, Baldur's Gate 3, Clair Obscur actor Jennifer English withdraws from Tides of Annihilation to \"look after her mental and physical health\", and Second person dies in legionnaires’ disease outbreak in New York City.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are Iran vows not a ‘single drop’ of oil or gas will pass strait of Hormuz as US carries out ninth night of strikes – Middle East crisis live, The grueling, 630-mile road race where the only fuel is sunlight, and When Maga’s power fades, we cannot abandon those ICE killed | Moira Donegan.",
   "mainItems": [
     {
-      "title": "Earthquake in Peru leaves at least five dead",
+      "title": "Iran vows not a ‘single drop’ of oil or gas will pass strait of Hormuz as US carries out ninth night of strikes – Middle East crisis live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
-      "published": "2026-07-19T17:12:47+00:00",
-      "summary": "More than 20 injured and 300 displaced after buildings collapse near Sicaya A 5.5-magnitude earthquake shook the Andes region of Peru, killing at least five people, authorities said Sunday.",
+      "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
+      "published": "2026-07-20T04:47:20+00:00",
+      "summary": "Revolutionary Guard says it targeted US aircraft in Jordan and stopped two tankers in strait while American military says it is ‘holding Iran accountable’ US launches ninth night of Iran strikes as strait of Hormuz standoff sees oil price…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "The grueling, 630-mile road race where the only fuel is sunlight",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas",
+      "published": "2026-07-19T19:03:41+00:00",
+      "summary": "On July 19th, dozens of teams of high school students will begin a five-day, 630-mile road race from Fort Worth to Fort Stockton in Texas. But this is not your typical contest.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "When Maga’s power fades, we cannot abandon those ICE killed | Moira Donegan",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/19/ice-immigration-maga",
+      "published": "2026-07-19T13:00:28+00:00",
+      "summary": "When this is all over, people will tell us to move on.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "‘Everything I know about evil I learned in that small town’: John Carpenter on terrifying the world with Halloween, The Thing and The Fog",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/20/everything-i-know-about-evil-i-learned-in-that-small-town-john-carpenter-on-terrifying-the-world-with-halloween-the-thing-and-the-fog",
+      "published": "2026-07-20T04:00:46+00:00",
+      "summary": "At 78, the king of horror and sci-fi movies is as much of a rebel as ever.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "JD and Usha Vance welcome baby boy, first child born to sitting VP in 156 years",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/jd-usha-vance-baby-boy-born",
+      "published": "2026-07-19T23:00:08+00:00",
+      "summary": "Vice-president and second lady announced birth of Alec Neel Vance, their fourth child, in social media statement Vice-President JD Vance and his wife, second lady Usha Vance, on Sunday announced the birth of their fourth child, the first…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Five family members found dead after flash flood in Utah canyon, police say",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/utah-flash-flood-deaths-family",
+      "published": "2026-07-19T22:24:04+00:00",
+      "summary": "Victims were Provo’s fire captain, his wife and their three sons, who were hiking in Bicknell amid heavy rains Five family members who had set out for a day of hiking were killed after a flash flood swept through canyons of southern Utah…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
     },
     {
       "title": "Baldur's Gate 3, Clair Obscur actor Jennifer English withdraws from Tides of Annihilation to \"look after her mental and physical health\"",
@@ -24,17 +74,7 @@
       "published": "2026-07-19T16:57:42+00:00",
       "summary": "The award-winning actor, Jennifer English, has withdrawn from Eclipse Glow Games' action game Tides of Annihilation to \"look after [her] mental and physical health\". Read more",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Second person dies in legionnaires’ disease outbreak in New York City",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/19/legionnaires-disease-deaths-new-york-city",
-      "published": "2026-07-19T16:51:24+00:00",
-      "summary": "Outbreak has sickened dozens in the city but officials say they believe source of outbreak ‘has likely been eliminated’ A second person has died amid a legionnaires’ disease outbreak that has sickened dozens of people in New York City ,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Book Bans, Censorship and Funding Fears Challenge Ohio Public School Librarians",
@@ -44,7 +84,7 @@
       "published": "2026-07-19T16:30:00+00:00",
       "summary": "Public school librarians in Ohio are raising alarms about book bans and funding cuts. School librarians have been navigating challenges in their work as long as they’ve been among the stacks in their local districts.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "US boxer Hannah Rapp struck and killed by driver while cycling, police say",
@@ -54,7 +94,7 @@
       "published": "2026-07-19T16:06:23+00:00",
       "summary": "Investigators arrest 31-year-old man identified as Charles Medina in connection with death of Rapp who was 26 US boxer Hannah Rapp, who in June fought for the World Boxing Council (WBC) women’s featherweight championship, was killed on…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Palworld is once again dominating Steam this weekend, clocking up almost 1m concurrent players",
@@ -64,67 +104,27 @@
       "published": "2026-07-19T15:51:45+00:00",
       "summary": "Palworld is once again one of the most played games on Steam this weekend. Read more",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Rise in overseas surrogates ‘increases risk of stateless babies’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/19/rise-overseas-surrogates-increases-risk-stateless-babies-experts-warn",
-      "published": "2026-07-19T15:00:29+00:00",
-      "summary": "Calls grow for global regulation as rising numbers of westerners use surrogates in countries with different laws Why Mexico is at the heart of ethical debate over global surrogacy The rise in the use of surrogates abroad is leaving more…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The truth about migraines: what causes them – and how to find relief",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/19/banging-headache-mysteries-migraine-treatments",
-      "published": "2026-07-19T13:00:27+00:00",
-      "summary": "Over the last decade, the understanding of these devastating headaches has grown enormously, as has the understanding of what can be done to treat them We’ve been trying to cure migraines – without much success, until relatively recently –…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Could AI be conscious?",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
-      "published": "2026-07-19T11:00:25+00:00",
-      "summary": "Experts believe it’s at least possible.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Forbidden Solitaire is a wonderful reminder games are powerful cultural artefacts that demand to be preserved",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/forbidden-solitaire-90s-cd-rom-game-preservation",
-      "published": "2026-07-19T09:00:00+00:00",
-      "summary": "Not so long ago, I found a stash of my old ZX Spectrum games in the attic.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Orchid is a delightfully retro and approachable hipster synth",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review",
-      "published": "2026-07-19T14:58:03+00:00",
-      "summary": "In 2017, I bought an old Magnus chord organ off Craigslist for $10. It's one of my favorite music gear purchases.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
+      "title": "The kindness of strangers: After losing my wife and son, I ate alone one Father’s Day – and another diner paid my bill",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/20/kindness-of-strangers-grief-loss-fathers-day-diner-who-paid-my-bill",
+      "published": "2026-07-19T15:00:30+00:00",
+      "summary": "I went out into the car park to see if I could spot anyone nearby who might have just left the restaurant Read more in the kindness of strangers series I lost my wife in 2020 and my son in 2021.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Violence repeatedly erupts in dementia care despite warnings, inspections show",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke",
-      "published": "2026-07-18T18:15:42+00:00",
-      "summary": "Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada.",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5894692/dementia-violence-warning-supervision-nursing-homes-assisted-living-facility",
+      "published": "2026-07-19T11:00:00+00:00",
+      "summary": "Nursing homes and assisted living facilities can be fertile ground for violence between residents with dementia, including fatal assaults. Court records and inspecitions how safeguards fall short.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
     },
     {
       "title": "NYC’s Mayor Asked for Parents’ Opinions on Schools. Here’s What Some Have to Say",
@@ -157,8 +157,8 @@
       "published": "2026-07-19T15:00:10+00:00",
       "summary": "Food prices have jumped 30% over the last five years, and new research shows more people in the U.S. are using credit — or dipping into their savings — to pay for groceries.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "China bars AI chatbots' companionship features",
@@ -168,8 +168,8 @@
       "published": "2026-07-19T13:00:34+00:00",
       "summary": "In China, many have had to say goodbye to their virtual friends and partners, as several big AI companies have suspended their AI companionship features.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Hunter Biden says he has nothing left to hide",
@@ -234,8 +234,8 @@
       "published": "2026-07-19T16:00:05+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Will Project Helix Get A Disc Drive To Counter Sony?",
@@ -310,28 +310,6 @@
       "url": "https://www.youtube.com/watch?v=TUoIdAYPkQU",
       "published": "2026-07-17T10:29:06+00:00",
       "summary": "You've gotta treat a one-shot differently than a campaign. The pacing, the content, the payoffs. Everything needs to be on a tighter timetable but still be satisfying.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Modern Games That Changed the Industry | Firelink Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=yCNkkYIrS5o",
-      "published": "2026-07-17T01:08:57+00:00",
-      "summary": "This week on Firelink, Nick, KC, and Marty chat about recent games that changed the industry. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.fantasycritic.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Fallout 3 Smooch a Super Mutant Speedrun w/ Jack, Jess, and Marty -- Part 6",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=YfNIRl-ORoQ",
-      "published": "2026-07-16T18:57:17+00:00",
-      "summary": "After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -692,7 +670,7 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 18,
+    "youtubeCount": 16,
     "trailerCount": 22,
     "sourceCount": 16
   }

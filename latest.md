@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-19T18:00:57.494757Z
+Generated: 2026-07-20T05:00:03.671563Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Earthquake in Peru leaves at least five dead, Baldur's Gate 3, Clair Obscur actor Jennifer English withdraws from Tides of Annihilation to "look after her mental and physical health", and Second person dies in legionnaires’ disease outbreak in New York City.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are Iran vows not a ‘single drop’ of oil or gas will pass strait of Hormuz as US carries out ninth night of strikes – Middle East crisis live, The grueling, 630-mile road race where the only fuel is sunlight, and When Maga’s power fades, we cannot abandon those ICE killed | Moira Donegan.
 
 ## Briefing
 
@@ -33,16 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Earthquake in Peru leaves at least five dead [10/10]
+### 1. Iran vows not a ‘single drop’ of oil or gas will pass strait of Hormuz as US carries out ninth night of strikes – Middle East crisis live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-More than 20 injured and 300 displaced after buildings collapse near Sicaya A 5.5-magnitude earthquake shook the Andes region of Peru, killing at least five people, authorities said Sunday.
+Revolutionary Guard says it targeted US aircraft in Jordan and stopped two tankers in strait while American military says it is ‘holding Iran accountable’ US launches ninth night of Iran strikes as strait of Hormuz standoff sees oil price…
 
-Link: https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people
+Link: https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news
 
-### 2. Baldur's Gate 3, Clair Obscur actor Jennifer English withdraws from Tides of Annihilation to "look after her mental and physical health" [10/10]
+### 2. The grueling, 630-mile road race where the only fuel is sunlight [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+On July 19th, dozens of teams of high school students will begin a five-day, 630-mile road race from Fort Worth to Fort Stockton in Texas. But this is not your typical contest.
+
+Link: https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas
+
+### 3. When Maga’s power fades, we cannot abandon those ICE killed | Moira Donegan [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+When this is all over, people will tell us to move on.
+
+Link: https://www.theguardian.com/commentisfree/2026/jul/19/ice-immigration-maga
+
+### 4. ‘Everything I know about evil I learned in that small town’: John Carpenter on terrifying the world with Halloween, The Thing and The Fog [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+At 78, the king of horror and sci-fi movies is as much of a rebel as ever.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/jul/20/everything-i-know-about-evil-i-learned-in-that-small-town-john-carpenter-on-terrifying-the-world-with-halloween-the-thing-and-the-fog
+
+### 5. JD and Usha Vance welcome baby boy, first child born to sitting VP in 156 years [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Vice-president and second lady announced birth of Alec Neel Vance, their fourth child, in social media statement Vice-President JD Vance and his wife, second lady Usha Vance, on Sunday announced the birth of their fourth child, the first…
+
+Link: https://www.theguardian.com/us-news/2026/jul/19/jd-usha-vance-baby-boy-born
+
+### 6. Five family members found dead after flash flood in Utah canyon, police say [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Victims were Provo’s fire captain, his wife and their three sons, who were hiking in Bicknell amid heavy rains Five family members who had set out for a day of hiking were killed after a flash flood swept through canyons of southern Utah…
+
+Link: https://www.theguardian.com/us-news/2026/jul/19/utah-flash-flood-deaths-family
+
+### 7. Baldur's Gate 3, Clair Obscur actor Jennifer English withdraws from Tides of Annihilation to "look after her mental and physical health" [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -51,16 +96,7 @@ The award-winning actor, Jennifer English, has withdrawn from Eclipse Glow Games
 
 Link: https://www.eurogamer.net/jennifer-english-leaves-tides-of-annihilation
 
-### 3. Second person dies in legionnaires’ disease outbreak in New York City [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Outbreak has sickened dozens in the city but officials say they believe source of outbreak ‘has likely been eliminated’ A second person has died amid a legionnaires’ disease outbreak that has sickened dozens of people in New York City ,…
-
-Link: https://www.theguardian.com/us-news/2026/jul/19/legionnaires-disease-deaths-new-york-city
-
-### 4. Book Bans, Censorship and Funding Fears Challenge Ohio Public School Librarians [10/10]
+### 8. Book Bans, Censorship and Funding Fears Challenge Ohio Public School Librarians [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -69,7 +105,7 @@ Public school librarians in Ohio are raising alarms about book bans and funding 
 
 Link: https://www.the74million.org/article/book-bans-censorship-and-funding-fears-challenge-ohio-public-school-librarians/
 
-### 5. US boxer Hannah Rapp struck and killed by driver while cycling, police say [10/10]
+### 9. US boxer Hannah Rapp struck and killed by driver while cycling, police say [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -78,7 +114,7 @@ Investigators arrest 31-year-old man identified as Charles Medina in connection 
 
 Link: https://www.theguardian.com/us-news/2026/jul/19/boxer-hannah-rapp-dies-struck-by-car
 
-### 6. Palworld is once again dominating Steam this weekend, clocking up almost 1m concurrent players [10/10]
+### 10. Palworld is once again dominating Steam this weekend, clocking up almost 1m concurrent players [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -87,59 +123,23 @@ Palworld is once again one of the most played games on Steam this weekend. Read 
 
 Link: https://www.eurogamer.net/palworld-almost-hits-1-million-concurrents-again
 
-### 7. Rise in overseas surrogates ‘increases risk of stateless babies’ [10/10]
+### 11. The kindness of strangers: After losing my wife and son, I ate alone one Father’s Day – and another diner paid my bill [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Calls grow for global regulation as rising numbers of westerners use surrogates in countries with different laws Why Mexico is at the heart of ethical debate over global surrogacy The rise in the use of surrogates abroad is leaving more…
+I went out into the car park to see if I could spot anyone nearby who might have just left the restaurant Read more in the kindness of strangers series I lost my wife in 2020 and my son in 2021.
 
-Link: https://www.theguardian.com/lifeandstyle/2026/jul/19/rise-overseas-surrogates-increases-risk-stateless-babies-experts-warn
+Link: https://www.theguardian.com/lifeandstyle/2026/jul/20/kindness-of-strangers-grief-loss-fathers-day-diner-who-paid-my-bill
 
-### 8. The truth about migraines: what causes them – and how to find relief [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Over the last decade, the understanding of these devastating headaches has grown enormously, as has the understanding of what can be done to treat them We’ve been trying to cure migraines – without much success, until relatively recently –…
-
-Link: https://www.theguardian.com/lifeandstyle/2026/jul/19/banging-headache-mysteries-migraine-treatments
-
-### 9. Could AI be conscious? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Experts believe it’s at least possible.
-
-Link: https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious
-
-### 10. Forbidden Solitaire is a wonderful reminder games are powerful cultural artefacts that demand to be preserved [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Not so long ago, I found a stash of my old ZX Spectrum games in the attic.
-
-Link: https://www.eurogamer.net/forbidden-solitaire-90s-cd-rom-game-preservation
-
-### 11. Orchid is a delightfully retro and approachable hipster synth [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-In 2017, I bought an old Magnus chord organ off Craigslist for $10. It's one of my favorite music gear purchases.
-
-Link: https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review
-
-### 12. Air quality improving in Northeast, while wildfire smoke hangs over Midwest [8/10]
+### 12. Violence repeatedly erupts in dementia care despite warnings, inspections show [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada.
+Nursing homes and assisted living facilities can be fertile ground for violence between residents with dementia, including fatal assaults. Court records and inspecitions how safeguards fall short.
 
-Link: https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke
+Link: https://www.npr.org/2026/07/19/nx-s1-5894692/dementia-violence-warning-supervision-nursing-homes-assisted-living-facility
 
 ### 13. NYC’s Mayor Asked for Parents’ Opinions on Schools. Here’s What Some Have to Say [7/10]
 **Source:** The 74  
@@ -161,18 +161,18 @@ Mythology expert and Professor of classics Peter Meineck deep dives into all 48 
 
 Link: https://www.youtube.com/watch?v=TnpGfdEkV4Q
 
-### More Americans using credit or savings to pay for groceries [9/10]
+### More Americans using credit or savings to pay for groceries [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Food prices have jumped 30% over the last five years, and new research shows more people in the U.S. are using credit — or dipping into their savings — to pay for groceries.
 
 Link: https://www.youtube.com/watch?v=GqcnLwxoRQU
 
-### China bars AI chatbots' companionship features [9/10]
+### China bars AI chatbots' companionship features [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 In China, many have had to say goodbye to their virtual friends and partners, as several big AI companies have suspended their AI companionship features.
@@ -224,9 +224,9 @@ Wildfire smoke from Canada is seeping into large parts of the United States, pus
 
 Link: https://www.youtube.com/watch?v=3lzzHBnNf_8
 
-### Which PlayStation 3 Games Deserve A Full Remake? [9/10]
+### Which PlayStation 3 Games Deserve A Full Remake? [8/10]
 **Creator:** Digital Foundry  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -295,24 +295,6 @@ Link: https://www.youtube.com/watch?v=SLTBjj3TNJo
 You've gotta treat a one-shot differently than a campaign. The pacing, the content, the payoffs. Everything needs to be on a tighter timetable but still be satisfying.
 
 Link: https://www.youtube.com/watch?v=TUoIdAYPkQU
-
-### Modern Games That Changed the Industry | Firelink Podcast [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Firelink, Nick, KC, and Marty chat about recent games that changed the industry. Keep up to date on the standings of our Firelink Fantasy Critic Draft -- https://www.fantasycritic.
-
-Link: https://www.youtube.com/watch?v=yCNkkYIrS5o
-
-### Fallout 3 Smooch a Super Mutant Speedrun w/ Jack, Jess, and Marty -- Part 6 [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-After braving the wilds of New Vegas last year, the trio is back again, this time playing through Fallout 3. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=YfNIRl-ORoQ
 
 ## Entertainment Recommendations
 
