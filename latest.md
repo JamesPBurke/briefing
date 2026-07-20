@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-20T05:00:03.671563Z
+Generated: 2026-07-20T09:00:31.403829Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are Iran vows not a ‘single drop’ of oil or gas will pass strait of Hormuz as US carries out ninth night of strikes – Middle East crisis live, The grueling, 630-mile road race where the only fuel is sunlight, and When Maga’s power fades, we cannot abandon those ICE killed | Moira Donegan.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Iran vows not a ‘single drop’ of oil or gas will pass strait of Hormuz as US carries out ninth night of strikes – Middle East crisis live, AI is more likely than humans to form biases when hiring, and How the Trump administration's new rules could affect international students.
 
 ## Briefing
 
@@ -38,29 +38,56 @@ Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-d
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Revolutionary Guard says it targeted US aircraft in Jordan and stopped two tankers in strait while American military says it is ‘holding Iran accountable’ US launches ninth night of Iran strikes as strait of Hormuz standoff sees oil price…
+US military says it is ‘holding Iran accountable’ as maritime agency reports a vessel on fire in strait US launches ninth night of Iran strikes as strait of Hormuz standoff sees oil price pass $90 a barrel The price of oil jumped in early…
 
 Link: https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news
 
-### 2. The grueling, 630-mile road race where the only fuel is sunlight [10/10]
-**Source:** The Verge  
+### 2. AI is more likely than humans to form biases when hiring [10/10]
+**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-On July 19th, dozens of teams of high school students will begin a five-day, 630-mile road race from Fort Worth to Fort Stockton in Texas. But this is not your typical contest.
+The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data.
 
-Link: https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas
+Link: https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/
 
-### 3. When Maga’s power fades, we cannot abandon those ICE killed | Moira Donegan [10/10]
+### 3. How the Trump administration's new rules could affect international students [9/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+The Trump administration is placing new restrictions on international student visas. Here's how they could impact the fall semester.
+
+Link: https://www.npr.org/2026/07/20/nx-s1-5896300/how-the-trump-administrations-new-rules-could-affect-international-students
+
+### 4. Shania Twain: Little Miss Twain review – rootsy revival strays from the dirt track to the middle of the road [9/10]
 **Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-When this is all over, people will tell us to move on.
+(Republic Nashville) The country legend’s seventh album revisits her troubled early life but plays it safe with zany humour and fluffy songs about young love ‘When I was a kid, I started on stages just like this,” Shania Twain told the 200…
 
-Link: https://www.theguardian.com/commentisfree/2026/jul/19/ice-immigration-maga
+Link: https://www.theguardian.com/music/2026/jul/20/shania-twain-little-miss-twain-review
 
-### 4. ‘Everything I know about evil I learned in that small town’: John Carpenter on terrifying the world with Halloween, The Thing and The Fog [9/10]
+### 5. Changing face of the Peloponnese: backdrop to The Odyssey braces for tourism surge [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Tracing a journey across the Peloponnese, taking as its starting point the locations of Christopher Nolan’s new film.
+
+Link: https://www.theguardian.com/artanddesign/2026/jul/20/peloponnese-greece-the-odyssey-tourism-development-environment
+
+### 6. A Sudden Flicker of Light by David Thomson review – a brilliantly eccentric history of the movies [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+From the golden age of Hollywood to harder times today, this is a rapturous account of more than a century of cinema Film critic, historian and author of more than 40 books, David Thomson is back with another three-hour free jazz solo on…
+
+Link: https://www.theguardian.com/books/2026/jul/20/a-sudden-flicker-of-light-by-david-thomson-review-a-brilliantly-eccentric-history-of-the-movies
+
+### 7. ‘Everything I know about evil I learned in that small town’: John Carpenter on terrifying the world with Halloween, The Thing and The Fog [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -69,16 +96,7 @@ At 78, the king of horror and sci-fi movies is as much of a rebel as ever.
 
 Link: https://www.theguardian.com/lifeandstyle/2026/jul/20/everything-i-know-about-evil-i-learned-in-that-small-town-john-carpenter-on-terrifying-the-world-with-halloween-the-thing-and-the-fog
 
-### 5. JD and Usha Vance welcome baby boy, first child born to sitting VP in 156 years [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Vice-president and second lady announced birth of Alec Neel Vance, their fourth child, in social media statement Vice-President JD Vance and his wife, second lady Usha Vance, on Sunday announced the birth of their fourth child, the first…
-
-Link: https://www.theguardian.com/us-news/2026/jul/19/jd-usha-vance-baby-boy-born
-
-### 6. Five family members found dead after flash flood in Utah canyon, police say [9/10]
+### 8. Five family members found dead after flash flood in Utah canyon, police say [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -87,7 +105,16 @@ Victims were Provo’s fire captain, his wife and their three sons, who were hik
 
 Link: https://www.theguardian.com/us-news/2026/jul/19/utah-flash-flood-deaths-family
 
-### 7. Baldur's Gate 3, Clair Obscur actor Jennifer English withdraws from Tides of Annihilation to "look after her mental and physical health" [9/10]
+### 9. The grueling, 630-mile road race where the only fuel is sunlight [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+On July 19th, dozens of teams of high school students will begin a five-day, 630-mile road race from Fort Worth to Fort Stockton in Texas. But this is not your typical contest.
+
+Link: https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas
+
+### 10. Baldur's Gate 3, Clair Obscur actor Jennifer English withdraws from Tides of Annihilation to "look after her mental and physical health" [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -96,7 +123,7 @@ The award-winning actor, Jennifer English, has withdrawn from Eclipse Glow Games
 
 Link: https://www.eurogamer.net/jennifer-english-leaves-tides-of-annihilation
 
-### 8. Book Bans, Censorship and Funding Fears Challenge Ohio Public School Librarians [9/10]
+### 11. Book Bans, Censorship and Funding Fears Challenge Ohio Public School Librarians [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -105,16 +132,7 @@ Public school librarians in Ohio are raising alarms about book bans and funding 
 
 Link: https://www.the74million.org/article/book-bans-censorship-and-funding-fears-challenge-ohio-public-school-librarians/
 
-### 9. US boxer Hannah Rapp struck and killed by driver while cycling, police say [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Investigators arrest 31-year-old man identified as Charles Medina in connection with death of Rapp who was 26 US boxer Hannah Rapp, who in June fought for the World Boxing Council (WBC) women’s featherweight championship, was killed on…
-
-Link: https://www.theguardian.com/us-news/2026/jul/19/boxer-hannah-rapp-dies-struck-by-car
-
-### 10. Palworld is once again dominating Steam this weekend, clocking up almost 1m concurrent players [9/10]
+### 12. Palworld is once again dominating Steam this weekend, clocking up almost 1m concurrent players [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -123,32 +141,14 @@ Palworld is once again one of the most played games on Steam this weekend. Read 
 
 Link: https://www.eurogamer.net/palworld-almost-hits-1-million-concurrents-again
 
-### 11. The kindness of strangers: After losing my wife and son, I ate alone one Father’s Day – and another diner paid my bill [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-I went out into the car park to see if I could spot anyone nearby who might have just left the restaurant Read more in the kindness of strangers series I lost my wife in 2020 and my son in 2021.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/jul/20/kindness-of-strangers-grief-loss-fathers-day-diner-who-paid-my-bill
-
-### 12. Violence repeatedly erupts in dementia care despite warnings, inspections show [7/10]
+### 13. New study finds avocado oil products may contain cheaper oils [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Nursing homes and assisted living facilities can be fertile ground for violence between residents with dementia, including fatal assaults. Court records and inspecitions how safeguards fall short.
+Sales of avocado oil and products made with it are booming as consumers willingly pay a premium, drawn by the oil's health halo. New research finds many products actually contain other, cheaper oils.
 
-Link: https://www.npr.org/2026/07/19/nx-s1-5894692/dementia-violence-warning-supervision-nursing-homes-assisted-living-facility
-
-### 13. NYC’s Mayor Asked for Parents’ Opinions on Schools. Here’s What Some Have to Say [7/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-When Zohran Mamdani became mayor of New York City, he vowed to gather community feedback on how the public schools are working.
-
-Link: https://www.the74million.org/article/nycs-mayor-asked-for-parents-opinions-on-schools-heres-what-some-have-to-say/
+Link: https://www.npr.org/2026/07/20/nx-s1-5896063/new-study-finds-avocado-oil-products-may-contain-cheaper-oils
 
 ## YouTube
 

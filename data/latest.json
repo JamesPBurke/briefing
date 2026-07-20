@@ -1,40 +1,70 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-20T05:00:03.671563Z",
-  "generatedAtDisplay": "2026-07-20 01:00 AM EDT",
+  "generatedAt": "2026-07-20T09:00:31.403829Z",
+  "generatedAtDisplay": "2026-07-20 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are Iran vows not a ‘single drop’ of oil or gas will pass strait of Hormuz as US carries out ninth night of strikes – Middle East crisis live, The grueling, 630-mile road race where the only fuel is sunlight, and When Maga’s power fades, we cannot abandon those ICE killed | Moira Donegan.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Iran vows not a ‘single drop’ of oil or gas will pass strait of Hormuz as US carries out ninth night of strikes – Middle East crisis live, AI is more likely than humans to form biases when hiring, and How the Trump administration's new rules could affect international students.",
   "mainItems": [
     {
       "title": "Iran vows not a ‘single drop’ of oil or gas will pass strait of Hormuz as US carries out ninth night of strikes – Middle East crisis live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
-      "published": "2026-07-20T04:47:20+00:00",
-      "summary": "Revolutionary Guard says it targeted US aircraft in Jordan and stopped two tankers in strait while American military says it is ‘holding Iran accountable’ US launches ninth night of Iran strikes as strait of Hormuz standoff sees oil price…",
+      "published": "2026-07-20T08:52:35+00:00",
+      "summary": "US military says it is ‘holding Iran accountable’ as maritime agency reports a vessel on fire in strait US launches ninth night of Iran strikes as strait of Hormuz standoff sees oil price pass $90 a barrel The price of oil jumped in early…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "The grueling, 630-mile road race where the only fuel is sunlight",
-      "source": "The Verge",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas",
-      "published": "2026-07-19T19:03:41+00:00",
-      "summary": "On July 19th, dozens of teams of high school students will begin a five-day, 630-mile road race from Fort Worth to Fort Stockton in Texas. But this is not your typical contest.",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "published": "2026-07-20T08:39:01+00:00",
+      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "When Maga’s power fades, we cannot abandon those ICE killed | Moira Donegan",
+      "title": "How the Trump administration's new rules could affect international students",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5896300/how-the-trump-administrations-new-rules-could-affect-international-students",
+      "published": "2026-07-20T08:41:50+00:00",
+      "summary": "The Trump administration is placing new restrictions on international student visas. Here's how they could impact the fall semester.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "Shania Twain: Little Miss Twain review – rootsy revival strays from the dirt track to the middle of the road",
       "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/19/ice-immigration-maga",
-      "published": "2026-07-19T13:00:28+00:00",
-      "summary": "When this is all over, people will tell us to move on.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/music/2026/jul/20/shania-twain-little-miss-twain-review",
+      "published": "2026-07-20T07:16:16+00:00",
+      "summary": "(Republic Nashville) The country legend’s seventh album revisits her troubled early life but plays it safe with zany humour and fluffy songs about young love ‘When I was a kid, I started on stages just like this,” Shania Twain told the 200…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Changing face of the Peloponnese: backdrop to The Odyssey braces for tourism surge",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/artanddesign/2026/jul/20/peloponnese-greece-the-odyssey-tourism-development-environment",
+      "published": "2026-07-20T06:00:49+00:00",
+      "summary": "Tracing a journey across the Peloponnese, taking as its starting point the locations of Christopher Nolan’s new film.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "A Sudden Flicker of Light by David Thomson review – a brilliantly eccentric history of the movies",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/books/2026/jul/20/a-sudden-flicker-of-light-by-david-thomson-review-a-brilliantly-eccentric-history-of-the-movies",
+      "published": "2026-07-20T06:00:49+00:00",
+      "summary": "From the golden age of Hollywood to harder times today, this is a rapturous account of more than a century of cinema Film critic, historian and author of more than 40 books, David Thomson is back with another three-hour free jazz solo on…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
     },
     {
       "title": "‘Everything I know about evil I learned in that small town’: John Carpenter on terrifying the world with Halloween, The Thing and The Fog",
@@ -47,16 +77,6 @@
       "score": 9
     },
     {
-      "title": "JD and Usha Vance welcome baby boy, first child born to sitting VP in 156 years",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/19/jd-usha-vance-baby-boy-born",
-      "published": "2026-07-19T23:00:08+00:00",
-      "summary": "Vice-president and second lady announced birth of Alec Neel Vance, their fourth child, in social media statement Vice-President JD Vance and his wife, second lady Usha Vance, on Sunday announced the birth of their fourth child, the first…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
       "title": "Five family members found dead after flash flood in Utah canyon, police say",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
@@ -64,6 +84,16 @@
       "published": "2026-07-19T22:24:04+00:00",
       "summary": "Victims were Provo’s fire captain, his wife and their three sons, who were hiking in Bicknell amid heavy rains Five family members who had set out for a day of hiking were killed after a flash flood swept through canyons of southern Utah…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "The grueling, 630-mile road race where the only fuel is sunlight",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas",
+      "published": "2026-07-19T19:03:41+00:00",
+      "summary": "On July 19th, dozens of teams of high school students will begin a five-day, 630-mile road race from Fort Worth to Fort Stockton in Texas. But this is not your typical contest.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
@@ -87,16 +117,6 @@
       "score": 9
     },
     {
-      "title": "US boxer Hannah Rapp struck and killed by driver while cycling, police say",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/19/boxer-hannah-rapp-dies-struck-by-car",
-      "published": "2026-07-19T16:06:23+00:00",
-      "summary": "Investigators arrest 31-year-old man identified as Charles Medina in connection with death of Rapp who was 26 US boxer Hannah Rapp, who in June fought for the World Boxing Council (WBC) women’s featherweight championship, was killed on…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
       "title": "Palworld is once again dominating Steam this weekend, clocking up almost 1m concurrent players",
       "source": "Eurogamer",
       "category": "Games / criticism",
@@ -107,34 +127,14 @@
       "score": 9
     },
     {
-      "title": "The kindness of strangers: After losing my wife and son, I ate alone one Father’s Day – and another diner paid my bill",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/20/kindness-of-strangers-grief-loss-fathers-day-diner-who-paid-my-bill",
-      "published": "2026-07-19T15:00:30+00:00",
-      "summary": "I went out into the car park to see if I could spot anyone nearby who might have just left the restaurant Read more in the kindness of strangers series I lost my wife in 2020 and my son in 2021.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Violence repeatedly erupts in dementia care despite warnings, inspections show",
+      "title": "New study finds avocado oil products may contain cheaper oils",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5894692/dementia-violence-warning-supervision-nursing-homes-assisted-living-facility",
-      "published": "2026-07-19T11:00:00+00:00",
-      "summary": "Nursing homes and assisted living facilities can be fertile ground for violence between residents with dementia, including fatal assaults. Court records and inspecitions how safeguards fall short.",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5896063/new-study-finds-avocado-oil-products-may-contain-cheaper-oils",
+      "published": "2026-07-20T08:42:46+00:00",
+      "summary": "Sales of avocado oil and products made with it are booming as consumers willingly pay a premium, drawn by the oil's health halo. New research finds many products actually contain other, cheaper oils.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
-    },
-    {
-      "title": "NYC’s Mayor Asked for Parents’ Opinions on Schools. Here’s What Some Have to Say",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/nycs-mayor-asked-for-parents-opinions-on-schools-heres-what-some-have-to-say/",
-      "published": "2026-07-19T10:30:00+00:00",
-      "summary": "When Zohran Mamdani became mayor of New York City, he vowed to gather community feedback on how the public schools are working.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 7
+      "score": 8
     }
   ],
   "youtube": [
@@ -672,6 +672,6 @@
     "mainCount": 13,
     "youtubeCount": 16,
     "trailerCount": 22,
-    "sourceCount": 16
+    "sourceCount": 18
   }
 }
