@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-20T18:01:03.779722Z",
+  "generatedAt": "2026-07-20T18:01:21.920540Z",
   "generatedAtDisplay": "2026-07-20 02:01 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
@@ -77,22 +77,32 @@
       "score": 10
     },
     {
-      "title": "FBI accuse Steam user of stealing over $220,000 via malware-infected games like BlockBlasters, Lunara and Dashverse",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/fbi-accuse-steam-user-of-stealing-over-220000-via-malware-infected-games-like-blockblasters-lunara-and-dashverse",
-      "published": "2026-07-20T15:43:24+00:00",
-      "summary": "A Florida-based student has been arrested by the FBI after allegedly stealing over $220,000 in cryptocurrency by means of malware-packed free games on Steam. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
       "title": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
       "source": "Ars Technica",
       "category": "AI / computing",
       "url": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/",
       "published": "2026-07-20T15:32:45+00:00",
       "summary": "Online retailer AliExpress says it's shocked by largest DSA fine yet.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "ICE Has Detained More Than 650 Kids in California Under Trump Deportation Crackdown",
+      "source": "The 74",
+      "category": "Democracy / press freedom",
+      "url": "https://www.the74million.org/article/ice-has-detained-more-than-650-kids-in-california-under-trump-deportation-crackdown/",
+      "published": "2026-07-20T14:30:00+00:00",
+      "summary": "U.S. Immigrations and Customs Enforcement has detained more than 650 children in California under President Donald Trump’s second term, an EdSource analysis of federal data has found.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "China delivers a one-two punch to America’s AI dominance",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "published": "2026-07-20T12:47:44+00:00",
+      "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
@@ -117,16 +127,6 @@
       "score": 10
     },
     {
-      "title": "The Avengers: Doomsday Trailer Is Here To Remind You How Many People Are in This Movie",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/avengers-doomsday-trailer-cast/",
-      "published": "2026-07-20T14:00:14+00:00",
-      "summary": "It's gonna take a minute for these Avengers to assemble, no? The post The Avengers: Doomsday Trailer Is Here To Remind You How Many People Are in This Movie appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 9
-    },
-    {
       "title": "At least 930 people have died in Congo's Ebola outbreak",
       "source": "NPR Health",
       "category": "Science / health",
@@ -137,406 +137,8 @@
       "score": 8
     }
   ],
-  "youtube": [
-    {
-      "title": "More Americans using credit or savings to pay for groceries",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=GqcnLwxoRQU",
-      "published": "2026-07-19T15:00:10+00:00",
-      "summary": "Food prices have jumped 30% over the last five years, and new research shows more people in the U.S. are using credit — or dipping into their savings — to pay for groceries.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "China bars AI chatbots' companionship features",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=tnBXBwJbX6g",
-      "published": "2026-07-19T13:00:34+00:00",
-      "summary": "In China, many have had to say goodbye to their virtual friends and partners, as several big AI companies have suspended their AI companionship features.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Hunter Biden says he has nothing left to hide",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=CR0eDBKN2xQ",
-      "published": "2026-07-18T18:00:10+00:00",
-      "summary": "Hunter Biden has been all over the internet in recent months, including appearances with some of his harshest critics, such as ultra-conservative podcasters Candace Owens and Nick Fuentes.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "T.rex fossil sold to mystery bidder for record $50.1 million",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=lz-336rQ7QE",
-      "published": "2026-07-18T15:00:36+00:00",
-      "summary": "The bones of a Tyrannosaurus rex nicknamed Gus sold for a record $50.1 million this week. The sale beat a Stegosaurus skeleton that sold for almost $45 million 2 years ago.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Ceasefire between the U.S. and Iran seems to have collapsed. Is a negotiated settlement possible?",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=_9OEXEHoSwI",
-      "published": "2026-07-18T13:00:23+00:00",
-      "summary": "The ceasefire between the U.S. and Iran seems to have collapsed this week with bombings escalating, the Strait of Hormuz all but closing and the U.S. reinstating its naval blockade.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Hunter Biden on his journey to recovery and his father's pardon of him after tax and gun convictions",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=3EGGQcqs_Rc",
-      "published": "2026-07-18T12:00:37+00:00",
-      "summary": "Hunter Biden has been all over the internet in recent months, including appearances with some of his harshest critics, such as ultra-conservative podcasters Candace Owens and Nick Fuentes.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Dangerous wildfire smoke blankets parts of the U.S.",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=3lzzHBnNf_8",
-      "published": "2026-07-17T21:00:17+00:00",
-      "summary": "Wildfire smoke from Canada is seeping into large parts of the United States, pushing air quality to unhealthy levels from the Dakotas to the Midwest and East Coast.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Will Buying Physical GTA 6 \"Code In A Box\" Send A Message To Sony About Ending Discs?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=SvE5MCwjOf4",
-      "published": "2026-07-20T16:00:29+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Is Nintendo The Only Platform Holder That Doesn't Lay Off Devs & Annoy Its Userbase?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=e7hnVat_tIY",
-      "published": "2026-07-20T16:00:06+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Which PlayStation 3 Games Deserve A Full Remake?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=aqy8Ai9oUCg",
-      "published": "2026-07-19T16:00:05+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Will Project Helix Get A Disc Drive To Counter Sony?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=YX-TplmaRN4",
-      "published": "2026-07-19T15:00:19+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Five Years of Steam Deck: Was It A Game-Changer?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=kha-Q4aiWq8",
-      "published": "2026-07-18T16:00:05+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Will Cancelling PlayStation Plus Make Sony Re-Think Killing Discs?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=3KbajahBM28",
-      "published": "2026-07-18T15:00:37+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Let’s Make Yahtzee and JM8 Choose Their Favorites | Windbreaker Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=4qgHiu5b-3w",
-      "published": "2026-07-20T13:07:10+00:00",
-      "summary": "This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "How Black Flag Fakes the Density of its Open World | Design Delve",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=w6JMtfp-Tcg",
-      "published": "2026-07-20T15:00:33+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "everything you need to know about ONE NIGHT ONLY. see it only in theaters august 7!",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=x4s0aRs316U",
-      "published": "2026-07-17T17:42:34+00:00",
-      "summary": "What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but You and Easy A, celebrates modern romantic comedy on the big screen with a fresh, witty, swoony original…",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "some love languages are impossible to miss. one night only is in theaters august 7.",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=kiK1aBs6pTo",
-      "published": "2026-07-17T00:19:54+00:00",
-      "summary": "What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but You and Easy A, celebrates modern romantic comedy on the big screen with a fresh, witty, swoony original…",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "One Night Only | Official Trailer",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=AvKoSR3O4NQ",
-      "published": "2026-07-10T23:02:23+00:00",
-      "summary": "what would you do if you only had one night? __________________________________________________________ What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but…",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Trailer out now for The Dog Stars.",
-      "source": "20th Century Studios",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=FTHEgEONSRs",
-      "published": "2026-07-14T19:20:29+00:00",
-      "summary": "Trailer out now for The Dog Stars.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Dog Stars | In Theaters August 28",
-      "source": "20th Century Studios",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=8FeiVAY5Y7Y",
-      "published": "2026-07-14T17:00:01+00:00",
-      "summary": "Ridley Scott returns with a bold new vision in THE DOG STARS. Starring Jacob Elordi, Margaret Qualley, & Josh Brolin. See the film only in theaters August 28. Watch the new trailer now.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Dog Stars | Official Trailer | In Theaters August 28",
-      "source": "20th Century Studios",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=-xSxaE1ClEE",
-      "published": "2026-07-14T16:00:06+00:00",
-      "summary": "The world that was doesn’t exist. THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters and IMAX August 28.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tony | Official First Look | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=GMQFLpETNkc",
-      "published": "2026-07-14T14:00:12+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "The Wrong Girls - Official Trailer - In Theaters August 14",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=zrcg8YHSys8",
-      "published": "2026-07-07T16:00:10+00:00",
-      "summary": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Her Private Hell - Official Trailer - In Theaters July 24",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=C7E-0t1TfzM",
-      "published": "2026-06-30T16:00:27+00:00",
-      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "NIGHTBORN | Official Trailer Feat. Rupert Grint, Seidi Haarla | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=dWePsu_Kd9c",
-      "published": "2026-07-06T19:08:20+00:00",
-      "summary": "With dreams of starting a perfect family, Saga and her British husband Jon move to the isolated house where she spent much of her childhood, deep in the Finnish forest.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "LEGO ONE PIECE | Official Teaser Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=NfcWSGZdnAs",
-      "published": "2026-07-20T16:00:00+00:00",
-      "summary": "The ALMOST true story of Captain Usopp the Brave! The Straw Hats are back in this new 2-part Lego special event, only on Netflix September 29th. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "bad habits with the cast of 72 HOURS #Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=qWIwxta3xss",
-      "published": "2026-07-18T14:00:10+00:00",
-      "summary": "#72Hours Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The deadliest killers can’t be silenced. Watch The Whisper Man on August 28, only on Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=5njn-_ySY5w",
-      "published": "2026-07-18T13:00:29+00:00",
-      "summary": "The deadliest killers can’t be silenced. #RobertDeNiro, #AdamScott & #MichelleMonaghan star in The Whisper Man, August 28. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Starring Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo. THE EAST PALACE is now playing.",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=xfG3Q9reHBg",
-      "published": "2026-07-18T12:00:28+00:00",
-      "summary": "Starring Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo. THE EAST PALACE is now playing. #Netflix Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "One Hundred Years of Solitude: Part Two | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=F7iKrcc5L3M",
-      "published": "2026-07-17T12:00:00+00:00",
-      "summary": "Macondo is changing. New inhabitants, its connection to the world and the destiny of the Buendía family will hasten the town’s downfall. One Hundred Years of Solitude: Part Two, coming to Netflix August 5 and the Grand Finale on August 26.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Kevin Hart Meets the Bachelor Party Crew | 72 Hours | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Y89AfGiCCAE",
-      "published": "2026-07-16T20:00:00+00:00",
-      "summary": "They accidentally added him to their bachelor party group chat... now what? Kevin Hart meets the gang — Marcello Hernández, Mason Gooding, Kam Patterson, and Ben Marshall — in 72 Hours, premiering on Netflix on July 24th.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "10 YEARS AGO TODAY #StrangerThings",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=eiNIkWcC4v0",
-      "published": "2026-07-16T01:00:06+00:00",
-      "summary": "10 YEARS AGO TODAY #StrangerThings Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Bill Maher: The Kennedy Center Mark Twain Prize for American Humor | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=QNvjTDLDTX0",
-      "published": "2026-07-15T18:00:00+00:00",
-      "summary": "Honoring iconic comedian Bill Maher, The Kennedy Center Mark Twain Prize for American Humor ceremony arrives on Netflix July 21. Featuring Louis C.K.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Silo — Season 3 Memory | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=bP6B-whkx_w",
-      "published": "2026-07-16T00:29:56+00:00",
-      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Two pickleball paddles are better than one. #TheDink A new comedy movie, July 24 on Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=gmlbMB1_lcE",
-      "published": "2026-07-15T23:59:48+00:00",
-      "summary": "Premieres July 24 on Apple TV https://apple.co/_TheDink A new comedy movie with Ed Harris, Andy Roddick, Patton Oswalt, Chloe Fineman, Chris Parnell and Aaron Chen, with Ben Stiller. Subscribe to Apple TV’s YouTube channel: https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "It's good to be back. Watch every #MLS match live starting July 16 on Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=TyJdAgqTfjo",
-      "published": "2026-07-15T14:59:46+00:00",
-      "summary": "Subscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube Follow Apple TV: Instagram: https://instagram.com/AppleTV TikTok: https://tiktok.com/@AppleTV Facebook: https://facebook.com/AppleTV Threads: https://threads.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -648,8 +250,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 15,
-    "trailerCount": 21,
-    "sourceCount": 17
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 5
   }
 }
