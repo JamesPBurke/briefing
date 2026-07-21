@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-21T09:00:30.798612Z
+Generated: 2026-07-21T14:00:03.889355Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Russia attacks Ukraine’s gas facilities as Zelenskyy faces further protests – Europe live, Election voting advice from AI chatbots ‘inaccurate and unreliable’, and Almost 100 troops injured in recent weeks, Pentagon admits, as Iran launches reprisals on US allies.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / design. The strongest items in this run are US claims of Cuba’s ‘unique threat’ jar with reality of hunger and blackouts, Prosecutors in Hungary raid offices of Viktor Orbán’s Fidesz and seize databases, says party – Europe live, and US immigration agents arrested a record number of people in June, data shows.
 
 ## Briefing
 
@@ -33,59 +33,59 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Russia attacks Ukraine’s gas facilities as Zelenskyy faces further protests – Europe live [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Plants in Kharkiv have faced three days of attacks as anger over the sacking of defence minister continues Italian police clashed ⁠with demonstrators in the northern city of Bologna on Monday night , ANSA news agency reported, during a…
-
-Link: https://www.theguardian.com/world/live/2026/jul/21/ukraine-russia-zelenskyy-greece-italy-spain-france-social-media-latest-news-updates
-
-### 2. Election voting advice from AI chatbots ‘inaccurate and unreliable’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Research during Hungary election shows AI recommended parties not running and gave highly volatile answers to identical prompts AI chatbots provide inaccurate, inconsistent and unreliable guidance to voters asking which party they should…
-
-Link: https://www.theguardian.com/technology/2026/jul/21/election-voting-advice-ai-chatbots-inaccurate-unreliable-hungary
-
-### 3. Almost 100 troops injured in recent weeks, Pentagon admits, as Iran launches reprisals on US allies [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Iran has attacked a tanker in the strait of Hormuz, forcing its crew to abandon the ship, after the US launched a tenth consecutive night of strikes Middle East crisis live: follow latest updates Nearly 100 US service members have been…
-
-Link: https://www.theguardian.com/world/2026/jul/21/us-troops-injured-killed-iran-war-attacks-pentagon
-
-### 4. As Sudan’s war crosses borders and millions are made refugees, could Ethiopia’s plan solve ‘humanity’s migration issue’? [10/10]
+### 1. US claims of Cuba’s ‘unique threat’ jar with reality of hunger and blackouts [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Amid fears of fresh bloodshed, the country is hoping its offer of education and employment can provide a model for other nations to follow It didn’t matter that he was so frail he could barely walk.
+State department’s 100-page report is latest push in Trump administration campaign to bring down government The US government’s latest allegations that Cuba is behind “many of the most significant upheavals in recent American political…
 
-Link: https://www.theguardian.com/global-development/2026/jul/21/ethiopian-plan-sudanese-refugees-migration-crisis-education-work
+Link: https://www.theguardian.com/world/2026/jul/21/us-state-department-report-cuba
 
-### 5. ‘She was almost a Batman figure’: Mexico’s avenging Mother Courage [10/10]
+### 2. Prosecutors in Hungary raid offices of Viktor Orbán’s Fidesz and seize databases, says party – Europe live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-After her son disappeared, Isabel Miranda de Wallace swore she would bring the culprits to justice. She became a national hero.
+The opposition⁠ party, led by former prime minister, says officers took ‘entire communications system and databases’ Meanwhile, the Kremlin said it had “no hope” for better ties with the UK, a day after Britain’s new prime minister Andy…
 
-Link: https://www.theguardian.com/news/ng-interactive/2026/jul/21/she-was-almost-a-batman-figure-mexicos-avenging-mother-courage
+Link: https://www.theguardian.com/world/live/2026/jul/21/ukraine-russia-zelenskyy-greece-italy-spain-france-social-media-latest-news-updates
 
-### 6. Despite outrage at Sony's shift towards a discless future, only seven PlayStation games have managed more than 100,000 physical sales in the US this year [9/10]
+### 3. US immigration agents arrested a record number of people in June, data shows [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Guardian analysis shows officers arrested 43,138 people as quiet and steady operations ramp up across the country The Trump administration arrested a record number of immigrants last month, according to newly released government data that…
+
+Link: https://www.theguardian.com/us-news/2026/jul/21/immigration-agents-arrest-june-data
+
+### 4. The best games of 2026 so far, picked by NPR's staff [10/10]
+**Source:** NPR Tech  
+**Category:** Games / design  
+**Why it matters:** Useful if you care about how games actually work as designed experiences.
+
+Titans like Resident Evil Requiem and Crimson Desert dominated in the first half of the gaming year, with early-access sequels like Slay the Spire 2 and Subnautica 2 not far behind.
+
+Link: https://www.npr.org/2026/07/21/nx-s1-5897567/best-games-2026-npr
+
+### 5. The Download: Chinese AI divides the White House, and a record copyright payout [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/
+
+### 6. The next major moment for Marathon arrives today with a new update and the debut of its PvE mode, Vault Breaker [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Sony's planned shift away from producing physical discs for PlayStation might be unpopular, but new sales data has highlighted the stark business reality behind it. Read more
+Bungie has shown off Vault Breaker in a new gameplay trailer. This is Marathon's experimental, time-limited PvE mode, which arrives today in Season 2's mid-season update.
 
-Link: https://www.eurogamer.net/playstation-disc-sales--outrage-circana
+Link: https://www.eurogamer.net/marathon-vault-breaker-pve-mode-details-gameplay
 
 ### 7. Meta’s smartglasses mean any child can be covertly filmed. In the age of AI, how do we tackle that risk? [9/10]
 **Source:** The Guardian US  
@@ -105,25 +105,7 @@ Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI
 
 Link: https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright
 
-### 9. Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15 [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-The aptly-named “2K Megahits 2026 Bundle” from Humble includes 15 Steam games for $15. It’s a smattering of the publisher 2K’s biggest games of the 2010s, including BioShock Infinite, Risk of Rain 2, Borderlands 3, and XCOM: Enemy Unknown.
-
-Link: https://www.theverge.com/gadgets/968191/humble-2k-megahits-bundle-xcom-borderlands-duke-nukem-deal-sale
-
-### 10. Australian Horror Movie ‘Penny Lane Is Dead’ Premieres August 28 on Shudder [Trailer] [9/10]
-**Source:** Bloody Disgusting  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-In the Ozploitation tradition, the upcoming Aussie flick Penny Lane Is Dead is a blood-soaked, ’80s-set horror thriller, and we’ve learned that it’s coming to Shudder this Summer. Penny Lane Is Dead premieres August 28 on Shudder.
-
-Link: https://bloody-disgusting.com/movie/3960115/australian-horror-movie-penny-lane-is-dead-premieres-august-28-on-shudder-trailer/
-
-### 11. Contrary to Common Belief, The Poorest School Districts Outspend The Wealthiest [9/10]
+### 9. Contrary to Common Belief, The Poorest School Districts Outspend The Wealthiest [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -132,7 +114,34 @@ There’s a prevailing principle in the U.S. that funding disparities are at the
 
 Link: https://www.the74million.org/article/contrary-to-common-belief-the-poorest-school-districts-outspend-the-wealthiest/
 
-### 12. Who should regulate global AI? China makes a play for leadership [8/10]
+### 10. AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+ISBNdb, a company that sources printed books for AI companies to turn into training data, tells clients “the optics problem is real.”
+
+Link: https://www.404media.co/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop/
+
+### 11. Amid nurse shortage, a university rolls out the welcome mat for men [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Only about 1 in 8 nurses are men, but their share is growing. A strong job market for nurses and sustained efforts to recruit men into the field have made a difference, including in the South.
+
+Link: https://www.npr.org/2026/07/21/nx-s1-5869813/nursing-men-jobs-male-nurses
+
+### 12. Every Major Character Missing From the Avengers: Doomsday Trailer [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+If anyone sees Alan Cumming, tell him we miss him The post Every Major Character Missing From the Avengers: Doomsday Trailer appeared first on Reactor .
+
+Link: https://reactormag.com/characters-missing-avengers-doomsday-trailer/
+
+### 13. Who should regulate global AI? China makes a play for leadership [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -140,15 +149,6 @@ Link: https://www.the74million.org/article/contrary-to-common-belief-the-poorest
 The AI world is moving at lightning speed – and the world is trying to figure out how to regulate this technology. China just made a big play to be the global leader.
 
 Link: https://www.npr.org/2026/07/20/nx-s1-5886477/who-should-regulate-global-ai-china-makes-a-play-for-leadership
-
-### 13. At least 930 people have died in Congo's Ebola outbreak [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Congo's health ministry said the deaths were recorded out of the 2,344 cases confirmed as of Saturday. Thirty-seven new deaths were recorded in the previous 24 hours in one of the highest totals.
-
-Link: https://www.npr.org/2026/07/20/g-s1-134548/ebola-congo-deaths
 
 ## YouTube
 
@@ -187,24 +187,6 @@ Link: https://www.youtube.com/watch?v=CR0eDBKN2xQ
 The bones of a Tyrannosaurus rex nicknamed Gus sold for a record $50.1 million this week. The sale beat a Stegosaurus skeleton that sold for almost $45 million 2 years ago.
 
 Link: https://www.youtube.com/watch?v=lz-336rQ7QE
-
-### Ceasefire between the U.S. and Iran seems to have collapsed. Is a negotiated settlement possible? [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The ceasefire between the U.S. and Iran seems to have collapsed this week with bombings escalating, the Strait of Hormuz all but closing and the U.S. reinstating its naval blockade.
-
-Link: https://www.youtube.com/watch?v=_9OEXEHoSwI
-
-### Hunter Biden on his journey to recovery and his father's pardon of him after tax and gun convictions [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-Hunter Biden has been all over the internet in recent months, including appearances with some of his harshest critics, such as ultra-conservative podcasters Candace Owens and Nick Fuentes.
-
-Link: https://www.youtube.com/watch?v=3EGGQcqs_Rc
 
 ### Will Buying Physical GTA 6 "Code In A Box" Send A Message To Sony About Ending Discs? [7/10]
 **Creator:** Digital Foundry  
@@ -260,9 +242,9 @@ Link: https://www.youtube.com/watch?v=kha-Q4aiWq8
 
 Link: https://www.youtube.com/watch?v=3KbajahBM28
 
-### Sacrificing the Rich in Feed the Pit | Hot Monday Energy [9/10]
+### Sacrificing the Rich in Feed the Pit | Hot Monday Energy [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…

@@ -1,70 +1,70 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-21T09:00:30.798612Z",
-  "generatedAtDisplay": "2026-07-21 05:00 AM EDT",
+  "generatedAt": "2026-07-21T14:00:03.889355Z",
+  "generatedAtDisplay": "2026-07-21 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Russia attacks Ukraine’s gas facilities as Zelenskyy faces further protests – Europe live, Election voting advice from AI chatbots ‘inaccurate and unreliable’, and Almost 100 troops injured in recent weeks, Pentagon admits, as Iran launches reprisals on US allies.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / design. The strongest items in this run are US claims of Cuba’s ‘unique threat’ jar with reality of hunger and blackouts, Prosecutors in Hungary raid offices of Viktor Orbán’s Fidesz and seize databases, says party – Europe live, and US immigration agents arrested a record number of people in June, data shows.",
   "mainItems": [
     {
-      "title": "Russia attacks Ukraine’s gas facilities as Zelenskyy faces further protests – Europe live",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/jul/21/ukraine-russia-zelenskyy-greece-italy-spain-france-social-media-latest-news-updates",
-      "published": "2026-07-21T08:37:24+00:00",
-      "summary": "Plants in Kharkiv have faced three days of attacks as anger over the sacking of defence minister continues Italian police clashed ⁠with demonstrators in the northern city of Bologna on Monday night , ANSA news agency reported, during a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Election voting advice from AI chatbots ‘inaccurate and unreliable’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/technology/2026/jul/21/election-voting-advice-ai-chatbots-inaccurate-unreliable-hungary",
-      "published": "2026-07-21T05:00:01+00:00",
-      "summary": "Research during Hungary election shows AI recommended parties not running and gave highly volatile answers to identical prompts AI chatbots provide inaccurate, inconsistent and unreliable guidance to voters asking which party they should…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Almost 100 troops injured in recent weeks, Pentagon admits, as Iran launches reprisals on US allies",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jul/21/us-troops-injured-killed-iran-war-attacks-pentagon",
-      "published": "2026-07-21T04:09:54+00:00",
-      "summary": "Iran has attacked a tanker in the strait of Hormuz, forcing its crew to abandon the ship, after the US launched a tenth consecutive night of strikes Middle East crisis live: follow latest updates Nearly 100 US service members have been…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "As Sudan’s war crosses borders and millions are made refugees, could Ethiopia’s plan solve ‘humanity’s migration issue’?",
+      "title": "US claims of Cuba’s ‘unique threat’ jar with reality of hunger and blackouts",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/global-development/2026/jul/21/ethiopian-plan-sudanese-refugees-migration-crisis-education-work",
-      "published": "2026-07-21T04:00:09+00:00",
-      "summary": "Amid fears of fresh bloodshed, the country is hoping its offer of education and employment can provide a model for other nations to follow It didn’t matter that he was so frail he could barely walk.",
+      "url": "https://www.theguardian.com/world/2026/jul/21/us-state-department-report-cuba",
+      "published": "2026-07-21T13:33:35+00:00",
+      "summary": "State department’s 100-page report is latest push in Trump administration campaign to bring down government The US government’s latest allegations that Cuba is behind “many of the most significant upheavals in recent American political…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "‘She was almost a Batman figure’: Mexico’s avenging Mother Courage",
+      "title": "Prosecutors in Hungary raid offices of Viktor Orbán’s Fidesz and seize databases, says party – Europe live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/21/she-was-almost-a-batman-figure-mexicos-avenging-mother-courage",
-      "published": "2026-07-21T04:00:08+00:00",
-      "summary": "After her son disappeared, Isabel Miranda de Wallace swore she would bring the culprits to justice. She became a national hero.",
+      "url": "https://www.theguardian.com/world/live/2026/jul/21/ukraine-russia-zelenskyy-greece-italy-spain-france-social-media-latest-news-updates",
+      "published": "2026-07-21T13:11:53+00:00",
+      "summary": "The opposition⁠ party, led by former prime minister, says officers took ‘entire communications system and databases’ Meanwhile, the Kremlin said it had “no hope” for better ties with the UK, a day after Britain’s new prime minister Andy…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Despite outrage at Sony's shift towards a discless future, only seven PlayStation games have managed more than 100,000 physical sales in the US this year",
+      "title": "US immigration agents arrested a record number of people in June, data shows",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/immigration-agents-arrest-june-data",
+      "published": "2026-07-21T13:00:47+00:00",
+      "summary": "Guardian analysis shows officers arrested 43,138 people as quiet and steady operations ramp up across the country The Trump administration arrested a record number of immigrants last month, according to newly released government data that…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The best games of 2026 so far, picked by NPR's staff",
+      "source": "NPR Tech",
+      "category": "Games / design",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5897567/best-games-2026-npr",
+      "published": "2026-07-21T13:00:00+00:00",
+      "summary": "Titans like Resident Evil Requiem and Crimson Desert dominated in the first half of the gaming year, with early-access sequels like Slay the Spire 2 and Subnautica 2 not far behind.",
+      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
+      "score": 10
+    },
+    {
+      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+      "published": "2026-07-21T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "The next major moment for Marathon arrives today with a new update and the debut of its PvE mode, Vault Breaker",
       "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/playstation-disc-sales--outrage-circana",
-      "published": "2026-07-21T08:54:54+00:00",
-      "summary": "Sony's planned shift away from producing physical discs for PlayStation might be unpopular, but new sales data has highlighted the stark business reality behind it. Read more",
+      "url": "https://www.eurogamer.net/marathon-vault-breaker-pve-mode-details-gameplay",
+      "published": "2026-07-21T10:45:16+00:00",
+      "summary": "Bungie has shown off Vault Breaker in a new gameplay trailer. This is Marathon's experimental, time-limited PvE mode, which arrives today in Season 2's mid-season update.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
+      "score": 10
     },
     {
       "title": "Meta’s smartglasses mean any child can be covertly filmed. In the age of AI, how do we tackle that risk?",
@@ -87,26 +87,6 @@
       "score": 9
     },
     {
-      "title": "Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/gadgets/968191/humble-2k-megahits-bundle-xcom-borderlands-duke-nukem-deal-sale",
-      "published": "2026-07-20T20:08:51+00:00",
-      "summary": "The aptly-named “2K Megahits 2026 Bundle” from Humble includes 15 Steam games for $15. It’s a smattering of the publisher 2K’s biggest games of the 2010s, including BioShock Infinite, Risk of Rain 2, Borderlands 3, and XCOM: Enemy Unknown.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "Australian Horror Movie ‘Penny Lane Is Dead’ Premieres August 28 on Shudder [Trailer]",
-      "source": "Bloody Disgusting",
-      "category": "Sci-fi / horror",
-      "url": "https://bloody-disgusting.com/movie/3960115/australian-horror-movie-penny-lane-is-dead-premieres-august-28-on-shudder-trailer/",
-      "published": "2026-07-20T17:56:24+00:00",
-      "summary": "In the Ozploitation tradition, the upcoming Aussie flick Penny Lane Is Dead is a blood-soaked, ’80s-set horror thriller, and we’ve learned that it’s coming to Shudder this Summer. Penny Lane Is Dead premieres August 28 on Shudder.",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 9
-    },
-    {
       "title": "Contrary to Common Belief, The Poorest School Districts Outspend The Wealthiest",
       "source": "The 74",
       "category": "Education / pedagogy",
@@ -117,6 +97,36 @@
       "score": 9
     },
     {
+      "title": "AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop/",
+      "published": "2026-07-21T13:51:39+00:00",
+      "summary": "ISBNdb, a company that sources printed books for AI companies to turn into training data, tells clients “the optics problem is real.”",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Amid nurse shortage, a university rolls out the welcome mat for men",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5869813/nursing-men-jobs-male-nurses",
+      "published": "2026-07-21T10:00:00+00:00",
+      "summary": "Only about 1 in 8 nurses are men, but their share is growing. A strong job market for nurses and sustained efforts to recruit men into the field have made a difference, including in the South.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Every Major Character Missing From the Avengers: Doomsday Trailer",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/characters-missing-avengers-doomsday-trailer/",
+      "published": "2026-07-20T21:07:06+00:00",
+      "summary": "If anyone sees Alan Cumming, tell him we miss him The post Every Major Character Missing From the Avengers: Doomsday Trailer appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
+    },
+    {
       "title": "Who should regulate global AI? China makes a play for leadership",
       "source": "NPR Tech",
       "category": "Science / computing",
@@ -124,16 +134,6 @@
       "published": "2026-07-20T20:09:27+00:00",
       "summary": "The AI world is moving at lightning speed – and the world is trying to figure out how to regulate this technology. China just made a big play to be the global leader.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "At least 930 people have died in Congo's Ebola outbreak",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/20/g-s1-134548/ebola-congo-deaths",
-      "published": "2026-07-20T10:36:08+00:00",
-      "summary": "Congo's health ministry said the deaths were recorded out of the 2,344 cases confirmed as of Saturday. Thirty-seven new deaths were recorded in the previous 24 hours in one of the highest totals.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
   ],
@@ -178,28 +178,6 @@
       "url": "https://www.youtube.com/watch?v=lz-336rQ7QE",
       "published": "2026-07-18T15:00:36+00:00",
       "summary": "The bones of a Tyrannosaurus rex nicknamed Gus sold for a record $50.1 million this week. The sale beat a Stegosaurus skeleton that sold for almost $45 million 2 years ago.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Ceasefire between the U.S. and Iran seems to have collapsed. Is a negotiated settlement possible?",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=_9OEXEHoSwI",
-      "published": "2026-07-18T13:00:23+00:00",
-      "summary": "The ceasefire between the U.S. and Iran seems to have collapsed this week with bombings escalating, the Strait of Hormuz all but closing and the U.S. reinstating its naval blockade.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Hunter Biden on his journey to recovery and his father's pardon of him after tax and gun convictions",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=3EGGQcqs_Rc",
-      "published": "2026-07-18T12:00:37+00:00",
-      "summary": "Hunter Biden has been all over the internet in recent months, including appearances with some of his harshest critics, such as ultra-conservative podcasters Candace Owens and Nick Fuentes.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 6,
       "verdict": "Summary is enough"
@@ -278,8 +256,8 @@
       "published": "2026-07-21T01:14:03+00:00",
       "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Let’s Make Yahtzee and JM8 Choose Their Favorites | Windbreaker Podcast",
@@ -637,8 +615,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 15,
+    "youtubeCount": 13,
     "trailerCount": 20,
-    "sourceCount": 17
+    "sourceCount": 19
   }
 }
