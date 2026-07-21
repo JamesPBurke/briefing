@@ -1,109 +1,119 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-21T14:00:03.889355Z",
-  "generatedAtDisplay": "2026-07-21 10:00 AM EDT",
+  "generatedAt": "2026-07-21T18:00:18.259014Z",
+  "generatedAtDisplay": "2026-07-21 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / design. The strongest items in this run are US claims of Cuba’s ‘unique threat’ jar with reality of hunger and blackouts, Prosecutors in Hungary raid offices of Viktor Orbán’s Fidesz and seize databases, says party – Europe live, and US immigration agents arrested a record number of people in June, data shows.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are RFK Jr says cyclospora outbreak is ‘under control’ after FDA recall reversal, Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4, and ‘We were at their mercy’: inside the Amazon tactics that hiked prices across the internet.",
   "mainItems": [
     {
-      "title": "US claims of Cuba’s ‘unique threat’ jar with reality of hunger and blackouts",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/jul/21/us-state-department-report-cuba",
-      "published": "2026-07-21T13:33:35+00:00",
-      "summary": "State department’s 100-page report is latest push in Trump administration campaign to bring down government The US government’s latest allegations that Cuba is behind “many of the most significant upheavals in recent American political…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Prosecutors in Hungary raid offices of Viktor Orbán’s Fidesz and seize databases, says party – Europe live",
+      "title": "RFK Jr says cyclospora outbreak is ‘under control’ after FDA recall reversal",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/jul/21/ukraine-russia-zelenskyy-greece-italy-spain-france-social-media-latest-news-updates",
-      "published": "2026-07-21T13:11:53+00:00",
-      "summary": "The opposition⁠ party, led by former prime minister, says officers took ‘entire communications system and databases’ Meanwhile, the Kremlin said it had “no hope” for better ties with the UK, a day after Britain’s new prime minister Andy…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/rfk-jr-cyclospora-outbreak",
+      "published": "2026-07-21T17:53:33+00:00",
+      "summary": "Health secretary says source has been identified despite experts warning infections are likely to keep rising Health secretary Robert F Kennedy Jr said the ongoing outbreak of cyclosporiasis – the illness caused by the cyclospora parasite…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "US immigration agents arrested a record number of people in June, data shows",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/immigration-agents-arrest-june-data",
-      "published": "2026-07-21T13:00:47+00:00",
-      "summary": "Guardian analysis shows officers arrested 43,138 people as quiet and steady operations ramp up across the country The Trump administration arrested a record number of immigrants last month, according to newly released government data that…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The best games of 2026 so far, picked by NPR's staff",
-      "source": "NPR Tech",
-      "category": "Games / design",
-      "url": "https://www.npr.org/2026/07/21/nx-s1-5897567/best-games-2026-npr",
-      "published": "2026-07-21T13:00:00+00:00",
-      "summary": "Titans like Resident Evil Requiem and Crimson Desert dominated in the first half of the gaming year, with early-access sequels like Slay the Spire 2 and Subnautica 2 not far behind.",
-      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
-      "score": 10
-    },
-    {
-      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
-      "source": "MIT Technology Review",
+      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+      "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
-      "published": "2026-07-21T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+      "published": "2026-07-21T16:58:25+00:00",
+      "summary": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "The next major moment for Marathon arrives today with a new update and the debut of its PvE mode, Vault Breaker",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/marathon-vault-breaker-pve-mode-details-gameplay",
-      "published": "2026-07-21T10:45:16+00:00",
-      "summary": "Bungie has shown off Vault Breaker in a new gameplay trailer. This is Marathon's experimental, time-limited PvE mode, which arrives today in Season 2's mid-season update.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "‘We were at their mercy’: inside the Amazon tactics that hiked prices across the internet",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/21/amazon-tactics-prices",
+      "published": "2026-07-21T16:39:04+00:00",
+      "summary": "Internal emails revealed in court and interviews with ex-employees describe how Amazon’s practices drove up prices for competitors like Walmart and Target.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Meta’s smartglasses mean any child can be covertly filmed. In the age of AI, how do we tackle that risk?",
-      "source": "The Guardian US",
-      "category": "Security / computing",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/21/meta-smartglasses-child-filmed-ai-risk-technology",
-      "published": "2026-07-21T05:00:02+00:00",
-      "summary": "The company argues that it’s for individuals to ensure they don’t ‘actively exploit’ this technology. That won’t keep children safe It took me a while to realise what the man sitting next to me on the train was doing.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 9
+      "title": "Opinion: Students With Disabilities Are Spending More Time in Mainstream Classrooms",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/students-with-disabilities-are-spending-more-time-in-mainstream-classrooms/",
+      "published": "2026-07-21T16:30:00+00:00",
+      "summary": "States have made steady progress including students with disabilities in mainstream classrooms, an independent federal report finds, but lawmakers and advocates worry that headway will be lost as federal special education offices move from…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
     },
     {
-      "title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
+      "title": "Tesla Robotaxis go to Florida",
       "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/transportation/968624/tesla-robotaxis-orlando-tampa-florida-earnings",
+      "published": "2026-07-21T16:11:41+00:00",
+      "summary": "It must be earnings day, because Tesla is making a Robotaxi announcement. The company said in a post on X that it was launching its Robotaxi service in Orlando and Tampa, attaching a pair of maps that show each city's service area.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "US troops killed: has Trump lost control of Iran war? - The Latest",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/news/video/2026/jul/21/us-troops-killed-has-trump-lost-control-of-iran-war-the-latest",
+      "published": "2026-07-21T16:10:24+00:00",
+      "summary": "The US has carried out a fresh round of strikes against Iran, after three US soldiers were killed in action.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "RFK Jr pauses $1bn Medicaid funding to California and Minnesota",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/medicaid-funding-california-minnesota-paused",
+      "published": "2026-07-21T16:09:15+00:00",
+      "summary": "Trump’s health secretary says AI used to identify potential fraud in Democratic-run states The Trump administration has paused more than $1bn in Medicaid funding to California and Minnesota, citing “suspected fraud and noncompliance” –…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Delaware judge dismisses UnitedHealth Group lawsuit against the Guardian",
+      "source": "The Guardian US",
       "category": "AI / privacy",
-      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-      "published": "2026-07-20T22:20:34+00:00",
-      "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyoncé's Say My Name, and Harry…",
+      "url": "https://www.theguardian.com/media/2026/jul/21/unitedhealth-lawsuit-the-guardian-dismissed",
+      "published": "2026-07-21T15:47:03+00:00",
+      "summary": "Healthcare conglomerate pursued a defamation lawsuit against the Guardian over 2025 investigative reporting A state judge in Delaware has dismissed a defamation lawsuit brought against the Guardian by the UnitedHealth Group.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
     },
     {
-      "title": "Contrary to Common Belief, The Poorest School Districts Outspend The Wealthiest",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/contrary-to-common-belief-the-poorest-school-districts-outspend-the-wealthiest/",
-      "published": "2026-07-20T16:33:27+00:00",
-      "summary": "There’s a prevailing principle in the U.S. that funding disparities are at the root of education inequality, with poorer districts receiving less money than their wealthier counterparts.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "Spanish hotel chain ceases operations in Cuba under pressure from Washington",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/jul/21/spanish-hotel-chain-ceases-operations-cuba-sanctions-trump",
+      "published": "2026-07-21T15:10:35+00:00",
+      "summary": "Meliá group says Donald Trump’s sanctions make it ‘impossible’ to keep any of its 34 sites open A Spanish hotel chain is to cease all operations in Cuba at the end of the week due to “major difficulties” in doing business on the island…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop",
+      "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop/",
-      "published": "2026-07-21T13:51:39+00:00",
-      "summary": "ISBNdb, a company that sources printed books for AI companies to turn into training data, tells clients “the optics problem is real.”",
+      "url": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
+      "published": "2026-07-21T15:20:10+00:00",
+      "summary": "For a year, Apple knew that an issue in its Hide My Email feature was exposing customers’ real email addresses. Apple only fixed the issue after 404 Media covered it.",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "As Costs Rise, Families With Young Children Are Feeling the Strain",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/zero2eight/as-costs-rise-families-with-young-children-are-feeling-the-strain/",
+      "published": "2026-07-21T14:30:00+00:00",
+      "summary": "Families across America, particularly those with young children, are struggling this summer. With costs up, many are facing financial hardship at a level even greater than what was seen at the onset of the pandemic.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 8
     },
     {
@@ -117,16 +127,6 @@
       "score": 8
     },
     {
-      "title": "Every Major Character Missing From the Avengers: Doomsday Trailer",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/characters-missing-avengers-doomsday-trailer/",
-      "published": "2026-07-20T21:07:06+00:00",
-      "summary": "If anyone sees Alan Cumming, tell him we miss him The post Every Major Character Missing From the Avengers: Doomsday Trailer appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
       "title": "Who should regulate global AI? China makes a play for leadership",
       "source": "NPR Tech",
       "category": "Science / computing",
@@ -137,373 +137,8 @@
       "score": 8
     }
   ],
-  "youtube": [
-    {
-      "title": "More Americans using credit or savings to pay for groceries",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=GqcnLwxoRQU",
-      "published": "2026-07-19T15:00:10+00:00",
-      "summary": "Food prices have jumped 30% over the last five years, and new research shows more people in the U.S. are using credit — or dipping into their savings — to pay for groceries.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "China bars AI chatbots' companionship features",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=tnBXBwJbX6g",
-      "published": "2026-07-19T13:00:34+00:00",
-      "summary": "In China, many have had to say goodbye to their virtual friends and partners, as several big AI companies have suspended their AI companionship features.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Hunter Biden says he has nothing left to hide",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=CR0eDBKN2xQ",
-      "published": "2026-07-18T18:00:10+00:00",
-      "summary": "Hunter Biden has been all over the internet in recent months, including appearances with some of his harshest critics, such as ultra-conservative podcasters Candace Owens and Nick Fuentes.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "T.rex fossil sold to mystery bidder for record $50.1 million",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=lz-336rQ7QE",
-      "published": "2026-07-18T15:00:36+00:00",
-      "summary": "The bones of a Tyrannosaurus rex nicknamed Gus sold for a record $50.1 million this week. The sale beat a Stegosaurus skeleton that sold for almost $45 million 2 years ago.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Will Buying Physical GTA 6 \"Code In A Box\" Send A Message To Sony About Ending Discs?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=SvE5MCwjOf4",
-      "published": "2026-07-20T16:00:29+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Is Nintendo The Only Platform Holder That Doesn't Lay Off Devs & Annoy Its Userbase?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=e7hnVat_tIY",
-      "published": "2026-07-20T16:00:06+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Which PlayStation 3 Games Deserve A Full Remake?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=aqy8Ai9oUCg",
-      "published": "2026-07-19T16:00:05+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Will Project Helix Get A Disc Drive To Counter Sony?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=YX-TplmaRN4",
-      "published": "2026-07-19T15:00:19+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Five Years of Steam Deck: Was It A Game-Changer?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=kha-Q4aiWq8",
-      "published": "2026-07-18T16:00:05+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/UMzqzeGNVPM ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Will Cancelling PlayStation Plus Make Sony Re-Think Killing Discs?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=3KbajahBM28",
-      "published": "2026-07-18T15:00:37+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Sacrificing the Rich in Feed the Pit | Hot Monday Energy",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=rd9epshwgaA",
-      "published": "2026-07-21T01:14:03+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Let’s Make Yahtzee and JM8 Choose Their Favorites | Windbreaker Podcast",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=4qgHiu5b-3w",
-      "published": "2026-07-20T18:56:58+00:00",
-      "summary": "This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "How Black Flag Fakes the Density of its Open World | Design Delve",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=w6JMtfp-Tcg",
-      "published": "2026-07-20T15:00:33+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
-    }
-  ],
-  "trailers": [
-    {
-      "title": "everything you need to know about ONE NIGHT ONLY. see it only in theaters august 7!",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=x4s0aRs316U",
-      "published": "2026-07-17T17:42:34+00:00",
-      "summary": "What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but You and Easy A, celebrates modern romantic comedy on the big screen with a fresh, witty, swoony original…",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "some love languages are impossible to miss. one night only is in theaters august 7.",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=kiK1aBs6pTo",
-      "published": "2026-07-17T00:19:54+00:00",
-      "summary": "What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but You and Easy A, celebrates modern romantic comedy on the big screen with a fresh, witty, swoony original…",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 7,
-      "verdict": "Worth a glance"
-    },
-    {
-      "title": "One Night Only | Official Trailer",
-      "source": "Universal Pictures",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=AvKoSR3O4NQ",
-      "published": "2026-07-10T23:02:23+00:00",
-      "summary": "what would you do if you only had one night? __________________________________________________________ What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but…",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Trailer out now for The Dog Stars.",
-      "source": "20th Century Studios",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=FTHEgEONSRs",
-      "published": "2026-07-14T19:20:29+00:00",
-      "summary": "Trailer out now for The Dog Stars.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Dog Stars | In Theaters August 28",
-      "source": "20th Century Studios",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=8FeiVAY5Y7Y",
-      "published": "2026-07-14T17:00:01+00:00",
-      "summary": "Ridley Scott returns with a bold new vision in THE DOG STARS. Starring Jacob Elordi, Margaret Qualley, & Josh Brolin. See the film only in theaters August 28. Watch the new trailer now.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The Dog Stars | Official Trailer | In Theaters August 28",
-      "source": "20th Century Studios",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=-xSxaE1ClEE",
-      "published": "2026-07-14T16:00:06+00:00",
-      "summary": "The world that was doesn’t exist. THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters and IMAX August 28.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tony | Official First Look | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=GMQFLpETNkc",
-      "published": "2026-07-14T14:00:12+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 6,
-      "verdict": "Optional"
-    },
-    {
-      "title": "The Wrong Girls - Official Trailer - In Theaters August 14",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=zrcg8YHSys8",
-      "published": "2026-07-07T16:00:10+00:00",
-      "summary": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Her Private Hell - Official Trailer - In Theaters July 24",
-      "source": "NEON",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=C7E-0t1TfzM",
-      "published": "2026-06-30T16:00:27+00:00",
-      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "NIGHTBORN | Official Trailer Feat. Rupert Grint, Seidi Haarla | Shudder",
-      "source": "Shudder",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=dWePsu_Kd9c",
-      "published": "2026-07-06T19:08:20+00:00",
-      "summary": "With dreams of starting a perfect family, Saga and her British husband Jon move to the isolated house where she spent much of her childhood, deep in the Finnish forest.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "LEGO ONE PIECE | Official Teaser Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=NfcWSGZdnAs",
-      "published": "2026-07-20T16:00:00+00:00",
-      "summary": "The ALMOST true story of Captain Usopp the Brave! The Straw Hats are back in this new 2-part Lego special event, only on Netflix September 29th. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "bad habits with the cast of 72 HOURS #Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=qWIwxta3xss",
-      "published": "2026-07-18T14:00:10+00:00",
-      "summary": "#72Hours Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "The deadliest killers can’t be silenced. Watch The Whisper Man on August 28, only on Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=5njn-_ySY5w",
-      "published": "2026-07-18T13:00:29+00:00",
-      "summary": "The deadliest killers can’t be silenced. #RobertDeNiro, #AdamScott & #MichelleMonaghan star in The Whisper Man, August 28. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Starring Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo. THE EAST PALACE is now playing.",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=xfG3Q9reHBg",
-      "published": "2026-07-18T12:00:28+00:00",
-      "summary": "Starring Nam Joo-hyuk, Roh Yoon-seo, and Cho Seung-woo. THE EAST PALACE is now playing. #Netflix Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "One Hundred Years of Solitude: Part Two | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=F7iKrcc5L3M",
-      "published": "2026-07-17T12:00:00+00:00",
-      "summary": "Macondo is changing. New inhabitants, its connection to the world and the destiny of the Buendía family will hasten the town’s downfall. One Hundred Years of Solitude: Part Two, coming to Netflix August 5 and the Grand Finale on August 26.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Kevin Hart Meets the Bachelor Party Crew | 72 Hours | Sneak Peek | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Y89AfGiCCAE",
-      "published": "2026-07-16T20:00:00+00:00",
-      "summary": "They accidentally added him to their bachelor party group chat... now what? Kevin Hart meets the gang — Marcello Hernández, Mason Gooding, Kam Patterson, and Ben Marshall — in 72 Hours, premiering on Netflix on July 24th.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "10 YEARS AGO TODAY #StrangerThings",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=eiNIkWcC4v0",
-      "published": "2026-07-16T01:00:06+00:00",
-      "summary": "10 YEARS AGO TODAY #StrangerThings Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Silo — Juliette Enters the Mines | Season 3 Scene | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=ZOZYfpINMco",
-      "published": "2026-07-20T18:59:50+00:00",
-      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Silo — Season 3 Memory | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=bP6B-whkx_w",
-      "published": "2026-07-16T00:29:56+00:00",
-      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Two pickleball paddles are better than one. #TheDink A new comedy movie, July 24 on Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=gmlbMB1_lcE",
-      "published": "2026-07-15T23:59:48+00:00",
-      "summary": "Premieres July 24 on Apple TV https://apple.co/_TheDink A new comedy movie with Ed Harris, Andy Roddick, Patton Oswalt, Chloe Fineman, Chris Parnell and Aaron Chen, with Ben Stiller. Subscribe to Apple TV’s YouTube channel: https://apple.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    }
-  ],
+  "youtube": [],
+  "trailers": [],
   "recommendations": {
     "new": [
       {
@@ -615,8 +250,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 13,
-    "trailerCount": 20,
-    "sourceCount": 19
+    "youtubeCount": 0,
+    "trailerCount": 0,
+    "sourceCount": 7
   }
 }
