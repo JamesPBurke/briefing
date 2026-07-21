@@ -1,119 +1,59 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-20T18:01:21.920540Z",
-  "generatedAtDisplay": "2026-07-20 02:01 PM EDT",
+  "generatedAt": "2026-07-21T05:00:01.626067Z",
+  "generatedAtDisplay": "2026-07-21 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Suspect held after explosion at FBI building in New York City, Trump says Iran ‘will pay’ for killing soldiers ‘many times over’ after Pezeshkian says country fighting ‘full-scale war’ – Middle East crisis live, and Ukraine’s army chief expected to lose job after week of protests.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are US launches further strikes on Iran; Houthis threaten Saudi shipping blockade – Middle East crisis live, Almost 100 troops injured in recent weeks, Pentagon admits, as Iran launches reprisals on US allies, and Nicaragua’s president says country will not hold any more elections.",
   "mainItems": [
     {
-      "title": "Suspect held after explosion at FBI building in New York City",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/20/new-york-explosion-fbi-ice",
-      "published": "2026-07-20T17:46:33+00:00",
-      "summary": "Three people reported injured after incendiary device allegedly thrown at building also housing ICE field office Authorities in New York City are investigating an explosion on Monday morning outside an FBI building in lower Manhattan that…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Trump says Iran ‘will pay’ for killing soldiers ‘many times over’ after Pezeshkian says country fighting ‘full-scale war’ – Middle East crisis live",
+      "title": "US launches further strikes on Iran; Houthis threaten Saudi shipping blockade – Middle East crisis live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
-      "published": "2026-07-20T17:23:22+00:00",
-      "summary": "A number of US military service members were killed in action over the weekend in Jordan US expands Iran offensive as diplomats claim talks ongoing The price of oil jumped in early Asian trade on Monday after the US carried out its latest…",
+      "published": "2026-07-21T04:55:51+00:00",
+      "summary": "US says latest attack aimed at further degrading Iranian military capabilities; Yemen militant group threatens traffic moving through Bab el-Mandeb strait US launches 10th round of strikes as Iran says it is in ‘full-scale war’ The price…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Ukraine’s army chief expected to lose job after week of protests",
+      "title": "Almost 100 troops injured in recent weeks, Pentagon admits, as Iran launches reprisals on US allies",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jul/20/ukraine-army-chief-oleksandr-syrskyi-expected-lose-job-week-protests",
-      "published": "2026-07-20T17:21:26+00:00",
-      "summary": "Volodymyr Zelenskyy’s chief of staff hints government may be about to sack Oleksandr Syrskyi Ukraine’s commander in chief Oleksandr Syrskyi is widely expected to lose his job amid signs that Volodymyr Zelenskyy has bowed to pressure from…",
+      "url": "https://www.theguardian.com/world/2026/jul/21/us-troops-injured-killed-iran-war-attacks-pentagon",
+      "published": "2026-07-21T04:09:54+00:00",
+      "summary": "Iran has attacked a tanker in the strait of Hormuz, forcing its crew to abandon the ship, after the US launched a tenth consecutive night of strikes Middle East crisis live: follow latest updates Nearly 100 US service members have been…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "LG’s glossy OLED gaming monitor is rare to find under $400",
-      "source": "The Verge",
+      "title": "Nicaragua’s president says country will not hold any more elections",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/967993/lg-27-inch-ultragear-glossy-oled-gaming-monitor-deal-sale",
-      "published": "2026-07-20T16:34:24+00:00",
-      "summary": "If you’ve been thinking about upgrading your gaming monitor, LG’s 27-inch 27GX704A-B pairs a glossy WOLED panel with a fast refresh rate, and it’s currently on sale for $379.",
+      "url": "https://www.theguardian.com/world/2026/jul/20/nicaraguas-president-says-country-will-not-hold-any-more-elections",
+      "published": "2026-07-20T21:36:47+00:00",
+      "summary": "Daniel Ortega, the 80-year-old authoritarian leader, says move will ‘build a wall’ against the opposition Nicaragua’s long-serving president, Daniel Ortega, has said the country will hold no further elections to prevent the opposition from…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Contrary to Common Belief, The Poorest School Districts Outspend The Wealthiest",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/contrary-to-common-belief-the-poorest-school-districts-outspend-the-wealthiest/",
-      "published": "2026-07-20T16:33:27+00:00",
-      "summary": "There’s a prevailing principle in the U.S. that funding disparities are at the root of education inequality, with poorer districts receiving less money than their wealthier counterparts.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "The AirPods Max 2 are down to their second-best price",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/967822/airpods-max-2-logitech-superstrike-kodak-charmera-deal-sale",
-      "published": "2026-07-20T16:29:50+00:00",
-      "summary": "There are a ton of deals available to shop today thanks to Best Buy’s “Black Friday in July” sale lasting all week.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "LG’s monitors come with an unwanted addition for Windows: McAfee pop-up ads",
+      "title": "Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/967983/lg-monitors-mcafee-adware-gamers-nexus",
-      "published": "2026-07-20T16:22:33+00:00",
-      "summary": "A video from Gamers Nexus explains how, after connecting a new LG UltraGear monitor to a PC running Windows 11 for the first time, Windows Update is silently installing LG driver updates and the LG Monitor App Installer, without so much as…",
+      "url": "https://www.theverge.com/gadgets/968191/humble-2k-megahits-bundle-xcom-borderlands-duke-nukem-deal-sale",
+      "published": "2026-07-20T20:08:51+00:00",
+      "summary": "The aptly-named “2K Megahits 2026 Bundle” from Humble includes 15 Steam games for $15. It’s a smattering of the publisher 2K’s biggest games of the 2010s, including BioShock Infinite, Risk of Rain 2, Borderlands 3, and XCOM: Enemy Unknown.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
+      "title": "RIP bargain bin: The price impact of Sony's disc-free PlayStation plan",
       "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/",
-      "published": "2026-07-20T15:32:45+00:00",
-      "summary": "Online retailer AliExpress says it's shocked by largest DSA fine yet.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "ICE Has Detained More Than 650 Kids in California Under Trump Deportation Crackdown",
-      "source": "The 74",
       "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/ice-has-detained-more-than-650-kids-in-california-under-trump-deportation-crackdown/",
-      "published": "2026-07-20T14:30:00+00:00",
-      "summary": "U.S. Immigrations and Customs Enforcement has detained more than 650 children in California under President Donald Trump’s second term, an EdSource analysis of federal data has found.",
+      "url": "https://arstechnica.com/gaming/2026/07/our-playstation-price-analysis-shows-why-physical-games-still-matter/",
+      "published": "2026-07-20T18:06:05+00:00",
+      "summary": "Used discs are often cheaper than even deep digital discounts.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "China delivers a one-two punch to America’s AI dominance",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "published": "2026-07-20T12:47:44+00:00",
-      "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Experts warn of rise in sadistic online exploitation of vulnerable children",
-      "source": "The Guardian US",
-      "category": "Security / computing",
-      "url": "https://www.theguardian.com/technology/2026/jul/20/online-exploitation-children-warning",
-      "published": "2026-07-20T11:00:03+00:00",
-      "summary": "Global increase in cases of predators coercing children to harm themselves or produce child sexual abuse material Cases of predators coercing children into producing sexual photos and videos of themselves have surged globally in the past…",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 10
     },
     {
@@ -127,6 +67,66 @@
       "score": 10
     },
     {
+      "title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
+      "source": "The Verge",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "published": "2026-07-20T22:20:34+00:00",
+      "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyoncé's Say My Name, and Harry…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
+    },
+    {
+      "title": "SpaceX in your index fund, explained",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+      "published": "2026-07-20T21:12:45+00:00",
+      "summary": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Contrary to Common Belief, The Poorest School Districts Outspend The Wealthiest",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/contrary-to-common-belief-the-poorest-school-districts-outspend-the-wealthiest/",
+      "published": "2026-07-20T16:33:27+00:00",
+      "summary": "There’s a prevailing principle in the U.S. that funding disparities are at the root of education inequality, with poorer districts receiving less money than their wealthier counterparts.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "FBI accuse Steam user of stealing over $220,000 via malware-infected games like BlockBlasters, Lunara and Dashverse",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/fbi-accuse-steam-user-of-stealing-over-220000-via-malware-infected-games-like-blockblasters-lunara-and-dashverse",
+      "published": "2026-07-20T15:43:24+00:00",
+      "summary": "A Florida-based student has been arrested by the FBI after allegedly stealing over $220,000 in cryptocurrency by means of malware-packed free games on Steam. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Every Major Character Missing From the Avengers: Doomsday Trailer",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/characters-missing-avengers-doomsday-trailer/",
+      "published": "2026-07-20T21:07:06+00:00",
+      "summary": "If anyone sees Alan Cumming, tell him we miss him The post Every Major Character Missing From the Avengers: Doomsday Trailer appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
+    },
+    {
+      "title": "Who should regulate global AI? China makes a play for leadership",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5886477/who-should-regulate-global-ai-china-makes-a-play-for-leadership",
+      "published": "2026-07-20T20:09:27+00:00",
+      "summary": "The AI world is moving at lightning speed – and the world is trying to figure out how to regulate this technology. China just made a big play to be the global leader.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
+    },
+    {
       "title": "At least 930 people have died in Congo's Ebola outbreak",
       "source": "NPR Health",
       "category": "Science / health",
@@ -138,7 +138,30 @@
     }
   ],
   "youtube": [],
-  "trailers": [],
+  "trailers": [
+    {
+      "title": "The Wrong Girls - Official Trailer - In Theaters August 14",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=zrcg8YHSys8",
+      "published": "2026-07-07T16:00:10+00:00",
+      "summary": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Her Private Hell - Official Trailer - In Theaters July 24",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=C7E-0t1TfzM",
+      "published": "2026-06-30T16:00:27+00:00",
+      "summary": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -251,7 +274,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 5
+    "trailerCount": 2,
+    "sourceCount": 9
   }
 }
