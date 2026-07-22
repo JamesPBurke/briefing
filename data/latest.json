@@ -1,11 +1,31 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-22T05:00:05.221972Z",
-  "generatedAtDisplay": "2026-07-22 01:00 AM EDT",
+  "generatedAt": "2026-07-22T09:00:23.740008Z",
+  "generatedAtDisplay": "2026-07-22 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Trump ally wins Republican primary for Arizona governor, setting up race against Katie Hobbs, India’s Rahul Gandhi briefly detained as cockroach protests rock Delhi, and US immigration agents arrested a record number of people in June, data shows.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Middle East crisis live: US renews strikes on Iran as Trump threatens to attack nuclear site ‘very heavily’, OpenAI says its models went rogue and hacked startup in ‘unprecedented incident’, and Trump ally wins Republican primary for Arizona governor, setting up race against Katie Hobbs.",
   "mainItems": [
+    {
+      "title": "Middle East crisis live: US renews strikes on Iran as Trump threatens to attack nuclear site ‘very heavily’",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
+      "published": "2026-07-22T08:42:12+00:00",
+      "summary": "US military completes 11th night of strikes as attacks overshadow diplomatic efforts in Pakistan to salvage interim ceasefire deal Houthis threaten attacks on shipping tankers if they use Saudi ports on Red Sea What is Pickaxe Mountain,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI says its models went rogue and hacked startup in ‘unprecedented incident’",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident",
+      "published": "2026-07-22T08:37:47+00:00",
+      "summary": "Firm behind ChatGPT reveals autonomous agent powered by its tech chose to attack Hugging Face database by itself OpenAI has revealed an autonomous AI agent powered by its technology went rogue during a test, accessed the open web and…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
     {
       "title": "Trump ally wins Republican primary for Arizona governor, setting up race against Katie Hobbs",
       "source": "The Guardian US",
@@ -17,22 +37,12 @@
       "score": 10
     },
     {
-      "title": "India’s Rahul Gandhi briefly detained as cockroach protests rock Delhi",
-      "source": "The Guardian US",
+      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jul/22/india-cockroach-janta-party-cjp-protests-rahul-gandhi-detained",
-      "published": "2026-07-22T03:05:34+00:00",
-      "summary": "Opposition leader taken away after accusing Narendra Modi of ‘destroying the future of India’s youth’ during protest in solidarity with cockroach movement Indian police briefly detained opposition leader Rahul Gandhi on Tuesday during…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "US immigration agents arrested a record number of people in June, data shows",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/immigration-agents-arrest-june-data",
-      "published": "2026-07-21T23:06:20+00:00",
-      "summary": "Guardian analysis shows officers arrested 43,138 people as quiet and steady operations ramp up across the country The Trump administration arrested a record number of immigrants last month, according to newly released government data that…",
+      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+      "published": "2026-07-21T22:06:43+00:00",
+      "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -57,12 +67,12 @@
       "score": 10
     },
     {
-      "title": "Less than a month after launching Empulse, it looks like Splitgate dev 1047 Games are laying off more staff",
-      "source": "Rock Paper Shotgun",
+      "title": "The Incident at Galley House review",
+      "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/less-than-a-month-after-launching-empulse-it-looks-like-splitgate-dev-1047-games-are-laying-off-more-staff",
-      "published": "2026-07-21T19:07:20+00:00",
-      "summary": "Things are sounding bad over at Splitgate developer 1047 Games once again.",
+      "url": "https://www.eurogamer.net/the-incident-at-galley-house-review",
+      "published": "2026-07-22T09:00:00+00:00",
+      "summary": "There's a machine in The Incident at Galley House you'll spend an awful lot of time with, and it's a wonderfully tactile thing.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
@@ -74,16 +84,6 @@
       "published": "2026-07-21T16:30:00+00:00",
       "summary": "States have made steady progress including students with disabilities in mainstream classrooms, an independent federal report finds, but lawmakers and advocates worry that headway will be lost as federal special education offices move from…",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "US claims of Cuba’s ‘unique threat’ jar with reality of hunger and blackouts",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/jul/21/us-state-department-report-cuba",
-      "published": "2026-07-21T13:33:35+00:00",
-      "summary": "State department’s 100-page report is latest push in Trump administration campaign to bring down government The US government’s latest allegations that Cuba is behind “many of the most significant upheavals in recent American political…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -150,6 +150,83 @@
       "verdict": "Watch it"
     },
     {
+      "title": "India censors Bollywood's 'Satluj,' claiming it's separatist propaganda",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=2UnTQRTC95A",
+      "published": "2026-07-21T20:00:27+00:00",
+      "summary": "For more than three years, the Indian film “Satluj” has been stuck in limbo. Its director says India's film regulatory body refused to allow its release in cinema halls unless he made more than 120 cuts.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Civil rights leaders call for justice at Mississippi teen's funeral",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=ec3zNNSZAOY",
+      "published": "2026-07-21T18:30:04+00:00",
+      "summary": "Funeral services were held Monday for 18-year-old Nolan Wells, who was found dead off Mississippi's coast earlier this month. Authorities say they’re still investigating the cause of death.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "FDA struggles to identify source of Cyclospora outbreak",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=O0GmFKr-n50",
+      "published": "2026-07-21T17:00:05+00:00",
+      "summary": "The Food and Drug Administration retracted test results identifying Cyclospora on samples of lettuce from Taylor Farms in Mexico, showing how hard it can be to trace the source of the parasitic outbreak.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Burnham becomes the U.K.'s 7th prime minister in 10 years",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=6cuLxfmYhnA",
+      "published": "2026-07-21T15:30:18+00:00",
+      "summary": "The United Kingdom has a new prime minister. Andy Burnham took office today, replacing Keir Starmer, who was ousted by his own center-left Labour Party.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "'The Odyssey' earns $125 million in its opening weekend",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=YZWZp7bDouw",
+      "published": "2026-07-21T14:03:59+00:00",
+      "summary": "Christopher Nolan’s \"The Odyssey\" was No. 1 at the box office in its opening weekend and has set sail to the year’s best box office figures for a live-action film.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "More Americans using credit or savings to pay for groceries",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=GqcnLwxoRQU",
+      "published": "2026-07-19T15:00:10+00:00",
+      "summary": "Food prices have jumped 30% over the last five years, and new research shows more people in the U.S. are using credit — or dipping into their savings — to pay for groceries.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "China bars AI chatbots' companionship features",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=tnBXBwJbX6g",
+      "published": "2026-07-19T13:00:34+00:00",
+      "summary": "In China, many have had to say goodbye to their virtual friends and partners, as several big AI companies have suspended their AI companionship features.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "Assassin's Creed Black Flag Resynced - PC Best Settings - Digital Foundry Optimised",
       "source": "Digital Foundry",
       "category": "Games / hardware",
@@ -214,9 +291,141 @@
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 6,
       "verdict": "Summary is enough"
+    },
+    {
+      "title": "The Odyssey Is Why We Go to the Movies | The Rewind Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=23H6JB4lzNY",
+      "published": "2026-07-21T20:13:52+00:00",
+      "summary": "This week on The Rewind, Jack, Darren, and Marty chat about Christopher Nolan's The Odyssey.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "The Odyssey Is a Timeless and Timely Epic | The Backdrop",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=AC4ABA1hbRw",
+      "published": "2026-07-21T15:02:21+00:00",
+      "summary": "Christopher Nolan delivered a film that's as timely as ever. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Sacrificing the Rich in Feed the Pit | Hot Monday Energy",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=rd9epshwgaA",
+      "published": "2026-07-21T01:14:03+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Let’s Make Yahtzee and JM8 Choose Their Favorites | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=4qgHiu5b-3w",
+      "published": "2026-07-20T18:56:58+00:00",
+      "summary": "This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "How Black Flag Fakes the Density of its Open World | Design Delve",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=w6JMtfp-Tcg",
+      "published": "2026-07-20T15:00:33+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
     }
   ],
   "trailers": [
+    {
+      "title": "everything you need to know about ONE NIGHT ONLY. see it only in theaters august 7!",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=x4s0aRs316U",
+      "published": "2026-07-17T17:42:34+00:00",
+      "summary": "What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but You and Easy A, celebrates modern romantic comedy on the big screen with a fresh, witty, swoony original…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "some love languages are impossible to miss. one night only is in theaters august 7.",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=kiK1aBs6pTo",
+      "published": "2026-07-17T00:19:54+00:00",
+      "summary": "What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but You and Easy A, celebrates modern romantic comedy on the big screen with a fresh, witty, swoony original…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "One Night Only | Official Trailer",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=AvKoSR3O4NQ",
+      "published": "2026-07-10T23:02:23+00:00",
+      "summary": "what would you do if you only had one night? __________________________________________________________ What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY – Final Trailer (Peter’s Journey) 4K",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=P3uI5sLosKU",
+      "published": "2026-07-21T16:00:31+00:00",
+      "summary": "It's about to be a Brand New Day. Get tickets now. #SpiderManBrandNewDay is in theatres July 31. https://spidermanbrandnewday.movie/ It's a BRAND NEW DAY for Peter Parker.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Trailer out now for The Dog Stars.",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=FTHEgEONSRs",
+      "published": "2026-07-14T19:20:29+00:00",
+      "summary": "Trailer out now for The Dog Stars.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Dog Stars | In Theaters August 28",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=8FeiVAY5Y7Y",
+      "published": "2026-07-14T17:00:01+00:00",
+      "summary": "Ridley Scott returns with a bold new vision in THE DOG STARS. Starring Jacob Elordi, Margaret Qualley, & Josh Brolin. See the film only in theaters August 28. Watch the new trailer now.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Dog Stars | Official Trailer | In Theaters August 28",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=-xSxaE1ClEE",
+      "published": "2026-07-14T16:00:06+00:00",
+      "summary": "The world that was doesn’t exist. THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters and IMAX August 28.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
     {
       "title": "Tony | Official First Look | A24",
       "source": "A24",
@@ -227,6 +436,39 @@
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 6,
       "verdict": "Optional"
+    },
+    {
+      "title": "The Wrong Girls - Official Trailer - In Theaters August 14",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=zrcg8YHSys8",
+      "published": "2026-07-07T16:00:10+00:00",
+      "summary": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "NIGHTBORN | Official Trailer Feat. Rupert Grint, Seidi Haarla | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=dWePsu_Kd9c",
+      "published": "2026-07-06T19:08:20+00:00",
+      "summary": "With dreams of starting a perfect family, Saga and her British husband Jon move to the isolated house where she spent much of her childhood, deep in the Finnish forest.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Other Mommy | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=pPxrX9ukWBY",
+      "published": "2026-07-21T17:07:30+00:00",
+      "summary": "Your mommy won’t save you. Other Mommy only in theaters October 9. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
     },
     {
       "title": "LEGO ONE PIECE | Official Teaser Trailer | Netflix",
@@ -303,6 +545,39 @@
       "summary": "10 YEARS AGO TODAY #StrangerThings Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Pluribus — Season 1 Bloopers | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Kfcppzds68Q",
+      "published": "2026-07-21T16:59:49+00:00",
+      "summary": "“Breaking Bad” creator Vince Gilligan’s science fiction drama starring Emmy Award nominee Rhea Seehorn is now streaming on Apple TV.https://apple.co/_Pluribus Pluribus bloopers have arrived.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Women in Blue — Season 2 Official Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Z9n3TkdcGLY",
+      "published": "2026-07-21T13:59:47+00:00",
+      "summary": "Mexico's first female police force is back. A deadly conspiracy leads straight to their door, forcing four women to question the true cost of justice. Mexico’s most courageous against corruption.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Silo — Juliette Enters the Mines | Season 3 Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=ZOZYfpINMco",
+      "published": "2026-07-20T18:59:50+00:00",
+      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
       "verdict": "Looks promising"
     }
   ],
@@ -417,8 +692,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 7,
-    "trailerCount": 8,
-    "sourceCount": 13
+    "youtubeCount": 19,
+    "trailerCount": 21,
+    "sourceCount": 22
   }
 }

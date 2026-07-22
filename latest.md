@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-22T05:00:05.221972Z
+Generated: 2026-07-22T09:00:23.740008Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Trump ally wins Republican primary for Arizona governor, setting up race against Katie Hobbs, India’s Rahul Gandhi briefly detained as cockroach protests rock Delhi, and US immigration agents arrested a record number of people in June, data shows.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Middle East crisis live: US renews strikes on Iran as Trump threatens to attack nuclear site ‘very heavily’, OpenAI says its models went rogue and hacked startup in ‘unprecedented incident’, and Trump ally wins Republican primary for Arizona governor, setting up race against Katie Hobbs.
 
 ## Briefing
 
@@ -33,7 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Trump ally wins Republican primary for Arizona governor, setting up race against Katie Hobbs [10/10]
+### 1. Middle East crisis live: US renews strikes on Iran as Trump threatens to attack nuclear site ‘very heavily’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+US military completes 11th night of strikes as attacks overshadow diplomatic efforts in Pakistan to salvage interim ceasefire deal Houthis threaten attacks on shipping tankers if they use Saudi ports on Red Sea What is Pickaxe Mountain,…
+
+Link: https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates
+
+### 2. OpenAI says its models went rogue and hacked startup in ‘unprecedented incident’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Firm behind ChatGPT reveals autonomous agent powered by its tech chose to attack Hugging Face database by itself OpenAI has revealed an autonomous AI agent powered by its technology went rogue during a test, accessed the open web and…
+
+Link: https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident
+
+### 3. Trump ally wins Republican primary for Arizona governor, setting up race against Katie Hobbs [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,25 +60,16 @@ The victory for Andy Biggs, who was a central figure in the effort to overturn T
 
 Link: https://www.theguardian.com/us-news/2026/jul/22/arizona-republican-primary-andy-biggs-katie-hobbs
 
-### 2. India’s Rahul Gandhi briefly detained as cockroach protests rock Delhi [10/10]
-**Source:** The Guardian US  
+### 4. Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Opposition leader taken away after accusing Narendra Modi of ‘destroying the future of India’s youth’ during protest in solidarity with cockroach movement Indian police briefly detained opposition leader Rahul Gandhi on Tuesday during…
+On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia.
 
-Link: https://www.theguardian.com/world/2026/jul/22/india-cockroach-janta-party-cjp-protests-rahul-gandhi-detained
+Link: https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance
 
-### 3. US immigration agents arrested a record number of people in June, data shows [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Guardian analysis shows officers arrested 43,138 people as quiet and steady operations ramp up across the country The Trump administration arrested a record number of immigrants last month, according to newly released government data that…
-
-Link: https://www.theguardian.com/us-news/2026/jul/21/immigration-agents-arrest-june-data
-
-### 4. OpenAI says it accidentally hacked Hugging Face with a new AI system [10/10]
+### 5. OpenAI says it accidentally hacked Hugging Face with a new AI system [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -69,7 +78,7 @@ OpenAI says its AI models mistakenly breached open-source AI platform Hugging Fa
 
 Link: https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai
 
-### 5. Nintendo says users voluntarily paid higher prices, have no right to tariff refunds [10/10]
+### 6. Nintendo says users voluntarily paid higher prices, have no right to tariff refunds [10/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -78,16 +87,16 @@ Nintendo says Switch buyers got what they paid for, urges court to dismiss lawsu
 
 Link: https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/
 
-### 6. Less than a month after launching Empulse, it looks like Splitgate dev 1047 Games are laying off more staff [9/10]
-**Source:** Rock Paper Shotgun  
+### 7. The Incident at Galley House review [9/10]
+**Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Things are sounding bad over at Splitgate developer 1047 Games once again.
+There's a machine in The Incident at Galley House you'll spend an awful lot of time with, and it's a wonderfully tactile thing.
 
-Link: https://www.rockpapershotgun.com/less-than-a-month-after-launching-empulse-it-looks-like-splitgate-dev-1047-games-are-laying-off-more-staff
+Link: https://www.eurogamer.net/the-incident-at-galley-house-review
 
-### 7. Opinion: Students With Disabilities Are Spending More Time in Mainstream Classrooms [9/10]
+### 8. Opinion: Students With Disabilities Are Spending More Time in Mainstream Classrooms [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -95,15 +104,6 @@ Link: https://www.rockpapershotgun.com/less-than-a-month-after-launching-empulse
 States have made steady progress including students with disabilities in mainstream classrooms, an independent federal report finds, but lawmakers and advocates worry that headway will be lost as federal special education offices move from…
 
 Link: https://www.the74million.org/article/students-with-disabilities-are-spending-more-time-in-mainstream-classrooms/
-
-### 8. US claims of Cuba’s ‘unique threat’ jar with reality of hunger and blackouts [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-State department’s 100-page report is latest push in Trump administration campaign to bring down government The US government’s latest allegations that Cuba is behind “many of the most significant upheavals in recent American political…
-
-Link: https://www.theguardian.com/world/2026/jul/21/us-state-department-report-cuba
 
 ### 9. The best games of 2026 so far, picked by NPR's staff [9/10]
 **Source:** NPR Tech  
@@ -161,6 +161,69 @@ Ms. Rachel joins WIRED to answer the internet’s burning questions about toddle
 
 Link: https://www.youtube.com/watch?v=jb2lfKJ14w0
 
+### India censors Bollywood's 'Satluj,' claiming it's separatist propaganda [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+For more than three years, the Indian film “Satluj” has been stuck in limbo. Its director says India's film regulatory body refused to allow its release in cinema halls unless he made more than 120 cuts.
+
+Link: https://www.youtube.com/watch?v=2UnTQRTC95A
+
+### Civil rights leaders call for justice at Mississippi teen's funeral [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Funeral services were held Monday for 18-year-old Nolan Wells, who was found dead off Mississippi's coast earlier this month. Authorities say they’re still investigating the cause of death.
+
+Link: https://www.youtube.com/watch?v=ec3zNNSZAOY
+
+### FDA struggles to identify source of Cyclospora outbreak [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The Food and Drug Administration retracted test results identifying Cyclospora on samples of lettuce from Taylor Farms in Mexico, showing how hard it can be to trace the source of the parasitic outbreak.
+
+Link: https://www.youtube.com/watch?v=O0GmFKr-n50
+
+### Burnham becomes the U.K.'s 7th prime minister in 10 years [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The United Kingdom has a new prime minister. Andy Burnham took office today, replacing Keir Starmer, who was ousted by his own center-left Labour Party.
+
+Link: https://www.youtube.com/watch?v=6cuLxfmYhnA
+
+### 'The Odyssey' earns $125 million in its opening weekend [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Christopher Nolan’s "The Odyssey" was No. 1 at the box office in its opening weekend and has set sail to the year’s best box office figures for a live-action film.
+
+Link: https://www.youtube.com/watch?v=YZWZp7bDouw
+
+### More Americans using credit or savings to pay for groceries [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Food prices have jumped 30% over the last five years, and new research shows more people in the U.S. are using credit — or dipping into their savings — to pay for groceries.
+
+Link: https://www.youtube.com/watch?v=GqcnLwxoRQU
+
+### China bars AI chatbots' companionship features [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+In China, many have had to say goodbye to their virtual friends and partners, as several big AI companies have suspended their AI companionship features.
+
+Link: https://www.youtube.com/watch?v=tnBXBwJbX6g
+
 ### Assassin's Creed Black Flag Resynced - PC Best Settings - Digital Foundry Optimised [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
@@ -215,6 +278,51 @@ Link: https://www.youtube.com/watch?v=aqy8Ai9oUCg
 
 Link: https://www.youtube.com/watch?v=YX-TplmaRN4
 
+### The Odyssey Is Why We Go to the Movies | The Rewind Podcast [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on The Rewind, Jack, Darren, and Marty chat about Christopher Nolan's The Odyssey.
+
+Link: https://www.youtube.com/watch?v=23H6JB4lzNY
+
+### The Odyssey Is a Timeless and Timely Epic | The Backdrop [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Christopher Nolan delivered a film that's as timely as ever. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
+
+Link: https://www.youtube.com/watch?v=AC4ABA1hbRw
+
+### Sacrificing the Rich in Feed the Pit | Hot Monday Energy [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
+
+Link: https://www.youtube.com/watch?v=rd9epshwgaA
+
+### Let’s Make Yahtzee and JM8 Choose Their Favorites | Windbreaker Podcast [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=4qgHiu5b-3w
+
+### How Black Flag Fakes the Density of its Open World | Design Delve [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
+
+Link: https://www.youtube.com/watch?v=w6JMtfp-Tcg
+
 ## Entertainment Recommendations
 
 ### Newer shows that look like a fit
@@ -244,6 +352,69 @@ Link: https://www.youtube.com/watch?v=YX-TplmaRN4
 
 ## Trailers / Previews
 
+### everything you need to know about ONE NIGHT ONLY. see it only in theaters august 7! [7/10]
+**Source:** Universal Pictures  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but You and Easy A, celebrates modern romantic comedy on the big screen with a fresh, witty, swoony original…
+
+Link: https://www.youtube.com/watch?v=x4s0aRs316U
+
+### some love languages are impossible to miss. one night only is in theaters august 7. [7/10]
+**Source:** Universal Pictures  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but You and Easy A, celebrates modern romantic comedy on the big screen with a fresh, witty, swoony original…
+
+Link: https://www.youtube.com/watch?v=kiK1aBs6pTo
+
+### One Night Only | Official Trailer [8/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+what would you do if you only had one night? __________________________________________________________ What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but…
+
+Link: https://www.youtube.com/watch?v=AvKoSR3O4NQ
+
+### SPIDER-MAN: BRAND NEW DAY – Final Trailer (Peter’s Journey) 4K [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+It's about to be a Brand New Day. Get tickets now. #SpiderManBrandNewDay is in theatres July 31. https://spidermanbrandnewday.movie/ It's a BRAND NEW DAY for Peter Parker.
+
+Link: https://www.youtube.com/watch?v=P3uI5sLosKU
+
+### Trailer out now for The Dog Stars. [8/10]
+**Source:** 20th Century Studios  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Trailer out now for The Dog Stars.
+
+Link: https://www.youtube.com/watch?v=FTHEgEONSRs
+
+### The Dog Stars | In Theaters August 28 [8/10]
+**Source:** 20th Century Studios  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Ridley Scott returns with a bold new vision in THE DOG STARS. Starring Jacob Elordi, Margaret Qualley, & Josh Brolin. See the film only in theaters August 28. Watch the new trailer now.
+
+Link: https://www.youtube.com/watch?v=8FeiVAY5Y7Y
+
+### The Dog Stars | Official Trailer | In Theaters August 28 [8/10]
+**Source:** 20th Century Studios  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The world that was doesn’t exist. THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters and IMAX August 28.
+
+Link: https://www.youtube.com/watch?v=-xSxaE1ClEE
+
 ### Tony | Official First Look | A24 [6/10]
 **Source:** A24  
 **Verdict:** Optional  
@@ -252,6 +423,33 @@ Link: https://www.youtube.com/watch?v=YX-TplmaRN4
 SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas.
 
 Link: https://www.youtube.com/watch?v=GMQFLpETNkc
+
+### The Wrong Girls - Official Trailer - In Theaters August 14 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.
+
+Link: https://www.youtube.com/watch?v=zrcg8YHSys8
+
+### NIGHTBORN | Official Trailer Feat. Rupert Grint, Seidi Haarla | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+With dreams of starting a perfect family, Saga and her British husband Jon move to the isolated house where she spent much of her childhood, deep in the Finnish forest.
+
+Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
+
+### Other Mommy | Official Trailer [10/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Your mommy won’t save you. Other Mommy only in theaters October 9. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
+
+Link: https://www.youtube.com/watch?v=pPxrX9ukWBY
 
 ### LEGO ONE PIECE | Official Teaser Trailer | Netflix [9/10]
 **Source:** Netflix  
@@ -315,3 +513,30 @@ Link: https://www.youtube.com/watch?v=Y89AfGiCCAE
 10 YEARS AGO TODAY #StrangerThings Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=eiNIkWcC4v0
+
+### Pluribus — Season 1 Bloopers | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+“Breaking Bad” creator Vince Gilligan’s science fiction drama starring Emmy Award nominee Rhea Seehorn is now streaming on Apple TV.https://apple.co/_Pluribus Pluribus bloopers have arrived.
+
+Link: https://www.youtube.com/watch?v=Kfcppzds68Q
+
+### Women in Blue — Season 2 Official Trailer | Apple TV [9/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Mexico's first female police force is back. A deadly conspiracy leads straight to their door, forcing four women to question the true cost of justice. Mexico’s most courageous against corruption.
+
+Link: https://www.youtube.com/watch?v=Z9n3TkdcGLY
+
+### Silo — Juliette Enters the Mines | Season 3 Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.
+
+Link: https://www.youtube.com/watch?v=ZOZYfpINMco
