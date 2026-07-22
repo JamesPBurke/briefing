@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-22T09:00:23.740008Z
+Generated: 2026-07-22T14:00:05.721416Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Middle East crisis live: US renews strikes on Iran as Trump threatens to attack nuclear site ‘very heavily’, OpenAI says its models went rogue and hacked startup in ‘unprecedented incident’, and Trump ally wins Republican primary for Arizona governor, setting up race against Katie Hobbs.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Dear Frosthaven boardgame players complaining the PC tactics RPG adaptation is bugged: the devs say it's likely you've "played it wrong", Model scout for Jeffrey Epstein found dead at his home near Paris, and Nicaragua’s congress announces ‘work plan’ to suspend elections.
 
 ## Briefing
 
@@ -33,52 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Middle East crisis live: US renews strikes on Iran as Trump threatens to attack nuclear site ‘very heavily’ [10/10]
+### 1. Dear Frosthaven boardgame players complaining the PC tactics RPG adaptation is bugged: the devs say it's likely you've "played it wrong" [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Frosthaven, and Gloomhaven before it, are complex turn-based tactical boardgames.
+
+Link: https://www.rockpapershotgun.com/dear-frosthaven-boardgame-players-complaining-the-pc-tactics-rpg-adaptation-is-bugged-the-devs-say-its-likely-youve-played-it-wrong
+
+### 2. Model scout for Jeffrey Epstein found dead at his home near Paris [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-US military completes 11th night of strikes as attacks overshadow diplomatic efforts in Pakistan to salvage interim ceasefire deal Houthis threaten attacks on shipping tankers if they use Saudi ports on Red Sea What is Pickaxe Mountain,…
+Daniel Siad faced allegations of rape and trafficking in France and appeared in more than 1,000 documents in Epstein files A modelling scout who recruited women for Jeffrey Epstein has been found dead at his home near Paris, French…
 
-Link: https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates
+Link: https://www.theguardian.com/us-news/2026/jul/22/daniel-siad-model-scout-jeffrey-epstein-found-dead-home-paris
 
-### 2. OpenAI says its models went rogue and hacked startup in ‘unprecedented incident’ [10/10]
+### 3. Nicaragua’s congress announces ‘work plan’ to suspend elections [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Firm behind ChatGPT reveals autonomous agent powered by its tech chose to attack Hugging Face database by itself OpenAI has revealed an autonomous AI agent powered by its technology went rogue during a test, accessed the open web and…
+US secretary of state says international community should ‘join forces’ against authoritarian Ortega regime Nicaragua’s congress, controlled by the country’s long-serving president, Daniel Ortega, has announced a “work plan” to implement…
 
-Link: https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident
+Link: https://www.theguardian.com/world/2026/jul/22/nicaragua-daniel-ortega-congress-work-plan-suspend-elections
 
-### 3. Trump ally wins Republican primary for Arizona governor, setting up race against Katie Hobbs [10/10]
+### 4. Elon Musk says Grok Imagine will make ‘historically accurate’ AI adaptation of Homer’s Odyssey [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The victory for Andy Biggs, who was a central figure in the effort to overturn Trump’s 2020 election defeat, sets up a high-stakes contest in the battleground state Arizona voters on Tuesday chose their nominees for governor, Congress and…
+The billionaire says the AI-generated film will stay true to Homer’s original, after repeatedly criticising Christopher Nolan’s blockbuster over its casting choices Elon Musk has said his AI platform Grok Imagine will make a “historically…
 
-Link: https://www.theguardian.com/us-news/2026/jul/22/arizona-republican-primary-andy-biggs-katie-hobbs
+Link: https://www.theguardian.com/film/2026/jul/22/elon-musk-grok-imagine-historically-accurate-ai-homers-odyssey-christopher-nolan
 
-### 4. Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia.
-
-Link: https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance
-
-### 5. OpenAI says it accidentally hacked Hugging Face with a new AI system [10/10]
-**Source:** The Verge  
+### 5. The Download: NASA’s new space telescope and OpenAI’s autonomous hacker [10/10]
+**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai
+Link: https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/
 
-### 6. Nintendo says users voluntarily paid higher prices, have no right to tariff refunds [10/10]
+### 6. Here's your next batch of Xbox Game Pass games for July [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Xbox has revealed the next batch of games coming to its Xbox Game Pass subscription service during the remainder of July and in early August, with Halo: Campaign Evolved and Hell Is Us spearheading the selection. Read more
+
+Link: https://www.eurogamer.net/xbox-game-pass-july-wave-2
+
+### 7. America’s Trillion-Dollar School System: 5 Trends Explain Where the Money Goes [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+In April, the National Center for Education Statistics reported that the 50 states and Washington, D.C., took in $1 trillion in federal, state and local revenue for K-12 public education in the 2023-24 school year. One. Trillion. Dollars.
+
+Link: https://www.the74million.org/article/americas-trillion-dollar-school-system-5-trends-explain-where-the-money-goes/
+
+### 8. Nintendo says users voluntarily paid higher prices, have no right to tariff refunds [10/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -87,16 +105,7 @@ Nintendo says Switch buyers got what they paid for, urges court to dismiss lawsu
 
 Link: https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/
 
-### 7. The Incident at Galley House review [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-There's a machine in The Incident at Galley House you'll spend an awful lot of time with, and it's a wonderfully tactile thing.
-
-Link: https://www.eurogamer.net/the-incident-at-galley-house-review
-
-### 8. Opinion: Students With Disabilities Are Spending More Time in Mainstream Classrooms [9/10]
+### 9. Opinion: Students With Disabilities Are Spending More Time in Mainstream Classrooms [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -105,34 +114,34 @@ States have made steady progress including students with disabilities in mainstr
 
 Link: https://www.the74million.org/article/students-with-disabilities-are-spending-more-time-in-mainstream-classrooms/
 
-### 9. The best games of 2026 so far, picked by NPR's staff [9/10]
-**Source:** NPR Tech  
-**Category:** Games / design  
-**Why it matters:** Useful if you care about how games actually work as designed experiences.
-
-Titans like Resident Evil Requiem and Crimson Desert dominated in the first half of the gaming year, with early-access sequels like Slay the Spire 2 and Subnautica 2 not far behind.
-
-Link: https://www.npr.org/2026/07/21/nx-s1-5897567/best-games-2026-npr
-
-### 10. What to know about the record cyclospora outbreak [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Confusion about the source of the outbreak and uncertainty about when it might be contained puts the onus on consumers to protect themselves.
-
-Link: https://www.npr.org/2026/07/21/nx-s1-5901984/what-to-know-about-the-record-cyclospora-outbreak
-
-### 11. Apple Fixes Hide My Email Vulnerability After 404 Media Coverage [8/10]
+### 10. Podcast: Flock is Tracking People, Not Just Cars [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-For a year, Apple knew that an issue in its Hide My Email feature was exposing customers’ real email addresses. Apple only fixed the issue after 404 Media covered it.
+How cops are using Flock to look for specific people; the company buying mountains of books for AI companies; and the big Suno hack.
 
-Link: https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/
+Link: https://www.404media.co/podcast-flock-is-tracking-people-not-just-cars/
 
-### 12. The Other Mommy Trailer Contains a Sneakily Effective Jump Scare [8/10]
+### 11. States want to bring Medicaid behind bars. Federal changes make that harder [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Funding cuts and program changes required by President Trump's big budget law are forcing states to rethink bipartisan efforts to bring Medicaid into jails and prisons.
+
+Link: https://www.npr.org/2026/07/22/nx-s1-5896456/medicaid-cuts-incarceration-states-obbba
+
+### 12. Slay the Spire 2 developer shows artwork and concepts for Doormaker boss replacement Aeonglass [8/10]
+**Source:** Eurogamer  
+**Category:** Games / design  
+**Why it matters:** Useful if you care about how games actually work as designed experiences.
+
+Last month, Slay the Spire 2's Act 3 boss Doormaker - the third in a series of late-game reworks - was removed and replaced by Aeonglass. Now, developer Mega Crit has revealed how its fun visual design came to be. Read more
+
+Link: https://www.eurogamer.net/slay-the-spire-2-aeonglass-design-process
+
+### 13. The Other Mommy Trailer Contains a Sneakily Effective Jump Scare [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -140,15 +149,6 @@ Link: https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-
 Nobody is getting inside this heart!!! The post The Other Mommy Trailer Contains a Sneakily Effective Jump Scare appeared first on Reactor .
 
 Link: https://reactormag.com/other-mommy-trailer/
-
-### 13. As Costs Rise, Families With Young Children Are Feeling the Strain [7/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Families across America, particularly those with young children, are struggling this summer. With costs up, many are facing financial hardship at a level even greater than what was seen at the onset of the pandemic.
-
-Link: https://www.the74million.org/zero2eight/as-costs-rise-families-with-young-children-are-feeling-the-strain/
 
 ## YouTube
 
@@ -214,15 +214,6 @@ Link: https://www.youtube.com/watch?v=YZWZp7bDouw
 Food prices have jumped 30% over the last five years, and new research shows more people in the U.S. are using credit — or dipping into their savings — to pay for groceries.
 
 Link: https://www.youtube.com/watch?v=GqcnLwxoRQU
-
-### China bars AI chatbots' companionship features [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-In China, many have had to say goodbye to their virtual friends and partners, as several big AI companies have suspended their AI companionship features.
-
-Link: https://www.youtube.com/watch?v=tnBXBwJbX6g
 
 ### Assassin's Creed Black Flag Resynced - PC Best Settings - Digital Foundry Optimised [7/10]
 **Creator:** Digital Foundry  
@@ -415,6 +406,15 @@ The world that was doesn’t exist. THE DOG STARS, a Ridley Scott film, starring
 
 Link: https://www.youtube.com/watch?v=-xSxaE1ClEE
 
+### Misty Green | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.
+
+Link: https://www.youtube.com/watch?v=ACaWuqeLpSk
+
 ### Tony | Official First Look | A24 [6/10]
 **Source:** A24  
 **Verdict:** Optional  
@@ -450,6 +450,15 @@ Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
 Your mommy won’t save you. Other Mommy only in theaters October 9. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
 
 Link: https://www.youtube.com/watch?v=pPxrX9ukWBY
+
+### Big Chicken: A Fast Food Conspiracy | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+In a bold 28-day experiment, comedian Mo Gilligan tours the UK and US on a fried chicken diet to uncover the impact of the craving — and industry behind it. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=7sGkQM6TyQU
 
 ### LEGO ONE PIECE | Official Teaser Trailer | Netflix [9/10]
 **Source:** Netflix  

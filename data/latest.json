@@ -1,59 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-22T09:00:23.740008Z",
-  "generatedAtDisplay": "2026-07-22 05:00 AM EDT",
+  "generatedAt": "2026-07-22T14:00:05.721416Z",
+  "generatedAtDisplay": "2026-07-22 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Middle East crisis live: US renews strikes on Iran as Trump threatens to attack nuclear site ‘very heavily’, OpenAI says its models went rogue and hacked startup in ‘unprecedented incident’, and Trump ally wins Republican primary for Arizona governor, setting up race against Katie Hobbs.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Dear Frosthaven boardgame players complaining the PC tactics RPG adaptation is bugged: the devs say it's likely you've \"played it wrong\", Model scout for Jeffrey Epstein found dead at his home near Paris, and Nicaragua’s congress announces ‘work plan’ to suspend elections.",
   "mainItems": [
     {
-      "title": "Middle East crisis live: US renews strikes on Iran as Trump threatens to attack nuclear site ‘very heavily’",
+      "title": "Dear Frosthaven boardgame players complaining the PC tactics RPG adaptation is bugged: the devs say it's likely you've \"played it wrong\"",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/dear-frosthaven-boardgame-players-complaining-the-pc-tactics-rpg-adaptation-is-bugged-the-devs-say-its-likely-youve-played-it-wrong",
+      "published": "2026-07-22T13:52:10+00:00",
+      "summary": "Frosthaven, and Gloomhaven before it, are complex turn-based tactical boardgames.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Model scout for Jeffrey Epstein found dead at his home near Paris",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
-      "published": "2026-07-22T08:42:12+00:00",
-      "summary": "US military completes 11th night of strikes as attacks overshadow diplomatic efforts in Pakistan to salvage interim ceasefire deal Houthis threaten attacks on shipping tankers if they use Saudi ports on Red Sea What is Pickaxe Mountain,…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/22/daniel-siad-model-scout-jeffrey-epstein-found-dead-home-paris",
+      "published": "2026-07-22T13:38:59+00:00",
+      "summary": "Daniel Siad faced allegations of rape and trafficking in France and appeared in more than 1,000 documents in Epstein files A modelling scout who recruited women for Jeffrey Epstein has been found dead at his home near Paris, French…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "OpenAI says its models went rogue and hacked startup in ‘unprecedented incident’",
+      "title": "Nicaragua’s congress announces ‘work plan’ to suspend elections",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident",
-      "published": "2026-07-22T08:37:47+00:00",
-      "summary": "Firm behind ChatGPT reveals autonomous agent powered by its tech chose to attack Hugging Face database by itself OpenAI has revealed an autonomous AI agent powered by its technology went rogue during a test, accessed the open web and…",
+      "url": "https://www.theguardian.com/world/2026/jul/22/nicaragua-daniel-ortega-congress-work-plan-suspend-elections",
+      "published": "2026-07-22T13:33:35+00:00",
+      "summary": "US secretary of state says international community should ‘join forces’ against authoritarian Ortega regime Nicaragua’s congress, controlled by the country’s long-serving president, Daniel Ortega, has announced a “work plan” to implement…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Trump ally wins Republican primary for Arizona governor, setting up race against Katie Hobbs",
+      "title": "Elon Musk says Grok Imagine will make ‘historically accurate’ AI adaptation of Homer’s Odyssey",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/22/arizona-republican-primary-andy-biggs-katie-hobbs",
-      "published": "2026-07-22T03:17:10+00:00",
-      "summary": "The victory for Andy Biggs, who was a central figure in the effort to overturn Trump’s 2020 election defeat, sets up a high-stakes contest in the battleground state Arizona voters on Tuesday chose their nominees for governor, Congress and…",
+      "url": "https://www.theguardian.com/film/2026/jul/22/elon-musk-grok-imagine-historically-accurate-ai-homers-odyssey-christopher-nolan",
+      "published": "2026-07-22T12:11:47+00:00",
+      "summary": "The billionaire says the AI-generated film will stay true to Homer’s original, after repeatedly criticising Christopher Nolan’s blockbuster over its casting choices Elon Musk has said his AI platform Grok Imagine will make a “historically…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-      "published": "2026-07-21T22:06:43+00:00",
-      "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-      "source": "The Verge",
+      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "published": "2026-07-21T22:00:09+00:00",
-      "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.",
+      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+      "published": "2026-07-22T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Here's your next batch of Xbox Game Pass games for July",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/xbox-game-pass-july-wave-2",
+      "published": "2026-07-22T11:30:11+00:00",
+      "summary": "Xbox has revealed the next batch of games coming to its Xbox Game Pass subscription service during the remainder of July and in early August, with Halo: Campaign Evolved and Hell Is Us spearheading the selection. Read more",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "America’s Trillion-Dollar School System: 5 Trends Explain Where the Money Goes",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/americas-trillion-dollar-school-system-5-trends-explain-where-the-money-goes/",
+      "published": "2026-07-22T10:30:00+00:00",
+      "summary": "In April, the National Center for Education Statistics reported that the 50 states and Washington, D.C., took in $1 trillion in federal, state and local revenue for K-12 public education in the 2023-24 school year. One. Trillion. Dollars.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
@@ -67,16 +87,6 @@
       "score": 10
     },
     {
-      "title": "The Incident at Galley House review",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/the-incident-at-galley-house-review",
-      "published": "2026-07-22T09:00:00+00:00",
-      "summary": "There's a machine in The Incident at Galley House you'll spend an awful lot of time with, and it's a wonderfully tactile thing.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
       "title": "Opinion: Students With Disabilities Are Spending More Time in Mainstream Classrooms",
       "source": "The 74",
       "category": "CS education / AI policy",
@@ -87,33 +97,33 @@
       "score": 9
     },
     {
-      "title": "The best games of 2026 so far, picked by NPR's staff",
-      "source": "NPR Tech",
-      "category": "Games / design",
-      "url": "https://www.npr.org/2026/07/21/nx-s1-5897567/best-games-2026-npr",
-      "published": "2026-07-21T13:00:00+00:00",
-      "summary": "Titans like Resident Evil Requiem and Crimson Desert dominated in the first half of the gaming year, with early-access sequels like Slay the Spire 2 and Subnautica 2 not far behind.",
-      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
-      "score": 9
-    },
-    {
-      "title": "What to know about the record cyclospora outbreak",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/21/nx-s1-5901984/what-to-know-about-the-record-cyclospora-outbreak",
-      "published": "2026-07-21T19:57:06+00:00",
-      "summary": "Confusion about the source of the outbreak and uncertainty about when it might be contained puts the onus on consumers to protect themselves.",
+      "title": "Podcast: Flock is Tracking People, Not Just Cars",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/podcast-flock-is-tracking-people-not-just-cars/",
+      "published": "2026-07-22T13:56:17+00:00",
+      "summary": "How cops are using Flock to look for specific people; the company buying mountains of books for AI companies; and the big Suno hack.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
-      "published": "2026-07-21T15:20:10+00:00",
-      "summary": "For a year, Apple knew that an issue in its Hide My Email feature was exposing customers’ real email addresses. Apple only fixed the issue after 404 Media covered it.",
+      "title": "States want to bring Medicaid behind bars. Federal changes make that harder",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5896456/medicaid-cuts-incarceration-states-obbba",
+      "published": "2026-07-22T09:00:00+00:00",
+      "summary": "Funding cuts and program changes required by President Trump's big budget law are forcing states to rethink bipartisan efforts to bring Medicaid into jails and prisons.",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Slay the Spire 2 developer shows artwork and concepts for Doormaker boss replacement Aeonglass",
+      "source": "Eurogamer",
+      "category": "Games / design",
+      "url": "https://www.eurogamer.net/slay-the-spire-2-aeonglass-design-process",
+      "published": "2026-07-21T15:32:05+00:00",
+      "summary": "Last month, Slay the Spire 2's Act 3 boss Doormaker - the third in a series of late-game reworks - was removed and replaced by Aeonglass. Now, developer Mega Crit has revealed how its fun visual design came to be. Read more",
+      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
       "score": 8
     },
     {
@@ -125,16 +135,6 @@
       "summary": "Nobody is getting inside this heart!!! The post The Other Mommy Trailer Contains a Sneakily Effective Jump Scare appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
-    },
-    {
-      "title": "As Costs Rise, Families With Young Children Are Feeling the Strain",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/zero2eight/as-costs-rise-families-with-young-children-are-feeling-the-strain/",
-      "published": "2026-07-21T14:30:00+00:00",
-      "summary": "Families across America, particularly those with young children, are struggling this summer. With costs up, many are facing financial hardship at a level even greater than what was seen at the onset of the pandemic.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 7
     }
   ],
   "youtube": [
@@ -211,17 +211,6 @@
       "url": "https://www.youtube.com/watch?v=GqcnLwxoRQU",
       "published": "2026-07-19T15:00:10+00:00",
       "summary": "Food prices have jumped 30% over the last five years, and new research shows more people in the U.S. are using credit — or dipping into their savings — to pay for groceries.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "China bars AI chatbots' companionship features",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=tnBXBwJbX6g",
-      "published": "2026-07-19T13:00:34+00:00",
-      "summary": "In China, many have had to say goodbye to their virtual friends and partners, as several big AI companies have suspended their AI companionship features.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
@@ -427,6 +416,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Misty Green | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ACaWuqeLpSk",
+      "published": "2026-07-22T13:00:31+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Tony | Official First Look | A24",
       "source": "A24",
       "category": "Film / trailer",
@@ -467,6 +467,17 @@
       "published": "2026-07-21T17:07:30+00:00",
       "summary": "Your mommy won’t save you. Other Mommy only in theaters October 9. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Big Chicken: A Fast Food Conspiracy | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=7sGkQM6TyQU",
+      "published": "2026-07-22T09:00:00+00:00",
+      "summary": "In a bold 28-day experiment, comedian Mo Gilligan tours the UK and US on a fried chicken diet to uncover the impact of the craving — and industry behind it. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
     },
@@ -692,8 +703,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 19,
-    "trailerCount": 21,
+    "youtubeCount": 18,
+    "trailerCount": 23,
     "sourceCount": 22
   }
 }
