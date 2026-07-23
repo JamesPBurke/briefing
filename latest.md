@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-22T14:00:05.721416Z
+Generated: 2026-07-23T05:00:04.382614Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are Dear Frosthaven boardgame players complaining the PC tactics RPG adaptation is bugged: the devs say it's likely you've "played it wrong", Model scout for Jeffrey Epstein found dead at his home near Paris, and Nicaragua’s congress announces ‘work plan’ to suspend elections.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are Trump scoffs at ‘affordability’ as he touts economic policies at Georgia rally, In First School Visit, President Urges Atlanta Crowd to Support ‘Trump Accounts’, and US teen drops Meta lawsuit on social media addiction days before trial.
 
 ## Briefing
 
@@ -33,61 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Dear Frosthaven boardgame players complaining the PC tactics RPG adaptation is bugged: the devs say it's likely you've "played it wrong" [10/10]
+### 1. Trump scoffs at ‘affordability’ as he touts economic policies at Georgia rally [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+President visits swing state to promote ‘Trump accounts’ and says high prices lingering from Joe Biden’s presidency Donald Trump scoffed at the word “affordability” as a political message, describing it at a campaign rally on Wednesday as…
+
+Link: https://www.theguardian.com/us-news/2026/jul/22/trump-affordability-georgia-rally
+
+### 2. In First School Visit, President Urges Atlanta Crowd to Support ‘Trump Accounts’ [10/10]
+**Source:** The 74  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+MARIETTA, Ga.
+
+Link: https://www.the74million.org/article/in-first-school-visit-president-urges-atlanta-crowd-to-support-trump-accounts/
+
+### 3. US teen drops Meta lawsuit on social media addiction days before trial [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Withdrawn case marks a victory for the social media giant after earlier landmark loss at trial over addictive claims A Florida teen whose lawsuit claimed Meta ’s platforms were to blame ⁠for his depression ⁠and anxiety ​dropped his case…
+
+Link: https://www.theguardian.com/technology/2026/jul/22/florida-teen-drops-meta-lawsuit
+
+### 4. Clayface trailer leans into the body horror [10/10]
+**Source:** Ars Technica  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+"The people I trusted betrayed me. The justice system failed me."
+
+Link: https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/
+
+### 5. OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+"This is day one for cybersecurity in the age of agents," Hugging Face CEO says.
+
+Link: https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/
+
+### 6. Steam wishlists are getting categories, making it even easier to organise all those games you'll definitely buy next sale [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Frosthaven, and Gloomhaven before it, are complex turn-based tactical boardgames.
+If there's anything I know about Steam users, it's that they bloody love that wishlist system.
 
-Link: https://www.rockpapershotgun.com/dear-frosthaven-boardgame-players-complaining-the-pc-tactics-rpg-adaptation-is-bugged-the-devs-say-its-likely-youve-played-it-wrong
+Link: https://www.rockpapershotgun.com/steam-wishlists-are-getting-categories-making-it-even-easier-to-organise-all-those-games-youll-definitely-buy-next-sale
 
-### 2. Model scout for Jeffrey Epstein found dead at his home near Paris [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 7. In a Mississippi School District With Strict Gender Rules, Trans Students and Families Push to Be Heard [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Daniel Siad faced allegations of rape and trafficking in France and appeared in more than 1,000 documents in Epstein files A modelling scout who recruited women for Jeffrey Epstein has been found dead at his home near Paris, French…
+BILOXI, Miss. — When nine young adults tossed their mortarboards into the air at the Little Biloxi Theatre on June 20, it wasn’t their first time graduating from high school.
 
-Link: https://www.theguardian.com/us-news/2026/jul/22/daniel-siad-model-scout-jeffrey-epstein-found-dead-home-paris
+Link: https://www.the74million.org/article/in-a-mississippi-school-district-with-strict-gender-rules-trans-students-and-families-push-to-be-heard/
 
-### 3. Nicaragua’s congress announces ‘work plan’ to suspend elections [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-US secretary of state says international community should ‘join forces’ against authoritarian Ortega regime Nicaragua’s congress, controlled by the country’s long-serving president, Daniel Ortega, has announced a “work plan” to implement…
-
-Link: https://www.theguardian.com/world/2026/jul/22/nicaragua-daniel-ortega-congress-work-plan-suspend-elections
-
-### 4. Elon Musk says Grok Imagine will make ‘historically accurate’ AI adaptation of Homer’s Odyssey [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The billionaire says the AI-generated film will stay true to Homer’s original, after repeatedly criticising Christopher Nolan’s blockbuster over its casting choices Elon Musk has said his AI platform Grok Imagine will make a “historically…
-
-Link: https://www.theguardian.com/film/2026/jul/22/elon-musk-grok-imagine-historically-accurate-ai-homers-odyssey-christopher-nolan
-
-### 5. The Download: NASA’s new space telescope and OpenAI’s autonomous hacker [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
-
-Link: https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/
-
-### 6. Here's your next batch of Xbox Game Pass games for July [10/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Xbox has revealed the next batch of games coming to its Xbox Game Pass subscription service during the remainder of July and in early August, with Halo: Campaign Evolved and Hell Is Us spearheading the selection. Read more
-
-Link: https://www.eurogamer.net/xbox-game-pass-july-wave-2
-
-### 7. America’s Trillion-Dollar School System: 5 Trends Explain Where the Money Goes [10/10]
+### 8. America’s Trillion-Dollar School System: 5 Trends Explain Where the Money Goes [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -96,137 +105,92 @@ In April, the National Center for Education Statistics reported that the 50 stat
 
 Link: https://www.the74million.org/article/americas-trillion-dollar-school-system-5-trends-explain-where-the-money-goes/
 
-### 8. Nintendo says users voluntarily paid higher prices, have no right to tariff refunds [10/10]
-**Source:** Ars Technica  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 9. Houthis claim strikes on two Saudi tankers as US attacks on Iran widen [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Nintendo says Switch buyers got what they paid for, urges court to dismiss lawsuit.
+Attacks by Iranian-aligned Houthis in Red Sea follow Trump threats to destroy more Iranian infrastructure Yemen’s ⁠Houthi militia attacked two ​Saudi Arabian oil tankers, the Iranian-aligned group said on Thursday, with a Saudi news agency…
 
-Link: https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/
+Link: https://www.theguardian.com/world/2026/jul/23/houthis-claim-attack-ship-tanker-saudi-arabia-red-sea
 
-### 9. Opinion: Students With Disabilities Are Spending More Time in Mainstream Classrooms [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-States have made steady progress including students with disabilities in mainstream classrooms, an independent federal report finds, but lawmakers and advocates worry that headway will be lost as federal special education offices move from…
-
-Link: https://www.the74million.org/article/students-with-disabilities-are-spending-more-time-in-mainstream-classrooms/
-
-### 10. Podcast: Flock is Tracking People, Not Just Cars [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-How cops are using Flock to look for specific people; the company buying mountains of books for AI companies; and the big Suno hack.
-
-Link: https://www.404media.co/podcast-flock-is-tracking-people-not-just-cars/
-
-### 11. States want to bring Medicaid behind bars. Federal changes make that harder [8/10]
+### 10. In pursuit of 'Instagram face,' are we losing the imperfections that make us human? [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Funding cuts and program changes required by President Trump's big budget law are forcing states to rethink bipartisan efforts to bring Medicaid into jails and prisons.
+Plastic surgery is becoming so normalized and undetectable, it's changing our relationship to reality. The New Yorker staff writer Jia Tolentino considers how beauty standards have dovetailed with AI.
 
-Link: https://www.npr.org/2026/07/22/nx-s1-5896456/medicaid-cuts-incarceration-states-obbba
+Link: https://www.npr.org/2026/07/22/nx-s1-5902070/jia-tolentino-instagram-face-plastic-surgery
 
-### 12. Slay the Spire 2 developer shows artwork and concepts for Doormaker boss replacement Aeonglass [8/10]
-**Source:** Eurogamer  
-**Category:** Games / design  
-**Why it matters:** Useful if you care about how games actually work as designed experiences.
-
-Last month, Slay the Spire 2's Act 3 boss Doormaker - the third in a series of late-game reworks - was removed and replaced by Aeonglass. Now, developer Mega Crit has revealed how its fun visual design came to be. Read more
-
-Link: https://www.eurogamer.net/slay-the-spire-2-aeonglass-design-process
-
-### 13. The Other Mommy Trailer Contains a Sneakily Effective Jump Scare [8/10]
+### 11. It’s Hard for a Thespian on the Mean Streets of Gotham in the Trailer for Clayface [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Nobody is getting inside this heart!!! The post The Other Mommy Trailer Contains a Sneakily Effective Jump Scare appeared first on Reactor .
+This time, it's no pottery accident The post It’s Hard for a Thespian on the Mean Streets of Gotham in the Trailer for Clayface appeared first on Reactor .
 
-Link: https://reactormag.com/other-mommy-trailer/
+Link: https://reactormag.com/clayface-trailer/
+
+### 12. Flock ‘Objects to Our Removing Their Equipment’: Emails Reveal Why a Town Put Bags Over Its Flock Cameras [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+"For the time being, if you or someone on your crew has availability to secure black plastic bags (or something else) over the cameras, that would be great."
+
+Link: https://www.404media.co/flock-objects-to-our-removing-their-equipment-emails-reveal-why-a-town-put-bags-over-its-flock-cameras/
+
+### 13. The best baking products, according to King Arthur employee-owners : The tools and ingredients we can’t live without. [8/10]
+**Source:** King Arthur Baking  
+**Category:** Bread / food craft  
+**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
+
+Looking for a new tool or ingredient to up your baking game? No one knows our products better than the King Arthur employee-owners who work here. As bakers, we’re constantly trying out new things and returning to old favorites.
+
+Link: https://www.kingarthurbaking.com/blog/2026/07/22/best-baking-products
 
 ## YouTube
 
-### Ms. Rachel Answers Parenting Questions | Tech Support | WIRED [9/10]
+### Ms. Rachel Answers Parenting Questions | Tech Support | WIRED [8/10]
 **Creator:** WIRED  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Ms. Rachel joins WIRED to answer the internet’s burning questions about toddler learning.
 
 Link: https://www.youtube.com/watch?v=jb2lfKJ14w0
 
-### India censors Bollywood's 'Satluj,' claiming it's separatist propaganda [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-For more than three years, the Indian film “Satluj” has been stuck in limbo. Its director says India's film regulatory body refused to allow its release in cinema halls unless he made more than 120 cuts.
-
-Link: https://www.youtube.com/watch?v=2UnTQRTC95A
-
-### Civil rights leaders call for justice at Mississippi teen's funeral [8/10]
-**Creator:** NPR  
+### AMD's Ryzen 7 7700X3D Tested - The Right Chip At The Wrong Price [8/10]
+**Creator:** Digital Foundry  
 **Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
-Funeral services were held Monday for 18-year-old Nolan Wells, who was found dead off Mississippi's coast earlier this month. Authorities say they’re still investigating the cause of death.
+► Watch the Full Video Here: https://youtu.be/rdgNC-IId_g ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
-Link: https://www.youtube.com/watch?v=ec3zNNSZAOY
+Link: https://www.youtube.com/watch?v=RdUyS80W7rk
 
-### FDA struggles to identify source of Cyclospora outbreak [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The Food and Drug Administration retracted test results identifying Cyclospora on samples of lettuce from Taylor Farms in Mexico, showing how hard it can be to trace the source of the parasitic outbreak.
-
-Link: https://www.youtube.com/watch?v=O0GmFKr-n50
-
-### Burnham becomes the U.K.'s 7th prime minister in 10 years [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The United Kingdom has a new prime minister. Andy Burnham took office today, replacing Keir Starmer, who was ousted by his own center-left Labour Party.
-
-Link: https://www.youtube.com/watch?v=6cuLxfmYhnA
-
-### 'The Odyssey' earns $125 million in its opening weekend [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Christopher Nolan’s "The Odyssey" was No. 1 at the box office in its opening weekend and has set sail to the year’s best box office figures for a live-action film.
-
-Link: https://www.youtube.com/watch?v=YZWZp7bDouw
-
-### More Americans using credit or savings to pay for groceries [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Food prices have jumped 30% over the last five years, and new research shows more people in the U.S. are using credit — or dipping into their savings — to pay for groceries.
-
-Link: https://www.youtube.com/watch?v=GqcnLwxoRQU
-
-### Assassin's Creed Black Flag Resynced - PC Best Settings - Digital Foundry Optimised [7/10]
+### Microsoft Account Suspensions Lifted - But Lack of Consumer Rights Comes Into Focus [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/rdgNC-IId_g ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=olnVIqHmbdk
+
+### Assassin's Creed Black Flag Resynced - PC Best Settings - Digital Foundry Optimised [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Full Settings Tables Here: https://www.digitalfoundry.net/features/assassins-creed-black-flag-resynced-our-optimised-settings-for-a-terrific-pc-release ► Watch the Full Video Here: https://youtu.
 
 Link: https://www.youtube.com/watch?v=mcXDJ6VRIEA
 
-### Elder Scrolls 6/Fallout 5 + More - Bethesda Tweets Out Its Entire Slate [7/10]
+### Elder Scrolls 6/Fallout 5 + More - Bethesda Tweets Out Its Entire Slate [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/rdgNC-IId_g ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -251,23 +215,32 @@ Link: https://www.youtube.com/watch?v=SvE5MCwjOf4
 
 Link: https://www.youtube.com/watch?v=e7hnVat_tIY
 
-### Which PlayStation 3 Games Deserve A Full Remake? [8/10]
-**Creator:** Digital Foundry  
+### Dusting Off the Wii U for Star Fox Zero w/ KC and Marty [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
+
+Link: https://www.youtube.com/watch?v=F129c8yWD4M
+
+### Yahtzee Tries... An Eggstremely Hard Game [8/10]
+**Creator:** Second Wind  
 **Verdict:** Worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+This video is brought to you by GRAFT. Escape a dark, decaying space station the size of a continent in this story-driven survival horror RPG from the makers of the Shadowrun Trilogy. – https://store.steampowered.
 
-Link: https://www.youtube.com/watch?v=aqy8Ai9oUCg
+Link: https://www.youtube.com/watch?v=TFAY_PLey0c
 
-### Will Project Helix Get A Disc Drive To Counter Sony? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### Slay the Princess | Fully Ramblomatic [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Watch the Full Video Here: https://youtu.be/mQy5OixbwiE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+This week on Fully Ramblomatic, the community voted for Yahtzee to review Slay the Princess! Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
-Link: https://www.youtube.com/watch?v=YX-TplmaRN4
+Link: https://www.youtube.com/watch?v=UHgoP9cxQa4
 
 ### The Odyssey Is Why We Go to the Movies | The Rewind Podcast [8/10]
 **Creator:** Second Wind  
@@ -361,15 +334,6 @@ What if one messy night turns out to be the best thing that ever happened to you
 
 Link: https://www.youtube.com/watch?v=kiK1aBs6pTo
 
-### One Night Only | Official Trailer [8/10]
-**Source:** Universal Pictures  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-what would you do if you only had one night? __________________________________________________________ What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but…
-
-Link: https://www.youtube.com/watch?v=AvKoSR3O4NQ
-
 ### SPIDER-MAN: BRAND NEW DAY – Final Trailer (Peter’s Journey) 4K [8/10]
 **Source:** Sony Pictures Entertainment  
 **Verdict:** Looks promising  
@@ -406,52 +370,25 @@ The world that was doesn’t exist. THE DOG STARS, a Ridley Scott film, starring
 
 Link: https://www.youtube.com/watch?v=-xSxaE1ClEE
 
-### Misty Green | Official Trailer HD | A24 [8/10]
-**Source:** A24  
+### Ransom Canyon | Season 1 Recap | Netflix [10/10]
+**Source:** Netflix  
 **Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+**Why it matters:** Relevant to your current interest graph.
 
-SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.
+Get ready for Season 2 of Ransom Canyon with a recap of where we left off. Josh Duhamel and Minka Kelly are back July 23 only on Netflix. Watch on Netflix: https://www.netflix.
 
-Link: https://www.youtube.com/watch?v=ACaWuqeLpSk
+Link: https://www.youtube.com/watch?v=TYA8xtRP7Hk
 
-### Tony | Official First Look | A24 [6/10]
-**Source:** A24  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas.
-
-Link: https://www.youtube.com/watch?v=GMQFLpETNkc
-
-### The Wrong Girls - Official Trailer - In Theaters August 14 [8/10]
-**Source:** NEON  
+### Let's Marry Harry | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
 **Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+**Why it matters:** Relevant to your current interest graph.
 
-Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.
+Harry Jowsey is done playing the field. Now, his inner circle is stepping in to help steer his love life, weighing in on every date, every match, and every tough call as he navigates a handpicked pool of potential partners.
 
-Link: https://www.youtube.com/watch?v=zrcg8YHSys8
+Link: https://www.youtube.com/watch?v=nsAuYuhHrYk
 
-### NIGHTBORN | Official Trailer Feat. Rupert Grint, Seidi Haarla | Shudder [8/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-With dreams of starting a perfect family, Saga and her British husband Jon move to the isolated house where she spent much of her childhood, deep in the Finnish forest.
-
-Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
-
-### Other Mommy | Official Trailer [10/10]
-**Source:** Blumhouse  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Your mommy won’t save you. Other Mommy only in theaters October 9. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
-
-Link: https://www.youtube.com/watch?v=pPxrX9ukWBY
-
-### Big Chicken: A Fast Food Conspiracy | Official Trailer | Netflix [10/10]
+### Big Chicken: A Fast Food Conspiracy | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
@@ -514,14 +451,14 @@ They accidentally added him to their bachelor party group chat... now what? Kevi
 
 Link: https://www.youtube.com/watch?v=Y89AfGiCCAE
 
-### 10 YEARS AGO TODAY #StrangerThings [9/10]
-**Source:** Netflix  
+### Widow's Bay — Tom Meets Richard Warren | Scene | Apple TV [10/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-10 YEARS AGO TODAY #StrangerThings Watch on Netflix: https://www.netflix.
+Richard Warren (Hamish Linklater) is still alive, and he will only speak to the Lord Island Protector. That is Mayor Tom Loftis.
 
-Link: https://www.youtube.com/watch?v=eiNIkWcC4v0
+Link: https://www.youtube.com/watch?v=IstlMM62U8M
 
 ### Pluribus — Season 1 Bloopers | Apple TV [10/10]
 **Source:** Apple TV  
