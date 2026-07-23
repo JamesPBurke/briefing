@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-23T09:00:27.871083Z
+Generated: 2026-07-23T14:00:02.054558Z
 
-Today's sweep leans toward Science / computing, Democracy / press freedom, AI / privacy. The strongest items in this run are OpenAI says AI models hacked into another AI company without being instructed, OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know, and Iraq’s impossible predicament: why the country is trapped between Iran and the US.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are Leaked Document Shows the Surveillance Tech at ICE’s Fingertips, Resident Evil movie gets another spooky trailer, and features a fun game reference for keen-eyed fans, and Outcry after $1.15tn defense bill passes in the House – US politics live.
 
 ## Briefing
 
@@ -33,7 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. OpenAI says AI models hacked into another AI company without being instructed [10/10]
+### 1. Leaked Document Shows the Surveillance Tech at ICE’s Fingertips [10/10]
+**Source:** 404 Media  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+From phone location data, to social media monitoring, to online undercover tools, a document obtained by 404 Media lays out the surveillance tech available across ICE agency wide.
+
+Link: https://www.404media.co/leaked-document-shows-the-surveillance-tech-at-ices-fingertips/
+
+### 2. Resident Evil movie gets another spooky trailer, and features a fun game reference for keen-eyed fans [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+A new trailer for the upcoming Resident Evil movie has been released, introducing the call-to-action for our protagonist's journey into the dark and spooky world of bio terror.
+
+Link: https://www.eurogamer.net/resident-evil-movie-new-trailer-july-hosptial
+
+### 3. Outcry after $1.15tn defense bill passes in the House – US politics live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Donald Trump’s decision to attack Iran without first seeking congressional approval has sparked further controversy over the National Defense Authorization Act Sign up for the Breaking News US email Global oil prices have risen to more…
+
+Link: https://www.theguardian.com/us-news/live/2026/jul/23/us-house-defense-spending-bill-donald-trump-iran-rubio-latest-news-updates
+
+### 4. Former PlayStation boss Shawn Layden wants to save games by bringing back double-A - and he has a plan [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+He's been saying it for years: blockbuster game development is unsustainable today, and given that Shawn Layden used to lead PlayStation's entire roster of first-party studios, he likely knows a fair bit about the issue.
+
+Link: https://www.eurogamer.net/playstation-shawn-layden-bringing-double-a-back
+
+### 5. The Incident At Galley House review – an enthralling deduction game that can't escape the genre's classic problem [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The machine before me looks like Frankenstein's homebrew version of Guess Who. Its main panel is composed of three rows of portraits.
+
+Link: https://www.rockpapershotgun.com/the-incident-at-galley-house-review-an-enthralling-deduction-game-that-cant-escape-the-genres-classic-problem
+
+### 6. Beyond Copy-Paste: Redesigning the Classroom for the Judgment Era [10/10]
+**Source:** CSTA  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+The essay was good. That was the problem. I assigned it on a Thursday in my Film and Multimedia class.... The post Beyond Copy-Paste: Redesigning the Classroom for the Judgment Era appeared first on Computer Science Teachers Association .
+
+Link: https://csteachers.org/beyond-copy-paste-redesigning-the-classroom-for-the-judgment-era/
+
+### 7. The power line that could reshape New York’s grid is hitting snags [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day.
+
+Link: https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/
+
+### 8. OpenAI says AI models hacked into another AI company without being instructed [10/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -42,61 +105,16 @@ NPR's A Martinez asks Nate Soares of the Machine Intelligence Research Institute
 
 Link: https://www.npr.org/2026/07/23/nx-s1-5903083/openai-says-ai-models-hacked-into-another-ai-company-without-being-instructed
 
-### 2. OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know [10/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-The incident is stirring debates over the need for stronger AI guardrails and the extent to which AI agents are capable of acting on their own.
-
-Link: https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models
-
-### 3. Iraq’s impossible predicament: why the country is trapped between Iran and the US [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-With the outbreak of this year’s war, Iraq’s balancing act between the two antagonists has collapsed, exposing a perilously fragile state One week after the United States and Israel killed Ayatollah Ali Khamenei and ignited a regional war,…
-
-Link: https://www.theguardian.com/news/ng-interactive/2026/jul/23/iraqs-impossible-predicament-why-the-country-is-trapped-between-iran-and-the-us
-
-### 4. US teen drops Meta lawsuit on social media addiction days before trial [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Withdrawn case marks a victory for the social media giant after earlier landmark loss at trial over addictive claims A Florida teen whose lawsuit claimed Meta ’s platforms were to blame ⁠for his depression ⁠and anxiety ​dropped his case…
-
-Link: https://www.theguardian.com/technology/2026/jul/22/florida-teen-drops-meta-lawsuit
-
-### 5. OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-"This is day one for cybersecurity in the age of agents," Hugging Face CEO says.
-
-Link: https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/
-
-### 6. Stalker 2 developer refutes claims by studio founder that Xbox paid more than game's development cost to make it exclusive [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Earlier this week, GSC Game World studio founder Sergiy Grygorovych made a bombshell revelation about the development of Stalker 2: Heart of Chornobyl .
-
-Link: https://www.eurogamer.net/stalker-2-xbox-timed-exclusivity-claim-refuted
-
-### 7. Orcas seen ramming prey so hard it explodes may be playing game [9/10]
+### 9. Space datacenters proposed by Musk and Bezos ‘catastrophic’ for planet, experts warn [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Scientists believe sunfish-smashing behaviour could be form of entertainment or to help younger whales feed Orcas have been observed ramming into giant fish so hard that the prey explode, possibly as a form of gory entertainment.
+New US petition demands review of plans from tech companies amid fears of environmental destruction Space datacenters proposed by SpaceX , Jeff Bezos’s Blue Origin and others would release staggering levels of pollution that would probably…
 
-Link: https://www.theguardian.com/environment/2026/jul/23/orcas-ramming-prey-hard-explodes-playing-game
+Link: https://www.theguardian.com/science/2026/jul/23/space-datacenters-bezos-blue-origin
 
-### 8. In a Mississippi School District With Strict Gender Rules, Trans Students and Families Push to Be Heard [9/10]
+### 10. In a Mississippi School District With Strict Gender Rules, Trans Students and Families Push to Be Heard [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -105,25 +123,25 @@ BILOXI, Miss. — When nine young adults tossed their mortarboards into the air 
 
 Link: https://www.the74million.org/article/in-a-mississippi-school-district-with-strict-gender-rules-trans-students-and-families-push-to-be-heard/
 
-### 9. America’s Trillion-Dollar School System: 5 Trends Explain Where the Money Goes [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 11. Orcas Explode Fish Into Confetti, Possibly for Fun, In ‘Astounding’ New Video [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-In April, the National Center for Education Statistics reported that the 50 states and Washington, D.C., took in $1 trillion in federal, state and local revenue for K-12 public education in the 2023-24 school year. One. Trillion. Dollars.
+A team captured first-of-its-kind footage of orcas holding a sunfish carcass still and ramming it so hard that it burst into fragments, which may be a form of social play. “We could hear the sound,” said one researcher.
 
-Link: https://www.the74million.org/article/americas-trillion-dollar-school-system-5-trends-explain-where-the-money-goes/
+Link: https://www.404media.co/orcas-explode-fish-into-confetti-possibly-for-fun-in-astounding-new-video/
 
-### 10. In pursuit of 'Instagram face,' are we losing the imperfections that make us human? [8/10]
+### 12. Get into med school in the graphic memoir 'See One, Do One, Teach One' [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Plastic surgery is becoming so normalized and undetectable, it's changing our relationship to reality. The New Yorker staff writer Jia Tolentino considers how beauty standards have dovetailed with AI.
+Grace Farris' book brings readers behind the med school scenes — documenting anxiety over loans, bouts of impostor syndrome, friendships forged in stress, and the ever-impossible work-life balance.
 
-Link: https://www.npr.org/2026/07/22/nx-s1-5902070/jia-tolentino-instagram-face-plastic-surgery
+Link: https://www.npr.org/2026/07/23/nx-s1-5901975/med-school-graphic-memoir-grace-farris
 
-### 11. It’s Hard for a Thespian on the Mean Streets of Gotham in the Trailer for Clayface [8/10]
+### 13. It’s Hard for a Thespian on the Mean Streets of Gotham in the Trailer for Clayface [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -132,25 +150,16 @@ This time, it's no pottery accident The post It’s Hard for a Thespian on the M
 
 Link: https://reactormag.com/clayface-trailer/
 
-### 12. Flock ‘Objects to Our Removing Their Equipment’: Emails Reveal Why a Town Put Bags Over Its Flock Cameras [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-"For the time being, if you or someone on your crew has availability to secure black plastic bags (or something else) over the cameras, that would be great."
-
-Link: https://www.404media.co/flock-objects-to-our-removing-their-equipment-emails-reveal-why-a-town-put-bags-over-its-flock-cameras/
-
-### 13. The best baking products, according to King Arthur employee-owners : The tools and ingredients we can’t live without. [8/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-Looking for a new tool or ingredient to up your baking game? No one knows our products better than the King Arthur employee-owners who work here. As bakers, we’re constantly trying out new things and returning to old favorites.
-
-Link: https://www.kingarthurbaking.com/blog/2026/07/22/best-baking-products
-
 ## YouTube
+
+### Quantum Machine Learning - Computerphile [7/10]
+**Creator:** Computerphile  
+**Verdict:** Probably worth watching  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Exploring how quantum computing can have an impact on the established area of Machine Learning. Professor Mohammad Reza Mousavi is a Professor of Software Engineering in the Department of Informatics at King's College London.
+
+Link: https://www.youtube.com/watch?v=CnSYsUhlx14
 
 ### Ms. Rachel Answers Parenting Questions | Tech Support | WIRED [8/10]
 **Creator:** WIRED  
@@ -160,6 +169,15 @@ Link: https://www.kingarthurbaking.com/blog/2026/07/22/best-baking-products
 Ms. Rachel joins WIRED to answer the internet’s burning questions about toddler learning.
 
 Link: https://www.youtube.com/watch?v=jb2lfKJ14w0
+
+### Next gen crabbers use social media to tell their story and sell their catch [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Luke McFadden and Jack Torney are two of the few young crabbers who are keeping traditions alive on the Chesapeake Bay, despite rising expenses and a dwindling blue crab population.
+
+Link: https://www.youtube.com/watch?v=fLYI6Ig3qjs
 
 ### Protests in New Delhi demand India's education minister resign [8/10]
 **Creator:** NPR  
@@ -215,15 +233,6 @@ The Food and Drug Administration retracted test results identifying Cyclospora o
 
 Link: https://www.youtube.com/watch?v=O0GmFKr-n50
 
-### Burnham becomes the U.K.'s 7th prime minister in 10 years [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The United Kingdom has a new prime minister. Andy Burnham took office today, replacing Keir Starmer, who was ousted by his own center-left Labour Party.
-
-Link: https://www.youtube.com/watch?v=6cuLxfmYhnA
-
 ### AMD's Ryzen 7 7700X3D Tested - The Right Chip At The Wrong Price [8/10]
 **Creator:** Digital Foundry  
 **Verdict:** Worth watching  
@@ -278,9 +287,18 @@ Link: https://www.youtube.com/watch?v=SvE5MCwjOf4
 
 Link: https://www.youtube.com/watch?v=e7hnVat_tIY
 
-### Dusting Off the Wii U for Star Fox Zero w/ KC and Marty [9/10]
+### Fallout 3 Sidequest Cleanup w/ Jack, Jess, and Marty -- Part 7 [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=lvSjbnxpYZo
+
+### Dusting Off the Wii U for Star Fox Zero w/ KC and Marty [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
@@ -341,15 +359,6 @@ This video is brought to you by Polyarmory: High Calibre Love, the world's only 
 
 Link: https://www.youtube.com/watch?v=4qgHiu5b-3w
 
-### How Black Flag Fakes the Density of its Open World | Design Delve [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
-
-Link: https://www.youtube.com/watch?v=w6JMtfp-Tcg
-
 ## Entertainment Recommendations
 
 ### Newer shows that look like a fit
@@ -396,6 +405,15 @@ Link: https://www.youtube.com/watch?v=x4s0aRs316U
 What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but You and Easy A, celebrates modern romantic comedy on the big screen with a fresh, witty, swoony original…
 
 Link: https://www.youtube.com/watch?v=kiK1aBs6pTo
+
+### RESIDENT EVIL – Official Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+𝙽𝚘 𝚜𝚠𝚎𝚊𝚝. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the official trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.
+
+Link: https://www.youtube.com/watch?v=mNd1gb19A-c
 
 ### SPIDER-MAN: BRAND NEW DAY – Final Trailer (Peter’s Journey) 4K [8/10]
 **Source:** Sony Pictures Entertainment  
