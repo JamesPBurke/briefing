@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-23T05:00:04.382614Z
+Generated: 2026-07-23T09:00:27.871083Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are Trump scoffs at ‘affordability’ as he touts economic policies at Georgia rally, In First School Visit, President Urges Atlanta Crowd to Support ‘Trump Accounts’, and US teen drops Meta lawsuit on social media addiction days before trial.
+Today's sweep leans toward Science / computing, Democracy / press freedom, AI / privacy. The strongest items in this run are OpenAI says AI models hacked into another AI company without being instructed, OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know, and Iraq’s impossible predicament: why the country is trapped between Iran and the US.
 
 ## Briefing
 
@@ -33,25 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Trump scoffs at ‘affordability’ as he touts economic policies at Georgia rally [10/10]
+### 1. OpenAI says AI models hacked into another AI company without being instructed [10/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+NPR's A Martinez asks Nate Soares of the Machine Intelligence Research Institute how two experimental OpenAI models hacked their way onto the internet and into another AI company, without instruction.
+
+Link: https://www.npr.org/2026/07/23/nx-s1-5903083/openai-says-ai-models-hacked-into-another-ai-company-without-being-instructed
+
+### 2. OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know [10/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+The incident is stirring debates over the need for stronger AI guardrails and the extent to which AI agents are capable of acting on their own.
+
+Link: https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models
+
+### 3. Iraq’s impossible predicament: why the country is trapped between Iran and the US [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-President visits swing state to promote ‘Trump accounts’ and says high prices lingering from Joe Biden’s presidency Donald Trump scoffed at the word “affordability” as a political message, describing it at a campaign rally on Wednesday as…
+With the outbreak of this year’s war, Iraq’s balancing act between the two antagonists has collapsed, exposing a perilously fragile state One week after the United States and Israel killed Ayatollah Ali Khamenei and ignited a regional war,…
 
-Link: https://www.theguardian.com/us-news/2026/jul/22/trump-affordability-georgia-rally
+Link: https://www.theguardian.com/news/ng-interactive/2026/jul/23/iraqs-impossible-predicament-why-the-country-is-trapped-between-iran-and-the-us
 
-### 2. In First School Visit, President Urges Atlanta Crowd to Support ‘Trump Accounts’ [10/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-MARIETTA, Ga.
-
-Link: https://www.the74million.org/article/in-first-school-visit-president-urges-atlanta-crowd-to-support-trump-accounts/
-
-### 3. US teen drops Meta lawsuit on social media addiction days before trial [10/10]
+### 4. US teen drops Meta lawsuit on social media addiction days before trial [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -59,15 +68,6 @@ Link: https://www.the74million.org/article/in-first-school-visit-president-urges
 Withdrawn case marks a victory for the social media giant after earlier landmark loss at trial over addictive claims A Florida teen whose lawsuit claimed Meta ’s platforms were to blame ⁠for his depression ⁠and anxiety ​dropped his case…
 
 Link: https://www.theguardian.com/technology/2026/jul/22/florida-teen-drops-meta-lawsuit
-
-### 4. Clayface trailer leans into the body horror [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-"The people I trusted betrayed me. The justice system failed me."
-
-Link: https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/
 
 ### 5. OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face [10/10]
 **Source:** Ars Technica  
@@ -78,16 +78,25 @@ Link: https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-bo
 
 Link: https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/
 
-### 6. Steam wishlists are getting categories, making it even easier to organise all those games you'll definitely buy next sale [9/10]
-**Source:** Rock Paper Shotgun  
+### 6. Stalker 2 developer refutes claims by studio founder that Xbox paid more than game's development cost to make it exclusive [9/10]
+**Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-If there's anything I know about Steam users, it's that they bloody love that wishlist system.
+Earlier this week, GSC Game World studio founder Sergiy Grygorovych made a bombshell revelation about the development of Stalker 2: Heart of Chornobyl .
 
-Link: https://www.rockpapershotgun.com/steam-wishlists-are-getting-categories-making-it-even-easier-to-organise-all-those-games-youll-definitely-buy-next-sale
+Link: https://www.eurogamer.net/stalker-2-xbox-timed-exclusivity-claim-refuted
 
-### 7. In a Mississippi School District With Strict Gender Rules, Trans Students and Families Push to Be Heard [9/10]
+### 7. Orcas seen ramming prey so hard it explodes may be playing game [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Scientists believe sunfish-smashing behaviour could be form of entertainment or to help younger whales feed Orcas have been observed ramming into giant fish so hard that the prey explode, possibly as a form of gory entertainment.
+
+Link: https://www.theguardian.com/environment/2026/jul/23/orcas-ramming-prey-hard-explodes-playing-game
+
+### 8. In a Mississippi School District With Strict Gender Rules, Trans Students and Families Push to Be Heard [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -96,7 +105,7 @@ BILOXI, Miss. — When nine young adults tossed their mortarboards into the air 
 
 Link: https://www.the74million.org/article/in-a-mississippi-school-district-with-strict-gender-rules-trans-students-and-families-push-to-be-heard/
 
-### 8. America’s Trillion-Dollar School System: 5 Trends Explain Where the Money Goes [9/10]
+### 9. America’s Trillion-Dollar School System: 5 Trends Explain Where the Money Goes [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -104,15 +113,6 @@ Link: https://www.the74million.org/article/in-a-mississippi-school-district-with
 In April, the National Center for Education Statistics reported that the 50 states and Washington, D.C., took in $1 trillion in federal, state and local revenue for K-12 public education in the 2023-24 school year. One. Trillion. Dollars.
 
 Link: https://www.the74million.org/article/americas-trillion-dollar-school-system-5-trends-explain-where-the-money-goes/
-
-### 9. Houthis claim strikes on two Saudi tankers as US attacks on Iran widen [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Attacks by Iranian-aligned Houthis in Red Sea follow Trump threats to destroy more Iranian infrastructure Yemen’s ⁠Houthi militia attacked two ​Saudi Arabian oil tankers, the Iranian-aligned group said on Thursday, with a Saudi news agency…
-
-Link: https://www.theguardian.com/world/2026/jul/23/houthis-claim-attack-ship-tanker-saudi-arabia-red-sea
 
 ### 10. In pursuit of 'Instagram face,' are we losing the imperfections that make us human? [8/10]
 **Source:** NPR Health  
@@ -160,6 +160,69 @@ Link: https://www.kingarthurbaking.com/blog/2026/07/22/best-baking-products
 Ms. Rachel joins WIRED to answer the internet’s burning questions about toddler learning.
 
 Link: https://www.youtube.com/watch?v=jb2lfKJ14w0
+
+### Protests in New Delhi demand India's education minister resign [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Thousands of young people marched to India's parliament Monday, demanding the resignation of its controversial education minister, Dharmendra Pradhan. The police stopped them with batons and barricades.
+
+Link: https://www.youtube.com/watch?v=WY7VWIE9OqE
+
+### Smithsonian too focused on 'oppressors and the oppressed,' say House Republicans [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The director of the Smithsonian’s National Museum of American History was on Capitol Hill yesterday, answering questions from members of a House subcommittee.
+
+Link: https://www.youtube.com/watch?v=qY5KL3sWqcA
+
+### OpenAI says its AI models acted alone in 'unprecedented' hack [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+OpenAI is reporting what it describes as an “unprecedented cyber incident” as the company says a pair of its AI models acted autonomously and hacked into the systems of another AI startup called Hugging Face.
+
+Link: https://www.youtube.com/watch?v=-2Vt2h5SQew
+
+### India censors Bollywood's 'Satluj,' claiming it's separatist propaganda [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+For more than three years, the Indian film “Satluj” has been stuck in limbo. Its director says India's film regulatory body refused to allow its release in cinema halls unless he made more than 120 cuts.
+
+Link: https://www.youtube.com/watch?v=2UnTQRTC95A
+
+### Civil rights leaders call for justice at Mississippi teen's funeral [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Funeral services were held Monday for 18-year-old Nolan Wells, who was found dead off Mississippi's coast earlier this month. Authorities say they’re still investigating the cause of death.
+
+Link: https://www.youtube.com/watch?v=ec3zNNSZAOY
+
+### FDA struggles to identify source of Cyclospora outbreak [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The Food and Drug Administration retracted test results identifying Cyclospora on samples of lettuce from Taylor Farms in Mexico, showing how hard it can be to trace the source of the parasitic outbreak.
+
+Link: https://www.youtube.com/watch?v=O0GmFKr-n50
+
+### Burnham becomes the U.K.'s 7th prime minister in 10 years [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The United Kingdom has a new prime minister. Andy Burnham took office today, replacing Keir Starmer, who was ousted by his own center-left Labour Party.
+
+Link: https://www.youtube.com/watch?v=6cuLxfmYhnA
 
 ### AMD's Ryzen 7 7700X3D Tested - The Right Chip At The Wrong Price [8/10]
 **Creator:** Digital Foundry  
@@ -369,6 +432,60 @@ Link: https://www.youtube.com/watch?v=8FeiVAY5Y7Y
 The world that was doesn’t exist. THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters and IMAX August 28.
 
 Link: https://www.youtube.com/watch?v=-xSxaE1ClEE
+
+### Misty Green | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.
+
+Link: https://www.youtube.com/watch?v=ACaWuqeLpSk
+
+### Tony | Official First Look | A24 [6/10]
+**Source:** A24  
+**Verdict:** Optional  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas.
+
+Link: https://www.youtube.com/watch?v=GMQFLpETNkc
+
+### It Ends - Official Trailer - In Theaters August 21 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Four friends post-college plans are derailed when a wrong turn traps them on a never-ending backroad.
+
+Link: https://www.youtube.com/watch?v=zFszhQLMNXU
+
+### The Wrong Girls - Official Trailer - In Theaters August 14 [8/10]
+**Source:** NEON  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.
+
+Link: https://www.youtube.com/watch?v=zrcg8YHSys8
+
+### NIGHTBORN | Official Trailer Feat. Rupert Grint, Seidi Haarla | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+With dreams of starting a perfect family, Saga and her British husband Jon move to the isolated house where she spent much of her childhood, deep in the Finnish forest.
+
+Link: https://www.youtube.com/watch?v=dWePsu_Kd9c
+
+### Other Mommy | Official Trailer [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Your mommy won’t save you. Other Mommy only in theaters October 9. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
+
+Link: https://www.youtube.com/watch?v=pPxrX9ukWBY
 
 ### Ransom Canyon | Season 1 Recap | Netflix [10/10]
 **Source:** Netflix  
