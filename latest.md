@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-24T05:00:03.534374Z
+Generated: 2026-07-24T09:01:18.182068Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are Ireland urged to put pressure on Germany over pro-Palestinian activist’s trial, Charli xcx: Music, Fashion, Film review – slippery search into selfhood that hits just as hard as Brat, and Alexa Plus is getting an AI update to handle more complicated instructions.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Experience: I hunt for missing hikers in remote mountains, Charli xcx: Music, Fashion, Film review – slippery search into selfhood that hits just as hard as Brat, and Alexa Plus is getting an AI update to handle more complicated instructions.
 
 ## Briefing
 
@@ -33,14 +33,14 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Ireland urged to put pressure on Germany over pro-Palestinian activist’s trial [10/10]
+### 1. Experience: I hunt for missing hikers in remote mountains [10/10]
 **Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Irish politicians concerned about Daniel Tatlow-Devally’s treatment in jail want Micheál Martin to send observers to Ulm 5 trial A cross-party delegation of Irish politicians has urged Dublin to send observers to a high-security trial of…
+Since I started doing search and rescue five years ago, I have found seven survivors. Sadly, the number I find dead is higher In 2012, I was a student and had arrived in Taiwan from the Czech Republic.
 
-Link: https://www.theguardian.com/world/2026/jul/24/irish-pm-germany-pro-palestinian-activists-trial-ulm-5
+Link: https://www.theguardian.com/lifeandstyle/2026/jul/24/experience-i-hunt-missing-hikers-remote-mountains-taiwan
 
 ### 2. Charli xcx: Music, Fashion, Film review – slippery search into selfhood that hits just as hard as Brat [10/10]
 **Source:** The Guardian US  
@@ -69,16 +69,7 @@ Journalists had reported on security concerns about US president flying on $400m
 
 Link: https://www.theguardian.com/media/2026/jul/23/new-york-times-reporter-subpoenas-withdraw
 
-### 5. How to keep an ancient text interesting to students? Make it a summer blockbuster [10/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-English teachers are excited to have a new adaptation of Homer's The Odyssey to use to get students excited about the epic poem.
-
-Link: https://www.npr.org/2026/07/23/nx-s1-5903075/odyssey-movie-english-teachers-school
-
-### 6. Claude’s voice mode is now available for Opus and Sonnet [10/10]
+### 5. Claude’s voice mode is now available for Opus and Sonnet [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -87,7 +78,7 @@ Until now, voice mode has only been available on Claude Haiku, Anthropic's faste
 
 Link: https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai
 
-### 7. AI arms race in line for a reckoning after OpenAI hacking incident [10/10]
+### 6. AI arms race in line for a reckoning after OpenAI hacking incident [10/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -96,14 +87,23 @@ Aggressive training techniques sharpens threat of bad behavior by leading models
 
 Link: https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/
 
-### 8. I've yet to smash open a Dyson Sphere in sci-fi RTS Sanctuary: Shattered Sun, but I'm enjoying its take on Supreme Commander [9/10]
-**Source:** Rock Paper Shotgun  
+### 7. Assassin's Creed Black Flag Resynced has already sold over 3.5 million copies, "exceeding annual expectations within its first 14 days" [9/10]
+**Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Sanctuary: Shattered Sun is the kind of unwholesomely large real-time strategy game where you keep accidentally auto-constructing 50 missile trucks because you were preoccupied with (e.g.
+Assassin's Creed Black Flag is going from strength-to-strength for Ubisoft. After netting 2m sales in its opening few days (and then ascending to 3m within a week ), Ubisoft has just announced that the game has sold through an impressive 3.
 
-Link: https://www.rockpapershotgun.com/ive-yet-to-smash-open-a-dyson-sphere-in-sci-fi-rts-sanctuary-shattered-space-but-im-enjoying-its-take-on-supreme-commander
+Link: https://www.eurogamer.net/assassins-creed-black-flag-sales-exceed-annual-expectations
+
+### 8. How to keep an ancient text interesting to students? Make it a summer blockbuster [9/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+English teachers are excited to have a new adaptation of Homer's The Odyssey to use to get students excited about the epic poem.
+
+Link: https://www.npr.org/2026/07/23/nx-s1-5903075/odyssey-movie-english-teachers-school
 
 ### 9. Resident Evil Trailer Looks Nothing Like the Games, But Feels Exactly Like Them [9/10]
 **Source:** Reactor  
@@ -114,14 +114,14 @@ The trailer for Zach Cregger's next movie shows why he was drawn to this project
 
 Link: https://reactormag.com/resident-evil-trailer-games/
 
-### 10. OpenAI says AI models hacked into another AI company without being instructed [9/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+### 10. Weather tracker: More than 900 wildfires rage across Canada [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-NPR's A Martinez asks Nate Soares of the Machine Intelligence Research Institute how two experimental OpenAI models hacked their way onto the internet and into another AI company, without instruction.
+Fires remain out of control in Northwest Territories and Ontario, while Argentina endures record night-time heat Recent hot, dry weather in Canada has triggered hundreds of wildfires across the country.
 
-Link: https://www.npr.org/2026/07/23/nx-s1-5903083/openai-says-ai-models-hacked-into-another-ai-company-without-being-instructed
+Link: https://www.theguardian.com/environment/2026/jul/24/weather-tracker-wildfires-canada-argentina-heat
 
 ### 11. Patreon Lays Off 20 Percent of Its Workforce [8/10]
 **Source:** 404 Media  
@@ -287,7 +287,7 @@ Link: https://www.youtube.com/watch?v=mcXDJ6VRIEA
 
 Link: https://www.youtube.com/watch?v=-hz140RcN3s
 
-### Modern Indie Games That Changed the Industry | Firelink Podcast [10/10]
+### Modern Indie Games That Changed the Industry | Firelink Podcast [9/10]
 **Creator:** Second Wind  
 **Verdict:** Watch it  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -305,18 +305,18 @@ As funded by our wonderful community, Jess and Jenna are going head-to-head in S
 
 Link: https://www.youtube.com/watch?v=u0bT58BYDo4
 
-### How to Do Cooperative Worldbuilding | RPG Help Desk [8/10]
+### How to Do Cooperative Worldbuilding | RPG Help Desk [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 The DM does a lot of heavy lifting with world design, but they shouldn't have to do it all. Heck, some even want the players to actively build the world along side them.
 
 Link: https://www.youtube.com/watch?v=Kz-sU1any7U
 
-### Fallout 3 Sidequest Cleanup w/ Jack, Jess, and Marty -- Part 7 [8/10]
+### Fallout 3 Sidequest Cleanup w/ Jack, Jess, and Marty -- Part 7 [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.
