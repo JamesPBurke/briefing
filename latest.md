@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-24T09:01:18.182068Z
+Generated: 2026-07-24T14:00:03.646242Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Experience: I hunt for missing hikers in remote mountains, Charli xcx: Music, Fashion, Film review – slippery search into selfhood that hits just as hard as Brat, and Alexa Plus is getting an AI update to handle more complicated instructions.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are "Let's make a better world": Denshattack's developers on counterculture, biker gangs, and the optimism of fighting a mecha with a train, ‘The captain told me to wear a nappy on board’ – why is air travel so humiliating for disabled passengers?, and ‘We can’t even walk through the streets’: women arrested for kissing in public on life under Uganda’s anti-LGBTQ+ law.
 
 ## Briefing
 
@@ -33,16 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Experience: I hunt for missing hikers in remote mountains [10/10]
+### 1. "Let's make a better world": Denshattack's developers on counterculture, biker gangs, and the optimism of fighting a mecha with a train [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+In hindsight, I was a fool for meeting Denshattack ’s satirical, irreverent, downright countercultural sensibilities with surprise .
+
+Link: https://www.rockpapershotgun.com/lets-make-a-better-world-denshattacks-developers-on-counterculture-biker-gangs-and-the-optimism-of-fighting-a-mecha-with-a-train
+
+### 2. ‘The captain told me to wear a nappy on board’ – why is air travel so humiliating for disabled passengers? [10/10]
 **Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Since I started doing search and rescue five years ago, I have found seven survivors. Sadly, the number I find dead is higher In 2012, I was a student and had arrived in Taiwan from the Czech Republic.
+From being abused by staff and other travellers to being denied access to toilets, flying is an increasingly distressing and frustrating experience for many wheelchair users.
 
-Link: https://www.theguardian.com/lifeandstyle/2026/jul/24/experience-i-hunt-missing-hikers-remote-mountains-taiwan
+Link: https://www.theguardian.com/world/2026/jul/24/the-captain-told-me-to-wear-a-nappy-on-board-why-is-air-travel-so-humiliating-for-disabled-passengers
 
-### 2. Charli xcx: Music, Fashion, Film review – slippery search into selfhood that hits just as hard as Brat [10/10]
+### 3. ‘We can’t even walk through the streets’: women arrested for kissing in public on life under Uganda’s anti-LGBTQ+ law [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Wendy Faith and Alesi Diana Denise freed after five months in prison over allegations of engaging in same-sex activity For five months, Wendy Faith and Alesi Diana Denise shared a small prison cell knowing that there was a possibility they…
+
+Link: https://www.theguardian.com/global-development/2026/jul/24/young-women-jailed-beaten-uganda-anti-lgbtq-law-wendy-faith-alesi-diana-denise
+
+### 4. Microsoft pressures LG into killing unwanted McAfee ads [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Microsoft has intervened to stop Windows 11 users with LG monitors from being bombarded with annoying McAfee trial pop-ups.
+
+Link: https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown
+
+### 5. Xbox rolls out ad-supported game streaming test for its insider programs, as hardware supply and affordability crisis rages on [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Xbox has announced a test for an ad-supporting streaming service for its Xbox Insider program. It will allow players to stream select games from their library for free for one-hour sessions, with advertisements playing before play sessions.
+
+Link: https://www.eurogamer.net/xbox-game-advertising-insider-affordability
+
+### 6. Charli xcx: Music, Fashion, Film review – slippery search into selfhood that hits just as hard as Brat [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,7 +87,7 @@ Link: https://www.theguardian.com/lifeandstyle/2026/jul/24/experience-i-hunt-mis
 
 Link: https://www.theguardian.com/music/2026/jul/24/charli-xcx-music-fashion-film-review
 
-### 3. Alexa Plus is getting an AI update to handle more complicated instructions [10/10]
+### 7. Alexa Plus is getting an AI update to handle more complicated instructions [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -60,52 +96,34 @@ Amazon is launching an update to its Alexa Plus assistant that will allow it to 
 
 Link: https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices
 
-### 4. Trump’s DoJ drops effort to subpoena New York Times over Qatari jet story [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Journalists had reported on security concerns about US president flying on $400m Air Force One plane from Qatar Donald Trump’s justice department has abandoned, for now, efforts to subpoena New York Times reporters over their coverage of…
-
-Link: https://www.theguardian.com/media/2026/jul/23/new-york-times-reporter-subpoenas-withdraw
-
-### 5. Claude’s voice mode is now available for Opus and Sonnet [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai
-
-### 6. AI arms race in line for a reckoning after OpenAI hacking incident [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Aggressive training techniques sharpens threat of bad behavior by leading models.
-
-Link: https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/
-
-### 7. Assassin's Creed Black Flag Resynced has already sold over 3.5 million copies, "exceeding annual expectations within its first 14 days" [9/10]
-**Source:** Eurogamer  
+### 8. Surprise, Age of Empires 3: Definitive Edition's Baltic Powers expansion has re-emerged from the annals of cancelled DLC history, will come out in September [9/10]
+**Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Assassin's Creed Black Flag is going from strength-to-strength for Ubisoft. After netting 2m sales in its opening few days (and then ascending to 3m within a week ), Ubisoft has just announced that the game has sold through an impressive 3.
+Ah! You hadn't totally retreated from the battlefield following your cancellation in early 2025, Age of Empires III: Definitive Edition 's Baltic Powers DLC! It was just one of your strategic tricks to lull your enemies into a false sense…
 
-Link: https://www.eurogamer.net/assassins-creed-black-flag-sales-exceed-annual-expectations
+Link: https://www.rockpapershotgun.com/surprise-age-of-empires-3-definitive-editions-baltic-powers-expansion-has-re-emerged-from-the-annals-of-cancelled-dlc-history-will-come-out-in-september
 
-### 8. How to keep an ancient text interesting to students? Make it a summer blockbuster [9/10]
-**Source:** NPR Education  
+### 9. Opinion: My Fourth Grader Is Behind in Reading. He’s Not Alone — and Congress Can Help [9/10]
+**Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-English teachers are excited to have a new adaptation of Homer's The Odyssey to use to get students excited about the epic poem.
+This year, my son’s school sent out a book for the entire district to read, “The One and Only Ivan,” about a gorilla who lives in a cage in a mall on the side of a highway.
 
-Link: https://www.npr.org/2026/07/23/nx-s1-5903075/odyssey-movie-english-teachers-school
+Link: https://www.the74million.org/article/my-fourth-grader-is-behind-in-reading-hes-not-alone-and-congress-can-help/
 
-### 9. Resident Evil Trailer Looks Nothing Like the Games, But Feels Exactly Like Them [9/10]
+### 10. Experience: I hunt for missing hikers in remote mountains [9/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Since I started doing search and rescue five years ago, I have found seven survivors. Sadly, the number I find dead is higher In 2012, I was a student and had arrived in Taiwan from the Czech Republic.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/jul/24/experience-i-hunt-missing-hikers-remote-mountains-taiwan
+
+### 11. Resident Evil Trailer Looks Nothing Like the Games, But Feels Exactly Like Them [9/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -114,16 +132,16 @@ The trailer for Zach Cregger's next movie shows why he was drawn to this project
 
 Link: https://reactormag.com/resident-evil-trailer-games/
 
-### 10. Weather tracker: More than 900 wildfires rage across Canada [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 12. FDA panel backs easier access to peptides [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-Fires remain out of control in Northwest Territories and Ontario, while Argentina endures record night-time heat Recent hot, dry weather in Canada has triggered hundreds of wildfires across the country.
+Advisers to the Food and Drug Administration are backing popular peptide therapies. They voted to allow specialized pharmacies to make them despite agency scientists' recommendations against it.
 
-Link: https://www.theguardian.com/environment/2026/jul/24/weather-tracker-wildfires-canada-argentina-heat
+Link: https://www.npr.org/2026/07/24/nx-s1-5905770/fda-panel-backs-easier-access-to-peptides
 
-### 11. Patreon Lays Off 20 Percent of Its Workforce [8/10]
+### 13. Patreon Lays Off 20 Percent of Its Workforce [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -131,24 +149,6 @@ Link: https://www.theguardian.com/environment/2026/jul/24/weather-tracker-wildfi
 In an internal email shared with creators, CEO Jack Conte wrote that AI doesn’t replace human creativity — but it does affect how the company operates.
 
 Link: https://www.404media.co/patreon-lays-off-20-percent-of-its-workforce/
-
-### 12. Sorceress: A Low Point in Sleaze-and-Sorcery Sexploitation [8/10]
-**Source:** Reactor  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-Roger Corman presents the male gaze at its most jaundiced and bloodshot. The post Sorceress : A Low Point in Sleaze-and-Sorcery Sexploitation appeared first on Reactor .
-
-Link: https://reactormag.com/sorceress-a-low-point-in-sleaze-and-sorcery-sexploitation/
-
-### 13. This AI tool promises a 'second pair of eyes' to clinicians. Did patients benefit? [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Medical workers in a Nairobi clinic used an AI tool to check their work. A new study evaluates the result.
-
-Link: https://www.npr.org/2026/07/23/g-s1-134929/ai-artificial-intelligence-healthcare
 
 ## YouTube
 
@@ -287,6 +287,15 @@ Link: https://www.youtube.com/watch?v=mcXDJ6VRIEA
 
 Link: https://www.youtube.com/watch?v=-hz140RcN3s
 
+### How to Do Cooperative Worldbuilding | RPG Help Desk [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+The DM does a lot of heavy lifting with world design, but they shouldn't have to do it all. Heck, some even want the players to actively build the world along side them.
+
+Link: https://www.youtube.com/watch?v=Kz-sU1any7U
+
 ### Modern Indie Games That Changed the Industry | Firelink Podcast [9/10]
 **Creator:** Second Wind  
 **Verdict:** Watch it  
@@ -296,23 +305,14 @@ This video is brought to you by PlayTracker, the app that tracks your cross-plat
 
 Link: https://www.youtube.com/watch?v=-xwOASvi_Vg
 
-### Stardew Valley Bingo | Jess vs Jenna [7/10]
+### Stardew Valley Bingo | Jess vs Jenna [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 As funded by our wonderful community, Jess and Jenna are going head-to-head in Stardew Valley Bingo. Check out the highlights of our previous Breath of the Wild Bingo stream here -- https://www.youtube.
 
 Link: https://www.youtube.com/watch?v=u0bT58BYDo4
-
-### How to Do Cooperative Worldbuilding | RPG Help Desk [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The DM does a lot of heavy lifting with world design, but they shouldn't have to do it all. Heck, some even want the players to actively build the world along side them.
-
-Link: https://www.youtube.com/watch?v=Kz-sU1any7U
 
 ### Fallout 3 Sidequest Cleanup w/ Jack, Jess, and Marty -- Part 7 [7/10]
 **Creator:** Second Wind  
