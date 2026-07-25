@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-25T09:00:19.523363Z
+Generated: 2026-07-25T14:00:02.083503Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are ‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT, Two dozen states sue Trump White House for politicizing Fema disaster aid, and What we've been playing - "Gosh I had a really fun 30 minutes with Marvel Tokon before PSN went down".
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are India’s education minister resigns in victory for Cockroach youth movement protests, How the kidnapping of two forest service workers unfolded in California, and Troy Jackson: the Maine lumberjack Democrats believe can beat Susan Collins.
 
 ## Briefing
 
@@ -33,7 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT [10/10]
+### 1. India’s education minister resigns in victory for Cockroach youth movement protests [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Dharmendra Pradhan steps down after demonstrations over exam leak scandal, prompting celebrations among thousands of protesters India’s education minister, Dharmendra Pradhan, has resigned after a week of mass demonstrations, handing a…
+
+Link: https://www.theguardian.com/world/2026/jul/25/dharmendra-pradhan-india-education-minister-resigns-cockroach-movement
+
+### 2. How the kidnapping of two forest service workers unfolded in California [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Two biologists were taken hostage for about 15 hours by a man and his son in a remote part of Shasta-Trinity national forest Two biologists with the US Forest Service were surveying frog habitats in the remote wilderness of the…
+
+Link: https://www.theguardian.com/us-news/2026/jul/25/california-forest-service-kidnapping-shasta
+
+### 3. Troy Jackson: the Maine lumberjack Democrats believe can beat Susan Collins [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Jackson, set to replace Graham Platner, is prominent workers’ rights advocate and a leading progressive voice As cinemagoers flock to The Odyssey , Democrats in Maine are hoping that their long and perilous quest for a political hero ends…
+
+Link: https://www.theguardian.com/us-news/2026/jul/25/democrats-troy-jackson-susan-collins-maine
+
+### 4. ‘Really inappropriate’: teachers decry plan for humanoid robot in New York high school [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Robot from company that acquired sex doll maker to be introduced in school with large Native American population A humanoid robot is being introduced as part of a pilot program, along with an AI teaching assistant, at Salamanca high school…
+
+Link: https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school
+
+### 5. ‘I’m over the moon’: New York’s small business owners rejoice as Mamdani cuts red tape [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Initiatives including cutting permits just to serve ice-cream amount to a sweeping program of deregulation Red Scare? The democratic socialist mayor of New York City spent this week talking about red tape.
+
+Link: https://www.theguardian.com/us-news/2026/jul/25/zohran-mamdani-small-business-policies
+
+### 6. ‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,43 +87,7 @@ Avtar spent decades wondering what happened to the mother he never got to know. 
 
 Link: https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai
 
-### 2. Two dozen states sue Trump White House for politicizing Fema disaster aid [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-The 25 Democratic attorneys general say administration imposed ‘unlawful’ conditions on federal disaster grants A group of 25 Democratic attorneys general led by California’s Rob Bonta are taking the Trump administration to court for…
-
-Link: https://www.theguardian.com/us-news/2026/jul/24/states-sue-trump-administration-fema-disaster-funding
-
-### 3. What we've been playing - "Gosh I had a really fun 30 minutes with Marvel Tokon before PSN went down" [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Hello and welcome back to our regular feature where we write a little about the games we've been playing.
-
-Link: https://www.eurogamer.net/what-weve-been-playing-marvel-tokon-psn-down
-
-### 4. Trump’s rambling gala address included insults, potshots and quip about a third presidential term [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-President mocks political opponents and journalists in mostly light-hearted, hour-long speech at White House correspondents’ dinner Donald Trump joked around with the room of journalists who he again accused of producing “fake news” as he…
-
-Link: https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington
-
-### 5. Trump escalates Smithsonian attack with order for signs outside history museum [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-President directs interior department to display signs outside museum that accuse institution of inaccuracy Donald Trump on Friday ordered the interior department to display signs in front of the Smithsonian National Museum of American…
-
-Link: https://www.theguardian.com/us-news/2026/jul/24/trump-smithsonian-history-museum
-
-### 6. Paramount/WBD merger delayed for months as states' lawsuit moves toward trial [9/10]
+### 7. Paramount/WBD merger delayed for months as states' lawsuit moves toward trial [9/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -86,15 +95,6 @@ Link: https://www.theguardian.com/us-news/2026/jul/24/trump-smithsonian-history-
 “Halting this merger while our case proceeds is a critical victory," NY AG said.
 
 Link: https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/
-
-### 7. Trump threatens EU with ‘substantial’ tariffs over fines of US tech giants [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-After Google fined €890m by EU, US president said Brussels was ‘robbing’ American companies and taxpayers What to know about Trump’s new tariffs on more than 80 countries Donald Trump has threatened the European Union with additional and…
-
-Link: https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs
 
 ### 8. What the Data Says About Rhode Island’s 7-year Takeover of Providence Schools [9/10]
 **Source:** The 74  
@@ -105,32 +105,32 @@ By some metrics, things are looking up for the Providence Public School District
 
 Link: https://www.the74million.org/article/what-the-data-says-about-rhode-islands-7-year-takeover-of-providence-schools/
 
-### 9. Students Convene to Hammer Out AI Bill of Rights for Schools [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-BOSTON — Tatiyana Reaves got into trouble recently for writing a one-syllable word — and not the one you’d think. Taking a computer class at her Fayetteville, N.C., high school, she handed in a paper with the offending word: whilst.
-
-Link: https://www.the74million.org/article/students-convene-to-hammer-out-ai-bill-of-rights-for-schools/
-
-### 10. Wildfire forces evacuation of NASA's Deep Space Network complex in Spain [8/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-"Any potential damage will be assessed when it is safe to do so."
-
-Link: https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/
-
-### 11. U.S. reports highest number of measles cases in 35 years [8/10]
+### 9. COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool? [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-For the second year in a row, the U.S. has reported a record-breaking number of measles cases.
+Back in the '90s, I learned the art of staying cool in Egypt. At that time, air conditioning was not common. In the extremely hot summer of 2026, how are people managing?
 
-Link: https://www.npr.org/2026/07/24/nx-s1-5905694/u-s-reports-highest-number-of-measles-cases-in-35-years
+Link: https://www.npr.org/2026/07/25/g-s1-135194/summer-heat-egypt-cairo-air-conditioning
+
+### 10. With help from data, art museums are reframing the visitor experience [8/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Museums are embracing data-driven curation and a shifting technology landscape.
+
+Link: https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/
+
+### 11. What are we all playing this weekend? [8/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+I spent most of last Saturday laid out in a Baku hotel room, muscles in both legs ground to flecks of useless meat by the decision to walk down a mountain when there was a perfectly good funicular right there .
+
+Link: https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-392
 
 ### 12. Blade Runner 2099 Trailer Finally Reveals the Show’s Plot [8/10]
 **Source:** Reactor  

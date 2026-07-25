@@ -1,11 +1,61 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-25T09:00:19.523363Z",
-  "generatedAtDisplay": "2026-07-25 05:00 AM EDT",
+  "generatedAt": "2026-07-25T14:00:02.083503Z",
+  "generatedAtDisplay": "2026-07-25 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are ‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT, Two dozen states sue Trump White House for politicizing Fema disaster aid, and What we've been playing - \"Gosh I had a really fun 30 minutes with Marvel Tokon before PSN went down\".",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are India’s education minister resigns in victory for Cockroach youth movement protests, How the kidnapping of two forest service workers unfolded in California, and Troy Jackson: the Maine lumberjack Democrats believe can beat Susan Collins.",
   "mainItems": [
+    {
+      "title": "India’s education minister resigns in victory for Cockroach youth movement protests",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/world/2026/jul/25/dharmendra-pradhan-india-education-minister-resigns-cockroach-movement",
+      "published": "2026-07-25T13:54:33+00:00",
+      "summary": "Dharmendra Pradhan steps down after demonstrations over exam leak scandal, prompting celebrations among thousands of protesters India’s education minister, Dharmendra Pradhan, has resigned after a week of mass demonstrations, handing a…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "How the kidnapping of two forest service workers unfolded in California",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/california-forest-service-kidnapping-shasta",
+      "published": "2026-07-25T13:00:42+00:00",
+      "summary": "Two biologists were taken hostage for about 15 hours by a man and his son in a remote part of Shasta-Trinity national forest Two biologists with the US Forest Service were surveying frog habitats in the remote wilderness of the…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Troy Jackson: the Maine lumberjack Democrats believe can beat Susan Collins",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/democrats-troy-jackson-susan-collins-maine",
+      "published": "2026-07-25T12:00:43+00:00",
+      "summary": "Jackson, set to replace Graham Platner, is prominent workers’ rights advocate and a leading progressive voice As cinemagoers flock to The Odyssey , Democrats in Maine are hoping that their long and perilous quest for a political hero ends…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Really inappropriate’: teachers decry plan for humanoid robot in New York high school",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school",
+      "published": "2026-07-25T12:00:42+00:00",
+      "summary": "Robot from company that acquired sex doll maker to be introduced in school with large Native American population A humanoid robot is being introduced as part of a pilot program, along with an AI teaching assistant, at Salamanca high school…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "‘I’m over the moon’: New York’s small business owners rejoice as Mamdani cuts red tape",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/zohran-mamdani-small-business-policies",
+      "published": "2026-07-25T11:00:41+00:00",
+      "summary": "Initiatives including cutting permits just to serve ice-cream amount to a sweeping program of deregulation Red Scare? The democratic socialist mayor of New York City spent this week talking about red tape.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT",
       "source": "The Guardian US",
@@ -17,46 +67,6 @@
       "score": 10
     },
     {
-      "title": "Two dozen states sue Trump White House for politicizing Fema disaster aid",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/states-sue-trump-administration-fema-disaster-funding",
-      "published": "2026-07-24T16:28:54+00:00",
-      "summary": "The 25 Democratic attorneys general say administration imposed ‘unlawful’ conditions on federal disaster grants A group of 25 Democratic attorneys general led by California’s Rob Bonta are taking the Trump administration to court for…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "What we've been playing - \"Gosh I had a really fun 30 minutes with Marvel Tokon before PSN went down\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-marvel-tokon-psn-down",
-      "published": "2026-07-25T07:00:00+00:00",
-      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Trump’s rambling gala address included insults, potshots and quip about a third presidential term",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington",
-      "published": "2026-07-25T04:25:35+00:00",
-      "summary": "President mocks political opponents and journalists in mostly light-hearted, hour-long speech at White House correspondents’ dinner Donald Trump joked around with the room of journalists who he again accused of producing “fake news” as he…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Trump escalates Smithsonian attack with order for signs outside history museum",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-smithsonian-history-museum",
-      "published": "2026-07-25T00:01:38+00:00",
-      "summary": "President directs interior department to display signs outside museum that accuse institution of inaccuracy Donald Trump on Friday ordered the interior department to display signs in front of the Smithsonian National Museum of American…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
       "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
       "source": "Ars Technica",
       "category": "AI / privacy",
@@ -64,16 +74,6 @@
       "published": "2026-07-24T21:56:02+00:00",
       "summary": "“Halting this merger while our case proceeds is a critical victory,\" NY AG said.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "Trump threatens EU with ‘substantial’ tariffs over fines of US tech giants",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs",
-      "published": "2026-07-24T21:22:39+00:00",
-      "summary": "After Google fined €890m by EU, US president said Brussels was ‘robbing’ American companies and taxpayers What to know about Trump’s new tariffs on more than 80 countries Donald Trump has threatened the European Union with additional and…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -87,33 +87,33 @@
       "score": 9
     },
     {
-      "title": "Students Convene to Hammer Out AI Bill of Rights for Schools",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/students-convene-to-hammer-out-ai-bill-of-rights-for-schools/",
-      "published": "2026-07-24T16:30:00+00:00",
-      "summary": "BOSTON — Tatiyana Reaves got into trouble recently for writing a one-syllable word — and not the one you’d think. Taking a computer class at her Fayetteville, N.C., high school, she handed in a paper with the offending word: whilst.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
+      "title": "COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool?",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/07/25/g-s1-135194/summer-heat-egypt-cairo-air-conditioning",
+      "published": "2026-07-25T12:05:34+00:00",
+      "summary": "Back in the '90s, I learned the art of staying cool in Egypt. At that time, air conditioning was not common. In the extremely hot summer of 2026, how are people managing?",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
-      "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
+      "title": "With help from data, art museums are reframing the visitor experience",
       "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
-      "published": "2026-07-24T22:28:20+00:00",
-      "summary": "\"Any potential damage will be assessed when it is safe to do so.\"",
+      "url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
+      "published": "2026-07-25T11:00:32+00:00",
+      "summary": "Museums are embracing data-driven curation and a shifting technology landscape.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 8
     },
     {
-      "title": "U.S. reports highest number of measles cases in 35 years",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/24/nx-s1-5905694/u-s-reports-highest-number-of-measles-cases-in-35-years",
-      "published": "2026-07-24T20:32:18+00:00",
-      "summary": "For the second year in a row, the U.S. has reported a record-breaking number of measles cases.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "What are we all playing this weekend?",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-392",
+      "published": "2026-07-25T07:01:00+00:00",
+      "summary": "I spent most of last Saturday laid out in a Baku hotel room, muscles in both legs ground to flecks of useless meat by the decision to walk down a mountain when there was a perfectly good funicular right there .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8
     },
     {
