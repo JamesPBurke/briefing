@@ -1,88 +1,118 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-25T14:00:02.083503Z",
-  "generatedAtDisplay": "2026-07-25 10:00 AM EDT",
+  "generatedAt": "2026-07-26T05:00:02.753967Z",
+  "generatedAtDisplay": "2026-07-26 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are India’s education minister resigns in victory for Cockroach youth movement protests, How the kidnapping of two forest service workers unfolded in California, and Troy Jackson: the Maine lumberjack Democrats believe can beat Susan Collins.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are One killed and 16 injured after van crashes into crowd at Berlin Pride, Commit cinematic sacrilege in Baldur's Gate 3 with this true third-person camera mod, and Appeals court rejects Trump bid to curb mail-in voting in 23 states.",
   "mainItems": [
     {
-      "title": "India’s education minister resigns in victory for Cockroach youth movement protests",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/world/2026/jul/25/dharmendra-pradhan-india-education-minister-resigns-cockroach-movement",
-      "published": "2026-07-25T13:54:33+00:00",
-      "summary": "Dharmendra Pradhan steps down after demonstrations over exam leak scandal, prompting celebrations among thousands of protesters India’s education minister, Dharmendra Pradhan, has resigned after a week of mass demonstrations, handing a…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "How the kidnapping of two forest service workers unfolded in California",
+      "title": "One killed and 16 injured after van crashes into crowd at Berlin Pride",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/california-forest-service-kidnapping-shasta",
-      "published": "2026-07-25T13:00:42+00:00",
-      "summary": "Two biologists were taken hostage for about 15 hours by a man and his son in a remote part of Shasta-Trinity national forest Two biologists with the US Forest Service were surveying frog habitats in the remote wilderness of the…",
+      "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
+      "published": "2026-07-25T23:51:08+00:00",
+      "summary": "Suspected ⁠perpetrator ⁠identified by police as member of ⁠city’s ‘Islamist scene’ The German chancellor, Friedrich Merz, vowed to punish those responsible after a car struck people on the outskirts of Berlin’s Gay Pride celebrations,…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Troy Jackson: the Maine lumberjack Democrats believe can beat Susan Collins",
-      "source": "The Guardian US",
+      "title": "Commit cinematic sacrilege in Baldur's Gate 3 with this true third-person camera mod",
+      "source": "Rock Paper Shotgun",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/democrats-troy-jackson-susan-collins-maine",
-      "published": "2026-07-25T12:00:43+00:00",
-      "summary": "Jackson, set to replace Graham Platner, is prominent workers’ rights advocate and a leading progressive voice As cinemagoers flock to The Odyssey , Democrats in Maine are hoping that their long and perilous quest for a political hero ends…",
+      "url": "https://www.rockpapershotgun.com/commit-cinematic-sacrilege-in-baldurs-gate-3-with-this-true-third-person-camera-mod",
+      "published": "2026-07-25T21:51:54+00:00",
+      "summary": "Video game cameras are often a point of contention primarily because a bad one can completely disorient you, or even outright make you feel sick.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "‘Really inappropriate’: teachers decry plan for humanoid robot in New York high school",
+      "title": "Appeals court rejects Trump bid to curb mail-in voting in 23 states",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school",
-      "published": "2026-07-25T12:00:42+00:00",
-      "summary": "Robot from company that acquired sex doll maker to be introduced in school with large Native American population A humanoid robot is being introduced as part of a pilot program, along with an AI teaching assistant, at Salamanca high school…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "‘I’m over the moon’: New York’s small business owners rejoice as Mamdani cuts red tape",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/zohran-mamdani-small-business-policies",
-      "published": "2026-07-25T11:00:41+00:00",
-      "summary": "Initiatives including cutting permits just to serve ice-cream amount to a sweeping program of deregulation Red Scare? The democratic socialist mayor of New York City spent this week talking about red tape.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai",
-      "published": "2026-07-25T05:00:35+00:00",
-      "summary": "Avtar spent decades wondering what happened to the mother he never got to know. Thousands of miles away, Nicci was haunted by the story of a half-brother given away before she was born.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
-      "source": "Ars Technica",
       "category": "AI / privacy",
-      "url": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
-      "published": "2026-07-24T21:56:02+00:00",
-      "summary": "“Halting this merger while our case proceeds is a critical victory,\" NY AG said.",
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/court-rejects-trump-mail-in-voting",
+      "published": "2026-07-25T20:27:22+00:00",
+      "summary": "Judge rejects administration’s request to lift injunction secured by several Democratic-led states on 25 June A federal appeals court on Saturday declined to allow Donald Trump’s administration to implement in 23 states his executive order…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Google basically confirms the Pixel 11 is getting a price hike",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+      "published": "2026-07-25T18:13:36+00:00",
+      "summary": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Inside the growing vigilante movement to knock out Flock surveillance cameras",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
+      "published": "2026-07-25T10:00:39+00:00",
+      "summary": "An underground network of privacy activists is disabling or destroying the ubiquitous surveillance devices sprouting up across the US The first time that “NoMark” tried to knock out a Flock camera feed, he waited an hour for the perfect…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+      "published": "2026-07-25T20:52:30+00:00",
+      "summary": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "What the Data Says About Rhode Island’s 7-year Takeover of Providence Schools",
+      "title": "Ringwyrm might have a nasty sounding name, but its action horror, fantasy Soviet vibes are too compelling to ignore",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/ringwyrm-might-have-a-nasty-sounding-name-but-its-action-horror-fantasy-soviet-vibes-are-too-compelling-to-ignore",
+      "published": "2026-07-25T20:32:57+00:00",
+      "summary": "If we ignore the many, many negatives that came with the late 90s/early 2000s era of video marketing, there was a certain charm to the edginess that I kind of wish was still around in some ways.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Cecilia Vega of 60 Minutes says she felt pressure from CBS to add ‘political bias’",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/cecilia-vega-60-minutes-cbs-political-bias",
+      "published": "2026-07-25T18:08:37+00:00",
+      "summary": "Vega made remarks to ABC’s John Quiñones at National Association of Hispanic Journalists conference Cecilia Vega, the former 60 Minutes correspondent, said on Thursday she felt pressured by CBS News’s executives to incorporate “political…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Thick as Thieves studio does what triple-A won't: keep its game playable",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/thick-as-thieves-studio-does-what-triple-a-wont-keep-its-game-playable",
+      "published": "2026-07-25T18:00:27+00:00",
+      "summary": "Poor Thick as Thieves. When it was revealed over two years ago it had some promise, or at the very least an interesting mechanical premise in that it was a multiplayer immersive sim where everyone would be competing for the same loot.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Silent Hill f writers were challenged to read \"100-200 books a year\" during production",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/silent-hill-f-writers-read-100-200-books-a-year-during-development",
+      "published": "2026-07-25T17:25:17+00:00",
+      "summary": "Silent Hill producer Motoi Okamoto said the scriptwriters of Silent Hill f \"pressured each other\" to read \"100 to 200 books a year\", including those from f's writer Ryukishi07, to ensure they had a thorough understanding of the writer's…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Rural NY School District Will Be One of First to Bring Humanoid Robot Into Classroom",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/what-the-data-says-about-rhode-islands-7-year-takeover-of-providence-schools/",
-      "published": "2026-07-24T18:30:00+00:00",
-      "summary": "By some metrics, things are looking up for the Providence Public School District (PPSD). Students are coming to class more often. Their standardized test scores are rising. And more of them are graduating high school.",
+      "url": "https://www.the74million.org/article/rural-ny-school-district-will-be-one-of-first-to-bring-humanoid-robot-into-classroom/",
+      "published": "2026-07-25T16:30:00+00:00",
+      "summary": "This story originally appeared in New York Focus, a nonprofit news publication investigating power in New York. Sign up for their newsletter here.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
@@ -97,44 +127,14 @@
       "score": 8
     },
     {
-      "title": "With help from data, art museums are reframing the visitor experience",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
-      "published": "2026-07-25T11:00:32+00:00",
-      "summary": "Museums are embracing data-driven curation and a shifting technology landscape.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
-    },
-    {
-      "title": "What are we all playing this weekend?",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-392",
-      "published": "2026-07-25T07:01:00+00:00",
-      "summary": "I spent most of last Saturday laid out in a Baku hotel room, muscles in both legs ground to flecks of useless meat by the decision to walk down a mountain when there was a perfectly good funicular right there .",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8
-    },
-    {
-      "title": "Blade Runner 2099 Trailer Finally Reveals the Show’s Plot",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/blade-runner-2099-trailer-plot/",
-      "published": "2026-07-24T19:59:19+00:00",
-      "summary": "Hunter Schafer and Michelle Yeoh star in a bold new Blade Runner story The post Blade Runner 2099 Trailer Finally Reveals the Show’s Plot appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
-      "title": "Behind the Blog: No Spoilers",
+      "title": "Scientists Uncover Lost ‘Golden Age’ of Languages That Ended 1,000 Years Ago",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/behind-the-blog-no-spoilers/",
-      "published": "2026-07-24T18:11:04+00:00",
-      "summary": "This week, we discuss astrology, Flock on the brain, The Odyssey, and more.",
+      "url": "https://www.404media.co/scientists-uncover-lost-golden-age-of-languages-that-ended-1-000-years-ago/",
+      "published": "2026-07-25T10:00:43+00:00",
+      "summary": "Scientists have predicted that human linguistic diversity flourished between 3,000 and 1,000 years ago, before declining with the rise of multinational states and colonial expansion.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
     }
   ],
   "youtube": [
@@ -161,6 +161,17 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "Florida man claims ChatGPT gave 'dangerous' medical advice in lawsuit",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=3bWhYVaTu6Y",
+      "published": "2026-07-25T16:00:15+00:00",
+      "summary": "A man in Florida is suing OpenAI, alleging ChatGPT gave him dangerous medical advice during a health crisis. The lawsuit comes as AI companies are promoting their chatbots as resources for users to better understand their health.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
       "title": "How Ukrainians are navigating Russia's targeting of civilian gas stations",
       "source": "NPR",
       "category": "News / analysis",
@@ -179,8 +190,8 @@
       "published": "2026-07-24T16:00:00+00:00",
       "summary": "The police-involved shooting death of 38-year-old Corey Ruiz is being investigated as a homicide. Warning: This video contains graphic content that could be upsetting for some viewers.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Ukraine’s leadership shakeup / View from Moscow / Is Russia a friend or foe? | Sources & Methods",
@@ -216,26 +227,37 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "Protests in New Delhi demand India's education minister resign",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=WY7VWIE9OqE",
-      "published": "2026-07-22T19:00:28+00:00",
-      "summary": "Thousands of young people marched to India's parliament Monday, demanding the resignation of its controversial education minister, Dharmendra Pradhan. The police stopped them with batons and barricades.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "title": "Is Doom THE Great American Game?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=wGVyMkQbT2U",
+      "published": "2026-07-25T16:00:31+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/uA2FFqehLrE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
-      "title": "Smithsonian too focused on 'oppressors and the oppressed,' say House Republicans",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=qY5KL3sWqcA",
-      "published": "2026-07-22T17:00:04+00:00",
-      "summary": "The director of the Smithsonian’s National Museum of American History was on Capitol Hill yesterday, answering questions from members of a House subcommittee.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "title": "Oliver's Cat Is Finally Revealed",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=yBWRnR5M3ac",
+      "published": "2026-07-25T16:00:30+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/uA2FFqehLrE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "10 Years Since We Revealed Tegra X1/Nintendo Switch Specs!",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=1lCRipybEL0",
+      "published": "2026-07-25T15:00:33+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/rdgNC-IId_g ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Dying Light The Beast Cancelled for PS4 and Xbox One",
@@ -245,8 +267,8 @@
       "published": "2026-07-24T17:00:22+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/rdgNC-IId_g ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Report: Nintendo Considering Switch 2 OLED Panel From Samsung",
@@ -256,8 +278,8 @@
       "published": "2026-07-24T16:00:09+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/rdgNC-IId_g ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Dragon's Dogma 2 Switch 2 Optimisations Will Benefit All Systems",
@@ -282,26 +304,15 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "AMD's Ryzen 7 7700X3D Tested - The Right Chip At The Wrong Price",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=RdUyS80W7rk",
-      "published": "2026-07-22T17:00:30+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/rdgNC-IId_g ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "title": "One Call, That's All | Adventure Is Nigh! - The Slow Walk Home | Ep. 6",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=k8v8PxgBVes",
+      "published": "2026-07-25T16:00:06+00:00",
+      "summary": "Adventure Is Nigh! is powered by Foundry Virtual Tabletop, A Self-Hosted & Modern Roleplaying Platform: https://foundryvtt.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Microsoft Account Suspensions Lifted - But Lack of Consumer Rights Comes Into Focus",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=olnVIqHmbdk",
-      "published": "2026-07-22T16:00:06+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/rdgNC-IId_g ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
     },
     {
       "title": "Stardew Valley Bingo | Jess vs Jenna",
@@ -322,8 +333,8 @@
       "published": "2026-07-24T17:30:27+00:00",
       "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "How to Do Cooperative Worldbuilding | RPG Help Desk",
@@ -368,28 +379,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
-    },
-    {
-      "title": "One Call, That's All | Adventure Is Nigh! - The Slow Walk Home | Ep. 6",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=k8v8PxgBVes",
-      "published": "2026-07-23T13:52:00+00:00",
-      "summary": "Adventure Is Nigh! is powered by Foundry Virtual Tabletop, A Self-Hosted & Modern Roleplaying Platform: https://foundryvtt.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Dusting Off the Wii U for Star Fox Zero w/ KC and Marty",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=F129c8yWD4M",
-      "published": "2026-07-23T00:53:30+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
     }
   ],
   "trailers": [
@@ -625,6 +614,61 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Silo — Season 4 Announcement | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=w6G-A-vvBbE",
+      "published": "2026-07-25T22:59:37+00:00",
+      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.co/_Silo The end is near.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Neuromancer — Official Teaser | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=g79GPZSQHBk",
+      "published": "2026-07-25T22:00:11+00:00",
+      "summary": "Callum Turner stars in the cyberpunk series adapted from William Gibson's genre-defining 1984 novel. Streaming on Apple TV on January 22. http://apple.co/_neuromancer See you on the other side, cowboy.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Dark Matter — Season 2 Official Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=zhB6_1UbR7s",
+      "published": "2026-07-25T21:45:09+00:00",
+      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. Dark Matter Season 2 — August 28 on Apple TV https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Dark Matter — The Official Podcast: Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=CFQU5x9H6P0",
+      "published": "2026-07-25T21:45:05+00:00",
+      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Matchbox The Movie — Official Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=7xfqITrMDcI",
+      "published": "2026-07-25T21:30:05+00:00",
+      "summary": "Save the world. Bring your friends. Inspired by the iconic Mattel toys, John Cena and Jessica Biel star in Matchbox The Movie. Coming October 9 to Apple TV. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Kidnapped by himself. Hypothetically. Catch up on #DarkMatter before Season 2 premieres August 28.",
       "source": "Apple TV",
       "category": "TV / trailer",
@@ -653,28 +697,6 @@
       "url": "https://www.youtube.com/watch?v=Kfcppzds68Q",
       "published": "2026-07-21T16:59:49+00:00",
       "summary": "“Breaking Bad” creator Vince Gilligan’s science fiction drama starring Emmy Award nominee Rhea Seehorn is now streaming on Apple TV.https://apple.co/_Pluribus Pluribus bloopers have arrived.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Women in Blue — Season 2 Official Trailer | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Z9n3TkdcGLY",
-      "published": "2026-07-21T13:59:47+00:00",
-      "summary": "Mexico's first female police force is back. A deadly conspiracy leads straight to their door, forcing four women to question the true cost of justice. Mexico’s most courageous against corruption.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Silo — Juliette Enters the Mines | Season 3 Scene | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=ZOZYfpINMco",
-      "published": "2026-07-20T18:59:50+00:00",
-      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -791,8 +813,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 23,
-    "trailerCount": 26,
-    "sourceCount": 21
+    "youtubeCount": 22,
+    "trailerCount": 29,
+    "sourceCount": 22
   }
 }

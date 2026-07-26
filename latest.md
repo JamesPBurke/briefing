@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-25T14:00:02.083503Z
+Generated: 2026-07-26T05:00:02.753967Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are India’s education minister resigns in victory for Cockroach youth movement protests, How the kidnapping of two forest service workers unfolded in California, and Troy Jackson: the Maine lumberjack Democrats believe can beat Susan Collins.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are One killed and 16 injured after van crashes into crowd at Berlin Pride, Commit cinematic sacrilege in Baldur's Gate 3 with this true third-person camera mod, and Appeals court rejects Trump bid to curb mail-in voting in 23 states.
 
 ## Briefing
 
@@ -33,79 +33,106 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. India’s education minister resigns in victory for Cockroach youth movement protests [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Dharmendra Pradhan steps down after demonstrations over exam leak scandal, prompting celebrations among thousands of protesters India’s education minister, Dharmendra Pradhan, has resigned after a week of mass demonstrations, handing a…
-
-Link: https://www.theguardian.com/world/2026/jul/25/dharmendra-pradhan-india-education-minister-resigns-cockroach-movement
-
-### 2. How the kidnapping of two forest service workers unfolded in California [10/10]
+### 1. One killed and 16 injured after van crashes into crowd at Berlin Pride [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Two biologists were taken hostage for about 15 hours by a man and his son in a remote part of Shasta-Trinity national forest Two biologists with the US Forest Service were surveying frog habitats in the remote wilderness of the…
+Suspected ⁠perpetrator ⁠identified by police as member of ⁠city’s ‘Islamist scene’ The German chancellor, Friedrich Merz, vowed to punish those responsible after a car struck people on the outskirts of Berlin’s Gay Pride celebrations,…
 
-Link: https://www.theguardian.com/us-news/2026/jul/25/california-forest-service-kidnapping-shasta
+Link: https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route
 
-### 3. Troy Jackson: the Maine lumberjack Democrats believe can beat Susan Collins [10/10]
-**Source:** The Guardian US  
+### 2. Commit cinematic sacrilege in Baldur's Gate 3 with this true third-person camera mod [10/10]
+**Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Jackson, set to replace Graham Platner, is prominent workers’ rights advocate and a leading progressive voice As cinemagoers flock to The Odyssey , Democrats in Maine are hoping that their long and perilous quest for a political hero ends…
+Video game cameras are often a point of contention primarily because a bad one can completely disorient you, or even outright make you feel sick.
 
-Link: https://www.theguardian.com/us-news/2026/jul/25/democrats-troy-jackson-susan-collins-maine
+Link: https://www.rockpapershotgun.com/commit-cinematic-sacrilege-in-baldurs-gate-3-with-this-true-third-person-camera-mod
 
-### 4. ‘Really inappropriate’: teachers decry plan for humanoid robot in New York high school [10/10]
+### 3. Appeals court rejects Trump bid to curb mail-in voting in 23 states [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Judge rejects administration’s request to lift injunction secured by several Democratic-led states on 25 June A federal appeals court on Saturday declined to allow Donald Trump’s administration to implement in 23 states his executive order…
+
+Link: https://www.theguardian.com/us-news/2026/jul/25/court-rejects-trump-mail-in-voting
+
+### 4. Google basically confirms the Pixel 11 is getting a price hike [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10.
+
+Link: https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike
+
+### 5. Inside the growing vigilante movement to knock out Flock surveillance cameras [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+An underground network of privacy activists is disabling or destroying the ubiquitous surveillance devices sprouting up across the US The first time that “NoMark” tried to knock out a Flock camera feed, he waited an hour for the perfect…
+
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras
+
+### 6. SDCC teaser gives us our first good look at Blade Runner 2099 [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.
+
+Link: https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/
+
+### 7. Ringwyrm might have a nasty sounding name, but its action horror, fantasy Soviet vibes are too compelling to ignore [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+If we ignore the many, many negatives that came with the late 90s/early 2000s era of video marketing, there was a certain charm to the edginess that I kind of wish was still around in some ways.
+
+Link: https://www.rockpapershotgun.com/ringwyrm-might-have-a-nasty-sounding-name-but-its-action-horror-fantasy-soviet-vibes-are-too-compelling-to-ignore
+
+### 8. Cecilia Vega of 60 Minutes says she felt pressure from CBS to add ‘political bias’ [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Robot from company that acquired sex doll maker to be introduced in school with large Native American population A humanoid robot is being introduced as part of a pilot program, along with an AI teaching assistant, at Salamanca high school…
+Vega made remarks to ABC’s John Quiñones at National Association of Hispanic Journalists conference Cecilia Vega, the former 60 Minutes correspondent, said on Thursday she felt pressured by CBS News’s executives to incorporate “political…
 
-Link: https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school
+Link: https://www.theguardian.com/us-news/2026/jul/25/cecilia-vega-60-minutes-cbs-political-bias
 
-### 5. ‘I’m over the moon’: New York’s small business owners rejoice as Mamdani cuts red tape [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 9. Thick as Thieves studio does what triple-A won't: keep its game playable [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Initiatives including cutting permits just to serve ice-cream amount to a sweeping program of deregulation Red Scare? The democratic socialist mayor of New York City spent this week talking about red tape.
+Poor Thick as Thieves. When it was revealed over two years ago it had some promise, or at the very least an interesting mechanical premise in that it was a multiplayer immersive sim where everyone would be competing for the same loot.
 
-Link: https://www.theguardian.com/us-news/2026/jul/25/zohran-mamdani-small-business-policies
+Link: https://www.rockpapershotgun.com/thick-as-thieves-studio-does-what-triple-a-wont-keep-its-game-playable
 
-### 6. ‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 10. Silent Hill f writers were challenged to read "100-200 books a year" during production [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Avtar spent decades wondering what happened to the mother he never got to know. Thousands of miles away, Nicci was haunted by the story of a half-brother given away before she was born.
+Silent Hill producer Motoi Okamoto said the scriptwriters of Silent Hill f "pressured each other" to read "100 to 200 books a year", including those from f's writer Ryukishi07, to ensure they had a thorough understanding of the writer's…
 
-Link: https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai
+Link: https://www.eurogamer.net/silent-hill-f-writers-read-100-200-books-a-year-during-development
 
-### 7. Paramount/WBD merger delayed for months as states' lawsuit moves toward trial [9/10]
-**Source:** Ars Technica  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-“Halting this merger while our case proceeds is a critical victory," NY AG said.
-
-Link: https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/
-
-### 8. What the Data Says About Rhode Island’s 7-year Takeover of Providence Schools [9/10]
+### 11. Rural NY School District Will Be One of First to Bring Humanoid Robot Into Classroom [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-By some metrics, things are looking up for the Providence Public School District (PPSD). Students are coming to class more often. Their standardized test scores are rising. And more of them are graduating high school.
+This story originally appeared in New York Focus, a nonprofit news publication investigating power in New York. Sign up for their newsletter here.
 
-Link: https://www.the74million.org/article/what-the-data-says-about-rhode-islands-7-year-takeover-of-providence-schools/
+Link: https://www.the74million.org/article/rural-ny-school-district-will-be-one-of-first-to-bring-humanoid-robot-into-classroom/
 
-### 9. COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool? [8/10]
+### 12. COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool? [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -114,41 +141,14 @@ Back in the '90s, I learned the art of staying cool in Egypt. At that time, air 
 
 Link: https://www.npr.org/2026/07/25/g-s1-135194/summer-heat-egypt-cairo-air-conditioning
 
-### 10. With help from data, art museums are reframing the visitor experience [8/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Museums are embracing data-driven curation and a shifting technology landscape.
-
-Link: https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/
-
-### 11. What are we all playing this weekend? [8/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-I spent most of last Saturday laid out in a Baku hotel room, muscles in both legs ground to flecks of useless meat by the decision to walk down a mountain when there was a perfectly good funicular right there .
-
-Link: https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-392
-
-### 12. Blade Runner 2099 Trailer Finally Reveals the Show’s Plot [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Hunter Schafer and Michelle Yeoh star in a bold new Blade Runner story The post Blade Runner 2099 Trailer Finally Reveals the Show’s Plot appeared first on Reactor .
-
-Link: https://reactormag.com/blade-runner-2099-trailer-plot/
-
-### 13. Behind the Blog: No Spoilers [8/10]
+### 13. Scientists Uncover Lost ‘Golden Age’ of Languages That Ended 1,000 Years Ago [7/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-This week, we discuss astrology, Flock on the brain, The Odyssey, and more.
+Scientists have predicted that human linguistic diversity flourished between 3,000 and 1,000 years ago, before declining with the rise of multinational states and colonial expansion.
 
-Link: https://www.404media.co/behind-the-blog-no-spoilers/
+Link: https://www.404media.co/scientists-uncover-lost-golden-age-of-languages-that-ended-1-000-years-ago/
 
 ## YouTube
 
@@ -170,6 +170,15 @@ The Stokes Twins visit WIRED to answer their most searched questions on Google.
 
 Link: https://www.youtube.com/watch?v=1NuJHjaWWZg
 
+### Florida man claims ChatGPT gave 'dangerous' medical advice in lawsuit [9/10]
+**Creator:** NPR  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+A man in Florida is suing OpenAI, alleging ChatGPT gave him dangerous medical advice during a health crisis. The lawsuit comes as AI companies are promoting their chatbots as resources for users to better understand their health.
+
+Link: https://www.youtube.com/watch?v=3bWhYVaTu6Y
+
 ### How Ukrainians are navigating Russia's targeting of civilian gas stations [7/10]
 **Creator:** NPR  
 **Verdict:** Probably worth watching  
@@ -179,9 +188,9 @@ Russia is targeting civilian gas stations across Ukraine, perhaps in response to
 
 Link: https://www.youtube.com/watch?v=599wR60gLRk
 
-### Wisconsin police investigating fatal officer-involved shooting [9/10]
+### Wisconsin police investigating fatal officer-involved shooting [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 The police-involved shooting death of 38-year-old Corey Ruiz is being investigated as a homicide. Warning: This video contains graphic content that could be upsetting for some viewers.
@@ -215,36 +224,45 @@ Luke McFadden and Jack Torney are two of the few young crabbers who are keeping 
 
 Link: https://www.youtube.com/watch?v=fLYI6Ig3qjs
 
-### Protests in New Delhi demand India's education minister resign [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
+### Is Doom THE Great American Game? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
-Thousands of young people marched to India's parliament Monday, demanding the resignation of its controversial education minister, Dharmendra Pradhan. The police stopped them with batons and barricades.
+► Watch the Full Video Here: https://youtu.be/uA2FFqehLrE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
-Link: https://www.youtube.com/watch?v=WY7VWIE9OqE
+Link: https://www.youtube.com/watch?v=wGVyMkQbT2U
 
-### Smithsonian too focused on 'oppressors and the oppressed,' say House Republicans [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
+### Oliver's Cat Is Finally Revealed [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
-The director of the Smithsonian’s National Museum of American History was on Capitol Hill yesterday, answering questions from members of a House subcommittee.
+► Watch the Full Video Here: https://youtu.be/uA2FFqehLrE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
-Link: https://www.youtube.com/watch?v=qY5KL3sWqcA
+Link: https://www.youtube.com/watch?v=yBWRnR5M3ac
 
-### Dying Light The Beast Cancelled for PS4 and Xbox One [7/10]
+### 10 Years Since We Revealed Tegra X1/Nintendo Switch Specs! [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/rdgNC-IId_g ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
+Link: https://www.youtube.com/watch?v=1lCRipybEL0
+
+### Dying Light The Beast Cancelled for PS4 and Xbox One [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/rdgNC-IId_g ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
 Link: https://www.youtube.com/watch?v=aeknAdy39lw
 
-### Report: Nintendo Considering Switch 2 OLED Panel From Samsung [7/10]
+### Report: Nintendo Considering Switch 2 OLED Panel From Samsung [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/rdgNC-IId_g ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -269,23 +287,14 @@ Link: https://www.youtube.com/watch?v=mPWaTpWwGOQ
 
 Link: https://www.youtube.com/watch?v=qkihARQlI5c
 
-### AMD's Ryzen 7 7700X3D Tested - The Right Chip At The Wrong Price [7/10]
-**Creator:** Digital Foundry  
+### One Call, That's All | Adventure Is Nigh! - The Slow Walk Home | Ep. 6 [7/10]
+**Creator:** Second Wind  
 **Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Watch the Full Video Here: https://youtu.be/rdgNC-IId_g ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+Adventure Is Nigh! is powered by Foundry Virtual Tabletop, A Self-Hosted & Modern Roleplaying Platform: https://foundryvtt.
 
-Link: https://www.youtube.com/watch?v=RdUyS80W7rk
-
-### Microsoft Account Suspensions Lifted - But Lack of Consumer Rights Comes Into Focus [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/rdgNC-IId_g ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=olnVIqHmbdk
+Link: https://www.youtube.com/watch?v=k8v8PxgBVes
 
 ### Stardew Valley Bingo | Jess vs Jenna [6/10]
 **Creator:** Second Wind  
@@ -296,9 +305,9 @@ As funded by our wonderful community, Jess and Jenna are going head-to-head in S
 
 Link: https://www.youtube.com/watch?v=u0bT58BYDo4
 
-### There’s Just Too Many Darn Games | Unpacked [9/10]
+### There’s Just Too Many Darn Games | Unpacked [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
@@ -340,24 +349,6 @@ Link: https://www.youtube.com/watch?v=lvSjbnxpYZo
 In KC Nwosu's latest video essay, he digs into the long-running space opera, and argues why the story of Star Fox might secretly be the Nintendo's best. Support us on Patreon: https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=z8GpP8r1oTM
-
-### One Call, That's All | Adventure Is Nigh! - The Slow Walk Home | Ep. 6 [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Adventure Is Nigh! is powered by Foundry Virtual Tabletop, A Self-Hosted & Modern Roleplaying Platform: https://foundryvtt.
-
-Link: https://www.youtube.com/watch?v=k8v8PxgBVes
-
-### Dusting Off the Wii U for Star Fox Zero w/ KC and Marty [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
-
-Link: https://www.youtube.com/watch?v=F129c8yWD4M
 
 ## Entertainment Recommendations
 
@@ -577,6 +568,51 @@ The ALMOST true story of Captain Usopp the Brave! The Straw Hats are back in thi
 
 Link: https://www.youtube.com/watch?v=NfcWSGZdnAs
 
+### Silo — Season 4 Announcement | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.co/_Silo The end is near.
+
+Link: https://www.youtube.com/watch?v=w6G-A-vvBbE
+
+### Neuromancer — Official Teaser | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Callum Turner stars in the cyberpunk series adapted from William Gibson's genre-defining 1984 novel. Streaming on Apple TV on January 22. http://apple.co/_neuromancer See you on the other side, cowboy.
+
+Link: https://www.youtube.com/watch?v=g79GPZSQHBk
+
+### Dark Matter — Season 2 Official Trailer | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. Dark Matter Season 2 — August 28 on Apple TV https://apple.
+
+Link: https://www.youtube.com/watch?v=zhB6_1UbR7s
+
+### Dark Matter — The Official Podcast: Trailer | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.
+
+Link: https://www.youtube.com/watch?v=CFQU5x9H6P0
+
+### Matchbox The Movie — Official Trailer | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Save the world. Bring your friends. Inspired by the iconic Mattel toys, John Cena and Jessica Biel star in Matchbox The Movie. Coming October 9 to Apple TV. https://apple.
+
+Link: https://www.youtube.com/watch?v=7xfqITrMDcI
+
 ### Kidnapped by himself. Hypothetically. Catch up on #DarkMatter before Season 2 premieres August 28. [10/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
@@ -603,21 +639,3 @@ Link: https://www.youtube.com/watch?v=IstlMM62U8M
 “Breaking Bad” creator Vince Gilligan’s science fiction drama starring Emmy Award nominee Rhea Seehorn is now streaming on Apple TV.https://apple.co/_Pluribus Pluribus bloopers have arrived.
 
 Link: https://www.youtube.com/watch?v=Kfcppzds68Q
-
-### Women in Blue — Season 2 Official Trailer | Apple TV [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Mexico's first female police force is back. A deadly conspiracy leads straight to their door, forcing four women to question the true cost of justice. Mexico’s most courageous against corruption.
-
-Link: https://www.youtube.com/watch?v=Z9n3TkdcGLY
-
-### Silo — Juliette Enters the Mines | Season 3 Scene | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.
-
-Link: https://www.youtube.com/watch?v=ZOZYfpINMco
