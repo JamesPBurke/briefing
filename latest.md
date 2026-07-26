@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-26T05:00:02.753967Z
+Generated: 2026-07-26T09:00:25.453650Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are One killed and 16 injured after van crashes into crowd at Berlin Pride, Commit cinematic sacrilege in Baldur's Gate 3 with this true third-person camera mod, and Appeals court rejects Trump bid to curb mail-in voting in 23 states.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Europe wildfires: more than 300,000 flee homes and holiday accommodation in France and Spain as fires rage, Police hunt for suspect after one killed and 16 injured in attack at Berlin Pride, and UK journalists ‘self-censoring stories about Trump and the right over safety fears’.
 
 ## Briefing
 
@@ -33,16 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. One killed and 16 injured after van crashes into crowd at Berlin Pride [10/10]
+### 1. Europe wildfires: more than 300,000 flee homes and holiday accommodation in France and Spain as fires rage [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Suspected ⁠perpetrator ⁠identified by police as member of ⁠city’s ‘Islamist scene’ The German chancellor, Friedrich Merz, vowed to punish those responsible after a car struck people on the outskirts of Berlin’s Gay Pride celebrations,…
+Fires displace people on massive scale and trigger one of the largest peacetime civilian evacuation operations ever carried out in France More than 250,000 people flee wildfires in France and Spain As my colleagues note in this story ,…
+
+Link: https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations
+
+### 2. Police hunt for suspect after one killed and 16 injured in attack at Berlin Pride [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Authorities ask for help finding 21-year-old, identified only as Abdul B, after van ramming in German capital German authorities have issued a wanted notice for a fugitive suspect in the van ramming near Berlin’s Pride festival that left…
 
 Link: https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route
 
-### 2. Commit cinematic sacrilege in Baldur's Gate 3 with this true third-person camera mod [10/10]
+### 3. UK journalists ‘self-censoring stories about Trump and the right over safety fears’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Government-backed investigation finds risks are normalised amid ‘a narrowing of the public conversation’ Journalists are self-censoring their reporting on rightwing protests, Donald Trump’s administration and trans issues because of…
+
+Link: https://www.theguardian.com/media/2026/jul/26/uk-journalists-changed-how-what-report-fears-safety
+
+### 4. Commit cinematic sacrilege in Baldur's Gate 3 with this true third-person camera mod [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,7 +69,7 @@ Video game cameras are often a point of contention primarily because a bad one c
 
 Link: https://www.rockpapershotgun.com/commit-cinematic-sacrilege-in-baldurs-gate-3-with-this-true-third-person-camera-mod
 
-### 3. Appeals court rejects Trump bid to curb mail-in voting in 23 states [10/10]
+### 5. Appeals court rejects Trump bid to curb mail-in voting in 23 states [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -60,7 +78,7 @@ Judge rejects administration’s request to lift injunction secured by several D
 
 Link: https://www.theguardian.com/us-news/2026/jul/25/court-rejects-trump-mail-in-voting
 
-### 4. Google basically confirms the Pixel 11 is getting a price hike [10/10]
+### 6. Google basically confirms the Pixel 11 is getting a price hike [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,7 +87,7 @@ Google's Vice President of Devices and Services, Shakil Barkat, all but confirme
 
 Link: https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike
 
-### 5. Inside the growing vigilante movement to knock out Flock surveillance cameras [10/10]
+### 7. Inside the growing vigilante movement to knock out Flock surveillance cameras [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -78,7 +96,7 @@ An underground network of privacy activists is disabling or destroying the ubiqu
 
 Link: https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras
 
-### 6. SDCC teaser gives us our first good look at Blade Runner 2099 [9/10]
+### 8. SDCC teaser gives us our first good look at Blade Runner 2099 [9/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -87,43 +105,7 @@ Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Sp
 
 Link: https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/
 
-### 7. Ringwyrm might have a nasty sounding name, but its action horror, fantasy Soviet vibes are too compelling to ignore [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-If we ignore the many, many negatives that came with the late 90s/early 2000s era of video marketing, there was a certain charm to the edginess that I kind of wish was still around in some ways.
-
-Link: https://www.rockpapershotgun.com/ringwyrm-might-have-a-nasty-sounding-name-but-its-action-horror-fantasy-soviet-vibes-are-too-compelling-to-ignore
-
-### 8. Cecilia Vega of 60 Minutes says she felt pressure from CBS to add ‘political bias’ [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Vega made remarks to ABC’s John Quiñones at National Association of Hispanic Journalists conference Cecilia Vega, the former 60 Minutes correspondent, said on Thursday she felt pressured by CBS News’s executives to incorporate “political…
-
-Link: https://www.theguardian.com/us-news/2026/jul/25/cecilia-vega-60-minutes-cbs-political-bias
-
-### 9. Thick as Thieves studio does what triple-A won't: keep its game playable [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Poor Thick as Thieves. When it was revealed over two years ago it had some promise, or at the very least an interesting mechanical premise in that it was a multiplayer immersive sim where everyone would be competing for the same loot.
-
-Link: https://www.rockpapershotgun.com/thick-as-thieves-studio-does-what-triple-a-wont-keep-its-game-playable
-
-### 10. Silent Hill f writers were challenged to read "100-200 books a year" during production [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Silent Hill producer Motoi Okamoto said the scriptwriters of Silent Hill f "pressured each other" to read "100 to 200 books a year", including those from f's writer Ryukishi07, to ensure they had a thorough understanding of the writer's…
-
-Link: https://www.eurogamer.net/silent-hill-f-writers-read-100-200-books-a-year-during-development
-
-### 11. Rural NY School District Will Be One of First to Bring Humanoid Robot Into Classroom [9/10]
+### 9. Rural NY School District Will Be One of First to Bring Humanoid Robot Into Classroom [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -131,6 +113,24 @@ Link: https://www.eurogamer.net/silent-hill-f-writers-read-100-200-books-a-year-
 This story originally appeared in New York Focus, a nonprofit news publication investigating power in New York. Sign up for their newsletter here.
 
 Link: https://www.the74million.org/article/rural-ny-school-district-will-be-one-of-first-to-bring-humanoid-robot-into-classroom/
+
+### 10. It’s Official: Ryan Gosling Playing ‘Ghost Rider’ in MCU Movie Being Directed by Shawn Levy [8/10]
+**Source:** Bloody Disgusting  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Ryan GoslingÂ (Project Hail Mary) has made no secret of the fact that heâd love to playÂ Ghost Rider in a Marvel Cinematic Universe movie, and it’s now officially happening.
+
+Link: https://bloody-disgusting.com/movie/3960924/its-official-ryan-gosling-playing-ghost-rider-in-mcu-movie-being-directed-by-shawn-levy/
+
+### 11. Ringwyrm might have a nasty sounding name, but its action horror, fantasy Soviet vibes are too compelling to ignore [8/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+If we ignore the many, many negatives that came with the late 90s/early 2000s era of video marketing, there was a certain charm to the edginess that I kind of wish was still around in some ways.
+
+Link: https://www.rockpapershotgun.com/ringwyrm-might-have-a-nasty-sounding-name-but-its-action-horror-fantasy-soviet-vibes-are-too-compelling-to-ignore
 
 ### 12. COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool? [8/10]
 **Source:** NPR Health  

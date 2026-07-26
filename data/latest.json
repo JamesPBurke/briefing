@@ -1,19 +1,39 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-26T05:00:02.753967Z",
-  "generatedAtDisplay": "2026-07-26 01:00 AM EDT",
+  "generatedAt": "2026-07-26T09:00:25.453650Z",
+  "generatedAtDisplay": "2026-07-26 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are One killed and 16 injured after van crashes into crowd at Berlin Pride, Commit cinematic sacrilege in Baldur's Gate 3 with this true third-person camera mod, and Appeals court rejects Trump bid to curb mail-in voting in 23 states.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Europe wildfires: more than 300,000 flee homes and holiday accommodation in France and Spain as fires rage, Police hunt for suspect after one killed and 16 injured in attack at Berlin Pride, and UK journalists ‘self-censoring stories about Trump and the right over safety fears’.",
   "mainItems": [
     {
-      "title": "One killed and 16 injured after van crashes into crowd at Berlin Pride",
+      "title": "Europe wildfires: more than 300,000 flee homes and holiday accommodation in France and Spain as fires rage",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
+      "published": "2026-07-26T08:50:34+00:00",
+      "summary": "Fires displace people on massive scale and trigger one of the largest peacetime civilian evacuation operations ever carried out in France More than 250,000 people flee wildfires in France and Spain As my colleagues note in this story ,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Police hunt for suspect after one killed and 16 injured in attack at Berlin Pride",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
-      "published": "2026-07-25T23:51:08+00:00",
-      "summary": "Suspected ⁠perpetrator ⁠identified by police as member of ⁠city’s ‘Islamist scene’ The German chancellor, Friedrich Merz, vowed to punish those responsible after a car struck people on the outskirts of Berlin’s Gay Pride celebrations,…",
+      "published": "2026-07-26T08:02:13+00:00",
+      "summary": "Authorities ask for help finding 21-year-old, identified only as Abdul B, after van ramming in German capital German authorities have issued a wanted notice for a fugitive suspect in the van ramming near Berlin’s Pride festival that left…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "UK journalists ‘self-censoring stories about Trump and the right over safety fears’",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/media/2026/jul/26/uk-journalists-changed-how-what-report-fears-safety",
+      "published": "2026-07-26T05:00:04+00:00",
+      "summary": "Government-backed investigation finds risks are normalised amid ‘a narrowing of the public conversation’ Journalists are self-censoring their reporting on rightwing protests, Donald Trump’s administration and trans issues because of…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
@@ -67,46 +87,6 @@
       "score": 9
     },
     {
-      "title": "Ringwyrm might have a nasty sounding name, but its action horror, fantasy Soviet vibes are too compelling to ignore",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/ringwyrm-might-have-a-nasty-sounding-name-but-its-action-horror-fantasy-soviet-vibes-are-too-compelling-to-ignore",
-      "published": "2026-07-25T20:32:57+00:00",
-      "summary": "If we ignore the many, many negatives that came with the late 90s/early 2000s era of video marketing, there was a certain charm to the edginess that I kind of wish was still around in some ways.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Cecilia Vega of 60 Minutes says she felt pressure from CBS to add ‘political bias’",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/cecilia-vega-60-minutes-cbs-political-bias",
-      "published": "2026-07-25T18:08:37+00:00",
-      "summary": "Vega made remarks to ABC’s John Quiñones at National Association of Hispanic Journalists conference Cecilia Vega, the former 60 Minutes correspondent, said on Thursday she felt pressured by CBS News’s executives to incorporate “political…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Thick as Thieves studio does what triple-A won't: keep its game playable",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/thick-as-thieves-studio-does-what-triple-a-wont-keep-its-game-playable",
-      "published": "2026-07-25T18:00:27+00:00",
-      "summary": "Poor Thick as Thieves. When it was revealed over two years ago it had some promise, or at the very least an interesting mechanical premise in that it was a multiplayer immersive sim where everyone would be competing for the same loot.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Silent Hill f writers were challenged to read \"100-200 books a year\" during production",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/silent-hill-f-writers-read-100-200-books-a-year-during-development",
-      "published": "2026-07-25T17:25:17+00:00",
-      "summary": "Silent Hill producer Motoi Okamoto said the scriptwriters of Silent Hill f \"pressured each other\" to read \"100 to 200 books a year\", including those from f's writer Ryukishi07, to ensure they had a thorough understanding of the writer's…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
       "title": "Rural NY School District Will Be One of First to Bring Humanoid Robot Into Classroom",
       "source": "The 74",
       "category": "Education / pedagogy",
@@ -115,6 +95,26 @@
       "summary": "This story originally appeared in New York Focus, a nonprofit news publication investigating power in New York. Sign up for their newsletter here.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
+    },
+    {
+      "title": "It’s Official: Ryan Gosling Playing ‘Ghost Rider’ in MCU Movie Being Directed by Shawn Levy",
+      "source": "Bloody Disgusting",
+      "category": "Sci-fi / horror",
+      "url": "https://bloody-disgusting.com/movie/3960924/its-official-ryan-gosling-playing-ghost-rider-in-mcu-movie-being-directed-by-shawn-levy/",
+      "published": "2026-07-26T01:59:31+00:00",
+      "summary": "Ryan GoslingÂ (Project Hail Mary) has made no secret of the fact that heâd love to playÂ Ghost Rider in a Marvel Cinematic Universe movie, and it’s now officially happening.",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
+    },
+    {
+      "title": "Ringwyrm might have a nasty sounding name, but its action horror, fantasy Soviet vibes are too compelling to ignore",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/ringwyrm-might-have-a-nasty-sounding-name-but-its-action-horror-fantasy-soviet-vibes-are-too-compelling-to-ignore",
+      "published": "2026-07-25T20:32:57+00:00",
+      "summary": "If we ignore the many, many negatives that came with the late 90s/early 2000s era of video marketing, there was a certain charm to the edginess that I kind of wish was still around in some ways.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8
     },
     {
       "title": "COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool?",
