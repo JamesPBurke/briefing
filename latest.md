@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-26T09:00:25.453650Z
+Generated: 2026-07-26T14:00:03.635276Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Europe wildfires: more than 300,000 flee homes and holiday accommodation in France and Spain as fires rage, Police hunt for suspect after one killed and 16 injured in attack at Berlin Pride, and UK journalists ‘self-censoring stories about Trump and the right over safety fears’.
+Today's sweep leans toward Democracy / press freedom, Science / computing, Democracy / anti-fascism. The strongest items in this run are Hungarian Grand Prix: Formula One – live, Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sánchez as more than 300,000 flee homes in France and Spain, and From the strait of Hormuz to the North Sea, a global maritime war rages around us – and more than the price of oil is at stake | Simon Tisdall.
 
 ## Briefing
 
@@ -33,7 +33,16 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Europe wildfires: more than 300,000 flee homes and holiday accommodation in France and Spain as fires rage [10/10]
+### 1. Hungarian Grand Prix: Formula One – live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+️ Lights out at Hungaroring at 2pm BST ️ Share your thoughts with John via email Lando Norris is eating what appears to be rice pudding , doubtless with extra protein protection.
+
+Link: https://www.theguardian.com/sport/live/2026/jul/26/hungarian-grand-prix-formula-one-live
+
+### 2. Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sánchez as more than 300,000 flee homes in France and Spain [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,43 +51,16 @@ Fires displace people on massive scale and trigger one of the largest peacetime 
 
 Link: https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations
 
-### 2. Police hunt for suspect after one killed and 16 injured in attack at Berlin Pride [10/10]
+### 3. From the strait of Hormuz to the North Sea, a global maritime war rages around us – and more than the price of oil is at stake | Simon Tisdall [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Authorities ask for help finding 21-year-old, identified only as Abdul B, after van ramming in German capital German authorities have issued a wanted notice for a fugitive suspect in the van ramming near Berlin’s Pride festival that left…
+The collapse of the rules-based order is not confined to the land: we’re imperilled as centuries of maritime cooperation sink beneath the waves The US military campaign to protect merchant shipping from Iranian attacks by asserting direct…
 
-Link: https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route
+Link: https://www.theguardian.com/commentisfree/2026/jul/26/strait-of-hormuz-north-sea-global-maritime-war-oil-price
 
-### 3. UK journalists ‘self-censoring stories about Trump and the right over safety fears’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Government-backed investigation finds risks are normalised amid ‘a narrowing of the public conversation’ Journalists are self-censoring their reporting on rightwing protests, Donald Trump’s administration and trans issues because of…
-
-Link: https://www.theguardian.com/media/2026/jul/26/uk-journalists-changed-how-what-report-fears-safety
-
-### 4. Commit cinematic sacrilege in Baldur's Gate 3 with this true third-person camera mod [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Video game cameras are often a point of contention primarily because a bad one can completely disorient you, or even outright make you feel sick.
-
-Link: https://www.rockpapershotgun.com/commit-cinematic-sacrilege-in-baldurs-gate-3-with-this-true-third-person-camera-mod
-
-### 5. Appeals court rejects Trump bid to curb mail-in voting in 23 states [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Judge rejects administration’s request to lift injunction secured by several Democratic-led states on 25 June A federal appeals court on Saturday declined to allow Donald Trump’s administration to implement in 23 states his executive order…
-
-Link: https://www.theguardian.com/us-news/2026/jul/25/court-rejects-trump-mail-in-voting
-
-### 6. Google basically confirms the Pixel 11 is getting a price hike [10/10]
+### 4. Google basically confirms the Pixel 11 is getting a price hike [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -87,16 +69,52 @@ Google's Vice President of Devices and Services, Shakil Barkat, all but confirme
 
 Link: https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike
 
-### 7. Inside the growing vigilante movement to knock out Flock surveillance cameras [10/10]
+### 5. Police hunt for suspect after one killed and 16 injured in attack at Berlin Pride [9/10]
 **Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-An underground network of privacy activists is disabling or destroying the ubiquitous surveillance devices sprouting up across the US The first time that “NoMark” tried to knock out a Flock camera feed, he waited an hour for the perfect…
+Authorities issue wanted notice for Abdul Ballout, 21, after deadly van ramming described as Islamist terrorism German authorities have issued a wanted notice for a suspect in a deadly van ramming near Berlin’s Pride festival that has been…
 
-Link: https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras
+Link: https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route
 
-### 8. SDCC teaser gives us our first good look at Blade Runner 2099 [9/10]
+### 6. Sony says it will stop producing physical discs for PlayStation games [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Sony's Playstation games once ran solely on discs. But with advances in technology, physical discs are unnecessary, and the company will soon stop making them.
+
+Link: https://www.npr.org/2026/07/26/nx-s1-5893491/sony-says-it-will-stop-producing-physical-discs-for-playstation-games
+
+### 7. RFK Jr urges Alzheimer’s screening but blunts key panel that could drive research [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Experts say evidence for cognitive screening desired by health secretary ‘not great’ as taskforce idle since last year The US health secretary, Robert F Kennedy Jr, has called for better Alzheimer’s screening – but a critical federal panel…
+
+Link: https://www.theguardian.com/us-news/2026/jul/26/rfk-jr-alzheimers-us-preventive-services-task-force
+
+### 8. As Diesel Prices Soared, Arkansas District Saved With Electric School Buses [9/10]
+**Source:** The 74  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Five years ago, diesel costs averaged $2.68 a gallon. This spring, that more than doubled to over $5.50. That’s not just a headline; it’s a real problem for anyone operating on a tight budget.
+
+Link: https://www.the74million.org/article/as-diesel-prices-soared-arkansas-district-saved-with-electric-school-buses/
+
+### 9. UK journalists ‘self-censoring stories about Trump and the right over safety fears’ [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Government-backed investigation finds risks are normalised amid ‘a narrowing of the public conversation’ Journalists are self-censoring their reporting on rightwing protests, Donald Trump’s administration and trans issues because of…
+
+Link: https://www.theguardian.com/media/2026/jul/26/uk-journalists-changed-how-what-report-fears-safety
+
+### 10. SDCC teaser gives us our first good look at Blade Runner 2099 [9/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -105,7 +123,7 @@ Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Sp
 
 Link: https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/
 
-### 9. Rural NY School District Will Be One of First to Bring Humanoid Robot Into Classroom [9/10]
+### 11. Rural NY School District Will Be One of First to Bring Humanoid Robot Into Classroom [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -114,52 +132,25 @@ This story originally appeared in New York Focus, a nonprofit news publication i
 
 Link: https://www.the74million.org/article/rural-ny-school-district-will-be-one-of-first-to-bring-humanoid-robot-into-classroom/
 
-### 10. It’s Official: Ryan Gosling Playing ‘Ghost Rider’ in MCU Movie Being Directed by Shawn Levy [8/10]
-**Source:** Bloody Disgusting  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Ryan GoslingÂ (Project Hail Mary) has made no secret of the fact that heâd love to playÂ Ghost Rider in a Marvel Cinematic Universe movie, and it’s now officially happening.
-
-Link: https://bloody-disgusting.com/movie/3960924/its-official-ryan-gosling-playing-ghost-rider-in-mcu-movie-being-directed-by-shawn-levy/
-
-### 11. Ringwyrm might have a nasty sounding name, but its action horror, fantasy Soviet vibes are too compelling to ignore [8/10]
+### 12. The Sunday Papers [8/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-If we ignore the many, many negatives that came with the late 90s/early 2000s era of video marketing, there was a certain charm to the edginess that I kind of wish was still around in some ways.
+Sundays are for sobbingly lifting exactly one boulder from the groaning dreampile that is my backlog. Good news, Vacuity, cpt_freakout and the rest – I'm trying out your precious, precious Troubleshooter game.
 
-Link: https://www.rockpapershotgun.com/ringwyrm-might-have-a-nasty-sounding-name-but-its-action-horror-fantasy-soviet-vibes-are-too-compelling-to-ignore
+Link: https://www.rockpapershotgun.com/the-sunday-papers-820
 
-### 12. COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool? [8/10]
+### 13. How cuts to federal agencies led to the current cyclosporiasis outbreak [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Back in the '90s, I learned the art of staying cool in Egypt. At that time, air conditioning was not common. In the extremely hot summer of 2026, how are people managing?
+NPR's Ayesha Rascoe speaks with NBC health and medical news reporter Erika Edwards about the Trump Administration's cuts to federal agencies affects food safety measures.
 
-Link: https://www.npr.org/2026/07/25/g-s1-135194/summer-heat-egypt-cairo-air-conditioning
-
-### 13. Scientists Uncover Lost ‘Golden Age’ of Languages That Ended 1,000 Years Ago [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Scientists have predicted that human linguistic diversity flourished between 3,000 and 1,000 years ago, before declining with the rise of multinational states and colonial expansion.
-
-Link: https://www.404media.co/scientists-uncover-lost-golden-age-of-languages-that-ended-1-000-years-ago/
+Link: https://www.npr.org/2026/07/26/nx-s1-5906408/how-cuts-to-federal-agencies-led-to-the-current-cyclosporiasis-outbreak
 
 ## YouTube
-
-### Quantum Machine Learning - Computerphile [6/10]
-**Creator:** Computerphile  
-**Verdict:** Summary is enough  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Exploring how quantum computing can have an impact on the established area of Machine Learning. Professor Mohammad Reza Mousavi is a Professor of Software Engineering in the Department of Informatics at King's College London.
-
-Link: https://www.youtube.com/watch?v=CnSYsUhlx14
 
 ### The Stokes Twins Answer The Web's Most Searched Questions [7/10]
 **Creator:** WIRED  
@@ -214,15 +205,6 @@ Link: https://www.youtube.com/watch?v=rh4Q_notQds
 "The New York Times" is trying to convince a federal judge to quash Justice Department subpoenas compelling several reporters to testify before a grand jury.
 
 Link: https://www.youtube.com/watch?v=ew8hg-musdg
-
-### Next gen crabbers use social media to tell their story and sell their catch [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-Luke McFadden and Jack Torney are two of the few young crabbers who are keeping traditions alive on the Chesapeake Bay, despite rising expenses and a dwindling blue crab population.
-
-Link: https://www.youtube.com/watch?v=fLYI6Ig3qjs
 
 ### Is Doom THE Great American Game? [7/10]
 **Creator:** Digital Foundry  

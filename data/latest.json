@@ -1,59 +1,39 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-26T09:00:25.453650Z",
-  "generatedAtDisplay": "2026-07-26 05:00 AM EDT",
+  "generatedAt": "2026-07-26T14:00:03.635276Z",
+  "generatedAtDisplay": "2026-07-26 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Europe wildfires: more than 300,000 flee homes and holiday accommodation in France and Spain as fires rage, Police hunt for suspect after one killed and 16 injured in attack at Berlin Pride, and UK journalists ‘self-censoring stories about Trump and the right over safety fears’.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Science / computing, Democracy / anti-fascism. The strongest items in this run are Hungarian Grand Prix: Formula One – live, Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sánchez as more than 300,000 flee homes in France and Spain, and From the strait of Hormuz to the North Sea, a global maritime war rages around us – and more than the price of oil is at stake | Simon Tisdall.",
   "mainItems": [
     {
-      "title": "Europe wildfires: more than 300,000 flee homes and holiday accommodation in France and Spain as fires rage",
+      "title": "Hungarian Grand Prix: Formula One – live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/sport/live/2026/jul/26/hungarian-grand-prix-formula-one-live",
+      "published": "2026-07-26T13:56:00+00:00",
+      "summary": "️ Lights out at Hungaroring at 2pm BST ️ Share your thoughts with John via email Lando Norris is eating what appears to be rice pudding , doubtless with extra protein protection.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sánchez as more than 300,000 flee homes in France and Spain",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
       "url": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
-      "published": "2026-07-26T08:50:34+00:00",
+      "published": "2026-07-26T13:25:22+00:00",
       "summary": "Fires displace people on massive scale and trigger one of the largest peacetime civilian evacuation operations ever carried out in France More than 250,000 people flee wildfires in France and Spain As my colleagues note in this story ,…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Police hunt for suspect after one killed and 16 injured in attack at Berlin Pride",
+      "title": "From the strait of Hormuz to the North Sea, a global maritime war rages around us – and more than the price of oil is at stake | Simon Tisdall",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
-      "published": "2026-07-26T08:02:13+00:00",
-      "summary": "Authorities ask for help finding 21-year-old, identified only as Abdul B, after van ramming in German capital German authorities have issued a wanted notice for a fugitive suspect in the van ramming near Berlin’s Pride festival that left…",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/26/strait-of-hormuz-north-sea-global-maritime-war-oil-price",
+      "published": "2026-07-26T11:09:27+00:00",
+      "summary": "The collapse of the rules-based order is not confined to the land: we’re imperilled as centuries of maritime cooperation sink beneath the waves The US military campaign to protect merchant shipping from Iranian attacks by asserting direct…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "UK journalists ‘self-censoring stories about Trump and the right over safety fears’",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/media/2026/jul/26/uk-journalists-changed-how-what-report-fears-safety",
-      "published": "2026-07-26T05:00:04+00:00",
-      "summary": "Government-backed investigation finds risks are normalised amid ‘a narrowing of the public conversation’ Journalists are self-censoring their reporting on rightwing protests, Donald Trump’s administration and trans issues because of…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Commit cinematic sacrilege in Baldur's Gate 3 with this true third-person camera mod",
-      "source": "Rock Paper Shotgun",
-      "category": "Democracy / press freedom",
-      "url": "https://www.rockpapershotgun.com/commit-cinematic-sacrilege-in-baldurs-gate-3-with-this-true-third-person-camera-mod",
-      "published": "2026-07-25T21:51:54+00:00",
-      "summary": "Video game cameras are often a point of contention primarily because a bad one can completely disorient you, or even outright make you feel sick.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Appeals court rejects Trump bid to curb mail-in voting in 23 states",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/court-rejects-trump-mail-in-voting",
-      "published": "2026-07-25T20:27:22+00:00",
-      "summary": "Judge rejects administration’s request to lift injunction secured by several Democratic-led states on 25 June A federal appeals court on Saturday declined to allow Donald Trump’s administration to implement in 23 states his executive order…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
@@ -67,14 +47,54 @@
       "score": 10
     },
     {
-      "title": "Inside the growing vigilante movement to knock out Flock surveillance cameras",
+      "title": "Police hunt for suspect after one killed and 16 injured in attack at Berlin Pride",
       "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
-      "published": "2026-07-25T10:00:39+00:00",
-      "summary": "An underground network of privacy activists is disabling or destroying the ubiquitous surveillance devices sprouting up across the US The first time that “NoMark” tried to knock out a Flock camera feed, he waited an hour for the perfect…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
+      "published": "2026-07-26T13:45:29+00:00",
+      "summary": "Authorities issue wanted notice for Abdul Ballout, 21, after deadly van ramming described as Islamist terrorism German authorities have issued a wanted notice for a suspect in a deadly van ramming near Berlin’s Pride festival that has been…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Sony says it will stop producing physical discs for PlayStation games",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5893491/sony-says-it-will-stop-producing-physical-discs-for-playstation-games",
+      "published": "2026-07-26T11:58:28+00:00",
+      "summary": "Sony's Playstation games once ran solely on discs. But with advances in technology, physical discs are unnecessary, and the company will soon stop making them.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 9
+    },
+    {
+      "title": "RFK Jr urges Alzheimer’s screening but blunts key panel that could drive research",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/26/rfk-jr-alzheimers-us-preventive-services-task-force",
+      "published": "2026-07-26T11:00:10+00:00",
+      "summary": "Experts say evidence for cognitive screening desired by health secretary ‘not great’ as taskforce idle since last year The US health secretary, Robert F Kennedy Jr, has called for better Alzheimer’s screening – but a critical federal panel…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "As Diesel Prices Soared, Arkansas District Saved With Electric School Buses",
+      "source": "The 74",
+      "category": "Democracy / press freedom",
+      "url": "https://www.the74million.org/article/as-diesel-prices-soared-arkansas-district-saved-with-electric-school-buses/",
+      "published": "2026-07-26T10:30:00+00:00",
+      "summary": "Five years ago, diesel costs averaged $2.68 a gallon. This spring, that more than doubled to over $5.50. That’s not just a headline; it’s a real problem for anyone operating on a tight budget.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "UK journalists ‘self-censoring stories about Trump and the right over safety fears’",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/media/2026/jul/26/uk-journalists-changed-how-what-report-fears-safety",
+      "published": "2026-07-26T05:00:04+00:00",
+      "summary": "Government-backed investigation finds risks are normalised amid ‘a narrowing of the public conversation’ Journalists are self-censoring their reporting on rightwing protests, Donald Trump’s administration and trans issues because of…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
       "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
@@ -97,58 +117,27 @@
       "score": 9
     },
     {
-      "title": "It’s Official: Ryan Gosling Playing ‘Ghost Rider’ in MCU Movie Being Directed by Shawn Levy",
-      "source": "Bloody Disgusting",
-      "category": "Sci-fi / horror",
-      "url": "https://bloody-disgusting.com/movie/3960924/its-official-ryan-gosling-playing-ghost-rider-in-mcu-movie-being-directed-by-shawn-levy/",
-      "published": "2026-07-26T01:59:31+00:00",
-      "summary": "Ryan GoslingÂ (Project Hail Mary) has made no secret of the fact that heâd love to playÂ Ghost Rider in a Marvel Cinematic Universe movie, and it’s now officially happening.",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 8
-    },
-    {
-      "title": "Ringwyrm might have a nasty sounding name, but its action horror, fantasy Soviet vibes are too compelling to ignore",
+      "title": "The Sunday Papers",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/ringwyrm-might-have-a-nasty-sounding-name-but-its-action-horror-fantasy-soviet-vibes-are-too-compelling-to-ignore",
-      "published": "2026-07-25T20:32:57+00:00",
-      "summary": "If we ignore the many, many negatives that came with the late 90s/early 2000s era of video marketing, there was a certain charm to the edginess that I kind of wish was still around in some ways.",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-820",
+      "published": "2026-07-26T11:00:00+00:00",
+      "summary": "Sundays are for sobbingly lifting exactly one boulder from the groaning dreampile that is my backlog. Good news, Vacuity, cpt_freakout and the rest – I'm trying out your precious, precious Troubleshooter game.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8
     },
     {
-      "title": "COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool?",
+      "title": "How cuts to federal agencies led to the current cyclosporiasis outbreak",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/25/g-s1-135194/summer-heat-egypt-cairo-air-conditioning",
-      "published": "2026-07-25T12:05:34+00:00",
-      "summary": "Back in the '90s, I learned the art of staying cool in Egypt. At that time, air conditioning was not common. In the extremely hot summer of 2026, how are people managing?",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Scientists Uncover Lost ‘Golden Age’ of Languages That Ended 1,000 Years Ago",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/scientists-uncover-lost-golden-age-of-languages-that-ended-1-000-years-ago/",
-      "published": "2026-07-25T10:00:43+00:00",
-      "summary": "Scientists have predicted that human linguistic diversity flourished between 3,000 and 1,000 years ago, before declining with the rise of multinational states and colonial expansion.",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5906408/how-cuts-to-federal-agencies-led-to-the-current-cyclosporiasis-outbreak",
+      "published": "2026-07-26T12:25:29+00:00",
+      "summary": "NPR's Ayesha Rascoe speaks with NBC health and medical news reporter Erika Edwards about the Trump Administration's cuts to federal agencies affects food safety measures.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
   ],
   "youtube": [
-    {
-      "title": "Quantum Machine Learning - Computerphile",
-      "source": "Computerphile",
-      "category": "Science / computing",
-      "url": "https://www.youtube.com/watch?v=CnSYsUhlx14",
-      "published": "2026-07-23T13:00:32+00:00",
-      "summary": "Exploring how quantum computing can have an impact on the established area of Machine Learning. Professor Mohammad Reza Mousavi is a Professor of Software Engineering in the Department of Informatics at King's College London.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
     {
       "title": "The Stokes Twins Answer The Web's Most Searched Questions",
       "source": "WIRED",
@@ -214,17 +203,6 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Next gen crabbers use social media to tell their story and sell their catch",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=fLYI6Ig3qjs",
-      "published": "2026-07-23T13:00:20+00:00",
-      "summary": "Luke McFadden and Jack Torney are two of the few young crabbers who are keeping traditions alive on the Chesapeake Bay, despite rising expenses and a dwindling blue crab population.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
     },
     {
       "title": "Is Doom THE Great American Game?",
@@ -813,8 +791,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 22,
+    "youtubeCount": 20,
     "trailerCount": 29,
-    "sourceCount": 22
+    "sourceCount": 20
   }
 }
