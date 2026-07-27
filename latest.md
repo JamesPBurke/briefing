@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-27T05:00:02.412468Z
+Generated: 2026-07-27T09:00:18.417215Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Security / computing. The strongest items in this run are Two dead in shootings at Bite of Seattle food festival, say authorities, Ukraine war briefing: Air ceasefire talk ahead of Trump-Zelenskyy meeting, and ‘Extraordinarily hot’: US heatwave stretches on with millions still under warnings.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are A fantastic-looking teaser trailer for a new Myst game has been released, though tragically we'll never get to actually play it, A new start after 60: stuck in a hospital bed, I decided to retire. Now I’m a tap dancer, and Two dead in shootings at Bite of Seattle food festival, say authorities.
 
 ## Briefing
 
@@ -33,7 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Two dead in shootings at Bite of Seattle food festival, say authorities [10/10]
+### 1. A fantastic-looking teaser trailer for a new Myst game has been released, though tragically we'll never get to actually play it [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Good news, puzzle lovers! A new teaser for a Myst game has been released online. Bad news, puzzle lovers! You'll never get to play it: the game is cancelled. Read more
+
+Link: https://www.eurogamer.net/new-myst-game-cancelled-trailer-sad
+
+### 2. A new start after 60: stuck in a hospital bed, I decided to retire. Now I’m a tap dancer [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Stephen Walsh was such a workaholic that none of his colleagues would believe he’d ever leave.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/jul/27/a-new-start-after-60-tap-dancer-stephen-walsh
+
+### 3. Two dead in shootings at Bite of Seattle food festival, say authorities [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,7 +60,7 @@ At least four people taken to hospital after gunfire at Seattle Center near Spac
 
 Link: https://www.theguardian.com/world/2026/jul/27/bite-of-seattle-shooting-center-food-festival
 
-### 2. Ukraine war briefing: Air ceasefire talk ahead of Trump-Zelenskyy meeting [10/10]
+### 4. Ukraine war briefing: Air ceasefire talk ahead of Trump-Zelenskyy meeting [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,16 +69,7 @@ Romania summons Russian ambassador after shooting down three drones; Zelenskyy t
 
 Link: https://www.theguardian.com/world/2026/jul/27/ukraine-war-briefing-air-ceasefire-talk-ahead-of-trump-zelenskyy-meeting
 
-### 3. ‘Extraordinarily hot’: US heatwave stretches on with millions still under warnings [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Southern and central states from California to Mississippi face heat indexes above 100F amid another heat dome At least 40 million people were under extreme heat warnings across central and southern parts of the United States on Sunday as…
-
-Link: https://www.theguardian.com/us-news/2026/jul/26/us-heat-wave-dome-weather
-
-### 4. Trump ‘border czar’ says ICE officer in Maine killing should not have cleared vetting [10/10]
+### 5. Trump ‘border czar’ says ICE officer in Maine killing should not have cleared vetting [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,7 +78,34 @@ Tom Homan comments on officer’s eligibility to serve after reports that agent�
 
 Link: https://www.theguardian.com/us-news/2026/jul/26/trump-border-czar-ice-officer-maine-killing-vetting
 
-### 5. First teaser for Apple TV's Neuromancer debuts at SDCC [9/10]
+### 6. Final Fantasy 14 comes to Switch 2 later this year with the now-famous free trial, but the file size is going to be absolutely massive [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+One of this year's most surprising Nintendo Switch 2 port announcements was Final Fantasy 14's back in April , and against all expectations, it was set to arrive in August.
+
+Link: https://www.eurogamer.net/final-fantasy-14-evercold-teaser-trailer-switch-2-details
+
+### 7. Palestine Action activists face being sentenced as terrorists over bank damage [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Exclusive: Judge intends to consider ‘terrorist connection’ after convicting five for damage to Barclays in Burnley Five Palestine Action activists face being sentenced as terrorists for breaking windows and throwing red paint at a branch…
+
+Link: https://www.theguardian.com/uk-news/2026/jul/27/palestine-action-activists-face-being-sentenced-terrorists-damage-barclays-bank-burnley
+
+### 8. ‘Extraordinarily hot’: US heatwave stretches on with millions still under warnings [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Southern and central states from California to Mississippi face heat indexes above 100F amid another heat dome At least 40 million people were under extreme heat warnings across central and southern parts of the United States on Sunday as…
+
+Link: https://www.theguardian.com/us-news/2026/jul/26/us-heat-wave-dome-weather
+
+### 9. First teaser for Apple TV's Neuromancer debuts at SDCC [9/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -78,7 +114,7 @@ Plus Mike Flanagan's Carrie teaser, trailers for Dark Matter S2 and Matchbox the
 
 Link: https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/
 
-### 6. The US is charging an American citizen for wiping his phone at the border [9/10]
+### 10. The US is charging an American citizen for wiping his phone at the border [8/10]
 **Source:** The Verge  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -86,42 +122,6 @@ Link: https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuroma
 The government is prosecuting US citizen Sam Tunick for allegedly providing authorities with a "duress password" that wiped his phone when they tried to seize it at Atlanta's Hartsfield-Jackson airport on January 24th, 2025.
 
 Link: https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password
-
-### 7. Police shoot dead Berlin Pride van and knife rampage suspect, officials say [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Abdul Ballout, 21, reportedly shot in operation at allotment in Spandau district after fatal attack in Tiergarten park A man suspected of driving a van into a crowd near Berlin’s Pride festival then going on a knife rampage in an Islamist…
-
-Link: https://www.theguardian.com/world/2026/jul/26/berlin-pride-van-knife-rampage-islamist-terrorist-attack-germany
-
-### 8. The next Kratos God of War game will follow and connect to Laufey, says Cory Barlog [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Santa Monica Studio head of creative, Cory Barlog, has confirmed that the next mainline, Kratos-starring God of War will pick up after the events of God of War Laufey. Read more
-
-Link: https://www.eurogamer.net/kratos-god-of-war-links-directly-to-laufey
-
-### 9. New Jersey governor signs law banning surveillance pricing to protect shoppers [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-New law prohibits retailers from using personal data to charge different prices for identical products New Jersey governor Mikie Sherrill recently signed a new law prohibiting businesses from using shoppers’ personal information to charge…
-
-Link: https://www.theguardian.com/us-news/2026/jul/26/new-jersey-surveillance-pricing-ban
-
-### 10. ‘I thought it didn’t stand a cat’s chance in hell’: Andrew Ridgeley on Wham’s surreal trip to China [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Four decades after he and George Michael became the first western pop act to tour the country, Ridgeley recalls silent gigs, awkward embassy receptions – and the ‘bloody ludicrous’ hiring of Lindsay Anderson as director There has always…
-
-Link: https://www.theguardian.com/film/2026/jul/27/andrew-ridgeley-wham-china-george-michael-lindsay-anderson
 
 ### 11. Head Start, Explained. How Changes to Early Education Program Affect California Families [8/10]
 **Source:** The 74  
@@ -141,14 +141,14 @@ Sony's Playstation games once ran solely on discs. But with advances in technolo
 
 Link: https://www.npr.org/2026/07/26/nx-s1-5893491/sony-says-it-will-stop-producing-physical-discs-for-playstation-games
 
-### 13. How cuts to federal agencies led to the current cyclosporiasis outbreak [7/10]
+### 13. More than 2,000 measles cases reported in the U.S. so far, outpacing 2025's total [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-NPR's Ayesha Rascoe speaks with NBC health and medical news reporter Erika Edwards about the Trump Administration's cuts to federal agencies affects food safety measures.
+NPR's A Martinez asks Dr. Jennifer Nuzzo of Brown University why there have been more measles cases this year so far than in all of last year, and what can be done to stop the resurgence.
 
-Link: https://www.npr.org/2026/07/26/nx-s1-5906408/how-cuts-to-federal-agencies-led-to-the-current-cyclosporiasis-outbreak
+Link: https://www.npr.org/2026/07/27/nx-s1-5906455/more-than-2-000-measles-cases-reported-in-the-u-s-so-far-outpacing-2025s-total
 
 ## YouTube
 

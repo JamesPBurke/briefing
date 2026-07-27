@@ -1,11 +1,31 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-27T05:00:02.412468Z",
-  "generatedAtDisplay": "2026-07-27 01:00 AM EDT",
+  "generatedAt": "2026-07-27T09:00:18.417215Z",
+  "generatedAtDisplay": "2026-07-27 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Security / computing. The strongest items in this run are Two dead in shootings at Bite of Seattle food festival, say authorities, Ukraine war briefing: Air ceasefire talk ahead of Trump-Zelenskyy meeting, and ‘Extraordinarily hot’: US heatwave stretches on with millions still under warnings.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are A fantastic-looking teaser trailer for a new Myst game has been released, though tragically we'll never get to actually play it, A new start after 60: stuck in a hospital bed, I decided to retire. Now I’m a tap dancer, and Two dead in shootings at Bite of Seattle food festival, say authorities.",
   "mainItems": [
+    {
+      "title": "A fantastic-looking teaser trailer for a new Myst game has been released, though tragically we'll never get to actually play it",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/new-myst-game-cancelled-trailer-sad",
+      "published": "2026-07-27T08:56:20+00:00",
+      "summary": "Good news, puzzle lovers! A new teaser for a Myst game has been released online. Bad news, puzzle lovers! You'll never get to play it: the game is cancelled. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "A new start after 60: stuck in a hospital bed, I decided to retire. Now I’m a tap dancer",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/27/a-new-start-after-60-tap-dancer-stephen-walsh",
+      "published": "2026-07-27T05:55:32+00:00",
+      "summary": "Stephen Walsh was such a workaholic that none of his colleagues would believe he’d ever leave.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Two dead in shootings at Bite of Seattle food festival, say authorities",
       "source": "The Guardian US",
@@ -27,16 +47,6 @@
       "score": 10
     },
     {
-      "title": "‘Extraordinarily hot’: US heatwave stretches on with millions still under warnings",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/26/us-heat-wave-dome-weather",
-      "published": "2026-07-27T00:04:47+00:00",
-      "summary": "Southern and central states from California to Mississippi face heat indexes above 100F amid another heat dome At least 40 million people were under extreme heat warnings across central and southern parts of the United States on Sunday as…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "Trump ‘border czar’ says ICE officer in Maine killing should not have cleared vetting",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
@@ -45,6 +55,36 @@
       "summary": "Tom Homan comments on officer’s eligibility to serve after reports that agent’s two ex-wives had accused him of abuse Tom Homan, the Trump administration “border czar”, on Sunday said he did not believe the Immigration and Customs…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "Final Fantasy 14 comes to Switch 2 later this year with the now-famous free trial, but the file size is going to be absolutely massive",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/final-fantasy-14-evercold-teaser-trailer-switch-2-details",
+      "published": "2026-07-27T08:57:28+00:00",
+      "summary": "One of this year's most surprising Nintendo Switch 2 port announcements was Final Fantasy 14's back in April , and against all expectations, it was set to arrive in August.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Palestine Action activists face being sentenced as terrorists over bank damage",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/27/palestine-action-activists-face-being-sentenced-terrorists-damage-barclays-bank-burnley",
+      "published": "2026-07-27T08:13:39+00:00",
+      "summary": "Exclusive: Judge intends to consider ‘terrorist connection’ after convicting five for damage to Barclays in Burnley Five Palestine Action activists face being sentenced as terrorists for breaking windows and throwing red paint at a branch…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "‘Extraordinarily hot’: US heatwave stretches on with millions still under warnings",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/26/us-heat-wave-dome-weather",
+      "published": "2026-07-27T00:04:47+00:00",
+      "summary": "Southern and central states from California to Mississippi face heat indexes above 100F amid another heat dome At least 40 million people were under extreme heat warnings across central and southern parts of the United States on Sunday as…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
     },
     {
       "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
@@ -64,46 +104,6 @@
       "published": "2026-07-26T18:45:50+00:00",
       "summary": "The government is prosecuting US citizen Sam Tunick for allegedly providing authorities with a \"duress password\" that wiped his phone when they tried to seize it at Atlanta's Hartsfield-Jackson airport on January 24th, 2025.",
       "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 9
-    },
-    {
-      "title": "Police shoot dead Berlin Pride van and knife rampage suspect, officials say",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jul/26/berlin-pride-van-knife-rampage-islamist-terrorist-attack-germany",
-      "published": "2026-07-26T17:53:50+00:00",
-      "summary": "Abdul Ballout, 21, reportedly shot in operation at allotment in Spandau district after fatal attack in Tiergarten park A man suspected of driving a van into a crowd near Berlin’s Pride festival then going on a knife rampage in an Islamist…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "The next Kratos God of War game will follow and connect to Laufey, says Cory Barlog",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/kratos-god-of-war-links-directly-to-laufey",
-      "published": "2026-07-26T17:27:52+00:00",
-      "summary": "Santa Monica Studio head of creative, Cory Barlog, has confirmed that the next mainline, Kratos-starring God of War will pick up after the events of God of War Laufey. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "New Jersey governor signs law banning surveillance pricing to protect shoppers",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/26/new-jersey-surveillance-pricing-ban",
-      "published": "2026-07-26T15:08:40+00:00",
-      "summary": "New law prohibits retailers from using personal data to charge different prices for identical products New Jersey governor Mikie Sherrill recently signed a new law prohibiting businesses from using shoppers’ personal information to charge…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "‘I thought it didn’t stand a cat’s chance in hell’: Andrew Ridgeley on Wham’s surreal trip to China",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/film/2026/jul/27/andrew-ridgeley-wham-china-george-michael-lindsay-anderson",
-      "published": "2026-07-27T04:00:32+00:00",
-      "summary": "Four decades after he and George Michael became the first western pop act to tour the country, Ridgeley recalls silent gigs, awkward embassy receptions – and the ‘bloody ludicrous’ hiring of Lindsay Anderson as director There has always…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 8
     },
     {
@@ -127,12 +127,12 @@
       "score": 8
     },
     {
-      "title": "How cuts to federal agencies led to the current cyclosporiasis outbreak",
+      "title": "More than 2,000 measles cases reported in the U.S. so far, outpacing 2025's total",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/26/nx-s1-5906408/how-cuts-to-federal-agencies-led-to-the-current-cyclosporiasis-outbreak",
-      "published": "2026-07-26T12:25:29+00:00",
-      "summary": "NPR's Ayesha Rascoe speaks with NBC health and medical news reporter Erika Edwards about the Trump Administration's cuts to federal agencies affects food safety measures.",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5906455/more-than-2-000-measles-cases-reported-in-the-u-s-so-far-outpacing-2025s-total",
+      "published": "2026-07-27T08:40:22+00:00",
+      "summary": "NPR's A Martinez asks Dr. Jennifer Nuzzo of Brown University why there have been more measles cases this year so far than in all of last year, and what can be done to stop the resurgence.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7
     }
