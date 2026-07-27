@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-07-27T09:00:18.417215Z
+Generated: 2026-07-27T09:00:30.089550Z
 
 Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are A fantastic-looking teaser trailer for a new Myst game has been released, though tragically we'll never get to actually play it, A new start after 60: stuck in a hospital bed, I decided to retire. Now I’m a tap dancer, and Two dead in shootings at Bite of Seattle food festival, say authorities.
 
