@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-27T09:00:30.089550Z
+Generated: 2026-07-27T14:00:04.886346Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are A fantastic-looking teaser trailer for a new Myst game has been released, though tragically we'll never get to actually play it, A new start after 60: stuck in a hospital bed, I decided to retire. Now I’m a tap dancer, and Two dead in shootings at Bite of Seattle food festival, say authorities.
+Today's sweep leans toward AI / computing, Games / criticism, Democracy / press freedom. The strongest items in this run are As Grand Theft Auto 6 hopefuls grow anxious for a gameplay trailer, AI GTA6 slop is getting millions of views on social media, Xbox service is down, with outages meaning players can't play any digital or physical games, after similar PlayStation Network issues last week, and Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic.
 
 ## Briefing
 
@@ -33,88 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. A fantastic-looking teaser trailer for a new Myst game has been released, though tragically we'll never get to actually play it [10/10]
+### 1. As Grand Theft Auto 6 hopefuls grow anxious for a gameplay trailer, AI GTA6 slop is getting millions of views on social media [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Good news, puzzle lovers! A new teaser for a Myst game has been released online. Bad news, puzzle lovers! You'll never get to play it: the game is cancelled. Read more
+As Grand Theft Auto 6 inches towards its November release date and people grow anxious for a proper gameplay trailer, GTA6 AI slop is raking in millions of views on social media. Read more
 
-Link: https://www.eurogamer.net/new-myst-game-cancelled-trailer-sad
+Link: https://www.eurogamer.net/grand-theft-auto-6-ai-slop
 
-### 2. A new start after 60: stuck in a hospital bed, I decided to retire. Now I’m a tap dancer [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Stephen Walsh was such a workaholic that none of his colleagues would believe he’d ever leave.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/jul/27/a-new-start-after-60-tap-dancer-stephen-walsh
-
-### 3. Two dead in shootings at Bite of Seattle food festival, say authorities [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-At least four people taken to hospital after gunfire at Seattle Center near Space Needle, with one reported to be in a critical condition Two people were killed and five others wounded in a shooting on Sunday evening during a food festival…
-
-Link: https://www.theguardian.com/world/2026/jul/27/bite-of-seattle-shooting-center-food-festival
-
-### 4. Ukraine war briefing: Air ceasefire talk ahead of Trump-Zelenskyy meeting [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Romania summons Russian ambassador after shooting down three drones; Zelenskyy to meet Andy Burnham in UK.
-
-Link: https://www.theguardian.com/world/2026/jul/27/ukraine-war-briefing-air-ceasefire-talk-ahead-of-trump-zelenskyy-meeting
-
-### 5. Trump ‘border czar’ says ICE officer in Maine killing should not have cleared vetting [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Tom Homan comments on officer’s eligibility to serve after reports that agent’s two ex-wives had accused him of abuse Tom Homan, the Trump administration “border czar”, on Sunday said he did not believe the Immigration and Customs…
-
-Link: https://www.theguardian.com/us-news/2026/jul/26/trump-border-czar-ice-officer-maine-killing-vetting
-
-### 6. Final Fantasy 14 comes to Switch 2 later this year with the now-famous free trial, but the file size is going to be absolutely massive [9/10]
+### 2. Xbox service is down, with outages meaning players can't play any digital or physical games, after similar PlayStation Network issues last week [10/10]
 **Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-One of this year's most surprising Nintendo Switch 2 port announcements was Final Fantasy 14's back in April , and against all expectations, it was set to arrive in August.
+Xbox's online services are currently down, and it's curious timing, as its rival PlayStation Network had similar issues only last week . Read more
 
-Link: https://www.eurogamer.net/final-fantasy-14-evercold-teaser-trailer-switch-2-details
+Link: https://www.eurogamer.net/xbox-outage-july-2026
 
-### 7. Palestine Action activists face being sentenced as terrorists over bank damage [9/10]
+### 3. Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity
+
+### 4. German officials call for tighter extremism laws after Berlin Pride attack [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Exclusive: Judge intends to consider ‘terrorist connection’ after convicting five for damage to Barclays in Burnley Five Palestine Action activists face being sentenced as terrorists for breaking windows and throwing red paint at a branch…
+Alternative für Deutschland, topping polls ahead of state elections, accuses government of failing to tackle Islamist radicalism Europe live – latest updates German officials have called for a tightening of laws for known extremists after…
 
-Link: https://www.theguardian.com/uk-news/2026/jul/27/palestine-action-activists-face-being-sentenced-terrorists-damage-barclays-bank-burnley
+Link: https://www.theguardian.com/politics/2026/jul/27/german-officials-tighter-extremism-laws-berlin-pride-attack
 
-### 8. ‘Extraordinarily hot’: US heatwave stretches on with millions still under warnings [9/10]
+### 5. Oklahoma Data Shows Lack of Fully Trained Teachers Entering the Classroom [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+OKLAHOMA CITY — State leaders say they’re still pursuing solutions to reverse a yearslong decline in traditionally trained teachers entering the classroom, all while emergency certified educators continue to fill essential teaching roles.
+
+Link: https://www.the74million.org/article/oklahoma-data-shows-lack-of-fully-trained-teachers-entering-the-classroom/
+
+### 6. Closing the data loop in AI-driven drug discovery [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage.
+
+Link: https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/
+
+### 7. Building the enterprise environment for agentic AI [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems.
+
+Link: https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/
+
+### 8. He was shot at by ICE, then wrongfully accused. His nightmare had only just begun [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Southern and central states from California to Mississippi face heat indexes above 100F amid another heat dome At least 40 million people were under extreme heat warnings across central and southern parts of the United States on Sunday as…
+After masked agents fired on his truck, Francisco Longoria was ambushed, charged and jailed – only for the case against him to fall apart.
 
-Link: https://www.theguardian.com/us-news/2026/jul/26/us-heat-wave-dome-weather
+Link: https://www.theguardian.com/us-news/2026/jul/27/ice-california-shooting-lawsuit
 
-### 9. First teaser for Apple TV's Neuromancer debuts at SDCC [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 9. This week in PC games: a battle royale detective game, a broken Y2K metaverse, a laptop tycoon sim, and a new Company of Heroes RTS [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Plus Mike Flanagan's Carrie teaser, trailers for Dark Matter S2 and Matchbox the Movie , and Marvel news.
+Hello all! Welcome to another week of sordid digital diversions, aka new PC games, dumped upon the innocent wanderer like a chamberpot upended over your head by a Victorian maid, as you saunter down an alleyway in your finest crinoline and…
 
-Link: https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/
+Link: https://www.rockpapershotgun.com/this-week-in-pc-games-a-battle-royale-detective-game-a-broken-y2k-metaverse-a-laptop-tycoon-sim-and-a-new-company-of-heroes-rts
 
-### 10. The US is charging an American citizen for wiping his phone at the border [8/10]
+### 10. The US is charging an American citizen for wiping his phone at the border [9/10]
 **Source:** The Verge  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -123,23 +123,23 @@ The government is prosecuting US citizen Sam Tunick for allegedly providing auth
 
 Link: https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password
 
-### 11. Head Start, Explained. How Changes to Early Education Program Affect California Families [8/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 11. Tons of Peoples’ Claude Chats and Creations are Exposed on Google [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-Head Start, the federal program providing free early education for low-income children, has benefited from strong bipartisan support since its 1965 inception, withstanding funding cuts and political turbulence across 11 presidencies.
+Claude users are creating public share links, but probably don't realize that means their chats are now ending up in Google searches where anyone can dig through them.
 
-Link: https://www.the74million.org/zero2eight/head-start-explained-how-changes-to-early-education-program-affect-california-families/
+Link: https://www.404media.co/tons-of-peoples-claude-chats-and-creations-are-exposed-on-google/
 
-### 12. Sony says it will stop producing physical discs for PlayStation games [8/10]
+### 12. Kalshi attacks a Wisconsin law banning election bets as 'voter suppression' [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Sony's Playstation games once ran solely on discs. But with advances in technology, physical discs are unnecessary, and the company will soon stop making them.
+The spat between the leading prediction market company and a key battleground state could be a glimpse into the next major fight between states and the fast-growing industry.
 
-Link: https://www.npr.org/2026/07/26/nx-s1-5893491/sony-says-it-will-stop-producing-physical-discs-for-playstation-games
+Link: https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets
 
 ### 13. More than 2,000 measles cases reported in the U.S. so far, outpacing 2025's total [7/10]
 **Source:** NPR Health  
@@ -287,15 +287,6 @@ This video is brought to you by PlayTracker, the app that tracks your cross-plat
 
 Link: https://www.youtube.com/watch?v=FPtLvybSIqU
 
-### How to Do Cooperative Worldbuilding | RPG Help Desk [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-The DM does a lot of heavy lifting with world design, but they shouldn't have to do it all. Heck, some even want the players to actively build the world along side them.
-
-Link: https://www.youtube.com/watch?v=Kz-sU1any7U
-
 ## Entertainment Recommendations
 
 ### Newer shows that look like a fit
@@ -396,6 +387,15 @@ Link: https://www.youtube.com/watch?v=8FeiVAY5Y7Y
 The world that was doesn’t exist. THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters and IMAX August 28.
 
 Link: https://www.youtube.com/watch?v=-xSxaE1ClEE
+
+### Onslaught | Official Trailer 2 HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From director Adam Wingard and starring Adria Arjona, Alex Pereira, Drew Starkey, Rebecca Hall, Reginald VelJohnson, Michael Biehn, Eric Wareheim and Dan Stevens. ONSLAUGHT – In Theaters September 4.
+
+Link: https://www.youtube.com/watch?v=AMLCbpM1fRQ
 
 ### Misty Green | Official Trailer HD | A24 [8/10]
 **Source:** A24  
