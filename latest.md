@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-28T09:00:24.498211Z
+Generated: 2026-07-28T14:00:04.669582Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, AI / privacy. The strongest items in this run are Xbox CTO explains what caused the Xbox outage, apologises to players, and outlines what's being done going forward, US airman accused of ‘spree’ of rapes on sleeping women avoided UK courts, and This is my new favorite laptop, but thanks to RAMageddon the price already went up by $800.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Donald Trump to deliver tribute during Lindsey Graham’s funeral service – US politics live, ‘Many people’ trapped inside Japanese shopping centre, others missing in paper factory, after earthquake – live updates, and Apple launches ‘Upgrade’ program to lease new devices.
 
 ## Briefing
 
@@ -33,86 +33,86 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Xbox CTO explains what caused the Xbox outage, apologises to players, and outlines what's being done going forward [10/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-On Monday, Xbox suffered a major server outage that affected players worldwide . The outage took down several key functions of Xbox, including the ability to buy and download games, play them offline, and even extended to disc-based games.
-
-Link: https://www.eurogamer.net/xbox-outage-response-failing-service-apology
-
-### 2. US airman accused of ‘spree’ of rapes on sleeping women avoided UK courts [10/10]
+### 1. Donald Trump to deliver tribute during Lindsey Graham’s funeral service – US politics live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Suffolk police ceded investigation into James Loubeau to the US military, leading to court martial acquittal A US airman accused of a “spree” of rapes and sexual assaults in England, drugging some women and breaking into the homes of…
+The Israeli prime minister, Benjamin Netanyahu, and the Ukrainian president, Volodymyr Zelenskyy, are scheduled to meet with the US president before attending Tuesday’s funeral Sign up for the Breaking News US email to get newsletter…
 
-Link: https://www.theguardian.com/uk-news/2026/jul/28/us-airman-accused-of-spree-of-rapes-on-sleeping-women-avoided-uk-courts
+Link: https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates
 
-### 3. This is my new favorite laptop, but thanks to RAMageddon the price already went up by $800 [10/10]
+### 2. ‘Many people’ trapped inside Japanese shopping centre, others missing in paper factory, after earthquake – live updates [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+An ⁠earthquake ​with ⁠a ⁠preliminary magnitude ​of ‌7.
+
+Link: https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates
+
+### 3. Apple launches ‘Upgrade’ program to lease new devices [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Framework laptops always come with compromises in exchange for their unique DIY premise.
+Apple has officially introduced "Apple Upgrade," a new leasing program that aims to make it easier to get your hands on the latest iPhone, Mac, iPad, and Apple Watch models.
 
-Link: https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review
+Link: https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch
 
-### 4. Trump administration’s revision of Iran war casualties ‘huge disrespect’, say veterans [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 4. Opinion: Rural Districts in Indiana Join Forces to Provide Career Training for Students [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Defense department updated database of casualties to list four service members deceased in ‘Overseas Operations’ A controversial move by the Pentagon to reclassify casualties in the Iran war is being taken by US military veterans as a sign…
+There’s a long-held misconception that students’ opportunities are constrained by the size of their town.
 
-Link: https://www.theguardian.com/us-news/2026/jul/27/trump-administration-iran-war-casualties-veterans
+Link: https://www.the74million.org/article/rural-districts-in-indiana-join-forces-to-provide-career-training-for-students/
 
-### 5. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. [10/10]
-**Source:** MIT Technology Review  
+### 5. Perplexity’s Personal Computer turns Windows PCs into AI agents [10/10]
+**Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.
+Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system.
 
-Link: https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/
+Link: https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents
 
-### 6. Johnson & Johnson to pay $5.5bn settlement in talc cancer lawsuit [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Landmark deal covers about 76,000 claims and could end contentious, decade-long legal battle Johnson & Johnson said it would pay an estimated $5.
-
-Link: https://www.theguardian.com/business/2026/jul/28/johnson-johnson-5bn-settlement-talc-cancer-lawsuit
-
-### 7. Meta disregarded its own research on teen harm, Tennessee lawyers tell jury [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-In opening statements, state argued Meta’s own research showed it harmed teens while firm’s attorneys pointed to transparency The long-awaited trial between the social media company Meta and the state of Tennessee began proceedings on…
-
-Link: https://www.theguardian.com/technology/2026/jul/27/meta-tennessee-trial-jury
-
-### 8. ‘S.T.A.L.K.E.R. 2: Cost of Hope’ Launches August 20 [Trailer] [9/10]
-**Source:** Bloody Disgusting  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-GSC Game World will be bringing S.T.A.L.K.E.R. 2: Heart of Chornobyl fans the first expansion next month when “Cost of Hope” launches on August 20. The release will coincide with a new 2.0 update for the game.
-
-Link: https://bloody-disgusting.com/video-games/3960939/s-t-a-l-k-e-r-2-cost-of-hope-launches-august-20-trailer/
-
-### 9. What to Know About the Texas ‘Robin Hood’ School Funding System [9/10]
+### 6. 52 Million U.S. Kids Eligible for New Scholarships, but California Hasn’t Opted In [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-A new legal challenge to Texas’ school funding system renews questions about what methods state leaders should use to ensure students in low-income districts and those attending campuses in more affluent communities receive an education on…
+Nearly 6 million children in California would be eligible for a scholarship under the new federal tax credit for education, more than in any other state, new data shows.
 
-Link: https://www.the74million.org/article/what-to-know-about-the-texas-robin-hood-school-funding-system/
+Link: https://www.the74million.org/article/52-million-u-s-kids-eligible-for-new-scholarships-but-california-hasnt-opted-in/
+
+### 7. Imprisoned writer Mumia Abu-Jamal seeks UN intervention after 44 years behind bars [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The former Black Panther’s lawyers ask a UN panel to review his detention after US legal avenues were exhausted As he approaches the 45th anniversary of his incarceration in December, the Black radical writer and prisoner Mumia Abu-Jamal…
+
+Link: https://www.theguardian.com/us-news/2026/jul/28/mumia-abu-jamal-un-jail
+
+### 8. Roblox game Be Dead Forever Simulator is likely dead forever [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+A beloved Roblox game - Be Dead Forever Simulator - has been made unavailable to download due to the platform's new age verification rules. It's looking very unlikely it'll ever be available ever again. Read more
+
+Link: https://www.eurogamer.net/roblox-be-dead-forever-unavailable
+
+### 9. Nudists, peaceniks and freeloading travellers: the people keeping the Esperanto dream alive [9/10]
+**Source:** The Guardian US  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+Esperanto had always seemed to me like an idealistic movement that had failed. So why was its annual congress so vibrant and full of young people? The summer issue of the Long Read magazine is out now.
+
+Link: https://www.theguardian.com/news/ng-interactive/2026/jul/28/nudists-peaceniks-freeloading-travellers-esperanto
 
 ### 10. This Man Bought Phone Location Data from Around the World (with Mike Yeagley) [9/10]
 **Source:** 404 Media  
@@ -123,14 +123,14 @@ Joseph speaks to Mike Yeagley about how he bought the world's location data, and
 
 Link: https://www.404media.co/this-man-bought-phone-location-data-from-around-the-world-with-mike-yeagley/
 
-### 11. As Grand Theft Auto 6 hopefuls grow anxious for a gameplay trailer, AI GTA 6 slop is getting millions of views on social media [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 11. AI tokens could become the kilowatt-hour of the AI age [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-As Grand Theft Auto 6 inches towards its November release date and people grow anxious for a proper gameplay trailer, GTA 6 AI slop is raking in millions of views on social media. Read more
+AI companies use tokens to track usage and bill customers. Now economists are using them to track the spread of AI through the economy.
 
-Link: https://www.eurogamer.net/grand-theft-auto-6-ai-slop
+Link: https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age
 
 ### 12. New HIV treatment options offer some hope amid U.S. funding cuts [8/10]
 **Source:** NPR Health  
@@ -141,14 +141,14 @@ The 26th International AIDS conference convenes this week. U.S. funding for HIV/
 
 Link: https://www.npr.org/2026/07/28/nx-s1-5909368/new-hiv-treatment-options-offer-some-hope-amid-u-s-funding-cuts
 
-### 13. Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+### 13. Lanterns Trailer Reveals Manhunters, Sinestro, and a Much Bigger DC Story Than Expected [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Some say the $3,100 per title payout is small compensation for what they view as big, ongoing threats from the makers of generative AI models.
+It's the grumpy one and the even grumpier one! The post Lanterns Trailer Reveals Manhunters, Sinestro, and a Much Bigger DC Story Than Expected appeared first on Reactor .
 
-Link: https://www.npr.org/2026/07/27/nx-s1-5904606/anthropic-vs-bartz-ai-copyright-lawsuit-pros-cons
+Link: https://reactormag.com/lanterns-trailer-manhunters/
 
 ## YouTube
 
@@ -269,9 +269,9 @@ Link: https://www.youtube.com/watch?v=yBWRnR5M3ac
 
 Link: https://www.youtube.com/watch?v=1lCRipybEL0
 
-### Becoming Wet Ones in Fading Echo | Hot Monday Energy [9/10]
+### Becoming Wet Ones in Fading Echo | Hot Monday Energy [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
