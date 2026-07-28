@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-27T18:01:21.864634Z
+Generated: 2026-07-28T05:00:03.736068Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are New York school district halts plan to use humanoid robot amid backlash, What to Know About the Texas ‘Robin Hood’ School Funding System, and Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago.
+Today's sweep leans toward Democracy / press freedom, AI / computing, CS education / AI policy. The strongest items in this run are This is my new favorite laptop, but thanks to RAMageddon the price already went up by $800, Trump administration’s revision of Iran war casualties ‘huge disrespect’, say veterans, and Man convicted in Idaho college student killings seeks to withdraw guilty plea.
 
 ## Briefing
 
@@ -33,52 +33,7 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. New York school district halts plan to use humanoid robot amid backlash [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Salamanca City Central says it is pausing project with Realbotix as it addresses concerns including data privacy A New York school district has walked back plans to introduce a humanoid robot at its high school after the proposal sparked…
-
-Link: https://www.theguardian.com/us-news/2026/jul/27/new-york-school-humanoid-robot-plan-paused
-
-### 2. What to Know About the Texas ‘Robin Hood’ School Funding System [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-A new legal challenge to Texas’ school funding system renews questions about what methods state leaders should use to ensure students in low-income districts and those attending campuses in more affluent communities receive an education on…
-
-Link: https://www.the74million.org/article/what-to-know-about-the-texas-robin-hood-school-funding-system/
-
-### 3. Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Nelson Haase Mazzei was sentenced for murdering Jara in 2023, but fled from authorities in Chile More than 50 years after the murder of the Chilean folk singer Víctor Jara , the last man wanted in connection with his death has been tracked…
-
-Link: https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile
-
-### 4. Shots fired near US consulate in Canada for second time in four months [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-No one was injured and no suspects have been identified in connection to shooting near Toronto compound, police say Shots were fired near the US consulate in Toronto early on Monday but no one was injured in the second shooting near the…
-
-Link: https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto
-
-### 5. SDCC 2026’s best trailers are heavy on cyberpunk and sci-fi [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-San Diego Comic-Con took place over the weekend, and as per usual it was full of tidbits of news across film, TV, and gaming.
-
-Link: https://www.theverge.com/entertainment/971285/sdcc-2026-trailers-neuromancer-blade-runner-carrie
-
-### 6. This is my new favorite laptop, but thanks to RAMageddon it already went up in price by $800 [10/10]
+### 1. This is my new favorite laptop, but thanks to RAMageddon the price already went up by $800 [10/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -87,41 +42,86 @@ Framework laptops always come with compromises in exchange for their unique DIY 
 
 Link: https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review
 
-### 7. Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic [10/10]
+### 2. Trump administration’s revision of Iran war casualties ‘huge disrespect’, say veterans [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Defense department updated database of casualties to list four service members deceased in ‘Overseas Operations’ A controversial move by the Pentagon to reclassify casualties in the Iran war is being taken by US military veterans as a sign…
+
+Link: https://www.theguardian.com/us-news/2026/jul/27/trump-administration-iran-war-casualties-veterans
+
+### 3. Man convicted in Idaho college student killings seeks to withdraw guilty plea [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Bryan Kohberger, convicted of killing four college students in 2022, claims he pleaded guilty due to bad legal advice A man convicted last year of killing four college students in Idaho has filed to withdraw his guilty plea and seek a new…
+
+Link: https://www.theguardian.com/us-news/2026/jul/27/idaho-college-student-killings-bryan-kohberger
+
+### 4. US justice department dismisses charges against California union leader [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+David Huerta was arrested while protesting against an ICE operation during crackdown in Los Angeles The Department of Justice has moved to dismiss charges against a prominent California union leader who was arrested while protesting…
+
+Link: https://www.theguardian.com/us-news/2026/jul/27/doj-charges-california-union-leader-david-huerta
+
+### 5. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.
+
+Link: https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/
+
+### 6. Meta disregarded its own research on teen harm, Tennessee lawyers tell jury [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+In opening statements, state argued Meta’s own research showed it harmed teens while firm’s attorneys pointed to transparency The long-awaited trial between the social media company Meta and the state of Tennessee began proceedings on…
+
+Link: https://www.theguardian.com/technology/2026/jul/27/meta-tennessee-trial-jury
+
+### 7. Xbox’s huge outage even blocked games on disc [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools.
+An extended Xbox outage that began Sunday evening didn't just cause issues for people trying to play digital games - it blocked people from playing their disc-based games, too.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity
+Link: https://www.theverge.com/games/971545/xbox-outage-disc-physical-games
 
-### 8. Oklahoma Data Shows Lack of Fully Trained Teachers Entering the Classroom [10/10]
+### 8. Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Some say the $3,100 per title payout is small compensation for what they view as big, ongoing threats from the makers of generative AI models.
+
+Link: https://www.npr.org/2026/07/27/nx-s1-5904606/anthropic-vs-bartz-ai-copyright-lawsuit-pros-cons
+
+### 9. Overthrow the Kaiser in Red Echoes: Berlin, a Weimar-era turn-based strategy game in the style of Suzerain [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Red Echoes: Berlin is a narrative-driven turn-based strategy game in which you join the German "November Revolution" across 1918 and 1919, during the final days of World War 1.
+
+Link: https://www.rockpapershotgun.com/overthrow-the-kaiser-in-red-echoes-berlin-a-weimar-era-turn-based-strategy-game-in-the-style-of-suzerain
+
+### 10. What to Know About the Texas ‘Robin Hood’ School Funding System [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-OKLAHOMA CITY — State leaders say they’re still pursuing solutions to reverse a yearslong decline in traditionally trained teachers entering the classroom, all while emergency certified educators continue to fill essential teaching roles.
+A new legal challenge to Texas’ school funding system renews questions about what methods state leaders should use to ensure students in low-income districts and those attending campuses in more affluent communities receive an education on…
 
-Link: https://www.the74million.org/article/oklahoma-data-shows-lack-of-fully-trained-teachers-entering-the-classroom/
-
-### 9. Settling Scores: Experts Debate Why AP Performance Has Soared [10/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-A few years ago, education experts noticed that scores were climbing upwards on a number of Advanced Placement tests. The increases, measured on some of the program’s most popular assessments, were as significant as they were unexpected.
-
-Link: https://www.the74million.org/article/settling-scores-experts-debate-why-ap-performance-has-soared/
-
-### 10. Why China is giving away its best AI models [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies
+Link: https://www.the74million.org/article/what-to-know-about-the-texas-robin-hood-school-funding-system/
 
 ### 11. This Man Bought Phone Location Data from Around the World (with Mike Yeagley) [9/10]
 **Source:** 404 Media  
@@ -132,20 +132,107 @@ Joseph speaks to Mike Yeagley about how he bought the world's location data, and
 
 Link: https://www.404media.co/this-man-bought-phone-location-data-from-around-the-world-with-mike-yeagley/
 
-### 12. Kalshi attacks a Wisconsin law banning election bets as 'voter suppression' [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+### 12. Lanterns Trailer Reveals Manhunters, Sinestro, and a Much Bigger DC Story Than Expected [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-The spat between the leading prediction market company and a key battleground state could be a glimpse into the next major fight between states and the fast-growing industry.
+It's the grumpy one and the even grumpier one! The post Lanterns Trailer Reveals Manhunters, Sinestro, and a Much Bigger DC Story Than Expected appeared first on Reactor .
 
-Link: https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets
+Link: https://reactormag.com/lanterns-trailer-manhunters/
 
-### 13. More than 2,000 measles cases reported in the U.S. so far, outpacing 2025's total [7/10]
+### 13. Rand Paul releases Anthony Fauci's pandemic-era diary notes. Here's what they tell us [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-NPR's A Martinez asks Dr. Jennifer Nuzzo of Brown University why there have been more measles cases this year so far than in all of last year, and what can be done to stop the resurgence.
+Sen. Rand Paul has released a tranche of Dr. Anthony Fauci's diary entries from the COVID-19 pandemic. Fauci is set to appear before a Senate committee Wednesday on the origins of the coronavirus.
 
-Link: https://www.npr.org/2026/07/27/nx-s1-5906455/more-than-2-000-measles-cases-reported-in-the-u-s-so-far-outpacing-2025s-total
+Link: https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin
+
+## YouTube
+
+### Meet the robots – and their kid programmers – preserving Indigenous languages [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+With the help of his mentor, a 12-year-old in Sault Ste. Marie, Mich., is building a robot to help him learn the Ojibwe language, an endangered Native American language.
+
+Link: https://www.youtube.com/watch?v=5bJfz1q1kc8
+
+### Megan Rapinoe: the Women's World Cup 'is going to be lit' [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Miss the World Cup already? Don’t worry.
+
+Link: https://www.youtube.com/watch?v=frJ6SQmBOKk
+
+### Berlin police kill suspect in vehicle attack at Pride event [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Authorities in Germany say they’re investigating a weekend attack in Berlin as an act of terrorism after a man drove a vehicle into a crowd attending an annual Pride event.
+
+Link: https://www.youtube.com/watch?v=fW96eRIvXwE
+
+### Search continues for 2nd suspect in Seattle festival shooting [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Three people were killed and four others injured early Sunday evening during a mass shooting in Seattle. At least one person is in critical condition. A 2-year-old is among the injured.
+
+Link: https://www.youtube.com/watch?v=Jsl2dICTRZ8
+
+### Study: Five cups of coffee per day safe for most adults [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+In a new scientific statement, the American Heart Association says drinking up to five, 8-ounce cups of coffee per day — or about 400 mg of caffeine — is generally safe for most adults.
+
+Link: https://www.youtube.com/watch?v=qPP_v5VtirI
+
+### Florida man claims ChatGPT gave 'dangerous' medical advice in lawsuit [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+A man in Florida is suing OpenAI, alleging ChatGPT gave him dangerous medical advice during a health crisis. The lawsuit comes as AI companies are promoting their chatbots as resources for users to better understand their health.
+
+Link: https://www.youtube.com/watch?v=3bWhYVaTu6Y
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._
