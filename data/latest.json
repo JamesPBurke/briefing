@@ -1,11 +1,21 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-29T05:00:04.434046Z",
-  "generatedAtDisplay": "2026-07-29 01:00 AM EDT",
+  "generatedAt": "2026-07-29T09:00:26.818084Z",
+  "generatedAtDisplay": "2026-07-29 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Gates Foundation Bets on Credentials, AI to Reach Students Before 2045 Sunset, US thwarts ‘surprise’ Iran missile attack, and joins forces with Saudis to hit targets in Iraq, and FCC bans humanoid robots from China, citing ‘unacceptable risks’.",
+  "summary": "Today's sweep leans toward AI / computing, CS education / AI policy, Democracy / press freedom. The strongest items in this run are The AI Hype Index: Unsexy AI, Gates Foundation Bets on Credentials, AI to Reach Students Before 2045 Sunset, and US thwarts ‘surprise’ Iran missile attack, and joins forces with Saudis to hit targets in Iraq.",
   "mainItems": [
+    {
+      "title": "The AI Hype Index: Unsexy AI",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "published": "2026-07-29T08:42:57+00:00",
+      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
     {
       "title": "Gates Foundation Bets on Credentials, AI to Reach Students Before 2045 Sunset",
       "source": "The 74",
@@ -23,16 +33,6 @@
       "url": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
       "published": "2026-07-29T03:36:14+00:00",
       "summary": "Oil price spikes after flare-up of fighting and claimed Iranian attacks on three tankers in strait of Hormuz The US military said it knocked down an Iranian missile barrage and worked with Saudi Arabia forces to strike sites in Iraq that…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "FCC bans humanoid robots from China, citing ‘unacceptable risks’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china",
-      "published": "2026-07-28T23:24:15+00:00",
-      "summary": "Move comes as the Trump administration has increasingly sought to keep Chinese technology out of the US The Federal Communications Commission announced a ban on humanoid robots from China on Tuesday, saying that the technology poses…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -67,6 +67,16 @@
       "score": 10
     },
     {
+      "title": "Capcom says likelihood of a Pragmata sequel is high, citing strong sales and 'appeal' of its main character, Diana",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/pragmata-sequel-capcom-internal-expectations-sales",
+      "published": "2026-07-29T08:52:06+00:00",
+      "summary": "Yesterday, we saw Capcom release sales figures for two of its latest releases, Pragmata and Resident Evil Requiem, via the company's Q1 2026 financial report . It mentioned Pragmata's impressive figures (racking up 2.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
       "title": "Ariana Grande is suing the hackers who’ve been leaking her songs and videos for years",
       "source": "The Verge",
       "category": "AI / privacy",
@@ -74,26 +84,6 @@
       "published": "2026-07-28T21:48:50+00:00",
       "summary": "Ariana Grande filed a lawsuit on Monday in the Los Angeles County Superior Court against the currently unidentified hackers who allegedly stole and leaked private content.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "Allegations of AI distillation spark debate about IP theft. But is it illegal?",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/07/28/nx-s1-5909652/allegations-of-ai-distillation-spark-debate-about-ip-theft-but-is-it-illegal",
-      "published": "2026-07-28T20:14:23+00:00",
-      "summary": "Distillation lets AI companies train new models using existing ones. The White House says Chinese firms are using it to gain an edge, raising questions about competition and intellectual property.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 9
-    },
-    {
-      "title": "Two years on from taking the role, Wizards of the Coast's president is stepping down",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/two-years-on-from-taking-the-role-wizards-of-the-coasts-president-is-stepping-down",
-      "published": "2026-07-28T17:01:21+00:00",
-      "summary": "Wizards of the Coast president John Hight is stepping down from the role. As reported by GamesIndustry.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -107,6 +97,16 @@
       "score": 9
     },
     {
+      "title": "Allegations of AI distillation spark debate about IP theft. But is it illegal?",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5909652/allegations-of-ai-distillation-spark-debate-about-ip-theft-but-is-it-illegal",
+      "published": "2026-07-28T20:14:23+00:00",
+      "summary": "Distillation lets AI companies train new models using existing ones. The White House says Chinese firms are using it to gain an edge, raising questions about competition and intellectual property.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
+    },
+    {
       "title": "Federal funds can't be spent on giving drug users test strips, raising overdose fears",
       "source": "NPR Health",
       "category": "Science / health",
@@ -114,16 +114,6 @@
       "published": "2026-07-28T20:14:21+00:00",
       "summary": "Test strips can identify dangerous hidden additives in street drugs and help prevent overdoses. But the Trump administration says federal funds can't be used to provide the strips to drug users.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "James Cameron to Guillermo del Toro on Pan’s Labyrinth 3D: “If You Take Less Than 300 Days, I’ll Kill You”",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/james-cameron-guillermo-del-toro-pans-labyrinth-3d-restoration/",
-      "published": "2026-07-28T19:05:34+00:00",
-      "summary": "The director's \"by hand' approach to the restoration included forbidding the use of AI The post James Cameron to Guillermo del Toro on Pan’s Labyrinth 3D: “If You Take Less Than 300 Days, I’ll Kill You” appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     },
     {
@@ -135,10 +125,594 @@
       "summary": "“I’m not going to apologize for using AI in the creation process.”",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
+    },
+    {
+      "title": "Children of Blood and Bone’s Stacked Cast Is On Display in the First Trailer",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/children-of-blood-and-bone-trailer/",
+      "published": "2026-07-28T14:45:32+00:00",
+      "summary": "Years after the project was announced, we finally have a trailer for Children of Blood and Bone The post Children of Blood and Bone ’s Stacked Cast Is On Display in the First Trailer appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "PiDP6 & Lisp - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=dXBmCIfb92k",
+      "published": "2026-07-28T15:00:39+00:00",
+      "summary": "The PDP6 was a DEC computer from the early 1960's - Angelo Papenhoff takes us through the machine and shows us some Lisp 'Poetry' Computerphile is supported by Jane Street.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Ex-FBI Agent Answers Heist Questions",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=LYPJBKuX1Lo",
+      "published": "2026-07-28T16:02:15+00:00",
+      "summary": "Former FBI Special Agent and member of the original FBI elite Art Crime Team Geoffrey Kelly joins WIRED to answer the internet’s burning heist questions.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "These nuns spent a lifetime helping others. In their last years, who will help them?",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=vJDtK96jwRw",
+      "published": "2026-07-28T23:30:34+00:00",
+      "summary": "The sisters of Uganda are teachers, health-care advocates and more. Those who are in their twilight of their life need help. Who will come to their aid?",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Wildfires rage in Spain, France ahead of yet another heat wave",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=DAo5ewhD5ZY",
+      "published": "2026-07-28T17:00:03+00:00",
+      "summary": "Crews continue to battle wildfires in Western Europe, devastating nearly 200,000 acres in Spain and forcing hundreds of thousands to evacuate in France.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Americans say government corruption is a problem as Trump's net worth soars",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=5WfF5IY6rxI",
+      "published": "2026-07-28T15:30:13+00:00",
+      "summary": "New research from the Brennan Center for Justice shows a large number of Americans say corruption in politics is a problem.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Meet the robots – and their kid programmers – preserving Indigenous languages",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=5bJfz1q1kc8",
+      "published": "2026-07-27T19:30:04+00:00",
+      "summary": "With the help of his mentor, a 12-year-old in Sault Ste. Marie, Mich., is building a robot to help him learn the Ojibwe language, an endangered Native American language.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Megan Rapinoe: the Women's World Cup 'is going to be lit'",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=frJ6SQmBOKk",
+      "published": "2026-07-27T18:00:09+00:00",
+      "summary": "Miss the World Cup already? Don’t worry.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Berlin police kill suspect in vehicle attack at Pride event",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=fW96eRIvXwE",
+      "published": "2026-07-27T16:30:07+00:00",
+      "summary": "Authorities in Germany say they’re investigating a weekend attack in Berlin as an act of terrorism after a man drove a vehicle into a crowd attending an annual Pride event.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Search continues for 2nd suspect in Seattle festival shooting",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Jsl2dICTRZ8",
+      "published": "2026-07-27T15:00:18+00:00",
+      "summary": "Three people were killed and four others injured early Sunday evening during a mass shooting in Seattle. At least one person is in critical condition. A 2-year-old is among the injured.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Study: Five cups of coffee per day safe for most adults",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=qPP_v5VtirI",
+      "published": "2026-07-26T16:00:06+00:00",
+      "summary": "In a new scientific statement, the American Heart Association says drinking up to five, 8-ounce cups of coffee per day — or about 400 mg of caffeine — is generally safe for most adults.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Metal Gear Solid Master Collection Vol 2: New Tech Details Emerge",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=bRaALcVm7-w",
+      "published": "2026-07-28T17:00:29+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/D_XO9vg-Yi4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "OG Xbox and Xbox 360 'Back Compat'/Emulation Coming To PC",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=407ZxIcMjj0",
+      "published": "2026-07-28T16:00:37+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/D_XO9vg-Yi4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "New Patent: Is Sony Ditching Liquid Metal For PlayStation 6?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=6dtARmt8StA",
+      "published": "2026-07-27T17:00:33+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/rdgNC-IId_g ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Sega's Virtua Fighter Deal With Nvidia RTX Spark... Why?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=_5TTP5Od1Nc",
+      "published": "2026-07-27T15:00:35+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/rdgNC-IId_g ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Sony Killing Discs - Is It More About The Next-Gen Handheld, Less About Greed?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=cSsSrlU3Cc8",
+      "published": "2026-07-26T17:00:39+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/rdgNC-IId_g ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "What If This Console Generation Targeted 30FPS Instead Of 60FPS?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=HLuhlOLc_6A",
+      "published": "2026-07-26T15:00:36+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/rdgNC-IId_g ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "The Desperate Discourse of The Odyssey | The Backdrop",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=MdVBOHMtRgA",
+      "published": "2026-07-28T15:00:19+00:00",
+      "summary": "This week on The Backdrop, we're looking at the utterly ridiculous discourse around The Odyssey. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Becoming Wet Ones in Fading Echo | Hot Monday Energy",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=tBs0OjL5BPA",
+      "published": "2026-07-28T01:13:13+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Asymmetric Horror Games And Why They're Good | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=Wz-TUQdd9IY",
+      "published": "2026-07-27T18:39:07+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "MOLE Is One of My Favorite Narrative Experiences This Year | Bytesized",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=jjgVawVnm1I",
+      "published": "2026-07-27T18:00:13+00:00",
+      "summary": "In this episode of Bytesized, Nick checked out a short narrative psychological horror game called, MOLE. Mole on Steam: https://store.steampowered.com/app/4064510/?snr=1_5_9__205 Support us on Patreon: https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "D-topia, Rock Bottom, and An Eggstremely Hard Game | Yahtzee Tries",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=IcjIY483p7I",
+      "published": "2026-07-26T16:00:19+00:00",
+      "summary": "This week on Yahtzee Tries, Yahtzee checked out D-topia, Rock Bottom and An Eggstremely Hard Game. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/ Stream 1: https://www.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "callum turner & monica barbaro star in one night only, in theaters august 7",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=70X8u8LGYA8",
+      "published": "2026-07-24T01:08:20+00:00",
+      "summary": "to finding true love on the least romantic night of the year 🥂 __________________________________________________________ What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "everything you need to know about ONE NIGHT ONLY. see it only in theaters august 7!",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=x4s0aRs316U",
+      "published": "2026-07-17T17:42:34+00:00",
+      "summary": "What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but You and Easy A, celebrates modern romantic comedy on the big screen with a fresh, witty, swoony original…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "some love languages are impossible to miss. one night only is in theaters august 7.",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=kiK1aBs6pTo",
+      "published": "2026-07-17T00:19:54+00:00",
+      "summary": "What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but You and Easy A, celebrates modern romantic comedy on the big screen with a fresh, witty, swoony original…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "JUMANJI: OPEN WORLD - Official Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=zhApeaHMvfs",
+      "published": "2026-07-29T00:59:43+00:00",
+      "summary": "One. Last. Game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RESIDENT EVIL – Official Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=mNd1gb19A-c",
+      "published": "2026-07-23T13:00:24+00:00",
+      "summary": "𝙽𝚘 𝚜𝚠𝚎𝚊𝚝. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the official trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY – Final Trailer (Peter’s Journey) 4K",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=P3uI5sLosKU",
+      "published": "2026-07-21T16:00:31+00:00",
+      "summary": "It's about to be a Brand New Day. Get tickets now. #SpiderManBrandNewDay is in theatres July 31. https://spidermanbrandnewday.movie/ It's a BRAND NEW DAY for Peter Parker.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Trailer out now for The Dog Stars.",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=FTHEgEONSRs",
+      "published": "2026-07-14T19:20:29+00:00",
+      "summary": "Trailer out now for The Dog Stars.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Dog Stars | In Theaters August 28",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=8FeiVAY5Y7Y",
+      "published": "2026-07-14T17:00:01+00:00",
+      "summary": "Ridley Scott returns with a bold new vision in THE DOG STARS. Starring Jacob Elordi, Margaret Qualley, & Josh Brolin. See the film only in theaters August 28. Watch the new trailer now.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Dog Stars | Official Trailer | In Theaters August 28",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=-xSxaE1ClEE",
+      "published": "2026-07-14T16:00:06+00:00",
+      "summary": "The world that was doesn’t exist. THE DOG STARS, a Ridley Scott film, starring Jacob Elordi, Josh Brolin, and Margaret Qualley, arrives in theaters and IMAX August 28.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Onslaught | Official Trailer 2 HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=AMLCbpM1fRQ",
+      "published": "2026-07-27T13:07:12+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Adam Wingard and starring Adria Arjona, Alex Pereira, Drew Starkey, Rebecca Hall, Reginald VelJohnson, Michael Biehn, Eric Wareheim and Dan Stevens. ONSLAUGHT – In Theaters September 4.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Misty Green | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ACaWuqeLpSk",
+      "published": "2026-07-22T13:00:31+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tony | Official First Look | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=GMQFLpETNkc",
+      "published": "2026-07-14T14:00:12+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Matt Johnson and starring Dominic Sessa, Emilia Jones, Dagmara Dominczyk, Rich Sommers, Stavros Halkias, with Leo Woodall and Antonio Banderas.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "It Ends - Official Trailer - In Theaters August 21",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=zFszhQLMNXU",
+      "published": "2026-07-22T16:00:07+00:00",
+      "summary": "Four friends post-college plans are derailed when a wrong turn traps them on a never-ending backroad.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "THE CYCLE | Deborah Ann Woll, Jeffrey Donovan | Teaser Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=87ekbcLWPN4",
+      "published": "2026-07-27T19:15:01+00:00",
+      "summary": "When the body of a man missing for thirty-six years is discovered at the scene of a horrific crime, it’s up to his estranged daughter to unravel his dark past.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Other Mommy | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=pPxrX9ukWBY",
+      "published": "2026-07-21T17:07:30+00:00",
+      "summary": "Your mommy won’t save you. Other Mommy only in theaters October 9. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Mark your calendars. Tyler Perry's Beauty in Black Season 3 COMING SOON, only on Netflix.",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=OXf_LjZmsfA",
+      "published": "2026-07-28T17:00:00+00:00",
+      "summary": "Mark your calendars. Beauty In Black Season 3 premieres August 27, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "BELOW | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=gH3fL9cMvuM",
+      "published": "2026-07-28T16:00:00+00:00",
+      "summary": "There’s something in the water. Josh Hartnett stars in the suspenseful new thriller BELOW, coming to Netflix on October 8th. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Freefall: A Reckoning for Boeing | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=7ZDSYBkcH2U",
+      "published": "2026-07-28T15:00:00+00:00",
+      "summary": "Following the highly publicized death of Boeing whistleblower John Barnett, in Freefall: A Reckoning for Boeing, Academy Award-nominated filmmaker Rory Kennedy and her Emmy-nominated producing partner Mark Bailey continue their urgent…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "that Bellarie reign just won't let up! SEASON 4 of Beauty In Black is officially in the works!!",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=99yJ3s7_BI4",
+      "published": "2026-07-23T21:00:33+00:00",
+      "summary": "that Bellarie reign just won't let up! SEASON 4 of Beauty In Black is officially in the works!! #netflix Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tires: Season 3 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=1lGZSnSht8s",
+      "published": "2026-07-23T16:00:00+00:00",
+      "summary": "Welcome back to Valley Forge Auto. Season 3 of Tires, starring Shane Gillis, debuts August 13 only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "LET'S MARRY HARRY premieres Aug 5, with the finale on Aug 12 💍",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=qQsZLuN2-gg",
+      "published": "2026-07-23T14:00:40+00:00",
+      "summary": "Is Harry Jowsey ready for a ring, or just another fling? LET'S MARRY HARRY premieres Aug 5, with the finale on Aug 12 💍 Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Ransom Canyon | Season 1 Recap | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=TYA8xtRP7Hk",
+      "published": "2026-07-22T19:00:00+00:00",
+      "summary": "Get ready for Season 2 of Ransom Canyon with a recap of where we left off. Josh Duhamel and Minka Kelly are back July 23 only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Let's Marry Harry | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=nsAuYuhHrYk",
+      "published": "2026-07-22T16:30:00+00:00",
+      "summary": "Harry Jowsey is done playing the field. Now, his inner circle is stepping in to help steer his love life, weighing in on every date, every match, and every tough call as he navigates a handpicked pool of potential partners.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Big Chicken: A Fast Food Conspiracy | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=7sGkQM6TyQU",
+      "published": "2026-07-22T09:00:00+00:00",
+      "summary": "In a bold 28-day experiment, comedian Mo Gilligan tours the UK and US on a fried chicken diet to uncover the impact of the craving — and industry behind it. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Widow's Bay — The Mayor's Inaugural Swim | Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=wnkUeOFb5Og",
+      "published": "2026-07-28T23:29:47+00:00",
+      "summary": "A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Silo — Juliette Finds [SPOILER] | Season 3 Episode 4 Twist Ending | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=_QlpDeZ9ekg",
+      "published": "2026-07-27T21:29:54+00:00",
+      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Pluribus — Vince Gilligan, Rhea Seehorn, Bryan Cranston and Bob Odenkirk In Conversation | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=_lPkj-BbS5I",
+      "published": "2026-07-27T18:59:46+00:00",
+      "summary": "“Breaking Bad” creator Vince Gilligan’s science fiction drama starring Emmy Award nominee Rhea Seehorn is now streaming on Apple TV. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Silo — Season 4 Announcement | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=w6G-A-vvBbE",
+      "published": "2026-07-25T22:59:37+00:00",
+      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.co/_Silo The end is near.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Neuromancer — Official Teaser | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=g79GPZSQHBk",
+      "published": "2026-07-25T22:00:11+00:00",
+      "summary": "Callum Turner stars in the cyberpunk series adapted from William Gibson's genre-defining 1984 novel. Streaming on Apple TV on January 22. http://apple.co/_neuromancer See you on the other side, cowboy.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Dark Matter — Season 2 Official Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=zhB6_1UbR7s",
+      "published": "2026-07-25T21:45:09+00:00",
+      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. Dark Matter Season 2 — August 28 on Apple TV https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Dark Matter — The Official Podcast: Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=CFQU5x9H6P0",
+      "published": "2026-07-25T21:45:05+00:00",
+      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -250,8 +824,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 9
+    "youtubeCount": 21,
+    "trailerCount": 31,
+    "sourceCount": 24
   }
 }
