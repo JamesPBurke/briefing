@@ -1,19 +1,69 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-29T09:00:26.818084Z",
-  "generatedAtDisplay": "2026-07-29 05:00 AM EDT",
+  "generatedAt": "2026-07-29T14:00:04.651680Z",
+  "generatedAtDisplay": "2026-07-29 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / computing, CS education / AI policy, Democracy / press freedom. The strongest items in this run are The AI Hype Index: Unsexy AI, Gates Foundation Bets on Credentials, AI to Reach Students Before 2045 Sunset, and US thwarts ‘surprise’ Iran missile attack, and joins forces with Saudis to hit targets in Iraq.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are You might not hear that much about it anymore, but the PUBG series grew its revenue by 25% in the first half of 2026, Anthony Fauci invokes fifth amendment right not to answer questions in Senate hearing on Covid-19 – live, and We’re running out of reasons to ignore AI safety.",
   "mainItems": [
     {
-      "title": "The AI Hype Index: Unsexy AI",
-      "source": "MIT Technology Review",
+      "title": "You might not hear that much about it anymore, but the PUBG series grew its revenue by 25% in the first half of 2026",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/pubg-ip-continued-growth-25-percent",
+      "published": "2026-07-29T13:56:53+00:00",
+      "summary": "PUBG , once the biggest multiplayer game on PC, has quietly continued to do very well.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Anthony Fauci invokes fifth amendment right not to answer questions in Senate hearing on Covid-19 – live",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates",
+      "published": "2026-07-29T13:41:39+00:00",
+      "summary": "Medical adviser says he invokes right to refrain from answering questions, accusing Rand Paul of having ‘obvious obsession’ with him Sign up for US Breaking News email Gary Peters, the Democratic ranking member on the homeland security…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "We’re running out of reasons to ignore AI safety",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-      "published": "2026-07-29T08:42:57+00:00",
-      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "published": "2026-07-29T13:23:12+00:00",
+      "summary": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Rogue OpenAI agent that hacked startup tried to attack other firms",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms",
+      "published": "2026-07-29T12:38:38+00:00",
+      "summary": "ChatGPT developer says activity by autonomous tool was not at severity or scale of what occurred at Hugging Face OpenAI has revealed that a cyber-attack carried out by a rogue AI agent had more than one victim.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Trump has singled out us Canadians for special treatment in his tariff war – there is no choice but to get nasty | Matt Gurney",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/29/donald-trump-canada-tariff-war-white-house-mark-carney-us-president",
+      "published": "2026-07-29T11:01:04+00:00",
+      "summary": "The White House fails to understand that Mark Carney and Canada’s regional leaders can’t cave in to the US president: it’s too toxic to voters • Matt Gurney is a journalist based in Toronto Though many hate to admit it, Canadians have long…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher",
+      "published": "2026-07-29T09:24:52+00:00",
+      "summary": "A school district in upstate New York is pausing plans to deploy an AI-powered, humanoid robot in the classroom after state education officials, teachers and local residents raised concerns.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 10
     },
     {
@@ -27,26 +77,6 @@
       "score": 10
     },
     {
-      "title": "US thwarts ‘surprise’ Iran missile attack, and joins forces with Saudis to hit targets in Iraq",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
-      "published": "2026-07-29T03:36:14+00:00",
-      "summary": "Oil price spikes after flare-up of fighting and claimed Iranian attacks on three tankers in strait of Hormuz The US military said it knocked down an Iranian missile barrage and worked with Saudi Arabia forces to strike sites in Iraq that…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "AI leaders sign a statement asking the government to do something about automated AI",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-      "published": "2026-07-28T23:14:53+00:00",
-      "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI…",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
       "source": "Ars Technica",
       "category": "Security / computing",
@@ -57,23 +87,13 @@
       "score": 10
     },
     {
-      "title": "New York offers college admission for residents unenrolled from Howard University",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jul/28/new-york-resident-college-admission-howard-university",
-      "published": "2026-07-28T21:00:25+00:00",
-      "summary": "Historically Black institution withdrew more than 500 first-year students for missed tuition payments New York residents who were unenrolled from Washington DC’s Howard University have been offered a reprieve after the historically Black…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Capcom says likelihood of a Pragmata sequel is high, citing strong sales and 'appeal' of its main character, Diana",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/pragmata-sequel-capcom-internal-expectations-sales",
-      "published": "2026-07-29T08:52:06+00:00",
-      "summary": "Yesterday, we saw Capcom release sales figures for two of its latest releases, Pragmata and Resident Evil Requiem, via the company's Q1 2026 financial report . It mentioned Pragmata's impressive figures (racking up 2.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Trump Accounts Have Arrived. Here’s What Families Need to Know",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/zero2eight/trump-accounts-visual-explainer-what-families-need-to-know/",
+      "published": "2026-07-29T11:00:00+00:00",
+      "summary": "A new investment opportunity became available to millions of American babies and children this summer.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
@@ -85,26 +105,6 @@
       "summary": "Ariana Grande filed a lawsuit on Monday in the Los Angeles County Superior Court against the currently unidentified hackers who allegedly stole and leaked private content.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
-    },
-    {
-      "title": "52 Million U.S. Kids Eligible for New Scholarships, but California Hasn’t Opted In",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/52-million-u-s-kids-eligible-for-new-scholarships-but-california-hasnt-opted-in/",
-      "published": "2026-07-28T11:01:00+00:00",
-      "summary": "Nearly 6 million children in California would be eligible for a scholarship under the new federal tax credit for education, more than in any other state, new data shows.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Allegations of AI distillation spark debate about IP theft. But is it illegal?",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/07/28/nx-s1-5909652/allegations-of-ai-distillation-spark-debate-about-ip-theft-but-is-it-illegal",
-      "published": "2026-07-28T20:14:23+00:00",
-      "summary": "Distillation lets AI companies train new models using existing ones. The White House says Chinese firms are using it to gain an edge, raising questions about competition and intellectual property.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
     },
     {
       "title": "Federal funds can't be spent on giving drug users test strips, raising overdose fears",
@@ -412,7 +412,7 @@
       "published": "2026-07-29T00:59:43+00:00",
       "summary": "One. Last. Game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
+      "score": 8,
       "verdict": "Looks promising"
     },
     {
@@ -537,6 +537,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Josh Hartnett stars in the suspenseful new thriller BELOW, premiering October 8th.",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=mFeZOoH5DiA",
+      "published": "2026-07-29T13:00:00+00:00",
+      "summary": "There’s something in the water. Josh Hartnett stars in the suspenseful new thriller BELOW, premiering October 8th. #BelowNetflix Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Mark your calendars. Tyler Perry's Beauty in Black Season 3 COMING SOON, only on Netflix.",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -620,17 +631,6 @@
       "url": "https://www.youtube.com/watch?v=nsAuYuhHrYk",
       "published": "2026-07-22T16:30:00+00:00",
       "summary": "Harry Jowsey is done playing the field. Now, his inner circle is stepping in to help steer his love life, weighing in on every date, every match, and every tough call as he navigates a handpicked pool of potential partners.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Big Chicken: A Fast Food Conspiracy | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=7sGkQM6TyQU",
-      "published": "2026-07-22T09:00:00+00:00",
-      "summary": "In a bold 28-day experiment, comedian Mo Gilligan tours the UK and US on a fried chicken diet to uncover the impact of the craving — and industry behind it. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
@@ -826,6 +826,6 @@
     "mainCount": 13,
     "youtubeCount": 21,
     "trailerCount": 31,
-    "sourceCount": 24
+    "sourceCount": 23
   }
 }

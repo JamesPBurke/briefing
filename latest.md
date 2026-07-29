@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-29T09:00:26.818084Z
+Generated: 2026-07-29T14:00:04.651680Z
 
-Today's sweep leans toward AI / computing, CS education / AI policy, Democracy / press freedom. The strongest items in this run are The AI Hype Index: Unsexy AI, Gates Foundation Bets on Credentials, AI to Reach Students Before 2045 Sunset, and US thwarts ‘surprise’ Iran missile attack, and joins forces with Saudis to hit targets in Iraq.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are You might not hear that much about it anymore, but the PUBG series grew its revenue by 25% in the first half of 2026, Anthony Fauci invokes fifth amendment right not to answer questions in Senate hearing on Covid-19 – live, and We’re running out of reasons to ignore AI safety.
 
 ## Briefing
 
@@ -33,16 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. The AI Hype Index: Unsexy AI [10/10]
-**Source:** MIT Technology Review  
+### 1. You might not hear that much about it anymore, but the PUBG series grew its revenue by 25% in the first half of 2026 [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+PUBG , once the biggest multiplayer game on PC, has quietly continued to do very well.
+
+Link: https://www.eurogamer.net/pubg-ip-continued-growth-25-percent
+
+### 2. Anthony Fauci invokes fifth amendment right not to answer questions in Senate hearing on Covid-19 – live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Medical adviser says he invokes right to refrain from answering questions, accusing Rand Paul of having ‘obvious obsession’ with him Sign up for US Breaking News email Gary Peters, the Democratic ranking member on the homeland security…
+
+Link: https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates
+
+### 3. We’re running out of reasons to ignore AI safety [10/10]
+**Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury.
+Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work.
 
-Link: https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/
+Link: https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning
 
-### 2. Gates Foundation Bets on Credentials, AI to Reach Students Before 2045 Sunset [10/10]
+### 4. Rogue OpenAI agent that hacked startup tried to attack other firms [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+ChatGPT developer says activity by autonomous tool was not at severity or scale of what occurred at Hugging Face OpenAI has revealed that a cyber-attack carried out by a rogue AI agent had more than one victim.
+
+Link: https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms
+
+### 5. Trump has singled out us Canadians for special treatment in his tariff war – there is no choice but to get nasty | Matt Gurney [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The White House fails to understand that Mark Carney and Canada’s regional leaders can’t cave in to the US president: it’s too toxic to voters • Matt Gurney is a journalist based in Toronto Though many hate to admit it, Canadians have long…
+
+Link: https://www.theguardian.com/commentisfree/2026/jul/29/donald-trump-canada-tariff-war-white-house-mark-carney-us-president
+
+### 6. New York school pauses plan to deploy humanlike AI robot teacher after backlash [10/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+A school district in upstate New York is pausing plans to deploy an AI-powered, humanoid robot in the classroom after state education officials, teachers and local residents raised concerns.
+
+Link: https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher
+
+### 7. Gates Foundation Bets on Credentials, AI to Reach Students Before 2045 Sunset [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -51,25 +96,7 @@ With an eye on the clock, the Gates Foundation refreshed its vision for American
 
 Link: https://www.the74million.org/article/gates-foundation-bets-on-credentials-ai-to-reach-students-before-2045-sunset/
 
-### 3. US thwarts ‘surprise’ Iran missile attack, and joins forces with Saudis to hit targets in Iraq [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Oil price spikes after flare-up of fighting and claimed Iranian attacks on three tankers in strait of Hormuz The US military said it knocked down an Iranian missile barrage and worked with Saudi Arabia forces to strike sites in Iraq that…
-
-Link: https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces
-
-### 4. AI leaders sign a statement asking the government to do something about automated AI [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI…
-
-Link: https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta
-
-### 5. We now have a better understanding how OpenAI hacked into Hugging Face [10/10]
+### 8. We now have a better understanding how OpenAI hacked into Hugging Face [10/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -78,25 +105,16 @@ Link: https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-g
 
 Link: https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/
 
-### 6. New York offers college admission for residents unenrolled from Howard University [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+### 9. Trump Accounts Have Arrived. Here’s What Families Need to Know [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Historically Black institution withdrew more than 500 first-year students for missed tuition payments New York residents who were unenrolled from Washington DC’s Howard University have been offered a reprieve after the historically Black…
+A new investment opportunity became available to millions of American babies and children this summer.
 
-Link: https://www.theguardian.com/us-news/2026/jul/28/new-york-resident-college-admission-howard-university
+Link: https://www.the74million.org/zero2eight/trump-accounts-visual-explainer-what-families-need-to-know/
 
-### 7. Capcom says likelihood of a Pragmata sequel is high, citing strong sales and 'appeal' of its main character, Diana [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Yesterday, we saw Capcom release sales figures for two of its latest releases, Pragmata and Resident Evil Requiem, via the company's Q1 2026 financial report . It mentioned Pragmata's impressive figures (racking up 2.
-
-Link: https://www.eurogamer.net/pragmata-sequel-capcom-internal-expectations-sales
-
-### 8. Ariana Grande is suing the hackers who’ve been leaking her songs and videos for years [9/10]
+### 10. Ariana Grande is suing the hackers who’ve been leaking her songs and videos for years [9/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -104,24 +122,6 @@ Link: https://www.eurogamer.net/pragmata-sequel-capcom-internal-expectations-sal
 Ariana Grande filed a lawsuit on Monday in the Los Angeles County Superior Court against the currently unidentified hackers who allegedly stole and leaked private content.
 
 Link: https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit
-
-### 9. 52 Million U.S. Kids Eligible for New Scholarships, but California Hasn’t Opted In [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Nearly 6 million children in California would be eligible for a scholarship under the new federal tax credit for education, more than in any other state, new data shows.
-
-Link: https://www.the74million.org/article/52-million-u-s-kids-eligible-for-new-scholarships-but-california-hasnt-opted-in/
-
-### 10. Allegations of AI distillation spark debate about IP theft. But is it illegal? [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Distillation lets AI companies train new models using existing ones. The White House says Chinese firms are using it to gain an edge, raising questions about competition and intellectual property.
-
-Link: https://www.npr.org/2026/07/28/nx-s1-5909652/allegations-of-ai-distillation-spark-debate-about-ip-theft-but-is-it-illegal
 
 ### 11. Federal funds can't be spent on giving drug users test strips, raising overdose fears [8/10]
 **Source:** NPR Health  
@@ -397,7 +397,7 @@ What if one messy night turns out to be the best thing that ever happened to you
 
 Link: https://www.youtube.com/watch?v=kiK1aBs6pTo
 
-### JUMANJI: OPEN WORLD - Official Trailer (4K) [9/10]
+### JUMANJI: OPEN WORLD - Official Trailer (4K) [8/10]
 **Source:** Sony Pictures Entertainment  
 **Verdict:** Looks promising  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
@@ -505,6 +505,15 @@ Your mommy won’t save you. Other Mommy only in theaters October 9. /// GET IN 
 
 Link: https://www.youtube.com/watch?v=pPxrX9ukWBY
 
+### Josh Hartnett stars in the suspenseful new thriller BELOW, premiering October 8th. [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+There’s something in the water. Josh Hartnett stars in the suspenseful new thriller BELOW, premiering October 8th. #BelowNetflix Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=mFeZOoH5DiA
+
 ### Mark your calendars. Tyler Perry's Beauty in Black Season 3 COMING SOON, only on Netflix. [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -576,15 +585,6 @@ Link: https://www.youtube.com/watch?v=TYA8xtRP7Hk
 Harry Jowsey is done playing the field. Now, his inner circle is stepping in to help steer his love life, weighing in on every date, every match, and every tough call as he navigates a handpicked pool of potential partners.
 
 Link: https://www.youtube.com/watch?v=nsAuYuhHrYk
-
-### Big Chicken: A Fast Food Conspiracy | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-In a bold 28-day experiment, comedian Mo Gilligan tours the UK and US on a fried chicken diet to uncover the impact of the craving — and industry behind it. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=7sGkQM6TyQU
 
 ### Widow's Bay — The Mayor's Inaugural Swim | Scene | Apple TV [10/10]
 **Source:** Apple TV  
