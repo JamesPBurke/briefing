@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-29T18:00:23.843536Z
+Generated: 2026-07-30T05:00:03.740235Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Comey alleges Trump pushed prosecution over ‘8647’ seashell post, New Staffing Models Put Strong Teachers Out Front, and We’re running out of reasons to ignore AI safety.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Science / computing. The strongest items in this run are Artists find creative haven in Côte d’Ivoire’s ‘calm and soothing’ Grand Bassam, Bullets that killed two at Seattle food festival do not match teen shooter’s gun, police say, and Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir.
 
 ## Briefing
 
@@ -33,43 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Comey alleges Trump pushed prosecution over ‘8647’ seashell post [10/10]
+### 1. Artists find creative haven in Côte d’Ivoire’s ‘calm and soothing’ Grand Bassam [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Comey’s lawyers say Secret Service tracked him and investigators turned to AI and a mafia killer to bolster case Lawyers for former FBI director James Comey alleged on Tuesday that US Secret Service agents illegally surveilled Comey,…
+Creatives priced out of Abidjan have breathed new life into a city that was hit by a jihadist attack in 2016 By the poolside of La Fourchette de Rōze hotel in Grand Bassam, a Côte d’Ivoire city sandwiched between the Ébrié lagoon and the…
 
-Link: https://www.theguardian.com/us-news/2026/jul/29/james-comey-secret-service-seashells-investigation-trump
+Link: https://www.theguardian.com/world/2026/jul/30/artists-creative-haven-cote-divoire-calm-soothing-grand-bassam
 
-### 2. New Staffing Models Put Strong Teachers Out Front [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-In Carlsbad, N.M.
-
-Link: https://www.the74million.org/article/new-staffing-models-put-strong-teachers-out-front/
-
-### 3. We’re running out of reasons to ignore AI safety [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning
-
-### 4. Rogue OpenAI agent that hacked startup tried to attack other firms [10/10]
+### 2. Bullets that killed two at Seattle food festival do not match teen shooter’s gun, police say [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-ChatGPT developer says activity by autonomous tool was not at severity or scale of what occurred at Hugging Face OpenAI has revealed that a cyber-attack carried out by a rogue AI agent had more than one victim.
+Police link shooting to gang violence but have not said who might have fired bullets that killed bystanders on Sunday Bullets that fatally struck two bystanders during a shootout at a Seattle food festival last weekend do not appear to…
 
-Link: https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms
+Link: https://www.theguardian.com/us-news/2026/jul/29/seattle-food-festival-bullets-gun-police
 
-### 5. New York school pauses plan to deploy humanlike AI robot teacher after backlash [10/10]
+### 3. Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author For all the drugs and punch-ups, this is an unexpectedly sentimental…
+
+Link: https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas
+
+### 4. New York school pauses plan to deploy humanlike AI robot teacher after backlash [10/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -78,59 +69,68 @@ A school district in upstate New York is pausing plans to deploy an AI-powered, 
 
 Link: https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher
 
-### 6. We now have a better understanding how OpenAI hacked into Hugging Face [10/10]
-**Source:** Ars Technica  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.
-
-Link: https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/
-
-### 7. AI executive calls OpenAI hacking event a wake-up call for the industry [10/10]
-**Source:** NPR Tech  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-NPR's Sacha Pfeiffer speaks with Thomas Wolf, co-founder and chief science officer for Hugging Face, an AI company, discusses the recent hacking incident involving ChatGPT.
-
-Link: https://www.npr.org/2026/07/28/nx-s1-5908495/ai-executive-calls-openai-hacking-event-a-wake-up-call-for-the-industry
-
-### 8. Full school day cellphone bans are more popular than ever [9/10]
+### 5. Mark Zuckerberg is planning a big push into personal AI agents [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-As schools across the country continue to implement cellphone bans, a new Pew Research Center survey shows they continue to gain support.
+Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf.
 
-Link: https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever
+Link: https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents
 
-### 9. Trump asks supreme court to throw out $83m E Jean Carroll defamation verdict [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Move marks second time US president has asked supreme court justices to nix damages awarded by a jury to Carroll Donald Trump and the justice department are asking the US supreme court to toss an $83m defamation verdict won by writer E…
-
-Link: https://www.theguardian.com/us-news/2026/jul/29/trump-supreme-court-e-jean-carroll-defamation-verdict
-
-### 10. Gates Foundation Bets on Credentials, AI to Reach Students Before 2045 Sunset [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-With an eye on the clock, the Gates Foundation refreshed its vision for American schools Wednesday morning, unveiling a set of five-year goals intended to ease students’ transition to college graduation and career success.
-
-Link: https://www.the74million.org/article/gates-foundation-bets-on-credentials-ai-to-reach-students-before-2045-sunset/
-
-### 11. Fauci invokes fifth amendment and declines to testify in Senate Covid hearing [8/10]
+### 6. Hollywood producer charged with seven counts of wire fraud in $100m scheme [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Adviser to Trump and Biden for pandemic says Republican senator has ‘unhinged obsession’ with him US politics – live updates Dr Anthony Fauci, who served as a key adviser to Donald Trump and Joe Biden during the Covid-19 pandemic, has…
+Jason Cloth of Joker and The Green Knight diverted funds from entertainment investors toward his personal life A federal grand jury in Chicago has charged the Hollywood producer Jason Cloth with seven counts of wire fraud for allegedly…
 
-Link: https://www.theguardian.com/us-news/2026/jul/29/anthony-fauci-senate-hearing-covid
+Link: https://www.theguardian.com/us-news/2026/jul/29/jason-cloth-fraud
+
+### 7. Senate unanimously passes resolution opposing pardon for Ghislaine Maxwell [9/10]
+**Source:** The Guardian US  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+Longtime Epstein associate serving 20-year sentence for sex-trafficking crimes has exhausted series of appeals The US Senate on Wednesday unanimously passed a resolution declaring its opposition to any presidential pardon for Ghislaine…
+
+Link: https://www.theguardian.com/us-news/2026/jul/29/ghislaine-maxwell-pardon-senate-resolution
+
+### 8. Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims [9/10]
+**Source:** Ars Technica  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Comcast, accused of negligence, says lawsuit mischaracterized alleged events.
+
+Link: https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/
+
+### 9. New Staffing Models Put Strong Teachers Out Front [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+In Carlsbad, N.M.
+
+Link: https://www.the74million.org/article/new-staffing-models-put-strong-teachers-out-front/
+
+### 10. "The Case of the Golden Idol-style deduction meets The X-Files": Former BioWare devs unveil supernatural detective game The Eventide [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Remember that paranormal, protagonist-juggling adventure game in the works at Studio Reset, an indie outfit formed by former Mass Effect /Dragon's Age staffers? It’s just been fully revealed as The Eventide, with a debut trailer to show…
+
+Link: https://www.rockpapershotgun.com/the-case-of-the-golden-idol-style-deduction-meets-the-x-files-former-bioware-devs-unveil-supernatural-detective-game-the-eventide
+
+### 11. The White House pushes healthy eating. It cut a landmark nutrition education program [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Nutrition advocates and public health experts are mystified by the decision to eliminate the landmark nutrition education program SNAP-Ed.
+
+Link: https://www.npr.org/2026/07/29/nx-s1-5896280-e1/the-white-house-pushes-healthy-eating-it-cut-a-landmark-nutrition-education-program
 
 ### 12. Data Centers Are Easy to Build. Powering Them Is Complicated, Slow, and Expensive [8/10]
 **Source:** 404 Media  
@@ -141,11 +141,46 @@ A new AI data center can be up and running in a year. Building new energy infras
 
 Link: https://www.404media.co/data-centers-power-energy-grid-epa-clean-air-act/
 
-### 13. Federal funds can't be spent on giving drug users test strips, raising overdose fears [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
+### 13. Seven Horror Books Featuring Freaky, Frightening Forests [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Test strips can identify dangerous hidden additives in street drugs and help prevent overdoses. But the Trump administration says federal funds can't be used to provide the strips to drug users.
+Sure, why not head up to the creepy cabin in the woods — what could possibly go wrong? The post Seven Horror Books Featuring Freaky, Frightening Forests appeared first on Reactor .
 
-Link: https://www.npr.org/2026/07/28/nx-s1-5856406/federal-funds-cant-be-spent-on-giving-drug-users-test-strips-raising-overdose-fears
+Link: https://reactormag.com/seven-horror-books-featuring-freaky-frightening-forests/
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._

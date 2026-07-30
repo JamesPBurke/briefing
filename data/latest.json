@@ -1,49 +1,39 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-29T18:00:23.843536Z",
-  "generatedAtDisplay": "2026-07-29 02:00 PM EDT",
+  "generatedAt": "2026-07-30T05:00:03.740235Z",
+  "generatedAtDisplay": "2026-07-30 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Education / pedagogy. The strongest items in this run are Comey alleges Trump pushed prosecution over ‘8647’ seashell post, New Staffing Models Put Strong Teachers Out Front, and We’re running out of reasons to ignore AI safety.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Science / computing. The strongest items in this run are Artists find creative haven in Côte d’Ivoire’s ‘calm and soothing’ Grand Bassam, Bullets that killed two at Seattle food festival do not match teen shooter’s gun, police say, and Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir.",
   "mainItems": [
     {
-      "title": "Comey alleges Trump pushed prosecution over ‘8647’ seashell post",
+      "title": "Artists find creative haven in Côte d’Ivoire’s ‘calm and soothing’ Grand Bassam",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/29/james-comey-secret-service-seashells-investigation-trump",
-      "published": "2026-07-29T16:35:25+00:00",
-      "summary": "Comey’s lawyers say Secret Service tracked him and investigators turned to AI and a mafia killer to bolster case Lawyers for former FBI director James Comey alleged on Tuesday that US Secret Service agents illegally surveilled Comey,…",
+      "url": "https://www.theguardian.com/world/2026/jul/30/artists-creative-haven-cote-divoire-calm-soothing-grand-bassam",
+      "published": "2026-07-30T04:00:51+00:00",
+      "summary": "Creatives priced out of Abidjan have breathed new life into a city that was hit by a jihadist attack in 2016 By the poolside of La Fourchette de Rōze hotel in Grand Bassam, a Côte d’Ivoire city sandwiched between the Ébrié lagoon and the…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "New Staffing Models Put Strong Teachers Out Front",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/new-staffing-models-put-strong-teachers-out-front/",
-      "published": "2026-07-29T16:30:00+00:00",
-      "summary": "In Carlsbad, N.M.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "We’re running out of reasons to ignore AI safety",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-      "published": "2026-07-29T13:23:12+00:00",
-      "summary": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Rogue OpenAI agent that hacked startup tried to attack other firms",
+      "title": "Bullets that killed two at Seattle food festival do not match teen shooter’s gun, police say",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms",
-      "published": "2026-07-29T12:38:38+00:00",
-      "summary": "ChatGPT developer says activity by autonomous tool was not at severity or scale of what occurred at Hugging Face OpenAI has revealed that a cyber-attack carried out by a rogue AI agent had more than one victim.",
+      "url": "https://www.theguardian.com/us-news/2026/jul/29/seattle-food-festival-bullets-gun-police",
+      "published": "2026-07-30T00:39:21+00:00",
+      "summary": "Police link shooting to gang violence but have not said who might have fired bullets that killed bystanders on Sunday Bullets that fatally struck two bystanders during a shootout at a Seattle food festival last weekend do not appear to…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas",
+      "published": "2026-07-29T16:00:36+00:00",
+      "summary": "Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author For all the drugs and punch-ups, this is an unexpectedly sentimental…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -57,63 +47,73 @@
       "score": 10
     },
     {
-      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-      "source": "Ars Technica",
-      "category": "Security / computing",
-      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-      "published": "2026-07-28T21:36:39+00:00",
-      "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 10
-    },
-    {
-      "title": "AI executive calls OpenAI hacking event a wake-up call for the industry",
-      "source": "NPR Tech",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/07/28/nx-s1-5908495/ai-executive-calls-openai-hacking-event-a-wake-up-call-for-the-industry",
-      "published": "2026-07-28T20:30:59+00:00",
-      "summary": "NPR's Sacha Pfeiffer speaks with Thomas Wolf, co-founder and chief science officer for Hugging Face, an AI company, discusses the recent hacking incident involving ChatGPT.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Full school day cellphone bans are more popular than ever",
+      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever",
-      "published": "2026-07-29T17:01:05+00:00",
-      "summary": "As schools across the country continue to implement cellphone bans, a new Pew Research Center survey shows they continue to gain support.",
+      "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+      "published": "2026-07-29T21:48:07+00:00",
+      "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "Trump asks supreme court to throw out $83m E Jean Carroll defamation verdict",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/29/trump-supreme-court-e-jean-carroll-defamation-verdict",
-      "published": "2026-07-29T16:11:58+00:00",
-      "summary": "Move marks second time US president has asked supreme court justices to nix damages awarded by a jury to Carroll Donald Trump and the justice department are asking the US supreme court to toss an $83m defamation verdict won by writer E…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Gates Foundation Bets on Credentials, AI to Reach Students Before 2045 Sunset",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/gates-foundation-bets-on-credentials-ai-to-reach-students-before-2045-sunset/",
-      "published": "2026-07-29T04:01:00+00:00",
-      "summary": "With an eye on the clock, the Gates Foundation refreshed its vision for American schools Wednesday morning, unveiling a set of five-year goals intended to ease students’ transition to college graduation and career success.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Fauci invokes fifth amendment and declines to testify in Senate Covid hearing",
+      "title": "Hollywood producer charged with seven counts of wire fraud in $100m scheme",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jul/29/anthony-fauci-senate-hearing-covid",
-      "published": "2026-07-29T16:11:27+00:00",
-      "summary": "Adviser to Trump and Biden for pandemic says Republican senator has ‘unhinged obsession’ with him US politics – live updates Dr Anthony Fauci, who served as a key adviser to Donald Trump and Joe Biden during the Covid-19 pandemic, has…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/29/jason-cloth-fraud",
+      "published": "2026-07-29T21:38:29+00:00",
+      "summary": "Jason Cloth of Joker and The Green Knight diverted funds from entertainment investors toward his personal life A federal grand jury in Chicago has charged the Hollywood producer Jason Cloth with seven counts of wire fraud for allegedly…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Senate unanimously passes resolution opposing pardon for Ghislaine Maxwell",
+      "source": "The Guardian US",
+      "category": "Security / computing",
+      "url": "https://www.theguardian.com/us-news/2026/jul/29/ghislaine-maxwell-pardon-senate-resolution",
+      "published": "2026-07-29T21:19:04+00:00",
+      "summary": "Longtime Epstein associate serving 20-year sentence for sex-trafficking crimes has exhausted series of appeals The US Senate on Wednesday unanimously passed a resolution declaring its opposition to any presidential pardon for Ghislaine…",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 9
+    },
+    {
+      "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
+      "source": "Ars Technica",
+      "category": "AI / privacy",
+      "url": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
+      "published": "2026-07-29T19:33:55+00:00",
+      "summary": "Comcast, accused of negligence, says lawsuit mischaracterized alleged events.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
+    },
+    {
+      "title": "New Staffing Models Put Strong Teachers Out Front",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/new-staffing-models-put-strong-teachers-out-front/",
+      "published": "2026-07-29T16:30:00+00:00",
+      "summary": "In Carlsbad, N.M.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "\"The Case of the Golden Idol-style deduction meets The X-Files\": Former BioWare devs unveil supernatural detective game The Eventide",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/the-case-of-the-golden-idol-style-deduction-meets-the-x-files-former-bioware-devs-unveil-supernatural-detective-game-the-eventide",
+      "published": "2026-07-29T15:00:07+00:00",
+      "summary": "Remember that paranormal, protagonist-juggling adventure game in the works at Studio Reset, an indie outfit formed by former Mass Effect /Dragon's Age staffers? It’s just been fully revealed as The Eventide, with a debut trailer to show…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5896280-e1/the-white-house-pushes-healthy-eating-it-cut-a-landmark-nutrition-education-program",
+      "published": "2026-07-29T20:28:52+00:00",
+      "summary": "Nutrition advocates and public health experts are mystified by the decision to eliminate the landmark nutrition education program SNAP-Ed.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -127,14 +127,14 @@
       "score": 8
     },
     {
-      "title": "Federal funds can't be spent on giving drug users test strips, raising overdose fears",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/28/nx-s1-5856406/federal-funds-cant-be-spent-on-giving-drug-users-test-strips-raising-overdose-fears",
-      "published": "2026-07-28T20:14:21+00:00",
-      "summary": "Test strips can identify dangerous hidden additives in street drugs and help prevent overdoses. But the Trump administration says federal funds can't be used to provide the strips to drug users.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "title": "Seven Horror Books Featuring Freaky, Frightening Forests",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/seven-horror-books-featuring-freaky-frightening-forests/",
+      "published": "2026-07-29T14:00:00+00:00",
+      "summary": "Sure, why not head up to the creepy cabin in the woods — what could possibly go wrong? The post Seven Horror Books Featuring Freaky, Frightening Forests appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 7
     }
   ],
   "youtube": [],
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 7
+    "sourceCount": 9
   }
 }
