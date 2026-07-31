@@ -1,6 +1,6 @@
 # James Daily Briefing
 
-Generated: 2026-07-31T18:01:06.532225Z
+Generated: 2026-07-31T18:01:51.965830Z
 
 Today's sweep leans toward Democracy / press freedom, AI / privacy, CS education / AI policy. The strongest items in this run are The ban on robot vacuums won’t make them safer, only worse, Trump says he is not sure about giving Patriot missiles to Ukraine, calling it a ‘big step’ – live, and West Virginia 3rd Graders Behind in Reading, Math Must Repeat Grade Under 2023 Law.
 
