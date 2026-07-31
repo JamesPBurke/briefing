@@ -1,11 +1,51 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-30T18:00:46.950881Z",
-  "generatedAtDisplay": "2026-07-30 02:00 PM EDT",
+  "generatedAt": "2026-07-31T05:00:03.806342Z",
+  "generatedAtDisplay": "2026-07-31 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / computing, CS education / AI policy, Democracy / press freedom. The strongest items in this run are Google DeepMind’s new AI model can control a robot’s entire body, Friend re-launches its AI pendant with a speaker that talks to you, for twice the price, and Pixel 11 Pro Fold design leaks ahead of Google launch event.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Soy sauce refills and reused jars: can Philippines’ tingi culture hold back deluge of plastic waste?, ‘A car in the bus!’: Toyota becomes airborne and then wedges in side of Brisbane bus, and Trump administration to let contract aiding unaccompanied minors expire.",
   "mainItems": [
+    {
+      "title": "Soy sauce refills and reused jars: can Philippines’ tingi culture hold back deluge of plastic waste?",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/environment/2026/jul/31/philippines-tingi-zero-waste-shop-reuse-refill-plastic",
+      "published": "2026-07-31T04:00:03+00:00",
+      "summary": "A zero-waste shop set up by a district council provides plastic-free products at affordable prices in a country that gets through 164m sachets a day Just after classes finish for the day in Malabon City, in the Philippines, a corner shop…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘A car in the bus!’: Toyota becomes airborne and then wedges in side of Brisbane bus",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/31/brisbane-bus-car-crash",
+      "published": "2026-07-31T03:04:40+00:00",
+      "summary": "Queensland police fine driver of another car that allegedly caused Yaris to swerve before it hit kerb and catapulted into air – and bus A Queensland driver has been fined after being involved in a stunning crash that saw a car become…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Trump administration to let contract aiding unaccompanied minors expire",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/30/trump-administration-children-immigration",
+      "published": "2026-07-31T01:06:28+00:00",
+      "summary": "US government, which owes legal services firm $65m, stopped paying in December, as contract runs out Friday Current and former prosecutors are denouncing the Trump administration for fast-tracking the deportation of immigrant children, as…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Anthropic’s AI Claude escaped testing environment and hacked organizations",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack",
+      "published": "2026-07-31T00:22:16+00:00",
+      "summary": "Company says it discovered unauthorized access during ‘proactive review’ after rival OpenAI revealed rogue agent Anthropic ⁠said on Thursday its AI Claude model hacked ⁠systems of ⁠three ​organizations during testing, days after rival…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
     {
       "title": "Google DeepMind’s new AI model can control a robot’s entire body",
       "source": "The Verge",
@@ -17,24 +57,14 @@
       "score": 10
     },
     {
-      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-      "published": "2026-07-30T17:18:12+00:00",
-      "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Pixel 11 Pro Fold design leaks ahead of Google launch event",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/973249/pixel-11-pro-fold-buds-watch-leaks-google-launch-event",
-      "published": "2026-07-30T17:04:31+00:00",
-      "summary": "Weeks ahead of Google's next Pixel hardware event, Leaker Evan Blass has shared what appear to be marketing renders of the unannounced Google Pixel 11 Pro Fold in a post on his Substack.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
+      "title": "Midnight Moments is a cyberpunk diorama builder for the neon sign and drizzly rain lovers",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/midnight-moments-is-a-cyberpunk-diorama-builder-for-the-neon-sign-and-drizzly-rain-lovers",
+      "published": "2026-07-30T21:52:19+00:00",
+      "summary": "I'm finding the relatively recent trend of supposedly calming diorama builders in games to be an interesting one in that there's a clear desire amongst creatively inclined folks to be crafting something in virtual environments, just not…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "When Teachers Lack Confidence in Math, Their Students Fall Behind, New Study Shows",
@@ -44,67 +74,57 @@
       "published": "2026-07-30T14:30:00+00:00",
       "summary": "Plenty of students have math anxiety. It turns out some educators have their own anxiety about teaching the subject, a new study finds. And that appears to affect their students — especially those already struggling in the subject.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "Mayor of St Paul reportedly under investigation for sexual harassment",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/jul/30/kaohly-her-st-paul-mayor-sexual-harassment",
-      "published": "2026-07-30T13:24:26+00:00",
-      "summary": "Democrat Kaohly Her, Minnesota’s city’s first female mayor, allegedly sent inappropriate messages to employees The first female mayor of St Paul, Kaohly Her , is reportedly under investigation for sexual harassment following a complaint…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "Nvidia GPUs see yet another price hike of up to 30 percent, as the generative AI hardware crisis worsens",
+      "source": "Eurogamer",
+      "category": "Security / computing",
+      "url": "https://www.eurogamer.net/nvidia-gpu-price-rise-30-percent",
+      "published": "2026-07-30T11:37:28+00:00",
+      "summary": "The personal computing affordability crisis continues in earnest, as Nvidia has announced yet another price hike for its GPUs. Read more",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 9
     },
     {
-      "title": "The Download: tricking LLMs, and reviving geothermal plants",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-      "published": "2026-07-30T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
+      "title": "After Fauci Senate hearing, experts worry about 'chilling effect' on public health",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/07/30/nx-s1-5913384/anthony-fauci-fifth-rand-paul-covid-public-health-chilling",
+      "published": "2026-07-30T20:37:48+00:00",
+      "summary": "The accusations against Dr. Anthony Fauci, once the nation's leading infectious disease expert, have some experts worrying that these events may further erode public health staffing in the U.S.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
-      "title": "Using AI Tools to Build Student Confidence with Responsible AI Fellow Lisette Antigua",
-      "source": "CSTA",
-      "category": "CS education / AI policy",
-      "url": "https://csteachers.org/using-ai-tools-to-build-student-confidence-with-responsible-ai-fellow-lisette-antigua/",
-      "published": "2026-07-30T11:00:00+00:00",
-      "summary": "Lisette Antigua teaches high school computer science at STEM Innovation Academy in South Orange, NJ. She holds a bachelor’s degree...",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "title": "Elon Musk's AI company is suing to block a new Minnesota law against certain AI apps",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/07/30/nx-s1-5911881/elon-musks-ai-company-is-suing-to-block-a-new-minnesota-law-against-certain-ai-apps",
+      "published": "2026-07-30T20:30:36+00:00",
+      "summary": "Minnesota has a new law taking effect Saturday to ban AI apps that allow for \"nudification.\" Elon Musk's AI company is suing to block it, saying it violates free speech, noting that it can be used for satire of prominent people.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     },
     {
-      "title": "Opinion: How Math Became Relevant Again in a Wisconsin Classroom",
+      "title": "Senate Panel Advances Science of Reading, Dyslexia Bills with Bipartisan Support",
       "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/how-math-became-relevant-again-in-a-wisconsin-classroom/",
-      "published": "2026-07-30T10:30:00+00:00",
-      "summary": "It is impossible to imagine a future that does not have data science embedded in our daily lives. The field combines statistics, coding, and critical thinking to extract meaning from data, making it a desirable skill across industries.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/senate-panel-advances-science-of-reading-dyslexia-bills-with-bipartisan-support/",
+      "published": "2026-07-30T18:42:32+00:00",
+      "summary": "A bill that would require states to only use the science of reading in classrooms in order to qualify for a multi-million dollar funding grant passed with bipartisan support from a committee of federal lawmakers Thursday morning.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 8
     },
     {
-      "title": "Republican congressman Max Miller faces backlash over domestic abuse allegations",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/jul/30/max-miller-ohio-representative-domestic-abuse-allegations",
-      "published": "2026-07-30T17:45:26+00:00",
-      "summary": "Ohio representative is accused by his ex-wife and ex-girlfriend of abuse as he campaigns for re-election Ohio representative Max Miller is facing growing pressure to resign over a series of domestic abuse allegations made by his ex-wife…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
-      "source": "Ars Technica",
-      "category": "AI / privacy",
-      "url": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
-      "published": "2026-07-29T19:33:55+00:00",
-      "summary": "Comcast, accused of negligence, says lawsuit mischaracterized alleged events.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
+      "title": "Haunted — Star Trek: Strange New Worlds: “The Griffin Incident”",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/tv-review-star-trek-strange-new-worlds-the-griffin-incident/",
+      "published": "2026-07-30T18:00:00+00:00",
+      "summary": "We're getting haunted again this week... The post Haunted — Star Trek: Strange New Worlds : “The Griffin Incident” appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     },
     {
       "title": "Inside an AI TikTok Shop Slop Factory That Shills Supplements Recalled By the FDA",
@@ -115,29 +135,43 @@
       "summary": "How a company called Rosabella used AI content to market its supplements: \"If you’re trying to sell health products to a 50-year-old, well, make your avatar 50 years old.\"",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "Rural California school district creates space where kids can learn to swim",
-      "source": "NPR Education",
-      "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5887669/rural-california-school-district-creates-space-where-kids-can-learn-to-swim",
-      "published": "2026-07-30T08:41:16+00:00",
-      "summary": "Not everyone has access to a public pool. But a rural school district in California just pulled together funding for a new aquatic center so kids can learn to swim.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 8
-    },
-    {
-      "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5896280-e1/the-white-house-pushes-healthy-eating-it-cut-a-landmark-nutrition-education-program",
-      "published": "2026-07-29T20:28:52+00:00",
-      "summary": "Nutrition advocates and public health experts are mystified by the decision to eliminate the landmark nutrition education program SNAP-Ed.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "ITS, Eliza & MiT's AI Lab - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=tJMqVauWsjk",
+      "published": "2026-07-30T15:00:28+00:00",
+      "summary": "ITS is the Incompatible Timesharing System. Academics at the MIT AI Lab didn't like earlier incarnations of time-sharing so they invented their own.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "PiDP10 - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=hISbyatih44",
+      "published": "2026-07-29T15:00:33+00:00",
+      "summary": "The excitement of video games from the 8-bit home video era but decades earlier and with a few zeroes added to the price tag the PDP10 was a lot of machine for the late '60's! Computerphile is supported by Jane Street.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "PiDP6 & Lisp - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=dXBmCIfb92k",
+      "published": "2026-07-28T15:00:39+00:00",
+      "summary": "The PDP6 was a DEC computer from the early 1960's - Angelo Papenhoff takes us through the machine and shows us some Lisp 'Poetry' Computerphile is supported by Jane Street.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    }
+  ],
   "trailers": [],
   "recommendations": {
     "new": [
@@ -250,8 +284,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
+    "youtubeCount": 3,
     "trailerCount": 0,
-    "sourceCount": 9
+    "sourceCount": 10
   }
 }
