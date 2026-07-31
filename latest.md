@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-07-31T09:00:54.110618Z
+Generated: 2026-07-31T14:00:02.994784Z
 
-Today's sweep leans toward Democracy / press freedom, Science / computing, Democracy / anti-fascism. The strongest items in this run are Trump's AI review order raises questions about federal oversight, Deaths reported as an estimated 49,000 people cross into Spain’s African enclave of Ceuta – Europe live, and Middle East crisis live: Hamas will hand over weapons to new Gaza administration, says official, but deal depends on Israeli withdrawal.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Anthropic says Claude accidentally hacked real companies too, 20 years ago, Dead Rising showed a different path for open worlds, and more games should pinch its ideas, and Opinion: The ‘Second Curriculum’ — What 1st-Gen College Students Need to Know, But Don’t.
 
 ## Briefing
 
@@ -33,7 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Trump's AI review order raises questions about federal oversight [10/10]
+### 1. Anthropic says Claude accidentally hacked real companies too [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests
+
+### 2. 20 years ago, Dead Rising showed a different path for open worlds, and more games should pinch its ideas [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Photojournalist Frank West is heli-dropped into the Willamette Parkview mall, following a tip-off that there’s something sinister going down in the sleepy Colorado town.
+
+Link: https://www.rockpapershotgun.com/20-years-ago-dead-rising-showed-a-different-path-for-open-worlds-and-more-games-should-pinch-its-ideas
+
+### 3. Opinion: The ‘Second Curriculum’ — What 1st-Gen College Students Need to Know, But Don’t [10/10]
+**Source:** The 74  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+In the Pilsen neighborhood on Chicago’s West Side, there’s a mural of my grandfather selling ice cream. My dad worked construction and sold ice cream too, and he and my mom both spent years working in factories.
+
+Link: https://www.the74million.org/article/the-second-curriculum-what-1st-gen-college-students-need-to-know-but-dont/
+
+### 4. Sony pushes forward with ditching discs, despite backlash [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Sony has received a lot of backlash from PlayStation fans since announcing that it's killing physical game disc production, but that hasn't swayed its decision.
+
+Link: https://www.theverge.com/tech/973621/sony-playstation-ending-discs-pushing-forward
+
+### 5. As the memory crisis worsens, PlayStation promises it has secured enough RAM to meet its PS5 sales (until early 2027, at least) [10/10]
+**Source:** Eurogamer  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+Just yesterday, we heard that Nvidia GPUs are to see yet another price hike of up to 30 percent , as the hunger for generative AI hardware worsens the component crisis and sky-rocketing costs for computing hardware continues.
+
+Link: https://www.eurogamer.net/sony-ram-crisis-memory-ps5-sales-2027
+
+### 6. Opinion: Why Claude for Teachers Might Be a Student Privacy Trap for Educators [10/10]
+**Source:** The 74  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Anthropic recently rolled out its Claude for Teachers tool, making a free version of Claude with advanced technical capacities available to any K-12 U.S.
+
+Link: https://www.the74million.org/article/why-claude-for-teachers-might-be-a-student-privacy-trap-for-educators/
+
+### 7. 450K borrowers say they were ripped off. Their student loans are being erased [10/10]
+**Source:** NPR Education  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The borrowers say they were defrauded by their colleges, but the class-action lawsuit to erase their federal student loans has been tangled up in courts for years.
+
+Link: https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump
+
+### 8. Trump's AI review order raises questions about federal oversight [10/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -41,69 +104,6 @@ Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-d
 NPR's Michel Martin speaks to Punchbowl News tech reporter Diego Munhoz about President Trump's request for AI companies to share models with the government before their public release.
 
 Link: https://www.npr.org/2026/07/31/nx-s1-5913688/trumps-ai-review-order-raises-questions-about-federal-oversight
-
-### 2. Deaths reported as an estimated 49,000 people cross into Spain’s African enclave of Ceuta – Europe live [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-PM Pedro Sánchez expected to visit territory today as Italy demands Spain be suspended from the Schengen area amid concerns over fresh migration crisis Local police in Ceuta are fencing off the centre of the enclave as Spanish prime…
-
-Link: https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates
-
-### 3. Middle East crisis live: Hamas will hand over weapons to new Gaza administration, says official, but deal depends on Israeli withdrawal [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Hamas’s Ghazi Hamad tells Reuters that it will hand over arms to body established by Trump’s Board of Peace Trump claims agreement for ‘complete disarmament’ of Hamas in Gaza but support uncertain Saudi Arabia prepares sea and possible…
-
-Link: https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news
-
-### 4. ‘I was so self-assured in my early 20s. Then my frontal lobe hit’: Rachel Chinouriri, every pop star’s favourite UK pop star [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-​She faced racist bullying as a child – then pigeonholing as an artist.
-
-Link: https://www.theguardian.com/music/2026/jul/31/rachel-chinouriri-interview-favourite-uk-pop-star-second-album
-
-### 5. After teargas, protests and legal strife, Turkey has a new opposition party. Is this the man who can oust Erdoğan? | Kaya Genç [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Under Özgür Özel, the CHP became Turkey’s most popular party.
-
-Link: https://www.theguardian.com/commentisfree/2026/jul/31/teargas-legal-strife-turkey-chp-opposition-split-new-party-oust-erdogan
-
-### 6. The Download: tricking LLMs, and reviving geothermal plants [10/10]
-**Source:** MIT Technology Review  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
-
-Link: https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/
-
-### 7. Midnight Moments is a cyberpunk diorama builder for the neon sign and drizzly rain lovers [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-I'm finding the relatively recent trend of supposedly calming diorama builders in games to be an interesting one in that there's a clear desire amongst creatively inclined folks to be crafting something in virtual environments, just not…
-
-Link: https://www.rockpapershotgun.com/midnight-moments-is-a-cyberpunk-diorama-builder-for-the-neon-sign-and-drizzly-rain-lovers
-
-### 8. Inspired by 80s Slashers, Short Horror Experience ‘Dead Stop – No Vacancy’ Launches August 13 [Trailer] [9/10]
-**Source:** Bloody Disgusting  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Fresh from their work on last year’s Beneath, developer Camel 101 has announced that their next title, a short, standalone first-person horror experience in Dead Stop – No Vacancy, will launch on Steam on August 13.
-
-Link: https://bloody-disgusting.com/video-games/3961453/inspired-by-80s-slashers-short-horror-experience-dead-stop-no-vacancy-launches-august-13-trailer/
 
 ### 9. When Teachers Lack Confidence in Math, Their Students Fall Behind, New Study Shows [9/10]
 **Source:** The 74  
@@ -114,32 +114,32 @@ Plenty of students have math anxiety. It turns out some educators have their own
 
 Link: https://www.the74million.org/article/when-teachers-lack-confidence-in-math-their-students-fall-behind-new-study-shows/
 
-### 10. Nvidia GPUs see yet another price hike of up to 30 percent, as the generative AI hardware crisis worsens [9/10]
-**Source:** Eurogamer  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-The personal computing affordability crisis continues in earnest, as Nvidia has announced yet another price hike for its GPUs. Read more
-
-Link: https://www.eurogamer.net/nvidia-gpu-price-rise-30-percent
-
-### 11. After Fauci Senate hearing, experts worry about 'chilling effect' on public health [8/10]
+### 10. In Nebraska, Americans begin to lose Medicaid under Trump's work rules [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-The accusations against Dr. Anthony Fauci, once the nation's leading infectious disease expert, have some experts worrying that these events may further erode public health staffing in the U.S.
+Nebraska's Medicaid director, in an exclusive interview with nonprofit news organization Tradeoffs , said roughly 200 people will lose health coverage on Aug. 1.
 
-Link: https://www.npr.org/2026/07/30/nx-s1-5913384/anthony-fauci-fifth-rand-paul-covid-public-health-chilling
+Link: https://www.npr.org/2026/07/31/nx-s1-5913947/medicaid-trump-work-requirements-big-beautiful-bill-nebraska
 
-### 12. Inside an AI TikTok Shop Slop Factory That Shills Supplements Recalled By the FDA [8/10]
+### 11. A Hidden 'Dark Dimension' Could Rewrite Our Understanding of the Universe [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-How a company called Rosabella used AI content to market its supplements: "If you’re trying to sell health products to a 50-year-old, well, make your avatar 50 years old."
+The nature of dark matter and dark energy are among the biggest mysteries in science. Scientists think an extra “dark dimension” could explain both, and they are putting the idea to the test.
 
-Link: https://www.404media.co/inside-an-ai-tiktok-shop-slop-factory-that-shills-supplements-recalled-by-the-fda/
+Link: https://www.404media.co/dark-dimension-hypothesis-study/
+
+### 12. Maika Monroe’s Governess Is Totally Sane in the Latest Victorian Pyscho Trailer [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+This one does what it says on the tin The post Maika Monroe’s Governess Is Totally Sane in the Latest Victorian Pyscho Trailer appeared first on Reactor .
+
+Link: https://reactormag.com/victorian-psycho-trailer/
 
 ### 13. Senate Panel Advances Science of Reading, Dyslexia Bills with Bipartisan Support [7/10]
 **Source:** The 74  
@@ -197,9 +197,9 @@ Former FBI Special Agent and member of the original FBI elite Art Crime Team Geo
 
 Link: https://www.youtube.com/watch?v=LYPJBKuX1Lo
 
-### Trump's options dwindle / Inside Iran / U.S. arsenal depleted? [9/10]
+### Trump's options dwindle / Inside Iran / U.S. arsenal depleted? [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 A new round of strikes between Iran and the United States, an expansion that’s embroiled forces in Saudi Arabia and Jordan, plus concerns about missile shortages in the U.S.
@@ -305,6 +305,15 @@ Link: https://www.youtube.com/watch?v=bRaALcVm7-w
 
 Link: https://www.youtube.com/watch?v=407ZxIcMjj0
 
+### Taking your TTRPG Questions | RPG Help Desk [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+It's just you and me (you being a bunch of you in chat, and me being Jesse Galena) doing questions for today! Ask whatever TTRPG question you've got! If you dig watching us check out indies, considering supporting us over at Patreon --…
+
+Link: https://www.youtube.com/watch?v=95mC5eLC8ec
+
 ### The Remakes Will Continue Until Morale Improves | Firelink Podcast [9/10]
 **Creator:** Second Wind  
 **Verdict:** Watch it  
@@ -313,15 +322,6 @@ Link: https://www.youtube.com/watch?v=407ZxIcMjj0
 This video is brought to you by GRAFT. Escape a dark, decaying space station the size of a continent in this story-driven survival horror RPG from the makers of the Shadowrun Trilogy. – https://store.steampowered.
 
 Link: https://www.youtube.com/watch?v=4kF6zQM8MOo
-
-### Taking your TTRPG Questions | RPG Help Desk [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-It's just you and me (you being a bunch of you in chat, and me being Jesse Galena) doing questions for today! Ask whatever TTRPG question you've got! If you dig watching us check out indies, considering supporting us over at Patreon --…
-
-Link: https://www.youtube.com/watch?v=95mC5eLC8ec
 
 ### Finishing Fallout 3 w/ Jack, Jess, and Marty -- Part 8 [7/10]
 **Creator:** Second Wind  

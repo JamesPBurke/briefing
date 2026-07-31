@@ -1,11 +1,81 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-31T09:00:54.110618Z",
-  "generatedAtDisplay": "2026-07-31 05:00 AM EDT",
+  "generatedAt": "2026-07-31T14:00:02.994784Z",
+  "generatedAtDisplay": "2026-07-31 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Science / computing, Democracy / anti-fascism. The strongest items in this run are Trump's AI review order raises questions about federal oversight, Deaths reported as an estimated 49,000 people cross into Spain’s African enclave of Ceuta – Europe live, and Middle East crisis live: Hamas will hand over weapons to new Gaza administration, says official, but deal depends on Israeli withdrawal.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Anthropic says Claude accidentally hacked real companies too, 20 years ago, Dead Rising showed a different path for open worlds, and more games should pinch its ideas, and Opinion: The ‘Second Curriculum’ — What 1st-Gen College Students Need to Know, But Don’t.",
   "mainItems": [
+    {
+      "title": "Anthropic says Claude accidentally hacked real companies too",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+      "published": "2026-07-31T13:41:17+00:00",
+      "summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "20 years ago, Dead Rising showed a different path for open worlds, and more games should pinch its ideas",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/20-years-ago-dead-rising-showed-a-different-path-for-open-worlds-and-more-games-should-pinch-its-ideas",
+      "published": "2026-07-31T13:00:00+00:00",
+      "summary": "Photojournalist Frank West is heli-dropped into the Willamette Parkview mall, following a tip-off that there’s something sinister going down in the sleepy Colorado town.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: The ‘Second Curriculum’ — What 1st-Gen College Students Need to Know, But Don’t",
+      "source": "The 74",
+      "category": "Democracy / press freedom",
+      "url": "https://www.the74million.org/article/the-second-curriculum-what-1st-gen-college-students-need-to-know-but-dont/",
+      "published": "2026-07-31T12:30:00+00:00",
+      "summary": "In the Pilsen neighborhood on Chicago’s West Side, there’s a mural of my grandfather selling ice cream. My dad worked construction and sold ice cream too, and he and my mom both spent years working in factories.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Sony pushes forward with ditching discs, despite backlash",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/973621/sony-playstation-ending-discs-pushing-forward",
+      "published": "2026-07-31T11:23:23+00:00",
+      "summary": "Sony has received a lot of backlash from PlayStation fans since announcing that it's killing physical game disc production, but that hasn't swayed its decision.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "As the memory crisis worsens, PlayStation promises it has secured enough RAM to meet its PS5 sales (until early 2027, at least)",
+      "source": "Eurogamer",
+      "category": "Security / computing",
+      "url": "https://www.eurogamer.net/sony-ram-crisis-memory-ps5-sales-2027",
+      "published": "2026-07-31T11:06:04+00:00",
+      "summary": "Just yesterday, we heard that Nvidia GPUs are to see yet another price hike of up to 30 percent , as the hunger for generative AI hardware worsens the component crisis and sky-rocketing costs for computing hardware continues.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Why Claude for Teachers Might Be a Student Privacy Trap for Educators",
+      "source": "The 74",
+      "category": "AI / privacy",
+      "url": "https://www.the74million.org/article/why-claude-for-teachers-might-be-a-student-privacy-trap-for-educators/",
+      "published": "2026-07-31T10:30:00+00:00",
+      "summary": "Anthropic recently rolled out its Claude for Teachers tool, making a free version of Claude with advanced technical capacities available to any K-12 U.S.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "450K borrowers say they were ripped off. Their student loans are being erased",
+      "source": "NPR Education",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
+      "published": "2026-07-31T09:00:00+00:00",
+      "summary": "The borrowers say they were defrauded by their colleges, but the class-action lawsuit to erase their federal student loans has been tangled up in courts for years.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
     {
       "title": "Trump's AI review order raises questions about federal oversight",
       "source": "NPR Tech",
@@ -15,76 +85,6 @@
       "summary": "NPR's Michel Martin speaks to Punchbowl News tech reporter Diego Munhoz about President Trump's request for AI companies to share models with the government before their public release.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 10
-    },
-    {
-      "title": "Deaths reported as an estimated 49,000 people cross into Spain’s African enclave of Ceuta – Europe live",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
-      "published": "2026-07-31T08:44:25+00:00",
-      "summary": "PM Pedro Sánchez expected to visit territory today as Italy demands Spain be suspended from the Schengen area amid concerns over fresh migration crisis Local police in Ceuta are fencing off the centre of the enclave as Spanish prime…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Middle East crisis live: Hamas will hand over weapons to new Gaza administration, says official, but deal depends on Israeli withdrawal",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news",
-      "published": "2026-07-31T08:39:19+00:00",
-      "summary": "Hamas’s Ghazi Hamad tells Reuters that it will hand over arms to body established by Trump’s Board of Peace Trump claims agreement for ‘complete disarmament’ of Hamas in Gaza but support uncertain Saudi Arabia prepares sea and possible…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘I was so self-assured in my early 20s. Then my frontal lobe hit’: Rachel Chinouriri, every pop star’s favourite UK pop star",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/music/2026/jul/31/rachel-chinouriri-interview-favourite-uk-pop-star-second-album",
-      "published": "2026-07-31T04:00:04+00:00",
-      "summary": "​She faced racist bullying as a child – then pigeonholing as an artist.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "After teargas, protests and legal strife, Turkey has a new opposition party. Is this the man who can oust Erdoğan? | Kaya Genç",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/31/teargas-legal-strife-turkey-chp-opposition-split-new-party-oust-erdogan",
-      "published": "2026-07-31T04:00:03+00:00",
-      "summary": "Under Özgür Özel, the CHP became Turkey’s most popular party.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The Download: tricking LLMs, and reviving geothermal plants",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-      "published": "2026-07-30T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Midnight Moments is a cyberpunk diorama builder for the neon sign and drizzly rain lovers",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/midnight-moments-is-a-cyberpunk-diorama-builder-for-the-neon-sign-and-drizzly-rain-lovers",
-      "published": "2026-07-30T21:52:19+00:00",
-      "summary": "I'm finding the relatively recent trend of supposedly calming diorama builders in games to be an interesting one in that there's a clear desire amongst creatively inclined folks to be crafting something in virtual environments, just not…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Inspired by 80s Slashers, Short Horror Experience ‘Dead Stop – No Vacancy’ Launches August 13 [Trailer]",
-      "source": "Bloody Disgusting",
-      "category": "Sci-fi / horror",
-      "url": "https://bloody-disgusting.com/video-games/3961453/inspired-by-80s-slashers-short-horror-experience-dead-stop-no-vacancy-launches-august-13-trailer/",
-      "published": "2026-07-30T17:30:44+00:00",
-      "summary": "Fresh from their work on last year’s Beneath, developer Camel 101 has announced that their next title, a short, standalone first-person horror experience in Dead Stop – No Vacancy, will launch on Steam on August 13.",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 9
     },
     {
       "title": "When Teachers Lack Confidence in Math, Their Students Fall Behind, New Study Shows",
@@ -97,33 +97,33 @@
       "score": 9
     },
     {
-      "title": "Nvidia GPUs see yet another price hike of up to 30 percent, as the generative AI hardware crisis worsens",
-      "source": "Eurogamer",
-      "category": "Security / computing",
-      "url": "https://www.eurogamer.net/nvidia-gpu-price-rise-30-percent",
-      "published": "2026-07-30T11:37:28+00:00",
-      "summary": "The personal computing affordability crisis continues in earnest, as Nvidia has announced yet another price hike for its GPUs. Read more",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 9
-    },
-    {
-      "title": "After Fauci Senate hearing, experts worry about 'chilling effect' on public health",
+      "title": "In Nebraska, Americans begin to lose Medicaid under Trump's work rules",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5913384/anthony-fauci-fifth-rand-paul-covid-public-health-chilling",
-      "published": "2026-07-30T20:37:48+00:00",
-      "summary": "The accusations against Dr. Anthony Fauci, once the nation's leading infectious disease expert, have some experts worrying that these events may further erode public health staffing in the U.S.",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5913947/medicaid-trump-work-requirements-big-beautiful-bill-nebraska",
+      "published": "2026-07-31T13:22:40+00:00",
+      "summary": "Nebraska's Medicaid director, in an exclusive interview with nonprofit news organization Tradeoffs , said roughly 200 people will lose health coverage on Aug. 1.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Inside an AI TikTok Shop Slop Factory That Shills Supplements Recalled By the FDA",
+      "title": "A Hidden 'Dark Dimension' Could Rewrite Our Understanding of the Universe",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/inside-an-ai-tiktok-shop-slop-factory-that-shills-supplements-recalled-by-the-fda/",
-      "published": "2026-07-30T14:51:32+00:00",
-      "summary": "How a company called Rosabella used AI content to market its supplements: \"If you’re trying to sell health products to a 50-year-old, well, make your avatar 50 years old.\"",
+      "url": "https://www.404media.co/dark-dimension-hypothesis-study/",
+      "published": "2026-07-31T12:47:39+00:00",
+      "summary": "The nature of dark matter and dark energy are among the biggest mysteries in science. Scientists think an extra “dark dimension” could explain both, and they are putting the idea to the test.",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Maika Monroe’s Governess Is Totally Sane in the Latest Victorian Pyscho Trailer",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/victorian-psycho-trailer/",
+      "published": "2026-07-30T16:27:20+00:00",
+      "summary": "This one does what it says on the tin The post Maika Monroe’s Governess Is Totally Sane in the Latest Victorian Pyscho Trailer appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     },
     {
@@ -201,8 +201,8 @@
       "published": "2026-07-30T21:20:00+00:00",
       "summary": "A new round of strikes between Iran and the United States, an expansion that’s embroiled forces in Saudi Arabia and Jordan, plus concerns about missile shortages in the U.S.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Ten Commandments go on display in Louisiana schools",
@@ -326,6 +326,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Taking your TTRPG Questions | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=95mC5eLC8ec",
+      "published": "2026-07-31T09:38:29+00:00",
+      "summary": "It's just you and me (you being a bunch of you in chat, and me being Jesse Galena) doing questions for today! Ask whatever TTRPG question you've got! If you dig watching us check out indies, considering supporting us over at Patreon --…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "The Remakes Will Continue Until Morale Improves | Firelink Podcast",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -335,17 +346,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9,
       "verdict": "Watch it"
-    },
-    {
-      "title": "Taking your TTRPG Questions | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=95mC5eLC8ec",
-      "published": "2026-07-30T19:07:39+00:00",
-      "summary": "It's just you and me (you being a bunch of you in chat, and me being Jesse Galena) doing questions for today! Ask whatever TTRPG question you've got! If you dig watching us check out indies, considering supporting us over at Patreon --…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     },
     {
       "title": "Finishing Fallout 3 w/ Jack, Jess, and Marty -- Part 8",
