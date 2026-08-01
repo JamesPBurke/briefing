@@ -1,11 +1,31 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-01T05:00:03.108334Z",
-  "generatedAtDisplay": "2026-08-01 01:00 AM EDT",
+  "generatedAt": "2026-08-01T09:00:20.382339Z",
+  "generatedAtDisplay": "2026-08-01 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, CS education / AI policy. The strongest items in this run are ECB official warns climate crisis poses growing threat to ‘core financial stability’, Ukraine war briefing: Kyiv missile attack kills at least nine as Zelenskyy seeks attack role for Starlink, and Reddit keeps its strange DMCA fight over Google search results alive.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Zelenskyy warns of low air defence supplies after Russian strike kills nine in Ukraine – Europe live, What we've been playing - \"The dev team all moved to Hawaii to make this one, and you can tell\", and ECB official warns climate crisis poses growing threat to ‘core financial stability’.",
   "mainItems": [
+    {
+      "title": "Zelenskyy warns of low air defence supplies after Russian strike kills nine in Ukraine – Europe live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
+      "published": "2026-08-01T08:42:14+00:00",
+      "summary": "Twenty-two people were injured in overnight attack in which Kyiv said it was able to shoot down just one of 27 Russian ballistic missiles There has been an update by the Spanish government on the Ceuta border crisis, with officials saying…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "What we've been playing - \"The dev team all moved to Hawaii to make this one, and you can tell\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-dev-team-moved-to-hawaii",
+      "published": "2026-08-01T07:00:00+00:00",
+      "summary": "Hello, pinch, punch and all that, and welcome back to our regular feature where we write a little about the games we've been playing.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
     {
       "title": "ECB official warns climate crisis poses growing threat to ‘core financial stability’",
       "source": "The Guardian US",
@@ -13,16 +33,6 @@
       "url": "https://www.theguardian.com/business/2026/aug/01/ecb-climate-wildfires-global-economy-stability",
       "published": "2026-08-01T04:00:41+00:00",
       "summary": "Exclusive: As wildfires rage, Frank Elderson says more work needed to assess risk from collapse of ecosystem services A senior policymaker at the European Central Bank has said the climate emergency and the breakdown of nature poses a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv missile attack kills at least nine as Zelenskyy seeks attack role for Starlink",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/aug/01/ukraine-war-briefing-missile-attack-on-kyiv-kills-at-least-three-as-zelenskyy-pushes-to-use-starlink-for-attacks-in-russia",
-      "published": "2026-08-01T03:55:59+00:00",
-      "summary": "Donald Trump retreats further from commitment to let Ukraine manufacture its own Patriot missiles.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -37,26 +47,6 @@
       "score": 10
     },
     {
-      "title": "Squishies and ‘a fuzzy book’: 21 things tweens want for back-to-school season, according to tweens",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/thefilter-us/2026/jul/31/tweens-back-to-school-supplies",
-      "published": "2026-07-31T19:15:31+00:00",
-      "summary": "We asked tweens what is on their school wish list this year – including squishy toys, roller skate shoes and water bottles Back-to-school sales are unusually early this year.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
-      "published": "2026-07-31T17:48:26+00:00",
-      "summary": "Journalists, human rights advocates and open source analysts recoiled in horror at the initial decision: \"The opportunities for abuse and disinfo are literally boundless,\" said one.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 10
-    },
-    {
       "title": "AI scammers outperform humans when it comes to building trust",
       "source": "Ars Technica",
       "category": "Security / computing",
@@ -67,13 +57,33 @@
       "score": 10
     },
     {
-      "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+      "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
       "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
-      "published": "2026-07-31T20:21:05+00:00",
-      "summary": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+      "published": "2026-07-31T18:11:55+00:00",
+      "summary": "Gaps in laws may help Pennsylvania high school escape AI nudes scandal.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
+      "published": "2026-07-31T17:48:26+00:00",
+      "summary": "Journalists, human rights advocates and open source analysts recoiled in horror at the initial decision: \"The opportunities for abuse and disinfo are literally boundless,\" said one.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 9
+    },
+    {
+      "title": "West Virginia 3rd Graders Behind in Reading, Math Must Repeat Grade Under 2023 Law",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/wv-third-graders-behind-in-reading-math-required-to-be-retained-this-school-year-due-to-2023-law/",
+      "published": "2026-07-31T16:30:00+00:00",
+      "summary": "A major and final piece of West Virginia lawmakers’ 2023 hallmark education legislation goes into effect this school year when schools are required to retain third graders whose reading and math abilities aren’t at grade level.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 9
     },
     {
@@ -87,24 +97,14 @@
       "score": 9
     },
     {
-      "title": "20 years ago, Dead Rising showed a different path for open worlds, and more games should pinch its ideas",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/20-years-ago-dead-rising-showed-a-different-path-for-open-worlds-and-more-games-should-pinch-its-ideas",
-      "published": "2026-07-31T13:00:00+00:00",
-      "summary": "Photojournalist Frank West is heli-dropped into the Willamette Parkview mall, following a tip-off that there’s something sinister going down in the sleepy Colorado town.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "450K borrowers say they were ripped off. Their student loans are being erased",
-      "source": "NPR Education",
+      "title": "Noma restaurant prepares to reopen under new leadership after abuse allegations",
+      "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
-      "published": "2026-07-31T09:00:00+00:00",
-      "summary": "The borrowers say they were defrauded by their colleges, but the class-action lawsuit to erase their federal student loans has been tangled up in courts for years.",
+      "url": "https://www.theguardian.com/world/2026/aug/01/noma-restaurant-reopens-new-leadership-abuse-allegations",
+      "published": "2026-08-01T05:00:43+00:00",
+      "summary": "World-class venue puts renewed focus on staff wellbeing under new head chef after René Redzepi stepped down and apologised for his behaviour The Copenhagen restaurant Noma – often ranked among the world’s best – is preparing to reopen next…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
+      "score": 8
     },
     {
       "title": "Google Earth’s New AI Lets Anyone Fabricate Completely Bullshit Satellite Images",
@@ -201,8 +201,8 @@
       "published": "2026-07-31T19:00:07+00:00",
       "summary": "The consequences of attacks in south Lebanon are being measured not only in lives lost and buildings destroyed, but also in potential environmental damage.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Historic cottonwood trees torn down for border wall",
@@ -212,8 +212,8 @@
       "published": "2026-07-31T17:30:19+00:00",
       "summary": "In Southern Arizona this week, Contractors demolished a grove of historic cottonwood trees as the Trump administration makes way for new border walls in the area.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Thousands breach border between Morocco, Spanish territory",
@@ -289,8 +289,8 @@
       "published": "2026-07-31T17:00:09+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/XN-k7NKXXF0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "ROG Xbox Ally X Handles OG Xbox Emulation Very, Very Nicely",
@@ -333,8 +333,8 @@
       "published": "2026-07-31T19:35:17+00:00",
       "summary": "Waterworld Week is a very real thing that we definitely didn't just make up as an excuse to watch the movie and play the SNES game. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "EA Workers Get Laid Off; CEO Gets $38 Million in Bonuses | Unpacked",
@@ -566,7 +566,7 @@
       "published": "2026-08-01T02:10:21+00:00",
       "summary": "A woman wakes in the back of a moving camper trailer with a badly infected wound. A voice from the truck towing it tells her they must reach a doctor within the hour or she’ll suffer a horrific fate. HELLCAT premieres August 14 on Shudder.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -859,6 +859,6 @@
     "mainCount": 13,
     "youtubeCount": 25,
     "trailerCount": 30,
-    "sourceCount": 23
+    "sourceCount": 22
   }
 }

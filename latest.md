@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-01T05:00:03.108334Z
+Generated: 2026-08-01T09:00:20.382339Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, CS education / AI policy. The strongest items in this run are ECB official warns climate crisis poses growing threat to ‘core financial stability’, Ukraine war briefing: Kyiv missile attack kills at least nine as Zelenskyy seeks attack role for Starlink, and Reddit keeps its strange DMCA fight over Google search results alive.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Zelenskyy warns of low air defence supplies after Russian strike kills nine in Ukraine – Europe live, What we've been playing - "The dev team all moved to Hawaii to make this one, and you can tell", and ECB official warns climate crisis poses growing threat to ‘core financial stability’.
 
 ## Briefing
 
@@ -33,7 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ECB official warns climate crisis poses growing threat to ‘core financial stability’ [10/10]
+### 1. Zelenskyy warns of low air defence supplies after Russian strike kills nine in Ukraine – Europe live [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Twenty-two people were injured in overnight attack in which Kyiv said it was able to shoot down just one of 27 Russian ballistic missiles There has been an update by the Spanish government on the Ceuta border crisis, with officials saying…
+
+Link: https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco
+
+### 2. What we've been playing - "The dev team all moved to Hawaii to make this one, and you can tell" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Hello, pinch, punch and all that, and welcome back to our regular feature where we write a little about the games we've been playing.
+
+Link: https://www.eurogamer.net/what-weve-been-playing-dev-team-moved-to-hawaii
+
+### 3. ECB official warns climate crisis poses growing threat to ‘core financial stability’ [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,16 +60,7 @@ Exclusive: As wildfires rage, Frank Elderson says more work needed to assess ris
 
 Link: https://www.theguardian.com/business/2026/aug/01/ecb-climate-wildfires-global-economy-stability
 
-### 2. Ukraine war briefing: Kyiv missile attack kills at least nine as Zelenskyy seeks attack role for Starlink [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Donald Trump retreats further from commitment to let Ukraine manufacture its own Patriot missiles.
-
-Link: https://www.theguardian.com/world/2026/aug/01/ukraine-war-briefing-missile-attack-on-kyiv-kills-at-least-three-as-zelenskyy-pushes-to-use-starlink-for-attacks-in-russia
-
-### 3. Reddit keeps its strange DMCA fight over Google search results alive [10/10]
+### 4. Reddit keeps its strange DMCA fight over Google search results alive [10/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -60,25 +69,7 @@ Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.
 
 Link: https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/
 
-### 4. Squishies and ‘a fuzzy book’: 21 things tweens want for back-to-school season, according to tweens [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-We asked tweens what is on their school wish list this year – including squishy toys, roller skate shoes and water bottles Back-to-school sales are unusually early this year.
-
-Link: https://www.theguardian.com/thefilter-us/2026/jul/31/tweens-back-to-school-supplies
-
-### 5. Google pauses AI satellite images, after fears of deepfakes in the sky [10/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Journalists, human rights advocates and open source analysts recoiled in horror at the initial decision: "The opportunities for abuse and disinfo are literally boundless," said one.
-
-Link: https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky
-
-### 6. AI scammers outperform humans when it comes to building trust [10/10]
+### 5. AI scammers outperform humans when it comes to building trust [10/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -87,16 +78,34 @@ The AI chatbot was more effective at creating “exploitable trust” than the h
 
 Link: https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/
 
-### 7. Google Earth risked ruin with retracted AI tool for making fake satellite pics [9/10]
+### 6. High school defends staying silent while boys made AI nudes of 59 classmates [9/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool.
+Gaps in laws may help Pennsylvania high school escape AI nudes scandal.
 
-Link: https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/
+Link: https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/
 
-### 8. California Will Add Science Scores to Its School Accountability System. Why It Matters [9/10]
+### 7. Google pauses AI satellite images, after fears of deepfakes in the sky [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Journalists, human rights advocates and open source analysts recoiled in horror at the initial decision: "The opportunities for abuse and disinfo are literally boundless," said one.
+
+Link: https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky
+
+### 8. West Virginia 3rd Graders Behind in Reading, Math Must Repeat Grade Under 2023 Law [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+A major and final piece of West Virginia lawmakers’ 2023 hallmark education legislation goes into effect this school year when schools are required to retain third graders whose reading and math abilities aren’t at grade level.
+
+Link: https://www.the74million.org/article/wv-third-graders-behind-in-reading-math-required-to-be-retained-this-school-year-due-to-2023-law/
+
+### 9. California Will Add Science Scores to Its School Accountability System. Why It Matters [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -105,23 +114,14 @@ Short of dropping a dead weight copy of the state Education Code on your foot, a
 
 Link: https://www.the74million.org/article/california-will-add-science-scores-to-its-school-accountability-system-why-it-matters/
 
-### 9. 20 years ago, Dead Rising showed a different path for open worlds, and more games should pinch its ideas [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Photojournalist Frank West is heli-dropped into the Willamette Parkview mall, following a tip-off that there’s something sinister going down in the sleepy Colorado town.
-
-Link: https://www.rockpapershotgun.com/20-years-ago-dead-rising-showed-a-different-path-for-open-worlds-and-more-games-should-pinch-its-ideas
-
-### 10. 450K borrowers say they were ripped off. Their student loans are being erased [9/10]
-**Source:** NPR Education  
+### 10. Noma restaurant prepares to reopen under new leadership after abuse allegations [8/10]
+**Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-The borrowers say they were defrauded by their colleges, but the class-action lawsuit to erase their federal student loans has been tangled up in courts for years.
+World-class venue puts renewed focus on staff wellbeing under new head chef after René Redzepi stepped down and apologised for his behaviour The Copenhagen restaurant Noma – often ranked among the world’s best – is preparing to reopen next…
 
-Link: https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump
+Link: https://www.theguardian.com/world/2026/aug/01/noma-restaurant-reopens-new-leadership-abuse-allegations
 
 ### 11. Google Earth’s New AI Lets Anyone Fabricate Completely Bullshit Satellite Images [8/10]
 **Source:** 404 Media  
@@ -197,18 +197,18 @@ Link: https://www.youtube.com/watch?v=iHn63hPS9sw
 
 Link: https://www.youtube.com/watch?v=enMPLaB1oEo
 
-### Scientists studying environmental fallout of Israeli strikes on southern Lebanon [7/10]
+### Scientists studying environmental fallout of Israeli strikes on southern Lebanon [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 The consequences of attacks in south Lebanon are being measured not only in lives lost and buildings destroyed, but also in potential environmental damage.
 
 Link: https://www.youtube.com/watch?v=C--LQ2GGD-E
 
-### Historic cottonwood trees torn down for border wall [8/10]
+### Historic cottonwood trees torn down for border wall [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 In Southern Arizona this week, Contractors demolished a grove of historic cottonwood trees as the Trump administration makes way for new border walls in the area.
@@ -269,9 +269,9 @@ Link: https://www.youtube.com/watch?v=wswY2PENc-4
 
 Link: https://www.youtube.com/watch?v=32cG0NrkFSY
 
-### Will We See More Xbox Games on Switch 2? [9/10]
+### Will We See More Xbox Games on Switch 2? [8/10]
 **Creator:** Digital Foundry  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/XN-k7NKXXF0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -305,9 +305,9 @@ Link: https://www.youtube.com/watch?v=Jk_5Uv1NK-k
 
 Link: https://www.youtube.com/watch?v=9FzRqdxhxEw
 
-### Waterworld Week Is Upon Us w/ Jack, KC, and Jesse [8/10]
+### Waterworld Week Is Upon Us w/ Jack, KC, and Jesse [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Waterworld Week is a very real thing that we definitely didn't just make up as an excuse to watch the movie and play the SNES game. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
@@ -523,7 +523,7 @@ Four friends post-college plans are derailed when a wrong turn traps them on a n
 
 Link: https://www.youtube.com/watch?v=zFszhQLMNXU
 
-### HELLCAT | Official Trailer | Shudder [10/10]
+### HELLCAT | Official Trailer | Shudder [9/10]
 **Source:** Shudder  
 **Verdict:** Looks promising  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
