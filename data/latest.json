@@ -1,19 +1,39 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-01T09:00:20.382339Z",
-  "generatedAtDisplay": "2026-08-01 05:00 AM EDT",
+  "generatedAt": "2026-08-01T14:00:01.681108Z",
+  "generatedAtDisplay": "2026-08-01 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Zelenskyy warns of low air defence supplies after Russian strike kills nine in Ukraine – Europe live, What we've been playing - \"The dev team all moved to Hawaii to make this one, and you can tell\", and ECB official warns climate crisis poses growing threat to ‘core financial stability’.",
+  "summary": "Today's sweep leans toward Games / criticism, Democracy / press freedom, Science / computing. The strongest items in this run are What if Stop Killing Games win? Anthem, SpaceCraft and Warframe devs on the \"massive undertaking\" of reverse engineering an always-online game, As Reddit stock falls, CEO questions value of Google's AI Overviews, and Why did OpenAI's and Anthropic's AI models hack other companies?.",
   "mainItems": [
     {
-      "title": "Zelenskyy warns of low air defence supplies after Russian strike kills nine in Ukraine – Europe live",
-      "source": "The Guardian US",
+      "title": "What if Stop Killing Games win? Anthem, SpaceCraft and Warframe devs on the \"massive undertaking\" of reverse engineering an always-online game",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/what-if-stop-killing-games-win-anthem-spacecraft-and-warframe-devs-on-the-massive-undertaking-of-reverse-engineering-an-always-online-game",
+      "published": "2026-08-01T13:04:59+00:00",
+      "summary": "Sci-fantasy shooter Warframe is the sexy cyborg fruit of 13 years of updates and expansions, encompassing scores upon scores of quests, areas, plotlines, systems and characters, together with a huge quantity of player-made art.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+      "source": "Ars Technica",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
-      "published": "2026-08-01T08:42:14+00:00",
-      "summary": "Twenty-two people were injured in overnight attack in which Kyiv said it was able to shoot down just one of 27 Russian ballistic missiles There has been an update by the Spanish government on the Ceuta border crisis, with officials saying…",
+      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+      "published": "2026-08-01T12:30:36+00:00",
+      "summary": "Reddit may still be considering ending its licensing deal with Google.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Why did OpenAI's and Anthropic's AI models hack other companies?",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
+      "published": "2026-08-01T09:00:00+00:00",
+      "summary": "OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 10
     },
     {
@@ -24,16 +44,6 @@
       "published": "2026-08-01T07:00:00+00:00",
       "summary": "Hello, pinch, punch and all that, and welcome back to our regular feature where we write a little about the games we've been playing.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "ECB official warns climate crisis poses growing threat to ‘core financial stability’",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/2026/aug/01/ecb-climate-wildfires-global-economy-stability",
-      "published": "2026-08-01T04:00:41+00:00",
-      "summary": "Exclusive: As wildfires rage, Frank Elderson says more work needed to assess risk from collapse of ecosystem services A senior policymaker at the European Central Bank has said the climate emergency and the breakdown of nature poses a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -57,23 +67,33 @@
       "score": 10
     },
     {
-      "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
+      "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
       "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
-      "published": "2026-07-31T18:11:55+00:00",
-      "summary": "Gaps in laws may help Pennsylvania high school escape AI nudes scandal.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
+      "published": "2026-08-01T11:30:54+00:00",
+      "summary": "Autonomous vehicle giant disturbs residents' sleep.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
-      "published": "2026-07-31T17:48:26+00:00",
-      "summary": "Journalists, human rights advocates and open source analysts recoiled in horror at the initial decision: \"The opportunities for abuse and disinfo are literally boundless,\" said one.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "title": "Opinion: National Surveys Showed Most Americans Saw Fauci as Dr. No on Reopening Schools",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/national-surveys-showed-most-americans-saw-fauci-as-dr-no-on-reopening-schools/",
+      "published": "2026-08-01T10:30:00+00:00",
+      "summary": "Dr. Anthony Fauci’s newly released diaries have reignited the fight over whether he bears any responsibility for the disastrous pandemic-era school closures. Fauci’s critics, like Sen.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "Gregg Araki on sex, film and queer resistance: ‘All the terrible shit in the world is because of sexual repression’",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex",
+      "published": "2026-08-01T09:00:49+00:00",
+      "summary": "As his 12th feature film, I Want Your Sex, hits theaters, the cult gay film-maker is as fired up as ever Is straight sex the most perverse sex of all? Gregg Araki ’s new film makes a convincing case.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -87,42 +107,22 @@
       "score": 9
     },
     {
-      "title": "California Will Add Science Scores to Its School Accountability System. Why It Matters",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/california-will-add-science-scores-to-its-school-accountability-system-why-it-matters/",
-      "published": "2026-07-31T14:30:00+00:00",
-      "summary": "Short of dropping a dead weight copy of the state Education Code on your foot, a State Board of Education agenda item on the California School Dashboard normally wouldn’t evoke tears.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Noma restaurant prepares to reopen under new leadership after abuse allegations",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/aug/01/noma-restaurant-reopens-new-leadership-abuse-allegations",
-      "published": "2026-08-01T05:00:43+00:00",
-      "summary": "World-class venue puts renewed focus on staff wellbeing under new head chef after René Redzepi stepped down and apologised for his behaviour The Copenhagen restaurant Noma – often ranked among the world’s best – is preparing to reopen next…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
-      "title": "Google Earth’s New AI Lets Anyone Fabricate Completely Bullshit Satellite Images",
+      "title": "We Need to Quarantine Aliens on the Moon, Scientists Propose",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/google-earths-new-ai-lets-anyone-fabricate-completely-bullshit-satellite-images/",
-      "published": "2026-07-31T16:03:08+00:00",
-      "summary": "\"Tonight I typed just one sentence into Google Earth and put refugees near the Mexican border. Then I planted a nuclear plant in Iran. Then I put a fatal crash on a street in Amsterdam.\"",
+      "url": "https://www.404media.co/we-need-to-quarantine-aliens-on-the-moon-scientists-propose/",
+      "published": "2026-08-01T10:00:47+00:00",
+      "summary": "Researchers argue that a lunar biocontainment facility for extraterrestrial samples could prevent “the potential ecological devastation of an invasive extraterrestrial organism.”",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Keeping cool without AC: Our readers share their tips",
+      "title": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool",
-      "published": "2026-07-31T14:44:47+00:00",
-      "summary": "We asked our readers to tell us how they've fended off heat without the refrigerant blasts of an air conditioner. Here's what they shared.",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5915633/cyclosporiasis-washtenaw-michigan-foodborne-illness-cdc",
+      "published": "2026-08-01T09:00:00+00:00",
+      "summary": "Public health nurses have been pulled from other duties in Washtenaw County, MI, to call hundreds of people sick with cyclosporiasis, and try to help them remember everything they ate in recent days.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
@@ -859,6 +859,6 @@
     "mainCount": 13,
     "youtubeCount": 25,
     "trailerCount": 30,
-    "sourceCount": 22
+    "sourceCount": 23
   }
 }

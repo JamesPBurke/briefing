@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-01T09:00:20.382339Z
+Generated: 2026-08-01T14:00:01.681108Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Zelenskyy warns of low air defence supplies after Russian strike kills nine in Ukraine – Europe live, What we've been playing - "The dev team all moved to Hawaii to make this one, and you can tell", and ECB official warns climate crisis poses growing threat to ‘core financial stability’.
+Today's sweep leans toward Games / criticism, Democracy / press freedom, Science / computing. The strongest items in this run are What if Stop Killing Games win? Anthem, SpaceCraft and Warframe devs on the "massive undertaking" of reverse engineering an always-online game, As Reddit stock falls, CEO questions value of Google's AI Overviews, and Why did OpenAI's and Anthropic's AI models hack other companies?.
 
 ## Briefing
 
@@ -33,16 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Zelenskyy warns of low air defence supplies after Russian strike kills nine in Ukraine – Europe live [10/10]
-**Source:** The Guardian US  
+### 1. What if Stop Killing Games win? Anthem, SpaceCraft and Warframe devs on the "massive undertaking" of reverse engineering an always-online game [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Sci-fantasy shooter Warframe is the sexy cyborg fruit of 13 years of updates and expansions, encompassing scores upon scores of quests, areas, plotlines, systems and characters, together with a huge quantity of player-made art.
+
+Link: https://www.rockpapershotgun.com/what-if-stop-killing-games-win-anthem-spacecraft-and-warframe-devs-on-the-massive-undertaking-of-reverse-engineering-an-always-online-game
+
+### 2. As Reddit stock falls, CEO questions value of Google's AI Overviews [10/10]
+**Source:** Ars Technica  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Twenty-two people were injured in overnight attack in which Kyiv said it was able to shoot down just one of 27 Russian ballistic missiles There has been an update by the Spanish government on the Ceuta border crisis, with officials saying…
+Reddit may still be considering ending its licensing deal with Google.
 
-Link: https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco
+Link: https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/
 
-### 2. What we've been playing - "The dev team all moved to Hawaii to make this one, and you can tell" [10/10]
+### 3. Why did OpenAI's and Anthropic's AI models hack other companies? [10/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.
+
+Link: https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity
+
+### 4. What we've been playing - "The dev team all moved to Hawaii to make this one, and you can tell" [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -51,16 +69,7 @@ Hello, pinch, punch and all that, and welcome back to our regular feature where 
 
 Link: https://www.eurogamer.net/what-weve-been-playing-dev-team-moved-to-hawaii
 
-### 3. ECB official warns climate crisis poses growing threat to ‘core financial stability’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Exclusive: As wildfires rage, Frank Elderson says more work needed to assess risk from collapse of ecosystem services A senior policymaker at the European Central Bank has said the climate emergency and the breakdown of nature poses a…
-
-Link: https://www.theguardian.com/business/2026/aug/01/ecb-climate-wildfires-global-economy-stability
-
-### 4. Reddit keeps its strange DMCA fight over Google search results alive [10/10]
+### 5. Reddit keeps its strange DMCA fight over Google search results alive [10/10]
 **Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -69,7 +78,7 @@ Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.
 
 Link: https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/
 
-### 5. AI scammers outperform humans when it comes to building trust [10/10]
+### 6. AI scammers outperform humans when it comes to building trust [10/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -78,25 +87,34 @@ The AI chatbot was more effective at creating “exploitable trust” than the h
 
 Link: https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/
 
-### 6. High school defends staying silent while boys made AI nudes of 59 classmates [9/10]
+### 7. After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica [9/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Gaps in laws may help Pennsylvania high school escape AI nudes scandal.
+Autonomous vehicle giant disturbs residents' sleep.
 
-Link: https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/
+Link: https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/
 
-### 7. Google pauses AI satellite images, after fears of deepfakes in the sky [9/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+### 8. Opinion: National Surveys Showed Most Americans Saw Fauci as Dr. No on Reopening Schools [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Journalists, human rights advocates and open source analysts recoiled in horror at the initial decision: "The opportunities for abuse and disinfo are literally boundless," said one.
+Dr. Anthony Fauci’s newly released diaries have reignited the fight over whether he bears any responsibility for the disastrous pandemic-era school closures. Fauci’s critics, like Sen.
 
-Link: https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky
+Link: https://www.the74million.org/article/national-surveys-showed-most-americans-saw-fauci-as-dr-no-on-reopening-schools/
 
-### 8. West Virginia 3rd Graders Behind in Reading, Math Must Repeat Grade Under 2023 Law [9/10]
+### 9. Gregg Araki on sex, film and queer resistance: ‘All the terrible shit in the world is because of sexual repression’ [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+As his 12th feature film, I Want Your Sex, hits theaters, the cult gay film-maker is as fired up as ever Is straight sex the most perverse sex of all? Gregg Araki ’s new film makes a convincing case.
+
+Link: https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex
+
+### 10. West Virginia 3rd Graders Behind in Reading, Math Must Repeat Grade Under 2023 Law [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -105,41 +123,23 @@ A major and final piece of West Virginia lawmakers’ 2023 hallmark education le
 
 Link: https://www.the74million.org/article/wv-third-graders-behind-in-reading-math-required-to-be-retained-this-school-year-due-to-2023-law/
 
-### 9. California Will Add Science Scores to Its School Accountability System. Why It Matters [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Short of dropping a dead weight copy of the state Education Code on your foot, a State Board of Education agenda item on the California School Dashboard normally wouldn’t evoke tears.
-
-Link: https://www.the74million.org/article/california-will-add-science-scores-to-its-school-accountability-system-why-it-matters/
-
-### 10. Noma restaurant prepares to reopen under new leadership after abuse allegations [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-World-class venue puts renewed focus on staff wellbeing under new head chef after René Redzepi stepped down and apologised for his behaviour The Copenhagen restaurant Noma – often ranked among the world’s best – is preparing to reopen next…
-
-Link: https://www.theguardian.com/world/2026/aug/01/noma-restaurant-reopens-new-leadership-abuse-allegations
-
-### 11. Google Earth’s New AI Lets Anyone Fabricate Completely Bullshit Satellite Images [8/10]
+### 11. We Need to Quarantine Aliens on the Moon, Scientists Propose [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-"Tonight I typed just one sentence into Google Earth and put refugees near the Mexican border. Then I planted a nuclear plant in Iran. Then I put a fatal crash on a street in Amsterdam."
+Researchers argue that a lunar biocontainment facility for extraterrestrial samples could prevent “the potential ecological devastation of an invasive extraterrestrial organism.”
 
-Link: https://www.404media.co/google-earths-new-ai-lets-anyone-fabricate-completely-bullshit-satellite-images/
+Link: https://www.404media.co/we-need-to-quarantine-aliens-on-the-moon-scientists-propose/
 
-### 12. Keeping cool without AC: Our readers share their tips [8/10]
+### 12. Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-We asked our readers to tell us how they've fended off heat without the refrigerant blasts of an air conditioner. Here's what they shared.
+Public health nurses have been pulled from other duties in Washtenaw County, MI, to call hundreds of people sick with cyclosporiasis, and try to help them remember everything they ate in recent days.
 
-Link: https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool
+Link: https://www.npr.org/2026/08/01/nx-s1-5915633/cyclosporiasis-washtenaw-michigan-foodborne-illness-cdc
 
 ### 13. It’s All About Faith and Redemption in X-Men ’97’s “Strange Land, Savage Heart” [7/10]
 **Source:** Reactor  
