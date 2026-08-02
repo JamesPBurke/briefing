@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-02T05:00:03.199981Z
+Generated: 2026-08-02T09:00:13.647618Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are Shooting at In-N-Out Burger restaurant in Idaho leaves multiple people dead, police say, Moscow restaurant bombing kills three people as device carried by woman explodes, and Capital One says it closed Trump Organization’s accounts after anti-money-laundering review.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are ‘I have an understanding housemate’: the student who makes videos of fungus on faeces, Shooting at In-N-Out Burger restaurant in Idaho leaves three people dead, and Capital One says it closed Trump Organization’s accounts after anti-money-laundering review.
 
 ## Briefing
 
@@ -33,23 +33,23 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Shooting at In-N-Out Burger restaurant in Idaho leaves multiple people dead, police say [10/10]
+### 1. ‘I have an understanding housemate’: the student who makes videos of fungus on faeces [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Alfred Drummond-Herdman’s extraordinary timelapses have been viewed by millions – and led him to identify new species Alfred Drummond-Herdman is possibly the only person in the UK who is sent animal faeces in the post out of goodwill.
+
+Link: https://www.theguardian.com/environment/2026/aug/02/alfred-drummond-herdman-animal-dung-fungi-films-aoe
+
+### 2. Shooting at In-N-Out Burger restaurant in Idaho leaves three people dead [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Police chief says the shooter is among the dead in ‘very chaotic scene’ near busy shopping area in Twin Falls A shooting at an In-N-Out Burger restaurant in southern Idaho on Saturday afternoon left multiple people dead and others injured,…
+Police chief say shooter found dead after ‘very chaotic scene’ near busy shopping area in Twin Falls Three people were killed and seven more were injured, some critically, in a shooting at an In-N-Out Burger restaurant in southern Idaho on…
 
 Link: https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say
-
-### 2. Moscow restaurant bombing kills three people as device carried by woman explodes [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-More than 20 people injured in explosion near Italian restaurant on Saturday night, authorities say A homemade bomb carried by a woman killed three people and injured at least 21 in ⁠an explosion near a restaurant in central Moscow on…
-
-Link: https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes
 
 ### 3. Capital One says it closed Trump Organization’s accounts after anti-money-laundering review [10/10]
 **Source:** The Guardian US  
@@ -60,16 +60,7 @@ Disclosure from 2021 investigation marks first time a bank has formally tied mon
 
 Link: https://www.theguardian.com/us-news/2026/aug/01/capital-one-trump-organization-money-laundering
 
-### 4. Got a spare $10? Net yourself almost 150 games and help support laid off game devs with the game industry hardship fund bundle [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-I don't need to tell you how badly the games industry is doing, right? Badly in the sense of a handful of people desperate to continue making millions are laying off workers by the tens of thousands, with a new layoff story seemingly every…
-
-Link: https://www.rockpapershotgun.com/got-a-spare-10-net-yourself-almost-150-games-and-help-support-laid-off-game-devs-with-the-game-industry-hardship-fund-bundle
-
-### 5. As Reddit stock falls, CEO questions value of Google's AI Overviews [10/10]
+### 4. As Reddit stock falls, CEO questions value of Google's AI Overviews [10/10]
 **Source:** Ars Technica  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -78,14 +69,23 @@ Reddit may still be considering ending its licensing deal with Google.
 
 Link: https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/
 
-### 6. Why did OpenAI's and Anthropic's AI models hack other companies? [10/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+### 5. ‘The language of Pokémon is universal’: why fans are still catching ‘em all after 30 years [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.
+As Pokémon Go celebrates its 10th anniversary, its devoted players explain how the game has created a vibrant intergenerational community spanning the globe Most Pokémon obsessives count rare, absurdly expensive playing cards or pristine,…
 
-Link: https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity
+Link: https://www.theguardian.com/games/2026/aug/02/the-language-of-pokemon-is-universal-why-fans-are-still-catching-em-all-after-30-years
+
+### 6. The Sunday Papers [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Sundays are for looking back at the week and honestly just thinking, yeesh, what are you doing , working in an industry that’s succumbed so deeply and so wilfully to moral decay. The publishers sold to executioners .
+
+Link: https://www.rockpapershotgun.com/the-sunday-papers-821
 
 ### 7. Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn [9/10]
 **Source:** The Guardian US  
@@ -96,25 +96,25 @@ Activists in the region say politicians regard LGBTQ+ people as ‘the easiest s
 
 Link: https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn
 
-### 8. Heatwave scorching western US ups risk of hazardous fire conditions [9/10]
+### 8. Moscow restaurant bombing kills three people as device carried by woman explodes [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-In Oregon and Washington, low humidity and powerful winds have put officials on alert for wildfire spread A heatwave scorching the western US region has elevated the risk of hazardous fire conditions particularly in parts of Oregon and…
+More than 20 people injured in explosion near Italian restaurant on Saturday night, authorities say A homemade bomb carried by a woman killed three people and injured at least 21 in ⁠an explosion near a restaurant in central Moscow on…
 
-Link: https://www.theguardian.com/us-news/2026/aug/01/heatwave-us-west-hazardous-fire-conditions
+Link: https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes
 
-### 9. Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13 [9/10]
-**Source:** The Guardian US  
+### 9. Pixel 11 specs and price leak with no surprises [9/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca…
+Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event.
 
-Link: https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines
+Link: https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak
 
-### 10. NPR education correspondent on why reporting on kids is important... and fascinating [9/10]
+### 10. NPR education correspondent on why reporting on kids is important... and fascinating [8/10]
 **Source:** NPR Education  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -123,14 +123,14 @@ Reporting stories about kids can be fascinating: how they learn, why play is imp
 
 Link: https://www.npr.org/2026/08/01/nx-s1-5905750/npr-education-correspondent-on-why-reporting-on-kids-is-important-and-fascinating
 
-### 11. Angela Nissel faces down grief with a laugh [8/10]
+### 11. Is this Billboard Hot 100 hit AI slop? [8/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Angela Nissel's latest book, Good Grief, Pass the Bread, Mom Is Dead, is my kind of memoir. Sure, it's a deeply emotional tale about caring for a terminally ill parent.
+Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track "Rubberz," which has climbed to number 58 on the Billboard Hot 100.
 
-Link: https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead
+Link: https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop
 
 ### 12. We Need to Quarantine Aliens on the Moon, Scientists Propose [8/10]
 **Source:** 404 Media  
@@ -141,14 +141,14 @@ Researchers argue that a lunar biocontainment facility for extraterrestrial samp
 
 Link: https://www.404media.co/we-need-to-quarantine-aliens-on-the-moon-scientists-propose/
 
-### 13. Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews [8/10]
+### 13. Entomologist Stephen Dobson on releasing modified mosquitoes to fight disease [7/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Public health nurses have been pulled from other duties in Washtenaw County, MI, to call hundreds of people sick with cyclosporiasis, and try to help them remember everything they ate in recent days.
+NPR's Scott Simons asks University of Kentucky entomologist Stephen Dobson about mosquito control using modified mosquitoes released into the wild.
 
-Link: https://www.npr.org/2026/08/01/nx-s1-5915633/cyclosporiasis-washtenaw-michigan-foodborne-illness-cdc
+Link: https://www.npr.org/2026/08/01/nx-s1-5913746/entomologist-stephen-dobson-on-releasing-modified-mosquitoes-to-fight-disease
 
 ## YouTube
 

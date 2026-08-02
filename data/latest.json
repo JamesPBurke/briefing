@@ -1,28 +1,28 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-02T05:00:03.199981Z",
-  "generatedAtDisplay": "2026-08-02 01:00 AM EDT",
+  "generatedAt": "2026-08-02T09:00:13.647618Z",
+  "generatedAtDisplay": "2026-08-02 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are Shooting at In-N-Out Burger restaurant in Idaho leaves multiple people dead, police say, Moscow restaurant bombing kills three people as device carried by woman explodes, and Capital One says it closed Trump Organization’s accounts after anti-money-laundering review.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are ‘I have an understanding housemate’: the student who makes videos of fungus on faeces, Shooting at In-N-Out Burger restaurant in Idaho leaves three people dead, and Capital One says it closed Trump Organization’s accounts after anti-money-laundering review.",
   "mainItems": [
     {
-      "title": "Shooting at In-N-Out Burger restaurant in Idaho leaves multiple people dead, police say",
+      "title": "‘I have an understanding housemate’: the student who makes videos of fungus on faeces",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say",
-      "published": "2026-08-02T01:03:46+00:00",
-      "summary": "Police chief says the shooter is among the dead in ‘very chaotic scene’ near busy shopping area in Twin Falls A shooting at an In-N-Out Burger restaurant in southern Idaho on Saturday afternoon left multiple people dead and others injured,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/environment/2026/aug/02/alfred-drummond-herdman-animal-dung-fungi-films-aoe",
+      "published": "2026-08-02T08:00:15+00:00",
+      "summary": "Alfred Drummond-Herdman’s extraordinary timelapses have been viewed by millions – and led him to identify new species Alfred Drummond-Herdman is possibly the only person in the UK who is sent animal faeces in the post out of goodwill.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "Moscow restaurant bombing kills three people as device carried by woman explodes",
+      "title": "Shooting at In-N-Out Burger restaurant in Idaho leaves three people dead",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes",
-      "published": "2026-08-02T00:22:48+00:00",
-      "summary": "More than 20 people injured in explosion near Italian restaurant on Saturday night, authorities say A homemade bomb carried by a woman killed three people and injured at least 21 in ⁠an explosion near a restaurant in central Moscow on…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say",
+      "published": "2026-08-02T05:02:37+00:00",
+      "summary": "Police chief say shooter found dead after ‘very chaotic scene’ near busy shopping area in Twin Falls Three people were killed and seven more were injured, some critically, in a shooting at an In-N-Out Burger restaurant in southern Idaho on…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -37,16 +37,6 @@
       "score": 10
     },
     {
-      "title": "Got a spare $10? Net yourself almost 150 games and help support laid off game devs with the game industry hardship fund bundle",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/got-a-spare-10-net-yourself-almost-150-games-and-help-support-laid-off-game-devs-with-the-game-industry-hardship-fund-bundle",
-      "published": "2026-08-01T17:01:19+00:00",
-      "summary": "I don't need to tell you how badly the games industry is doing, right? Badly in the sense of a handful of people desperate to continue making millions are laying off workers by the tens of thousands, with a new layoff story seemingly every…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
       "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
       "source": "Ars Technica",
       "category": "Democracy / press freedom",
@@ -57,14 +47,24 @@
       "score": 10
     },
     {
-      "title": "Why did OpenAI's and Anthropic's AI models hack other companies?",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
-      "published": "2026-08-01T09:00:00+00:00",
-      "summary": "OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 10
+      "title": "‘The language of Pokémon is universal’: why fans are still catching ‘em all after 30 years",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/games/2026/aug/02/the-language-of-pokemon-is-universal-why-fans-are-still-catching-em-all-after-30-years",
+      "published": "2026-08-02T07:00:15+00:00",
+      "summary": "As Pokémon Go celebrates its 10th anniversary, its devoted players explain how the game has created a vibrant intergenerational community spanning the globe Most Pokémon obsessives count rare, absurdly expensive playing cards or pristine,…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "The Sunday Papers",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-821",
+      "published": "2026-08-02T06:13:39+00:00",
+      "summary": "Sundays are for looking back at the week and honestly just thinking, yeesh, what are you doing , working in an industry that’s succumbed so deeply and so wilfully to moral decay. The publishers sold to executioners .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
@@ -77,22 +77,22 @@
       "score": 9
     },
     {
-      "title": "Heatwave scorching western US ups risk of hazardous fire conditions",
+      "title": "Moscow restaurant bombing kills three people as device carried by woman explodes",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/01/heatwave-us-west-hazardous-fire-conditions",
-      "published": "2026-08-01T23:39:52+00:00",
-      "summary": "In Oregon and Washington, low humidity and powerful winds have put officials on alert for wildfire spread A heatwave scorching the western US region has elevated the risk of hazardous fire conditions particularly in parts of Oregon and…",
+      "url": "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes",
+      "published": "2026-08-02T00:22:48+00:00",
+      "summary": "More than 20 people injured in explosion near Italian restaurant on Saturday night, authorities say A homemade bomb carried by a woman killed three people and injured at least 21 in ⁠an explosion near a restaurant in central Moscow on…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
-      "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
-      "source": "The Guardian US",
+      "title": "Pixel 11 specs and price leak with no surprises",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
-      "published": "2026-08-01T22:31:13+00:00",
-      "summary": "Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca…",
+      "url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
+      "published": "2026-08-01T21:31:24+00:00",
+      "summary": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
@@ -104,15 +104,15 @@
       "published": "2026-08-01T20:54:05+00:00",
       "summary": "Reporting stories about kids can be fascinating: how they learn, why play is important, what makes a healthy classroom. But the beat is anything but child's play, as politics weigh heavy.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
+      "score": 8
     },
     {
-      "title": "Angela Nissel faces down grief with a laugh",
+      "title": "Is this Billboard Hot 100 hit AI slop?",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
-      "published": "2026-08-01T20:13:56+00:00",
-      "summary": "Angela Nissel's latest book, Good Grief, Pass the Bread, Mom Is Dead, is my kind of memoir. Sure, it's a deeply emotional tale about caring for a terminally ill parent.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+      "published": "2026-08-01T18:18:49+00:00",
+      "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 8
     },
@@ -127,14 +127,14 @@
       "score": 8
     },
     {
-      "title": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews",
+      "title": "Entomologist Stephen Dobson on releasing modified mosquitoes to fight disease",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5915633/cyclosporiasis-washtenaw-michigan-foodborne-illness-cdc",
-      "published": "2026-08-01T09:00:00+00:00",
-      "summary": "Public health nurses have been pulled from other duties in Washtenaw County, MI, to call hundreds of people sick with cyclosporiasis, and try to help them remember everything they ate in recent days.",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5913746/entomologist-stephen-dobson-on-releasing-modified-mosquitoes-to-fight-disease",
+      "published": "2026-08-01T11:46:46+00:00",
+      "summary": "NPR's Scott Simons asks University of Kentucky entomologist Stephen Dobson about mosquito control using modified mosquitoes released into the wild.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
     }
   ],
   "youtube": [
@@ -859,6 +859,6 @@
     "mainCount": 13,
     "youtubeCount": 25,
     "trailerCount": 30,
-    "sourceCount": 22
+    "sourceCount": 21
   }
 }
