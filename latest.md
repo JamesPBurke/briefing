@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-02T09:00:13.647618Z
+Generated: 2026-08-02T14:00:02.283686Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are ‘I have an understanding housemate’: the student who makes videos of fungus on faeces, Shooting at In-N-Out Burger restaurant in Idaho leaves three people dead, and Capital One says it closed Trump Organization’s accounts after anti-money-laundering review.
+Today's sweep leans toward CS education / AI policy, AI / privacy, Democracy / press freedom. The strongest items in this run are ‘He’s a narcissist’: could Idaho killer Bryan Kohberger win a new trial?, Family to sue after woman released from ICE custody froze to death, and ‘I have an understanding housemate’: the student who makes videos of fungus on faeces.
 
 ## Briefing
 
@@ -33,7 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘I have an understanding housemate’: the student who makes videos of fungus on faeces [10/10]
+### 1. ‘He’s a narcissist’: could Idaho killer Bryan Kohberger win a new trial? [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Convicted killer seeks to withdraw guilty plea and go to trial – but that could put death penalty sentence back in play Could Bryan Kohberger, convicted 13 months ago of the murders of four University of Idaho students, now find himself on…
+
+Link: https://www.theguardian.com/us-news/2026/aug/02/bryan-kohberger-idaho-killer-guilty-plea-trial
+
+### 2. Family to sue after woman released from ICE custody froze to death [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Exclusive: Daphy Michel, from Haiti, was dropped off in Pittsburgh in 20F temperatures wearing summer clothes ‘She showed love for everyone’: how did Daphy Michel end up frozen to death in a Pittsburgh bus shelter? The family of a Haitian…
+
+Link: https://www.theguardian.com/us-news/2026/aug/02/ice-death-pittsburgh-daphy-michel-haiti
+
+### 3. ‘I have an understanding housemate’: the student who makes videos of fungus on faeces [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -42,16 +60,7 @@ Alfred Drummond-Herdman’s extraordinary timelapses have been viewed by million
 
 Link: https://www.theguardian.com/environment/2026/aug/02/alfred-drummond-herdman-animal-dung-fungi-films-aoe
 
-### 2. Shooting at In-N-Out Burger restaurant in Idaho leaves three people dead [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Police chief say shooter found dead after ‘very chaotic scene’ near busy shopping area in Twin Falls Three people were killed and seven more were injured, some critically, in a shooting at an In-N-Out Burger restaurant in southern Idaho on…
-
-Link: https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say
-
-### 3. Capital One says it closed Trump Organization’s accounts after anti-money-laundering review [10/10]
+### 4. Capital One says it closed Trump Organization’s accounts after anti-money-laundering review [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -60,16 +69,16 @@ Disclosure from 2021 investigation marks first time a bank has formally tied mon
 
 Link: https://www.theguardian.com/us-news/2026/aug/01/capital-one-trump-organization-money-laundering
 
-### 4. As Reddit stock falls, CEO questions value of Google's AI Overviews [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 5. NVIDIA is about to spend $750 billion on AI. Critics are calling it a bubble [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Reddit may still be considering ending its licensing deal with Google.
+NPR's Ayesha Rascoe asks Bloomberg AI infrastructure reporter Dina Bass about concerns over circular financing in the AI sector.
 
-Link: https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/
+Link: https://www.npr.org/2026/08/02/nx-s1-5913352/nvidia-is-about-to-spend-750-billion-on-ai-critics-are-calling-it-a-bubble
 
-### 5. ‘The language of Pokémon is universal’: why fans are still catching ‘em all after 30 years [9/10]
+### 6. ‘The language of Pokémon is universal’: why fans are still catching ‘em all after 30 years [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -78,34 +87,16 @@ As Pokémon Go celebrates its 10th anniversary, its devoted players explain how 
 
 Link: https://www.theguardian.com/games/2026/aug/02/the-language-of-pokemon-is-universal-why-fans-are-still-catching-em-all-after-30-years
 
-### 6. The Sunday Papers [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Sundays are for looking back at the week and honestly just thinking, yeesh, what are you doing , working in an industry that’s succumbed so deeply and so wilfully to moral decay. The publishers sold to executioners .
-
-Link: https://www.rockpapershotgun.com/the-sunday-papers-821
-
-### 7. Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’ A growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressures…
-
-Link: https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn
-
-### 8. Moscow restaurant bombing kills three people as device carried by woman explodes [9/10]
+### 7. Shooting at In-N-Out Burger restaurant in Idaho leaves three people dead [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-More than 20 people injured in explosion near Italian restaurant on Saturday night, authorities say A homemade bomb carried by a woman killed three people and injured at least 21 in ⁠an explosion near a restaurant in central Moscow on…
+Police chief say shooter found dead after ‘very chaotic scene’ near busy shopping area in Twin Falls Three people were killed and seven more were injured, some critically, in a shooting at an In-N-Out Burger restaurant in southern Idaho on…
 
-Link: https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes
+Link: https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say
 
-### 9. Pixel 11 specs and price leak with no surprises [9/10]
+### 8. Pixel 11 specs and price leak with no surprises [9/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -114,14 +105,23 @@ Android Headlines claims to have the specs and price for the entire Pixel 11 lin
 
 Link: https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak
 
-### 10. NPR education correspondent on why reporting on kids is important... and fascinating [8/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 9. Silent Hill: Townfall's devs say they're purposefully playing against your nostalgic tech feelings, but I'm not sure it'll work on me [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Reporting stories about kids can be fascinating: how they learn, why play is important, what makes a healthy classroom. But the beat is anything but child's play, as politics weigh heavy.
+The Silent Hill series has one of those worlds that I just struggle to conceptually place in a contemporary setting.
 
-Link: https://www.npr.org/2026/08/01/nx-s1-5905750/npr-education-correspondent-on-why-reporting-on-kids-is-important-and-fascinating
+Link: https://www.rockpapershotgun.com/silent-hill-townfalls-devs-say-theyre-purposefully-playing-against-your-nostalgic-tech-feelings-but-im-not-sure-itll-work-on-me
+
+### 10. Got a spare $10? Net yourself almost 150 games and help support laid off game devs with the game industry hardship fund bundle [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+I don't need to tell you how badly the games industry is doing, right? Badly in the sense of a handful of people desperate to continue making millions are laying off workers by the tens of thousands, with a new layoff story seemingly every…
+
+Link: https://www.rockpapershotgun.com/got-a-spare-10-net-yourself-almost-150-games-and-help-support-laid-off-game-devs-with-the-game-industry-hardship-fund-bundle
 
 ### 11. Is this Billboard Hot 100 hit AI slop? [8/10]
 **Source:** The Verge  
@@ -132,23 +132,23 @@ Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los An
 
 Link: https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop
 
-### 12. We Need to Quarantine Aliens on the Moon, Scientists Propose [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Researchers argue that a lunar biocontainment facility for extraterrestrial samples could prevent “the potential ecological devastation of an invasive extraterrestrial organism.”
-
-Link: https://www.404media.co/we-need-to-quarantine-aliens-on-the-moon-scientists-propose/
-
-### 13. Entomologist Stephen Dobson on releasing modified mosquitoes to fight disease [7/10]
+### 12. Trust in public health institutions is eroding. What can officials do? [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-NPR's Scott Simons asks University of Kentucky entomologist Stephen Dobson about mosquito control using modified mosquitoes released into the wild.
+NPR's Ayesha Rascoe discusses America's declining trust in public health officials with Marianne Udow-Phillips, a lecturer at the School of Public Health at the University of Michigan.
 
-Link: https://www.npr.org/2026/08/01/nx-s1-5913746/entomologist-stephen-dobson-on-releasing-modified-mosquitoes-to-fight-disease
+Link: https://www.npr.org/2026/08/02/nx-s1-5913953/trust-in-public-health-institutions-is-eroding-what-can-officials-do
+
+### 13. NPR education correspondent on why reporting on kids is important... and fascinating [8/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Reporting stories about kids can be fascinating: how they learn, why play is important, what makes a healthy classroom. But the beat is anything but child's play, as politics weigh heavy.
+
+Link: https://www.npr.org/2026/08/01/nx-s1-5905750/npr-education-correspondent-on-why-reporting-on-kids-is-important-and-fascinating
 
 ## YouTube
 
@@ -187,6 +187,15 @@ Link: https://www.youtube.com/watch?v=iHn63hPS9sw
 *It was the aliens!* Or was it? Egyptologist Professor Laurel Bestock rejoins WIRED to break down five discoveries that tell us exactly how the Egyptian pyramids were built; from the Giza quarry to The Diary of Merer, Laurel paints a vivid…
 
 Link: https://www.youtube.com/watch?v=enMPLaB1oEo
+
+### Survey: 3 in 4 voters say cost of childcare a major problem [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+A new survey finds 3 in 4 voters say the cost of childcare is a major problem — and it’s among the reasons affordability is a top issue this election year.
+
+Link: https://www.youtube.com/watch?v=L_5Yu1U2hRs
 
 ### BTS skipping the 2027 Grammys [7/10]
 **Creator:** NPR  
@@ -242,15 +251,6 @@ A new round of strikes between Iran and the United States, an expansion that’s
 
 Link: https://www.youtube.com/watch?v=m-tc7EguzYQ
 
-### Ten Commandments go on display in Louisiana schools [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Louisiana’s largest school district is hanging up posters of the Ten Commandments before the school year starts next week.
-
-Link: https://www.youtube.com/watch?v=NzsGOBtH1Q4
-
 ### Does Xbox "Back Compat" For PC Give Microsoft An Edge Over Steam? [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
@@ -304,6 +304,15 @@ Link: https://www.youtube.com/watch?v=0xReVmmSN88
 ► Watch the Full Video Here: https://youtu.be/D_XO9vg-Yi4 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=Jk_5Uv1NK-k
+
+### Bending Air in Avatar Legends: The Fighting Game | Super Smash Sunday [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Our resident fighting game fans KC and El Cheshire are trying out Avatar Legends: The Fighting Game. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=Q2Nfi3uApBQ
 
 ### Waterworld Week Is Upon Us w/ Jack, KC, and Jesse [7/10]
 **Creator:** Second Wind  
@@ -367,15 +376,6 @@ Link: https://www.youtube.com/watch?v=ph3NHO1xFJU
 This video is brought to you by Polyarmory: High Calibre Love, the world's only fully-loaded conspiracy theorist gun-nut dating simulation – https://store.steampowered.com/app/4220820/Polyarmory_High_Calibre_Love/ Duke or Quake.
 
 Link: https://www.youtube.com/watch?v=nEDP7tp4z28
-
-### Going From Star Fox Zero to Star Fox Hero w/ KC and Marty -- Part 2 [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by GRAFT. Escape a dark, decaying space station the size of a continent in this story-driven survival horror RPG from the makers of the Shadowrun Trilogy. – https://store.steampowered.
-
-Link: https://www.youtube.com/watch?v=XubIU4h7kFU
 
 ## Entertainment Recommendations
 

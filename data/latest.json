@@ -1,11 +1,31 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-02T09:00:13.647618Z",
-  "generatedAtDisplay": "2026-08-02 05:00 AM EDT",
+  "generatedAt": "2026-08-02T14:00:02.283686Z",
+  "generatedAtDisplay": "2026-08-02 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are ‘I have an understanding housemate’: the student who makes videos of fungus on faeces, Shooting at In-N-Out Burger restaurant in Idaho leaves three people dead, and Capital One says it closed Trump Organization’s accounts after anti-money-laundering review.",
+  "summary": "Today's sweep leans toward CS education / AI policy, AI / privacy, Democracy / press freedom. The strongest items in this run are ‘He’s a narcissist’: could Idaho killer Bryan Kohberger win a new trial?, Family to sue after woman released from ICE custody froze to death, and ‘I have an understanding housemate’: the student who makes videos of fungus on faeces.",
   "mainItems": [
+    {
+      "title": "‘He’s a narcissist’: could Idaho killer Bryan Kohberger win a new trial?",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/us-news/2026/aug/02/bryan-kohberger-idaho-killer-guilty-plea-trial",
+      "published": "2026-08-02T12:00:22+00:00",
+      "summary": "Convicted killer seeks to withdraw guilty plea and go to trial – but that could put death penalty sentence back in play Could Bryan Kohberger, convicted 13 months ago of the murders of four University of Idaho students, now find himself on…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Family to sue after woman released from ICE custody froze to death",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/aug/02/ice-death-pittsburgh-daphy-michel-haiti",
+      "published": "2026-08-02T10:00:19+00:00",
+      "summary": "Exclusive: Daphy Michel, from Haiti, was dropped off in Pittsburgh in 20F temperatures wearing summer clothes ‘She showed love for everyone’: how did Daphy Michel end up frozen to death in a Pittsburgh bus shelter? The family of a Haitian…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
     {
       "title": "‘I have an understanding housemate’: the student who makes videos of fungus on faeces",
       "source": "The Guardian US",
@@ -14,16 +34,6 @@
       "published": "2026-08-02T08:00:15+00:00",
       "summary": "Alfred Drummond-Herdman’s extraordinary timelapses have been viewed by millions – and led him to identify new species Alfred Drummond-Herdman is possibly the only person in the UK who is sent animal faeces in the post out of goodwill.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Shooting at In-N-Out Burger restaurant in Idaho leaves three people dead",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say",
-      "published": "2026-08-02T05:02:37+00:00",
-      "summary": "Police chief say shooter found dead after ‘very chaotic scene’ near busy shopping area in Twin Falls Three people were killed and seven more were injured, some critically, in a shooting at an In-N-Out Burger restaurant in southern Idaho on…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -37,14 +47,14 @@
       "score": 10
     },
     {
-      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-      "published": "2026-08-01T12:30:36+00:00",
-      "summary": "Reddit may still be considering ending its licensing deal with Google.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "NVIDIA is about to spend $750 billion on AI. Critics are calling it a bubble",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5913352/nvidia-is-about-to-spend-750-billion-on-ai-critics-are-calling-it-a-bubble",
+      "published": "2026-08-02T12:36:55+00:00",
+      "summary": "NPR's Ayesha Rascoe asks Bloomberg AI infrastructure reporter Dina Bass about concerns over circular financing in the AI sector.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 9
     },
     {
       "title": "‘The language of Pokémon is universal’: why fans are still catching ‘em all after 30 years",
@@ -57,32 +67,12 @@
       "score": 9
     },
     {
-      "title": "The Sunday Papers",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-821",
-      "published": "2026-08-02T06:13:39+00:00",
-      "summary": "Sundays are for looking back at the week and honestly just thinking, yeesh, what are you doing , working in an industry that’s succumbed so deeply and so wilfully to moral decay. The publishers sold to executioners .",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
-      "published": "2026-08-02T04:00:11+00:00",
-      "summary": "Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’ A growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressures…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Moscow restaurant bombing kills three people as device carried by woman explodes",
+      "title": "Shooting at In-N-Out Burger restaurant in Idaho leaves three people dead",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes",
-      "published": "2026-08-02T00:22:48+00:00",
-      "summary": "More than 20 people injured in explosion near Italian restaurant on Saturday night, authorities say A homemade bomb carried by a woman killed three people and injured at least 21 in ⁠an explosion near a restaurant in central Moscow on…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say",
+      "published": "2026-08-02T05:02:37+00:00",
+      "summary": "Police chief say shooter found dead after ‘very chaotic scene’ near busy shopping area in Twin Falls Three people were killed and seven more were injured, some critically, in a shooting at an In-N-Out Burger restaurant in southern Idaho on…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
@@ -97,6 +87,46 @@
       "score": 9
     },
     {
+      "title": "Silent Hill: Townfall's devs say they're purposefully playing against your nostalgic tech feelings, but I'm not sure it'll work on me",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/silent-hill-townfalls-devs-say-theyre-purposefully-playing-against-your-nostalgic-tech-feelings-but-im-not-sure-itll-work-on-me",
+      "published": "2026-08-01T20:35:12+00:00",
+      "summary": "The Silent Hill series has one of those worlds that I just struggle to conceptually place in a contemporary setting.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Got a spare $10? Net yourself almost 150 games and help support laid off game devs with the game industry hardship fund bundle",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/got-a-spare-10-net-yourself-almost-150-games-and-help-support-laid-off-game-devs-with-the-game-industry-hardship-fund-bundle",
+      "published": "2026-08-01T17:01:19+00:00",
+      "summary": "I don't need to tell you how badly the games industry is doing, right? Badly in the sense of a handful of people desperate to continue making millions are laying off workers by the tens of thousands, with a new layoff story seemingly every…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Is this Billboard Hot 100 hit AI slop?",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+      "published": "2026-08-02T13:25:24+00:00",
+      "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 8
+    },
+    {
+      "title": "Trust in public health institutions is eroding. What can officials do?",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5913953/trust-in-public-health-institutions-is-eroding-what-can-officials-do",
+      "published": "2026-08-02T12:08:38+00:00",
+      "summary": "NPR's Ayesha Rascoe discusses America's declining trust in public health officials with Marianne Udow-Phillips, a lecturer at the School of Public Health at the University of Michigan.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
       "title": "NPR education correspondent on why reporting on kids is important... and fascinating",
       "source": "NPR Education",
       "category": "Education / pedagogy",
@@ -105,36 +135,6 @@
       "summary": "Reporting stories about kids can be fascinating: how they learn, why play is important, what makes a healthy classroom. But the beat is anything but child's play, as politics weigh heavy.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 8
-    },
-    {
-      "title": "Is this Billboard Hot 100 hit AI slop?",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-      "published": "2026-08-01T18:18:49+00:00",
-      "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
-    },
-    {
-      "title": "We Need to Quarantine Aliens on the Moon, Scientists Propose",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/we-need-to-quarantine-aliens-on-the-moon-scientists-propose/",
-      "published": "2026-08-01T10:00:47+00:00",
-      "summary": "Researchers argue that a lunar biocontainment facility for extraterrestrial samples could prevent “the potential ecological devastation of an invasive extraterrestrial organism.”",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Entomologist Stephen Dobson on releasing modified mosquitoes to fight disease",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5913746/entomologist-stephen-dobson-on-releasing-modified-mosquitoes-to-fight-disease",
-      "published": "2026-08-01T11:46:46+00:00",
-      "summary": "NPR's Scott Simons asks University of Kentucky entomologist Stephen Dobson about mosquito control using modified mosquitoes released into the wild.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     }
   ],
   "youtube": [
@@ -178,6 +178,17 @@
       "url": "https://www.youtube.com/watch?v=enMPLaB1oEo",
       "published": "2026-07-30T16:00:11+00:00",
       "summary": "*It was the aliens!* Or was it? Egyptologist Professor Laurel Bestock rejoins WIRED to break down five discoveries that tell us exactly how the Egyptian pyramids were built; from the Giza quarry to The Diary of Merer, Laurel paints a vivid…",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Survey: 3 in 4 voters say cost of childcare a major problem",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=L_5Yu1U2hRs",
+      "published": "2026-08-02T12:30:11+00:00",
+      "summary": "A new survey finds 3 in 4 voters say the cost of childcare is a major problem — and it’s among the reasons affordability is a top issue this election year.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -249,17 +260,6 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "Ten Commandments go on display in Louisiana schools",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=NzsGOBtH1Q4",
-      "published": "2026-07-30T19:30:31+00:00",
-      "summary": "Louisiana’s largest school district is hanging up posters of the Ten Commandments before the school year starts next week.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
       "title": "Does Xbox \"Back Compat\" For PC Give Microsoft An Edge Over Steam?",
       "source": "Digital Foundry",
       "category": "Games / hardware",
@@ -324,6 +324,17 @@
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 6,
       "verdict": "Summary is enough"
+    },
+    {
+      "title": "Bending Air in Avatar Legends: The Fighting Game | Super Smash Sunday",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=Q2Nfi3uApBQ",
+      "published": "2026-08-02T12:01:52+00:00",
+      "summary": "Our resident fighting game fans KC and El Cheshire are trying out Avatar Legends: The Fighting Game. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "Waterworld Week Is Upon Us w/ Jack, KC, and Jesse",
@@ -401,17 +412,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 6,
       "verdict": "Summary is enough"
-    },
-    {
-      "title": "Going From Star Fox Zero to Star Fox Hero w/ KC and Marty -- Part 2",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=XubIU4h7kFU",
-      "published": "2026-07-30T13:24:10+00:00",
-      "summary": "This video is brought to you by GRAFT. Escape a dark, decaying space station the size of a continent in this story-driven survival horror RPG from the makers of the Shadowrun Trilogy. – https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     }
   ],
   "trailers": [
@@ -859,6 +859,6 @@
     "mainCount": 13,
     "youtubeCount": 25,
     "trailerCount": 30,
-    "sourceCount": 21
+    "sourceCount": 20
   }
 }
