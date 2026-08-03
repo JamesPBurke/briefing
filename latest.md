@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-03T09:01:05.279812Z
+Generated: 2026-08-03T14:00:04.045124Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are The August Coup by Robert Service review – the drink-soaked collapse of the Soviet Union, Blanche formally rescinds Trump’s $1.8bn ‘anti-weaponization fund’ ahead of nomination hearing, and ‘It’s not about the Qur’an, it’s about the money’: how boys of five are forced to beg on Senegal’s streets.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Trump’s attorney general pick says he has reached deal with senators after standoff – US politics live, Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet, and The Soulslike genre has grown stale after Elden Ring, and only FromSoftware can take it to strange new places.
 
 ## Briefing
 
@@ -33,79 +33,97 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. The August Coup by Robert Service review – the drink-soaked collapse of the Soviet Union [10/10]
+### 1. Trump’s attorney general pick says he has reached deal with senators after standoff – US politics live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-This brilliant account of attempts by the old guard to take back control captures the ludicrousness of it all beautifully Marxist-Leninist rule in Russia lasted 74 years, and in August 1991 it effectively collapsed in just three days:…
+Todd Blanche issues formal order to withdraw ‘anti-weaponization fund’ after weeks of negotiations with Republican senators who were blocking his nomination Blanche formally rescinds Trump’s $1.
 
-Link: https://www.theguardian.com/books/2026/aug/03/the-august-coup-by-robert-service-review-the-drink-soaked-collapse-of-the-soviet-union
+Link: https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates
 
-### 2. Blanche formally rescinds Trump’s $1.8bn ‘anti-weaponization fund’ ahead of nomination hearing [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 2. Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Todd Blanche issues formal order terminating measure widely derided as a ‘slush fund’, in move that could clear path for his nomination as attorney general Acting US attorney general Todd Blanche issued a formal order late on Sunday…
+Lenovo is expected to release some of the first Googlebook models later this year, and leaked images have now given us a good idea of what they might look like.
 
-Link: https://www.theguardian.com/us-news/2026/aug/03/blanche-formally-rescinds-trumps-18bn-anti-weaponization-fund-ahead-of-nomination-hearing
+Link: https://www.theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops
 
-### 3. ‘It’s not about the Qur’an, it’s about the money’: how boys of five are forced to beg on Senegal’s streets [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-An old west African practice of sending children away to study is being used as a cover for trafficking, say human rights groups In a bare, gloomy room on the beachfront at Saint-Louis, in the north-west of Senegal, dozens of young boys…
-
-Link: https://www.theguardian.com/global-development/2026/aug/03/senegal-st-louis-talibes-quran-children-forced-beg-human-trafficking-rights
-
-### 4. ‘He’s a narcissist’: could Idaho killer Bryan Kohberger win a new trial? [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Convicted killer seeks to withdraw guilty plea and go to trial – but that could put death penalty sentence back in play Could Bryan Kohberger, convicted 13 months ago of the murders of four University of Idaho students, now find himself on…
-
-Link: https://www.theguardian.com/us-news/2026/aug/02/bryan-kohberger-idaho-killer-guilty-plea-trial
-
-### 5. Family to sue after woman released from ICE custody froze to death [10/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Exclusive: Daphy Michel, from Haiti, was dropped off in Pittsburgh in 20F temperatures wearing summer clothes ‘She showed love for everyone’: how did Daphy Michel end up frozen to death in a Pittsburgh bus shelter? The family of a Haitian…
-
-Link: https://www.theguardian.com/us-news/2026/aug/02/ice-death-pittsburgh-daphy-michel-haiti
-
-### 6. Palworld Online is a new MMORPG coming to iOS and Android later this year [9/10]
-**Source:** Eurogamer  
+### 3. The Soulslike genre has grown stale after Elden Ring, and only FromSoftware can take it to strange new places [10/10]
+**Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-With Palworld taking the world by storm (again), it turns out there's yet another major surprise tied to the creature-collecting survival game coming sooner than you'd expect.
+Sometimes I have to remind myself that I’m a cliché, a person first compelled to write about games because I slew Dark Souls ’ Gwynn, Lord Of Cinder and sat quietly for a moment before thinking to myself, “Hit me, come on, hit me!”.
 
-Link: https://www.eurogamer.net/palworld-online-revealed-mobile-mmorpg
+Link: https://www.rockpapershotgun.com/the-soulslike-genre-has-grown-stale-after-elden-ring-and-only-fromsoftware-can-take-it-to-strange-new-places
 
-### 7. Common advice about kid snacking is outdated. Here's what parents should know [9/10]
-**Source:** NPR Health  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 4. Who Decides Which Stories Children Get to Read? [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Pediatricians recommend kids eat about five times a day: three meals and two snacks. Parents often carry snacks so kids can eat on the go. Here's what science says about snacking.
+As book bans surge nationwide, Jan Lacina — professor at Texas Christian University and associate editor of the Early Childhood Education Journal — explores the benefits of diverse children’s literature in her new textbook for educators,…
 
-Link: https://www.npr.org/2026/08/03/nx-s1-5910817/common-advice-about-kid-snacking-is-outdated-heres-what-parents-should-know
+Link: https://www.the74million.org/zero2eight/who-decides-which-stories-children-get-to-read/
 
-### 8. Is it true that … a cold shower is the best way to cool down on a hot night? [9/10]
+### 5. The Download: reward hacking explained, and suspected Iranian cyberattacks [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/
+
+### 6. China’s Alibaba takes another swipe at America’s AI supremacy [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Chinese tech giant Alibaba released what it says is its largest and "most capable AI model to date," claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's…
+
+Link: https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai
+
+### 7. This week in PC games: Beast of Reincarnation, Big Walk, and Marvel Tōkon, plus a round table RPG, some flammable robots, and a flock of lovestruck pigeons [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Ugh, morning has come again. The sultry undergrowth of night has yielded to the obnoxious leaf blower of wakefulness. Another week tumbles pendulously from the unzipped flies of the future.
+
+Link: https://www.rockpapershotgun.com/this-week-in-pc-games-beast-of-reincarnation-big-walk-and-marvel-tokon-plus-a-round-table-rpg-some-flammable-robots-and-a-flock-of-lovestruck-pigeons
+
+### 8. ‘Stark example of brutality’: Trump’s ICE used court orders in plan to force-feed at least 10 hunger strikers in detention [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Want to lower your temperature and drift off to sleep quicker? An ice-cold shower might seem the best solution, but the truth is more complicated It’s another sticky summer evening. You’re too hot to sleep.
+Exclusive: court records reviewed by the Guardian show medical procedures included force-feeding, intravenous forced hydration and involuntary blood draws Homeland security officials under the Trump administration have quietly attempted to…
 
-Link: https://www.theguardian.com/lifeandstyle/2026/aug/03/is-it-true-that-a-cold-shower-is-the-best-way-to-cool-down-on-a-hot-night
+Link: https://www.theguardian.com/us-news/2026/aug/03/trump-dhs-hunger-strikes-force-feeding-ice-detention
 
-### 9. Why has Trump stepped in to prop up Japan’s currency? [9/10]
+### 9. Yet another price rise: AMD will reportedly raise its graphics card and memory prices alongside Nvidia [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Hot on the heels of Nvidia reportedly raising the price of its graphics cards and memory units comes word that rival component manufacturer AMD will do the same. Read more
+
+Link: https://www.eurogamer.net/amd-price-rise-gpu-memory
+
+### 10. ‘I spent a week crying. I’ve never had an injury in my life!’ Why do so many fitness fans end up needing surgery? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+From the 47-year-old runner who needs a double hip replacement to the 27-year-old CrossFitter with a ruptured ACL, those who push their bodies too hard often regret it.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/aug/03/fitness-fans-surgery-injury-health
+
+### 11. Why has Trump stepped in to prop up Japan’s currency? [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -114,43 +132,34 @@ The US has bought up yen to strengthen the currency for the first time in almost
 
 Link: https://www.theguardian.com/world/2026/aug/03/trump-japan-currency-yen-explainer
 
-### 10. Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard.
-
-Link: https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review
-
-### 11. NVIDIA is about to spend $750 billion on AI. Critics are calling it a bubble [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-NPR's Ayesha Rascoe asks Bloomberg AI infrastructure reporter Dina Bass about concerns over circular financing in the AI sector.
-
-Link: https://www.npr.org/2026/08/02/nx-s1-5913352/nvidia-is-about-to-spend-750-billion-on-ai-critics-are-calling-it-a-bubble
-
-### 12. E-bike injuries are on the rise for children and teens [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Doctors are seeing more children injured - some badly - from e-bikes and e-scooters. NPR's Ayesha Rascoe talks with Dr. Cornelia Griggs and Caitlin Coit of Mass General Brigham for Children Hospital.
-
-Link: https://www.npr.org/2026/08/02/nx-s1-5913748/e-bike-injuries-are-on-the-rise-for-children-and-teens
-
-### 13. They Once Taught About a Hero. Now Faculty Rethink César Chávez Lessons [6/10]
+### 12. Exclusive: Nearly 1,900 U.S. Public Schools Within a Mile of a Data Center [8/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-The same day The New York Times published its investigation of labor rights leader César Chávez’s alleged actions of sexual abuse, Bakersfield College professor Oliver Rosales was scheduled to teach his class, History of Chicanos in the…
+This article was co-published with FastCompany. NEWNAN, Ga. — Arnco-Sargent Elementary sits in a wooded area on a two-lane road about 50 miles south of Atlanta. Across the street is a child care center.
 
-Link: https://www.the74million.org/article/they-once-taught-about-a-hero-now-faculty-rethink-cesar-chavez-lessons/
+Link: https://www.the74million.org/article/exclusive-nearly-1900-u-s-public-schools-within-a-mile-of-a-data-center/
+
+### 13. What would it take to get peptides on the shelf? [7/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+An FDA advisory panel recently voted to green-light some popular peptides. The decision brought enormous attention to the market for these products — and concerns about the unregulated supply.
+
+Link: https://www.npr.org/2026/08/03/nx-s1-5913381/health-fda-peptides-product-regulation
 
 ## YouTube
+
+### Another DeepSeek Moment Has Arrived [8/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek v4 Flash 0731: https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 DeepSeek API: https://platform.deepseek.
+
+Link: https://www.youtube.com/watch?v=bm1BjOjS7sQ
 
 ### NVIDIA's AI Learns Why Copying Humans Isn't Enough [8/10]
 **Creator:** Two Minute Papers  
@@ -296,6 +305,15 @@ Link: https://www.youtube.com/watch?v=32cG0NrkFSY
 
 Link: https://www.youtube.com/watch?v=EYIvpYr8pkI
 
+### Final Fantasy IX and the Struggle of Going Back to Your Roots | Windbreaker Podcast [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty chat about Final Fantasy IX, whimsy in games, and why it's tough to recapture the magic of your roots If you dig the stuff we make, consider supporting us over at Patreon --…
+
+Link: https://www.youtube.com/watch?v=u2-4JX3TAPs
+
 ### Bending Air in Avatar Legends: The Fighting Game | Super Smash Sunday [8/10]
 **Creator:** Second Wind  
 **Verdict:** Worth watching  
@@ -322,15 +340,6 @@ Link: https://www.youtube.com/watch?v=NCB6UxbaUaw
 This video is brought to you by GRAFT. Escape a dark, decaying space station the size of a continent in this story-driven survival horror RPG from the makers of the Shadowrun Trilogy. – https://store.steampowered.
 
 Link: https://www.youtube.com/watch?v=2CsnrmsJ66k
-
-### Taking your TTRPG Questions | RPG Help Desk [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-It's just you and me (you being a bunch of you in chat, and me being Jesse Galena) doing questions for today! Ask whatever TTRPG question you've got! If you dig watching us check out indies, considering supporting us over at Patreon --…
-
-Link: https://www.youtube.com/watch?v=95mC5eLC8ec
 
 ## Entertainment Recommendations
 

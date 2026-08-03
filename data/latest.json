@@ -1,90 +1,110 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-03T09:01:05.279812Z",
-  "generatedAtDisplay": "2026-08-03 05:01 AM EDT",
+  "generatedAt": "2026-08-03T14:00:04.045124Z",
+  "generatedAtDisplay": "2026-08-03 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are The August Coup by Robert Service review – the drink-soaked collapse of the Soviet Union, Blanche formally rescinds Trump’s $1.8bn ‘anti-weaponization fund’ ahead of nomination hearing, and ‘It’s not about the Qur’an, it’s about the money’: how boys of five are forced to beg on Senegal’s streets.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / criticism. The strongest items in this run are Trump’s attorney general pick says he has reached deal with senators after standoff – US politics live, Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet, and The Soulslike genre has grown stale after Elden Ring, and only FromSoftware can take it to strange new places.",
   "mainItems": [
     {
-      "title": "The August Coup by Robert Service review – the drink-soaked collapse of the Soviet Union",
+      "title": "Trump’s attorney general pick says he has reached deal with senators after standoff – US politics live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/books/2026/aug/03/the-august-coup-by-robert-service-review-the-drink-soaked-collapse-of-the-soviet-union",
-      "published": "2026-08-03T06:00:43+00:00",
-      "summary": "This brilliant account of attempts by the old guard to take back control captures the ludicrousness of it all beautifully Marxist-Leninist rule in Russia lasted 74 years, and in August 1991 it effectively collapsed in just three days:…",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates",
+      "published": "2026-08-03T13:51:35+00:00",
+      "summary": "Todd Blanche issues formal order to withdraw ‘anti-weaponization fund’ after weeks of negotiations with Republican senators who were blocking his nomination Blanche formally rescinds Trump’s $1.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Blanche formally rescinds Trump’s $1.8bn ‘anti-weaponization fund’ ahead of nomination hearing",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/03/blanche-formally-rescinds-trumps-18bn-anti-weaponization-fund-ahead-of-nomination-hearing",
-      "published": "2026-08-03T04:46:50+00:00",
-      "summary": "Todd Blanche issues formal order terminating measure widely derided as a ‘slush fund’, in move that could clear path for his nomination as attorney general Acting US attorney general Todd Blanche issued a formal order late on Sunday…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops",
+      "published": "2026-08-03T13:12:03+00:00",
+      "summary": "Lenovo is expected to release some of the first Googlebook models later this year, and leaked images have now given us a good idea of what they might look like.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "‘It’s not about the Qur’an, it’s about the money’: how boys of five are forced to beg on Senegal’s streets",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/global-development/2026/aug/03/senegal-st-louis-talibes-quran-children-forced-beg-human-trafficking-rights",
-      "published": "2026-08-03T04:00:40+00:00",
-      "summary": "An old west African practice of sending children away to study is being used as a cover for trafficking, say human rights groups In a bare, gloomy room on the beachfront at Saint-Louis, in the north-west of Senegal, dozens of young boys…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "‘He’s a narcissist’: could Idaho killer Bryan Kohberger win a new trial?",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/aug/02/bryan-kohberger-idaho-killer-guilty-plea-trial",
-      "published": "2026-08-02T12:00:22+00:00",
-      "summary": "Convicted killer seeks to withdraw guilty plea and go to trial – but that could put death penalty sentence back in play Could Bryan Kohberger, convicted 13 months ago of the murders of four University of Idaho students, now find himself on…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Family to sue after woman released from ICE custody froze to death",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/aug/02/ice-death-pittsburgh-daphy-michel-haiti",
-      "published": "2026-08-02T10:00:19+00:00",
-      "summary": "Exclusive: Daphy Michel, from Haiti, was dropped off in Pittsburgh in 20F temperatures wearing summer clothes ‘She showed love for everyone’: how did Daphy Michel end up frozen to death in a Pittsburgh bus shelter? The family of a Haitian…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Palworld Online is a new MMORPG coming to iOS and Android later this year",
-      "source": "Eurogamer",
+      "title": "The Soulslike genre has grown stale after Elden Ring, and only FromSoftware can take it to strange new places",
+      "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/palworld-online-revealed-mobile-mmorpg",
-      "published": "2026-08-03T08:58:10+00:00",
-      "summary": "With Palworld taking the world by storm (again), it turns out there's yet another major surprise tied to the creature-collecting survival game coming sooner than you'd expect.",
+      "url": "https://www.rockpapershotgun.com/the-soulslike-genre-has-grown-stale-after-elden-ring-and-only-fromsoftware-can-take-it-to-strange-new-places",
+      "published": "2026-08-03T12:59:49+00:00",
+      "summary": "Sometimes I have to remind myself that I’m a cliché, a person first compelled to write about games because I slew Dark Souls ’ Gwynn, Lord Of Cinder and sat quietly for a moment before thinking to myself, “Hit me, come on, hit me!”.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
+      "score": 10
     },
     {
-      "title": "Common advice about kid snacking is outdated. Here's what parents should know",
-      "source": "NPR Health",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5910817/common-advice-about-kid-snacking-is-outdated-heres-what-parents-should-know",
-      "published": "2026-08-03T08:44:44+00:00",
-      "summary": "Pediatricians recommend kids eat about five times a day: three meals and two snacks. Parents often carry snacks so kids can eat on the go. Here's what science says about snacking.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
+      "title": "Who Decides Which Stories Children Get to Read?",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/zero2eight/who-decides-which-stories-children-get-to-read/",
+      "published": "2026-08-03T12:30:00+00:00",
+      "summary": "As book bans surge nationwide, Jan Lacina — professor at Texas Christian University and associate editor of the Early Childhood Education Journal — explores the benefits of diverse children’s literature in her new textbook for educators,…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
     },
     {
-      "title": "Is it true that … a cold shower is the best way to cool down on a hot night?",
+      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "published": "2026-08-03T12:08:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "published": "2026-08-03T11:20:37+00:00",
+      "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's…",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "This week in PC games: Beast of Reincarnation, Big Walk, and Marvel Tōkon, plus a round table RPG, some flammable robots, and a flock of lovestruck pigeons",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-beast-of-reincarnation-big-walk-and-marvel-tokon-plus-a-round-table-rpg-some-flammable-robots-and-a-flock-of-lovestruck-pigeons",
+      "published": "2026-08-03T10:48:17+00:00",
+      "summary": "Ugh, morning has come again. The sultry undergrowth of night has yielded to the obnoxious leaf blower of wakefulness. Another week tumbles pendulously from the unzipped flies of the future.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "‘Stark example of brutality’: Trump’s ICE used court orders in plan to force-feed at least 10 hunger strikers in detention",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/03/is-it-true-that-a-cold-shower-is-the-best-way-to-cool-down-on-a-hot-night",
-      "published": "2026-08-03T07:00:44+00:00",
-      "summary": "Want to lower your temperature and drift off to sleep quicker? An ice-cold shower might seem the best solution, but the truth is more complicated It’s another sticky summer evening. You’re too hot to sleep.",
+      "url": "https://www.theguardian.com/us-news/2026/aug/03/trump-dhs-hunger-strikes-force-feeding-ice-detention",
+      "published": "2026-08-03T10:00:16+00:00",
+      "summary": "Exclusive: court records reviewed by the Guardian show medical procedures included force-feeding, intravenous forced hydration and involuntary blood draws Homeland security officials under the Trump administration have quietly attempted to…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
+      "score": 10
+    },
+    {
+      "title": "Yet another price rise: AMD will reportedly raise its graphics card and memory prices alongside Nvidia",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/amd-price-rise-gpu-memory",
+      "published": "2026-08-03T09:36:39+00:00",
+      "summary": "Hot on the heels of Nvidia reportedly raising the price of its graphics cards and memory units comes word that rival component manufacturer AMD will do the same. Read more",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘I spent a week crying. I’ve never had an injury in my life!’ Why do so many fitness fans end up needing surgery?",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/03/fitness-fans-surgery-injury-health",
+      "published": "2026-08-03T09:00:46+00:00",
+      "summary": "From the 47-year-old runner who needs a double hip replacement to the 27-year-old CrossFitter with a ruptured ACL, those who push their bodies too hard often regret it.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
     },
     {
       "title": "Why has Trump stepped in to prop up Japan’s currency?",
@@ -97,47 +117,38 @@
       "score": 9
     },
     {
-      "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
-      "published": "2026-08-02T21:53:15+00:00",
-      "summary": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 8
-    },
-    {
-      "title": "NVIDIA is about to spend $750 billion on AI. Critics are calling it a bubble",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/08/02/nx-s1-5913352/nvidia-is-about-to-spend-750-billion-on-ai-critics-are-calling-it-a-bubble",
-      "published": "2026-08-02T12:36:55+00:00",
-      "summary": "NPR's Ayesha Rascoe asks Bloomberg AI infrastructure reporter Dina Bass about concerns over circular financing in the AI sector.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "E-bike injuries are on the rise for children and teens",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/02/nx-s1-5913748/e-bike-injuries-are-on-the-rise-for-children-and-teens",
-      "published": "2026-08-02T12:08:06+00:00",
-      "summary": "Doctors are seeing more children injured - some badly - from e-bikes and e-scooters. NPR's Ayesha Rascoe talks with Dr. Cornelia Griggs and Caitlin Coit of Mass General Brigham for Children Hospital.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "They Once Taught About a Hero. Now Faculty Rethink César Chávez Lessons",
+      "title": "Exclusive: Nearly 1,900 U.S. Public Schools Within a Mile of a Data Center",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/they-once-taught-about-a-hero-now-faculty-rethink-cesar-chavez-lessons/",
-      "published": "2026-08-02T10:30:00+00:00",
-      "summary": "The same day The New York Times published its investigation of labor rights leader César Chávez’s alleged actions of sexual abuse, Bakersfield College professor Oliver Rosales was scheduled to teach his class, History of Chicanos in the…",
+      "url": "https://www.the74million.org/article/exclusive-nearly-1900-u-s-public-schools-within-a-mile-of-a-data-center/",
+      "published": "2026-08-03T10:45:00+00:00",
+      "summary": "This article was co-published with FastCompany. NEWNAN, Ga. — Arnco-Sargent Elementary sits in a wooded area on a two-lane road about 50 miles south of Atlanta. Across the street is a child care center.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 6
+      "score": 8
+    },
+    {
+      "title": "What would it take to get peptides on the shelf?",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5913381/health-fda-peptides-product-regulation",
+      "published": "2026-08-03T11:00:00+00:00",
+      "summary": "An FDA advisory panel recently voted to green-light some popular peptides. The decision brought enormous attention to the market for these products — and concerns about the unregulated supply.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7
     }
   ],
   "youtube": [
+    {
+      "title": "Another DeepSeek Moment Has Arrived",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
+      "published": "2026-08-03T09:47:34+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek v4 Flash 0731: https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 DeepSeek API: https://platform.deepseek.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
     {
       "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
       "source": "Two Minute Papers",
@@ -315,6 +326,17 @@
       "verdict": "Worth watching"
     },
     {
+      "title": "Final Fantasy IX and the Struggle of Going Back to Your Roots | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=u2-4JX3TAPs",
+      "published": "2026-08-03T13:37:00+00:00",
+      "summary": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty chat about Final Fantasy IX, whimsy in games, and why it's tough to recapture the magic of your roots If you dig the stuff we make, consider supporting us over at Patreon --…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
       "title": "Bending Air in Avatar Legends: The Fighting Game | Super Smash Sunday",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -346,17 +368,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Taking your TTRPG Questions | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=95mC5eLC8ec",
-      "published": "2026-07-31T09:38:29+00:00",
-      "summary": "It's just you and me (you being a bunch of you in chat, and me being Jesse Galena) doing questions for today! Ask whatever TTRPG question you've got! If you dig watching us check out indies, considering supporting us over at Patreon --…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     }
   ],
   "trailers": [
@@ -802,8 +813,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 20,
+    "youtubeCount": 21,
     "trailerCount": 30,
-    "sourceCount": 21
+    "sourceCount": 22
   }
 }
