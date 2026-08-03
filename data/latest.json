@@ -1,11 +1,21 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-03T05:00:02.321684Z",
-  "generatedAtDisplay": "2026-08-03 01:00 AM EDT",
+  "generatedAt": "2026-08-03T09:01:05.279812Z",
+  "generatedAtDisplay": "2026-08-03 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are Blanche formally rescinds Trump’s $1.8bn ‘anti-weaponization fund’ ahead of nomination hearing, ‘It’s not about the Qur’an, it’s about the money’: how boys of five are forced to beg on Senegal’s streets, and Spider-Man: Brand New Day makes debut to $927m box office to land second biggest opening weekend in history.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are The August Coup by Robert Service review – the drink-soaked collapse of the Soviet Union, Blanche formally rescinds Trump’s $1.8bn ‘anti-weaponization fund’ ahead of nomination hearing, and ‘It’s not about the Qur’an, it’s about the money’: how boys of five are forced to beg on Senegal’s streets.",
   "mainItems": [
+    {
+      "title": "The August Coup by Robert Service review – the drink-soaked collapse of the Soviet Union",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/books/2026/aug/03/the-august-coup-by-robert-service-review-the-drink-soaked-collapse-of-the-soviet-union",
+      "published": "2026-08-03T06:00:43+00:00",
+      "summary": "This brilliant account of attempts by the old guard to take back control captures the ludicrousness of it all beautifully Marxist-Leninist rule in Russia lasted 74 years, and in August 1991 it effectively collapsed in just three days:…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Blanche formally rescinds Trump’s $1.8bn ‘anti-weaponization fund’ ahead of nomination hearing",
       "source": "The Guardian US",
@@ -27,16 +37,6 @@
       "score": 10
     },
     {
-      "title": "Spider-Man: Brand New Day makes debut to $927m box office to land second biggest opening weekend in history",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/aug/03/spiderman-brand-new-day-global-box-office",
-      "published": "2026-08-03T00:34:54+00:00",
-      "summary": "Marvel Studios president Kevin Feige hails ‘phenomenal’ opening, which followed box office already buoyed by The Odyssey and Toy Story 5 Spider-Man: Brand New ⁠Day brought in a blockbuster $927m ⁠in worldwide ticket sales to deliver the…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "‘He’s a narcissist’: could Idaho killer Bryan Kohberger win a new trial?",
       "source": "The Guardian US",
       "category": "CS education / AI policy",
@@ -44,16 +44,6 @@
       "published": "2026-08-02T12:00:22+00:00",
       "summary": "Convicted killer seeks to withdraw guilty plea and go to trial – but that could put death penalty sentence back in play Could Bryan Kohberger, convicted 13 months ago of the murders of four University of Idaho students, now find himself on…",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "‘I loved the Police from the get-go’: Elaine Paige’s honest playlist",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/music/2026/aug/02/elaine-paige-honest-playlist-roxanne-police-perry-como-everly-brothers",
-      "published": "2026-08-02T12:00:20+00:00",
-      "summary": "The singer and actor is partial to Mozart and once did Édith Piaf at karaoke, but to which musical showstopper does she owe everything? The first song I fell in love with I used to sing All I Have to Do Is Dream by the Everly Brothers with…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -67,6 +57,36 @@
       "score": 10
     },
     {
+      "title": "Palworld Online is a new MMORPG coming to iOS and Android later this year",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/palworld-online-revealed-mobile-mmorpg",
+      "published": "2026-08-03T08:58:10+00:00",
+      "summary": "With Palworld taking the world by storm (again), it turns out there's yet another major surprise tied to the creature-collecting survival game coming sooner than you'd expect.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Common advice about kid snacking is outdated. Here's what parents should know",
+      "source": "NPR Health",
+      "category": "Democracy / press freedom",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5910817/common-advice-about-kid-snacking-is-outdated-heres-what-parents-should-know",
+      "published": "2026-08-03T08:44:44+00:00",
+      "summary": "Pediatricians recommend kids eat about five times a day: three meals and two snacks. Parents often carry snacks so kids can eat on the go. Here's what science says about snacking.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Is it true that … a cold shower is the best way to cool down on a hot night?",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/03/is-it-true-that-a-cold-shower-is-the-best-way-to-cool-down-on-a-hot-night",
+      "published": "2026-08-03T07:00:44+00:00",
+      "summary": "Want to lower your temperature and drift off to sleep quicker? An ice-cold shower might seem the best solution, but the truth is more complicated It’s another sticky summer evening. You’re too hot to sleep.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
       "title": "Why has Trump stepped in to prop up Japan’s currency?",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
@@ -74,26 +94,6 @@
       "published": "2026-08-03T04:45:51+00:00",
       "summary": "The US has bought up yen to strengthen the currency for the first time in almost 30 years, with the moves raising questions about America’s motives The US has launched a bid to prop up the value of the yen, marking an extraordinary…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Control Resonant's story will take around 30 hours, Remedy says, with completionists looking at 50-hour runs",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/control-resonant-30-50-hours-long",
-      "published": "2026-08-02T20:03:59+00:00",
-      "summary": "Remedy has confirmed roughly how long Control Resonant will take to finish, along with fresh details on how its combat has evolved from the original game. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Illinois Governor Signs School Cellphone Ban to Avoid Student Distractions",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/pritzker-signs-school-cellphone-ban-to-avoid-student-distractions/",
-      "published": "2026-08-02T16:30:00+00:00",
-      "summary": "Students in all Illinois public schools will soon have to abide by rules barring them from using cellphones or other personal electronic communication devices during school hours unless they have been given specific permission to use them.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
@@ -322,8 +322,8 @@
       "published": "2026-08-02T18:40:31+00:00",
       "summary": "Our resident fighting game fans KC and El Cheshire are trying out Avatar Legends: The Fighting Game. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Waterworld Week Is Upon Us w/ Jack, KC, and Jesse",

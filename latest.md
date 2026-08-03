@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-03T05:00:02.321684Z
+Generated: 2026-08-03T09:01:05.279812Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are Blanche formally rescinds Trump’s $1.8bn ‘anti-weaponization fund’ ahead of nomination hearing, ‘It’s not about the Qur’an, it’s about the money’: how boys of five are forced to beg on Senegal’s streets, and Spider-Man: Brand New Day makes debut to $927m box office to land second biggest opening weekend in history.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are The August Coup by Robert Service review – the drink-soaked collapse of the Soviet Union, Blanche formally rescinds Trump’s $1.8bn ‘anti-weaponization fund’ ahead of nomination hearing, and ‘It’s not about the Qur’an, it’s about the money’: how boys of five are forced to beg on Senegal’s streets.
 
 ## Briefing
 
@@ -33,7 +33,16 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Blanche formally rescinds Trump’s $1.8bn ‘anti-weaponization fund’ ahead of nomination hearing [10/10]
+### 1. The August Coup by Robert Service review – the drink-soaked collapse of the Soviet Union [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+This brilliant account of attempts by the old guard to take back control captures the ludicrousness of it all beautifully Marxist-Leninist rule in Russia lasted 74 years, and in August 1991 it effectively collapsed in just three days:…
+
+Link: https://www.theguardian.com/books/2026/aug/03/the-august-coup-by-robert-service-review-the-drink-soaked-collapse-of-the-soviet-union
+
+### 2. Blanche formally rescinds Trump’s $1.8bn ‘anti-weaponization fund’ ahead of nomination hearing [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,7 +51,7 @@ Todd Blanche issues formal order terminating measure widely derided as a ‘slus
 
 Link: https://www.theguardian.com/us-news/2026/aug/03/blanche-formally-rescinds-trumps-18bn-anti-weaponization-fund-ahead-of-nomination-hearing
 
-### 2. ‘It’s not about the Qur’an, it’s about the money’: how boys of five are forced to beg on Senegal’s streets [10/10]
+### 3. ‘It’s not about the Qur’an, it’s about the money’: how boys of five are forced to beg on Senegal’s streets [10/10]
 **Source:** The Guardian US  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -50,15 +59,6 @@ Link: https://www.theguardian.com/us-news/2026/aug/03/blanche-formally-rescinds-
 An old west African practice of sending children away to study is being used as a cover for trafficking, say human rights groups In a bare, gloomy room on the beachfront at Saint-Louis, in the north-west of Senegal, dozens of young boys…
 
 Link: https://www.theguardian.com/global-development/2026/aug/03/senegal-st-louis-talibes-quran-children-forced-beg-human-trafficking-rights
-
-### 3. Spider-Man: Brand New Day makes debut to $927m box office to land second biggest opening weekend in history [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Marvel Studios president Kevin Feige hails ‘phenomenal’ opening, which followed box office already buoyed by The Odyssey and Toy Story 5 Spider-Man: Brand New ⁠Day brought in a blockbuster $927m ⁠in worldwide ticket sales to deliver the…
-
-Link: https://www.theguardian.com/film/2026/aug/03/spiderman-brand-new-day-global-box-office
 
 ### 4. ‘He’s a narcissist’: could Idaho killer Bryan Kohberger win a new trial? [10/10]
 **Source:** The Guardian US  
@@ -69,16 +69,7 @@ Convicted killer seeks to withdraw guilty plea and go to trial – but that coul
 
 Link: https://www.theguardian.com/us-news/2026/aug/02/bryan-kohberger-idaho-killer-guilty-plea-trial
 
-### 5. ‘I loved the Police from the get-go’: Elaine Paige’s honest playlist [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-The singer and actor is partial to Mozart and once did Édith Piaf at karaoke, but to which musical showstopper does she owe everything? The first song I fell in love with I used to sing All I Have to Do Is Dream by the Everly Brothers with…
-
-Link: https://www.theguardian.com/music/2026/aug/02/elaine-paige-honest-playlist-roxanne-police-perry-como-everly-brothers
-
-### 6. Family to sue after woman released from ICE custody froze to death [10/10]
+### 5. Family to sue after woman released from ICE custody froze to death [10/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -87,7 +78,34 @@ Exclusive: Daphy Michel, from Haiti, was dropped off in Pittsburgh in 20F temper
 
 Link: https://www.theguardian.com/us-news/2026/aug/02/ice-death-pittsburgh-daphy-michel-haiti
 
-### 7. Why has Trump stepped in to prop up Japan’s currency? [9/10]
+### 6. Palworld Online is a new MMORPG coming to iOS and Android later this year [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+With Palworld taking the world by storm (again), it turns out there's yet another major surprise tied to the creature-collecting survival game coming sooner than you'd expect.
+
+Link: https://www.eurogamer.net/palworld-online-revealed-mobile-mmorpg
+
+### 7. Common advice about kid snacking is outdated. Here's what parents should know [9/10]
+**Source:** NPR Health  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Pediatricians recommend kids eat about five times a day: three meals and two snacks. Parents often carry snacks so kids can eat on the go. Here's what science says about snacking.
+
+Link: https://www.npr.org/2026/08/03/nx-s1-5910817/common-advice-about-kid-snacking-is-outdated-heres-what-parents-should-know
+
+### 8. Is it true that … a cold shower is the best way to cool down on a hot night? [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Want to lower your temperature and drift off to sleep quicker? An ice-cold shower might seem the best solution, but the truth is more complicated It’s another sticky summer evening. You’re too hot to sleep.
+
+Link: https://www.theguardian.com/lifeandstyle/2026/aug/03/is-it-true-that-a-cold-shower-is-the-best-way-to-cool-down-on-a-hot-night
+
+### 9. Why has Trump stepped in to prop up Japan’s currency? [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -95,24 +113,6 @@ Link: https://www.theguardian.com/us-news/2026/aug/02/ice-death-pittsburgh-daphy
 The US has bought up yen to strengthen the currency for the first time in almost 30 years, with the moves raising questions about America’s motives The US has launched a bid to prop up the value of the yen, marking an extraordinary…
 
 Link: https://www.theguardian.com/world/2026/aug/03/trump-japan-currency-yen-explainer
-
-### 8. Control Resonant's story will take around 30 hours, Remedy says, with completionists looking at 50-hour runs [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Remedy has confirmed roughly how long Control Resonant will take to finish, along with fresh details on how its combat has evolved from the original game. Read more
-
-Link: https://www.eurogamer.net/control-resonant-30-50-hours-long
-
-### 9. Illinois Governor Signs School Cellphone Ban to Avoid Student Distractions [9/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Students in all Illinois public schools will soon have to abide by rules barring them from using cellphones or other personal electronic communication devices during school hours unless they have been given specific permission to use them.
-
-Link: https://www.the74million.org/article/pritzker-signs-school-cellphone-ban-to-avoid-student-distractions/
 
 ### 10. Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing [8/10]
 **Source:** The Verge  
@@ -296,9 +296,9 @@ Link: https://www.youtube.com/watch?v=32cG0NrkFSY
 
 Link: https://www.youtube.com/watch?v=EYIvpYr8pkI
 
-### Bending Air in Avatar Legends: The Fighting Game | Super Smash Sunday [9/10]
+### Bending Air in Avatar Legends: The Fighting Game | Super Smash Sunday [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 Our resident fighting game fans KC and El Cheshire are trying out Avatar Legends: The Fighting Game. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
