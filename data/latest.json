@@ -1,100 +1,120 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-04T09:00:46.697497Z",
-  "generatedAtDisplay": "2026-08-04 05:00 AM EDT",
+  "generatedAt": "2026-08-04T14:00:03.239043Z",
+  "generatedAtDisplay": "2026-08-04 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Hungary comes ‘within millimetres’ of shutting down nuclear power plant amid drought crisis – Europe live, ‘Fortnite on steroids’: the virtual gaming worlds transformed to train British soldiers, and ‘The war leaked into every lesson’: learning Ukrainian in a country under siege.",
+  "summary": "Today's sweep leans toward AI / computing, Security / computing, Education / pedagogy. The strongest items in this run are Europe’s AI labeling and transparency rules are now in effect, Vote to take place on Blanche nomination after GOP senators drop opposition – US politics live, and The next Xbox could play every Xbox game ever made.",
   "mainItems": [
-    {
-      "title": "Hungary comes ‘within millimetres’ of shutting down nuclear power plant amid drought crisis – Europe live",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates",
-      "published": "2026-08-04T08:24:38+00:00",
-      "summary": "PM Péter Magyar says country nearly forced into decision as extreme heat and low water levels in Danube pose challenges in region Ashifa Kassam in Madrid , Okba Mohammad in Ceuta and Lisa O’Carroll in London A growing chorus of voices has…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘Fortnite on steroids’: the virtual gaming worlds transformed to train British soldiers",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/04/fortnite-on-steroids-the-virtual-gaming-worlds-transformed-to-train-british-soldiers",
-      "published": "2026-08-04T04:00:13+00:00",
-      "summary": "Inside Skyral, part of a consortium that won a £2bn MoD contract to help forces game out complex decisions On a sunny July day in Riga, Latvia, a Nato convoy drives down a street lined with kebab shops and a pharmacy.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "‘The war leaked into every lesson’: learning Ukrainian in a country under siege",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/04/war-lesson-learning-ukrainian-culture-ukraine",
-      "published": "2026-08-04T04:00:12+00:00",
-      "summary": "Soon after my first visit to Ukraine four years ago, I began language lessons.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Far-right Republican accused of stiffing student debate champion of $8,000",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/aug/03/republican-james-fishback-sued-student-debate-money",
-      "published": "2026-08-04T00:05:43+00:00",
-      "summary": "Florida gubernatorial candidate James Fishback calls failure to pay Briana Whatley money owed ‘an oversight’ A far-right Republican candidate in Florida’s governor’s race has been accused of stiffing a high school debate champion over the…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
-      "source": "Ars Technica",
-      "category": "CS education / AI policy",
-      "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
-      "published": "2026-08-03T19:00:50+00:00",
-      "summary": "Top scores increased by 5x.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
     {
       "title": "Europe’s AI labeling and transparency rules are now in effect",
       "source": "The Verge",
       "category": "AI / computing",
       "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-      "published": "2026-08-03T17:46:48+00:00",
+      "published": "2026-08-04T13:39:28+00:00",
       "summary": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "The studio behind Pokémon struggles to find its voice in Beast of Reincarnation",
+      "title": "Vote to take place on Blanche nomination after GOP senators drop opposition – US politics live",
+      "source": "The Guardian US",
+      "category": "Security / computing",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/04/donald-trump-todd-blanche-republicans-vote-michigan-midterm-primary-democrats-latest-news-updates",
+      "published": "2026-08-04T13:37:27+00:00",
+      "summary": "Trump’s former personal lawyer appears on track to become attorney general despite reservations over deal withdrawing ‘anti-weaponization fund’ Critics denounce Blanche deal to halt Trump slush fund Sign up for US Breaking News email The…",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 10
+    },
+    {
+      "title": "The next Xbox could play every Xbox game ever made",
       "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/974773/xbox-helix-disc-digital-backwards-compatibility-leaked-memo-opt-in",
+      "published": "2026-08-04T12:33:06+00:00",
+      "summary": "The next Xbox, Project Helix, could theoretically have the largest library of any home console.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Note to Democrats: Supporting Unions Isn’t the Same as Supporting Education",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/note-to-democrats-supporting-unions-isnt-the-same-as-supporting-education/",
+      "published": "2026-08-04T12:30:00+00:00",
+      "summary": "For years, Democratic politicians have treated support for teachers unions as a proxy for supporting public education itself.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+      "source": "MIT Technology Review",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox",
-      "published": "2026-08-03T16:56:21+00:00",
-      "summary": "You have to imagine that the team at Game Freak is bursting with ideas. The studio puts out new mainline Pokémon adventures with a machinelike precision.",
+      "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+      "published": "2026-08-04T12:14:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Trump Overhaul Could Gut Head Start Standards, Leaving States to Set the Rules",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/zero2eight/trump-overhaul-could-gut-head-start-standards-leaving-states-to-set-the-rules/",
-      "published": "2026-08-03T18:25:32+00:00",
-      "summary": "WASHINGTON (AP) — President Donald Trump’s administration is planning a dramatic overhaul of Head Start that would gut its quality standards, upending the hallmarks of the early education program for impoverished children, two people…",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+      "source": "The Verge",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+      "published": "2026-08-04T12:07:51+00:00",
+      "summary": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Sex, drugs and serial killers: inside Ryan Murphy and Bret Easton Ellis’s lurid TV thriller",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/04/the-shards-tv-show-thriller-cast-interview",
+      "published": "2026-08-04T11:00:48+00:00",
+      "summary": "The Shards brings the cocaine-addled teens of a 1980s prep school to life with a cast of newcomers and a heavy dose of sleaze One of the first things Ryan Murphy ’s TV adaptation of Bret Easton Ellis ’s The Shards will make you ask is:…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Hooded Horse's watery 4X sequel Endless Legend 2 gets a 1.0 launch date and a new faction of terraforming desert dwellers",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/hooded-horses-watery-4x-sequel-endless-legend-2-gets-a-10-launch-date-and-a-new-faction-of-terraforming-desert-dwellers",
+      "published": "2026-08-04T13:00:23+00:00",
+      "summary": "The early access phase of oceanic, asymmetric faction war strategy sequel Endless Legend 2 is coming to an... end? That can’t be right.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "Tongue your friends in Big Hops Together, the froggy platformer's new eight player co-op update, which was inspired by Mario mods",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/tongue-your-friends-in-big-hops-together-the-froggy-platformers-new-eight-player-co-op-update-which-was-inspired-by-mario-mods",
-      "published": "2026-08-03T16:19:55+00:00",
-      "summary": "Big Hops is the cool 3D platform game with the frog who can use their tongue as a grappling hook. Despite much questing and fervent prayer, I have yet to encounter a frog that can do this in reality.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "I was a death row lawyer. Here’s why I now joke about capital punishment",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/culture/ng-interactive/2026/aug/04/death-row-lawyer-standup-comedy",
+      "published": "2026-08-04T12:00:50+00:00",
+      "summary": "In my standup, I’m not trivializing the death penalty.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
+    },
+    {
+      "title": "The SEC Bought Airline Data to Monitor Flights Worldwide",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/the-sec-bought-airline-data-to-monitor-flights-worldwide/",
+      "published": "2026-08-04T13:55:10+00:00",
+      "summary": "The SEC bought access to worldwide airline ticketing records. Airlines including Delta, United, and American sold the data.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "The sneaky economics of healthwashing",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/sections/planet-money/2026/08/04/g-s1-136624/the-sneaky-economics-of-healthwashing",
+      "published": "2026-08-04T10:30:00+00:00",
+      "summary": "Why food companies love labels like \"organic\" and \"high protein,\" why our brains are misled by them — and how to avoid paying extra for marketing.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "The Ninth Jedi Trailer Arrives Just Days Before the Star Wars Series’ Premiere",
@@ -105,26 +125,6 @@
       "summary": "The animated series opens up the Star Wars timeline The post The Ninth Jedi Trailer Arrives Just Days Before the Star Wars Series’ Premiere appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
-    },
-    {
-      "title": "Two people in Michigan have died from cyclosporiasis",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/04/nx-s1-5918619/two-people-in-michigan-have-died-from-cyclosporiasis",
-      "published": "2026-08-04T08:40:35+00:00",
-      "summary": "Michigan has announced the first two deaths related to an outbreak of illnesses caused by the Cyclospora parasite.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
-    },
-    {
-      "title": "‘Own the Narrative’: Leaked Flock Guide Shows How It Teaches Cops to Promote Its Tech",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/",
-      "published": "2026-08-03T17:13:24+00:00",
-      "summary": "\"This document shows a coordinated effort from Flock Safety to compel law enforcement agencies to convince our elected leaders to represent their interests as a company rather than the interests of concerned citizens.\"",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     },
     {
       "title": "The 13 best recipes to bake in August: Recipes to savor summer’s sweetest days.",
@@ -146,8 +146,8 @@
       "published": "2026-08-03T09:47:34+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek v4 Flash 0731: https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 DeepSeek API: https://platform.deepseek.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
@@ -201,8 +201,8 @@
       "published": "2026-08-03T21:30:08+00:00",
       "summary": "Investors hoping to get a jump on White House announcements can now buy early access to President Trump’s posts on social media.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Prince’s 'Purple Rain' coming to Broadway",
@@ -304,6 +304,17 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "We Have Thoughts on Spider-Man: Brand New Day | The Rewind Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=o8LKVChk8NI",
+      "published": "2026-08-04T13:30:21+00:00",
+      "summary": "This week on The Rewind, Jack, Darren, and Marty chat about Spider-Man: Brand New Day. If you enjoy hearing the crew ramble about movies and TV, consider supporting us over on Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "Living the Cyberpunk Dream in The Red Strings Club | Hot Monday Energy",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -311,8 +322,8 @@
       "published": "2026-08-04T01:09:43+00:00",
       "summary": "🎮 This week on Hidden Gems, KC, Jess, and Jesse play The Red Strings Club -- https://store.steampowered.com/app/589780/The_Red_Strings_Club/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Final Fantasy IX and the Struggle of Going Back to Your Roots | Windbreaker Podcast",
@@ -548,6 +559,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Her fresh start is just getting started. LEANNE SEASON 2 premieres Aug 27 on Netflix 🌼",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=M1E-y3QZ6d8",
+      "published": "2026-08-04T13:00:00+00:00",
+      "summary": "Her fresh start is just getting started. LEANNE SEASON 2 premieres Aug 27 on Netflix 🌼 #LeanneNetflix Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Blood Sacrifice | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -644,17 +666,6 @@
       "summary": "Following the highly publicized death of Boeing whistleblower John Barnett, Freefall: A Reckoning for Boeing uncovers startling new revelations. Premieres August 19. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Outer Banks: Season 5 | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=lb3fvMJMadk",
-      "published": "2026-07-29T14:00:00+00:00",
-      "summary": "Every summer led to this. The final season of Outer Banks premieres August 20, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -835,7 +846,7 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 19,
+    "youtubeCount": 20,
     "trailerCount": 34,
     "sourceCount": 23
   }

@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-04T09:00:46.697497Z
+Generated: 2026-08-04T14:00:03.239043Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Hungary comes ‘within millimetres’ of shutting down nuclear power plant amid drought crisis – Europe live, ‘Fortnite on steroids’: the virtual gaming worlds transformed to train British soldiers, and ‘The war leaked into every lesson’: learning Ukrainian in a country under siege.
+Today's sweep leans toward AI / computing, Security / computing, Education / pedagogy. The strongest items in this run are Europe’s AI labeling and transparency rules are now in effect, Vote to take place on Blanche nomination after GOP senators drop opposition – US politics live, and The next Xbox could play every Xbox game ever made.
 
 ## Briefing
 
@@ -33,52 +33,7 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Hungary comes ‘within millimetres’ of shutting down nuclear power plant amid drought crisis – Europe live [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-PM Péter Magyar says country nearly forced into decision as extreme heat and low water levels in Danube pose challenges in region Ashifa Kassam in Madrid , Okba Mohammad in Ceuta and Lisa O’Carroll in London A growing chorus of voices has…
-
-Link: https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates
-
-### 2. ‘Fortnite on steroids’: the virtual gaming worlds transformed to train British soldiers [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Inside Skyral, part of a consortium that won a £2bn MoD contract to help forces game out complex decisions On a sunny July day in Riga, Latvia, a Nato convoy drives down a street lined with kebab shops and a pharmacy.
-
-Link: https://www.theguardian.com/uk-news/2026/aug/04/fortnite-on-steroids-the-virtual-gaming-worlds-transformed-to-train-british-soldiers
-
-### 3. ‘The war leaked into every lesson’: learning Ukrainian in a country under siege [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Soon after my first visit to Ukraine four years ago, I began language lessons.
-
-Link: https://www.theguardian.com/news/ng-interactive/2026/aug/04/war-lesson-learning-ukrainian-culture-ukraine
-
-### 4. Far-right Republican accused of stiffing student debate champion of $8,000 [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Florida gubernatorial candidate James Fishback calls failure to pay Briana Whatley money owed ‘an oversight’ A far-right Republican candidate in Florida’s governor’s race has been accused of stiffing a high school debate champion over the…
-
-Link: https://www.theguardian.com/us-news/2026/aug/03/republican-james-fishback-sued-student-debate-money
-
-### 5. An AI-supervised remote exam went so badly that 58,000 students must retake it [10/10]
-**Source:** Ars Technica  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Top scores increased by 5x.
-
-Link: https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/
-
-### 6. Europe’s AI labeling and transparency rules are now in effect [10/10]
+### 1. Europe’s AI labeling and transparency rules are now in effect [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -87,34 +42,97 @@ The European Union has ushered in some additional rules that aim to make it easi
 
 Link: https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes
 
-### 7. The studio behind Pokémon struggles to find its voice in Beast of Reincarnation [10/10]
+### 2. Vote to take place on Blanche nomination after GOP senators drop opposition – US politics live [10/10]
+**Source:** The Guardian US  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+Trump’s former personal lawyer appears on track to become attorney general despite reservations over deal withdrawing ‘anti-weaponization fund’ Critics denounce Blanche deal to halt Trump slush fund Sign up for US Breaking News email The…
+
+Link: https://www.theguardian.com/us-news/live/2026/aug/04/donald-trump-todd-blanche-republicans-vote-michigan-midterm-primary-democrats-latest-news-updates
+
+### 3. The next Xbox could play every Xbox game ever made [10/10]
 **Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-You have to imagine that the team at Game Freak is bursting with ideas. The studio puts out new mainline Pokémon adventures with a machinelike precision.
+The next Xbox, Project Helix, could theoretically have the largest library of any home console.
 
-Link: https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox
+Link: https://www.theverge.com/games/974773/xbox-helix-disc-digital-backwards-compatibility-leaked-memo-opt-in
 
-### 8. Trump Overhaul Could Gut Head Start Standards, Leaving States to Set the Rules [9/10]
+### 4. Opinion: Note to Democrats: Supporting Unions Isn’t the Same as Supporting Education [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-WASHINGTON (AP) — President Donald Trump’s administration is planning a dramatic overhaul of Head Start that would gut its quality standards, upending the hallmarks of the early education program for impoverished children, two people…
+For years, Democratic politicians have treated support for teachers unions as a proxy for supporting public education itself.
 
-Link: https://www.the74million.org/zero2eight/trump-overhaul-could-gut-head-start-standards-leaving-states-to-set-the-rules/
+Link: https://www.the74million.org/article/note-to-democrats-supporting-unions-isnt-the-same-as-supporting-education/
 
-### 9. Tongue your friends in Big Hops Together, the froggy platformer's new eight player co-op update, which was inspired by Mario mods [9/10]
+### 5. The Download: US robot restrictions, and ICE’s DNA grab [10/10]
+**Source:** MIT Technology Review  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/
+
+### 6. OpenAI drags Apple’s lawsuit into the court of public opinion [10/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages
+
+### 7. Sex, drugs and serial killers: inside Ryan Murphy and Bret Easton Ellis’s lurid TV thriller [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+The Shards brings the cocaine-addled teens of a 1980s prep school to life with a cast of newcomers and a heavy dose of sleaze One of the first things Ryan Murphy ’s TV adaptation of Bret Easton Ellis ’s The Shards will make you ask is:…
+
+Link: https://www.theguardian.com/tv-and-radio/2026/aug/04/the-shards-tv-show-thriller-cast-interview
+
+### 8. Hooded Horse's watery 4X sequel Endless Legend 2 gets a 1.0 launch date and a new faction of terraforming desert dwellers [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Big Hops is the cool 3D platform game with the frog who can use their tongue as a grappling hook. Despite much questing and fervent prayer, I have yet to encounter a frog that can do this in reality.
+The early access phase of oceanic, asymmetric faction war strategy sequel Endless Legend 2 is coming to an... end? That can’t be right.
 
-Link: https://www.rockpapershotgun.com/tongue-your-friends-in-big-hops-together-the-froggy-platformers-new-eight-player-co-op-update-which-was-inspired-by-mario-mods
+Link: https://www.rockpapershotgun.com/hooded-horses-watery-4x-sequel-endless-legend-2-gets-a-10-launch-date-and-a-new-faction-of-terraforming-desert-dwellers
 
-### 10. The Ninth Jedi Trailer Arrives Just Days Before the Star Wars Series’ Premiere [8/10]
+### 9. I was a death row lawyer. Here’s why I now joke about capital punishment [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+In my standup, I’m not trivializing the death penalty.
+
+Link: https://www.theguardian.com/culture/ng-interactive/2026/aug/04/death-row-lawyer-standup-comedy
+
+### 10. The SEC Bought Airline Data to Monitor Flights Worldwide [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+The SEC bought access to worldwide airline ticketing records. Airlines including Delta, United, and American sold the data.
+
+Link: https://www.404media.co/the-sec-bought-airline-data-to-monitor-flights-worldwide/
+
+### 11. The sneaky economics of healthwashing [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Why food companies love labels like "organic" and "high protein," why our brains are misled by them — and how to avoid paying extra for marketing.
+
+Link: https://www.npr.org/sections/planet-money/2026/08/04/g-s1-136624/the-sneaky-economics-of-healthwashing
+
+### 12. The Ninth Jedi Trailer Arrives Just Days Before the Star Wars Series’ Premiere [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -122,24 +140,6 @@ Link: https://www.rockpapershotgun.com/tongue-your-friends-in-big-hops-together-
 The animated series opens up the Star Wars timeline The post The Ninth Jedi Trailer Arrives Just Days Before the Star Wars Series’ Premiere appeared first on Reactor .
 
 Link: https://reactormag.com/star-wars-visions-ninth-jedi-final-trailer/
-
-### 11. Two people in Michigan have died from cyclosporiasis [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Michigan has announced the first two deaths related to an outbreak of illnesses caused by the Cyclospora parasite.
-
-Link: https://www.npr.org/2026/08/04/nx-s1-5918619/two-people-in-michigan-have-died-from-cyclosporiasis
-
-### 12. ‘Own the Narrative’: Leaked Flock Guide Shows How It Teaches Cops to Promote Its Tech [7/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-"This document shows a coordinated effort from Flock Safety to compel law enforcement agencies to convince our elected leaders to represent their interests as a company rather than the interests of concerned citizens."
-
-Link: https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/
 
 ### 13. The 13 best recipes to bake in August: Recipes to savor summer’s sweetest days. [7/10]
 **Source:** King Arthur Baking  
@@ -152,9 +152,9 @@ Link: https://www.kingarthurbaking.com/blog/2026/08/03/best-august-recipes
 
 ## YouTube
 
-### Another DeepSeek Moment Has Arrived [8/10]
+### Another DeepSeek Moment Has Arrived [7/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek v4 Flash 0731: https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 DeepSeek API: https://platform.deepseek.
@@ -197,9 +197,9 @@ Hollywood set several all-time records over the weekend. "Spider-Man: Brand New 
 
 Link: https://www.youtube.com/watch?v=KIb7E4NEAjE
 
-### Truth Social selling early access to Trump's posts [9/10]
+### Truth Social selling early access to Trump's posts [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Investors hoping to get a jump on White House announcements can now buy early access to President Trump’s posts on social media.
@@ -287,9 +287,18 @@ Link: https://www.youtube.com/watch?v=6DzkX-8G7BQ
 
 Link: https://www.youtube.com/watch?v=1qm2WZyu3xA
 
-### Living the Cyberpunk Dream in The Red Strings Club | Hot Monday Energy [7/10]
+### We Have Thoughts on Spider-Man: Brand New Day | The Rewind Podcast [7/10]
 **Creator:** Second Wind  
 **Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on The Rewind, Jack, Darren, and Marty chat about Spider-Man: Brand New Day. If you enjoy hearing the crew ramble about movies and TV, consider supporting us over on Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=o8LKVChk8NI
+
+### Living the Cyberpunk Dream in The Red Strings Club | Hot Monday Energy [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 🎮 This week on Hidden Gems, KC, Jess, and Jesse play The Red Strings Club -- https://store.steampowered.com/app/589780/The_Red_Strings_Club/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.
@@ -514,6 +523,15 @@ Your mommy won’t save you. Other Mommy only in theaters October 9. /// GET IN 
 
 Link: https://www.youtube.com/watch?v=pPxrX9ukWBY
 
+### Her fresh start is just getting started. LEANNE SEASON 2 premieres Aug 27 on Netflix 🌼 [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Her fresh start is just getting started. LEANNE SEASON 2 premieres Aug 27 on Netflix 🌼 #LeanneNetflix Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=M1E-y3QZ6d8
+
 ### Blood Sacrifice | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -594,15 +612,6 @@ Link: https://www.youtube.com/watch?v=9pdib0LKCCY
 Following the highly publicized death of Boeing whistleblower John Barnett, Freefall: A Reckoning for Boeing uncovers startling new revelations. Premieres August 19. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=GWTyoY_61MM
-
-### Outer Banks: Season 5 | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Every summer led to this. The final season of Outer Banks premieres August 20, only on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=lb3fvMJMadk
 
 ### Silo — The Cast of Silo Responds to Fan Theories | Apple TV [10/10]
 **Source:** Apple TV  
