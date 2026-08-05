@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-05T09:00:24.317082Z
+Generated: 2026-08-05T14:00:03.721008Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Games / criticism. The strongest items in this run are El Niño could push 50m people into acute hunger before end of next year, OpenAI pays $3.2m to settle claims it discriminated against US workers, and OpenAI says Apple's trade secrets lawsuit is "aggressive and oddly personal".
+Today's sweep leans toward Democracy / press freedom, Education / pedagogy, Games / criticism. The strongest items in this run are Woman arrested after four men stabbed in London’s Covent Garden, ‘Getting old is no fun’: Game of Thrones author George RR Martin speaks out about depression amid further book delays, and I like being king of some weird and sexy knights in fantasy RPG Sovereign Tower, but I'm not convinced the time travel element is my cup of spiderwine.
 
 ## Briefing
 
@@ -33,97 +33,106 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. El Niño could push 50m people into acute hunger before end of next year [10/10]
+### 1. Woman arrested after four men stabbed in London’s Covent Garden [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-UN forecasters warn of worsening conditions in 45 countries currently experiencing severe food insecurity About 50 million people are likely to be pushed into acute hunger before the end of next year by the rapidly developing El Niño…
+Metropolitan police confirm arrest A woman has been arrested after three people were stabbed in Covent Garden in central London, the Metropolitan police said. More details to follow… Continue reading...
 
-Link: https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year
+Link: https://www.theguardian.com/uk-news/2026/aug/05/woman-arrested-three-stabbed-london-covent-garden
 
-### 2. OpenAI pays $3.2m to settle claims it discriminated against US workers [10/10]
+### 2. ‘Getting old is no fun’: Game of Thrones author George RR Martin speaks out about depression amid further book delays [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Company and subsidiary Statsig alleged by US justice department to have favored foreign workers in hiring OpenAI and a subsidiary will pay $3.
+A new blog post by the fantasy writer has outlined his recent difficulties, as fans continue to speculate on the elusive sixth book in his A Song of Ice and Fire series George RR Martin has opened up about experiencing depression during a…
 
-Link: https://www.theguardian.com/us-news/2026/aug/04/openai-worker-discrimination-claims-settlement
+Link: https://www.theguardian.com/books/2026/aug/05/getting-old-is-no-fun-game-of-thrones-author-george-rr-martin-speaks-out-about-depression-amid-further-book-delays
 
-### 3. OpenAI says Apple's trade secrets lawsuit is "aggressive and oddly personal" [10/10]
-**Source:** Ars Technica  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-“We do not have, nor want, any of their trade secrets,” the ChatGPT maker says.
-
-Link: https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/
-
-### 4. Resident Evil Veronica remake already proving popular for Capcom, as wishlists reach an impressive milestone [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Capcom announced that Resident Evil Veronica - a remake of Code: Veronica - has achieved an impressive milestone well before it's even out. The game has topped 2 million wishlists across PC, PlayStation 5, Xbox and Switch 2 . Read more
-
-Link: https://www.eurogamer.net/resident-evil-veronica-2-million-wishlists
-
-### 5. The ‘Cockroach Lord’ who names new species after Tolkien and Pokémon characters [9/10]
-**Source:** The Guardian US  
+### 3. I like being king of some weird and sexy knights in fantasy RPG Sovereign Tower, but I'm not convinced the time travel element is my cup of spiderwine [10/10]
+**Source:** Rock Paper Shotgun  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Cristian Lucañas has discovered multiple species of cockroach in the Philippines, and believes there’s far more to the much-maligned insect than meets the eye When Cristian Lucañas tells people about his job, their response is normally a…
+Between the accidental incest, the dragons, and the farcical aquatic ceremonies , King Arthur 's reign was a real rollercoaster and a half, but at least he never had an Ursula.
 
-Link: https://www.theguardian.com/environment/2026/aug/05/cockroach-lord-cristian-lucanas-new-species-tolkien-pokemon-aoe
+Link: https://www.rockpapershotgun.com/i-like-being-king-of-some-weird-and-sexy-knights-in-fantasy-rpg-sovereign-tower-but-im-not-convinced-the-time-travel-element-is-my-cup-of-spiderwine
 
-### 6. Perez Hilton hospitalised after livestreaming self-harm on Tiktok [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Emergency services were seen outside Hilton’s home in Miami on Tuesday night after members of the public reported seeing Hilton harm himself The celebrity blogger Perez Hilton has been hospitalised after livestreaming footage of himself…
-
-Link: https://www.theguardian.com/media/2026/aug/05/perez-hilton-hospitalised-after-live-streaming-self-harm-on-tiktok
-
-### 7. SpaceX's revenue rises as its once-soaring stock price drifts back to Earth [9/10]
-**Source:** NPR Tech  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-On their first earnings call since SpaceX's June public offering, executives said the company is pouring funds into rocket development, Starlink satellites and AI.
-
-Link: https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo
-
-### 8. How a Years-Long Rise in Teacher Turnover Reshaped American Classrooms [9/10]
+### 4. Opinion: As the Education Department Is Dismantled, Who Protects the Right to Learn? [10/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-There was no single reason why Ryan Higgins decided to leave teaching. It was a job he loved: invigorating, unpredictable, a chance to make the world a bit better.
+A first grader reads an entire page on her own after months of specialized instruction. A middle school student with autism delivers his first classroom presentation. These moments are not medical breakthroughs, they are educational ones.
 
-Link: https://www.the74million.org/article/how-a-years-long-rise-in-teacher-turnover-reshaped-american-classrooms/
+Link: https://www.the74million.org/article/as-the-education-department-is-dismantled-who-protects-the-right-to-learn/
 
-### 9. Zelenskyy rails at lack of anti-missile defences amid deadly Russian attack on Kyiv – Europe live [8/10]
+### 5. Beast Of Reincarnation review: A briefly fun Sekiro-like that becomes chewing gum for the brain [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Beast Of Reincarnation opened pretty promisingly.
+
+Link: https://www.rockpapershotgun.com/beast-of-reincarnation-review
+
+### 6. A PC cooling company shows Sony and Nintendo how it's done, as it pledges to pass US tariff refunds onto customers [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Arctic, a well-known manufacturer of PC air and water coolers, has made a commitment to use the tariff refunds it received from the US government to lower the price of its products.
+
+Link: https://www.eurogamer.net/arctic-cooling-us-tariff-refunds-lower-prices
+
+### 7. Google Assistant will disappear from your phone next month [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up.
+
+Link: https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown
+
+### 8. Trump’s AI testing plan is limited and vague [10/10]
+**Source:** The Verge  
+**Category:** AI / open models  
+**Why it matters:** Relevant to local models, open tooling, and hands-on experimentation.
+
+The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded
+
+### 9. Michigan Senate Democratic primary race remains too close to call as El-Sayed holds narrow lead – US politics live [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Ukrainian president tells allies that anti-ballistic measures could have saved lives as at least 17 die and more than 40 are injured in huge attack European Commission chief Ursula von der Leyen condemned “horrible atrocities” by Russia…
+The former public health official has slight lead over congresswoman Haley Stevens, but vote count could continue well into the day El-Sayed holds narrow lead in Michigan Senate primary but race too close to call Sign up for the Breaking…
 
-Link: https://www.theguardian.com/world/live/2026/aug/05/europe-ukraine-russia-kyiv-zelenskyy-heatwave-austria-hungary-poland-czech-republic-latest-news-updates
+Link: https://www.theguardian.com/us-news/live/2026/aug/05/michigan-primary-race-democrats-midterms-senate-el-sayed-haley-stevens-donald-trump-republicans-us-politics-latest-news-updates
 
-### 10. NASA’s new dark energy space telescope can also detect killer asteroids [8/10]
+### 10. The Download: NASA’s new telescope and Chinese tech import curbs [9/10]
 **Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida.
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
 
-Link: https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/
+Link: https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/
 
-### 11. One Maine community's fight to save a birthing center [8/10]
+### 11. “There’s Joy in It, and There’s Also Sorrow”: Dave Porter on Scoring Pluribus [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+Reactor interviewed composer Dave Porter about his work creating that eerie, ethereal main title theme, and more. The post “There’s Joy in It, and There’s Also Sorrow”: Dave Porter on Scoring Pluribus appeared first on Reactor .
+
+Link: https://reactormag.com/theres-joy-in-it-and-theres-also-sorrow-dave-porter-on-scoring-pluribus/
+
+### 12. One Maine community's fight to save a birthing center [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -132,7 +141,7 @@ In mid-coast Maine a grassroots coalition is fighting to prevent the proposed cl
 
 Link: https://www.npr.org/2026/08/04/nx-s1-5910852/maine-birthing-center-fight
 
-### 12. Microsoft Tells Engineers ‘Tokenmaxxing Is Not What We Are Optimizing For’ [8/10]
+### 13. Microsoft Tells Engineers ‘Tokenmaxxing Is Not What We Are Optimizing For’ [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -140,15 +149,6 @@ Link: https://www.npr.org/2026/08/04/nx-s1-5910852/maine-birthing-center-fight
 Microsoft is introducing budget limits for AI use but says it still wants to be an ‘AI-first’ company.
 
 Link: https://www.404media.co/microsoft-tells-engineers-tokenmaxxing-is-not-what-we-are-optimizing-for/
-
-### 13. Read an Excerpt From Back for Blood: Never Whistle at Night Part II, edited by Shane Hawk and Theodore C. Van Alst Jr. [7/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-As any savvy horror fan knows: the monster never truly dies. The post Read an Excerpt From Back for Blood: Never Whistle at Night Part II , edited by Shane Hawk and Theodore C. Van Alst Jr. appeared first on Reactor .
-
-Link: https://reactormag.com/excerpts-back-for-blood-never-whistle-at-night-part-ii-edited-by-shane-hawk-and-theodore-c-van-alst-jr/
 
 ## YouTube
 
@@ -197,9 +197,18 @@ WIRED tasks Matt Damon (Odysseus), Anne Hathaway (Penelope), Tom Holland (Telema
 
 Link: https://www.youtube.com/watch?v=cgETi2iM9c0
 
-### Senate Democrats say banks failed to report Epstein [8/10]
+### 1 in 4 babies in this Pakistani settlement are born prematurely [8/10]
 **Creator:** NPR  
 **Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+About 1 in 4 babies in the Pakistani fishing settlement of Rehri Goth are born prematurely. Researchers are trying to figure out how to bring the numbers down. Read the full story at https://www.npr.
+
+Link: https://www.youtube.com/watch?v=ds_dLpLZAGI
+
+### Senate Democrats say banks failed to report Epstein [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Senate Democrats have released a report suggesting that big banks had concerns for years about money moves made by accused sex trafficker Jeffrey Epstein — and the banks are accused of keeping those worries to themselves until after…
@@ -251,15 +260,6 @@ A stage version of Prince’s Oscar-winning film and Grammy-winning album, "Purp
 
 Link: https://www.youtube.com/watch?v=_2X0uatZ4gY
 
-### Israeli paraglider helping Jerusalem's swifts adopt to modern life [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-Swifts have nested in Jerusalem’s Western Wall since it was built over 2,000 years ago. But that ancient site is now surrounded by a modern city. And the birds are finding help adapting from an unexpected source: an Israeli paraglider.
-
-Link: https://www.youtube.com/watch?v=GGXObCFYpS0
-
 ### Splatoon Raiders Tested - And There's A Lot Of Good Stuff Here [8/10]
 **Creator:** Digital Foundry  
 **Verdict:** Worth watching  
@@ -305,9 +305,9 @@ Link: https://www.youtube.com/watch?v=5r4q7AmJg3E
 
 Link: https://www.youtube.com/watch?v=SfxpQ3Z69aQ
 
-### Checking Out Big Walk, the New Game From the Untitled Goose Game Devs [9/10]
+### Checking Out Big Walk, the New Game From the Untitled Goose Game Devs [8/10]
 **Creator:** Second Wind  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
@@ -433,6 +433,15 @@ to finding true love on the least romantic night of the year 🥂 ______________
 
 Link: https://www.youtube.com/watch?v=70X8u8LGYA8
 
+### INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K) [10/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21." Follow us on social: https://www.instagram.com/InsidiousMovie https://twitter.
+
+Link: https://www.youtube.com/watch?v=gXjurDkYnEM
+
 ### RAMAYANA - Official Trailer [9/10]
 **Source:** Sony Pictures Entertainment  
 **Verdict:** Looks promising  
@@ -532,6 +541,15 @@ Your mommy won’t save you. Other Mommy only in theaters October 9. /// GET IN 
 
 Link: https://www.youtube.com/watch?v=pPxrX9ukWBY
 
+### Tyler Perry’s Beauty in Black: Season 3 | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Your favorite obsession is back, and there’s a new power couple in town. Season 3 of Tyler Perry’s Beauty in Black comes to Netflix August 27th. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=LK9Jl5Esyz4
+
 ### Let’s Marry Harry | Sneak Peek | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -621,15 +639,6 @@ Link: https://www.youtube.com/watch?v=ZEK-j7OpIpI
 Her fresh start is just getting started. Leanne Season 2 premieres Aug 27, only on Netflix! Leanne's (Leanne Morgan) world is turned upside down when her husband of 33 years unexpectedly leaves her for another woman.
 
 Link: https://www.youtube.com/watch?v=H6RXVb_J5J4
-
-### Here the Whole Time launches globally on Netflix on August 19th [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Meet Felipe and Caio! Adapted from the best-selling book by Vitor Martins, the Brazilian film Here the Whole Time launches globally on Netflix on August 19th. 💜🏳️‍🌈 #HereTheWholeTime Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=9pdib0LKCCY
 
 ### Silo — The Cast of Silo Responds to Fan Theories | Apple TV [10/10]
 **Source:** Apple TV  
