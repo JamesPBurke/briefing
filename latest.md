@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-06T09:01:00.730113Z
+Generated: 2026-08-06T14:00:03.663235Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are How to Feed a Dictator review – what was on the menu for some of the world’s most evil men, Summer on the Baltic: a laidback coastal adventure in Lithuania, and Anthropic’s AI used fake identities, malware in rogue attack on GitHub project.
+Today's sweep leans toward AI / computing, Games / criticism, Democracy / press freedom. The strongest items in this run are Beyond bodycams: Wisconsin killing reopens debate about police accountability, GTA VI is getting an ‘extended look’ at the end of August, and We're getting an "extended look" at Grand Theft Auto 6 on 27th August.
 
 ## Briefing
 
@@ -33,52 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. How to Feed a Dictator review – what was on the menu for some of the world’s most evil men [10/10]
+### 1. Beyond bodycams: Wisconsin killing reopens debate about police accountability [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Community organizers demand systemic changes after police killed Corey Ruiz, a 38-year-old Black man, in Madison After bystander footage of police killing Corey Ruiz – a 38-year-old Black man in Madison, Wisconsin – spread online, many…
+
+Link: https://www.theguardian.com/us-news/2026/aug/06/wisconsin-police-killing-corey-ruiz
+
+### 2. GTA VI is getting an ‘extended look’ at the end of August [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+We'll be getting an in-depth preview of Grand Theft Auto VI very soon: Rockstar announced this morning that it will be airing an "extended look" at the game on August 27th.
+
+Link: https://www.theverge.com/entertainment/976073/gta-6-trailer-3-date-time-netflix-youtube
+
+### 3. We're getting an "extended look" at Grand Theft Auto 6 on 27th August [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Rockstar Games and Take Two have announced that an "extended look" trailer for Grand Theft Auto 6 will premiere first on Netflix on Thursday, the 27th August, at 3pm ET (8pm BST). Read more
+
+Link: https://www.eurogamer.net/gta-6-extended-look-trailer-netflix-announcement
+
+### 4. The Download: Google’s AI shake-up and Meta’s rogue model [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed.
+
+Link: https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/
+
+### 5. Roblox causes Wall Street value estimators to cry themselves a $9 billion puddle, as a result of pushing less kids towards aggressively monetised viral games [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Wall Street moneyfolk are not having a good time. They're openly weeping into their expensive suit sleeves and not even a thousand pictures of lines going up can reassure them. They're sad about Roblox .
+
+Link: https://www.rockpapershotgun.com/roblox-causes-wall-street-value-estimators-to-cry-themselves-a-9-billion-puddle-as-a-result-of-pushing-less-kids-towards-aggressively-monetised-viral-games
+
+### 6. Most Americans view rising living costs as biggest barrier to a better life, survey finds [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Andrew Neel’s documentary contrasts the lavish dishes eaten by heads of repressive states – served by largely unrepentant staff – with the starvation faced by their citizens There are moments in this sly documentary that evoke regular food…
+When asked to detail what would make a better life in three to five years, 60% of US adults said greater financial security Americans may seem increasingly divided on beliefs and values, but in a new survey of more than 30,000 adults from…
 
-Link: https://www.theguardian.com/film/2026/aug/06/how-to-feed-a-dictator-review-what-was-on-the-menu-for-some-of-the-worlds-most-evil-men
+Link: https://www.theguardian.com/business/2026/aug/06/americans-rising-cost-of-living-survey
 
-### 2. Summer on the Baltic: a laidback coastal adventure in Lithuania [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 7. Opinion: Accountability Works. Outcomes-Based Contracting Makes It Work Better [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-With great beaches, culture and nature, the resort town of Palanga and the wild Curonian Spit offer an affordable – and cooler – alternative to the Med The water off Palanga’s sandy white beach is tinged pale green – the colour of the…
+As John Adams observed, “facts are stubborn things.
 
-Link: https://www.theguardian.com/travel/2026/aug/06/summer-holiday-lithuania-beach-baltic-coast
+Link: https://www.the74million.org/article/accountability-works-outcomes-based-contracting-makes-it-work-better/
 
-### 3. Anthropic’s AI used fake identities, malware in rogue attack on GitHub project [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 8. OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’ [10/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.
+OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as "meritless.
 
-Link: https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/
+Link: https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request
 
-### 4. Republican who withdrew last month beats Trump-backed rival in Michigan [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 9. Trump administration moves to deregulate Head Start, opening door for sweeping change [9/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Thomas Smith, whose name remained on ballot, beats Republican rivals in primary contest for eighth district Thomas Smith withdrew from the Republican primary contest for Michigan ’s eighth district last month.
+It would slim regulation of the 60-year-old anti-poverty program and aim to save money. Advocates worry the changes could undermine the early education program's mission.
 
-Link: https://www.theguardian.com/us-news/2026/aug/05/republican-trump-rival-michigan-primary
+Link: https://www.npr.org/2026/08/06/nx-s1-5920386/head-start-regulations-trump
 
-### 5. Trump immigration crackdown ensnares families of US troops [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-An AP investigation found dozens of active-duty troops’ parents and spouses detained despite protections The Trump administration has detained dozens of parents and spouses of active-duty US troops as it rolls back immigration protections…
-
-Link: https://www.theguardian.com/us-news/2026/aug/05/trump-immigration-crackdown-troops
-
-### 6. Thousands of servers can be backdoored by exploiting buggy motherboard controllers [9/10]
+### 10. Thousands of servers can be backdoored by exploiting buggy motherboard controllers [9/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -87,43 +123,16 @@ Baseboard management controllers from the world's biggest manufacturers are a se
 
 Link: https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/
 
-### 7. Trump team pushes to block court order giving BBC access to financial records [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 11. Hospital staff said he was faking it and released him. He died from an overdose soon after [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-President has sued the broadcaster for $10bn, claiming a documentary on 2021 Capitol attack led to financial harm Donald Trump’s legal team is making an 11th-hour attempt to block a court order that would grant the BBC access to the…
+Addiction treatments are safe, effective — and rarely offered to patients. That's because many doctors and nurses still view people with alcohol or drug addiction with suspicion and hostility.
 
-Link: https://www.theguardian.com/us-news/2026/aug/05/trump-bbc-lawsuit-financial-records
+Link: https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths
 
-### 8. Maryland Gov. Offers Late Admission, $800 Credit to Disenrolled Howard Students [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Maryland Gov.
-
-Link: https://www.the74million.org/article/moore-offers-late-admission-credit-for-students-impacted-by-howard-university/
-
-### 9. Even after 200 hours, Marathon's greatest secret is still deciphering the rhythms of rival players [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-There’s a whole phase to the game of Marathon that occurs right when you might assume it’s over.
-
-Link: https://www.rockpapershotgun.com/even-after-200-hours-marathons-greatest-secret-is-still-deciphering-the-rhythms-of-rival-players
-
-### 10. Opinion: As the Education Department Is Dismantled, Who Protects the Right to Learn? [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-A first grader reads an entire page on her own after months of specialized instruction. A middle school student with autism delivers his first classroom presentation. These moments are not medical breakthroughs, they are educational ones.
-
-Link: https://www.the74million.org/article/as-the-education-department-is-dismantled-who-protects-the-right-to-learn/
-
-### 11. Before Backrooms and Obsession, Lights Out Was the YouTube Horror Game Changer [8/10]
+### 12. Before Backrooms and Obsession, Lights Out Was the YouTube Horror Game Changer [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -132,7 +141,7 @@ David F. Sandberg turned his scary online short into a blockbuster a decade befo
 
 Link: https://reactormag.com/before-backrooms-and-obsession-lights-out-was-the-youtube-horror-game-changer/
 
-### 12. Podcast: This Man Might Go to Prison for Wiping His Phone [8/10]
+### 13. Podcast: This Man Might Go to Prison for Wiping His Phone [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -141,34 +150,16 @@ The case of Samuel Tunick allegedly wiping a phone before DHS could search it; i
 
 Link: https://www.404media.co/podcast-this-man-might-go-to-prison-for-wiping-his-phone/
 
-### 13. Most U.S. doctors avoid treating patients with addiction, leaving millions vulnerable [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Despite a deadly public health crisis, most U.S. doctors, nurses and other health workers turn away many patients with alcohol and drug addiction without offering them science-based medications.
-
-Link: https://www.npr.org/2026/08/06/nx-s1-5918040/most-u-s-doctors-avoid-treating-patients-with-addiction-leaving-millions-vulnerable
-
 ## YouTube
 
-### The Billion Dollar AI Race Just Broke [8/10]
+### The Billion Dollar AI Race Just Broke [7/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Qwen 3.8 Max: https://qwen.ai/blog?id=qwen3.8 Sources: https://x.com/loktar00/status/2082589566934929750 https://x.
 
 Link: https://www.youtube.com/watch?v=ppQh4Tc9BmM
-
-### Another DeepSeek Moment Has Arrived [7/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek v4 Flash 0731: https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 DeepSeek API: https://platform.deepseek.
-
-Link: https://www.youtube.com/watch?v=bm1BjOjS7sQ
 
 ### Yes, Physics Says You Can Run Through a Wall [7/10]
 **Creator:** WIRED  
@@ -314,9 +305,9 @@ Link: https://www.youtube.com/watch?v=4GcRfAPbgdc
 
 Link: https://www.youtube.com/watch?v=azW87lRZnao
 
-### Yahtzee Tries... Dodo Duckie and Feed the Pit [7/10]
+### Yahtzee Tries... Dodo Duckie and Feed the Pit [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Yahtzee Tries... Yahtzee and Jesse G try out Dodo Duckie and Feed the Pit. https://store.steampowered.com/app/3358170/Dodo_Duckie https://store.steampowered.
@@ -328,7 +319,7 @@ Link: https://www.youtube.com/watch?v=0afern8PwBc
 **Verdict:** Watch it  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-This week on Fully Ramblomatic, Yahtzee reviewed Splatoon Raiders. Check out our new Post Ramblomatic podcast, where Yahtzee goes deeper on each game he reviews alongside another member of Second Wind -- https://www.patreon.
+If you want to hear Yahtzee dig a bit deeper into the games he reviews every week in a more casual format, listen to the Post-Ramblomatic podcast on Patreon -- https://www.patreon.
 
 Link: https://www.youtube.com/watch?v=dX53gOlkYOM
 
@@ -496,6 +487,15 @@ It's about to be a Brand New Day. Get tickets now. #SpiderManBrandNewDay is in t
 
 Link: https://www.youtube.com/watch?v=P3uI5sLosKU
 
+### Primetime | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Inspired by true events. Only in theaters September 25.
+
+Link: https://www.youtube.com/watch?v=5fHXyqQOKL8
+
 ### Onslaught | Official Trailer 2 HD | A24 [8/10]
 **Source:** A24  
 **Verdict:** Looks promising  
@@ -567,6 +567,15 @@ Link: https://www.youtube.com/watch?v=bHehvziDKBI
 Your mommy won’t save you. Other Mommy only in theaters October 9. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
 
 Link: https://www.youtube.com/watch?v=pPxrX9ukWBY
+
+### Grand Theft Auto VI: An Extended Look [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Grand Theft Auto VI: An Extended Look. Coming to Netflix Thursday, August 27 at 12PM PT | 3PM ET. https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=w5gez0OPGg8
 
 ### Love Is Blind: UK: Season 3 | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
@@ -657,15 +666,6 @@ Link: https://www.youtube.com/watch?v=oX1M-RVEDgw
 Our favorite Pogues are gathering around the bonfire one. last. time. 🤙 ☀️ Outer Banks: The Official Podcast is coming to Netflix August 20. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=XJVCho_V8j8
-
-### Storm On Sesame Street, a new special, is coming to Netflix and PBS KIDS on Monday, August 3. [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Kindness shines through even on the stormiest days ️🌦️ #StormOnSesameStreet, a new special, is coming to @Netflix and @PBSKIDS on Monday, August 3. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=vBMdrK69iKo
 
 ### Silo — The Cast of Silo Responds to Fan Theories | Apple TV [10/10]
 **Source:** Apple TV  

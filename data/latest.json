@@ -1,60 +1,100 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-06T09:01:00.730113Z",
-  "generatedAtDisplay": "2026-08-06 05:01 AM EDT",
+  "generatedAt": "2026-08-06T14:00:03.663235Z",
+  "generatedAtDisplay": "2026-08-06 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are How to Feed a Dictator review – what was on the menu for some of the world’s most evil men, Summer on the Baltic: a laidback coastal adventure in Lithuania, and Anthropic’s AI used fake identities, malware in rogue attack on GitHub project.",
+  "summary": "Today's sweep leans toward AI / computing, Games / criticism, Democracy / press freedom. The strongest items in this run are Beyond bodycams: Wisconsin killing reopens debate about police accountability, GTA VI is getting an ‘extended look’ at the end of August, and We're getting an \"extended look\" at Grand Theft Auto 6 on 27th August.",
   "mainItems": [
     {
-      "title": "How to Feed a Dictator review – what was on the menu for some of the world’s most evil men",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/film/2026/aug/06/how-to-feed-a-dictator-review-what-was-on-the-menu-for-some-of-the-worlds-most-evil-men",
-      "published": "2026-08-06T06:00:40+00:00",
-      "summary": "Andrew Neel’s documentary contrasts the lavish dishes eaten by heads of repressive states – served by largely unrepentant staff – with the starvation faced by their citizens There are moments in this sly documentary that evoke regular food…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Summer on the Baltic: a laidback coastal adventure in Lithuania",
+      "title": "Beyond bodycams: Wisconsin killing reopens debate about police accountability",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/travel/2026/aug/06/summer-holiday-lithuania-beach-baltic-coast",
-      "published": "2026-08-06T06:00:40+00:00",
-      "summary": "With great beaches, culture and nature, the resort town of Palanga and the wild Curonian Spit offer an affordable – and cooler – alternative to the Med The water off Palanga’s sandy white beach is tinged pale green – the colour of the…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/06/wisconsin-police-killing-corey-ruiz",
+      "published": "2026-08-06T13:00:48+00:00",
+      "summary": "Community organizers demand systemic changes after police killed Corey Ruiz, a 38-year-old Black man, in Madison After bystander footage of police killing Corey Ruiz – a 38-year-old Black man in Madison, Wisconsin – spread online, many…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-      "source": "Ars Technica",
+      "title": "GTA VI is getting an ‘extended look’ at the end of August",
+      "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-      "published": "2026-08-05T20:47:11+00:00",
-      "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
+      "url": "https://www.theverge.com/entertainment/976073/gta-6-trailer-3-date-time-netflix-youtube",
+      "published": "2026-08-06T12:17:56+00:00",
+      "summary": "We'll be getting an in-depth preview of Grand Theft Auto VI very soon: Rockstar announced this morning that it will be airing an \"extended look\" at the game on August 27th.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Republican who withdrew last month beats Trump-backed rival in Michigan",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/05/republican-trump-rival-michigan-primary",
-      "published": "2026-08-05T20:11:43+00:00",
-      "summary": "Thomas Smith, whose name remained on ballot, beats Republican rivals in primary contest for eighth district Thomas Smith withdrew from the Republican primary contest for Michigan ’s eighth district last month.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "We're getting an \"extended look\" at Grand Theft Auto 6 on 27th August",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/gta-6-extended-look-trailer-netflix-announcement",
+      "published": "2026-08-06T12:13:50+00:00",
+      "summary": "Rockstar Games and Take Two have announced that an \"extended look\" trailer for Grand Theft Auto 6 will premiere first on Netflix on Thursday, the 27th August, at 3pm ET (8pm BST). Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Trump immigration crackdown ensnares families of US troops",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/05/trump-immigration-crackdown-troops",
-      "published": "2026-08-05T20:00:28+00:00",
-      "summary": "An AP investigation found dozens of active-duty troops’ parents and spouses detained despite protections The Trump administration has detained dozens of parents and spouses of active-duty US troops as it rolls back immigration protections…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "published": "2026-08-06T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
+    },
+    {
+      "title": "Roblox causes Wall Street value estimators to cry themselves a $9 billion puddle, as a result of pushing less kids towards aggressively monetised viral games",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/roblox-causes-wall-street-value-estimators-to-cry-themselves-a-9-billion-puddle-as-a-result-of-pushing-less-kids-towards-aggressively-monetised-viral-games",
+      "published": "2026-08-06T12:08:13+00:00",
+      "summary": "Wall Street moneyfolk are not having a good time. They're openly weeping into their expensive suit sleeves and not even a thousand pictures of lines going up can reassure them. They're sad about Roblox .",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Most Americans view rising living costs as biggest barrier to a better life, survey finds",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/business/2026/aug/06/americans-rising-cost-of-living-survey",
+      "published": "2026-08-06T11:00:50+00:00",
+      "summary": "When asked to detail what would make a better life in three to five years, 60% of US adults said greater financial security Americans may seem increasingly divided on beliefs and values, but in a new survey of more than 30,000 adults from…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Accountability Works. Outcomes-Based Contracting Makes It Work Better",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/accountability-works-outcomes-based-contracting-makes-it-work-better/",
+      "published": "2026-08-06T10:30:00+00:00",
+      "summary": "As John Adams observed, “facts are stubborn things.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+      "source": "The Verge",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+      "published": "2026-08-06T09:33:11+00:00",
+      "summary": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Trump administration moves to deregulate Head Start, opening door for sweeping change",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5920386/head-start-regulations-trump",
+      "published": "2026-08-06T13:30:00+00:00",
+      "summary": "It would slim regulation of the 60-year-old anti-poverty program and aim to save money. Advocates worry the changes could undermine the early education program's mission.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
     },
     {
       "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
@@ -67,44 +107,14 @@
       "score": 9
     },
     {
-      "title": "Trump team pushes to block court order giving BBC access to financial records",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/aug/05/trump-bbc-lawsuit-financial-records",
-      "published": "2026-08-05T21:12:07+00:00",
-      "summary": "President has sued the broadcaster for $10bn, claiming a documentary on 2021 Capitol attack led to financial harm Donald Trump’s legal team is making an 11th-hour attempt to block a court order that would grant the BBC access to the…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "Maryland Gov. Offers Late Admission, $800 Credit to Disenrolled Howard Students",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/moore-offers-late-admission-credit-for-students-impacted-by-howard-university/",
-      "published": "2026-08-05T18:30:00+00:00",
-      "summary": "Maryland Gov.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Even after 200 hours, Marathon's greatest secret is still deciphering the rhythms of rival players",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/even-after-200-hours-marathons-greatest-secret-is-still-deciphering-the-rhythms-of-rival-players",
-      "published": "2026-08-05T15:39:07+00:00",
-      "summary": "There’s a whole phase to the game of Marathon that occurs right when you might assume it’s over.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Opinion: As the Education Department Is Dismantled, Who Protects the Right to Learn?",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/as-the-education-department-is-dismantled-who-protects-the-right-to-learn/",
-      "published": "2026-08-05T12:30:00+00:00",
-      "summary": "A first grader reads an entire page on her own after months of specialized instruction. A middle school student with autism delivers his first classroom presentation. These moments are not medical breakthroughs, they are educational ones.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
+      "title": "Hospital staff said he was faking it and released him. He died from an overdose soon after",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths",
+      "published": "2026-08-06T09:52:45+00:00",
+      "summary": "Addiction treatments are safe, effective — and rarely offered to patients. That's because many doctors and nurses still view people with alcohol or drug addiction with suspicion and hostility.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "Before Backrooms and Obsession, Lights Out Was the YouTube Horror Game Changer",
@@ -125,16 +135,6 @@
       "summary": "The case of Samuel Tunick allegedly wiping a phone before DHS could search it; inside an AI-powered TIkTok Shop; and Google Earth's dumb AI tool.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
-    },
-    {
-      "title": "Most U.S. doctors avoid treating patients with addiction, leaving millions vulnerable",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/06/nx-s1-5918040/most-u-s-doctors-avoid-treating-patients-with-addiction-leaving-millions-vulnerable",
-      "published": "2026-08-06T08:39:55+00:00",
-      "summary": "Despite a deadly public health crisis, most U.S. doctors, nurses and other health workers turn away many patients with alcohol and drug addiction without offering them science-based medications.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     }
   ],
   "youtube": [
@@ -145,17 +145,6 @@
       "url": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
       "published": "2026-08-05T13:54:29+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Qwen 3.8 Max: https://qwen.ai/blog?id=qwen3.8 Sources: https://x.com/loktar00/status/2082589566934929750 https://x.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
-    {
-      "title": "Another DeepSeek Moment Has Arrived",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
-      "published": "2026-08-03T09:47:34+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek v4 Flash 0731: https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 DeepSeek API: https://platform.deepseek.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
@@ -344,8 +333,8 @@
       "published": "2026-08-05T22:10:20+00:00",
       "summary": "This week on Yahtzee Tries... Yahtzee and Jesse G try out Dodo Duckie and Feed the Pit. https://store.steampowered.com/app/3358170/Dodo_Duckie https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Splatoon Raiders | Fully Ramblomatic",
@@ -353,7 +342,7 @@
       "category": "Games / criticism",
       "url": "https://www.youtube.com/watch?v=dX53gOlkYOM",
       "published": "2026-08-05T15:59:07+00:00",
-      "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Splatoon Raiders. Check out our new Post Ramblomatic podcast, where Yahtzee goes deeper on each game he reviews alongside another member of Second Wind -- https://www.patreon.",
+      "summary": "If you want to hear Yahtzee dig a bit deeper into the games he reviews every week in a more casual format, listen to the Post-Ramblomatic podcast on Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9,
       "verdict": "Watch it"
@@ -526,6 +515,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Primetime | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=5fHXyqQOKL8",
+      "published": "2026-08-06T13:00:36+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Inspired by true events. Only in theaters September 25.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Onslaught | Official Trailer 2 HD | A24",
       "source": "A24",
       "category": "Film / trailer",
@@ -611,6 +611,17 @@
       "summary": "Your mommy won’t save you. Other Mommy only in theaters October 9. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Grand Theft Auto VI: An Extended Look",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=w5gez0OPGg8",
+      "published": "2026-08-06T12:30:00+00:00",
+      "summary": "Grand Theft Auto VI: An Extended Look. Coming to Netflix Thursday, August 27 at 12PM PT | 3PM ET. https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -721,17 +732,6 @@
       "summary": "Our favorite Pogues are gathering around the bonfire one. last. time. 🤙 ☀️ Outer Banks: The Official Podcast is coming to Netflix August 20. Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Storm On Sesame Street, a new special, is coming to Netflix and PBS KIDS on Monday, August 3.",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=vBMdrK69iKo",
-      "published": "2026-07-30T17:00:00+00:00",
-      "summary": "Kindness shines through even on the stormiest days ️🌦️ #StormOnSesameStreet, a new special, is coming to @Netflix and @PBSKIDS on Monday, August 3. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -901,8 +901,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 26,
-    "trailerCount": 33,
-    "sourceCount": 20
+    "youtubeCount": 25,
+    "trailerCount": 34,
+    "sourceCount": 24
   }
 }
