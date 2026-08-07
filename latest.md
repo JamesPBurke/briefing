@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-07T09:00:59.448569Z
+Generated: 2026-08-07T14:00:02.918719Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Thailand school shooting: teen suspect shot grandparents before killing several others, police say – latest updates, Blinded by War: documenting the aftermath of injury in Ukraine – photo essay, and Court orders Instagram and Facebook's Meta to pay $567M to address kids' mental health online.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are As GTA 6 publisher Take-Two revises its 2027 net bookings up to $8.2bn, Strauss Zelnick confirms its sales are "well over 90% digital", ByteDance trains massive AI model in bid to rival Anthropic, and "Ideas like this usually just die": Inside generative AI’s effect on modding, and how host sites struggle to maintain transparency.
 
 ## Briefing
 
@@ -33,88 +33,97 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Thailand school shooting: teen suspect shot grandparents before killing several others, police say – latest updates [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Suspect among dead after shooting at a school in the Nonthaburi province Journalists from the Agence France-Presse (AFP) news agency have been speaking to people outside the Debsirin School on the outskirts of Bangkok following the deadly…
-
-Link: https://www.theguardian.com/world/live/2026/aug/07/thailand-school-shooting-gun-teen-suspect-grandparents-killed-latest-news-updates
-
-### 2. Blinded by War: documenting the aftermath of injury in Ukraine – photo essay [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Since 2025, Paula Bronstein has been photographing wounded Ukrainian servicemen as they learn to live with the loss of sight, hearing and limbs For more than four decades, the US photojournalist Paula Bronstein has travelled to places…
-
-Link: https://www.theguardian.com/artanddesign/2026/aug/07/blinded-by-war-documenting-the-aftermath-of-injury-in-ukraine-photo-essay
-
-### 3. Court orders Instagram and Facebook's Meta to pay $567M to address kids' mental health online [10/10]
-**Source:** NPR Tech  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Judge Bryan Biedscheid said in a ruling late Thursday that the bulk of the money will be used for treatment services for young people.
-
-Link: https://www.npr.org/2026/08/07/nx-s1-5924581/court-orders-instagram-and-facebooks-meta-to-pay-567m-to-address-kids-mental-health-online
-
-### 4. Anthropic will design its own hardware to power Claude [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.
-
-Link: https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/
-
-### 5. "There's a huge amount to be learned" - how the pioneering years of gaming are being preserved for a new generation in a corner of south London [9/10]
+### 1. As GTA 6 publisher Take-Two revises its 2027 net bookings up to $8.2bn, Strauss Zelnick confirms its sales are "well over 90% digital" [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Wander the winding track to London's Kingston University over the next week and you'll find a little pocket of gaming history awaiting there.
+Take-Two's latest financials are in, and they come with a few surprises.
 
-Link: https://www.eurogamer.net/archive-of-retro-computing-showcase-2026-south-london-preview
+Link: https://www.eurogamer.net/take-two-stock-digital-gta6-physical
 
-### 6. Feast Q&A: ask Guardian food writer Felicity Cloake anything [9/10]
+### 2. ByteDance trains massive AI model in bid to rival Anthropic [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+TikTok owner training a model with 10 trillion parameters.
+
+Link: https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/
+
+### 3. "Ideas like this usually just die": Inside generative AI’s effect on modding, and how host sites struggle to maintain transparency [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+I’ve been scrolling through Nexus Mods near enough every weekday morning for three or four years now.
+
+Link: https://www.rockpapershotgun.com/ideas-like-this-usually-just-die-inside-generative-ais-effect-on-modding-and-how-host-sites-struggle-to-maintain-transparency
+
+### 4. The White House’s plan to vet potentially dangerous AI is cloaked in secrecy [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Felicity Cloake is the writer of the Guardian’s How to cook the perfect … and Masterclass cookery columns. If you’ve eaten it … she’s cooked it. Discuss her work or ask her a question below the line now.
+A Trump administration framework on AI testing leaves a lack of transparency – and plenty of open questions After months of talking with tech industry leaders, the Trump administration finalized a framework this week for how it will test…
 
-Link: https://www.theguardian.com/community/live/2026/aug/07/feast-qa-ask-guardian-food-writer-felicity-cloake-anything
+Link: https://www.theguardian.com/technology/2026/aug/07/white-house-ai
 
-### 7. New Mexico court orders Meta to pay $567m over harms to children’s mental health [9/10]
+### 5. ‘It didn’t need to end this way’: mother of US teen trafficked and killed decries police failures [10/10]
 **Source:** The Guardian US  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Ruling comes as part of second phase of landmark trial that found social media company enabled harm against users A New Mexico court has ordered Meta, the parent company of Facebook, to pay $567m into a fund aimed at redressing adverse…
+Robyn Cory says daughter Kristen was not protected, amid questions about why it took six years to identify remains The family of Kristen Galvan, a 15-year-old Houston girl who was sex trafficked and murdered, says law enforcement failed…
 
-Link: https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta
+Link: https://www.theguardian.com/us-news/2026/aug/07/kristen-galvan-houston-family
 
-### 8. Judge approves $106m settlement over deadly 2019 Hard Rock Hotel collapse [9/10]
+### 6. Sony appears to be putting labels on PS5 console boxes to warn people it's ending disc production [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+In case it was ever in doubt, it seems Sony is not backing down from its controversial decision to stop manufacturing physical disc-based games .
+
+Link: https://www.eurogamer.net/ps5-boxes-labels-physical-media-2028
+
+### 7. The amateur archivists racing to save US history in national parks against Trump administration censorship [10/10]
 **Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Settlement ends years-long legal battle over collapse of 18-story hotel that was under construction in New Orleans A judge approved a $106m settlement on Thursday that ends a years-long legal battle over the deadly 2019 collapse of a Hard…
+Save Our Signs aims to document every sign in the more than 400 national parks and historic sites across the country before the Trump administration removes them Jenny McBurney was among hundreds of people around the world who sprang into…
 
-Link: https://www.theguardian.com/us-news/2026/aug/06/hard-rock-hotel-collapse-settlement
+Link: https://www.theguardian.com/us-news/ng-interactive/2026/aug/07/national-park-trump-administration-censorship
 
-### 9. Teachers Have Some Big Wins in This Year’s California Budget. Here Are Their Victories [9/10]
+### 8. With their assault on science, Trumpists aren’t just harming America – they’re harming themselves | Jan-Werner Müller [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+The administration is subjugating science to political imperatives, a major blow to US soft power and technological progress The Trump administration is waging an unprecedented war on institutions devoted to research and higher learning.
+
+Link: https://www.theguardian.com/commentisfree/2026/aug/07/trump-scientific-research-universities
+
+### 9. Opinion: Making School Lunches Healthy Is Great – If Kids Will Eat What’s on the Tray [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-California teachers had some big wins in this year’s state budget, including about $700 million for stipends and training, and $218 million to support paid pregnancy leave.
+Shortly after being named America’s unhealthiest city in 2009, Huntington, West Virginia, gained national attention when British celebrity chef Jamie Oliver arrived to film the first season of his reality TV series Food Revolution.
 
-Link: https://www.the74million.org/article/teachers-have-some-big-wins-in-this-years-california-budget-here-are-their-victories/
+Link: https://www.the74million.org/article/making-school-lunches-healthy-is-great-if-kids-will-eat-whats-on-the-tray/
 
-### 10. The Grain Gathering 2026: What a Home Baker Brings Back from the Breadlab [8/10]
+### 10. Everyone's talking about hormone therapy for menopause. Should I be on it? [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+For years, doctors advised against hormone therapy for women in the menopausal transition. Now everyone's talking about how great it is. Is it really a wonder drug that women should all be on?
+
+Link: https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart
+
+### 11. The Grain Gathering 2026: What a Home Baker Brings Back from the Breadlab [8/10]
 **Source:** The Perfect Loaf  
 **Category:** Bread / food craft  
 **Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
@@ -123,7 +132,7 @@ Notes from the back of the bread truck.
 
 Link: https://www.theperfectloaf.com/the-grain-gathering-2026/
 
-### 11. Software Giant SAP Stops Most Travel and Hiring Because of AI’s Soaring Cost [8/10]
+### 12. Software Giant SAP Stops Most Travel and Hiring Because of AI’s Soaring Cost [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -132,7 +141,7 @@ SAP says it needs to “be disciplined in how we spend.” That includes still f
 
 Link: https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/
 
-### 12. Connor Storrie Just Wants His Sister Back in the Trailer for April X [8/10]
+### 13. Connor Storrie Just Wants His Sister Back in the Trailer for April X [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -141,18 +150,9 @@ In which yet another protagonist shouts, "WHERE IS SHE!?" The post Connor Storri
 
 Link: https://reactormag.com/connor-storrie-april-x-trailer/
 
-### 13. Hospital staff said he was faking it and released him. He died from an overdose soon after [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Addiction treatments are safe, effective — and rarely offered to patients. That's because many doctors and nurses still view people with alcohol or drug addiction with suspicion and hostility.
-
-Link: https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths
-
 ## YouTube
 
-### DeepMind's AI Trick Everyone Should Copy [10/10]
+### DeepMind Just Changed How AI Sees The World [10/10]
 **Creator:** Two Minute Papers  
 **Verdict:** Watch it  
 **Why it matters:** Relevant to your current interest graph.
@@ -169,6 +169,15 @@ Link: https://www.youtube.com/watch?v=vO6SWG-jxvE
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Qwen 3.8 Max: https://qwen.ai/blog?id=qwen3.8 Sources: https://x.com/loktar00/status/2082589566934929750 https://x.
 
 Link: https://www.youtube.com/watch?v=ppQh4Tc9BmM
+
+### GRWM (Ancient Egypt Edition) [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Egyptologist Professor Laurel Bestock as we fact check the internet, egyptology edition.
+
+Link: https://www.youtube.com/watch?v=ZH2Xiiik1R4
 
 ### What Came Before The Beginning of Time? [7/10]
 **Creator:** WIRED  
@@ -314,6 +323,15 @@ Link: https://www.youtube.com/watch?v=-HOELikHJ80
 
 Link: https://www.youtube.com/watch?v=4GcRfAPbgdc
 
+### Silly or Serious TTRPG Question? It's Your Time to Ask! | RPG Help Desk [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Ask (a silly question) and yee shall receive (a silly answer) Or ask a serious question. Kendo from Kobold Press and Jesse Galena are taking your TTRPG questions today.
+
+Link: https://www.youtube.com/watch?v=39gjUrTK2NA
+
 ### How Much Did Netflix Pay For Their Grand Theft Auto 6 Debut?! | Firelink Podcast [9/10]
 **Creator:** Second Wind  
 **Verdict:** Watch it  
@@ -322,15 +340,6 @@ Link: https://www.youtube.com/watch?v=4GcRfAPbgdc
 This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
 
 Link: https://www.youtube.com/watch?v=k8uIxXQVbbQ
-
-### Silly or Serious TTRPG Question? It's Your Time to Ask! | RPG Help Desk [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Ask (a silly question) and yee shall receive (a silly answer) Or ask a serious question. Kendo from Kobold Press and Jesse Galena are taking your TTRPG questions today.
-
-Link: https://www.youtube.com/watch?v=39gjUrTK2NA
 
 ### Dark Souls 1 Randomizer Chaos Begins w/ Jack and Jess -- Part 1 [8/10]
 **Creator:** Second Wind  

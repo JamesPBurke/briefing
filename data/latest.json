@@ -1,100 +1,110 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-07T09:00:59.448569Z",
-  "generatedAtDisplay": "2026-08-07 05:00 AM EDT",
+  "generatedAt": "2026-08-07T14:00:02.918719Z",
+  "generatedAtDisplay": "2026-08-07 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / computing. The strongest items in this run are Thailand school shooting: teen suspect shot grandparents before killing several others, police say – latest updates, Blinded by War: documenting the aftermath of injury in Ukraine – photo essay, and Court orders Instagram and Facebook's Meta to pay $567M to address kids' mental health online.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are As GTA 6 publisher Take-Two revises its 2027 net bookings up to $8.2bn, Strauss Zelnick confirms its sales are \"well over 90% digital\", ByteDance trains massive AI model in bid to rival Anthropic, and \"Ideas like this usually just die\": Inside generative AI’s effect on modding, and how host sites struggle to maintain transparency.",
   "mainItems": [
     {
-      "title": "Thailand school shooting: teen suspect shot grandparents before killing several others, police say – latest updates",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/world/live/2026/aug/07/thailand-school-shooting-gun-teen-suspect-grandparents-killed-latest-news-updates",
-      "published": "2026-08-07T08:53:47+00:00",
-      "summary": "Suspect among dead after shooting at a school in the Nonthaburi province Journalists from the Agence France-Presse (AFP) news agency have been speaking to people outside the Debsirin School on the outskirts of Bangkok following the deadly…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "title": "As GTA 6 publisher Take-Two revises its 2027 net bookings up to $8.2bn, Strauss Zelnick confirms its sales are \"well over 90% digital\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/take-two-stock-digital-gta6-physical",
+      "published": "2026-08-07T13:33:56+00:00",
+      "summary": "Take-Two's latest financials are in, and they come with a few surprises.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Blinded by War: documenting the aftermath of injury in Ukraine – photo essay",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/artanddesign/2026/aug/07/blinded-by-war-documenting-the-aftermath-of-injury-in-ukraine-photo-essay",
-      "published": "2026-08-07T06:00:11+00:00",
-      "summary": "Since 2025, Paula Bronstein has been photographing wounded Ukrainian servicemen as they learn to live with the loss of sight, hearing and limbs For more than four decades, the US photojournalist Paula Bronstein has travelled to places…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Court orders Instagram and Facebook's Meta to pay $567M to address kids' mental health online",
-      "source": "NPR Tech",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5924581/court-orders-instagram-and-facebooks-meta-to-pay-567m-to-address-kids-mental-health-online",
-      "published": "2026-08-07T05:26:31+00:00",
-      "summary": "Judge Bryan Biedscheid said in a ruling late Thursday that the bulk of the money will be used for treatment services for young people.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Anthropic will design its own hardware to power Claude",
+      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
       "source": "Ars Technica",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-      "published": "2026-08-06T20:03:44+00:00",
-      "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
+      "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+      "published": "2026-08-07T13:29:22+00:00",
+      "summary": "TikTok owner training a model with 10 trillion parameters.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "\"There's a huge amount to be learned\" - how the pioneering years of gaming are being preserved for a new generation in a corner of south London",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/archive-of-retro-computing-showcase-2026-south-london-preview",
-      "published": "2026-08-07T09:00:00+00:00",
-      "summary": "Wander the winding track to London's Kingston University over the next week and you'll find a little pocket of gaming history awaiting there.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
+      "title": "\"Ideas like this usually just die\": Inside generative AI’s effect on modding, and how host sites struggle to maintain transparency",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/ideas-like-this-usually-just-die-inside-generative-ais-effect-on-modding-and-how-host-sites-struggle-to-maintain-transparency",
+      "published": "2026-08-07T13:19:46+00:00",
+      "summary": "I’ve been scrolling through Nexus Mods near enough every weekday morning for three or four years now.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
     },
     {
-      "title": "Feast Q&A: ask Guardian food writer Felicity Cloake anything",
+      "title": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/community/live/2026/aug/07/feast-qa-ask-guardian-food-writer-felicity-cloake-anything",
-      "published": "2026-08-07T08:22:50+00:00",
-      "summary": "Felicity Cloake is the writer of the Guardian’s How to cook the perfect … and Masterclass cookery columns. If you’ve eaten it … she’s cooked it. Discuss her work or ask her a question below the line now.",
+      "url": "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
+      "published": "2026-08-07T13:00:18+00:00",
+      "summary": "A Trump administration framework on AI testing leaves a lack of transparency – and plenty of open questions After months of talking with tech industry leaders, the Trump administration finalized a framework this week for how it will test…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
+      "score": 10
     },
     {
-      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "title": "‘It didn’t need to end this way’: mother of US teen trafficked and killed decries police failures",
       "source": "The Guardian US",
-      "category": "Security / computing",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "published": "2026-08-07T02:24:50+00:00",
-      "summary": "Ruling comes as part of second phase of landmark trial that found social media company enabled harm against users A New Mexico court has ordered Meta, the parent company of Facebook, to pay $567m into a fund aimed at redressing adverse…",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 9
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/kristen-galvan-houston-family",
+      "published": "2026-08-07T13:00:18+00:00",
+      "summary": "Robyn Cory says daughter Kristen was not protected, amid questions about why it took six years to identify remains The family of Kristen Galvan, a 15-year-old Houston girl who was sex trafficked and murdered, says law enforcement failed…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
     },
     {
-      "title": "Judge approves $106m settlement over deadly 2019 Hard Rock Hotel collapse",
+      "title": "Sony appears to be putting labels on PS5 console boxes to warn people it's ending disc production",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/ps5-boxes-labels-physical-media-2028",
+      "published": "2026-08-07T12:01:00+00:00",
+      "summary": "In case it was ever in doubt, it seems Sony is not backing down from its controversial decision to stop manufacturing physical disc-based games .",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The amateur archivists racing to save US history in national parks against Trump administration censorship",
       "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/aug/06/hard-rock-hotel-collapse-settlement",
-      "published": "2026-08-06T23:13:08+00:00",
-      "summary": "Settlement ends years-long legal battle over collapse of 18-story hotel that was under construction in New Orleans A judge approved a $106m settlement on Thursday that ends a years-long legal battle over the deadly 2019 collapse of a Hard…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/07/national-park-trump-administration-censorship",
+      "published": "2026-08-07T12:00:17+00:00",
+      "summary": "Save Our Signs aims to document every sign in the more than 400 national parks and historic sites across the country before the Trump administration removes them Jenny McBurney was among hundreds of people around the world who sprang into…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
     },
     {
-      "title": "Teachers Have Some Big Wins in This Year’s California Budget. Here Are Their Victories",
+      "title": "With their assault on science, Trumpists aren’t just harming America – they’re harming themselves | Jan-Werner Müller",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/07/trump-scientific-research-universities",
+      "published": "2026-08-07T10:00:14+00:00",
+      "summary": "The administration is subjugating science to political imperatives, a major blow to US soft power and technological progress The Trump administration is waging an unprecedented war on institutions devoted to research and higher learning.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Making School Lunches Healthy Is Great – If Kids Will Eat What’s on the Tray",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/teachers-have-some-big-wins-in-this-years-california-budget-here-are-their-victories/",
-      "published": "2026-08-06T14:30:00+00:00",
-      "summary": "California teachers had some big wins in this year’s state budget, including about $700 million for stipends and training, and $218 million to support paid pregnancy leave.",
+      "url": "https://www.the74million.org/article/making-school-lunches-healthy-is-great-if-kids-will-eat-whats-on-the-tray/",
+      "published": "2026-08-07T12:30:00+00:00",
+      "summary": "Shortly after being named America’s unhealthiest city in 2009, Huntington, West Virginia, gained national attention when British celebrity chef Jamie Oliver arrived to film the first season of his reality TV series Food Revolution.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
+    },
+    {
+      "title": "Everyone's talking about hormone therapy for menopause. Should I be on it?",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
+      "published": "2026-08-07T10:00:00+00:00",
+      "summary": "For years, doctors advised against hormone therapy for women in the menopausal transition. Now everyone's talking about how great it is. Is it really a wonder drug that women should all be on?",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "The Grain Gathering 2026: What a Home Baker Brings Back from the Breadlab",
@@ -125,21 +135,11 @@
       "summary": "In which yet another protagonist shouts, \"WHERE IS SHE!?\" The post Connor Storrie Just Wants His Sister Back in the Trailer for April X appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
-    },
-    {
-      "title": "Hospital staff said he was faking it and released him. He died from an overdose soon after",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths",
-      "published": "2026-08-06T09:52:45+00:00",
-      "summary": "Addiction treatments are safe, effective — and rarely offered to patients. That's because many doctors and nurses still view people with alcohol or drug addiction with suspicion and hostility.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
     }
   ],
   "youtube": [
     {
-      "title": "DeepMind's AI Trick Everyone Should Copy",
+      "title": "DeepMind Just Changed How AI Sees The World",
       "source": "Two Minute Papers",
       "category": "AI / YouTube",
       "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
@@ -159,6 +159,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "GRWM (Ancient Egypt Edition)",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=ZH2Xiiik1R4",
+      "published": "2026-08-07T13:15:02+00:00",
+      "summary": "AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Egyptologist Professor Laurel Bestock as we fact check the internet, egyptology edition.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "What Came Before The Beginning of Time?",
@@ -337,6 +348,17 @@
       "verdict": "Summary is enough"
     },
     {
+      "title": "Silly or Serious TTRPG Question? It's Your Time to Ask! | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=39gjUrTK2NA",
+      "published": "2026-08-07T10:18:27+00:00",
+      "summary": "Ask (a silly question) and yee shall receive (a silly answer) Or ask a serious question. Kendo from Kobold Press and Jesse Galena are taking your TTRPG questions today.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
       "title": "How Much Did Netflix Pay For Their Grand Theft Auto 6 Debut?! | Firelink Podcast",
       "source": "Second Wind",
       "category": "Games / criticism",
@@ -346,17 +368,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9,
       "verdict": "Watch it"
-    },
-    {
-      "title": "Silly or Serious TTRPG Question? It's Your Time to Ask! | RPG Help Desk",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=39gjUrTK2NA",
-      "published": "2026-08-06T17:56:54+00:00",
-      "summary": "Ask (a silly question) and yee shall receive (a silly answer) Or ask a serious question. Kendo from Kobold Press and Jesse Galena are taking your TTRPG questions today.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     },
     {
       "title": "Dark Souls 1 Randomizer Chaos Begins w/ Jack and Jess -- Part 1",
@@ -901,7 +912,7 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 26,
+    "youtubeCount": 27,
     "trailerCount": 33,
     "sourceCount": 22
   }
