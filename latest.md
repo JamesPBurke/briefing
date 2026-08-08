@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-08T05:00:04.568339Z
+Generated: 2026-08-08T09:00:28.536862Z
 
-Today's sweep leans toward AI / computing, Democracy / press freedom, Democracy / anti-fascism. The strongest items in this run are US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown, Remains of 56 people found decomposing at Chicago funeral home, and The gaming site sponsored by Walmart lays off its editorial staff.
+Today's sweep leans toward AI / computing, Democracy / press freedom, Games / criticism. The strongest items in this run are US accused of meddling in British politics with $500,000 grant for ‘public education’ courses, What we've been playing - "I've wanted to go to demon school for a while", and Lime bikes hurtling around the city: is this the revenge of a priced-out generation? | Andy Beckett.
 
 ## Briefing
 
@@ -33,7 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown [10/10]
+### 1. US accused of meddling in British politics with $500,000 grant for ‘public education’ courses [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Documents published on US embassy’s website prompt claims of attempt to export Maga propaganda to UK The US embassy in London is offering grants of up to half a million dollars for new “public education” programmes in what has been…
+
+Link: https://www.theguardian.com/us-news/2026/aug/08/us-accused-of-meddling-in-british-politics-with-500000-grant-scheme-promoting-shared-values
+
+### 2. What we've been playing - "I've wanted to go to demon school for a while" [10/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Connor decides on Star Lord; Bertie goes to demon school, and Kelsey goes for a big walk. Read more
+
+Link: https://www.eurogamer.net/what-weve-been-playing-ive-wanted-to-go-to-demon-school-for-a-while
+
+### 3. Lime bikes hurtling around the city: is this the revenge of a priced-out generation? | Andy Beckett [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+From running red lights to dumping bikes, some Lime users get a bad rap. But many who grumble about them don’t appreciate their own privilege The night belongs to Lime bikes in the capital this summer.
+
+Link: https://www.theguardian.com/commentisfree/2026/aug/08/cities-lime-bikes-revenge-generation-london
+
+### 4. US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -42,16 +69,7 @@ Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation�
 
 Link: https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown
 
-### 2. Remains of 56 people found decomposing at Chicago funeral home [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Officials describe ‘deplorable conditions’ at home run by pair linked to crematory closed due to mishandled remains The remains of 56 people were found improperly stored and decomposing on Thursday at a Chicago funeral home run by a couple…
-
-Link: https://www.theguardian.com/us-news/2026/aug/07/chicago-funeral-home-bodies
-
-### 3. The gaming site sponsored by Walmart lays off its editorial staff [10/10]
+### 5. The gaming site sponsored by Walmart lays off its editorial staff [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -60,16 +78,7 @@ Restart, a games media website launched in late 2024 that was sponsored by Walma
 
 Link: https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs
 
-### 4. Trump renews bid to fire Fed governor Lisa Cook despite supreme court ruling [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-White House continues to target Cook despite decision from justices that upheld Federal Reserve’s independence Donald Trump is attempting once again to oust the US Federal Reserve governor Lisa Cook over allegations of mortgage fraud,…
-
-Link: https://www.theguardian.com/business/2026/aug/07/trump-lisa-cook-fed-firing-scotus-ruling
-
-### 5. OpenAI puts the brakes on a new model because it’s supposedly too powerful [10/10]
+### 6. OpenAI puts the brakes on a new model because it’s supposedly too powerful [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -77,15 +86,6 @@ Link: https://www.theguardian.com/business/2026/aug/07/trump-lisa-cook-fed-firin
 OpenAI says it is pausing "internal activities" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place.
 
 Link: https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities
-
-### 6. Opinion: Students Are Anxious – And It’s No Surprise, Since We Teach Them to Be That Way [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Temporary anxiety can often surface before the first day of school. Sometimes, that can help kids get in the right mindset for a big day.
-
-Link: https://www.the74million.org/article/students-are-anxious-and-its-no-surprise-since-we-are-teaching-them-to-be-that-way/
 
 ### 7. New official 30th anniversary Quake mission pack adds new maps and mechanics [10/10]
 **Source:** Ars Technica  
@@ -105,23 +105,23 @@ Some of the biggest names on Google's AI team got new jobs this week. In some ca
 
 Link: https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast
 
-### 9. With their assault on science, Trumpists aren’t just harming America – they’re harming themselves | Jan-Werner Müller [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 9. Nitecore’s latest power bank is the lightest and most compact yet [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-The administration is subjugating science to political imperatives, a major blow to US soft power and technological progress The Trump administration is waging an unprecedented war on institutions devoted to research and higher learning.
+There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking, bikepacking, and trail running.
 
-Link: https://www.theguardian.com/commentisfree/2026/aug/07/trump-scientific-research-universities
+Link: https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery
 
-### 10. Space News Network is No Man's Sky but you're a roving journalist, blasting bandits while trying to keep your subscribers happy [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 10. Opinion: Students Are Anxious – And It’s No Surprise, Since We Teach Them to Be That Way [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Yet again, friends, I am escaping to the one place that hasn't been corrupted by capitalism. They have need of journalists up there, no matter what that dafty Musk might prefer.
+Temporary anxiety can often surface before the first day of school. Sometimes, that can help kids get in the right mindset for a big day.
 
-Link: https://www.rockpapershotgun.com/space-news-network-is-no-mans-sky-but-youre-a-roving-journalist-blasting-bandits-while-trying-to-keep-your-subscribers-happy
+Link: https://www.the74million.org/article/students-are-anxious-and-its-no-surprise-since-we-are-teaching-them-to-be-that-way/
 
 ### 11. Everyone's talking about hormone therapy for menopause. Should I be on it? [8/10]
 **Source:** NPR Health  
@@ -152,9 +152,9 @@ Link: https://reactormag.com/david-fincher-squid-game-remake/
 
 ## YouTube
 
-### DeepMind Just Changed How AI Sees The World [9/10]
+### DeepMind Just Changed How AI Sees The World [8/10]
 **Creator:** Two Minute Papers  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Gemma4 paper and some more is available here: https://arxiv.org/abs/2607.02770 https://x.com/googlegemma/status/2077449152062247219 https://x.
@@ -259,6 +259,105 @@ Link: https://www.youtube.com/watch?v=y-7FStrGq_A
 Ella Langley, Morgan Wallen and other country stars dominate this week’s "Billboard" charts. Langley’s country hit “Choosin’ Texas” is now just the seventh song in history to spend 16 weeks at No. 1 on the "Billboard" Hot 100.
 
 Link: https://www.youtube.com/watch?v=bFwjlPA_Mm4
+
+### What Is The "Secret Sauce" Needed To Make PS6 And Helix A Success? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/GE4L0clL2d0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=of7DA1tZqNs
+
+### Did We Get It Wrong With Halo Campaign Evolved? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/5xDUC1bRYSY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=sso4uz7H1ak
+
+### Sony's Response To The End-Of-Disc Backlash - Full Speed Ahead On An All-Digital Future [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/GE4L0clL2d0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=B8Ulxu9hc1s
+
+### Good News: Microsoft Has Improved PC's OG Xbox Emulator [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/5xDUC1bRYSY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=AN1Q7WrbN6s
+
+### This Is The Best Performing Console Gen Since 16-Bit - But What About PC? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/5xDUC1bRYSY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=qgkrO_8xK04
+
+### Silly or Serious TTRPG Question? It's Your Time to Ask! | RPG Help Desk [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Ask (a silly question) and yee shall receive (a silly answer) Or ask a serious question. Kendo from Kobold Press and Jesse Galena are taking your TTRPG questions today.
+
+Link: https://www.youtube.com/watch?v=39gjUrTK2NA
+
+### How Much Did Netflix Pay For Their Grand Theft Auto 6 Debut?! | Firelink Podcast [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
+
+Link: https://www.youtube.com/watch?v=k8uIxXQVbbQ
+
+### Dark Souls 1 Randomizer Chaos Begins w/ Jack and Jess -- Part 1 [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
+
+Link: https://www.youtube.com/watch?v=q4tPP_yigqg
+
+### Yahtzee Tries... Dodo Duckie and Feed the Pit [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Yahtzee Tries... Yahtzee and Jesse G try out Dodo Duckie and Feed the Pit. https://store.steampowered.com/app/3358170/Dodo_Duckie https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=0afern8PwBc
+
+### Madness in the Mouth | Adventure Is Nigh! - The Slow Walk Home | Ep. 7 [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Crucible, the innovative and modern tabletop role-playing game system built exclusively for Foundry Virtual Tabletop as a digital platform. – https://foundryvtt.
+
+Link: https://www.youtube.com/watch?v=P3I5cqciWD8
+
+### Splatoon Raiders | Fully Ramblomatic [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+If you want to hear Yahtzee dig a bit deeper into the games he reviews every week in a more casual format, listen to the Post-Ramblomatic podcast on Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=dX53gOlkYOM
 
 ## Entertainment Recommendations
 
@@ -414,6 +513,42 @@ Link: https://www.youtube.com/watch?v=brkTgfdmztk
 Four friends post-college plans are derailed when a wrong turn traps them on a never-ending backroad.
 
 Link: https://www.youtube.com/watch?v=zFszhQLMNXU
+
+### HELLCAT | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A woman wakes in the back of a moving camper trailer with a badly infected wound. A voice from the truck towing it tells her they must reach a doctor within the hour or she’ll suffer a horrific fate. HELLCAT premieres August 14 on Shudder.
+
+Link: https://www.youtube.com/watch?v=RWZjFdaJKgw
+
+### THE CYCLE | Deborah Ann Woll, Jeffrey Donovan | Teaser Trailer | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+When the body of a man missing for thirty-six years is discovered at the scene of a horrific crime, it’s up to his estranged daughter to unravel his dark past.
+
+Link: https://www.youtube.com/watch?v=87ekbcLWPN4
+
+### INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K) [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21.
+
+Link: https://www.youtube.com/watch?v=bHehvziDKBI
+
+### Other Mommy | Official Trailer [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Your mommy won’t save you. Other Mommy only in theaters October 9. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.
+
+Link: https://www.youtube.com/watch?v=pPxrX9ukWBY
 
 ### Outer Banks: Season 5 | Final Trailer | Netflix [10/10]
 **Source:** Netflix  

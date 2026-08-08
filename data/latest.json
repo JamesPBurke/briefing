@@ -1,11 +1,41 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-08T05:00:04.568339Z",
-  "generatedAtDisplay": "2026-08-08 01:00 AM EDT",
+  "generatedAt": "2026-08-08T09:00:28.536862Z",
+  "generatedAtDisplay": "2026-08-08 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / computing, Democracy / press freedom, Democracy / anti-fascism. The strongest items in this run are US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown, Remains of 56 people found decomposing at Chicago funeral home, and The gaming site sponsored by Walmart lays off its editorial staff.",
+  "summary": "Today's sweep leans toward AI / computing, Democracy / press freedom, Games / criticism. The strongest items in this run are US accused of meddling in British politics with $500,000 grant for ‘public education’ courses, What we've been playing - \"I've wanted to go to demon school for a while\", and Lime bikes hurtling around the city: is this the revenge of a priced-out generation? | Andy Beckett.",
   "mainItems": [
+    {
+      "title": "US accused of meddling in British politics with $500,000 grant for ‘public education’ courses",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/08/us-accused-of-meddling-in-british-politics-with-500000-grant-scheme-promoting-shared-values",
+      "published": "2026-08-08T07:00:41+00:00",
+      "summary": "Documents published on US embassy’s website prompt claims of attempt to export Maga propaganda to UK The US embassy in London is offering grants of up to half a million dollars for new “public education” programmes in what has been…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "What we've been playing - \"I've wanted to go to demon school for a while\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-ive-wanted-to-go-to-demon-school-for-a-while",
+      "published": "2026-08-08T07:00:00+00:00",
+      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Connor decides on Star Lord; Bertie goes to demon school, and Kelsey goes for a big walk. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "Lime bikes hurtling around the city: is this the revenge of a priced-out generation? | Andy Beckett",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/08/cities-lime-bikes-revenge-generation-london",
+      "published": "2026-08-08T05:00:38+00:00",
+      "summary": "From running red lights to dumping bikes, some Lime users get a bad rap. But many who grumble about them don’t appreciate their own privilege The night belongs to Lime bikes in the capital this summer.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
       "source": "The Guardian US",
@@ -14,16 +44,6 @@
       "published": "2026-08-08T04:08:18+00:00",
       "summary": "Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn in The ​Trump administration plans to provide $1bn in security assistance to the ⁠government of Colombia’s new ​rightwing…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Remains of 56 people found decomposing at Chicago funeral home",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/chicago-funeral-home-bodies",
-      "published": "2026-08-08T00:31:06+00:00",
-      "summary": "Officials describe ‘deplorable conditions’ at home run by pair linked to crematory closed due to mishandled remains The remains of 56 people were found improperly stored and decomposing on Thursday at a Chicago funeral home run by a couple…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
@@ -37,16 +57,6 @@
       "score": 10
     },
     {
-      "title": "Trump renews bid to fire Fed governor Lisa Cook despite supreme court ruling",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/2026/aug/07/trump-lisa-cook-fed-firing-scotus-ruling",
-      "published": "2026-08-07T18:47:25+00:00",
-      "summary": "White House continues to target Cook despite decision from justices that upheld Federal Reserve’s independence Donald Trump is attempting once again to oust the US Federal Reserve governor Lisa Cook over allegations of mortgage fraud,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
       "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
       "source": "The Verge",
       "category": "AI / computing",
@@ -54,16 +64,6 @@
       "published": "2026-08-07T18:40:34+00:00",
       "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Opinion: Students Are Anxious – And It’s No Surprise, Since We Teach Them to Be That Way",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/students-are-anxious-and-its-no-surprise-since-we-are-teaching-them-to-be-that-way/",
-      "published": "2026-08-07T18:30:00+00:00",
-      "summary": "Temporary anxiety can often surface before the first day of school. Sometimes, that can help kids get in the right mindset for a big day.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
@@ -87,23 +87,23 @@
       "score": 10
     },
     {
-      "title": "With their assault on science, Trumpists aren’t just harming America – they’re harming themselves | Jan-Werner Müller",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/07/trump-scientific-research-universities",
-      "published": "2026-08-07T10:00:14+00:00",
-      "summary": "The administration is subjugating science to political imperatives, a major blow to US soft power and technological progress The Trump administration is waging an unprecedented war on institutions devoted to research and higher learning.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "title": "Nitecore’s latest power bank is the lightest and most compact yet",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+      "published": "2026-08-08T07:17:24+00:00",
+      "summary": "There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking, bikepacking, and trail running.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
     },
     {
-      "title": "Space News Network is No Man's Sky but you're a roving journalist, blasting bandits while trying to keep your subscribers happy",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/space-news-network-is-no-mans-sky-but-youre-a-roving-journalist-blasting-bandits-while-trying-to-keep-your-subscribers-happy",
-      "published": "2026-08-07T17:02:00+00:00",
-      "summary": "Yet again, friends, I am escaping to the one place that hasn't been corrupted by capitalism. They have need of journalists up there, no matter what that dafty Musk might prefer.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Opinion: Students Are Anxious – And It’s No Surprise, Since We Teach Them to Be That Way",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/students-are-anxious-and-its-no-surprise-since-we-are-teaching-them-to-be-that-way/",
+      "published": "2026-08-07T18:30:00+00:00",
+      "summary": "Temporary anxiety can often surface before the first day of school. Sometimes, that can help kids get in the right mindset for a big day.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
     },
     {
@@ -146,8 +146,8 @@
       "published": "2026-08-07T08:22:00+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Gemma4 paper and some more is available here: https://arxiv.org/abs/2607.02770 https://x.com/googlegemma/status/2077449152062247219 https://x.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "The Billion Dollar AI Race Just Broke",
@@ -269,6 +269,127 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 6,
       "verdict": "Summary is enough"
+    },
+    {
+      "title": "What Is The \"Secret Sauce\" Needed To Make PS6 And Helix A Success?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=of7DA1tZqNs",
+      "published": "2026-08-07T16:00:00+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/GE4L0clL2d0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Did We Get It Wrong With Halo Campaign Evolved?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=sso4uz7H1ak",
+      "published": "2026-08-06T17:00:39+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/5xDUC1bRYSY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Sony's Response To The End-Of-Disc Backlash - Full Speed Ahead On An All-Digital Future",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=B8Ulxu9hc1s",
+      "published": "2026-08-06T16:00:38+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/GE4L0clL2d0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Good News: Microsoft Has Improved PC's OG Xbox Emulator",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=AN1Q7WrbN6s",
+      "published": "2026-08-05T17:00:16+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/5xDUC1bRYSY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "This Is The Best Performing Console Gen Since 16-Bit - But What About PC?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=qgkrO_8xK04",
+      "published": "2026-08-05T16:00:07+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/5xDUC1bRYSY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Silly or Serious TTRPG Question? It's Your Time to Ask! | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=39gjUrTK2NA",
+      "published": "2026-08-07T10:18:27+00:00",
+      "summary": "Ask (a silly question) and yee shall receive (a silly answer) Or ask a serious question. Kendo from Kobold Press and Jesse Galena are taking your TTRPG questions today.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "How Much Did Netflix Pay For Their Grand Theft Auto 6 Debut?! | Firelink Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=k8uIxXQVbbQ",
+      "published": "2026-08-07T01:24:32+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Dark Souls 1 Randomizer Chaos Begins w/ Jack and Jess -- Part 1",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=q4tPP_yigqg",
+      "published": "2026-08-06T20:14:37+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Yahtzee Tries... Dodo Duckie and Feed the Pit",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=0afern8PwBc",
+      "published": "2026-08-05T22:10:20+00:00",
+      "summary": "This week on Yahtzee Tries... Yahtzee and Jesse G try out Dodo Duckie and Feed the Pit. https://store.steampowered.com/app/3358170/Dodo_Duckie https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Madness in the Mouth | Adventure Is Nigh! - The Slow Walk Home | Ep. 7",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=P3I5cqciWD8",
+      "published": "2026-08-05T19:36:48+00:00",
+      "summary": "This video is brought to you by Crucible, the innovative and modern tabletop role-playing game system built exclusively for Foundry Virtual Tabletop as a digital platform. – https://foundryvtt.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Splatoon Raiders | Fully Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=dX53gOlkYOM",
+      "published": "2026-08-05T15:59:07+00:00",
+      "summary": "If you want to hear Yahtzee dig a bit deeper into the games he reviews every week in a more casual format, listen to the Post-Ramblomatic podcast on Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
     }
   ],
   "trailers": [
@@ -424,6 +545,50 @@
       "summary": "Four friends post-college plans are derailed when a wrong turn traps them on a never-ending backroad.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
       "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "HELLCAT | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=RWZjFdaJKgw",
+      "published": "2026-08-01T02:10:21+00:00",
+      "summary": "A woman wakes in the back of a moving camper trailer with a badly infected wound. A voice from the truck towing it tells her they must reach a doctor within the hour or she’ll suffer a horrific fate. HELLCAT premieres August 14 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "THE CYCLE | Deborah Ann Woll, Jeffrey Donovan | Teaser Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=87ekbcLWPN4",
+      "published": "2026-07-27T19:15:01+00:00",
+      "summary": "When the body of a man missing for thirty-six years is discovered at the scene of a horrific crime, it’s up to his estranged daughter to unravel his dark past.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K)",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=bHehvziDKBI",
+      "published": "2026-08-05T15:42:24+00:00",
+      "summary": "Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Other Mommy | Official Trailer",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=pPxrX9ukWBY",
+      "published": "2026-07-21T17:07:30+00:00",
+      "summary": "Your mommy won’t save you. Other Mommy only in theaters October 9. /// GET IN THE VAN Blumhouse’s The Van is driven by all things horror.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -681,8 +846,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 12,
-    "trailerCount": 27,
-    "sourceCount": 17
+    "youtubeCount": 23,
+    "trailerCount": 31,
+    "sourceCount": 21
   }
 }
