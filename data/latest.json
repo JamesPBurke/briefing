@@ -1,11 +1,71 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-08T09:00:28.536862Z",
-  "generatedAtDisplay": "2026-08-08 05:00 AM EDT",
+  "generatedAt": "2026-08-08T14:00:04.033363Z",
+  "generatedAtDisplay": "2026-08-08 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / computing, Democracy / press freedom, Games / criticism. The strongest items in this run are US accused of meddling in British politics with $500,000 grant for ‘public education’ courses, What we've been playing - \"I've wanted to go to demon school for a while\", and Lime bikes hurtling around the city: is this the revenge of a priced-out generation? | Andy Beckett.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Science / computing, Education / pedagogy. The strongest items in this run are Meta AI breaches external firm during security testing sandbox error, Baywatch honors teenage lifeguard hero who saved boy in viral video, and The Bond effect? How MI6 fascinates spy watchers around the world.",
   "mainItems": [
+    {
+      "title": "Meta AI breaches external firm during security testing sandbox error",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5924878/meta-ai-breaches-external-firm-during-security-testing-sandbox-error",
+      "published": "2026-08-08T11:43:52+00:00",
+      "summary": "Meta announced one of its models had hacked another company during a security test. It becomes the third company to announced such a security breach.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 10
+    },
+    {
+      "title": "Baywatch honors teenage lifeguard hero who saved boy in viral video",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/08/baywatch-ryder-williams-lifeguard",
+      "published": "2026-08-08T11:00:47+00:00",
+      "summary": "Ryder Williams, 16, presented with distinctive red jacket by star of TV rescuer reboot, Stephen Amell As life imitates art and vice versa, the star of the Baywatch reboot recently presented one of the distinctive red jackets seen on the…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The Bond effect? How MI6 fascinates spy watchers around the world",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/2026/aug/08/mi6-global-reputation-expertise-spy-agencies",
+      "published": "2026-08-08T11:00:44+00:00",
+      "summary": "Britain’s spooks take quiet satisfaction from survey ranking Secret Intelligence Service Europe’s top espionage agency MI6 has the swagger of James Bond; its French equivalent, DGSE, the complexities of the television drama Le Bureau.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "When Sex Education Funding Is Taken Away, Young People Lose a Safe Space",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/when-sex-education-funding-is-taken-away-young-people-lose-a-safe-space/",
+      "published": "2026-08-08T10:30:00+00:00",
+      "summary": "On June 26, Children’s Aid was preparing to continue summer sexual health and youth development programming in schools, foster care settings and community organizations across New York City.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Club Soko is cartoonishly dark and splattered with beer - and it's a wonderful puzzler, too",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/club-soko-impressions-cartoonishly-dark-sokoban-puzzle-game",
+      "published": "2026-08-08T09:20:57+00:00",
+      "summary": "Sokoban games are those puzzlers that are all about pushing blocks around. They're spatial challenges at their most fiendish. I gather that the original Sokoban took place in a warehouse, and you were shifting crates back and forth.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Bluster and backdown have turned Iran war into Trump’s own Groundhog Day",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/08/trump-iran-war-criticism-groundhog-day",
+      "published": "2026-08-08T09:00:43+00:00",
+      "summary": "The US president’s profound ignorance of his enemy has led to an impotent cycle of empty threats, analysts say Being the subject of mockery may be the most intense of all Donald Trump’s known aversions.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "US accused of meddling in British politics with $500,000 grant for ‘public education’ courses",
       "source": "The Guardian US",
@@ -14,46 +74,6 @@
       "published": "2026-08-08T07:00:41+00:00",
       "summary": "Documents published on US embassy’s website prompt claims of attempt to export Maga propaganda to UK The US embassy in London is offering grants of up to half a million dollars for new “public education” programmes in what has been…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "What we've been playing - \"I've wanted to go to demon school for a while\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-ive-wanted-to-go-to-demon-school-for-a-while",
-      "published": "2026-08-08T07:00:00+00:00",
-      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Connor decides on Star Lord; Bertie goes to demon school, and Kelsey goes for a big walk. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Lime bikes hurtling around the city: is this the revenge of a priced-out generation? | Andy Beckett",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/08/cities-lime-bikes-revenge-generation-london",
-      "published": "2026-08-08T05:00:38+00:00",
-      "summary": "From running red lights to dumping bikes, some Lime users get a bad rap. But many who grumble about them don’t appreciate their own privilege The night belongs to Lime bikes in the capital this summer.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
-      "published": "2026-08-08T04:08:18+00:00",
-      "summary": "Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn in The ​Trump administration plans to provide $1bn in security assistance to the ⁠government of Colombia’s new ​rightwing…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "The gaming site sponsored by Walmart lays off its editorial staff",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
-      "published": "2026-08-07T22:05:08+00:00",
-      "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
@@ -67,64 +87,44 @@
       "score": 10
     },
     {
-      "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
-      "published": "2026-08-07T18:00:02+00:00",
-      "summary": "19 new maps continue the story from MachineGames' other campaign additions.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "What’s behind the Google AI shake-up",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "published": "2026-08-07T17:06:00+00:00",
-      "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Nitecore’s latest power bank is the lightest and most compact yet",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
-      "published": "2026-08-08T07:17:24+00:00",
-      "summary": "There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking, bikepacking, and trail running.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "What we've been playing - \"I've wanted to go to demon school for a while\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-ive-wanted-to-go-to-demon-school-for-a-while",
+      "published": "2026-08-08T07:00:00+00:00",
+      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Connor decides on Star Lord; Bertie goes to demon school, and Kelsey goes for a big walk. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "Opinion: Students Are Anxious – And It’s No Surprise, Since We Teach Them to Be That Way",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/students-are-anxious-and-its-no-surprise-since-we-are-teaching-them-to-be-that-way/",
-      "published": "2026-08-07T18:30:00+00:00",
-      "summary": "Temporary anxiety can often surface before the first day of school. Sometimes, that can help kids get in the right mindset for a big day.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "‘I’ve always felt too old and too young at the same time’: The Last of Us star Bella Ramsey on swapping child stardom for cult television – and Celebrity Traitors",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/culture/2026/aug/08/bella-ramsey-actor-the-last-of-us-sunny-dancer-maya-celebrity-traitors",
+      "published": "2026-08-08T05:00:40+00:00",
+      "summary": "At 22, Ramsey has already been on our screens for a decade, and nominated for every award going. So why do they find it strange to be called an actor? Bella Ramsey often feels more comfortable around older people.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Everyone's talking about hormone therapy for menopause. Should I be on it?",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
-      "published": "2026-08-07T10:00:00+00:00",
-      "summary": "For years, doctors advised against hormone therapy for women in the menopausal transition. Now everyone's talking about how great it is. Is it really a wonder drug that women should all be on?",
+      "title": "Crab Odyssey: Crustacean Wandered the Seas in a Bottle for Months, Scientists Find",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/crab-odyssey-crustacean-wandered-the-seas-in-a-bottle-for-months-scientists-find/",
+      "published": "2026-08-08T10:00:26+00:00",
+      "summary": "Scientists discovered a crab that had spent months at sea stuck in a bottle, subsisting on algae and fish that wandered into its plastic lair. The lonely mariner offers a warning about the impacts of human pollution on wildlife worldwide.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "City That Arrested Person for Clapping at Data Center Meeting Moves to Virtual Meetings for 'Public Safety'",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/city-that-arrested-person-for-clapping-at-data-center-meeting-moves-to-virtual-townhalls-for-public-safety/",
-      "published": "2026-08-07T14:55:33+00:00",
-      "summary": "A small town in Kansas took its city meetings virtual and ended public comment after city leaders received a wave of death threats.",
+      "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
+      "published": "2026-08-08T10:00:00+00:00",
+      "summary": "Drug addiction groups are reeling after Trump officials said federal grants cannot be used to hand out test strips to drug users. The strips help users check street drugs for dangerous adulterants.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
+      "score": 8
     },
     {
       "title": "David Fincher’s American Squid Game Remake Reportedly Not Moving Forward at Netflix",
@@ -150,15 +150,15 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "The Billion Dollar AI Race Just Broke",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
-      "published": "2026-08-05T13:54:29+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Qwen 3.8 Max: https://qwen.ai/blog?id=qwen3.8 Sources: https://x.com/loktar00/status/2082589566934929750 https://x.",
+      "title": "Egyptian Pyramids Were Built with Ramps, Not by Aliens",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=MFMxY3r_TNE",
+      "published": "2026-08-08T13:00:14+00:00",
+      "summary": "*It was the aliens!* Or was it? Egyptologist Professor Laurel Bestock rejoins WIRED to break down five discoveries that tell us exactly how the Egyptian pyramids were built; from the Giza quarry to The Diary of Merer, Laurel paints a vivid…",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "We Know More About Time Than You Think",
@@ -212,8 +212,8 @@
       "published": "2026-08-08T00:00:17+00:00",
       "summary": "Immigration and Customs Enforcement is planning to equip all of its field officers with body cameras by the end of September, but the agency’s policy does not require the automatic release of video from deadly or serious encounters.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Student kills at least 5 at a high school in Bangkok",

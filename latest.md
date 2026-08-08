@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-08T09:00:28.536862Z
+Generated: 2026-08-08T14:00:04.033363Z
 
-Today's sweep leans toward AI / computing, Democracy / press freedom, Games / criticism. The strongest items in this run are US accused of meddling in British politics with $500,000 grant for ‘public education’ courses, What we've been playing - "I've wanted to go to demon school for a while", and Lime bikes hurtling around the city: is this the revenge of a priced-out generation? | Andy Beckett.
+Today's sweep leans toward Democracy / press freedom, Science / computing, Education / pedagogy. The strongest items in this run are Meta AI breaches external firm during security testing sandbox error, Baywatch honors teenage lifeguard hero who saved boy in viral video, and The Bond effect? How MI6 fascinates spy watchers around the world.
 
 ## Briefing
 
@@ -33,7 +33,61 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. US accused of meddling in British politics with $500,000 grant for ‘public education’ courses [10/10]
+### 1. Meta AI breaches external firm during security testing sandbox error [10/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Meta announced one of its models had hacked another company during a security test. It becomes the third company to announced such a security breach.
+
+Link: https://www.npr.org/2026/08/08/nx-s1-5924878/meta-ai-breaches-external-firm-during-security-testing-sandbox-error
+
+### 2. Baywatch honors teenage lifeguard hero who saved boy in viral video [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Ryder Williams, 16, presented with distinctive red jacket by star of TV rescuer reboot, Stephen Amell As life imitates art and vice versa, the star of the Baywatch reboot recently presented one of the distinctive red jackets seen on the…
+
+Link: https://www.theguardian.com/us-news/2026/aug/08/baywatch-ryder-williams-lifeguard
+
+### 3. The Bond effect? How MI6 fascinates spy watchers around the world [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Britain’s spooks take quiet satisfaction from survey ranking Secret Intelligence Service Europe’s top espionage agency MI6 has the swagger of James Bond; its French equivalent, DGSE, the complexities of the television drama Le Bureau.
+
+Link: https://www.theguardian.com/world/2026/aug/08/mi6-global-reputation-expertise-spy-agencies
+
+### 4. When Sex Education Funding Is Taken Away, Young People Lose a Safe Space [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+On June 26, Children’s Aid was preparing to continue summer sexual health and youth development programming in schools, foster care settings and community organizations across New York City.
+
+Link: https://www.the74million.org/article/when-sex-education-funding-is-taken-away-young-people-lose-a-safe-space/
+
+### 5. Club Soko is cartoonishly dark and splattered with beer - and it's a wonderful puzzler, too [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Sokoban games are those puzzlers that are all about pushing blocks around. They're spatial challenges at their most fiendish. I gather that the original Sokoban took place in a warehouse, and you were shifting crates back and forth.
+
+Link: https://www.eurogamer.net/club-soko-impressions-cartoonishly-dark-sokoban-puzzle-game
+
+### 6. Bluster and backdown have turned Iran war into Trump’s own Groundhog Day [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The US president’s profound ignorance of his enemy has led to an impotent cycle of empty threats, analysts say Being the subject of mockery may be the most intense of all Donald Trump’s known aversions.
+
+Link: https://www.theguardian.com/world/ng-interactive/2026/aug/08/trump-iran-war-criticism-groundhog-day
+
+### 7. US accused of meddling in British politics with $500,000 grant for ‘public education’ courses [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,43 +96,7 @@ Documents published on US embassy’s website prompt claims of attempt to export
 
 Link: https://www.theguardian.com/us-news/2026/aug/08/us-accused-of-meddling-in-british-politics-with-500000-grant-scheme-promoting-shared-values
 
-### 2. What we've been playing - "I've wanted to go to demon school for a while" [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Connor decides on Star Lord; Bertie goes to demon school, and Kelsey goes for a big walk. Read more
-
-Link: https://www.eurogamer.net/what-weve-been-playing-ive-wanted-to-go-to-demon-school-for-a-while
-
-### 3. Lime bikes hurtling around the city: is this the revenge of a priced-out generation? | Andy Beckett [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-From running red lights to dumping bikes, some Lime users get a bad rap. But many who grumble about them don’t appreciate their own privilege The night belongs to Lime bikes in the capital this summer.
-
-Link: https://www.theguardian.com/commentisfree/2026/aug/08/cities-lime-bikes-revenge-generation-london
-
-### 4. US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn in The ​Trump administration plans to provide $1bn in security assistance to the ⁠government of Colombia’s new ​rightwing…
-
-Link: https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown
-
-### 5. The gaming site sponsored by Walmart lays off its editorial staff [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its "entire editorial team," according to a Friday post from Brandy Berthelson, the site's former editor-in-chief.
-
-Link: https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs
-
-### 6. OpenAI puts the brakes on a new model because it’s supposedly too powerful [10/10]
+### 8. OpenAI puts the brakes on a new model because it’s supposedly too powerful [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -87,59 +105,41 @@ OpenAI says it is pausing "internal activities" around an in-development AI mode
 
 Link: https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities
 
-### 7. New official 30th anniversary Quake mission pack adds new maps and mechanics [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 9. What we've been playing - "I've wanted to go to demon school for a while" [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-19 new maps continue the story from MachineGames' other campaign additions.
+Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Connor decides on Star Lord; Bertie goes to demon school, and Kelsey goes for a big walk. Read more
 
-Link: https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/
+Link: https://www.eurogamer.net/what-weve-been-playing-ive-wanted-to-go-to-demon-school-for-a-while
 
-### 8. What’s behind the Google AI shake-up [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 10. ‘I’ve always felt too old and too young at the same time’: The Last of Us star Bella Ramsey on swapping child stardom for cult television – and Celebrity Traitors [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google.
+At 22, Ramsey has already been on our screens for a decade, and nominated for every award going. So why do they find it strange to be called an actor? Bella Ramsey often feels more comfortable around older people.
 
-Link: https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast
+Link: https://www.theguardian.com/culture/2026/aug/08/bella-ramsey-actor-the-last-of-us-sunny-dancer-maya-celebrity-traitors
 
-### 9. Nitecore’s latest power bank is the lightest and most compact yet [9/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking, bikepacking, and trail running.
-
-Link: https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery
-
-### 10. Opinion: Students Are Anxious – And It’s No Surprise, Since We Teach Them to Be That Way [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Temporary anxiety can often surface before the first day of school. Sometimes, that can help kids get in the right mindset for a big day.
-
-Link: https://www.the74million.org/article/students-are-anxious-and-its-no-surprise-since-we-are-teaching-them-to-be-that-way/
-
-### 11. Everyone's talking about hormone therapy for menopause. Should I be on it? [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-For years, doctors advised against hormone therapy for women in the menopausal transition. Now everyone's talking about how great it is. Is it really a wonder drug that women should all be on?
-
-Link: https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart
-
-### 12. City That Arrested Person for Clapping at Data Center Meeting Moves to Virtual Meetings for 'Public Safety' [7/10]
+### 11. Crab Odyssey: Crustacean Wandered the Seas in a Bottle for Months, Scientists Find [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-A small town in Kansas took its city meetings virtual and ended public comment after city leaders received a wave of death threats.
+Scientists discovered a crab that had spent months at sea stuck in a bottle, subsisting on algae and fish that wandered into its plastic lair. The lonely mariner offers a warning about the impacts of human pollution on wildlife worldwide.
 
-Link: https://www.404media.co/city-that-arrested-person-for-clapping-at-data-center-meeting-moves-to-virtual-townhalls-for-public-safety/
+Link: https://www.404media.co/crab-odyssey-crustacean-wandered-the-seas-in-a-bottle-for-months-scientists-find/
+
+### 12. Federal funds can't be used to give test strips to drug users, raising overdose fears [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Drug addiction groups are reeling after Trump officials said federal grants cannot be used to hand out test strips to drug users. The strips help users check street drugs for dangerous adulterants.
+
+Link: https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears
 
 ### 13. David Fincher’s American Squid Game Remake Reportedly Not Moving Forward at Netflix [7/10]
 **Source:** Reactor  
@@ -161,14 +161,14 @@ Link: https://reactormag.com/david-fincher-squid-game-remake/
 
 Link: https://www.youtube.com/watch?v=vO6SWG-jxvE
 
-### The Billion Dollar AI Race Just Broke [7/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Probably worth watching  
+### Egyptian Pyramids Were Built with Ramps, Not by Aliens [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Qwen 3.8 Max: https://qwen.ai/blog?id=qwen3.8 Sources: https://x.com/loktar00/status/2082589566934929750 https://x.
+*It was the aliens!* Or was it? Egyptologist Professor Laurel Bestock rejoins WIRED to break down five discoveries that tell us exactly how the Egyptian pyramids were built; from the Giza quarry to The Diary of Merer, Laurel paints a vivid…
 
-Link: https://www.youtube.com/watch?v=ppQh4Tc9BmM
+Link: https://www.youtube.com/watch?v=MFMxY3r_TNE
 
 ### We Know More About Time Than You Think [7/10]
 **Creator:** WIRED  
@@ -206,9 +206,9 @@ Theoretical physicist Professor Brian Greene joins WIRED to answer the internet�
 
 Link: https://www.youtube.com/watch?v=bARyOJPA1Zc
 
-### ICE says it will only release body cam footage when it's in agency's 'best interests' [8/10]
+### ICE says it will only release body cam footage when it's in agency's 'best interests' [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Immigration and Customs Enforcement is planning to equip all of its field officers with body cameras by the end of September, but the agency’s policy does not require the automatic release of video from deadly or serious encounters.
