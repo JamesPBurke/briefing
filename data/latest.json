@@ -1,19 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-07T18:02:20.368957Z",
-  "generatedAtDisplay": "2026-08-07 02:02 PM EDT",
+  "generatedAt": "2026-08-08T05:00:04.568339Z",
+  "generatedAtDisplay": "2026-08-08 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are Disney Plus tries a new AI-powered search, What’s behind the Google AI shake-up, and AI, boy kibble and parasite cleanses: the 11 biggest wellness trends of 2026.",
+  "summary": "Today's sweep leans toward AI / computing, Democracy / press freedom, Democracy / anti-fascism. The strongest items in this run are US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown, Remains of 56 people found decomposing at Chicago funeral home, and The gaming site sponsored by Walmart lays off its editorial staff.",
   "mainItems": [
     {
-      "title": "Disney Plus tries a new AI-powered search",
-      "source": "The Verge",
+      "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
+      "published": "2026-08-08T04:08:18+00:00",
+      "summary": "Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn in The ​Trump administration plans to provide $1bn in security assistance to the ⁠government of Colombia’s new ​rightwing…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Remains of 56 people found decomposing at Chicago funeral home",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
-      "published": "2026-08-07T17:53:44+00:00",
-      "summary": "Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations.",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/chicago-funeral-home-bodies",
+      "published": "2026-08-08T00:31:06+00:00",
+      "summary": "Officials describe ‘deplorable conditions’ at home run by pair linked to crematory closed due to mishandled remains The remains of 56 people were found improperly stored and decomposing on Thursday at a Chicago funeral home run by a couple…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The gaming site sponsored by Walmart lays off its editorial staff",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
+      "published": "2026-08-07T22:05:08+00:00",
+      "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Trump renews bid to fire Fed governor Lisa Cook despite supreme court ruling",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/business/2026/aug/07/trump-lisa-cook-fed-firing-scotus-ruling",
+      "published": "2026-08-07T18:47:25+00:00",
+      "summary": "White House continues to target Cook despite decision from justices that upheld Federal Reserve’s independence Donald Trump is attempting once again to oust the US Federal Reserve governor Lisa Cook over allegations of mortgage fraud,…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "published": "2026-08-07T18:40:34+00:00",
+      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Opinion: Students Are Anxious – And It’s No Surprise, Since We Teach Them to Be That Way",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/students-are-anxious-and-its-no-surprise-since-we-are-teaching-them-to-be-that-way/",
+      "published": "2026-08-07T18:30:00+00:00",
+      "summary": "Temporary anxiety can often surface before the first day of school. Sometimes, that can help kids get in the right mindset for a big day.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
+      "published": "2026-08-07T18:00:02+00:00",
+      "summary": "19 new maps continue the story from MachineGames' other campaign additions.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
@@ -27,56 +87,6 @@
       "score": 10
     },
     {
-      "title": "AI, boy kibble and parasite cleanses: the 11 biggest wellness trends of 2026",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/wellness/2026/aug/07/biggest-wellness-trends-2026",
-      "published": "2026-08-07T16:00:21+00:00",
-      "summary": "Suggestions for improving your wellbeing are more plentiful than ever – and some may even be on to something Every year, the wellness industry churns out new products and practices that it claims are finally – finally! – the real secret to…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "‘Nobody Feels Good, Nobody’s Learning’: High Temperatures Disrupt School Days",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/nobody-feels-good-nobodys-learning-how-high-temperatures-disrupt-philadelphias-school-days/",
-      "published": "2026-08-07T14:30:00+00:00",
-      "summary": "For nearly two years, teacher Isabelle Ouyang and her colleagues have dealt with the presence of construction workers, shuffling between classrooms, stress over schedules, and a host of disruptive renovations.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Thailand school shooting: eight killed including suspected attacker, police say",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok",
-      "published": "2026-08-07T14:16:01+00:00",
-      "summary": "Teenager killed his grandparents ⁠before opening fire at school near Bangkok, where more than 30 were wounded A Thai teenager killed his grandparents before opening fire at his school, where he shot five people dead and took his own life,…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-      "source": "MIT Technology Review",
-      "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-      "published": "2026-08-07T14:00:00+00:00",
-      "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
-      "published": "2026-08-07T13:00:18+00:00",
-      "summary": "A Trump administration framework on AI testing leaves a lack of transparency – and plenty of open questions After months of talking with tech industry leaders, the Trump administration finalized a framework this week for how it will test…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
       "title": "With their assault on science, Trumpists aren’t just harming America – they’re harming themselves | Jan-Werner Müller",
       "source": "The Guardian US",
       "category": "CS education / AI policy",
@@ -87,24 +97,14 @@
       "score": 10
     },
     {
-      "title": "Tate brothers’ lawyers urge ⁠US judge to release the two from Miami jail on bail",
-      "source": "The Guardian US",
-      "category": "Security / computing",
-      "url": "https://www.theguardian.com/news/2026/aug/07/tate-brothers-lawyers-urge-release-miami-jail",
-      "published": "2026-08-07T14:35:54+00:00",
-      "summary": "Andrew and Tristan Tate remain in jail as they fight extradition to UK to face charges of rape, assault and more Lawyers for Andrew and Tristan Tate urged a ⁠US judge on Friday ⁠ to release the ​brothers from a Miami jail as they fight the…",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "title": "Space News Network is No Man's Sky but you're a roving journalist, blasting bandits while trying to keep your subscribers happy",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/space-news-network-is-no-mans-sky-but-youre-a-roving-journalist-blasting-bandits-while-trying-to-keep-your-subscribers-happy",
+      "published": "2026-08-07T17:02:00+00:00",
+      "summary": "Yet again, friends, I am escaping to the one place that hasn't been corrupted by capitalism. They have need of journalists up there, no matter what that dafty Musk might prefer.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
-    },
-    {
-      "title": "New Mexico Judge Orders Meta to Pay $567M for Youth Harm Abatement Fund",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/new-mexico-judge-orders-meta-to-pay-567m-for-youth-harm-abatement-fund/",
-      "published": "2026-08-07T16:30:00+00:00",
-      "summary": "New Mexico First Judicial District Judge Bryan Biedscheid at the end of the day Thursday issued a ruling in the state’s pending case against social media giant Meta, ordering the company to pay $567 million for an abatement fund to address…",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 8
     },
     {
       "title": "Everyone's talking about hormone therapy for menopause. Should I be on it?",
@@ -117,28 +117,459 @@
       "score": 8
     },
     {
-      "title": "The Grain Gathering 2026: What a Home Baker Brings Back from the Breadlab",
-      "source": "The Perfect Loaf",
-      "category": "Bread / food craft",
-      "url": "https://www.theperfectloaf.com/the-grain-gathering-2026/",
-      "published": "2026-08-06T20:41:14+00:00",
-      "summary": "Notes from the back of the bread truck.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
-      "score": 8
-    },
-    {
-      "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI’s Soaring Cost",
+      "title": "City That Arrested Person for Clapping at Data Center Meeting Moves to Virtual Meetings for 'Public Safety'",
       "source": "404 Media",
       "category": "Tech / media",
-      "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
-      "published": "2026-08-06T19:13:34+00:00",
-      "summary": "SAP says it needs to “be disciplined in how we spend.” That includes still freezing hires and travel. Unless it's to do with AI, of course.",
+      "url": "https://www.404media.co/city-that-arrested-person-for-clapping-at-data-center-meeting-moves-to-virtual-townhalls-for-public-safety/",
+      "published": "2026-08-07T14:55:33+00:00",
+      "summary": "A small town in Kansas took its city meetings virtual and ended public comment after city leaders received a wave of death threats.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
+    },
+    {
+      "title": "David Fincher’s American Squid Game Remake Reportedly Not Moving Forward at Netflix",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/david-fincher-squid-game-remake/",
+      "published": "2026-08-07T14:41:46+00:00",
+      "summary": "Game over, man? The post David Fincher’s American Squid Game Remake Reportedly Not Moving Forward at Netflix appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 7
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "DeepMind Just Changed How AI Sees The World",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
+      "published": "2026-08-07T08:22:00+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Gemma4 paper and some more is available here: https://arxiv.org/abs/2607.02770 https://x.com/googlegemma/status/2077449152062247219 https://x.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "The Billion Dollar AI Race Just Broke",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
+      "published": "2026-08-05T13:54:29+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Qwen 3.8 Max: https://qwen.ai/blog?id=qwen3.8 Sources: https://x.com/loktar00/status/2082589566934929750 https://x.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "We Know More About Time Than You Think",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=nOGTjQ6eCaY",
+      "published": "2026-08-07T16:02:03+00:00",
+      "summary": "Sir Isaac Newton claimed time flows universally. Albert Einstein said that time is relative to the observer.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "GRWM (Ancient Egypt Edition)",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=ZH2Xiiik1R4",
+      "published": "2026-08-07T13:15:02+00:00",
+      "summary": "AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Egyptologist Professor Laurel Bestock as we fact check the internet, egyptology edition.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "What Came Before The Beginning of Time?",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=eL5P0o63Kpc",
+      "published": "2026-08-06T14:30:02+00:00",
+      "summary": "Theoretical physicist Professor Brian Greene joins WIRED to answer the internet’s burning quantum physics questions.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Yes, Physics Says You Can Run Through a Wall",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=bARyOJPA1Zc",
+      "published": "2026-08-05T18:00:02+00:00",
+      "summary": "Theoretical physicist Professor Brian Greene joins WIRED to answer the internet’s burning quantum physics questions.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "ICE says it will only release body cam footage when it's in agency's 'best interests'",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=M7KTUbQenWg",
+      "published": "2026-08-08T00:00:17+00:00",
+      "summary": "Immigration and Customs Enforcement is planning to equip all of its field officers with body cameras by the end of September, but the agency’s policy does not require the automatic release of video from deadly or serious encounters.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Student kills at least 5 at a high school in Bangkok",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=BbIsJ16vzR0",
+      "published": "2026-08-07T22:00:33+00:00",
+      "summary": "Thailand’s prime minister is pledging stricter gun laws after police say a student opened fire at a high school near Bangkok, killing at least five people.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Here are some of NPR's favorite video games of the year",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=5PsjyD9NXPg",
+      "published": "2026-08-07T15:45:36+00:00",
+      "summary": "Big game releases, including Grand Theft Auto VI, are coming this fall. In the meantime, check out some of NPR's favorite games of the year.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Some states have reported cyberattacks targeting their water systems. Could Iran be behind it?",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=U-ByU2G8kf0",
+      "published": "2026-08-07T14:15:11+00:00",
+      "summary": "Several states have reported cyberattacks targeting their water systems. The FBI is investigating whether Iran could be behind them.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "'Trump-class' battleships will cost a lot more than expected",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=y-7FStrGq_A",
+      "published": "2026-08-06T21:00:27+00:00",
+      "summary": "President Trump’s plan for new nuclear-powered battleships will take longer and cost a lot more than initially thought, according to a new report from the nonpartisan Congressional Budget Office.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Country stars make history on this week's 'Billboard' charts",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=bFwjlPA_Mm4",
+      "published": "2026-08-06T15:30:24+00:00",
+      "summary": "Ella Langley, Morgan Wallen and other country stars dominate this week’s \"Billboard\" charts. Langley’s country hit “Choosin’ Texas” is now just the seventh song in history to spend 16 weeks at No. 1 on the \"Billboard\" Hot 100.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "Violent Night 2 | Official Trailer",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=FmM2giDwLAE",
+      "published": "2026-08-04T15:00:15+00:00",
+      "summary": "Merry Christmas to all, and to all a good fight. Violent Night 2 only in theaters December 4. If you’re nice, you get presents from the Big Guy. If you’re naughty, you get justice.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "One Night Only Is...",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=v7lBY4Au1mU",
+      "published": "2026-08-01T15:22:02+00:00",
+      "summary": "energetic. chaotic. unconventional. one night only is this summer’s biggest rom-com! see it in theaters this friday.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "go, go, go! get your tickets now for ONE NIGHT ONLY. in theaters august 7",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=fywtiE6V3XU",
+      "published": "2026-07-30T23:22:52+00:00",
+      "summary": "What if one messy night turns out to be the best thing that ever happened to you? This summer, Will Gluck, the filmmaker of Anyone but You and Easy A, celebrates modern romantic comedy on the big screen with a fresh, witty, swoony original…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "RAMAYANA - Official Trailer (English)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=74nF-FWAS6M",
+      "published": "2026-08-05T16:00:16+00:00",
+      "summary": "An epic journey unlike anything seen before. Watch the official trailer for #Ramayana, coming to theatres worldwide November 6.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=gXjurDkYnEM",
+      "published": "2026-08-05T13:00:08+00:00",
+      "summary": "Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21.\" Follow us on social: https://www.instagram.com/InsidiousMovie https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RAMAYANA - Official Trailer",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=1zip1rNaNYs",
+      "published": "2026-07-30T05:13:28+00:00",
+      "summary": "The Ramayana Trailer. This is where the EPIC BEGINS. 🏹 Namit Malhotra's Ramayana Directed by Nitesh Tiwari In Cinemas Worldwide, Diwali 2026.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "JUMANJI: OPEN WORLD - Official Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=zhApeaHMvfs",
+      "published": "2026-07-29T00:59:43+00:00",
+      "summary": "One. Last. Game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RESIDENT EVIL – Official Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=mNd1gb19A-c",
+      "published": "2026-07-23T13:00:24+00:00",
+      "summary": "𝙽𝚘 𝚜𝚠𝚎𝚊𝚝. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the official trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY – Final Trailer (Peter’s Journey) 4K",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=P3uI5sLosKU",
+      "published": "2026-07-21T16:00:31+00:00",
+      "summary": "It's about to be a Brand New Day. Get tickets now. #SpiderManBrandNewDay is in theatres July 31. https://spidermanbrandnewday.movie/ It's a BRAND NEW DAY for Peter Parker.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Primetime | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=5fHXyqQOKL8",
+      "published": "2026-08-06T13:00:36+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Inspired by true events. Only in theaters September 25.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Onslaught | Official Trailer 2 HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=AMLCbpM1fRQ",
+      "published": "2026-07-27T13:07:12+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Adam Wingard and starring Adria Arjona, Alex Pereira, Drew Starkey, Rebecca Hall, Reginald VelJohnson, Michael Biehn, Eric Wareheim and Dan Stevens. ONSLAUGHT – In Theaters September 4.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Misty Green | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ACaWuqeLpSk",
+      "published": "2026-07-22T13:00:31+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Bad Lieutenant: Tokyo - Official Teaser Trailer - Coming Soon",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=brkTgfdmztk",
+      "published": "2026-08-03T21:00:20+00:00",
+      "summary": "A disgraced Tokyo detective spirals into a world of corruption, addiction, and violence as he becomes entangled in a twister investigation involving a vengeful ex-Yakuza, an enigmatic FBI agent, and a missing daughter of a powerful…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "It Ends - Official Trailer - In Theaters August 21",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=zFszhQLMNXU",
+      "published": "2026-07-22T16:00:07+00:00",
+      "summary": "Four friends post-college plans are derailed when a wrong turn traps them on a never-ending backroad.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Outer Banks: Season 5 | Final Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=ZP_-xfWQ6_U",
+      "published": "2026-08-07T16:00:00+00:00",
+      "summary": "Truly wouldn’t wanna do it with anyone else. The final season returns on August 20th! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Secret Woman | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=FldeGkt4e4k",
+      "published": "2026-08-07T07:00:00+00:00",
+      "summary": "A woman with memory loss discovers she has a family and a shipping empire. She returns to a seemingly perfect past to uncover the truth about why she left. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Grand Theft Auto VI: An Extended Look",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=w5gez0OPGg8",
+      "published": "2026-08-06T12:30:00+00:00",
+      "summary": "Grand Theft Auto VI: An Extended Look. Coming to Netflix Thursday, August 27 at 12PM PT | 3PM ET. https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Love Is Blind: UK: Season 3 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=pePmU6Qu7IE",
+      "published": "2026-08-05T15:30:00+00:00",
+      "summary": "A new group of UK singles enter the iconic dating pods in search of love - but who will make it out of the pods and down the aisle? Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "One Hundred Years of Solitude | Part One Recap | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=rRozCeic1ws",
+      "published": "2026-08-05T15:00:00+00:00",
+      "summary": "Macondo was born from the dream of José Arcadio Buendía and Úrsula Iguarán. It grew amid promises, love and hope, until war and a curse transformed the progress and prosperity into fear, forever changing the fate of the Buendía family.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tyler Perry’s Beauty in Black: Season 3 | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=LK9Jl5Esyz4",
+      "published": "2026-08-05T13:00:00+00:00",
+      "summary": "Your favorite obsession is back, and there’s a new power couple in town. Season 3 of Tyler Perry’s Beauty in Black comes to Netflix August 27th. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Let’s Marry Harry | Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=kagQ-t_PvY8",
+      "published": "2026-08-04T16:30:00+00:00",
+      "summary": "Harry’s about to make the biggest decision of his life, and Alex Cooper’s making sure he does it right. Let’s Marry Harry premieres August 5th, with the finale on August 12, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "POGUES. FOR. LIFE. OBX, the final season. August 20. #OuterBanks",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=NqvgMGrpDyE",
+      "published": "2026-08-04T15:30:00+00:00",
+      "summary": "POGUES. FOR. LIFE. OBX, the final season. August 20. #OuterBanksNetflix Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Her fresh start is just getting started. LEANNE SEASON 2 premieres Aug 27 on Netflix 🌼",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=M1E-y3QZ6d8",
+      "published": "2026-08-04T13:00:00+00:00",
+      "summary": "Her fresh start is just getting started. LEANNE SEASON 2 premieres Aug 27 on Netflix 🌼 #LeanneNetflix Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Blood Sacrifice | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=YjgT9NMq3ww",
+      "published": "2026-08-04T07:00:00+00:00",
+      "summary": "Time is running out! Created by George Kay (Lupin, Hijack), the five-part drama introduces a tense and emotionally charged hunt for a killer targeting the police. It is summer time in Stockholm, when the darkness never really creeps in.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Silo — The Cast of Silo Responds to Fan Theories | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=DxsqywdrezY",
+      "published": "2026-08-03T21:59:59+00:00",
+      "summary": "Thank you for your theories. Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Widow's Bay — Richard Warren's Last Meal | Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Vq4zsIlavjg",
+      "published": "2026-08-03T17:59:53+00:00",
+      "summary": "A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Dark Matter — The Official Podcast: Season 1 Catch-up | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=6QFKEchmTyU",
+      "published": "2026-08-03T15:59:49+00:00",
+      "summary": "Based on the best-selling novel by Blake Crouch, “Dark Matter” is a story of the road not taken. Starring Joel Edgerton and Jennifer Connelly. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -250,8 +681,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 7
+    "youtubeCount": 12,
+    "trailerCount": 27,
+    "sourceCount": 17
   }
 }
