@@ -1,79 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-09T05:00:02.841719Z",
-  "generatedAtDisplay": "2026-08-09 01:00 AM EDT",
+  "generatedAt": "2026-08-09T14:00:02.882985Z",
+  "generatedAtDisplay": "2026-08-09 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward CS education / AI policy, Democracy / press freedom, Democracy / anti-fascism. The strongest items in this run are Cockroach protests: parents of Indian students who took their own lives reveal pressure of leaked exam papers and resits, Pool noodles and DIY escape rooms: the best screen-free kids’ activities, recommended by teachers, and OpenAI to pause some work on AI model Astra due to security concerns.",
+  "summary": "Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are New Orleans Catholic high school agrees second payout over child sexual abuse accusations, California Expands Lunch Program That Pairs Schools With Farms, and Top Democrats simulate election threats as Trump continues assault on voting.",
   "mainItems": [
     {
-      "title": "Cockroach protests: parents of Indian students who took their own lives reveal pressure of leaked exam papers and resits",
+      "title": "New Orleans Catholic high school agrees second payout over child sexual abuse accusations",
       "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/aug/09/new-orleans-catholic-high-school-settlement",
+      "published": "2026-08-09T11:00:16+00:00",
+      "summary": "Jesuit high school deal resolves lawsuit stemming from allegations of molestation by school janitor decades prior For the second time in as many months, a prominent Catholic high school in New Orleans recently agreed to pay an out-of-court…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "California Expands Lunch Program That Pairs Schools With Farms",
+      "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/global-development/2026/aug/09/cockroach-protests-parents-of-indian-students-who-took-their-own-lives-reveal-pressure-of-leaked-exam-papers-and-resits",
-      "published": "2026-08-09T04:00:04+00:00",
-      "summary": "The number of student suicides in the country has risen steeply in the past 10 years and many families blame education system mismanagement as a contributing factor When the Indian government announced the resignation of its education…",
+      "url": "https://www.the74million.org/article/kids-are-actually-eating-the-food-state-expands-lunch-program-that-pairs-schools-with-farms/",
+      "published": "2026-08-09T10:30:00+00:00",
+      "summary": "This story was originally published by CalMatters. Sign up for their newsletters. In school lunchrooms around Lake Tahoe, students line up for a red, hairy fruit called a rambutan.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "Pool noodles and DIY escape rooms: the best screen-free kids’ activities, recommended by teachers",
+      "title": "Top Democrats simulate election threats as Trump continues assault on voting",
       "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/thefilter-us/2026/aug/08/screen-free-activities-kids",
-      "published": "2026-08-08T17:15:02+00:00",
-      "summary": "Five elementary school teachers spill the beans on how to keep kids engaged in creative play and away from screens The best back-to-school sales and 21 things tweens want this season Sign up for the Filter US newsletter, your weekly guide…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "OpenAI to pause some work on AI model Astra due to security concerns",
-      "source": "The Guardian US",
-      "category": "Security / computing",
-      "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
-      "published": "2026-08-08T17:00:41+00:00",
-      "summary": "Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks OpenAI will pause some work on an artificial intelligence model because of security concerns, the company stated on…",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 10
-    },
-    {
-      "title": "Meta AI breaches external firm during security testing sandbox error",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/08/08/nx-s1-5924878/meta-ai-breaches-external-firm-during-security-testing-sandbox-error",
-      "published": "2026-08-08T11:43:52+00:00",
-      "summary": "Meta announced one of its models had hacked another company during a security test. It becomes the third company to announced such a security breach.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 10
-    },
-    {
-      "title": "The Bond effect? How MI6 fascinates spy watchers around the world",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/aug/08/mi6-global-reputation-expertise-spy-agencies",
-      "published": "2026-08-08T11:00:44+00:00",
-      "summary": "Britain’s spooks take quiet satisfaction from survey ranking Secret Intelligence Service Europe’s top espionage agency MI6 has the swagger of James Bond; its French equivalent, DGSE, the complexities of the television drama Le Bureau.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Come for Beastfolk Barber's cute, furry hairdressing, but stay for its thoughtful approach to worldbuilding",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/come-for-beastfolk-barbers-cute-furry-hairdressing-but-stay-for-its-thoughtful-approach-to-worldbuilding",
-      "published": "2026-08-08T21:51:32+00:00",
-      "summary": "Is there anything more fear-inducing in this world than a haircut? Whether it be the need to endure a cacophony of sensory nightmares, or the knowledge that a stylist who doesn't quite care enough could turn your split ends into the split…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/aug/09/democrats-election-disruption-planning-exercises",
+      "published": "2026-08-09T12:00:14+00:00",
+      "summary": "Chuck Schumer and other senators took part in exercises in which legal experts laid out election disruption scenarios In a Washington DC conference room last month, some of the most senior Democrats in the US Senate gathered to plan for a…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Sky’s DiJonai Carrington posts ‘white privilege’ after ejection for hard foul on Sophie Cunningham",
+      "title": "‘Panda of the insect world’: the moscardón bumblebee creates buzz for invertebrate of the year",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/environment/2026/aug/09/moscardon-bumblebee-invertebrate-of-the-year-2026",
+      "published": "2026-08-09T11:00:14+00:00",
+      "summary": "Bombus dahlbomii, a giant ginger bumblebee fondly known as the flying mouse, is in decline in its native Patagonia due to commercial farming Revealed: the top 10 invertebrates of the year We all love bumblebees.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Revisiting the original No Man's Sky, 10 years on - and why it was always good in its own way",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/revisiting-the-original-no-mans-sky-10-years-on",
+      "published": "2026-08-09T09:00:00+00:00",
+      "summary": "\"Commencing Atlus suit initialisation system\", crackles a synthesised female voice from out of my TV screen. \"Life support systems activated\", she continues. And eventually, \"User initialisation sequence complete\".",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Russian family denied asylum in Finland fear reprisals for pro-Ukraine activism",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba",
-      "published": "2026-08-08T21:26:24+00:00",
-      "summary": "Carrington tossed for Flagrant 2 on Cunningham Chicago player tags Fever in social media post Clark’s eighth technical triggers one-game ban DiJonai Carrington of the Chicago Sky was ejected Saturday after being called for a Flagrant 2…",
+      "url": "https://www.theguardian.com/world/2026/aug/09/russian-family-finland-reprisals-pro-ukraine-activism",
+      "published": "2026-08-09T07:00:08+00:00",
+      "summary": "Nikita and Olga Belov say they will be persecuted on return to Moscow but are yet to convince Finnish authorities A Russian family faces deportation from Finland after repeatedly being denied asylum – despite the threat of arrest,…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "‘They kidnapped a hard-working kid off our streets’: the gardener seized by ICE – and the New York town fighting back",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/09/they-kidnapped-a-hard-working-kid-off-our-streets-the-gardener-seized-by-ice-and-the-new-york-town-fighting-back",
+      "published": "2026-08-09T05:00:06+00:00",
+      "summary": "Gerson Turcios was 17 when he fled violence in Honduras to build a new life in the US. Six years later, he was mowing lawns in his home town of Rhinebeck when immigration officers took him.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
@@ -87,53 +87,53 @@
       "score": 9
     },
     {
-      "title": "The moment I knew: As I packed, our future looked uncertain – then he gave me his fluffy pyjamas",
-      "source": "The Guardian US",
+      "title": "LAUSD’s Youngest Students Will Start a Screen-Free School Year. Here’s What Parents Need to Know",
+      "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/09/the-moment-i-knew-as-i-packed-our-future-looked-uncertain-then-he-gave-me-his-fluffy-pyjamas",
-      "published": "2026-08-08T20:00:09+00:00",
-      "summary": "Stephanie Casey was an exchange student in Ireland when she met Jack.",
+      "url": "https://www.the74million.org/zero2eight/lausds-youngest-students-will-start-a-screen-free-school-year-heres-what-parents-need-to-know/",
+      "published": "2026-08-08T16:30:00+00:00",
+      "summary": "Screen time limits for Los Angeles Unified School District’s youngest students begin in August.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 9
     },
     {
-      "title": "When Sex Education Funding Is Taken Away, Young People Lose a Safe Space",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/when-sex-education-funding-is-taken-away-young-people-lose-a-safe-space/",
-      "published": "2026-08-08T10:30:00+00:00",
-      "summary": "On June 26, Children’s Aid was preparing to continue summer sexual health and youth development programming in schools, foster care settings and community organizations across New York City.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "title": "Two months after revealing Crossfire, That's No Moon have seemingly laid off 14 members of staff",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/two-months-after-revealing-crossfire-thats-no-moon-have-seemingly-laid-off-14-members-of-staff",
+      "published": "2026-08-08T16:09:41+00:00",
+      "summary": "Two months ago, That's No Moon, a studio made up of former Naughty Dog and Infinity Ward devs, revealed Crossfire, a cinematic military shooter with a sci-fi flair.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
-      "published": "2026-08-08T21:15:12+00:00",
-      "summary": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "‘You live for those breakthroughs’: an investigation into military tribunals on US airbases meant protecting those who spoke out",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/membership/2026/aug/09/you-live-for-those-breakthroughs-an-investigation-into-military-tribunals-on-us-airbases-meant-protecting-those-who-spoke-out",
+      "published": "2026-08-09T13:00:16+00:00",
+      "summary": "Guardian journalists have been uncovering cases involving US military personnel that bypassed British courts.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 8
     },
     {
-      "title": "Crab Odyssey: Crustacean Wandered the Seas in a Bottle for Months, Scientists Find",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/crab-odyssey-crustacean-wandered-the-seas-in-a-bottle-for-months-scientists-find/",
-      "published": "2026-08-08T10:00:26+00:00",
-      "summary": "Scientists discovered a crab that had spent months at sea stuck in a bottle, subsisting on algae and fish that wandered into its plastic lair. The lonely mariner offers a warning about the impacts of human pollution on wildlife worldwide.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
+      "title": "What explains abortions going up despite stricter laws in many states?",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
-      "published": "2026-08-08T10:00:00+00:00",
-      "summary": "Drug addiction groups are reeling after Trump officials said federal grants cannot be used to hand out test strips to drug users. The strips help users check street drugs for dangerous adulterants.",
+      "url": "https://www.npr.org/2026/08/09/nx-s1-5887615/what-explains-abortions-going-up-despite-stricter-laws-in-many-states",
+      "published": "2026-08-09T12:12:15+00:00",
+      "summary": "The number of abortions is up in the U.S. Is it because fewer people are using birth control pills?",
       "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+      "published": "2026-08-09T11:00:14+00:00",
+      "summary": "The massive Toba eruption seems to have had little climate impact.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 8
     }
   ],
@@ -313,6 +313,17 @@
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 6,
       "verdict": "Summary is enough"
+    },
+    {
+      "title": "Taking Guilty Gear Strive to Court | Super Smash Sunday",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=iKSgozM1spg",
+      "published": "2026-08-09T12:52:22+00:00",
+      "summary": "KC is out this weekend, so Jesse G and El Cheshire are going to spend some time in Guilty Gear Strive. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Madness in the Mouth | Adventure Is Nigh! - The Slow Walk Home | Ep. 7",
@@ -791,8 +802,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 20,
+    "youtubeCount": 21,
     "trailerCount": 29,
-    "sourceCount": 20
+    "sourceCount": 19
   }
 }

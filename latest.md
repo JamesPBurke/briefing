@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-09T05:00:02.841719Z
+Generated: 2026-08-09T14:00:02.882985Z
 
-Today's sweep leans toward CS education / AI policy, Democracy / press freedom, Democracy / anti-fascism. The strongest items in this run are Cockroach protests: parents of Indian students who took their own lives reveal pressure of leaked exam papers and resits, Pool noodles and DIY escape rooms: the best screen-free kids’ activities, recommended by teachers, and OpenAI to pause some work on AI model Astra due to security concerns.
+Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, CS education / AI policy. The strongest items in this run are New Orleans Catholic high school agrees second payout over child sexual abuse accusations, California Expands Lunch Program That Pairs Schools With Farms, and Top Democrats simulate election threats as Trump continues assault on voting.
 
 ## Briefing
 
@@ -33,68 +33,68 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Cockroach protests: parents of Indian students who took their own lives reveal pressure of leaked exam papers and resits [10/10]
+### 1. New Orleans Catholic high school agrees second payout over child sexual abuse accusations [10/10]
 **Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Jesuit high school deal resolves lawsuit stemming from allegations of molestation by school janitor decades prior For the second time in as many months, a prominent Catholic high school in New Orleans recently agreed to pay an out-of-court…
+
+Link: https://www.theguardian.com/us-news/2026/aug/09/new-orleans-catholic-high-school-settlement
+
+### 2. California Expands Lunch Program That Pairs Schools With Farms [10/10]
+**Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-The number of student suicides in the country has risen steeply in the past 10 years and many families blame education system mismanagement as a contributing factor When the Indian government announced the resignation of its education…
+This story was originally published by CalMatters. Sign up for their newsletters. In school lunchrooms around Lake Tahoe, students line up for a red, hairy fruit called a rambutan.
 
-Link: https://www.theguardian.com/global-development/2026/aug/09/cockroach-protests-parents-of-indian-students-who-took-their-own-lives-reveal-pressure-of-leaked-exam-papers-and-resits
+Link: https://www.the74million.org/article/kids-are-actually-eating-the-food-state-expands-lunch-program-that-pairs-schools-with-farms/
 
-### 2. Pool noodles and DIY escape rooms: the best screen-free kids’ activities, recommended by teachers [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Five elementary school teachers spill the beans on how to keep kids engaged in creative play and away from screens The best back-to-school sales and 21 things tweens want this season Sign up for the Filter US newsletter, your weekly guide…
-
-Link: https://www.theguardian.com/thefilter-us/2026/aug/08/screen-free-activities-kids
-
-### 3. OpenAI to pause some work on AI model Astra due to security concerns [10/10]
-**Source:** The Guardian US  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks OpenAI will pause some work on an artificial intelligence model because of security concerns, the company stated on…
-
-Link: https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns
-
-### 4. Meta AI breaches external firm during security testing sandbox error [10/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-Meta announced one of its models had hacked another company during a security test. It becomes the third company to announced such a security breach.
-
-Link: https://www.npr.org/2026/08/08/nx-s1-5924878/meta-ai-breaches-external-firm-during-security-testing-sandbox-error
-
-### 5. The Bond effect? How MI6 fascinates spy watchers around the world [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Britain’s spooks take quiet satisfaction from survey ranking Secret Intelligence Service Europe’s top espionage agency MI6 has the swagger of James Bond; its French equivalent, DGSE, the complexities of the television drama Le Bureau.
-
-Link: https://www.theguardian.com/world/2026/aug/08/mi6-global-reputation-expertise-spy-agencies
-
-### 6. Come for Beastfolk Barber's cute, furry hairdressing, but stay for its thoughtful approach to worldbuilding [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Is there anything more fear-inducing in this world than a haircut? Whether it be the need to endure a cacophony of sensory nightmares, or the knowledge that a stylist who doesn't quite care enough could turn your split ends into the split…
-
-Link: https://www.rockpapershotgun.com/come-for-beastfolk-barbers-cute-furry-hairdressing-but-stay-for-its-thoughtful-approach-to-worldbuilding
-
-### 7. Sky’s DiJonai Carrington posts ‘white privilege’ after ejection for hard foul on Sophie Cunningham [9/10]
+### 3. Top Democrats simulate election threats as Trump continues assault on voting [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Carrington tossed for Flagrant 2 on Cunningham Chicago player tags Fever in social media post Clark’s eighth technical triggers one-game ban DiJonai Carrington of the Chicago Sky was ejected Saturday after being called for a Flagrant 2…
+Chuck Schumer and other senators took part in exercises in which legal experts laid out election disruption scenarios In a Washington DC conference room last month, some of the most senior Democrats in the US Senate gathered to plan for a…
 
-Link: https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba
+Link: https://www.theguardian.com/us-news/2026/aug/09/democrats-election-disruption-planning-exercises
+
+### 4. ‘Panda of the insect world’: the moscardón bumblebee creates buzz for invertebrate of the year [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Bombus dahlbomii, a giant ginger bumblebee fondly known as the flying mouse, is in decline in its native Patagonia due to commercial farming Revealed: the top 10 invertebrates of the year We all love bumblebees.
+
+Link: https://www.theguardian.com/environment/2026/aug/09/moscardon-bumblebee-invertebrate-of-the-year-2026
+
+### 5. Revisiting the original No Man's Sky, 10 years on - and why it was always good in its own way [9/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+"Commencing Atlus suit initialisation system", crackles a synthesised female voice from out of my TV screen. "Life support systems activated", she continues. And eventually, "User initialisation sequence complete".
+
+Link: https://www.eurogamer.net/revisiting-the-original-no-mans-sky-10-years-on
+
+### 6. Russian family denied asylum in Finland fear reprisals for pro-Ukraine activism [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Nikita and Olga Belov say they will be persecuted on return to Moscow but are yet to convince Finnish authorities A Russian family faces deportation from Finland after repeatedly being denied asylum – despite the threat of arrest,…
+
+Link: https://www.theguardian.com/world/2026/aug/09/russian-family-finland-reprisals-pro-ukraine-activism
+
+### 7. ‘They kidnapped a hard-working kid off our streets’: the gardener seized by ICE – and the New York town fighting back [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Gerson Turcios was 17 when he fled violence in Honduras to build a new life in the US. Six years later, he was mowing lawns in his home town of Rhinebeck when immigration officers took him.
+
+Link: https://www.theguardian.com/us-news/2026/aug/09/they-kidnapped-a-hard-working-kid-off-our-streets-the-gardener-seized-by-ice-and-the-new-york-town-fighting-back
 
 ### 8. Iran issues tough demands to reopen strait of Hormuz as deal still out of reach [9/10]
 **Source:** The Guardian US  
@@ -105,50 +105,50 @@ Tehran urges US to ‘correct its behaviour’ as UAE says one of its ships targ
 
 Link: https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach
 
-### 9. The moment I knew: As I packed, our future looked uncertain – then he gave me his fluffy pyjamas [9/10]
-**Source:** The Guardian US  
+### 9. LAUSD’s Youngest Students Will Start a Screen-Free School Year. Here’s What Parents Need to Know [9/10]
+**Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Stephanie Casey was an exchange student in Ireland when she met Jack.
+Screen time limits for Los Angeles Unified School District’s youngest students begin in August.
 
-Link: https://www.theguardian.com/lifeandstyle/2026/aug/09/the-moment-i-knew-as-i-packed-our-future-looked-uncertain-then-he-gave-me-his-fluffy-pyjamas
+Link: https://www.the74million.org/zero2eight/lausds-youngest-students-will-start-a-screen-free-school-year-heres-what-parents-need-to-know/
 
-### 10. When Sex Education Funding Is Taken Away, Young People Lose a Safe Space [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+### 10. Two months after revealing Crossfire, That's No Moon have seemingly laid off 14 members of staff [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-On June 26, Children’s Aid was preparing to continue summer sexual health and youth development programming in schools, foster care settings and community organizations across New York City.
+Two months ago, That's No Moon, a studio made up of former Naughty Dog and Infinity Ward devs, revealed Crossfire, a cinematic military shooter with a sci-fi flair.
 
-Link: https://www.the74million.org/article/when-sex-education-funding-is-taken-away-young-people-lose-a-safe-space/
+Link: https://www.rockpapershotgun.com/two-months-after-revealing-crossfire-thats-no-moon-have-seemingly-laid-off-14-members-of-staff
 
-### 11. X replaces its revenue-sharing program with ‘Original Content Rewards’ [8/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 11. ‘You live for those breakthroughs’: an investigation into military tribunals on US airbases meant protecting those who spoke out [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th.
+Guardian journalists have been uncovering cases involving US military personnel that bypassed British courts.
 
-Link: https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards
+Link: https://www.theguardian.com/membership/2026/aug/09/you-live-for-those-breakthroughs-an-investigation-into-military-tribunals-on-us-airbases-meant-protecting-those-who-spoke-out
 
-### 12. Crab Odyssey: Crustacean Wandered the Seas in a Bottle for Months, Scientists Find [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Scientists discovered a crab that had spent months at sea stuck in a bottle, subsisting on algae and fish that wandered into its plastic lair. The lonely mariner offers a warning about the impacts of human pollution on wildlife worldwide.
-
-Link: https://www.404media.co/crab-odyssey-crustacean-wandered-the-seas-in-a-bottle-for-months-scientists-find/
-
-### 13. Federal funds can't be used to give test strips to drug users, raising overdose fears [8/10]
+### 12. What explains abortions going up despite stricter laws in many states? [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Drug addiction groups are reeling after Trump officials said federal grants cannot be used to hand out test strips to drug users. The strips help users check street drugs for dangerous adulterants.
+The number of abortions is up in the U.S. Is it because fewer people are using birth control pills?
 
-Link: https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears
+Link: https://www.npr.org/2026/08/09/nx-s1-5887615/what-explains-abortions-going-up-despite-stricter-laws-in-many-states
+
+### 13. Mount Toba eruption doesn't seem like it could nearly kill our species [8/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+The massive Toba eruption seems to have had little climate impact.
+
+Link: https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/
 
 ## YouTube
 
@@ -295,6 +295,15 @@ Link: https://www.youtube.com/watch?v=sso4uz7H1ak
 ► Watch the Full Video Here: https://youtu.be/GE4L0clL2d0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=B8Ulxu9hc1s
+
+### Taking Guilty Gear Strive to Court | Super Smash Sunday [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+KC is out this weekend, so Jesse G and El Cheshire are going to spend some time in Guilty Gear Strive. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
+
+Link: https://www.youtube.com/watch?v=iKSgozM1spg
 
 ### Madness in the Mouth | Adventure Is Nigh! - The Slow Walk Home | Ep. 7 [7/10]
 **Creator:** Second Wind  
