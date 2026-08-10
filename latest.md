@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-10T05:00:03.821728Z
+Generated: 2026-08-10T09:01:31.822516Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are World’s seas have hit hottest temperature on record for July, say scientists, Alexandria Ocasio-Cortez announces decision to freeze her eggs, and Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are ‘This is asking a lot of the buttocks’: my 23-hour Wagner marathon on a rock hard seat in a heatwave, Ukraine launches drone attack on Russian oil refining facilities – Europe live, and Xbox now requires Australians to prove their age to access games rated 18+, though "games you already own won't be affected".
 
 ## Briefing
 
@@ -33,7 +33,34 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. World’s seas have hit hottest temperature on record for July, say scientists [10/10]
+### 1. ‘This is asking a lot of the buttocks’: my 23-hour Wagner marathon on a rock hard seat in a heatwave [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+How does it feel to be locked into a venue notorious for its unpadded seating to experience a full-throttle Ring cycle and more? Our critic found out at the 150th anniversary of the mighty Bayreuth festival Liszt and Bruckner were there…
+
+Link: https://www.theguardian.com/music/2026/aug/10/wagner-marathon-bayreuth-ring-cycle-anniversary
+
+### 2. Ukraine launches drone attack on Russian oil refining facilities – Europe live [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Volodymyr Zelenskyy says that strikes on such facilities were directly linked with putting more pressure on Moscow The ⁠Russian central bank has advised ⁠creditors ⁠to support ​businesses affected by ⁠Ukrainian attacks on logistics centres…
+
+Link: https://www.theguardian.com/world/live/2026/aug/10/ukraine-drones-russia-oil-facilities-europe-heat-drought-latest-updates-news
+
+### 3. Xbox now requires Australians to prove their age to access games rated 18+, though "games you already own won't be affected" [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Xbox is now asking users in Australia to verify their age before they're able to purchase games rated at 18+ on the Xbox Store on Xbox consoles, as well as the Microsoft Store on PC. Read more
+
+Link: https://www.eurogamer.net/xbox-store-pc-australia-age-verification-r18-games
+
+### 4. World’s seas have hit hottest temperature on record for July, say scientists [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -42,7 +69,7 @@ Average sea surface temperature outside polar regions was highest on record for 
 
 Link: https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists
 
-### 2. Alexandria Ocasio-Cortez announces decision to freeze her eggs [9/10]
+### 5. Alexandria Ocasio-Cortez announces decision to freeze her eggs [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,16 +78,7 @@ US congresswoman to share journey online as she criticizes Trump administration�
 
 Link: https://www.theguardian.com/us-news/2026/aug/09/alexandria-ocasio-cortez-eggs-fertility
 
-### 3. Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Israeli PM says IDF will not withdraw until Hamas is disarmed and rebukes US pressure to end wars without his country’s buy-in Israel’s prime minister, Benjamin Netanyahu, has rejected a US-backed 15-point peace plan for Gaza in a rare…
-
-Link: https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu
-
-### 4. Perseid meteor shower set to dazzle northern hemisphere this week [9/10]
+### 6. Perseid meteor shower set to dazzle northern hemisphere this week [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -69,7 +87,7 @@ Astronomers say viewing conditions promising for this year’s shower, and 50 to
 
 Link: https://www.theguardian.com/science/2026/aug/09/perseid-meteor-shower
 
-### 5. Nearly 15 Years After Student Discipline Reform, School Suspensions in Mass. Are Falling. Are Emergency Removals Taking Their Place? [9/10]
+### 7. Nearly 15 Years After Student Discipline Reform, School Suspensions in Mass. Are Falling. Are Emergency Removals Taking Their Place? [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -78,7 +96,7 @@ In 2012, after child advocates spent years trying to reduce punitive suspensions
 
 Link: https://www.the74million.org/article/nearly-15-years-after-student-discipline-reform-school-suspensions-in-mass-are-falling-are-emergency-removals-taking-their-place/
 
-### 6. New Lies of P documentary teases next game "is going to be really fun and emotionally moving" [9/10]
+### 8. New Lies of P documentary teases next game "is going to be really fun and emotionally moving" [9/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -87,7 +105,7 @@ One of the teams behind Neowiz's Souls-like Lies of P has released a short docum
 
 Link: https://www.eurogamer.net/lies-of-p-studio-next-game-tease
 
-### 7. California Expands Lunch Program That Pairs Schools With Farms [9/10]
+### 9. California Expands Lunch Program That Pairs Schools With Farms [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -96,34 +114,25 @@ This story was originally published by CalMatters. Sign up for their newsletters
 
 Link: https://www.the74million.org/article/kids-are-actually-eating-the-food-state-expands-lunch-program-that-pairs-schools-with-farms/
 
-### 8. Movie paradise? How Malta became a magnet for big film shoots [8/10]
+### 10. Harry Potter fans force relocation of £430m undersea cable to avoid Dobby’s ‘grave’ [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-EU’s smallest country has played ancient Rome, the Land of Spells and Bay of Pentos and draws more than 30 productions annually What links the Caribbean, ancient Rome, Enid Blyton’s Land of Spells, the south of France and the Bay of Pentos…
+Power cable linking UK and Ireland now passes near Bronze Age human burial remains instead of fictional grave on Welsh beach Harry Potter fans have forced a new multimillion-pound power cable between the UK and Ireland to be relocated…
 
-Link: https://www.theguardian.com/world/2026/aug/10/movie-paradise-how-malta-became-a-magnet-for-big-film-shoots
+Link: https://www.theguardian.com/environment/2026/aug/10/harry-potter-fans-force-relocation-of-430m-undersea-cable-to-avoid-dobbys-grave
 
-### 9. Ukraine war briefing: North Korea sending 50,000 troops to Russia – Zelenskyy [8/10]
+### 11. Is it true that … you need to detox your scalp? [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Kim Jong-un’s regime has already provided thousands of soldiers, as well as missiles and artillery; Turkey readies arms package for Ukraine. What we know on day 1,629 Continue reading...
+A good scalp cleanse can be useful, but it partly depends where you live We’re experiencing the “skinification” of the scalp, says Desmond Tobin, professor of dermatological science at University College Dublin.
 
-Link: https://www.theguardian.com/world/2026/aug/10/ukraine-war-briefing-north-korea-sending-50000-troops-to-russia-zelenskyy
+Link: https://www.theguardian.com/lifeandstyle/2026/aug/10/is-it-true-that-you-need-to-detox-your-scalp
 
-### 10. Premier League 2026-27 preview No 1: Arsenal [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-With most of their rivals changing managers, can the champions go back-to-back for the first time in more than 90 years? Guardian writers’ predicted position: 1st (NB: this is not necessarily Ed Aarons’ prediction but the average of our…
-
-Link: https://www.theguardian.com/football/2026/aug/10/premier-league-2026-27-preview-no-1-arsenal
-
-### 11. It's been a record summer for foodborne illness [8/10]
+### 12. It's been a record summer for foodborne illness [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -132,34 +141,16 @@ Heat and tainted produce have made this a record summer for foodborne illness. C
 
 Link: https://www.npr.org/2026/08/09/nx-s1-5923912/its-been-a-record-summer-for-foodborne-illness
 
-### 12. Canadian government steps in as ‘out of control’ wildfires force thousands to flee [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ efforts Canada’s federal government has announced it will provide urgent assistance to British Columbia after an onslaught of…
-
-Link: https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires
-
-### 13. Zuckerberg’s yacht was closer, but someone else saved a stranded boat [8/10]
+### 13. 49ers coach says his Tesla was on Autopilot when he crashed [8/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel.
+Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time Shanahan said only that the accident was his fault.
 
-Link: https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat
+Link: https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash
 
 ## YouTube
-
-### DeepMind Just Changed How AI Sees The World [8/10]
-**Creator:** Two Minute Papers  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Gemma4 paper and some more is available here: https://arxiv.org/abs/2607.02770 https://x.com/googlegemma/status/2077449152062247219 https://x.
-
-Link: https://www.youtube.com/watch?v=vO6SWG-jxvE
 
 ### Egyptian Pyramids Were Built with Ramps, Not by Aliens [7/10]
 **Creator:** WIRED  
@@ -269,9 +260,9 @@ Link: https://www.youtube.com/watch?v=F09RTPC-AZc
 
 Link: https://www.youtube.com/watch?v=of7DA1tZqNs
 
-### Taking Guilty Gear Strive to Court | Super Smash Sunday [7/10]
+### Taking Guilty Gear Strive to Court | Super Smash Sunday [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 KC is out this weekend, so Jesse G and El Cheshire are going to spend some time in Guilty Gear Strive. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.

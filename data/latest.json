@@ -1,11 +1,41 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-10T05:00:03.821728Z",
-  "generatedAtDisplay": "2026-08-10 01:00 AM EDT",
+  "generatedAt": "2026-08-10T09:01:31.822516Z",
+  "generatedAtDisplay": "2026-08-10 05:01 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Education / pedagogy. The strongest items in this run are World’s seas have hit hottest temperature on record for July, say scientists, Alexandria Ocasio-Cortez announces decision to freeze her eggs, and Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are ‘This is asking a lot of the buttocks’: my 23-hour Wagner marathon on a rock hard seat in a heatwave, Ukraine launches drone attack on Russian oil refining facilities – Europe live, and Xbox now requires Australians to prove their age to access games rated 18+, though \"games you already own won't be affected\".",
   "mainItems": [
+    {
+      "title": "‘This is asking a lot of the buttocks’: my 23-hour Wagner marathon on a rock hard seat in a heatwave",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/music/2026/aug/10/wagner-marathon-bayreuth-ring-cycle-anniversary",
+      "published": "2026-08-10T04:00:34+00:00",
+      "summary": "How does it feel to be locked into a venue notorious for its unpadded seating to experience a full-throttle Ring cycle and more? Our critic found out at the 150th anniversary of the mighty Bayreuth festival Liszt and Bruckner were there…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Ukraine launches drone attack on Russian oil refining facilities – Europe live",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/world/live/2026/aug/10/ukraine-drones-russia-oil-facilities-europe-heat-drought-latest-updates-news",
+      "published": "2026-08-10T08:45:53+00:00",
+      "summary": "Volodymyr Zelenskyy says that strikes on such facilities were directly linked with putting more pressure on Moscow The ⁠Russian central bank has advised ⁠creditors ⁠to support ​businesses affected by ⁠Ukrainian attacks on logistics centres…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Xbox now requires Australians to prove their age to access games rated 18+, though \"games you already own won't be affected\"",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/xbox-store-pc-australia-age-verification-r18-games",
+      "published": "2026-08-10T08:27:25+00:00",
+      "summary": "Xbox is now asking users in Australia to verify their age before they're able to purchase games rated at 18+ on the Xbox Store on Xbox consoles, as well as the Microsoft Store on PC. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
     {
       "title": "World’s seas have hit hottest temperature on record for July, say scientists",
       "source": "The Guardian US",
@@ -14,7 +44,7 @@
       "published": "2026-08-10T02:00:31+00:00",
       "summary": "Average sea surface temperature outside polar regions was highest on record for July, beating previous high in 2023 The world’s seas were hotter last month than in any July on record, scientists have said, as devastating heat struck…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Alexandria Ocasio-Cortez announces decision to freeze her eggs",
@@ -24,16 +54,6 @@
       "published": "2026-08-09T22:06:49+00:00",
       "summary": "US congresswoman to share journey online as she criticizes Trump administration’s attacks on reproductive care Alexandria Ocasio-Cortez has announced she is going to freeze her eggs and will be sharing the process online.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
-      "published": "2026-08-09T20:00:48+00:00",
-      "summary": "Israeli PM says IDF will not withdraw until Hamas is disarmed and rebukes US pressure to end wars without his country’s buy-in Israel’s prime minister, Benjamin Netanyahu, has rejected a US-backed 15-point peace plan for Gaza in a rare…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
@@ -77,32 +97,22 @@
       "score": 9
     },
     {
-      "title": "Movie paradise? How Malta became a magnet for big film shoots",
+      "title": "Harry Potter fans force relocation of £430m undersea cable to avoid Dobby’s ‘grave’",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/aug/10/movie-paradise-how-malta-became-a-magnet-for-big-film-shoots",
-      "published": "2026-08-10T04:00:34+00:00",
-      "summary": "EU’s smallest country has played ancient Rome, the Land of Spells and Bay of Pentos and draws more than 30 productions annually What links the Caribbean, ancient Rome, Enid Blyton’s Land of Spells, the south of France and the Bay of Pentos…",
+      "url": "https://www.theguardian.com/environment/2026/aug/10/harry-potter-fans-force-relocation-of-430m-undersea-cable-to-avoid-dobbys-grave",
+      "published": "2026-08-10T07:46:52+00:00",
+      "summary": "Power cable linking UK and Ireland now passes near Bronze Age human burial remains instead of fictional grave on Welsh beach Harry Potter fans have forced a new multimillion-pound power cable between the UK and Ireland to be relocated…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 8
     },
     {
-      "title": "Ukraine war briefing: North Korea sending 50,000 troops to Russia – Zelenskyy",
+      "title": "Is it true that … you need to detox your scalp?",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/aug/10/ukraine-war-briefing-north-korea-sending-50000-troops-to-russia-zelenskyy",
-      "published": "2026-08-10T01:18:33+00:00",
-      "summary": "Kim Jong-un’s regime has already provided thousands of soldiers, as well as missiles and artillery; Turkey readies arms package for Ukraine. What we know on day 1,629 Continue reading...",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 8
-    },
-    {
-      "title": "Premier League 2026-27 preview No 1: Arsenal",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/football/2026/aug/10/premier-league-2026-27-preview-no-1-arsenal",
-      "published": "2026-08-09T23:01:27+00:00",
-      "summary": "With most of their rivals changing managers, can the champions go back-to-back for the first time in more than 90 years? Guardian writers’ predicted position: 1st (NB: this is not necessarily Ed Aarons’ prediction but the average of our…",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/10/is-it-true-that-you-need-to-detox-your-scalp",
+      "published": "2026-08-10T07:00:37+00:00",
+      "summary": "A good scalp cleanse can be useful, but it partly depends where you live We’re experiencing the “skinification” of the scalp, says Desmond Tobin, professor of dermatological science at University College Dublin.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 8
     },
@@ -117,38 +127,17 @@
       "score": 8
     },
     {
-      "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
-      "published": "2026-08-09T18:20:25+00:00",
-      "summary": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ efforts Canada’s federal government has announced it will provide urgent assistance to British Columbia after an onslaught of…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 8
-    },
-    {
-      "title": "Zuckerberg’s yacht was closer, but someone else saved a stranded boat",
+      "title": "49ers coach says his Tesla was on Autopilot when he crashed",
       "source": "The Verge",
       "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
-      "published": "2026-08-09T17:30:57+00:00",
-      "summary": "Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel.",
+      "url": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
+      "published": "2026-08-09T15:56:58+00:00",
+      "summary": "Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time Shanahan said only that the accident was his fault.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 8
     }
   ],
   "youtube": [
-    {
-      "title": "DeepMind Just Changed How AI Sees The World",
-      "source": "Two Minute Papers",
-      "category": "AI / YouTube",
-      "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
-      "published": "2026-08-07T08:22:00+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Gemma4 paper and some more is available here: https://arxiv.org/abs/2607.02770 https://x.com/googlegemma/status/2077449152062247219 https://x.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
-    },
     {
       "title": "Egyptian Pyramids Were Built with Ramps, Not by Aliens",
       "source": "WIRED",
@@ -289,8 +278,8 @@
       "published": "2026-08-09T18:48:16+00:00",
       "summary": "KC is out this weekend, so Jesse G and El Cheshire are going to spend some time in Guilty Gear Strive. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Truck-kun, Dinoblade, Dodo Duckie, and Feed the Pit | Yahtzee Tries",
@@ -758,8 +747,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 17,
+    "youtubeCount": 16,
     "trailerCount": 29,
-    "sourceCount": 18
+    "sourceCount": 17
   }
 }
