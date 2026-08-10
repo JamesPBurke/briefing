@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-10T09:01:31.822516Z
+Generated: 2026-08-10T14:00:03.707793Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are ‘This is asking a lot of the buttocks’: my 23-hour Wagner marathon on a rock hard seat in a heatwave, Ukraine launches drone attack on Russian oil refining facilities – Europe live, and Xbox now requires Australians to prove their age to access games rated 18+, though "games you already own won't be affected".
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / computing. The strongest items in this run are Sean Murray reflects on 10 years of No Man's Sky, its future, and why Hello Games' "redemption arc" narrative "isn't really the story" of the developer, As developer Arc System Works promises a fix, Marvel Tōkon's suffering PC players are creating some bizarre home remedies for its dire performance woes, and The first rival Android app store just arrived in the US Play Store.
 
 ## Briefing
 
@@ -33,122 +33,122 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘This is asking a lot of the buttocks’: my 23-hour Wagner marathon on a rock hard seat in a heatwave [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-How does it feel to be locked into a venue notorious for its unpadded seating to experience a full-throttle Ring cycle and more? Our critic found out at the 150th anniversary of the mighty Bayreuth festival Liszt and Bruckner were there…
-
-Link: https://www.theguardian.com/music/2026/aug/10/wagner-marathon-bayreuth-ring-cycle-anniversary
-
-### 2. Ukraine launches drone attack on Russian oil refining facilities – Europe live [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Volodymyr Zelenskyy says that strikes on such facilities were directly linked with putting more pressure on Moscow The ⁠Russian central bank has advised ⁠creditors ⁠to support ​businesses affected by ⁠Ukrainian attacks on logistics centres…
-
-Link: https://www.theguardian.com/world/live/2026/aug/10/ukraine-drones-russia-oil-facilities-europe-heat-drought-latest-updates-news
-
-### 3. Xbox now requires Australians to prove their age to access games rated 18+, though "games you already own won't be affected" [9/10]
+### 1. Sean Murray reflects on 10 years of No Man's Sky, its future, and why Hello Games' "redemption arc" narrative "isn't really the story" of the developer [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Xbox is now asking users in Australia to verify their age before they're able to purchase games rated at 18+ on the Xbox Store on Xbox consoles, as well as the Microsoft Store on PC. Read more
+When Hello Games ended its trailer for No Man's Sky 's first major update with three little words - "Our journey continues" - it's doubtful anyone, studio included, could have predicted the game would still be going strong some 10 years…
 
-Link: https://www.eurogamer.net/xbox-store-pc-australia-age-verification-r18-games
+Link: https://www.eurogamer.net/sean-murray-hello-games-reflects-10-years-no-mans-sky
 
-### 4. World’s seas have hit hottest temperature on record for July, say scientists [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Average sea surface temperature outside polar regions was highest on record for July, beating previous high in 2023 The world’s seas were hotter last month than in any July on record, scientists have said, as devastating heat struck…
-
-Link: https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists
-
-### 5. Alexandria Ocasio-Cortez announces decision to freeze her eggs [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-US congresswoman to share journey online as she criticizes Trump administration’s attacks on reproductive care Alexandria Ocasio-Cortez has announced she is going to freeze her eggs and will be sharing the process online.
-
-Link: https://www.theguardian.com/us-news/2026/aug/09/alexandria-ocasio-cortez-eggs-fertility
-
-### 6. Perseid meteor shower set to dazzle northern hemisphere this week [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Astronomers say viewing conditions promising for this year’s shower, and 50 to 100 meteors an hour may be visible The Perseid summer light show is back, and viewing conditions are especially promising across the northern hemisphere.
-
-Link: https://www.theguardian.com/science/2026/aug/09/perseid-meteor-shower
-
-### 7. Nearly 15 Years After Student Discipline Reform, School Suspensions in Mass. Are Falling. Are Emergency Removals Taking Their Place? [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-In 2012, after child advocates spent years trying to reduce punitive suspensions in schools, Massachusetts passed sweeping education reforms under Chapter 222, kickstarting a longstanding policy shift away from exclusionary discipline…
-
-Link: https://www.the74million.org/article/nearly-15-years-after-student-discipline-reform-school-suspensions-in-mass-are-falling-are-emergency-removals-taking-their-place/
-
-### 8. New Lies of P documentary teases next game "is going to be really fun and emotionally moving" [9/10]
+### 2. As developer Arc System Works promises a fix, Marvel Tōkon's suffering PC players are creating some bizarre home remedies for its dire performance woes [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-One of the teams behind Neowiz's Souls-like Lies of P has released a short documentary detailing how they kept "testing and refining" the game before its release, as well as offering a little insight into its hardcore "games by gamers"…
+Marvel Tōkon: Fighting Souls has been out for a few days now, and the PC version appears a little busted.
 
-Link: https://www.eurogamer.net/lies-of-p-studio-next-game-tease
+Link: https://www.eurogamer.net/marvel-tokon-pc-problems-strange-fixes
 
-### 9. California Expands Lunch Program That Pairs Schools With Farms [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-This story was originally published by CalMatters. Sign up for their newsletters. In school lunchrooms around Lake Tahoe, students line up for a red, hairy fruit called a rambutan.
-
-Link: https://www.the74million.org/article/kids-are-actually-eating-the-food-state-expands-lunch-program-that-pairs-schools-with-farms/
-
-### 10. Harry Potter fans force relocation of £430m undersea cable to avoid Dobby’s ‘grave’ [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Power cable linking UK and Ireland now passes near Bronze Age human burial remains instead of fictional grave on Welsh beach Harry Potter fans have forced a new multimillion-pound power cable between the UK and Ireland to be relocated…
-
-Link: https://www.theguardian.com/environment/2026/aug/10/harry-potter-fans-force-relocation-of-430m-undersea-cable-to-avoid-dobbys-grave
-
-### 11. Is it true that … you need to detox your scalp? [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-A good scalp cleanse can be useful, but it partly depends where you live We’re experiencing the “skinification” of the scalp, says Desmond Tobin, professor of dermatological science at University College Dublin.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/aug/10/is-it-true-that-you-need-to-detox-your-scalp
-
-### 12. It's been a record summer for foodborne illness [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Heat and tainted produce have made this a record summer for foodborne illness. Cases of cyclosporiasis have topped 10,000, and the CDC just traced a new salmonella outbreak to Mexican jalapeños.
-
-Link: https://www.npr.org/2026/08/09/nx-s1-5923912/its-been-a-record-summer-for-foodborne-illness
-
-### 13. 49ers coach says his Tesla was on Autopilot when he crashed [8/10]
+### 3. The first rival Android app store just arrived in the US Play Store [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time Shanahan said only that the accident was his fault.
+Following the latest twist in Google's legal battles with Epic, US Android users are now able to open Google's Play Store and download a third-party digital store with its own selection of apps.
 
-Link: https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash
+Link: https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games
+
+### 4. If you drove yourself mad building computers in Minecraft, Pight's redstone-inspired puzzling is an affordable palate cleanser [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+If you're 1) in the mood for a soothing and affordable 2D block-shoving puzzler, and 2) have many memories of building frightful hydraulic slaughterhouses in Minecraft, then perhaps Pight is for you.
+
+Link: https://www.rockpapershotgun.com/if-you-drove-yourself-mad-building-computers-in-minecraft-pights-redstone-inspired-puzzling-is-an-affordable-palate-cleanser
+
+### 5. Absenteeism Is a Major Problem. So Why Can’t Schools Agree on How to Measure It? [10/10]
+**Source:** The 74  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+It’s 2026. Satellites connect to devices in our pockets, artificial intelligence algorithms can drive cars and scan X-rays, and Homer’s 3,000-year-old poem is the basis for the summer’s hottest movie. But there’s always a but.
+
+Link: https://www.the74million.org/article/absenteeism-is-a-major-problem-so-why-cant-schools-agree-on-how-to-measure-it/
+
+### 6. "I'm sure you're going to watch it because everyone is" - GTA 6 premiering on Netflix represents Rockstar "trying new things", says Take-Two boss [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+One of the most surprising things about Rockstar's Grand Theft Auto 6 trailer tease last week was word that it will premiere on subscription-based service Netflix - a move I can't ever remember another game company doing. Read more
+
+Link: https://www.eurogamer.net/take-two-boss-gta-6-netflix-trailer
+
+### 7. Kurdish hunger striker says ICE force-feeding ‘mentally broke me’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Exclusive: Film-maker Gabar Choli describes how he endured coercive treatment over eight months in detention in Texas A Kurdish man who was force fed over the course of eight months while on hunger strike in US immigration detention has…
+
+Link: https://www.theguardian.com/us-news/2026/aug/10/kurdish-hunger-striker-ice-force-feeding
+
+### 8. These startups are chasing the next big thing in LLMs [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here.
+
+Link: https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/
+
+### 9. Who really needs testosterone? [10/10]
+**Source:** NPR Health  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The military plans to start screening service members for low testosterone, and social media is overflowing with claims about testosterone therapy. But who actually needs it?
+
+Link: https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy
+
+### 10. Max Miller to stay on Ohio ballots despite pressure to drop out of race after domestic abuse allegations – live [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+The House Republican has been disavowed by his own party amid allegations that he has been abusive toward his ex-wife and daughter Sign up for the Breaking News US email On Tuesday, Republican voters in South Carolina will have the…
+
+Link: https://www.theguardian.com/us-news/live/2026/aug/10/ohio-republicans-max-miller-domestic-abuse-allegations-us-politics-live-latest-news
+
+### 11. Opinion: Miami’s Decision to End Universal School Lunch Harms More Than Just Hungry Kids [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+For the past several years in Miami public schools, every student — including my own children — could stand in the same cafeteria line, carry the same tray and eat lunch for free.
+
+Link: https://www.the74million.org/article/miamis-decision-to-end-universal-school-lunch-harms-more-than-just-hungry-kids/
+
+### 12. The Roboguard Revolution is Short-Circuiting [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Knightscope and other robotics companies are rethinking automated security following canceled contracts. One pivot? Human guards.
+
+Link: https://www.404media.co/the-roboguard-revolution-is-short-circuiting/
+
+### 13. Some disabled people want to advance their careers. They say Medicaid rules stop them [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Medicaid will have new work requirements next year. But some people with disabilities, who already work, say they'd like to work more, but risk losing their Medicaid coverage if they earn too much.
+
+Link: https://www.npr.org/2026/08/10/nx-s1-5910791/disabilities-people-work-requirements-medicaid-income-caps-buy-in
 
 ## YouTube
 
@@ -169,15 +169,6 @@ Link: https://www.youtube.com/watch?v=MFMxY3r_TNE
 Sir Isaac Newton claimed time flows universally. Albert Einstein said that time is relative to the observer.
 
 Link: https://www.youtube.com/watch?v=nOGTjQ6eCaY
-
-### GRWM (Ancient Egypt Edition) [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-AI slop is littering your feed and spreading misinformation, so WIRED’s here to set the record straight. Join Egyptologist Professor Laurel Bestock as we fact check the internet, egyptology edition.
-
-Link: https://www.youtube.com/watch?v=ZH2Xiiik1R4
 
 ### ICE says it will only release body cam footage when it's in agency's 'best interests' [7/10]
 **Creator:** NPR  
@@ -260,6 +251,15 @@ Link: https://www.youtube.com/watch?v=F09RTPC-AZc
 
 Link: https://www.youtube.com/watch?v=of7DA1tZqNs
 
+### The Obscure Games We Love | Windbreaker Podcast [10/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
+
+Link: https://www.youtube.com/watch?v=fX7uK6NKk6E
+
 ### Taking Guilty Gear Strive to Court | Super Smash Sunday [6/10]
 **Creator:** Second Wind  
 **Verdict:** Summary is enough  
@@ -286,15 +286,6 @@ Link: https://www.youtube.com/watch?v=OE7Mi0n86eM
 This video is brought to you by Crucible, the innovative and modern tabletop role-playing game system built exclusively for Foundry Virtual Tabletop as a digital platform. – https://foundryvtt.
 
 Link: https://www.youtube.com/watch?v=P3I5cqciWD8
-
-### Silly or Serious TTRPG Question? It's Your Time to Ask! | RPG Help Desk [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Ask (a silly question) and yee shall receive (a silly answer) Or ask a serious question. Kendo from Kobold Press and Jesse Galena are taking your TTRPG questions today.
-
-Link: https://www.youtube.com/watch?v=39gjUrTK2NA
 
 ## Entertainment Recommendations
 
@@ -366,7 +357,7 @@ Link: https://www.youtube.com/watch?v=74nF-FWAS6M
 **Verdict:** Looks promising  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
 
-Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21." Follow us on social: https://www.instagram.com/InsidiousMovie https://twitter.
+Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21. Follow us on social: https://www.instagram.com/InsidiousMovie https://twitter.
 
 Link: https://www.youtube.com/watch?v=gXjurDkYnEM
 
@@ -576,12 +567,3 @@ Link: https://www.youtube.com/watch?v=M1E-y3QZ6d8
 Time is running out! Created by George Kay (Lupin, Hijack), the five-part drama introduces a tense and emotionally charged hunt for a killer targeting the police. It is summer time in Stockholm, when the darkness never really creeps in.
 
 Link: https://www.youtube.com/watch?v=YjgT9NMq3ww
-
-### Silo — The Cast of Silo Responds to Fan Theories | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Thank you for your theories. Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.
-
-Link: https://www.youtube.com/watch?v=DxsqywdrezY
