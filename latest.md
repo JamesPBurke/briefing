@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-11T09:01:41.493325Z
+Generated: 2026-08-11T14:00:04.167805Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Oil prices rise and gold hits two-month high after Trump makes new deal demands on Iran – business live, ‘Drops take seconds but change a life for ever’: the women saving India’s remotest people from polio, and Love me, love my bruised ego: what the narcissist-artist film tells us about the fear of ageing.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are ‘Real mummy’s curse’: health warning over growing trade in mummified human remains, Until Dawn and Little Nightmares 3 studio Supermassive announces further layoffs, with as many as 75 people expected to lose their jobs, and ‘A lazy cop’: Maryland police officer allegedly faked traffic stops to avoid service calls.
 
 ## Briefing
 
@@ -33,59 +33,59 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Oil prices rise and gold hits two-month high after Trump makes new deal demands on Iran – business live [10/10]
+### 1. ‘Real mummy’s curse’: health warning over growing trade in mummified human remains [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-US president demands compensation for damage incurred by US, complicating standoff with Tehran Shares in International Workplace Group slumped more than 11% after analysts flagged risks to cashflow at the flexible office space provider.
+Academic paper says often illicit trade exposes enthusiasts – and postal workers handling items – to serious risks A growing global trade in mummified human remains has been described by academics as “a real mummy’s curse” that poses a…
 
-Link: https://www.theguardian.com/business/live/2026/aug/11/oil-prices-rise-gold-hits-two-month-high-trump-makes-new-deal-demands-iran-live-updates
+Link: https://www.theguardian.com/science/2026/aug/11/mummified-human-remains-trade-health-warning-curse
 
-### 2. ‘Drops take seconds but change a life for ever’: the women saving India’s remotest people from polio [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Shameema and Tanzeela must trek for miles in summer heat to vaccinate children in Kashmir’s highlands as part of a vast national programme Before sunrise, Shameema slips on her worn rubber sandals and checks the insulated box – the ice…
-
-Link: https://www.theguardian.com/global-development/2026/aug/11/health-disease-polio-vaccination-india-immunisation-women-remote-children-kashmir
-
-### 3. Love me, love my bruised ego: what the narcissist-artist film tells us about the fear of ageing [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Bitter Christmas, Late Fame and The Christophers all depict geniuses aware of their waning acclaim and terrified it will end Entertainment culture is so preoccupied with nowness that last month we were inundated with speculation about how…
-
-Link: https://www.theguardian.com/film/2026/aug/11/love-me-love-my-bruised-ego-what-the-narcissist-artist-film-tells-us-about-the-fear-of-ageing
-
-### 4. Zuckerberg pushes ‘superintelligent’ AI for all as Meta drops open-source model [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Meta CEO presents utopian vision of AI in 6,000-word essay amid Silicon Valley debate over government regulation Mark Zuckerberg published a lengthy essay on Monday detailing his views on artificial intelligence and announced several plans…
-
-Link: https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta
-
-### 5. Marvel's Spider-Man 2 just had its biggest sales boost in years thanks to Brand New Day [9/10]
+### 2. Until Dawn and Little Nightmares 3 studio Supermassive announces further layoffs, with as many as 75 people expected to lose their jobs [10/10]
 **Source:** Eurogamer  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-In yet another example of a successful film or TV show raising the profile of a related game , Hollywood blockbuster Spider-Man: Brand New Day has brought new players to the years-old Marvel's Spider-Man 2 game. Read more
+Supermassive - the UK studio best known for its cinematic horror games including Until Dawn, The Quarry , and the Dark Pictures Anthology series - has announced more layoffs, this time affecting as many as 75 employees. Read more
 
-Link: https://www.eurogamer.net/spider-man-2-brand-new-day-film-sales-boost
+Link: https://www.eurogamer.net/little-nightmares-3-dark-pictures-supermassive-layoffs
 
-### 6. Ars Live: Ross Scott discusses the Stop Killing Games movement [9/10]
-**Source:** Ars Technica  
+### 3. ‘A lazy cop’: Maryland police officer allegedly faked traffic stops to avoid service calls [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Baltimore officer Dequwan Houchins, 30, indicted for allegedly making false traffic stop reports for months A Baltimore, Maryland, police officer avoided service calls by claiming he was on traffic stops when he was in fact “sitting idle…
+
+Link: https://www.theguardian.com/us-news/2026/aug/11/baltimore-police-false-traffic-stop-reports
+
+### 4. NYC Reading Scores Sink, With Third Grade Proficiency Falling 14 points [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+This story was originally published by Chalkbeat. Sign up for their newsletters at ckbe.
+
+Link: https://www.the74million.org/article/nyc-reading-scores-sink-with-third-grade-proficiency-falling-14-points/
+
+### 5. The Download: the next big thing in LLMs and how AI academic research is shifting [10/10]
+**Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Our discussion takes place live on August 11 at 3 pm ET.
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
 
-Link: https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/
+Link: https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/
+
+### 6. Stop Killing Games join lawsuit against the PlayStation Store's "Sony Tax," in latest venture beyond game preservation [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+"It’s time to sue Sony," game preservation advocates Stop Killing Games have declared, as the group throws its weight behind a Dutch lawsuit targeting the PlayStation Store’s alleged monopoly and "Sony Tax" on digital games.
+
+Link: https://www.rockpapershotgun.com/stop-killing-games-join-lawsuit-against-the-playstation-stores-sony-tax-in-latest-venture-beyond-game-preservation
 
 ### 7. With new open models, Meta pitches another reboot of its struggling AI strategy [9/10]
 **Source:** Ars Technica  
@@ -105,7 +105,25 @@ Updated When Jen Hanson, a veteran multilingual educator, first arrived at Denve
 
 Link: https://www.the74million.org/article/denver-district-accused-of-keeping-kids-in-english-learner-program-far-too-long/
 
-### 9. Hunter Biden says Joe Biden's cancer has spread. A doctor explains what that means [8/10]
+### 9. California’s Big Sur sees evacuation orders as Timber fire grows [8/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Evacuations include famed tourist destinations as blaze grew to over 1,700 acres by Monday Evacuations have been ordered for areas along California’s famous Big Sur coast as a wildfire burns in the nearby steep, rugged mountains.
+
+Link: https://www.theguardian.com/us-news/2026/aug/11/big-sur-timber-fire-evacuations
+
+### 10. Company Offering ‘100% Human-Written, Never AI’ Medical Research Is Entirely AI [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Research Gold's team of human methodologists are either AI generated or using the identity of real people without their permission
+
+Link: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/
+
+### 11. Hunter Biden says Joe Biden's cancer has spread. A doctor explains what that means [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -114,7 +132,7 @@ Former President Joe Biden's cancer has spread to his bones, according to his so
 
 Link: https://www.npr.org/2026/08/11/nx-s1-5927282/hunter-biden-says-joe-bidens-cancer-has-spread-a-doctor-explains-what-that-means
 
-### 10. China's courts side with workers displaced by AI but employees remain anxious [8/10]
+### 12. China's courts side with workers displaced by AI, but job anxiety persists [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -122,24 +140,6 @@ Link: https://www.npr.org/2026/08/11/nx-s1-5927282/hunter-biden-says-joe-bidens-
 China's workers are vulnerable as the push to adopt AI comes from top leaders amid a sluggish economy.
 
 Link: https://www.npr.org/2026/08/10/nx-s1-5822592/chinas-courts-side-with-workers-displaced-by-ai-but-employees-remain-anxious
-
-### 11. Mark Zuckerberg Posts Deranged 6,500-Word Essay About Giving Everyone AI Superintelligence [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-"The future is for everyone," Zuckerberg says, describing future that is primarily good for Meta.
-
-Link: https://www.404media.co/mark-zuckerberg-posts-deranged-6-500-word-essay-about-giving-everyone-ai-superintelligence/
-
-### 12. Opinion: Miami’s Decision to End Universal School Lunch Harms More Than Just Hungry Kids [8/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-For the past several years in Miami public schools, every student — including my own children — could stand in the same cafeteria line, carry the same tray and eat lunch for free.
-
-Link: https://www.the74million.org/article/miamis-decision-to-end-universal-school-lunch-harms-more-than-just-hungry-kids/
 
 ### 13. Worldbuilding Gone Wrong: One Night Only [7/10]
 **Source:** Reactor  
@@ -151,15 +151,6 @@ Can background details swallow up the rest of a film? They sure can. The post Wo
 Link: https://reactormag.com/movie-review-worldbuilding-gone-wrong-in-one-night-only/
 
 ## YouTube
-
-### Egyptian Pyramids Were Built with Ramps, Not by Aliens [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-*It was the aliens!* Or was it? Egyptologist Professor Laurel Bestock rejoins WIRED to break down five discoveries that tell us exactly how the Egyptian pyramids were built; from the Giza quarry to The Diary of Merer, Laurel paints a vivid…
-
-Link: https://www.youtube.com/watch?v=MFMxY3r_TNE
 
 ### Ted Lasso's Hannah Waddingham talks about navigating film and television as a tall woman [7/10]
 **Creator:** NPR  
@@ -577,7 +568,16 @@ Her fresh start is just getting started. LEANNE SEASON 2 premieres Aug 27 on Net
 
 Link: https://www.youtube.com/watch?v=M1E-y3QZ6d8
 
-### Silo — Daniel and Helen's Journey Ends | Season 3 Scene | Apple TV [10/10]
+### Last Seen — Official Trailer | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Starring Patrick Brammall, this Australian thriller follows a dispatcher who receives a call that his missing daughter may be alive, risking everything to save her. A missing daughter. An alarming distress call.
+
+Link: https://www.youtube.com/watch?v=M8nHySkLb64
+
+### Silo — Daniel and Helen Finally Get Answers | Season 3 Scene | Apple TV [10/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.

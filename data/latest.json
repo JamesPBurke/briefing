@@ -1,70 +1,70 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-11T09:01:41.493325Z",
-  "generatedAtDisplay": "2026-08-11 05:01 AM EDT",
+  "generatedAt": "2026-08-11T14:00:04.167805Z",
+  "generatedAtDisplay": "2026-08-11 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Oil prices rise and gold hits two-month high after Trump makes new deal demands on Iran – business live, ‘Drops take seconds but change a life for ever’: the women saving India’s remotest people from polio, and Love me, love my bruised ego: what the narcissist-artist film tells us about the fear of ageing.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Education / pedagogy. The strongest items in this run are ‘Real mummy’s curse’: health warning over growing trade in mummified human remains, Until Dawn and Little Nightmares 3 studio Supermassive announces further layoffs, with as many as 75 people expected to lose their jobs, and ‘A lazy cop’: Maryland police officer allegedly faked traffic stops to avoid service calls.",
   "mainItems": [
     {
-      "title": "Oil prices rise and gold hits two-month high after Trump makes new deal demands on Iran – business live",
+      "title": "‘Real mummy’s curse’: health warning over growing trade in mummified human remains",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/business/live/2026/aug/11/oil-prices-rise-gold-hits-two-month-high-trump-makes-new-deal-demands-iran-live-updates",
-      "published": "2026-08-11T08:52:57+00:00",
-      "summary": "US president demands compensation for damage incurred by US, complicating standoff with Tehran Shares in International Workplace Group slumped more than 11% after analysts flagged risks to cashflow at the flexible office space provider.",
+      "url": "https://www.theguardian.com/science/2026/aug/11/mummified-human-remains-trade-health-warning-curse",
+      "published": "2026-08-11T13:25:07+00:00",
+      "summary": "Academic paper says often illicit trade exposes enthusiasts – and postal workers handling items – to serious risks A growing global trade in mummified human remains has been described by academics as “a real mummy’s curse” that poses a…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "‘Drops take seconds but change a life for ever’: the women saving India’s remotest people from polio",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/global-development/2026/aug/11/health-disease-polio-vaccination-india-immunisation-women-remote-children-kashmir",
-      "published": "2026-08-11T06:00:06+00:00",
-      "summary": "Shameema and Tanzeela must trek for miles in summer heat to vaccinate children in Kashmir’s highlands as part of a vast national programme Before sunrise, Shameema slips on her worn rubber sandals and checks the insulated box – the ice…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Love me, love my bruised ego: what the narcissist-artist film tells us about the fear of ageing",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/film/2026/aug/11/love-me-love-my-bruised-ego-what-the-narcissist-artist-film-tells-us-about-the-fear-of-ageing",
-      "published": "2026-08-11T05:00:04+00:00",
-      "summary": "Bitter Christmas, Late Fame and The Christophers all depict geniuses aware of their waning acclaim and terrified it will end Entertainment culture is so preoccupied with nowness that last month we were inundated with speculation about how…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Zuckerberg pushes ‘superintelligent’ AI for all as Meta drops open-source model",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta",
-      "published": "2026-08-10T22:57:57+00:00",
-      "summary": "Meta CEO presents utopian vision of AI in 6,000-word essay amid Silicon Valley debate over government regulation Mark Zuckerberg published a lengthy essay on Monday detailing his views on artificial intelligence and announced several plans…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Marvel's Spider-Man 2 just had its biggest sales boost in years thanks to Brand New Day",
+      "title": "Until Dawn and Little Nightmares 3 studio Supermassive announces further layoffs, with as many as 75 people expected to lose their jobs",
       "source": "Eurogamer",
       "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/spider-man-2-brand-new-day-film-sales-boost",
-      "published": "2026-08-11T08:41:36+00:00",
-      "summary": "In yet another example of a successful film or TV show raising the profile of a related game , Hollywood blockbuster Spider-Man: Brand New Day has brought new players to the years-old Marvel's Spider-Man 2 game. Read more",
+      "url": "https://www.eurogamer.net/little-nightmares-3-dark-pictures-supermassive-layoffs",
+      "published": "2026-08-11T13:12:33+00:00",
+      "summary": "Supermassive - the UK studio best known for its cinematic horror games including Until Dawn, The Quarry , and the Dark Pictures Anthology series - has announced more layoffs, this time affecting as many as 75 employees. Read more",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
+      "score": 10
     },
     {
-      "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
-      "source": "Ars Technica",
+      "title": "‘A lazy cop’: Maryland police officer allegedly faked traffic stops to avoid service calls",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/baltimore-police-false-traffic-stop-reports",
+      "published": "2026-08-11T12:55:01+00:00",
+      "summary": "Baltimore officer Dequwan Houchins, 30, indicted for allegedly making false traffic stop reports for months A Baltimore, Maryland, police officer avoided service calls by claiming he was on traffic stops when he was in fact “sitting idle…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "NYC Reading Scores Sink, With Third Grade Proficiency Falling 14 points",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/nyc-reading-scores-sink-with-third-grade-proficiency-falling-14-points/",
+      "published": "2026-08-11T12:30:00+00:00",
+      "summary": "This story was originally published by Chalkbeat. Sign up for their newsletters at ckbe.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+      "source": "MIT Technology Review",
       "category": "AI / computing",
-      "url": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
-      "published": "2026-08-10T22:23:43+00:00",
-      "summary": "Our discussion takes place live on August 11 at 3 pm ET.",
+      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+      "published": "2026-08-11T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
       "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
+      "score": 10
+    },
+    {
+      "title": "Stop Killing Games join lawsuit against the PlayStation Store's \"Sony Tax,\" in latest venture beyond game preservation",
+      "source": "Rock Paper Shotgun",
+      "category": "AI / privacy",
+      "url": "https://www.rockpapershotgun.com/stop-killing-games-join-lawsuit-against-the-playstation-stores-sony-tax-in-latest-venture-beyond-game-preservation",
+      "published": "2026-08-11T10:42:49+00:00",
+      "summary": "\"It’s time to sue Sony,\" game preservation advocates Stop Killing Games have declared, as the group throws its weight behind a Dutch lawsuit targeting the PlayStation Store’s alleged monopoly and \"Sony Tax\" on digital games.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
     },
     {
       "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
@@ -87,6 +87,26 @@
       "score": 9
     },
     {
+      "title": "California’s Big Sur sees evacuation orders as Timber fire grows",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/big-sur-timber-fire-evacuations",
+      "published": "2026-08-11T13:53:23+00:00",
+      "summary": "Evacuations include famed tourist destinations as blaze grew to over 1,700 acres by Monday Evacuations have been ordered for areas along California’s famous Big Sur coast as a wildfire burns in the nearby steep, rugged mountains.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
+    },
+    {
+      "title": "Company Offering ‘100% Human-Written, Never AI’ Medical Research Is Entirely AI",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "published": "2026-08-11T13:38:28+00:00",
+      "summary": "Research Gold's team of human methodologists are either AI generated or using the identity of real people without their permission",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
       "title": "Hunter Biden says Joe Biden's cancer has spread. A doctor explains what that means",
       "source": "NPR Health",
       "category": "Science / health",
@@ -97,33 +117,13 @@
       "score": 8
     },
     {
-      "title": "China's courts side with workers displaced by AI but employees remain anxious",
+      "title": "China's courts side with workers displaced by AI, but job anxiety persists",
       "source": "NPR Tech",
       "category": "Science / computing",
       "url": "https://www.npr.org/2026/08/10/nx-s1-5822592/chinas-courts-side-with-workers-displaced-by-ai-but-employees-remain-anxious",
       "published": "2026-08-10T20:14:06+00:00",
       "summary": "China's workers are vulnerable as the push to adopt AI comes from top leaders amid a sluggish economy.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "Mark Zuckerberg Posts Deranged 6,500-Word Essay About Giving Everyone AI Superintelligence",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/mark-zuckerberg-posts-deranged-6-500-word-essay-about-giving-everyone-ai-superintelligence/",
-      "published": "2026-08-10T14:13:30+00:00",
-      "summary": "\"The future is for everyone,\" Zuckerberg says, describing future that is primarily good for Meta.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "Opinion: Miami’s Decision to End Universal School Lunch Harms More Than Just Hungry Kids",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/miamis-decision-to-end-universal-school-lunch-harms-more-than-just-hungry-kids/",
-      "published": "2026-08-10T12:30:00+00:00",
-      "summary": "For the past several years in Miami public schools, every student — including my own children — could stand in the same cafeteria line, carry the same tray and eat lunch for free.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 8
     },
     {
@@ -138,17 +138,6 @@
     }
   ],
   "youtube": [
-    {
-      "title": "Egyptian Pyramids Were Built with Ramps, Not by Aliens",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=MFMxY3r_TNE",
-      "published": "2026-08-08T13:00:14+00:00",
-      "summary": "*It was the aliens!* Or was it? Egyptologist Professor Laurel Bestock rejoins WIRED to break down five discoveries that tell us exactly how the Egyptian pyramids were built; from the Giza quarry to The Diary of Merer, Laurel paints a vivid…",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
     {
       "title": "Ted Lasso's Hannah Waddingham talks about navigating film and television as a tall woman",
       "source": "NPR",
@@ -625,7 +614,18 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Silo — Daniel and Helen's Journey Ends | Season 3 Scene | Apple TV",
+      "title": "Last Seen — Official Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=M8nHySkLb64",
+      "published": "2026-08-11T12:59:57+00:00",
+      "summary": "Starring Patrick Brammall, this Australian thriller follows a dispatcher who receives a call that his missing daughter may be alive, risking everything to save her. A missing daughter. An alarming distress call.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Silo — Daniel and Helen Finally Get Answers | Season 3 Scene | Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
       "url": "https://www.youtube.com/watch?v=_o_yOCXCkW8",
@@ -747,8 +747,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 15,
-    "trailerCount": 30,
-    "sourceCount": 20
+    "youtubeCount": 14,
+    "trailerCount": 31,
+    "sourceCount": 21
   }
 }
