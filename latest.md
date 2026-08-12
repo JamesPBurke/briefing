@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-12T09:02:45.314783Z
+Generated: 2026-08-12T14:00:03.162456Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are AI chatbots are offering financial advice. Should you trust them?, A moment that changed me: My stammer made life a misery – then a song gave me back my voice, and Progressive Peggy Flanagan sweeps Minnesota Senate primary in race defined by anti-ICE anger.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are Europe solar eclipse live: millions flock to viewing spots in Spain, UK and Iceland, In Ohio, Haitians’ American dream shatters as ICE prepares to deport them, and Grok is now an AI ‘teammate’ you can assign work.
 
 ## Briefing
 
@@ -33,97 +33,115 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. AI chatbots are offering financial advice. Should you trust them? [10/10]
-**Source:** NPR Tech  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions.
-
-Link: https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice
-
-### 2. A moment that changed me: My stammer made life a misery – then a song gave me back my voice [10/10]
+### 1. Europe solar eclipse live: millions flock to viewing spots in Spain, UK and Iceland [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-As a teenager, I was so ashamed of my speech disability that even my family didn’t know about it.
+Eclipse to be witnessed by tens of millions across western Europe as enthusiasts gather along path of totality It’s nice of Bónus bosses to offer their employees a chance to go out and experience the eclipse.
 
-Link: https://www.theguardian.com/lifeandstyle/2026/aug/12/a-moment-that-changed-me-stammer-scatman-john
+Link: https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates
 
-### 3. Progressive Peggy Flanagan sweeps Minnesota Senate primary in race defined by anti-ICE anger [10/10]
+### 2. In Ohio, Haitians’ American dream shatters as ICE prepares to deport them [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-State’s Democratic lieutenant governor bests Angie Craig in another election contest pitting a progressive against a moderate Peggy Flanagan, Minnesota’s lieutenant governor, won the Democratic primary for US Senate in a race centered on…
+US immigration has ramped up operations against Haitians, whose temporary protected status was removed by Trump When Monsanto Maler walked out of an Immigration and Customs Enforcement ( ICE ) facility in Blue Ash, Ohio , at 9.
 
-Link: https://www.theguardian.com/us-news/2026/aug/11/minnesota-peggy-flanagan-wins-primary
+Link: https://www.theguardian.com/us-news/2026/aug/12/ohio-haitian-immigrants-ice
 
-### 4. Israel deliberately starting wildfires in southern Lebanon, firefighters say [10/10]
+### 3. Grok is now an AI ‘teammate’ you can assign work [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent "AI teammates" that can do your work for you.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch
+
+### 4. ‘Unrig the economy for working people’: the California candidate who wrote updated labor laws [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-First responders, residents and environmental groups say military dropping flares to destroy forests and crops Firefighters and residents of south Lebanon have accused the Israeli military of lighting wildfires in the region, as forested…
+Marni von Wilpert helped draft Protecting the Right to Organize act, and now wants work toward implementing it Legislation that would modernize federal labor law began with a handful of lawyers meeting, of all places, in an ice-cream shop.
 
-Link: https://www.theguardian.com/world/2026/aug/12/israel-deliberately-starting-wildfires-in-southern-lebanon-firefighters-say
+Link: https://www.theguardian.com/us-news/2026/aug/12/marni-von-wilpert-california-house-race
 
-### 5. Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers [10/10]
+### 5. AI was supposed to destroy jobs. Where’s the carnage? [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+The AI jobs apocalypse never showed up. Still, jobs are changing and economists expect more to come. The prediction was stark: artificial intelligence advancements would wipe out jobs en masse.
+
+Link: https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction
+
+### 6. If the markets reject OpenAI and Anthropic, the US should nationalize them | Bruce Schneier and Nathan E Sanders [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Journalists and others were allowed to fly on presidential jet despite security threat while Trump was spirited away Sign up for the Breaking News US newsletter email Democrats called on Tuesday for a congressional briefing over a stunning…
+From space to telecommunications, the US has a long history of fostering technology for the public good.
 
-Link: https://www.theguardian.com/us-news/2026/aug/11/trump-air-force-one-deception-democrats
+Link: https://www.theguardian.com/commentisfree/2026/aug/12/openai-anthropic-ai-models
 
-### 6. The Download: the next big thing in LLMs and how AI academic research is shifting [10/10]
+### 7. All Haul The King is a co-op comedy corpse-dragging simulator from the makers of Eclipsium, one of 2025's best horror games [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+"That game with the massive dead body was created using generative AI! " roared the masses. "Oh shucks," said I , "Don't worry, I'll soon find another massive dead body game to write about.
+
+Link: https://www.rockpapershotgun.com/all-haul-the-king-is-a-co-op-comedy-corpse-dragging-simulator-from-the-makers-of-eclipsium-one-of-2025s-best-horror-games
+
+### 8. Mutants assemble: what does the future hold for the X-Men? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+After the introduction of a key character in Spider-Man: Brand New Day, Marvel is bringing back one of its most beloved franchises – but the return comes at a precarious time Later-period Marvel movies have resorted to more fantastical…
+
+Link: https://www.theguardian.com/film/2026/aug/12/x-men-spider-man-marvel
+
+### 9. AI Generated 3D Models Flood Market, But Almost No One Is Buying Them [9/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+The number of AI generated uploads to CGTrader would suggest AI is taking over the platform, but buyers are refusing to pay for AI generated models.
+
+Link: https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/
+
+### 10. The Download: our 35 young innovators and the “censorship-industrial complex” [9/10]
 **Source:** MIT Technology Review  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
 This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
 
-Link: https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/
+Link: https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/
 
-### 7. Halo: Campaign Evolved struggles to sell in anywhere near the quantities the recent Black Ops revivals did, and the probable reason? Lack of multiplayer [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Halo: Campaign Evolved - the remake of the original Halo 1 campaign and the first Halo game released on PlayStation - has struggled to sell in meaningful quantities, and the probable reason for it? A lack of multiplayer. Read more
-
-Link: https://www.eurogamer.net/halo-campaign-evolved-launch-sales-numbers
-
-### 8. Opinion: As Students Head Back to School, Let’s Rethink What’s Success in Sex Education [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-As millions of young people head back to school this fall, parents are buying backpacks, teachers are preparing lesson plans, and policymakers are once again debating what belongs in the classroom.
-
-Link: https://www.the74million.org/article/as-students-head-back-to-school-lets-rethink-whats-success-in-sex-education/
-
-### 9. NYC Reading Scores Sink, With Third Grade Proficiency Falling 14 points [9/10]
+### 11. Opinion: Don’t Blink: Why NYC Reads Must Stay on Course [8/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-This story was originally published by Chalkbeat. Sign up for their newsletters at ckbe.
+Nearly 25 years ago, I walked into the U.S. Department of Education at what felt like a remarkable moment in the history of reading instruction.
 
-Link: https://www.the74million.org/article/nyc-reading-scores-sink-with-third-grade-proficiency-falling-14-points/
+Link: https://www.the74million.org/article/dont-blink-why-nyc-reads-must-stay-on-course/
 
-### 10. Stop Killing Games join lawsuit against the PlayStation Store's "Sony Tax," in latest venture beyond game preservation [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+### 12. Nuclear power push ramps up uranium mill — and tribal health concerns [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-"It’s time to sue Sony," game preservation advocates Stop Killing Games have declared, as the group throws its weight behind a Dutch lawsuit targeting the PlayStation Store’s alleged monopoly and "Sony Tax" on digital games.
+Federal efforts to revive uranium mining in the West and decrease reliance on Russian uranium raise concerns about drinking water for tribal communities reckoning with the industry's deadly legacy.
 
-Link: https://www.rockpapershotgun.com/stop-killing-games-join-lawsuit-against-the-playstation-stores-sony-tax-in-latest-venture-beyond-game-preservation
+Link: https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns
 
-### 11. Anne Hathaway Warns (Threatens?) Dakota Johnson in Verity Trailer [8/10]
+### 13. Anne Hathaway Warns (Threatens?) Dakota Johnson in Verity Trailer [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
@@ -131,24 +149,6 @@ Link: https://www.rockpapershotgun.com/stop-killing-games-join-lawsuit-against-t
 Anne Hathaway is everywhere, including in this psychological thriller also starring Josh Hartnett The post Anne Hathaway Warns (Threatens?) Dakota Johnson in Verity Trailer appeared first on Reactor .
 
 Link: https://reactormag.com/anne-hathaway-verity-trailer/
-
-### 12. Company Offering ‘100% Human-Written, Never AI’ Medical Research Is Entirely AI [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-Research Gold's team of human methodologists are either AI generated or using the identity of real people without their permission
-
-Link: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/
-
-### 13. 5 questions parents may have after Trump's latest vaccine move [7/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Parents may be confused about the status of vaccines for their kids after President Trump's new executive order. It's important to know nothing is changing right away.
-
-Link: https://www.npr.org/2026/08/11/nx-s1-5928121/vaccine-schedule-trump-executive-order-parents-confusion
 
 ## YouTube
 
@@ -170,7 +170,7 @@ Federal Reserve Bank of Chicago President Austan Goolsbee joins WIRED to answer 
 
 Link: https://www.youtube.com/watch?v=E1a0Pw_hvGw
 
-### Economist Answers U.S. Economy Questions [8/10]
+### Fed Bank President Answers U.S. Economy Questions [8/10]
 **Creator:** WIRED  
 **Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
@@ -296,9 +296,9 @@ Link: https://www.youtube.com/watch?v=JLSqXV-DgJo
 
 Link: https://www.youtube.com/watch?v=BrHVp5rAru0
 
-### Nick & Jenna Play the Sands of Time Trilogy for the First Time | Part 5 [7/10]
+### Nick & Jenna Play the Sands of Time Trilogy for the First Time | Part 5 [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 The community funded Nick playing the Sands of Time trilogy on stream for the first time. Join Nick and Jenna as they start the series today! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.
@@ -478,15 +478,6 @@ SUBSCRIBE: http://bit.ly/A24subscribe From director Adam Wingard and starring Ad
 
 Link: https://www.youtube.com/watch?v=AMLCbpM1fRQ
 
-### Misty Green | Official Trailer HD | A24 [8/10]
-**Source:** A24  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.
-
-Link: https://www.youtube.com/watch?v=ACaWuqeLpSk
-
 ### Paper Tiger - Official Teaser Trailer - In Theaters November [7/10]
 **Source:** NEON  
 **Verdict:** Worth a glance  
@@ -550,6 +541,24 @@ Evil found a way out. The final trailer has come for our world. GET TICKETS NOW.
 
 Link: https://www.youtube.com/watch?v=bHehvziDKBI
 
+### Animals | Official Teaser | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Power can’t protect you. Directed by and starring Ben Affleck, with Kerry Washington, Steven Yeun, Gillian Anderson, Adriana Paz and Luis Gerardo Méndez, Animals is in select theaters and on Netflix October 9. Watch on Netflix: https://www.
+
+Link: https://www.youtube.com/watch?v=TdSRAb-GSu0
+
+### The next installment in the Monster Anthology rages onto Netflix September 17th [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+You know the rhyme, but do you know the story? The next installment in the Monster Anthology rages onto Netflix September 17th. #MonsterTheLizzieBordenStory Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=2uCINlOKdyI
+
 ### Let’s Marry Harry | Finale Sneak Peek | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -612,15 +621,6 @@ Link: https://www.youtube.com/watch?v=ZP_-xfWQ6_U
 A woman with memory loss discovers she has a family and a shipping empire. She returns to a seemingly perfect past to uncover the truth about why she left. Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=FldeGkt4e4k
-
-### Grand Theft Auto VI: An Extended Look [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Grand Theft Auto VI: An Extended Look. Coming to Netflix Thursday, August 27 at 12PM PT | 3PM ET. https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=w5gez0OPGg8
 
 ### Last Seen — Official Trailer | Apple TV [10/10]
 **Source:** Apple TV  

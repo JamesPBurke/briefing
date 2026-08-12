@@ -1,110 +1,130 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-12T09:02:45.314783Z",
-  "generatedAtDisplay": "2026-08-12 05:02 AM EDT",
+  "generatedAt": "2026-08-12T14:00:03.162456Z",
+  "generatedAtDisplay": "2026-08-12 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are AI chatbots are offering financial advice. Should you trust them?, A moment that changed me: My stammer made life a misery – then a song gave me back my voice, and Progressive Peggy Flanagan sweeps Minnesota Senate primary in race defined by anti-ICE anger.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Democracy / anti-fascism. The strongest items in this run are Europe solar eclipse live: millions flock to viewing spots in Spain, UK and Iceland, In Ohio, Haitians’ American dream shatters as ICE prepares to deport them, and Grok is now an AI ‘teammate’ you can assign work.",
   "mainItems": [
     {
-      "title": "AI chatbots are offering financial advice. Should you trust them?",
-      "source": "NPR Tech",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
-      "published": "2026-08-12T09:00:00+00:00",
-      "summary": "Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "A moment that changed me: My stammer made life a misery – then a song gave me back my voice",
+      "title": "Europe solar eclipse live: millions flock to viewing spots in Spain, UK and Iceland",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/12/a-moment-that-changed-me-stammer-scatman-john",
-      "published": "2026-08-12T05:45:20+00:00",
-      "summary": "As a teenager, I was so ashamed of my speech disability that even my family didn’t know about it.",
+      "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
+      "published": "2026-08-12T13:47:02+00:00",
+      "summary": "Eclipse to be witnessed by tens of millions across western Europe as enthusiasts gather along path of totality It’s nice of Bónus bosses to offer their employees a chance to go out and experience the eclipse.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Progressive Peggy Flanagan sweeps Minnesota Senate primary in race defined by anti-ICE anger",
+      "title": "In Ohio, Haitians’ American dream shatters as ICE prepares to deport them",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/minnesota-peggy-flanagan-wins-primary",
-      "published": "2026-08-12T04:12:42+00:00",
-      "summary": "State’s Democratic lieutenant governor bests Angie Craig in another election contest pitting a progressive against a moderate Peggy Flanagan, Minnesota’s lieutenant governor, won the Democratic primary for US Senate in a race centered on…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/ohio-haitian-immigrants-ice",
+      "published": "2026-08-12T12:00:28+00:00",
+      "summary": "US immigration has ramped up operations against Haitians, whose temporary protected status was removed by Trump When Monsanto Maler walked out of an Immigration and Customs Enforcement ( ICE ) facility in Blue Ash, Ohio , at 9.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Israel deliberately starting wildfires in southern Lebanon, firefighters say",
+      "title": "Grok is now an AI ‘teammate’ you can assign work",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "published": "2026-08-12T11:58:54+00:00",
+      "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘Unrig the economy for working people’: the California candidate who wrote updated labor laws",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/aug/12/israel-deliberately-starting-wildfires-in-southern-lebanon-firefighters-say",
-      "published": "2026-08-12T04:00:20+00:00",
-      "summary": "First responders, residents and environmental groups say military dropping flares to destroy forests and crops Firefighters and residents of south Lebanon have accused the Israeli military of lighting wildfires in the region, as forested…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/marni-von-wilpert-california-house-race",
+      "published": "2026-08-12T11:00:28+00:00",
+      "summary": "Marni von Wilpert helped draft Protecting the Right to Organize act, and now wants work toward implementing it Legislation that would modernize federal labor law began with a handful of lawyers meeting, of all places, in an ice-cream shop.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers",
+      "title": "AI was supposed to destroy jobs. Where’s the carnage?",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
+      "published": "2026-08-12T10:00:27+00:00",
+      "summary": "The AI jobs apocalypse never showed up. Still, jobs are changing and economists expect more to come. The prediction was stark: artificial intelligence advancements would wipe out jobs en masse.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "If the markets reject OpenAI and Anthropic, the US should nationalize them | Bruce Schneier and Nathan E Sanders",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/trump-air-force-one-deception-democrats",
-      "published": "2026-08-12T03:55:47+00:00",
-      "summary": "Journalists and others were allowed to fly on presidential jet despite security threat while Trump was spirited away Sign up for the Breaking News US newsletter email Democrats called on Tuesday for a congressional briefing over a stunning…",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/12/openai-anthropic-ai-models",
+      "published": "2026-08-12T10:00:26+00:00",
+      "summary": "From space to telecommunications, the US has a long history of fostering technology for the public good.",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-      "source": "MIT Technology Review",
-      "category": "AI / computing",
-      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-      "published": "2026-08-11T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "All Haul The King is a co-op comedy corpse-dragging simulator from the makers of Eclipsium, one of 2025's best horror games",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/all-haul-the-king-is-a-co-op-comedy-corpse-dragging-simulator-from-the-makers-of-eclipsium-one-of-2025s-best-horror-games",
+      "published": "2026-08-12T09:43:17+00:00",
+      "summary": "\"That game with the massive dead body was created using generative AI! \" roared the masses. \"Oh shucks,\" said I , \"Don't worry, I'll soon find another massive dead body game to write about.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
     },
     {
-      "title": "Halo: Campaign Evolved struggles to sell in anywhere near the quantities the recent Black Ops revivals did, and the probable reason? Lack of multiplayer",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/halo-campaign-evolved-launch-sales-numbers",
-      "published": "2026-08-12T08:50:25+00:00",
-      "summary": "Halo: Campaign Evolved - the remake of the original Halo 1 campaign and the first Halo game released on PlayStation - has struggled to sell in meaningful quantities, and the probable reason for it? A lack of multiplayer. Read more",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "title": "Mutants assemble: what does the future hold for the X-Men?",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/film/2026/aug/12/x-men-spider-man-marvel",
+      "published": "2026-08-12T09:00:24+00:00",
+      "summary": "After the introduction of a key character in Spider-Man: Brand New Day, Marvel is bringing back one of its most beloved franchises – but the return comes at a precarious time Later-period Marvel movies have resorted to more fantastical…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "AI Generated 3D Models Flood Market, But Almost No One Is Buying Them",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/",
+      "published": "2026-08-12T13:36:41+00:00",
+      "summary": "The number of AI generated uploads to CGTrader would suggest AI is taking over the platform, but buyers are refusing to pay for AI generated models.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 9
     },
     {
-      "title": "Opinion: As Students Head Back to School, Let’s Rethink What’s Success in Sex Education",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/as-students-head-back-to-school-lets-rethink-whats-success-in-sex-education/",
-      "published": "2026-08-11T16:30:00+00:00",
-      "summary": "As millions of young people head back to school this fall, parents are buying backpacks, teachers are preparing lesson plans, and policymakers are once again debating what belongs in the classroom.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+      "source": "MIT Technology Review",
+      "category": "AI / computing",
+      "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+      "published": "2026-08-12T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
-      "title": "NYC Reading Scores Sink, With Third Grade Proficiency Falling 14 points",
+      "title": "Opinion: Don’t Blink: Why NYC Reads Must Stay on Course",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/nyc-reading-scores-sink-with-third-grade-proficiency-falling-14-points/",
-      "published": "2026-08-11T12:30:00+00:00",
-      "summary": "This story was originally published by Chalkbeat. Sign up for their newsletters at ckbe.",
+      "url": "https://www.the74million.org/article/dont-blink-why-nyc-reads-must-stay-on-course/",
+      "published": "2026-08-12T12:30:00+00:00",
+      "summary": "Nearly 25 years ago, I walked into the U.S. Department of Education at what felt like a remarkable moment in the history of reading instruction.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
+      "score": 8
     },
     {
-      "title": "Stop Killing Games join lawsuit against the PlayStation Store's \"Sony Tax,\" in latest venture beyond game preservation",
-      "source": "Rock Paper Shotgun",
-      "category": "AI / privacy",
-      "url": "https://www.rockpapershotgun.com/stop-killing-games-join-lawsuit-against-the-playstation-stores-sony-tax-in-latest-venture-beyond-game-preservation",
-      "published": "2026-08-11T10:42:49+00:00",
-      "summary": "\"It’s time to sue Sony,\" game preservation advocates Stop Killing Games have declared, as the group throws its weight behind a Dutch lawsuit targeting the PlayStation Store’s alleged monopoly and \"Sony Tax\" on digital games.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
+      "title": "Nuclear power push ramps up uranium mill — and tribal health concerns",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
+      "published": "2026-08-12T09:00:00+00:00",
+      "summary": "Federal efforts to revive uranium mining in the West and decrease reliance on Russian uranium raise concerns about drinking water for tribal communities reckoning with the industry's deadly legacy.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "Anne Hathaway Warns (Threatens?) Dakota Johnson in Verity Trailer",
@@ -115,26 +135,6 @@
       "summary": "Anne Hathaway is everywhere, including in this psychological thriller also starring Josh Hartnett The post Anne Hathaway Warns (Threatens?) Dakota Johnson in Verity Trailer appeared first on Reactor .",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
-    },
-    {
-      "title": "Company Offering ‘100% Human-Written, Never AI’ Medical Research Is Entirely AI",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-      "published": "2026-08-11T13:38:28+00:00",
-      "summary": "Research Gold's team of human methodologists are either AI generated or using the identity of real people without their permission",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "5 questions parents may have after Trump's latest vaccine move",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5928121/vaccine-schedule-trump-executive-order-parents-confusion",
-      "published": "2026-08-11T20:20:25+00:00",
-      "summary": "Parents may be confused about the status of vaccines for their kids after President Trump's new executive order. It's important to know nothing is changing right away.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7
     }
   ],
   "youtube": [
@@ -161,7 +161,7 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "Economist Answers U.S. Economy Questions",
+      "title": "Fed Bank President Answers U.S. Economy Questions",
       "source": "WIRED",
       "category": "Tech / media",
       "url": "https://www.youtube.com/watch?v=Ot8lg2nC4Ao",
@@ -322,8 +322,8 @@
       "published": "2026-08-11T22:50:02+00:00",
       "summary": "The community funded Nick playing the Sands of Time trilogy on stream for the first time. Join Nick and Jenna as they start the series today! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Spider-Man: Brand New Day Ushers in the Post-Marvel Studios MCU | The Backdrop",
@@ -504,17 +504,6 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Misty Green | Official Trailer HD | A24",
-      "source": "A24",
-      "category": "Film / trailer",
-      "url": "https://www.youtube.com/watch?v=ACaWuqeLpSk",
-      "published": "2026-07-22T13:00:31+00:00",
-      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer/director Chris Rock and starring Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace, and Chris Rock. MISTY GREEN – In theaters this October.",
-      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 8,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "Paper Tiger - Official Teaser Trailer - In Theaters November",
       "source": "NEON",
       "category": "Film / trailer",
@@ -592,6 +581,28 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Animals | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=TdSRAb-GSu0",
+      "published": "2026-08-12T13:00:04+00:00",
+      "summary": "Power can’t protect you. Directed by and starring Ben Affleck, with Kerry Washington, Steven Yeun, Gillian Anderson, Adriana Paz and Luis Gerardo Méndez, Animals is in select theaters and on Netflix October 9. Watch on Netflix: https://www.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The next installment in the Monster Anthology rages onto Netflix September 17th",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=2uCINlOKdyI",
+      "published": "2026-08-12T12:00:00+00:00",
+      "summary": "You know the rhyme, but do you know the story? The next installment in the Monster Anthology rages onto Netflix September 17th. #MonsterTheLizzieBordenStory Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Let’s Marry Harry | Finale Sneak Peek | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -664,17 +675,6 @@
       "url": "https://www.youtube.com/watch?v=FldeGkt4e4k",
       "published": "2026-08-07T07:00:00+00:00",
       "summary": "A woman with memory loss discovers she has a family and a shipping empire. She returns to a seemingly perfect past to uncover the truth about why she left. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Grand Theft Auto VI: An Extended Look",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=w5gez0OPGg8",
-      "published": "2026-08-06T12:30:00+00:00",
-      "summary": "Grand Theft Auto VI: An Extended Look. Coming to Netflix Thursday, August 27 at 12PM PT | 3PM ET. https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
       "verdict": "Looks promising"
@@ -815,6 +815,6 @@
     "mainCount": 13,
     "youtubeCount": 23,
     "trailerCount": 28,
-    "sourceCount": 22
+    "sourceCount": 21
   }
 }
