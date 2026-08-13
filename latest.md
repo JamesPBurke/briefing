@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-13T09:02:18.754734Z
+Generated: 2026-08-13T14:00:05.621095Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Stop Killing Games backs Dutch consumer rights lawsuit against Sony's PlayStation digital store "monopoly", A bungled bomb plot in Poland exposed a spy – but whose spy was he?, and ICE wants to give agents electrified gloves that shock people into compliance.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, AI / privacy. The strongest items in this run are Flock is tightening its rules in response to a growing surveillance backlash, Necrons are "extremely arrogant aliens that feel like they cannot die," so their weakness in Dawn of War 4 is an obvious one: greed, and The Download: kids’ thoughts on AI, and female clones of male mice.
 
 ## Briefing
 
@@ -33,7 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Stop Killing Games backs Dutch consumer rights lawsuit against Sony's PlayStation digital store "monopoly" [10/10]
+### 1. Flock is tightening its rules in response to a growing surveillance backlash [10/10]
+**Source:** MIT Technology Review  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass…
+
+Link: https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/
+
+### 2. Necrons are "extremely arrogant aliens that feel like they cannot die," so their weakness in Dawn of War 4 is an obvious one: greed [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Dawn of War 4 's Necrons are the hard nuts of Warhammer 40,000. Each one of their soldiers is a >soul trapped in a living metal body, practically immortal thanks to the faction's reanimation technology.
+
+Link: https://www.rockpapershotgun.com/necrons-are-extremely-arrogant-aliens-that-feel-like-they-cannot-die-so-their-weakness-in-dawn-of-war-4-is-an-obvious-one-greed
+
+### 3. The Download: kids’ thoughts on AI, and female clones of male mice [10/10]
+**Source:** MIT Technology Review  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/
+
+### 4. Do a literal monster mash in Dance of Theseus, a strangely undisgusting blend of plastic surgery and Balatro-style fashion battles [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+It is time to confront the terrible truth that I once took part in a school fashion show.
+
+Link: https://www.rockpapershotgun.com/do-a-literal-monster-mash-in-dance-of-theseus-a-strangely-undisgusting-blend-of-plastic-surgery-and-balatro-style-fashion-battles
+
+### 5. The drug lenacapavir is a mighty weapon against HIV. Its rollout gets mixed reviews [10/10]
+**Source:** NPR Health  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+It's a twice-a-year injection that is remarkably effective in preventing an HIV infection. Distribution is starting. But questions are being raised about getting it to the areas that need it most.
+
+Link: https://www.npr.org/2026/08/13/g-s1-137742/hiv-prevention-lenacapavir-uganda
+
+### 6. Stop Killing Games backs Dutch consumer rights lawsuit against Sony's PlayStation digital store "monopoly" [10/10]
 **Source:** Eurogamer  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -42,77 +87,32 @@ Stop Killing Games, the grassroots initiative fighting to prevent game publisher
 
 Link: https://www.eurogamer.net/stop-killing-games-consumer-rights-lawsuit-netherlands-sony-playstation-monopoly
 
-### 2. A bungled bomb plot in Poland exposed a spy – but whose spy was he? [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-When exiled Russian opposition campaigner Igor Rogov was accused of working for the Kremlin, his friends were shocked. Could this young activist have really been an undercover agent? • The summer issue of the Long Read magazine is out now.
-
-Link: https://www.theguardian.com/news/ng-interactive/2026/aug/13/a-bungled-bomb-plot-in-poland-exposed-a-spy-but-whose-spy-was-he
-
-### 3. ICE wants to give agents electrified gloves that shock people into compliance [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks.
-
-Link: https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves
-
-### 4. ‘I’ve been on plenty of dates – but nothing happened’: are we looking at the death of the kiss? [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Call it a crisis, call it a decline, call it a recession: the long, lusty snog is in trouble, harder to experience in real life or even watch on screen.
-
-Link: https://www.theguardian.com/lifeandstyle/2026/aug/13/death-of-the-kiss-dating
-
-### 5. Surrogate mother who fled to Texas gives birth to baby with severe heart defect [9/10]
+### 7. Questions over Karoline Leavitt’s replacement as she steps down as White House press secretary – US politics live [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-McKenna West initially agreed to an abortion after diagnosis, but then fled to state where abortion is illegal and broke contact with biological parents, attorney alleges A surrogate mother who traveled to Texas, where abortion is illegal,…
+Leavitt’s departure three months before midterms raises questions over who will communicate Trump’s messages as his approval rating falls to record low, says YouGov polling Sign up for the Breaking News US email The Trump administration…
 
-Link: https://www.theguardian.com/us-news/2026/aug/12/surrogate-mother-texas-gives-birth
+Link: https://www.theguardian.com/us-news/live/2026/aug/13/karoline-leavitt-white-house-primaries-trump-politics-latest-updates
 
-### 6. Cats and dogs are missing meals after a popular smart feeder went down [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-A Petlibro outage is preventing its smart pet feeders and other devices from performing scheduled tasks, like dispensing food.
-
-Link: https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders
-
-### 7. Twitch content has trained Amazon AI for years, but users can opt out now [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Streaming platform says user-generated content "may be used for future Gen AI model improvements."
-
-Link: https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/
-
-### 8. Immortality developer Sam Barlow reveals Precognition, a sci-fi horror collaboration with Brandon Cronenberg about "really terrible things that are just around the corner" [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Immortality and Her Story developer Sam Barlow has announced Precognition, a new sci-fi horror game in development at Half Mermaid Productions, which features writing from Antiviral and Infinity Pool director Brandon Cronenberg.
-
-Link: https://www.rockpapershotgun.com/immortality-developer-sam-barlow-reveals-precognition-a-sci-fi-horror-collaboration-with-brandon-cronenberg-about-really-terrible-things-that-are-just-around-the-corner
-
-### 9. Opinion: Introducing a New Curriculum in School? Don’t Forget Training for the Principal [9/10]
+### 8. Opinion: Amid the Emerging AI Economy, We Need a Skilled Trades Pipeline in High School [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Countless times over the last few years, district leaders have reached out to my organization with a problem: They rolled out a new evidence-based curriculum and trained all their teachers, but many didn’t use it properly — or at all — and…
+Across the economy, Americans are watching an artificial intelligence investment boom reshape the job market.
 
-Link: https://www.the74million.org/article/introducing-a-new-curriculum-in-school-dont-forget-training-for-the-principal/
+Link: https://www.the74million.org/article/amid-the-emerging-ai-economy-we-need-a-skilled-trades-pipeline-in-high-school/
+
+### 9. Twitch streamers can now opt out from training Amazon’s AI [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models.
+
+Link: https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai
 
 ### 10. How Trump’s Anti-DEI Shift Unraveled a Successful Federal Investment in Maine Schools [9/10]
 **Source:** The 74  
@@ -179,9 +179,18 @@ Federal Reserve Bank of Chicago President Austan Goolsbee joins WIRED to answer 
 
 Link: https://www.youtube.com/watch?v=Ot8lg2nC4Ao
 
-### Millions across Europe witness rare solar eclipse [9/10]
+### Congressman Ro Khanna doesn’t think this branding will make a difference in the midterm elections [7/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+President Trump’s latest attack on the progressive wing of the democratic party is to label them as communists. Congressman Ro Khanna (D-Calif.
+
+Link: https://www.youtube.com/watch?v=uhblfVOlOE4
+
+### Millions across Europe witness rare solar eclipse [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 A once-in-a-lifetime solar eclipse wowed crowds across Europe Wednesday. A total eclipse swept across Greenland, Iceland, Spain and parts of Portugal.
@@ -232,24 +241,6 @@ Link: https://www.youtube.com/watch?v=P8oB1FXtpr4
 At least 111 people are dead after a powerful earthquake struck Colombia early Monday morning, rattling the South American country. According to the U.S. Geological Survey the 7.
 
 Link: https://www.youtube.com/watch?v=AKtP9F-nd2A
-
-### Most U.S. doctors avoid treating patients with addiction, leaving millions vulnerable [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Addiction treatments are safe, effective — and rarely offered to patients. That's because many doctors and nurses still view people with alcohol or drug addiction with suspicion and hostility.
-
-Link: https://www.youtube.com/watch?v=8b22nUKjr20
-
-### More than 20 million Shia pilgrims converged on the holy city of Karbala in Iraq last week [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-More than 20 million Shia pilgrims converged on the holy city of Karbala in Iraq last week. The massive annual pilgrimage commemorates the killing of Imam Hussein 14 centuries ago.
-
-Link: https://www.youtube.com/watch?v=MeHBNf_XbEM
 
 ### The Steam Hardware Survey Isn't Making Sense: More 16GB GPUs Than 8GB? [7/10]
 **Creator:** Digital Foundry  
@@ -305,18 +296,18 @@ Link: https://www.youtube.com/watch?v=YPcg3Z3sqDI
 
 Link: https://www.youtube.com/watch?v=ToEn4Ee5F64
 
-### Our Star Fox Finale Bonanza Extravaganza w/ KC and Marty [8/10]
+### Our Star Fox Finale Bonanza Extravaganza w/ KC and Marty [9/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Watch it  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
 
 Link: https://www.youtube.com/watch?v=ncruCNQ1hhQ
 
-### Yahtzee Tries... The Message from Deep Space and Rubinite [7/10]
+### Yahtzee Tries... The Message from Deep Space and Rubinite [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This week on Yahtzee Tries... Yahtzee and Marty try The Message from Deep Space and Rubinite. https://store.steampowered.com/app/4080030/The_Message_from_Deep_Space/ https://store.steampowered.
@@ -460,15 +451,6 @@ One. Last. Game. The final countdown begins. Watch the new trailer for #Jumanji:
 
 Link: https://www.youtube.com/watch?v=zhApeaHMvfs
 
-### RESIDENT EVIL – Official Trailer (4K) [8/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-𝙽𝚘 𝚜𝚠𝚎𝚊𝚝. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the official trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.
-
-Link: https://www.youtube.com/watch?v=mNd1gb19A-c
-
 ### Primetime | Official Trailer HD | A24 [8/10]
 **Source:** A24  
 **Verdict:** Looks promising  
@@ -540,6 +522,15 @@ Link: https://www.youtube.com/watch?v=87ekbcLWPN4
 Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21.
 
 Link: https://www.youtube.com/watch?v=bHehvziDKBI
+
+### The Stories that Grow with You | Only on Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+For every first. For every next. For everywhere you’re going. The coming-of-age stories you love are all on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=QS8oH0zscAY
 
 ### Untold Raygun: Breaking Badly | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
