@@ -1,70 +1,50 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-13T05:00:01.834566Z",
-  "generatedAtDisplay": "2026-08-13 01:00 AM EDT",
+  "generatedAt": "2026-08-13T09:02:18.754734Z",
+  "generatedAtDisplay": "2026-08-13 05:02 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, CS education / AI policy. The strongest items in this run are Immortality developer Sam Barlow reveals Precognition, a sci-fi horror collaboration with Brandon Cronenberg about \"really terrible things that are just around the corner\", Immortality creator Sam Barlow's new video-scouring game is sci-fi horror Precognition, a collab with filmmaker Brandon Cronenberg, in which you see and change the future, and Trump’s justice department arrests expert on far right as part of SPLC crackdown.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Stop Killing Games backs Dutch consumer rights lawsuit against Sony's PlayStation digital store \"monopoly\", A bungled bomb plot in Poland exposed a spy – but whose spy was he?, and ICE wants to give agents electrified gloves that shock people into compliance.",
   "mainItems": [
     {
-      "title": "Immortality developer Sam Barlow reveals Precognition, a sci-fi horror collaboration with Brandon Cronenberg about \"really terrible things that are just around the corner\"",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/immortality-developer-sam-barlow-reveals-precognition-a-sci-fi-horror-collaboration-with-brandon-cronenberg-about-really-terrible-things-that-are-just-around-the-corner",
-      "published": "2026-08-12T19:30:00+00:00",
-      "summary": "Immortality and Her Story developer Sam Barlow has announced Precognition, a new sci-fi horror game in development at Half Mermaid Productions, which features writing from Antiviral and Infinity Pool director Brandon Cronenberg.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "Immortality creator Sam Barlow's new video-scouring game is sci-fi horror Precognition, a collab with filmmaker Brandon Cronenberg, in which you see and change the future",
+      "title": "Stop Killing Games backs Dutch consumer rights lawsuit against Sony's PlayStation digital store \"monopoly\"",
       "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/sam-barlow-immortality-precognition-brandon-cronenberg",
-      "published": "2026-08-12T19:30:00+00:00",
-      "summary": "The new game from Her Story and Immortality maker Sam Barlow - and his studio Half Mermaid - has a name: it's called Precognition.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "category": "AI / privacy",
+      "url": "https://www.eurogamer.net/stop-killing-games-consumer-rights-lawsuit-netherlands-sony-playstation-monopoly",
+      "published": "2026-08-13T08:21:53+00:00",
+      "summary": "Stop Killing Games, the grassroots initiative fighting to prevent game publishers from shutting down servers without offering an alternative, has joined a lawsuit filed in the Netherlands against Sony for its alleged monopoly of selling…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Trump’s justice department arrests expert on far right as part of SPLC crackdown",
+      "title": "A bungled bomb plot in Poland exposed a spy – but whose spy was he?",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/12/doj-arrests-far-right-expert-splc",
-      "published": "2026-08-12T19:19:37+00:00",
-      "summary": "Prosecutors charge Heidi Beirich with financial crimes as part of case against the Southern Poverty Law Center The justice department on Wednesday arrested a leading expert on far-right extremism, charging her with financial crimes as part…",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/13/a-bungled-bomb-plot-in-poland-exposed-a-spy-but-whose-spy-was-he",
+      "published": "2026-08-13T04:00:49+00:00",
+      "summary": "When exiled Russian opposition campaigner Igor Rogov was accused of working for the Kremlin, his friends were shocked. Could this young activist have really been an undercover agent? • The summer issue of the Long Read magazine is out now.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Scientists just created female clones of male mice",
-      "source": "MIT Technology Review",
+      "title": "ICE wants to give agents electrified gloves that shock people into compliance",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
-      "published": "2026-08-12T18:59:48+00:00",
-      "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.",
+      "url": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves",
+      "published": "2026-08-12T17:40:36+00:00",
+      "summary": "Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Peggy Flanagan’s Many Crush the Money in the Minnesota Senate Primary",
-      "source": "The Nation",
-      "category": "Democracy / press freedom",
-      "url": "https://www.thenation.com/article/politics/peggy-flanagan-minnesota-senate-democrats/",
-      "published": "2026-08-12T18:19:51+00:00",
-      "summary": "Joan Walsh Corporate Dem Angie Craig outspent Flanagan by roughly four to one. But Flanagan’s ground game, and her promise to “avenge Minnesota” after ICE’s cruelty, gave her a 20-point win.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "AI was supposed to destroy jobs. Where’s the carnage?",
+      "title": "‘I’ve been on plenty of dates – but nothing happened’: are we looking at the death of the kiss?",
       "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
-      "published": "2026-08-12T10:00:27+00:00",
-      "summary": "The AI jobs apocalypse never showed up. Still, jobs are changing and economists expect more to come The prediction was stark: artificial intelligence advancements would wipe out jobs en masse.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/13/death-of-the-kiss-dating",
+      "published": "2026-08-13T04:00:48+00:00",
+      "summary": "Call it a crisis, call it a decline, call it a recession: the long, lusty snog is in trouble, harder to experience in real life or even watch on screen.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
     },
     {
       "title": "Surrogate mother who fled to Texas gives birth to baby with severe heart defect",
@@ -74,6 +54,16 @@
       "published": "2026-08-13T02:12:10+00:00",
       "summary": "McKenna West initially agreed to an abortion after diagnosis, but then fled to state where abortion is illegal and broke contact with biological parents, attorney alleges A surrogate mother who traveled to Texas, where abortion is illegal,…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
+    },
+    {
+      "title": "Cats and dogs are missing meals after a popular smart feeder went down",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders",
+      "published": "2026-08-12T21:43:45+00:00",
+      "summary": "A Petlibro outage is preventing its smart pet feeders and other devices from performing scheduled tasks, like dispensing food.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 9
     },
     {
@@ -87,6 +77,16 @@
       "score": 9
     },
     {
+      "title": "Immortality developer Sam Barlow reveals Precognition, a sci-fi horror collaboration with Brandon Cronenberg about \"really terrible things that are just around the corner\"",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/immortality-developer-sam-barlow-reveals-precognition-a-sci-fi-horror-collaboration-with-brandon-cronenberg-about-really-terrible-things-that-are-just-around-the-corner",
+      "published": "2026-08-12T19:30:00+00:00",
+      "summary": "Immortality and Her Story developer Sam Barlow has announced Precognition, a new sci-fi horror game in development at Half Mermaid Productions, which features writing from Antiviral and Infinity Pool director Brandon Cronenberg.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
       "title": "Opinion: Introducing a New Curriculum in School? Don’t Forget Training for the Principal",
       "source": "The 74",
       "category": "Education / pedagogy",
@@ -94,6 +94,16 @@
       "published": "2026-08-12T16:30:00+00:00",
       "summary": "Countless times over the last few years, district leaders have reached out to my organization with a problem: They rolled out a new evidence-based curriculum and trained all their teachers, but many didn’t use it properly — or at all — and…",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "How Trump’s Anti-DEI Shift Unraveled a Successful Federal Investment in Maine Schools",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/how-trumps-anti-dei-shift-unraveled-a-successful-federal-investment-in-maine-schools/",
+      "published": "2026-08-12T14:30:00+00:00",
+      "summary": "Three years ago, a handful of Maine school districts struggling with student mental health needs applied for a federal grant to help them hire school counselors and social workers.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 9
     },
     {
@@ -107,14 +117,14 @@
       "score": 8
     },
     {
-      "title": "Nuclear power push ramps up uranium mill — and tribal health concerns",
+      "title": "Boston-area trial draws attention to post-partum psychosis",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
-      "published": "2026-08-12T09:00:00+00:00",
-      "summary": "Federal efforts to revive uranium mining in the West and decrease reliance on Russian uranium raise concerns about drinking water for tribal communities reckoning with the industry's deadly legacy.",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5927479/boston-area-trial-draws-attention-to-post-partum-psychosis",
+      "published": "2026-08-12T20:59:56+00:00",
+      "summary": "A mom is on trial for killing her children. Her defense says she had post-partum psychosis. Psychiatrists hope the case brings attention to the need for better diagnosis and treatment for the illness.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "score": 7
     },
     {
       "title": "Sheherazade’s Revenge: Rabindranath Tagore’s “The Hungry Stones”",
@@ -124,16 +134,6 @@
       "published": "2026-08-12T17:00:00+00:00",
       "summary": "Welcome back to Reading the Weird, in which we get girl cooties all over weird fiction, cosmic horror, and Lovecraftiana—from its historical roots through its most recent branches.",
       "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 7
-    },
-    {
-      "title": "How to get perfectly smooth frosting on cake: Get rid of those air bubbles once and for all.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/08/12/smooth-frosting-on-cake",
-      "published": "2026-08-12T14:00:00+00:00",
-      "summary": "When it comes to frosting cakes, nothing beats a meringue-based buttercream. Whether you prefer Italian or Swiss , the goal is to have a frosting that’s smooth, silky, and pipes like a dream.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
       "score": 7
     }
   ],
@@ -148,9 +148,582 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8,
       "verdict": "Worth watching"
+    },
+    {
+      "title": "Economist Answers: When Will Mortgage Rates Go Down?",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=E1a0Pw_hvGw",
+      "published": "2026-08-11T16:55:02+00:00",
+      "summary": "Federal Reserve Bank of Chicago President Austan Goolsbee joins WIRED to answer the internet’s burning questions about the American economy.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Economist Answers U.S. Economy Questions",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=Ot8lg2nC4Ao",
+      "published": "2026-08-11T16:00:08+00:00",
+      "summary": "Federal Reserve Bank of Chicago President Austan Goolsbee joins WIRED to answer the internet’s burning questions about the American economy.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Millions across Europe witness rare solar eclipse",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=PEnFkCJ8JQ0",
+      "published": "2026-08-12T23:00:38+00:00",
+      "summary": "A once-in-a-lifetime solar eclipse wowed crowds across Europe Wednesday. A total eclipse swept across Greenland, Iceland, Spain and parts of Portugal.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Rescue teams race against the clock to find survivors in western Colombia",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=G1QEVwK6zXw",
+      "published": "2026-08-12T20:40:35+00:00",
+      "summary": "It’s a race against the clock to find survivors of an earthquake in western Colombia.⁠ ⁠ The earthquake struck Monday with a magnitude of 7.4. More than 250 people are confirmed dead, and hundreds more are still missing.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Oxford-educated Jon Harvey's character Count Binface has become a fixture in U.K. politics",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=oHUmEffuFfw",
+      "published": "2026-08-12T16:00:23+00:00",
+      "summary": "Oxford-educated Jon Harvey's character Count Binface has become a fixture in U.K. politics.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Report: Trump secretly swapped planes in Turkey over Iran threat",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=Hr5wzj5vnYU",
+      "published": "2026-08-12T15:15:26+00:00",
+      "summary": "New reporting on an Iranian assassination threat against President Trump contradicts what the White House told the press traveling with the president during a recent trip to Turkey.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Many parents supporting children well into adulthood",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=P8oB1FXtpr4",
+      "published": "2026-08-11T18:00:12+00:00",
+      "summary": "Polling shows most Americans believe young adults in the U.S. have a harder time, financially, than their parents did at their age — and many parents are helping to support their children well into adulthood.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "7.4 magnitude earthquake strikes western Colombia",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=AKtP9F-nd2A",
+      "published": "2026-08-11T17:00:37+00:00",
+      "summary": "At least 111 people are dead after a powerful earthquake struck Colombia early Monday morning, rattling the South American country. According to the U.S. Geological Survey the 7.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Most U.S. doctors avoid treating patients with addiction, leaving millions vulnerable",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=8b22nUKjr20",
+      "published": "2026-08-11T15:00:18+00:00",
+      "summary": "Addiction treatments are safe, effective — and rarely offered to patients. That's because many doctors and nurses still view people with alcohol or drug addiction with suspicion and hostility.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "More than 20 million Shia pilgrims converged on the holy city of Karbala in Iraq last week",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=MeHBNf_XbEM",
+      "published": "2026-08-11T15:00:09+00:00",
+      "summary": "More than 20 million Shia pilgrims converged on the holy city of Karbala in Iraq last week. The massive annual pilgrimage commemorates the killing of Imam Hussein 14 centuries ago.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "The Steam Hardware Survey Isn't Making Sense: More 16GB GPUs Than 8GB?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=yQ7AawhRoas",
+      "published": "2026-08-12T18:00:06+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/eMwtL2v1J-M ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Microsoft Docs Confirm It: Xbox 360 Emulation Is Coming To PC",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=wf3TTN93sZM",
+      "published": "2026-08-12T17:14:09+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/eMwtL2v1J-M ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Half-Life Alyx Running On Meta Quest 3?!",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=P4O4QAifQR8",
+      "published": "2026-08-11T18:00:35+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/eMwtL2v1J-M ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "GTA 6: An Extended Look Announcement Reaction: What Should We Expect?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=-MeSVMSkftE",
+      "published": "2026-08-11T17:00:34+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/eMwtL2v1J-M ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Pixel FX Morph 2K Analog Video Scaler - Tested!",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=YPcg3Z3sqDI",
+      "published": "2026-08-10T17:00:13+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/ZLALsXHLJEE ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "PC Settings Tweaking vs Console Curation: The One Big Advantage For PlayStation + Xbox?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=ToEn4Ee5F64",
+      "published": "2026-08-10T17:00:12+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/GE4L0clL2d0 ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Our Star Fox Finale Bonanza Extravaganza w/ KC and Marty",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=ncruCNQ1hhQ",
+      "published": "2026-08-12T16:17:21+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Yahtzee Tries... The Message from Deep Space and Rubinite",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=7g2AIfzBY7E",
+      "published": "2026-08-12T22:09:29+00:00",
+      "summary": "This week on Yahtzee Tries... Yahtzee and Marty try The Message from Deep Space and Rubinite. https://store.steampowered.com/app/4080030/The_Message_from_Deep_Space/ https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Halo: Campaign Evolved | Fully Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=I0cjVG5Xejc",
+      "published": "2026-08-12T16:00:03+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Nick & Jenna Play the Sands of Time Trilogy for the First Time | Part 5",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=NgN-6RY3gnA",
+      "published": "2026-08-11T22:50:02+00:00",
+      "summary": "The community funded Nick playing the Sands of Time trilogy on stream for the first time. Join Nick and Jenna as they start the series today! If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Spider-Man: Brand New Day Ushers in the Post-Marvel Studios MCU | The Backdrop",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=XrUTIIFAhHA",
+      "published": "2026-08-11T15:30:39+00:00",
+      "summary": "Spider-Man: Brand New Day is a very interesting lesson in brand management. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Foghorns Drown Is Horror of the Psychological Flavor | Hot Monday Energy",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=IGq5lH_CFhg",
+      "published": "2026-08-11T01:25:18+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "The Obscure Games We Love | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=fX7uK6NKk6E",
+      "published": "2026-08-10T19:10:09+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Agent 64: Spies Never Die and Tears of Metal | Bytesized",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=7hP_mXN-TFw",
+      "published": "2026-08-10T15:33:25+00:00",
+      "summary": "This week on Bytesized, Nick checked out Agent 64 and Tears of Metal. Agent 64 on Steam: https://store.steampowered.com/app/1574480/?snr=1_5_9__205 Tears of Metal on Steam: https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
     }
   ],
-  "trailers": [],
+  "trailers": [
+    {
+      "title": "Violent Night 2 | Official Trailer",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=FmM2giDwLAE",
+      "published": "2026-08-04T15:00:15+00:00",
+      "summary": "Merry Christmas to all, and to all a good fight. Violent Night 2 only in theaters December 4. If you’re nice, you get presents from the Big Guy. If you’re naughty, you get justice.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "One Night Only Is...",
+      "source": "Universal Pictures",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=v7lBY4Au1mU",
+      "published": "2026-08-01T15:22:02+00:00",
+      "summary": "energetic. chaotic. unconventional. one night only is this summer’s biggest rom-com! see it in theaters this friday.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "RAMAYANA - Official Trailer (English)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=74nF-FWAS6M",
+      "published": "2026-08-05T16:00:16+00:00",
+      "summary": "An epic journey unlike anything seen before. Watch the official trailer for #Ramayana, coming to theatres worldwide November 6.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=gXjurDkYnEM",
+      "published": "2026-08-05T13:00:08+00:00",
+      "summary": "Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21. Follow us on social: https://www.instagram.com/InsidiousMovie https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RAMAYANA - Official Trailer",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=1zip1rNaNYs",
+      "published": "2026-07-30T05:13:28+00:00",
+      "summary": "The Ramayana Trailer. This is where the EPIC BEGINS. 🏹 Namit Malhotra's Ramayana Directed by Nitesh Tiwari In Cinemas Worldwide, Diwali 2026.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "JUMANJI: OPEN WORLD - Official Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=zhApeaHMvfs",
+      "published": "2026-07-29T00:59:43+00:00",
+      "summary": "One. Last. Game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RESIDENT EVIL – Official Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=mNd1gb19A-c",
+      "published": "2026-07-23T13:00:24+00:00",
+      "summary": "𝙽𝚘 𝚜𝚠𝚎𝚊𝚝. From the mind of Zach Cregger, director of Weapons and Barbarian. Watch the official trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. #ResidentEvil https://www.instagram.com/residentevil/ https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Primetime | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=5fHXyqQOKL8",
+      "published": "2026-08-06T13:00:36+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Inspired by true events. Only in theaters September 25.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Onslaught | Official Trailer 2 HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=AMLCbpM1fRQ",
+      "published": "2026-07-27T13:07:12+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Adam Wingard and starring Adria Arjona, Alex Pereira, Drew Starkey, Rebecca Hall, Reginald VelJohnson, Michael Biehn, Eric Wareheim and Dan Stevens. ONSLAUGHT – In Theaters September 4.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Paper Tiger - Official Teaser Trailer - In Theaters November",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ldCb77jXIsM",
+      "published": "2026-08-10T16:00:22+00:00",
+      "summary": "In James Gray’s deeply felt and intense drama, two brothers become entangled in a scheme that turns out to be too good to be true.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Bad Lieutenant: Tokyo - Official Teaser Trailer - Coming Soon",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=brkTgfdmztk",
+      "published": "2026-08-03T21:00:20+00:00",
+      "summary": "A disgraced Tokyo detective spirals into a world of corruption, addiction, and violence as he becomes entangled in a twister investigation involving a vengeful ex-Yakuza, an enigmatic FBI agent, and a missing daughter of a powerful…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "PARASOMNIA | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=-tYE5KY0dk4",
+      "published": "2026-08-10T21:00:59+00:00",
+      "summary": "After her friend vanishes, Riley must confront the demon from her night terrors that may have crossed into reality, while facing her own tragic past. PARASOMNIA drops September 4 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "HELLCAT | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=RWZjFdaJKgw",
+      "published": "2026-08-01T02:10:21+00:00",
+      "summary": "A woman wakes in the back of a moving camper trailer with a badly infected wound. A voice from the truck towing it tells her they must reach a doctor within the hour or she’ll suffer a horrific fate. HELLCAT premieres August 14 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "THE CYCLE | Deborah Ann Woll, Jeffrey Donovan | Teaser Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=87ekbcLWPN4",
+      "published": "2026-07-27T19:15:01+00:00",
+      "summary": "When the body of a man missing for thirty-six years is discovered at the scene of a horrific crime, it’s up to his estranged daughter to unravel his dark past.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K)",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=bHehvziDKBI",
+      "published": "2026-08-05T15:42:24+00:00",
+      "summary": "Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Untold Raygun: Breaking Badly | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=QJYG0KCwLLM",
+      "published": "2026-08-12T20:00:00+00:00",
+      "summary": "When Raygun’s performance at the 2024 Paris Olympics went viral overnight, an avalanche of memes, misinformation, and conspiracy theories followed, all questioning how she reached the Olympic stage. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Perfect Lie | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=FnwySGfFTdc",
+      "published": "2026-08-12T18:00:00+00:00",
+      "summary": "When Karen moves to Bergen with her family, they are warmly welcomed into the Dining Club, a seductive group of friends who thoroughly enjoy an extravagant and debauched life.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Crew Girl | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Xs5qsfqp-tA",
+      "published": "2026-08-12T14:00:06+00:00",
+      "summary": "New school, new rules, same dream. Crew Girl premieres September 10th! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Animals | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=TdSRAb-GSu0",
+      "published": "2026-08-12T13:00:04+00:00",
+      "summary": "Power can’t protect you. Directed by and starring Ben Affleck, with Kerry Washington, Steven Yeun, Gillian Anderson, Adriana Paz and Luis Gerardo Méndez, Animals is in select theaters and on Netflix October 9. Watch on Netflix: https://www.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The next installment in the Monster Anthology rages onto Netflix September 17th",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=2uCINlOKdyI",
+      "published": "2026-08-12T12:00:00+00:00",
+      "summary": "You know the rhyme, but do you know the story? The next installment in the Monster Anthology rages onto Netflix September 17th. #MonsterTheLizzieBordenStory Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Let’s Marry Harry | Finale Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=v8o49qsLBdQ",
+      "published": "2026-08-11T19:00:00+00:00",
+      "summary": "It’s time for Harry to make a decision. Who will walk down the aisle and marry Harry? The Let’s Marry Harry finale premieres tomorrow, August 12, only on Netflix 💍 Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Monster: The Lizzie Borden Story | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=EkQDfMLhRLM",
+      "published": "2026-08-11T16:00:00+00:00",
+      "summary": "Lizzie Borden took an axe... The first female monster from Ryan Murphy’s famed Anthology series - Monster: The Lizzie Borden Story coming to Netflix September 17. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Dang! | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=utE1mDVY0cA",
+      "published": "2026-08-11T15:00:00+00:00",
+      "summary": "Meet the Dangs! DANG! follows siblings Andrew and Eunice, whose fun, messy lives in New York City are interrupted when their worst nightmare comes true: their high-achieving older sister Ruthie shows up and wants to hang out with them.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "A Different World | Brandy Theme Song | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Q1c7QmxGVZA",
+      "published": "2026-08-11T14:15:00+00:00",
+      "summary": "Class is officially in session. Grammy Award winner Brandy Norwood is bringing her voice to the theme song for A Different World, releasing September 24, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Gentle Monster | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=hsOgBqDSi9M",
+      "published": "2026-08-11T13:45:00+00:00",
+      "summary": "When a police raid shatters her life, concert pianist Lucy (Léa Seydoux) must protect her son and confront how little she knows her husband after he is accused of an unspeakable crime in this tense thriller about trust and survival.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Stillwater — Season 5 Official Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Qbha1__CutI",
+      "published": "2026-08-12T13:59:49+00:00",
+      "summary": "Return to zen. Apple's #1 preschool series is back with new episodes, new stories, and new lessons. Stillwater Season 5 premieres August 21 on Apple TV #Stillwater #Trailer #AppleTV",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Last Seen — Official Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=M8nHySkLb64",
+      "published": "2026-08-11T12:59:57+00:00",
+      "summary": "Starring Patrick Brammall, this Australian thriller follows a dispatcher who receives a call that his missing daughter may be alive, risking everything to save her. A missing daughter. An alarming distress call.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Silo — Daniel and Helen Finally Get Answers | Season 3 Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=_o_yOCXCkW8",
+      "published": "2026-08-10T21:59:52+00:00",
+      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -262,8 +835,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 1,
-    "trailerCount": 0,
-    "sourceCount": 12
+    "youtubeCount": 25,
+    "trailerCount": 28,
+    "sourceCount": 22
   }
 }
