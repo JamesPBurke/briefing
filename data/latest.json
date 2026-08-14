@@ -1,19 +1,89 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-13T18:04:46.436597Z",
-  "generatedAtDisplay": "2026-08-13 02:04 PM EDT",
+  "generatedAt": "2026-08-14T05:00:03.371369Z",
+  "generatedAtDisplay": "2026-08-14 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Education / pedagogy. The strongest items in this run are Judge dismisses Trump lawsuit that claimed Harvard failed to protect Jewish students, Third person dies at New Jersey immigration detention center, and Opinion: Congress Made it Easier to Pay for College. It Must Keep That Promise.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Trump orders Pentagon to redesign US aircraft carrier to use steam catapults to launch jets, ‘That is not acceptable’: Judge orders Google to make rival app store installs easier, and US conducted ‘mass spying campaign’ against leftwing groups and anti-ICE protesters, records reveal.",
   "mainItems": [
+    {
+      "title": "Trump orders Pentagon to redesign US aircraft carrier to use steam catapults to launch jets",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-aircraft-carriers-steam-catapults",
+      "published": "2026-08-14T02:03:43+00:00",
+      "summary": "President has suggested steam catapults every year since 2017, saying digital systems are too ‘complicated’ After nearly a decade of loudly complaining about the fact that modern US aircraft carriers use electromagnetic systems to launch…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+      "published": "2026-08-14T01:08:18+00:00",
+      "summary": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install…",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "US conducted ‘mass spying campaign’ against leftwing groups and anti-ICE protesters, records reveal",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters",
+      "published": "2026-08-13T23:06:04+00:00",
+      "summary": "DHS sent undercover agents to meetings and infiltrated chats of groups opposing Trump’s immigration crackdown Newly disclosed records reveal the US government extensively spied on prominent leftwing organizations and on protesters as part…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The fight over Flock and other ALPRs",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
+      "published": "2026-08-13T21:46:21+00:00",
+      "summary": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "This school-friendly laptop from HP is $300 off",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale",
+      "published": "2026-08-13T20:07:53+00:00",
+      "summary": "With memory prices still high and showing no signs of dropping, we’re always happy to find a good deal on a budget-friendly system with an adequate amount of RAM.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "OpenAI is losing its second executive this week",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "published": "2026-08-13T19:28:39+00:00",
+      "summary": "Another OpenAI executive is departing.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
     {
       "title": "Judge dismisses Trump lawsuit that claimed Harvard failed to protect Jewish students",
       "source": "The Guardian US",
       "category": "AI / privacy",
       "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-harvard-lawsuit-dismissed",
-      "published": "2026-08-13T17:17:05+00:00",
+      "published": "2026-08-13T19:17:30+00:00",
       "summary": "Federal court rules administration failed to plausibly show ongoing violation of civil rights law A US federal ⁠judge ⁠has dismissed ​the Trump administration’s lawsuit that ⁠claimed ​Harvard ‌University failed ‌to protect Jewish ‌and…",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Gap to Adequately Fund Schools Widens in Illinois",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/despite-funding-increase-gap-to-adequately-fund-schools-widens-in-most-illinois-districts/",
+      "published": "2026-08-13T18:30:00+00:00",
+      "summary": "Chicago Public Schools is further away from having enough money to meet its students’ needs as defined by the state, according to new data released by the Illinois State Board of Education.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
@@ -27,84 +97,14 @@
       "score": 10
     },
     {
-      "title": "Opinion: Congress Made it Easier to Pay for College. It Must Keep That Promise",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/congress-made-it-easier-to-pay-for-college-it-must-keep-that-promise/",
-      "published": "2026-08-13T16:30:00+00:00",
-      "summary": "Right now, 15.5 million undergraduate students around the country are getting ready to start or return to college. Seven million of them have one thing in common: relying on a Pell Grant to help pay for their higher education.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Max Miller’s ex-wife sues him for sharing image of daughter as part of custody battle",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/aug/13/max-miller-ex-wife-lawsuit",
-      "published": "2026-08-13T16:25:17+00:00",
-      "summary": "Republican congressman publicly shared links to evidence his team compiled in response to domestic abuse allegations Emily Moreno, the ex-wife of Max Miller, has sued the embattled Republican congressman and his lawyer for uploading a…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "Meta adds AI screening to detect WhatsApp scams",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
-      "published": "2026-08-13T16:10:06+00:00",
-      "summary": "Meta is launching an optional Scam Alert feature on WhatsApp that uses on-device machine learning to flag suspicious messages. Earlier this year, Meta also launched scam detection for device linking requests on WhatsApp.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Indiana Literacy Rates Improve for Fifth Straight Year",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/indiana-literacy-rates-improve-for-fifth-straight-year/",
-      "published": "2026-08-13T14:30:00+00:00",
-      "summary": "Indiana’s early literacy rates improved for the fifth consecutive year, with nearly 89% of Hoosier third graders demonstrating proficiency in foundational reading skills on the state’s IREAD assessment.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Will Trump’s next press secretary be a better liar than the first five?",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-press-secretary-lies-karoline-leavitt",
-      "published": "2026-08-13T14:02:13+00:00",
-      "summary": "As Karoline Leavitt plans to step down, it’s apparent how the president above all values a readiness to twist the truth As Karoline Leavitt prepares to step down from her role as Donald Trump ’s fifth White House press secretary, a brief…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "source": "MIT Technology Review",
-      "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "published": "2026-08-13T13:41:10+00:00",
-      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-      "source": "MIT Technology Review",
-      "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-      "published": "2026-08-13T12:10:00+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "The drug lenacapavir is a mighty weapon against HIV. Its rollout gets mixed reviews",
-      "source": "NPR Health",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/08/13/g-s1-137742/hiv-prevention-lenacapavir-uganda",
-      "published": "2026-08-13T11:18:53+00:00",
-      "summary": "It's a twice-a-year injection that is remarkably effective in preventing an HIV infection. Distribution is starting. But questions are being raised about getting it to the areas that need it most.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "Five years after acquiring Oxenfree developer Night School Studio, Netflix are shutting them down",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/five-years-after-acquiring-oxenfree-developer-night-school-studio-netflix-are-shutting-them-down",
+      "published": "2026-08-13T20:29:25+00:00",
+      "summary": "In 2021, in their bid to get more of a hold on the games industry after dominating film and television streaming, Netflix acquired Oxenfree and Afterparty developer Night School Studio, the first developer they had ever acquired.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side With Them",
@@ -117,28 +117,338 @@
       "score": 9
     },
     {
-      "title": "Does Google even want to win at AI?",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-      "published": "2026-08-13T14:10:46+00:00",
-      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a…",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
+      "title": "Secrets Worth Killing For: The Biker and Revenge",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/teen-horror-time-machine-diane-hoh-the-biker-and-revenge-nightmare-hall/",
+      "published": "2026-08-13T17:30:00+00:00",
+      "summary": "Everyone's got a secret in this pair of teen horror classics... The post Secrets Worth Killing For: The Biker and Revenge appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 8
     },
     {
-      "title": "Boston-area trial draws attention to post-partum psychosis",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5927479/boston-area-trial-draws-attention-to-post-partum-psychosis",
-      "published": "2026-08-12T20:59:56+00:00",
-      "summary": "A mom is on trial for killing her children. Her defense says she had post-partum psychosis. Psychiatrists hope the case brings attention to the need for better diagnosis and treatment for the illness.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Feds probe 'mention markets' amid White House Kalshi controversy",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi",
+      "published": "2026-08-14T02:06:10+00:00",
+      "summary": "Betting on what people say is becoming an increasingly popular category of prediction market sites. Now, federal officials have opened a probe examining whether those markets are a magnet for manipulators.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 7
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "OpenAI’s AI Agents Just Crossed A Line",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
+      "published": "2026-08-11T15:35:35+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 More reports are available here: https://openai.com/index/hugging-face-model-evaluation-security-incident/ https://huggingface.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Green Day Answer The Web's Most Searched Questions",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=jmdN5FG-n_o",
+      "published": "2026-08-13T16:00:09+00:00",
+      "summary": "Green Day visit WIRED to answer their most searched questions on Google.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Economist Answers: When Will Mortgage Rates Go Down?",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=E1a0Pw_hvGw",
+      "published": "2026-08-11T16:55:02+00:00",
+      "summary": "Federal Reserve Bank of Chicago President Austan Goolsbee joins WIRED to answer the internet’s burning questions about the American economy.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Economist Answers U.S. Economy Questions",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=Ot8lg2nC4Ao",
+      "published": "2026-08-11T16:00:08+00:00",
+      "summary": "Federal Reserve Bank of Chicago President Austan Goolsbee joins WIRED to answer the internet’s burning questions about the American economy.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Twitch faces backlash over plan to use creators' content to train Amazon's AI models",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=5cH5Jy32xQs",
+      "published": "2026-08-13T23:10:18+00:00",
+      "summary": "Some Twitch users are criticizing the company's plans to use creators’ content to train the parent company’s AI models.⁠ ⁠ Twitch says users can opt out if they so choose.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Trump’s AF1 ruse / Military at the polls? / Civilian casualties abroad",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=gV-1pU-zEJ4",
+      "published": "2026-08-13T22:09:56+00:00",
+      "summary": "A president is stashed away in a catering truck -- a ruse to escape a threat from Iran. The White House press corps was clueless.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "ICE plans to outfit officers with electric shock gloves",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=STQVNmGmzWI",
+      "published": "2026-08-13T21:00:26+00:00",
+      "summary": "The Department of Homeland Security is planning to equip ICE officers with gloves that can deliver electric shocks to people being arrested. Compliant Technologies says the gloves are designed for de-escalation. U.S.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "California democrat Ro Khanna talks about Silicon Valley executives favoring Trump",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=yJ52691kspY",
+      "published": "2026-08-13T16:00:34+00:00",
+      "summary": "California democrat Ro Khanna represents a very liberal district, home of trillion dollar companies that once were at odds with President Trump but now curry favor with him.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Congressman Ro Khanna doesn’t think this branding will make a difference in the midterm elections",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=uhblfVOlOE4",
+      "published": "2026-08-13T09:12:58+00:00",
+      "summary": "President Trump’s latest attack on the progressive wing of the democratic party is to label them as communists. Congressman Ro Khanna (D-Calif.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Millions across Europe witness rare solar eclipse",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=PEnFkCJ8JQ0",
+      "published": "2026-08-12T23:00:38+00:00",
+      "summary": "A once-in-a-lifetime solar eclipse wowed crowds across Europe Wednesday. A total eclipse swept across Greenland, Iceland, Spain and parts of Portugal.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Rescue teams race against the clock to find survivors in western Colombia",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=G1QEVwK6zXw",
+      "published": "2026-08-12T20:40:35+00:00",
+      "summary": "It’s a race against the clock to find survivors of an earthquake in western Colombia.⁠ ⁠ The earthquake struck Monday with a magnitude of 7.4. More than 250 people are confirmed dead, and hundreds more are still missing.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "RAMAYANA - Official Trailer (English)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=74nF-FWAS6M",
+      "published": "2026-08-05T16:00:16+00:00",
+      "summary": "An epic journey unlike anything seen before. Watch the official trailer for #Ramayana, coming to theatres worldwide November 6.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=gXjurDkYnEM",
+      "published": "2026-08-05T13:00:08+00:00",
+      "summary": "Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21. Follow us on social: https://www.instagram.com/InsidiousMovie https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RAMAYANA - Official Trailer",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=1zip1rNaNYs",
+      "published": "2026-07-30T05:13:28+00:00",
+      "summary": "The Ramayana Trailer. This is where the EPIC BEGINS. 🏹 Namit Malhotra's Ramayana Directed by Nitesh Tiwari In Cinemas Worldwide, Diwali 2026.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "JUMANJI: OPEN WORLD - Official Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=zhApeaHMvfs",
+      "published": "2026-07-29T00:59:43+00:00",
+      "summary": "One. Last. Game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Paper Tiger - Official Teaser Trailer - In Theaters November",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ldCb77jXIsM",
+      "published": "2026-08-10T16:00:22+00:00",
+      "summary": "In James Gray’s deeply felt and intense drama, two brothers become entangled in a scheme that turns out to be too good to be true.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Bad Lieutenant: Tokyo - Official Teaser Trailer - Coming Soon",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=brkTgfdmztk",
+      "published": "2026-08-03T21:00:20+00:00",
+      "summary": "A disgraced Tokyo detective spirals into a world of corruption, addiction, and violence as he becomes entangled in a twister investigation involving a vengeful ex-Yakuza, an enigmatic FBI agent, and a missing daughter of a powerful…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K)",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=bHehvziDKBI",
+      "published": "2026-08-05T15:42:24+00:00",
+      "summary": "Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "would watch #TheLastHouse",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=SmpEOhuvO6s",
+      "published": "2026-08-13T22:00:00+00:00",
+      "summary": "would watch #TheLastHouseNetflix Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Death of the Pastor’s Wife | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=8wgC1XVGolE",
+      "published": "2026-08-13T14:30:00+00:00",
+      "summary": "Death of the Pastor’s Wife is a three-part documentary series examining the life and death of Mica Miller, wife of John-Paul Miller, the pastor of her family’s church in Myrtle Beach, South Carolina.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tyler Perry’s Why Did I Get Married Again? | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=VylsOZBYxQA",
+      "published": "2026-08-13T14:00:00+00:00",
+      "summary": "The couples reunite in celebration as Marcus and Angela’s daughter prepares to tie the knot. After being apart for quite some time, they learn quickly that as much as things change, they stay the same.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Stories that Grow with You | Only on Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=QS8oH0zscAY",
+      "published": "2026-08-13T13:00:00+00:00",
+      "summary": "For every first. For every next. For everywhere you’re going. The coming-of-age stories you love are all on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Untold Raygun: Breaking Badly | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=QJYG0KCwLLM",
+      "published": "2026-08-12T20:00:00+00:00",
+      "summary": "When Raygun’s performance at the 2024 Paris Olympics went viral overnight, an avalanche of memes, misinformation, and conspiracy theories followed, all questioning how she reached the Olympic stage. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The Perfect Lie | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=FnwySGfFTdc",
+      "published": "2026-08-12T18:00:00+00:00",
+      "summary": "When Karen moves to Bergen with her family, they are warmly welcomed into the Dining Club, a seductive group of friends who thoroughly enjoy an extravagant and debauched life.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Crew Girl | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Xs5qsfqp-tA",
+      "published": "2026-08-12T14:00:06+00:00",
+      "summary": "New school, new rules, same dream. Crew Girl premieres September 10th! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Animals | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=TdSRAb-GSu0",
+      "published": "2026-08-12T13:00:04+00:00",
+      "summary": "Power can’t protect you. Directed by and starring Ben Affleck, with Kerry Washington, Steven Yeun, Gillian Anderson, Adriana Paz and Luis Gerardo Méndez, Animals is in select theaters and on Netflix October 9. Watch on Netflix: https://www.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "The next installment in the Monster Anthology rages onto Netflix September 17th",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=2uCINlOKdyI",
+      "published": "2026-08-12T12:00:00+00:00",
+      "summary": "You know the rhyme, but do you know the story? The next installment in the Monster Anthology rages onto Netflix September 17th. #MonsterTheLizzieBordenStory Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Let’s Marry Harry | Finale Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=v8o49qsLBdQ",
+      "published": "2026-08-11T19:00:00+00:00",
+      "summary": "It’s time for Harry to make a decision. Who will walk down the aisle and marry Harry? The Let’s Marry Harry finale premieres tomorrow, August 12, only on Netflix 💍 Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -250,8 +560,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 6
+    "youtubeCount": 11,
+    "trailerCount": 17,
+    "sourceCount": 14
   }
 }
