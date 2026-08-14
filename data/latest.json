@@ -1,89 +1,89 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-14T09:01:41.057060Z",
-  "generatedAtDisplay": "2026-08-14 05:01 AM EDT",
+  "generatedAt": "2026-08-14T14:00:04.437700Z",
+  "generatedAtDisplay": "2026-08-14 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are US conducted ‘mass spying campaign’ against leftwing groups and anti-ICE protesters, records reveal, The fight over Flock and other ALPRs, and OpenAI is losing its second executive this week.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are USS George Washington reportedly en route to relieve USS Abraham Lincoln amid concerns over conditions onboard – US politics live, Memorial for second world war vandalized with bubbles and graffiti in Washington, and In an Uncertain Job Market, Top Economists Offer Advice for Incoming NC College Students.",
   "mainItems": [
     {
-      "title": "US conducted ‘mass spying campaign’ against leftwing groups and anti-ICE protesters, records reveal",
+      "title": "USS George Washington reportedly en route to relieve USS Abraham Lincoln amid concerns over conditions onboard – US politics live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters",
-      "published": "2026-08-13T23:06:04+00:00",
-      "summary": "DHS sent undercover agents to meetings and infiltrated chats of groups opposing Trump’s immigration crackdown Newly disclosed records reveal the US government extensively spied on prominent leftwing organizations and on protesters as part…",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
+      "published": "2026-08-14T13:46:02+00:00",
+      "summary": "Lincoln has been on record-breaking deployment for more than 200 days, with reports of service members attempting to jump overboard and chronic food shortages Sign up for the Breaking News US email The Trump administration has asked ⁠the…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "The fight over Flock and other ALPRs",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
-      "published": "2026-08-13T21:46:21+00:00",
-      "summary": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "OpenAI is losing its second executive this week",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "published": "2026-08-13T19:28:39+00:00",
-      "summary": "Another OpenAI executive is departing.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Judge dismisses Trump lawsuit that claimed Harvard failed to protect Jewish students",
+      "title": "Memorial for second world war vandalized with bubbles and graffiti in Washington",
       "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/14/world-war-two-memorial-dc-vandalism",
+      "published": "2026-08-14T12:58:27+00:00",
+      "summary": "Interior department calls incident ‘disgusting’ after area filled with bubbles and paint reading ‘Clean hands Dirty $’ US Park Police are investigating who graffitied the words “Clean hands dirty $” in red paint on the memorial on…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "In an Uncertain Job Market, Top Economists Offer Advice for Incoming NC College Students",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/in-an-uncertain-job-market-top-economists-offer-advice-for-incoming-nc-college-students/",
+      "published": "2026-08-14T12:30:00+00:00",
+      "summary": "It’s move-in week for college students across North Carolina. And once students have gotten settled into their dorms, their attention will turn to getting the classes needed to fulfill their chosen major.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+      "source": "MIT Technology Review",
+      "category": "Democracy / press freedom",
+      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "published": "2026-08-14T12:17:21+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Judge dismisses Trump administration's antisemitism lawsuit against Harvard",
+      "source": "NPR Education",
       "category": "AI / privacy",
-      "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-harvard-lawsuit-dismissed",
-      "published": "2026-08-13T19:17:30+00:00",
-      "summary": "Federal court rules administration failed to plausibly show ongoing violation of civil rights law A US federal ⁠judge ⁠has dismissed ​the Trump administration’s lawsuit that ⁠claimed ​Harvard ‌University failed ‌to protect Jewish ‌and…",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5930495/judge-dismisses-trump-administrations-antisemitism-lawsuit-against-harvard",
+      "published": "2026-08-14T10:47:14+00:00",
+      "summary": "A federal judge in Boston has dismissed a Trump administration lawsuit that claimed Harvard University did not do enough to protect students on campus from antisemitism.",
       "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 10
     },
     {
-      "title": "Third person dies at New Jersey immigration detention center",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/13/immigrant-dies-delaney-hall-new-jersey",
-      "published": "2026-08-13T16:33:32+00:00",
-      "summary": "José Chajón-Raxón experienced ‘seizure-like activity’ at Delaney Hall and later died after being hospitalized A Guatemalan immigrant detained by US Immigration and Customs Enforcement (ICE) at a Newark, New Jersey , facility suffered a…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+      "published": "2026-08-14T10:01:35+00:00",
+      "summary": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install…",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Help build a monument to that ‘sad little bitch’ Elon Musk",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument",
-      "published": "2026-08-14T08:40:13+00:00",
-      "summary": "Cards Against Humanity is gearing up to build \"something that will annoy Elon Musk,\" and it's crowdfunding the project with its usual flavor of vulgarity.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "Nintendo announces Pokémon Pokopia has sold over 5m copies, meaning that roughly one in four Switch 2 users now owns the game",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/pokemon-pokopia-5m-sales",
+      "published": "2026-08-14T13:19:08+00:00",
+      "summary": "It looks like we've got another massive Pokémon-flavoured hit on our hands.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "Trump orders Pentagon to redesign US aircraft carrier to use steam catapults to launch jets",
+      "title": "Karoline Leavitt leaves behind a legacy of lies. What’s next for the Trump aide? | Arwa Mahdawi",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-aircraft-carriers-steam-catapults",
-      "published": "2026-08-14T02:03:43+00:00",
-      "summary": "President has suggested steam catapults every year since 2017, saying digital systems are too ‘complicated’ After nearly a decade of loudly complaining about the fact that modern US aircraft carriers use electromagnetic systems to launch…",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/14/karoline-leavitt-legacy-of-lies-trump-aide",
+      "published": "2026-08-14T11:00:27+00:00",
+      "summary": "The press secretary’s communication style made her eminently qualified for a role in this administration Karoline Leavitt, 28, is leaving her demanding job as Donald Trump’s press secretary to spend more time with her two young children…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Five years after acquiring Oxenfree developer Night School Studio, Netflix are shutting them down",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/five-years-after-acquiring-oxenfree-developer-night-school-studio-netflix-are-shutting-them-down",
-      "published": "2026-08-13T20:29:25+00:00",
-      "summary": "In 2021, in their bid to get more of a hold on the games industry after dominating film and television streaming, Netflix acquired Oxenfree and Afterparty developer Night School Studio, the first developer they had ever acquired.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -97,10 +97,10 @@
       "score": 9
     },
     {
-      "title": "Doctors says Medicaid change to gender-affirming care will harm vulnerable youth",
+      "title": "Doctors say Medicaid change to gender-affirming care will harm vulnerable youth",
       "source": "NPR Health",
       "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5929518/doctors-says-medicaid-change-to-gender-affirming-care-will-harm-vulnerable-youth",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5929518/doctors-say-medicaid-change-to-gender-affirming-care-will-harm-vulnerable-youth",
       "published": "2026-08-14T08:43:38+00:00",
       "summary": "Federal Medicaid dollars can no longer pay for gender-affirming care for youth. Doctors who treat trans kids say it will harm vulnerable people.",
       "whyItMatters": "Relevant to your current interest graph.",
@@ -355,8 +355,8 @@
       "published": "2026-08-13T22:54:40+00:00",
       "summary": "This video is brought to you by EVERSPACE 2, a fast-paced single-player space shooter where vicious encounters and brutal challenges stand between you and that next epic loot drop.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Duskfade and Wild Blue Skies | Bytesized",
@@ -577,7 +577,7 @@
       "published": "2026-08-13T22:00:00+00:00",
       "summary": "would watch #TheLastHouseNetflix Watch on Netflix: https://www.netflix.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -837,6 +837,6 @@
     "mainCount": 13,
     "youtubeCount": 26,
     "trailerCount": 27,
-    "sourceCount": 21
+    "sourceCount": 23
   }
 }

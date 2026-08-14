@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-14T09:01:41.057060Z
+Generated: 2026-08-14T14:00:04.437700Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, AI / computing. The strongest items in this run are US conducted ‘mass spying campaign’ against leftwing groups and anti-ICE protesters, records reveal, The fight over Flock and other ALPRs, and OpenAI is losing its second executive this week.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are USS George Washington reportedly en route to relieve USS Abraham Lincoln amid concerns over conditions onboard – US politics live, Memorial for second world war vandalized with bubbles and graffiti in Washington, and In an Uncertain Job Market, Top Economists Offer Advice for Incoming NC College Students.
 
 ## Briefing
 
@@ -33,77 +33,77 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. US conducted ‘mass spying campaign’ against leftwing groups and anti-ICE protesters, records reveal [10/10]
+### 1. USS George Washington reportedly en route to relieve USS Abraham Lincoln amid concerns over conditions onboard – US politics live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-DHS sent undercover agents to meetings and infiltrated chats of groups opposing Trump’s immigration crackdown Newly disclosed records reveal the US government extensively spied on prominent leftwing organizations and on protesters as part…
+Lincoln has been on record-breaking deployment for more than 200 days, with reports of service members attempting to jump overboard and chronic food shortages Sign up for the Breaking News US email The Trump administration has asked ⁠the…
 
-Link: https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters
+Link: https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates
 
-### 2. The fight over Flock and other ALPRs [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US.
-
-Link: https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy
-
-### 3. OpenAI is losing its second executive this week [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Another OpenAI executive is departing.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure
-
-### 4. Judge dismisses Trump lawsuit that claimed Harvard failed to protect Jewish students [10/10]
+### 2. Memorial for second world war vandalized with bubbles and graffiti in Washington [10/10]
 **Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Interior department calls incident ‘disgusting’ after area filled with bubbles and paint reading ‘Clean hands Dirty $’ US Park Police are investigating who graffitied the words “Clean hands dirty $” in red paint on the memorial on…
+
+Link: https://www.theguardian.com/us-news/2026/aug/14/world-war-two-memorial-dc-vandalism
+
+### 3. In an Uncertain Job Market, Top Economists Offer Advice for Incoming NC College Students [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+It’s move-in week for college students across North Carolina. And once students have gotten settled into their dorms, their attention will turn to getting the classes needed to fulfill their chosen major.
+
+Link: https://www.the74million.org/article/in-an-uncertain-job-market-top-economists-offer-advice-for-incoming-nc-college-students/
+
+### 4. The Download: Flock’s new rules, cloning’s future, and children’s cells [10/10]
+**Source:** MIT Technology Review  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/
+
+### 5. Judge dismisses Trump administration's antisemitism lawsuit against Harvard [10/10]
+**Source:** NPR Education  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Federal court rules administration failed to plausibly show ongoing violation of civil rights law A US federal ⁠judge ⁠has dismissed ​the Trump administration’s lawsuit that ⁠claimed ​Harvard ‌University failed ‌to protect Jewish ‌and…
+A federal judge in Boston has dismissed a Trump administration lawsuit that claimed Harvard University did not do enough to protect students on campus from antisemitism.
 
-Link: https://www.theguardian.com/us-news/2026/aug/13/trump-harvard-lawsuit-dismissed
+Link: https://www.npr.org/2026/08/14/nx-s1-5930495/judge-dismisses-trump-administrations-antisemitism-lawsuit-against-harvard
 
-### 5. Third person dies at New Jersey immigration detention center [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-José Chajón-Raxón experienced ‘seizure-like activity’ at Delaney Hall and later died after being hospitalized A Guatemalan immigrant detained by US Immigration and Customs Enforcement (ICE) at a Newark, New Jersey , facility suffered a…
-
-Link: https://www.theguardian.com/us-news/2026/aug/13/immigrant-dies-delaney-hall-new-jersey
-
-### 6. Help build a monument to that ‘sad little bitch’ Elon Musk [9/10]
+### 6. ‘That is not acceptable’: Judge orders Google to make rival app store installs easier [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Cards Against Humanity is gearing up to build "something that will annoy Elon Musk," and it's crowdfunding the project with its usual flavor of vulgarity.
+One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install…
 
-Link: https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument
+Link: https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier
 
-### 7. Trump orders Pentagon to redesign US aircraft carrier to use steam catapults to launch jets [9/10]
+### 7. Nintendo announces Pokémon Pokopia has sold over 5m copies, meaning that roughly one in four Switch 2 users now owns the game [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+It looks like we've got another massive Pokémon-flavoured hit on our hands.
+
+Link: https://www.eurogamer.net/pokemon-pokopia-5m-sales
+
+### 8. Karoline Leavitt leaves behind a legacy of lies. What’s next for the Trump aide? | Arwa Mahdawi [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-President has suggested steam catapults every year since 2017, saying digital systems are too ‘complicated’ After nearly a decade of loudly complaining about the fact that modern US aircraft carriers use electromagnetic systems to launch…
+The press secretary’s communication style made her eminently qualified for a role in this administration Karoline Leavitt, 28, is leaving her demanding job as Donald Trump’s press secretary to spend more time with her two young children…
 
-Link: https://www.theguardian.com/us-news/2026/aug/13/trump-aircraft-carriers-steam-catapults
-
-### 8. Five years after acquiring Oxenfree developer Night School Studio, Netflix are shutting them down [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-In 2021, in their bid to get more of a hold on the games industry after dominating film and television streaming, Netflix acquired Oxenfree and Afterparty developer Night School Studio, the first developer they had ever acquired.
-
-Link: https://www.rockpapershotgun.com/five-years-after-acquiring-oxenfree-developer-night-school-studio-netflix-are-shutting-them-down
+Link: https://www.theguardian.com/commentisfree/2026/aug/14/karoline-leavitt-legacy-of-lies-trump-aide
 
 ### 9. Gap to Adequately Fund Schools Widens in Illinois [9/10]
 **Source:** The 74  
@@ -114,14 +114,14 @@ Chicago Public Schools is further away from having enough money to meet its stud
 
 Link: https://www.the74million.org/article/despite-funding-increase-gap-to-adequately-fund-schools-widens-in-most-illinois-districts/
 
-### 10. Doctors says Medicaid change to gender-affirming care will harm vulnerable youth [8/10]
+### 10. Doctors say Medicaid change to gender-affirming care will harm vulnerable youth [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
 Federal Medicaid dollars can no longer pay for gender-affirming care for youth. Doctors who treat trans kids say it will harm vulnerable people.
 
-Link: https://www.npr.org/2026/08/14/nx-s1-5929518/doctors-says-medicaid-change-to-gender-affirming-care-will-harm-vulnerable-youth
+Link: https://www.npr.org/2026/08/14/nx-s1-5929518/doctors-say-medicaid-change-to-gender-affirming-care-will-harm-vulnerable-youth
 
 ### 11. Person Hides Prompt Injection in Legal Filing Telling AI to Side With Them [8/10]
 **Source:** 404 Media  
@@ -323,9 +323,9 @@ This week on Firelink, Nick and Marty chat about the slippery slope of making a 
 
 Link: https://www.youtube.com/watch?v=AvrJZ7ISogM
 
-### Taking your TTRPG Questions Today | RPG Help Desk [8/10]
+### Taking your TTRPG Questions Today | RPG Help Desk [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by EVERSPACE 2, a fast-paced single-player space shooter where vicious encounters and brutal challenges stand between you and that next epic loot drop.
@@ -532,7 +532,7 @@ Evil found a way out. The final trailer has come for our world. GET TICKETS NOW.
 
 Link: https://www.youtube.com/watch?v=bHehvziDKBI
 
-### would watch #TheLastHouse [10/10]
+### would watch #TheLastHouse [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
