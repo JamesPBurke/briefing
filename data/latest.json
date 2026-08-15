@@ -1,60 +1,60 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-14T18:02:08.382598Z",
-  "generatedAtDisplay": "2026-08-14 02:02 PM EDT",
+  "generatedAt": "2026-08-15T05:00:04.029451Z",
+  "generatedAtDisplay": "2026-08-15 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Trump administration argues that ballroom construction is ‘vital’ for national security in appeal to supreme court – US politics live, People detained at Mississippi ICE facility sickened by gas leak and denied medical care, and Progressives back substitute teacher over Wasserman Schultz in Florida.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Education / pedagogy. The strongest items in this run are A RAMageddon guide to back-to-school laptop shopping, The Watcher is a creepy surveillance thriller with shiny Unreal Engine props - I just hope it's not as talkative as its trailer, and BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit.",
   "mainItems": [
     {
-      "title": "Trump administration argues that ballroom construction is ‘vital’ for national security in appeal to supreme court – US politics live",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
-      "published": "2026-08-14T17:52:53+00:00",
-      "summary": "Administration that halting construction will leave Trump ‘much less safe’ after appeals court ruled work lacked necessary approval from Congress Trump administration asks ⁠US supreme court to allow construction of White House ballroom…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "People detained at Mississippi ICE facility sickened by gas leak and denied medical care",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/14/mississippi-ice-facility-gas-leak",
-      "published": "2026-08-14T17:16:27+00:00",
-      "summary": "Facility also had no air conditioning for two days amid extreme heat, according to one of the people detained People detained at an overcrowded federal immigration camp in Mississippi were sickened by a mystery gas leak, then denied…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Progressives back substitute teacher over Wasserman Schultz in Florida",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/aug/14/florida-debbie-wasserman-schultz-elijah-manley",
-      "published": "2026-08-14T16:54:25+00:00",
-      "summary": "Group backs Elijah Manley in primary election in bid to unseat veteran Democrat in newly drawn district A progressive group has endorsed a 27-year-old substitute teacher who overcame childhood homelessness in his bid to unseat the veteran…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "2025 GOTY Clair Obscur: Expedition 33 is down to $33",
+      "title": "A RAMageddon guide to back-to-school laptop shopping",
       "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale",
-      "published": "2026-08-14T14:50:25+00:00",
-      "summary": "For RPG fans who dig Persona-style turn-based action and who are pursuing games with original stories and fantastic tunes, look no further than Clair Obscur: Expedition 33.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
+      "published": "2026-08-14T19:37:04+00:00",
+      "summary": "If you’re a student looking for an affordable laptop, I have bad news and I have good news.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "source": "Ars Technica",
+      "title": "The Watcher is a creepy surveillance thriller with shiny Unreal Engine props - I just hope it's not as talkative as its trailer",
+      "source": "Rock Paper Shotgun",
       "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-      "published": "2026-08-14T14:27:14+00:00",
-      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+      "url": "https://www.rockpapershotgun.com/the-watcher-is-a-creepy-surveillance-thriller-with-shiny-unreal-engine-props-i-just-hope-its-not-as-talkative-as-its-trailer",
+      "published": "2026-08-14T17:41:16+00:00",
+      "summary": "Some pressing personal context: I live in a very small flat with huge windows and curtains that only ever seem to cover about 80% of the view, no matter how ingeniously I yank them around.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
+      "published": "2026-08-14T21:05:47+00:00",
+      "summary": "Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentary The BBC is trying to subpoena Donald Trump’s children as it builds its defense against the president’s defamation…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
+    },
+    {
+      "title": "SC Students Improve in Math and Reading, but Less Than Half Meet Math Benchmarks",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/sc-students-improve-in-math-and-reading-but-less-than-half-meet-math-benchmarks/",
+      "published": "2026-08-14T18:30:00+00:00",
+      "summary": "COLUMBIA, S.C. — Elementary and middle school students posted their best scores yet on end-of-year standardized tests, though more than half still can’t calculate as expected for their age, according to state testing data released Monday.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "published": "2026-08-14T17:26:53+00:00",
+      "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
     },
     {
       "title": "In an Uncertain Job Market, Top Economists Offer Advice for Incoming NC College Students",
@@ -64,47 +64,37 @@
       "published": "2026-08-14T12:30:00+00:00",
       "summary": "It’s move-in week for college students across North Carolina. And once students have gotten settled into their dorms, their attention will turn to getting the classes needed to fulfill their chosen major.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-      "source": "MIT Technology Review",
-      "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
-      "published": "2026-08-14T12:17:21+00:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Judge dismisses Trump administration's antisemitism lawsuit against Harvard",
-      "source": "NPR Education",
-      "category": "AI / privacy",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5930495/judge-dismisses-trump-administrations-antisemitism-lawsuit-against-harvard",
-      "published": "2026-08-14T10:47:14+00:00",
-      "summary": "A federal judge in Boston has dismissed a Trump administration lawsuit that claimed Harvard University did not do enough to protect students on campus from antisemitism.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "This scientist is helping build a missing map of childhood",
-      "source": "MIT Technology Review",
-      "category": "Democracy / press freedom",
-      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
-      "published": "2026-08-14T09:00:00+00:00",
-      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Gap to Adequately Fund Schools Widens in Illinois",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/despite-funding-increase-gap-to-adequately-fund-schools-widens-in-most-illinois-districts/",
-      "published": "2026-08-13T18:30:00+00:00",
-      "summary": "Chicago Public Schools is further away from having enough money to meet its students’ needs as defined by the state, according to new data released by the Illinois State Board of Education.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 9
+    },
+    {
+      "title": "Trump downplays concerns about sailors onboard USS Abraham Lincoln amid record deployment",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-uss-abraham-lincoln-deployment",
+      "published": "2026-08-14T22:12:55+00:00",
+      "summary": "President said nine months at sea ‘not nearly long enough’ even as families call for attention to mental health crisis Donald Trump has downplayed concerns about US sailors enduring a record-setting deployment of nearly nine months onboard…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 8
+    },
+    {
+      "title": "Recent AI 'escapes' are a warning of how unpredictable the technology can be",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5929579/recent-ai-escapes-are-a-warning-of-how-unpredictable-the-technology-can-be",
+      "published": "2026-08-14T20:37:51+00:00",
+      "summary": "Recent episodes of AI agents escaping test zones and hacking other systems may be a harbinger of what's to come, as some experts believe the systems are fundamentally unpredictable.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
+    },
+    {
+      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+      "source": "Ars Technica",
+      "category": "Security / computing",
+      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "published": "2026-08-14T18:32:14+00:00",
+      "summary": "Screen-sharing bug lets remote hackers log in without a password.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 8
     },
     {
       "title": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
@@ -127,14 +117,24 @@
       "score": 8
     },
     {
-      "title": "Feds probe 'mention markets' amid White House Kalshi controversy",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi",
-      "published": "2026-08-14T02:06:10+00:00",
-      "summary": "Betting on what people say is becoming an increasingly popular category of prediction market sites. Now, federal officials have opened a probe examining whether those markets are a magnet for manipulators.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 7
+      "title": "Compulsion Games becomes publisher of South of Midnight on Steam, suggesting departure from Xbox amid major restructuring is now complete",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/compulsion-games-south-of-midnight-publisher-xbox-restructuring",
+      "published": "2026-08-14T14:17:44+00:00",
+      "summary": "Developer Compulsion Games is now listed as the publisher of its beautiful, musical action adventure game South of Midnight on Steam, suggesting that its full detachment from the Xbox division is complete. Read more",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8
+    },
+    {
+      "title": "The X-Files: I Want to Believe Director’s Cut Is Actually Shorter. Here’s What Changed",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/the-x-files-i-want-to-believe-directors-cut-changes-explained/",
+      "published": "2026-08-14T19:30:02+00:00",
+      "summary": "The new version of Why The X-Files: I Want to Believe is not what fans expected. Here is what makes the new version so different The post The X-Files: I Want to Believe Director’s Cut Is Actually Shorter.",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 6
     }
   ],
   "youtube": [],
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 9
+    "sourceCount": 10
   }
 }
