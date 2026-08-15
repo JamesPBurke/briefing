@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-15T09:00:13.933556Z
+Generated: 2026-08-15T14:00:03.853823Z
 
-Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are A RAMageddon guide to back-to-school laptop shopping, OpenAI and Anthropic in price war as Chinese AI rivals gain ground, and What are we all playing this weekend?.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Israeli strikes on southern Lebanon kill 11 in worst toll since June truce, Multiple people injured in shooting at Virginia State University, and Are you tweaking on your partner? From secret boob jobs to Botox on the sly, people explain why they keep their cosmetic procedures hidden.
 
 ## Briefing
 
@@ -33,25 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. A RAMageddon guide to back-to-school laptop shopping [10/10]
-**Source:** The Verge  
+### 1. Israeli strikes on southern Lebanon kill 11 in worst toll since June truce [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-If you’re a student looking for an affordable laptop, I have bad news and I have good news.
+Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll…
 
-Link: https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school
+Link: https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says
 
-### 2. OpenAI and Anthropic in price war as Chinese AI rivals gain ground [10/10]
-**Source:** Ars Technica  
+### 2. Multiple people injured in shooting at Virginia State University [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-US groups release cheaper models after new challenges to their trillion-dollar ambitions.
+School said shooting involved ‘multiple suspects’ as campus was locked down and police responded to scene Multiple people were injured in a shooting at Virginia State University, police said on Saturday morning, with several suspects still…
 
-Link: https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/
+Link: https://www.theguardian.com/us-news/2026/aug/15/multiple-people-injured-virginia-state-university-shooting
 
-### 3. What are we all playing this weekend? [9/10]
+### 3. Are you tweaking on your partner? From secret boob jobs to Botox on the sly, people explain why they keep their cosmetic procedures hidden [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Daniel’s boyfriend thinks his youthful complexion is down to fancy skincare, and Jessica’s nearest and dearest still don’t know she’s had a breast enhancement … Jessica was at a spa with her friends of more than 20 years when she noticed…
+
+Link: https://www.theguardian.com/lifeandstyle/2026/aug/15/secret-botox-boob-jobs-hair-transplants
+
+### 4. The Fauci hearing was painful to watch. But we need answers on Covid-19’s origin| David Relman [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Despite the recent hearings in Congress, we seem to be even further from the goal of understanding Covid-19’s origin’s than we have ever been As a microbiologist and infectious disease clinician, it has been tough to watch the recent…
+
+Link: https://www.theguardian.com/commentisfree/2026/aug/15/covid-19-origins
+
+### 5. Adjuncting Until the End of Time [10/10]
+**Source:** The Nation  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Maria Adelmann Universities now have more adjuncts than tenured and tenure-track professors combined. The conditions are unsustainable—for professors and students alike.
+
+Link: https://www.thenation.com/article/society/adjuncting-until-the-end-of-time/
+
+### 6. What are we all playing this weekend? [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -60,25 +87,7 @@ Bit of a quiet one this week, gang. Half the RPS team are on holiday, ill, or of
 
 Link: https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-395
 
-### 4. Concerns grow over increased global ties with Taliban in Afghanistan [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Campaigners fear deeper diplomatic contacts are undermining demands for improvements in human rights The Taliban in Afghanistan have launched a diplomatic effort to end their isolation as major regional and international powers show a…
-
-Link: https://www.theguardian.com/world/2026/aug/15/concern-grow-global-ties-taliban-afghanistan-human-rights
-
-### 5. BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentary The BBC is trying to subpoena Donald Trump’s children as it builds its defense against the president’s defamation…
-
-Link: https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit
-
-### 6. SC Students Improve in Math and Reading, but Less Than Half Meet Math Benchmarks [9/10]
+### 7. SC Students Improve in Math and Reading, but Less Than Half Meet Math Benchmarks [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -87,7 +96,7 @@ COLUMBIA, S.C. — Elementary and middle school students posted their best score
 
 Link: https://www.the74million.org/article/sc-students-improve-in-math-and-reading-but-less-than-half-meet-math-benchmarks/
 
-### 7. Suspecting court of using AI, man injected prompts in filings to try to win case [9/10]
+### 8. Suspecting court of using AI, man injected prompts in filings to try to win case [9/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -96,16 +105,16 @@ Judge warns pro se litigants are using chatbots wrong and getting desperate.
 
 Link: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/
 
-### 8. In an Uncertain Job Market, Top Economists Offer Advice for Incoming NC College Students [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 9. 5 exercises that can prevent (and relieve!) pregnancy pain [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-It’s move-in week for college students across North Carolina. And once students have gotten settled into their dorms, their attention will turn to getting the classes needed to fulfill their chosen major.
+Hemorrhoids, leg cramps, sciatica — oh my! Alongside the joy of pregnancy often comes a parade of physical discomfort. Alleviate and prevent common aches with these exercises.
 
-Link: https://www.the74million.org/article/in-an-uncertain-job-market-top-economists-offer-advice-for-incoming-nc-college-students/
+Link: https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain
 
-### 9. Recent AI 'escapes' are a warning of how unpredictable the technology can be [8/10]
+### 10. Recent AI 'escapes' are a warning of how unpredictable the technology can be [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -114,7 +123,7 @@ Recent episodes of AI agents escaping test zones and hacking other systems may b
 
 Link: https://www.npr.org/2026/08/14/nx-s1-5929579/recent-ai-escapes-are-a-warning-of-how-unpredictable-the-technology-can-be
 
-### 10. Vulnerability giving attackers full control of Macs is under active exploitation [8/10]
+### 11. Vulnerability giving attackers full control of Macs is under active exploitation [8/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -122,15 +131,6 @@ Link: https://www.npr.org/2026/08/14/nx-s1-5929579/recent-ai-escapes-are-a-warni
 Screen-sharing bug lets remote hackers log in without a password.
 
 Link: https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/
-
-### 11. Is there a summer COVID-19 surge this year? Yep, it's ramping up again [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Just like all previous summers since the pandemic began, COVID-19 cases are ticking up again, even while other health threats make more headlines.
-
-Link: https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge
 
 ### 12. Behind the Blog: Endless Scam Parade [8/10]
 **Source:** 404 Media  
@@ -161,6 +161,15 @@ Link: https://reactormag.com/the-x-files-i-want-to-believe-directors-cut-changes
 
 Link: https://www.youtube.com/watch?v=QnGNF8k_uoc
 
+### We Asked Green Day If They Support AI... [9/10]
+**Creator:** WIRED  
+**Verdict:** Watch it  
+**Why it matters:** Relevant to your current interest graph.
+
+Green Day visit WIRED to answer their most searched questions on Google.
+
+Link: https://www.youtube.com/watch?v=s8yKzkWDv60
+
 ### Does Green Day Do Weddings? [8/10]
 **Creator:** WIRED  
 **Verdict:** Worth watching  
@@ -179,18 +188,18 @@ Green Day visit WIRED to answer their most searched questions on Google.
 
 Link: https://www.youtube.com/watch?v=jmdN5FG-n_o
 
-### Italian authorities recover stolen paintings worth millions [8/10]
+### Italian authorities recover stolen paintings worth millions [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Authorities recovered 3 paintings by Pierre-Auguste Renoir, Paul Cézanne and Henri Matisse that were worth millions and stolen earlier this year from a private museum.
 
 Link: https://www.youtube.com/watch?v=A2VPnlmkO7g
 
-### Becky G on her latest album, 'Baraja Bendita' [8/10]
+### Becky G on her latest album, 'Baraja Bendita' [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Becky G opens up about creating her pop-star persona at just 9 years old to save herself. Twenty years later, Becky G is a global pop star, healing the girl who started it all — Rebbeca.

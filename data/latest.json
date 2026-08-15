@@ -1,29 +1,59 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-15T09:00:13.933556Z",
-  "generatedAtDisplay": "2026-08-15 05:00 AM EDT",
+  "generatedAt": "2026-08-15T14:00:03.853823Z",
+  "generatedAtDisplay": "2026-08-15 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are A RAMageddon guide to back-to-school laptop shopping, OpenAI and Anthropic in price war as Chinese AI rivals gain ground, and What are we all playing this weekend?.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Israeli strikes on southern Lebanon kill 11 in worst toll since June truce, Multiple people injured in shooting at Virginia State University, and Are you tweaking on your partner? From secret boob jobs to Botox on the sly, people explain why they keep their cosmetic procedures hidden.",
   "mainItems": [
     {
-      "title": "A RAMageddon guide to back-to-school laptop shopping",
-      "source": "The Verge",
+      "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
-      "published": "2026-08-14T19:37:04+00:00",
-      "summary": "If you’re a student looking for an affordable laptop, I have bad news and I have good news.",
+      "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
+      "published": "2026-08-15T13:55:28+00:00",
+      "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "source": "Ars Technica",
+      "title": "Multiple people injured in shooting at Virginia State University",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-      "published": "2026-08-14T14:27:14+00:00",
-      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+      "url": "https://www.theguardian.com/us-news/2026/aug/15/multiple-people-injured-virginia-state-university-shooting",
+      "published": "2026-08-15T13:20:41+00:00",
+      "summary": "School said shooting involved ‘multiple suspects’ as campus was locked down and police responded to scene Multiple people were injured in a shooting at Virginia State University, police said on Saturday morning, with several suspects still…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Are you tweaking on your partner? From secret boob jobs to Botox on the sly, people explain why they keep their cosmetic procedures hidden",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/15/secret-botox-boob-jobs-hair-transplants",
+      "published": "2026-08-15T10:59:54+00:00",
+      "summary": "Daniel’s boyfriend thinks his youthful complexion is down to fancy skincare, and Jessica’s nearest and dearest still don’t know she’s had a breast enhancement … Jessica was at a spa with her friends of more than 20 years when she noticed…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "The Fauci hearing was painful to watch. But we need answers on Covid-19’s origin| David Relman",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/15/covid-19-origins",
+      "published": "2026-08-15T10:00:53+00:00",
+      "summary": "Despite the recent hearings in Congress, we seem to be even further from the goal of understanding Covid-19’s origin’s than we have ever been As a microbiologist and infectious disease clinician, it has been tough to watch the recent…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Adjuncting Until the End of Time",
+      "source": "The Nation",
+      "category": "CS education / AI policy",
+      "url": "https://www.thenation.com/article/society/adjuncting-until-the-end-of-time/",
+      "published": "2026-08-15T09:33:00+00:00",
+      "summary": "Maria Adelmann Universities now have more adjuncts than tenured and tenure-track professors combined. The conditions are unsustainable—for professors and students alike.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
@@ -34,26 +64,6 @@
       "published": "2026-08-15T07:01:00+00:00",
       "summary": "Bit of a quiet one this week, gang. Half the RPS team are on holiday, ill, or off at some preview event, maybe in a less melty part of the world like Scandinavia, the lucky bastards.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "Concerns grow over increased global ties with Taliban in Afghanistan",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/aug/15/concern-grow-global-ties-taliban-afghanistan-human-rights",
-      "published": "2026-08-15T05:00:49+00:00",
-      "summary": "Campaigners fear deeper diplomatic contacts are undermining demands for improvements in human rights The Taliban in Afghanistan have launched a diplomatic effort to end their isolation as major regional and international powers show a…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
-      "published": "2026-08-14T21:05:47+00:00",
-      "summary": "Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentary The BBC is trying to subpoena Donald Trump’s children as it builds its defense against the president’s defamation…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
     },
     {
@@ -77,14 +87,14 @@
       "score": 9
     },
     {
-      "title": "In an Uncertain Job Market, Top Economists Offer Advice for Incoming NC College Students",
-      "source": "The 74",
-      "category": "CS education / AI policy",
-      "url": "https://www.the74million.org/article/in-an-uncertain-job-market-top-economists-offer-advice-for-incoming-nc-college-students/",
-      "published": "2026-08-14T12:30:00+00:00",
-      "summary": "It’s move-in week for college students across North Carolina. And once students have gotten settled into their dorms, their attention will turn to getting the classes needed to fulfill their chosen major.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
+      "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
+      "published": "2026-08-15T09:04:00+00:00",
+      "summary": "Hemorrhoids, leg cramps, sciatica — oh my! Alongside the joy of pregnancy often comes a parade of physical discomfort. Alleviate and prevent common aches with these exercises.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "Recent AI 'escapes' are a warning of how unpredictable the technology can be",
@@ -104,16 +114,6 @@
       "published": "2026-08-14T18:32:14+00:00",
       "summary": "Screen-sharing bug lets remote hackers log in without a password.",
       "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 8
-    },
-    {
-      "title": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge",
-      "published": "2026-08-14T16:37:54+00:00",
-      "summary": "Just like all previous summers since the pandemic began, COVID-19 cases are ticking up again, even while other health threats make more headlines.",
-      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
@@ -150,6 +150,17 @@
       "verdict": "Probably worth watching"
     },
     {
+      "title": "We Asked Green Day If They Support AI...",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=s8yKzkWDv60",
+      "published": "2026-08-15T13:00:03+00:00",
+      "summary": "Green Day visit WIRED to answer their most searched questions on Google.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
       "title": "Does Green Day Do Weddings?",
       "source": "WIRED",
       "category": "Tech / media",
@@ -179,8 +190,8 @@
       "published": "2026-08-14T22:30:36+00:00",
       "summary": "Authorities recovered 3 paintings by Pierre-Auguste Renoir, Paul Cézanne and Henri Matisse that were worth millions and stolen earlier this year from a private museum.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Becky G on her latest album, 'Baraja Bendita'",
@@ -190,8 +201,8 @@
       "published": "2026-08-14T21:00:14+00:00",
       "summary": "Becky G opens up about creating her pop-star persona at just 9 years old to save herself. Twenty years later, Becky G is a global pop star, healing the girl who started it all — Rebbeca.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Trump dismisses concerns as reports surface of poor conditions on USS Abraham Lincoln",
@@ -857,7 +868,7 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 25,
+    "youtubeCount": 26,
     "trailerCount": 30,
     "sourceCount": 22
   }
