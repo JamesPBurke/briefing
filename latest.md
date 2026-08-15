@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-15T05:00:04.029451Z
+Generated: 2026-08-15T09:00:13.933556Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Education / pedagogy. The strongest items in this run are A RAMageddon guide to back-to-school laptop shopping, The Watcher is a creepy surveillance thriller with shiny Unreal Engine props - I just hope it's not as talkative as its trailer, and BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit.
+Today's sweep leans toward Democracy / press freedom, Games / criticism, Democracy / anti-fascism. The strongest items in this run are A RAMageddon guide to back-to-school laptop shopping, OpenAI and Anthropic in price war as Chinese AI rivals gain ground, and What are we all playing this weekend?.
 
 ## Briefing
 
@@ -42,16 +42,34 @@ If you’re a student looking for an affordable laptop, I have bad news and I ha
 
 Link: https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school
 
-### 2. The Watcher is a creepy surveillance thriller with shiny Unreal Engine props - I just hope it's not as talkative as its trailer [10/10]
-**Source:** Rock Paper Shotgun  
+### 2. OpenAI and Anthropic in price war as Chinese AI rivals gain ground [10/10]
+**Source:** Ars Technica  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Some pressing personal context: I live in a very small flat with huge windows and curtains that only ever seem to cover about 80% of the view, no matter how ingeniously I yank them around.
+US groups release cheaper models after new challenges to their trillion-dollar ambitions.
 
-Link: https://www.rockpapershotgun.com/the-watcher-is-a-creepy-surveillance-thriller-with-shiny-unreal-engine-props-i-just-hope-its-not-as-talkative-as-its-trailer
+Link: https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/
 
-### 3. BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit [9/10]
+### 3. What are we all playing this weekend? [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Bit of a quiet one this week, gang. Half the RPS team are on holiday, ill, or off at some preview event, maybe in a less melty part of the world like Scandinavia, the lucky bastards.
+
+Link: https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-395
+
+### 4. Concerns grow over increased global ties with Taliban in Afghanistan [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Campaigners fear deeper diplomatic contacts are undermining demands for improvements in human rights The Taliban in Afghanistan have launched a diplomatic effort to end their isolation as major regional and international powers show a…
+
+Link: https://www.theguardian.com/world/2026/aug/15/concern-grow-global-ties-taliban-afghanistan-human-rights
+
+### 5. BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit [9/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -60,7 +78,7 @@ Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after pre
 
 Link: https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit
 
-### 4. SC Students Improve in Math and Reading, but Less Than Half Meet Math Benchmarks [9/10]
+### 6. SC Students Improve in Math and Reading, but Less Than Half Meet Math Benchmarks [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -69,7 +87,7 @@ COLUMBIA, S.C. — Elementary and middle school students posted their best score
 
 Link: https://www.the74million.org/article/sc-students-improve-in-math-and-reading-but-less-than-half-meet-math-benchmarks/
 
-### 5. Suspecting court of using AI, man injected prompts in filings to try to win case [9/10]
+### 7. Suspecting court of using AI, man injected prompts in filings to try to win case [9/10]
 **Source:** Ars Technica  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -78,7 +96,7 @@ Judge warns pro se litigants are using chatbots wrong and getting desperate.
 
 Link: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/
 
-### 6. In an Uncertain Job Market, Top Economists Offer Advice for Incoming NC College Students [9/10]
+### 8. In an Uncertain Job Market, Top Economists Offer Advice for Incoming NC College Students [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -87,16 +105,7 @@ It’s move-in week for college students across North Carolina. And once student
 
 Link: https://www.the74million.org/article/in-an-uncertain-job-market-top-economists-offer-advice-for-incoming-nc-college-students/
 
-### 7. Trump downplays concerns about sailors onboard USS Abraham Lincoln amid record deployment [8/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-President said nine months at sea ‘not nearly long enough’ even as families call for attention to mental health crisis Donald Trump has downplayed concerns about US sailors enduring a record-setting deployment of nearly nine months onboard…
-
-Link: https://www.theguardian.com/us-news/2026/aug/14/trump-uss-abraham-lincoln-deployment
-
-### 8. Recent AI 'escapes' are a warning of how unpredictable the technology can be [8/10]
+### 9. Recent AI 'escapes' are a warning of how unpredictable the technology can be [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -105,7 +114,7 @@ Recent episodes of AI agents escaping test zones and hacking other systems may b
 
 Link: https://www.npr.org/2026/08/14/nx-s1-5929579/recent-ai-escapes-are-a-warning-of-how-unpredictable-the-technology-can-be
 
-### 9. Vulnerability giving attackers full control of Macs is under active exploitation [8/10]
+### 10. Vulnerability giving attackers full control of Macs is under active exploitation [8/10]
 **Source:** Ars Technica  
 **Category:** Security / computing  
 **Why it matters:** Relevant to systems, infrastructure, and technical risk.
@@ -114,7 +123,7 @@ Screen-sharing bug lets remote hackers log in without a password.
 
 Link: https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/
 
-### 10. Is there a summer COVID-19 surge this year? Yep, it's ramping up again [8/10]
+### 11. Is there a summer COVID-19 surge this year? Yep, it's ramping up again [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -123,7 +132,7 @@ Just like all previous summers since the pandemic began, COVID-19 cases are tick
 
 Link: https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge
 
-### 11. Behind the Blog: Endless Scam Parade [8/10]
+### 12. Behind the Blog: Endless Scam Parade [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -131,15 +140,6 @@ Link: https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge
 This week, we discuss the mainstreaming of Flock, media appearances, and Spotify's AI move.
 
 Link: https://www.404media.co/behind-the-blog-endless-scam-parade/
-
-### 12. Compulsion Games becomes publisher of South of Midnight on Steam, suggesting departure from Xbox amid major restructuring is now complete [8/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Developer Compulsion Games is now listed as the publisher of its beautiful, musical action adventure game South of Midnight on Steam, suggesting that its full detachment from the Xbox division is complete. Read more
-
-Link: https://www.eurogamer.net/compulsion-games-south-of-midnight-publisher-xbox-restructuring
 
 ### 13. The X-Files: I Want to Believe Director’s Cut Is Actually Shorter. Here’s What Changed [6/10]
 **Source:** Reactor  
@@ -152,7 +152,230 @@ Link: https://reactormag.com/the-x-files-i-want-to-believe-directors-cut-changes
 
 ## YouTube
 
-_No YouTube picks in this briefing._
+### Claude AI Failed 650 Times…Then Beat The Human Record [7/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://www.anthropic.com/research/riemann-zeta Source: https://www.scientificamerican.
+
+Link: https://www.youtube.com/watch?v=QnGNF8k_uoc
+
+### Does Green Day Do Weddings? [8/10]
+**Creator:** WIRED  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Green Day visit WIRED to answer their most searched questions on Google.
+
+Link: https://www.youtube.com/watch?v=TrO0elgCNB4
+
+### Green Day Answer The Web's Most Searched Questions [7/10]
+**Creator:** WIRED  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Green Day visit WIRED to answer their most searched questions on Google.
+
+Link: https://www.youtube.com/watch?v=jmdN5FG-n_o
+
+### Italian authorities recover stolen paintings worth millions [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Authorities recovered 3 paintings by Pierre-Auguste Renoir, Paul Cézanne and Henri Matisse that were worth millions and stolen earlier this year from a private museum.
+
+Link: https://www.youtube.com/watch?v=A2VPnlmkO7g
+
+### Becky G on her latest album, 'Baraja Bendita' [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Becky G opens up about creating her pop-star persona at just 9 years old to save herself. Twenty years later, Becky G is a global pop star, healing the girl who started it all — Rebbeca.
+
+Link: https://www.youtube.com/watch?v=LzLsgMVfM5E
+
+### Trump dismisses concerns as reports surface of poor conditions on USS Abraham Lincoln [7/10]
+**Creator:** NPR  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Democratic lawmakers are calling for an investigation into conditions aboard the USS Abraham Lincoln. The aircraft carrier has spent more than 250 straight days at sea as part of its deployment in the Middle East.
+
+Link: https://www.youtube.com/watch?v=zjFFK8pC5jk
+
+### How National Guard members are feeling about being deployed in D.C. [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+The National Guard has been deployed in Washington, D.C. for more than a year now. During that time, their ranks have swelled from about 800 to nearly 5,000.
+
+Link: https://www.youtube.com/watch?v=Z_DRtqS_pb0
+
+### Jon Batiste hopes his new albums give classical music broad appeal [6/10]
+**Creator:** NPR  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to your current interest graph.
+
+Jon Batiste offers his take on Mozart and Thelonious Monk in a trio of albums featuring his blend of classical, jazz, roots and R&B.
+
+Link: https://www.youtube.com/watch?v=74JCuERk-3w
+
+### Twitch faces backlash over plan to use creators' content to train Amazon's AI models [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+Some Twitch users are criticizing the company's plans to use creators’ content to train the parent company’s AI models.⁠ ⁠ Twitch says users can opt out if they so choose.
+
+Link: https://www.youtube.com/watch?v=5cH5Jy32xQs
+
+### Trump’s AF1 ruse / Military at the polls? / Civilian casualties abroad [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+A president is stashed away in a catering truck -- a ruse to escape a threat from Iran. The White House press corps was clueless.
+
+Link: https://www.youtube.com/watch?v=gV-1pU-zEJ4
+
+### ICE plans to outfit officers with electric shock gloves [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+The Department of Homeland Security is planning to equip ICE officers with gloves that can deliver electric shocks to people being arrested. Compliant Technologies says the gloves are designed for de-escalation. U.S.
+
+Link: https://www.youtube.com/watch?v=STQVNmGmzWI
+
+### One Year Since We Left IGN - What's Happened + What's Next? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/DsRYafPhTHw ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=R-mpxuXMDc8
+
+### What Current PC Specs Can Match Next-Gen Console Performance? [7/10]
+**Creator:** Digital Foundry  
+**Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/DsRYafPhTHw ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=Bo_1pgzHm5s
+
+### Has Lack of Xbox Competition Enabled Sony Complacency/Indifference? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/DsRYafPhTHw ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=eQiBxWAfGxY
+
+### id Software Staff Member: What REALLY Happened With Xbox Reset Lay-Offs [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Interview Here: https://youtu.be/aA64Ogzm_VU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=mOxEyBf9--0
+
+### The Steam Hardware Survey Isn't Making Sense: More 16GB GPUs Than 8GB? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/eMwtL2v1J-M ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=yQ7AawhRoas
+
+### Microsoft Docs Confirm It: Xbox 360 Emulation Is Coming To PC [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/eMwtL2v1J-M ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=wf3TTN93sZM
+
+### Dark Souls 1 Randomizer Chaos Continues w/ Jack and Jess -- Part 2 [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
+
+Link: https://www.youtube.com/watch?v=AwnZu4Kd6vM
+
+### We’re Not Ready for How Big GTA 6’s Launch Will Be | Unpacked [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by EVERSPACE 2, a fast-paced single-player space shooter where vicious encounters and brutal challenges stand between you and that next epic loot drop.
+
+Link: https://www.youtube.com/watch?v=Ae9MgZmMMHQ
+
+### The Slippery Slope of "Inspired By..." | Firelink Podcast [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Firelink, Nick and Marty chat about the slippery slope of making a game fully "inspired by" a classic, the small bit of Elder Scrolls 6 news, and Saber Interactive's CEO being a completely out of touch corpo.
+
+Link: https://www.youtube.com/watch?v=AvrJZ7ISogM
+
+### Taking your TTRPG Questions Today | RPG Help Desk [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by EVERSPACE 2, a fast-paced single-player space shooter where vicious encounters and brutal challenges stand between you and that next epic loot drop.
+
+Link: https://www.youtube.com/watch?v=Ll9d8m8T8GI
+
+### Duskfade and Wild Blue Skies | Bytesized [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+In this episode of Bytesized, Nick checked out Duskfade and Wild Blue Skies. Duskfade on Steam: https://store.steampowered.com/app/2542020/?snr=1_5_9__205 Wild Blue Skies on Steam: https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=sWeibZvQI-8
+
+### Oh No, I'm Having Fun in Dead by Daylight | Semi-Ramblomatic [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Crucible, the innovative and modern tabletop role-playing game system built exclusively for Foundry Virtual Tabletop as a digital platform. – https://foundryvtt.
+
+Link: https://www.youtube.com/watch?v=AdPJ02O3QZA
+
+### Our Star Fox Finale Bonanza Extravaganza w/ KC and Marty [8/10]
+**Creator:** Second Wind  
+**Verdict:** Worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
+
+Link: https://www.youtube.com/watch?v=ncruCNQ1hhQ
+
+### Yahtzee Tries... The Message from Deep Space and Rubinite [6/10]
+**Creator:** Second Wind  
+**Verdict:** Summary is enough  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This week on Yahtzee Tries... Yahtzee and Marty try The Message from Deep Space and Rubinite. https://store.steampowered.com/app/4080030/The_Message_from_Deep_Space/ https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=7g2AIfzBY7E
 
 ## Entertainment Recommendations
 
@@ -183,4 +406,272 @@ _No YouTube picks in this briefing._
 
 ## Trailers / Previews
 
-_No trailer picks in this briefing._
+### Violent Night 2 | Official Trailer [8/10]
+**Source:** Universal Pictures  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Merry Christmas to all, and to all a good fight. Violent Night 2 only in theaters December 4. If you’re nice, you get presents from the Big Guy. If you’re naughty, you get justice.
+
+Link: https://www.youtube.com/watch?v=FmM2giDwLAE
+
+### RAMAYANA - Official Trailer (English) [9/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+An epic journey unlike anything seen before. Watch the official trailer for #Ramayana, coming to theatres worldwide November 6.
+
+Link: https://www.youtube.com/watch?v=74nF-FWAS6M
+
+### INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K) [9/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21. Follow us on social: https://www.instagram.com/InsidiousMovie https://twitter.
+
+Link: https://www.youtube.com/watch?v=gXjurDkYnEM
+
+### RAMAYANA - Official Trailer [9/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+The Ramayana Trailer. This is where the EPIC BEGINS. 🏹 Namit Malhotra's Ramayana Directed by Nitesh Tiwari In Cinemas Worldwide, Diwali 2026.
+
+Link: https://www.youtube.com/watch?v=1zip1rNaNYs
+
+### JUMANJI: OPEN WORLD - Official Trailer (4K) [8/10]
+**Source:** Sony Pictures Entertainment  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+One. Last. Game. The final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day. Follow Us On Social: https://www.facebook.com/JumanjiMovie https://www.twitter.
+
+Link: https://www.youtube.com/watch?v=zhApeaHMvfs
+
+### Primetime | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Inspired by true events. Only in theaters September 25.
+
+Link: https://www.youtube.com/watch?v=5fHXyqQOKL8
+
+### Onslaught | Official Trailer 2 HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From director Adam Wingard and starring Adria Arjona, Alex Pereira, Drew Starkey, Rebecca Hall, Reginald VelJohnson, Michael Biehn, Eric Wareheim and Dan Stevens. ONSLAUGHT – In Theaters September 4.
+
+Link: https://www.youtube.com/watch?v=AMLCbpM1fRQ
+
+### Paper Tiger - Official Teaser Trailer - In Theaters November [7/10]
+**Source:** NEON  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+In James Gray’s deeply felt and intense drama, two brothers become entangled in a scheme that turns out to be too good to be true.
+
+Link: https://www.youtube.com/watch?v=ldCb77jXIsM
+
+### Bad Lieutenant: Tokyo - Official Teaser Trailer - Coming Soon [7/10]
+**Source:** NEON  
+**Verdict:** Worth a glance  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A disgraced Tokyo detective spirals into a world of corruption, addiction, and violence as he becomes entangled in a twister investigation involving a vengeful ex-Yakuza, an enigmatic FBI agent, and a missing daughter of a powerful…
+
+Link: https://www.youtube.com/watch?v=brkTgfdmztk
+
+### PENNY LANE IS DEAD | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Three best friends' celebration at a beach house turns into a blood-soaked fight for survival when a prank goes horribly wrong. PENNY LANE IS DEAD premieres August 28 on Shudder.
+
+Link: https://www.youtube.com/watch?v=R4oEHjWY_CU
+
+### PARASOMNIA | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+After her friend vanishes, Riley must confront the demon from her night terrors that may have crossed into reality, while facing her own tragic past. PARASOMNIA drops September 4 on Shudder.
+
+Link: https://www.youtube.com/watch?v=-tYE5KY0dk4
+
+### HELLCAT | Official Trailer | Shudder [9/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+A woman wakes in the back of a moving camper trailer with a badly infected wound. A voice from the truck towing it tells her they must reach a doctor within the hour or she’ll suffer a horrific fate. HELLCAT premieres August 14 on Shudder.
+
+Link: https://www.youtube.com/watch?v=RWZjFdaJKgw
+
+### THE CYCLE | Deborah Ann Woll, Jeffrey Donovan | Teaser Trailer | Shudder [8/10]
+**Source:** Shudder  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+When the body of a man missing for thirty-six years is discovered at the scene of a horrific crime, it’s up to his estranged daughter to unravel his dark past.
+
+Link: https://www.youtube.com/watch?v=87ekbcLWPN4
+
+### INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K) [9/10]
+**Source:** Blumhouse  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21.
+
+Link: https://www.youtube.com/watch?v=bHehvziDKBI
+
+### The man in the billboard is out! And he's ready to answer your questions. #TheLastHouse [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The man in THE LAST HOUSE billboard is out! And he's ready to answer your questions. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=j34nOeu-dtE
+
+### would watch #TheLastHouse [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+would watch #TheLastHouseNetflix Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=SmpEOhuvO6s
+
+### Death of the Pastor’s Wife | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Death of the Pastor’s Wife is a three-part documentary series examining the life and death of Mica Miller, wife of John-Paul Miller, the pastor of her family’s church in Myrtle Beach, South Carolina.
+
+Link: https://www.youtube.com/watch?v=8wgC1XVGolE
+
+### Tyler Perry’s Why Did I Get Married Again? | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The couples reunite in celebration as Marcus and Angela’s daughter prepares to tie the knot. After being apart for quite some time, they learn quickly that as much as things change, they stay the same.
+
+Link: https://www.youtube.com/watch?v=VylsOZBYxQA
+
+### The Stories that Grow with You | Only on Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+For every first. For every next. For everywhere you’re going. The coming-of-age stories you love are all on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=QS8oH0zscAY
+
+### Untold Raygun: Breaking Badly | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+When Raygun’s performance at the 2024 Paris Olympics went viral overnight, an avalanche of memes, misinformation, and conspiracy theories followed, all questioning how she reached the Olympic stage. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=QJYG0KCwLLM
+
+### The Perfect Lie | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+When Karen moves to Bergen with her family, they are warmly welcomed into the Dining Club, a seductive group of friends who thoroughly enjoy an extravagant and debauched life.
+
+Link: https://www.youtube.com/watch?v=FnwySGfFTdc
+
+### Crew Girl | Official Trailer | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+New school, new rules, same dream. Crew Girl premieres September 10th! Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=Xs5qsfqp-tA
+
+### Animals | Official Teaser | Netflix [9/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Power can’t protect you. Directed by and starring Ben Affleck, with Kerry Washington, Steven Yeun, Gillian Anderson, Adriana Paz and Luis Gerardo Méndez, Animals is in select theaters and on Netflix October 9. Watch on Netflix: https://www.
+
+Link: https://www.youtube.com/watch?v=TdSRAb-GSu0
+
+### The next installment in the Monster Anthology rages onto Netflix September 17th [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+You know the rhyme, but do you know the story? The next installment in the Monster Anthology rages onto Netflix September 17th. #MonsterTheLizzieBordenStory Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=2uCINlOKdyI
+
+### Slow Horses — Jackson Lamb Refreshes Your Memory | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Need a Slough House refresh before Season 6? Gary Oldman's got you covered. Seasons 1- 5 of Slow Horses are now streaming on Apple TV. https://apple.co/slowhorses Subscribe to Apple TV’s YouTube channel: https://apple.
+
+Link: https://www.youtube.com/watch?v=Xw08JnpjSfE
+
+### Widow's Bay — A Night at Hollywood Forever Cemetery | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A comedy-horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.co/_WidowsBay No qualms about this sunset screening.
+
+Link: https://www.youtube.com/watch?v=Cr8RZP-opO4
+
+### Widow's Bay — A Night in the Culver Hotel | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.co/_WidowsBay Widow’s Bay took over the Culver Hotel for one night.
+
+Link: https://www.youtube.com/watch?v=YpLpxSJS5EM
+
+### Stillwater — Season 5 Official Trailer | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Return to zen. Apple's #1 preschool series is back with new episodes, new stories, and new lessons. Stillwater Season 5 premieres August 21 on Apple TV #Stillwater #Trailer #AppleTV
+
+Link: https://www.youtube.com/watch?v=Qbha1__CutI
+
+### Last Seen — Official Trailer | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Starring Patrick Brammall, this Australian thriller follows a dispatcher who receives a call that his missing daughter may be alive, risking everything to save her. A missing daughter. An alarming distress call.
+
+Link: https://www.youtube.com/watch?v=M8nHySkLb64
+
+### Silo — Daniel and Helen Finally Get Answers | Season 3 Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.
+
+Link: https://www.youtube.com/watch?v=_o_yOCXCkW8
