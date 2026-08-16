@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-16T05:00:01.958090Z
+Generated: 2026-08-16T09:00:24.160778Z
 
-Today's sweep leans toward Democracy / press freedom, AI / computing, Games / design. The strongest items in this run are At least five people dead in Indiana amid worst flooding in over 30 years, officials say, Trump shows off article on lower drug prices that says Biden deserves credit, not him, and Slay the Spire 2 updates are slowing down again, but don't fear, it's all in the name of more modes, an alternate Act 2, and a character with a bandaged foot.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Torrential rain and flood kill nine in Japan amid wettest month in decades, Marco Rubio has unique power to promote peace, but he hasn’t. He is almost as bad for the world as Trump | Simon Tisdall, and Trump shows off article on lower drug prices that says Biden deserves credit, not him.
 
 ## Briefing
 
@@ -33,16 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. At least five people dead in Indiana amid worst flooding in over 30 years, officials say [10/10]
+### 1. Torrential rain and flood kill nine in Japan amid wettest month in decades [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-National Weather Service reports that more than 11in of rain fell over a two-day period in some areas At least five people are dead after devastating floods that swept through Indiana this week, officials said, as storms continued to…
+Downpours in Japan’s east have snarled roads, caused power outages and destroyed homes in Chiba prefecture Heavy rain that battered eastern Japan has left nine people dead, the public broadcaster NHK said on Sunday, after an…
 
-Link: https://www.theguardian.com/us-news/2026/aug/15/indiana-flooding-deaths
+Link: https://www.theguardian.com/world/2026/aug/16/torrential-rain-and-flood-kill-nine-in-japan-amid-wettest-month-in-decades
 
-### 2. Trump shows off article on lower drug prices that says Biden deserves credit, not him [10/10]
+### 2. Marco Rubio has unique power to promote peace, but he hasn’t. He is almost as bad for the world as Trump | Simon Tisdall [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+As chief US diplomat, Rubio could do great good. His pandering and neglect are a disgrace we shouldn’t ignore Viewed from the state department in Washington DC, the world is on fire – but record heatwaves are not to blame.
+
+Link: https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat
+
+### 3. Trump shows off article on lower drug prices that says Biden deserves credit, not him [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -50,15 +59,6 @@ Link: https://www.theguardian.com/us-news/2026/aug/15/indiana-flooding-deaths
 US president credits himself with lowest drug prices in 60 years, when article says drop is more likely due to Biden The White House flooded social media on Saturday with an image of Donald Trump showing off the recent Washington Post…
 
 Link: https://www.theguardian.com/us-news/2026/aug/15/trump-washington-post-drug-prices
-
-### 3. Slay the Spire 2 updates are slowing down again, but don't fear, it's all in the name of more modes, an alternate Act 2, and a character with a bandaged foot [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / design  
-**Why it matters:** Useful if you care about how games actually work as designed experiences.
-
-Slay the Spire 2 has been moving at a solid pace since it launched into early access back in March, but back in May developer Mega Crit shared that updates would be switching to once every two weeks as opposed to the previously promised…
-
-Link: https://www.rockpapershotgun.com/slay-the-spire-2-updates-are-slowing-down-again-but-dont-fear-its-all-in-the-name-of-more-modes-an-alternate-act-2-and-a-character-with-a-bandaged-foot
 
 ### 4. 10 delicious and safe summer salad recipes during cyclospora outbreak [10/10]
 **Source:** The Guardian US  
@@ -69,7 +69,16 @@ Many people in the US are avoiding lettuce in the wake of the cyclospora outbrea
 
 Link: https://www.theguardian.com/food/2026/aug/15/best-salad-recipes-lettuce-free-cyclospora
 
-### 5. Matt Groening lets slip that Simpsons: Hit & Run might be making a comeback [9/10]
+### 5. Fire rangers of Mongolian steppe: climate crisis spurs revival of ancient knowledge – photo essay [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Fire has always be part of life on the grasslands, but has grown worse due to rising temperatures and severe droughts.
+
+Link: https://www.theguardian.com/world/2026/aug/16/fire-rangers-mongolia-steppe-climate-crisis-ancient-knowledge-photo-essay
+
+### 6. Matt Groening lets slip that Simpsons: Hit & Run might be making a comeback [9/10]
 **Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -78,7 +87,7 @@ At D23, when asked about the potential for a sequel to the cult classic The Simp
 
 Link: https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23
 
-### 6. Ron Gilbert talks the untraditional way he got Thimbleweed Park 2 funded, and his frustrations with modern publishing deals [9/10]
+### 7. Ron Gilbert talks the untraditional way he got Thimbleweed Park 2 funded, and his frustrations with modern publishing deals [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -87,7 +96,7 @@ I think it would be a tad fair if you heard that Thimbleweed Park 2 is in the wo
 
 Link: https://www.rockpapershotgun.com/ron-gilbert-talks-the-untraditional-way-he-got-thimbleweed-park-2-funded-and-his-frustrations-with-modern-publishing-deals
 
-### 7. Disney D23 2026: Everything announced for Star Wars, Marvel, and more [9/10]
+### 8. Disney D23 2026: Everything announced for Star Wars, Marvel, and more [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -96,23 +105,14 @@ The annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus 
 
 Link: https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23
 
-### 8. VisionQuest trailer kicks off Disney's D23 fan event [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 9. Slay the Spire 2 updates are slowing down again, but don't fear, it's all in the name of more modes, an alternate Act 2, and a character with a bandaged foot [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / design  
+**Why it matters:** Useful if you care about how games actually work as designed experiences.
 
-Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter
+Slay the Spire 2 has been moving at a solid pace since it launched into early access back in March, but back in May developer Mega Crit shared that updates would be switching to once every two weeks as opposed to the previously promised…
 
-Link: https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/
-
-### 9. The Fauci hearing was painful to watch. But we need answers on Covid-19’s origin| David Relman [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Despite the recent hearings in Congress, we seem to be even further from the goal of understanding Covid-19’s origin’s than we have ever been As a microbiologist and infectious disease clinician, it has been tough to watch the recent…
-
-Link: https://www.theguardian.com/commentisfree/2026/aug/15/covid-19-origins
+Link: https://www.rockpapershotgun.com/slay-the-spire-2-updates-are-slowing-down-again-but-dont-fear-its-all-in-the-name-of-more-modes-an-alternate-act-2-and-a-character-with-a-bandaged-foot
 
 ### 10. Adjuncting Until the End of Time [9/10]
 **Source:** The Nation  
@@ -141,14 +141,14 @@ Hemorrhoids, leg cramps, sciatica — oh my! Alongside the joy of pregnancy ofte
 
 Link: https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain
 
-### 13. Jason Arday, Cambridge professor accused of plagiarism, is found dead [7/10]
-**Source:** NPR Education  
+### 13. How One Rural North Carolina School District Delivers Summer Meals [7/10]
+**Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Arday was 37 when he became Cambridge's youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London.
+On a warm Tuesday in late July, a blue van marked with a Transylvania County Schools logo pulled into a gravel driveway and let out a light honk. Seconds later, the door of a house swung open.
 
-Link: https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead
+Link: https://www.the74million.org/article/how-one-rural-nc-school-district-delivers-summer-meals/
 
 ## YouTube
 
@@ -188,9 +188,9 @@ Green Day visit WIRED to answer their most searched questions on Google.
 
 Link: https://www.youtube.com/watch?v=jmdN5FG-n_o
 
-### Study: Some dogs may be able to read your feelings on your face [8/10]
+### Study: Some dogs may be able to read your feelings on your face [7/10]
 **Creator:** NPR  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 A study in the journal "iScience" suggests dogs may be able to read human emotions by looking at people’s faces.⁠ ⁠ Previous studies have shown that dogs can broadly interpret human emotions like happiness or sadness.

@@ -1,18 +1,28 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-16T05:00:01.958090Z",
-  "generatedAtDisplay": "2026-08-16 01:00 AM EDT",
+  "generatedAt": "2026-08-16T09:00:24.160778Z",
+  "generatedAtDisplay": "2026-08-16 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / design. The strongest items in this run are At least five people dead in Indiana amid worst flooding in over 30 years, officials say, Trump shows off article on lower drug prices that says Biden deserves credit, not him, and Slay the Spire 2 updates are slowing down again, but don't fear, it's all in the name of more modes, an alternate Act 2, and a character with a bandaged foot.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Torrential rain and flood kill nine in Japan amid wettest month in decades, Marco Rubio has unique power to promote peace, but he hasn’t. He is almost as bad for the world as Trump | Simon Tisdall, and Trump shows off article on lower drug prices that says Biden deserves credit, not him.",
   "mainItems": [
     {
-      "title": "At least five people dead in Indiana amid worst flooding in over 30 years, officials say",
+      "title": "Torrential rain and flood kill nine in Japan amid wettest month in decades",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/15/indiana-flooding-deaths",
-      "published": "2026-08-15T23:56:33+00:00",
-      "summary": "National Weather Service reports that more than 11in of rain fell over a two-day period in some areas At least five people are dead after devastating floods that swept through Indiana this week, officials said, as storms continued to…",
+      "url": "https://www.theguardian.com/world/2026/aug/16/torrential-rain-and-flood-kill-nine-in-japan-amid-wettest-month-in-decades",
+      "published": "2026-08-16T05:08:06+00:00",
+      "summary": "Downpours in Japan’s east have snarled roads, caused power outages and destroyed homes in Chiba prefecture Heavy rain that battered eastern Japan has left nine people dead, the public broadcaster NHK said on Sunday, after an…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Marco Rubio has unique power to promote peace, but he hasn’t. He is almost as bad for the world as Trump | Simon Tisdall",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat",
+      "published": "2026-08-16T05:00:16+00:00",
+      "summary": "As chief US diplomat, Rubio could do great good. His pandering and neglect are a disgrace we shouldn’t ignore Viewed from the state department in Washington DC, the world is on fire – but record heatwaves are not to blame.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -27,16 +37,6 @@
       "score": 10
     },
     {
-      "title": "Slay the Spire 2 updates are slowing down again, but don't fear, it's all in the name of more modes, an alternate Act 2, and a character with a bandaged foot",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / design",
-      "url": "https://www.rockpapershotgun.com/slay-the-spire-2-updates-are-slowing-down-again-but-dont-fear-its-all-in-the-name-of-more-modes-an-alternate-act-2-and-a-character-with-a-bandaged-foot",
-      "published": "2026-08-15T17:08:21+00:00",
-      "summary": "Slay the Spire 2 has been moving at a solid pace since it launched into early access back in March, but back in May developer Mega Crit shared that updates would be switching to once every two weeks as opposed to the previously promised…",
-      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
-      "score": 10
-    },
-    {
       "title": "10 delicious and safe summer salad recipes during cyclospora outbreak",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
@@ -45,6 +45,16 @@
       "summary": "Many people in the US are avoiding lettuce in the wake of the cyclospora outbreak .",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
+    },
+    {
+      "title": "Fire rangers of Mongolian steppe: climate crisis spurs revival of ancient knowledge – photo essay",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/world/2026/aug/16/fire-rangers-mongolia-steppe-climate-crisis-ancient-knowledge-photo-essay",
+      "published": "2026-08-16T06:00:17+00:00",
+      "summary": "Fire has always be part of life on the grasslands, but has grown worse due to rising temperatures and severe droughts.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 9
     },
     {
       "title": "Matt Groening lets slip that Simpsons: Hit & Run might be making a comeback",
@@ -77,23 +87,13 @@
       "score": 9
     },
     {
-      "title": "VisionQuest trailer kicks off Disney's D23 fan event",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
-      "published": "2026-08-15T21:21:27+00:00",
-      "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
-      "title": "The Fauci hearing was painful to watch. But we need answers on Covid-19’s origin| David Relman",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/15/covid-19-origins",
-      "published": "2026-08-15T10:00:53+00:00",
-      "summary": "Despite the recent hearings in Congress, we seem to be even further from the goal of understanding Covid-19’s origin’s than we have ever been As a microbiologist and infectious disease clinician, it has been tough to watch the recent…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "title": "Slay the Spire 2 updates are slowing down again, but don't fear, it's all in the name of more modes, an alternate Act 2, and a character with a bandaged foot",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / design",
+      "url": "https://www.rockpapershotgun.com/slay-the-spire-2-updates-are-slowing-down-again-but-dont-fear-its-all-in-the-name-of-more-modes-an-alternate-act-2-and-a-character-with-a-bandaged-foot",
+      "published": "2026-08-15T17:08:21+00:00",
+      "summary": "Slay the Spire 2 has been moving at a solid pace since it launched into early access back in March, but back in May developer Mega Crit shared that updates would be switching to once every two weeks as opposed to the previously promised…",
+      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
       "score": 9
     },
     {
@@ -127,12 +127,12 @@
       "score": 8
     },
     {
-      "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
-      "source": "NPR Education",
+      "title": "How One Rural North Carolina School District Delivers Summer Meals",
+      "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
-      "published": "2026-08-15T17:04:43+00:00",
-      "summary": "Arday was 37 when he became Cambridge's youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London.",
+      "url": "https://www.the74million.org/article/how-one-rural-nc-school-district-delivers-summer-meals/",
+      "published": "2026-08-15T16:30:00+00:00",
+      "summary": "On a warm Tuesday in late July, a blue van marked with a Transylvania County Schools logo pulled into a gravel driveway and let out a light honk. Seconds later, the door of a house swung open.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 7
     }
@@ -190,8 +190,8 @@
       "published": "2026-08-15T18:15:39+00:00",
       "summary": "A study in the journal \"iScience\" suggests dogs may be able to read human emotions by looking at people’s faces.⁠ ⁠ Previous studies have shown that dogs can broadly interpret human emotions like happiness or sadness.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Italian authorities recover stolen paintings worth millions",
@@ -859,6 +859,6 @@
     "mainCount": 13,
     "youtubeCount": 25,
     "trailerCount": 30,
-    "sourceCount": 21
+    "sourceCount": 20
   }
 }
