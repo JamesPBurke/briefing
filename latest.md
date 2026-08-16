@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-16T09:00:24.160778Z
+Generated: 2026-08-16T14:00:01.261234Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Torrential rain and flood kill nine in Japan amid wettest month in decades, Marco Rubio has unique power to promote peace, but he hasn’t. He is almost as bad for the world as Trump | Simon Tisdall, and Trump shows off article on lower drug prices that says Biden deserves credit, not him.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Rare Renaissance paintings by Antonello da Messina stolen from Sicilian museum, ‘She is a hero’: 13-year-old survivor of Michigan shooting spree called police, and Cambridge University defends its mental health support for Jason Arday.
 
 ## Briefing
 
@@ -33,16 +33,43 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Torrential rain and flood kill nine in Japan amid wettest month in decades [10/10]
+### 1. Rare Renaissance paintings by Antonello da Messina stolen from Sicilian museum [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Downpours in Japan’s east have snarled roads, caused power outages and destroyed homes in Chiba prefecture Heavy rain that battered eastern Japan has left nine people dead, the public broadcaster NHK said on Sunday, after an…
+Four works were taken during public holiday, the day after Italian police recovered paintings by Cézanne, Renoir and Matisse Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen…
 
-Link: https://www.theguardian.com/world/2026/aug/16/torrential-rain-and-flood-kill-nine-in-japan-amid-wettest-month-in-decades
+Link: https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday
 
-### 2. Marco Rubio has unique power to promote peace, but he hasn’t. He is almost as bad for the world as Trump | Simon Tisdall [10/10]
+### 2. ‘She is a hero’: 13-year-old survivor of Michigan shooting spree called police [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Girl who was shot four times in shooting spree that left six dead, including gunman, called 911 to say she had been shot A 13-year-old girl in Michigan survived being shot four times in a shooting spree that left six people dead –…
+
+Link: https://www.theguardian.com/us-news/2026/aug/16/michigan-shooting-girl-survives
+
+### 3. Cambridge University defends its mental health support for Jason Arday [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+University says it continued to provide support after resignation of academic, who was found dead this week The University of Cambridge has defended its mental health support for the academic Jason Arday.
+
+Link: https://www.theguardian.com/uk-news/2026/aug/16/cambridge-university-jason-arday-mental-health-support
+
+### 4. Trump’s midterm malaise: endless war and high prices could spell doom for Republicans in November [10/10]
+**Source:** The Guardian US  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+‘Complete unraveling’ of Trump and Republican project reflects attitude of not caring at all about governance He was always one step ahead.
+
+Link: https://www.theguardian.com/us-news/2026/aug/16/trumps-midterm-malaise-endless-war-and-high-prices-could-spell-doom-for-republicans-in-november
+
+### 5. Marco Rubio has unique power to promote peace, but he hasn’t. He is almost as bad for the world as Trump | Simon Tisdall [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
@@ -51,52 +78,7 @@ As chief US diplomat, Rubio could do great good. His pandering and neglect are a
 
 Link: https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat
 
-### 3. Trump shows off article on lower drug prices that says Biden deserves credit, not him [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-US president credits himself with lowest drug prices in 60 years, when article says drop is more likely due to Biden The White House flooded social media on Saturday with an image of Donald Trump showing off the recent Washington Post…
-
-Link: https://www.theguardian.com/us-news/2026/aug/15/trump-washington-post-drug-prices
-
-### 4. 10 delicious and safe summer salad recipes during cyclospora outbreak [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Many people in the US are avoiding lettuce in the wake of the cyclospora outbreak .
-
-Link: https://www.theguardian.com/food/2026/aug/15/best-salad-recipes-lettuce-free-cyclospora
-
-### 5. Fire rangers of Mongolian steppe: climate crisis spurs revival of ancient knowledge – photo essay [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Fire has always be part of life on the grasslands, but has grown worse due to rising temperatures and severe droughts.
-
-Link: https://www.theguardian.com/world/2026/aug/16/fire-rangers-mongolia-steppe-climate-crisis-ancient-knowledge-photo-essay
-
-### 6. Matt Groening lets slip that Simpsons: Hit & Run might be making a comeback [9/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit & Run game, Matt Groening replied, "I think the original game is coming back in some form," before current showrunner Matt Selman added, "or not.
-
-Link: https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23
-
-### 7. Ron Gilbert talks the untraditional way he got Thimbleweed Park 2 funded, and his frustrations with modern publishing deals [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-I think it would be a tad fair if you heard that Thimbleweed Park 2 is in the works and thought, "who funded that?" Not because it doesn't deserve funding, but because adventure games aren't exactly in vogue (even though it's not as dead a…
-
-Link: https://www.rockpapershotgun.com/ron-gilbert-talks-the-untraditional-way-he-got-thimbleweed-park-2-funded-and-his-frustrations-with-modern-publishing-deals
-
-### 8. Disney D23 2026: Everything announced for Star Wars, Marvel, and more [9/10]
+### 6. Disney D23 2026: Everything announced for Star Wars, Marvel, and more [9/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -105,7 +87,34 @@ The annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus 
 
 Link: https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23
 
-### 9. Slay the Spire 2 updates are slowing down again, but don't fear, it's all in the name of more modes, an alternate Act 2, and a character with a bandaged foot [9/10]
+### 7. ‘Outrageous’ handcuffing of New Orleans journalist sends ‘chilling message,’ says media group [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Danny Monteverde had been protesting the closure of a courtroom during indictment of state attorney general The “outrageous” handcuffing of a New Orleans journalist covering the indictment in July of Louisiana’s attorney general – a case…
+
+Link: https://www.theguardian.com/us-news/2026/aug/16/new-orleans-journalist-handcuffing
+
+### 8. Wildfire smoke now bigger prenatal threat than human sources of air pollution [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.
+
+Link: https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/
+
+### 9. Ron Gilbert talks the untraditional way he got Thimbleweed Park 2 funded, and his frustrations with modern publishing deals [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+I think it would be a tad fair if you heard that Thimbleweed Park 2 is in the works and thought, "who funded that?" Not because it doesn't deserve funding, but because adventure games aren't exactly in vogue (even though it's not as dead a…
+
+Link: https://www.rockpapershotgun.com/ron-gilbert-talks-the-untraditional-way-he-got-thimbleweed-park-2-funded-and-his-frustrations-with-modern-publishing-deals
+
+### 10. Slay the Spire 2 updates are slowing down again, but don't fear, it's all in the name of more modes, an alternate Act 2, and a character with a bandaged foot [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / design  
 **Why it matters:** Useful if you care about how games actually work as designed experiences.
@@ -114,16 +123,25 @@ Slay the Spire 2 has been moving at a solid pace since it launched into early ac
 
 Link: https://www.rockpapershotgun.com/slay-the-spire-2-updates-are-slowing-down-again-but-dont-fear-its-all-in-the-name-of-more-modes-an-alternate-act-2-and-a-character-with-a-bandaged-foot
 
-### 10. Adjuncting Until the End of Time [9/10]
-**Source:** The Nation  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+### 11. As Trump blocks Medicaid funds, one trans teen's mom asks: What's next? [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-Maria Adelmann Universities now have more adjuncts than tenured and tenure-track professors combined. The conditions are unsustainable—for professors and students alike.
+A longtime Republican living in California says the Trump administration's continuing actions to target transgender youth take a personal toll.
 
-Link: https://www.thenation.com/article/society/adjuncting-until-the-end-of-time/
+Link: https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz
 
-### 11. Are robotaxis finally here? [8/10]
+### 12. 65 and older? Have a story to tell? Hit 'record' and send NPR your podcast [8/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+This fall, we're asking seniors to send us their stories in audio form. Our judges will pick the best ones and air them on NPR.
+
+Link: https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older
+
+### 13. Are robotaxis finally here? [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -131,24 +149,6 @@ Link: https://www.thenation.com/article/society/adjuncting-until-the-end-of-time
 Fully self-driving cars for hire have been hailed as the technology of the future for years now. That future has finally arrived -- but only in some cities.
 
 Link: https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here
-
-### 12. 5 exercises that can prevent (and relieve!) pregnancy pain [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Hemorrhoids, leg cramps, sciatica — oh my! Alongside the joy of pregnancy often comes a parade of physical discomfort. Alleviate and prevent common aches with these exercises.
-
-Link: https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain
-
-### 13. How One Rural North Carolina School District Delivers Summer Meals [7/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-On a warm Tuesday in late July, a blue van marked with a Transylvania County Schools logo pulled into a gravel driveway and let out a light honk. Seconds later, the door of a house swung open.
-
-Link: https://www.the74million.org/article/how-one-rural-nc-school-district-delivers-summer-meals/
 
 ## YouTube
 
@@ -161,9 +161,9 @@ Link: https://www.the74million.org/article/how-one-rural-nc-school-district-deli
 
 Link: https://www.youtube.com/watch?v=QnGNF8k_uoc
 
-### We Asked Green Day If They Support AI... [8/10]
+### We Asked Green Day If They Support AI... [7/10]
 **Creator:** WIRED  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Green Day visit WIRED to answer their most searched questions on Google.
@@ -274,7 +274,7 @@ Link: https://www.youtube.com/watch?v=nGCcHSW3NFg
 **Verdict:** Worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
-► Watch the Full Interview Here: https://youtu.be/aA64Ogzm_VU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.com/digitalfoundry ► Digital Foundry Merch: https://store.digitalfoundry.
 
 Link: https://www.youtube.com/watch?v=z5hgH6flrvw
 
@@ -367,15 +367,6 @@ Link: https://www.youtube.com/watch?v=sWeibZvQI-8
 This video is brought to you by Crucible, the innovative and modern tabletop role-playing game system built exclusively for Foundry Virtual Tabletop as a digital platform. – https://foundryvtt.
 
 Link: https://www.youtube.com/watch?v=AdPJ02O3QZA
-
-### Our Star Fox Finale Bonanza Extravaganza w/ KC and Marty [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
-
-Link: https://www.youtube.com/watch?v=ncruCNQ1hhQ
 
 ## Entertainment Recommendations
 

@@ -1,19 +1,49 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-16T09:00:24.160778Z",
-  "generatedAtDisplay": "2026-08-16 05:00 AM EDT",
+  "generatedAt": "2026-08-16T14:00:01.261234Z",
+  "generatedAtDisplay": "2026-08-16 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, Games / criticism. The strongest items in this run are Torrential rain and flood kill nine in Japan amid wettest month in decades, Marco Rubio has unique power to promote peace, but he hasn’t. He is almost as bad for the world as Trump | Simon Tisdall, and Trump shows off article on lower drug prices that says Biden deserves credit, not him.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Rare Renaissance paintings by Antonello da Messina stolen from Sicilian museum, ‘She is a hero’: 13-year-old survivor of Michigan shooting spree called police, and Cambridge University defends its mental health support for Jason Arday.",
   "mainItems": [
     {
-      "title": "Torrential rain and flood kill nine in Japan amid wettest month in decades",
+      "title": "Rare Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/aug/16/torrential-rain-and-flood-kill-nine-in-japan-amid-wettest-month-in-decades",
-      "published": "2026-08-16T05:08:06+00:00",
-      "summary": "Downpours in Japan’s east have snarled roads, caused power outages and destroyed homes in Chiba prefecture Heavy rain that battered eastern Japan has left nine people dead, the public broadcaster NHK said on Sunday, after an…",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
+      "published": "2026-08-16T13:44:29+00:00",
+      "summary": "Four works were taken during public holiday, the day after Italian police recovered paintings by Cézanne, Renoir and Matisse Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘She is a hero’: 13-year-old survivor of Michigan shooting spree called police",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/16/michigan-shooting-girl-survives",
+      "published": "2026-08-16T13:44:28+00:00",
+      "summary": "Girl who was shot four times in shooting spree that left six dead, including gunman, called 911 to say she had been shot A 13-year-old girl in Michigan survived being shot four times in a shooting spree that left six people dead –…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Cambridge University defends its mental health support for Jason Arday",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/16/cambridge-university-jason-arday-mental-health-support",
+      "published": "2026-08-16T13:16:38+00:00",
+      "summary": "University says it continued to provide support after resignation of academic, who was found dead this week The University of Cambridge has defended its mental health support for the academic Jason Arday.",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Trump’s midterm malaise: endless war and high prices could spell doom for Republicans in November",
+      "source": "The Guardian US",
+      "category": "Security / computing",
+      "url": "https://www.theguardian.com/us-news/2026/aug/16/trumps-midterm-malaise-endless-war-and-high-prices-could-spell-doom-for-republicans-in-november",
+      "published": "2026-08-16T10:00:23+00:00",
+      "summary": "‘Complete unraveling’ of Trump and Republican project reflects attitude of not caring at all about governance He was always one step ahead.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
       "score": 10
     },
     {
@@ -27,43 +57,33 @@
       "score": 10
     },
     {
-      "title": "Trump shows off article on lower drug prices that says Biden deserves credit, not him",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/15/trump-washington-post-drug-prices",
-      "published": "2026-08-15T22:02:49+00:00",
-      "summary": "US president credits himself with lowest drug prices in 60 years, when article says drop is more likely due to Biden The White House flooded social media on Saturday with an image of Donald Trump showing off the recent Washington Post…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23",
+      "published": "2026-08-16T13:19:41+00:00",
+      "summary": "The annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
     },
     {
-      "title": "10 delicious and safe summer salad recipes during cyclospora outbreak",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/food/2026/aug/15/best-salad-recipes-lettuce-free-cyclospora",
-      "published": "2026-08-15T12:00:56+00:00",
-      "summary": "Many people in the US are avoiding lettuce in the wake of the cyclospora outbreak .",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Fire rangers of Mongolian steppe: climate crisis spurs revival of ancient knowledge – photo essay",
+      "title": "‘Outrageous’ handcuffing of New Orleans journalist sends ‘chilling message,’ says media group",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/world/2026/aug/16/fire-rangers-mongolia-steppe-climate-crisis-ancient-knowledge-photo-essay",
-      "published": "2026-08-16T06:00:17+00:00",
-      "summary": "Fire has always be part of life on the grasslands, but has grown worse due to rising temperatures and severe droughts.",
+      "url": "https://www.theguardian.com/us-news/2026/aug/16/new-orleans-journalist-handcuffing",
+      "published": "2026-08-16T11:00:25+00:00",
+      "summary": "Danny Monteverde had been protesting the closure of a courtroom during indictment of state attorney general The “outrageous” handcuffing of a New Orleans journalist covering the indictment in July of Louisiana’s attorney general – a case…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 9
     },
     {
-      "title": "Matt Groening lets slip that Simpsons: Hit & Run might be making a comeback",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
-      "published": "2026-08-15T21:56:13+00:00",
-      "summary": "At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit & Run game, Matt Groening replied, \"I think the original game is coming back in some form,\" before current showrunner Matt Selman added, \"or not.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+      "published": "2026-08-16T10:00:59+00:00",
+      "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 9
     },
     {
@@ -77,16 +97,6 @@
       "score": 9
     },
     {
-      "title": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23",
-      "published": "2026-08-15T21:26:54+00:00",
-      "summary": "The annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
-    },
-    {
       "title": "Slay the Spire 2 updates are slowing down again, but don't fear, it's all in the name of more modes, an alternate Act 2, and a character with a bandaged foot",
       "source": "Rock Paper Shotgun",
       "category": "Games / design",
@@ -97,14 +107,24 @@
       "score": 9
     },
     {
-      "title": "Adjuncting Until the End of Time",
-      "source": "The Nation",
-      "category": "CS education / AI policy",
-      "url": "https://www.thenation.com/article/society/adjuncting-until-the-end-of-time/",
-      "published": "2026-08-15T09:33:00+00:00",
-      "summary": "Maria Adelmann Universities now have more adjuncts than tenured and tenure-track professors combined. The conditions are unsustainable—for professors and students alike.",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
+      "title": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
+      "published": "2026-08-16T11:54:19+00:00",
+      "summary": "A longtime Republican living in California says the Trump administration's continuing actions to target transgender youth take a personal toll.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
+      "title": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
+      "published": "2026-08-16T09:00:00+00:00",
+      "summary": "This fall, we're asking seniors to send us their stories in audio form. Our judges will pick the best ones and air them on NPR.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 8
     },
     {
       "title": "Are robotaxis finally here?",
@@ -115,26 +135,6 @@
       "summary": "Fully self-driving cars for hire have been hailed as the technology of the future for years now. That future has finally arrived -- but only in some cities.",
       "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
-    },
-    {
-      "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
-      "published": "2026-08-15T09:04:00+00:00",
-      "summary": "Hemorrhoids, leg cramps, sciatica — oh my! Alongside the joy of pregnancy often comes a parade of physical discomfort. Alleviate and prevent common aches with these exercises.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "How One Rural North Carolina School District Delivers Summer Meals",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/how-one-rural-nc-school-district-delivers-summer-meals/",
-      "published": "2026-08-15T16:30:00+00:00",
-      "summary": "On a warm Tuesday in late July, a blue van marked with a Transylvania County Schools logo pulled into a gravel driveway and let out a light honk. Seconds later, the door of a house swung open.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 7
     }
   ],
   "youtube": [
@@ -157,8 +157,8 @@
       "published": "2026-08-15T13:00:03+00:00",
       "summary": "Green Day visit WIRED to answer their most searched questions on Google.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Does Green Day Do Weddings?",
@@ -287,7 +287,7 @@
       "category": "Games / hardware",
       "url": "https://www.youtube.com/watch?v=z5hgH6flrvw",
       "published": "2026-08-15T15:00:11+00:00",
-      "summary": "► Watch the Full Interview Here: https://youtu.be/aA64Ogzm_VU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "summary": "► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.com/digitalfoundry ► Digital Foundry Merch: https://store.digitalfoundry.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 8,
       "verdict": "Worth watching"
@@ -401,17 +401,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 7,
       "verdict": "Probably worth watching"
-    },
-    {
-      "title": "Our Star Fox Finale Bonanza Extravaganza w/ KC and Marty",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=ncruCNQ1hhQ",
-      "published": "2026-08-13T13:54:39+00:00",
-      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
     }
   ],
   "trailers": [
@@ -857,7 +846,7 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 25,
+    "youtubeCount": 24,
     "trailerCount": 30,
     "sourceCount": 20
   }
