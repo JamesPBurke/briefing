@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-15T14:00:03.853823Z
+Generated: 2026-08-16T05:00:01.958090Z
 
-Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Israeli strikes on southern Lebanon kill 11 in worst toll since June truce, Multiple people injured in shooting at Virginia State University, and Are you tweaking on your partner? From secret boob jobs to Botox on the sly, people explain why they keep their cosmetic procedures hidden.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Games / design. The strongest items in this run are At least five people dead in Indiana amid worst flooding in over 30 years, officials say, Trump shows off article on lower drug prices that says Biden deserves credit, not him, and Slay the Spire 2 updates are slowing down again, but don't fear, it's all in the name of more modes, an alternate Act 2, and a character with a bandaged foot.
 
 ## Briefing
 
@@ -33,34 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Israeli strikes on southern Lebanon kill 11 in worst toll since June truce [10/10]
+### 1. At least five people dead in Indiana amid worst flooding in over 30 years, officials say [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll…
+National Weather Service reports that more than 11in of rain fell over a two-day period in some areas At least five people are dead after devastating floods that swept through Indiana this week, officials said, as storms continued to…
 
-Link: https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says
+Link: https://www.theguardian.com/us-news/2026/aug/15/indiana-flooding-deaths
 
-### 2. Multiple people injured in shooting at Virginia State University [10/10]
+### 2. Trump shows off article on lower drug prices that says Biden deserves credit, not him [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-School said shooting involved ‘multiple suspects’ as campus was locked down and police responded to scene Multiple people were injured in a shooting at Virginia State University, police said on Saturday morning, with several suspects still…
+US president credits himself with lowest drug prices in 60 years, when article says drop is more likely due to Biden The White House flooded social media on Saturday with an image of Donald Trump showing off the recent Washington Post…
 
-Link: https://www.theguardian.com/us-news/2026/aug/15/multiple-people-injured-virginia-state-university-shooting
+Link: https://www.theguardian.com/us-news/2026/aug/15/trump-washington-post-drug-prices
 
-### 3. Are you tweaking on your partner? From secret boob jobs to Botox on the sly, people explain why they keep their cosmetic procedures hidden [10/10]
+### 3. Slay the Spire 2 updates are slowing down again, but don't fear, it's all in the name of more modes, an alternate Act 2, and a character with a bandaged foot [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / design  
+**Why it matters:** Useful if you care about how games actually work as designed experiences.
+
+Slay the Spire 2 has been moving at a solid pace since it launched into early access back in March, but back in May developer Mega Crit shared that updates would be switching to once every two weeks as opposed to the previously promised…
+
+Link: https://www.rockpapershotgun.com/slay-the-spire-2-updates-are-slowing-down-again-but-dont-fear-its-all-in-the-name-of-more-modes-an-alternate-act-2-and-a-character-with-a-bandaged-foot
+
+### 4. 10 delicious and safe summer salad recipes during cyclospora outbreak [10/10]
 **Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Daniel’s boyfriend thinks his youthful complexion is down to fancy skincare, and Jessica’s nearest and dearest still don’t know she’s had a breast enhancement … Jessica was at a spa with her friends of more than 20 years when she noticed…
+Many people in the US are avoiding lettuce in the wake of the cyclospora outbreak .
 
-Link: https://www.theguardian.com/lifeandstyle/2026/aug/15/secret-botox-boob-jobs-hair-transplants
+Link: https://www.theguardian.com/food/2026/aug/15/best-salad-recipes-lettuce-free-cyclospora
 
-### 4. The Fauci hearing was painful to watch. But we need answers on Covid-19’s origin| David Relman [10/10]
+### 5. Matt Groening lets slip that Simpsons: Hit & Run might be making a comeback [9/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit & Run game, Matt Groening replied, "I think the original game is coming back in some form," before current showrunner Matt Selman added, "or not.
+
+Link: https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23
+
+### 6. Ron Gilbert talks the untraditional way he got Thimbleweed Park 2 funded, and his frustrations with modern publishing deals [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+I think it would be a tad fair if you heard that Thimbleweed Park 2 is in the works and thought, "who funded that?" Not because it doesn't deserve funding, but because adventure games aren't exactly in vogue (even though it's not as dead a…
+
+Link: https://www.rockpapershotgun.com/ron-gilbert-talks-the-untraditional-way-he-got-thimbleweed-park-2-funded-and-his-frustrations-with-modern-publishing-deals
+
+### 7. Disney D23 2026: Everything announced for Star Wars, Marvel, and more [9/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+The annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus.
+
+Link: https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23
+
+### 8. VisionQuest trailer kicks off Disney's D23 fan event [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter
+
+Link: https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/
+
+### 9. The Fauci hearing was painful to watch. But we need answers on Covid-19’s origin| David Relman [9/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
@@ -69,7 +114,7 @@ Despite the recent hearings in Congress, we seem to be even further from the goa
 
 Link: https://www.theguardian.com/commentisfree/2026/aug/15/covid-19-origins
 
-### 5. Adjuncting Until the End of Time [10/10]
+### 10. Adjuncting Until the End of Time [9/10]
 **Source:** The Nation  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -78,34 +123,16 @@ Maria Adelmann Universities now have more adjuncts than tenured and tenure-track
 
 Link: https://www.thenation.com/article/society/adjuncting-until-the-end-of-time/
 
-### 6. What are we all playing this weekend? [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 11. Are robotaxis finally here? [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-Bit of a quiet one this week, gang. Half the RPS team are on holiday, ill, or off at some preview event, maybe in a less melty part of the world like Scandinavia, the lucky bastards.
+Fully self-driving cars for hire have been hailed as the technology of the future for years now. That future has finally arrived -- but only in some cities.
 
-Link: https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-395
+Link: https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here
 
-### 7. SC Students Improve in Math and Reading, but Less Than Half Meet Math Benchmarks [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-COLUMBIA, S.C. — Elementary and middle school students posted their best scores yet on end-of-year standardized tests, though more than half still can’t calculate as expected for their age, according to state testing data released Monday.
-
-Link: https://www.the74million.org/article/sc-students-improve-in-math-and-reading-but-less-than-half-meet-math-benchmarks/
-
-### 8. Suspecting court of using AI, man injected prompts in filings to try to win case [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Judge warns pro se litigants are using chatbots wrong and getting desperate.
-
-Link: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/
-
-### 9. 5 exercises that can prevent (and relieve!) pregnancy pain [8/10]
+### 12. 5 exercises that can prevent (and relieve!) pregnancy pain [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -114,41 +141,14 @@ Hemorrhoids, leg cramps, sciatica — oh my! Alongside the joy of pregnancy ofte
 
 Link: https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain
 
-### 10. Recent AI 'escapes' are a warning of how unpredictable the technology can be [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+### 13. Jason Arday, Cambridge professor accused of plagiarism, is found dead [7/10]
+**Source:** NPR Education  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-Recent episodes of AI agents escaping test zones and hacking other systems may be a harbinger of what's to come, as some experts believe the systems are fundamentally unpredictable.
+Arday was 37 when he became Cambridge's youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London.
 
-Link: https://www.npr.org/2026/08/14/nx-s1-5929579/recent-ai-escapes-are-a-warning-of-how-unpredictable-the-technology-can-be
-
-### 11. Vulnerability giving attackers full control of Macs is under active exploitation [8/10]
-**Source:** Ars Technica  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-Screen-sharing bug lets remote hackers log in without a password.
-
-Link: https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/
-
-### 12. Behind the Blog: Endless Scam Parade [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-This week, we discuss the mainstreaming of Flock, media appearances, and Spotify's AI move.
-
-Link: https://www.404media.co/behind-the-blog-endless-scam-parade/
-
-### 13. The X-Files: I Want to Believe Director’s Cut Is Actually Shorter. Here’s What Changed [6/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-The new version of Why The X-Files: I Want to Believe is not what fans expected. Here is what makes the new version so different The post The X-Files: I Want to Believe Director’s Cut Is Actually Shorter.
-
-Link: https://reactormag.com/the-x-files-i-want-to-believe-directors-cut-changes-explained/
+Link: https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead
 
 ## YouTube
 
@@ -161,18 +161,18 @@ Link: https://reactormag.com/the-x-files-i-want-to-believe-directors-cut-changes
 
 Link: https://www.youtube.com/watch?v=QnGNF8k_uoc
 
-### We Asked Green Day If They Support AI... [9/10]
+### We Asked Green Day If They Support AI... [8/10]
 **Creator:** WIRED  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Green Day visit WIRED to answer their most searched questions on Google.
 
 Link: https://www.youtube.com/watch?v=s8yKzkWDv60
 
-### Does Green Day Do Weddings? [8/10]
+### Does Green Day Do Weddings? [7/10]
 **Creator:** WIRED  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 Green Day visit WIRED to answer their most searched questions on Google.
@@ -187,6 +187,15 @@ Link: https://www.youtube.com/watch?v=TrO0elgCNB4
 Green Day visit WIRED to answer their most searched questions on Google.
 
 Link: https://www.youtube.com/watch?v=jmdN5FG-n_o
+
+### Study: Some dogs may be able to read your feelings on your face [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
+
+A study in the journal "iScience" suggests dogs may be able to read human emotions by looking at people’s faces.⁠ ⁠ Previous studies have shown that dogs can broadly interpret human emotions like happiness or sadness.
+
+Link: https://www.youtube.com/watch?v=yeuNynUBRlg
 
 ### Italian authorities recover stolen paintings worth millions [7/10]
 **Creator:** NPR  
@@ -251,27 +260,36 @@ A president is stashed away in a catering truck -- a ruse to escape a threat fro
 
 Link: https://www.youtube.com/watch?v=gV-1pU-zEJ4
 
-### ICE plans to outfit officers with electric shock gloves [8/10]
-**Creator:** NPR  
-**Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-The Department of Homeland Security is planning to equip ICE officers with gloves that can deliver electric shocks to people being arrested. Compliant Technologies says the gloves are designed for de-escalation. U.S.
-
-Link: https://www.youtube.com/watch?v=STQVNmGmzWI
-
-### One Year Since We Left IGN - What's Happened + What's Next? [7/10]
+### Could Xbox Produce A Project Helix "Add-In" Board For Existing PCs? [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/DsRYafPhTHw ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
+Link: https://www.youtube.com/watch?v=nGCcHSW3NFg
+
+### After 30 Years Quake Is Still One Of The Greatest Games Of All Time [8/10]
+**Creator:** Digital Foundry  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Interview Here: https://youtu.be/aA64Ogzm_VU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=z5hgH6flrvw
+
+### One Year Since We Left IGN - What's Happened + What's Next? [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/DsRYafPhTHw ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
 Link: https://www.youtube.com/watch?v=R-mpxuXMDc8
 
-### What Current PC Specs Can Match Next-Gen Console Performance? [7/10]
+### What Current PC Specs Can Match Next-Gen Console Performance? [6/10]
 **Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/DsRYafPhTHw ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -295,24 +313,6 @@ Link: https://www.youtube.com/watch?v=eQiBxWAfGxY
 ► Watch the Full Interview Here: https://youtu.be/aA64Ogzm_VU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
 
 Link: https://www.youtube.com/watch?v=mOxEyBf9--0
-
-### The Steam Hardware Survey Isn't Making Sense: More 16GB GPUs Than 8GB? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/eMwtL2v1J-M ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=yQ7AawhRoas
-
-### Microsoft Docs Confirm It: Xbox 360 Emulation Is Coming To PC [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/eMwtL2v1J-M ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=wf3TTN93sZM
 
 ### Dark Souls 1 Randomizer Chaos Continues w/ Jack and Jess -- Part 2 [8/10]
 **Creator:** Second Wind  
@@ -376,15 +376,6 @@ Link: https://www.youtube.com/watch?v=AdPJ02O3QZA
 This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
 
 Link: https://www.youtube.com/watch?v=ncruCNQ1hhQ
-
-### Yahtzee Tries... The Message from Deep Space and Rubinite [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This week on Yahtzee Tries... Yahtzee and Marty try The Message from Deep Space and Rubinite. https://store.steampowered.com/app/4080030/The_Message_from_Deep_Space/ https://store.steampowered.
-
-Link: https://www.youtube.com/watch?v=7g2AIfzBY7E
 
 ## Entertainment Recommendations
 
@@ -496,7 +487,7 @@ A disgraced Tokyo detective spirals into a world of corruption, addiction, and v
 
 Link: https://www.youtube.com/watch?v=brkTgfdmztk
 
-### PENNY LANE IS DEAD | Official Trailer | Shudder [9/10]
+### PENNY LANE IS DEAD | Official Trailer | Shudder [8/10]
 **Source:** Shudder  
 **Verdict:** Looks promising  
 **Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.

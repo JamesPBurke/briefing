@@ -1,40 +1,90 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-15T14:00:03.853823Z",
-  "generatedAtDisplay": "2026-08-15 10:00 AM EDT",
+  "generatedAt": "2026-08-16T05:00:01.958090Z",
+  "generatedAtDisplay": "2026-08-16 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, AI / privacy, Democracy / anti-fascism. The strongest items in this run are Israeli strikes on southern Lebanon kill 11 in worst toll since June truce, Multiple people injured in shooting at Virginia State University, and Are you tweaking on your partner? From secret boob jobs to Botox on the sly, people explain why they keep their cosmetic procedures hidden.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Games / design. The strongest items in this run are At least five people dead in Indiana amid worst flooding in over 30 years, officials say, Trump shows off article on lower drug prices that says Biden deserves credit, not him, and Slay the Spire 2 updates are slowing down again, but don't fear, it's all in the name of more modes, an alternate Act 2, and a character with a bandaged foot.",
   "mainItems": [
     {
-      "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
+      "title": "At least five people dead in Indiana amid worst flooding in over 30 years, officials say",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
-      "published": "2026-08-15T13:55:28+00:00",
-      "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/15/indiana-flooding-deaths",
+      "published": "2026-08-15T23:56:33+00:00",
+      "summary": "National Weather Service reports that more than 11in of rain fell over a two-day period in some areas At least five people are dead after devastating floods that swept through Indiana this week, officials said, as storms continued to…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Multiple people injured in shooting at Virginia State University",
+      "title": "Trump shows off article on lower drug prices that says Biden deserves credit, not him",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/15/multiple-people-injured-virginia-state-university-shooting",
-      "published": "2026-08-15T13:20:41+00:00",
-      "summary": "School said shooting involved ‘multiple suspects’ as campus was locked down and police responded to scene Multiple people were injured in a shooting at Virginia State University, police said on Saturday morning, with several suspects still…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/15/trump-washington-post-drug-prices",
+      "published": "2026-08-15T22:02:49+00:00",
+      "summary": "US president credits himself with lowest drug prices in 60 years, when article says drop is more likely due to Biden The White House flooded social media on Saturday with an image of Donald Trump showing off the recent Washington Post…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Are you tweaking on your partner? From secret boob jobs to Botox on the sly, people explain why they keep their cosmetic procedures hidden",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/15/secret-botox-boob-jobs-hair-transplants",
-      "published": "2026-08-15T10:59:54+00:00",
-      "summary": "Daniel’s boyfriend thinks his youthful complexion is down to fancy skincare, and Jessica’s nearest and dearest still don’t know she’s had a breast enhancement … Jessica was at a spa with her friends of more than 20 years when she noticed…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "title": "Slay the Spire 2 updates are slowing down again, but don't fear, it's all in the name of more modes, an alternate Act 2, and a character with a bandaged foot",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / design",
+      "url": "https://www.rockpapershotgun.com/slay-the-spire-2-updates-are-slowing-down-again-but-dont-fear-its-all-in-the-name-of-more-modes-an-alternate-act-2-and-a-character-with-a-bandaged-foot",
+      "published": "2026-08-15T17:08:21+00:00",
+      "summary": "Slay the Spire 2 has been moving at a solid pace since it launched into early access back in March, but back in May developer Mega Crit shared that updates would be switching to once every two weeks as opposed to the previously promised…",
+      "whyItMatters": "Useful if you care about how games actually work as designed experiences.",
       "score": 10
+    },
+    {
+      "title": "10 delicious and safe summer salad recipes during cyclospora outbreak",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/food/2026/aug/15/best-salad-recipes-lettuce-free-cyclospora",
+      "published": "2026-08-15T12:00:56+00:00",
+      "summary": "Many people in the US are avoiding lettuce in the wake of the cyclospora outbreak .",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Matt Groening lets slip that Simpsons: Hit & Run might be making a comeback",
+      "source": "The Verge",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
+      "published": "2026-08-15T21:56:13+00:00",
+      "summary": "At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit & Run game, Matt Groening replied, \"I think the original game is coming back in some form,\" before current showrunner Matt Selman added, \"or not.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "Ron Gilbert talks the untraditional way he got Thimbleweed Park 2 funded, and his frustrations with modern publishing deals",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/ron-gilbert-talks-the-untraditional-way-he-got-thimbleweed-park-2-funded-and-his-frustrations-with-modern-publishing-deals",
+      "published": "2026-08-15T21:52:43+00:00",
+      "summary": "I think it would be a tad fair if you heard that Thimbleweed Park 2 is in the works and thought, \"who funded that?\" Not because it doesn't deserve funding, but because adventure games aren't exactly in vogue (even though it's not as dead a…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
+    },
+    {
+      "title": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23",
+      "published": "2026-08-15T21:26:54+00:00",
+      "summary": "The annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
+    },
+    {
+      "title": "VisionQuest trailer kicks off Disney's D23 fan event",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
+      "published": "2026-08-15T21:21:27+00:00",
+      "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
     },
     {
       "title": "The Fauci hearing was painful to watch. But we need answers on Covid-19’s origin| David Relman",
@@ -44,7 +94,7 @@
       "published": "2026-08-15T10:00:53+00:00",
       "summary": "Despite the recent hearings in Congress, we seem to be even further from the goal of understanding Covid-19’s origin’s than we have ever been As a microbiologist and infectious disease clinician, it has been tough to watch the recent…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Adjuncting Until the End of Time",
@@ -54,37 +104,17 @@
       "published": "2026-08-15T09:33:00+00:00",
       "summary": "Maria Adelmann Universities now have more adjuncts than tenured and tenure-track professors combined. The conditions are unsustainable—for professors and students alike.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "What are we all playing this weekend?",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-395",
-      "published": "2026-08-15T07:01:00+00:00",
-      "summary": "Bit of a quiet one this week, gang. Half the RPS team are on holiday, ill, or off at some preview event, maybe in a less melty part of the world like Scandinavia, the lucky bastards.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
-      "title": "SC Students Improve in Math and Reading, but Less Than Half Meet Math Benchmarks",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/sc-students-improve-in-math-and-reading-but-less-than-half-meet-math-benchmarks/",
-      "published": "2026-08-14T18:30:00+00:00",
-      "summary": "COLUMBIA, S.C. — Elementary and middle school students posted their best scores yet on end-of-year standardized tests, though more than half still can’t calculate as expected for their age, according to state testing data released Monday.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "published": "2026-08-14T17:26:53+00:00",
-      "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 9
+      "title": "Are robotaxis finally here?",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
+      "published": "2026-08-15T21:30:21+00:00",
+      "summary": "Fully self-driving cars for hire have been hailed as the technology of the future for years now. That future has finally arrived -- but only in some cities.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 8
     },
     {
       "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
@@ -97,44 +127,14 @@
       "score": 8
     },
     {
-      "title": "Recent AI 'escapes' are a warning of how unpredictable the technology can be",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5929579/recent-ai-escapes-are-a-warning-of-how-unpredictable-the-technology-can-be",
-      "published": "2026-08-14T20:37:51+00:00",
-      "summary": "Recent episodes of AI agents escaping test zones and hacking other systems may be a harbinger of what's to come, as some experts believe the systems are fundamentally unpredictable.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
-      "score": 8
-    },
-    {
-      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
-      "source": "Ars Technica",
-      "category": "Security / computing",
-      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-      "published": "2026-08-14T18:32:14+00:00",
-      "summary": "Screen-sharing bug lets remote hackers log in without a password.",
-      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
-      "score": 8
-    },
-    {
-      "title": "Behind the Blog: Endless Scam Parade",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/behind-the-blog-endless-scam-parade/",
-      "published": "2026-08-14T16:21:39+00:00",
-      "summary": "This week, we discuss the mainstreaming of Flock, media appearances, and Spotify's AI move.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
-    },
-    {
-      "title": "The X-Files: I Want to Believe Director’s Cut Is Actually Shorter. Here’s What Changed",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/the-x-files-i-want-to-believe-directors-cut-changes-explained/",
-      "published": "2026-08-14T19:30:02+00:00",
-      "summary": "The new version of Why The X-Files: I Want to Believe is not what fans expected. Here is what makes the new version so different The post The X-Files: I Want to Believe Director’s Cut Is Actually Shorter.",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 6
+      "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
+      "source": "NPR Education",
+      "category": "Education / pedagogy",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
+      "published": "2026-08-15T17:04:43+00:00",
+      "summary": "Arday was 37 when he became Cambridge's youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 7
     }
   ],
   "youtube": [
@@ -157,8 +157,8 @@
       "published": "2026-08-15T13:00:03+00:00",
       "summary": "Green Day visit WIRED to answer their most searched questions on Google.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Does Green Day Do Weddings?",
@@ -168,8 +168,8 @@
       "published": "2026-08-14T14:20:02+00:00",
       "summary": "Green Day visit WIRED to answer their most searched questions on Google.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Green Day Answer The Web's Most Searched Questions",
@@ -181,6 +181,17 @@
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 7,
       "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Study: Some dogs may be able to read your feelings on your face",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=yeuNynUBRlg",
+      "published": "2026-08-15T18:15:39+00:00",
+      "summary": "A study in the journal \"iScience\" suggests dogs may be able to read human emotions by looking at people’s faces.⁠ ⁠ Previous studies have shown that dogs can broadly interpret human emotions like happiness or sadness.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Italian authorities recover stolen paintings worth millions",
@@ -260,13 +271,24 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "ICE plans to outfit officers with electric shock gloves",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=STQVNmGmzWI",
-      "published": "2026-08-13T21:00:26+00:00",
-      "summary": "The Department of Homeland Security is planning to equip ICE officers with gloves that can deliver electric shocks to people being arrested. Compliant Technologies says the gloves are designed for de-escalation. U.S.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "Could Xbox Produce A Project Helix \"Add-In\" Board For Existing PCs?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=nGCcHSW3NFg",
+      "published": "2026-08-15T17:00:01+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/DsRYafPhTHw ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "After 30 Years Quake Is Still One Of The Greatest Games Of All Time",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=z5hgH6flrvw",
+      "published": "2026-08-15T15:00:11+00:00",
+      "summary": "► Watch the Full Interview Here: https://youtu.be/aA64Ogzm_VU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 8,
       "verdict": "Worth watching"
     },
@@ -278,8 +300,8 @@
       "published": "2026-08-14T17:15:25+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/DsRYafPhTHw ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "What Current PC Specs Can Match Next-Gen Console Performance?",
@@ -289,8 +311,8 @@
       "published": "2026-08-14T16:21:50+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/DsRYafPhTHw ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Has Lack of Xbox Competition Enabled Sony Complacency/Indifference?",
@@ -310,28 +332,6 @@
       "url": "https://www.youtube.com/watch?v=mOxEyBf9--0",
       "published": "2026-08-13T15:59:44+00:00",
       "summary": "► Watch the Full Interview Here: https://youtu.be/aA64Ogzm_VU ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "The Steam Hardware Survey Isn't Making Sense: More 16GB GPUs Than 8GB?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=yQ7AawhRoas",
-      "published": "2026-08-12T18:00:06+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/eMwtL2v1J-M ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
-    },
-    {
-      "title": "Microsoft Docs Confirm It: Xbox 360 Emulation Is Coming To PC",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=wf3TTN93sZM",
-      "published": "2026-08-12T17:14:09+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/eMwtL2v1J-M ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
       "score": 6,
       "verdict": "Summary is enough"
@@ -412,17 +412,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "Yahtzee Tries... The Message from Deep Space and Rubinite",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=7g2AIfzBY7E",
-      "published": "2026-08-12T22:09:29+00:00",
-      "summary": "This week on Yahtzee Tries... Yahtzee and Marty try The Message from Deep Space and Rubinite. https://store.steampowered.com/app/4080030/The_Message_from_Deep_Space/ https://store.steampowered.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 6,
-      "verdict": "Summary is enough"
     }
   ],
   "trailers": [
@@ -533,7 +522,7 @@
       "published": "2026-08-14T16:32:20+00:00",
       "summary": "Three best friends' celebration at a beach house turns into a blood-soaked fight for survival when a prank goes horribly wrong. PENNY LANE IS DEAD premieres August 28 on Shudder.",
       "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
-      "score": 9,
+      "score": 8,
       "verdict": "Looks promising"
     },
     {
@@ -868,8 +857,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 26,
+    "youtubeCount": 25,
     "trailerCount": 30,
-    "sourceCount": 22
+    "sourceCount": 21
   }
 }
