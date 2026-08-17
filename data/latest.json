@@ -1,30 +1,90 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-17T14:00:03.344566Z",
-  "generatedAtDisplay": "2026-08-17 10:00 AM EDT",
+  "generatedAt": "2026-08-17T18:00:26.701190Z",
+  "generatedAtDisplay": "2026-08-17 02:00 PM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Games / criticism, Democracy / press freedom, Education / pedagogy. The strongest items in this run are We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility, This week in PC games: survival horror in a waterlogged city, kaiju chaos in a destructible city, and old school GTA vibes in an isometric insurgency simulator, and Iowa, Deemed Below Basic in Reading, Stays Silent on the ‘Honesty Gap’.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are US gas prices reach highest ever recorded for August amid stalled talks with Iran, British Muslim student with valid visa refused entry to US after 23-hour detention, and Sony still hasn't chosen a PlayStation 6 release date, says CEO, as RAM crisis continues.",
   "mainItems": [
     {
-      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "source": "404 Media",
+      "title": "US gas prices reach highest ever recorded for August amid stalled talks with Iran",
+      "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-      "published": "2026-08-17T13:16:09+00:00",
-      "summary": "We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war",
+      "published": "2026-08-17T15:51:46+00:00",
+      "summary": "Energy prices have been high since the US-Israel war with Iran began and the strait of Hormuz was blocked US gas prices this month are so far the highest ever recorded for August as peace talks between the US and Iran have stalled and…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "This week in PC games: survival horror in a waterlogged city, kaiju chaos in a destructible city, and old school GTA vibes in an isometric insurgency simulator",
+      "title": "British Muslim student with valid visa refused entry to US after 23-hour detention",
+      "source": "The Guardian US",
+      "category": "CS education / AI policy",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/17/british-muslim-student-valid-visa-refused-entry-us-detention",
+      "published": "2026-08-17T15:00:02+00:00",
+      "summary": "Laith Alani, who had booked week-long trip to visit theme parks and family, believes US border force profiled him on arrival in Orlando A British student who was detained and deported after flying to the US claims he was profiled for being…",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 10
+    },
+    {
+      "title": "Sony still hasn't chosen a PlayStation 6 release date, says CEO, as RAM crisis continues",
+      "source": "Eurogamer",
+      "category": "Democracy / press freedom",
+      "url": "https://www.eurogamer.net/sony-ps6-internal-release-date-component-shortage",
+      "published": "2026-08-17T14:58:18+00:00",
+      "summary": "We already know that console manufacturing is being heavily impacted by the on-going component shortage , driven by the proliferation of AI datacenters, the war in Iran, and accusations of price fixing .",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Mortal Shell 2 review: A monumental heavy metal sequel with the spirit of a '90s PC game",
       "source": "Rock Paper Shotgun",
       "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-survival-horror-in-a-waterlogged-city-kaiju-chaos-in-a-destructible-city-and-old-school-gta-vibes-in-an-isometric-insurgency-simulator",
-      "published": "2026-08-17T11:19:50+00:00",
-      "summary": "Videogames. Gosh there are a lot of them. We're not even into the hell month of September – where every major developer besides Rockstar seems to be releasing their big games of the year – and we're looking at a packed week.",
+      "url": "https://www.rockpapershotgun.com/mortal-shell-2-review-a-monumental-heavy-metal-sequel-with-the-spirit-of-a-90s-pc-game",
+      "published": "2026-08-17T14:33:22+00:00",
+      "summary": "A few hours into your sojourn across Mortal Shell 2 's harsh realm of Fainweald, you might stumble upon a tavern called The One Legged Wolf.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 10
+    },
+    {
+      "title": "Opinion: Families Don’t Want School Choice, They Want Their Child to Read",
+      "source": "The 74",
+      "category": "Democracy / press freedom",
+      "url": "https://www.the74million.org/article/families-dont-want-school-choice-they-want-their-child-to-read/",
+      "published": "2026-08-17T14:30:00+00:00",
+      "summary": "Conversations about Education Savings Account programs seem to start in the same place: the money. Where is it going? How is it being used? Who is benefiting? Understandably so. When taxpayer money moves, people talk.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Hayden Panettiere: an actor so magnetic that entire shows were rewritten for her",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-actor-shows-rewritten-heroes-claire",
+      "published": "2026-08-17T14:26:31+00:00",
+      "summary": "She starred in her first soap opera at 4 – then the hit show Heroes was totally reworked to allow her character, Claire the regenerating cheerleader, to live on.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Percy Jackson Season 3 Trailer: Beat the Bad Guys With the Power of Love",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/percy-jackson-season-three-teaser/",
+      "published": "2026-08-17T15:26:45+00:00",
+      "summary": "(But the trailer leans on a different earwormy ’80s song) The post Percy Jackson Season 3 Trailer: Beat the Bad Guys With the Power of Love appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 9
+    },
+    {
+      "title": "Meet the only known trebuchet casualty in history",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
+      "published": "2026-08-17T13:41:35+00:00",
+      "summary": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 9
     },
     {
       "title": "Iowa, Deemed Below Basic in Reading, Stays Silent on the ‘Honesty Gap’",
@@ -34,87 +94,27 @@
       "published": "2026-08-17T10:30:00+00:00",
       "summary": "Every few years, testing experts at the U.S. Department of Education weigh state assessments against their “gold standard,” the National Assessment of Educational Progress, also known as “the nation’s report card.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
+      "score": 9
     },
     {
-      "title": "Call of Duty studio Sledgehammer reportedly worked on a Halo multiplayer prototype before it got canned",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/halo-multiplayer-activision--sledgehammer-games",
-      "published": "2026-08-17T10:11:42+00:00",
-      "summary": "A Halo game made by an Activision studio doesn't sound like a far-fetched idea, and is actually something Xbox considered per a new report.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "A tale of two Dan Sullivans: Republicans with same name contest Alaska primary",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/alaska-senate-dan-sullivan-mary-peltola",
-      "published": "2026-08-17T10:00:53+00:00",
-      "summary": "Democrat Mary Peltola, who won the red state’s House seat twice, is also running to unseat the incumbent senator Dan J Sullivan is a retired schoolteacher and US Forest Service employee living in the town of Petersburg in south-eastern…",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "OpenAI reportedly disbanded its preparedness team",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "published": "2026-08-17T09:21:20+00:00",
-      "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Kingdom Hearts 4 releasing in late 2027, according to a trailer in which Donald Duck and Goofy go to hell, miss a skeletal fiesta and rock up as creepy force ghosts",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/kingdom-hearts-4-releasing-in-late-2027-according-to-a-trailer-in-which-donald-duck-and-goofy-go-to-hell-miss-a-skeletal-fiesta-and-rock-up-as-creepy-force-ghosts",
-      "published": "2026-08-17T09:18:23+00:00",
-      "summary": "I'll be honest, having just watched the latest trailer for Kingdom Hearts 4 , I'm less confident I know what's going on in the game.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "It looks like Fortnite is getting a Roblox collaboration, months after Epic boss Tim Sweeney referred to the rival game as a force that could \"grow and eat gaming\"",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/fortnite-chapter-7-season-4-roblox-gaming-legends",
-      "published": "2026-08-17T09:15:01+00:00",
-      "summary": "It looks like Fortnite is getting a Roblox crossover. In the latest upcoming season of the game - named Fortnite Chapter 7 Season 4: Override - the world's biggest battle royale introduces a wealth of gaming properties to its world.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 10
-    },
-    {
-      "title": "‘Fated to become a cult classic’: why Barcelona is my feelgood movie",
+      "title": "Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/film/2026/aug/17/my-feelgood-movie-barcelona-whit-stillman",
-      "published": "2026-08-17T09:00:50+00:00",
-      "summary": "The latest in our series of writers detailing their most pleasurable comfort films is a trip to 1980s Spain courtesy of Whit Stillman An hour into Whit Stillman’s 1994 film, Barcelona, the protagonist, Ted Boynton (Taylor Nichols),…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance",
+      "published": "2026-08-17T17:43:53+00:00",
+      "summary": "US president’s abrupt order to scale back joint exercises with Seoul is meant to ‘flatter’ North Korea’s dictator, top Democrat says US politics live – latest updates Donald Trump’s move to gut Washington’s 73-year-old military alliance…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
+      "score": 8
     },
     {
-      "title": "Anthropic's new invisible watermark marks content generated by AI chatbot Claude",
-      "source": "NPR Tech",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5928211/anthropics-new-invisible-watermark-marks-content-generated-by-ai-chatbot-claude",
-      "published": "2026-08-17T08:48:55+00:00",
-      "summary": "NPR's Michel Martin speaks with Fortune Magazine AI reporter Beatrice Nolan about the invisible watermark embedded in anything new models of Anthropic's AI assistant Claude processes.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Lanterns: Damon Lindelof On Why You Should Care About Space Cops",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/lanterns-damon-lindelof-space-cops-explained/",
-      "published": "2026-08-17T13:32:28+00:00",
-      "summary": "“[If] you’re having conversations about rings and planets and aliens… you’re in the wrong territory.” The post Lanterns : Damon Lindelof On Why You Should Care About Space Cops appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
-      "score": 7
+      "title": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
+      "published": "2026-08-17T14:56:24+00:00",
+      "summary": "ChatGPT prompts show how an expert witness report was created in a $61 million lawsuit over an explosion that killed three people.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
       "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
@@ -139,6 +139,17 @@
   ],
   "youtube": [
     {
+      "title": "Quantum Simulation & Nature - Computerphile",
+      "source": "Computerphile",
+      "category": "Science / computing",
+      "url": "https://www.youtube.com/watch?v=pg7fntKLNak",
+      "published": "2026-08-17T15:18:03+00:00",
+      "summary": "Learn more about the Jane Street internship at: https://jane-st.co/internships2027-Computerphile Simulations of nature and physics are a potential application of quantum computing.",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
       "title": "We Asked Green Day If They Support AI...",
       "source": "WIRED",
       "category": "Tech / media",
@@ -150,15 +161,15 @@
       "verdict": "Probably worth watching"
     },
     {
-      "title": "Does Green Day Do Weddings?",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=TrO0elgCNB4",
-      "published": "2026-08-14T14:20:02+00:00",
-      "summary": "Green Day visit WIRED to answer their most searched questions on Google.",
+      "title": "Shaboozey on Cherie Lee, 'Coyotes Point' and his latest album",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=sZL1Y7_TC7Y",
+      "published": "2026-08-17T14:30:16+00:00",
+      "summary": "Shaboozey's new album imagines life in the Wild West. It follows the story of Cherie Lee, a woman out to avenge her father's murder.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Study: Some dogs may be able to read your feelings on your face",
@@ -216,15 +227,15 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "Jon Batiste hopes his new albums give classical music broad appeal",
-      "source": "NPR",
-      "category": "News / analysis",
-      "url": "https://www.youtube.com/watch?v=74JCuERk-3w",
-      "published": "2026-08-14T15:14:29+00:00",
-      "summary": "Jon Batiste offers his take on Mozart and Thelonious Monk in a trio of albums featuring his blend of classical, jazz, roots and R&B.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "First Party Exclusives: Is Nintendo The Only Company That Gets It Right?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=l9sQDdIaaEA",
+      "published": "2026-08-17T17:00:34+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/DsRYafPhTHw ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Retro PC Gaming: John's Bought an NEC PC-98 - And This Is What He Thinks",
@@ -234,8 +245,8 @@
       "published": "2026-08-16T15:00:39+00:00",
       "summary": "► Watch the Full Video Here: https://youtu.be/eMwtL2v1J-M ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
       "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Could Xbox Produce A Project Helix \"Add-In\" Board For Existing PCs?",
@@ -260,26 +271,26 @@
       "verdict": "Worth watching"
     },
     {
-      "title": "One Year Since We Left IGN - What's Happened + What's Next?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=R-mpxuXMDc8",
-      "published": "2026-08-14T17:15:25+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/DsRYafPhTHw ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "The Worst Ways To Make Us Want Something | Windbreaker Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=St9flGUw7IU",
+      "published": "2026-08-17T13:34:15+00:00",
+      "summary": "This video is brought to you by EVERSPACE 2, a fast-paced single-player space shooter where vicious encounters and brutal challenges stand between you and that next epic loot drop.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
-      "title": "What Current PC Specs Can Match Next-Gen Console Performance?",
-      "source": "Digital Foundry",
-      "category": "Games / hardware",
-      "url": "https://www.youtube.com/watch?v=Bo_1pgzHm5s",
-      "published": "2026-08-14T16:21:50+00:00",
-      "summary": "► Watch the Full Video Here: https://youtu.be/DsRYafPhTHw ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
-      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
-      "score": 6,
-      "verdict": "Summary is enough"
+      "title": "The Beautiful & Baffling Designs of Symphony of the Night | Design Delve",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=E4_v0QNmoQ4",
+      "published": "2026-08-17T15:00:30+00:00",
+      "summary": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
     },
     {
       "title": "Showing Off More Guilty Gear Strive | Super Smash Sunday",
@@ -302,17 +313,6 @@
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 8,
       "verdict": "Worth watching"
-    },
-    {
-      "title": "We’re Not Ready for How Big GTA 6’s Launch Will Be | Unpacked",
-      "source": "Second Wind",
-      "category": "Games / criticism",
-      "url": "https://www.youtube.com/watch?v=Ae9MgZmMMHQ",
-      "published": "2026-08-14T15:00:18+00:00",
-      "summary": "This video is brought to you by EVERSPACE 2, a fast-paced single-player space shooter where vicious encounters and brutal challenges stand between you and that next epic loot drop.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
     }
   ],
   "trailers": [
@@ -449,6 +449,50 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Freefall: A Reckoning for Boeing | Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=4ROpWwIEoPg",
+      "published": "2026-08-17T16:30:00+00:00",
+      "summary": "A group of Boeing whistleblowers describe their fears about speaking out publicly regarding ongoing safety concerns at the company and the impact on their job security.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Outer Banks | Season 4 Recap | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=vwOzGbMlvDk",
+      "published": "2026-08-17T16:00:00+00:00",
+      "summary": "Revenge is coming. Catch up on Outer Banks Season 4 now before Season 5 premieres this Thursday, August 20th, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "A Different World | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=W8jMEXwErvk",
+      "published": "2026-08-17T15:00:00+00:00",
+      "summary": "A Different World, where they are living their best young, gifted, Black, talented lives. Coming to you September 24 on Netflix! Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Hollywood Arts | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=3CpJfFl18e4",
+      "published": "2026-08-17T14:00:00+00:00",
+      "summary": "Welcome (back) to Hollywood Arts! The next chapter in the Victorious universe is coming only on Netflix, October 15th. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "The Diplomat: Season 4 | Official Teaser | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -526,47 +570,14 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "The Perfect Lie | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=FnwySGfFTdc",
-      "published": "2026-08-12T18:00:00+00:00",
-      "summary": "When Karen moves to Bergen with her family, they are warmly welcomed into the Dining Club, a seductive group of friends who thoroughly enjoy an extravagant and debauched life.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Crew Girl | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Xs5qsfqp-tA",
-      "published": "2026-08-12T14:00:06+00:00",
-      "summary": "New school, new rules, same dream. Crew Girl premieres September 10th! Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Animals | Official Teaser | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=TdSRAb-GSu0",
-      "published": "2026-08-12T13:00:04+00:00",
-      "summary": "Power can’t protect you. Directed by and starring Ben Affleck, with Kerry Washington, Steven Yeun, Gillian Anderson, Adriana Paz and Luis Gerardo Méndez, Animals is in select theaters and on Netflix October 9. Watch on Netflix: https://www.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
       "title": "Slow Horses — Jackson Lamb Refreshes Your Memory | Apple TV",
       "source": "Apple TV",
       "category": "TV / trailer",
       "url": "https://www.youtube.com/watch?v=Xw08JnpjSfE",
       "published": "2026-08-14T22:59:55+00:00",
-      "summary": "Need a Slough House refresh before Season 6? Gary Oldman's got you covered. Seasons 1- 5 of Slow Horses are now streaming on Apple TV. https://apple.co/slowhorses Subscribe to Apple TV’s YouTube channel: https://apple.",
+      "summary": "This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Season 6 premieres September 16, 2026. https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
+      "score": 9,
       "verdict": "Looks promising"
     },
     {
@@ -737,7 +748,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 16,
-    "trailerCount": 28,
-    "sourceCount": 20
+    "trailerCount": 29,
+    "sourceCount": 21
   }
 }

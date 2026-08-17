@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-17T14:00:03.344566Z
+Generated: 2026-08-17T18:00:26.701190Z
 
-Today's sweep leans toward Games / criticism, Democracy / press freedom, Education / pedagogy. The strongest items in this run are We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility, This week in PC games: survival horror in a waterlogged city, kaiju chaos in a destructible city, and old school GTA vibes in an isometric insurgency simulator, and Iowa, Deemed Below Basic in Reading, Stays Silent on the ‘Honesty Gap’.
+Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are US gas prices reach highest ever recorded for August amid stalled talks with Iran, British Muslim student with valid visa refused entry to US after 23-hour detention, and Sony still hasn't chosen a PlayStation 6 release date, says CEO, as RAM crisis continues.
 
 ## Briefing
 
@@ -33,25 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility [10/10]
-**Source:** 404 Media  
+### 1. US gas prices reach highest ever recorded for August amid stalled talks with Iran [10/10]
+**Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.
+Energy prices have been high since the US-Israel war with Iran began and the strait of Hormuz was blocked US gas prices this month are so far the highest ever recorded for August as peace talks between the US and Iran have stalled and…
 
-Link: https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/
+Link: https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war
 
-### 2. This week in PC games: survival horror in a waterlogged city, kaiju chaos in a destructible city, and old school GTA vibes in an isometric insurgency simulator [10/10]
+### 2. British Muslim student with valid visa refused entry to US after 23-hour detention [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Laith Alani, who had booked week-long trip to visit theme parks and family, believes US border force profiled him on arrival in Orlando A British student who was detained and deported after flying to the US claims he was profiled for being…
+
+Link: https://www.theguardian.com/uk-news/2026/aug/17/british-muslim-student-valid-visa-refused-entry-us-detention
+
+### 3. Sony still hasn't chosen a PlayStation 6 release date, says CEO, as RAM crisis continues [10/10]
+**Source:** Eurogamer  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+We already know that console manufacturing is being heavily impacted by the on-going component shortage , driven by the proliferation of AI datacenters, the war in Iran, and accusations of price fixing .
+
+Link: https://www.eurogamer.net/sony-ps6-internal-release-date-component-shortage
+
+### 4. Mortal Shell 2 review: A monumental heavy metal sequel with the spirit of a '90s PC game [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Videogames. Gosh there are a lot of them. We're not even into the hell month of September – where every major developer besides Rockstar seems to be releasing their big games of the year – and we're looking at a packed week.
+A few hours into your sojourn across Mortal Shell 2 's harsh realm of Fainweald, you might stumble upon a tavern called The One Legged Wolf.
 
-Link: https://www.rockpapershotgun.com/this-week-in-pc-games-survival-horror-in-a-waterlogged-city-kaiju-chaos-in-a-destructible-city-and-old-school-gta-vibes-in-an-isometric-insurgency-simulator
+Link: https://www.rockpapershotgun.com/mortal-shell-2-review-a-monumental-heavy-metal-sequel-with-the-spirit-of-a-90s-pc-game
 
-### 3. Iowa, Deemed Below Basic in Reading, Stays Silent on the ‘Honesty Gap’ [10/10]
+### 5. Opinion: Families Don’t Want School Choice, They Want Their Child to Read [10/10]
+**Source:** The 74  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Conversations about Education Savings Account programs seem to start in the same place: the money. Where is it going? How is it being used? Who is benefiting? Understandably so. When taxpayer money moves, people talk.
+
+Link: https://www.the74million.org/article/families-dont-want-school-choice-they-want-their-child-to-read/
+
+### 6. Hayden Panettiere: an actor so magnetic that entire shows were rewritten for her [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+She starred in her first soap opera at 4 – then the hit show Heroes was totally reworked to allow her character, Claire the regenerating cheerleader, to live on.
+
+Link: https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-actor-shows-rewritten-heroes-claire
+
+### 7. Percy Jackson Season 3 Trailer: Beat the Bad Guys With the Power of Love [9/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+(But the trailer leans on a different earwormy ’80s song) The post Percy Jackson Season 3 Trailer: Beat the Bad Guys With the Power of Love appeared first on Reactor .
+
+Link: https://reactormag.com/percy-jackson-season-three-teaser/
+
+### 8. Meet the only known trebuchet casualty in history [9/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+"It highlights the brutality of medieval warfare," said paleopathologist Jo Buckberry.
+
+Link: https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/
+
+### 9. Iowa, Deemed Below Basic in Reading, Stays Silent on the ‘Honesty Gap’ [9/10]
 **Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -60,77 +114,23 @@ Every few years, testing experts at the U.S. Department of Education weigh state
 
 Link: https://www.the74million.org/article/iowa-deemed-below-basic-in-reading-stays-silent-on-the-honesty-gap/
 
-### 4. Call of Duty studio Sledgehammer reportedly worked on a Halo multiplayer prototype before it got canned [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-A Halo game made by an Activision studio doesn't sound like a far-fetched idea, and is actually something Xbox considered per a new report.
-
-Link: https://www.eurogamer.net/halo-multiplayer-activision--sledgehammer-games
-
-### 5. A tale of two Dan Sullivans: Republicans with same name contest Alaska primary [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Democrat Mary Peltola, who won the red state’s House seat twice, is also running to unseat the incumbent senator Dan J Sullivan is a retired schoolteacher and US Forest Service employee living in the town of Petersburg in south-eastern…
-
-Link: https://www.theguardian.com/us-news/2026/aug/17/alaska-senate-dan-sullivan-mary-peltola
-
-### 6. OpenAI reportedly disbanded its preparedness team [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team
-
-### 7. Kingdom Hearts 4 releasing in late 2027, according to a trailer in which Donald Duck and Goofy go to hell, miss a skeletal fiesta and rock up as creepy force ghosts [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-I'll be honest, having just watched the latest trailer for Kingdom Hearts 4 , I'm less confident I know what's going on in the game.
-
-Link: https://www.rockpapershotgun.com/kingdom-hearts-4-releasing-in-late-2027-according-to-a-trailer-in-which-donald-duck-and-goofy-go-to-hell-miss-a-skeletal-fiesta-and-rock-up-as-creepy-force-ghosts
-
-### 8. It looks like Fortnite is getting a Roblox collaboration, months after Epic boss Tim Sweeney referred to the rival game as a force that could "grow and eat gaming" [10/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-It looks like Fortnite is getting a Roblox crossover. In the latest upcoming season of the game - named Fortnite Chapter 7 Season 4: Override - the world's biggest battle royale introduces a wealth of gaming properties to its world.
-
-Link: https://www.eurogamer.net/fortnite-chapter-7-season-4-roblox-gaming-legends
-
-### 9. ‘Fated to become a cult classic’: why Barcelona is my feelgood movie [10/10]
+### 10. Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say [8/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-The latest in our series of writers detailing their most pleasurable comfort films is a trip to 1980s Spain courtesy of Whit Stillman An hour into Whit Stillman’s 1994 film, Barcelona, the protagonist, Ted Boynton (Taylor Nichols),…
+US president’s abrupt order to scale back joint exercises with Seoul is meant to ‘flatter’ North Korea’s dictator, top Democrat says US politics live – latest updates Donald Trump’s move to gut Washington’s 73-year-old military alliance…
 
-Link: https://www.theguardian.com/film/2026/aug/17/my-feelgood-movie-barcelona-whit-stillman
+Link: https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance
 
-### 10. Anthropic's new invisible watermark marks content generated by AI chatbot Claude [10/10]
-**Source:** NPR Tech  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 11. ‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-NPR's Michel Martin speaks with Fortune Magazine AI reporter Beatrice Nolan about the invisible watermark embedded in anything new models of Anthropic's AI assistant Claude processes.
+ChatGPT prompts show how an expert witness report was created in a $61 million lawsuit over an explosion that killed three people.
 
-Link: https://www.npr.org/2026/08/17/nx-s1-5928211/anthropics-new-invisible-watermark-marks-content-generated-by-ai-chatbot-claude
-
-### 11. Lanterns: Damon Lindelof On Why You Should Care About Space Cops [7/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-“[If] you’re having conversations about rings and planets and aliens… you’re in the wrong territory.” The post Lanterns : Damon Lindelof On Why You Should Care About Space Cops appeared first on Reactor .
-
-Link: https://reactormag.com/lanterns-damon-lindelof-space-cops-explained/
+Link: https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/
 
 ### 12. Cialis is an erectile dysfunction drug. Could it also help you live longer? [7/10]
 **Source:** NPR Health  
@@ -152,6 +152,15 @@ Link: https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-
 
 ## YouTube
 
+### Quantum Simulation & Nature - Computerphile [7/10]
+**Creator:** Computerphile  
+**Verdict:** Probably worth watching  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+Learn more about the Jane Street internship at: https://jane-st.co/internships2027-Computerphile Simulations of nature and physics are a potential application of quantum computing.
+
+Link: https://www.youtube.com/watch?v=pg7fntKLNak
+
 ### We Asked Green Day If They Support AI... [7/10]
 **Creator:** WIRED  
 **Verdict:** Probably worth watching  
@@ -161,14 +170,14 @@ Green Day visit WIRED to answer their most searched questions on Google.
 
 Link: https://www.youtube.com/watch?v=s8yKzkWDv60
 
-### Does Green Day Do Weddings? [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
+### Shaboozey on Cherie Lee, 'Coyotes Point' and his latest album [8/10]
+**Creator:** NPR  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
-Green Day visit WIRED to answer their most searched questions on Google.
+Shaboozey's new album imagines life in the Wild West. It follows the story of Cherie Lee, a woman out to avenge her father's murder.
 
-Link: https://www.youtube.com/watch?v=TrO0elgCNB4
+Link: https://www.youtube.com/watch?v=sZL1Y7_TC7Y
 
 ### Study: Some dogs may be able to read your feelings on your face [7/10]
 **Creator:** NPR  
@@ -215,18 +224,18 @@ The National Guard has been deployed in Washington, D.C. for more than a year no
 
 Link: https://www.youtube.com/watch?v=Z_DRtqS_pb0
 
-### Jon Batiste hopes his new albums give classical music broad appeal [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-Jon Batiste offers his take on Mozart and Thelonious Monk in a trio of albums featuring his blend of classical, jazz, roots and R&B.
-
-Link: https://www.youtube.com/watch?v=74JCuERk-3w
-
-### Retro PC Gaming: John's Bought an NEC PC-98 - And This Is What He Thinks [7/10]
+### First Party Exclusives: Is Nintendo The Only Company That Gets It Right? [7/10]
 **Creator:** Digital Foundry  
 **Verdict:** Probably worth watching  
+**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+
+► Watch the Full Video Here: https://youtu.be/DsRYafPhTHw ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+
+Link: https://www.youtube.com/watch?v=l9sQDdIaaEA
+
+### Retro PC Gaming: John's Bought an NEC PC-98 - And This Is What He Thinks [6/10]
+**Creator:** Digital Foundry  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
 
 ► Watch the Full Video Here: https://youtu.be/eMwtL2v1J-M ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
@@ -251,23 +260,23 @@ Link: https://www.youtube.com/watch?v=nGCcHSW3NFg
 
 Link: https://www.youtube.com/watch?v=z5hgH6flrvw
 
-### One Year Since We Left IGN - What's Happened + What's Next? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### The Worst Ways To Make Us Want Something | Windbreaker Podcast [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Watch the Full Video Here: https://youtu.be/DsRYafPhTHw ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+This video is brought to you by EVERSPACE 2, a fast-paced single-player space shooter where vicious encounters and brutal challenges stand between you and that next epic loot drop.
 
-Link: https://www.youtube.com/watch?v=R-mpxuXMDc8
+Link: https://www.youtube.com/watch?v=St9flGUw7IU
 
-### What Current PC Specs Can Match Next-Gen Console Performance? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+### The Beautiful & Baffling Designs of Symphony of the Night | Design Delve [9/10]
+**Creator:** Second Wind  
+**Verdict:** Watch it  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Watch the Full Video Here: https://youtu.be/DsRYafPhTHw ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
 
-Link: https://www.youtube.com/watch?v=Bo_1pgzHm5s
+Link: https://www.youtube.com/watch?v=E4_v0QNmoQ4
 
 ### Showing Off More Guilty Gear Strive | Super Smash Sunday [6/10]
 **Creator:** Second Wind  
@@ -286,15 +295,6 @@ Link: https://www.youtube.com/watch?v=VxIUxhESskU
 This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
 
 Link: https://www.youtube.com/watch?v=AwnZu4Kd6vM
-
-### We’re Not Ready for How Big GTA 6’s Launch Will Be | Unpacked [7/10]
-**Creator:** Second Wind  
-**Verdict:** Probably worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by EVERSPACE 2, a fast-paced single-player space shooter where vicious encounters and brutal challenges stand between you and that next epic loot drop.
-
-Link: https://www.youtube.com/watch?v=Ae9MgZmMMHQ
 
 ## Entertainment Recommendations
 
@@ -433,6 +433,42 @@ Evil found a way out. The final trailer has come for our world. GET TICKETS NOW.
 
 Link: https://www.youtube.com/watch?v=bHehvziDKBI
 
+### Freefall: A Reckoning for Boeing | Sneak Peek | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A group of Boeing whistleblowers describe their fears about speaking out publicly regarding ongoing safety concerns at the company and the impact on their job security.
+
+Link: https://www.youtube.com/watch?v=4ROpWwIEoPg
+
+### Outer Banks | Season 4 Recap | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Revenge is coming. Catch up on Outer Banks Season 4 now before Season 5 premieres this Thursday, August 20th, only on Netflix. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=vwOzGbMlvDk
+
+### A Different World | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A Different World, where they are living their best young, gifted, Black, talented lives. Coming to you September 24 on Netflix! Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=W8jMEXwErvk
+
+### Hollywood Arts | Official Teaser | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Welcome (back) to Hollywood Arts! The next chapter in the Victorious universe is coming only on Netflix, October 15th. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=3CpJfFl18e4
+
 ### The Diplomat: Season 4 | Official Teaser | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -496,39 +532,12 @@ When Raygun’s performance at the 2024 Paris Olympics went viral overnight, an 
 
 Link: https://www.youtube.com/watch?v=QJYG0KCwLLM
 
-### The Perfect Lie | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-When Karen moves to Bergen with her family, they are warmly welcomed into the Dining Club, a seductive group of friends who thoroughly enjoy an extravagant and debauched life.
-
-Link: https://www.youtube.com/watch?v=FnwySGfFTdc
-
-### Crew Girl | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-New school, new rules, same dream. Crew Girl premieres September 10th! Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=Xs5qsfqp-tA
-
-### Animals | Official Teaser | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Power can’t protect you. Directed by and starring Ben Affleck, with Kerry Washington, Steven Yeun, Gillian Anderson, Adriana Paz and Luis Gerardo Méndez, Animals is in select theaters and on Netflix October 9. Watch on Netflix: https://www.
-
-Link: https://www.youtube.com/watch?v=TdSRAb-GSu0
-
-### Slow Horses — Jackson Lamb Refreshes Your Memory | Apple TV [10/10]
+### Slow Horses — Jackson Lamb Refreshes Your Memory | Apple TV [9/10]
 **Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-Need a Slough House refresh before Season 6? Gary Oldman's got you covered. Seasons 1- 5 of Slow Horses are now streaming on Apple TV. https://apple.co/slowhorses Subscribe to Apple TV’s YouTube channel: https://apple.
+This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Season 6 premieres September 16, 2026. https://apple.
 
 Link: https://www.youtube.com/watch?v=Xw08JnpjSfE
 
