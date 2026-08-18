@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-18T09:00:41.374997Z
+Generated: 2026-08-18T14:00:02.130700Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Survey: 5 Ways AI is Cutting into Students’ Ability to Learn, I was abused as a child – and thought I had healed. Then I began drinking in lockdown, and Shuhei Yoshida told Expedition 33 studio to avoid terms like 'turn-based RPG' because it may cause people to "overlook" the game.
+Today's sweep leans toward AI / privacy, Democracy / press freedom, AI / computing. The strongest items in this run are My parrot ate my keyboard, ABC sues Trump’s media regulator over demand for TV license renewals, and ABC sues the FCC over Trump and Carr’s campaign of threats.
 
 ## Briefing
 
@@ -33,7 +33,79 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Survey: 5 Ways AI is Cutting into Students’ Ability to Learn [10/10]
+### 1. My parrot ate my keyboard [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+One of the great joys in life is having pets. The unconditional love, the snuggles, the excitement they show when you get home - these things add an emotional fulfillment to daily existence that can't be achieved in another way.
+
+Link: https://www.theverge.com/tech/978402/parrot-ate-keyboard-protect
+
+### 2. ABC sues Trump’s media regulator over demand for TV license renewals [10/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Network alleges FCC is trying to send ‘chilling message’ in retaliation for content the administration disapproves of ABC has sued the Federal Communications Commission (FCC), arguing that it is being retaliated against for content-based…
+
+Link: https://www.theguardian.com/us-news/2026/aug/18/abc-sues-trump-federal-communications-commission
+
+### 3. ABC sues the FCC over Trump and Carr’s campaign of threats [10/10]
+**Source:** The Verge  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+ABC is suing the Federal Communications Commission over claims the agency "waged a retaliatory campaign" against its networks over the content they broadcast.
+
+Link: https://www.theverge.com/streaming/981392/abc-fcc-broadcast-license-lawsuit
+
+### 4. Trump administration pursues Kilmar Ábrego García on previously dismissed charges [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Attorneys for Ábrego, who was wrongfully deported to El Salvador, say the DoJ’s appeal was ‘flat wrong’ The Trump administration has asked a federal appeals court to reinstate criminal charges against Kilmar Ábrego García that were…
+
+Link: https://www.theguardian.com/us-news/2026/aug/18/kilmar-abrego-garcia-trump-charges
+
+### 5. The Download: how people really use AI, and Flock’s design choices [10/10]
+**Source:** MIT Technology Review  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/
+
+### 6. ‘The ultimate gamers’ mascot’: Sonic the Hedgehog at 35 – from 2D to 3D to a billion-dollar film franchise [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Sonic’s creators explain how the speedy scamp has kept on running through generations as an enduring avatar of ‘attitude in the face of adversity’ One day in the early 1990s, I came home from university for the weekend and discovered that…
+
+Link: https://www.theguardian.com/games/2026/aug/18/sonic-the-hedgehog-at-35
+
+### 7. Stare at an imprisoned god to stop the apocalypse in Sarco, a no-saves horror game in which you'll also, somehow, have to explore a gutted scientific base [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+In Hello Andromeda's Sarco , you're trapped in a scientific research base with a sarcophagus housing a cosmic being that starts to open when you aren't looking at it.
+
+Link: https://www.rockpapershotgun.com/stare-at-an-imprisoned-god-to-stop-the-apocalypse-in-sarco-a-no-saves-horror-game-in-which-youll-also-somehow-have-to-explore-a-gutted-scientific-base
+
+### 8. She told no one about her agony except ChatGPT. What her death reveals about AI risks [10/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?
+
+Link: https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health
+
+### 9. Survey: 5 Ways AI Is Cutting Into Students’ Ability to Learn [10/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -42,95 +114,23 @@ Over the past four years, generative artificial intelligence has quietly coloniz
 
 Link: https://www.the74million.org/article/survey-5-ways-ai-is-cutting-into-students-ability-to-learn/
 
-### 2. I was abused as a child – and thought I had healed. Then I began drinking in lockdown [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+### 10. X's Algorithm Feeds Off Ragebait and Impacts Democrats More, Study Finds [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
 
-Decades after being sexually abused, the author and doctor Frank Spinelli believed he had moved on emotionally. But alcohol destroyed his sense of security.
+X is driving engagement by making users fight in the replies.
 
-Link: https://www.theguardian.com/society/2026/aug/18/abused-as-child-drinking-lockdown-frank-spinelli-shame
+Link: https://www.404media.co/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds/
 
-### 3. Shuhei Yoshida told Expedition 33 studio to avoid terms like 'turn-based RPG' because it may cause people to "overlook" the game [9/10]
-**Source:** Eurogamer  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 11. Many recent grads say AI is making it harder to get a job. Economists aren't so sure [8/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
 
-One of the reasons Clair Obscur: Expedition 33 stood out so much in early footage was how action-packed its combat looked, despite being a turn-based RPG.
+The unemployment rate for young adults with new degrees is higher than the rate for all workers, according to the New York Fed. Is AI the problem, or is it more complicated?
 
-Link: https://www.eurogamer.net/expedition-33-shuehi-yoshida-warning-turn-based-rpg
-
-### 4. US states take on Meta in pivotal trial over child social media addiction claims [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-State attorneys general allege that tech company intentionally designed addictive products that harm young people More than half of the states in the US have joined together in an unprecedented lawsuit against Meta that goes to trial on…
-
-Link: https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states
-
-### 5. Theban tomb reveals how Egyptian burial trends evolved in time [9/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Practices shifted from individuals buried in coffins to reusing sites for later mummy interments.
-
-Link: https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/
-
-### 6. The ultra rich are collecting fossils, and that’s bad for science – podcast [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-One of the UK’s best fossil collections has been sold overseas in what experts have called a loss to the nation. The collection, which is now on display at the Natural History Museum in Abu Dhabi, was gathered on Dorset’s Jurassic Coast.
-
-Link: https://www.theguardian.com/science/audio/2026/aug/18/ultra-rich-collecting-fossils-bad-for-science-podcast
-
-### 7. Democracy v the machine: the birth of the digital age and the warnings that were ignored [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Many hoped that the march of technology would usher in an egalitarian utopia – but some foresaw the threat it would pose to liberal society.
-
-Link: https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology
-
-### 8. Trump reportedly casts mail-in ballot in Florida Republican primary [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-President, who has decried mail-in ballots amid false claims of election fraud, issued March order to curb voting by mail Donald Trump voted by mail in Florida’s Republican primary, Politico reports, citing Palm Beach county voting records.
-
-Link: https://www.theguardian.com/us-news/2026/aug/17/trump-mail-vote-florida-republican-primary
-
-### 9. Beware the sourdough starter fake out: Don’t fall for this classic sourdough starter trick. [9/10]
-**Source:** King Arthur Baking  
-**Category:** Bread / food craft  
-**Why it matters:** Lower-stakes, but high fit for the maker/craft side of your brain.
-
-We think of baking as a wholesome hobby, but certain threats stalk our kitchens. Our Test Kitchen is terrified of cake cleaching . Soggy bottoms haunt our nightmares.
-
-Link: https://www.kingarthurbaking.com/blog/2026/08/17/beware-the-sourdough-starter-fake-out
-
-### 10. Iowa, Deemed Below Basic in Reading, Stays Silent on the ‘Honesty Gap’ [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-Every few years, testing experts at the U.S. Department of Education weigh state assessments against their “gold standard,” the National Assessment of Educational Progress, also known as “the nation’s report card.
-
-Link: https://www.the74million.org/article/iowa-deemed-below-basic-in-reading-stays-silent-on-the-honesty-gap/
-
-### 11. US vaccination rates fall again as exemptions continue to rise, CDC data shows [8/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Again, the CDC did not publish a full report and instead simply put the data online.
-
-Link: https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/
+Link: https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence
 
 ### 12. Percy Jackson Season 3 Trailer: Beat the Bad Guys With the Power of Love [8/10]
 **Source:** Reactor  
@@ -141,14 +141,14 @@ Link: https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-
 
 Link: https://reactormag.com/percy-jackson-season-three-teaser/
 
-### 13. ‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
+### 13. Opinion: 6 Keys to Moving CTE From Pilot to Permanent Part of a Redesigned HS Experience [7/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-ChatGPT prompts show how an expert witness report was created in a $61 million lawsuit over an explosion that killed three people.
+Media stories about the skills mismatch between applicant qualifications and employer expectations have been a regular feature for decades.
 
-Link: https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/
+Link: https://www.the74million.org/article/6-keys-to-moving-cte-from-pilot-to-permanent-part-of-a-redesigned-hs-experience/
 
 ## YouTube
 
@@ -161,18 +161,9 @@ Learn more about the Jane Street internship at: https://jane-st.co/internships20
 
 Link: https://www.youtube.com/watch?v=pg7fntKLNak
 
-### We Asked Green Day If They Support AI... [7/10]
-**Creator:** WIRED  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-Green Day visit WIRED to answer their most searched questions on Google.
-
-Link: https://www.youtube.com/watch?v=s8yKzkWDv60
-
-### "10 Things I Hate About You" coming to Broadway next year [7/10]
+### "10 Things I Hate About You" coming to Broadway next year [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 A new Broadway musical based on the 1999 film comedy "10 Things I Hate About You" is set to take the stage this time next year.
@@ -242,9 +233,9 @@ Link: https://www.youtube.com/watch?v=nGCcHSW3NFg
 
 Link: https://www.youtube.com/watch?v=z5hgH6flrvw
 
-### Checking Out a Gorgeous ARPG Called Lunarium | Hot Monday Energy [7/10]
+### Checking Out a Gorgeous ARPG Called Lunarium | Hot Monday Energy [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 🎮 This week on Hidden Gems, KC, Jess, and Jesse play Lunarium -- https://store.steampowered.com/app/2939790/Lunarium/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.
@@ -415,6 +406,24 @@ Evil found a way out. The final trailer has come for our world. GET TICKETS NOW.
 
 Link: https://www.youtube.com/watch?v=bHehvziDKBI
 
+### Best Of The Best | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Two childhood best friends, Maya (Maitreyi Ramakrishnan) and Anjali (Priyanka Kedia), join UCLA’s competitive Bollywood-fusion dance team, only to discover that the road to winning the U.S.
+
+Link: https://www.youtube.com/watch?v=PuNATO-6a9U
+
+### One Hundred Years of Solitude: Grand Finale | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+The fate of the Buendía family is drawing near, and with it, the end of Macondo. Growing between dreams and memory, it is now falling into oblivion. Only ruins will remain of what once was José Arcadio Buendía’s utopia.
+
+Link: https://www.youtube.com/watch?v=JzV7HytdLeY
+
 ### Graveyard: Season 3 | Official Trailer | Netflix [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -496,23 +505,14 @@ would watch #TheLastHouseNetflix Watch on Netflix: https://www.netflix.
 
 Link: https://www.youtube.com/watch?v=SmpEOhuvO6s
 
-### Death of the Pastor’s Wife | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
+### Slow Horses — Season 6 Official Trailer | Apple TV [10/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-Death of the Pastor’s Wife is a three-part documentary series examining the life and death of Mica Miller, wife of John-Paul Miller, the pastor of her family’s church in Myrtle Beach, South Carolina.
+This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Season 6 premieres September 16, 2026. https://apple.
 
-Link: https://www.youtube.com/watch?v=8wgC1XVGolE
-
-### Tyler Perry’s Why Did I Get Married Again? | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-The couples reunite in celebration as Marcus and Angela’s daughter prepares to tie the knot. After being apart for quite some time, they learn quickly that as much as things change, they stay the same.
-
-Link: https://www.youtube.com/watch?v=VylsOZBYxQA
+Link: https://www.youtube.com/watch?v=mZbJxpYHLuI
 
 ### Silo — Lukas and Kennedy Go Out | Season 3 Scene | Apple TV [10/10]
 **Source:** Apple TV  
@@ -549,12 +549,3 @@ Link: https://www.youtube.com/watch?v=Cr8RZP-opO4
 A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.co/_WidowsBay Widow’s Bay took over the Culver Hotel for one night.
 
 Link: https://www.youtube.com/watch?v=YpLpxSJS5EM
-
-### Stillwater — Season 5 Official Trailer | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Return to zen. Apple's #1 preschool series is back with new episodes, new stories, and new lessons. Stillwater Season 5 premieres August 21 on Apple TV #Stillwater #Trailer #AppleTV
-
-Link: https://www.youtube.com/watch?v=Qbha1__CutI

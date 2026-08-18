@@ -1,13 +1,93 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-18T09:00:41.374997Z",
-  "generatedAtDisplay": "2026-08-18 05:00 AM EDT",
+  "generatedAt": "2026-08-18T14:00:02.130700Z",
+  "generatedAtDisplay": "2026-08-18 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, Games / criticism. The strongest items in this run are Survey: 5 Ways AI is Cutting into Students’ Ability to Learn, I was abused as a child – and thought I had healed. Then I began drinking in lockdown, and Shuhei Yoshida told Expedition 33 studio to avoid terms like 'turn-based RPG' because it may cause people to \"overlook\" the game.",
+  "summary": "Today's sweep leans toward AI / privacy, Democracy / press freedom, AI / computing. The strongest items in this run are My parrot ate my keyboard, ABC sues Trump’s media regulator over demand for TV license renewals, and ABC sues the FCC over Trump and Carr’s campaign of threats.",
   "mainItems": [
     {
-      "title": "Survey: 5 Ways AI is Cutting into Students’ Ability to Learn",
+      "title": "My parrot ate my keyboard",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/978402/parrot-ate-keyboard-protect",
+      "published": "2026-08-18T13:46:56+00:00",
+      "summary": "One of the great joys in life is having pets. The unconditional love, the snuggles, the excitement they show when you get home - these things add an emotional fulfillment to daily existence that can't be achieved in another way.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "ABC sues Trump’s media regulator over demand for TV license renewals",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/abc-sues-trump-federal-communications-commission",
+      "published": "2026-08-18T13:38:23+00:00",
+      "summary": "Network alleges FCC is trying to send ‘chilling message’ in retaliation for content the administration disapproves of ABC has sued the Federal Communications Commission (FCC), arguing that it is being retaliated against for content-based…",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "ABC sues the FCC over Trump and Carr’s campaign of threats",
+      "source": "The Verge",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/streaming/981392/abc-fcc-broadcast-license-lawsuit",
+      "published": "2026-08-18T13:27:43+00:00",
+      "summary": "ABC is suing the Federal Communications Commission over claims the agency \"waged a retaliatory campaign\" against its networks over the content they broadcast.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "Trump administration pursues Kilmar Ábrego García on previously dismissed charges",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/kilmar-abrego-garcia-trump-charges",
+      "published": "2026-08-18T13:18:34+00:00",
+      "summary": "Attorneys for Ábrego, who was wrongfully deported to El Salvador, say the DoJ’s appeal was ‘flat wrong’ The Trump administration has asked a federal appeals court to reinstate criminal charges against Kilmar Ábrego García that were…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "The Download: how people really use AI, and Flock’s design choices",
+      "source": "MIT Technology Review",
+      "category": "Democracy / press freedom",
+      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "published": "2026-08-18T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "‘The ultimate gamers’ mascot’: Sonic the Hedgehog at 35 – from 2D to 3D to a billion-dollar film franchise",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/games/2026/aug/18/sonic-the-hedgehog-at-35",
+      "published": "2026-08-18T11:30:44+00:00",
+      "summary": "Sonic’s creators explain how the speedy scamp has kept on running through generations as an enduring avatar of ‘attitude in the face of adversity’ One day in the early 1990s, I came home from university for the weekend and discovered that…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
+    {
+      "title": "Stare at an imprisoned god to stop the apocalypse in Sarco, a no-saves horror game in which you'll also, somehow, have to explore a gutted scientific base",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/stare-at-an-imprisoned-god-to-stop-the-apocalypse-in-sarco-a-no-saves-horror-game-in-which-youll-also-somehow-have-to-explore-a-gutted-scientific-base",
+      "published": "2026-08-18T11:30:00+00:00",
+      "summary": "In Hello Andromeda's Sarco , you're trapped in a scientific research base with a sarcophagus housing a cosmic being that starts to open when you aren't looking at it.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 10
+    },
+    {
+      "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+      "published": "2026-08-18T09:00:00+00:00",
+      "summary": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10
+    },
+    {
+      "title": "Survey: 5 Ways AI Is Cutting Into Students’ Ability to Learn",
       "source": "The 74",
       "category": "CS education / AI policy",
       "url": "https://www.the74million.org/article/survey-5-ways-ai-is-cutting-into-students-ability-to-learn/",
@@ -17,103 +97,23 @@
       "score": 10
     },
     {
-      "title": "I was abused as a child – and thought I had healed. Then I began drinking in lockdown",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/society/2026/aug/18/abused-as-child-drinking-lockdown-frank-spinelli-shame",
-      "published": "2026-08-18T04:00:14+00:00",
-      "summary": "Decades after being sexually abused, the author and doctor Frank Spinelli believed he had moved on emotionally. But alcohol destroyed his sense of security.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
+      "title": "X's Algorithm Feeds Off Ragebait and Impacts Democrats More, Study Finds",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds/",
+      "published": "2026-08-18T13:27:22+00:00",
+      "summary": "X is driving engagement by making users fight in the replies.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
     },
     {
-      "title": "Shuhei Yoshida told Expedition 33 studio to avoid terms like 'turn-based RPG' because it may cause people to \"overlook\" the game",
-      "source": "Eurogamer",
-      "category": "Games / criticism",
-      "url": "https://www.eurogamer.net/expedition-33-shuehi-yoshida-warning-turn-based-rpg",
-      "published": "2026-08-18T08:29:46+00:00",
-      "summary": "One of the reasons Clair Obscur: Expedition 33 stood out so much in early footage was how action-packed its combat looked, despite being a turn-based RPG.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "US states take on Meta in pivotal trial over child social media addiction claims",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states",
-      "published": "2026-08-18T07:00:17+00:00",
-      "summary": "State attorneys general allege that tech company intentionally designed addictive products that harm young people More than half of the states in the US have joined together in an unprecedented lawsuit against Meta that goes to trial on…",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
-      "published": "2026-08-18T04:00:40+00:00",
-      "summary": "Practices shifted from individuals buried in coffins to reusing sites for later mummy interments.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "The ultra rich are collecting fossils, and that’s bad for science – podcast",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/science/audio/2026/aug/18/ultra-rich-collecting-fossils-bad-for-science-podcast",
-      "published": "2026-08-18T04:00:15+00:00",
-      "summary": "One of the UK’s best fossil collections has been sold overseas in what experts have called a loss to the nation. The collection, which is now on display at the Natural History Museum in Abu Dhabi, was gathered on Dorset’s Jurassic Coast.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Democracy v the machine: the birth of the digital age and the warnings that were ignored",
-      "source": "The Guardian US",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology",
-      "published": "2026-08-18T04:00:13+00:00",
-      "summary": "Many hoped that the march of technology would usher in an egalitarian utopia – but some foresaw the threat it would pose to liberal society.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 9
-    },
-    {
-      "title": "Trump reportedly casts mail-in ballot in Florida Republican primary",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-mail-vote-florida-republican-primary",
-      "published": "2026-08-18T01:10:05+00:00",
-      "summary": "President, who has decried mail-in ballots amid false claims of election fraud, issued March order to curb voting by mail Donald Trump voted by mail in Florida’s Republican primary, Politico reports, citing Palm Beach county voting records.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 9
-    },
-    {
-      "title": "Beware the sourdough starter fake out: Don’t fall for this classic sourdough starter trick.",
-      "source": "King Arthur Baking",
-      "category": "Bread / food craft",
-      "url": "https://www.kingarthurbaking.com/blog/2026/08/17/beware-the-sourdough-starter-fake-out",
-      "published": "2026-08-17T14:00:00+00:00",
-      "summary": "We think of baking as a wholesome hobby, but certain threats stalk our kitchens. Our Test Kitchen is terrified of cake cleaching . Soggy bottoms haunt our nightmares.",
-      "whyItMatters": "Lower-stakes, but high fit for the maker/craft side of your brain.",
-      "score": 9
-    },
-    {
-      "title": "Iowa, Deemed Below Basic in Reading, Stays Silent on the ‘Honesty Gap’",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/iowa-deemed-below-basic-in-reading-stays-silent-on-the-honesty-gap/",
-      "published": "2026-08-17T10:30:00+00:00",
-      "summary": "Every few years, testing experts at the U.S. Department of Education weigh state assessments against their “gold standard,” the National Assessment of Educational Progress, also known as “the nation’s report card.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
-      "published": "2026-08-17T22:08:47+00:00",
-      "summary": "Again, the CDC did not publish a full report and instead simply put the data online.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
+      "source": "NPR Tech",
+      "category": "Science / computing",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
+      "published": "2026-08-18T09:00:00+00:00",
+      "summary": "The unemployment rate for young adults with new degrees is higher than the rate for all workers, according to the New York Fed. Is AI the problem, or is it more complicated?",
+      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 8
     },
     {
@@ -127,14 +127,14 @@
       "score": 8
     },
     {
-      "title": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
-      "published": "2026-08-17T14:56:24+00:00",
-      "summary": "ChatGPT prompts show how an expert witness report was created in a $61 million lawsuit over an explosion that killed three people.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "title": "Opinion: 6 Keys to Moving CTE From Pilot to Permanent Part of a Redesigned HS Experience",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/6-keys-to-moving-cte-from-pilot-to-permanent-part-of-a-redesigned-hs-experience/",
+      "published": "2026-08-18T12:30:00+00:00",
+      "summary": "Media stories about the skills mismatch between applicant qualifications and employer expectations have been a regular feature for decades.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 7
     }
   ],
   "youtube": [
@@ -150,17 +150,6 @@
       "verdict": "Summary is enough"
     },
     {
-      "title": "We Asked Green Day If They Support AI...",
-      "source": "WIRED",
-      "category": "Tech / media",
-      "url": "https://www.youtube.com/watch?v=s8yKzkWDv60",
-      "published": "2026-08-15T13:00:03+00:00",
-      "summary": "Green Day visit WIRED to answer their most searched questions on Google.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
-    },
-    {
       "title": "\"10 Things I Hate About You\" coming to Broadway next year",
       "source": "NPR",
       "category": "News / analysis",
@@ -168,8 +157,8 @@
       "published": "2026-08-17T23:00:35+00:00",
       "summary": "A new Broadway musical based on the 1999 film comedy \"10 Things I Hate About You\" is set to take the stage this time next year.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Outcry over press coverage after Cambridge professor found dead",
@@ -256,8 +245,8 @@
       "published": "2026-08-18T01:26:36+00:00",
       "summary": "🎮 This week on Hidden Gems, KC, Jess, and Jesse play Lunarium -- https://store.steampowered.com/app/2939790/Lunarium/ ✨ If you dig Hot Monday Energy, consider supporting us over on Patreon: https://www.patreon.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "The Worst Ways To Make Us Want Something | Windbreaker Podcast",
@@ -427,6 +416,28 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "Best Of The Best | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=PuNATO-6a9U",
+      "published": "2026-08-18T13:00:00+00:00",
+      "summary": "Two childhood best friends, Maya (Maitreyi Ramakrishnan) and Anjali (Priyanka Kedia), join UCLA’s competitive Bollywood-fusion dance team, only to discover that the road to winning the U.S.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "One Hundred Years of Solitude: Grand Finale | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=JzV7HytdLeY",
+      "published": "2026-08-18T12:00:00+00:00",
+      "summary": "The fate of the Buendía family is drawing near, and with it, the end of Macondo. Growing between dreams and memory, it is now falling into oblivion. Only ruins will remain of what once was José Arcadio Buendía’s utopia.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "Graveyard: Season 3 | Official Trailer | Netflix",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -526,25 +537,14 @@
       "verdict": "Looks promising"
     },
     {
-      "title": "Death of the Pastor’s Wife | Official Trailer | Netflix",
-      "source": "Netflix",
+      "title": "Slow Horses — Season 6 Official Trailer | Apple TV",
+      "source": "Apple TV",
       "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=8wgC1XVGolE",
-      "published": "2026-08-13T14:30:00+00:00",
-      "summary": "Death of the Pastor’s Wife is a three-part documentary series examining the life and death of Mica Miller, wife of John-Paul Miller, the pastor of her family’s church in Myrtle Beach, South Carolina.",
+      "url": "https://www.youtube.com/watch?v=mZbJxpYHLuI",
+      "published": "2026-08-18T12:59:53+00:00",
+      "summary": "This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Season 6 premieres September 16, 2026. https://apple.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Tyler Perry’s Why Did I Get Married Again? | Official Trailer | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=VylsOZBYxQA",
-      "published": "2026-08-13T14:00:00+00:00",
-      "summary": "The couples reunite in celebration as Marcus and Angela’s daughter prepares to tie the knot. After being apart for quite some time, they learn quickly that as much as things change, they stay the same.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
+      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -587,17 +587,6 @@
       "url": "https://www.youtube.com/watch?v=YpLpxSJS5EM",
       "published": "2026-08-13T16:03:04+00:00",
       "summary": "A comedy horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.co/_WidowsBay Widow’s Bay took over the Culver Hotel for one night.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Stillwater — Season 5 Official Trailer | Apple TV",
-      "source": "Apple TV",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=Qbha1__CutI",
-      "published": "2026-08-12T13:59:49+00:00",
-      "summary": "Return to zen. Apple's #1 preschool series is back with new episodes, new stories, and new lessons. Stillwater Season 5 premieres August 21 on Apple TV #Stillwater #Trailer #AppleTV",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 10,
       "verdict": "Looks promising"
@@ -714,8 +703,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 14,
+    "youtubeCount": 13,
     "trailerCount": 28,
-    "sourceCount": 19
+    "sourceCount": 20
   }
 }
