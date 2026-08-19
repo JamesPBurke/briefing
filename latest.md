@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-19T09:00:39.286718Z
+Generated: 2026-08-19T14:00:04.468837Z
 
-Today's sweep leans toward Democracy / press freedom, Education / pedagogy, AI / computing. The strongest items in this run are Groups sue Trump administration over new foreign student visa rule, The flag culture wars have come to an unlikely place: progressive Iceland | Alexander Hurst, and OpenAI lays out new security changes after its AI hacked Hugging Face.
+Today's sweep leans toward Games / criticism, CS education / AI policy, Democracy / press freedom. The strongest items in this run are STALKER 2 gets serious performance and visual upgrades with its 2.0 update, testing confirms, polishing up one of the biggest flawed gems in FPS games, STALKER 2: Cost of Hope review: An expanded Zone that begs to be explored, even as its faction war fizzles, and Opinion: When AI Makes Young People Think for Themselves, Real Learning Happens.
 
 ## Briefing
 
@@ -33,7 +33,52 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Groups sue Trump administration over new foreign student visa rule [10/10]
+### 1. STALKER 2 gets serious performance and visual upgrades with its 2.0 update, testing confirms, polishing up one of the biggest flawed gems in FPS games [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+I don’t begrudge anyone who’s waited to try STALKER 2: Heart of Chornobyl until it got its technical defects fixed.
+
+Link: https://www.rockpapershotgun.com/stalker-2-gets-serious-performance-and-visual-upgrades-with-its-20-update-testing-confirms-polishing-up-one-of-the-biggest-flawed-gems-in-fps-games
+
+### 2. STALKER 2: Cost of Hope review: An expanded Zone that begs to be explored, even as its faction war fizzles [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Like the technical fix-uppery of the 2.
+
+Link: https://www.rockpapershotgun.com/stalker-2-cost-of-hope-review
+
+### 3. Opinion: When AI Makes Young People Think for Themselves, Real Learning Happens [10/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+This summer, I ran a one-week artificial intelligence pilot at the Chicago headquarters of Forging Opportunities for Refugees in America, a nonprofit dedicated to helping refugees succeed in school.
+
+Link: https://www.the74million.org/article/when-ai-makes-young-people-think-for-themselves-real-learning-happens/
+
+### 4. Amazon’s drones will soon deliver to nearly 500 US cities and towns [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Amazon says its drone delivery service will reach "nearly 500 cities and towns in the United States" by the end of this year, increasing its coverage by six times compared to the current footprint.
+
+Link: https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion
+
+### 5. Alaska athlete uses bear spray to fend off animal attack: ‘nightmare come to life’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Klaire Rhodes was attacked by a brown bear in state park but spray helped her escape with ‘relatively minor injuries’ An Alaska marathon athlete used a repellant spray to fend off an attacking bear that officials say injured her while she…
+
+Link: https://www.theguardian.com/us-news/2026/aug/19/alaska-bear-attack-athlete
+
+### 6. Groups sue Trump administration over new foreign student visa rule [10/10]
 **Source:** NPR Education  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
@@ -42,16 +87,7 @@ A coalition of labor unions and higher-education groups sued the Trump administr
 
 Link: https://www.npr.org/2026/08/19/nx-s1-5936490/groups-sue-trump-administration-over-new-foreign-student-visa-rule
 
-### 2. The flag culture wars have come to an unlikely place: progressive Iceland | Alexander Hurst [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Ahead of the Nordic nation’s EU referendum, the Icelandic flag has been co-opted by the far right To enter Reykjavik’s Grafarvogur Lutheran church, worshippers and visitors are invited to make their way down 16 steps painted in the rainbow…
-
-Link: https://www.theguardian.com/commentisfree/2026/aug/19/flag-culture-wars-progressive-iceland-far-right
-
-### 3. OpenAI lays out new security changes after its AI hacked Hugging Face [10/10]
+### 7. OpenAI lays out new security changes after its AI hacked Hugging Face [10/10]
 **Source:** The Verge  
 **Category:** AI / computing  
 **Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
@@ -60,59 +96,23 @@ OpenAI is announcing security updates following the July news that its AI broke 
 
 Link: https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack
 
-### 4. The Download: how people really use AI, and Flock’s design choices [10/10]
-**Source:** MIT Technology Review  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
-
-Link: https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/
-
-### 5. In cutting joint drills, Trump has given South Korea’s president what he wants. So why is Seoul so uneasy? [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Lee Jae Myung has long pushed for stronger homegrown defences, yet Donald Trump’s move has sparked alarm in some quarters At their first summit , in August last year, the South Korean president, Lee Jae Myung, told Donald Trump: “If you,…
-
-Link: https://www.theguardian.com/world/2026/aug/19/trump-south-korea-alliance-military-seoul-security
-
-### 6. Tupac Shakur trial: lawyers share full account of killing as witnesses still refuse to testify [9/10]
+### 8. Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits [9/10]
 **Source:** The Guardian US  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-Murder trial of Duane ‘Keffe D’ Davis, 63, former South Side Compton Crips gang leader, opens in Las Vegas For nearly 30 years, the unsolved murder of 25-year-old rapper Tupac Shakur has sparked lawsuits , theories and conspiracies .
+A rise in lawsuits over AI use in employment decisions is raising questions about how companies hire and fire For the last four years, Erin Kistler has applied for thousands of jobs at companies like Paypal , Microsoft and Netflix , only…
 
-Link: https://www.theguardian.com/music/2026/aug/18/tupac-shakur-trial-day-one
+Link: https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination
 
-### 7. GTA 6 footage once again appears to leak online, this time because of a group that wants games like The Crew to have offline modes and the end of digital preorders [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+### 9. Feeling restless? Level up your life by starting a side quest [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
 
-Yeah, it's happened again: some GTA 6 bits appear to have leaked. I'm not going to link to any of them for I hope obvious reasons, as well as the fact I don't want John Rockstar to send me an email wagging their virtual finger at me.
+Feeling restless in life? Level up your main quest with an activity that has no other purpose than to add whimsy to your life. Play experts share tips on how to find the perfect side quest.
 
-Link: https://www.rockpapershotgun.com/gta-6-footage-once-again-appears-to-leak-online-this-time-because-of-a-group-that-wants-games-like-the-crew-to-have-offline-modes-and-the-end-of-digital-preorders
-
-### 8. Pentagon threatens to cut federal funding to 30 universities over foreign academic partnerships [9/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Harvard, Yale, Stanford and others face directive to review and cut alliances Pentagon deems national security risk Thirty US universities could lose federal funding unless they review and cut foreign academic partnerships the Pentagon…
-
-Link: https://www.theguardian.com/us-news/2026/aug/18/pentagon-funding-colleges-harvard
-
-### 9. ‘Evil Dead Rise’ Star Alyssa Sutherland Battles A Sinister Creature In ‘The Room Below’ Trailer [9/10]
-**Source:** Bloody Disgusting  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-Evil Dead Rise breakout Alyssa Sutherland taps into her darkside once more in the trailer for psychological creature horror The Room Below. Uncork’d Entertainment will release The Room Below on Digital and VOD on September 1.
-
-Link: https://bloody-disgusting.com/movie/3964257/evil-dead-rise-star-alyssa-sutherland-battles-a-sinister-creature-in-the-room-below-trailer/
+Link: https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest
 
 ### 10. Trump administration launches $5B AI initiative aimed at advancing science [8/10]
 **Source:** NPR Tech  
@@ -132,16 +132,7 @@ A thing that always tickles me in a particular way is when a game takes a belove
 
 Link: https://www.rockpapershotgun.com/clipmatrix-is-a-counter-strike-like-bunny-hopping-platforming-romp-through-surreal-and-industrial-locales
 
-### 12. Are you scrolling, instead of sleeping again? Here's when it may be an addiction [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Claims that Meta made its platforms addictive are now being tested in court. But what separates a bad scrolling habit from an addiction, and what can people do about it?
-
-Link: https://www.npr.org/2026/08/18/nx-s1-5936249/are-you-scrolling-instead-of-sleeping-again-heres-when-it-may-be-an-addiction
-
-### 13. Anthropic’s Text Watermarking Proves AI Companies Do Not Care at All About Writing [8/10]
+### 12. Anthropic’s Text Watermarking Proves AI Companies Do Not Care at All About Writing [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -149,6 +140,15 @@ Link: https://www.npr.org/2026/08/18/nx-s1-5936249/are-you-scrolling-instead-of-
 AI companies see words as interchangeable and have zero clue how to judge the “quality” of writing.
 
 Link: https://www.404media.co/anthropics-text-watermarking-proves-ai-companies-do-not-care-at-all-about-writing/
+
+### 13. Revealing Bloodsick by Adam Cesare [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+A YA vampire novel arriving January 2027 The post Revealing Bloodsick by Adam Cesare appeared first on Reactor .
+
+Link: https://reactormag.com/cover-reveal-and-excerpt-bloodsick-by-adam-cesare/
 
 ## YouTube
 
@@ -170,9 +170,9 @@ Professor David Nutt joins WIRED to answer the internet’s burning questions ab
 
 Link: https://www.youtube.com/watch?v=GogFG5ci2KI
 
-### Kushner calls on Hamas to disarm after Gaza talks with Netanyahu [7/10]
+### Kushner calls on Hamas to disarm after Gaza talks with Netanyahu [6/10]
 **Creator:** NPR  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Relevant to your current interest graph.
 
 President Trump’s son-in-law and special envoy Jared Kushner has held back-to-back discussions with leaders of Hamas and Israeli Prime Minister Benjamin Netanyahu. NPR's Daniel Estrin has the latest from the Middle East.
@@ -251,9 +251,9 @@ Link: https://www.youtube.com/watch?v=l9sQDdIaaEA
 
 Link: https://www.youtube.com/watch?v=OB9uiI0U6Q8
 
-### Protecting the Cosmos in Everspace 2 w/ Nick and KC [8/10]
+### Protecting the Cosmos in Everspace 2 w/ Nick and KC [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by EVERSPACE 2, a fast-paced single-player space shooter where vicious encounters and brutal challenges stand between you and that next epic loot drop.
@@ -370,6 +370,15 @@ The Ramayana Trailer. This is where the EPIC BEGINS. 🏹 Namit Malhotra's Ramay
 
 Link: https://www.youtube.com/watch?v=1zip1rNaNYs
 
+### Club Kid | Official Trailer HD | A24 [8/10]
+**Source:** A24  
+**Verdict:** Looks promising  
+**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
+
+SUBSCRIBE: http://bit.ly/A24subscribe From writer-director-star Jordan Firstman alongside Reggie Absolom, Cara Delevingne, and Diego Calva. CLUB KID – Coming Soon.
+
+Link: https://www.youtube.com/watch?v=guKEdb_iRXw
+
 ### Primetime | Official Trailer HD | A24 [8/10]
 **Source:** A24  
 **Verdict:** Looks promising  
@@ -450,6 +459,15 @@ Link: https://www.youtube.com/watch?v=eBQSMnL__Es
 Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21.
 
 Link: https://www.youtube.com/watch?v=bHehvziDKBI
+
+### Jo Koy: Blue in the Face | Sneak Peek | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Filmed in front of a sold out crowd in Stockton, California, Jo Koy relives a wild dental disaster, recounts getting fired from McDonald's and celebrates his veteran stepdad in this hilariously heartfelt special.
+
+Link: https://www.youtube.com/watch?v=UIUITdkLMXs
 
 ### years' worth of memories right here #OuterBanks [9/10]
 **Source:** Netflix  
@@ -559,14 +577,14 @@ In Season Four of The Diplomat, two marriages threaten to eat each other alive. 
 
 Link: https://www.youtube.com/watch?v=NjA5n52ZbT0
 
-### The man in the billboard is out! And he's ready to answer your questions. #TheLastHouse [9/10]
-**Source:** Netflix  
+### Oh, great. Even more stupid humans.Your first look at the cast of #Murderbot Season 2. [10/10]
+**Source:** Apple TV  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
 
-The man in THE LAST HOUSE billboard is out! And he's ready to answer your questions. Watch on Netflix: https://www.netflix.
+Murderbot — All episodes now streaming on Apple TV https://apple.co/_murderbot In a high-tech future, a rogue security robot (Alexander Skarsgård) secretly gains free will.
 
-Link: https://www.youtube.com/watch?v=j34nOeu-dtE
+Link: https://www.youtube.com/watch?v=UEWlTZl_mzk
 
 ### Slow Horses — Season 6 Official Trailer | Apple TV [9/10]
 **Source:** Apple TV  
