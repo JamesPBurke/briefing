@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-18T18:00:52.881450Z
+Generated: 2026-08-19T05:00:02.202922Z
 
-Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are Samsung’s Galaxy Buds 3 Pro are almost half off today, Teenager dies after falling in abandoned high-rise tower in New Orleans, and ABC sues the FCC over Trump and Carr’s campaign of threats.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Pentagon threatens to cut federal funding to 30 universities over foreign academic partnerships, OpenAI lays out new security changes after its AI hacked Hugging Face, and Californians Voted to Spend $1 Billion on K-12 Arts. Why Are Schools Returning the Money?.
 
 ## Briefing
 
@@ -33,97 +33,70 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Samsung’s Galaxy Buds 3 Pro are almost half off today [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99.
-
-Link: https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale
-
-### 2. Teenager dies after falling in abandoned high-rise tower in New Orleans [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Jacque St Ann, 17, and his friends broke into Plaza Tower and he fell as they were descending an interior staircase A high school student recently fell to his death after entering an abandoned high-rise tower in downtown New Orleans with…
-
-Link: https://www.theguardian.com/us-news/2026/aug/18/teen-dies-abandoned-high-rise-new-orleans
-
-### 3. ABC sues the FCC over Trump and Carr’s campaign of threats [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-ABC is suing the Federal Communications Commission over claims the agency "waged a retaliatory campaign" against its networks over the content they broadcast.
-
-Link: https://www.theverge.com/streaming/981392/abc-fcc-broadcast-license-lawsuit
-
-### 4. Peacock raises prices by 18 percent after becoming profitable [10/10]
-**Source:** Ars Technica  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Peacock's quarterly profitability isn't guaranteed.
-
-Link: https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/
-
-### 5. Opinion: For Children Who Think Differently, Chess Can Be More Than a Game [10/10]
-**Source:** The 74  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-I did not come to chess as a grandmaster, a coach or someone trying to raise the next great prodigy. I came to it first as a father.
-
-Link: https://www.the74million.org/article/for-children-who-think-differently-chess-can-be-more-than-a-game/
-
-### 6. Penn State students accused of running cocaine-trafficking ring at fraternity houses [10/10]
-**Source:** The Guardian US  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-Delta Upsilon and Sigma Chi were off campus, with Delta Upsilon placed on interim probation More than a dozen Penn State University students ran a cocaine-trafficking ring that cut and packaged the potent drug mainly at two fraternity…
-
-Link: https://www.theguardian.com/us-news/2026/aug/18/penn-state-cocaine-trafficking-ring
-
-### 7. Peacock is raising prices by up to $3 [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Peacock is raising prices across its streaming plans once again, with the company's cheapest ad-supported Select tier going from $7.99 to $8.99 / month, as reported earlier by Variety. The Premium plan with ads is increasing from $10.
-
-Link: https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026
-
-### 8. Oklahoma Students Head Back to School With Focus on Literacy [10/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-OKLAHOMA CITY — Hundreds of thousands of Oklahoma children returned to school this week for their first academic year under strict new literacy laws. It will be their final school year before reading scores carry even higher stakes.
-
-Link: https://www.the74million.org/article/oklahoma-students-head-back-to-school-with-focus-on-literacy/
-
-### 9. Fairphone's latest repairable phone is finally available in the US for $650 [9/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Fairphone sells components like the USB port and screen, all swappable with a single torx driver.
-
-Link: https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/
-
-### 10. I’m 50 years old. Why do I still struggle with the need to be liked? [9/10]
+### 1. Pentagon threatens to cut federal funding to 30 universities over foreign academic partnerships [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-An over-investment in people-pleasing can be emotionally costly. Here’s how I’m training myself to be OK with letting people down A few months ago, my 10-year-old daughter and I went to our neighborhood cafe.
+Harvard, Yale, Stanford and others face directive to review and cut alliances Pentagon deems national security risk Thirty US universities could lose federal funding unless they review and cut foreign academic partnerships the Pentagon…
 
-Link: https://www.theguardian.com/wellness/2026/aug/18/people-pleasing-struggle-sexism
+Link: https://www.theguardian.com/us-news/2026/aug/18/pentagon-funding-colleges-harvard
 
-### 11. She told no one about her agony except ChatGPT. What her death reveals about AI risks [9/10]
+### 2. OpenAI lays out new security changes after its AI hacked Hugging Face [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack
+
+### 3. Californians Voted to Spend $1 Billion on K-12 Arts. Why Are Schools Returning the Money? [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+Three years after voters passed an ambitious arts education funding measure, California’s K-12 schools were supposed to be awash in dance, music, theater and fine arts.
+
+Link: https://www.the74million.org/article/californians-voted-to-spend-1-billion-on-k-12-arts-why-are-schools-returning-the-money/
+
+### 4. The Download: how people really use AI, and Flock’s design choices [10/10]
+**Source:** MIT Technology Review  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+Link: https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/
+
+### 5. Tupac Shakur trial: lawyers share full account of killing as witnesses still refuse to testify [9/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+Murder trial of Duane ‘Keffe D’ Davis, 63, former South Side Compton Crips gang leader, opens in Las Vegas For nearly 30 years, the unsolved murder of 25-year-old rapper Tupac Shakur has sparked lawsuits , theories and conspiracies .
+
+Link: https://www.theguardian.com/music/2026/aug/18/tupac-shakur-trial-day-one
+
+### 6. Democratic socialist Angie Nixon clinches surprise primary win in Florida US Senate race [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Nixon bested Alexander Vindman to win Democratic nomination and now faces Republican Ashley Moody in November Trump-backed Byron Donalds wins Republican primary in race to succeed Florida governor DeSantis In an upset for the Democratic…
+
+Link: https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results
+
+### 7. GTA 6 footage once again appears to leak online, this time because of a group that wants games like The Crew to have offline modes and the end of digital preorders [9/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Yeah, it's happened again: some GTA 6 bits appear to have leaked. I'm not going to link to any of them for I hope obvious reasons, as well as the fact I don't want John Rockstar to send me an email wagging their virtual finger at me.
+
+Link: https://www.rockpapershotgun.com/gta-6-footage-once-again-appears-to-leak-online-this-time-because-of-a-group-that-wants-games-like-the-crew-to-have-offline-modes-and-the-end-of-digital-preorders
+
+### 8. She told no one about her agony except ChatGPT. What her death reveals about AI risks [9/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
@@ -132,7 +105,25 @@ A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to h
 
 Link: https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health
 
-### 12. 'Profits won.' The child safety trial against Meta kicks off in federal court [8/10]
+### 9. Survey: 5 Ways AI Is Cutting Into Students’ Ability to Learn [9/10]
+**Source:** The 74  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Over the past four years, generative artificial intelligence has quietly colonized the minds of U.S. adolescents, changing the way they learn.
+
+Link: https://www.the74million.org/article/survey-5-ways-ai-is-cutting-into-students-ability-to-learn/
+
+### 10. Clipmatrix is a Counter-Strike-like, bunny hopping, platforming romp through surreal and industrial locales [8/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Security / computing  
+**Why it matters:** Relevant to systems, infrastructure, and technical risk.
+
+A thing that always tickles me in a particular way is when a game takes a beloved mechanic from an iconic game that doesn't technically exist. By not existing I'm talking about something like wavedashing in Super Smash Bros. Melee.
+
+Link: https://www.rockpapershotgun.com/clipmatrix-is-a-counter-strike-like-bunny-hopping-platforming-romp-through-surreal-and-industrial-locales
+
+### 11. 'Profits won.' The child safety trial against Meta kicks off in federal court [8/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -141,7 +132,7 @@ Opening arguments are underway in a trial that pits four states against the comp
 
 Link: https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening
 
-### 13. Anthropic’s Text Watermarking Proves AI Companies Do Not Care at All About Writing [8/10]
+### 12. Anthropic’s Text Watermarking Proves AI Companies Do Not Care at All About Writing [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
@@ -149,3 +140,81 @@ Link: https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-medi
 AI companies see words as interchangeable and have zero clue how to judge the “quality” of writing.
 
 Link: https://www.404media.co/anthropics-text-watermarking-proves-ai-companies-do-not-care-at-all-about-writing/
+
+### 13. Heated Rivalry Author Rachel Reid Helps Save Five Libraries in Nova Scotia [6/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+“I had to do it because I don’t know what the point is of being a successful author in Nova Scotia if you’re not going to use it for good.
+
+Link: https://reactormag.com/heated-rivalry-author-rachel-reid-save-libraries/
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+### Slow Horses — Season 6 Official Trailer | Apple TV [9/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Season 6 premieres September 16, 2026. https://apple.
+
+Link: https://www.youtube.com/watch?v=mZbJxpYHLuI
+
+### Silo — Lukas and Kennedy Go Out | Season 3 Scene | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.
+
+Link: https://www.youtube.com/watch?v=wQEFHXhP_jk
+
+### Slow Horses — Jackson Lamb Refreshes Your Memory | Apple TV [9/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Season 6 premieres September 16, 2026. https://apple.
+
+Link: https://www.youtube.com/watch?v=Xw08JnpjSfE
+
+### Widow's Bay — A Night at Hollywood Forever Cemetery | Apple TV [10/10]
+**Source:** Apple TV  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+A comedy-horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.co/_WidowsBay No qualms about this sunset screening.
+
+Link: https://www.youtube.com/watch?v=Cr8RZP-opO4

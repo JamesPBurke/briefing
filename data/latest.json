@@ -1,109 +1,79 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-18T18:00:52.881450Z",
-  "generatedAtDisplay": "2026-08-18 02:00 PM EDT",
+  "generatedAt": "2026-08-19T05:00:02.202922Z",
+  "generatedAtDisplay": "2026-08-19 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, CS education / AI policy, AI / privacy. The strongest items in this run are Samsung’s Galaxy Buds 3 Pro are almost half off today, Teenager dies after falling in abandoned high-rise tower in New Orleans, and ABC sues the FCC over Trump and Carr’s campaign of threats.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, AI / computing. The strongest items in this run are Pentagon threatens to cut federal funding to 30 universities over foreign academic partnerships, OpenAI lays out new security changes after its AI hacked Hugging Face, and Californians Voted to Spend $1 Billion on K-12 Arts. Why Are Schools Returning the Money?.",
   "mainItems": [
     {
-      "title": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
-      "published": "2026-08-18T17:47:04+00:00",
-      "summary": "If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Teenager dies after falling in abandoned high-rise tower in New Orleans",
+      "title": "Pentagon threatens to cut federal funding to 30 universities over foreign academic partnerships",
       "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/aug/18/teen-dies-abandoned-high-rise-new-orleans",
-      "published": "2026-08-18T17:31:30+00:00",
-      "summary": "Jacque St Ann, 17, and his friends broke into Plaza Tower and he fell as they were descending an interior staircase A high school student recently fell to his death after entering an abandoned high-rise tower in downtown New Orleans with…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/pentagon-funding-colleges-harvard",
+      "published": "2026-08-18T20:01:35+00:00",
+      "summary": "Harvard, Yale, Stanford and others face directive to review and cut alliances Pentagon deems national security risk Thirty US universities could lose federal funding unless they review and cut foreign academic partnerships the Pentagon…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "ABC sues the FCC over Trump and Carr’s campaign of threats",
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
       "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/streaming/981392/abc-fcc-broadcast-license-lawsuit",
-      "published": "2026-08-18T16:50:46+00:00",
-      "summary": "ABC is suing the Federal Communications Commission over claims the agency \"waged a retaliatory campaign\" against its networks over the content they broadcast.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "published": "2026-08-18T19:28:30+00:00",
+      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
       "score": 10
     },
     {
-      "title": "Peacock raises prices by 18 percent after becoming profitable",
-      "source": "Ars Technica",
-      "category": "Democracy / press freedom",
-      "url": "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/",
-      "published": "2026-08-18T16:42:30+00:00",
-      "summary": "Peacock's quarterly profitability isn't guaranteed.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Opinion: For Children Who Think Differently, Chess Can Be More Than a Game",
-      "source": "The 74",
-      "category": "Democracy / press freedom",
-      "url": "https://www.the74million.org/article/for-children-who-think-differently-chess-can-be-more-than-a-game/",
-      "published": "2026-08-18T16:30:00+00:00",
-      "summary": "I did not come to chess as a grandmaster, a coach or someone trying to raise the next great prodigy. I came to it first as a father.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Penn State students accused of running cocaine-trafficking ring at fraternity houses",
-      "source": "The Guardian US",
-      "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/aug/18/penn-state-cocaine-trafficking-ring",
-      "published": "2026-08-18T16:07:03+00:00",
-      "summary": "Delta Upsilon and Sigma Chi were off campus, with Delta Upsilon placed on interim probation More than a dozen Penn State University students ran a cocaine-trafficking ring that cut and packaged the potent drug mainly at two fraternity…",
-      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
-    },
-    {
-      "title": "Peacock is raising prices by up to $3",
-      "source": "The Verge",
-      "category": "Democracy / press freedom",
-      "url": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026",
-      "published": "2026-08-18T14:54:47+00:00",
-      "summary": "Peacock is raising prices across its streaming plans once again, with the company's cheapest ad-supported Select tier going from $7.99 to $8.99 / month, as reported earlier by Variety. The Premium plan with ads is increasing from $10.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "Oklahoma Students Head Back to School With Focus on Literacy",
+      "title": "Californians Voted to Spend $1 Billion on K-12 Arts. Why Are Schools Returning the Money?",
       "source": "The 74",
       "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/oklahoma-students-head-back-to-school-with-focus-on-literacy/",
-      "published": "2026-08-18T14:30:00+00:00",
-      "summary": "OKLAHOMA CITY — Hundreds of thousands of Oklahoma children returned to school this week for their first academic year under strict new literacy laws. It will be their final school year before reading scores carry even higher stakes.",
+      "url": "https://www.the74million.org/article/californians-voted-to-spend-1-billion-on-k-12-arts-why-are-schools-returning-the-money/",
+      "published": "2026-08-18T18:30:00+00:00",
+      "summary": "Three years after voters passed an ambitious arts education funding measure, California’s K-12 schools were supposed to be awash in dance, music, theater and fine arts.",
       "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
       "score": 10
     },
     {
-      "title": "Fairphone's latest repairable phone is finally available in the US for $650",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/",
-      "published": "2026-08-18T16:05:00+00:00",
-      "summary": "Fairphone sells components like the USB port and screen, all swappable with a single torx driver.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "title": "The Download: how people really use AI, and Flock’s design choices",
+      "source": "MIT Technology Review",
+      "category": "Democracy / press freedom",
+      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "published": "2026-08-18T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Tupac Shakur trial: lawyers share full account of killing as witnesses still refuse to testify",
+      "source": "The Guardian US",
+      "category": "AI / privacy",
+      "url": "https://www.theguardian.com/music/2026/aug/18/tupac-shakur-trial-day-one",
+      "published": "2026-08-19T00:46:02+00:00",
+      "summary": "Murder trial of Duane ‘Keffe D’ Davis, 63, former South Side Compton Crips gang leader, opens in Las Vegas For nearly 30 years, the unsolved murder of 25-year-old rapper Tupac Shakur has sparked lawsuits , theories and conspiracies .",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
       "score": 9
     },
     {
-      "title": "I’m 50 years old. Why do I still struggle with the need to be liked?",
+      "title": "Democratic socialist Angie Nixon clinches surprise primary win in Florida US Senate race",
       "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/wellness/2026/aug/18/people-pleasing-struggle-sexism",
-      "published": "2026-08-18T16:00:49+00:00",
-      "summary": "An over-investment in people-pleasing can be emotionally costly. Here’s how I’m training myself to be OK with letting people down A few months ago, my 10-year-old daughter and I went to our neighborhood cafe.",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results",
+      "published": "2026-08-19T00:26:21+00:00",
+      "summary": "Nixon bested Alexander Vindman to win Democratic nomination and now faces Republican Ashley Moody in November Trump-backed Byron Donalds wins Republican primary in race to succeed Florida governor DeSantis In an upset for the Democratic…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 9
+    },
+    {
+      "title": "GTA 6 footage once again appears to leak online, this time because of a group that wants games like The Crew to have offline modes and the end of digital preorders",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/gta-6-footage-once-again-appears-to-leak-online-this-time-because-of-a-group-that-wants-games-like-the-crew-to-have-offline-modes-and-the-end-of-digital-preorders",
+      "published": "2026-08-18T20:31:08+00:00",
+      "summary": "Yeah, it's happened again: some GTA 6 bits appear to have leaked. I'm not going to link to any of them for I hope obvious reasons, as well as the fact I don't want John Rockstar to send me an email wagging their virtual finger at me.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
       "score": 9
     },
     {
@@ -115,6 +85,26 @@
       "summary": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9
+    },
+    {
+      "title": "Survey: 5 Ways AI Is Cutting Into Students’ Ability to Learn",
+      "source": "The 74",
+      "category": "CS education / AI policy",
+      "url": "https://www.the74million.org/article/survey-5-ways-ai-is-cutting-into-students-ability-to-learn/",
+      "published": "2026-08-18T09:00:00+00:00",
+      "summary": "Over the past four years, generative artificial intelligence has quietly colonized the minds of U.S. adolescents, changing the way they learn.",
+      "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
+      "score": 9
+    },
+    {
+      "title": "Clipmatrix is a Counter-Strike-like, bunny hopping, platforming romp through surreal and industrial locales",
+      "source": "Rock Paper Shotgun",
+      "category": "Security / computing",
+      "url": "https://www.rockpapershotgun.com/clipmatrix-is-a-counter-strike-like-bunny-hopping-platforming-romp-through-surreal-and-industrial-locales",
+      "published": "2026-08-18T21:52:28+00:00",
+      "summary": "A thing that always tickles me in a particular way is when a game takes a beloved mechanic from an iconic game that doesn't technically exist. By not existing I'm talking about something like wavedashing in Super Smash Bros. Melee.",
+      "whyItMatters": "Relevant to systems, infrastructure, and technical risk.",
+      "score": 8
     },
     {
       "title": "'Profits won.' The child safety trial against Meta kicks off in federal court",
@@ -135,10 +125,65 @@
       "summary": "AI companies see words as interchangeable and have zero clue how to judge the “quality” of writing.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
+    },
+    {
+      "title": "Heated Rivalry Author Rachel Reid Helps Save Five Libraries in Nova Scotia",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/heated-rivalry-author-rachel-reid-save-libraries/",
+      "published": "2026-08-18T20:13:58+00:00",
+      "summary": "“I had to do it because I don’t know what the point is of being a successful author in Nova Scotia if you’re not going to use it for good.",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 6
     }
   ],
   "youtube": [],
-  "trailers": [],
+  "trailers": [
+    {
+      "title": "Slow Horses — Season 6 Official Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=mZbJxpYHLuI",
+      "published": "2026-08-18T12:59:53+00:00",
+      "summary": "This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Season 6 premieres September 16, 2026. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Silo — Lukas and Kennedy Go Out | Season 3 Scene | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=wQEFHXhP_jk",
+      "published": "2026-08-17T22:59:48+00:00",
+      "summary": "Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Slow Horses — Jackson Lamb Refreshes Your Memory | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Xw08JnpjSfE",
+      "published": "2026-08-14T22:59:55+00:00",
+      "summary": "This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Season 6 premieres September 16, 2026. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Widow's Bay — A Night at Hollywood Forever Cemetery | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Cr8RZP-opO4",
+      "published": "2026-08-14T20:28:25+00:00",
+      "summary": "A comedy-horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.co/_WidowsBay No qualms about this sunset screening.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -251,7 +296,7 @@
   "stats": {
     "mainCount": 13,
     "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 7
+    "trailerCount": 4,
+    "sourceCount": 10
   }
 }
