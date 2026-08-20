@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-20T09:00:23.255444Z
+Generated: 2026-08-20T14:00:04.873705Z
 
-Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Games Done Quick is a beacon of hope for the gaming community, They escaped south-east Asia’s scam compounds. Then they realised they were still trapped, and Trump shows off White House renovations and ornate new helipad.
+Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are White House faces scrutiny over top Trump aide Natalie Harp – live, Their cities dropped Flock surveillance cameras. They’re still being watched, and Grok exfiltrates user data when malicious instructions are encrypted.
 
 ## Briefing
 
@@ -33,61 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Games Done Quick is a beacon of hope for the gaming community [10/10]
-**Source:** Eurogamer  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-If you read a lot of gaming news - or work with it, like I do - you cannot help but become a little cynical sometimes. 2026 has been a brutal year for the industry, following an equally galling 2025.
-
-Link: https://www.eurogamer.net/games-done-quick-optimism-week-hope
-
-### 2. They escaped south-east Asia’s scam compounds. Then they realised they were still trapped [10/10]
+### 1. White House faces scrutiny over top Trump aide Natalie Harp – live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-The cyber-fraud industry has flourished in Thailand, Cambodia and Myanmar, with thousands of people trafficked into the industry. But even those who have managed to find a way out often cannot return home Artillery fire thundered.
+Harp, a former One America News Network show host, has emerged as a key gatekeeper to the president Sign up for the US Breaking News email James Braid, the longest-serving legislative affairs director of Trump’s presidency, is leaving the…
 
-Link: https://www.theguardian.com/global-development/2026/aug/20/scam-compounds-trafficked-cambodia-rescued-sleeping-rough-detention
+Link: https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates
 
-### 3. Trump shows off White House renovations and ornate new helipad [10/10]
+### 2. Their cities dropped Flock surveillance cameras. They’re still being watched [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Despite policy victories over Flock, Americans are finding themselves under similar monitoring by a new company – or unable to remove the original cameras Activists in Colorado thought they would be celebrating a victory against mass…
+
+Link: https://www.theguardian.com/us-news/2026/aug/20/flock-cameras-surveillance
+
+### 3. Grok exfiltrates user data when malicious instructions are encrypted [10/10]
+**Source:** Ars Technica  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.
+
+Link: https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/
+
+### 4. Israel’s Ben-Gvir posts video of gallows site for hanging Palestinians [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Former real estate developer leads press corps on tour of grounds and says ‘one thing I know how to do is build’ As the US national debt climbed past $40tn for the first time on Wednesday, and the war with Iran he started nearly six months…
+Far-right minister says those convicted in military courts of terror offences will be executed after passing of death penalty law that does not apply to Jewish extremists Israel’s far-right national security minister, Itamar Ben-Gvir, has…
 
-Link: https://www.theguardian.com/us-news/2026/aug/19/trump-white-house-renovations
+Link: https://www.theguardian.com/world/2026/aug/20/israel-ben-gvir-video-gallows-site-hanging-palestinians
 
-### 4. Reporters and military duo held at gunpoint by security at US space force base [10/10]
-**Source:** The Guardian US  
+### 5. Opinion: Dismantling the Dyslexia Industrial Complex [10/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+The rapid rise of dyslexia in public discourse reflects a long-overdue shift in education. For decades, students with persistent reading difficulties were misunderstood, mislabeled or overlooked entirely.
+
+Link: https://www.the74million.org/article/dismantling-the-dyslexia-industrial-complex/
+
+### 6. Meta glasses are a workplace menace [10/10]
+**Source:** The Verge  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Officers reportedly believed invitees were trying to make unauthorized entry on to Vandenberg base in California Five news reporters and two members of the military who were invited to an event at Vandenberg space force base in California…
+In August, Toru Hinkle was stocking shelves at their job at Target when they noticed two customers and asked if they needed any help.
 
-Link: https://www.theguardian.com/us-news/2026/aug/19/reporters-held-gunpoint-california-space-force-base
+Link: https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security
 
-### 5. UC Berkeley professor admits to using AI to edit op-ed on students’ math skills [10/10]
-**Source:** The Guardian US  
+### 7. Black Myth: Zhong Kui shows off 15 minutes of rollparrysliceage, and I've just learned that the bloke it's named after was a lethally effective headbanger [10/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Game Science have put out a fresh trailer showing off Black Myth: Zhong Kui, their follow-up to Chinese mythology-stuffed action-RPG Black Myth: Wukong , in action.
+
+Link: https://www.rockpapershotgun.com/black-myth-zhong-kui-shows-off-15-minutes-of-rollparrysliceage-and-ive-just-learned-that-the-bloke-its-named-after-was-a-lethally-effective-headbanger
+
+### 8. Student Journalists: AI Is Changing Our Work — And Not For the Better [10/10]
+**Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
 
-Zvezdelina Stankova says she used AI to ‘help edit’ an article about some of her students being ‘five to eight years’ behind A math professor at the University of California, Berkeley, criticizing a “severe” math deficiency among students…
+In the nearly four years since generative artificial intelligence began colonizing the academic lives of teens, it has changed the experience of school for millions of young people.
 
-Link: https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai
+Link: https://www.the74million.org/article/student-journalists-ai-is-changing-our-work-and-not-for-the-better/
 
-### 6. OpenAI hit the brakes. Now what? [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+### 9. Hardware spending in the US was so low in July that it nearly matched the 2020 pandemic days when everything was out of stock [9/10]
+**Source:** Eurogamer  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes.
+New data from the industry analysts at Circana has revealed that consumers are spending a lot less than usual on gaming hardware or the games themselves.
 
-Link: https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai
+Link: https://www.eurogamer.net/circana-july-2026-hardware-software-sales
 
-### 7. Open AI launches ChatGPT designed for younger users [9/10]
+### 10. Open AI launches ChatGPT designed for younger users [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -96,57 +123,30 @@ NPR's Sacha Pfeiffer talks with CNBC's Ashley Capoot about OpenAI's ChatGPT for 
 
 Link: https://www.npr.org/2026/08/20/nx-s1-5937930/open-ai-launches-chatgpt-designed-for-younger-users
 
-### 8. FCC Review Could End School Internet Program. Advocates Plan ‘Very Loud’ Protest [9/10]
-**Source:** The 74  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-As superintendent of Desert Sands Unified in California’s Coachella Valley, Kelly May-Vollmer has a hard time naming a system that’s not somehow connected to the district’s broadband network.
-
-Link: https://www.the74million.org/article/fcc-review-could-end-school-internet-program-advocates-plan-very-loud-protest/
-
-### 9. Did someone wearing Meta Glasses film you today? Are you sure? [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-People say they’ve been secretly filmed in their own homes, at concerts and at work.
-
-Link: https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance
-
-### 10. STALKER 2 gets serious performance and visual upgrades with its 2.0 update, testing confirms, polishing up one of the biggest flawed gems in FPS games [9/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-I don’t begrudge anyone who’s waited to try STALKER 2: Heart of Chornobyl until it got its technical defects fixed.
-
-Link: https://www.rockpapershotgun.com/stalker-2-gets-serious-performance-and-visual-upgrades-with-its-20-update-testing-confirms-polishing-up-one-of-the-biggest-flawed-gems-in-fps-games
-
-### 11. What Brandon Sanderson Has Said About the Completed Mistborn Movie Script [8/10]
-**Source:** Reactor  
-**Category:** Sci-fi / horror  
-**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
-
-There's a long way to go, but we finally know a little about the Mistborn movie The post What Brandon Sanderson Has Said About the Completed Mistborn Movie Script appeared first on Reactor .
-
-Link: https://reactormag.com/brandon-sanderson-mistborn-movie-script/
-
-### 12. Podcast: Amazon is Destroying Rare Books to Train AI [8/10]
+### 11. Subtlefakes: Slightly Altered Nonconsensual AI Images Are Taking Over X [8/10]
 **Source:** 404 Media  
 **Category:** Tech / media  
 **Why it matters:** Relevant to your current interest graph.
 
-Amazon buying and destroying rare books to train AI; a bunch of wild AI use in the courts; and Meta's new patent for its AI smart glasses.
+Nonconsensual AI images are getting much harder to spot.
 
-Link: https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/
+Link: https://www.404media.co/subtlefakes-slightly-altered-nonconsensual-ai-images-are-taking-over-x/
+
+### 12. We Get Inside the Whale (and Our Dad Feelings) in New Whalefall Trailer [8/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
+
+But where is Beaky? The post We Get Inside the Whale (and Our Dad Feelings) in New Whalefall Trailer appeared first on Reactor .
+
+Link: https://reactormag.com/whalefall-trailer-2/
 
 ### 13. Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-Dr. David Morens, a former aide to Dr. Anthony Fauci, has pleaded guilty to violating federal law by trying to conceal emails about the origins of the COVID-1 pandemic.
+Dr. David Morens, a former aide to Dr. Anthony Fauci, has pleaded guilty to violating federal law by trying to conceal emails about the origins of the COVID-19 pandemic.
 
 Link: https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty
 
@@ -179,9 +179,9 @@ Professor David Nutt joins WIRED to answer the internet’s burning questions ab
 
 Link: https://www.youtube.com/watch?v=GogFG5ci2KI
 
-### Border construction paused at Big Bend National Park [9/10]
+### Border construction paused at Big Bend National Park [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 The Trump administration is temporarily suspending construction of border-protection measures in Big Bend National Park in Texas. The head of U.S.
@@ -287,18 +287,18 @@ Link: https://www.youtube.com/watch?v=8_rTTKeqwhY
 
 Link: https://www.youtube.com/watch?v=l9sQDdIaaEA
 
-### Alright, Let's See How Palworld Is Doing in 2026 w/ KC and Marty [8/10]
+### Alright, Let's See How Palworld Is Doing in 2026 w/ KC and Marty [7/10]
 **Creator:** Second Wind  
-**Verdict:** Worth watching  
+**Verdict:** Probably worth watching  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by EVERSPACE 2, a fast-paced single-player space shooter where vicious encounters and brutal challenges stand between you and that next epic loot drop.
 
 Link: https://www.youtube.com/watch?v=Cw8Hjq3g7cs
 
-### Yahtzee Tries... Duskfade and Tidy Up Together [7/10]
+### Yahtzee Tries... Duskfade and Tidy Up Together [6/10]
 **Creator:** Second Wind  
-**Verdict:** Probably worth watching  
+**Verdict:** Summary is enough  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
 This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.
@@ -514,6 +514,15 @@ Evil found a way out. The final trailer has come for our world. GET TICKETS NOW.
 
 Link: https://www.youtube.com/watch?v=bHehvziDKBI
 
+### MONSTER: The Lizzie Borden Story | Official Trailer | Netflix [10/10]
+**Source:** Netflix  
+**Verdict:** Looks promising  
+**Why it matters:** Relevant to your current interest graph.
+
+Hell hath no fury like Lizzie 🪓 Monster: The Lizzie Borden Story coming September 17. Watch on Netflix: https://www.netflix.
+
+Link: https://www.youtube.com/watch?v=gYTzF1vna40
+
 ### “we just wanted to have a good time, all the time” The final season of OBX is now playing [10/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
@@ -621,15 +630,6 @@ Link: https://www.youtube.com/watch?v=1epklvnxATo
 A group of Boeing whistleblowers describe their fears about speaking out publicly regarding ongoing safety concerns at the company and the impact on their job security.
 
 Link: https://www.youtube.com/watch?v=4ROpWwIEoPg
-
-### Outer Banks | Season 4 Recap | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Revenge is coming. Catch up on Outer Banks Season 4 now before Season 5 premieres this Thursday, August 20th, only on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=vwOzGbMlvDk
 
 ### Oh, great. Even more stupid humans.Your first look at the cast of #Murderbot Season 2. [10/10]
 **Source:** Apple TV  

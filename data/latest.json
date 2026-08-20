@@ -1,70 +1,100 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-20T09:00:23.255444Z",
-  "generatedAtDisplay": "2026-08-20 05:00 AM EDT",
+  "generatedAt": "2026-08-20T14:00:04.873705Z",
+  "generatedAtDisplay": "2026-08-20 10:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Games Done Quick is a beacon of hope for the gaming community, They escaped south-east Asia’s scam compounds. Then they realised they were still trapped, and Trump shows off White House renovations and ornate new helipad.",
+  "summary": "Today's sweep leans toward Democracy / press freedom, AI / computing, Democracy / anti-fascism. The strongest items in this run are White House faces scrutiny over top Trump aide Natalie Harp – live, Their cities dropped Flock surveillance cameras. They’re still being watched, and Grok exfiltrates user data when malicious instructions are encrypted.",
   "mainItems": [
     {
-      "title": "Games Done Quick is a beacon of hope for the gaming community",
-      "source": "Eurogamer",
-      "category": "Democracy / press freedom",
-      "url": "https://www.eurogamer.net/games-done-quick-optimism-week-hope",
-      "published": "2026-08-20T09:00:00+00:00",
-      "summary": "If you read a lot of gaming news - or work with it, like I do - you cannot help but become a little cynical sometimes. 2026 has been a brutal year for the industry, following an equally galling 2025.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "They escaped south-east Asia’s scam compounds. Then they realised they were still trapped",
+      "title": "White House faces scrutiny over top Trump aide Natalie Harp – live",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/global-development/2026/aug/20/scam-compounds-trafficked-cambodia-rescued-sleeping-rough-detention",
-      "published": "2026-08-20T05:00:43+00:00",
-      "summary": "The cyber-fraud industry has flourished in Thailand, Cambodia and Myanmar, with thousands of people trafficked into the industry. But even those who have managed to find a way out often cannot return home Artillery fire thundered.",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
+      "published": "2026-08-20T13:13:01+00:00",
+      "summary": "Harp, a former One America News Network show host, has emerged as a key gatekeeper to the president Sign up for the US Breaking News email James Braid, the longest-serving legislative affairs director of Trump’s presidency, is leaving the…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "Trump shows off White House renovations and ornate new helipad",
+      "title": "Their cities dropped Flock surveillance cameras. They’re still being watched",
+      "source": "The Guardian US",
+      "category": "Democracy / press freedom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/20/flock-cameras-surveillance",
+      "published": "2026-08-20T13:00:53+00:00",
+      "summary": "Despite policy victories over Flock, Americans are finding themselves under similar monitoring by a new company – or unable to remove the original cameras Activists in Colorado thought they would be celebrating a victory against mass…",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "source": "Ars Technica",
+      "category": "AI / computing",
+      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "published": "2026-08-20T13:00:35+00:00",
+      "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "Israel’s Ben-Gvir posts video of gallows site for hanging Palestinians",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-white-house-renovations",
-      "published": "2026-08-20T01:51:37+00:00",
-      "summary": "Former real estate developer leads press corps on tour of grounds and says ‘one thing I know how to do is build’ As the US national debt climbed past $40tn for the first time on Wednesday, and the war with Iran he started nearly six months…",
+      "url": "https://www.theguardian.com/world/2026/aug/20/israel-ben-gvir-video-gallows-site-hanging-palestinians",
+      "published": "2026-08-20T12:34:11+00:00",
+      "summary": "Far-right minister says those convicted in military courts of terror offences will be executed after passing of death penalty law that does not apply to Jewish extremists Israel’s far-right national security minister, Itamar Ben-Gvir, has…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "Reporters and military duo held at gunpoint by security at US space force base",
-      "source": "The Guardian US",
+      "title": "Opinion: Dismantling the Dyslexia Industrial Complex",
+      "source": "The 74",
+      "category": "Education / pedagogy",
+      "url": "https://www.the74million.org/article/dismantling-the-dyslexia-industrial-complex/",
+      "published": "2026-08-20T12:30:00+00:00",
+      "summary": "The rapid rise of dyslexia in public discourse reflects a long-overdue shift in education. For decades, students with persistent reading difficulties were misunderstood, mislabeled or overlooked entirely.",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Meta glasses are a workplace menace",
+      "source": "The Verge",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/19/reporters-held-gunpoint-california-space-force-base",
-      "published": "2026-08-20T00:41:12+00:00",
-      "summary": "Officers reportedly believed invitees were trying to make unauthorized entry on to Vandenberg base in California Five news reporters and two members of the military who were invited to an event at Vandenberg space force base in California…",
+      "url": "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security",
+      "published": "2026-08-20T12:24:03+00:00",
+      "summary": "In August, Toru Hinkle was stocking shelves at their job at Target when they noticed two customers and asked if they needed any help.",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
     {
-      "title": "UC Berkeley professor admits to using AI to edit op-ed on students’ math skills",
-      "source": "The Guardian US",
+      "title": "Black Myth: Zhong Kui shows off 15 minutes of rollparrysliceage, and I've just learned that the bloke it's named after was a lethally effective headbanger",
+      "source": "Rock Paper Shotgun",
+      "category": "Democracy / press freedom",
+      "url": "https://www.rockpapershotgun.com/black-myth-zhong-kui-shows-off-15-minutes-of-rollparrysliceage-and-ive-just-learned-that-the-bloke-its-named-after-was-a-lethally-effective-headbanger",
+      "published": "2026-08-20T12:00:00+00:00",
+      "summary": "Game Science have put out a fresh trailer showing off Black Myth: Zhong Kui, their follow-up to Chinese mythology-stuffed action-RPG Black Myth: Wukong , in action.",
+      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
+      "score": 10
+    },
+    {
+      "title": "Student Journalists: AI Is Changing Our Work — And Not For the Better",
+      "source": "The 74",
       "category": "CS education / AI policy",
-      "url": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
-      "published": "2026-08-20T00:35:11+00:00",
-      "summary": "Zvezdelina Stankova says she used AI to ‘help edit’ an article about some of her students being ‘five to eight years’ behind A math professor at the University of California, Berkeley, criticizing a “severe” math deficiency among students…",
+      "url": "https://www.the74million.org/article/student-journalists-ai-is-changing-our-work-and-not-for-the-better/",
+      "published": "2026-08-20T10:30:00+00:00",
+      "summary": "In the nearly four years since generative artificial intelligence began colonizing the academic lives of teens, it has changed the experience of school for millions of young people.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
       "score": 10
     },
     {
-      "title": "OpenAI hit the brakes. Now what?",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-      "published": "2026-08-19T17:10:09+00:00",
-      "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
+      "title": "Hardware spending in the US was so low in July that it nearly matched the 2020 pandemic days when everything was out of stock",
+      "source": "Eurogamer",
+      "category": "Games / criticism",
+      "url": "https://www.eurogamer.net/circana-july-2026-hardware-software-sales",
+      "published": "2026-08-20T13:05:12+00:00",
+      "summary": "New data from the industry analysts at Circana has revealed that consumers are spending a lot less than usual on gaming hardware or the games themselves.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9
     },
     {
       "title": "Open AI launches ChatGPT designed for younger users",
@@ -77,53 +107,23 @@
       "score": 9
     },
     {
-      "title": "FCC Review Could End School Internet Program. Advocates Plan ‘Very Loud’ Protest",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/fcc-review-could-end-school-internet-program-advocates-plan-very-loud-protest/",
-      "published": "2026-08-19T16:30:00+00:00",
-      "summary": "As superintendent of Desert Sands Unified in California’s Coachella Valley, Kelly May-Vollmer has a hard time naming a system that’s not somehow connected to the district’s broadband network.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 9
-    },
-    {
-      "title": "Did someone wearing Meta Glasses film you today? Are you sure?",
-      "source": "The Guardian US",
-      "category": "AI / privacy",
-      "url": "https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance",
-      "published": "2026-08-19T14:13:08+00:00",
-      "summary": "People say they’ve been secretly filmed in their own homes, at concerts and at work.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 9
-    },
-    {
-      "title": "STALKER 2 gets serious performance and visual upgrades with its 2.0 update, testing confirms, polishing up one of the biggest flawed gems in FPS games",
-      "source": "Rock Paper Shotgun",
-      "category": "Games / criticism",
-      "url": "https://www.rockpapershotgun.com/stalker-2-gets-serious-performance-and-visual-upgrades-with-its-20-update-testing-confirms-polishing-up-one-of-the-biggest-flawed-gems-in-fps-games",
-      "published": "2026-08-19T13:30:00+00:00",
-      "summary": "I don’t begrudge anyone who’s waited to try STALKER 2: Heart of Chornobyl until it got its technical defects fixed.",
-      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 9
-    },
-    {
-      "title": "What Brandon Sanderson Has Said About the Completed Mistborn Movie Script",
-      "source": "Reactor",
-      "category": "Sci-fi / horror",
-      "url": "https://reactormag.com/brandon-sanderson-mistborn-movie-script/",
-      "published": "2026-08-19T21:50:09+00:00",
-      "summary": "There's a long way to go, but we finally know a little about the Mistborn movie The post What Brandon Sanderson Has Said About the Completed Mistborn Movie Script appeared first on Reactor .",
-      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "title": "Subtlefakes: Slightly Altered Nonconsensual AI Images Are Taking Over X",
+      "source": "404 Media",
+      "category": "Tech / media",
+      "url": "https://www.404media.co/subtlefakes-slightly-altered-nonconsensual-ai-images-are-taking-over-x/",
+      "published": "2026-08-20T13:34:23+00:00",
+      "summary": "Nonconsensual AI images are getting much harder to spot.",
+      "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     },
     {
-      "title": "Podcast: Amazon is Destroying Rare Books to Train AI",
-      "source": "404 Media",
-      "category": "Tech / media",
-      "url": "https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/",
-      "published": "2026-08-19T20:06:22+00:00",
-      "summary": "Amazon buying and destroying rare books to train AI; a bunch of wild AI use in the courts; and Meta's new patent for its AI smart glasses.",
-      "whyItMatters": "Relevant to your current interest graph.",
+      "title": "We Get Inside the Whale (and Our Dad Feelings) in New Whalefall Trailer",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/whalefall-trailer-2/",
+      "published": "2026-08-19T19:58:58+00:00",
+      "summary": "But where is Beaky? The post We Get Inside the Whale (and Our Dad Feelings) in New Whalefall Trailer appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
       "score": 8
     },
     {
@@ -132,7 +132,7 @@
       "category": "Science / health",
       "url": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
       "published": "2026-08-19T19:45:11+00:00",
-      "summary": "Dr. David Morens, a former aide to Dr. Anthony Fauci, has pleaded guilty to violating federal law by trying to conceal emails about the origins of the COVID-1 pandemic.",
+      "summary": "Dr. David Morens, a former aide to Dr. Anthony Fauci, has pleaded guilty to violating federal law by trying to conceal emails about the origins of the COVID-19 pandemic.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 8
     }
@@ -179,8 +179,8 @@
       "published": "2026-08-19T23:30:25+00:00",
       "summary": "The Trump administration is temporarily suspending construction of border-protection measures in Big Bend National Park in Texas. The head of U.S.",
       "whyItMatters": "Relevant to your current interest graph.",
-      "score": 9,
-      "verdict": "Watch it"
+      "score": 8,
+      "verdict": "Worth watching"
     },
     {
       "title": "Trump expects Supreme Court to greenlight his ballroom construction project",
@@ -311,8 +311,8 @@
       "published": "2026-08-20T01:17:11+00:00",
       "summary": "This video is brought to you by EVERSPACE 2, a fast-paced single-player space shooter where vicious encounters and brutal challenges stand between you and that next epic loot drop.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 8,
-      "verdict": "Worth watching"
+      "score": 7,
+      "verdict": "Probably worth watching"
     },
     {
       "title": "Yahtzee Tries... Duskfade and Tidy Up Together",
@@ -322,8 +322,8 @@
       "published": "2026-08-19T22:08:46+00:00",
       "summary": "This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.",
       "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
-      "score": 7,
-      "verdict": "Probably worth watching"
+      "score": 6,
+      "verdict": "Summary is enough"
     },
     {
       "title": "Beast of Reincarnation | Fully Ramblomatic",
@@ -548,6 +548,17 @@
       "verdict": "Looks promising"
     },
     {
+      "title": "MONSTER: The Lizzie Borden Story | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=gYTzF1vna40",
+      "published": "2026-08-20T13:00:01+00:00",
+      "summary": "Hell hath no fury like Lizzie 🪓 Monster: The Lizzie Borden Story coming September 17. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
       "title": "“we just wanted to have a good time, all the time” The final season of OBX is now playing",
       "source": "Netflix",
       "category": "TV / trailer",
@@ -677,17 +688,6 @@
       "summary": "A group of Boeing whistleblowers describe their fears about speaking out publicly regarding ongoing safety concerns at the company and the impact on their job security.",
       "whyItMatters": "Relevant to your current interest graph.",
       "score": 9,
-      "verdict": "Looks promising"
-    },
-    {
-      "title": "Outer Banks | Season 4 Recap | Netflix",
-      "source": "Netflix",
-      "category": "TV / trailer",
-      "url": "https://www.youtube.com/watch?v=vwOzGbMlvDk",
-      "published": "2026-08-17T16:00:00+00:00",
-      "summary": "Revenge is coming. Catch up on Outer Banks Season 4 now before Season 5 premieres this Thursday, August 20th, only on Netflix. Watch on Netflix: https://www.netflix.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 10,
       "verdict": "Looks promising"
     },
     {
@@ -837,6 +837,6 @@
     "mainCount": 13,
     "youtubeCount": 23,
     "trailerCount": 30,
-    "sourceCount": 23
+    "sourceCount": 24
   }
 }
