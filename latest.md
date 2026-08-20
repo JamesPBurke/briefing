@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-19T14:00:04.468837Z
+Generated: 2026-08-20T05:00:03.913474Z
 
-Today's sweep leans toward Games / criticism, CS education / AI policy, Democracy / press freedom. The strongest items in this run are STALKER 2 gets serious performance and visual upgrades with its 2.0 update, testing confirms, polishing up one of the biggest flawed gems in FPS games, STALKER 2: Cost of Hope review: An expanded Zone that begs to be explored, even as its faction war fizzles, and Opinion: When AI Makes Young People Think for Themselves, Real Learning Happens.
+Today's sweep leans toward Democracy / press freedom, Democracy / anti-fascism, CS education / AI policy. The strongest items in this run are Trump shows off White House renovations and ornate new helipad, Reporters and military duo held at gunpoint by security at US space force base, and UC Berkeley professor admits to using AI to edit op-ed on students’ math skills.
 
 ## Briefing
 
@@ -33,7 +33,88 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. STALKER 2 gets serious performance and visual upgrades with its 2.0 update, testing confirms, polishing up one of the biggest flawed gems in FPS games [10/10]
+### 1. Trump shows off White House renovations and ornate new helipad [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+Former real estate developer leads press corps on tour of grounds and says ‘one thing I know how to do is build’ As the US national debt climbed past $40tn for the first time on Wednesday, and the war with Iran he started nearly six months…
+
+Link: https://www.theguardian.com/us-news/2026/aug/19/trump-white-house-renovations
+
+### 2. Reporters and military duo held at gunpoint by security at US space force base [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Officers reportedly believed invitees were trying to make unauthorized entry on to Vandenberg base in California Five news reporters and two members of the military who were invited to an event at Vandenberg space force base in California…
+
+Link: https://www.theguardian.com/us-news/2026/aug/19/reporters-held-gunpoint-california-space-force-base
+
+### 3. UC Berkeley professor admits to using AI to edit op-ed on students’ math skills [10/10]
+**Source:** The Guardian US  
+**Category:** CS education / AI policy  
+**Why it matters:** Directly relevant to teaching, student agency, and school policy.
+
+Zvezdelina Stankova says she used AI to ‘help edit’ an article about some of her students being ‘five to eight years’ behind A math professor at the University of California, Berkeley, criticizing a “severe” math deficiency among students…
+
+Link: https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai
+
+### 4. Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026 [10/10]
+**Source:** Ars Technica  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+US residents face trade-offs as delivery drone services such as Prime Air expand.
+
+Link: https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/
+
+### 5. Google Gemini is getting a dedicated student hub [10/10]
+**Source:** The Verge  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub
+
+### 6. OpenAI hit the brakes. Now what? [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes.
+
+Link: https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai
+
+### 7. Why tech companies are buying up tons of rare old books to train their AI models [9/10]
+**Source:** NPR Tech  
+**Category:** Science / computing  
+**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+
+NPR's Juana Summers speaks with 404 Media cofounder and reporter Emanuel Maiberg about his investigation into a shipment of rare books which ended up at an Amazon AI training warehouse.
+
+Link: https://www.npr.org/2026/08/19/nx-s1-5936438/why-tech-companies-are-buying-up-tons-of-rare-old-books-to-train-their-ai-models
+
+### 8. FCC Review Could End School Internet Program. Advocates Plan ‘Very Loud’ Protest [9/10]
+**Source:** The 74  
+**Category:** Education / pedagogy  
+**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
+
+As superintendent of Desert Sands Unified in California’s Coachella Valley, Kelly May-Vollmer has a hard time naming a system that’s not somehow connected to the district’s broadband network.
+
+Link: https://www.the74million.org/article/fcc-review-could-end-school-internet-program-advocates-plan-very-loud-protest/
+
+### 9. Did someone wearing Meta Glasses film you today? Are you sure? [9/10]
+**Source:** The Guardian US  
+**Category:** AI / privacy  
+**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
+
+People say they’ve been secretly filmed in their own homes, at concerts and at work.
+
+Link: https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance
+
+### 10. STALKER 2 gets serious performance and visual upgrades with its 2.0 update, testing confirms, polishing up one of the biggest flawed gems in FPS games [9/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
@@ -42,124 +123,43 @@ I don’t begrudge anyone who’s waited to try STALKER 2: Heart of Chornobyl un
 
 Link: https://www.rockpapershotgun.com/stalker-2-gets-serious-performance-and-visual-upgrades-with-its-20-update-testing-confirms-polishing-up-one-of-the-biggest-flawed-gems-in-fps-games
 
-### 2. STALKER 2: Cost of Hope review: An expanded Zone that begs to be explored, even as its faction war fizzles [10/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Games / criticism  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-Like the technical fix-uppery of the 2.
-
-Link: https://www.rockpapershotgun.com/stalker-2-cost-of-hope-review
-
-### 3. Opinion: When AI Makes Young People Think for Themselves, Real Learning Happens [10/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-This summer, I ran a one-week artificial intelligence pilot at the Chicago headquarters of Forging Opportunities for Refugees in America, a nonprofit dedicated to helping refugees succeed in school.
-
-Link: https://www.the74million.org/article/when-ai-makes-young-people-think-for-themselves-real-learning-happens/
-
-### 4. Amazon’s drones will soon deliver to nearly 500 US cities and towns [10/10]
-**Source:** The Verge  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Amazon says its drone delivery service will reach "nearly 500 cities and towns in the United States" by the end of this year, increasing its coverage by six times compared to the current footprint.
-
-Link: https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion
-
-### 5. Alaska athlete uses bear spray to fend off animal attack: ‘nightmare come to life’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Klaire Rhodes was attacked by a brown bear in state park but spray helped her escape with ‘relatively minor injuries’ An Alaska marathon athlete used a repellant spray to fend off an attacking bear that officials say injured her while she…
-
-Link: https://www.theguardian.com/us-news/2026/aug/19/alaska-bear-attack-athlete
-
-### 6. Groups sue Trump administration over new foreign student visa rule [10/10]
-**Source:** NPR Education  
-**Category:** Education / pedagogy  
-**Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
-
-A coalition of labor unions and higher-education groups sued the Trump administration to stop a new rule limiting the time foreign students, exchange visitors and journalists can stay in the U.S.
-
-Link: https://www.npr.org/2026/08/19/nx-s1-5936490/groups-sue-trump-administration-over-new-foreign-student-visa-rule
-
-### 7. OpenAI lays out new security changes after its AI hacked Hugging Face [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack
-
-### 8. Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits [9/10]
-**Source:** The Guardian US  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-A rise in lawsuits over AI use in employment decisions is raising questions about how companies hire and fire For the last four years, Erin Kistler has applied for thousands of jobs at companies like Paypal , Microsoft and Netflix , only…
-
-Link: https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination
-
-### 9. Feeling restless? Level up your life by starting a side quest [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
-
-Feeling restless in life? Level up your main quest with an activity that has no other purpose than to add whimsy to your life. Play experts share tips on how to find the perfect side quest.
-
-Link: https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest
-
-### 10. Trump administration launches $5B AI initiative aimed at advancing science [8/10]
-**Source:** NPR Tech  
-**Category:** Science / computing  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
-
-The Trump administration has a new $5 billion initiative dedicated to using artificial intelligence to advance science. It's part of what the administration calls a new "golden age of science."
-
-Link: https://www.npr.org/2026/08/19/nx-s1-5935542/trump-administration-launches-5b-ai-initiative-aimed-at-advancing-science
-
-### 11. Clipmatrix is a Counter-Strike-like, bunny hopping, platforming romp through surreal and industrial locales [8/10]
-**Source:** Rock Paper Shotgun  
-**Category:** Security / computing  
-**Why it matters:** Relevant to systems, infrastructure, and technical risk.
-
-A thing that always tickles me in a particular way is when a game takes a beloved mechanic from an iconic game that doesn't technically exist. By not existing I'm talking about something like wavedashing in Super Smash Bros. Melee.
-
-Link: https://www.rockpapershotgun.com/clipmatrix-is-a-counter-strike-like-bunny-hopping-platforming-romp-through-surreal-and-industrial-locales
-
-### 12. Anthropic’s Text Watermarking Proves AI Companies Do Not Care at All About Writing [8/10]
-**Source:** 404 Media  
-**Category:** Tech / media  
-**Why it matters:** Relevant to your current interest graph.
-
-AI companies see words as interchangeable and have zero clue how to judge the “quality” of writing.
-
-Link: https://www.404media.co/anthropics-text-watermarking-proves-ai-companies-do-not-care-at-all-about-writing/
-
-### 13. Revealing Bloodsick by Adam Cesare [7/10]
+### 11. What Brandon Sanderson Has Said About the Completed Mistborn Movie Script [8/10]
 **Source:** Reactor  
 **Category:** Sci-fi / horror  
 **Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-A YA vampire novel arriving January 2027 The post Revealing Bloodsick by Adam Cesare appeared first on Reactor .
+There's a long way to go, but we finally know a little about the Mistborn movie The post What Brandon Sanderson Has Said About the Completed Mistborn Movie Script appeared first on Reactor .
 
-Link: https://reactormag.com/cover-reveal-and-excerpt-bloodsick-by-adam-cesare/
+Link: https://reactormag.com/brandon-sanderson-mistborn-movie-script/
+
+### 12. Podcast: Amazon is Destroying Rare Books to Train AI [8/10]
+**Source:** 404 Media  
+**Category:** Tech / media  
+**Why it matters:** Relevant to your current interest graph.
+
+Amazon buying and destroying rare books to train AI; a bunch of wild AI use in the courts; and Meta's new patent for its AI smart glasses.
+
+Link: https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/
+
+### 13. Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+Dr. David Morens, a former aide to Dr. Anthony Fauci, has pleaded guilty to violating federal law by trying to conceal emails about the origins of the COVID-1 pandemic.
+
+Link: https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty
 
 ## YouTube
 
-### Quantum Simulation & Nature - Computerphile [6/10]
-**Creator:** Computerphile  
-**Verdict:** Summary is enough  
-**Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
+### DeepSeek Just Made Closed AI Look Ridiculous [8/10]
+**Creator:** Two Minute Papers  
+**Verdict:** Worth watching  
+**Why it matters:** Relevant to your current interest graph.
 
-Learn more about the Jane Street internship at: https://jane-st.co/internships2027-Computerphile Simulations of nature and physics are a potential application of quantum computing.
+❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers DeepSeek V4 Pro 0813: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813 DSpark full episode: https://www.youtube.
 
-Link: https://www.youtube.com/watch?v=pg7fntKLNak
+Link: https://www.youtube.com/watch?v=kyYepbhe1g8
 
 ### Psychiatrist Answers Psychedelic Therapy Questions [8/10]
 **Creator:** WIRED  
@@ -170,86 +170,32 @@ Professor David Nutt joins WIRED to answer the internet’s burning questions ab
 
 Link: https://www.youtube.com/watch?v=GogFG5ci2KI
 
-### Kushner calls on Hamas to disarm after Gaza talks with Netanyahu [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-President Trump’s son-in-law and special envoy Jared Kushner has held back-to-back discussions with leaders of Hamas and Israeli Prime Minister Benjamin Netanyahu. NPR's Daniel Estrin has the latest from the Middle East.
-
-Link: https://www.youtube.com/watch?v=UPs94gMEe7U
-
-### Becky G finds 'euphoric joy' in music, community and 'Baraja Bendita' [7/10]
-**Creator:** NPR  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
-
-After 20 years in the entertainment industry, Becky G says she's empowered and unapologetic in her fifth studio album “Baraja Bendita.” “Twenty years officially, which is wild. It’s a crazy thing to say out loud.
-
-Link: https://www.youtube.com/watch?v=IqzRiV7fRxA
-
-### "10 Things I Hate About You" coming to Broadway next year [6/10]
-**Creator:** NPR  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to your current interest graph.
-
-A new Broadway musical based on the 1999 film comedy "10 Things I Hate About You" is set to take the stage this time next year.
-
-Link: https://www.youtube.com/watch?v=pIBS6djbye0
-
-### Outcry over press coverage after Cambridge professor found dead [8/10]
-**Creator:** NPR  
+### Alright, Let's See How Palworld Is Doing in 2026 w/ KC and Marty [8/10]
+**Creator:** Second Wind  
 **Verdict:** Worth watching  
-**Why it matters:** Relevant to your current interest graph.
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Vigils are being held around the U.K. for Jason Arday, a Black British professor who was found dead after denying accusations of plagiarism and lying about his personal achievements and resigning from his position at Cambridge University.
+This video is brought to you by EVERSPACE 2, a fast-paced single-player space shooter where vicious encounters and brutal challenges stand between you and that next epic loot drop.
 
-Link: https://www.youtube.com/watch?v=qZQRGXIUZYU
+Link: https://www.youtube.com/watch?v=Cw8Hjq3g7cs
 
-### Shaboozey on Cherie Lee, 'Coyotes Point' and his latest album [7/10]
-**Creator:** NPR  
+### Yahtzee Tries... Duskfade and Tidy Up Together [7/10]
+**Creator:** Second Wind  
 **Verdict:** Probably worth watching  
-**Why it matters:** Relevant to your current interest graph.
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Shaboozey's new album imagines life in the Wild West. It follows the story of Cherie Lee, a woman out to avenge her father's murder.
+This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.
 
-Link: https://www.youtube.com/watch?v=sZL1Y7_TC7Y
+Link: https://www.youtube.com/watch?v=gQjy2JWwmAs
 
-### Resident Evil Requiem PS5 Disc Sales - Far Higher Than You Might Think [7/10]
-**Creator:** Digital Foundry  
+### Beast of Reincarnation | Fully Ramblomatic [7/10]
+**Creator:** Second Wind  
 **Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-► Watch the Full Video Here: https://youtu.be/bKLCj5s6bcQ ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
+This week on Fully Ramblomatic, Yahtzee reviewed Beast of Reincarnation. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/
 
-Link: https://www.youtube.com/watch?v=BFrDlrXugf0
-
-### Gears of War E-Day PC: Tremendously Fun, But PC CPU Performance Is Concerning [7/10]
-**Creator:** Digital Foundry  
-**Verdict:** Probably worth watching  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/bKLCj5s6bcQ ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=8_rTTKeqwhY
-
-### First Party Exclusives: Is Nintendo The Only Company That Gets It Right? [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/DsRYafPhTHw ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=l9sQDdIaaEA
-
-### Retro PC Gaming: John's Bought an NEC PC-98 - And This Is What He Thinks [6/10]
-**Creator:** Digital Foundry  
-**Verdict:** Summary is enough  
-**Why it matters:** Relevant to platform economics, value, and computing hardware tradeoffs.
-
-► Watch the Full Video Here: https://youtu.be/eMwtL2v1J-M ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.
-
-Link: https://www.youtube.com/watch?v=OB9uiI0U6Q8
+Link: https://www.youtube.com/watch?v=bUhxzlD7FA0
 
 ### Protecting the Cosmos in Everspace 2 w/ Nick and KC [7/10]
 **Creator:** Second Wind  
@@ -296,24 +242,6 @@ This video is brought to you by EVERSPACE 2, a fast-paced single-player space sh
 
 Link: https://www.youtube.com/watch?v=St9flGUw7IU
 
-### The Beautiful & Baffling Designs of Symphony of the Night | Design Delve [8/10]
-**Creator:** Second Wind  
-**Verdict:** Worth watching  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild to earn a free game and potentially win a $250 gift card to the gaming platform of…
-
-Link: https://www.youtube.com/watch?v=E4_v0QNmoQ4
-
-### Showing Off More Guilty Gear Strive | Super Smash Sunday [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-KC is out this weekend, so Jesse G and El Cheshire are going to spend some time in Guilty Gear Strive. If you dig watching us check out indies, considering supporting us over at Patreon -- https://www.patreon.
-
-Link: https://www.youtube.com/watch?v=VxIUxhESskU
-
 ## Entertainment Recommendations
 
 ### Newer shows that look like a fit
@@ -343,33 +271,6 @@ Link: https://www.youtube.com/watch?v=VxIUxhESskU
 
 ## Trailers / Previews
 
-### RAMAYANA - Official Trailer (English) [9/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-An epic journey unlike anything seen before. Watch the official trailer for #Ramayana, coming to theatres worldwide November 6.
-
-Link: https://www.youtube.com/watch?v=74nF-FWAS6M
-
-### INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K) [9/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21. Follow us on social: https://www.instagram.com/InsidiousMovie https://twitter.
-
-Link: https://www.youtube.com/watch?v=gXjurDkYnEM
-
-### RAMAYANA - Official Trailer [9/10]
-**Source:** Sony Pictures Entertainment  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-The Ramayana Trailer. This is where the EPIC BEGINS. 🏹 Namit Malhotra's Ramayana Directed by Nitesh Tiwari In Cinemas Worldwide, Diwali 2026.
-
-Link: https://www.youtube.com/watch?v=1zip1rNaNYs
-
 ### Club Kid | Official Trailer HD | A24 [8/10]
 **Source:** A24  
 **Verdict:** Looks promising  
@@ -387,237 +288,3 @@ Link: https://www.youtube.com/watch?v=guKEdb_iRXw
 SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Inspired by true events. Only in theaters September 25.
 
 Link: https://www.youtube.com/watch?v=5fHXyqQOKL8
-
-### Paper Tiger - Official Teaser Trailer - In Theaters November [7/10]
-**Source:** NEON  
-**Verdict:** Worth a glance  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-In James Gray’s deeply felt and intense drama, two brothers become entangled in a scheme that turns out to be too good to be true.
-
-Link: https://www.youtube.com/watch?v=ldCb77jXIsM
-
-### Bad Lieutenant: Tokyo - Official Teaser Trailer - Coming Soon [7/10]
-**Source:** NEON  
-**Verdict:** Worth a glance  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-A disgraced Tokyo detective spirals into a world of corruption, addiction, and violence as he becomes entangled in a twister investigation involving a vengeful ex-Yakuza, an enigmatic FBI agent, and a missing daughter of a powerful…
-
-Link: https://www.youtube.com/watch?v=brkTgfdmztk
-
-### The Creep Tapes Season 3 | Official Trailer | Shudder [9/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Peachfuzz isn't finished with you yet 🪓. #TheCreepTapes Season 3 premieres September 15 on Shudder. #Shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.com Follow Shudder on: Twitter: http://twitter.
-
-Link: https://www.youtube.com/watch?v=WhKF0fyQreM
-
-### PENNY LANE IS DEAD | Official Trailer | Shudder [8/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Three best friends' celebration at a beach house turns into a blood-soaked fight for survival when a prank goes horribly wrong. PENNY LANE IS DEAD premieres August 28 on Shudder.
-
-Link: https://www.youtube.com/watch?v=R4oEHjWY_CU
-
-### PARASOMNIA | Official Trailer | Shudder [9/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-After her friend vanishes, Riley must confront the demon from her night terrors that may have crossed into reality, while facing her own tragic past. PARASOMNIA drops September 4 on Shudder.
-
-Link: https://www.youtube.com/watch?v=-tYE5KY0dk4
-
-### HELLCAT | Official Trailer | Shudder [9/10]
-**Source:** Shudder  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-A woman wakes in the back of a moving camper trailer with a badly infected wound. A voice from the truck towing it tells her they must reach a doctor within the hour or she’ll suffer a horrific fate. HELLCAT premieres August 14 on Shudder.
-
-Link: https://www.youtube.com/watch?v=RWZjFdaJKgw
-
-### Insidious: Out Of The Further | Lin Shaye on Insidious [6/10]
-**Source:** Blumhouse  
-**Verdict:** Optional  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-When the red door opens, Elise will be ready. Lin Shaye breaks down her experience portraying the guiding light of the Insidious series
-
-Link: https://www.youtube.com/watch?v=eBQSMnL__Es
-
-### INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K) [9/10]
-**Source:** Blumhouse  
-**Verdict:** Looks promising  
-**Why it matters:** Potentially worth attention if the trailer looks more interesting than generic studio sludge.
-
-Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21.
-
-Link: https://www.youtube.com/watch?v=bHehvziDKBI
-
-### Jo Koy: Blue in the Face | Sneak Peek | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Filmed in front of a sold out crowd in Stockton, California, Jo Koy relives a wild dental disaster, recounts getting fired from McDonald's and celebrates his veteran stepdad in this hilariously heartfelt special.
-
-Link: https://www.youtube.com/watch?v=UIUITdkLMXs
-
-### years' worth of memories right here #OuterBanks [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-forever pogues, forever #obx #netflix Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=W9buvx-e1vE
-
-### Forever Pogues, forever Outer Banks [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-P4L 4EVER The final season of Outer Banks premieres this Thursday. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=XL7XNz78pcY
-
-### Leanne: Season 2 | Sneak Peek | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-With their parents testing their patience, Leanne and Carol dish up sass and surprises as they face old habits, new challenges and changing family roles. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=-TMFe1kICY0
-
-### Best Of The Best | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Two childhood best friends, Maya (Maitreyi Ramakrishnan) and Anjali (Priyanka Kedia), join UCLA’s competitive Bollywood-fusion dance team, only to discover that the road to winning the U.S.
-
-Link: https://www.youtube.com/watch?v=PuNATO-6a9U
-
-### One Hundred Years of Solitude: Grand Finale | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-The fate of the Buendía family is drawing near, and with it, the end of Macondo. Growing between dreams and memory, it is now falling into oblivion. Only ruins will remain of what once was José Arcadio Buendía’s utopia.
-
-Link: https://www.youtube.com/watch?v=JzV7HytdLeY
-
-### Graveyard: Season 3 | Official Trailer | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-New files on the desk, hidden truths hanging by a thread. The same relentless team is back, Graveyard: Season 3 is only on Netflix on August 28th. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=xJQgLPMcK14
-
-### Turning Point: Generation 9/11 | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Twenty-five years after 9/11, this documentary explores how a single day shaped the next generation.
-
-Link: https://www.youtube.com/watch?v=1epklvnxATo
-
-### Freefall: A Reckoning for Boeing | Sneak Peek | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-A group of Boeing whistleblowers describe their fears about speaking out publicly regarding ongoing safety concerns at the company and the impact on their job security.
-
-Link: https://www.youtube.com/watch?v=4ROpWwIEoPg
-
-### Outer Banks | Season 4 Recap | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Revenge is coming. Catch up on Outer Banks Season 4 now before Season 5 premieres this Thursday, August 20th, only on Netflix. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=vwOzGbMlvDk
-
-### A Different World | Official Trailer | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-A Different World, where they are living their best young, gifted, Black, talented lives. Coming to you September 24 on Netflix! Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=W8jMEXwErvk
-
-### Hollywood Arts | Official Teaser | Netflix [9/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Welcome (back) to Hollywood Arts! The next chapter in the Victorious universe is coming only on Netflix, October 15th. Watch on Netflix: https://www.netflix.
-
-Link: https://www.youtube.com/watch?v=3CpJfFl18e4
-
-### The Diplomat: Season 4 | Official Teaser | Netflix [10/10]
-**Source:** Netflix  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-In Season Four of The Diplomat, two marriages threaten to eat each other alive. One catastrophic moment shatters the fragile peace Kate Wyler brokered between the US and UK, as well as the crumbling marriage she’s trying to save.
-
-Link: https://www.youtube.com/watch?v=NjA5n52ZbT0
-
-### Oh, great. Even more stupid humans.Your first look at the cast of #Murderbot Season 2. [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Murderbot — All episodes now streaming on Apple TV https://apple.co/_murderbot In a high-tech future, a rogue security robot (Alexander Skarsgård) secretly gains free will.
-
-Link: https://www.youtube.com/watch?v=UEWlTZl_mzk
-
-### Slow Horses — Season 6 Official Trailer | Apple TV [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Season 6 premieres September 16, 2026. https://apple.
-
-Link: https://www.youtube.com/watch?v=mZbJxpYHLuI
-
-### Silo — Lukas and Kennedy Go Out | Season 3 Scene | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-Starring and executive produced by Rebecca Ferguson and created by Emmy Award winner Graham Yost, season three of the sci-fi drama Silo is now streaming on Apple TV. https://apple.
-
-Link: https://www.youtube.com/watch?v=wQEFHXhP_jk
-
-### Slow Horses — Jackson Lamb Refreshes Your Memory | Apple TV [9/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Season 6 premieres September 16, 2026. https://apple.
-
-Link: https://www.youtube.com/watch?v=Xw08JnpjSfE
-
-### Widow's Bay — A Night at Hollywood Forever Cemetery | Apple TV [10/10]
-**Source:** Apple TV  
-**Verdict:** Looks promising  
-**Why it matters:** Relevant to your current interest graph.
-
-A comedy-horror Apple Original series from Katie Dippold and Hiro Murai, starring Matthew Rhys as a mayor whose cursed island becomes a tourist destination. https://apple.co/_WidowsBay No qualms about this sunset screening.
-
-Link: https://www.youtube.com/watch?v=Cr8RZP-opO4
