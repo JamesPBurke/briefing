@@ -1,18 +1,28 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-21T05:00:02.519953Z",
-  "generatedAtDisplay": "2026-08-21 01:00 AM EDT",
+  "generatedAt": "2026-08-21T09:00:50.368726Z",
+  "generatedAtDisplay": "2026-08-21 05:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward AI / computing, Democracy / anti-fascism, AI / privacy. The strongest items in this run are Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’, Google Discover is getting an AI chatbot-tuned feed, and It’s Greg Brockman’s OpenAI now.",
+  "summary": "Today's sweep leans toward Democracy / anti-fascism, AI / privacy, AI / computing. The strongest items in this run are ‘It is the riskiest film I’ve ever made’: Pedro Almodóvar on being the villain in his own movie, Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’, and Google Discover is getting an AI chatbot-tuned feed.",
   "mainItems": [
+    {
+      "title": "‘It is the riskiest film I’ve ever made’: Pedro Almodóvar on being the villain in his own movie",
+      "source": "The Guardian US",
+      "category": "Democracy / anti-fascism",
+      "url": "https://www.theguardian.com/film/2026/aug/21/it-is-the-riskiest-film-ive-ever-made-pedro-almodovar-on-being-the-villain-in-his-own-movie",
+      "published": "2026-08-21T04:00:24+00:00",
+      "summary": "As his new film Bitter Christmas is released, the legendary Spanish director turns his fire on Donald Trump, Will Smith, Netflix – and himself Black sunglasses indoors and a tufty cloud of cotton-wool hair: it can only be Pedro Almodóvar,…",
+      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
+      "score": 10
+    },
     {
       "title": "Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
       "url": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
       "published": "2026-08-21T03:28:02+00:00",
-      "summary": "Lee Cheuk-yan and Chow Hang-tung - leaders of the Hong Kong Alliance – were tried under under a 2020 national security law Two Hong Kong activists who organised annual vigils marking China’s deadly Tiananmen crackdown in 1989 were found…",
+      "summary": "Lee Cheuk-yan and Chow Hang-tung - leaders of the Hong Kong Alliance – were tried under a 2020 national security law Two Hong Kong activists who organised annual vigils marking China’s deadly Tiananmen crackdown in 1989 were found guilty…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
@@ -37,26 +47,6 @@
       "score": 10
     },
     {
-      "title": "What is Responsible AI and What Does That Look Like in the Classroom?",
-      "source": "CSTA",
-      "category": "Education / pedagogy",
-      "url": "https://csteachers.org/what-is-responsible-ai-and-what-does-that-look-like-in-the-classroom/",
-      "published": "2026-08-20T20:08:00+00:00",
-      "summary": "AI has rapidly become one of the most important technologies of our time. It has changed the way we live...",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
-      "title": "Riot is ending development on its League of Legends fighting game",
-      "source": "The Verge",
-      "category": "AI / computing",
-      "url": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
-      "published": "2026-08-20T19:59:09+00:00",
-      "summary": "Riot Games is already winding down work on 2XKO, the free-to-play League of Legends fighting game, less than a year after its initial launch.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
       "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
@@ -77,6 +67,26 @@
       "score": 10
     },
     {
+      "title": "Meta lawsuit raises questions about social media's impact on young people",
+      "source": "NPR Tech",
+      "category": "AI / privacy",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5938815/meta-lawsuit-raises-questions-about-social-medias-impact-on-young-people",
+      "published": "2026-08-21T08:44:55+00:00",
+      "summary": "A multistate lawsuit against Meta is putting a growing question in the spotlight: How does social media affect young people, and can its use become addictive?",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 9
+    },
+    {
+      "title": "What is Responsible AI and What Does That Look Like in the Classroom?",
+      "source": "CSTA",
+      "category": "Education / pedagogy",
+      "url": "https://csteachers.org/what-is-responsible-ai-and-what-does-that-look-like-in-the-classroom/",
+      "published": "2026-08-20T20:08:00+00:00",
+      "summary": "AI has rapidly become one of the most important technologies of our time. It has changed the way we live...",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 9
+    },
+    {
       "title": "Student Journalists: AI Is Changing Our Work — And Not For the Better",
       "source": "The 74",
       "category": "CS education / AI policy",
@@ -84,16 +94,6 @@
       "published": "2026-08-20T10:30:00+00:00",
       "summary": "In the nearly four years since generative artificial intelligence began colonizing the academic lives of teens, it has changed the experience of school for millions of young people.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 9
-    },
-    {
-      "title": "Open AI launches ChatGPT designed for younger users",
-      "source": "NPR Tech",
-      "category": "Science / computing",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5937930/open-ai-launches-chatgpt-designed-for-younger-users",
-      "published": "2026-08-20T08:44:33+00:00",
-      "summary": "NPR's Sacha Pfeiffer talks with CNBC's Ashley Capoot about OpenAI's ChatGPT for Teens feature and the safety concerns it's designed to address.",
-      "whyItMatters": "Interesting where engineering, science, and tech infrastructure collide.",
       "score": 9
     },
     {
@@ -137,8 +137,582 @@
       "score": 7
     }
   ],
-  "youtube": [],
-  "trailers": [],
+  "youtube": [
+    {
+      "title": "DeepSeek Just Made Closed AI Look Ridiculous",
+      "source": "Two Minute Papers",
+      "category": "AI / YouTube",
+      "url": "https://www.youtube.com/watch?v=kyYepbhe1g8",
+      "published": "2026-08-19T18:02:46+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers DeepSeek V4 Pro 0813: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813 DSpark full episode: https://www.youtube.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Psychiatrist Answers Psychedelic Therapy Questions",
+      "source": "WIRED",
+      "category": "Tech / media",
+      "url": "https://www.youtube.com/watch?v=GogFG5ci2KI",
+      "published": "2026-08-18T16:00:14+00:00",
+      "summary": "Professor David Nutt joins WIRED to answer the internet’s burning questions about psychedelic therapy.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "South Korea military drills / Pivot to Asia? / USS Lincoln",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=1XkaoIzc7sY",
+      "published": "2026-08-20T22:54:39+00:00",
+      "summary": "This week, President Trump ordered that annual military drills between the U.S. and South Korea be scaled back. He also said he’d like to meet with North Korea’s Kim Jong Un. As Trump closes one door with a key U.S.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Trump shrugs off voters concerns about AI data centers",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=JLejXitdCR4",
+      "published": "2026-08-20T21:00:30+00:00",
+      "summary": "President Trump hosted tech leaders at the White House to discuss U.S. efforts on cryptocurrency and artificial intelligence — technology he says is crucial to creating more jobs and beating China.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Border construction paused at Big Bend National Park",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=kpubIbfbd0Y",
+      "published": "2026-08-19T23:30:25+00:00",
+      "summary": "The Trump administration is temporarily suspending construction of border-protection measures in Big Bend National Park in Texas. The head of U.S.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "Trump expects Supreme Court to greenlight his ballroom construction project",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=pLzquQ2m5ek",
+      "published": "2026-08-19T20:30:42+00:00",
+      "summary": "President Trump says he doesn’t think the Supreme Court will rule to stop construction of his new White House ballroom.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Kushner calls on Hamas to disarm after Gaza talks with Netanyahu",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=UPs94gMEe7U",
+      "published": "2026-08-18T23:00:22+00:00",
+      "summary": "President Trump’s son-in-law and special envoy Jared Kushner has held back-to-back discussions with leaders of Hamas and Israeli Prime Minister Benjamin Netanyahu. NPR's Daniel Estrin has the latest from the Middle East.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Becky G finds 'euphoric joy' in music, community and 'Baraja Bendita'",
+      "source": "NPR",
+      "category": "News / analysis",
+      "url": "https://www.youtube.com/watch?v=IqzRiV7fRxA",
+      "published": "2026-08-18T21:00:01+00:00",
+      "summary": "After 20 years in the entertainment industry, Becky G says she's empowered and unapologetic in her fifth studio album “Baraja Bendita.” “Twenty years officially, which is wild. It’s a crazy thing to say out loud.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Can Switch 2 Optimisations Really Fix Oblivion Remastered On PS5/Xbox/PC?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=sqfa4e-LLys",
+      "published": "2026-08-20T17:00:07+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/Wd_prnNhELY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Pearl Abyss Confirms Crimson Desert Switch 2 Port - But How Will They Do It?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=WUbPIMwFP4E",
+      "published": "2026-08-20T16:00:08+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/bKLCj5s6bcQ ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "What Does Steam Deck Verified Actually Mean At This Point?",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=X0-DFt0Rw7s",
+      "published": "2026-08-19T17:00:06+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/Wd_prnNhELY ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Viture XR Pro 2/Beast Glasses: Switch 2 Docked Mode On The Go With A \"Huge\" OLED Screen!",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=Rt8_VcrZn6Q",
+      "published": "2026-08-19T16:00:18+00:00",
+      "summary": "► A word on Viture glasses battery life since it's not clear here. The dock acts like the Nintendo dock except it is powered by a battery. It'll charge the system while also powering it and the glasses.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Resident Evil Requiem PS5 Disc Sales - Far Higher Than You Might Think",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=BFrDlrXugf0",
+      "published": "2026-08-18T17:00:35+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/bKLCj5s6bcQ ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Gears of War E-Day PC: Tremendously Fun, But PC CPU Performance Is Concerning",
+      "source": "Digital Foundry",
+      "category": "Games / hardware",
+      "url": "https://www.youtube.com/watch?v=8_rTTKeqwhY",
+      "published": "2026-08-18T16:00:08+00:00",
+      "summary": "► Watch the Full Video Here: https://youtu.be/bKLCj5s6bcQ ► Visit the Digital Foundry website: https://www.digitalfoundry.net ► Support us on Patreon! https://bit.ly/3jEGjvx ► Digital Foundry YouTube: https://youtube.",
+      "whyItMatters": "Relevant to platform economics, value, and computing hardware tradeoffs.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "We Finally Know What The Duskbloods Is | Firelink Podcast",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=CRIqdv942yg",
+      "published": "2026-08-21T00:55:29+00:00",
+      "summary": "This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 9,
+      "verdict": "Watch it"
+    },
+    {
+      "title": "Crafting Exciting Adventures w/ Tiger Wizard from Exalted Funeral | RPG Help Desk",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=a4P-eCMYw_A",
+      "published": "2026-08-20T16:26:04+00:00",
+      "summary": "This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Dark Souls 1 Randomizer: It's Dark Souls, But Different w/ Jack and Jess -- Part 3",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=JSzjpzPMyFM",
+      "published": "2026-08-20T19:13:16+00:00",
+      "summary": "This video is brought to you by Crystals of Irm, an old-school RPG with a distinctive combat system and dungeon crawler elements. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8,
+      "verdict": "Worth watching"
+    },
+    {
+      "title": "The Sinking City 2 Review | Bytesized",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=x2MP_--S27o",
+      "published": "2026-08-20T18:00:19+00:00",
+      "summary": "In this episode of Bytesized, Jesse Galena reviews The Sinking City 2, developed and published by Frogwares. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Mortal Shell 2 Is the Exact Kind of Sequel I Love to See",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=_lU6MoB0okI",
+      "published": "2026-08-20T15:00:30+00:00",
+      "summary": "This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Alright, Let's See How Palworld Is Doing in 2026 w/ KC and Marty",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=Cw8Hjq3g7cs",
+      "published": "2026-08-20T01:17:11+00:00",
+      "summary": "This video is brought to you by EVERSPACE 2, a fast-paced single-player space shooter where vicious encounters and brutal challenges stand between you and that next epic loot drop.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 7,
+      "verdict": "Probably worth watching"
+    },
+    {
+      "title": "Yahtzee Tries... Duskfade and Tidy Up Together",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=gQjy2JWwmAs",
+      "published": "2026-08-19T22:08:46+00:00",
+      "summary": "This video is brought to you by Elements Destiny, a 2D fantasy RPG with pixelated retro visuals, an emotional narrative, and challenging turn-based combat. – https://store.steampowered.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    },
+    {
+      "title": "Beast of Reincarnation | Fully Ramblomatic",
+      "source": "Second Wind",
+      "category": "Games / criticism",
+      "url": "https://www.youtube.com/watch?v=bUhxzlD7FA0",
+      "published": "2026-08-19T16:00:31+00:00",
+      "summary": "This week on Fully Ramblomatic, Yahtzee reviewed Beast of Reincarnation. Support us on Patreon: https://www.patreon.com/SecondWindGroup Second Wind Merch: https://shop.secondwindgroup.com/",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 6,
+      "verdict": "Summary is enough"
+    }
+  ],
+  "trailers": [
+    {
+      "title": "GHOST SOLDIER - Official Trailer | (4K) Starring Jim Caviezel",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=l0pTZqZWs-c",
+      "published": "2026-08-20T14:03:57+00:00",
+      "summary": "He’s not a threat, he’s a guarantee. Jim Caviezel defends the defenseless in GHOST SOLDIER - coming soon exclusively to movie theatres.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "RAMAYANA - Official Trailer (English)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=74nF-FWAS6M",
+      "published": "2026-08-05T16:00:16+00:00",
+      "summary": "An epic journey unlike anything seen before. Watch the official trailer for #Ramayana, coming to theatres worldwide November 6.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K)",
+      "source": "Sony Pictures Entertainment",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=gXjurDkYnEM",
+      "published": "2026-08-05T13:00:08+00:00",
+      "summary": "Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21. Follow us on social: https://www.instagram.com/InsidiousMovie https://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "literally how you'll feel on the inside watching the full trailer",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=MYD6xJOz4B4",
+      "published": "2026-08-19T18:05:18+00:00",
+      "summary": "literally how you'll feel on the inside watching the full trailer",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Whalefall | Official Trailer | In Theaters October 16",
+      "source": "20th Century Studios",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=rN9F6-tbySY",
+      "published": "2026-08-19T16:00:24+00:00",
+      "summary": "Following the death of his father (Josh Brolin), Jay Gardiner (Austin Abrams) goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Club Kid | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=guKEdb_iRXw",
+      "published": "2026-08-19T12:07:41+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From writer-director-star Jordan Firstman alongside Reggie Absolom, Cara Delevingne, and Diego Calva. CLUB KID – Coming Soon.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Primetime | Official Trailer HD | A24",
+      "source": "A24",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=5fHXyqQOKL8",
+      "published": "2026-08-06T13:00:36+00:00",
+      "summary": "SUBSCRIBE: http://bit.ly/A24subscribe From director Lance Oppenheim and starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. PRIMETIME – Inspired by true events. Only in theaters September 25.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Paper Tiger - Official Teaser Trailer - In Theaters November",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=ldCb77jXIsM",
+      "published": "2026-08-10T16:00:22+00:00",
+      "summary": "In James Gray’s deeply felt and intense drama, two brothers become entangled in a scheme that turns out to be too good to be true.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "Bad Lieutenant: Tokyo - Official Teaser Trailer - Coming Soon",
+      "source": "NEON",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=brkTgfdmztk",
+      "published": "2026-08-03T21:00:20+00:00",
+      "summary": "A disgraced Tokyo detective spirals into a world of corruption, addiction, and violence as he becomes entangled in a twister investigation involving a vengeful ex-Yakuza, an enigmatic FBI agent, and a missing daughter of a powerful…",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 7,
+      "verdict": "Worth a glance"
+    },
+    {
+      "title": "The Creep Tapes Season 3 | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=WhKF0fyQreM",
+      "published": "2026-08-18T15:01:18+00:00",
+      "summary": "Peachfuzz isn't finished with you yet 🪓. #TheCreepTapes Season 3 premieres September 15 on Shudder. #Shudder Subscribe: http://ow.ly/EVNA30kS8tc Try Shudder Free for 7 Days: http://www.shudder.com Follow Shudder on: Twitter: http://twitter.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "PENNY LANE IS DEAD | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=R4oEHjWY_CU",
+      "published": "2026-08-14T16:32:20+00:00",
+      "summary": "Three best friends' celebration at a beach house turns into a blood-soaked fight for survival when a prank goes horribly wrong. PENNY LANE IS DEAD premieres August 28 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 8,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "PARASOMNIA | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=-tYE5KY0dk4",
+      "published": "2026-08-10T21:00:59+00:00",
+      "summary": "After her friend vanishes, Riley must confront the demon from her night terrors that may have crossed into reality, while facing her own tragic past. PARASOMNIA drops September 4 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "HELLCAT | Official Trailer | Shudder",
+      "source": "Shudder",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=RWZjFdaJKgw",
+      "published": "2026-08-01T02:10:21+00:00",
+      "summary": "A woman wakes in the back of a moving camper trailer with a badly infected wound. A voice from the truck towing it tells her they must reach a doctor within the hour or she’ll suffer a horrific fate. HELLCAT premieres August 14 on Shudder.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Insidious: Out Of The Further | Lin Shaye on Insidious",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=eBQSMnL__Es",
+      "published": "2026-08-17T21:00:24+00:00",
+      "summary": "When the red door opens, Elise will be ready. Lin Shaye breaks down her experience portraying the guiding light of the Insidious series",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 6,
+      "verdict": "Optional"
+    },
+    {
+      "title": "INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K)",
+      "source": "Blumhouse",
+      "category": "Film / trailer",
+      "url": "https://www.youtube.com/watch?v=bHehvziDKBI",
+      "published": "2026-08-05T15:42:24+00:00",
+      "summary": "Evil found a way out. The final trailer has come for our world. GET TICKETS NOW. #Insidious: Out Of The Further is exclusively in theatres August 21.",
+      "whyItMatters": "Potentially worth attention if the trailer looks more interesting than generic studio sludge.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "SAKAMOTO DAYS: Season 2 | Character Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Ld4PMbghy78",
+      "published": "2026-08-21T00:00:00+00:00",
+      "summary": "Introducing three iconic characters coming to SAKAMOTO DAYS Season 2! The legendary assassin turned convenience store owner is BACK like you’ve never seen him before! Season 2 of SAKAMOTO DAYS, coming in January 2027.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Bass X Machina | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=CWbZBIrEfqI",
+      "published": "2026-08-20T23:30:00+00:00",
+      "summary": "From the studio that brought you Devil May Cry, Brian Tyree Henry is Bass X Machina. Bass X Machina premieres November 3rd, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "LEGO ONE PIECE | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=5Z8oBbmkgXo",
+      "published": "2026-08-20T23:20:00+00:00",
+      "summary": "HOLD ONTO YOUR STRAW HATS! THE MOST SPECTACULAR, LEGENDARY, EPIC, EARTH SHATTERING, MONUMENTAL ADVENTURE BEGINS! Usopp, Luffy, Zoro, Nami, Sanji & Chopper are back in this new 2-part LEGO® special event, only on Netflix September 29th.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners 2 | Official Teaser #3 | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=SyeHKMfswHk",
+      "published": "2026-08-20T23:15:00+00:00",
+      "summary": "A washed up edgerunner & a killer netrunner in Night City... what could go wrong? A new standalone 10-episode story from the world of Cyberpunk 2077, Cyberpunk: Edgerunners 2 arrives October 20th, only on Netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Blue Eye Samurai: Season 2 | Official Teaser | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=3oCx6HcYz9k",
+      "published": "2026-08-20T23:00:00+00:00",
+      "summary": "The second season of the Emmy winning series Blue Eye Samurai returns in January 2027, only on Netflix. Blue Eye Samurai season 1 is now playing, only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Tyler Perry’s Beauty in Black | Season 2 Recap | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=_NUMnS65nho",
+      "published": "2026-08-20T14:00:00+00:00",
+      "summary": "Time to catch up and relive all the drama and unforgettable moments from Tyler Perry’s Beauty in Black Season 2 now before Season 3 premieres August 27 only on Netflix. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "MONSTER: The Lizzie Borden Story | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=gYTzF1vna40",
+      "published": "2026-08-20T13:00:01+00:00",
+      "summary": "Hell hath no fury like Lizzie 🪓 Monster: The Lizzie Borden Story coming September 17. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "“we just wanted to have a good time, all the time” The final season of OBX is now playing",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=72qMf7c-shg",
+      "published": "2026-08-20T07:00:00+00:00",
+      "summary": "“we just wanted to have a good time, all the time” Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "that sounds more like it #outerbanks",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=ODGZBLW3Qow",
+      "published": "2026-08-19T19:00:00+00:00",
+      "summary": "that sounds more like it #outerbanks Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Untold Mr. T: I Pity The Fool | Official Trailer | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=Txk5C-452ak",
+      "published": "2026-08-19T15:30:00+00:00",
+      "summary": "A retrospective feature documentary about Laurence Tureaud… better known as Mr. T. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Jo Koy: Blue in the Face | Sneak Peek | Netflix",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=UIUITdkLMXs",
+      "published": "2026-08-19T13:30:00+00:00",
+      "summary": "Filmed in front of a sold out crowd in Stockton, California, Jo Koy relives a wild dental disaster, recounts getting fired from McDonald's and celebrates his veteran stepdad in this hilariously heartfelt special.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "years' worth of memories right here #OuterBanks",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=W9buvx-e1vE",
+      "published": "2026-08-18T21:00:00+00:00",
+      "summary": "forever pogues, forever #obx #netflix Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Forever Pogues, forever Outer Banks",
+      "source": "Netflix",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=XL7XNz78pcY",
+      "published": "2026-08-18T21:00:00+00:00",
+      "summary": "P4L 4EVER The final season of Outer Banks premieres this Thursday. Watch on Netflix: https://www.netflix.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Oh, great. Even more stupid humans.Your first look at the cast of #Murderbot Season 2.",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=UEWlTZl_mzk",
+      "published": "2026-08-19T12:59:48+00:00",
+      "summary": "Murderbot — All episodes now streaming on Apple TV https://apple.co/_murderbot In a high-tech future, a rogue security robot (Alexander Skarsgård) secretly gains free will.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 10,
+      "verdict": "Looks promising"
+    },
+    {
+      "title": "Slow Horses — Season 6 Official Trailer | Apple TV",
+      "source": "Apple TV",
+      "category": "TV / trailer",
+      "url": "https://www.youtube.com/watch?v=mZbJxpYHLuI",
+      "published": "2026-08-18T12:59:53+00:00",
+      "summary": "This darkly funny espionage drama follows a team of British intelligence agents led by the notorious Jackson Lamb (Sir Gary Oldman). Season 6 premieres September 16, 2026. https://apple.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 9,
+      "verdict": "Looks promising"
+    }
+  ],
   "recommendations": {
     "new": [
       {
@@ -250,8 +824,8 @@
   ],
   "stats": {
     "mainCount": 13,
-    "youtubeCount": 0,
-    "trailerCount": 0,
-    "sourceCount": 9
+    "youtubeCount": 22,
+    "trailerCount": 30,
+    "sourceCount": 22
   }
 }
