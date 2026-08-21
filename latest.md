@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-21T09:00:50.368726Z
+Generated: 2026-08-21T14:00:02.489309Z
 
-Today's sweep leans toward Democracy / anti-fascism, AI / privacy, AI / computing. The strongest items in this run are ‘It is the riskiest film I’ve ever made’: Pedro Almodóvar on being the villain in his own movie, Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’, and Google Discover is getting an AI chatbot-tuned feed.
+Today's sweep leans toward Democracy / press freedom, AI / privacy, Education / pedagogy. The strongest items in this run are ‘Shouldn’t be renamed at all’: senator attacks Navy’s reported consideration of honoring Trump instead of Black war hero – live, Rise in migrant deaths as 19 bodies found along Arizona border last month, and As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings.
 
 ## Briefing
 
@@ -33,104 +33,104 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. ‘It is the riskiest film I’ve ever made’: Pedro Almodóvar on being the villain in his own movie [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-As his new film Bitter Christmas is released, the legendary Spanish director turns his fire on Donald Trump, Will Smith, Netflix – and himself Black sunglasses indoors and a tufty cloud of cotton-wool hair: it can only be Pedro Almodóvar,…
-
-Link: https://www.theguardian.com/film/2026/aug/21/it-is-the-riskiest-film-ive-ever-made-pedro-almodovar-on-being-the-villain-in-his-own-movie
-
-### 2. Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’ [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Lee Cheuk-yan and Chow Hang-tung - leaders of the Hong Kong Alliance – were tried under a 2020 national security law Two Hong Kong activists who organised annual vigils marking China’s deadly Tiananmen crackdown in 1989 were found guilty…
-
-Link: https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung
-
-### 3. Google Discover is getting an AI chatbot-tuned feed [10/10]
-**Source:** The Verge  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Google will soon allow you to customize your Discover feed by describing what you want to see.
-
-Link: https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed
-
-### 4. It’s Greg Brockman’s OpenAI now [10/10]
-**Source:** The Verge  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-OpenAI has had a hell of a year.
-
-Link: https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion
-
-### 5. US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal [10/10]
+### 1. ‘Shouldn’t be renamed at all’: senator attacks Navy’s reported consideration of honoring Trump instead of Black war hero – live [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / press freedom  
 **Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west African…
+Mark Kelly, an Arizona Democrat and retired Navy officer, slams Navy’s mulling of naming a carrier for Trump instead of WWII hero Doris Miller US navy carrier set to honor Black war hero may reportedly be renamed after Trump Sign up for…
 
-Link: https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement
+Link: https://www.theguardian.com/us-news/live/2026/aug/21/democrats-progressive-election-politics-live
 
-### 6. Framework says it’s addressing a BIOS update that bricked some of its older laptops [10/10]
-**Source:** The Verge  
-**Category:** Linux / anti-obsolescence  
-**Why it matters:** Relevant to humane computing, open-source practice, and repairability.
+### 2. Rise in migrant deaths as 19 bodies found along Arizona border last month [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
 
-Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3.
+Pima county figures show highest number of monthly migrant deaths in two years as critics condemn US policy According to newly released data from the medical examiner’s office in Pima county, Arizona, the remains of 19 migrants, including…
 
-Link: https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty
+Link: https://www.theguardian.com/us-news/2026/aug/21/migrant-deaths-arizona
 
-### 7. Meta lawsuit raises questions about social media's impact on young people [9/10]
-**Source:** NPR Tech  
+### 3. As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings [10/10]
+**Source:** Ars Technica  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
 
-A multistate lawsuit against Meta is putting a growing question in the spotlight: How does social media affect young people, and can its use become addictive?
+Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.
 
-Link: https://www.npr.org/2026/08/21/nx-s1-5938815/meta-lawsuit-raises-questions-about-social-medias-impact-on-young-people
+Link: https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/
 
-### 8. What is Responsible AI and What Does That Look Like in the Classroom? [9/10]
-**Source:** CSTA  
+### 4. What does Tyson’s shutdown of two US beef plants mean for grocery costs? [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Meat producer closes facilities in Utah and Iowa as beef prices rise for consumers amid historic cattle shortage Tyson Foods, the largest meatpacking company in the US, announced last week that it is closing two of its facilities in Iowa…
+
+Link: https://www.theguardian.com/business/2026/aug/21/tyson-foods-close-facilities-beef-prices-cattle-shortage
+
+### 5. He has a work permit, a coffee shop – and an ICE ankle monitor: ‘Is this America?’ [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Business owner Assim Alkhawaja was arrested by ICE as he dropped off Lyft passengers at a military base.
+
+Link: https://www.theguardian.com/us-news/2026/aug/21/san-diego-california-ice-arrest
+
+### 6. Opinion: When Parents Stop Expecting More: The Missing Variable in Academic Decline [10/10]
+**Source:** The 74  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-AI has rapidly become one of the most important technologies of our time. It has changed the way we live...
+American education has spent decades searching for explanations for declining achievement. Poverty, inequality, school funding, curriculum, technology, teacher quality and the effects of the pandemic all matter.
 
-Link: https://csteachers.org/what-is-responsible-ai-and-what-does-that-look-like-in-the-classroom/
+Link: https://www.the74million.org/article/when-parents-stop-expecting-more-the-missing-variable-in-academic-decline/
 
-### 9. Student Journalists: AI Is Changing Our Work — And Not For the Better [9/10]
-**Source:** The 74  
-**Category:** CS education / AI policy  
-**Why it matters:** Directly relevant to teaching, student agency, and school policy.
-
-In the nearly four years since generative artificial intelligence began colonizing the academic lives of teens, it has changed the experience of school for millions of young people.
-
-Link: https://www.the74million.org/article/student-journalists-ai-is-changing-our-work-and-not-for-the-better/
-
-### 10. Mortal Shell 2's first balance patch makes its in-game economy a lot more lenient and nerfs some enemies and bosses for a smoother ride [8/10]
+### 7. “We’re going to take things slow": South of Midnight devs now own the rights to all their games again, after quitting Xbox, and are working on a new game [10/10]
 **Source:** Rock Paper Shotgun  
 **Category:** Games / criticism  
 **Why it matters:** Worth your time if you care about design, criticism, and not just hype.
 
-Heavy is the burden of being a game developer, as even as a game launches, there is always still work to be done. Mortal Shell 2 is out today, and while it generally seems to be doing quite well for itself, a game of its ilk, i.e.
+We Happy Few and South of Midnight developers Compulsion Games have announced that they are fully broken up with Microsoft and Xbox, after completing a management buyout.
 
-Link: https://www.rockpapershotgun.com/mortal-shell-2s-first-balance-patch-makes-its-in-game-economy-a-lot-more-lenient-and-nerfs-some-enemies-and-bosses-for-a-smoother-ride
+Link: https://www.rockpapershotgun.com/were-going-to-take-things-slow-south-of-midnight-devs-now-own-the-rights-to-all-their-games-again-after-quitting-xbox-and-are-working-on-a-new-game
 
-### 11. Record cyclosporiasis outbreak tests the response of a 'weakened' health system [8/10]
+### 8. I worked at OpenAI. Here are the guardrails we need now | Miles Brundage [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+I understand the pressure on AI companies to rush forward.
+
+Link: https://www.theguardian.com/commentisfree/2026/aug/21/openai-frontier-ai-speed
+
+### 9. When AI designs a drug, who gets the credit? [10/10]
+**Source:** MIT Technology Review  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform.
+
+Link: https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/
+
+### 10. I asked 13 college grads for dorm essentials that stood the test of time [9/10]
+**Source:** The Guardian US  
+**Category:** Democracy / anti-fascism  
+**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
+
+I asked 13 people about the things they have carried from college into adulthood –and found their modern day equivalents 21 things tweens want for back-to-school season, according to tweens Sign up for the Filter US newsletter, your weekly…
+
+Link: https://www.theguardian.com/thefilter-us/2026/aug/21/best-dorm-room-essentials-college
+
+### 11. As USS Lincoln heads home, mental health experts tally the stressors of life at sea [8/10]
 **Source:** NPR Health  
 **Category:** Science / health  
 **Why it matters:** Relevant to your current interest graph.
 
-From state and local food-safety response to the federal health agencies that fund that work, a record-breaking year for cyclosporiasis cases runs up against the Trump administration's cuts last year.
+The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental health challenges of prolonged confinement and isolation aboard an aircraft carrier.
 
-Link: https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora
+Link: https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea
 
 ### 12. 'Darth Vader' Wants Flock in San Diego [8/10]
 **Source:** 404 Media  
@@ -170,9 +170,9 @@ Professor David Nutt joins WIRED to answer the internet’s burning questions ab
 
 Link: https://www.youtube.com/watch?v=GogFG5ci2KI
 
-### South Korea military drills / Pivot to Asia? / USS Lincoln [9/10]
+### South Korea military drills / Pivot to Asia? / USS Lincoln | Sources & Methods [8/10]
 **Creator:** NPR  
-**Verdict:** Watch it  
+**Verdict:** Worth watching  
 **Why it matters:** Relevant to your current interest graph.
 
 This week, President Trump ordered that annual military drills between the U.S. and South Korea be scaled back. He also said he’d like to meet with North Korea’s Kim Jong Un. As Trump closes one door with a key U.S.
@@ -278,6 +278,15 @@ Link: https://www.youtube.com/watch?v=BFrDlrXugf0
 
 Link: https://www.youtube.com/watch?v=8_rTTKeqwhY
 
+### Crafting Exciting Adventures w/ Tiger Wizard from Exalted Funeral | RPG Help Desk [7/10]
+**Creator:** Second Wind  
+**Verdict:** Probably worth watching  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.
+
+Link: https://www.youtube.com/watch?v=a4P-eCMYw_A
+
 ### We Finally Know What The Duskbloods Is | Firelink Podcast [9/10]
 **Creator:** Second Wind  
 **Verdict:** Watch it  
@@ -286,15 +295,6 @@ Link: https://www.youtube.com/watch?v=8_rTTKeqwhY
 This video is brought to you by Drova - Forsaken Kin, a pixel art action-RPG inspired by the grim dark classics of the genre and the mystical allure of Celtic mythology. – https://store.steampowered.
 
 Link: https://www.youtube.com/watch?v=CRIqdv942yg
-
-### Crafting Exciting Adventures w/ Tiger Wizard from Exalted Funeral | RPG Help Desk [6/10]
-**Creator:** Second Wind  
-**Verdict:** Summary is enough  
-**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
-
-This video is brought to you by Full Circle, a JRPG inspired by the classics of the PS1 era, set in a world where humanity fled to the skies in an attempt to outrun their destiny. – https://store.steampowered.
-
-Link: https://www.youtube.com/watch?v=a4P-eCMYw_A
 
 ### Dark Souls 1 Randomizer: It's Dark Souls, But Different w/ Jack and Jess -- Part 3 [8/10]
 **Creator:** Second Wind  
@@ -532,7 +532,7 @@ From the studio that brought you Devil May Cry, Brian Tyree Henry is Bass X Mach
 
 Link: https://www.youtube.com/watch?v=CWbZBIrEfqI
 
-### LEGO ONE PIECE | Official Trailer | Netflix [10/10]
+### LEGO ONE PIECE | Official Trailer | Netflix [9/10]
 **Source:** Netflix  
 **Verdict:** Looks promising  
 **Why it matters:** Relevant to your current interest graph.
