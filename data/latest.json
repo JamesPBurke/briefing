@@ -1,28 +1,68 @@
 {
   "status": "ok",
-  "generatedAt": "2026-08-20T18:00:31.414909Z",
-  "generatedAtDisplay": "2026-08-20 02:00 PM EDT",
+  "generatedAt": "2026-08-21T05:00:02.519953Z",
+  "generatedAtDisplay": "2026-08-21 01:00 AM EDT",
   "generatedAtTimeZone": "America/New_York",
   "coverageWindow": "Last 24 hours",
-  "summary": "Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, AI / privacy. The strongest items in this run are Harry and Meghan’s security funding on UK return is private matter, Burnham says, White House faces scrutiny over top Trump aide Natalie Harp – live, and Framework says it’s addressing a BIOS update that bricked some of its older laptops.",
+  "summary": "Today's sweep leans toward AI / computing, Democracy / anti-fascism, AI / privacy. The strongest items in this run are Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’, Google Discover is getting an AI chatbot-tuned feed, and It’s Greg Brockman’s OpenAI now.",
   "mainItems": [
     {
-      "title": "Harry and Meghan’s security funding on UK return is private matter, Burnham says",
+      "title": "Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’",
       "source": "The Guardian US",
       "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/20/harry-and-meghan-security-funding-on-uk-return-is-private-matter-burnham-says",
-      "published": "2026-08-20T17:38:25+00:00",
-      "summary": "Prime minister wishes couple well in their move back from the US to a non-royal residence outside London Harry and Meghan: key moments and controversies since US move Security arrangements for the Duke and Duchess of Sussex while living in…",
+      "url": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
+      "published": "2026-08-21T03:28:02+00:00",
+      "summary": "Lee Cheuk-yan and Chow Hang-tung - leaders of the Hong Kong Alliance – were tried under under a 2020 national security law Two Hong Kong activists who organised annual vigils marking China’s deadly Tiananmen crackdown in 1989 were found…",
       "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
       "score": 10
     },
     {
-      "title": "White House faces scrutiny over top Trump aide Natalie Harp – live",
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "published": "2026-08-20T21:50:22+00:00",
+      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "It’s Greg Brockman’s OpenAI now",
+      "source": "The Verge",
+      "category": "AI / privacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "published": "2026-08-20T20:16:13+00:00",
+      "summary": "OpenAI has had a hell of a year.",
+      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
+      "score": 10
+    },
+    {
+      "title": "What is Responsible AI and What Does That Look Like in the Classroom?",
+      "source": "CSTA",
+      "category": "Education / pedagogy",
+      "url": "https://csteachers.org/what-is-responsible-ai-and-what-does-that-look-like-in-the-classroom/",
+      "published": "2026-08-20T20:08:00+00:00",
+      "summary": "AI has rapidly become one of the most important technologies of our time. It has changed the way we live...",
+      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
+      "score": 10
+    },
+    {
+      "title": "Riot is ending development on its League of Legends fighting game",
+      "source": "The Verge",
+      "category": "AI / computing",
+      "url": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
+      "published": "2026-08-20T19:59:09+00:00",
+      "summary": "Riot Games is already winding down work on 2XKO, the free-to-play League of Legends fighting game, less than a year after its initial launch.",
+      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
+      "score": 10
+    },
+    {
+      "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
       "source": "The Guardian US",
       "category": "Democracy / press freedom",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
-      "published": "2026-08-20T17:34:16+00:00",
-      "summary": "Harp, a former One America News Network show host, has emerged as a key gatekeeper to the president Sign up for the US Breaking News email An FBI team seized electronic devices from former US representative Eric Swalwell at the San…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
+      "published": "2026-08-20T19:57:59+00:00",
+      "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west African…",
       "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
       "score": 10
     },
@@ -37,66 +77,6 @@
       "score": 10
     },
     {
-      "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
-      "source": "NPR Health",
-      "category": "Democracy / press freedom",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
-      "published": "2026-08-20T16:49:11+00:00",
-      "summary": "Dr. Heidi Overton is currently working as a White House policy aide. If confirmed, she would lead an agency of 18,000 staffers who study and regulate food, drugs, medical devices, tobacco and more.",
-      "whyItMatters": "Relevant to state power, civil liberties, and anti-authoritarian concerns.",
-      "score": 10
-    },
-    {
-      "title": "NYC Mayor Sues City Council Over Law Giving $10,000 Bonuses to Paraprofessionals",
-      "source": "The 74",
-      "category": "AI / privacy",
-      "url": "https://www.the74million.org/article/nyc-mayor-sues-city-council-over-law-giving-10000-bonuses-to-paraprofessionals/",
-      "published": "2026-08-20T16:22:11+00:00",
-      "summary": "Mayor Zohran Mamdani sued the New York City Council on Wednesday, hours after a bill giving classroom paraprofessionals $10,000 in bonus pay became law.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "It’s Greg Brockman’s OpenAI now",
-      "source": "The Verge",
-      "category": "AI / privacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "published": "2026-08-20T15:54:52+00:00",
-      "summary": "OpenAI has had a hell of a year.",
-      "whyItMatters": "Touches trust, surveillance, and the private use of AI systems.",
-      "score": 10
-    },
-    {
-      "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-      "source": "The Guardian US",
-      "category": "Democracy / anti-fascism",
-      "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
-      "published": "2026-08-20T15:42:39+00:00",
-      "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown The United States sent 20 deportees to Liberia, who arrived on Thursday as part of 1,200 migrants that the African country will…",
-      "whyItMatters": "Worth watching for authoritarian drift, selective enforcement, and democratic norms.",
-      "score": 10
-    },
-    {
-      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "source": "Ars Technica",
-      "category": "AI / computing",
-      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-      "published": "2026-08-20T13:00:35+00:00",
-      "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
-      "whyItMatters": "Relevant to the shape of current AI systems and where the tooling is moving.",
-      "score": 10
-    },
-    {
-      "title": "Opinion: Dismantling the Dyslexia Industrial Complex",
-      "source": "The 74",
-      "category": "Education / pedagogy",
-      "url": "https://www.the74million.org/article/dismantling-the-dyslexia-industrial-complex/",
-      "published": "2026-08-20T12:30:00+00:00",
-      "summary": "The rapid rise of dyslexia in public discourse reflects a long-overdue shift in education. For decades, students with persistent reading difficulties were misunderstood, mislabeled or overlooked entirely.",
-      "whyItMatters": "Directly relevant to teaching, classroom practice, and educational judgment.",
-      "score": 10
-    },
-    {
       "title": "Student Journalists: AI Is Changing Our Work — And Not For the Better",
       "source": "The 74",
       "category": "CS education / AI policy",
@@ -104,7 +84,7 @@
       "published": "2026-08-20T10:30:00+00:00",
       "summary": "In the nearly four years since generative artificial intelligence began colonizing the academic lives of teens, it has changed the experience of school for millions of young people.",
       "whyItMatters": "Directly relevant to teaching, student agency, and school policy.",
-      "score": 10
+      "score": 9
     },
     {
       "title": "Open AI launches ChatGPT designed for younger users",
@@ -117,6 +97,26 @@
       "score": 9
     },
     {
+      "title": "Mortal Shell 2's first balance patch makes its in-game economy a lot more lenient and nerfs some enemies and bosses for a smoother ride",
+      "source": "Rock Paper Shotgun",
+      "category": "Games / criticism",
+      "url": "https://www.rockpapershotgun.com/mortal-shell-2s-first-balance-patch-makes-its-in-game-economy-a-lot-more-lenient-and-nerfs-some-enemies-and-bosses-for-a-smoother-ride",
+      "published": "2026-08-20T21:53:50+00:00",
+      "summary": "Heavy is the burden of being a game developer, as even as a game launches, there is always still work to be done. Mortal Shell 2 is out today, and while it generally seems to be doing quite well for itself, a game of its ilk, i.e.",
+      "whyItMatters": "Worth your time if you care about design, criticism, and not just hype.",
+      "score": 8
+    },
+    {
+      "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
+      "source": "NPR Health",
+      "category": "Science / health",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
+      "published": "2026-08-20T19:54:19+00:00",
+      "summary": "From state and local food-safety response to the federal health agencies that fund that work, a record-breaking year for cyclosporiasis cases runs up against the Trump administration's cuts last year.",
+      "whyItMatters": "Relevant to your current interest graph.",
+      "score": 8
+    },
+    {
       "title": "'Darth Vader' Wants Flock in San Diego",
       "source": "404 Media",
       "category": "Tech / media",
@@ -127,14 +127,14 @@
       "score": 8
     },
     {
-      "title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
-      "source": "NPR Health",
-      "category": "Science / health",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
-      "published": "2026-08-19T19:45:11+00:00",
-      "summary": "Dr. David Morens, a former aide to Dr. Anthony Fauci, has pleaded guilty to violating federal law by trying to conceal emails about the origins of the COVID-19 pandemic.",
-      "whyItMatters": "Relevant to your current interest graph.",
-      "score": 8
+      "title": "Why The Vast of Night Mysteriously Disappeared From Streaming",
+      "source": "Reactor",
+      "category": "Sci-fi / horror",
+      "url": "https://reactormag.com/the-vast-of-night-streaming/",
+      "published": "2026-08-20T15:53:17+00:00",
+      "summary": "The Amazon Studios sci-fi film mysteriously disappeared from Prime Video. Here's why The post Why The Vast of Night Mysteriously Disappeared From Streaming appeared first on Reactor .",
+      "whyItMatters": "On-theme for your cultural interests, especially when the concept is strong.",
+      "score": 7
     }
   ],
   "youtube": [],
@@ -252,6 +252,6 @@
     "mainCount": 13,
     "youtubeCount": 0,
     "trailerCount": 0,
-    "sourceCount": 7
+    "sourceCount": 9
   }
 }

@@ -1,8 +1,8 @@
 # James Daily Briefing
 
-Generated: 2026-08-20T18:00:31.414909Z
+Generated: 2026-08-21T05:00:02.519953Z
 
-Today's sweep leans toward Democracy / anti-fascism, Democracy / press freedom, AI / privacy. The strongest items in this run are Harry and Meghan’s security funding on UK return is private matter, Burnham says, White House faces scrutiny over top Trump aide Natalie Harp – live, and Framework says it’s addressing a BIOS update that bricked some of its older laptops.
+Today's sweep leans toward AI / computing, Democracy / anti-fascism, AI / privacy. The strongest items in this run are Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’, Google Discover is getting an AI chatbot-tuned feed, and It’s Greg Brockman’s OpenAI now.
 
 ## Briefing
 
@@ -33,52 +33,25 @@ Pinned from today's briefing at James's request.
 
 Link: https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/
 
-### 1. Harry and Meghan’s security funding on UK return is private matter, Burnham says [10/10]
+### 1. Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’ [10/10]
 **Source:** The Guardian US  
 **Category:** Democracy / anti-fascism  
 **Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
 
-Prime minister wishes couple well in their move back from the US to a non-royal residence outside London Harry and Meghan: key moments and controversies since US move Security arrangements for the Duke and Duchess of Sussex while living in…
+Lee Cheuk-yan and Chow Hang-tung - leaders of the Hong Kong Alliance – were tried under under a 2020 national security law Two Hong Kong activists who organised annual vigils marking China’s deadly Tiananmen crackdown in 1989 were found…
 
-Link: https://www.theguardian.com/uk-news/2026/aug/20/harry-and-meghan-security-funding-on-uk-return-is-private-matter-burnham-says
+Link: https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung
 
-### 2. White House faces scrutiny over top Trump aide Natalie Harp – live [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Harp, a former One America News Network show host, has emerged as a key gatekeeper to the president Sign up for the US Breaking News email An FBI team seized electronic devices from former US representative Eric Swalwell at the San…
-
-Link: https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates
-
-### 3. Framework says it’s addressing a BIOS update that bricked some of its older laptops [10/10]
+### 2. Google Discover is getting an AI chatbot-tuned feed [10/10]
 **Source:** The Verge  
-**Category:** Linux / anti-obsolescence  
-**Why it matters:** Relevant to humane computing, open-source practice, and repairability.
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
 
-Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3.
+Google will soon allow you to customize your Discover feed by describing what you want to see.
 
-Link: https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty
+Link: https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed
 
-### 4. What to know about Dr. Heidi Overton, Trump's pick to lead the FDA [10/10]
-**Source:** NPR Health  
-**Category:** Democracy / press freedom  
-**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
-
-Dr. Heidi Overton is currently working as a White House policy aide. If confirmed, she would lead an agency of 18,000 staffers who study and regulate food, drugs, medical devices, tobacco and more.
-
-Link: https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination
-
-### 5. NYC Mayor Sues City Council Over Law Giving $10,000 Bonuses to Paraprofessionals [10/10]
-**Source:** The 74  
-**Category:** AI / privacy  
-**Why it matters:** Touches trust, surveillance, and the private use of AI systems.
-
-Mayor Zohran Mamdani sued the New York City Council on Wednesday, hours after a bill giving classroom paraprofessionals $10,000 in bonus pay became law.
-
-Link: https://www.the74million.org/article/nyc-mayor-sues-city-council-over-law-giving-10000-bonuses-to-paraprofessionals/
-
-### 6. It’s Greg Brockman’s OpenAI now [10/10]
+### 3. It’s Greg Brockman’s OpenAI now [10/10]
 **Source:** The Verge  
 **Category:** AI / privacy  
 **Why it matters:** Touches trust, surveillance, and the private use of AI systems.
@@ -87,34 +60,43 @@ OpenAI has had a hell of a year.
 
 Link: https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion
 
-### 7. US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal [10/10]
-**Source:** The Guardian US  
-**Category:** Democracy / anti-fascism  
-**Why it matters:** Worth watching for authoritarian drift, selective enforcement, and democratic norms.
-
-Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown The United States sent 20 deportees to Liberia, who arrived on Thursday as part of 1,200 migrants that the African country will…
-
-Link: https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement
-
-### 8. Grok exfiltrates user data when malicious instructions are encrypted [10/10]
-**Source:** Ars Technica  
-**Category:** AI / computing  
-**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
-
-Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.
-
-Link: https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/
-
-### 9. Opinion: Dismantling the Dyslexia Industrial Complex [10/10]
-**Source:** The 74  
+### 4. What is Responsible AI and What Does That Look Like in the Classroom? [10/10]
+**Source:** CSTA  
 **Category:** Education / pedagogy  
 **Why it matters:** Directly relevant to teaching, classroom practice, and educational judgment.
 
-The rapid rise of dyslexia in public discourse reflects a long-overdue shift in education. For decades, students with persistent reading difficulties were misunderstood, mislabeled or overlooked entirely.
+AI has rapidly become one of the most important technologies of our time. It has changed the way we live...
 
-Link: https://www.the74million.org/article/dismantling-the-dyslexia-industrial-complex/
+Link: https://csteachers.org/what-is-responsible-ai-and-what-does-that-look-like-in-the-classroom/
 
-### 10. Student Journalists: AI Is Changing Our Work — And Not For the Better [10/10]
+### 5. Riot is ending development on its League of Legends fighting game [10/10]
+**Source:** The Verge  
+**Category:** AI / computing  
+**Why it matters:** Relevant to the shape of current AI systems and where the tooling is moving.
+
+Riot Games is already winding down work on 2XKO, the free-to-play League of Legends fighting game, less than a year after its initial launch.
+
+Link: https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development
+
+### 6. US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal [10/10]
+**Source:** The Guardian US  
+**Category:** Democracy / press freedom  
+**Why it matters:** Relevant to state power, civil liberties, and anti-authoritarian concerns.
+
+Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west African…
+
+Link: https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement
+
+### 7. Framework says it’s addressing a BIOS update that bricked some of its older laptops [10/10]
+**Source:** The Verge  
+**Category:** Linux / anti-obsolescence  
+**Why it matters:** Relevant to humane computing, open-source practice, and repairability.
+
+Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3.
+
+Link: https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty
+
+### 8. Student Journalists: AI Is Changing Our Work — And Not For the Better [9/10]
 **Source:** The 74  
 **Category:** CS education / AI policy  
 **Why it matters:** Directly relevant to teaching, student agency, and school policy.
@@ -123,7 +105,7 @@ In the nearly four years since generative artificial intelligence began colonizi
 
 Link: https://www.the74million.org/article/student-journalists-ai-is-changing-our-work-and-not-for-the-better/
 
-### 11. Open AI launches ChatGPT designed for younger users [9/10]
+### 9. Open AI launches ChatGPT designed for younger users [9/10]
 **Source:** NPR Tech  
 **Category:** Science / computing  
 **Why it matters:** Interesting where engineering, science, and tech infrastructure collide.
@@ -131,6 +113,24 @@ Link: https://www.the74million.org/article/student-journalists-ai-is-changing-ou
 NPR's Sacha Pfeiffer talks with CNBC's Ashley Capoot about OpenAI's ChatGPT for Teens feature and the safety concerns it's designed to address.
 
 Link: https://www.npr.org/2026/08/20/nx-s1-5937930/open-ai-launches-chatgpt-designed-for-younger-users
+
+### 10. Mortal Shell 2's first balance patch makes its in-game economy a lot more lenient and nerfs some enemies and bosses for a smoother ride [8/10]
+**Source:** Rock Paper Shotgun  
+**Category:** Games / criticism  
+**Why it matters:** Worth your time if you care about design, criticism, and not just hype.
+
+Heavy is the burden of being a game developer, as even as a game launches, there is always still work to be done. Mortal Shell 2 is out today, and while it generally seems to be doing quite well for itself, a game of its ilk, i.e.
+
+Link: https://www.rockpapershotgun.com/mortal-shell-2s-first-balance-patch-makes-its-in-game-economy-a-lot-more-lenient-and-nerfs-some-enemies-and-bosses-for-a-smoother-ride
+
+### 11. Record cyclosporiasis outbreak tests the response of a 'weakened' health system [8/10]
+**Source:** NPR Health  
+**Category:** Science / health  
+**Why it matters:** Relevant to your current interest graph.
+
+From state and local food-safety response to the federal health agencies that fund that work, a record-breaking year for cyclosporiasis cases runs up against the Trump administration's cuts last year.
+
+Link: https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora
 
 ### 12. 'Darth Vader' Wants Flock in San Diego [8/10]
 **Source:** 404 Media  
@@ -141,11 +141,46 @@ Link: https://www.npr.org/2026/08/20/nx-s1-5937930/open-ai-launches-chatgpt-desi
 
 Link: https://www.404media.co/darth-vader-spoke-in-support-of-flock-at-san-diego-city-council-meeting/
 
-### 13. Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records [8/10]
-**Source:** NPR Health  
-**Category:** Science / health  
-**Why it matters:** Relevant to your current interest graph.
+### 13. Why The Vast of Night Mysteriously Disappeared From Streaming [7/10]
+**Source:** Reactor  
+**Category:** Sci-fi / horror  
+**Why it matters:** On-theme for your cultural interests, especially when the concept is strong.
 
-Dr. David Morens, a former aide to Dr. Anthony Fauci, has pleaded guilty to violating federal law by trying to conceal emails about the origins of the COVID-19 pandemic.
+The Amazon Studios sci-fi film mysteriously disappeared from Prime Video. Here's why The post Why The Vast of Night Mysteriously Disappeared From Streaming appeared first on Reactor .
 
-Link: https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty
+Link: https://reactormag.com/the-vast-of-night-streaming/
+
+## YouTube
+
+_No YouTube picks in this briefing._
+
+## Entertainment Recommendations
+
+### Newer shows that look like a fit
+
+- **Scavengers Reign** — Animated speculative sci-fi with strong worldbuilding and a weirder imagination than most prestige SF.
+- **Sugar** — Noir detective structure with a genre wrinkle and a sensibility that feels adjacent to your crime/strangeness overlap.
+- **The Lazarus Project** — Time-loop espionage, moral pressure, and speculative plotting — very plausible fit.
+- **Bodies** — Time-spanning conspiracy/mystery structure that fits your taste for long-arc puzzle storytelling.
+- **Constellation** — A little more cerebral and mood-heavy, but it scratches the identity / reality-slippage itch.
+- **The Devil’s Hour** — Dark, twisty, and structurally ambitious without feeling like homework.
+
+### Older shows you may have missed
+
+- **Counterpart** — Probably the single cleanest “James show you may have missed”: espionage + parallel-world sci-fi + adult competence.
+- **Patriot** — Dry, strange, melancholy spy storytelling with a very distinct voice.
+- **Utopia** — Paranoid conspiracy energy, formal boldness, and a willingness to get strange and ugly.
+- **Rubicon** — A low-key conspiracy thriller that leans heavily on intelligence work, paranoia, and institutional atmosphere.
+- **Continuum** — A cleaner old-school sci-fi fit if you want procedural momentum wrapped around time-travel politics.
+- **Person of Interest** — Starts procedural and then quietly becomes one of the smartest AI / surveillance shows on television.
+
+### Maggie + James overlap
+
+- **Bad Sisters** — Darkly funny, well-observed, and ensemble-driven in a way that plausibly overlaps with Hacks / Derry Girls / Mare of Easttown energy.
+- **Detectorists** — Gentle, funny, humane, and specific — a softer shared-watch possibility.
+- **Astrid et Raphaëlle** — French procedural with a strong central duo and exactly the kind of foreign-crime appeal Maggie may share with you.
+- **Somebody Somewhere** — A warmer character-driven recommendation if the shared overlap leans more Bear / Good Place than pure detective work.
+
+## Trailers / Previews
+
+_No trailer picks in this briefing._
